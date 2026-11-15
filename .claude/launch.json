@@ -1,6 +1,28 @@
 {
   "version": "0.0.1",
   "configurations": [
-    { "name": "kelime-atlasi-dev", "runtimeExecutable": "npx", "runtimeArgs": ["vite", "--port", "5188", "--strictPort"], "port": 5188 }
+    {
+      "name": "kelime-atlasi-dev",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "vite",
+        "--port",
+        "5188",
+        "--strictPort"
+      ],
+      "port": 5188
+    },
+    {
+      "name": "static-root",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5300",
+        "--bind",
+        "127.0.0.1"
+      ],
+      "port": 5300
+    }
   ]
 }
