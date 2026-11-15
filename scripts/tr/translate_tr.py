@@ -84,7 +84,8 @@ def call_claude(key, model, effort, batch):
         raise ValueError(f"stop_reason {reason}")
     text = "".join(b.get("text", "") for b in data["content"] if b.get("type") == "text")
     text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
-    entries = json.loads(text)["entries"]
+    parsed = json.loads(text)
+    entries = parsed["entries"] if isinstance(parsed, dict) else parsed  # tolerate a bare list
     usage = data.get("usage") or {}
     with USAGE_LOCK:  # only counted for successful calls
         USAGE["in"] += usage.get("input_tokens", 0)
