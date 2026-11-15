@@ -92,15 +92,27 @@ def call_claude(key, model, effort, batch):
     return entries
 
 
-def check(batch, out):
-    if [o.get("id") for o in out] != [e["id"] for e in batch]:
-        raise ValueError("ids do not match")
-    for e, o in zip(batch, out):
-        if len(o.get("senses", [])) != len(e["senses"]) or len(o.get("ex", [])) != len(e["ex"]) or len(o.get("col", [])) != len(e["col"]):
-            raise ValueError(f'counts do not line up for {e["id"]}')
-        for g in o["senses"]:
-            if not isinstance(g, str) or POS_LABEL.match(g) or len(g) > 60:
-                raise ValueError(f'sense for {e["id"]} is not a short gloss: {str(g)[:70]}')
+def check_one(e, o):
+    """Validate one output entry against its source entry; raise ValueError with a precise reason."""
+    name = e.get("w") or e["id"]
+    if not isinstance(o, dict):
+        raise ValueError(f"{name}: entry is not an object")
+    for key, src in (("senses", e["senses"]), ("ex", e["ex"]), ("col", e["col"])):
+        v = o.get(key)
+        if not isinstance(v, list):
+            raise ValueError(f"{name}: {key} is not a list")
+        if len(v) != len(src):
+            raise ValueError(f"{name}: {key} {len(v)}/{len(src)}")
+        for g in v:
+            if not isinstance(g, str) or not g.strip():
+                raise ValueError(f"{name}: {key} has an empty or non-string item")
+    for g in o["senses"]:
+        if POS_LABEL.match(g) or len(g) > 60:
+            raise ValueError(f"{name}: sense is not a short gloss: {g[:70]}")
+    if not isinstance(o.get("tip"), str):
+        raise ValueError(f"{name}: tip is not a string")
+    if not isinstance(o.get("note", ""), str):
+        raise ValueError(f"{name}: note is not a string")
 
 
 def dest_for(start, batch):
@@ -108,23 +120,66 @@ def dest_for(start, batch):
     return TR / f"auto-{start:05d}-{h}.json"
 
 
+MAX_ATTEMPTS = 6
+EFFORT_RANK = {"low": 0, "medium": 1, "high": 2}
+
+
 def run(key, model, effort, start, batch):
     dest = dest_for(start, batch)
     if dest.exists():
         return start, "cached"
-    for attempt in range(5):
-        try:
-            out = call_claude(key, model, effort, batch)
-            check(batch, out)
-            dest.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-            return start, "ok"
-        except (urllib.error.URLError, ValueError, KeyError, json.JSONDecodeError, TimeoutError, ConnectionError) as err:
-            # 400/401/403/404 are our fault: stop. 429, 529 and 5xx fall through to the retry.
-            if isinstance(err, urllib.error.HTTPError) and err.code in (400, 401, 403, 404):
-                raise SystemExit(f"API error {err.code}: {err.read().decode()[:300]}")
-            wait = 10 * (attempt + 1)
-            print(f"  batch {start}: {err} — retrying in {wait}s", file=sys.stderr)
-            time.sleep(wait)
+    single_effort = effort if EFFORT_RANK.get(effort, 0) >= EFFORT_RANK["medium"] else "medium"
+    pending = list(batch)
+    good = {}
+    retries = 0
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        per_entry = attempt >= 3
+        groups = [[e] for e in pending] if per_entry else [pending]
+        reasons = {}   # id -> reason, for entries that did not pass this attempt
+        call_wait = 0  # >0 if a whole call failed (network etc.)
+        for g in groups:
+            try:
+                out = call_claude(key, model, single_effort if per_entry else effort, g)
+            except (urllib.error.URLError, ValueError, KeyError, TypeError, json.JSONDecodeError, TimeoutError, ConnectionError) as err:
+                # 400/401/403/404 are our fault: stop. 429, 529 and 5xx fall through to the retry.
+                if isinstance(err, urllib.error.HTTPError) and err.code in (400, 401, 403, 404):
+                    raise SystemExit(f"API error {err.code}: {err.read().decode()[:300]}")
+                call_wait = max(call_wait, 10 * attempt)
+                for e in g:
+                    reasons[e["id"]] = f"{e.get('w') or e['id']}: call failed ({str(err)[:80]})"
+                continue
+            by_id = {}
+            for o in out if isinstance(out, list) else []:
+                if isinstance(o, dict) and "id" in o:
+                    by_id.setdefault(o["id"], o)
+            for e in g:
+                o = by_id.get(e["id"])
+                try:
+                    if o is None:
+                        raise ValueError(f"{e.get('w') or e['id']}: missing from output")
+                    check_one(e, o)
+                except ValueError as err:
+                    reasons[e["id"]] = str(err)
+                    continue
+                o.setdefault("note", "")
+                good[e["id"]] = o
+        pending = [e for e in pending if e["id"] not in good]
+        if not pending:
+            break
+        if attempt == MAX_ATTEMPTS:
+            break
+        retries += 1
+        print(f"  batch {start}: retry {retries} for {len(pending)} word(s): "
+              + "; ".join(reasons.get(e["id"], "unknown") for e in pending), file=sys.stderr, flush=True)
+        wait = call_wait or 3
+        time.sleep(wait)
+    if not pending:
+        dest.write_text(json.dumps([good[e["id"]] for e in batch], ensure_ascii=False, indent=1), encoding="utf-8")
+        return start, "ok" if not retries else f"ok after {retries} retries"
+    if good:
+        ok = [e for e in batch if e["id"] in good]
+        dest_for(start, ok).write_text(json.dumps([good[e["id"]] for e in ok], ensure_ascii=False, indent=1), encoding="utf-8")
+        return start, f"partial: {len(good)}/{len(batch)}, failed: " + ", ".join(e["id"] for e in pending)
     return start, "failed"
 
 
@@ -180,7 +235,7 @@ def main():
     elif a.sample:
         todo = pick_sample(todo, a.sample)
     batches = [todo[n : n + a.batch] for n in range(0, len(todo), a.batch)]
-    print(f"{len(done)} already translated, {len(todo)} to go in {len(batches)} batches with {a.model} (effort {a.effort})")
+    print(f"{len(done)} already translated, {len(todo)} to go in {len(batches)} batches with {a.model} (effort {a.effort})", flush=True)
 
     if a.dry_run:
         per = {c: sum(1 for _, e in todo if e["cefr"] == c) for c in CEFR}
@@ -197,11 +252,11 @@ def main():
         futs = [ex.submit(run, key, a.model, a.effort, b[0][0], [e for _, e in b]) for b in batches]
         for k, f in enumerate(cf.as_completed(futs), 1):
             start, status = f.result()
-            failed += status == "failed"
-            print(f"[{k}/{len(batches)}] batch starting at {start}: {status}")
+            failed += status == "failed" or status.startswith("partial")
+            print(f"[{k}/{len(batches)}] batch starting at {start}: {status}", flush=True)
     cost = USAGE["in"] / 1e6 * PRICE_IN + USAGE["out"] / 1e6 * PRICE_OUT
-    print(f"tokens: {USAGE['in']} input, {USAGE['out']} output; ~${cost:.4f} (estimate at Haiku 5.5 prices)")
-    print("done" if not failed else f"{failed} batches failed — run again to retry them")
+    print(f"tokens: {USAGE['in']} input, {USAGE['out']} output; ~${cost:.4f} (estimate at Haiku 5.5 prices)", flush=True)
+    print("done" if not failed else f"{failed} batches failed — run again to retry them", flush=True)
 
 
 if __name__ == "__main__":
