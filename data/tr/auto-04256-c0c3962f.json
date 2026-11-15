@@ -81,7 +81,7 @@
   "senses": [
    "tezgah; standa",
    "durdurmak; geciktirmek",
-   "stop etmek; motoru durmak"
+   "stop etmek"
   ],
   "ex": [
    "Yol kenarındaki küçük bir tezgahtan taze şeftali aldık.",
@@ -98,7 +98,7 @@
  {
   "id": "breeze",
   "senses": [
-   "esinti; hafif rüzgar",
+   "esinti; hafif rüzgâr",
    "çok kolay iş",
    "kolayca geçmek; rahatça ilerlemek"
   ],
@@ -129,7 +129,7 @@
   "col": [
    "çok minnettar olmak",
    "yardımını takdir etmek",
-   "...in önemini anlamak",
+   "bir şeyin önemini kavramak",
    "sanata değer vermek"
   ],
   "tip": "İsim ya da ing'li isimle kullanılır, to + fiil ile kullanılmaz; yardım için teşekkür: appreciate your help.",
@@ -138,9 +138,9 @@
  {
   "id": "formal",
   "senses": [
-   "resmi; resmî",
+   "resmi; usulüne uygun",
    "resmi; ciddi",
-   "düzenli; sistemli"
+   "örgün; düzenli"
   ],
   "ex": [
    "Törene katılmak için resmi bir davetiyeye ihtiyacın var.",
@@ -158,7 +158,7 @@
  {
   "id": "mitten",
   "senses": [
-   "parmaklı eldiven; kolsuz eldiven"
+   "tek parmaklı eldiven"
   ],
   "ex": [
    "Karlı patikanın kenarına yün bir eldiven düşürdü.",
@@ -176,7 +176,7 @@
   "id": "meditation",
   "senses": [
    "meditasyon; zihin egzersizi",
-   "derin düşünce; tefekkür"
+   "derin düşünce"
   ],
   "ex": [
    "Yatmadan önce on dakika meditasyon yapmak beni rahatlatıyor.",
@@ -204,7 +204,7 @@
   ],
   "col": [
    "bir kat sıva",
-   "alçı alçı",
+   "alçı kalıp",
    "yara bandı",
    "duvarı sıvamak"
   ],
@@ -251,7 +251,7 @@
   "id": "refreshing",
   "senses": [
    "ferahlatıcı; serinletici",
-   "ferahlatıcı; yeni ve hoş"
+   "yeni ve hoş"
   ],
   "ex": [
    "Açık mutfak penceresinden ferahlatıcı bir esinti girdi.",

@@ -45,10 +45,10 @@
   ],
   "ex": [
    "Güneşli günlerde dışarı çıkmadan önce güneş kremi sürün.",
-   "Üniversiteler, dezavantajlı geçmişe sahip öğrencileri harç ve barınma giderlerini karşılayan burslara başvurmaya teşvik etmelidir."
+   "Üniversiteler, dezavantajlı geçmişe sahip öğrencileri öğrenim ücretini ve yaşam giderlerini karşılayan burslara başvurmaya teşvik etmelidir."
   ],
   "col": [
-   "iş için başvurmak",
+   "işe başvurmak",
    "üniversiteye başvurmak",
    "bilgiyi uygulamak",
    "güneş kremi sürmek"
@@ -63,7 +63,7 @@
    "ısırık; lokma"
   ],
   "ex": [
-   "Elmayı ısırdı ve tadına gülümsedi.",
+   "Elmayı ısırdı ve tatlılığına gülümsedi.",
    "Halk sağlığı kampanyaları, tropikal hastalıkların görüldüğü bölgelere seyahat edenlerin sivrisinek ısırıklarını nasıl önleyebileceğini açıklamalıdır."
   ],
   "col": [
@@ -125,7 +125,7 @@
   "col": [
    "büyük miktarda",
    "az miktarda",
-   "nitelik değil nicelik"
+   "nicelikten çok nitelik"
   ],
   "tip": "quantity 'miktar' demektir; quality (nitelik) ile karıştırılmamalıdır. a quantity of hem sayılabilir hem sayılamaz isimlerle kullanılır.",
   "note": ""
@@ -223,7 +223,7 @@
   "senses": [
    "dönel kavşak; göbek",
    "dolambaçlı; dolaylı",
-   "atlıkarınca"
+   "dönen platform"
   ],
   "ex": [
    "Parkın yakınındaki kavşakta ikinci çıkıştan çıkın.",

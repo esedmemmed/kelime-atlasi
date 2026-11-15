@@ -28,7 +28,7 @@
    "Birçok sakin, önerilen havalimanı genişlemesine kuvvetle karşı çıkıyor; çünkü gürültü ve hava kirliliğinin artmasından endişe ediyorlar."
   ],
   "col": [
-   "kesinlikle öneriyorum",
+   "kesinlikle tavsiye etmek",
    "kuvvetle karşı çıkmak",
    "güçlü biçimde inanmak",
    "güçlü biçimde ilişkili olmak"
@@ -226,7 +226,7 @@
  {
   "id": "storey",
   "senses": [
-   "kat; katman"
+   "kat"
   ],
   "ex": [
    "Yeni evlerinin iki katı ve küçük bir bahçesi var.",
@@ -263,7 +263,7 @@
    "işveren; iş veren kurum"
   ],
   "ex": [
-   "İş verenim cuma günleri evden çalışmama izin veriyor.",
+   "İşverenim cuma günleri evden çalışmama izin veriyor.",
    "İşverenler, adil ücretler, esnek çalışma saatleri ve mesleki gelişim fırsatları sunarak personelin şirkette kalmasını sağlayabilir."
   ],
   "col": [
@@ -271,7 +271,7 @@
    "olası bir işveren",
    "mevcut işveren"
   ],
-  "tip": "employer işveren, employee çalışan demektir; bu iki kelimeyi karıştırmamak için employer'ın \"-er\" ile işi yapana değil ödeyene verildiğini aklınızda tutun.",
+  "tip": "employer işverendir, employee çalışandır; ikisi karıştırılır. Maaşı veren employer, alan employee'dir.",
   "note": ""
  }
 ]

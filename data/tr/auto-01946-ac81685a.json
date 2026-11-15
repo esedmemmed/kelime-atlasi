@@ -33,7 +33,7 @@
    "bir kursa kayıt olmak",
    "oy vermek için kayıt olmak",
    "yoklama defteri",
-   "şikâyet kaydetmek"
+   "resmî şikâyette bulunmak"
   ],
   "tip": "Kursa kayıt için register for, bir şeyi yapmak için kayıt için register to do kullanılır.",
   "note": ""
@@ -64,7 +64,7 @@
    "bakımdan; yönden"
   ],
   "ex": [
-   "Öğretmeni sözünü kesmeden dinleyerek saygı gösterdi.",
+   "Meslektaşının sözünü kesmeden dinleyerek saygı gösterdi.",
    "Okullar öğrencileri, her argümanın arkasındaki kanıtları değerlendirirken farklı görüşlere saygı duymaya teşvik etmelidir."
   ],
   "col": [
@@ -168,7 +168,7 @@
    "teslim alınca",
    "vergi gelirleri"
   ],
-  "tip": "Başındaki r'den sonra p harfi okunmaz. Gelir anlamında genelde çoğul receipts kullanılır.",
+  "tip": "receipt'teki p harfi okunmaz (/rɪˈsiːt/). Gelir anlamında genelde çoğul receipts kullanılır.",
   "note": ""
  },
  {
@@ -222,7 +222,7 @@
    "kadranı çevirmek",
    "saat kadranı",
    "bir numara çevirmek",
-   "hat sesi"
+   "çevir sesi"
   ],
   "tip": "Geçmiş zaman İngiliz İngilizcesinde dialled, Amerikan İngilizcesinde dialed olur. Telefon ederken call daha yaygın kullanılır.",
   "note": ""

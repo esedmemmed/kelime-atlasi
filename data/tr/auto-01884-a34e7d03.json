@@ -2,7 +2,7 @@
  {
   "id": "concentrate",
   "senses": [
-   "dikkat etmek; odaklanmak",
+   "odaklanmak; yoğunlaşmak",
    "toplamak; yoğunlaştırmak",
    "konsantre; yoğun özüt"
   ],
@@ -44,7 +44,7 @@
   ],
   "ex": [
    "Kapıyı açmadan önce pencereden dışarı göz attı.",
-   "Yürürken sık sık telefonlarına göz atan yayalar, yakındaki trafiğin farkında olmalarını azaltabilir."
+   "Yolcular yürürken sık sık telefonlarına göz atar; bu da yakındaki trafiğin farkında olmalarını azaltabilir."
   ],
   "col": [
    "göz atmak",
@@ -61,7 +61,7 @@
    "utandırmak; mahcup etmek"
   ],
   "ex": [
-   "Çocukluk fotoğrafımızı paylaşarak beni utandırma, lütfen.",
+   "O çocukluk fotoğrafını paylaşarak beni utandırma, lütfen.",
    "Her hatayı herkesin önünde düzeltmek, dil öğrenenleri utandırabilir ve sınıf tartışmalarına katılmalarını engelleyebilir."
   ],
   "col": [
@@ -155,7 +155,7 @@
    "Profesyonel eğitime erişim, genç çalışanların kariyer basamaklarında daha hızlı ilerlemesine yardımcı olabilir."
   ],
   "col": [
-   "merdiven tırmanmak",
+   "merdivene tırmanmak",
    "kariyer basamakları",
    "konut sahibi olma basamakları"
   ],
@@ -235,7 +235,7 @@
  {
   "id": "giant",
   "senses": [
-   "dev gibi; çok büyük",
+   "dev; kocaman",
    "dev; masal devi",
    "dev şirket; önemli kişi"
   ],
@@ -255,7 +255,7 @@
   "id": "unit",
   "senses": [
    "birim; ölçü birimi",
-   "ünite; bölüm",
+   "ünite; cihaz",
    "birim; ekip; kadro"
   ],
   "ex": [

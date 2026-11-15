@@ -132,7 +132,7 @@
    "övmek; takdir etmek"
   ],
   "ex": [
-   "Kızımızın mezuniyetini kutlamak için özel bir akşam yemeği hazırladık.",
+   "Onun mezuniyetini kutlamak için özel bir akşam yemeği hazırladık.",
    "Topluluk festivalleri yerel gelenekleri kutlarken sakinlere komşularıyla ilişkilerini güçlendirme fırsatı sunar."
   ],
   "col": [
@@ -183,7 +183,7 @@
  {
   "id": "schedule",
   "senses": [
-   "takvim; program",
+   "program; plan",
    "planlamak; ayarlamak"
   ],
   "ex": [
@@ -231,7 +231,7 @@
    "...nın bir bölümü",
    "son bölüm",
    "enine kesit",
-   "ayrı bölüme ayırmak"
+   "bölümlere ayırmak"
   ],
   "tip": "section bağlama göre kitap bölümü, mağaza reyonu veya kesit anlamına gelebilir. Cümlenin konusuna bakarak doğru anlamı seçin.",
   "note": ""
@@ -259,11 +259,11 @@
  {
   "id": "rely",
   "senses": [
-   "dayanmak; bağımlı olmak",
+   "bağlı olmak; dayanmak",
    "güvenmek; bel bağlamak"
   ],
   "ex": [
-   "İşe gitmek için bisikletime bağımlıyım.",
+   "İşe gitmek için bisikletime güveniyorum.",
    "Turizme ağırlıklı olarak bağımlı olan topluluklar, ziyaretçi sayısı aniden düştüğünde ekonomik zorluklarla karşılaşabilir."
   ],
   "col": [
@@ -271,7 +271,7 @@
    "büyük ölçüde...e dayanmak",
    "birinin bir şey yapacağına güvenmek"
   ],
-  "tip": "rely tek başına kullanılmaz; rely on şeklinde yazılmalıdır. Türkçedeki 'güvenmek' kalıbını doğrudan birebir çevirmeyin.",
+  "tip": "rely her zaman on (ya da upon) ile kullanılır: rely on someone (birine güvenmek). 'rely someone' yanlıştır.",
   "note": ""
  }
 ]

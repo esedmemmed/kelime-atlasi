@@ -39,7 +39,7 @@
   "id": "literary",
   "senses": [
    "edebi; edebiyata ait",
-   "edebi; yazınsal"
+   "yazı diline özgü"
   ],
   "ex": [
    "Yerel kütüphanemiz her bahar bir edebiyat festivali düzenliyor.",
@@ -150,7 +150,7 @@
   "id": "demonstrate",
   "senses": [
    "kanıtlamak; göstermek",
-   "göstererek anlatmak; örnek vermek",
+   "uygulayarak göstermek",
    "protesto etmek; gösteri yapmak"
   ],
   "ex": [
@@ -224,14 +224,14 @@
   "id": "sigh",
   "senses": [
    "iç çekmek; derin nefes almak",
-   "iç çekme; derin nefes"
+   "iç çekiş; iç çekme"
   ],
   "ex": [
    "Babam çamurlu zemini görünce iç çekti.",
    "Güvenilir toplu taşıma, günlük yolculuklarındaki stresi azalttığında birçok yolcu rahat bir nefes alır."
   ],
   "col": [
-   "rahatlamış bir nefes",
+   "rahat bir nefes",
    "iç çekmek",
    "derin iç çekmek"
   ],
@@ -241,15 +241,15 @@
  {
   "id": "convinced",
   "senses": [
-   "emin; kanaatinde"
+   "emin; ikna olmuş"
   ],
   "ex": [
    "Anahtarlarımı mutfak masasının üzerinde bıraktığımdan eminim.",
    "Birçok araştırmacı, düzenli fiziksel aktivitenin ruh sağlığının iyileşmesine önemli ölçüde katkı sağladığına inanıyor."
   ],
   "col": [
-   "...olduğuna emin",
-   "...den emin",
+   "...olduğundan emin olmak",
+   "...-den emin olmak",
    "tamamen ikna olmuş",
    "inancını korumak"
   ],

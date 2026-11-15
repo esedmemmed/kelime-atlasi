@@ -4,7 +4,7 @@
   "senses": [
    "doğru; yönünde",
    "karşı; yönelik",
-   "için; katkıda"
+   "için; katkı olarak"
   ],
   "ex": [
    "Köpek yavrusu çamurlu bir topla bana doğru koştu.",
@@ -46,7 +46,7 @@
    "Geleneksel tarım yöntemleri yerel bilgiyi koruyabilir; ancak bazıları iklim değişikliğine uyum sağlamak için uyarlanmaya ihtiyaç duyar."
   ],
   "col": [
-   "geleneksel gelenekler",
+   "geleneksel âdetler",
    "geleneksel el sanatları",
    "geleneksel yöntemler"
   ],
@@ -98,7 +98,7 @@
   ],
   "ex": [
    "Taze elmalarla dolu bir sepeti mutfağa taşıdım.",
-   "Tekrar kullanılabilir alışveriş sepetleri sunmak, müşterileri tek kullanımlık plastik poşetlere bağımlılığı azaltmaya teşvik edebilir."
+   "Tekrar kullanılabilir alışveriş sepetleri sunmak, müşterileri tek kullanımlık plastik poşetlere bağımlılığını azaltmaya teşvik edebilir."
   ],
   "col": [
    "alışveriş sepeti",
@@ -121,7 +121,7 @@
   "col": [
    "bisiklet hırsızı",
    "hırsızı yakalamak",
-   "küçük çapta hırsız"
+   "küçük çaplı hırsız"
   ],
   "tip": "Çoğulu thieves'tir. robber ise genellikle şiddet veya tehditle soygun yapan kişiyi anlatır.",
   "note": ""
@@ -158,7 +158,7 @@
    "tam zamanlı çalışan",
    "çalışan hakları",
    "çalışan eğitimi",
-   "çalışan devri"
+   "çalışan devir oranı"
   ],
   "tip": "employee çalışanı, employer ise işvereni anlatır; bu iki kelime karıştırılmamalıdır.",
   "note": ""
@@ -214,7 +214,7 @@
    "bir tencere çorba",
    "bitki saksısı",
    "bir demlik çay",
-   "saksıda bitkiler"
+   "saksı bitkileri"
   ],
   "tip": "Tencere, saksı ve kap için pot kullanılır; kızartma tavası için ise pan denir.",
   "note": ""
@@ -242,7 +242,7 @@
    "sütçü"
   ],
   "ex": [
-   "Sütçü kapımızın önüne iki cam şişe bırakmış.",
+   "Sütçü kapımızın önüne iki cam şişe bıraktı.",
    "Yerel bir sütçünün düzenli teslimatları, hanehalklarını plastik kaplar yerine cam şişeleri yeniden kullanmaya teşvik edebilir."
   ],
   "col": [
@@ -257,17 +257,17 @@
   "senses": [
    "uçuş; sefer",
    "uçma; uçuş",
-   "merdiven bölümü"
+   "merdiven kolu"
   ],
   "ex": [
    "Uçağımız erken kalkıyor, bu yüzden bu gece valizi hazırlamalıyız.",
-   "Gerçek bir demiryolu alternatifi zaten varsa, kısa iç hat uçuşlarının sayısını azaltmak emisyonları düşürebilir."
+   "Güvenilir demiryolu alternatiflerinin zaten bulunduğu yerlerde kısa iç hat uçuşlarının sayısını azaltmak emisyonları düşürebilir."
   ],
   "col": [
    "uçuş bileti ayırtmak",
-   "direkt uçuş",
+   "aktarmasız uçuş",
    "uçuşta",
-   "bir merdiven sırası"
+   "bir kat merdiven"
   ],
   "tip": "a flight of stairs iki kat ya da platform arasındaki bir merdiven bölümünü anlatır.",
   "note": ""

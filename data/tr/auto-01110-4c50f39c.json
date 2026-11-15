@@ -45,7 +45,7 @@
    "yarışma dalı; branş"
   ],
   "ex": [
-   "Açık hava konseri kasabamızın bu yazki en büyük etkinliğiydi.",
+   "Açık hava konseri, kasabamızın bu yazın en büyük etkinliğiydi.",
    "Büyük bir kültürel etkinliğe ev sahipliği yapmak yerel turizmi canlandırabilir; ancak mali faydalar eşit dağılmayabilir."
   ],
   "col": [
@@ -54,7 +54,7 @@
    "spor etkinliği",
    "... durumunda"
   ],
-  "tip": "'in the event of' kalıbından sonra isim gelir; 'if' gibi tam cümle almaz. Anlamı 'bir durumda, olursa' şeklindedir.",
+  "tip": "'in the event of' kalıbından sonra isim gelir (in the event of rain); 'if' gibi tam cümle almaz. '...olması durumunda' demektir.",
   "note": ""
  },
  {
@@ -88,8 +88,8 @@
    "Araştırmacılar, politika yapıcıların halk sağlığı konusunda bilinçli kararlar verebilmesi için bulgularını açıkça sunmalıdır."
   ],
   "col": [
-   "... da hazır bulunmak",
-   "şu an; şimdilik",
+   "...de hazır bulunmak",
+   "şu anda; şimdilik",
    "kanıt sunmak",
    "doğum günü hediyesi"
   ],
@@ -163,7 +163,7 @@
   "col": [
    "şaşırtıcı sonuçlar",
    "şaşırtıcı sayıda",
-   "hiç şaşırtıcı değil"
+   "pek şaşırtıcı değil"
   ],
   "tip": "'Surprising' bir şeyi tarif eder; 'surprised' ise kişinin hissettiği duyguyu anlatır: 'I was surprised' / 'It was surprising'.",
   "note": ""
@@ -189,7 +189,7 @@
  {
   "id": "soda",
   "senses": [
-   "gazlı içecek; kola",
+   "gazlı içecek; gazoz",
    "soda; maden suyu"
   ],
   "ex": [
@@ -198,7 +198,7 @@
   ],
   "col": [
    "bir kutu gazlı içecek",
-   "sodalı su",
+   "soda",
    "şekerli gazlı içecek"
   ],
   "tip": "Amerikan İngilizcesinde genellikle gazlı içecek anlamına gelir. 'Baking soda' ise sodyum bikarbonattır, içecek değildir.",
@@ -216,9 +216,9 @@
   "col": [
    "başka biri",
    "neredeyse kimse",
-   "hiç kimse"
+   "kim olursa olsun"
   ],
-  "tip": "Olumsuz cümlelerde 'hiç kimse' anlamı verir. Özne olarak kullanıldığında fiil tekil çekimlenir.",
+  "tip": "Özne olduğunda fiil tekil olur (Anybody is welcome). Soru ve olumsuz cümlelerde kullanılır; olumluda 'herkes, kim olsa' anlamı verir.",
   "note": ""
  },
  {
@@ -267,7 +267,7 @@
   ],
   "ex": [
    "Yeğenim yeni bisikletini gururla bana gösterdi.",
-   "Bir yeğen ya da yeğeniyle ilgilenmek, genç yetişkinlerin çocuk yetiştirmenin sorumluluklarını anlamalarına yardımcı olabilir."
+   "Bir erkek ya da kız yeğenle ilgilenmek, genç yetişkinlerin çocuk yetiştirmenin sorumluluklarını anlamalarına yardımcı olabilir."
   ],
   "col": [
    "küçük yeğen",

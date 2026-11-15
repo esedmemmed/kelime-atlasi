@@ -13,7 +13,7 @@
   "col": [
    "birini bir şeyle rahatsız etmek",
    "zahmet edip bir şey yapmak",
-   "zahmete girecek hali olmamak",
+   "uğraşmak istememek",
    "büyük bir zahmet"
   ],
   "tip": "bother to do çoğunlukla olumsuz ve soru cümlelerinde kullanılır (didn't bother to call: aramaya zahmet etmedi). Olumlu cümlede de geçer ama daha seyrektir.",
@@ -28,7 +28,7 @@
   ],
   "ex": [
    "Müze, ünlü bir savaştan kalma zırhları sergiliyor.",
-   "Hava kirliliğiyle mücadele, kentteki hükümetlerin, işletmelerin ve bireylerin birlikte hareket etmesini gerektiriyor."
+   "Hava kirliliğiyle mücadele, kentsel alanlarda hükümetlerin, işletmelerin ve bireylerin birlikte hareket etmesini gerektirir."
   ],
   "col": [
    "bir savaşı kazanmak",
@@ -60,12 +60,12 @@
   "id": "puzzle",
   "senses": [
    "bulmaca; yapboz",
-   "muamma; anlaşılması zor şey",
+   "gizem; bilmece",
    "şaşırtmak; kafasını karıştırmak"
   ],
   "ex": [
    "Yapbozu mutfak masasında birlikte tamamladık.",
-   "Gelir ile kişisel mutluluk arasındaki ilişki, araştırmacıların birkaç farklı açıdan yaklaştığı bir muamma olmayı sürdürüyor."
+   "Gelir ile kişisel mutluluk arasındaki ilişki, araştırmacıların birkaç farklı açıdan yaklaştığı bir gizem olmayı sürdürüyor."
   ],
   "col": [
    "bir bulmacayı çözmek",
@@ -122,7 +122,7 @@
    "Bir toplum korosuna katılmak, yaşlı yetişkinler arasında yalnızlığı azaltabilir ve sosyal bağları güçlendirebilir."
   ],
   "col": [
-   "bir korora katılmak",
+   "koroya katılmak",
    "kilise korosu",
    "koro provası"
   ],
@@ -155,7 +155,7 @@
    "yelken"
   ],
   "ex": [
-   "Güneşli bir öğleden sonra tekneyle gölün karşısına açıldık.",
+   "Güneşli bir öğleden sonra tekneyle gölün karşı kıyısına yelken açtık.",
    "Hassas deniz yaşam alanlarından geçen gemiler, yaban hayatını korumak için sıkı kurallara uymalıdır."
   ],
   "col": [
@@ -244,7 +244,7 @@
   "senses": [
    "genel; yaygın",
    "genel; ana hatlarıyla",
-   "general; orgeneral"
+   "general"
   ],
   "ex": [
    "Mutfağın yeniden boyanması gerektiği konusunda genel bir uzlaşma vardı.",

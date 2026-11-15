@@ -14,7 +14,7 @@
    "yoksulluğla mücadele etmek",
    "eşitlik için mücadele etmek",
    "ayrımcılığa karşı mücadele etmek",
-   "kavgaya tutuşmak"
+   "kavgaya karışmak"
   ],
   "tip": "Düzensiz fiil: fight–fought–fought. 'fight for' (bir şey için mücadele) ile 'fight against' (bir şeye karşı mücadele) kalıplarını ayırt edin.",
   "note": ""
@@ -25,7 +25,7 @@
    "son derece; aşırı"
   ],
   "ex": [
-   "Çorba son derece sıcaktı, bu yüzden beklemek zorunda kaldım.",
+   "Çorba son derece sıcaktı, bu yüzden bekledim.",
    "Güvenilir internete erişim, çevrim içi öğrenmeye bağlı öğrenciler için son derece önemlidir."
   ],
   "col": [
@@ -56,7 +56,7 @@
  {
   "id": "lettuce",
   "senses": [
-   "marul; kıvırcık"
+   "marul"
   ],
   "ex": [
    "Sandviçine koymadan önce marulu iyice yıka.",
@@ -93,7 +93,7 @@
   "id": "success",
   "senses": [
    "başarı",
-   "başarılı olan kişi ya da şey"
+   "başarılı kişi; başarı"
   ],
   "ex": [
    "Yağmura rağmen okul konseri bir başarı oldu.",
@@ -112,8 +112,8 @@
   "id": "jumper",
   "senses": [
    "kazak; süveter",
-   "atlayan kimse; atlet",
-   "askılı elbise"
+   "atlayıcı; atlama sporcusu",
+   "kolsuz elbise"
   ],
   "ex": [
    "Kamp gezisi için sıcak bir kazak koydum.",
@@ -130,7 +130,7 @@
  {
   "id": "period",
   "senses": [
-   "dönem; zaman",
+   "dönem; süre",
    "ders saati; ders",
    "adet; regl"
   ],
@@ -141,7 +141,7 @@
   "col": [
    "bir zaman dilimi",
    "geçiş dönemi",
-   "tarihi dönem",
+   "tarihî dönem",
    "ağır adet dönemi"
   ],
   "tip": "Bir zaman aralığı için 'a period of' kalıbı kullanılır. Amerikan İngilizcesinde 'period' nokta işaretini de anlatır.",
@@ -159,7 +159,7 @@
   ],
   "col": [
    "yatak çarşafı",
-   "bir kâğıt",
+   "bir tabaka kâğıt",
    "bir cam levha",
    "sac levha"
   ],
@@ -196,7 +196,7 @@
   ],
   "col": [
    "uzanmak",
-   "geceleri uyanık yatmak",
+   "uyanık yatmak",
    "birine yalan söylemek",
    "yalan söylemek"
   ],
@@ -225,7 +225,7 @@
   "senses": [
    "hiç; şimdiye kadar",
    "hep; sürekli",
-   "acaba; sahi"
+   "ki; yahu"
   ],
   "ex": [
    "Hiç dağın üstünden gün doğumunu izledin mi?",

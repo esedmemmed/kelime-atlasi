@@ -49,7 +49,7 @@
    "Uygun fiyatlı eğitime erişimi artırmak, kırsal kesimdeki nitelikli işçi açığını gidermeye yardımcı olabilir."
   ],
   "col": [
-   "ev yapımı çare",
+   "evde uygulanan çare",
    "...için çare",
    "bir sorunu gidermek",
    "durumu düzeltmek"
@@ -65,13 +65,13 @@
    "kabul; resmi tanınma"
   ],
   "ex": [
-   "Elimi salladığımda yüzü tanıma ifadesiyle aydınlandı.",
+   "Elimi salladığımda beni tanıyınca yüzü aydınlandı.",
    "Ücretsiz bakım emeğinin daha fazla kabul görmesi, daha adil sosyal politikalara ve ailelere daha güçlü desteğe yol açabilir."
   ],
   "col": [
    "yüz tanıma",
    "takdir görmek",
-   "...hizmetinden dolayı",
+   "...i takdir ederek",
    "resmi tanınma"
   ],
   "tip": "Genellikle sayılamayan bir isimdir. in recognition of ifadesi çoğunlukla bir katkının takdir edilmesi için kullanılır.",
@@ -92,7 +92,7 @@
    "ek destek",
    "ek ücret"
   ],
-  "tip": "Sıfat olarak genellikle isimden önce gelir (additional costs). Cümlenin sonunda kullanılmaz.",
+  "tip": "Genellikle isimden önce gelir (additional costs); yüklem olarak kullanımı çok nadirdir.",
   "note": ""
  },
  {
@@ -252,7 +252,7 @@
   ],
   "col": [
    "pasaportun süresi dolmak",
-   "sözleşmenin sona ermesi",
+   "sözleşmenin süresi dolmak",
    "gece yarısı sona ermek"
   ],
   "tip": "Geçişsiz bir fiildir. 'Sözleşmenin süresi doldu' için the contract expires denir, the contract is expired denmez.",

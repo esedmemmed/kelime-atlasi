@@ -7,7 +7,7 @@
    "deneme; girişim"
   ],
   "ex": [
-   "Son şutu top doğruca fileye gitti.",
+   "Son şutu topu doğruca fileye gönderdi.",
    "Dikkatle seçilmiş bir çekim, çevre tahribatının etkilerini istatistiklerden çok daha güçlü biçimde aktarabilir."
   ],
   "col": [
@@ -27,8 +27,8 @@
    "alt sınıf öğrencisi; genç"
   ],
   "ex": [
-   "Genç aşçımız, restoran açılmadan önce sebzeleri hazırlıyor.",
-   "Şirketler, genç çalışanlara yapılandırılmış eğitim ve deneyimli meslektaşlarından öğrenme fırsatları sunmalıdır."
+   "Yardımcı aşçımız, restoran açılmadan önce sebzeleri hazırlıyor.",
+   "Şirketler, kıdemsiz çalışanlara yapılandırılmış eğitim ve deneyimli meslektaşlarından öğrenme fırsatları sunmalıdır."
   ],
   "col": [
    "alt kademe personel",
@@ -46,12 +46,12 @@
   ],
   "ex": [
    "Öğretmenimiz bize küresel sıcaklıkları gösteren bir harita gösterdi.",
-   "Çevresel zararlar nadiren ulusal sınırları tanıdığından, iklim değişikliğiyle mücadele için küresel işbirliği şarttır."
+   "Çevresel zararlar nadiren ulusal sınırları tanıdığından, iklim değişikliğiyle mücadele için küresel iş birliği şarttır."
   ],
   "col": [
    "küresel ısınma",
    "küresel ekonomi",
-   "küresel işbirliği",
+   "küresel iş birliği",
    "küresel bakış açısı"
   ],
   "tip": "global dünya genelindeki yaygınlığı vurgular; international ise ülkeler arasındaki ilişkiyi anlatır. İkisi birbirinin yerine rahatça kullanılmaz.",
@@ -60,20 +60,20 @@
  {
   "id": "complaint",
   "senses": [
-   "şikayet; itiraz",
+   "şikâyet; itiraz",
    "rahatsızlık; hastalık"
   ],
   "ex": [
-   "Soğuk çorba hakkında şikayette bulundu.",
-   "Yerel yönetimler, yerleşim alanlarında yeni eğlence mekânlarına izin vermeden önce sakinlerin gürültü şikayetlerini incelemelidir."
+   "Soğuk çorba hakkında şikâyette bulundu.",
+   "Yerel yönetimler, yerleşim alanlarında yeni eğlence mekânlarına izin vermeden önce sakinlerin gürültü şikâyetlerini incelemelidir."
   ],
   "col": [
-   "şikayette bulunmak",
-   "resmi şikayet",
-   "şikayetleri ele almak",
-   "yaygın şikayet"
+   "şikâyette bulunmak",
+   "resmî şikâyet",
+   "şikâyetleri ele almak",
+   "yaygın şikâyet"
   ],
-  "tip": "complaint isimdir, complain fiildir. Bir şeyden şikayet etmek için 'complain about' kullanılır.",
+  "tip": "complaint isim, complain fiildir; 'bir şeyden şikâyet etmek' complain about ile söylenir.",
   "note": ""
  },
  {
@@ -201,7 +201,7 @@
   "col": [
    "davranış kalıbı",
    "uyku düzeni",
-   "çiçek desenli",
+   "çiçek deseni",
    "bir düzeni izlemek"
   ],
   "tip": "Düzenlilik anlamında a pattern of + isim kalıbı sık kullanılır (a pattern of behaviour gibi).",

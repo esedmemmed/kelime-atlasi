@@ -52,8 +52,8 @@
   ],
   "col": [
    "resim çerçevesi",
-   "bisiklet iskeleti",
-   "bir soruyu kurgulamak",
+   "bisiklet kadrosu",
+   "bir soruyu formüle etmek",
    "referans çerçevesi"
   ],
   "tip": "frame hem somut bir yapıyı hem de bir şeyi nasıl sunduğumuzu anlatabilir. Soyut kullanımda ifade biçimini vurgular.",
@@ -81,7 +81,7 @@
  {
   "id": "lover",
   "senses": [
-   "sevgili; aşık",
+   "sevgili",
    "hayran; sever"
   ],
   "ex": [
@@ -89,9 +89,9 @@
    "Halk bahçeleri, doğa severlere şehirden ayrılmadan yaban hayatını gözlemleme fırsatı sunuyor."
   ],
   "col": [
-   "genç âşıklar",
-   "müzik severi",
-   "doğa severler"
+   "genç sevgililer",
+   "müzik sever",
+   "doğa sever"
   ],
   "tip": "Tek başına lover genellikle romantik ilişkideki kişiyi anlatır; 'music lover' gibi kalıplarda 'hayran, sever' anlamı verir.",
   "note": ""
@@ -179,7 +179,7 @@
    "Beyaz unun bir kısmının tam buğday unuyla değiştirilmesi, günlük gıdaların lif içeriğini artırabilir."
   ],
   "col": [
-   "beyaz un",
+   "sade un",
    "tam buğday unu",
    "pirinç unu",
    "bir yüzeye un serpmek"
@@ -217,7 +217,7 @@
    "ağır güneş yanığı",
    "güneş yanığını önlemek"
   ],
-  "tip": "sunburn genellikle 'get sunburn' kalıbında sayılamayan bir isim gibi kullanılır. Türkçedeki 'güneş yanığı' ile birebir karşılık verir.",
+  "tip": "İngiliz İngilizcesinde genellikle get sunburn (sayılamaz); Amerikan İngilizcesinde get a sunburn da yaygındır.",
   "note": ""
  },
  {
@@ -227,7 +227,7 @@
    "sermaye desteği"
   ],
   "ex": [
-   "Hemşire kolumdan bir iğne yaptı.",
+   "Hemşire koluma bir iğne yaptı.",
    "Kamu fonlarından yapılacak bir destek, yerel kütüphanelerin tesislerini modernleştirmesine ve topluluk hizmetlerini genişletmesine yardımcı olabilir."
   ],
   "col": [

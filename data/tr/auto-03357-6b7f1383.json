@@ -84,14 +84,14 @@
   ],
   "ex": [
    "Kulübümüz dün gece yeni bir kaptan seçti.",
-   "Vatandaşlar, anında popülerlik yerine uzun vadeli çevre sorunlarıyla ilgilenmeye istekli temsilcileri seçmelidir."
+   "Vatandaşlar, kısa vadeli popülerlik yerine uzun vadeli çevre sorunlarıyla ilgilenmeye istekli temsilcileri seçmelidir."
   ],
   "col": [
    "bir başkan seçmek",
    "birini göreve seçmek",
    "bir şeyi yapmayı tercih etmek"
   ],
-  "tip": "Oylama yoluyla görev için resmî bir kelimedir. Sıradan 'seçmek' için 'choose' kullanın; 'elect to do' kalıbında fiil 'to' ile gelir.",
+  "tip": "elect sb chair gibi yapılarda görev adının önünde genelde the/a kullanılmaz. Sıradan 'seçmek' için choose kullanın.",
   "note": ""
  },
  {
@@ -173,7 +173,7 @@
   "senses": [
    "alçakgönüllü",
    "az; küçük",
-   "ağırbaşlı; ölçülü"
+   "edepli; ağırbaşlı"
   ],
   "ex": [
    "Yarışı kazanmasına rağmen başarısı konusunda alçakgönüllü kaldı.",
@@ -194,7 +194,7 @@
    "etkinleştirilmiş"
   ],
   "ex": [
-   "Kedimiz hareket edince kapının üstündeki ışık yandı.",
+   "Hareket eden kedi, kapımızın üstündeki ışığı yaktı.",
    "Sensörler okyanusun altında olağandışı bir hareket algılar algılamaz acil uyarı sistemi devreye sokuldu."
   ],
   "col": [
@@ -274,7 +274,7 @@
    "moped kiralamak",
    "moped sürücüsü"
   ],
-  "tip": "'Mope' (asık suratlı olmak) fiilinin geçmiş zaman biçimiyle yazılışı aynıdır; anlam bağlamdan anlaşılır.",
+  "tip": "İsim olan moped iki heceli /ˈməʊped/; mope fiilinin geçmişi moped ise tek heceli /məʊpt/ okunur.",
   "note": ""
  }
 ]

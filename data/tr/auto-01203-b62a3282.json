@@ -84,9 +84,9 @@
    "Açık gıda etiketleri, tüketicilerin domuz eti içeren ürünleri tanımasına ve beslenme ihtiyaçlarına uygun seçim yapmasına yardımcı olur."
   ],
   "col": [
-   "fırın domuz eti",
+   "fırında pişmiş domuz eti",
    "domuz pirzolası",
-   "kıyma domuz eti",
+   "domuz kıyması",
    "domuz göbeği"
   ],
   "tip": "pork sayılamayan bir isimdir ve et anlamına gelir. Canlı hayvan için pig kullanılır.",
@@ -105,7 +105,7 @@
   "col": [
    "drama kulübü",
    "televizyon dizisi",
-   "drama çalışmak",
+   "drama eğitimi almak",
    "tarihi dram"
   ],
   "tip": "Tiyatro sanatı için drama sayılamaz; tek bir oyun için a drama denir. Olaylar için de sayılabilir kullanılabilir.",
@@ -123,7 +123,7 @@
   ],
   "col": [
    "hoş bir sürpriz",
-   "kimsenin şaşkınlığına",
+   "birinin şaşkınlığına",
    "birini şaşırtmak",
    "sürpriz ziyaret"
   ],
@@ -197,7 +197,7 @@
    "Esnek çalışma düzenleri, çalışanların mesleki sorumluluklarıyla aile yükümlülüklerini daha etkili dengelemesine olanak tanır."
   ],
   "col": [
-   "birinin yapmasına izin vermek",
+   "birinin bir şey yapmasına izin vermek",
    "yeterli zaman ayırmak",
    "gecikmeleri hesaba katmak"
   ],

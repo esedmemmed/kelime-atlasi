@@ -3,7 +3,7 @@
   "id": "inherit",
   "senses": [
    "miras almak",
-   "miras yoluyla geçmek; kalıtılmak",
+   "kalıtımla almak",
    "devralmak; üstlenmek"
   ],
   "ex": [
@@ -13,8 +13,8 @@
   "col": [
    "mülk miras almak",
    "bir servet miras almak",
-   "kalıtsal özellikler almak",
-   "...den miras almak"
+   "özellikleri kalıtımla almak",
+   "-den miras almak"
   ],
   "tip": "Birinden bir şey miras almak için inherit sth from sb kalıbını kullanın. Özellik aktarımı için de aynı fiil kullanılır.",
   "note": ""
@@ -254,7 +254,7 @@
  {
   "id": "dental",
   "senses": [
-   "diş ile ilgili; diş hekimliğine ait"
+   "dişle ilgili"
   ],
   "ex": [
    "Yarın sabah işe gitmeden önce diş randevum var.",

@@ -6,7 +6,7 @@
    "orantı; uygunluk"
   ],
   "ex": [
-   "Kiramın büyük bir kısmı kiraya gidiyor.",
+   "Maaşımın büyük bir kısmı kiraya gidiyor.",
    "Şehir daha ucuz aylık kartlar çıkardıktan sonra toplu taşımayı kullanan sakinlerin oranı arttı."
   ],
   "col": [
@@ -14,7 +14,7 @@
    "ile orantılı olarak",
    "orantısız; abartılı"
   ],
-  "tip": "'a proportion of' kalıbında fiil, 'of'dan sonraki isme göre tekil ya da çoğul olur. Bu ismin öznesi 'proportion' değil, 'of'dan sonraki isimdir.",
+  "tip": "'a proportion of' sonrasında fiil, 'of'tan sonraki isme uyar: a proportion of students are... / of the water is...",
   "note": ""
  },
  {
@@ -65,7 +65,7 @@
    "Başvuranlar, başvurularının değerlendirilebilmesi için niteliklerine dair kanıtları üniversiteye sunmalıdır."
   ],
   "col": [
-   "dairesini döşemek",
+   "bir daireyi döşemek",
    "birine kanıt sağlamak",
    "eşyalı; donanımlı"
   ],
@@ -77,7 +77,7 @@
   "senses": [
    "veda; ayrılık",
    "hoşça kal; güle güle",
-   "veda niteliğinde; uğurlama"
+   "veda; uğurlama"
   ],
   "ex": [
    "Son bir veda için istasyonda bir araya geldik.",
@@ -95,7 +95,7 @@
   "id": "glitter",
   "senses": [
    "parıldamak; ışıldamak",
-   "simli süs; pul",
+   "simli süs; sim",
    "parıltı; görkem"
   ],
   "ex": [
@@ -246,7 +246,7 @@
   "id": "decimal",
   "senses": [
    "ondalık sayı",
-   "ondalıklı; onluk sistemle ilgili"
+   "ondalık; onluk"
   ],
   "ex": [
    "Öğretmenimiz iki ondalık sayının nasıl çarpılacağını gösterdi.",

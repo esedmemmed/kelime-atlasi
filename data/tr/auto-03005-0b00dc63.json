@@ -90,7 +90,7 @@
    "kalın kürk",
    "yumuşak kürk",
    "suni kürk",
-   "kürk mont"
+   "kürk manto"
   ],
   "tip": "Hayvanın vücudundaki kürk genellikle sayılmaz. Kuş tüyü için feather kullanılır.",
   "note": ""
@@ -155,12 +155,12 @@
    "vahşi rekabet ortamı"
   ],
   "ex": [
-   "İnce patikanın üzerinde kalın sarmaşıklar sarkıyordu.",
+   "Dar orman patikasının üzerinde kalın sarmaşıklar sarkıyordu.",
    "Tarım için ormanların kesilmesi yaşam alanlarını yok eder ve bütün bir bölgedeki biyolojik çeşitliliği azaltabilir."
   ],
   "col": [
    "yoğun orman",
-   "tropik orman tavanı",
+   "orman çatısı",
    "beton orman"
   ],
   "tip": "Genellikle tropikal, yoğun bitki örtülü ormanı anlatır; genel 'orman' için forest kullanılır. Mecazen acımasız rekabet anlamı taşır.",
@@ -219,7 +219,7 @@
    "tanıyı doğrulamak",
    "teslim alındığını onaylamak"
   ],
-  "tip": "Isim ya da that cümleciği alır: confirm that... Confirm to do kalıbı kullanılmaz.",
+  "tip": "İsim ya da that cümleciği alır: confirm that... Confirm to do kalıbı kullanılmaz.",
   "note": ""
  },
  {
@@ -237,7 +237,7 @@
    "sönmüş yanardağ",
    "yanardağ püskürür"
   ],
-  "tip": "Çoğulu volcanoes'tur. Püskürmek için erupt fiili kullanılır: The volcano erupted.",
+  "tip": "Çoğulu volcanoes ya da volcanos olur. Püskürmek için erupt fiili kullanılır: The volcano erupted.",
   "note": ""
  },
  {
@@ -268,7 +268,7 @@
   ],
   "ex": [
    "Ortak mutfağımız akşam yemeği vaktine doğru çok kalabalık olur.",
-   "Ev işlerinde ortak sorumluluk paylaşmak, aile üyeleri arasındaki stresi azaltabilir ve ilişkileri iyileştirebilir."
+   "Ev işlerinde sorumluluğun paylaşılması, aile üyeleri arasındaki stresi azaltabilir ve ilişkileri iyileştirebilir."
   ],
   "col": [
    "ortak konaklama",

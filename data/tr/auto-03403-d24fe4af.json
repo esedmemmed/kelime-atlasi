@@ -62,7 +62,7 @@
   ],
   "ex": [
    "Oyuncağını kaybedince küçük kız hıçkıra hıçkıra ağlamaya başladı.",
-   "Çocuklar bakıcılarından ayrıldıklarında hıçkırabilir; bu nedenle okullar geçiş dönemlerinde nazik destek sağlamalıdır."
+   "Çocuklar bakıcılarından ayrıldıklarında hıçkıra hıçkıra ağlayabilir; bu nedenle okullar geçiş dönemlerinde nazik destek sağlamalıdır."
   ],
   "col": [
    "sessizce hıçkırmak",
@@ -138,10 +138,10 @@
   ],
   "ex": [
    "Çantaları minibüsün arka kısmına yerleştirdik.",
-   "Hayvanlarını açıkta besleyen çiftçiler yeterli barınak sağlamalı ve yüksek hayvan refahı standartlarını korumalıdır."
+   "Hayvanlarını açık havada yetiştiren çiftçiler yeterli barınak sağlamalı ve yüksek hayvan refahı standartlarını korumalıdır."
   ],
   "col": [
-   "...nın arkasında",
+   "arka kısmında",
    "arka cam",
    "çocuk büyütmek",
    "sığır beslemek"
@@ -152,8 +152,8 @@
  {
   "id": "vegan",
   "senses": [
-   "vegan; katı vejetaryen",
-   "vegan; hayvansal ürünsüz"
+   "vegan",
+   "vegan; bitki bazlı"
   ],
   "ex": [
    "Vegan biri olarak et yerine fasulye ile yemek yapıyorum.",
@@ -173,7 +173,7 @@
   "senses": [
    "sıkıca kapatmak; mühürlemek",
    "conta; mühür",
-   "fok balığı"
+   "fok"
   ],
   "ex": [
    "Bisküvilerin tazeliğini korumak için kavanozu sıkıca kapatın.",
@@ -244,17 +244,17 @@
   "id": "tow",
   "senses": [
    "çekmek; römorkla çekmek",
-   "çekme; çekilme"
+   "çekme; yedekte çekme"
   ],
   "ex": [
-   "Bir kamyon bozulan arabamızı tamire çekti.",
+   "Bir kamyon bozulan arabamızı tamirhaneye çekti.",
    "Yerel yetkililer, kalabalık kentsel alanlarda acil durum yollarını açık tutmak için yasa dışı park edilmiş araçları çekebilir."
   ],
   "col": [
    "bir arabayı çekmek",
    "çekici",
-   "çekmeye almak",
-   "birine çekme yardımı yapmak"
+   "yedeğe almak",
+   "birinin aracını çekmek"
   ],
   "tip": "Araç veya tekne çekmeyi anlatır; yasa dışı park edilmiş araçlar için tow away kalıbı sık kullanılır.",
   "note": ""

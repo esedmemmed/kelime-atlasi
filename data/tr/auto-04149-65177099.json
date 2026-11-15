@@ -9,7 +9,7 @@
    "Hayvancılık, kuru bölgelerde ekosistemler üzerindeki baskıyı artırabilecek önemli miktarda arazi ve su kaynağı gerektirir."
   ],
   "col": [
-   "hayvan beslemek",
+   "hayvan yetiştirmek",
    "hayvancılık",
    "hayvan yemi",
    "hayvansal üretim"
@@ -256,7 +256,7 @@
   "id": "prospect",
   "senses": [
    "ihtimal; beklenti",
-   "gelecek umudu; fırsat",
+   "umut; başarı şansı",
    "maden aramak"
   ],
   "ex": [
@@ -267,7 +267,7 @@
    "...ihtimali",
    "istihdam beklentileri",
    "gerçekçi bir ihtimal",
-   "altın araştırmak"
+   "altın aramak"
   ],
   "tip": "Gelecek başarı anlamında genellikle çoğul prospects kullanılır. 'of' edatından sonra isim ya da -ing gelir.",
   "note": ""

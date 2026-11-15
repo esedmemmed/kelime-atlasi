@@ -3,7 +3,7 @@
   "id": "keyboard",
   "senses": [
    "klavye",
-   "org; tuşlu çalgı"
+   "klavye; tuşlu çalgı"
   ],
   "ex": [
    "Işe başlamadan önce klavyemdeki kırıntıları sildim.",
@@ -12,7 +12,7 @@
   "col": [
    "kablosuz klavye",
    "klavye kısayolu",
-   "klavye çalmak"
+   "klavyeli çalgı çalmak"
   ],
   "tip": "Bilgisayar klavyesi sayılabilir: a keyboard. Klavyeli çalgıyı çalmak için play the keyboard kalıbını kullanın.",
   "note": ""
@@ -69,7 +69,7 @@
    "malzemeleri karıştırmak",
    "başkalarıyla kaynaşmak",
    "çeşitli bir karışım",
-   "işleri değiştirmek"
+   "değişiklik yapmak"
   ],
   "tip": "mix A with B karıştırmak anlamına gelir; mix A up with B ise A ile B'yi karıştırmak, yanlış anlamak demektir.",
   "note": ""
@@ -122,7 +122,7 @@
    "Otlakların korunması, zebra popülasyonlarının hayatta kalmasına ve diğer birçok vahşi hayvanın yaşam alanlarının korunmasına yardımcı olur."
   ],
   "col": [
-   "bir sürü zebra",
+   "bir zebra sürüsü",
    "zebra çizgileri",
    "yaya geçidi"
   ],
@@ -178,7 +178,7 @@
   "col": [
    "sonuca şaşırmak",
    "hoş bir şekilde şaşırmış",
-   "duymaya şaşırmak"
+   "duyunca şaşırmak"
   ],
   "tip": "surprised insanın hissettiğini, surprising ise şeyin insanda yarattığı etkiyi anlatır.",
   "note": ""
@@ -226,13 +226,13 @@
   ],
   "ex": [
    "Bisikletimin ön tekerleğinin değiştirilmesi gerekiyor.",
-   "Ulaşım planlamacıları, yolcuların bavullarını istasyonlarda ve trenlere kolayca taşıyabilmesini sağlamalıdır."
+   "Ulaşım planlamacıları, yolcuların bavullarını istasyonlarda ve trenlere kolayca tekerlekle itip çekebilmesini sağlamalıdır."
   ],
   "col": [
    "ön tekerlek",
    "direksiyon",
    "direksiyon başında",
-   "tekerlekli sepeti itmek"
+   "el arabasını itmek"
   ],
   "tip": "behind the wheel veya at the wheel, araç kullanmak anlamına gelir; bu kalıplarda the wheel kullanılır.",
   "note": ""

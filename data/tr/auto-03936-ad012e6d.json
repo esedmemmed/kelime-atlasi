@@ -23,12 +23,12 @@
    "dayanılmaz"
   ],
   "ex": [
-   "Hava öyle sıcaklaştı ki dayanılmaz oldu, bu yüzden gölgede dinlendik.",
+   "Sıcak dayanılmaz hale geldi, bu yüzden gölgede dinlendik.",
    "Yeterli havalandırma olmazsa, kalabalık konutlarda yaz sıcakları özellikle yaşlı sakinler için dayanılmaz hale gelebilir."
   ],
   "col": [
    "dayanılmaz acı",
-   "dayanılmaz sıcak",
+   "dayanılmaz sıcaklık",
    "dayanılmaz gürültü"
   ],
   "tip": "bear 'katlanmak' anlamındadır. unbearable çok güçlü bir ifadedir, yalnızca gerçekten aşırı durumlar için kullanılmalıdır.",
@@ -47,11 +47,11 @@
   ],
   "col": [
    "hava filtresi",
-   "kirleticileri ayıklamak",
+   "safsızlıkları ayıklamak",
    "arama sonuçlarını filtrelemek",
    "ışık süzülerek giriyor"
   ],
-  "tip": "filter out, çıkarılan şeyi belirtir. Tutulan şeyler için filter out kullanılmaz: filter out impurities (safsızlıkları ayıklamak).",
+  "tip": "filter out'tan sonra elenen şey gelir: filter out impurities (safsızlıkları ayıklamak); tutulan şey değil.",
   "note": ""
  },
  {
@@ -62,7 +62,7 @@
    "içini kaplamak; yok etmek"
   ],
   "ex": [
-   "Eski sobamız kışın çok fazla elektrik tüketiyor.",
+   "Eski ısıtıcımız kışın çok fazla elektrik tüketiyor.",
    "Hanehalkı, daha az kaynak tüketerek ve daha uzun ömürlü ürünleri seçerek çevresel etkisini azaltabilir."
   ],
   "col": [
@@ -132,7 +132,7 @@
   "id": "narrative",
   "senses": [
    "anlatı; öykü",
-   "yorum; bakış açısı",
+   "söylem; anlatı",
    "anlatısal"
   ],
   "ex": [
@@ -178,7 +178,7 @@
   "col": [
    "sözleşmede bir madde",
    "madde eklemek",
-   "esas cümlecik",
+   "ana cümlecik",
    "sıfat cümleciği"
   ],
   "tip": "Dilbilgisinde clause özne ve yüklem içerir. phrase (öbek) ise genellikle özne-yüklem yapısı içermez.",
@@ -223,7 +223,7 @@
   "id": "chorus",
   "senses": [
    "nakarat",
-   "koro; birlikte ses",
+   "koro; hep bir ağızdan",
    "birlikte söylemek"
   ],
   "ex": [
@@ -233,7 +233,7 @@
   "col": [
    "nakarat söylemek",
    "nakarata katılmak",
-   "ortak onay sesleri"
+   "hep bir ağızdan onay"
   ],
   "tip": "Şarkıdaki chorus tekrar eden nakarattır. Ona karşılık gelen verse ise kıta bölümüdür.",
   "note": ""

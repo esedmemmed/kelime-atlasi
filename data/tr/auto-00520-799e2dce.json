@@ -14,7 +14,7 @@
    "soluk mor",
    "mor çiçekler"
   ],
-  "tip": "purple hem sıfat hem isim olarak kullanılır. 'Biraz mor' anlamında purplish kullanılır.",
+  "tip": "purple hem sıfat hem isim olarak kullanılır. purplish 'morumsu' anlamına gelir.",
   "note": ""
  },
  {
@@ -120,7 +120,7 @@
    "boks yapmak"
   ],
   "ex": [
-   "Yavru kedi boş bir karton kutunun içinde uyuyakalmış.",
+   "Yavru kedi boş bir karton kutunun içinde uyuyakaldı.",
    "Perakendeciler, her ürünün boyutuna çok yakın bir kutu seçerek ambalaj atığını azaltabilir."
   ],
   "col": [
@@ -135,7 +135,7 @@
   "id": "toy",
   "senses": [
    "oyuncak",
-   "oyalanmak; hafifçe düşünmek"
+   "oynamak; şöyle bir düşünmek"
   ],
   "ex": [
    "Bebek oyuncağını koltuğun arkasına düşürdü.",
@@ -144,7 +144,7 @@
   "col": [
    "peluş oyuncak",
    "oyuncak araba",
-   "bir fikri hafife almak"
+   "bir fikri şöyle bir düşünmek"
   ],
   "tip": "Fiil olarak genellikle toy with kalıbında kullanılır. Toy with an idea, fikri ciddiye almadan düşünmek demektir.",
   "note": ""
@@ -179,12 +179,12 @@
    "Akşam kursları, çalışan yetişkinlerin mevcut işlerinden ayrılmadan yeni yeterlilikler kazanmasına olanak tanır."
   ],
   "col": [
-   "akşamleyin",
+   "akşam",
    "bu akşam",
    "akşam kursları",
    "akşamın erken saatleri"
   ],
-  "tip": "Genel anlamda 'akşamleyin' için in the evening denir. this evening ('bu akşam') ise başına edat almaz.",
+  "tip": "Genel olarak 'akşam' için in the evening denir. this evening ('bu akşam') ise başına edat almaz.",
   "note": ""
  },
  {

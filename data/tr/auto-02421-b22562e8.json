@@ -20,7 +20,7 @@
   "id": "kindness",
   "senses": [
    "iyilik; nezaket",
-   "iyilik; lütuf"
+   "iyilik; güzel jest"
   ],
   "ex": [
    "Onun nazik davranışı yeni komşumuzun kendini evinde hissetmesini sağladı.",
@@ -95,7 +95,7 @@
    "tıkamak; doldurmak"
   ],
   "ex": [
-   "Tostu makinesini temizlemeden önce fişini çekin.",
+   "Tost makinesini temizlemeden önce fişini çekin.",
    "Hanelerin, cihazlar kullanılmadığında prizlerden fişleri çekerek gereksiz elektrik tüketimini azaltması mümkündür."
   ],
   "col": [
@@ -112,7 +112,7 @@
   "senses": [
    "yüzmek; süzülmek",
    "öne sürmek",
-   "geçit alegorik arabası; şamandıra"
+   "kortej arabası"
   ],
   "ex": [
    "Sarı bir yaprak bahçedeki göletin üzerinde yavaşça süzüldü.",
@@ -122,7 +122,7 @@
    "suyun üzerinde yüzmek",
    "bir fikri öne sürmek",
    "akıntıyla sürüklenmek",
-   "geçit alegorik arabası"
+   "kortej arabası"
   ],
   "tip": "float an idea, fikrin tartışılmak üzere ortaya atılması demektir; uygulandığı anlamına gelmez.",
   "note": ""
@@ -169,7 +169,7 @@
  {
   "id": "virus",
   "senses": [
-   "virüs; mikrop",
+   "virüs",
    "bilgisayar virüsü"
   ],
   "ex": [
@@ -207,7 +207,7 @@
   "id": "effect",
   "senses": [
    "etki; sonuç",
-   "etkilemek; gerçekleştirmek"
+   "gerçekleştirmek; sağlamak"
   ],
   "ex": [
    "Yeni perdeler odada sakinleştirici bir etki yarattı.",
@@ -232,7 +232,7 @@
    "Toplu taşımaya yapılan önemli yatırıma rağmen, hizmetler hâlâ güvenilmez olduğu için birçok yolcu hâlâ araba kullanmayı tercih ediyor."
   ],
   "col": [
-   "şu gerçeğe rağmen",
+   "...gerçeğine rağmen",
    "zorluklara rağmen",
    "çabalarına rağmen"
   ],

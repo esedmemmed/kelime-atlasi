@@ -87,7 +87,7 @@
   ],
   "col": [
    "bir terimi tanımlamak",
-   "açıkça belirtmek",
+   "açıkça tanımlamak",
    "kapsamını belirlemek",
    "...olarak tanımlamak"
   ],
@@ -117,7 +117,7 @@
  {
   "id": "idiot",
   "senses": [
-   "aptal; salak"
+   "aptal; budala"
   ],
   "ex": [
    "Anahtarlarımı yine kaybettikten sonra kendimi aptal gibi hissettim.",
@@ -125,7 +125,7 @@
   ],
   "col": [
    "kendini aptal gibi hissetmek",
-   "tam bir salak"
+   "tam bir aptal"
   ],
   "tip": "Aşağılayıcı bir hakaret sözcüğüdür; kişilere doğrudan söylenmemelidir.",
   "note": "Aşağılayıcı bir hitap; dikkatli kullanın."
@@ -245,7 +245,7 @@
   "id": "handout",
   "senses": [
    "föy; dağıtılan belge",
-   "yardım; sadaka"
+   "yardım; karşılıksız yardım"
   ],
   "ex": [
    "Öğretmenimiz bize sağlıklı beslenme hakkında bir föy verdi.",

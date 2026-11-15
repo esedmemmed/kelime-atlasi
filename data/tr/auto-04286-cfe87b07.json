@@ -20,7 +20,7 @@
   "id": "soar",
   "senses": [
    "hızla artmak; fırlamak",
-   "havalanmak; süzülmek"
+   "yüksekten uçmak; süzülmek"
   ],
   "ex": [
    "Aşırı soğuk kış boyunca elektrik faturaları fırladı.",
@@ -40,7 +40,7 @@
    "odun; yakacak odun"
   ],
   "ex": [
-   "Akşam yemeğinden önce kuru odunları sobanın yanına istiflemiştik.",
+   "Akşam yemeğinden önce kuru odunları sobanın yanına istifledik.",
    "Bazı kırsal topluluklarda yemek pişirmek için odun kullanımı ormansızlaşmaya ve kapalı alanda hava kirliliğine yol açabiliyor."
   ],
   "col": [
@@ -83,7 +83,7 @@
   "col": [
    "ani bir istekle",
    "yapma dürtüsüne direnmek",
-   "sinir impulsları",
+   "sinir uyarıları",
    "dürtüsel alışveriş"
   ],
   "tip": "on impulse 'düşünmeden, dürtüyle' anlamına gelir. Dürtüye direnmek için resist the impulse to + fiil kalıbı kullanılır.",
@@ -126,7 +126,7 @@
  {
   "id": "accurate",
   "senses": [
-   "doğru; kusursuz",
+   "doğru; hatasız",
    "isabetli; hedefi vuran"
   ],
   "ex": [
@@ -166,7 +166,7 @@
    "saygılı"
   ],
   "ex": [
-   "Büyükannem konuşurken çocuklar saygılı bir tavırla sessiz kaldı.",
+   "Çocuklar, büyükanneleri konuşurken saygılı davrandı.",
    "Saygılı tartışma, öğrencilerin karşıt görüşleri değerlendirmesine olanak tanır; anlaşmazlık ilişkilerine zarar vermez."
   ],
   "col": [
@@ -264,7 +264,7 @@
   ],
   "col": [
    "birine ipucu vermek",
-   "ima anlamak",
+   "ima edileni anlamak",
    "bir şeye işaret etmek",
    "hafif bir limon kokusu"
   ],

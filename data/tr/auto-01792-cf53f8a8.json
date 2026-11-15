@@ -50,7 +50,7 @@
   "col": [
    "deneyim kazanmak",
    "iş deneyimi",
-   "güzel bir yaşantı",
+   "tatmin edici bir deneyim",
    "zorluklar yaşamak"
   ],
   "tip": "Genel anlamda 'deneyim' sayılamaz. Belirli bir olay anlamında a/an experience ya da çoğulda experiences kullanılır.",
@@ -67,8 +67,8 @@
    "Toplu taşımaya yapılan yatırımın artması, şehirlerde trafik sıkışıklığını azaltabilir ve hava kalitesini iyileştirebilir."
   ],
   "col": [
-   "miktar kadar artmak",
-   "düzeyine çıkmak",
+   "... kadar artmak",
+   "... düzeyine yükselmek",
    "talepte artış",
    "önemli bir artış"
   ],
@@ -160,8 +160,8 @@
   "col": [
    "her halükârda",
    "her iki taraf",
-   "ikisinden biri",
-   "ikisi de"
+   "olumsuz cümlede 'de/da'",
+   "ikisinden biri"
   ],
   "tip": "either…or… iki seçenekten birini anlatır. Olumsuz cümle sonunda either 'de/da' anlamına gelir: 'I don't like it either.'",
   "note": ""
@@ -211,7 +211,7 @@
    "benzin"
   ],
   "ex": [
-   "Yemeklerimizi evde pişirmek için doğalgaz kullanıyoruz.",
+   "Yemeklerimizi evde pişirmek için doğal gaz kullanıyoruz.",
    "Sera gazı salınımını azaltmak, daha temiz enerjiye ve daha verimli toplu taşıma sistemlerine yatırım yapmayı gerektirir."
   ],
   "col": [
@@ -230,7 +230,7 @@
   ],
   "ex": [
    "Hediye paketini kesmek için lütfen bu makası kullan.",
-   "Öğretmenler, küçük çocuklar sınıf içi el işi etkinliklerinde makas kullanırken onları gözetlemelidir."
+   "Öğretmenler, küçük çocuklar sınıf içi el işi etkinliklerinde makas kullanırken onları gözetmelidir."
   ],
   "col": [
    "bir çift makas",
@@ -251,8 +251,8 @@
   ],
   "col": [
    "japon balığı beslemek",
-   "japon balığı havuzu",
-   "japon balıklarını beslemek"
+   "japon balıklarını beslemek",
+   "japon balığı havuzu"
   ],
   "tip": "Tekil ve çoğul biçimi aynıdır: one goldfish, two goldfish.",
   "note": ""
@@ -269,8 +269,8 @@
   ],
   "col": [
    "kuyruğunu sallamak",
-   "kalın kuyruk",
-   "kuyruğun ucu"
+   "gür kuyruk",
+   "son kısım"
   ],
   "tip": "tail (kuyruk) ile tale (hikâye) sesteştir. Yazılışa dikkat edin.",
   "note": ""

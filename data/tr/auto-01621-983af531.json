@@ -32,7 +32,7 @@
   "col": [
    "bilgi edinmek",
    "pratik bilgi",
-   "-hakkında bilgi",
+   "... hakkında bilgi",
    "birinin haberi olmadan"
   ],
   "tip": "Genellikle sayılamaz bir isimdir. Bir alandaki bilgiyi anlatmak için 'a good knowledge of' kalıbı yaygındır.",
@@ -63,7 +63,7 @@
   "senses": [
    "yer; zemin",
    "gerekçe; dayanak",
-   "uçuşunu yasaklamak"
+   "uçuş yasağı getirmek"
   ],
   "ex": [
    "Bir ağacın altında yere battaniye serdik.",
@@ -73,9 +73,9 @@
    "yerde",
    "şikâyet için gerekçeler",
    "ortak nokta; ortak zemin",
-   "bir uçağı uçuşa yasaklamak"
+   "uçağa uçuş yasağı getirmek"
   ],
-  "tip": "Gerekçe anlamında genellikle çoğul 'grounds' kullanılır. 'On the ground' ifadesi 'sahada, yerinde' anlamına da gelebilir.",
+  "tip": "Gerekçe anlamında genellikle çoğul 'grounds' kullanılır; ground aynı zamanda grind fiilinin geçmiş zaman hâlidir.",
   "note": ""
  },
  {
@@ -85,7 +85,7 @@
    "İrlanda Adası"
   ],
   "ex": [
-   "Batı kıyısını bisikletle gezdik.",
+   "İrlanda'nın batı kıyısını bisikletle gezdik.",
    "İrlanda, İngilizce eğitim veren üniversiteleri ve farklı bir kültürü deneyimleme fırsatlarıyla uluslararası öğrencileri çekiyor."
   ],
   "col": [
@@ -94,7 +94,7 @@
    "İrlanda Adası",
    "kırsal İrlanda"
   ],
-  "tip": "Ülke ya da ada anlamında kullanılabilir. Kuzey İrlanda İngiltere'ye bağlıdır, İrlanda Cumhuriyeti'ne değil.",
+  "tip": "Ülke ya da ada anlamında kullanılabilir. Kuzey İrlanda Birleşik Krallık'a bağlıdır, İrlanda Cumhuriyeti'ne değil.",
   "note": ""
  },
  {
@@ -216,13 +216,13 @@
    "saç modeli"
   ],
   "ex": [
-   "Yeni saç modelin yuvarlak gözlüklerinle gerçekten yakışmış.",
+   "Yeni saç modelin yuvarlak gözlüklerine gerçekten yakışıyor.",
    "Bazı iş yerlerindeki katı saç modeli kuralları, çalışanların kimliklerini ifade etme özgürlüğünü kısıtlayabilir."
   ],
   "col": [
    "saç modelini değiştirmek",
    "kısa saç modeli",
-   "moda bir saç modeli"
+   "modaya uygun saç modeli"
   ],
   "tip": "Sayılabilir bir isimdir. Kesilmiş ya da taranmış saçın genel biçimini anlatır.",
   "note": ""
@@ -234,7 +234,7 @@
    "çalışma kitabı; e-tablo dosyası"
   ],
   "ex": [
-   "Çalışma kitabımı okul çantamda unutmuşum.",
+   "Çalışma kitabımı okul çantamda unuttum.",
    "İyi tasarlanmış bir alıştırma kitabı, öğrencilerin yeni becerileri bağımsız olarak uygulamasına ve ilerlemelerini takip etmesine olanak tanır."
   ],
   "col": [

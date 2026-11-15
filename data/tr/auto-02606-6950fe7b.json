@@ -11,7 +11,7 @@
   ],
   "col": [
    "alçak sesle konuşmak",
-   "fısıldayarak",
+   "usulca fısıldamak",
    "yumuşak ışıkla aydınlatılmış"
   ],
   "tip": "softly sesin alçak ya da yumuşak olmasını anlatır; “yavaşça” anlamına gelmez.",
@@ -45,12 +45,12 @@
   ],
   "ex": [
    "Kuzenim limonlu kekiyle bir pasta yarışmasını kazandı.",
-   "Vatandaşlar resmi bir kararına itiraz etmek istediklerinde uygun fiyatlı hukuki danışmanlığa ulaşabilmelidir."
+   "Vatandaşlar resmî bir karara itiraz etmek istediklerinde uygun fiyatlı hukuki danışmanlığa ulaşabilmelidir."
   ],
   "col": [
    "yarışmaya katılmak",
    "çekişmeli yarış",
-   "bir kararına itiraz etmek",
+   "bir karara itiraz etmek",
    "seçimde yarışmak"
   ],
   "tip": "İsimde vurgu ilk hecededir (CONtest); fiilde vurgu ikinci hecededir (conTEST).",
@@ -82,7 +82,7 @@
    "kararlaştırılmış; üzerinde anlaşılmış"
   ],
   "ex": [
-   "Istasyonun önünde kararlaştırılan saatte buluştuk.",
+   "İstasyonun önünde kararlaştırılan saatte buluştuk.",
    "Katılan tüm ülkeler, ortak çabanın karbon salınımını azaltmasını sağlamak için üzerinde anlaşılan hedeflere uymalıdır."
   ],
   "col": [
@@ -189,7 +189,7 @@
  {
   "id": "closet",
   "senses": [
-   "gömme dolap; kiler",
+   "dolap; gömme dolap",
    "gizli; saklı"
   ],
   "ex": [
@@ -198,7 +198,7 @@
   ],
   "col": [
    "gömme dolap",
-   "girilebilir dolap",
+   "içine girilen gardırop",
    "dolap alanı"
   ],
   "tip": "Giysi saklama alanı için Amerikan İngilizcesinde yaygındır; İngiliz İngilizcesinde genellikle wardrobe kullanılır.",
@@ -255,7 +255,7 @@
    "yaban hayatı biyoloğu",
    "evrim biyoloğu"
   ],
-  "tip": "biology (biyoloji) ile biologist (biyolog) arasındaki farka dikkat et; kişiyi belirten isim -ist ekiyle yapılır.",
+  "tip": "Deniz canlılarını inceleyen uzman marine biologist'tir; biology bilim dalı, biologist kişidir.",
   "note": ""
  },
  {

@@ -44,15 +44,15 @@
   ],
   "ex": [
    "Tozlu oda birkaç kez öksürmeme neden oldu.",
-   "Inatçı bir öksürüğü olan kişiler, özellikle belirtiler uykuyu veya günlük etkinlikleri etkiliyorsa doktora başvurmalıdır."
+   "İnatçı bir öksürüğü olan kişiler, özellikle belirtiler uykuyu veya günlük etkinlikleri etkiliyorsa doktora başvurmalıdır."
   ],
   "col": [
    "inatçı öksürük",
    "kuru öksürük",
    "öksürük şurubu",
-   "öksürüp çıkarmak"
+   "öksürerek çıkarmak"
   ],
-  "tip": "'gh' harfleri burada sessizdir ve /f/ sesi verir. Öksürük belirtisi olduğunu söylemek için 'have a cough' kalıbı kullanılır.",
+  "tip": "Sondaki 'gh' burada /f/ sesi verir (/kɒf/). Öksürük belirtisi için 'have a cough' kalıbı kullanılır.",
   "note": ""
  },
  {
@@ -111,7 +111,7 @@
  {
   "id": "fashionable",
   "senses": [
-   "moda; şık"
+   "modaya uygun; revaçta"
   ],
   "ex": [
    "Şu renkli spor ayakkabılar arkadaşlarım arasında çok moda.",
@@ -174,7 +174,7 @@
   ],
   "col": [
    "birine bir şey yapmasını önermek",
-   "...e karşı tavsiye etmek",
+   "tavsiye etmemek; caydırmak",
    "...hakkında danışmanlık yapmak",
    "kuvvetle tavsiye etmek"
   ],

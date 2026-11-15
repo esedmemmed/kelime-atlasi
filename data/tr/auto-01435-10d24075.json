@@ -97,9 +97,9 @@
  {
   "id": "speaker",
   "senses": [
-   "konuşmacı; sunucu",
-   "anadil konuşucusu; konuşan",
-   "hoparlör; ses kutusu"
+   "konuşmacı; hatip",
+   "konuşur; konuşan",
+   "hoparlör"
   ],
   "ex": [
    "Konuşmacı açılış hikâyesiyle herkesi güldürdü.",
@@ -107,8 +107,8 @@
   ],
   "col": [
    "konuk konuşmacı",
-   "anadil konuşucusu",
-   "akıcı konuşan",
+   "anadili konuşan kişi",
+   "akıcı konuşan kişi",
    "kablosuz hoparlör"
   ],
   "tip": "Dil belirtmek için 'a native speaker of English' gibi 'of' kalıbı kullanılır. 'Speaker' ayrıca hoparlör anlamına gelir.",
@@ -121,10 +121,10 @@
   ],
   "ex": [
    "Yeğenim yeni köpek yavrusunu piknik için getirdi.",
-   "Esnek çalışma saatleri, genç bir yeğen ya da erkek yeğen dahil akrabalarına bakan yetişkinlere yardımcı olabilir."
+   "Esnek çalışma saatleri, küçük bir yeğen de dahil olmak üzere akrabalarına bakan yetişkinlere yardımcı olabilir."
   ],
   "col": [
-   "genç kız yeğen",
+   "küçük kız yeğen",
    "yeğenler"
   ],
   "tip": "Türkçede 'yeğen' hem kız hem erkek için kullanılır. 'Niece' kız yeğen, 'nephew' erkek yeğen anlamına gelir.",
@@ -192,7 +192,7 @@
    "tebrik; kutlama mesajı"
   ],
   "ex": [
-   "Kapıda bize neşeli bir karşılama yaptı.",
+   "Kapıda bizi neşeli bir selamla karşıladı.",
    "Yerel selamlaşma geleneklerini öğrenmek, uluslararası öğrencilerin ilişki kurmasına ve yeni ortamlarında yanlış anlaşılmalardan kaçınmasına yardımcı olabilir."
   ],
   "col": [
@@ -245,7 +245,7 @@
   "senses": [
    "rapor; haber",
    "bildirmek; haber vermek",
-   "göreve başlamak; bildirmek"
+   "göreve gelmek; bildirmek"
   ],
   "ex": [
    "Öğle yemeğinden önce raporumu bitirdim ve e-postayla gönderdim.",
@@ -255,7 +255,7 @@
    "rapor yazmak",
    "haber",
    "bir sorunu bildirmek",
-   "göreve bildirmek"
+   "göreve gelmek"
   ],
   "tip": "Bir konuyu konu alan haber için 'report on' kullanılır. 'Report for duty' ise görevine başlamak için kendini bildirmek anlamına gelir.",
   "note": ""
@@ -272,7 +272,7 @@
   ],
   "col": [
    "yaya geçidi",
-   "seviye geçidi",
+   "hemzemin geçit",
    "sınır kapısı",
    "feribot yolculuğu"
   ],

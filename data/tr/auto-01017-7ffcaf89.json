@@ -146,7 +146,7 @@
   "col": [
    "A'yı B ile değiştirmek",
    "pili değiştirmek",
-   "yerine geçilmek"
+   "... ile değiştirilmek"
   ],
   "tip": "replace A with B, A'yı B ile değiştirmek demektir; yönü karıştırmayın.",
   "note": ""
@@ -235,9 +235,9 @@
    "Birçok sakin, meclisin yerel parkı koruma kararı almasından memnun oldu."
   ],
   "col": [
-   "duyduğuma sevindim",
-   "yardım etmeye istekli",
-   "bu konuda memnun",
+   "duyduğuma sevinmek",
+   "memnuniyetle yardım etmek",
+   "bir şeye sevinmek",
    "...olduğuna sevinmek"
   ],
   "tip": "Genellikle yüklem olarak kullanılır; be glad to do (yapmaktan memnuniyet duymak) ya da be glad that + cümle kalıbına dikkat edin.",
@@ -255,7 +255,7 @@
    "Evlere doğrudan ışık saçan sokak lambaları uykuyu bozabilir ve sakinlerin yaşam kalitesini düşürebilir."
   ],
   "col": [
-   "parlak parlamak",
+   "ışıl ışıl parlamak",
    "ışık tutmak",
    "ayakkabıları parlatmak",
    "sağlıklı bir parlaklık"

@@ -27,7 +27,7 @@
   ],
   "col": [
    "bir kase pilav",
-   "esmer pirinç",
+   "kepekli pirinç",
    "pirinç yetiştirmek",
    "pirinç tarlası"
   ],
@@ -69,7 +69,7 @@
    "biriyle ticaret yapmak",
    "bir işletme yönetmek",
    "iş seyahatinde olmak",
-   "sana ne ilgisi var"
+   "seni ilgilendirmez"
   ],
   "tip": "Ticaret anlamında business sayılamaz; 'işletme' anlamında sayılabilir: a business. Bu kullanımları ayırt etmeye dikkat et.",
   "note": ""
@@ -89,7 +89,7 @@
    "yürüme mesafesi",
    "tempolu yürüyüş"
   ],
-  "tip": "walking, 'yürüme' eylemini adlandırır. Fiil olarak walk kullanılır; yürüyerek gitmek için on foot da kullanılabilir.",
+  "tip": "walking sözcüğündeki l okunmaz (/ˈwɔːkɪŋ/); 'valking' gibi söylenir. Yürüyerek gitmek için on foot da kullanılır.",
   "note": ""
  },
  {
@@ -106,7 +106,7 @@
   "col": [
    "tam ad",
    "marka adı",
-   "birinin adını almak",
+   "birinin adını vermek",
    "kendine ad yapmak"
   ],
   "tip": "name after kalıbı 'birinin adını taşımak' anlamındadır. Edilgen hali sık kullanılır: The city was named after its founder.",
@@ -179,7 +179,7 @@
   "col": [
    "duruma bağlı",
    "anlaşılan o ki",
-   "açık hale getirmek"
+   "açıkça belirtmek"
   ],
   "tip": "Küçük it zamirdir; büyük IT ise bilgi teknolojisi anlamına gelir. It zaman, hava ve durum bildirmek için de özne olur: It is cold.",
   "note": ""
@@ -255,7 +255,7 @@
    "yarım saat",
    "...nın yarısı",
    "yarı fiyatına",
-   "yarı uyanık"
+   "yarı uykulu"
   ],
   "tip": "Çoğulu halves'tir. 'Yarım saat' için half an hour kullanılır; 'bir buçuk' için one and a half denir.",
   "note": ""

@@ -96,13 +96,13 @@
    "ekmek kızartma makinesi"
   ],
   "ex": [
-   "Makineden iki dilim ekmek fırladı.",
+   "Ekmek kızartma makinesinden iki dilim ekmek fırladı.",
    "Ekmek kızartma makineleri gibi küçük cihazlar sık sık değiştirilmek yerine kolay onarılabilecek şekilde tasarlanmalıdır."
   ],
   "col": [
-   "ekmeği makineye koymak",
+   "ekmeği kızartma makinesine koymak",
    "iki dilimlik ekmek kızartma makinesi",
-   "fırın tost makinesi"
+   "tost fırını"
   ],
   "tip": "Toaster bir alet adıdır; toast ise yiyeceğin kendisi anlamında, genellikle sayılamayan bir isimdir.",
   "note": ""
@@ -118,7 +118,7 @@
   ],
   "col": [
    "katkısız yoğurt",
-   "yağı azaltılmış yoğurt",
+   "az yağlı yoğurt",
    "bir kap yoğurt"
   ],
   "tip": "İngilizcede yoghurt olarak da yazılır. Genellikle sayılamaz; bir kap için a pot of yogurt kullanılır.",
@@ -249,7 +249,7 @@
    "en iyi dilekler",
    "bir şey yapmayı arzulamak"
   ],
-  "tip": "Wish'ten sonra geçmiş zaman, şimdiki durumla ilgili pişmanlığı; geçmiş zamanın hikâyesi için past perfect kullanılır.",
+  "tip": "wish + geçmiş zaman şimdiki pişmanlığı, past perfect geçmişteki pişmanlığı anlatır: I wish I had known.",
   "note": ""
  },
  {
@@ -258,7 +258,7 @@
    "mobilya"
   ],
   "ex": [
-   "Dans etmek için yer açmak amacıyla eşyaları taşıdık.",
+   "Dans etmek için yer açmak amacıyla mobilyaları taşıdık.",
    "İkinci el mobilya almak, ham madde talebini azaltırken hane halkı giderlerini düşürebilir ve atığı sınırlayabilir."
   ],
   "col": [

@@ -4,7 +4,7 @@
   "senses": [
    "çöp",
    "etrafa çöp atmak; dağıtmak",
-   "yavru takımı; yavrular"
+   "batın; yavrular"
   ],
   "ex": [
    "Öğle yemeğinden önce sahildeki çöpleri topladık.",
@@ -13,7 +13,7 @@
   "col": [
    "çöp atmak",
    "çöp toplamak",
-   "bir köpek yavrusu takımı"
+   "bir batın köpek yavrusu"
   ],
   "tip": "Çöp anlamında isim sayılamaz, 'a litter' denmez. Bir doğumdaki yavrular için 'a litter of' kalıbı kullanılır.",
   "note": ""
@@ -65,7 +65,7 @@
   "col": [
    "nazikçe karıştırmak",
    "yumuşak konuşmak",
-   "yavaşça eğimli olmak"
+   "hafif eğimli olmak"
   ],
   "tip": "'gentle' sıfatından türer: sondaki e düşer, y eklenir. Zarf biçimi 'gentley' değil 'gently' olur.",
   "note": ""
@@ -223,7 +223,7 @@
    "karanlık; koyuluk"
   ],
   "ex": [
-   "Torbayı tam karanlıkta aradık.",
+   "El fenerini tam karanlıkta aradık.",
    "Yapay aydınlatma, kentsel alanlardaki doğal karanlığı azaltarak sakinlerin ve yabani hayvanların uyku düzenini bozabilir."
   ],
   "col": [
@@ -269,7 +269,7 @@
    "garip bir koku",
    "tek sayı",
    "ara sıra olan durum",
-   "düzensiz işler"
+   "ufak tefek işler"
   ],
   "tip": "'the odd' + tekil isim 'ara sıra olan' anlamı verir (the odd occasion). 'odd jobs' ise geçici, düzensiz işler demektir.",
   "note": ""

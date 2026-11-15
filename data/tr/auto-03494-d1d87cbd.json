@@ -42,7 +42,7 @@
   ],
   "ex": [
    "Eski tabanca, kalın müze camının arkasında sergileniyordu.",
-   "Silahların katı biçimde saklanmasına ilişkin kurallar, kazaları azaltabilir ve yerel topluluklarda güvenliği artırabilir."
+   "Tabancaların saklanmasına ilişkin katı kurallar, kazaları azaltabilir ve yerel topluluklarda güvenliği artırabilir."
   ],
   "col": [
    "tabanca taşımak",
@@ -109,7 +109,7 @@
   "senses": [
    "geçmek; yetişip geçmek",
    "geride bırakmak",
-   "ansızın bastırmak; sarsmak"
+   "ansızın basmak; sarsmak"
   ],
   "ex": [
    "Traktörü geçmek için güvenli bir boşluk bekledik.",
@@ -200,7 +200,7 @@
   "senses": [
    "kayarak düşmek; kaymak",
    "sessizce koymak; sokuşturmak",
-   "küçük kâğıt; küçük hata"
+   "kâğıt parçası; ufak hata"
   ],
   "ex": [
    "Islak zeminde kaydım ama dengemi koruyabildim.",
@@ -220,7 +220,7 @@
   "senses": [
    "derinleştirmek; artırmak",
    "derinleşmek; derinleştirmek",
-   "pesleşmek; alçalmak"
+   "kalınlaşmak; pesleşmek"
   ],
   "ex": [
    "Birlikte hikâye paylaşmak, biriyle arkadaşlığınızı derinleştirebilir.",
@@ -230,7 +230,7 @@
    "anlayışı derinleştirmek",
    "krizi derinleştirmek",
    "kanalı derinleştirmek",
-   "ses pesleşiyor"
+   "ses kalınlaşmak"
   ],
   "tip": "Hem geçişli hem geçişsiz kullanılır: deepen trust (güveni derinleştirmek), a crisis deepens (kriz derinleşir).",
   "note": ""
@@ -243,12 +243,12 @@
   ],
   "ex": [
    "Büyükannem çocuklara karşı sonsuz bir sabra sahip gibi görünüyor.",
-   "Ekonomi politikaları, gezegenin doğal kaynakları sonsuz bir biçimde sağladığını varsaymamalıdır."
+   "Ekonomi politikaları, gezegenin doğal kaynakları sonsuz miktarda sunduğunu varsaymamalıdır."
   ],
   "col": [
    "sonsuz olasılıklar",
    "sonsuz sabır",
-   "sınırsız arz"
+   "sınırsız kaynak"
   ],
   "tip": "Genellikle sıfat olarak kullanılır. 'Sonsuzluk' anlamındaki isim biçimi infinity'dir.",
   "note": ""
@@ -257,7 +257,7 @@
   "id": "edition",
   "senses": [
    "baskı; sürüm",
-   "sayı; nüsha"
+   "sayı; yayın"
   ],
   "ex": [
    "Bu bahçecilik rehberinin en son baskısını aldım.",

@@ -2,7 +2,7 @@
  {
   "id": "seat",
   "senses": [
-   "oturak; koltuk",
+   "koltuk; oturma yeri",
    "oturtmak; yer vermek",
    "milletvekilliği; sandalye"
   ],
@@ -14,7 +14,7 @@
    "oturmak",
    "pencere kenarı koltuğu",
    "yer ayırtmak",
-   "bir sandalye kazanmak"
+   "parlamentoda sandalye kazanmak"
   ],
   "tip": "sit fiil olarak 'oturmak' demektir; seat çoğunlukla 'koltuk' ismi ya da 'yer vermek' anlamında kullanılır. Resmi 'Oturun' için be seated kalıbı kullanılır.",
   "note": ""
@@ -24,10 +24,10 @@
   "senses": [
    "fincan; bardak",
    "kupa; ödül",
-   "avuçlamak; kâse gibi tutmak"
+   "avuçlamak; avuç içine almak"
   ],
   "ex": [
-   "Bir fincan çayın sıcaklığıyla ellerimi ısıttım.",
+   "Ellerimi bir fincan çayın etrafına sararak ısıttım.",
    "Müşterileri yeniden kullanılabilir bardak getirmeye teşvik etmek, kafelerin tek kullanımlık ambalaj atığını azaltmasına yardımcı olabilir."
   ],
   "col": [
@@ -140,7 +140,7 @@
    "Turizm Portekiz ekonomisine katkı sağlar; ancak kıyı gelişimi doğal yaşam alanlarını korumak için dikkatli planlama gerektirir."
   ],
   "col": [
-   "anakara Portekiz",
+   "Portekiz anakarası",
    "kuzey Portekiz",
    "Portekiz'in kıyısı"
   ],
@@ -151,8 +151,8 @@
   "id": "in",
   "senses": [
    "içinde; içeride",
-   "sonra; -den sonra",
-   "içeride; eve"
+   "içinde; sonra",
+   "içeri; evde"
   ],
   "ex": [
    "Anahtarlarınız kapının yanındaki kasede.",
@@ -161,10 +161,10 @@
   "col": [
    "önceden",
    "sabahleyin",
-   "halka açık olarak",
+   "herkesin önünde",
    "vaktinde"
   ],
-  "tip": "Aylar, yıllar ve the morning gibi zaman dilimleri için in kullanılır: in June, in 2025, in the morning. Günler için on kullanılır: on Monday.",
+  "tip": "in two days genellikle 'iki gün sonra' demektir. Aylar, yıllar ve in the morning için in; günler için on kullanılır.",
   "note": ""
  },
  {
@@ -172,7 +172,7 @@
   "senses": [
    "üst; tepe",
    "en üst; en iyi",
-   "birinci olmak; geçmek"
+   "başta gelmek; aşmak"
   ],
   "ex": [
    "Yıldızı ağacın tepesine yerleştirdi.",
@@ -203,13 +203,13 @@
    "şişe kapağı",
    "şişelenmiş su"
   ],
-  "tip": "a bottle of water bir şişe suyu, water bottle ise su şişesini (kabı) anlatır. Bu fark sık karıştırılır.",
+  "tip": "a bottle of water 'bir şişe su' (içindekiyle birlikte), water bottle ise 'su şişesi' yani kabın kendisidir.",
   "note": ""
  },
  {
   "id": "june",
   "senses": [
-   "Haziran"
+   "haziran"
   ],
   "ex": [
    "Kız kardeşim bu yıl haziran ayında evleniyor.",
@@ -220,7 +220,7 @@
    "haziran başı",
    "haziran sonuna kadar"
   ],
-  "tip": "Ay adları büyük harfle yazılır ve in June biçiminde kullanılır. 'On June' söylenmez.",
+  "tip": "Ay adları büyük harfle yazılır; ay için in June, belirli tarih için on June 5 kullanılır.",
   "note": ""
  },
  {

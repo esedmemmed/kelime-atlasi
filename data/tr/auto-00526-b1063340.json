@@ -3,7 +3,7 @@
   "id": "lesson",
   "senses": [
    "ders",
-   "ders; ibret"
+   "ders; deneyim"
   ],
   "ex": [
    "Yüzme dersimiz perşembe günü okuldan sonra başlıyor.",
@@ -12,7 +12,7 @@
   "col": [
    "ders almak",
    "piyano dersi",
-   "ibret almak; ders çıkarmak",
+   "ders çıkarmak",
    "değerli bir ders"
   ],
   "tip": "learn a lesson bir hatadan ders çıkarmak anlamına gelir; ders almak için take lessons kullanılır.",
@@ -50,7 +50,7 @@
   "col": [
    "fiziki coğrafya",
    "beşeri coğrafya",
-   "coğrafya çalışmak"
+   "coğrafya okumak"
   ],
   "tip": "geography coğrafya bilimini, geology ise jeoloji bilimini anlatır; ikisi birbirine karıştırılmamalıdır.",
   "note": ""
@@ -105,7 +105,7 @@
   ],
   "col": [
    "her öğrenci",
-   "hepimizin her biri",
+   "her birimiz",
    "her seferinde",
    "birbirini"
   ],
@@ -189,7 +189,7 @@
   "id": "moment",
   "senses": [
    "an; kısa süre",
-   "an; dönüm noktası"
+   "an; önemli an"
   ],
   "ex": [
    "Ayakkabılarımı giyerken bir dakika bekle.",

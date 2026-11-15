@@ -3,7 +3,7 @@
   "id": "ignorant",
   "senses": [
    "bilgisiz; habersiz",
-   "cahil; görgüsüz"
+   "cahil; eğitimsiz"
   ],
   "ex": [
    "Kuralları biri bana açıklayana kadar onlardan habersizdim.",
@@ -28,9 +28,9 @@
    "Yerel âdetlere dair temel bir bilgi bile uluslararası öğrencilerin yurt dışındaki hayata daha kolay uyum sağlamasına yardımcı olabilir."
   ],
   "col": [
-   "yüzeysel bir tanıdık",
+   "sıradan bir tanıdık",
    "biriyle tanışmak",
-   "ile ilgili aşinalık"
+   "...e aşinalık"
   ],
   "tip": "Kişi anlamında sayılabilir bir isimdir. 'Bilgi' anlamında genellikle with ile kullanılır.",
   "note": ""
@@ -39,7 +39,7 @@
   "id": "apparent",
   "senses": [
    "belli; açık",
-   "görünürdeki; sözde"
+   "görünürdeki; görünüşte"
   ],
   "ex": [
    "Heyecanı büyük gülümsemesinden belliydi.",
@@ -56,10 +56,10 @@
  {
   "id": "frustration",
   "senses": [
-   "hayal kırıklığı; sinir"
+   "hayal kırıklığı; bıkkınlık"
   ],
   "ex": [
-   "Yazıcı yine sıkışınca iç çekerek hayal kırıklığını dile getirdi.",
+   "Yazıcı yine sıkışınca sinirlenerek iç çekti.",
    "Toplu taşımadaki tekrarlayan gecikmeler, yolcuların hayal kırıklığını artırabilir ve yerel hizmetlere olan güvenlerini azaltabilir."
   ],
   "col": [
@@ -112,7 +112,7 @@
    "yat; yelkenli"
   ],
   "ex": [
-   "Beyaz bir yatın koyun üzerinden yelken açtığını izledik.",
+   "Beyaz bir yatın koyu boydan boya geçişini izledik.",
    "Yat turizminin artan popülaritesi kıyı topluluklarına gelir sağlayabilir, ancak deniz yaşam alanlarına zarar verebilir."
   ],
   "col": [
@@ -197,7 +197,7 @@
   "senses": [
    "kıskançlık; imrenme",
    "kıskanmak; imrenmek",
-   "gıpta edilen şey"
+   "imrenilen şey"
   ],
   "ex": [
    "Gürültülü trenlerde uyuyabilmene imreniyorum.",
@@ -206,7 +206,7 @@
   "col": [
    "birinin bir şeyini kıskanmak",
    "kıskançlıkla",
-   "...nin gıpta ettiği şey",
+   "...nin imrendiği şey",
    "kıskançlıktan çatlamak"
   ],
   "tip": "Fiil doğrudan nesne alır: envy someone. Arada of kullanılmaz.",
@@ -234,7 +234,7 @@
  {
   "id": "crisis",
   "senses": [
-   "kriz; buhran"
+   "kriz; bunalım"
   ],
   "ex": [
    "Kırılan su borusu evde bir kriz yarattı.",

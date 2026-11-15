@@ -12,7 +12,7 @@
   ],
   "col": [
    "bir toz tabakası",
-   "toza dönmek",
+   "toz toplamak",
    "rafların tozunu almak",
    "unla serpmek"
   ],
@@ -26,7 +26,7 @@
   ],
   "ex": [
    "Bir film izledik ve sonunu daha sonra tartıştık.",
-   "Yeni konuları kısa süre sonra gözden geçiren öğrenciler, bunları uzun vadede hatırlama olasılığı daha yüksek olan öğrencilerdir."
+   "Yeni konuları kısa süre sonra gözden geçiren öğrencilerin bunları uzun vadede hatırlama olasılığı daha yüksektir."
   ],
   "col": [
    "kısa süre sonra",
@@ -48,7 +48,7 @@
   ],
   "col": [
    "bir bankayı soymak",
-   "birinden bir şeyi almak",
+   "birini bir şeyden yoksun bırakmak",
    "birini fırsatlardan yoksun bırakmak"
   ],
   "tip": "rob bir kişi ya da yer ile kullanılır; çalınan eşya için steal kullanılır.",
@@ -113,7 +113,7 @@
   "id": "rather",
   "senses": [
    "oldukça; epey",
-   "ziyade; tercihen",
+   "tercih etmek",
    "daha doğrusu"
   ],
   "ex": [
@@ -126,14 +126,14 @@
    "yerine; ziyade",
    "veya daha doğrusu"
   ],
-  "tip": "would rather'dan sonra fiilin yalın hali gelir; rather than \"-ense de yerine\" anlamına gelir.",
+  "tip": "would rather'dan sonra fiil yalın hâlde gelir: I would rather stay. rather than ise 'yerine; -mektense' demektir.",
   "note": ""
  },
  {
   "id": "mention",
   "senses": [
    "bahsetmek; değinmek",
-   "sözle anma; değinme"
+   "söz; değinme"
   ],
   "ex": [
    "Kırık pencereden ev sahibine bahsettin mi?",
@@ -143,7 +143,7 @@
    "birine bir şeyden bahsetmek",
    "şunu söylemek",
    "hiçbir şeyden söz etmemek",
-   "-i saymıyorum bile"
+   "ayrıca; bir yana"
   ],
   "tip": "Doğrudan nesne alır: mention something; \"mention about\" demek yanlıştır.",
   "note": ""
@@ -178,7 +178,7 @@
    "Uzun süren kuraklıklar buğday hasadını azaltarak gıda fiyatlarını yükseltebilir ve savunmasız bölgelerde gıda güvenliğini tehdit edebilir."
   ],
   "col": [
-   "buğday ekmek",
+   "buğday yetiştirmek",
    "buğday unu",
    "buğday hasadı",
    "tam buğday"
@@ -189,13 +189,13 @@
  {
   "id": "shade",
   "senses": [
-   "gölgelik; gölge",
+   "gölge; gölgelik",
    "ton; renk tonu",
    "gölgelemek; korumak"
   ],
   "ex": [
    "Büyük bir ağacın altındaki gölgede dinlendik.",
-   "Kent caddelerine ağaç dikmek gölge sağlar ve sakinlerin yaz aşırı sıcaklarına maruz kalmasını azaltabilir."
+   "Kent caddelerine ağaç dikmek gölge sağlar ve sakinlerin yazın aşırı sıcaklara maruz kalmasını azaltabilir."
   ],
   "col": [
    "gölgede",

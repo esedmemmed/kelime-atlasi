@@ -7,11 +7,11 @@
   ],
   "ex": [
    "Piyanonun başında ilk kıtayı birlikte söyledik.",
-   "Manzum eserler incelemek, dil öğrenenlerin ritmi fark etmesine ve yazarların karmaşık duyguları nasıl aktardığını keşfetmesine yardımcı olabilir."
+   "Manzum eserleri incelemek, dil öğrenenlerin ritmi fark etmesine ve yazarların karmaşık duyguları nasıl aktardığını keşfetmesine yardımcı olabilir."
   ],
   "col": [
    "serbest nazım",
-   "boş nazım",
+   "kafiyesiz nazım",
    "manzum olarak",
    "açılış kıtası"
   ],
@@ -83,7 +83,7 @@
   ],
   "col": [
    "eşcinsel çift",
-   "eşcinsel haklar",
+   "eşcinsel hakları",
    "açıkça eşcinsel olan"
   ],
   "tip": "Genellikle sıfat olarak kullanılır. 'Neşeli' anlamı günümüzde neredeyse kullanılmaz; bu anlamda kullanmaktan kaçının.",
@@ -163,7 +163,7 @@
   "id": "parade",
   "senses": [
    "geçit töreni; alay",
-   "geçit yapmak; sıra sıra yürümek",
+   "geçit töreni yapmak",
    "gösterişle sergilemek"
   ],
   "ex": [
@@ -173,7 +173,7 @@
   "col": [
    "sokak geçit töreni",
    "karnaval geçidi",
-   "sokaklarda geçit yapmak"
+   "sokaklardan geçit töreniyle geçmek"
   ],
   "tip": "Parade daha çok süslü ve gösterişli geçitler için kullanılır; protesto yürüyüşü için march tercih edilir.",
   "note": ""
@@ -190,7 +190,7 @@
   "col": [
    "olumlu etki",
    "sağlık için yararlı",
-   "karşılıklı yararlı"
+   "karşılıklı yarar sağlayan"
   ],
   "tip": "Genellikle 'to' veya 'for' ile kullanılır ve kime ya da neye yararlı olduğunu belirtir.",
   "note": ""

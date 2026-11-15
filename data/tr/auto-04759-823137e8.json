@@ -33,7 +33,7 @@
    "önemini hafife almak",
    "ciddi biçimde hafife almak"
   ],
-  "tip": "Fiilin sonu /eɪt/, isimin sonu /ət/ okunur. Fiil ve isim telaffuzda ayrılır.",
+  "tip": "Fiilde son hece /meɪt/, isimde /mət/ okunur; yazılışları aynıdır.",
   "note": ""
  },
  {
@@ -188,7 +188,7 @@
    "daha tercih edilir; daha uygun"
   ],
   "ex": [
-   "Sakin bir akşam evde kalmak, bir partiye gitmekten daha tercih edilir.",
+   "Sakin bir akşam evde kalmak, başka bir partiye gitmekten daha tercih edilir.",
    "Yoğun nüfuslu şehirlerde güvenilir toplu taşımaya yatırım yapmak, genellikle yeni yollar inşa etmekten daha uygundur."
   ],
   "col": [
@@ -204,7 +204,7 @@
   "senses": [
    "ilişkilendirmek; akla getirmek",
    "iş arkadaşı; iş ortağı",
-   "yardımcı; yardımcı düzeyde"
+   "yardımcı"
   ],
   "ex": [
    "Tarçın kokusunu her zaman evle ilişkilendiririm.",
@@ -266,7 +266,7 @@
    "Düzenli fazla mesai kısa vadede verimliliği artırabilir, ama çalışanların sağlığını da zedeleyebilir ve iş tatminini azaltabilir."
   ],
   "col": [
-   "mesai yapmak",
+   "fazla mesai yapmak",
    "fazla mesai ücreti",
    "ödenmeyen fazla mesai",
    "zorunlu fazla mesai"

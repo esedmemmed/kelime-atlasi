@@ -49,7 +49,7 @@
   ],
   "col": [
    "mutlu bir evlilik",
-   "evlilik cüzdanı",
+   "evlilik belgesi",
    "evlilik töreni",
    "biriyle evlilik"
   ],
@@ -86,7 +86,7 @@
   "col": [
    "hamile kalmak",
    "hamile kadınlar",
-   "ileri derecede hamile"
+   "hamileliği ilerlemiş"
   ],
   "tip": "Hamileliğin süresini belirtmek için 'six months pregnant' (altı aylık hamile) kalıbı kullanılır.",
   "note": ""
@@ -142,7 +142,7 @@
   ],
   "col": [
    "birini bir şey yapmaya ikna etmek",
-   "birine bir şeyi inandırmak",
+   "birini bir şeye inandırmak",
    "ikna etmesi zor"
   ],
   "tip": "'Persuade someone to do' kalıbında fiil 'to' ile gelir. 'Persuade' başarılı bir ikna sonucunu ima eder.",
@@ -264,7 +264,7 @@
    "tepe; üst kısım"
   ],
   "ex": [
-   "Kraliçe törende altın bir taç takmıştı.",
+   "Kraliçe törende altın bir taç takıyordu.",
    "Müzede sergilenen kraliyet tacı, tarihte servete, otoriteye ve işçiliğe yönelik tutumları ortaya koyabilir."
   ],
   "col": [

@@ -10,8 +10,8 @@
   ],
   "col": [
    "birinin adına",
-   "birinin adına hareket etmek",
-   "birinin yararına"
+   "birinin adına",
+   "adına hareket etmek"
   ],
   "tip": "Genellikle on behalf of kalıbıyla kullanılır. Aynı anlamda in behalf of nadirdir, on behalf of tercih edilir.",
   "note": ""
@@ -21,7 +21,7 @@
   "senses": [
    "ani çekmek; sarsmak",
    "ani hareket; sarsıntı",
-   "salak; geri zekâlı"
+   "ahmak; salak"
   ],
   "ex": [
    "Otobüs aniden öne doğru sarsıldı ve alışveriş torbam yere düştü.",
@@ -50,7 +50,7 @@
    "kontakt lens",
    "geniş açılı lens"
   ],
-  "tip": "Çoğulu lenses. Gözlük camı anlamında değil, optik mercek veya göz merceği anlamındadır.",
+  "tip": "Çoğulu lenses; kontakt lens için genellikle çoğul 'contact lenses' kullanılır.",
   "note": ""
  },
  {
@@ -84,7 +84,7 @@
   ],
   "col": [
    "derinden endişeli",
-   "derin köklü",
+   "köklü; kökleşmiş",
    "derin nefes almak",
    "derinden etkilenmek"
   ],
@@ -112,7 +112,7 @@
   "id": "former",
   "senses": [
    "eski; önceki",
-   "birincisi; önceki olan"
+   "birincisi; ilki"
   ],
   "ex": [
    "Eski komşum hâlâ her yaz bizi ziyaret ediyor.",
@@ -129,7 +129,7 @@
  {
   "id": "slot",
   "senses": [
-   "yuva; dar aralık",
+   "yuva; yarık",
    "zaman dilimi; boş yer",
    "yerleştirmek; sokmak"
   ],
@@ -182,7 +182,7 @@
   "id": "circuit",
   "senses": [
    "devre; elektrik devresi",
-   "çevre yolu; tur",
+   "tur; dairesel rota",
    "turne; etkinlik güzergâhı"
   ],
   "ex": [
@@ -202,15 +202,15 @@
   "id": "freshen",
   "senses": [
    "tazelemek; ferahlatmak",
-   "çeki düzen vermek",
-   "rüzgâr güçlenmek"
+   "tazelenmek; toparlanmak",
+   "şiddetlenmek"
   ],
   "ex": [
    "Odayı ferahlatmak için pencereyi açalım.",
    "Kentsel alanlara ağaç dikmek, gölge sağlarken mahallelerin genel görünümünü iyileştirerek bu alanları tazeleyebilir."
   ],
   "col": [
-   "çeki düzen vermek",
+   "tazelenmek",
    "havayı ferahlatmak",
    "nefesi tazelemek"
   ],

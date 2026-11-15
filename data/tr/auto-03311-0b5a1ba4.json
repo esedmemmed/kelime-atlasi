@@ -6,7 +6,7 @@
    "temel ilke; yasa"
   ],
   "ex": [
-   "Bunu bir ilke meselesi olarak ek parayı reddettim.",
+   "Ek parayı ilke meselesi olarak reddettim.",
    "Eşit fırsat ilkesi, yükseköğretime erişimi artırmayı amaçlayan politikalara yön vermelidir."
   ],
   "col": [
@@ -22,7 +22,7 @@
   "id": "bouquet",
   "senses": [
    "buket; demet",
-   "buket; koku"
+   "buket; aroma"
   ],
   "ex": [
    "Büyükannesinin doğum günü yemeğine parlak renkli bir buket getirdi.",
@@ -51,7 +51,7 @@
    "bir planı uygulamak",
    "tarımsal aletler"
   ],
-  "tip": "Fiil olarak plan ve kararları hayata geçirmek, isim olarak alet anlamına gelir. Resmi metinlerde plan ve politikalar için sıkça kullanılır.",
+  "tip": "İki türde de vurgu ilk hecededir; fiilin sonu /ment/, ismin sonu /mənt/ okunur.",
   "note": ""
  },
  {
@@ -66,7 +66,7 @@
   "col": [
    "güvenliği sağlamak",
    "erişimi sağlamak",
-   "olduğundan emin olmak"
+   "... olmasını sağlamak"
   ],
   "tip": "ensure, bir şeyin gerçekleşmesini sağlamak anlamına gelir; sigortalamak anlamında insure kullanılır. Bir isim ya da that cümlesi alır.",
   "note": ""
@@ -74,7 +74,7 @@
  {
   "id": "species",
   "senses": [
-   "tür; cins"
+   "tür"
   ],
   "ex": [
    "Yazın bahçemize birkaç tür kelebek uğruyor.",
@@ -140,7 +140,7 @@
    "şafakta",
    "sabahtan akşama kadar",
    "yeni bir çağın başlangıcı",
-   "aklına gelmek"
+   "birinin aklına gelmek"
   ],
   "tip": "It dawned on me that... kalıbı 'farkına vardım ki' anlamına gelir. dawn on someone yapısını bir bütün olarak öğrenin.",
   "note": ""
@@ -174,7 +174,7 @@
    "Destekleyici bir aile ortamı, çocukların özgüven kazanmasına ve okuldaki zorluklarla daha etkili baş etmesine yardımcı olabilir."
   ],
   "col": [
-   "katı bir terbiye",
+   "sıkı bir yetiştirilme",
    "korumacı bir yetiştirilme",
    "ayrıcalıklı bir yetiştirilme"
   ],
@@ -219,7 +219,7 @@
   "senses": [
    "bir avuç",
    "birkaç kişi; az sayı",
-   "baş belası"
+   "başa çıkılması zor kişi"
   ],
   "ex": [
    "Kahvaltısının üzerine bir avuç fındık serpti.",
@@ -228,7 +228,7 @@
   "col": [
    "bir avuç pirinç",
    "birkaç kişi",
-   "başa bela olmak"
+   "başa çıkması zor olmak"
   ],
   "tip": "a handful of hem sayılabilir çoğul isimlerle hem de sayılamayan isimlerle kullanılabilir. Bu kalıbı 'birkaç' anlamında öğrenin.",
   "note": ""
@@ -256,7 +256,7 @@
   "id": "fellow",
   "senses": [
    "aynı durumdaki; ortak",
-   "adam; herif",
+   "adam; erkek",
    "üye; araştırmacı"
   ],
   "ex": [
@@ -265,9 +265,9 @@
   ],
   "col": [
    "sınıf arkadaşları",
-   "yolcu arkadaşları",
+   "diğer yolcular",
    "araştırma görevlisi",
-   "sevimli bir herif"
+   "sevimli bir adam"
   ],
   "tip": "Sıfat olarak yalnızca isimden önce gelir: my fellow students. 'Adam' anlamındaki isim kullanımı gündelik konuşmaya özgüdür; resmi yazıda kaçının.",
   "note": ""

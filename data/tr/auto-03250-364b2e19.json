@@ -46,7 +46,7 @@
   "col": [
    "kaset bandı",
    "kaset çalar",
-   "ses kasedi"
+   "ses kaseti"
   ],
   "tip": "Vurgu ikinci hecededir; kaset çalara cassette player denir.",
   "note": ""
@@ -165,7 +165,7 @@
   "id": "daytime",
   "senses": [
    "gündüz",
-   "gündüze ait; gündüzki"
+   "gündüz; gündüzkü"
   ],
   "ex": [
    "Kedi genellikle gündüzleri evde uyur.",
@@ -174,7 +174,7 @@
   "col": [
    "gündüz vakti",
    "gündüz sıcaklıkları",
-   "gündüz televizyon yayını"
+   "gündüz televizyonu"
   ],
   "tip": "Genellikle in the daytime biçiminde kullanılır; sıfat olarak ismin önünde the kullanılmaz.",
   "note": ""
@@ -201,7 +201,7 @@
   "id": "signature",
   "senses": [
    "imza",
-   "belirleyici; ayırt edici"
+   "kendine özgü; ayırt edici"
   ],
   "ex": [
    "Kapıdaki kurye benden imza istedi.",
@@ -210,7 +210,7 @@
   "col": [
    "imza gerektirmek",
    "elektronik imza",
-   "imza yemek"
+   "şefin imza yemeği"
   ],
   "tip": "Ünlü birinin imzası için genellikle autograph kullanılır; signature ise kişinin kendi imzasını anlatır.",
   "note": ""

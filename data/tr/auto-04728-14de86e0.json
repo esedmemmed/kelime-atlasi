@@ -99,7 +99,7 @@
    "Kentsel bahçeler serçelere yiyecek ve barınak sağlayarak yoğun nüfuslu bölgelerdeki kuş popülasyonunun korunmasına yardımcı oluyor."
   ],
   "col": [
-   "bir sürü serçe",
+   "bir serçe sürüsü",
    "ev serçesi",
    "ağaç serçesi"
   ],
@@ -116,9 +116,9 @@
    "Nüfusun yaşlanmasıyla artan sağlık ihtiyaçlarını karşılamak için hemşirelik eğitimine yatırım yapmak şarttır."
   ],
   "col": [
-   "hemşire bakımı",
+   "hemşirelik bakımı",
    "bakım evi",
-   "hemşire personeli",
+   "hemşire kadrosu",
    "hemşirelik diploması"
   ],
   "tip": "Meslek ya da eğitim alanı olarak genellikle sayılamaz. Hemşire kişisi için nurse kullanılır.",
@@ -127,7 +127,7 @@
  {
   "id": "persuasion",
   "senses": [
-   "ikna; yönlendirme",
+   "ikna; ikna etme",
    "inanç; görüş"
   ],
   "ex": [

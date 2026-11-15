@@ -2,10 +2,10 @@
  {
   "id": "advisor",
   "senses": [
-   "danışman; müşavir"
+   "danışman"
   ],
   "ex": [
-   "Bu dönem hangi dersleri alacağıma akademik danışmanım yardımcı olarak karar verdi.",
+   "Danışmanım gelecek dönem için ders seçmeme yardım etti.",
    "Nitelikli bir finans danışmanı, hanelerin emeklilik planı yapmasına ve uzun vadeli yatırımların risklerini yönetmesine yardımcı olabilir."
   ],
   "col": [
@@ -27,7 +27,7 @@
    "Teknoloji sınıf öğrenmesini destekleyebilse de eğitimdeki başarı sonuçta etkili öğretime ve öğrencinin katılımına bağlıdır."
   ],
   "col": [
-   "sonunda bağlı olmak",
+   "sonuçta -e bağlı olmak",
    "sonunda yol açmak",
    "nihayetinde sorumlu"
   ],
@@ -134,7 +134,7 @@
   "id": "rag",
   "senses": [
    "bez; paçavra",
-   "eski giysi; püskü"
+   "yırtık pırtık giysi"
   ],
   "ex": [
    "Yağlı aletleri eski bir bezle sildi.",
@@ -171,11 +171,11 @@
  {
   "id": "cabinet",
   "senses": [
-   "dolap; kabine",
+   "dolap",
    "bakanlar kurulu; kabine"
   ],
   "ex": [
-   "Temiz bardaklar lavaboun üstündeki dolapta.",
+   "Temiz bardaklar lavabonun üstündeki dolapta.",
    "Kabine, hızla büyüyen şehirlerde uygun fiyatlı konuta erişimi iyileştirmek için ulusal bir program onayladı."
   ],
   "col": [
@@ -255,7 +255,7 @@
    "çocukları aşılamak",
    "aşı olmak"
   ],
-  "tip": "someone against disease kalıbı kullanılır: vaccinate someone against measles. 'Aşı olmak' için get vaccinated denir.",
+  "tip": "vaccinate someone against a disease kalıbı kullanılır: vaccinate someone against measles. 'Aşı olmak' için get vaccinated denir.",
   "note": ""
  },
  {

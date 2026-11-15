@@ -24,7 +24,7 @@
   "senses": [
    "karıştırmak",
    "uyandırmak; harekete geçirmek",
-   "kargaşa; heyecan"
+   "heyecan; olay"
   ],
   "ex": [
    "Çorba yapışmasın diye yavaşça karıştırın.",
@@ -33,7 +33,7 @@
   "col": [
    "iyice karıştırmak",
    "karıştırıp eklemek",
-   "büyük heyecan yaratmak",
+   "olay yaratmak",
    "sorun çıkarmak"
   ],
   "tip": "Geçmiş zaman ve geçmiş ortaç stirred, ing hâli stirring; r harfi ikiye katlanır. 'stir up' sorun çıkarmak anlamına da gelir.",
@@ -88,7 +88,7 @@
    "Şehirlerdeki güvercin sayısı, yiyecek atıklarının bol olduğu yerlerde genellikle artar; bu da etkili çöp toplamanın önemini gösterir."
   ],
   "col": [
-   "bir sürü güvercin",
+   "bir güvercin sürüsü",
    "posta güvercini",
    "güvercinleri beslemek"
   ],
@@ -163,7 +163,7 @@
    "ben de değilim",
    "biz de yapamayız"
   ],
-  "tip": "neither ... nor ... kalıbında nor ikinci kısmı başlatır. nor bir cümle başında geldiğinde soru devriği olur: nor do I.",
+  "tip": "neither ... nor ... kalıbında nor ikinci öğeyi başlatır. Cümle başında nor'dan sonra devrik yapı gelir: nor do I.",
   "note": ""
  },
  {
@@ -175,7 +175,7 @@
   ],
   "ex": [
    "Anahtarınızı kaybederseniz lütfen resepsiyonla iletişime geçin.",
-   "Ailesiyle düzenli temas kuran yaşlılar, yalnız yaşayanlar arasında yalnızlık hissini azaltabilir."
+   "Aile üyeleriyle düzenli iletişim, yalnız yaşayan yaşlılar arasında yalnızlığı azaltabilir."
   ],
   "col": [
    "iletişimde kalmak",
@@ -228,13 +228,13 @@
    "tutkun; hayran"
   ],
   "ex": [
-   "Favori fincanımı kırdığım için babam çok kızdı.",
-   "Bazı sakinler futbola çılgınca tutkuluyken, kamu spor finansmanı daha geniş bir faaliyet yelpazesini desteklemelidir."
+   "Babam, en sevdiği fincanı kırdığım için çok kızdı.",
+   "Bazı sakinler futbol delisi olsa da kamu spor finansmanı daha geniş bir faaliyet yelpazesini desteklemelidir."
   ],
   "col": [
    "kızmak",
    "birine kızgın olmak",
-   "futbola çılgınca tutkun olmak",
+   "futbol delisi olmak",
    "birini çıldırtmak"
   ],
   "tip": "mad at sb: birine kızgın olmak; mad about sth: bir şeye tutkun olmak. Edatı değiştirmek anlamı da değiştirir.",
@@ -253,9 +253,9 @@
   "col": [
    "hapse girmek",
    "hapis cezası",
-   "dolandırıcılıktan hapse atılmak"
+   "dolandırıcılık suçundan hapse atılmak"
   ],
-  "tip": "in jail (hapiste) ve go to jail ifadelerinde article kullanılmaz. İngiliz İngilizcesinde prison daha yaygındır.",
+  "tip": "in jail ve go to jail ifadelerinde a/the kullanılmaz. İngiliz İngilizcesinde eski yazım gaol'dür.",
   "note": ""
  },
  {

@@ -69,7 +69,7 @@
    "akademik yıl; öğretim yılı",
    "her yıl",
    "yıl boyunca",
-   "ara yıl (okul öncesi bir yıl ara)"
+   "ara yıl (üniversite öncesi)"
   ],
   "tip": "last year gibi ifadelerden önce edat kullanılmaz. Yaş için years old denir: I am 32 years old.",
   "note": ""
@@ -162,7 +162,7 @@
    "örgü kazak",
    "kalın kazak"
   ],
-  "tip": "İngiliz İngilizcesinde jumper da denir; sweatshirt ise eşofman üstüdür.",
+  "tip": "İngiliz İngilizcesinde jumper da denir; sweatshirt ise pamuklu spor üsttür.",
   "note": ""
  },
  {
@@ -212,7 +212,7 @@
    "İspanya, kültürel mirası, çeşitli manzaraları ve gelişmiş turizm altyapısıyla uluslararası ziyaretçileri çekiyor."
   ],
   "col": [
-   "Güney İspanya",
+   "İspanya'nın güneyi",
    "İspanya anakarası",
    "İspanya'ya seyahat etmek"
   ],
@@ -243,7 +243,7 @@
   "id": "different",
   "senses": [
    "farklı",
-   "çeşitli; farklı farklı"
+   "çeşitli; değişik"
   ],
   "ex": [
    "Bu eldivenler birbirine benziyor ama bedenleri farklı.",
@@ -272,7 +272,7 @@
    "yüzme havuzu",
    "yetenek havuzu",
    "kaynakları birleştirmek",
-   "bilgiyi paylaşmak"
+   "bilgileri bir araya getirmek"
   ],
   "tip": "pool resources \"kaynakları birleştirmek\" demektir; play pool ise \"bilardo oynamak\"tır.",
   "note": ""
@@ -382,8 +382,8 @@
   "col": [
    "bir saat",
    "çalışma saatleri",
-   "açılış saatleri",
-   "trafiğin yoğun olduğu saat"
+   "açılış-kapanış saatleri",
+   "yoğun saatler"
   ],
   "tip": "h okunmaz, bu yüzden an hour denir, a hour değil.",
   "note": ""
@@ -515,7 +515,7 @@
   ],
   "col": [
    "bir şeyi yapmaktan keyif almak",
-   "iyi eğlenceler; keyfine bak",
+   "eğlenmek; keyfini çıkarmak",
    "sağlıklı olmak",
    "faydalarından yararlanmak"
   ],
@@ -569,7 +569,7 @@
   "col": [
    "profesyonel sanatçı",
    "yerel sanatçı",
-   "kayıt sanatçısı (şarkıcı)",
+   "plak sanatçısı",
    "yetenekli sanatçı"
   ],
   "tip": "artist kişidir; artistic \"sanatsal\" anlamında sıfattır.",
@@ -733,7 +733,7 @@
   "id": "quiet",
   "senses": [
    "sessiz; sakin",
-   "sakin; hareketsiz",
+   "sakin; durgun",
    "sessizlik; huzur"
   ],
   "ex": [
@@ -741,7 +741,7 @@
    "Halk kütüphanelerindeki sessiz çalışma alanları, evde odaklanamayan öğrenciler için vazgeçilmezdir."
   ],
   "col": [
-   "sessiz olmak",
+   "sessiz kalmak; susmak",
    "sakin bir mahalle",
    "huzur ve sükûnet"
   ],
@@ -761,7 +761,7 @@
   ],
   "col": [
    "bir şeyi …-e eklemek",
-   "toplamak; anlam ifade etmek",
+   "toplamak; mantıklı olmak",
    "değer katmak",
    "… diye eklemek"
   ],

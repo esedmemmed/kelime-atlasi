@@ -3,7 +3,7 @@
   "id": "villain",
   "senses": [
    "kötü adam; kötü karakter",
-   "müsebbip; sorumlu"
+   "suçlu; sorumlu"
   ],
   "ex": [
    "Kötü adam, çalınan mücevherleri bir çizmenin içine sakladı.",
@@ -25,7 +25,7 @@
    "akın etmek; üşüşmek"
   ],
   "ex": [
-   "Mutfağa pasta bıraktıktan sonra karıncalar evimizi bastı.",
+   "Pasta açıkta kaldıktan sonra karıncalar mutfağımızı bastı.",
    "Bazı izleme teknolojileri, kamu güvenliğini artırmak için kullanılsa bile insanların mahremiyetini ihlal edebilir."
   ],
   "col": [
@@ -104,9 +104,9 @@
    "Hastalıkların önlenmesine yapılan yatırım, uzun vadede hastaneler üzerindeki baskıyı azaltabilir ve halk sağlığını iyileştirebilir."
   ],
   "col": [
-   "hastalıktan korunma",
+   "hastalıkların önlenmesi",
    "suç önleme",
-   "yangın önlemi"
+   "yangın önleme"
   ],
   "tip": "Genellikle sayılamaz isimdir. Fiil kalıbı prevent sb from doing şeklindedir.",
   "note": ""
@@ -123,7 +123,7 @@
   ],
   "col": [
    "at arabası",
-   "kapalı kasa araba",
+   "üstü örtülü yük arabası",
    "yük vagonu"
   ],
   "tip": "İngiliz İngilizcesinde waggon olarak da yazılır. Demiryolu anlamı ağırlıklı olarak İngiliz İngilizcesinde kullanılır.",
@@ -175,16 +175,16 @@
    "çekirdeğini çıkarmak"
   ],
   "ex": [
-   "Elmayı yedi ve çekirdeğini attı.",
+   "Elmayı yedi ve koçanını attı.",
    "Eleştirel düşünme, öğrencilerin bilgiyi bağımsız olarak değerlendirmelerine yardımcı olduğu için okullarda öğretilmesi gereken temel bir beceri olmalıdır."
   ],
   "col": [
    "...in özünde",
    "temel beceriler",
-   "elma çekirdeği",
+   "elma koçanı",
    "Dünya'nın çekirdeği"
   ],
-  "tip": "Elma çekirdeği için core, şeftali gibi meyvelerin sert çekirdeği için ise genellikle stone kullanılır.",
+  "tip": "Elmanın sert orta kısmı (koçan) için core, şeftali gibi meyvelerin çekirdeği için genellikle stone kullanılır.",
   "note": ""
  },
  {
@@ -196,7 +196,7 @@
   ],
   "ex": [
    "Orman yolunun kenarındaki tabelanın yanında durduk.",
-   "Yazarlar, okuyucuların karmaşık tartışmaları daha kolay takip edebilmesi için argümanlarındaki değişimleri belirgin biçimde belli etmelidir."
+   "Yazarlar, okuyucuların karmaşık tartışmaları daha kolay takip edebilmesi için argümanlarındaki geçişleri açıkça belirtmelidir."
   ],
   "col": [
    "tabelaları takip etmek",

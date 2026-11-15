@@ -97,7 +97,7 @@
    "dönme; dönüş"
   ],
   "ex": [
-   "Küçük fırının yanındaki bir sonraki sapaktan dönün.",
+   "Küçük fırından sonraki ilk sapaktan dönün.",
    "Bu sapakta görüşün kısıtlı olması bisikletliler ve diğer yol kullanıcıları için kaza riskini artırıyor."
   ],
   "col": [
@@ -205,7 +205,7 @@
   "id": "relation",
   "senses": [
    "ilişki; bağlantı",
-   "akraba; yakın"
+   "akraba"
   ],
   "ex": [
    "Fiyatın kaliteyle hiçbir ilgisi yok gibi görünüyor.",
@@ -235,7 +235,7 @@
    "bir futbol ligi",
    "ligin zirvesi",
    "başka bir seviyede olmak",
-   "gücümün üstünde olmak"
+   "erişemeyeceğim düzeyde olmak"
   ],
   "tip": "'In a different league' bir şeyin başka bir seviyede, genellikle çok daha üstün olduğunu anlatır. Günlük dilde sık kullanılır.",
   "note": ""

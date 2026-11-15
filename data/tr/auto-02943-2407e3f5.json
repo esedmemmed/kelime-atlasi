@@ -13,7 +13,7 @@
    "hayalet hikâyesi",
    "hayalet kasaba",
    "bir gülümsemenin hafif izi",
-   "çok şaşırmak"
+   "hayalet görmüş gibi olmak"
   ],
   "tip": "a ghost of a smile kalıbında ghost bir 'hafif iz' anlamında kullanılır; bu kullanım yalnızca kalıp olarak öğrenilmelidir.",
   "note": ""
@@ -80,7 +80,7 @@
    "davulcu"
   ],
   "ex": [
-   "Davulcu, şarkıdan önce baget­lerini birbirine vurdu.",
+   "Davulcu, şarkıdan önce bagetlerini birbirine vurdu.",
    "Yetenekli bir davulcu, müzisyenlerin düzenli bir ritim tutmasına yardımcı olur; bu da canlı performans için şarttır."
   ],
   "col": [
@@ -142,7 +142,7 @@
   ],
   "col": [
    "üst kat",
-   "üst vücut",
+   "üst gövde",
    "üst sınır",
    "üst sınıf"
   ],
@@ -153,7 +153,7 @@
   "id": "fare",
   "senses": [
    "bilet ücreti; yolcu ücreti",
-   "gitmek; idare etmek",
+   "idare etmek; durumda olmak",
    "yemek; yiyecek"
   ],
   "ex": [
@@ -163,7 +163,7 @@
   "col": [
    "otobüs ücreti",
    "bilet zammı",
-   "iyi gitmek",
+   "başarılı olmak",
    "geleneksel yemekler"
   ],
   "tip": "fare yolculuk ücretini anlatır; fee ise hizmet veya okul ücreti için kullanılır.",
@@ -173,7 +173,7 @@
   "id": "worth",
   "senses": [
    "değerinde",
-   "değer; değecek",
+   "değmek; değer",
    "değer; önem"
   ],
   "ex": [
@@ -255,7 +255,7 @@
    "Koyu renkli yol yüzeyleri gündüz ısıyı emer ve kentsel alanlarda sıcaklıkların yükselmesine katkıda bulunur."
   ],
   "col": [
-   "pürüzlü yüzey",
+   "pürüzsüz yüzey",
    "Dünya'nın yüzeyi",
    "yüzeyin altında",
    "yüzey gerilimi"

@@ -42,7 +42,7 @@
   ],
   "ex": [
    "Resepsiyonist, çalışma saatleriyle ilgili sorumu yanıtladı.",
-   "Ulaşım projesinin maliyetlerinin neden bu kadar arttığını açıklamaya yardımcı olabilecek kamusal bir soruşturma yapılmalı."
+   "Ulaşım projesine ilişkin kamusal bir soruşturma, maliyetlerin neden bu kadar arttığını açıklamaya yardımcı olabilir."
   ],
   "col": [
    "soru sormak; başvurmak",
@@ -57,7 +57,7 @@
   "id": "masculine",
   "senses": [
    "erkeksi; erkeğe özgü",
-   "eril; erkek cinsiyetine ait"
+   "eril"
   ],
   "ex": [
    "Ceket, kıyafete geleneksel olarak erkeksi bir görünüm kazandırıyor.",
@@ -74,9 +74,9 @@
  {
   "id": "tickle",
   "senses": [
-   "gıdıklamak; karıncalandırmak",
+   "gıdıklamak; kaşındırmak",
    "eğlendirmek; ilgisini çekmek",
-   "gıdıklanma; karıncalanma"
+   "gıdıklanma; kaşıntı"
   ],
   "ex": [
    "Yavru kedinin bıyıkları, koklarken bileğimi gıdıkladı.",
@@ -85,7 +85,7 @@
   "col": [
    "birinin ayaklarını gıdıklamak",
    "birinin hoşuna gitmek",
-   "boğazda karıncalanma"
+   "boğazda gıcık"
   ],
   "tip": "tickle gıdıklamak anlamındadır; scratch ise çoğunlukla tırnakla kaşımak için kullanılır.",
   "note": ""
@@ -136,7 +136,7 @@
   ],
   "col": [
    "kayıtlı hemşire",
-   "tescilli hayırsever kurum",
+   "tescilli hayır kurumu",
    "kayıtlı sahip",
    "taahhütlü posta"
   ],
@@ -146,7 +146,7 @@
  {
   "id": "ashore",
   "senses": [
-   "karaya doğru; karada"
+   "karaya; kıyıya"
   ],
   "ex": [
    "Taze ekmek ve meyve almak için karaya çıktık.",
@@ -154,7 +154,7 @@
   ],
   "col": [
    "karaya çıkmak",
-   "karaya çıkmak (gelmek)",
+   "kıyıya gelmek",
    "kıyıya vurmak"
   ],
   "tip": "ashore bir zarftır; go ashore kalıbında önüne to edatı gelmez.",
@@ -166,11 +166,11 @@
    "çözümlemek; incelemek"
   ],
   "ex": [
-   "Bir sonraki tatili planlamadan önce harcamalarımızı çözümledik.",
+   "Bir sonraki tatili planlamadan önce harcamalarımızı analiz ettik.",
    "Araştırmacılar, daha iyi toplu taşımanın trafik sıkışıklığını azaltabileceği bölgeleri belirlemek için trafik akışlarını inceliyor."
   ],
   "col": [
-   "verileri çözümlemek",
+   "verileri analiz etmek",
    "sonuçları incelemek",
    "bir sorunu analiz etmek"
   ],
@@ -189,8 +189,8 @@
    "Şehir planlamacıları, büyüyen kentlerin hem yaşanabilir hem de çevresel açıdan sürdürülebilir kalabilmesi için net bir vizyona ihtiyaç duyar."
   ],
   "col": [
-   "bulanık görme",
-   "çevresel görme",
+   "bulanık görüş",
+   "çevresel görüş",
    "net bir vizyon",
    "gelecek vizyonu"
   ],
@@ -237,14 +237,14 @@
  {
   "id": "considerate",
   "senses": [
-   "düşünceli; kibar"
+   "düşünceli; anlayışlı"
   ],
   "ex": [
    "Düşünceli komşumuz akşam yemeğinden sonra müziğin sesini kısar.",
    "Diğer yolculara karşı düşünceli olmak, toplu taşımayı herkes için daha rahat ve erişilebilir hale getirebilir."
   ],
   "col": [
-   "başkalarını düşünmek",
+   "başkalarına karşı düşünceli",
    "düşünceli davranış",
    "düşünceli komşu"
   ],
@@ -255,7 +255,7 @@
   "id": "footprint",
   "senses": [
    "ayak izi",
-   "yer kaplama; alan",
+   "kapladığı alan",
    "çevresel etki; ayak izi"
   ],
   "ex": [

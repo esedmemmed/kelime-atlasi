@@ -6,16 +6,16 @@
    "doku reddi; organ reddi"
   ],
   "ex": [
-   "Bir red daha aldıktan sonra iş başvuru mektubunu yeniden düzenledi.",
-   "İş piyasasında tekrarlanan reddedilmeler gençlerin özgüvenine zarar verebilir ve yeni başvuruları azaltabilir."
+   "Bir red daha aldıktan sonra iş başvurusunu yeniden düzenledi.",
+   "İş piyasasında tekrarlanan reddedilmeler gençlerin özgüvenine zarar verebilir ve yeni başvurulardan caydırabilir."
   ],
   "col": [
    "reddedilme korkusu",
    "bir teklifin reddi",
-   "reddedilmeyle karşılaşmak",
+   "reddedilmeyle karşı karşıya kalmak",
    "organ reddi"
   ],
-  "tip": "rejection of ifadesinden sonra reddedilen kişi, teklif veya şey gelir. Bu kalıpta of'tan sonra gelen şeyi doğru seçmek önemlidir.",
+  "tip": "rejection of ifadesinden sonra reddedilen kişi, teklif veya şey gelir.",
   "note": ""
  },
  {
@@ -73,7 +73,7 @@
    "asil bir jest",
    "soylu aile"
   ],
-  "tip": "Ahlaki anlamda 'asil' karakter ve erdemi vurgular. Sosyal soyluluk için aynı kelime kullanılır ama bağlamdan anlaşılır.",
+  "tip": "Bu anlamda sosyal sınıfı değil, karakter ve erdemi vurgular; sınıf için 'soylu' denir.",
   "note": ""
  },
  {
@@ -156,7 +156,7 @@
   ],
   "ex": [
    "Yemeğimin kötü olduğunu mu ima etmeye çalışıyorsun?",
-   "Eğitime yapılan daha yüksek harcama, kaynaklar etkin biçimde dağıtılmadıkça otomatik olarak daha iyi sonuçlar anlamına gelmez."
+   "Eğitime yapılan daha yüksek harcama, kaynaklar etkin biçimde dağıtılmadıkça mutlaka daha iyi sonuçlar anlamına gelmez."
   ],
   "col": [
    "...olduğunu ima etmek",

@@ -63,7 +63,7 @@
    "on ikide bir"
   ],
   "ex": [
-   "Kendi yaptığı pastayla kızımızın on ikinci doğum gününü kutladık.",
+   "Onun on ikinci doğum gününü ev yapımı bir pastayla kutladık.",
    "Programın on ikinci ayına gelindiğinde, katılımcıların çoğu daha etkili çalışma alışkanlıkları geliştirmişti."
   ],
   "col": [
@@ -120,11 +120,11 @@
    "benzer"
   ],
   "ex": [
-   "Ceketin benzer görünüyor, ama benimkinden biraz daha koyu.",
+   "Ceketin benimkine benziyor, ama biraz daha koyu.",
    "Nüfusu benzer büyüklükte olan şehirler, coğrafi özellikleri nedeniyle farklı ulaşım politikalarına ihtiyaç duyabilir."
   ],
   "col": [
-   "...ile benzer",
+   "-e benzer",
    "benzer özellikler",
    "büyük ölçüde benzer"
   ],
@@ -147,7 +147,7 @@
    "genel olarak",
    "çok geniş bir yelpaze"
   ],
-  "tip": "The whole day gibi kalıplarda whole, the ile birlikte kullanılır ve all the day ile aynı anlamı taşır.",
+  "tip": "whole, the veya sahiplik sıfatından sonra gelir: the whole day. all day da aynı anlamdadır (all the day denmez).",
   "note": ""
  },
  {
@@ -204,7 +204,7 @@
    "dambıl kaldırmak",
    "bir şeye önem vermek"
   ],
-  "tip": "Weight isimdir; fiili weigh'dir. Örnek: How much does it weigh? (Ne kadar ağırlığında?)",
+  "tip": "Weight isimdir; fiili weigh'dir. Örnek: How much does it weigh? (Ağırlığı ne kadar?)",
   "note": ""
  },
  {

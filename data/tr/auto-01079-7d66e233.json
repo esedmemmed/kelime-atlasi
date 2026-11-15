@@ -12,7 +12,7 @@
    "benzin istasyonu",
    "kurşunsuz benzin",
    "benzin fiyatları",
-   "benzinin bitmesi"
+   "benzini bitmek"
   ],
   "tip": "Sayılamayan isimdir; 'a petrol' ya da 'petrols' demeyin. Miktar belirtmek için 'a litre of petrol' kullanın.",
   "note": ""
@@ -38,7 +38,7 @@
  {
   "id": "voice",
   "senses": [
-   "ses; seslenme",
+   "ses",
    "söz hakkı; etki",
    "dile getirmek"
   ],
@@ -66,7 +66,7 @@
   ],
   "col": [
    "kral olmak",
-   "birine taç giydirmek",
+   "krala taç giydirmek",
    "kralın saltanatı"
   ],
   "tip": "King erkek hükümdarı anlatır; kadın hükümdar için queen kullanılır.",
@@ -75,7 +75,7 @@
  {
   "id": "difference",
   "senses": [
-   "fark; ayrılık",
+   "fark; farklılık",
    "anlaşmazlık; ihtilaf",
    "fark"
   ],
@@ -274,7 +274,7 @@
    "kırsal İskoçya",
    "İskoçya gezisi"
   ],
-  "tip": "Sıfat olarak Scottish kullanılır (Scottish food gibi). Scotch genellikle viski ya da sabit ifadeler için kullanılır.",
+  "tip": "Scotland Birleşik Krallık'ın parçasıdır; sıfatı Scottish'tir (Scottish food). Scotch ise genelde viski içindir.",
   "note": ""
  }
 ]

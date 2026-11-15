@@ -3,11 +3,11 @@
   "id": "tower",
   "senses": [
    "kule",
-   "yükselmek; üstün olmak"
+   "yükselmek; dikilmek"
   ],
   "ex": [
    "Kuleye tırmandık ve tekneleri körfezde geçerken izledik.",
-   "Tarihi kule, yıl boyunca ziyaretçi çekiyor ve yakındaki dükkânlara ile restoranlara değerli gelir sağlıyor."
+   "Tarihî kule, yıl boyunca ziyaretçi çekiyor ve yakındaki dükkânlara ve restoranlara değerli gelir sağlıyor."
   ],
   "col": [
    "saat kulesi",
@@ -39,14 +39,14 @@
  {
   "id": "boarding-card",
   "senses": [
-   "biniş kartı; bindirme kartı"
+   "biniş kartı"
   ],
   "ex": [
    "Koltuğunuza ulaşana kadar biniş kartınızı elinizin altında tutun.",
-   "Yolcular artık biniş kartını indirebiliyor; bu da kağıt tüketimini ve havaalanı gişelerindeki bekleme sürelerini azaltıyor."
+   "Yolcular artık biniş kartını indirebiliyor; bu da kâğıt tüketimini ve havaalanı gişelerindeki bekleme sürelerini azaltıyor."
   ],
   "col": [
-   "biniş kartınızı gösterin",
+   "biniş kartını göstermek",
    "biniş kartı yazdırmak",
    "elektronik biniş kartı"
   ],
@@ -95,11 +95,11 @@
    "hamburger; burger"
   ],
   "ex": [
-   "Öğle yemeği için salatalı bir nohut burger sipariş ettim.",
+   "Öğle yemeği için salatalı bir fasulye burger sipariş ettim.",
    "Restoranlar, geleneksel et yemeklerinin yanında bitki bazlı burgerler sunarak çevresel etkilerini azaltabilir."
   ],
   "col": [
-   "dana burger",
+   "dana etli burger",
    "sebzeli burger",
    "burger ekmeği"
   ],
@@ -209,7 +209,7 @@
    "Şehirler, nüfus artışının talebini karşılayabilmek için ulaşım ağlarının yeterli olmasını sağlamak adına önceden planlama yapmalı."
   ],
   "col": [
-   "tam karşıda",
+   "dümdüz ileride",
    "planlanandan erken",
    "önceden planlamak",
    "rakiplerinin önünde"
@@ -231,7 +231,7 @@
    "itfaiyecinin kaskı",
    "gönüllü itfaiyeci"
   ],
-  "tip": "Cinsiyet belirtmeyen firefighter günümüzde daha yaygındır. Çoğulu firemen'dır ama firefighters daha tercih edilir.",
+  "tip": "Cinsiyet belirtmeyen firefighter günümüzde daha yaygındır. Çoğulu firemen'dir ama firefighters daha tercih edilir.",
   "note": ""
  },
  {
@@ -247,7 +247,7 @@
   "col": [
    "fotokopi çekmek",
    "bir belgenin fotokopisi",
-   "bir formu fotokopi çekmek"
+   "bir formun fotokopisini çekmek"
   ],
   "tip": "Hem isim hem fiil olarak kullanılır. Çoğul ve üçüncü tekil şekli photocopies'dir.",
   "note": ""
@@ -258,12 +258,12 @@
    "halı"
   ],
   "ex": [
-   "Yerde oturduk ve iskambil oynadık.",
+   "Halının üzerinde oturup iskambil oynadık.",
    "Sınıflara halı döşemek gürültüyü azaltabilir, ancak iyi hijyeni korumak için düzenli temizlik gereklidir."
   ],
   "col": [
    "halı döşemek",
-   "sabit halı",
+   "duvardan duvara halı",
    "halı temizliği"
   ],
   "tip": "carpet genellikle yere döşenen geniş halıyı; rug ise taşınabilir küçük halıyı ifade eder.",

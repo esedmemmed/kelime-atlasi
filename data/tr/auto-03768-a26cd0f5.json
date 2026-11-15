@@ -3,7 +3,7 @@
   "id": "stool",
   "senses": [
    "tabure",
-   "dışkı; gaita"
+   "dışkı"
   ],
   "ex": [
    "Mutfak tezgâhının yanından bir tabure çekti.",
@@ -24,12 +24,12 @@
    "devriye; devriye birliği"
   ],
   "ex": [
-   "İki güvenlik görevlisi her akşam karanlık çöktükten sonra parkı devriye geziyor.",
+   "İki güvenlik görevlisi her akşam hava karardıktan sonra parkta devriye geziyor.",
    "Korunan ormanlarda yasa dışı kereste kesimini önlemek ve nesli tükenmekte olan yabani hayvanlara yönelik tehditleri izlemek için orman korucuları devriye gezer."
   ],
   "col": [
    "devriyede",
-   "sokakları devriye gezmek",
+   "sokaklarda devriye gezmek",
    "sınır devriyesi",
    "düzenli devriyeler"
   ],
@@ -125,7 +125,7 @@
    "girişimde bulunmak",
    "bir şey yapmaya çalışmak",
    "başarılı bir girişim",
-   "…yapmak amacıyla"
+   "...maya çalışarak"
   ],
   "tip": "Fiil olarak attempt to do, isim olarak an attempt at doing kalıbı kullanılır.",
   "note": ""
@@ -141,7 +141,7 @@
   ],
   "col": [
    "gaz ocağı",
-   "yağlı brülör",
+   "mazot brülörü",
    "bir şeyi ertelemek"
   ],
   "tip": "on the back burner, bir işi öncelik vermeden erteleme anlamında mecaz olarak kullanılır.",
@@ -178,7 +178,7 @@
   "col": [
    "sağlam muhakeme",
    "yargıda bulunmak",
-   "bağımsız muhakeme kullanmak",
+   "muhakeme gücünü kullanmak",
    "mahkeme kararı"
   ],
   "tip": "İngiliz İngilizcesinde judgement ya da judgment yazılabilir; Amerikan İngilizcesinde genellikle judgment tercih edilir.",
@@ -206,14 +206,14 @@
   "senses": [
    "oyuncu kadrosu",
    "atmak; yansıtmak",
-   "rol için seçmek"
+   "rol dağıtmak; oyuncu seçmek"
   ],
   "ex": [
    "Bütün oyuncu kadrosu izleyicileri karşılamak için dışarı çıktı.",
    "Farklı geçmişlerden oyuncular seçen yönetmenler, kalıp yargılara meydan okumaya ve izleyicilerin topluma bakışını genişletmeye yardımcı olabilir."
   ],
   "col": [
-   "destekleyici kadro",
+   "yardımcı oyuncu kadrosu",
    "gölge düşürmek",
    "şüphe uyandırmak",
    "birini … rolüne seçmek"
@@ -229,7 +229,7 @@
   ],
   "ex": [
    "Bisikletim köşeye gelince frenlere asıldım.",
-   "Sürücüler, kayganımsı yollarda kontrolü kaybetme riskini azaltmak için yavaşça fren yapmalıdır."
+   "Sürücüler, kontrolü kaybetme riskini azaltmak için ıslak yollarda yavaşça fren yapmalıdır."
   ],
   "col": [
    "frene basmak",

@@ -61,7 +61,7 @@
   "id": "ashamed",
   "senses": [
    "utanmış; mahcup",
-   "utandığı için çekinen"
+   "çekinen; utanan"
   ],
   "ex": [
    "Arkadaşımın hatasına gülünce kendimi utanmış hissettim.",
@@ -100,7 +100,7 @@
    "açık hava; doğa"
   ],
   "ex": [
-   "Bu gece hava yemek yemek için yeterince sıcak, dışarıda yiyebiliriz.",
+   "Hava bu gece dışarıda yemek yiyecek kadar sıcak.",
    "Açık havada vakit geçirmek, çocukların iyi oluşunu artırabilir ve doğal çevreyi korumaya olan ilgilerini güçlendirebilir."
   ],
   "col": [
@@ -188,10 +188,10 @@
  {
   "id": "berry",
   "senses": [
-   "küçük meyve; yemiş"
+   "küçük meyve"
   ],
   "ex": [
-   "Olgun bir yemişi yoğurdunun içine düşürdü.",
+   "Olgun bir meyve tanesini yoğurdunun içine düşürdü.",
    "Yerli çalıları korumak, kuşların yıl boyunca meyve ve diğer besin kaynaklarına erişmesini sağlar."
   ],
   "col": [

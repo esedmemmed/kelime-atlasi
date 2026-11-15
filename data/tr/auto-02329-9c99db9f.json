@@ -49,7 +49,7 @@
    "Şiddetli yağmur, asfaltsız yolları çamura çevirebilir ve kırsal toplulukların ulaşımını zorlaştırabilir."
   ],
   "col": [
-   "koyu çamur",
+   "yoğun çamur",
    "çamur içinde",
    "çamura saplanmak"
   ],
@@ -59,15 +59,15 @@
  {
   "id": "phrase",
   "senses": [
-   "kelime grubu; deyim",
+   "söz öbeği; ifade",
    "ifade etmek; dile getirmek"
   ],
   "ex": [
-   "Bugün İngilizce dersimde işe yarar bir deyim öğrendim.",
+   "Bugün İngilizce dersimde işe yarar bir ifade öğrendim.",
    "Araştırmacılar, katılımcıları etkilememek ve bulgularının güvenilirliğini azaltmamak için anket sorularını dikkatle ifade etmelidir."
   ],
   "col": [
-   "yaygın bir deyim",
+   "yaygın bir ifade",
    "isim öbeği",
    "bir soruyu ifade etmek",
    "işe yarar bir ifade"
@@ -166,7 +166,7 @@
    "eksi işareti",
    "artılar ve eksiler"
   ],
-  "tip": "Sayıların önünde 'minus' 'eksi' anlamına gelir. Sıcaklıkta 'minus ten degrees' şeklinde kullanılır; 'negative ten' demek doğru değildir.",
+  "tip": "Sayıların önünde 'minus' 'eksi' demektir; sıcaklıkta 'minus ten degrees' (eksi on derece) sıfırın altını gösterir.",
   "note": ""
  },
  {
@@ -176,7 +176,7 @@
   ],
   "ex": [
    "Paketi dün sabah uçak postasıyla gönderdik.",
-   "Dijital iletişim uluslararası ticareti egemen kılsa da, orijinal belgeleri denizaşırı göndermek için uçak postası hâlâ kullanışlıdır."
+   "Dijital iletişim uluslararası ticarette baskın olsa da, orijinal belgeleri denizaşırı göndermek için uçak postası hâlâ kullanışlıdır."
   ],
   "col": [
    "uçak postasıyla",
@@ -193,7 +193,7 @@
    "çalmak"
   ],
   "ex": [
-   "Polis, kayıp bisikletimi bir garajın arkasında buldu.",
+   "Polis, çalınan bisikletimi bir garajın arkasında buldu.",
    "Çalınan kişisel veriler internet kullanıcılarını mali kayıplara maruz bırakabilir; bu da etkili çevrimiçi güvenliğin önemini gösterir."
   ],
   "col": [

@@ -7,10 +7,10 @@
   ],
   "ex": [
    "Kız kardeşimin doğum gününü unuttuğum için kendimi suçlu hissettim.",
-   "Yasa dışı atık döktüğü tespit edilen şirketler, verilen çevresel zararı yansıtan cezalarla karşılaşmalıdır."
+   "Yasa dışı atık döktüğü tespit edilen şirketler, yol açtıkları çevresel zararı yansıtan cezalarla karşılaşmalıdır."
   ],
   "col": [
-   "...suçlu olmak",
+   "...suçunu işlemiş olmak",
    "birini suçlu bulmak",
    "suçunu kabul etmek",
    "...için suçluluk duymak"
@@ -41,8 +41,8 @@
  {
   "id": "aquarium",
   "senses": [
-   "akvaryum; balık kabı",
-   "akvaryum; su altı müzesi"
+   "akvaryum; fanus",
+   "halka açık akvaryum"
   ],
   "ex": [
    "Akvaryumumuzdaki bitkilerin arasında iki turuncu balık yüzüyor.",
@@ -53,7 +53,7 @@
    "halka açık akvaryum",
    "akvaryum balığı"
   ],
-  "tip": "Hem evdeki balık kabını hem de halkın gezdiği akvaryum binasını anlatır. Bağlama göre anlamı belirleyin.",
+  "tip": "Hem evdeki akvaryumu (fanus) hem de halkın gezdiği akvaryum binasını anlatır. Bağlama göre anlamı belirleyin.",
   "note": ""
  },
  {
@@ -114,7 +114,7 @@
   "senses": [
    "eğlendirmek",
    "ağırlamak; konuk etmek",
-   "düşünmek; aklında tutmak"
+   "değerlendirmek; aklından geçirmek"
   ],
   "ex": [
    "Kardeşim komik hayvan seslerini taklit ederek çocukları eğlendirdi.",
@@ -140,9 +140,9 @@
   ],
   "col": [
    "alkol tüketimi",
-   "alkol bağımlılığı",
+   "alkolün kötüye kullanımı",
    "alkol oranı",
-   "dezenfektan alkolü"
+   "tıbbi alkol"
   ],
   "tip": "Genel olarak alkollü içki anlamında sayılamaz. Bir kadeh içki için a drink kalıbı kullanılır.",
   "note": ""
@@ -159,7 +159,7 @@
   "col": [
    "bodrumda",
    "bodrum daire",
-   "bodrum depo"
+   "bodrum depolama alanı"
   ],
   "tip": "basement yaşam alanı olarak da kullanılabilir; cellar ise genellikle şarap veya erzak için kullanılan bir mahzen anlamındadır.",
   "note": ""
@@ -190,7 +190,7 @@
    "işlem; arıtma"
   ],
   "ex": [
-   "Tedaviden sonra sakatlanan ayak bileği çok daha iyi hissettirdi.",
+   "Tedaviden sonra sakatlanan ayak bileği çok daha iyiydi.",
    "Uygun fiyatlı tıbbi tedaviye erişim, zengin ve dezavantajlı topluluklar arasındaki sağlık eşitsizliğini azaltmak için şarttır."
   ],
   "col": [
@@ -223,7 +223,7 @@
  {
   "id": "honest",
   "senses": [
-   "dürüst; namuslu",
+   "dürüst; hilesiz",
    "samimi; açık sözlü"
   ],
   "ex": [

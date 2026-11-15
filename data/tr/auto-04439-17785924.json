@@ -2,11 +2,11 @@
  {
   "id": "incident",
   "senses": [
-   "olay; hadise"
+   "olay; vaka"
   ],
   "ex": [
    "İstasyonun dışındaki olayda kimse yaralanmadı.",
-   "Her iş yeri kazasını dikkatle incelemek gerekir ki işverenler riskleri belirleyip benzer sorunları önleyebilsin."
+   "Her iş yeri olayı dikkatle incelenmeli ki işverenler riskleri belirleyip benzer sorunları önleyebilsin."
   ],
   "col": [
    "bir olayı bildirmek",
@@ -28,7 +28,7 @@
   ],
   "col": [
    "morina filetosu",
-   "morina yağı",
+   "morina karaciğeri yağı",
    "morina stokları"
   ],
   "tip": "Balık adı olarak tekil ve çoğul biçimi aynıdır: cod. Yemek olarak söz edildiğinde genellikle sayılamayan bir isimdir.",
@@ -37,8 +37,8 @@
  {
   "id": "cosmetic",
   "senses": [
-   "güzelleştirici; kozmetik",
-   "yüzeysel; sadece görünüş",
+   "estetik; kozmetik",
+   "yüzeysel; göstermelik",
    "kozmetik; makyaj ürünü"
   ],
   "ex": [
@@ -83,7 +83,7 @@
   ],
   "col": [
    "bilimsel bir keşif gezisi",
-   "keşfe çıkmak",
+   "keşif gezisine çıkmak",
    "bir keşif heyetine öncülük etmek",
    "Antarktika'ya bir keşif gezisi"
   ],
@@ -110,8 +110,8 @@
  {
   "id": "relate",
   "senses": [
-   "ilgili olmak; bağlamak",
-   "anlayış göstermek; özdeşleşmek",
+   "ilgili olmak; ilişkilendirmek",
+   "özdeşleşmek; empati kurmak",
    "anlatmak; aktarmak"
   ],
   "ex": [
@@ -130,11 +130,11 @@
   "id": "accompany",
   "senses": [
    "eşlik etmek; refakat etmek",
-   "beraber olmak; birlikte bulunmak",
-   "eşlik etmek (müzik)"
+   "birlikte görülmek",
+   "eşlik etmek"
   ],
   "ex": [
-   "Yarın kız kardeşim beni kliniğe kadar eşlik edecek.",
+   "Yarın kız kardeşim bana kliniğe kadar eşlik edecek.",
    "Kentsel genişlemeye, trafik sıkışıklığını önleyip işe erişimi kolaylaştırmak için toplu taşıma yatırımları eşlik etmelidir."
   ],
   "col": [
@@ -161,7 +161,7 @@
    "büyük hacim",
    "toplu alım"
   ],
-  "tip": "'the bulk of' sonrasındaki isme göre fiil çekimi yapılır: 'the bulk of the work is' ya da 'the bulk of the costs are' gibi.",
+  "tip": "the bulk of 'büyük kısmı' demektir; in bulk ise 'toptan, büyük miktarda' anlamına gelir.",
   "note": ""
  },
  {

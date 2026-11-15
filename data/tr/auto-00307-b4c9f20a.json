@@ -38,7 +38,7 @@
  {
   "id": "clean",
   "senses": [
-   "temiz; kirsiz",
+   "temiz; pak",
    "temizlemek; silmek",
    "çevreyi kirletmeyen"
   ],
@@ -96,7 +96,7 @@
   "id": "eye",
   "senses": [
    "göz",
-   "görüş; anlayış",
+   "göz; zevk",
    "dikkatle bakmak; süzmek"
   ],
   "ex": [
@@ -106,8 +106,8 @@
   "col": [
    "göz teması",
    "göz kulak olmak",
-   "ayrıntılara göz",
-   "dikkatini çekmek"
+   "ayrıntıyı fark etme yeteneği",
+   "gözüne çarpmak"
   ],
   "tip": "an eye for bir şeyi fark etme ya da değerlendirme yeteneğini; keep an eye on ise göz kulak olmayı anlatır. İkisini karıştırmayın.",
   "note": ""
@@ -144,7 +144,7 @@
    "güvenilir bilgi",
    "bilgiye erişim",
    "bilgi vermek",
-   "bir bilgi parçası"
+   "bir parça bilgi"
   ],
   "tip": "information sayılamayan bir isimdir; an information demeyin, a piece of information ya da some information kullanın. Çoğul ek eklemeyin.",
   "note": ""

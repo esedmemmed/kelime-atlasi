@@ -44,7 +44,7 @@
    "uydurma"
   ],
   "ex": [
-   "En son icadı, o yokken bitkileri sulayıp duruyor.",
+   "En son icadı, o yokken bitkileri suluyor.",
    "Uygun fiyatlı su filtrelerinin icadı, temiz suya erişimi sınırlı topluluklarda halk sağlığını iyileştirdi."
   ],
   "col": [
@@ -148,7 +148,7 @@
  {
   "id": "unable",
   "senses": [
-   "yapamayan; muktedir olmayan"
+   "yapamayan; gücü yetmeyen"
   ],
   "ex": [
    "Sıkıca kapatılmış kavanozu açamadım.",
@@ -199,15 +199,15 @@
  {
   "id": "razor",
   "senses": [
-   "tıraş makinesi; jilet"
+   "jilet; ustura"
   ],
   "ex": [
-   "Tıraş makinesini durulayıp lavabonun yanına koydu.",
-   "Yeniden kullanılabilir bir tıraş makinesi seçmek, günlük bakımdan çıkan plastik atık miktarını azaltabilir."
+   "Jileti durulayıp lavabonun yanına koydu.",
+   "Yeniden kullanılabilir bir jilet seçmek, günlük bakımdan çıkan plastik atık miktarını azaltabilir."
   ],
   "col": [
    "elektrikli tıraş makinesi",
-   "tek kullanımlık tıraş makinesi",
+   "tek kullanımlık jilet",
    "tıraş bıçağı"
   ],
   "tip": "razor tıraş için kullanılan aleti ifade eder; genel kesme işleri için ise knife kullanılır.",
@@ -217,7 +217,7 @@
   "id": "involve",
   "senses": [
    "gerektirmek; içermek",
-   "katılmasını sağlamak; dahil etmek"
+   "dahil etmek; katmak"
   ],
   "ex": [
    "Yeni işim bütün gün müşterilerle konuşmayı gerektiriyor.",

@@ -14,7 +14,7 @@
    "pikniğe gitmek",
    "piknik sepeti"
   ],
-  "tip": "c harfi k'ya dönüşerek fiil çekimlenir: picnicked (geçmiş), picnicking (-ing hali).",
+  "tip": "Fiil çekiminde c'den sonra k eklenir: picnicked (geçmiş), picnicking (-ing hâli).",
   "note": ""
  },
  {
@@ -120,7 +120,7 @@
    "zar"
   ],
   "ex": [
-   "Unutursak sulamayı, bu bitkiler ölür.",
+   "Sulamayı unutursak bu bitkiler ölür.",
    "Birçok deniz canlısı plastik atıkları yuttuktan sonra ölür; bu durum okyanus kirliliğini azaltma ihtiyacının acil olduğunu gösterir."
   ],
   "col": [
@@ -138,22 +138,22 @@
    "Nisan"
   ],
   "ex": [
-   "Yeni dairemize Nisan ayında taşınıyoruz.",
-   "Topluluk bahçesi Nisan ayında açılacak ve yerel sakinlere kendi sebzelerini yetiştirme fırsatı verecek."
+   "Yeni dairemize nisan ayında taşınıyoruz.",
+   "Topluluk bahçesi nisan ayında açılacak ve yerel sakinlere kendi sebzelerini yetiştirme fırsatı verecek."
   ],
   "col": [
-   "Nisan ayında",
-   "Nisan ayının başında",
-   "Nisan ayının sonunda"
+   "nisan ayında",
+   "nisan başında",
+   "nisan sonunda"
   ],
-  "tip": "Ay adları büyük harfle yazılır. Aylardan önce in, belirli tarihlerden önce on kullanılır.",
+  "tip": "İngilizcede ay adları büyük harfle yazılır. Ay için in, belirli tarih için on kullanılır: in April, on 5 April.",
   "note": ""
  },
  {
   "id": "with",
   "senses": [
    "ile; birlikte",
-   "sahip; ile",
+   "sahip olan; -li",
    "ile; kullanarak"
   ],
   "ex": [
@@ -214,16 +214,16 @@
    "Cumartesi"
   ],
   "ex": [
-   "Sebzeleri genellikle Cumartesi günü pazardan alırız.",
-   "Halk kütüphanelerinin Cumartesi günü açık olması, çalışan birçok ebeveynin çocuklarıyla eğitim etkinliklerine katılmasını sağlar."
+   "Sebzeleri genellikle cumartesi günü pazardan alırız.",
+   "Halk kütüphanelerinin cumartesi günü açık olması, çalışan birçok ebeveynin çocuklarıyla eğitim etkinliklerine katılmasını sağlar."
   ],
   "col": [
-   "Cumartesi günü",
-   "Cumartesi sabahı",
-   "her Cumartesi",
-   "bu Cumartesi"
+   "cumartesi günü",
+   "cumartesi sabahı",
+   "her cumartesi",
+   "bu cumartesi"
   ],
-  "tip": "Gün adları büyük harfle yazılır. on Saturday denir, ama this Saturday'den önce on kullanılmaz.",
+  "tip": "İngilizcede gün adları büyük harfle yazılır. on Saturday denir, ama this Saturday'den önce on kullanılmaz.",
   "note": ""
  },
  {
@@ -231,7 +231,7 @@
   "senses": [
    "kahverengi",
    "kahverengi",
-   "kahverengileşmek"
+   "kızarmak; kızartmak"
   ],
   "ex": [
    "Kapının yanında küçük kahverengi bir köpek uyuyordu.",
@@ -241,7 +241,7 @@
    "koyu kahverengi",
    "kahverengi gözler",
    "kepekli pirinç",
-   "altın rengi kızarmış"
+   "altın sarısı"
   ],
   "tip": "Mutfakta fiil olarak brown, yemeği kızartıp üzerinde kahverengi renk oluşturmak anlamına gelir.",
   "note": ""
@@ -257,8 +257,8 @@
    "Hükümetler, kronik hastalıkların tedavisinin gelecekteki maliyetlerini azaltmak için koruyucu sağlığa daha fazla harcamalıdır."
   ],
   "col": [
-   "...e para harcamak",
-   "...yapmaya zaman harcamak",
+   "bir şeye para harcamak",
+   "bir şey yaparak zaman geçirmek",
    "geceyi geçirmek"
   ],
   "tip": "Zaman için spend time doing, para için spend money on kalıbı kullanılır. Geçmiş zaman spent'tir.",

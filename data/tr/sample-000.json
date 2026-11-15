@@ -325,7 +325,7 @@
   "senses": [
    "uyanmak; uyandırmak",
    "dümen suyu",
-   "ölü evi toplantısı; yas toplantısı"
+   "yas toplantısı"
   ],
   "ex": [
    "İşe gitmeden önce lütfen beni uyandır.",
@@ -378,7 +378,7 @@
  {
   "id": "japanese",
   "senses": [
-   "Japon; Japonca'ya ait",
+   "Japon; Japonya'ya ait",
    "Japonca",
    "Japon (kişi); Japonlar"
   ],
@@ -499,7 +499,7 @@
   "col": [
    "kışlık mont",
    "bir kat boya",
-   "çikolataya bulamak"
+   "çikolata ile kaplamak"
   ],
   "tip": "Fiil olarak coat A with B kalıbı kullanılır: \"A'yı B ile kaplamak\".",
   "note": ""
@@ -511,7 +511,7 @@
   ],
   "ex": [
    "Fil hortumuyla sırtına su püskürttü.",
-   "Fillerin yaşam alanlarını korumak, sınırların ötesinde koruma kuruluşları, yerel topluluklar ve hükümetler arasında iş birliği gerektirir."
+   "Fillerin yaşam alanlarını korumak, koruma kuruluşları, yerel topluluklar ve hükümetler arasında ulusal sınırları aşan bir iş birliği gerektirir."
   ],
   "col": [
    "bir fil sürüsü",
@@ -706,7 +706,7 @@
   "col": [
    "ile hiçbir ilgisi olmamak",
    "sadece; -den başka bir şey değil",
-   "hiç benzemiyor",
+   "hiç benzememek",
    "bedavaya; boşuna"
   ],
   "tip": "nothing zaten olumsuz anlam taşır, not ile birlikte kullanılmaz: \"I don't have nothing\" yanlıştır.",
@@ -796,7 +796,7 @@
   ],
   "col": [
    "balık ve patates kızartması",
-   "talaş",
+   "odun yongası",
    "bilgisayar çipleri"
   ],
   "tip": "İngiliz İngilizcesinde chips patates kızartması, crisps cipstir; Amerikan İngilizcesinde kızartmaya fries denir.",

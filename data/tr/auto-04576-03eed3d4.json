@@ -10,17 +10,17 @@
   ],
   "col": [
    "içten özür",
-   "samimi teşekkür",
-   "samimi arzu"
+   "içten teşekkürler",
+   "içten istek"
   ],
-  "tip": "Sıfattır. Zarf hali sincerely'dir ve mektupların sonunda 'saygılarımla' anlamında sıkça kullanılır.",
+  "tip": "sincere, sahte olmayan içtenliği vurgular; sincerely mektup sonunda 'saygılarımla' anlamında kullanılır.",
   "note": ""
  },
  {
   "id": "overwhelm",
   "senses": [
-   "bunaltmak; şaşırtmak",
-   "bunaltmak; yüklemek",
+   "bunaltmak; şaşkına çevirmek",
+   "aşırı yüklemek; boğmak",
    "ezmek; yenmek"
   ],
   "ex": [
@@ -144,7 +144,7 @@
  {
   "id": "mass",
   "senses": [
-   "yığın; kütle",
+   "yığın; küme",
    "kütle",
    "kitlesel; geniş çaplı"
   ],
@@ -156,7 +156,7 @@
    "bir yığın",
    "vücut kütlesi",
    "seri üretim",
-   "kitle iletişimi"
+   "kitle iletişim araçları"
   ],
   "tip": "Fizikte mass kütleyi, weight ağırlığı ifade eder. Günlük dilde karıştırılsa da bilimsel bağlamda bu ayrım önemlidir.",
   "note": ""
@@ -166,7 +166,7 @@
   "senses": [
    "kiralama; kira bedeli",
    "kiralık; kiraya verilen",
-   "kiralanan ev ya da araç"
+   "kiralık ev; kiralık araç"
   ],
   "ex": [
    "Bisiklet kiralama hizmeti bir kask ve sağlam bir kilit içeriyor.",
@@ -185,7 +185,7 @@
   "id": "privacy",
   "senses": [
    "mahremiyet; gizlilik",
-   "özel yaşam; yalnızlık"
+   "özel alan; yalnız kalma"
   ],
   "ex": [
    "Lütfen içeri girmeden önce kapıyı çal; herkesin biraz mahremiyete ihtiyacı var.",
@@ -197,17 +197,17 @@
    "gizlilik ayarları",
    "evin mahremiyetinde"
   ],
-  "tip": "Genellikle sayılamaz. 'In the privacy of your home' kalıbı, evde, özel ortamda anlamına gelir.",
+  "tip": "Genellikle sayılamaz; ilk hecenin okunuşu İngiliz ve Amerikan İngilizcesinde farklıdır.",
   "note": ""
  },
  {
   "id": "inject",
   "senses": [
-   "enjekte etmek; aşılamak",
+   "enjekte etmek; zerk etmek",
    "katmak; kazandırmak"
   ],
   "ex": [
-   "Hemşire ilacı kolumun içine enjekte edecek.",
+   "Hemşire ilacı koluma enjekte edecek.",
    "Kamu yatırımları, yerel işletmeleri destekleyip ulaşımı iyileştirerek gerileyen kasabalara yeni bir canlılık kazandırabilir."
   ],
   "col": [
@@ -247,8 +247,8 @@
   ],
   "col": [
    "ve bunun sonucunda",
-   "sonuç olarak yol açmak",
-   "sonucunda gerektirmek"
+   "dolayısıyla yol açmak",
+   "dolayısıyla gerektirmek"
   ],
   "tip": "Zarftır, bağlaç değildir. İki bağımsız cümleyi noktalı virgülle bağlayabilir ya da cümle başında kullanabilirsiniz.",
   "note": ""
@@ -258,7 +258,7 @@
   "senses": [
    "hızla yutmak",
    "korkuyla yutkunmak",
-   "bir yudum"
+   "kocaman yudum"
   ],
   "ex": [
    "Bisikletle eve döndükten sonra bir bardak suyu hızla içtim.",
@@ -266,7 +266,7 @@
   ],
   "col": [
    "hızla yutmak",
-   "bir yudum almak",
+   "büyük bir yudum almak",
    "gergin gergin yutkunmak"
   ],
   "tip": "gulp down hızla yutmak anlamına gelir; küçük yudumlarla içmeyi ise sip ifade eder.",

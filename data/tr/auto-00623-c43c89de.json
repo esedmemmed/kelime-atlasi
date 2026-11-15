@@ -10,7 +10,7 @@
   ],
   "col": [
    "bir kuş sürüsü",
-   "göç eden kuş",
+   "göçmen kuş",
    "kuş gözlemciliği",
    "yırtıcı kuş"
   ],
@@ -50,7 +50,7 @@
   ],
   "col": [
    "tek kişi",
-   "her gün",
+   "her bir gün",
    "tek yön bileti",
    "tek ebeveyn"
   ],
@@ -135,7 +135,7 @@
   "id": "and",
   "senses": [
    "ve; ile",
-   "ve sonra; de"
+   "ve sonra; ardından"
   ],
   "ex": [
    "Piknik için taze ekmek ve peynir aldım.",
@@ -143,7 +143,7 @@
   ],
   "col": [
    "hem ... hem de ...",
-   "vesaire",
+   "ve benzeri",
    "giderek daha fazla",
    "tekrar tekrar"
   ],
@@ -203,7 +203,7 @@
   "col": [
    "diğer insanlar",
    "geçen gün",
-   "birbirimiz",
+   "birbirini",
    "öte yandan"
   ],
   "tip": "other isimden önce sıfat olarak gelir (other people). Tek başına kullanılınca others olur. İkisi arasında kalan öteki için the other denir.",
@@ -222,7 +222,7 @@
    "elma suyu",
    "elmalı turta",
    "elma çekirdeği",
-   "taze ve gevrek elma"
+   "gevrek bir elma"
   ],
   "tip": "Sayılabilir bir isimdir. Tekil için 'an apple' denir; apple sesli harfle başladığı için önünde a değil an kullanılır.",
   "note": ""
@@ -250,7 +250,7 @@
  {
   "id": "because",
   "senses": [
-   "çünkü; -diği için"
+   "çünkü; -dığı için"
   ],
   "ex": [
    "Oda soğuk hissettirdiği için pencereyi kapattım.",
@@ -259,7 +259,7 @@
   "col": [
    "hava durumu yüzünden",
    "bu yüzden",
-   "kısmen bu nedenle"
+   "kısmen çünkü"
   ],
   "tip": "because bir cümle alır. because of ise isim veya isim görevindeki bir sözcük alır. İkisi yan yana kullanılmaz.",
   "note": ""

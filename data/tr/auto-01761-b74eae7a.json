@@ -265,7 +265,7 @@
    "bir bulmacayı çözmek",
    "bir denklemi çözmek"
   ],
-  "tip": "'Solve' doğrudan nesne alır: 'solve a problem' denir, arasına 'of' eklenmez. 'Eritmek' anlamında 'dissolve' kullanılır.",
+  "tip": "solve doğrudan nesne alır: solve a problem. 'Çözünmek, eritmek' anlamında dissolve kullanılır.",
   "note": ""
  }
 ]

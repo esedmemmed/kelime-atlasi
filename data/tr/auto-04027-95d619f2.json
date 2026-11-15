@@ -6,12 +6,12 @@
    "yan yana"
   ],
   "ex": [
-   "Bisikletle nehir kenarında kız kardeşimin yanında sürdüm.",
+   "Nehir kenarında kız kardeşimle yan yana bisiklet sürdüm.",
    "Okullar, öğrencileri yetişkin hayatına hazırlamak için akademik derslerin yanı sıra pratik beceriler de öğretmelidir."
   ],
   "col": [
    "birlikte çalışmak",
-   "nehir boyunca",
+   "nehir kıyısında",
    "diğer önlemlerle birlikte"
   ],
   "tip": "Edat olarak kullanıldığında ardından isim gelir. 'along with' ile benzer anlamda kullanılır, ama 'alongside' ayrıca 'yan yana' anlamı da taşır.",
@@ -22,7 +22,7 @@
   "senses": [
    "madde",
    "öz; esas",
-   "esas; temel"
+   "içerik; dayanak"
   ],
   "ex": [
    "Mutfak zeminine yapışkan bir madde dökülmüştü.",
@@ -47,8 +47,8 @@
    "Güvenilir internet erişimine sahip öğrenciler şanslıdır; çünkü birçok kırsal topluluk hâlâ yeterli dijital altyapıdan yoksundur."
   ],
   "col": [
-   "yeterince şanslı olmak",
-   "...e sahip olmak şansı",
+   "...ecek kadar şanslı olmak",
+   "sahip olduğu için şanslı olmak",
    "şanslı bir kurtuluş"
   ],
   "tip": "'be fortunate to do' kalıbında 'to' ile fiil gelir. 'lucky' ile eş anlamlıdır ama daha resmi bir tondadır.",
@@ -68,7 +68,7 @@
    "maden kaynakları",
    "maden yatakları",
    "temel mineraller",
-   "mineralli su"
+   "maden suyu"
   ],
   "tip": "Beslenme bağlamında 'minerals' mineral madde (besin öğesi) anlamındadır; vitaminlerle karıştırılmamalıdır.",
   "note": ""
@@ -94,8 +94,8 @@
  {
   "id": "significance",
   "senses": [
-   "önem; ehemmiyet",
-   "anlam; mana"
+   "önem; anlam",
+   "anlam; çağrışım"
   ],
   "ex": [
    "Sonunda onun sessiz gülümsemesinin anlamını anladım.",
@@ -148,7 +148,7 @@
   "id": "possess",
   "senses": [
    "sahip olmak; elinde tutmak",
-   "nitelik taşımak; haiz olmak"
+   "özelliğe sahip olmak; taşımak"
   ],
   "ex": [
    "Amcam antika saatlerden oluşan olağanüstü bir koleksiyona sahip.",
@@ -159,7 +159,7 @@
    "bilgiye sahip olmak",
    "mülke sahip olmak"
   ],
-  "tip": "'have'den daha resmi bir kelimedir; genellikle sürekli zamanlarda kullanılır. Yazımında dört 's' harfi vardır: possess.",
+  "tip": "have'den daha resmidir; genellikle sürekli zamanlarda kullanılmaz. Yazımında dört 's' vardır: possess.",
   "note": ""
  },
  {
@@ -230,7 +230,7 @@
    "Bilinçdışı önyargı, işverenler tüm başvuru sahiplerine adil davranmayı amaçlasa bile işe alım kararlarını etkileyebilir."
   ],
   "col": [
-   "bayılmak; bilinci kapanmak",
+   "bayılmak; bilincini yitirmek",
    "baygın kalmak",
    "bilinçdışı önyargı",
    "farkında olmamak"
@@ -241,7 +241,7 @@
  {
   "id": "inevitably",
   "senses": [
-   "kaçınılmaz olarak; mutlaka"
+   "kaçınılmaz olarak; doğal olarak"
   ],
   "ex": [
    "Düzenli sulanmazsa bu çiçekler kaçınılmaz olarak ölecek.",

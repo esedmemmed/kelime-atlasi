@@ -25,7 +25,7 @@
    "gösteri; program"
   ],
   "ex": [
-   "Lütfen bu kağıttan kuşun nasıl katlanacağını bana göster.",
+   "Lütfen bu kâğıttan kuşun nasıl katlanacağını bana göster.",
    "Son araştırmalar, yeşil alanlara erişimin kentsel nüfusun ruh sağlığını iyileştirebileceğini ortaya koyuyor."
   ],
   "col": [
@@ -42,14 +42,14 @@
   "senses": [
    "üstünde; üzerinde",
    "üstünde; fazla",
-   "yukarıda; önce"
+   "yukarıda; daha önce"
   ],
   "ex": [
    "Küçük ahşap bir raf mutfak lavabosunun üstünde asılı.",
    "Mevsim ortalamasının üzerindeki sıcaklıklar su talebini artırabilir ve kentsel su kaynakları üzerinde baskı oluşturabilir."
   ],
   "col": [
-   "deniz seviyesinden yüksek",
+   "deniz seviyesinin üzerinde",
    "ortalamanın üstünde",
    "her şeyden önce",
    "yukarıda belirtildiği gibi"
@@ -99,7 +99,7 @@
   "senses": [
    "satın almak",
    "inanmak; kabul etmek",
-   "uygun fiyatlı alım"
+   "kelepir; iyi alışveriş"
   ],
   "ex": [
    "Kahvaltıdan önce biraz ekmek almam gerekiyor.",
@@ -109,7 +109,7 @@
    "toptan almak",
    "ikinci el almak",
    "zaman kazanmak",
-   "iyi bir alım"
+   "iyi bir alışveriş"
   ],
   "tip": "Geçmiş zaman ve geçmiş ortaç bought'tur. buyed şeklinde yazılmaz.",
   "note": ""
@@ -119,7 +119,7 @@
   "senses": [
    "kısa; kısa süreli",
    "yetersiz; eksik",
-   "yetmeyerek; aniden"
+   "yetersiz kalarak; aniden"
   ],
   "ex": [
    "Bu akşam yemekten önce kısa bir yürüyüş yaptık.",
@@ -127,9 +127,9 @@
   ],
   "col": [
    "kısa bir mesafe",
-   "zamanı yetersiz olmak",
+   "zamanı kısıtlı olmak",
    "kısa vadede",
-   "bir hedefe ulaşamamak"
+   "hedefin gerisinde kalmak"
   ],
   "tip": "short of 'eksik olmak' anlamına gelir. shortly ise genellikle 'kısa süre sonra' demektir, 'kısaca' anlamına gelmez.",
   "note": ""
@@ -168,7 +168,7 @@
   "col": [
    "gözlük takmak",
    "üniforma giymek",
-   "eskiyip bitmek",
+   "eskimek; yıpranmak",
    "aşınma ve yıpranma"
   ],
   "tip": "wear kıyafetin üzerde olma durumunu, put on ise giyme eylemini anlatır. Düzensiz geçmiş zaman biçimi wore'dur.",
@@ -189,7 +189,7 @@
    "her gün",
    "gündüz vakti",
    "izin günü",
-   "bu günlerde"
+   "bugünlerde"
   ],
   "tip": "every day 'her gün' demektir. everyday ise sıfat olarak 'günlük' anlamına gelir ve bitişik yazılır.",
   "note": ""

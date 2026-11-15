@@ -3,7 +3,7 @@
   "id": "primitive",
   "senses": [
    "ilkel; basit",
-   "ilkel; ilk dönem"
+   "ilkel; ilk dönemlere ait"
   ],
   "ex": [
    "Kamp alanında yalnızca ilkel bir açık hava pişirme alanı vardı.",
@@ -14,7 +14,7 @@
    "ilkel koşullar",
    "ilkel yaşam biçimleri"
   ],
-  "tip": "Eşyalar için 'basit, sade' anlamında kullanılır. İnsanlar ya da kültürler için kullanıldığında aşağılayıcı algılanabilir, dikkatli olun.",
+  "tip": "Olanaklar için 'ilkel, kaba' anlamında; çağdaş halklar veya kültürler için kullanılırsa aşağılayıcı olabilir.",
   "note": ""
  },
  {
@@ -136,8 +136,8 @@
   ],
   "col": [
    "çok komik hikâye",
-   "çok komik komedi",
-   "tam bir kahkaha"
+   "çok komik bir komedi",
+   "gerçekten çok komik"
   ],
   "tip": "Sıradan 'komik'ten çok daha güçlüdür; insanı kahkahaya boğan bir komiklik anlatır. Hafif eğlenceli şeyler için kullanılmaz.",
   "note": ""
@@ -150,7 +150,7 @@
    "çok istemek; can atmak"
   ],
   "ex": [
-   "Bu yün şal boynumu bütün gün kaşındırıyor.",
+   "Bu yün atkı boynumu bütün gün kaşındırıyor.",
    "Bazı sentetik kumaşlar hassas cildi kaşındırabilir; bu yüzden giysi tasarımında malzeme seçimi önemlidir."
   ],
   "col": [

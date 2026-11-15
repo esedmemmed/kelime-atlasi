@@ -11,7 +11,7 @@
   "col": [
    "yanılmak",
    "yanlış inanç",
-   "yanlış kimlik",
+   "kimlik karışıklığı",
    "yanılmıyorsam"
   ],
   "tip": "Kişi öznesiyle genellikle \"be mistaken about\" kalıbı kullanılır. \"Yanlış\" anlamında \"wrong\" ile karıştırmayın; mistaken daha çok inanç ve yargı için geçerlidir.",
@@ -39,7 +39,7 @@
   "id": "await",
   "senses": [
    "beklemek; ummak",
-   "beklemek; hazır olmak"
+   "kapıda olmak; beklemek"
   ],
   "ex": [
    "Yeni köpek yavrumuzun gelişini heyecanla bekliyoruz.",
@@ -117,11 +117,11 @@
    "uğraş; hobi"
   ],
   "ex": [
-   "Mutluluk arayışı onu bahçecilige yöneltti.",
+   "Mutluluk arayışı onu bahçeciliğe yöneltti.",
    "Ekonomik büyümenin peşinde koşmak, çevrenin korunması pahasına olmamalıdır."
   ],
   "col": [
-   "peşinde",
+   "...peşinde",
    "bilginin peşinde koşmak",
    "boş zaman uğraşları"
   ],
@@ -149,8 +149,8 @@
  {
   "id": "suite",
   "senses": [
-   "süit; daire; oda takımı",
-   "takım; set",
+   "süit; oda grubu",
+   "paket; takım",
    "süit (müzik)"
   ],
   "ex": [
@@ -185,7 +185,7 @@
  {
   "id": "aroma",
   "senses": [
-   "aroma; güzel koku; buket"
+   "aroma; güzel koku"
   ],
   "ex": [
    "Taze ekmeğin kokusu bütün mutfağı doldurdu.",
@@ -239,7 +239,7 @@
  {
   "id": "inland",
   "senses": [
-   "içerideki; iç kesimlerdeki",
+   "iç kesimdeki; kıyıdan uzak",
    "içerilere doğru; iç kesimde"
   ],
   "ex": [
@@ -248,7 +248,7 @@
   ],
   "col": [
    "iç bölgeler",
-   "iç suyollar",
+   "iç su yolları",
    "içlere doğru taşınmak"
   ],
   "tip": "\"Coastal\" (kıyısal) ile zıttır. Zarf olarak kullanıldığında da genellikle ikinci heceye vurgu verilir.",
@@ -257,7 +257,7 @@
  {
   "id": "bankrupt",
   "senses": [
-   "iflas etmiş; batık",
+   "iflas etmiş; müflis",
    "iflas ettirmek",
    "iflas etmiş kişi"
   ],
@@ -267,7 +267,7 @@
   ],
   "col": [
    "iflas etmek",
-   "birini iflas ettirmek",
+   "birinin iflasını ilan etmek",
    "iflas etmiş şirket"
   ],
   "tip": "Genellikle \"go bankrupt\" kalıbı kullanılır. İsim hali \"bankruptcy\" (iflas) olarak yazılır.",

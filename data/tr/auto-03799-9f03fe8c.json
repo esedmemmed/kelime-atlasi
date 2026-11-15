@@ -7,7 +7,7 @@
    "bildiri; genelge"
   ],
   "ex": [
-   "Oturma odamızdaki kahve masasının altına yuvarlak bir halı serdik.",
+   "Orta sehpanın altına yuvarlak bir halı serdik.",
    "Dairesel ekonomi, malzemeleri mümkün olduğunca uzun süre kullanımda tutarak atığı azaltmayı amaçlar."
   ],
   "col": [
@@ -24,16 +24,16 @@
   "senses": [
    "geçiş ücreti; köprü/yol parası",
    "kayıp; zarar",
-   "tok tok çalmak; yavaşça çan çalmak"
+   "çan çalmak"
   ],
   "ex": [
    "Köprüden geçmeden önce geçiş ücreti ödedik.",
-   "Uzun çalışma saatleri çalışanların fiziksel sağlığı ve aile ilişkileri üzerinde ağır bir tahribat yaratabilir."
+   "Uzun çalışma saatleri çalışanların fiziksel sağlığına ve aile ilişkilerine ağır zarar verebilir."
   ],
   "col": [
    "geçiş ücreti ödemek",
    "ölü sayısı",
-   "üzerinde tahribat yaratmak",
+   "zarar vermek; yıpratmak",
    "çan çalmak"
   ],
   "tip": "'take a toll on' kalıbı 'zarar vermek, yıpratmak' anlamındadır. 'toll' fiil olarak yalnızca çan çalmak için kullanılır.",
@@ -43,7 +43,7 @@
   "id": "sexual",
   "senses": [
    "cinsel; cinsellikle ilgili",
-   "eşeyli; cinsiyetli üreme ile ilgili"
+   "eşeyli"
   ],
   "ex": [
    "Klinik, cinsel sağlık konusunda gizli danışmanlık hizmeti sunuyor.",
@@ -60,7 +60,7 @@
  {
   "id": "participation",
   "senses": [
-   "katılım; iştirak"
+   "katılım; katılma"
   ],
   "ex": [
    "Katılımınız, mahalle temizlik etkinliğini çok daha keyifli hale getirdi.",
@@ -87,7 +87,7 @@
   "col": [
    "izleyicileri büyülemek",
    "-e hayran olmak",
-   "hep büyülemek"
+   "büyülemeye devam etmek"
   ],
   "tip": "Şeyler için 'fascinating' (büyüleyici), kişiler için 'fascinated' (büyülenmiş) kullanılır.",
   "note": ""
@@ -114,7 +114,7 @@
  {
   "id": "statistics",
   "senses": [
-   "istatistik; veriler",
+   "istatistikler; veriler",
    "istatistik bilimi"
   ],
   "ex": [
@@ -125,7 +125,7 @@
    "resmî istatistikler",
    "istatistik derlemek",
    "istatistikler gösteriyor ki",
-   "istatistik okumak"
+   "istatistik çalışmak"
   ],
   "tip": "Veri anlamında kullanıldığında yüklem çoğul, bilim dalı anlamında kullanıldığında tekil olur.",
   "note": ""
@@ -160,9 +160,9 @@
    "Toplu taşıma iyileştirmeleri, gereksiz araba yolculuklarını caydıran politikalarla birlikte uygulandığında en iyi sonucu veriyor."
   ],
   "col": [
-   "-ile birlikte",
-   "bağlaç",
-   "bağlaç (bağlayıcı)"
+   "ile birlikte",
+   "eş değerli bağlaç",
+   "bağımlı bağlaç"
   ],
   "tip": "'in conjunction with' kalıbı 'birlikte, -ile bağlantılı olarak' anlamına gelir ve resmi metinlerde sık kullanılır.",
   "note": ""
@@ -170,8 +170,8 @@
  {
   "id": "meditate",
   "senses": [
-   "meditasyon yapmak; nefes almak",
-   "düşünmek; derin düşünmek"
+   "meditasyon yapmak",
+   "derin düşünmek"
   ],
   "ex": [
    "Her sabah kahvaltıdan önce on dakika meditasyon yapıyorum.",
@@ -197,7 +197,7 @@
   ],
   "col": [
    "-den endişelenmek",
-   "hevesle memnun etmeye çalışan",
+   "memnun etmeye hevesli",
    "endişe duymak"
   ],
   "tip": "'anxious about' endişeyi, 'anxious to do' ise yapmaya hevesli olmayı ifade eder.",
@@ -206,16 +206,16 @@
  {
   "id": "justify",
   "senses": [
-   "haklı çıkarmak; gerekçelendirmek"
+   "haklı göstermek; gerekçelendirmek"
   ],
   "ex": [
-   "Bu kış bir mont daha almayı haklı çıkaramıyorum.",
+   "Bu kış bir mont daha almayı haklı gösteremiyorum.",
    "Hükümetler, büyük altyapı harcamalarını geniş topluluk için açık faydalar göstererek gerekçelendirmek zorundadır."
   ],
   "col": [
-   "bir kararı haklı çıkarmak",
-   "maliyeti haklı çıkarmak",
-   "bir şey yapmayı haklı çıkarmak"
+   "bir kararı gerekçelendirmek",
+   "maliyeti haklı göstermek",
+   "bir şey yapmayı haklı göstermek"
   ],
   "tip": "'justify' fiilinden sonra isim ya da -ing biçimi gelir; to-infinitive kullanılmaz.",
   "note": ""
@@ -228,7 +228,7 @@
   ],
   "ex": [
    "Taze güllerin kokusu küçük mutfağı doldurdu.",
-   "Bazı tüketiciler, kokulu bileşenlerin hassas cildi tahriş edebilmesi nedeniyle katkı maddesi içermeyen ürünleri tercih ediyor."
+   "Bazı tüketiciler, kokulu bileşenlerin hassas cildi tahriş edebilmesi nedeniyle koku eklenmemiş ürünleri tercih ediyor."
   ],
   "col": [
    "narin koku",
@@ -252,7 +252,7 @@
   "col": [
    "matematik dahisi",
    "yaratıcı deha",
-   "-de usta olmak",
+   "-de dahi olmak",
    "dahice bir fikir"
   ],
   "tip": "Kişiler için sayılabilir (a genius), özel bir yetenek için genellikle sayılamaz kullanılır.",

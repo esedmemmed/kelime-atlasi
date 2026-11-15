@@ -14,7 +14,7 @@
    "torbaya yumruk atmak",
    "yumruk atmak",
    "delik açmak",
-   "kağıt delgeci"
+   "kâğıt delgeci"
   ],
   "tip": "punch yumrukla vurmak anlamına gelir; slap ise açık el ile tokat atmak veya şaplak vurmak anlamındadır. Bu ikisini karıştırmayın.",
   "note": ""
@@ -33,7 +33,7 @@
    "arkadaşlarla yemek yemek",
    "restoranda yemek yemek"
   ],
-  "tip": "dine, eat'ten daha resmi bir kelimedir ve genellikle doğrudan yiyecek nesnesi almaz; eat food yerine yalnızca dine kullanılmaz.",
+  "tip": "dine, eat'ten daha resmîdir ve doğrudan yiyecek nesnesi almaz; 'dine at/with/on' biçiminde kullanılır.",
   "note": ""
  },
  {
@@ -41,7 +41,7 @@
   "senses": [
    "düğüm",
    "düğümlemek; bağlamak",
-   "knot; deniz mili"
+   "knot; deniz mili/saat"
   ],
   "ex": [
    "Bu düğüm benim açamayacağım kadar sıkı.",
@@ -140,7 +140,7 @@
    "Sebzeleri uzun süre kaynatmak yerine buharda pişirmek doğal besin değerlerinin daha fazlasını koruyabilir."
   ],
   "col": [
-   "içten bir iyilikle",
+   "iyi niyetle",
    "doğal besin değeri",
    "Allah'a şükür",
    "aman Tanrım"
@@ -155,14 +155,14 @@
    "kömür kalemi"
   ],
   "ex": [
-   "Sebzeleri bahçede parlayan kömürlerin üzerinde pişirdik.",
+   "Sebzeleri bahçede kor halindeki odun kömürünün üzerinde pişirdik.",
    "Ağaçlar yeniden büyüyebileceklerinden daha hızlı kesildiğinde, odun kömürüne olan yoğun talep ormansızlaşmaya yol açabilir."
   ],
   "col": [
    "kömürlü ızgara",
-   "kömür çizim",
-   "aktif karbon",
-   "kömür üretimi"
+   "kömür çizimi",
+   "aktif kömür",
+   "odun kömürü üretimi"
   ],
   "tip": "charcoal genellikle sayılamaz. coal ise taş kömürüdür; odun kömürü için charcoal kullanılır.",
   "note": ""
@@ -170,15 +170,15 @@
  {
   "id": "fragile",
   "senses": [
-   "kırılgan; narin",
+   "kolay kırılan; narin",
    "kırılgan; hassas"
   ],
   "ex": [
-   "Paketlemeden önce lütfen bu kırılgan bardakları sarın.",
+   "Paketlemeden önce lütfen bu kolay kırılan bardakları sarın.",
    "Turizm, yeterli çevresel önlem alınmadan büyük grupların hassas habitatlara gitmesi durumunda kırılgan ekosistemleri tehdit edebilir."
   ],
   "col": [
-   "kırılgan cam",
+   "kolay kırılan cam",
    "kırılgan ekosistem",
    "kırılgan toparlanma"
   ],
@@ -200,7 +200,7 @@
    "kırık kaburga",
    "göğüs kafesi",
    "ızgara kaburga eti",
-   "birini bir konuda takılmak"
+   "biriyle bir konuda dalga geçmek"
   ],
   "tip": "Et anlamında ribs genellikle çoğul kullanılır. Fiil olarak rib gayriresmîdir ve arkadaşça bir alay anlamına gelir.",
   "note": ""
@@ -234,7 +234,7 @@
   "col": [
    "ahşap tabut",
    "tabut taşımak",
-   "ölüm çanı"
+   "tabuta çivi çakmak"
   ],
   "tip": "casket Amerikan İngilizcesinde de tabut anlamında kullanılır. a nail in the coffin deyimi bir şeyin sonunu hızlandıran etken anlamına gelir.",
   "note": ""
@@ -242,7 +242,7 @@
  {
   "id": "transaction",
   "senses": [
-   "işlem; muamele"
+   "işlem; alışveriş"
   ],
   "ex": [
    "Kasiyer bana işlem için bir fiş verdi.",

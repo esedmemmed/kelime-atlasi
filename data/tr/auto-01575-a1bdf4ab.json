@@ -95,7 +95,7 @@
   "id": "clap",
   "senses": [
    "alkışlamak; el çırpmak",
-   "gümbürtü; çatırtı"
+   "şak sesi; gürültü"
   ],
   "ex": [
    "Çocuklar şarkılarını bitirince herkes alkışladı.",
@@ -155,7 +155,7 @@
    "Düğün gelenekleri genellikle kültürel değerleri yansıtır; yine de birçok çift artık daha sade ve daha ucuz kutlamaları tercih ediyor."
   ],
   "col": [
-   "nikâh töreni",
+   "düğün töreni",
    "düğün resepsiyonu",
    "evlilik yıldönümü",
    "bir düğüne katılmak"
@@ -196,7 +196,7 @@
    "dijital cüzdan",
    "kayıp cüzdan"
   ],
-  "tip": "'wallet' para ve kartlar için cüzdandır. 'Purse' ise İngiliz İngilizcesinde genellikle bozuk para kesesi anlamına gelir.",
+  "tip": "wallet para ve kartlar için cüzdandır. purse İngiliz İngilizcesinde bozuk para cüzdanı, Amerikan'da el çantasıdır.",
   "note": ""
  },
  {
@@ -269,7 +269,7 @@
    "fırında pişirmek",
    "fırın sıcaklığı"
   ],
-  "tip": "'oven' kapalı pişirme cihazıdır. Türkçede 'fırın' fırıncı dükkânı da olduğundan, bu anlamda İngilizcede 'bakery' kullanılır.",
+  "tip": "oven kapalı fırındır; ocak için İng. hob ya da stove denir. Fırıncı dükkânı için bakery kullanılır.",
   "note": ""
  }
 ]

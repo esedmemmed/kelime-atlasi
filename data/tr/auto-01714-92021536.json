@@ -13,7 +13,7 @@
   "col": [
    "ani bir rüzgâr",
    "rüzgâr enerjisi",
-   "saatı kurmak",
+   "saati kurmak",
    "içinden kıvrılarak geçmek"
   ],
   "tip": "Rüzgâr anlamındaki wind /wɪnd/ okunur; sarmak anlamındaki wind /waɪnd/ okunur ve geçmiş zamanı wound'dur. Okunuşa dikkat edin.",
@@ -22,13 +22,13 @@
  {
   "id": "thai",
   "senses": [
-   "Tayland'a ait; Tayca",
+   "Tayland'a ait; Tay",
    "Tayca",
-   "Tayland'lı; Tay"
+   "Taylandlı; Tay"
   ],
   "ex": [
    "Akşam yemeğinde lezzetli bir Tay körisi yedik.",
-   "Tay mutfağı, uluslararası ziyaretçileri çekiyor ve yerel restoranlara ile yemek okullarına değerli fırsatlar sunuyor."
+   "Tay mutfağı, uluslararası ziyaretçileri çekiyor ve yerel restoranlar ile yemek okulları için değerli fırsatlar sunuyor."
   ],
   "col": [
    "Tay mutfağı",
@@ -41,17 +41,17 @@
  {
   "id": "wood",
   "senses": [
-   "tahta; odun",
+   "ahşap; odun",
    "orman; koru"
   ],
   "ex": [
-   "Bu küçük sandalye tamamen masif tahtadan yapılmış.",
+   "Bu küçük sandalye tamamen masif ahşaptan yapılmış.",
    "Sorumlu biçimde yönetilen ormanlardan elde edilen kerestenin kullanılması, yeni konutların inşasının çevreye etkisini azaltabilir."
   ],
   "col": [
-   "masif tahta",
+   "masif ahşap",
    "ahşap oyma",
-   "bir parça tahta",
+   "bir parça ahşap",
    "ormanda yürümek"
   ],
   "tip": "Malzeme anlamında wood sayılamaz. Küçük orman anlamında a wood ya da the woods kullanılır; 'ormanda' için in the woods denir.",
@@ -149,14 +149,14 @@
    "bir fabrikayı kapatmak",
    "bir şeyi kapalı tutmak"
   ],
-  "tip": "Geçmiş zaman ve ortaç hem shut hem de shut biçimindedir; -ing hali shutting olur.",
+  "tip": "Üç hali de aynıdır: shut–shut–shut. -ing biçimi shutting olur (t ikilenir).",
   "note": ""
  },
  {
   "id": "myself",
   "senses": [
    "kendim; kendimi",
-   "bizzat kendim"
+   "bizzat; kendim"
   ],
   "ex": [
    "Yürüyüşten önce kendime bir sandviç hazırladım.",
@@ -164,7 +164,7 @@
   ],
   "col": [
    "tek başıma",
-   "kendi kendime öğretmek",
+   "kendi kendime öğrenmek",
    "eğlenmek",
    "kendini iyi hissetmemek"
   ],

@@ -31,7 +31,7 @@
    "zaman edatı",
    "edat öbeği"
   ],
-  "tip": "Edattan sonra genellikle isim, zamir ya da -ing biçimli fiil gelir. Edat, ilişkiyi gösteren sözcüğün cümlede isimden önce gelmesidir.",
+  "tip": "Edattan sonra genellikle isim, zamir ya da -ing biçimli fiil gelir: good at swimming. Türkçedeki ard çekim ve ekler bunun karşılığıdır.",
   "note": ""
  },
  {
@@ -65,7 +65,7 @@
   "col": [
    "art arda",
    "ön sıra",
-   "kayığa kürek çekmek",
+   "kayıkla kürek çekmek",
    "kavga etmek"
   ],
   "tip": "Sıra ve kürek anlamında /rəʊ/, kavga anlamında /raʊ/ okunur. Telaffuz farkı anlamı değiştirir.",
@@ -201,7 +201,7 @@
   "col": [
    "demiryolu tüneli",
    "tünel kazmak",
-   "içinden geçmek"
+   "içinden tünel açmak"
   ],
   "tip": "through, tünelin içinden geçmeyi belirtir: go through the tunnel. Fiil olarak da kullanılır: tunnel through.",
   "note": ""
@@ -245,18 +245,18 @@
  {
   "id": "wallpaper",
   "senses": [
-   "duvar kağıdı",
-   "masaüstü duvar kağıdı",
-   "duvar kağıdı kaplamak"
+   "duvar kâğıdı",
+   "masaüstü duvar kâğıdı",
+   "duvar kâğıdı kaplamak"
   ],
   "ex": [
-   "Küçük yatak odamız için soluk yeşil bir duvar kağıdı seçtik.",
-   "Dayanıklı duvar kağıtları seçmek, iç mekân yenileme sıklığını azaltabilir ve evdeki malzeme atıklarını sınırlandırabilir."
+   "Küçük yatak odamız için soluk yeşil bir duvar kâğıdı seçtik.",
+   "Dayanıklı duvar kâğıtları seçmek, iç mekân yenileme sıklığını azaltabilir ve evdeki malzeme atıklarını sınırlandırabilir."
   ],
   "col": [
-   "desenli duvar kağıdı",
-   "bir rulo duvar kağıdı",
-   "duvar kağıdı asmak",
+   "desenli duvar kâğıdı",
+   "bir rulo duvar kâğıdı",
+   "duvar kâğıdı asmak",
    "masaüstü arka planı"
   ],
   "tip": "Genelde sayılamaz isimdir. Bir rulo için a roll of wallpaper kullanılır. Bilgisayar ekranı için de kullanılır.",

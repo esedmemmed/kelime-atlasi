@@ -65,7 +65,7 @@
   ],
   "ex": [
    "Kozmetik ürünlerini küçük banyo çekmecesinde saklıyor.",
-   "Tüketiciler, kozmetik üreticilerinin içerikleri açıkça belirtmesini ve gereksiz ambalajı azaltmasını giderek daha çok bekliyor."
+   "Tüketiciler, çevresel zararı sınırlamak için kozmetik üreticilerinin içerikleri açıkça belirtmesini ve gereksiz ambalajı azaltmasını giderek daha çok bekliyor."
   ],
   "col": [
    "kozmetik endüstrisi",
@@ -90,7 +90,7 @@
    "samimi ve yaklaşılabilir",
    "yaklaşılabilir bir üslup"
   ],
-  "tip": "Kişiler için sıcak ve kolay konuşulur; bilgi ve üslup için anlaşılır anlamındadır. Kişiye sormaktan çekinmeyeceğini anlatır.",
+  "tip": "Kişi için: konuşması kolay, çekinmeden yardım istenen. Bilgi ve sanat için: anlaşılır, herkesin kolay anlayacağı.",
   "note": ""
  },
  {
@@ -126,7 +126,7 @@
   "col": [
    "dokunaklı bir hikâye",
    "duygulandırıcı bir jest",
-   "dokunaklı bir anma"
+   "dokunaklı bir övgü"
   ],
   "tip": "Touching bir şeyin duygulandırıcı olduğunu anlatır; insan için touched kullanılır: I was touched by his kindness.",
   "note": ""
@@ -156,10 +156,10 @@
   ],
   "ex": [
    "Sonunda istasyonun yakınında makul bir daire bulduk.",
-   "Her çalışan, uygun konutu karşılayabilecek ve temel ihtiyaçlarını giderebilecek kadar kazanmalıdır."
+   "Her çalışan, insana yakışır bir konutu karşılayabilecek ve temel ihtiyaçlarını giderebilecek kadar kazanmalıdır."
   ],
   "col": [
-   "uygun konut",
+   "insana yakışır konut",
    "makul bir maaş",
    "düzgün bir insan"
   ],
@@ -220,7 +220,7 @@
    "destek toplamak",
    "birinin etrafında toplanmak"
   ],
-  "tip": "Rally support for kalıbı için destek toplamak anlamına gelir. Fiil olarak iki farklı anlamı vardır: toplanmak ve toparlanmak.",
+  "tip": "rally support for: ... için destek toplamak. Fiilin 'toplanmak' ve 'toparlanmak' anlamları ayrıdır.",
   "note": ""
  },
  {
@@ -266,13 +266,13 @@
    "iyimserlik; olumlu bakış"
   ],
   "ex": [
-   "İyimserliği fırtına sırasında bizi neşeli tutmaya yardımcı oldu.",
+   "İyimserliği, fırtına sırasında neşemizi korumamıza yardımcı oldu.",
    "Ekonomik belirsizliğe rağmen birçok mezun, anlamlı bir iş bulma şansları konusunda iyimserliğini dile getiriyor."
   ],
   "col": [
    "temkinli iyimserlik",
    "gelecek hakkında iyimserlik",
-   "iyimserlik için nedenler"
+   "iyimser olmak için nedenler"
   ],
   "tip": "Sayılamayan bir isimdir: optimism. Bir şey hakkında iyimser olmayı anlatmak için optimism about kalıbı kullanılır.",
   "note": ""

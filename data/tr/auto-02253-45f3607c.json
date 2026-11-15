@@ -11,7 +11,7 @@
   "col": [
    "bir grup yunus",
    "şişeburun yunusu",
-   "yunus koruma"
+   "yunusların korunması"
   ],
   "tip": "Yunus bir memelidir, balık değildir. Bir grup yunus için İngilizcede a pod of dolphins denir.",
   "note": ""
@@ -124,7 +124,7 @@
  {
   "id": "warn",
   "senses": [
-   "uyarmak; ikaz etmek"
+   "uyarmak"
   ],
   "ex": [
    "Tava çok ısınırsa lütfen beni uyar.",
@@ -152,7 +152,7 @@
   "col": [
    "bir yüzeyi silmek",
    "gözyaşlarını silmek",
-   "bir kez silmek",
+   "bir şeyi hızlıca silmek",
    "ıslak mendiller"
   ],
   "tip": "Wipe genellikle bir yüzeyi silmek anlamında kullanılır. Wipe out ise tamamen yok etmek anlamına gelir.",
@@ -165,7 +165,7 @@
   ],
   "ex": [
    "Muhasebeci, kafeyi açmadan önce giderlerimizi kontrol etti.",
-   "Nitelikli bir muhasebeci edinmek, küçük işletmelerin vergilerini doğru yönetmelerine ve daha iyi mali kararlar almalarına yardımcı olur."
+   "Nitelikli bir muhasebeci çalıştırmak, küçük işletmelerin vergilerini doğru yönetmelerine ve daha iyi mali kararlar almalarına yardımcı olur."
   ],
   "col": [
    "nitelikli muhasebeci",
@@ -225,7 +225,7 @@
   ],
   "col": [
    "çok çeşitli",
-   "A'dan B'ye kadar uzanmak",
+   "A ile B arasında değişmek",
    "dağ sırası"
   ],
   "tip": "Range from A to B, 'A ile B arasında değişmek' anlamındadır. Dağ sırası için mountain range kullanılır.",
@@ -240,11 +240,11 @@
   ],
   "ex": [
    "Bu çiçekleri dışarıya kimin bıraktığı hâlâ bir gizem.",
-   "Deniz araştırmalarındaki ilerlemelere rağmen, pek çok derin okyanus türünün davranışı hâlâ bir gizemini koruyor."
+   "Deniz araştırmalarındaki ilerlemelere rağmen, pek çok derin okyanus türünün davranışı hâlâ bir gizem olarak kalıyor."
   ],
   "col": [
    "bir gizemi çözmek",
-   "gizemini korumak",
+   "bir gizem olarak kalmak",
    "gizem duygusu",
    "gizem romanı"
   ],
@@ -254,18 +254,18 @@
  {
   "id": "typist",
   "senses": [
-   "daktilograf; daktilo"
+   "daktilograf"
   ],
   "ex": [
-   "Daktilo, öğle arasından önce mektubu bitirdi.",
-   "Özel daktilo pozisyonları bugün daha az yaygın olsa da, doğru klavye becerileri pek çok iş yerinde değerli olmayı sürdürüyor."
+   "Daktilograf, öğle arasından önce mektubu bitirdi.",
+   "Özel daktilograf kadroları bugün daha az yaygın olsa da, doğru klavye becerileri pek çok iş yerinde değerli olmayı sürdürüyor."
   ],
   "col": [
-   "hızlı daktilo",
-   "becerikli daktilo",
+   "hızlı daktilograf",
+   "becerikli daktilograf",
    "klavyeye bakmadan yazabilen kişi"
   ],
-  "tip": "Kişiyi ifade eder. Daktilo yazma eylemi için typing, makine için ise typewriter kullanılır.",
+  "tip": "Kişiyi ifade eder. Yazma eylemi için typing, makine (daktilo) için typewriter kullanılır.",
   "note": ""
  }
 ]

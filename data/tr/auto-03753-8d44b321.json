@@ -37,7 +37,7 @@
   "id": "introductory",
   "senses": [
    "giriş düzeyinde; tanıtıcı",
-   "tanıtım döneminde"
+   "tanıtım fiyatlı"
   ],
   "ex": [
    "Geçen hafta bir giriş seviyesi çömlekçilik kursuna katıldım.",
@@ -81,12 +81,12 @@
    "Araştırmacılar, uzun süreli ekran kullanımının uyku kalitesini etkileyebileceğinden şüpheleniyor; ancak daha fazla kanıta ihtiyaç var."
   ],
   "col": [
-   "şüphelenmek ki",
-   "birini bir şeyden şüphelenmek",
+   "...diye şüphelenmek",
+   "birinin bir şeyi yaptığından şüphelenmek",
    "başlıca şüpheli",
    "şüpheli kanıt"
   ],
-  "tip": "Fiil /səˈspekt/ (sonda vurgu), isim ve sıfat /ˈsʌspekt/ (başta vurgu) okunur. Birini bir şeyle suçlamak için 'suspect someone of' kullanılır.",
+  "tip": "Fiil /səˈspekt/ (vurgu sonda), isim/sıfat /ˈsʌspekt/ (vurgu başta). Kalıp: suspect sb of sth (birinin bir şey yaptığından şüphelenmek).",
   "note": ""
  },
  {
@@ -129,7 +129,7 @@
  {
   "id": "likewise",
   "senses": [
-   "aynı şekilde; keza"
+   "aynı şekilde; ayrıca"
   ],
   "ex": [
    "Şemsiyemi katladım, kız kardeşim de aynısını yaptı.",
@@ -260,7 +260,7 @@
    "değerlendirmek"
   ],
   "ex": [
-   "Üç kamerayı inceledik ve gezimiz için birini seçtik.",
+   "Gezimiz için birini seçmeden önce üç kamerayı değerlendirdik.",
    "Hükümetler, büyük inşaat projelerini onaylamadan önce uzun vadeli çevresel etkilerini değerlendirmelidir."
   ],
   "col": [

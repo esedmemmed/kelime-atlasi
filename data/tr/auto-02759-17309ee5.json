@@ -58,10 +58,10 @@
   "id": "reward",
   "senses": [
    "ödül; karşılık",
-   "ödüllendirmek; karşılık vermek"
+   "ödüllendirmek; mükâfatlandırmak"
   ],
   "ex": [
-   "Köpek yavrusunu bir ödül olarak ödüllendirdik.",
+   "Köpek yavrusuna ödül olarak bir mama verdik.",
    "Okullar, yalnızca en yüksek notları alan öğrencilere odaklanmak yerine tutarlı çabayı ödüllendirmelidir."
   ],
   "col": [
@@ -97,7 +97,7 @@
   "senses": [
    "korumak; savunmak",
    "savunmak; haklı çıkarmak",
-   "savunmada oynamak; gol yemesini önlemek"
+   "savunma yapmak"
   ],
   "ex": [
    "Anne ördek yavrularını korumak için kanatlarını açtı.",
@@ -134,15 +134,15 @@
  {
   "id": "emergency",
   "senses": [
-   "acil durum; afet"
+   "acil durum"
   ],
   "ex": [
    "Olası bir acil durum için yakınınızda bir el feneri bulundurun.",
-   "Hükümetler, doğal afetler sırasında toplulukların hızlı yardım almasını sağlamak için acil hizmetlere yatırım yapmalıdır."
+   "Hükümetler, doğal afetler sırasında toplulukların hızlı yardım almasını sağlamak için acil durum hizmetlerine yatırım yapmalıdır."
   ],
   "col": [
    "acil durumda",
-   "acil servisler",
+   "acil durum hizmetleri",
    "acil tahliye",
    "olağanüstü hal"
   ],
@@ -161,7 +161,7 @@
   "col": [
    "rahat spor giyim",
    "spor giyim satıcısı",
-   "bir dizi spor giyim"
+   "çeşitli spor giyim ürünleri"
   ],
   "tip": "Sayılamayan isimdir. Tek bir parça için an item of sportswear kalıbı kullanılır.",
   "note": ""
@@ -188,7 +188,7 @@
  {
   "id": "lid",
   "senses": [
-   "kapak; kapak",
+   "kapak",
    "göz kapağı"
   ],
   "ex": [
@@ -198,7 +198,7 @@
   "col": [
    "sıkı oturan kapak",
    "kapağı kapatmak",
-   "kapağı açmak; gizliliği ortaya çıkarmak",
+   "kapağı kaldırmak",
    "maliyetleri kontrol altında tutmak"
   ],
   "tip": "Kap kapağı için lid kullanılır; şişenin vidalı kapağı için ise çoğunlukla cap tercih edilir.",
@@ -227,7 +227,7 @@
    "kasiyer; veznedar"
   ],
   "ex": [
-   "Kasiyer gülümsedi ve bozuğumu bana verdi.",
+   "Kasiyer gülümsedi ve para üstümü bana verdi.",
    "Otomatik kasalar kasiyerlere olan talebi azaltabilir, ancak birçok müşteri hâlâ bir insandan yardım almayı tercih ediyor."
   ],
   "col": [
@@ -241,9 +241,9 @@
  {
   "id": "bargain",
   "senses": [
-   "ucuz alışveriş; fırsat",
+   "kelepir; fırsat",
    "pazarlık etmek",
-   "anlaşma; sözleşme"
+   "anlaşma; uzlaşma"
   ],
   "ex": [
    "Bu sıcak kış montu gerçekten çok uygun fiyatlıydı.",
@@ -266,11 +266,11 @@
   ],
   "ex": [
    "Arkadaşları taşınma sürecinde ona duygusal destek verdi.",
-   "Okullar, çocukların uzun vadeli iyi oluşunu desteklemek için akademik ilerlemenin yanında duygusal gelişimlerini de desteklemelidir."
+   "Okullar, çocukların uzun vadeli esenliğini desteklemek için akademik ilerlemenin yanında duygusal gelişimlerini de desteklemelidir."
   ],
   "col": [
    "duygusal destek",
-   "duygusal iyi oluş",
+   "duygusal esenlik",
    "duygusal gelişim",
    "duygulanmak"
   ],

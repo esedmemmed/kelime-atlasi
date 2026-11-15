@@ -91,7 +91,7 @@
   ],
   "col": [
    "iş bulmak",
-   "daha iyi olmak",
+   "iyileşmek",
    "okula varmak",
    "izin almak"
   ],
@@ -109,8 +109,8 @@
    "Toplu taşıma trafik sıkışıklığını azaltabilir, ancak düzenli kullanıcıları çekebilmesi için hizmetlerin yeterince güvenilir olması gerekir."
   ],
   "col": [
-   "yalnızca değil, aynı zamanda",
-   "değil ... fakat ...",
+   "yalnızca ... değil, ... da",
+   "...değil, ...",
    "hiç de ... değil",
    "yalnızca; sadece"
   ],
@@ -159,7 +159,7 @@
    "resmi yemek; davet"
   ],
   "ex": [
-   "Yemek hazır, lütfen tabakları getirir misin?",
+   "Yemek hazır, lütfen tabakları getir.",
    "Birlikte düzenli olarak akşam yemeği yemek, herkese günlük deneyimlerini paylaşma fırsatı vererek aile ilişkilerini güçlendirebilir."
   ],
   "col": [

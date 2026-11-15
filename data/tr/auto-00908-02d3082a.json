@@ -153,7 +153,7 @@
    "eğitim; öğretim"
   ],
   "ex": [
-   "Büyükanne ve büyükbabam, eğitimimi ödemek için para biriktirdi.",
+   "Büyükanne ve büyükbabası, eğitimini ödemek için para biriktirdi.",
    "Kaliteli eğitime erişim, istihdam olanaklarını artırabilir ve farklı sosyal gruplar arasındaki eşitsizliği azaltabilir."
   ],
   "col": [
@@ -212,11 +212,11 @@
    "Yavru köpek sahiplenmek; eğitim, egzersiz ve düzenli veteriner bakımı için uzun vadeli bir bağlılık gerektirir."
   ],
   "col": [
-   "bir doğumdaki yavru köpekler",
+   "bir batın yavru köpek",
    "yavru köpek sahiplenmek",
    "yavru köpek eğitimi"
   ],
-  "tip": "Çoğulu 'puppies' olur (y, ies olur). Yalnızca yavru köpekler için kullanılır; yetişkin köpekler için 'dog' denir.",
+  "tip": "Çoğulu puppies'tir (y düşer, ies eklenir). Yalnızca yavru köpek için kullanılır; yetişkin köpek için dog denir.",
   "note": ""
  },
  {

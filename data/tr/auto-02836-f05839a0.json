@@ -2,15 +2,15 @@
  {
   "id": "jealous",
   "senses": [
-   "kıskanç; gıpta eden",
+   "kıskanç; imrenen",
    "kıskanç"
   ],
   "ex": [
    "Kuzenim bisiklet alınca kendimi kıskanmış hissettim.",
-   "Sosyal medya, daha başarılı ya da heyecanlı görünen başkalarının hayatına kullanıcıları gıpta ettirebilir."
+   "Sosyal medya, kullanıcıların hayatı daha başarılı ya da heyecanlı görünen başkalarını kıskanmasına yol açabilir."
   ],
   "col": [
-   "birinden kıskanmak",
+   "birini kıskanmak",
    "kıskanmak",
    "kıskanç bir sevgili"
   ],
@@ -96,7 +96,7 @@
   "id": "landlady",
   "senses": [
    "ev sahibesi",
-   "bar sahibesi"
+   "pub sahibesi"
   ],
   "ex": [
    "Ev sahibemiz mutfaktaki musluğu tamir etmek için uğradı.",
@@ -105,7 +105,7 @@
   "col": [
    "ev sahibesine sormak",
    "ev sahibesine kira ödemek",
-   "bar sahibesi"
+   "pub sahibesi"
   ],
   "tip": "landlady kadın ev sahibini belirtir; cinsiyet belirtmek istemezseniz genel anlamda landlord kullanılabilir.",
   "note": ""
@@ -158,7 +158,7 @@
   ],
   "col": [
    "sessiz kalmak",
-   "sessizliğe gömülmek",
+   "susmak",
    "sessiz film",
    "okunmayan harf"
   ],
@@ -249,7 +249,7 @@
   ],
   "ex": [
    "Yemek pişirmemle ilgili iltifatı beni gülümsetti.",
-   "Öğrencilerin belirli gelişimlerini takdir eden öğretmenler motivasyonu artırabilir ve sürekli çabayı teşvik edebilir."
+   "Öğrencileri belirli gelişmeleri nedeniyle öven öğretmenler motivasyonu artırabilir ve çabanın sürmesini teşvik edebilir."
   ],
   "col": [
    "birine iltifat etmek",

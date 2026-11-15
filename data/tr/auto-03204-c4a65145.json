@@ -50,7 +50,7 @@
    "acil eylem",
    "anında tepki",
    "yakın aile",
-   "çevredeki ortam"
+   "yakın çevre"
   ],
   "tip": "immediate bir sıfattır; bir fiili nitelemek için immediately kullanılır.",
   "note": ""
@@ -63,7 +63,7 @@
   ],
   "ex": [
    "Öğle yemeğinden sonra tepelerin üzerinde parlak bir gökkuşağı belirdi.",
-   "Turistler, şelalenin dibindeki su sisinde oluşan gökkuşağını sık sık fotoğrafında yakalar."
+   "Turistler, şelalenin dibindeki su sisinde oluşan gökkuşağının fotoğrafını sık sık çeker."
   ],
   "col": [
    "gökkuşağı belirmek",
@@ -105,7 +105,7 @@
   "col": [
    "bir ödevi tamamlamak",
    "ödev teslim etmek",
-   "görev başında",
+   "görevli olarak",
    "görev dağılımı"
   ],
   "tip": "Belirli bir ödev sayılabilir (an assignment); genel ev ödevi için homework genellikle sayılamaz.",
@@ -149,16 +149,16 @@
  {
   "id": "amazed",
   "senses": [
-   "çok şaşırmış; hayran"
+   "çok şaşırmış; şaşkın"
   ],
   "ex": [
    "Betonun içinden çiçeklerin bittiğini görünce çok şaşırdım.",
    "Araştırmacılar, çocukların interaktif oyunlarla yeni kelimeleri ne kadar hızlı öğrendiğine hayret etti."
   ],
   "col": [
-   "birine şaşırmak",
-   "bir şeyden etkilenip şaşırmak",
-   "keşfetmeye şaşırmak"
+   "bir şeye şaşırmak",
+   "bir şeye hayret etmek",
+   "keşfedince şaşırmak"
   ],
   "tip": "amazed insanın duygusunu, amazing ise şaşırtıcı olan şeyi anlatır: I am amazed / The view is amazing.",
   "note": ""
@@ -175,7 +175,7 @@
    "Hükümetler, kamusal parkların fiziksel sağlığı iyileştirmedeki ve toplumsal ilişkileri güçlendirmedeki değerini kabul etmelidir."
   ],
   "col": [
-   "paraya değer",
+   "parasının karşılığı",
    "bir şeye yüksek değer vermek",
    "mülk değeri",
    "ortak değerler"
@@ -195,7 +195,7 @@
   "col": [
    "şiddetli gök gürültülü fırtına",
    "gök gürültülü fırtına uyarısı",
-   "dağınık sağanaklar"
+   "yer yer gök gürültülü sağanak"
   ],
   "tip": "thunder gök gürültüsünü, lightning şimşeği anlatır; ikisinin birlikte oluştuğu fırtına thunderstorm'dur.",
   "note": ""
@@ -231,7 +231,7 @@
   "col": [
    "bencil davranış",
    "bencil güdüler",
-   "birinin bencilliği"
+   "birinin bencilce davranması"
   ],
   "tip": "Birinin davranışını değerlendirirken It is selfish of sb to do... kalıbı kullanılır.",
   "note": ""
@@ -252,7 +252,7 @@
    "resepsiyon görevlisi",
    "mahkeme katibi"
   ],
-  "tip": "Amerikan İngilizcesinde genellikle mağaza görevlisi anlamına gelir; ofis işi için office clerk kullanılır.",
+  "tip": "İngiliz İngilizcesinde /klɑːk/, Amerikan'da /klɜːrk/ okunur. ABD'de çoğunlukla mağaza görevlisi anlamına gelir.",
   "note": ""
  },
  {

@@ -3,7 +3,7 @@
   "id": "remote",
   "senses": [
    "ıssız; uzak",
-   "uzaktan kumandalı",
+   "uzaktan",
    "uzak; olası olmayan"
   ],
   "ex": [
@@ -46,8 +46,8 @@
    "doğurmak; körüklemek"
   ],
   "ex": [
-   "Bu kuşlar genellikle sıcak aylarda burada üreme yapar.",
-   "Koruma programları, nesli tükenmekte olan hayvanları korunan ortamlarda yetiştirip uygun doğal yaşam alanlarına salmadan önce üretir."
+   "Bu kuşlar genellikle sıcak aylarda burada ürer.",
+   "Koruma programları, nesli tükenmekte olan hayvanları uygun doğal yaşam alanlarına salmadan önce korunan ortamlarda yetiştirir."
   ],
   "col": [
    "üreme mevsimi",
@@ -72,7 +72,7 @@
   "col": [
    "sinir hasarı",
    "cesaretini kaybetmek",
-   "bir şeyi yapacak kadar pişkin olmak"
+   "bir şeyi yapacak yüzsüzlüğü bulmak"
   ],
   "tip": "Cesaret anlamında nerve genellikle sayılamaz; nerves ise gerginlik ya da endişe anlamında çoğul kullanılır.",
   "note": ""
@@ -141,8 +141,8 @@
    "çömlekçi atölyesi"
   ],
   "ex": [
-   "Pazar tezgahında yumuşak toprak tonlarında çömlekler sergileniyordu.",
-   "Geleneksel çanak çömlek, eski toplumların yiyeceği nasıl sakladığını, malları nasıl ticaret yaptığını ve kültürel kimliğini nasıl ifade ettiğini gösterebilir."
+   "Pazar tezgâhında yumuşak toprak tonlarında çömlekler sergileniyordu.",
+   "Geleneksel çanak çömlek, eski toplumların yiyeceği nasıl sakladığını, nasıl mal ticareti yaptığını ve kültürel kimliğini nasıl ifade ettiğini gösterebilir."
   ],
   "col": [
    "el yapımı çanak çömlek",
@@ -160,7 +160,7 @@
    "bağımlılık"
   ],
   "ex": [
-   "Bisiklete binmeyi öğrenmek, arkadaşlarımın bindirmesine olan bağımlılığımı azalttı.",
+   "Bisiklete binmeyi öğrenmek, arkadaşlarımın beni arabayla götürmesine olan bağımlılığımı azalttı.",
    "Yenilenebilir enerjiye yapılan yatırım, bir ülkenin ithal yakıtlara bağımlılığını azaltabilir ve enerji güvenliğini artırabilir."
   ],
   "col": [
@@ -207,7 +207,7 @@
    "ihtiyatlı tahmin",
    "temkinli yaklaşım"
   ],
-  "tip": "Küçük harfle genel anlamda muhafazakâr demektir; büyük harfle Conservative ise İngiltere'deki Muhafazakâr Parti'yi ifade eder.",
+  "tip": "Küçük harfle genel anlamda muhafazakâr demektir; büyük harfle Conservative ise Birleşik Krallık'taki Muhafazakâr Parti'yi ifade eder.",
   "note": ""
  },
  {
@@ -220,7 +220,7 @@
    "Şalgam gibi kök sebzeler yetiştirmek, soğuk aylarda toplulukların yerel gıda kaynaklarını çeşitlendirmesine yardımcı olabilir."
   ],
   "col": [
-   "fırında şalgam",
+   "fırında kavrulmuş şalgam",
    "şalgam yaprakları",
    "şalgam çorbası"
   ],
@@ -279,7 +279,7 @@
   "col": [
    "asit yağmuru",
    "mide asidi",
-   "asitli toprak",
+   "asidik toprak",
    "iğneleyici bir söz"
   ],
   "tip": "Acid hem isim hem sıfat olabilir. Acidic ise daha çok 'asidik' anlamıyla, özellikle pH bağlamında kullanılır.",

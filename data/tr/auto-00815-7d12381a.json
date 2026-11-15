@@ -44,7 +44,7 @@
    "antrenman; idman"
   ],
   "ex": [
-   "İlk eğitim günümde müşterilere yardım etmek vardı.",
+   "Eğitimin ilk günü müşterilere yardım etmeyi içeriyordu.",
    "Düzenli mesleki eğitim, çalışanların teknolojik değişimlere uyum sağlamasına yardımcı olur ve uzun vadeli kariyer beklentilerini iyileştirir."
   ],
   "col": [
@@ -70,7 +70,7 @@
   "col": [
    "bir dilim ekmek",
    "ince ince dilimlemek",
-   "pazardan büyük pay"
+   "pazardan pay"
   ],
   "tip": "slice belirli, ince ve düz bir parçayı vurgular; piece ise genel olarak bir parçayı anlatır.",
   "note": ""
@@ -125,9 +125,9 @@
    "Hanehalkları, yalıtımı iyileştirerek ve elektriği daha verimli tüketen cihazları seçerek daha az enerji kullanabilir."
   ],
   "col": [
-   "...den az",
+   "-den az",
    "daha az olası",
-   "giderek azalan",
+   "giderek daha az",
    "tam tamına; en az"
   ],
   "tip": "Sayılamayan isimlerle less, sayılabilir çoğul isimlerle fewer kullanılır; örneğin fewer people.",
@@ -237,7 +237,7 @@
   "col": [
    "yük taşıyan eşek",
    "eşeğe binmek",
-   "eşek anırmak"
+   "eşeğin anırması"
   ],
   "tip": "Hayvan için donkey en yaygın kelimedir; insanlara donkey diye seslenmek aşağılayıcı olur.",
   "note": ""

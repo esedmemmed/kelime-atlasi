@@ -4,7 +4,7 @@
   "senses": [
    "son; uç",
    "sona erdirmek; bitirmek",
-   "amaç; gaye"
+   "amaç; hedef"
   ],
   "ex": [
    "Sokağımızın sonunda küçük bir fırın var.",
@@ -80,7 +80,7 @@
    "ayakta; uyanık"
   ],
   "ex": [
-   "Çocuk, parlak kırmızı balona yukarı doğru bakarak baktı.",
+   "Çocuk başını kaldırıp parlak kırmızı balona baktı.",
    "Konut maliyetleri arttıkça, birçok genç yetişkin bağımsız yaşamanın daha zor olduğunu görüyor."
   ],
   "col": [
@@ -99,7 +99,7 @@
    "dünya; alan"
   ],
   "ex": [
-   "Hayalinde trenle dünyayı dolaşmak var.",
+   "Trenle dünyayı dolaşmayı hayal ediyor.",
    "İklim değişikliğiyle mücadele etmek ve ortak doğal kaynakları korumak için dünya ülkeleri daha yakın iş birliği yapmalıdır."
   ],
   "col": [
@@ -126,7 +126,7 @@
    "su içmek",
    "sıcak bir içecek",
    "içme suyu",
-   "gazlı içecek"
+   "alkolsüz içecek"
   ],
   "tip": "Düzensiz fiil: drink–drank–drunk. Bağlama göre alkol içmek anlamına da gelir.",
   "note": ""
@@ -176,7 +176,7 @@
    "çok; epey"
   ],
   "ex": [
-   "Kahvaltı için pek az süt kaldı.",
+   "Kahvaltı için fazla sütümüz kalmadı.",
    "Önleyici sağlık hizmetlerine yatırım yapmak, hastalıklar ağırlaştıktan sonra tedavi etmekten çok daha ekonomik olabilir."
   ],
   "col": [
@@ -229,15 +229,15 @@
  {
   "id": "hey",
   "senses": [
-   "hey; ey; selam"
+   "hey; selam"
   ],
   "ex": [
    "Hey, şemsiyeni kapının yanında unutmuşsun!",
    "Üniversite personeline ilk kez e-postayla ulaşan öğrenciler için 'hey' gibi gayriresmi selamlaşmalar uygun olmayabilir."
   ],
   "col": [
-   "hey, orada",
-   "hey herkes"
+   "hey, selam",
+   "herkese selam"
   ],
   "tip": "Gayriresmi bir selamlaşmadır; arkadaşlar arasında kullanılır, resmi yazışmalarda kullanılmaz.",
   "note": ""

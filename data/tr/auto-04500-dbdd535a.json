@@ -145,10 +145,10 @@
  {
   "id": "homestay",
   "senses": [
-   "yerel aile yanında konaklama"
+   "aile yanında konaklama"
   ],
   "ex": [
-   "Yerel bir aile yanında kaldığım süre boyunca ailemle birlikte akşam yemeği pişirdim.",
+   "Aile yanında kaldığım süre boyunca onlarla birlikte akşam yemeği pişirdim.",
    "Yerel aile yanında kalmak, uluslararası öğrencilerin günlük dil becerilerini geliştirmelerine ve yerel âdetleri anlamalarına yardımcı olabilir."
   ],
   "col": [
@@ -225,8 +225,8 @@
    "Hükümetler güvenilir toplu taşımaya da yatırım yapmadıkça, yeni yollar yapmak trafik sorunlarını başka yerlere kaydırmaktan öteye geçmez."
   ],
   "col": [
-   "yalnızca bir mesele",
-   "yalnızca değil",
+   "yalnızca ... meselesi olmak",
+   "yalnızca ... değil",
    "sırf ... diye"
   ],
   "tip": "Only'den daha resmi bir tondadır; genellikle fiilin önüne, be fiilinden sonra gelir.",
@@ -245,7 +245,7 @@
   "col": [
    "işten istifa etmek",
    "başkanlıktan istifa etmek",
-   "kendini ... kabullenmek"
+   "...e razı olmak; ...i kabullenmek"
   ],
   "tip": "resign oneself to kalıbından sonra isim veya -ing'li fiil gelir; 'çaresizce kabullenmek' anlamı taşır.",
   "note": ""
@@ -253,7 +253,7 @@
  {
   "id": "cannon",
   "senses": [
-   "top; obüs"
+   "top"
   ],
   "ex": [
    "Kalenin girişinde eski bir top duruyordu.",

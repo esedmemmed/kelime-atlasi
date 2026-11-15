@@ -28,7 +28,7 @@
   "col": [
    "sıklık zarfı",
    "tarz zarfı",
-   "zarfın yerleşimi"
+   "zarfın yeri"
   ],
   "tip": "adverb isimdir. 'Zarfa ait' anlamında sıfat olarak adverbial kullanılır.",
   "note": ""
@@ -92,7 +92,7 @@
  {
   "id": "perform",
   "senses": [
-   "sahnelemek; oynamak",
+   "sahne almak; oynamak",
    "yerine getirmek; uygulamak",
    "performans göstermek"
   ],
@@ -123,7 +123,7 @@
   "col": [
    "kalkış salonu",
    "otel salonu",
-   "etrafta tembelce oturmak"
+   "tembelce vakit geçirmek"
   ],
   "tip": "İngiliz İngilizcesinde evdeki oturma odası anlamına da gelir. Fiil olarak genellikle around ile kullanılır.",
   "note": ""
@@ -138,7 +138,7 @@
    "Ormanlık habitatların korunması sağlıklı geyik popülasyonlarını sürdürmeye yardımcı olur, ancak aşırı otlamayı önlemek için dikkatli yönetim gerekir."
   ],
   "col": [
-   "bir sürü geyik",
+   "bir geyik sürüsü",
    "geyik boynuzları",
    "vahşi geyikler"
   ],
@@ -175,7 +175,7 @@
   "col": [
    "bir şeyi yapmayı planlamak",
    "...için tasarlanmış olmak",
-   "...olmayı amaçlamak"
+   "... amacıyla tasarlanmış olmak"
   ],
   "tip": "intend to + fiil 'yapmayı planlamak' anlamındadır. be intended for ise bir şeyin belirli bir kişi ya da amaç için hazırlandığını söyler.",
   "note": ""
@@ -192,10 +192,10 @@
    "Düzenli skuaş oynamak kardiyovasküler dayanıklılığı artırabilir; ancak yeni başlayanlar egzersiz yoğunluğunu kademeli olarak artırmalıdır."
   ],
   "col": [
-   "düzleştirerek ezmek",
-   "sıkıştırarak sokmak",
+   "ezip yassılaştırmak",
+   "içine sıkıştırmak",
    "skuaş oynamak",
-   "tereyağı kabağı"
+   "butternut kabağı"
   ],
   "tip": "İngiliz İngilizcesinde squash, su ile seyreltilerek içilen meyve konsantresi anlamına da gelir. Bağlama dikkat edin.",
   "note": ""

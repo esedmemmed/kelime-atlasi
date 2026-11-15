@@ -111,7 +111,7 @@
  {
   "id": "expiry",
   "senses": [
-   "son kullanma; geçerlilik sonu"
+   "sona erme; bitiş"
   ],
   "ex": [
    "Pasaportumun geçerlilik süresi dolmak üzere.",
@@ -148,7 +148,7 @@
  {
   "id": "flee",
   "senses": [
-   "kaçmak; sıyrılmak"
+   "kaçmak; firar etmek"
   ],
   "ex": [
    "Köpek bahçeye girince kuşlar uçup kaçtı.",
@@ -186,7 +186,7 @@
   "senses": [
    "sıkmak; usandırmak",
    "delmek; oymak",
-   "sıkıcı kişi ya da şey"
+   "sıkıcı kişi; sıkıcı şey"
   ],
   "ex": [
    "Uzun toplantılar beni sıkıyor, özellikle de kimsenin yeni bir şey söyleyecek olmadığı zamanlarda.",
@@ -239,15 +239,15 @@
  {
   "id": "batch",
   "senses": [
-   "parti; grup; kuşak",
-   "partiler hâlinde işlemek"
+   "parti; grup",
+   "toplu işlemek; gruplamak"
   ],
   "ex": [
    "İlk fırın partisi tezgâhın üstünde soğuyor.",
    "Dağıtımdan önce her gıda partisinin test edilmesi, üreticilerin tutarlı kaliteyi korumasına ve halk sağlığını korumasına yardımcı olur."
   ],
   "col": [
-   "bir grup",
+   "bir parti",
    "partiler hâlinde",
    "toplu üretim",
    "toplu işlem"
@@ -259,8 +259,8 @@
   "id": "ray",
   "senses": [
    "ışın; ışık hüzmesi",
-   "küçük umut kırıntısı; bir miktar",
-   "vatoz; kalkan balığı"
+   "parça; azıcık",
+   "vatoz"
   ],
   "ex": [
    "Uyuyan kedinin üzerine güneş ışığının ince bir hüzmesi düştü.",

@@ -30,7 +30,7 @@
    "akşam yemeğine davet etmek",
    "birini bir şey yapmaya davet etmek",
    "geri bildirim istemek",
-   "eleştiri çağırmak"
+   "eleştiriye yol açmak"
   ],
   "tip": "invite sb to + isim (invite someone to dinner) ya da invite sb to do + eylem (invite someone to speak) kalıplarını kullanın.",
   "note": ""
@@ -102,7 +102,7 @@
    "anlamak; takip edebilmek"
   ],
   "ex": [
-   "Kenardaki ahşap köprüye varana kadar bu yolu takip edin.",
+   "Ahşap köprüye varana kadar bu yolu takip edin.",
    "Okullar, çocuklara dijital cihazları ve çevrim içi hizmetleri kullanırken güvenlik yönergelerine nasıl uyacaklarını öğretmelidir."
   ],
   "col": [
@@ -252,7 +252,7 @@
   ],
   "ex": [
    "Kuzenim hemşirelik okumak için İngiltere'ye taşındı.",
-   "Britanya, elektrik üretiminde fosil yakıtlara bağımlılığını azaltmak için denizüstü rüzgâr çiftliklerine yatırım yaptı."
+   "Britanya, elektrik üretiminde fosil yakıtlara bağımlılığını azaltmak için açık deniz rüzgâr santrallerine yatırım yaptı."
   ],
   "col": [
    "Britanya genelinde",
@@ -272,9 +272,9 @@
    "Doğal yaşam alanlarını korumak, Afrika otlaklarında sağlıklı zürafa popülasyonlarını ve biyoçeşitliliği sürdürmek için şarttır."
   ],
   "col": [
-   "bir sürü zürafa",
+   "bir zürafa sürüsü",
    "zürafa yavrusu",
-   "zürafa koruma"
+   "zürafaların korunması"
   ],
   "tip": "Vurgu ikinci hecededir (gi-RAFFE). Çoğulu -s ekiyle yapılır: giraffes.",
   "note": ""

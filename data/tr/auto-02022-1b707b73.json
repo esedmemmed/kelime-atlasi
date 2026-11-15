@@ -20,7 +20,7 @@
  {
   "id": "collection",
   "senses": [
-   "koleksiyon; birikim",
+   "koleksiyon; takım",
    "toplama; derleme",
    "bağış toplama; yardım toplama"
   ],
@@ -43,7 +43,7 @@
    "rezervasyon; randevu"
   ],
   "ex": [
-   "Rezervasyonumuzu doğrulamak için otelle konuşup aradım.",
+   "Rezervasyonumuzu doğrulamak için oteli aradım.",
    "Çevrimiçi rezervasyon sistemleri, turistlerin konaklama fiyatlarını karşılaştırmasını ve seyahatlerini daha verimli planlamasını sağlar."
   ],
   "col": [
@@ -146,18 +146,18 @@
  {
   "id": "coconut",
   "senses": [
-   "hindistancevizi",
-   "hindistancevizi içi"
+   "hindistan cevizi",
+   "hindistan cevizi içi"
   ],
   "ex": [
-   "Plajın yanında taze bir hindistancevizi paylaştık.",
-   "Kıyı çiftçileri, hindistancevizi kabuklarını yararlı ev ürünlerine dönüştürerek ek gelir elde edebilir."
+   "Plajın yanında taze bir hindistan cevizi paylaştık.",
+   "Kıyı çiftçileri, hindistan cevizi kabuklarını yararlı ev ürünlerine dönüştürerek ek gelir elde edebilir."
   ],
   "col": [
-   "hindistancevizi sütü",
-   "hindistancevizi suyu",
-   "hindistancevizi yağı",
-   "hindistancevizi kabuğu"
+   "hindistan cevizi sütü",
+   "hindistan cevizi suyu",
+   "hindistan cevizi yağı",
+   "hindistan cevizi kabuğu"
   ],
   "tip": "Bütün meyve için sayılabilir; beyaz eti anlatırken genellikle sayılamaz bir isim gibi kullanılır.",
   "note": ""
@@ -206,10 +206,10 @@
   "senses": [
    "mahkeme",
    "kort; saha",
-   "davet etmek; çekmek"
+   "aramak; davet etmek"
   ],
   "ex": [
-   "Pazartesi sabahı mahkemede hazır bulunacak.",
+   "Pazartesi sabahı mahkemeye çıkacak.",
    "Yerel yönetimler, daha çok sakinin düzenli spor yapabilmesi için halka açık tenis kortları sağlamalı."
   ],
   "col": [
@@ -268,7 +268,7 @@
    "Okullar, farklı ilgi alanlarına sahip öğrencileri desteklemek için geniş bir etkinlik yelpazesi sunmalı."
   ],
   "col": [
-   "geniş bir yelpaze",
+   "çok çeşitli",
    "çeşitlilik katmak",
    "çeşitli nedenler",
    "yeni bir çeşit"

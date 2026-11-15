@@ -12,7 +12,7 @@
   "col": [
    "kel olmak; saçları dökülmek",
    "kel kafa",
-   "kel nokta",
+   "kel bölge",
    "aşınmış lastikler"
   ],
   "tip": "bald (kel) ile bold (cesur) karıştırılmamalı; yazımı ve telaffuzu farklıdır.",
@@ -61,7 +61,7 @@
   "senses": [
    "nazik; yumuşak",
    "hafif; yumuşak",
-   "eğimi az olan"
+   "hafif eğimli"
   ],
   "ex": [
    "Küçük kediyi kucağına alırken nazik ol.",
@@ -70,7 +70,7 @@
   "col": [
    "hafif esinti",
    "hafif egzersiz",
-   "eğimi az yamaç",
+   "hafif eğimli yamaç",
    "nazik dokunuş"
   ],
   "tip": "İnsana karşı nazik olmak için be gentle with sb kalıbı kullanılır.",
@@ -98,7 +98,7 @@
   "senses": [
    "performans; başarı",
    "gösteri; temsil",
-   "yerine getirme; ifa"
+   "yerine getirme; icra"
   ],
   "ex": [
    "Antrenör, futbol maçından sonra takımımızın performansını övdü.",
@@ -169,16 +169,16 @@
  {
   "id": "convince",
   "senses": [
-   "inandırmak; ikna etmek",
-   "razı etmek"
+   "inandırmak",
+   "ikna etmek; razı etmek"
   ],
   "ex": [
    "Fotoğraflar, dairenin geniş olduğuna beni inandırdı.",
-   "Hükümetler, sakinlere gelişmiş toplu taşımanın özel araçlara pratik bir alternatif olduğunu anlatmak zorundadır."
+   "Hükümetler, sakinleri gelişmiş toplu taşımanın özel araçlara pratik bir alternatif olduğuna ikna etmek zorundadır."
   ],
   "col": [
-   "birine bir şeyi inandırmak",
-   "birine ...olduğunu inandırmak",
+   "birini bir şeye inandırmak",
+   "birini ...olduğuna inandırmak",
    "birini bir şeyi yapmaya ikna etmek"
   ],
   "tip": "Kalıplar: convince sb of sth (birine bir şeyi inandırmak); convince sb to do sth (birini bir şey yapmaya ikna etmek).",
@@ -226,7 +226,7 @@
   ],
   "ex": [
    "Artan yemekleri değerlendirerek israfı azaltabiliriz.",
-   "Hükümetler, sera gazı emisyonlarını azaltmak ve uzun vadeli enerji güvenliğini iyileştirmek için yenilenebilir enerjiye yatırım yapmalıdır."
+   "Hükümetler, karbon emisyonlarını azaltmak ve uzun vadeli enerji güvenliğini iyileştirmek için yenilenebilir enerjiye yatırım yapmalıdır."
   ],
   "col": [
    "maliyetleri düşürmek",
@@ -267,7 +267,7 @@
   ],
   "col": [
    "birini harekete geçmeye ikna etmek",
-   "birine faydalarını anlatarak ikna etmek",
+   "birini faydalarına ikna etmek",
    "birine ...olduğunu kabul ettirmek"
   ],
   "tip": "persuade sb to do sth: birini bir şeyi yapmaya ikna etmek; persuade sb of sth: birine bir şeyi kabul ettirmek.",

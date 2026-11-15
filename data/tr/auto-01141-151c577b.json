@@ -60,7 +60,7 @@
   ],
   "ex": [
    "Yeni kış montumda yüzde yirmi indirim kazandım.",
-   "Anketine katılan sakinlerin neredeyse yüzde kırkı, bisiklet altyapısına daha fazla kamu parası ayrılmasını destekledi."
+   "Ankete katılan sakinlerin neredeyse yüzde kırkı, bisiklet altyapısına daha fazla kamu parası ayrılmasını destekledi."
   ],
   "col": [
    "yüzde on",
@@ -80,7 +80,7 @@
    "Okullar, gençlerin kaygılarını dile getirebilecekleri ve eğitimli personelden destek alabilecekleri alanlar sağlamalıdır."
   ],
   "col": [
-   "genç bir ergen",
+   "13-14 yaşında bir genç",
    "ergenlik döneminde",
    "gençlerin ihtiyaçları"
   ],
@@ -90,7 +90,7 @@
  {
   "id": "direction",
   "senses": [
-   "yön; istikamet",
+   "yön; gidişat",
    "yol tarifi; talimat",
    "yönetim; yönlendirme"
   ],
@@ -117,7 +117,7 @@
    "Şehirler, yolları genişletmek yerine trafik sıkışıklığını ve kirliliği azaltmak için toplu taşımaya yatırım yapmalıdır."
   ],
   "col": [
-   "...nin yerine",
+   "... yerine",
    "yerine gitmek",
    "bir şeyi yerine kullanmak"
   ],
@@ -179,7 +179,7 @@
   "senses": [
    "tabak; kap",
    "yemek; yemek çeşidi",
-   "sofra takımı; tabaklar"
+   "bulaşık; tabak çanak"
   ],
   "ex": [
    "Lütfen çilekleri şu mavi tabağa koy.",
@@ -206,7 +206,7 @@
   ],
   "col": [
    "oldukça iyi",
-   "epeyce birkaç",
+   "epey sayıda",
    "oldukça farklı",
    "tam değil"
   ],
@@ -233,7 +233,7 @@
  {
   "id": "cookie",
   "senses": [
-   "kurabiye; kraker",
+   "kurabiye; bisküvi",
    "çerez"
   ],
   "ex": [
@@ -241,7 +241,7 @@
    "Web siteleri kullanıcı tercihlerini hatırlamak için çerezleri sıklıkla kullanır, ancak bazıları tarama davranışlarını da izler."
   ],
   "col": [
-   "çikolatalı kurabiye",
+   "çikolata parçacıklı kurabiye",
    "kurabiye kavanozu",
    "çerezleri kabul etmek",
    "çerezleri silmek"

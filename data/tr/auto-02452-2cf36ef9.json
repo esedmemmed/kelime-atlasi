@@ -34,7 +34,7 @@
    "zor bir dönem",
    "dalgalı deniz"
   ],
-  "tip": "'rough' /rʌf/ okunur; 'gh' harfleri sessizdir ve f sesi verir. 'rough estimate' kabaca tahmin demektir.",
+  "tip": "rough /rʌf/ okunur; 'gh' burada f sesi verir. rough estimate: kabaca tahmin.",
   "note": ""
  },
  {
@@ -49,7 +49,7 @@
   "col": [
    "yanlış bilgi",
    "yanlış cevap",
-   "olgusal olarak yanlış"
+   "gerçeklere aykırı"
   ],
   "tip": "incorrect, wrong'a göre daha resmîdir; cevap, bilgi ya da veri gibi kavramlar için sık tercih edilir.",
   "note": ""
@@ -96,7 +96,7 @@
    "genel olarak; sonuçta"
   ],
   "ex": [
-   "O kalabalık kafeye bir daha hiç gitmemeye karar verdik.",
+   "O kalabalık kafeye gitmeyi tamamen bıraktık.",
    "Çevrimiçi kurslar erişimi artırsa da sınıf öğrenmesinin sosyal faydalarının yerini tamamen tutamaz."
   ],
   "col": [
@@ -135,7 +135,7 @@
   ],
   "ex": [
    "Eski bisikleti tamir etmekte harika bir iş çıkardın.",
-   "Toplu bahçeler, sakinlere güçlü sosyal bağlar kurarken açık havada egzersiz yapmaları için harika bir fırsat sunar."
+   "Topluluk bahçeleri, sakinlere güçlü sosyal bağlar kurarken açık havada egzersiz yapmaları için harika bir fırsat sunar."
   ],
   "col": [
    "harika iş",
@@ -156,10 +156,10 @@
    "Birçok kırsal topluluk esas olarak tarıma bağlı olduğundan, hava koşullarındaki değişikliklere özellikle açıktır."
   ],
   "col": [
-   "başlıca nedeniyle",
-   "başlıca ... kaynaklanan",
-   "...den oluşmak",
-   "esas olarak ... bağlı olmak"
+   "başlıca ... nedeniyle",
+   "esas olarak ...-den kaynaklanmak",
+   "ağırlıklı olarak ...-den oluşmak",
+   "esas olarak ...-e bağlı olmak"
   ],
   "tip": "'Hepsi' değil, 'başlıca' anlamı taşır. Genellikle asıl fiilden önce gelir: 'It mainly sells'.",
   "note": ""
@@ -199,7 +199,7 @@
    "öğretmen kadrosu",
    "personel eksikliği"
   ],
-  "tip": "Tek bir kişi için a member of staff denir; 'a staff' kullanılmaz. Genellikle tekil sayılmayan bir isim gibi davranır.",
+  "tip": "Tek kişi için a member of staff denir, 'a staff' denmez. Staff topluluk ismidir; fiili tekil ya da çoğul alabilir.",
   "note": ""
  },
  {
@@ -209,11 +209,11 @@
   ],
   "ex": [
    "Bisküviyi fincanının yanındaki tabağa koydu.",
-   "Eşleşen fincan ve tabakları da içeren geleneksel çay takımları, yerel işçiliği ve kültürel tercihleri yansıtabilir."
+   "Uyumlu fincan ve fincan tabaklarından oluşan geleneksel çay takımları, yerel işçiliği ve kültürel tercihleri yansıtabilir."
   ],
   "col": [
-   "fincan ve tabak",
-   "takım tabağı",
+   "fincan ve fincan tabağı",
+   "uyumlu fincan tabağı",
    "uçan daire"
   ],
   "tip": "saucer, fincanın altındaki küçük tabaktır; flying saucer ise 'uçan daire' (UFO) anlamına gelir.",
@@ -245,7 +245,7 @@
    "üst kat locası; balkon"
   ],
   "ex": [
-   "Otunu balkondaki küçük saksılarda yetiştiriyor.",
+   "Balkonundaki küçük saksılarda otlar yetiştiriyor.",
    "Balkonlu daireler sakinlere, özellikle kamusal bahçelerin az olduğu şehirlerde, değerli açık hava alanı sunar."
   ],
   "col": [

@@ -21,13 +21,13 @@
  {
   "id": "cheer",
   "senses": [
-   "alkışlamak; tezahürat yapmak",
-   "tezahürat; alkış",
+   "tezahürat yapmak",
+   "tezahürat; sevinç çığlığı",
    "neşelendirmek; moral vermek"
   ],
   "ex": [
-   "Komşumuz bitiş çizgisini geçerken biz alkışladık.",
-   "Seyirciler her katılımcıyı alkışladığında, yerel spor etkinlikleri daha güçlü bir aidiyet duygusu yaratabilir."
+   "Komşumuz bitiş çizgisini geçerken biz tezahürat yaptık.",
+   "Seyirciler her katılımcıya tezahürat yaptığında, yerel spor etkinlikleri daha güçlü bir aidiyet duygusu yaratabilir."
   ],
   "col": [
    "birini desteklemek",
@@ -44,7 +44,7 @@
    "günümüzde; bugünlerde"
   ],
   "ex": [
-   "Bu günlerde market alışverişimi genellikle telefonumla ödüyorum.",
+   "Bugünlerde market alışverişimi genellikle telefonumla ödüyorum.",
    "Günümüzde birçok çalışan, mesleki ve ailevi sorumluluklarını dengelemesine olanak tanıyan esnek çalışma düzenleri bekliyor."
   ],
   "col": [
@@ -107,7 +107,7 @@
   "col": [
    "bağış yapmak",
    "hayır için para toplamak",
-   "hayır etkinliği"
+   "yardım etkinliği"
   ],
   "tip": "Kuruluş anlamında sayılabilir, yardım veya hayırseverlik anlamında sayılamaz bir isimdir.",
   "note": ""
@@ -192,7 +192,7 @@
  {
   "id": "separately",
   "senses": [
-   "ayrı ayrı; ayrıca"
+   "ayrı ayrı; ayrı olarak"
   ],
   "ex": [
    "Ayrı ayrı ödedik, sonra öğle yemeğinden sonra birlikte yürüyerek eve döndük.",
@@ -269,7 +269,7 @@
   ],
   "ex": [
    "Parlak çiçekler küçük balkonumuza kelebekleri çekiyor.",
-   "Güvenilir toplu taşımaya yatırım yapan şehirler, işletmeleri ve nitelikli işçileri çekme olasılığı daha yüksek olan şehirlerdir."
+   "Güvenilir toplu taşımaya yatırım yapan şehirlerin işletmeleri ve nitelikli işçileri çekme olasılığı daha yüksektir."
   ],
   "col": [
    "dikkat çekmek",

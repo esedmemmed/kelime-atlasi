@@ -134,7 +134,7 @@
    "çeviri metin; tercüme"
   ],
   "ex": [
-   "Hikayenin bu çevirisi anlaşılması kolay.",
+   "Hikâyenin bu çevirisini anlamak kolay.",
    "Doğru çeviri, farklı ülkelerden araştırmacıların bulguları paylaşmasını ve daha etkili iş birliği yapmasını sağlar."
   ],
   "col": [
@@ -208,13 +208,13 @@
    "dürüm"
   ],
   "ex": [
-   "Kız, doğum günü hediyesini parlak sarı kağıda sardı.",
+   "O, doğum günü hediyesini parlak sarı kâğıda sardı.",
    "Perakendeciler, müşterileri hediyeleri yeniden kullanılabilir kumaşa sarmaya teşvik ederek ambalaj atığını azaltabilir."
   ],
   "col": [
    "hediyeyi paketlemek",
    "bir şeyi kağıda sarmak",
-   "iyice sarınmak"
+   "sıkı giyinmek"
   ],
   "tip": "Wrap A in B kalıbıyla A'yı B ile sarmak anlatılır: wrap the gift in paper. Yiyecek anlamında wrap, sarılmış ekmek türünü ifade eder.",
   "note": ""
@@ -232,7 +232,7 @@
   ],
   "col": [
    "ana karakter",
-   "güçlü karakter",
+   "karakter gücü",
    "ayırt edici özellik",
    "Çince karakterler"
   ],
@@ -266,12 +266,12 @@
    "de değil; ne de"
   ],
   "ex": [
-   "İki ceketin de bana uymuyor, bu yüzden aramaya devam edeceğim.",
+   "İki ceket de bana uymuyor, bu yüzden aramaya devam edeceğim.",
    "Hiçbir yaklaşım tek başına trafik sıkışıklığını çözemez; bu yüzden şehirlerin yatırım ve düzenlemeyi birlikte yapması gerekir."
   ],
   "col": [
    "ikisinden hiçbiri",
-   "iki seçeneğin de değili",
+   "iki seçenek de değil",
    "ne ... ne de ...",
    "ben de yapmıyorum"
   ],

@@ -48,7 +48,7 @@
    "uyum içinde yaşamak",
    "toplumsal uyum",
    "doğayla uyum içinde",
-   "uyumlu şarkı söylemek"
+   "armoni içinde şarkı söylemek"
   ],
   "tip": "in harmony with, \"ile uyum içinde\" anlamında kullanılır. Müzikte \"armoni\" anlamına gelir.",
   "note": ""
@@ -57,7 +57,7 @@
   "id": "construction",
   "senses": [
    "inşaat; yapım",
-   "yapı; yapılı eser",
+   "yapı; bina",
    "cümle yapısı"
   ],
   "ex": [
@@ -80,7 +80,7 @@
   ],
   "ex": [
    "Lütfen başvurunuzla ilgili tüm belgeleri getirin.",
-   "Üniversiteler, derslerinin değişen iş gücü piyasasının ihtiyaçlarıyla ilgili kalmasını sağlamalıdır."
+   "Üniversiteler, derslerinin iş gücü piyasasının değişen ihtiyaçlarına uygun kalmasını sağlamalıdır."
   ],
   "col": [
    "...ile ilgili",
@@ -97,15 +97,15 @@
    "melodi; ezgi"
   ],
   "ex": [
-   "Bitkileri sularken hafif bir melodi mırıldandı.",
+   "Bitkileri sularken yumuşak bir melodi mırıldandı.",
    "Akılda kalıcı bir melodi çocukların bilgiyi hatırlamasına yardımcı olabilir; bu da müziği erken eğitimde yararlı bir araç yapar."
   ],
   "col": [
-   "hafif melodi",
+   "yumuşak melodi",
    "akılda kalıcı melodi",
    "melodi bestelemek"
   ],
-  "tip": "melody, hep beraber mırıldanılabilen ezgiyi anlatır; rhythm ise ritmi anlatır.",
+  "tip": "melody mırıldanılabilen ezgidir; rhythm ise ritimdir (vuruş düzeni).",
   "note": ""
  },
  {
@@ -168,16 +168,16 @@
  {
   "id": "dent",
   "senses": [
-   "çentik; göçük",
-   "göçertmek; çökertmek",
-   "zarar vermek; azaltmak"
+   "göçük; çukur",
+   "göçük yapmak; çökmek",
+   "sarsmak; zedelemek"
   ],
   "ex": [
    "Bisikletimin metal sepetinde bir göçük var.",
    "Toplu taşımadaki tekrarlayan gecikmeler yolcuların güvenini sarsabilir ve özel araçlara daha fazla bağımlılığı teşvik edebilir."
   ],
   "col": [
-   "...de bir çukur",
+   "...de bir göçük",
    "birinin güvenini sarsmak",
    "fark yaratmak"
   ],
@@ -241,7 +241,7 @@
   "id": "follow-up",
   "senses": [
    "takip; devam işlemi",
-   "takip edici; sonradan yapılan"
+   "takip; sonraki"
   ],
   "ex": [
    "Klinik, iyileşmemi kontrol etmek için bir kontrol randevusu ayarladı.",
@@ -263,7 +263,7 @@
   ],
   "ex": [
    "Serbest çalışmak, tatillerimi ne zaman alacağımı seçmeme olanak tanıyor.",
-   "Serbest çalışma daha fazla esneklik sunsa da düzensiz gelir ve çalışan haklarına sınırlı erişim gibi sonuçları da olabilir."
+   "Serbest çalışma daha fazla esneklik sunsa da düzensiz gelir ve çalışan haklarına sınırlı erişim de söz konusu olabilir."
   ],
   "col": [
    "serbest çalışmaya geçmek",

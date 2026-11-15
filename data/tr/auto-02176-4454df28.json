@@ -11,7 +11,7 @@
   ],
   "col": [
    "uzunluk olarak",
-   "zaman uzunluğu",
+   "bir sürenin uzunluğu",
    "sonunda; ayrıntılı olarak"
   ],
   "tip": "'at length' 'uzunlamasına' değil, 'ayrıntılı olarak' ya da 'sonunda' anlamına gelir. Bu deyimi dikkatli kullanın.",
@@ -40,12 +40,12 @@
  {
   "id": "shock",
   "senses": [
-   "şok; ani üzüntü",
+   "şok; büyük şaşkınlık",
    "şoke etmek; sarsmak",
    "şok; elektrik çarpması"
   ],
   "ex": [
-   "Kiradaki ani artış herkes için bir şok oldu.",
+   "Kiradaki ani artış büyük bir şok oldu.",
    "Yabancı bir ülkeye taşınmak, günlük gelenekler evdekinden çok farklı olduğunda kültür şokuna yol açabilir."
   ],
   "col": [
@@ -125,7 +125,7 @@
   "col": [
    "balayında",
    "balayı destinasyonu",
-   "başlangıç dönemi"
+   "balayı dönemi"
   ],
   "tip": "İngiliz İngilizcesinde genellikle 'on honeymoon', Amerikan İngilizcesinde 'on a honeymoon' denir.",
   "note": ""
@@ -152,7 +152,7 @@
   "id": "cabin",
   "senses": [
    "kulübe; ahşap ev",
-   "kabin; kamara; kabin (uçak)"
+   "kamara; kabin"
   ],
   "ex": [
    "Hafta sonunu göl kenarındaki bir kulübede geçirdik.",
@@ -254,7 +254,7 @@
   "col": [
    "başvuru yapmak",
    "rapor sunmak",
-   "bir şeyi ... sunmak",
+   "bir şeyi ...e sunmak",
    "otoriteye boyun eğmek"
   ],
   "tip": "Geçmiş zamanı 'submitted'tır. 'Submit something to someone' kalıbında birine bir şey sunulduğu belirtilir.",
@@ -264,7 +264,7 @@
   "id": "aged",
   "senses": [
    "... yaşında",
-   "yaşlı; ihtiyar"
+   "yaşlı; ileri yaştaki"
   ],
   "ex": [
    "Yüzme kursu altı yaş ve üzeri çocukları kabul etmektedir.",

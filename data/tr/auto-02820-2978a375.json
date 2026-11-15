@@ -12,7 +12,7 @@
   "col": [
    "toplum eczanesi",
    "hastane eczanesi",
-   "eczacılık bilimi"
+   "eczacılık okumak"
   ],
   "tip": "Yer için pharmacy, kişi için pharmacist kullanılır. Bilim anlamında sayılamaz; yer anlamında a pharmacy diyebilirsiniz.",
   "note": ""
@@ -73,7 +73,7 @@
  {
   "id": "lecture",
   "senses": [
-   "konferans; ders",
+   "ders; konferans",
    "ders vermek",
    "azarlamak; öğüt vermek"
   ],
@@ -82,8 +82,8 @@
    "Üniversiteler geleneksel dersleri, öğrencileri bilgilerini uygulamaya teşvik eden pratik etkinliklerle birleştirmelidir."
   ],
   "col": [
-   "bir konferansa katılmak",
-   "konferans vermek",
+   "bir derse katılmak",
+   "ders vermek",
    "biyoloji üzerine ders vermek",
    "birini bir konuda azarlamak"
   ],
@@ -120,7 +120,7 @@
    "İnsanlar genellikle başarılı sporcuların kararlılığına hayran olur, ancak düzenli antrenman da en az o kadar önemlidir."
   ],
   "col": [
-   "birine bir şeyi için hayran olmak",
+   "birini bir şey için takdir etmek",
    "büyük ölçüde takdir etmek",
    "manzarayı beğenmek"
   ],
@@ -197,7 +197,7 @@
    "Sabah derslerinde sık sık esneyen öğrenciler gece yeterince uyumuyor olabilir."
   ],
   "col": [
-   "esneme",
+   "esnemek",
    "esnemesini bastırmak",
    "geniş geniş esnemek"
   ],
@@ -236,7 +236,7 @@
    "olgun meyve",
    "tam olgun",
    "değişim için hazır",
-   "zaman olgun"
+   "zamanı gelmek"
   ],
   "tip": "Meyve için ripe kullanılır; insan olgunluğu için mature tercih edilir. Türkçede 'olgun' her ikisi için de kullanılabilir.",
   "note": ""
@@ -244,15 +244,15 @@
  {
   "id": "stinky",
   "senses": [
-   "kokuşmuş; pis kokan"
+   "pis kokulu"
   ],
   "ex": [
-   "Lütfen o kokuşmuş ayakkabıları ön kapının dışında bırak.",
+   "Lütfen o pis kokulu ayakkabıları ön kapının dışında bırak.",
    "Sakinler, ihmal edilmiş çöp kutularını genellikle pis kokan olarak tanımlıyor; bu da zayıf atık toplamanın günlük hayatı nasıl etkilediğini gösteriyor."
   ],
   "col": [
-   "kokuşmuş çoraplar",
-   "kokuşmuş ayakkabılar",
+   "pis kokulu çoraplar",
+   "pis kokulu ayakkabılar",
    "pis kokan çöp"
   ],
   "tip": "Gayriresmi bir kelimedir. Resmi yazıda foul-smelling ya da smelly tercih edilmelidir.",

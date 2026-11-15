@@ -49,9 +49,9 @@
   ],
   "col": [
    "…nin hiçbiri",
-   "hiç değil; hiç",
-   "bizzat …",
-   "hiçbir şey anlamadan"
+   "hiç; hiçbiri",
+   "hâlâ bir şey anlamamış",
+   "tam da; bizzat"
   ],
   "tip": "None tek başına veya of ile kullanılabilir. İsimden önce no kullanılır: no books, none of the books.",
   "note": ""
@@ -117,7 +117,7 @@
   ],
   "ex": [
    "Uzun yürüyüşten eve dönünce yorgun görünüyorsun.",
-   "Çevrimiçi kurslar kolay görünse de bazı öğrenciler öğretmenler ve sınıf arkadaşlarıyla yüz yüze etkileşimden daha fazla yarar sağlar."
+   "Çevrimiçi kurslar elverişli görünse de bazı öğrenciler öğretmenler ve sınıf arkadaşlarıyla yüz yüze etkileşimden daha fazla yarar sağlar."
   ],
   "col": [
    "muhtemel görünmek",
@@ -175,8 +175,8 @@
    "Kozmetik şirketleri, ambalaj atığını azaltmak ve çevresel kaygılara yanıt vermek için doldurulabilir ruj kapları geliştiriyor."
   ],
   "col": [
+   "ruj kullanmak",
    "ruj sürmek",
-   "ruj sürmek; uygulamak",
    "bir tüp ruj",
    "ruj lekesi"
   ],
@@ -196,7 +196,7 @@
    "gazlı ocak",
    "elektrikli ocak",
    "düdüklü tencere",
-   "pirinç pişirici"
+   "pilav pişirici"
   ],
   "tip": "İngiliz İngilizcesinde cooker genellikle ocak-fırın takımını anlatır; Amerikan İngilizcesinde stove kullanılır. Aşçı cook'tur.",
   "note": ""

@@ -14,7 +14,7 @@
    "fosil yakıtlar",
    "yakıt tüketimi",
    "yakıt fiyatları",
-   "yakıt spekülasyonu"
+   "spekülasyonu körüklemek"
   ],
   "tip": "fuel fiilinin 'körüklemek, artırmak' anlamı da vardır; duygu ya da durumu güçlendirmek için kullanılır.",
   "note": ""
@@ -113,10 +113,10 @@
   "id": "poisonous",
   "senses": [
    "zehirli",
-   "zehir gibi; kin dolu"
+   "zehirli; kin dolu"
   ],
   "ex": [
-   "Bazı renkli yemişler zehirlidir, bu yüzden onlara dokunmayın.",
+   "Bazı rengârenk meyveler zehirlidir, bu yüzden onlara dokunmayın.",
    "Fabrikalar, yakın toplulukların içme suyunu sağlayan nehirlere zehirli maddelerin karışmasını önlemelidir."
   ],
   "col": [
@@ -135,11 +135,11 @@
   ],
   "ex": [
    "Büyükbabam hâlâ sarkaçlı eski model bir saat kullanıyor.",
-   "Bazı öğretim yöntemleri eski görünse de öğrencilerin dikkat ve bağımsız düşünme becerilerini geliştirmesine yardımcı olabilir."
+   "Bazı öğretim yöntemleri modası geçmiş görünse de öğrencilerin dikkat ve bağımsız düşünme becerilerini geliştirmesine yardımcı olabilir."
   ],
   "col": [
    "eski moda kıyafetler",
-   "eski değerler",
+   "geleneksel değerler",
    "eski usul görgü kuralları"
   ],
   "tip": "Geçmişe ait tarz ve gelenekleri anlatır, çoğu zaman sevgi veya özlem içerir. outdated ise artık geçerli olmadığını vurgular.",
@@ -158,7 +158,7 @@
   "col": [
    "vanilya özü",
    "vanilyalı dondurma",
-   "vanilya kabuğu",
+   "vanilya çubuğu",
    "vanilya aroması"
   ],
   "tip": "Gıda bağlamında vanilla bu bitkinin aromasını ifade eder. Günlük dilde 'sade, sıradan' anlamı da vardır (plain gibi).",
@@ -209,8 +209,8 @@
   ],
   "col": [
    "her yerde bulunan; ucuz",
-   "hiç masrafı olmamak",
-   "tam bir anda"
+   "bir kuruşa mal olmamak",
+   "anında; birdenbire"
   ],
   "tip": "Bir dolar on dime'a eşittir. Ağırlıklı olarak ABD ve Kanada'da kullanılır.",
   "note": ""
@@ -218,8 +218,8 @@
  {
   "id": "truth",
   "senses": [
-   "hakikat; gerçek",
-   "doğruluk; gerçek"
+   "gerçek; doğru",
+   "hakikat; doğruluk"
   ],
   "ex": [
    "Lütfen kırık bardakla ilgili gerçeği söyle.",
@@ -237,18 +237,18 @@
   "id": "fountain",
   "senses": [
    "fıskiye; çeşme",
-   "sebil; su sebili"
+   "içme çeşmesi"
   ],
   "ex": [
    "Çocuklar öğleden sonra güneş ışığında parlayan fıskiyeyi izlediler.",
    "Fıskiye bir meydanı daha çekici hale getirebilir, ancak bakımı su ve enerji gerektirir."
   ],
   "col": [
-   "içme suyu sebili",
+   "içme çeşmesi",
    "süs fıskiyesi",
    "dolmakalem"
   ],
-  "tip": "Sebil içme suyu için kullanılan yapıdır; fıskiye ise süs amaçlı su püskürten yapıdır. fountain pen Türkçede dolmakalemdir.",
+  "tip": "drinking fountain içme çeşmesidir; fountain ise süs amaçlı su püskürten fıskiyedir. fountain pen: dolmakalem.",
   "note": ""
  },
  {

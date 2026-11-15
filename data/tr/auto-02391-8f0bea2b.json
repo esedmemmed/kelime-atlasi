@@ -55,7 +55,7 @@
  {
   "id": "harbour",
   "senses": [
-   "liman; körfez",
+   "liman",
    "içinde tutmak; beslemek",
    "saklamak; barındırmak"
   ],
@@ -94,7 +94,7 @@
   "id": "blank",
   "senses": [
    "boş",
-   "bön; ifadesiz",
+   "boş; ifadesiz",
    "boşluk"
   ],
   "ex": [
@@ -105,7 +105,7 @@
    "boş sayfa",
    "ifadesiz bir yüz",
    "boşlukları doldurmak",
-   "aklı boşalmak"
+   "aklı bomboş kalmak"
   ],
   "tip": "go blank: zihnin bir anda boşalması, bir şeyi hatırlayamamak anlamına gelir.",
   "note": ""
@@ -181,7 +181,7 @@
    "değerlendirme yazmak",
    "kapsamlı inceleme",
    "bir politikayı gözden geçirmek",
-   "notlarını tekrar etmek"
+   "notlarını gözden geçirmek"
   ],
   "tip": "Ders tekrarı anlamında Amerikan İngilizcesinde review, İngiliz İngilizcesinde revise kullanılır. Kitap ya da ürün eleştirisi için de review kullanılır.",
   "note": ""
@@ -271,7 +271,7 @@
    "İnsanlar, hizmetler güvenilir, uygun fiyatlı ve erişimi kolay olduğunda toplu taşımayı daha sık kullanma eğilimindedir."
   ],
   "col": [
-   "genellikle bir şey yapmak",
+   "bir şeyi yapma eğiliminde olmak",
    "...e doğru eğilim göstermek",
    "bahçeyle ilgilenmek",
    "yaralılara bakmak"

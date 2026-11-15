@@ -7,7 +7,7 @@
    "soymak"
   ],
   "ex": [
-   "Yüzdükten sonra cildim kuruyor.",
+   "Yüzdükten sonra cildim kuru hissettiriyor.",
    "Cildi aşırı güneş ışığından korumak, ileride ciddi sağlık sorunları riskini azaltabilir."
   ],
   "col": [
@@ -32,7 +32,7 @@
   "col": [
    "yapmaya karar vermek",
    "üzerinde karar kılmak",
-   "karşı karar vermek",
+   "vazgeçmeye karar vermek",
    "sonucu belirlemek"
   ],
   "tip": "decide to + fiil kalıbı kullanılır (decide to do). decide doing yanlış olur.",
@@ -49,7 +49,7 @@
    "Birçok işçi için güvenli bir işi kaybetmek, özgüvenini ve mali istikrarını etkileyen acı bir deneyimdir."
   ],
   "col": [
-   "acılı yaralanma",
+   "ağrılı yaralanma",
    "acı verici deneyim",
    "acı anılar",
    "dokunulunca ağrılı"
@@ -68,7 +68,7 @@
   ],
   "col": [
    "onların bir arkadaşı",
-   "saklamak onlara ait",
+   "kendilerinde kalacak olan",
    "bizimkiler ve onlarınkiler"
   ],
   "tip": "theirs tek başına kullanılır; arkasına isim gelmez ve kesme işareti almaz. 'their's' yazımı yanlıştır.",
@@ -117,7 +117,7 @@
    "bağrış; haykırış"
   ],
   "ex": [
-   "Nehrin karşı tarafından bağırdık ama kimse bizi duymadı.",
+   "Nehrin karşı yakasına doğru bağırdık ama kimse bizi duymadı.",
    "Gürültülü sınıflarda öğretmenler bağırmak zorunda kalabilir; bu da zamanla seslerini yorabilir."
   ],
   "col": [
@@ -161,7 +161,7 @@
    "dizlerini bükmek",
    "diz çökerek; çaresiz"
   ],
-  "tip": "Başındaki k sessizdir ve /niː/ okunur. Çoğul hâli knees de aynı şekilde telaffuz edilir.",
+  "tip": "Başındaki k sessizdir: /niː/ okunur. Çoğulu knees ise /niːz/ okunur.",
   "note": ""
  },
  {
@@ -198,7 +198,7 @@
    "teslimat dahil",
    "çocuklar dahil"
   ],
-  "tip": "including'den sonra isim ya da zamir gelir. 'included' ise genellikle cümlede edilgen olarak kullanılır.",
+  "tip": "including'den sonra isim ya da zamir gelir. included ise isimden sonra yer alır: tax included (vergi dahil).",
   "note": ""
  },
  {
@@ -231,7 +231,7 @@
    "Kore sineması uluslararası izleyicileri çekerek ülkenin diline ve kültürel geleneklerine olan ilgiyi artırdı."
   ],
   "col": [
-   "Korece dili",
+   "Kore dili",
    "Kore mutfağı",
    "Korece öğrenmek"
   ],
@@ -260,7 +260,7 @@
   "id": "mind",
   "senses": [
    "zihin; akıl",
-   "sakınca görmek; önemsemek",
+   "sakınca görmek; aldırmak",
    "dikkat etmek; ilgilenmek"
   ],
   "ex": [
@@ -270,8 +270,8 @@
   "col": [
    "fikrini değiştirmek",
    "aklında tutmak",
-   "bir şey yapmaya aldırmak",
-   "zihin huzuru"
+   "bir şeyi yapmaktan rahatsız olmak",
+   "gönül rahatlığı"
   ],
   "tip": "'bir şeye aldırmak' anlamında mind + -ing kullanılır (mind doing), mind to do değil. 'Would you mind...?' nazik bir istek bildirir.",
   "note": ""

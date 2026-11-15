@@ -22,19 +22,19 @@
  {
   "id": "deny",
   "senses": [
-   "inkar etmek; yalanlamak",
+   "inkâr etmek; yalanlamak",
    "reddetmek; esirgemek"
   ],
   "ex": [
-   "Son parça pastayı yediğini inkar etti.",
+   "Son parça pastayı yediğini inkâr etti.",
    "Ailesi okul ücretlerini ödeyemediği için hiçbir çocuk eğitime erişimden mahrum bırakılmamalıdır."
   ],
   "col": [
-   "bir şeyi yaptığını inkar etmek",
+   "bir şeyi yaptığını inkâr etmek",
    "bir iddiayı yalanlamak",
    "erişimi engellemek"
   ],
-  "tip": "Bir şeyi yaptığını inkar etmek için 'deny doing' kullanılır; 'deny to do' yanlıştır.",
+  "tip": "Bir şeyi yaptığını inkâr etmek için 'deny doing' kullanılır; 'deny to do' yanlıştır.",
   "note": ""
  },
  {
@@ -138,7 +138,7 @@
   ],
   "ex": [
    "Bitkileri asmak için halatta bir ilmek yaptı.",
-   "Yerleşim alanlarını okullara ve sağlık merkezlerine bağlayan döngüsel bir otobüs hattı işe yarayabilir."
+   "Halka biçiminde bir otobüs hattı, yerleşim alanlarını okullara ve yerel sağlık merkezlerine bağlayabilir."
   ],
   "col": [
    "bir halat ilmeği",

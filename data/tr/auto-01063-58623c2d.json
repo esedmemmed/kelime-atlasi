@@ -87,7 +87,7 @@
   ],
   "col": [
    "kaykay kullanmak",
-   "kaykay hileleri",
+   "kaykay numaraları",
    "kaykay parkı"
   ],
   "tip": "Kaykayda tutamak yoktur; scooter ise genellikle gidonu olan bir araçtır. Fiil olarak 'skateboard' kaykay kullanmak anlamındadır.",
@@ -104,7 +104,7 @@
   ],
   "col": [
    "otoyol kavşağı",
-   "otoyol tesisleri",
+   "otoyol dinlenme tesisleri",
    "otoyola girmek"
   ],
   "tip": "Esas olarak İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde aynı anlam için genellikle freeway tercih edilir.",
@@ -158,7 +158,7 @@
    "Daha iyi yalıtım ısı kaybını kesinlikle azaltacaktır, ancak toplam enerji tasarrufu hanelerin davranışlarına bağlıdır."
   ],
   "col": [
-   "kesinlikle değer",
+   "kesinlikle değmek",
    "kesinlikle katılıyorum",
    "kesinlikle hayır"
   ],
@@ -185,16 +185,16 @@
  {
   "id": "windy",
   "senses": [
-   "rüzgarlı"
+   "rüzgârlı"
   ],
   "ex": [
-   "Bugün dışarıda öğle yemeği yiyemeyecek kadar rüzgarlıydı.",
+   "Bugün dışarıda öğle yemeği yiyemeyecek kadar rüzgârlıydı.",
    "Rüzgârlı kıyı bölgeleri yenilenebilir elektrik üretebilir, ancak türbinler yaban hayatını korumak için dikkatle yerleştirilmelidir."
   ],
   "col": [
-   "rüzgarlı hava",
-   "rüzgarlı bir gün",
-   "rüzgarlı koşullar"
+   "rüzgârlı hava",
+   "rüzgârlı bir gün",
+   "rüzgârlı koşullar"
   ],
   "tip": "Hava için /ˈwɪndi/ diye okunur. Kıvrımlı yollar için 'winding' kullanılır, 'windy' değil.",
   "note": ""

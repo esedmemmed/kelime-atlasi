@@ -14,7 +14,7 @@
    "birini beklemek",
    "sabırla beklemek",
    "uzun bir bekleyiş",
-   "beklemek ve görmek"
+   "bekleyip görmek"
   ],
   "tip": "Birini beklemek için wait for someone kullanın; for eksik kalmamalı. Bir şeyi yapmak için beklemek wait to do biçimindedir.",
   "note": ""
@@ -33,8 +33,8 @@
   "col": [
    "baskı altında",
    "kontrol altında",
-   "inşaat halinde",
-   "yaşın altında"
+   "yapım aşamasında",
+   "yaşından küçük"
   ],
   "tip": "Konum, miktar ya da durum belirtir: under pressure (baskı altında). Yaş sınırı için under 18 ya da under the age of 18 kalıpları kullanılır.",
   "note": ""
@@ -42,12 +42,12 @@
  {
   "id": "italian",
   "senses": [
-   "İtalyan; İtalyanca'ya ait",
+   "İtalya'ya ait; İtalyan",
    "İtalyanca",
    "İtalyan"
   ],
   "ex": [
-   "Domateslı ve taze fesleğenli İtalyan makarnası pişirdik.",
+   "Domatesli ve taze fesleğenli İtalyan makarnası pişirdik.",
    "İtalyan mimarisini incelemek, öğrencilerin tarihi binaların çağdaş kentsel tasarımı nasıl etkilediğini anlamasına yardımcı olabilir."
   ],
   "col": [
@@ -203,7 +203,7 @@
   "col": [
    "sevgili bir arkadaş",
    "birine değerli olmak",
-   "aman Tanrım"
+   "eyvah; aman"
   ],
   "tip": "dear 'pahalı' anlamında daha çok İngiliz İngilizcesinde ve gündelik konuşmada görülür. Mektup ve e-postalarda Dear ile hitap edilir.",
   "note": ""

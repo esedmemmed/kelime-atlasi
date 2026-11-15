@@ -20,7 +20,7 @@
  {
   "id": "mood",
   "senses": [
-   "ruh hali; mizaç",
+   "ruh hali; keyif",
    "hava; atmosfer"
   ],
   "ex": [
@@ -28,7 +28,7 @@
    "Yeşil alanlara erişim, sakinlerin ruh halini iyileştirebilir ve kentsel topluluklar içinde daha olumlu etkileşimleri teşvik edebilir."
   ],
   "col": [
-   "iyi bir ruh hali içinde",
+   "iyi bir ruh halinde olmak",
    "canı … istemek",
    "ruh hali değişimleri",
    "ortam yaratmak"
@@ -44,7 +44,7 @@
    "manzara; görülecek yer"
   ],
   "ex": [
-   "Yeni gözlük aldıktan sonra görme gücüm düzeldi.",
+   "Yeni gözlük aldıktan sonra görme gücü düzeldi.",
    "Düzenli göz muayeneleri, kalıcı hasara yol açmadan sorunları tespit ederek görmeyi korumaya yardımcı olabilir."
   ],
   "col": [
@@ -64,7 +64,7 @@
   ],
   "ex": [
    "Yeni tavan vantilatörünü takmak için bir elektrikçi çağırdık.",
-   "Okulların güvenilir internet bağlantıları kurabilmesi ve temel dijital ekipmanlarını bakımını yapabilmesi için yeterli finansmana ihtiyacı var."
+   "Okulların güvenilir internet bağlantıları kurabilmesi ve temel dijital ekipmanlarının bakımını yapabilmesi için yeterli finansmana ihtiyacı var."
   ],
   "col": [
    "yazılım yüklemek",
@@ -88,7 +88,7 @@
    "sosyal tarihçi",
    "bilim tarihçisi"
   ],
-  "tip": "historian kişiyi, historical ise tarihle ilgili olanı anlatır. Sıfat yerine isim kullanmamaya dikkat edin.",
+  "tip": "historian kişidir (tarihçi); historical sıfattır (tarihsel); historic ise 'tarihî önemi olan' demektir.",
   "note": ""
  },
  {
@@ -160,9 +160,9 @@
    "stres hissetmek",
    "sınavlar yüzünden stresli olmak",
    "vurgulu hece",
-   "yüksek gerilimli bileşenler"
+   "yüksek gerilme altındaki parçalar"
   ],
-  "tip": "stressed sıfattır. Dilbilimde vurgulu hece anlamına da gelir. Teknik anlamlarda bağlama dikkat edin.",
+  "tip": "stressed, stress fiilinin geçmiş hâli de olabilir ('vurguladı'); sıfat olarak 'stresli' veya 'vurgulu' demektir.",
   "note": ""
  },
  {
@@ -223,7 +223,7 @@
   "id": "particular",
   "senses": [
    "belirli; özel",
-   "dikkat çekici; özellikle",
+   "belirgin; olağan dışı",
    "titiz; seçici"
   ],
   "ex": [

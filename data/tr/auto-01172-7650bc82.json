@@ -6,7 +6,7 @@
   ],
   "ex": [
    "Her cumartesi sabahı parkta futbol oynuyoruz.",
-   "Topluluk futbol kulüpleri, öğrencilere sınıf dışında uygun fiyatlı spor imkânı sunar ve takım çalışması becerilerini geliştirmelerine yardımcı olur."
+   "Topluluk futbol kulüpleri, gençlere uygun fiyatlı spor imkânı sunar ve sınıf dışında takım çalışması becerilerini geliştirmelerine yardımcı olur."
   ],
   "col": [
    "futbol oynamak",
@@ -70,7 +70,7 @@
   "col": [
    "merkezi ısıtma",
    "yerden ısıtma",
-   "ısınma faturaları",
+   "ısıtma faturaları",
    "ısıtma sistemi"
   ],
   "tip": "Genellikle sayılamaz ve başına the getirilir: turn on the heating (ısıtmayı açmak).",
@@ -158,7 +158,7 @@
   ],
   "ex": [
    "Sarı saçları öğleden sonra güneşte parlıyordu.",
-   "Sarışın saçı sürekli belirli kişilik özellikleriyle ilişkilendiren filmler, görünüşle ilgili haksız klişeleri pekiştirebilir."
+   "Sarı saçı sürekli belirli kişilik özellikleriyle ilişkilendiren filmler, görünüşle ilgili haksız klişeleri pekiştirebilir."
   ],
   "col": [
    "sarı saç",
@@ -216,7 +216,7 @@
    "Okullar, öğrencilere deney yapma ve pratik sorunları keşfetme fırsatı vererek bilime olan ilgiyi artırabilir."
   ],
   "col": [
-   "ile ilgilenmek",
+   "...e ilgi duymak",
    "ilgi uyandırmak",
    "faiz oranı",
    "faiz ödemek"
@@ -237,7 +237,7 @@
   ],
   "col": [
    "ölü yapraklar",
-   "bitmiş pil",
+   "boşalmış pil",
    "mutlak sessizlik",
    "tam merkez"
   ],
@@ -248,7 +248,7 @@
   "id": "duck",
   "senses": [
    "ördek; ördek eti",
-   "eğilmek; kaçınmak",
+   "eğilmek; yana kaçmak",
    "kaçınmak; sıyrılmak"
   ],
   "ex": [
@@ -259,7 +259,7 @@
    "yabani ördek",
    "kızarmış ördek",
    "başını eğmek",
-   "bir soruya kaçamak yapmak"
+   "bir sorudan kaçınmak"
   ],
   "tip": "Hayvan için sayılabilir, et için sayılamaz. Fiil olarak hem 'eğilmek' hem de 'bir durumdan kaçınmak' anlamına gelebilir.",
   "note": ""
@@ -272,16 +272,16 @@
    "ortalama"
   ],
   "ex": [
-   "Seni dışarıda beklettiğim için üzgünüm, bilerek yapmadım.",
+   "Seni dışarıda bekletmek istemedim.",
    "Enerji fiyatlarının yükselmesi, düşük gelirli hanelerin diğer temel ihtiyaçlar için daha az parası olduğu anlamına gelebilir."
   ],
   "col": [
    "bir şey yapmayı kastetmek",
-   "bir şeye yol açmak",
+   "bir şeyi yapmak anlamına gelmek",
    "ortalama değer",
    "birine kaba davranmak"
   ],
-  "tip": "mean to do: bir şeyi yapmayı niyetlemek; mean doing: bir şeye yol açmak. Bu iki kalıbı karıştırmamaya dikkat edin.",
+  "tip": "mean to do: yapmak niyetinde olmak; mean doing: yapmak anlamına gelmek (sonuç olarak). İkisini karıştırmayın.",
   "note": ""
  }
 ]

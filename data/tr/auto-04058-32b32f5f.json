@@ -11,7 +11,7 @@
    "Bahar ve yaz boyunca çiçek açan kent bahçeleri, arılar ve diğer tozlaştırıcılar için değerli besin kaynakları sağlar."
   ],
   "col": [
-   "tam çiçeklenmiş halde",
+   "tam çiçek açmış halde",
    "çiçek açmaya başlamak",
    "bahar çiçekleri"
   ],
@@ -30,7 +30,7 @@
   "col": [
    "koridor kenarı koltuk",
    "süpermarket koridoru",
-   "evlilik törenine yürümek"
+   "evlenmek"
   ],
   "tip": "s harfi okunmaz; isle ile aynı şekilde telaffuz edilir. aisle seat, koridor kenarındaki koltuk demektir.",
   "note": ""
@@ -38,11 +38,11 @@
  {
   "id": "ancestor",
   "senses": [
-   "ata; ecdat",
+   "ata",
    "atasal tür; öncül"
   ],
   "ex": [
-   "Evlerimizin bu eski taş yapısını atalarımdan biri inşa etti.",
+   "Atalarımdan biri bu eski taş evi inşa etti.",
    "Atalarımızın çevresel değişimlere nasıl uyum sağladığını incelemek, insanın dayanıklılığı hakkında bilgi verebilir."
   ],
   "col": [
@@ -64,7 +64,7 @@
    "Arkadaşlıklarda sahiplenici davranışlar kişisel özgürlüğü kısıtlayabilir ve sağlıklı ilişkileri sürdürmeyi zorlaştırabilir."
   ],
   "col": [
-   "-e karşı sahiplenici",
+   "...konusunda sahiplenici",
    "sahiplenici davranış",
    "iyelik zamiri",
    "iyelik biçimi"
@@ -76,7 +76,7 @@
   "id": "motivated",
   "senses": [
    "istekli; azimli",
-   "güdümlü"
+   "güdülenmiş"
   ],
   "ex": [
    "Sabah egzersiz yaptıktan sonra kendimi daha istekli hissediyorum.",
@@ -112,7 +112,7 @@
   "id": "soften",
   "senses": [
    "yumuşamak; yumuşatmak",
-   "azaltmak; hafifletmek"
+   "hafifletmek; yumuşatmak"
   ],
   "ex": [
    "Tereyağının yumuşaması için buzdolabının dışında bırakın.",

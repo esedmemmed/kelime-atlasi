@@ -96,7 +96,7 @@
   "id": "forget",
   "senses": [
    "unutmak",
-   "unutup yapmamak; unutmak"
+   "unutmak; yapmayı unutmak"
   ],
   "ex": [
    "Gözlüğümü nereye koyduğumu hep unutuyorum.",
@@ -104,7 +104,7 @@
   ],
   "col": [
    "bir şey yapmayı unutmak",
-   "...i unutmak",
+   "-i unutmak",
    "tamamen unutmak"
   ],
   "tip": "forget to do: yapmayı unutmak (yapılmamış); forget doing: yapmış olduğunu unutmak.",
@@ -141,7 +141,7 @@
    "bir çift gözlük",
    "gözlük takmak",
    "okuma gözlüğü",
-   "içki bardakları"
+   "su bardakları"
   ],
   "tip": "Gözlük anlamında her zaman çoğul kullanılır (glasses); bir çift için a pair of glasses denir.",
   "note": ""
@@ -249,7 +249,7 @@
    "Okullar çocuklara, bilgileri sadece ezberletmek yerine çevrimiçi bilgiyi nasıl değerlendireceklerini öğretmelidir."
   ],
   "col": [
-   "bir ders vermek",
+   "bir dersi okutmak",
    "birine yüzmeyi öğretmek",
    "birine ders vermek"
   ],

@@ -84,7 +84,7 @@
   "col": [
    "dondurulmuş bezelye",
    "bezelye çorbası",
-   "bezelye kılıfı"
+   "bezelye kabuğu"
   ],
   "tip": "Sayılabilir isimdir; yenilebilir bezelyeyi genel olarak çoğul peas ile anlatmak yaygındır.",
   "note": ""
@@ -111,7 +111,7 @@
  {
   "id": "according-to",
   "senses": [
-   "-e göre; -den alınan bilgiye göre",
+   "-e göre; -e bakılırsa",
    "-e uygun olarak; -e göre"
   ],
   "ex": [

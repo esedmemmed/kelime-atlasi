@@ -31,7 +31,7 @@
   "col": [
    "ek süre",
    "ek ücret",
-   "özel özen",
+   "ekstra özen",
    "ek ücret ödemek"
   ],
   "tip": "Sıfat olarak 'ekstra' anlamına gelir (extra time). pay extra ifadesinde ise zarf olup 'ek olarak' anlamını taşır.",
@@ -41,8 +41,8 @@
   "id": "against",
   "senses": [
    "karşı; aleyhine",
-   "dayalı; yaslı",
-   "-e karşı korunmak için"
+   "-e yaslanarak",
+   "-e karşı"
   ],
   "ex": [
    "Takımımız bu öğleden sonra komşularla karşılaşıyor.",
@@ -77,7 +77,7 @@
  {
   "id": "exact",
   "senses": [
-   "doğru; kesin",
+   "kesin; tam",
    "zorla almak; dayatmak"
   ],
   "ex": [
@@ -100,7 +100,7 @@
   ],
   "ex": [
    "Amcam sigarayı bıraktı ve artık uzun yürüyüşlerden keyif alıyor.",
-   "Kapalı kamu binalarında sigara içilmesinin yasaklanması, çalışanları ve ziyaretçileri tütün dumanının zararlı etkilerinden koruyabilir."
+   "Kamu binalarında sigara içilmesinin yasaklanması, çalışanları ve ziyaretçileri tütün dumanının zararlı etkilerinden koruyabilir."
   ],
   "col": [
    "sigarayı bırakmak",
@@ -142,7 +142,7 @@
    "fiyatları karşılaştırmak",
    "A'yı B ile karşılaştırmak",
    "A'yı B'ye benzetmek",
-   "...ile olumlu kıyaslanmak"
+   "-e kıyasla üstün olmak"
   ],
   "tip": "Karşılaştırma için compare with, benzetme anlamında ise compare to tercih edilir.",
   "note": ""
@@ -203,7 +203,7 @@
   "id": "gift",
   "senses": [
    "hediye",
-   "yetenek; yetenek",
+   "yetenek; kabiliyet",
    "hediye etmek"
   ],
   "ex": [

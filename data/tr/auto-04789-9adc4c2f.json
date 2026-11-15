@@ -21,7 +21,7 @@
   "id": "gender",
   "senses": [
    "cinsiyet",
-   "gramer cinsiyeti"
+   "dilbilgisel cinsiyet"
   ],
   "ex": [
    "Kulüp, yaşına ve cinsiyetine bakılmaksızın herkesi memnuniyetle karşılıyor.",
@@ -31,7 +31,7 @@
    "cinsiyet eşitliği",
    "cinsiyet rolleri",
    "cinsiyet kimliği",
-   "cinsiyet uçurumu"
+   "cinsiyet farkı"
   ],
   "tip": "Gender çoğunlukla sosyal ve kültürel cinsiyeti, sex ise biyolojik cinsiyeti anlatır. Bu ayrıma özellikle akademik metinlerde dikkat edin.",
   "note": ""
@@ -109,7 +109,7 @@
  {
   "id": "bachelor",
   "senses": [
-   "lisans derecesi sahibi; lisans",
+   "lisans mezunu; lisans",
    "bekâr erkek"
   ],
   "ex": [
@@ -156,7 +156,7 @@
    "kendini savunma dersi",
    "kendini savunma teknikleri"
   ],
-  "tip": "Genellikle belirtisiz kullanılır. İngiliz yazımı self-defence, Amerikan yazımı self-defense şeklindedir.",
+  "tip": "Genellikle sayılamaz. İngiliz yazımı self-defence, Amerikan yazımı self-defense şeklindedir.",
   "note": ""
  },
  {
@@ -172,7 +172,7 @@
   "col": [
    "gemi turuna çıkmak",
    "yolcu gemisi",
-   "boyunca ilerlemek"
+   "rahatça ilerlemek"
   ],
   "tip": "İsim olarak sayılabilir kullanılır: a cruise. Bu yüzden tekil halde önüne 'a' getirilir.",
   "note": ""
@@ -184,10 +184,10 @@
   ],
   "ex": [
    "Taze şeftalileri adet başına elli sent'e aldık.",
-   "Yeniden kullanılabilir kaplar başlangıçta tek tek daha pahalı olabilir, ama uzun vadede ambalaj giderlerini azaltabilir."
+   "Yeniden kullanılabilir kaplar başlangıçta tanesi daha pahalıya gelebilir, ama uzun vadede ambalaj giderlerini azaltabilir."
   ],
   "col": [
-   "her biri on dolar",
+   "tanesi on dolara mal olmak",
    "ikişer tane",
    "birer tane"
   ],

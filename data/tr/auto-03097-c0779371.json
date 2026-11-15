@@ -25,7 +25,7 @@
    "kesinlikle; mutlaka"
   ],
   "ex": [
-   "Yardım etmek için beş dakikanı ayıramazsın herhalde?",
+   "Yardım etmek için beş dakika ayırabilirsin herhalde?",
    "Pahalı spor tesislerine kamu parası harcamadan önce hükümetler mutlaka temiz içme suyuna öncelik vermelidir."
   ],
   "col": [
@@ -100,7 +100,7 @@
    "Bazı benekli hayvanlar çevreleriyle bütünleşir; bu da yırtıcıların onları fark etmesini zorlaştırır."
   ],
   "col": [
-   "benekli ceket",
+   "benekli tüy",
    "puantiyeli elbise",
    "benekli desen"
   ],
@@ -110,7 +110,7 @@
  {
   "id": "monument",
   "senses": [
-   "anıt; abide",
+   "anıt; heykel",
    "tarihi yapı; anıt yapı"
   ],
   "ex": [
@@ -139,11 +139,11 @@
   ],
   "col": [
    "ızgara balık",
-   "odun kömürlü ızgara",
+   "kömür ızgarası",
    "ızgaranın altında",
    "birini bir konuda sorguya çekmek"
   ],
-  "tip": "Grill hem ızgara cihazı hem de sorguya çekmek anlamına gelir. Mecazi anlam ile yemek anlamını bağlamdan ayırın.",
+  "tip": "İngiliz İngilizcesinde grill ısıyı genelde üstten verir; Amerikan'da genelde alttan ısıtan ızgara demektir. Ayrıca 'sorguya çekmek'.",
   "note": ""
  },
  {
@@ -151,7 +151,7 @@
   "senses": [
    "mahvetmek; harap etmek",
    "harabe; kalıntı",
-   "iflas; mahvolma"
+   "yıkım; iflas"
   ],
   "ex": [
    "Şiddetli yağmur planladığımız pikniği mahvetti.",
@@ -160,7 +160,7 @@
   "col": [
    "birinin planlarını mahvetmek",
    "antik harabeler",
-   "mali iflas",
+   "mali yıkım",
    "harap halde"
   ],
   "tip": "Yapı kalıntısı anlamında genellikle çoğul ruins kullanılır. Tekil ruin çoğunlukla mahvolma anlamında geçer.",
@@ -169,7 +169,7 @@
  {
   "id": "workshop",
   "senses": [
-   "uygulamalı seminer; atölye",
+   "atölye çalışması; çalıştay",
    "atölye; imalathane"
   ],
   "ex": [

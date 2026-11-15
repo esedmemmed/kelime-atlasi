@@ -12,11 +12,11 @@
   ],
   "col": [
    "kişisel görüşe göre",
-   "bir şeyi kişisel almak",
+   "bir şeye alınmak",
    "kişisel olarak sorumlu",
    "birini şahsen tanımak"
   ],
-  "tip": "Türkçede \"kişisel olarak\" her yerde aynı anlama gelmez; \"take it personally\" gibi ifadelerde \"kendine alınmak\" demek olduğunu unutma.",
+  "tip": "take it personally: bir şeyi kendine yönelik saymak, alınmak. Türkçe 'kişisel olarak' her bağlamda uymaz.",
   "note": ""
  },
  {
@@ -36,7 +36,7 @@
    "ilerlemeyi takip etmek",
    "takip etmek; kontrol altında tutmak"
   ],
-  "tip": "\"keep track of\" kalıbı \"bir şeyin takibini yapmak\" anlamına gelir; \"track\" fiilini çoğu zaman \"izlemek\" olarak düşün.",
+  "tip": "keep track of: haberdar olmak, takip etmek; lose track of: izini/takibini kaybetmek.",
   "note": ""
  },
  {
@@ -91,7 +91,7 @@
    "bireysel farklılıklar",
    "yetenekli bir birey"
   ],
-  "tip": "Sıfat olarak \"bireysel\", isim olarak \"birey\" anlamına gelir; Türkçede \"bireyler\" yerine gereksiz yere \"herkes\" demekten kaçın.",
+  "tip": "Sıfat olarak 'bireysel, tek tek', sayılabilir isim olarak 'birey' anlamına gelir; çoğulu individuals'tır.",
   "note": ""
  },
  {
@@ -126,7 +126,7 @@
   "col": [
    "muhteşem bir şelale",
    "şelalenin dibi",
-   "şırıl şırıl akan şelale"
+   "çağlayan şelale"
   ],
   "tip": "Sayılabilir bir isimdir: \"bir şelale\" için \"a waterfall\" kullanılır, \"waterfall\" çoğulu \"waterfalls\" olur.",
   "note": ""
@@ -138,12 +138,12 @@
    "zarar görmek; uğramak"
   ],
   "ex": [
-   "Öğle yemeğimi atladığımda baş ağrısından şikâyetçi oluyorum.",
+   "Öğle yemeğini atladığımda baş ağrısı çekiyorum.",
    "Büyük yol çalışmaları müşterilerin işyerlerine ulaşmasını engellediğinde küçük işletmeler sık sık mali kayıplara uğrar."
   ],
   "col": [
-   "baş ağrısından çekmek",
-   "kayıp yaşamak",
+   "baş ağrısı çekmek",
+   "kayba uğramak",
    "hasar görmek",
    "ağır zarar görmek"
   ],
@@ -190,7 +190,7 @@
   "id": "perfectly",
   "senses": [
    "kusursuz olarak; hatasız",
-   "tamamen; oldukça"
+   "tamamen; gayet"
   ],
   "ex": [
    "Yeni perdeler kanepemizle mükemmel uyuyor.",
@@ -200,7 +200,7 @@
    "tam uymak",
    "kusursuz çalışmak",
    "tamamen makul",
-   "apaçık açık"
+   "gayet açık"
   ],
   "tip": "\"perfectly clear\" \"kusursuz derecede açık\" değil, \"tamamen açık\" anlamına gelir; \"perfectly\" her zaman \"mükemmel\" demek değildir.",
   "note": ""

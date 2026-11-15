@@ -66,7 +66,7 @@
    "Sunumlarda madde işaretleri kullanmak, dinleyicilerin önemli bilgileri belirlemesine ve karmaşık argümanları takip etmesine yardımcı olabilir."
   ],
   "col": [
-   "mermi ateşlemek",
+   "kurşun sıkmak",
    "mermi yarası",
    "madde işaretleri"
   ],
@@ -134,7 +134,7 @@
    "tartışmalı"
   ],
   "ex": [
-   "Tartışmalı park kuralları, genellikle çok samimi olan komşularımızı ikiye bölmüştü.",
+   "Tartışmalı park kuralları, genellikle çok samimi olan komşularımızı ikiye böldü.",
    "Şehir merkezlerine giriş için sürücülerden ücret alınması tartışmalı olmayı sürdürüyor; yine de trafiği azaltabilir ve hava kalitesini iyileştirebilir."
   ],
   "col": [
@@ -155,7 +155,7 @@
    "Yetersiz finansman, birçok kırsal okulun öğrencilere güvenilir internet erişimi ve modern öğrenme materyalleri sunmasını engelliyor."
   ],
   "col": [
-   "yetersiz fon",
+   "yetersiz bakiye",
    "yetersiz kanıt",
    "talebi karşılamaya yetmeyen"
   ],
@@ -166,7 +166,7 @@
   "id": "viewing",
   "senses": [
    "izleme; seyretme",
-   "ev gezme; inceleme",
+   "ev gösterimi; inceleme",
    "incelemek; değerlendirmek"
   ],
   "ex": [
@@ -176,9 +176,9 @@
   "col": [
    "televizyon izleme",
    "özel gösterim",
-   "ev gezmesi ayarlamak"
+   "ev gösterimi ayarlamak"
   ],
-  "tip": "Ev gezmesi anlamında a viewing çoğunlukla emlak bağlamında kullanılır.",
+  "tip": "Ev gösterimi anlamında a viewing çoğunlukla emlak bağlamında kullanılır.",
   "note": ""
  },
  {
@@ -186,7 +186,7 @@
   "senses": [
    "loş; soluk",
    "silik; belirsiz",
-   "soluklaşmak; kısmak"
+   "kısmak; loşlaşmak"
   ],
   "ex": [
    "Akşam yemeğini mutfağın loş ışığı altında yedik.",
@@ -196,7 +196,7 @@
    "loş ışık",
    "silik bir anı",
    "ışıkları kısmak",
-   "olumsuz bakmak"
+   "hoş karşılamamak"
   ],
   "tip": "Çekimlerde m harfi ikilenir: dimmer, dimmest, dimmed.",
   "note": ""
@@ -223,16 +223,16 @@
   "id": "tutorial",
   "senses": [
    "küçük grup dersi",
-   "eğitim videosu; kılavuz"
+   "öğretici; kılavuz"
   ],
   "ex": [
    "Tatil fotoğraflarımı düzenlemeden önce kısa bir eğitim videosu izledim.",
-   "Küçük tutorial grupları, üniversite öğrencilerinin karmaşık fikirleri tartışmasına ve tutorlarından ayrıntılı geri bildirim almasına olanak tanır."
+   "Küçük ders grupları, üniversite öğrencilerinin karmaşık fikirleri tartışmasına ve eğitmenlerinden ayrıntılı geri bildirim almasına olanak tanır."
   ],
   "col": [
    "bir ders grubuna katılmak",
    "video eğitimi",
-   "adım adım eğitim"
+   "adım adım kılavuz"
   ],
   "tip": "Hem küçük grup ders saatini hem de video veya yazılı kılavuzu anlatabilir; bağlama dikkat edin.",
   "note": ""

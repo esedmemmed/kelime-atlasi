@@ -30,7 +30,7 @@
   "col": [
    "bir şeyin arkasındaki mantık",
    "sağlam mantık",
-   "tutarsız mantık",
+   "hatalı mantık",
    "biçimsel mantık"
   ],
   "tip": "Genellikle sayılamaz. \"the logic behind\" kalıbı bir şeyin arkasındaki gerekçeyi anlatır.",
@@ -124,7 +124,7 @@
    "Üniversiteler, karmaşık çevre sorunlarını çözmek için farklı alanlardan araştırmacılar arasındaki iş birliğini giderek daha fazla teşvik ediyor."
   ],
   "col": [
-   "öz disiplin",
+   "özdisiplin",
    "disiplini sağlamak",
    "akademik disiplin",
    "kendini bir şeyi yapmaya zorlamak"
@@ -140,7 +140,7 @@
    "sıra ev; bitişik evler"
   ],
   "ex": [
-   "Kahvaltıyı bahçeye bakan teraslı alanda yaptık.",
+   "Kahvaltıyı bahçeye bakan terasta yaptık.",
    "Çiftçiler, dik dağ yamaçlarında ürün yetiştirirken toprak erozyonunu azaltmak için her basamağın bakımını özenle yapar."
   ],
   "col": [
@@ -162,7 +162,7 @@
    "Katılımcılar ekranda bir değişiklik fark ettiklerinde bir düğmeye basmak için işaret parmaklarını kullandılar."
   ],
   "col": [
-   "baş parmak ve işaret parmağı",
+   "başparmak ve işaret parmağı",
    "sağ işaret parmağı",
    "işaret parmağının ucu"
   ],
@@ -218,7 +218,7 @@
   ],
   "col": [
    "evi yeniden inşa etmek",
-   "güveni yeniden tesis etmek",
+   "güveni yeniden inşa etmek",
    "ekonomiyi yeniden canlandırmak"
   ],
   "tip": "Düzensiz fiildir: rebuild, rebuilt, rebuilt. Geçmiş zaman ve ortaç için rebuilt kullanılır.",
@@ -255,7 +255,7 @@
   "col": [
    "serbest yazar",
    "serbest çalışmak",
-   "serbest iş"
+   "serbest çalışma"
   ],
   "tip": "Work freelance'de zarf görevinde kullanılır; freelancer ise serbest çalışan kişidir. Sıfat olarak da kullanılır.",
   "note": ""

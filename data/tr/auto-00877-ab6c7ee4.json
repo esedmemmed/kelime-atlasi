@@ -192,7 +192,7 @@
   "col": [
    "rosto sığır eti",
    "kıyma",
-   "sığır eti güveç",
+   "sığır etli güveç",
    "yağsız sığır eti"
   ],
   "tip": "Yiyecek olarak genellikle sayılamaz: some beef denir, a beef denmez. Hayvanın kendisi için cow ya da cattle kullanılır.",
@@ -219,11 +219,11 @@
  {
   "id": "snack",
   "senses": [
-   "atıştırmalık; kuruyemiş",
+   "atıştırmalık",
    "atıştırmak"
   ],
   "ex": [
-   "Atıştırmalık olarak bir elma ve biraz fındık koymuştum.",
+   "Atıştırmalık olarak çantama bir elma ve biraz fındık koydum.",
    "Okullar, şekerli yiyecekler yerine besleyici atıştırmalıklar sunarak daha sağlıklı beslenme alışkanlıklarını teşvik edebilir."
   ],
   "col": [

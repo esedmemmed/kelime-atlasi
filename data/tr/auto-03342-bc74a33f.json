@@ -16,7 +16,7 @@
    "gizli bilgiyi sızdırmak",
    "sızdıran boru"
   ],
-  "tip": "leak hem isim hem fiil olarak kullanılır. Düzensiz fiil çekimi: leak - leaked - leaked. Gizli bilgi sızdırmak anlamı da yaygındır.",
+  "tip": "leak hem isim hem fiildir; fiil düzenlidir (leaked). Gizli bilgi sızdırmak anlamı da yaygındır.",
   "note": ""
  },
  {
@@ -31,7 +31,7 @@
   "col": [
    "değişiklik yapmak",
    "küçük değişiklik",
-   "genetik değişiklik"
+   "genetik modifikasyon"
   ],
   "tip": "Sayılabilir kullanıldığında belirli bir değişikliği, sayılamaz kullanıldığında değiştirme sürecini anlatır.",
   "note": ""
@@ -59,7 +59,7 @@
   "id": "blade",
   "senses": [
    "bıçak; kesici kısım",
-   "kanat; pala",
+   "kanat; pervane kanadı",
    "çimen yaprağı"
   ],
   "ex": [
@@ -96,7 +96,7 @@
  {
   "id": "armour",
   "senses": [
-   "zırh; korumalık",
+   "zırh; koruyucu kaplama",
    "zırhlı birlik"
   ],
   "ex": [
@@ -172,7 +172,7 @@
   "id": "capsule",
   "senses": [
    "kapsül",
-   "uzay kapsülü; küçük kapalı bölme"
+   "uzay kapsülü; kabin"
   ],
   "ex": [
    "Eczacı, kapsülü suyla birlikte yutmamı söyledi.",
@@ -183,7 +183,7 @@
    "uzay kapsülü",
    "zaman kapsülü"
   ],
-  "tip": "capsule dış kabuğu olan ilacı anlatır; tablet ise bastırılmış ilaç tabletini anlatır.",
+  "tip": "capsule dış kabuklu ilaçtır; tablet ise sıkıştırılarak yapılmış hap biçimindeki ilaçtır.",
   "note": ""
  },
  {
@@ -192,13 +192,13 @@
    "anlama; kavrama"
   ],
   "ex": [
-   "Basit bir şema, talimatları anlamama yardımcı oldu.",
+   "Basit bir şema çizmek, talimatları anlamama yardımcı oldu.",
    "Çeşitli okuma materyallerine düzenli olarak maruz kalmak, öğrencilerin anlama becerisini geliştirebilir ve akademik kelime dağarcıklarını genişletebilir."
   ],
   "col": [
-   "okuma anlama",
-   "dinleme anlama",
-   "kavranamaz"
+   "okuduğunu anlama",
+   "dinlediğini anlama",
+   "kavrayışın ötesinde"
   ],
   "tip": "Genellikle sayılamaz. comprehensive kelimesiyle karıştırılmamalı; o 'kapsamlı' anlamına gelir.",
   "note": ""

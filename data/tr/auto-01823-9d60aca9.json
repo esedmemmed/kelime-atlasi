@@ -49,7 +49,7 @@
   "col": [
    "ekşi tat",
    "ekşimek; bozulmak",
-   "ilişkileri bozmak"
+   "bozulmuş ilişkiler"
   ],
   "tip": "go sour hem yiyecek için bozulmak hem de ilişkiler için kötüleşmek anlamına gelebilir.",
   "note": ""
@@ -88,7 +88,7 @@
    "akademik nitelikler",
    "mesleki yeterlilik",
    "giriş şartları",
-   "çekincesiz"
+   "kayıtsız şartsız"
   ],
   "tip": "Eğitim ya da yeterlilik anlamında çoğunlukla çoğul qualifications kullanılır.",
   "note": ""
@@ -137,7 +137,7 @@
   ],
   "ex": [
    "Sihirbazın zekice numaraları çocukları her zaman hayrete düşürür.",
-   "Tıbbi teknolojideki gelişmeler araştırmacıları hayrete düşürmeye devam ediyor ve karmaşık hastalığı olan hastalara yeni umut veriyor."
+   "Tıbbi teknolojideki gelişmeler araştırmacıları hayrete düşürmeye devam ediyor ve karmaşık hastalıkları olan hastalara yeni umut veriyor."
   ],
   "col": [
    "hayrete düşürmeyi hiç bırakmamak",
@@ -244,7 +244,7 @@
   "id": "confidence",
   "senses": [
    "özgüven; güven",
-   "güven; itimat"
+   "güven; inanç"
   ],
   "ex": [
    "Mülakattan önce arkadaşlarımla prova yapmak bana özgüven verdi.",

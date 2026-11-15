@@ -11,12 +11,12 @@
    "Katılımcılar, toplu taşımayı ne sıklıkla kullandıklarını belirtmek için uygun kutucukları işaretlemelidir."
   ],
   "col": [
-   "kutucuğa işaret koymak",
-   "listeden işaretlemek",
+   "kutucuğu işaretlemek",
+   "işaretleyerek listeden çıkarmak",
    "kene ısırığı",
-   "saatin tıkırdaması"
+   "saat tik tak etmek"
   ],
-  "tip": "Bu kelime hem onay işareti hem de kene anlamına gelir; anlamı cümledeki bağlamdan belirlenir. Fiil olarak ses çıkarma anlamı da vardır.",
+  "tip": "Onay işareti için İngiliz İngilizcesinde tick, Amerikan İngilizcesinde check kullanılır: tick a box / check a box.",
   "note": ""
  },
  {
@@ -61,7 +61,7 @@
    "uyarı işareti"
   ],
   "ex": [
-   "Rehberin kayganlaşan kayalar hakkındaki uyarısının ardından geri döndük.",
+   "Rehberin kaygan kayalar konusundaki uyarısının ardından geri döndük.",
    "Etkili sel uyarı sistemleri, yollar kullanılamaz hale gelmeden sakinlerin tehlikeli bölgelerden ayrılmasını sağlar."
   ],
   "col": [
@@ -93,7 +93,7 @@
  {
   "id": "loudspeaker",
   "senses": [
-   "hoparlör; megafon"
+   "hoparlör"
   ],
   "ex": [
    "Hoparlörden gelen bir ses trenimizin geldiğini duyurdu.",
@@ -136,7 +136,7 @@
   ],
   "ex": [
    "Market alışverişimiz, yemek pişirmeye başlamadan hemen önce geldi.",
-   "Evlere teslimat talebindeki artış, birçok kentsel mahallede trafik sıkışıklığını arttırdı."
+   "Evlere teslimat talebindeki artış, birçok kentsel mahallede trafik sıkışıklığını artırdı."
   ],
   "col": [
    "ücretsiz teslimat",
@@ -231,7 +231,7 @@
    "sormaya cesaret etmek",
    "birine bir şey yapması için meydan okumak",
    "cesaret edememek",
-   "bahis olsun diye"
+   "meydan okunduğu için"
   ],
   "tip": "Cesaret etmek için dare to do, birine meydan okumak için dare sb to do kalıbı kullanılır.",
   "note": ""
@@ -240,7 +240,7 @@
   "id": "confident",
   "senses": [
    "kendine güvenen; özgüvenli",
-   "emin; ümitli"
+   "emin; kesin"
   ],
   "ex": [
    "Haftalarca süren pratikten sonra sahnede kendimi özgüvenli hissettim.",
@@ -248,7 +248,7 @@
   ],
   "col": [
    "özgüvenli hissetmek",
-   "gelecek hakkında emin olmak",
+   "gelecekten emin olmak",
    "olduğundan emin olmak"
   ],
   "tip": "Confident sıfattır; isim hali confidence'tır. 'Emin olmak' anlamında be confident that veya be confident about kalıpları kullanılır.",

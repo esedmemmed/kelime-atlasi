@@ -44,7 +44,7 @@
    "kolye"
   ],
   "ex": [
-   "Gümüş renkli, küçük bir kuşlu kolye takmıştı.",
+   "Küçük bir kuş figürlü gümüş kolye takmıştı.",
    "El yapımı bir kolye, yerel gelenekleri yansıtırken kırsal topluluklardaki zanaatkârlara gelir de sağlayabilir."
   ],
   "col": [
@@ -58,7 +58,7 @@
  {
   "id": "corner",
   "senses": [
-   "köşe; dönemeç",
+   "köşe; köşe başı",
    "köşeye sıkıştırmak"
   ],
   "ex": [
@@ -91,7 +91,7 @@
    "yumuşak aydınlatma",
    "-e karşı müsamahakâr olmak"
   ],
-  "tip": "soft bir sıfattır. Bir eylemi, örneğin konuşmayı nitelerken softly zarfı kullanılır: 'yumuşak yumuşak konuşmak' yerine softly speak.",
+  "tip": "soft sıfattır; konuşmak gibi eylemleri nitelemek için zarf softly kullanılır: speak softly (yumuşak sesle konuşmak).",
   "note": ""
  },
  {
@@ -183,7 +183,7 @@
    "hakkında endişelenmek",
    "büyük bir endişe",
    "endişeye yol açmak",
-   "mali sorunlar"
+   "mali kaygılar"
   ],
   "tip": "worry about bir şey hakkında kaygılanmak demektir. Kişinin durumunu anlatırken worried sıfatı kullanılır: I am worried.",
   "note": ""
@@ -191,7 +191,7 @@
  {
   "id": "fashion",
   "senses": [
-   "moda; modaya uygun",
+   "moda; akım",
    "tarz; biçim",
    "şekillendirmek; yapmak"
   ],
@@ -200,7 +200,7 @@
    "Moda endüstrisi, dayanıklı giysiler üreterek ve geri dönüştürülmüş malzemeler kullanarak çevresel etkisini azaltabilir."
   ],
   "col": [
-   "moda olan",
+   "modada olmak",
    "modası geçmiş",
    "moda endüstrisi",
    "benzer bir şekilde"
@@ -215,12 +215,12 @@
    "göndermek; taşımak"
   ],
   "ex": [
-   "Sakin limana doğru süzülen dev bir gemi izledik.",
+   "Dev bir geminin limana doğru süzülerek girişini izledik.",
    "Birçok ülke tarımsal ürünlerini yurt dışına gönderiyor; bu yüzden güvenilir ulaşım ağları ekonomik büyüme için şarttır."
   ],
   "col": [
    "yük gemisi",
-   "yolcu gemisi",
+   "kruvaziyer gemisi",
    "malları göndermek",
    "gemide"
   ],
@@ -238,7 +238,7 @@
   ],
   "col": [
    "bir çift terlik",
-   "terliğini giy",
+   "terliklerini giymek",
    "ev terliği"
   ],
   "tip": "Genellikle çoğul slippers kullanılır ve 'bir çift' ifadesiyle a pair of slippers olarak söylenir. Plaj terliği için flip-flops denir.",
@@ -260,7 +260,7 @@
    "ağır hasar görmüş",
    "çok ihtiyaç duyulan"
   ],
-  "tip": "Sıfat bad, zarf badly'dir. 'Kötü hissediyorum' için I feel bad denir; I feel badly ise standart dışı sayılır.",
+  "tip": "Karşılaştırması worse, en üstünlüğü worst'tür. Sıfat bad, zarf badly'dir: I feel bad (kötü hissediyorum).",
   "note": ""
  },
  {
@@ -276,7 +276,7 @@
   ],
   "col": [
    "sayıp toplamak",
-   "saymayı unutmak",
+   "sayısını şaşırmak",
    "birine güvenmek",
    "her dakika önemlidir"
   ],

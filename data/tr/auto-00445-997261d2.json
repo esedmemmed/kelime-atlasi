@@ -10,7 +10,7 @@
    "Uygun fiyatlı toplu taşıma, sakinlerin işlere ulaşmasına yardımcı olabilir ve araba bağımlılıklarını azaltabilir."
   ],
   "col": [
-   "birinin bir şeyde yardım etmesi",
+   "birine bir konuda yardım etmek",
    "yardım istemek",
    "azaltmaya yardım etmek"
   ],
@@ -25,14 +25,14 @@
    "yukarıda; yükseğe"
   ],
   "ex": [
-   "Raf bana ulaşamayacak kadar yüksek.",
+   "Raf, uzanamayacağım kadar yüksek.",
    "Özellikle büyük kentlerde yüksek konut maliyetleri, genç yetişkinlerin bağımsız yaşamasını engelleyebilir."
   ],
   "col": [
    "yüksek standartlar",
    "yüksek fiyatlar",
    "yüksek rakım",
-   "tam yukarıda"
+   "çok yukarıda"
   ],
   "tip": "High genellikle konum ya da düzey için kullanılır. İnsanın boyu için ise tall kullanılır.",
   "note": ""
@@ -145,7 +145,7 @@
   ],
   "col": [
    "olsa bile",
-   "yalnızca eğer",
+   "yalnızca ... ise",
    "sanki",
    "gerekirse"
   ],
@@ -185,9 +185,9 @@
    "el ele tutuşmak",
    "birine yardım etmek",
    "ödevi teslim etmek",
-   "elle yapılmış"
+   "elle"
   ],
-  "tip": "give someone a hand 'yardım etmek' anlamına gelir. by hand ise 'elle yapılmış' anlamına gelir.",
+  "tip": "give someone a hand 'yardım etmek' anlamına gelir. by hand ise 'elle' (makine kullanmadan) demektir.",
   "note": ""
  },
  {
@@ -206,7 +206,7 @@
    "soluk sarı",
    "sararmak"
   ],
-  "tip": "En yaygın kullanımı sıfat olarak renk belirtmektir: a yellow umbrella. Fiil olarak da sararma anlamında kullanılır.",
+  "tip": "Fiil olarak 'sararmak' demektir. İnsanların ten rengini ya da ırkını anlatmak için kullanılmaz; saldırgan bulunabilir.",
   "note": ""
  },
  {
@@ -224,7 +224,7 @@
    "zengin ülkeler",
    "besin öğelerince zengin",
    "zengin kültürel miras",
-   "yağlı yemek"
+   "ağır yemek"
   ],
   "tip": "'Bakımından zengin' anlamında rich in kalıbı kullanılır: rich in nutrients. rich of yanlıştır.",
   "note": ""
@@ -255,7 +255,7 @@
   ],
   "ex": [
    "Kuzenim dün bana bisiklete binmeyi öğretti.",
-   "Akrabalarıyla düzenli zaman geçiren çocuklar, ev halkının ötesinde güçlü aile bağları geliştirebilir."
+   "Kuzenleriyle düzenli zaman geçiren çocuklar, ev halkının ötesinde güçlü aile bağları geliştirebilir."
   ],
   "col": [
    "birinci derece kuzen",
@@ -279,7 +279,7 @@
    "kasımın başında",
    "kasımın sonunda"
   ],
-  "tip": "Ay adları büyük harfle yazılır. Ay için in, belirli bir gün için on kullanılır: in November, on 5 November.",
+  "tip": "İngilizcede ay adları büyük harfle yazılır. Ay için in, belirli bir gün için on kullanılır: in November, on 5 November.",
   "note": ""
  }
 ]

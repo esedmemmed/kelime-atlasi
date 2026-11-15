@@ -3,7 +3,7 @@
   "id": "melt",
   "senses": [
    "erimek; eritmek",
-   "yumuşamak; etkilemek"
+   "yumuşamak; duygulandırmak"
   ],
   "ex": [
    "Tereyağı sıcak tavada çabucak eridi.",
@@ -33,7 +33,7 @@
    "geniş ölçüde kabul gören",
    "büyük farklılık göstermek"
   ],
-  "tip": "widely çoğunlukla fiillerden önce veya sıfat-fiil yapılarından önce gelir: widely used. 'Geniş' anlamına gelen wide sıfatıyla karıştırılmamalı.",
+  "tip": "widely 'yaygın olarak, geniş çapta' demektir; wide ise 'geniş' ya da 'tamamen açık' anlamındadır (wide open).",
   "note": ""
  },
  {
@@ -48,7 +48,7 @@
   "col": [
    "zımba kullanmak",
    "masa zımbası",
-   "zımbanın tellerini doldurmak"
+   "zımbaya tel doldurmak"
   ],
   "tip": "stapler zımba makinesidir. staple ise zımba teli anlamına gelir ve fiil olarak 'zımbalamak' demektir.",
   "note": ""
@@ -121,9 +121,9 @@
   ],
   "col": [
    "güvenlik görevlisi",
-   "...e karşı korumak",
+   "-e karşı önlem almak",
    "tetikte olmak",
-   "koruyucu siper"
+   "koruyucu muhafaza"
   ],
   "tip": "guard against bir riske, tehlikeye ya da hataya karşı önlem almayı anlatır: guard against mistakes.",
   "note": ""
@@ -154,13 +154,13 @@
    "akmak; çevrimiçi izlemek"
   ],
   "ex": [
-   "Sığ deredeki düz taşların üzerinden karşıya geçtik.",
+   "Sığ dereyi düz taşların üzerinden basarak geçtik.",
    "Birçok öğrenci eğitim videolarını evde çevrimiçi izliyor; bu da güvenilir internet erişimini giderek daha önemli hâle getiriyor."
   ],
   "col": [
    "dağ deresi",
    "sürekli bir ziyaretçi akını",
-   "müzik dinlemek"
+   "çevrimiçi müzik dinlemek"
   ],
   "tip": "a stream of, arka arkaya gelen kişi ya da şeyleri anlatır. Dijital anlamda 'canlı yayın olarak izlemek/dinlemek' demektir.",
   "note": ""
@@ -244,7 +244,7 @@
    "yenilgi; mağlubiyet"
   ],
   "ex": [
-   "Dün cüzdanımı kaybettiğimi bildirdim.",
+   "Dün cüzdanının kaybolduğunu bildirdi.",
    "Doğal yaşam alanlarının kaybı biyoçeşitliliği tehdit ediyor ve yerel tarımı destekleyen ekosistemleri zayıflatabilir."
   ],
   "col": [

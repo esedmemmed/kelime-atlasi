@@ -32,7 +32,7 @@
    "eşkenar üçgen",
    "aşk üçgeni"
   ],
-  "tip": "Sayılabilir isimdir: a triangle, two triangles. Müzik anlamında bağlamdan ayırt edin.",
+  "tip": "İngiliz İngilizcesinde right-angled triangle, Amerikan'da right triangle denir. Triangle aynı zamanda bir müzik aletidir.",
   "note": ""
  },
  {
@@ -47,7 +47,7 @@
   "col": [
    "pirinç sirkesi",
    "şarap sirkesi",
-   "bir sıçrama sirke",
+   "bir damla sirke",
    "sirkede turşulanmış"
   ],
   "tip": "Genellikle sayılamaz. Miktar belirtmek için a bottle of vinegar gibi kalıplar kullanılır.",
@@ -76,7 +76,7 @@
  {
   "id": "chilly",
   "senses": [
-   "serin; üşütücü",
+   "serin; soğuk",
    "soğuk; mesafeli"
   ],
   "ex": [
@@ -192,7 +192,7 @@
    "şık; modaya uygun"
   ],
   "ex": [
-   "Yeşil şık ceketi, sade pantolonla çok yakışmıştı.",
+   "Şık yeşil ceketi, sade pantolonla harika görünüyordu.",
    "Uygun fiyatlı ve şık mobilyalar, genç tüketicileri evlerinde geri dönüştürülmüş malzemeleri seçmeye teşvik edebilir."
   ],
   "col": [
@@ -236,7 +236,7 @@
    "flüt solosu",
    "flüt dersleri"
   ],
-  "tip": "Çalgı çalmak için play the flute kalıbı kullanılır. Çalgıyı çalan kişi için İngilizce'de flautist, Amerikan'da flutist denir.",
+  "tip": "Çalgı çalmak için play the flute denir. Çalan kişiye İngiliz İngilizcesinde flautist, Amerikan'da genelde flutist denir.",
   "note": ""
  },
  {

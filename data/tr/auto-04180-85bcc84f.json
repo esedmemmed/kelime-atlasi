@@ -3,8 +3,8 @@
   "id": "specific",
   "senses": [
    "belirli",
-   "açık seçik; ayrıntılı",
-   "özgü; has"
+   "açık; ayrıntılı",
+   "özgü"
   ],
   "ex": [
    "Tercih ettiğin belirli bir renk var mı?",
@@ -24,7 +24,7 @@
   "senses": [
    "varsaymak; sanmak",
    "üstlenmek",
-   "kazanmak; almak"
+   "bürünmek; kazanmak"
   ],
   "ex": [
    "Dükkânın pazar günleri açık olduğunu sakın varsayma.",
@@ -115,7 +115,7 @@
  {
   "id": "annoyance",
   "senses": [
-   "sinirlilik; rahatsızlık",
+   "can sıkıntısı; rahatsızlık",
    "can sıkıcı şey"
   ],
   "ex": [
@@ -190,17 +190,17 @@
  {
   "id": "gasp",
   "senses": [
-   "nefessiz kalmak; soluk almak",
+   "soluğu kesilmek",
    "ani soluk alma"
   ],
   "ex": [
-   "Balina teknemizin yanında yükselince şaşkınlıkla soluğumuzu tuttuk.",
+   "Balina teknemizin yanında yükselince şaşkınlıktan nefesimiz kesildi.",
    "Koşucular, oksijenin daha az olduğu yüksek rakımlarda egzersiz yaparken nefes nefese kalabilir."
   ],
   "col": [
    "nefes nefese kalmak",
    "şaşkınlıkla ani soluk almak",
-   "derin bir ah çekmek"
+   "hayretle soluk çekmek"
   ],
   "tip": "'Gasp' ani nefes alışını vurgular; 'pant' ise art arda hızlı nefes almayı anlatır. 'Gasp for breath' kalıbını da öğrenin.",
   "note": ""
@@ -229,8 +229,8 @@
   "id": "loose",
   "senses": [
    "gevşek; oynak",
-   "bol; dar olmayan",
-   "sıkı olmayan; gevşek"
+   "bol; rahat",
+   "gevşek; esnek"
   ],
   "ex": [
    "Gevşek bir vida yüzünden tüm sandalye sallanıyordu.",

@@ -5,7 +5,7 @@
    "rehber kitap; kılavuz"
   ],
   "ex": [
-   "Rehberimiz köyün yakınındaki sakin bir plajı önermişti.",
+   "Rehber kitabımız köyün yakınındaki sakin bir plajı önermişti.",
    "Dijital haritalar kullanışlı olsa da ayrıntılı bir rehber kitap, bağımsız gezginler için değerli kültürel bağlam sunabilir."
   ],
   "col": [
@@ -195,7 +195,7 @@
    "Geleneksel bir şarkının kaset kaydı, araştırmacıların yerel müzik tarzlarının nasıl değiştiğini anlamasına yardımcı olabilir."
   ],
   "col": [
-   "kayıt yapmak",
+   "kasete kayıt yapmak",
    "kaset kaydını dinlemek",
    "bir röportajın kaset kaydı"
   ],
@@ -206,17 +206,17 @@
   "id": "unknown",
   "senses": [
    "bilinmeyen; tanınmamış",
-   "bilinmeyen şey; meçhul kişi"
+   "bilinmeyen şey; tanınmayan kişi"
   ],
   "ex": [
    "Yemek pişirirken bilinmeyen bir numara aradı.",
    "Bazı yeni malzemelerin uzun vadeli etkileri hâlâ bilinmiyor; bu yüzden yaygın kullanımdan önce daha fazla araştırma şart."
   ],
   "col": [
-   "bilinmeyen kalmak",
-   "birine bilinmeyen",
+   "bilinmez kalmak",
+   "biri tarafından bilinmeyen",
    "bilinmeyen bir neden",
-   "meçhul olan"
+   "bilinmeyen şey"
   ],
   "tip": "the unknown, bilinmeyen şeyleri ya da bilinmeyen alanı genel olarak anlatır ve tekil olarak kullanılır.",
   "note": ""

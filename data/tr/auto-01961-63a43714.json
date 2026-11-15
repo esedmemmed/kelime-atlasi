@@ -11,7 +11,7 @@
   ],
   "col": [
    "yapmaya gücü yetmek",
-   "kaybetmeye tahammülü olmamak",
+   "kaybetmeyi göze alamamak",
    "koruma sağlamak"
   ],
   "tip": "Genellikle can afford sth ya da can afford to do kalıbında kullanılır; afford'dan sonra doing gelmez.",
@@ -42,11 +42,11 @@
    "baş dönen"
   ],
   "ex": [
-   "Kuzenimle etrafında dönüp durduktan sonra başım döndü.",
+   "Küçük kuzenimle dönüp durduktan sonra başım döndü.",
    "Egzersiz sırasında baş dönmesi hisseden kişiler, belirtiler sürerse hemen durmalı ve doktora danışmalıdır."
   ],
   "col": [
-   "baş dönmesi hissetmek",
+   "başı dönmek",
    "baş dönmesi nöbeti",
    "birinin başını döndürmek"
   ],
@@ -63,7 +63,7 @@
    "Okullar, gerçekleri ezbere tekrar etmek yerine bağımsız düşünmeyi ödüllendiren değerlendirmeler tasarlayarak kopyayı azaltabilir."
   ],
   "col": [
-   "sınavda kopya çekme",
+   "sınavda kopya çekmek",
    "kopyayı önlemek",
    "birini hileyle suçlamak"
   ],
@@ -102,7 +102,7 @@
   ],
   "col": [
    "okuldan devamsız",
-   "işe gelmeyen",
+   "işe gelmemek",
    "göze çarpan biçimde yok"
   ],
   "tip": "Bir yerde bulunmamayı belirtmek için absent from kullanılır; absent in kullanılmaz.",
@@ -157,7 +157,7 @@
   "col": [
    "mavi balina",
    "balina gözlemciliği",
-   "balina koruma"
+   "balinaların korunması"
   ],
   "tip": "Balina bir deniz memelisidir, balık değildir; çoğulu whales şeklinde yazılır.",
   "note": ""
@@ -166,7 +166,7 @@
   "id": "economics",
   "senses": [
    "ekonomi bilimi; iktisat",
-   "ekonomik boyut; karlılık"
+   "ekonomik boyut; kârlılık"
   ],
   "ex": [
    "Kız kardeşim ekonomi okuyor ve yiyecek fiyatlarını tartışmayı seviyor.",
@@ -192,7 +192,7 @@
   "col": [
    "bahçe göleti",
    "balık göleti",
-   "gölet yaşamı"
+   "gölet canlıları"
   ],
   "tip": "pond genellikle lake'den daha küçük ve sığ suyu ifade eder; doğal ya da yapay olabilir.",
   "note": ""
@@ -208,8 +208,8 @@
   ],
   "col": [
    "sonuçtan çok memnun",
-   "duymaktan memnuniyet duymak",
-   "tamamen memnun"
+   "duyduğuna sevinmek",
+   "son derece memnun"
   ],
   "tip": "Kişinin duyduğu sevinç için delighted, bir şeyin verdiği hoşnutluk için delightful kullanılır.",
   "note": ""
@@ -236,7 +236,7 @@
   "senses": [
    "davul",
    "varil; fıçı",
-   "davul çalmak; tıklatmak"
+   "davul çalmak; tıkırdatmak"
   ],
   "ex": [
    "Küçük çocuk davulu iki eliyle çaldı.",
@@ -244,7 +244,7 @@
   ],
   "col": [
    "davul çalmak",
-   "davul vurmak",
+   "davula vurmak",
    "petrol varili"
   ],
   "tip": "play the drums genellikle davul çalmayı anlatır; drum ayrıca büyük silindirik kapları da ifade eder.",

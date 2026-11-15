@@ -55,7 +55,7 @@
  {
   "id": "disturbance",
   "senses": [
-   "rahatsızlık; dikkat dağıtma",
+   "rahatsızlık; kesinti",
    "kargaşa; düzensizlik"
   ],
   "ex": [
@@ -66,7 +66,7 @@
    "rahatsızlık yaratmak",
    "gürültü rahatsızlığı",
    "uyku bozukluğu",
-   "kamu düzeni bozukluğu"
+   "kamu düzenini bozma"
   ],
   "tip": "'Disturbance' sadece rahatsızlık değil, 'sleep disturbance' gibi uyku bozukluğu anlamında da kullanılır; kalıpları birlikte öğrenin.",
   "note": ""
@@ -83,8 +83,8 @@
   ],
   "col": [
    "birinin sırtını sıvazlamak",
-   "birine sıvazlama yapmak",
-   "hafifçe kurulamak"
+   "birini hafifçe okşamak",
+   "hafifçe dokunarak kurulamak"
   ],
   "tip": "Geçmiş zaman patted, ing hali patting biçimindedir; t harfi ikiye katlanır. 'Pat' hem fiil hem isim olarak kullanılır.",
   "note": ""
@@ -167,7 +167,7 @@
  {
   "id": "hardship",
   "senses": [
-   "yoksunluk; sıkıntı"
+   "zorluk; sıkıntı"
   ],
   "ex": [
    "İşini kaybetmesi aile için aylarca süren bir sıkıntıya yol açtı.",
@@ -244,9 +244,9 @@
   ],
   "col": [
    "ama yine de",
-   "yine de varlığını korumak"
+   "yine de kalmak"
   ],
-  "tip": "Bir zarf (adverb)tır, bağlaç değildir. Bağımsız cümleleri birleştirirken noktalı virgülle kullanılması yaygındır.",
+  "tip": "Bir zarftır, bağlaç değildir. Bağımsız cümleleri birleştirirken noktalı virgülle kullanılması yaygındır.",
   "note": ""
  },
  {

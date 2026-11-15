@@ -69,7 +69,7 @@
    "bir daire çizmek",
    "daire şeklinde",
    "sosyal çevre",
-   "başın üstünde dönmek"
+   "tepede daire çizmek"
   ],
   "tip": "circle daire veya çember anlamındadır; döngü ya da periyot için cycle kullanılır. Bu iki kelimeyi karıştırmayın.",
   "note": ""
@@ -105,7 +105,7 @@
   ],
   "col": [
    "bir şey yapmayı başarmak",
-   "müdür olarak başarılı olmak",
+   "yönetici olarak başarılı olmak",
    "birinin yerine başkan olmak"
   ],
   "tip": "Bir şeyi başarmak anlamında succeed in doing kalıbı kullanılır: succeed in passing. 'succeed to do' yapısı kullanılmaz.",
@@ -128,7 +128,7 @@
    "açık ara en iyi",
    "çok kolay gerçekleşebilir"
   ],
-  "tip": "easily, easily the best kalıbında en üstünlük derecesini güçlendirir ve 'açık ara en iyi' anlamına gelir. Fiilden önce gelebilir: easily understood.",
+  "tip": "easily the best kalıbında easily, üstünlük derecesini güçlendirir: 'açık ara en iyi'. Fiilden önce de gelir: easily understood.",
   "note": ""
  },
  {
@@ -145,7 +145,7 @@
    "biraz",
    "birazcık",
    "yavaş yavaş",
-   "çeşit çeşit parçalar"
+   "ufak tefek şeyler"
   ],
   "tip": "a bit of isimle, a bit ise sıfat ya da zarfla kullanılır: a bit tired. Ayrıca bit, bite fiilinin geçmiş zamanıdır.",
   "note": ""
@@ -163,7 +163,7 @@
    "yazma hızı",
    "dokunarak yazma",
    "yazma becerileri",
-   "klavye hatası"
+   "yazım hatası"
   ],
   "tip": "Bu isim sayılamaz; 'a typing' demeyin. Ayrıca type fiilinin -ing biçimidir: I am typing.",
   "note": ""
@@ -193,7 +193,7 @@
    "fotoğraf albümü; albüm"
   ],
   "ex": [
-   "Yeni albümü öğleden sonra boyunca bizi şarkı söylettirdi.",
+   "Yeni albümü öğleden sonra boyunca bize şarkı söyletti.",
    "Dijital platformlar bağımsız müzisyenlerin geleneksel bir plak şirketine bağımlı olmadan albüm yayımlamasına olanak tanır."
   ],
   "col": [

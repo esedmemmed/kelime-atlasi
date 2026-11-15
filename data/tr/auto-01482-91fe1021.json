@@ -73,7 +73,7 @@
    "pazar payı",
    "hisse satın almak"
   ],
-  "tip": "Birisiyle paylaşmak için share something with someone kalıbı kullanılır; share to ya da share with yerine dikkat edin.",
+  "tip": "Birisiyle paylaşmak için share something with someone denir; share to someone denmez.",
   "note": ""
  },
  {
@@ -122,8 +122,8 @@
   ],
   "col": [
    "evcil papağan",
-   "birinin sözlerini tekrarlamak",
-   "düşünmeden ezber tekrar"
+   "birinin sözlerini papağan gibi tekrarlamak",
+   "ezbere; papağan gibi"
   ],
   "tip": "Fiil olarak genellikle olumsuz anlam taşır: anlamadan ya da düşünmeden tekrar etmek demektir.",
   "note": ""
@@ -131,16 +131,16 @@
  {
   "id": "windsurfing",
   "senses": [
-   "yelkenli sörf"
+   "rüzgâr sörfü"
   ],
   "ex": [
-   "Tatilde göl kenarındayken kız kardeşim yelkenli sörfü denedi.",
-   "Kıyı kasabalarında yelkenli sörf okulları ziyaretçileri çekebilir; yeter ki yerel yönetimler net su güvenliği kuralları belirlesin."
+   "Tatilde göl kenarındayken kız kardeşim rüzgâr sörfünü denedi.",
+   "Kıyı kasabalarında rüzgâr sörfü okulları ziyaretçileri çekebilir; yeter ki yerel yönetimler net su güvenliği kuralları belirlesin."
   ],
   "col": [
-   "yelkenli sörf yapmak",
-   "yelkenli sörf ekipmanı",
-   "yelkenli sörf dersleri"
+   "rüzgâr sörfü yapmak",
+   "rüzgâr sörfü ekipmanı",
+   "rüzgâr sörfü dersleri"
   ],
   "tip": "windsurfing yelkenle rüzgârdan yararlanır, surfing ise dalgalarda kayar. Yapmak için go windsurfing kalıbı kullanılır.",
   "note": ""
@@ -233,11 +233,11 @@
    "Net sorumluluklar olmadan bir topluluk projesi hızla çıkmaza girebilir ve hem zamanı hem kaynakları boşa harcayabilir."
   ],
   "col": [
-   "karmaşa çıkarmak",
-   "karmaşanın içinde",
+   "ortalığı dağıtmak",
+   "perişan halde",
    "berbat etmek"
   ],
-  "tip": "make a mess kalıbı 'karmaşa çıkarmak' anlamındadır. mess up gayriresmî bir ifadedir ve 'dağıtmak' ya da 'berbat etmek' anlamına gelir.",
+  "tip": "make a mess 'ortalığı dağıtmak' demektir. mess up gayriresmîdir: 'dağıtmak' ya da 'berbat etmek'.",
   "note": ""
  },
  {
@@ -257,7 +257,7 @@
    "düz zemin",
    "fırsatları eşitlemek"
   ],
-  "tip": "Düzeyi belirtmek için at a level, nitelik ya da miktar için a high level of gibi kalıplar kullanılır. Edatlara dikkat edin.",
+  "tip": "Düzey için at a level kullanılır (at a high level); on the same level aynı kat ya da aynı düzey demektir.",
   "note": ""
  },
  {
@@ -272,7 +272,7 @@
   "col": [
    "kısa bir süre sonra",
    "hemen ardından",
-   "az sonra"
+   "hemen sonra"
   ],
   "tip": "Zarf olarak kullanılır ve doğrudan nesne almaz; after ise edat olarak nesne alabilir (after dinner).",
   "note": ""

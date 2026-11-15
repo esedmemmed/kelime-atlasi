@@ -7,7 +7,7 @@
    "madalya; nişan"
   ],
   "ex": [
-   "Mutfak masasının üzerine parlak renkli bir kağıt süs astı.",
+   "Mutfak masasının üzerine parlak renkli bir kâğıt süs astı.",
    "Halk kütüphanelerinin dekorasyonu, sakinleri daha fazla okumaya teşvik eden davetkâr alanlar yaratabilir."
   ],
   "col": [
@@ -169,7 +169,7 @@
    "ayrıntılı incelemek; çözümlemek"
   ],
   "ex": [
-   "Valizimi açtım ve gömleklerimi askıya astım.",
+   "Valizimi boşalttım ve gömleklerimi askıya astım.",
    "Öğretmenler, her iddianın arkasındaki kanıtları ve varsayımları inceleyerek öğrencilerin karmaşık argümanları çözümlemesine yardımcı olabilir."
   ],
   "col": [
@@ -238,17 +238,17 @@
  {
   "id": "heel",
   "senses": [
-   "ayak topuğu",
+   "topuk",
    "ayakkabı topuğu"
   ],
   "ex": [
-   "Bu yeni ayakkabılar sol topuğumu sürtüyor.",
+   "Bu yeni ayakkabılar sol topuğuma sürtüyor.",
    "Topuğu iyi destekleyen ayakkabılar, uzun süre ayakta duran insanların rahatlığını artırabilir."
   ],
   "col": [
    "topuk ağrısı",
-   "yüksek topuklu",
-   "alçak topuklu"
+   "yüksek topuklu ayakkabı",
+   "alçak topuklu ayakkabı"
   ],
   "tip": "Heel topuk anlamındadır; heal ise iyileşmek demektir. Telaffuzu aynı olduğu için yazımda karıştırılabilir.",
   "note": ""

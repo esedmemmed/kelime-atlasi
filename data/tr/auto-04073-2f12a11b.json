@@ -6,11 +6,11 @@
    "övgü; takdir"
   ],
   "ex": [
-   "Antrenörümüz yeni oyuncuların takımına yardım ettikleri için bizi övdü.",
-   "Yeteneğin yerine çabayı öven öğretmenler, öğrencilerin akademik zorluklar karşısında pes etmeden devam etmelerini sağlayabilir."
+   "Antrenörümüz yeni oyunculara yardım ettiğimiz için bizi övdü.",
+   "Doğuştan yetenek yerine çabayı öven öğretmenler, öğrencilerin akademik zorluklar karşısında pes etmeden devam etmelerini sağlayabilir."
   ],
   "col": [
-   "birinin bir şey için övülmesi",
+   "birini bir şey için övmek",
    "övgü kazanmak",
    "büyük övgü",
    "bol bol övmek"
@@ -58,19 +58,19 @@
  {
   "id": "arch",
   "senses": [
-   "kemer; takı; kubbe",
-   "kemerleşmek; eğilmek"
+   "kemer; kemerli yapı",
+   "kavislenmek; bükülmek"
   ],
   "ex": [
-   "Yağmurdan taş bir kemerin altında sığındık.",
+   "Yağmurdan korunmak için taş bir kemerin altına sığındık.",
    "Geleneksel köprüler çoğunlukla ağırlığı dağıtmak ve teknelerin altından geçmesine izin vermek için merkezi bir kemer kullanır."
   ],
   "col": [
    "taş kemer",
    "kemerli köprü",
-   "sırtını kemerleştirmek"
+   "sırtını bükmek"
   ],
-  "tip": "Fiil olarak 'arch your back' gibi kullanılır ve 'bir şeyi kemer şekline sokmak' anlamına gelir.",
+  "tip": "Fiil olarak sırt gibi bir şeyi kavisli bükmek anlamında kullanılır: arch your back.",
   "note": ""
  },
  {
@@ -78,7 +78,7 @@
   "senses": [
    "olası etki; sonuç",
    "ima; dolaylı anlam",
-   "suç ortaklığı; karışma"
+   "karışma; bulaşma"
   ],
   "ex": [
    "Bir köpek yavrusu almanın mali sonuçlarını konuştuk.",
@@ -106,7 +106,7 @@
    "maliyeti üç katına çıkarmak",
    "üç kişilik oda",
    "boyutunu üç katına çıkarmak",
-   "üçlü cam"
+   "üç katlı cam"
   ],
   "tip": "Triple 'üç katına çıkmak' anlamına gelir, yani iki katı artış değil, toplamda üç katı olmasıdır.",
   "note": ""
@@ -196,7 +196,7 @@
   "col": [
    "diş çürüğü",
    "kentsel çöküş",
-   "çürümüş bitki örtüsü",
+   "çürüyen bitki örtüsü",
    "çürümeyi önlemek"
   ],
   "tip": "İsim olarak genellikle sayılamaz. 'Tooth decay' diş çürüğü anlamına gelir, dişin dökülmesi değil.",
@@ -207,7 +207,7 @@
   "senses": [
    "bakım; onarım",
    "sürdürme; koruma",
-   "nafaka; yardım parası"
+   "nafaka"
   ],
   "ex": [
    "Düzenli bakım, eski bisikletimin binmek için güvenli kalmasını sağlıyor.",
@@ -251,7 +251,7 @@
   ],
   "col": [
    "ruhsal iyi oluş",
-   "dini inançlar",
+   "manevi inançlar",
    "ruhsal gelişim"
   ],
   "tip": "Sadece dini anlamda değil, iç dünya ve manevi değerler için de kullanılabilir.",

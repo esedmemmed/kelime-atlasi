@@ -11,7 +11,7 @@
    "Gelişen internet erişimi, kırsal bölgelerdeki öğrencilerin daha geniş bir eğitim kaynağı yelpazesinden yararlanmasını sağlıyor."
   ],
   "col": [
-   "yolun karşısı",
+   "yolun karşısında",
    "ülke genelinde",
    "köprüden karşıya geçmek"
   ],
@@ -145,7 +145,7 @@
    "formda kalmak",
    "tam oturmak",
    "bir amaca uygun",
-   "ile uyum sağlamak"
+   "uyum sağlamak"
   ],
   "tip": "Giysi için fit, ölçünün uygun olduğunu anlatır; suit ise model veya renk açısından yakışmayı anlatır.",
   "note": ""
@@ -210,7 +210,7 @@
   "id": "amount",
   "senses": [
    "miktar",
-   "toplam tutmak; denk gelmek"
+   "tutmak; ulaşmak"
   ],
   "ex": [
    "Kaseye küçük bir miktar süt ekleyin.",
@@ -219,7 +219,7 @@
   "col": [
    "çok miktarda",
    "toplam miktar",
-   "tutarında olmak"
+   "toplamda ... tutmak"
   ],
   "tip": "amount of ardından sayılamayan isim gelir; fiil olarak genellikle amount to kullanılır.",
   "note": ""

@@ -20,7 +20,7 @@
   "id": "brand",
   "senses": [
    "marka",
-   "kötü damgalamak; etiketlemek"
+   "damgalamak; yaftalamak"
   ],
   "ex": [
    "Genellikle hangi marka diş macunu alırsın?",
@@ -112,7 +112,7 @@
   "id": "tongue",
   "senses": [
    "dil",
-   "dil; lisan"
+   "dil; konuşulan dil"
   ],
   "ex": [
    "Sıcak çorbadan dilimi yaktım.",
@@ -122,7 +122,7 @@
    "ana dil",
    "dilini çıkarmak",
    "dilini ısırmak; sözünü yutmak",
-   "aklının ucunda olmak"
+   "dilinin ucunda olmak"
   ],
   "tip": "'Tongue' organ anlamında 'dil' demektir; dil/lisan anlamı genellikle 'mother tongue' gibi kalıplarda görülür.",
   "note": ""
@@ -153,7 +153,7 @@
    "tramvay"
   ],
   "ex": [
-   "Kasaya doğru market poşetleriyle dolu bir arabayı itti.",
+   "Kasaya doğru yiyecek alışverişiyle dolu bir arabayı itti.",
    "Havalimanları, aileler ve yaşlı yolcular için yolculuğu kolaylaştırmak adına bagaj arabalarını ücretsiz sunmalıdır."
   ],
   "col": [
@@ -217,7 +217,7 @@
   "col": [
    "gömülü hazine",
    "ulusal hazine",
-   "anıları değerlendirmek",
+   "anılara değer vermek",
    "define avı"
   ],
   "tip": "Genel olarak hazine anlamında sayılamaz; belirli bir değerli nesneden söz edilirken sayılabilir olarak kullanılır.",
@@ -230,8 +230,8 @@
    "pişmanlık; üzüntü"
   ],
   "ex": [
-   "Bu sabah şemsiyemi evde unuttuğum için üzgünüm.",
-   "Mezunlar, iş yalnızca az kişisel tatmin sağlıyorsa, sadece maaşı için bir meslek seçtiklerine pişman olabilirler."
+   "Bu sabah şemsiyemi evde bıraktığım için pişmanım.",
+   "Mezunlar, iş çok az kişisel tatmin sağlıyorsa, bir mesleği yalnızca maaşı için seçtikleri için pişman olabilir."
   ],
   "col": [
    "bir şey yaptığına pişman olmak",
@@ -254,7 +254,7 @@
   ],
   "col": [
    "kazak örmek",
-   "sıkı bağlanmak",
+   "sıkıca kenetlenmek",
    "kaşlarını çatmak"
   ],
   "tip": "'K' harfi okunmaz; geçmiş zaman ve ortaç için hem 'knitted' hem 'knit' kullanılabilir.",
@@ -265,7 +265,7 @@
   "senses": [
    "palyaço",
    "şaka yapan kişi; soytarı",
-   "şakalaşmak; palavra atmak"
+   "maskaralık yapmak"
   ],
   "ex": [
    "Palyaço balondan küçük bir köpek yaptı.",
@@ -274,7 +274,7 @@
   "col": [
    "sirk palyaçosu",
    "sınıfın şakacısı",
-   "etrafta palyaçoluk yapmak"
+   "maskaralık yapmak"
   ],
   "tip": "'Clown around' eğlenmek için aptalca davranmak anlamındadır; birine 'clown' demek bazen küçümseyici olabilir.",
   "note": ""

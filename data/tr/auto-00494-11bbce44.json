@@ -4,7 +4,7 @@
   "senses": [
    "yanlış; uygunsuz",
    "ahlaka aykırı; haksız",
-   "yanlış olarak; hatalı biçimde"
+   "yanlış; ters"
   ],
   "ex": [
    "Yanlış otobüse bindim ve sonunda havaalanının yakınında indim.",
@@ -45,12 +45,12 @@
   ],
   "ex": [
    "Amcam bana bisiklet tamir etmeyi öğretti.",
-   "Ebeveynler iş yükü nedeniyle meşgulken bir dayı ya da teyze değerli duygusal destek sağlayabilir."
+   "Ebeveynler iş yükü nedeniyle meşgulken amca, dayı, hala ya da teyze değerli duygusal destek sağlayabilir."
   ],
   "col": [
    "anne tarafından dayı",
    "baba tarafından amca",
-   "amca ve teyze"
+   "amca ve hala"
   ],
   "tip": "İngilizcede uncle hem amcayı hem dayıyı hem de enişteyi kapsar. Ayrımı yapmak için maternal (anne tarafı) veya paternal (baba tarafı) eklenir.",
   "note": ""
@@ -80,7 +80,7 @@
   "senses": [
    "konuşmak; görüşmek",
    "konuşabilmek; bilmek",
-   "konuşma yapmak; seslenmek"
+   "konuşma yapmak; hitap etmek"
   ],
   "ex": [
    "Dersten sonra sizinle konuşabilir miyim?",
@@ -88,7 +88,7 @@
   ],
   "col": [
    "akıcı konuşmak",
-   "halk önünde konuşmak",
+   "topluluk önünde konuşmak",
    "biriyle konuşmak",
    "sesini çıkarmak"
   ],
@@ -109,7 +109,7 @@
   "col": [
    "yüksek sesle okumak",
    "harita okumak",
-   "geniş çapta okumak"
+   "geniş yelpazede okumak"
   ],
   "tip": "Yazımı değişmez ama telaffuzu değişir: şimdiki zaman /riːd/, geçmiş zaman /red/. Zamanı cümlenin bağlamından anlamak gerekir.",
   "note": ""
@@ -219,7 +219,7 @@
   ],
   "col": [
    "selam vermek",
-   "merhaba dostum",
+   "merhaba; selam",
    "sıcak bir selamlaşma"
   ],
   "tip": "Telefonda alo anlamında kullanılır. say hello to kalıbı ise birine selam söylemek anlamındadır: say hello to your mum.",

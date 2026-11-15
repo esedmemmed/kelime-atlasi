@@ -12,7 +12,7 @@
   "col": [
    "sinemaya gitmek",
    "bir sinema bileti",
-   "dünya sinemasi",
+   "dünya sineması",
    "bağımsız sinema"
   ],
   "tip": "İngiliz İngilizcesinde go to the cinema, Amerikan İngilizcesinde go to the movies daha yaygındır. Sınavda ikisi de kabul edilir.",
@@ -50,7 +50,7 @@
    "üniversiteye gitmek",
    "üniversite diploması",
    "üniversite kampüsü",
-   "üniversite harç ücretleri"
+   "üniversite harçları"
   ],
   "tip": "University /j/ sesiyle başladığı için a university denir, an denmez. Üniversitede olmak için at university kullanılır.",
   "note": ""
@@ -102,7 +102,7 @@
   ],
   "ex": [
    "En sevdiğim çoraplardan birinde küçük bir delik var.",
-   "Güvenlik çitindeki bir açığın fark edilmesi, sakinleri acil onarım talep etmeye yöneltti."
+   "Güvenlik çitinde bir delik fark edilmesi, sakinleri acil onarım talep etmeye yöneltti."
   ],
   "col": [
    "çukur kazmak",
@@ -148,7 +148,7 @@
    "rol model",
    "moda mankeni"
   ],
-  "tip": "model hem isim hem fiil olarak kullanılır. Türkçedeki 'model' kelimesinin 'manken' anlamı da olduğunu unutmayın.",
+  "tip": "model fiil olarak da kullanılır: model a house (evin modelini yapmak); model clothes (kıyafet tanıtmak).",
   "note": ""
  },
  {
@@ -174,7 +174,7 @@
   "id": "armchair",
   "senses": [
    "koltuk",
-   "deneyimsiz; kuramsal"
+   "masa başı; kuramsal"
   ],
   "ex": [
    "Büyükbabam pencere kenarındaki koltuğunda uyuyakaldı.",
@@ -210,7 +210,7 @@
  {
   "id": "store",
   "senses": [
-   "mağaza; dükkan",
+   "mağaza; dükkân",
    "saklamak; depolamak",
    "stok; birikim"
   ],
@@ -239,7 +239,7 @@
    "Evsel atıkları azaltmak için hem kolay geri dönüşüm tesisleri hem de sorumlu tüketim konusunda daha fazla farkındalık gerekir."
   ],
   "col": [
-   "zaman harcamak",
+   "zamanı boşa harcamak",
    "para israfı",
    "evsel atık",
    "gıda israfı"

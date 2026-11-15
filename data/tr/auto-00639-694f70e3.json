@@ -104,7 +104,7 @@
   "col": [
    "caddeyi geçmek",
    "kalabalık cadde",
-   "yerleşim caddesi",
+   "mahalle sokağı",
    "cadde aydınlatması"
   ],
   "tip": "Street, iki yanı binalarla çevrili kentsel yolu anlatır; kırsal yollar için road daha uygundur.",
@@ -169,7 +169,7 @@
   "id": "ice",
   "senses": [
    "buz",
-   "şekerle kaplamak"
+   "krema ile kaplamak"
   ],
   "ex": [
    "İçeceğine birkaç küp buz attı.",
@@ -179,7 +179,7 @@
    "buz küpü",
    "deniz buzu",
    "buzu eritmek",
-   "pastayı şekerle kaplamak"
+   "pastayı kremayla kaplamak"
   ],
   "tip": "Buz genel anlamda sayılamaz (some ice). Bir parça buz için an ice cube ya da a piece of ice denir.",
   "note": ""
@@ -229,7 +229,7 @@
   ],
   "ex": [
    "Küçük erkek kardeşim bu sabah bisikletimi ödünç aldı.",
-   "Büyük kardeşler, evde çocuklarla düzenli kitap okuyarak küçük kardeşlerinin öğrenmesine destek olabilir."
+   "Ağabeyler ve ablalar, evde küçük kardeşleriyle düzenli kitap okuyarak onların öğrenmesine destek olabilir."
   ],
   "col": [
    "büyük erkek kardeş",
@@ -250,10 +250,10 @@
    "Dağlık topluluklar, sarp arazi yol yapımını zorlaştırdığı için genellikle daha yüksek ulaşım maliyetleriyle karşılaşır."
   ],
   "col": [
-   "dağ sırası",
+   "dağ silsilesi",
    "dağ zirvesi",
    "dağa tırmanmak",
-   "bir sürü iş"
+   "iş yığını"
   ],
   "tip": "Tek bir dağ mountain, dağ sırası mountain range denir. Çok miktar için a mountain of work gibi mecazi kullanılır.",
   "note": ""
@@ -266,7 +266,7 @@
   ],
   "ex": [
    "Yeni sırt çantam eskisinden daha hafif.",
-   "Kalabalık şehirlerde ek yollar inşa etmek yerine toplu taşımaya yatırım yapmak daha etkili olabilir."
+   "Kalabalık şehirlerde toplu taşımaya yatırım yapmak, ek yollar inşa etmekten daha etkili olabilir."
   ],
   "col": [
    "-den fazla",

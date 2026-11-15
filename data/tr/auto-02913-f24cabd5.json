@@ -74,7 +74,7 @@
    "maliyetleri denetim altında tutmak",
    "heyecanını bastırmak"
   ],
-  "tip": "Geçişli bir fiildir; nesnesini doğrudan alır. 'contain of' gibi bir edat kullanılmaz.",
+  "tip": "Geçişli fiildir, nesneyi doğrudan alır (contain of denmez). 'İçermek' anlamında genellikle -ing biçiminde kullanılmaz.",
   "note": ""
  },
  {
@@ -87,7 +87,7 @@
    "Sınıfların daha fazla gün ışığı alacak şekilde tasarlanması elektrik kullanımını azaltabilir ve daha rahat bir öğrenme ortamı yaratabilir."
   ],
   "col": [
-   "gün ortasında; herkesin önünde",
+   "güpegündüz",
    "gündüz saatleri",
    "doğal gün ışığı"
   ],
@@ -181,7 +181,7 @@
   "col": [
    "gümrüksüz mağaza",
    "gümrüksüz ürünler",
-   "gümrüksüz muafiyet hakkı"
+   "gümrüksüz eşya kotası"
   ],
   "tip": "Duty burada gümrük vergisi anlamındadır. Gümrüksüz ürünler yine de yolcu başına giriş limitlerine tabidir.",
   "note": ""
@@ -242,7 +242,7 @@
   "id": "licence",
   "senses": [
    "ruhsat; lisans",
-   "izinli sapma; serbestlik"
+   "serbestlik; özgürlük"
   ],
   "ex": [
    "Sürücü belgemi cüzdanımda taşıyorum.",

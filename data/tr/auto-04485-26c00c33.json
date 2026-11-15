@@ -31,7 +31,7 @@
   "col": [
    "temsil edici örneklem",
    "satış temsilcisi",
-   "...in temsil eden",
+   "...i temsil eden",
    "seçilmiş temsilci"
   ],
   "tip": "Sıfat olarak genellikle of ile kullanılır: representative of a group. İsim olarak 'temsilci' anlamına gelir; representation ise 'temsil' demektir.",
@@ -48,7 +48,7 @@
   ],
   "col": [
    "görünüşte imkânsız",
-   "görünüşte bitmez",
+   "görünüşte sonsuz",
    "görünüşte zararsız"
   ],
   "tip": "Genellikle sıfatların önünde kullanılır: seemingly endless. Bir şeyin görünüşte öyle olduğunu, gerçekte farklı olabileceğini belirtir.",
@@ -93,11 +93,11 @@
   "senses": [
    "ilk; başlangıç",
    "baş harf",
-   "baş harflerini atmak"
+   "paraflamak"
   ],
   "ex": [
    "Fiyatı görünce ilk heyecanım geçti.",
-   "Güneş panellerinin ilk maliyeti yüksek olsa da hane halkları uzun vadede para tasarruf edebilir."
+   "Güneş panellerinin ilk maliyeti yüksek olsa da hane halkları uzun vadede tasarruf edebilir."
   ],
   "col": [
    "ilk tepki",
@@ -235,7 +235,7 @@
   "id": "peculiar",
   "senses": [
    "tuhaf; garip",
-   "özgü; belirli"
+   "özgü; has"
   ],
   "ex": [
    "Merdivenin altındaki dolaptan tuhaf bir koku geliyordu.",

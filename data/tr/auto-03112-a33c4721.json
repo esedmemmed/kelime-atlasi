@@ -3,8 +3,8 @@
   "id": "hunger",
   "senses": [
    "açlık; yiyecek yokluğu",
-   "özlem; istek",
-   "özlemek; çok istemek"
+   "tutku; istek",
+   "can atmak; çok istemek"
   ],
   "ex": [
    "Sıcak bir kase çorba açlığımı hemen giderdi.",
@@ -14,7 +14,7 @@
    "açlığını gidermek",
    "açlıkla mücadele etmek",
    "bilgi açlığı",
-   "başarıya duyulan susamışlık"
+   "başarı açlığı"
   ],
   "tip": "İsim olarak genellikle sayılamaz. Bir şeye duyulan özlemi anlatırken hunger for kalıbı kullanılır.",
   "note": ""
@@ -44,7 +44,7 @@
    "kilitli dolap; emanet dolabı"
   ],
   "ex": [
-   "Spor salonunda ayakkabılarımı bir dolapta bırakmıştım.",
+   "Spor ayakkabılarımı spor salonundaki bir dolapta bıraktım.",
    "Her öğrenciye bir dolap verilmesi, okulda taşınan çantaların ağırlığını azaltabilir."
   ],
   "col": [
@@ -103,10 +103,10 @@
    "Öğretmenler, sınıf tartışmasından önce karmaşık bilimsel kavramları tanıtmak için kısa bir video klip kullanabilir."
   ],
   "col": [
-   "kağıt klipsi",
+   "ataç",
    "video klip",
    "tırnaklarını kesmek",
-   "bir şeyi üzerine klipslemek"
+   "bir şeyi klipsle bir yere takmak"
   ],
   "tip": "Bir şeyi başka bir şeyin üzerine takmak için clip onto kullanılır. Kısa video parçası için de clip denir.",
   "note": ""
@@ -206,7 +206,7 @@
   "senses": [
    "sunum; anlatım",
    "sunuş; görünüm",
-   "takdim; ödül töreni"
+   "takdim; teslim"
   ],
   "ex": [
    "Kız kardeşimin önünde sunumumu prova ettim.",
@@ -235,7 +235,7 @@
    "hız sınırı",
    "zaman sınırı",
    "sınır koymak",
-   "bir şeyi ile sınırlamak"
+   "bir şeyi ... ile sınırlamak"
   ],
   "tip": "Limit A to B kalıbı 'A'yı B ile sınırlamak' anlamına gelir.",
   "note": ""
@@ -243,7 +243,7 @@
  {
   "id": "striped",
   "senses": [
-   "çizgili; çizgili desenli"
+   "çizgili; çubuklu"
   ],
   "ex": [
    "Kız çizgili bir gömlek ve koyu mavi bir kot giymişti.",

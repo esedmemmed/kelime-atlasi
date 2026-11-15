@@ -25,7 +25,7 @@
    "toplanmak; kümelenmek"
   ],
   "ex": [
-   "Mutfak masası için bana bir demet çiçek getirdi.",
+   "Mutfak masası için bir demet çiçek getirdi.",
    "Yolcular tren kapılarının yanında toplanınca binmek hem yavaşlıyor hem de herkes için daha rahatsız oluyor."
   ],
   "col": [
@@ -126,7 +126,7 @@
  {
   "id": "outdoor",
   "senses": [
-   "açık havada; dış mekân"
+   "açık hava; dış mekân"
   ],
   "ex": [
    "Açık hava yemek alanımız için rahat sandalyeler aldık.",
@@ -135,8 +135,8 @@
   "col": [
    "açık hava etkinlikleri",
    "açık hava sporları",
-   "açık hava yüzme havuzu",
-   "outdoor giyim; kıyafet"
+   "açık yüzme havuzu",
+   "açık hava giyimi"
   ],
   "tip": "Outdoor sıfattır; 'dışarıda' anlamında zarf olarak outdoors kullanılır.",
   "note": ""
@@ -179,7 +179,7 @@
  {
   "id": "term",
   "senses": [
-   "terim; deyim",
+   "terim; ifade",
    "dönem; yarıyıl",
    "süre; dönem"
   ],
@@ -217,7 +217,7 @@
  {
   "id": "wage",
   "senses": [
-   "ücret; yevmiye",
+   "ücret; kazanç",
    "yürütmek; sürdürmek"
   ],
   "ex": [

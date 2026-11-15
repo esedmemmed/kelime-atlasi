@@ -6,7 +6,7 @@
   ],
   "ex": [
    "Satıcı bisikletin durumu hakkında beni kandırdı.",
-   "Yanıltıcı reklamlar, sağlığa pek faydası olmayan ürünleri satın almaya tüketicileri aldatabilir."
+   "Yanıltıcı reklamlar, tüketicileri sağlığa pek faydası olmayan ürünleri satın almaya kandırabilir."
   ],
   "col": [
    "birini bir şeyi yapmaya kandırmak",
@@ -64,7 +64,7 @@
    "Dakik çalışanlar, toplantıların ve günlük işlerin zamanında başlamasını sağlayarak kuruluşların verimli çalışmasına yardımcı olur."
   ],
   "col": [
-   "toplantıya zamanında olmak",
+   "...için dakik olmak",
    "zamanında varış",
    "dakik hizmet"
   ],
@@ -85,7 +85,7 @@
   "col": [
    "çadır kazığı",
    "çamaşır mandalı",
-   "bir para birimini bağlamak"
+   "para birimini ...e endekslemek"
   ],
   "tip": "Fiil kalıbı: peg A to B (A'yı B'ye bağlamak). Amerikan İngilizcesinde çamaşır mandalı clothespin olarak da geçer.",
   "note": ""
@@ -177,8 +177,8 @@
    "Kentsel nüfus hızla artıyor; dolayısıyla hükümetlerin güvenilir toplu taşımaya daha fazla yatırım yapması gerekiyor."
   ],
   "col": [
-   "bu yüzden ... gerekliliği",
-   "bunun için ... önemi",
+   "bu nedenle ...a duyulan ihtiyaç",
+   "bu nedenle ...ın önemi",
    "yıllar sonra"
   ],
   "tip": "Resmî bir kelimedir; therefore gibi kullanılır. years hence gibi kalıplarda “şimdiden sonra” anlamı taşır.",
@@ -209,7 +209,7 @@
   ],
   "ex": [
    "Bu sürekli gecikmeler otobüs bekleyen herkesi sinirlendiriyor.",
-   "Karmaşık başvuru süreçleri, işlerini genişletmek için finansal desteğe ihtiyaç duyan küçük işletme sahiplerini engelleyebilir."
+   "Karmaşık başvuru süreçleri, işlerini genişletmek için finansal desteğe ihtiyaç duyan küçük işletme sahiplerini bezdirebilir."
   ],
   "col": [
    "çabaları boşa çıkarmak",

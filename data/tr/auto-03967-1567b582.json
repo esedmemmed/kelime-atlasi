@@ -95,18 +95,18 @@
  {
   "id": "cheeky",
   "senses": [
-   "küstah; yüzsüz"
+   "arsız; pişkin"
   ],
   "ex": [
    "Çocuk haylaz bir gülümsemeyle bir bisküvi daha aldı.",
-   "Reklamlar dikkat çekmek için bazen şakacı bir küstahlık kullanır; ancak izleyiciler neyi kabul edilebilir bulduğu konusunda farklılık gösterebilir."
+   "Reklamlar dikkat çekmek için bazen arsız bir mizah kullanır; ancak izleyiciler neyi kabul edilebilir bulduğu konusunda farklılık gösterebilir."
   ],
   "col": [
    "haylaz bir gülümseme",
-   "küstah bir yorum",
+   "arsız bir yorum",
    "pişkin bir istek"
   ],
-  "tip": "Hafif küstahlığı ve haşarılığı anlatır, şişman anlamına gelmez; şişman için chubby kullanılır.",
+  "tip": "Hafif arsız ve haşarı tavrı anlatır; tombul demek değildir, tombul için chubby kullanılır.",
   "note": ""
  },
  {
@@ -130,12 +130,12 @@
  {
   "id": "master",
   "senses": [
-   "ustalaşmak; hakim olmak",
+   "ustalaşmak; iyice öğrenmek",
    "usta; uzman",
    "ana; genel"
   ],
   "ex": [
-   "Haftalarca pratik yaptıktan sonra Hana sonunda dansa hakim oldu.",
+   "Haftalarca pratik yaptıktan sonra Hana dansı sonunda tamamen öğrendi.",
    "Öğrencilerin, sınavlar için bilgiyi ezberlemek yerine pratik becerilerde ustalaşmaları için fırsatlara ihtiyacı var."
   ],
   "col": [
@@ -180,7 +180,7 @@
    "polar ceket",
    "sentetik polar"
   ],
-  "tip": "Kumaş anlamında genellikle sayılamaz; a fleece ise bir polar ceketi ya da üstlüğü ifade edebilir.",
+  "tip": "Kumaş anlamında genellikle sayılamaz; a fleece ise bir polar ceketi (polar) ifade edebilir.",
   "note": ""
  },
  {
@@ -226,7 +226,7 @@
   "id": "outlet",
   "senses": [
    "satış noktası; mağaza",
-   "dışa vurum; kanal",
+   "çıkış yolu; ifade yolu",
    "çıkış; tahliye ağzı"
   ],
   "ex": [
@@ -235,9 +235,9 @@
   ],
   "col": [
    "perakende satış noktası",
-   "yaratıcı dışa vurum kanalı",
-   "hayal kırıklığını dışa vurma",
-   "su tahliye çıkışı"
+   "yaratıcılık için çıkış yolu",
+   "hayal kırıklığı için çıkış yolu",
+   "su tahliye ağzı"
   ],
   "tip": "outlet for kalıbı bir duyguyu ya da enerjiyi dışa vurma kanalı anlamında sık kullanılır; ABD İngilizcesinde elektrik prizi anlamına da gelir.",
   "note": ""
@@ -256,7 +256,7 @@
   "col": [
    "kamera aksesuarları",
    "moda aksesuarları",
-   "bir suçun suç ortağı"
+   "suça iştirak eden kişi"
   ],
   "tip": "Genellikle çoğul accessories biçiminde kullanılır; suç ortağı anlamında çoğunlukla to ile birlikte gelir.",
   "note": ""
@@ -272,8 +272,8 @@
    "Olumlu tanıtım, daha az bilinen destinasyonlara ziyaretçi çekebilir ve yerel halk için istihdam fırsatları yaratabilir."
   ],
   "col": [
-   "olumlu ilgi",
-   "olumsuz ilgi",
+   "olumlu tanıtım",
+   "olumsuz tanıtım",
    "ilgi yaratmak",
    "tanıtım kampanyası"
   ],

@@ -11,7 +11,7 @@
   "col": [
    "kendime ait; kendi",
    "bence; bana göre",
-   "beni şaşırtan şekilde"
+   "şaşırtıcı biçimde"
   ],
   "tip": "my'dan sonra mutlaka isim gelir: my book. Tek başına \"benimki\" için mine kullanılır.",
   "note": ""
@@ -105,7 +105,7 @@
   ],
   "col": [
    "dünyanın dört bir yanında",
-   "köşede; kapıda (yakında)",
+   "çok yakında",
    "etrafa bakmak",
    "öğle saatlerinde"
   ],
@@ -158,13 +158,13 @@
    "büyükanne ya da büyükbaba"
   ],
   "ex": [
-   "Büyükannelerimiz ve büyükbabalarımız pikniğe birer ev yemeği getirdi.",
+   "Büyükanne ve büyükbabalarımızın her biri pikniğimize ev yapımı bir yemek getirdi.",
    "Anne ve baba ev dışında çalıştığında büyükanne ya da büyükbaba değerli bir duygusal destek sağlayabilir."
   ],
   "col": [
    "büyükanne-büyükbabalar ve torunlar",
    "büyükanne ve büyükbabanı ziyaret etmek",
-   "anneanne ve dede (anne tarafı)"
+   "anne tarafından büyükanne ve büyükbaba"
   ],
   "tip": "Tekil hâli tek bir büyük ebeveyni anlatır; grandparents hem anne hem baba tarafını kapsar.",
   "note": ""
@@ -196,7 +196,7 @@
    "sonuna kadar (açık)"
   ],
   "ex": [
-   "Kanepe bu geniş kapıdan bile sığmayacak.",
+   "Kanepe bu geniş kapıdan geçmeyecek.",
    "Üniversiteler öğrencilerin farklı ilgi alanlarına ve kariyer hedeflerine hitap eden çok çeşitli dersler sunmalı."
   ],
   "col": [
@@ -557,7 +557,7 @@
    "hikâye anlatmak",
    "doğruyu söylemek",
    "birine bir şey yapmasını söylemek",
-   "farkı anlamak"
+   "farkı ayırt etmek"
   ],
   "tip": "tell doğrudan kişi alır (tell me); say kişi alırsa to gerekir (say to me).",
   "note": ""
@@ -567,7 +567,7 @@
   "senses": [
    "kurs; ders",
    "rota; gidişat",
-   "yemek (servis sırası)"
+   "yemek çeşidi"
   ],
   "ex": [
    "Toplum merkezinde bir yemek kursuna yazıldım.",
@@ -622,7 +622,7 @@
  {
   "id": "wife",
   "senses": [
-   "karı; eş (kadın)"
+   "eş; hanım"
   ],
   "ex": [
    "Karısı öğleden sonraki yürüyüşleri için sandviç hazırladı.",
@@ -668,7 +668,7 @@
   ],
   "col": [
    "işe arabayla gitmek",
-   "ekonomik büyümeyi sağlamak",
+   "ekonomik büyümeyi tetiklemek",
    "arabayla gezmeye çıkmak",
    "sabit disk"
   ],
@@ -678,7 +678,7 @@
  {
   "id": "face",
   "senses": [
-   "yüz; surat",
+   "yüz",
    "karşı karşıya kalmak; yüzleşmek",
    "-e bakmak; yönelmek"
   ],
@@ -706,7 +706,7 @@
   ],
   "col": [
    "ilkokul öğretmeni",
-   "yetkin öğretmen",
+   "nitelikli öğretmen",
    "öğretmen eğitimi"
   ],
   "tip": "İngilizcede öğretmene \"Teacher!\" diye seslenilmez; Mr/Ms + soyadı kullanılır. Türkçedeki \"Hocam\" alışkanlığına dikkat.",
@@ -856,7 +856,7 @@
   ],
   "col": [
    "kilo vermek",
-   "iletişimi kaybetmek",
+   "irtibatı kaybetmek",
    "maçı kaybetmek",
    "sinirlenmek; kendini kaybetmek"
   ],

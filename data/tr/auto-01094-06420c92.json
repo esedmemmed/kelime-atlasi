@@ -46,10 +46,10 @@
    "Okullar, öğrencilerin yalnızca gelecekteki kazançlara odaklanmak yerine ilgi alanlarına uygun dersleri seçmelerine yardımcı olmalıdır."
   ],
   "col": [
-   "kazanan seçmek",
+   "kazananı seçmek",
    "meyve toplamak",
    "dikkatle seçmek",
-   "istediğini seç"
+   "istediğini seçmek"
   ],
   "tip": "Meyve veya çiçek koparmak için pick kullanılır; yerden bir şey almak için ise pick up gerekir.",
   "note": ""
@@ -80,7 +80,7 @@
    "ayin"
   ],
   "ex": [
-   "Kafedeki samimi hizmet bizi kendimizi evimizdeymiş gibi hissettirdi.",
+   "Kafedeki samimi hizmet, kendimizi hoş karşılanmış hissetmemizi sağladı.",
    "Güvenilir otobüs hizmetleri, arabası olmayan sakinlerin hastanelere, okullara ve iş yerlerine ulaşmasını sağlar."
   ],
   "col": [
@@ -249,7 +249,7 @@
   "col": [
    "köpekbalığı yüzgeci",
    "balina köpekbalığı",
-   "köpekbalığı koruma",
+   "köpekbalıklarının korunması",
    "tefeci"
   ],
   "tip": "loan shark, bir balık türü değil, yüksek faizle borç veren kişi anlamına gelir.",

@@ -20,7 +20,7 @@
  {
   "id": "dictate",
   "senses": [
-   "yazdırmak; diktə etmek",
+   "yazdırmak; dikte etmek",
    "buyurmak; emretmek",
    "belirlemek; şekillendirmek"
   ],
@@ -33,7 +33,7 @@
    "koşulları dayatmak",
    "politika belirlemek"
   ],
-  "tip": "Dictate, birine yazdırmak anlamına gelir. 'Dikte yazmak' anlamında ise 'take dictation' kullanılır.",
+  "tip": "Dictate, birine yazdırmak (dikte etmek) demektir; dikte almak ise take dictation'dır.",
   "note": ""
  },
  {
@@ -67,7 +67,7 @@
    "Sağlık reformu, temel hizmetlere eşit erişimi sağlarken bekleme sürelerini azaltmaya odaklanmalıdır."
   ],
   "col": [
-   "eğitim sistemini reform etmek",
+   "eğitim sistemini ıslah etmek",
    "ekonomik reform",
    "reformlar yapmak",
    "köklü reformlar"
@@ -88,7 +88,7 @@
   ],
   "col": [
    "reçete yazmak",
-   "reçeteyi karşılamak",
+   "reçetedeki ilacı almak",
    "reçeteli ilaç",
    "başarı için bir reçete"
   ],
@@ -220,7 +220,7 @@
   ],
   "col": [
    "dolandırıcılık yapmak",
-   "kimlik hırsızlığı",
+   "kimlik sahtekârlığı",
    "sigorta dolandırıcılığı",
    "tam bir sahtekârlık"
   ],
@@ -250,7 +250,7 @@
   "id": "burrow",
   "senses": [
    "yuva; in",
-   "kazmak; girmek"
+   "oyuk kazmak; sokulmak"
   ],
   "ex": [
    "Bir tavşan çalının altındaki inine kayboldu.",
@@ -258,7 +258,7 @@
   ],
   "col": [
    "tavşan inı",
-   "toprağı kazmak",
+   "toprağa tünel kazmak",
    "battaniyenin altına girmek"
   ],
   "tip": "Burrow, hayvanların kazdığı yuva veya kazmak anlamına gelir; 'borrow' (ödünç almak) ile karıştırılmamalıdır.",

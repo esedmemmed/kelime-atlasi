@@ -32,7 +32,7 @@
   "col": [
    "kaslarını gevşetmek",
    "kısıtlamaları hafifletmek",
-   "rahat rahat oturup dinlenmek"
+   "arkana yaslanıp dinlenmek"
   ],
   "tip": "İnsan için 'rahatlamış' sıfatı relaxed, 'rahatlatıcı' şey için relaxing kullanılır.",
   "note": ""
@@ -95,15 +95,15 @@
  {
   "id": "daughter",
   "senses": [
-   "kız evlat"
+   "kız; kız çocuk"
   ],
   "ex": [
    "Kızları tüm aile için krep yaptı.",
    "Eğitime eşit erişim, kız ve erkek çocukların yeteneklerini geliştirmek için benzer fırsatlara sahip olmasını sağlar."
   ],
   "col": [
-   "en büyük kız evlat",
-   "genç bir kız",
+   "en büyük kız",
+   "ergen bir kız",
    "bir anne ve kızı"
   ],
   "tip": "daughter-in-law 'gelin' anlamına gelir, üvey kız değildir. Bunu karıştırmamaya dikkat edin.",
@@ -189,7 +189,7 @@
   ],
   "ex": [
    "Rehberimiz eski kalenin tarihini anlattı.",
-   "Tarih çalışmak, vatandaşların geçmişteki kararların modern toplumları ve kurumları nasıl şekillendirmeye devam ettiğini anlamasına yardımcı olur."
+   "Tarih öğrenmek, vatandaşların geçmişteki kararların modern toplumları ve kurumları nasıl şekillendirmeye devam ettiğini anlamasına yardımcı olur."
   ],
   "col": [
    "eski çağ tarihi",
@@ -250,7 +250,7 @@
   "col": [
    "ellerini yıkamak",
    "bulaşıkları yıkamak",
-   "su ile götürmek",
+   "sürükleyip götürmek",
    "bir kez yıkamak"
   ],
   "tip": "wash suyla yıkamayı vurgular; clean ise genel temizliği anlatır ve her zaman suyla yapılmak zorunda değildir.",
@@ -267,7 +267,7 @@
   ],
   "col": [
    "kanepede oturmak",
-   "kanepe yatak",
+   "yataklı kanepe",
    "deri kanepe"
   ],
   "tip": "Kanepede oturmak için on the sofa kullanılır, in değil.",

@@ -3,7 +3,7 @@
   "id": "antique",
   "senses": [
    "antika; eski eser",
-   "antika; değerli eski"
+   "antika; eski ve değerli"
   ],
   "ex": [
    "Küçük bir dükkânda güzel bir antika bulduk.",
@@ -12,7 +12,7 @@
   "col": [
    "antika dükkânı",
    "antika mobilya",
-   "antika tüccarı"
+   "antikacı"
   ],
   "tip": "Antique, sadece eski değil, yaşı, güzelliği veya nadirliği yüzünden değerli olan şey için kullanılır. Sıradan eski eşyaya \"old\" demek daha uygundur.",
   "note": ""
@@ -48,7 +48,7 @@
   "col": [
    "birden fazla neden",
    "çoktan seçmeli",
-   "çoklu kaynak",
+   "birden çok kaynak",
    "...in katı"
   ],
   "tip": "\"Çoklu/birden fazla\" anlamında genellikle çoğul isimleri niteler. Matematikte \"a multiple of\" bir sayının katı anlamına gelir.",
@@ -102,7 +102,7 @@
    "Tamamen turizme bağımlı olmak, aşırı hava olaylarına ve değişen seyahat alışkanlıklarına karşı savunmasız bölgeler için riskli bir girişimdir."
   ],
   "col": [
-   "...e bahis oynamak",
+   "üzerine bahis oynamak",
    "tasarrufları kumarda kaybetmek",
    "risk almak"
   ],
@@ -246,7 +246,7 @@
   "col": [
    "içi boş ağaç",
    "boş vaatler",
-   "boş bir ses",
+   "boğuk bir ses",
    "içini oymak"
   ],
   "tip": "Hollow içinin boş olduğunu, empty ise içinde bir şey bulunmadığını vurgular.",

@@ -40,7 +40,7 @@
    "son derece; çok"
   ],
   "ex": [
-   "Bisikleti yine çalındığında acı acı yakınmıştı.",
+   "Bisikleti yine çalındığında acı acı yakındı.",
    "Aşırı soğuk kışlarda yalıtımı zayıf evler enerji maliyetlerini artırır ve savunmasız sakinlerin sağlığını riske atar."
   ],
   "col": [
@@ -94,7 +94,7 @@
    "bambu"
   ],
   "ex": [
-   "Biraz mahremiyet için çitin yanına bambu diktı.",
+   "Biraz mahremiyet için çitin boyunca bambu dikti.",
    "Bambu hızlı büyür ve sorumlu yönetilen plantasyonlarda yenilenebilir bir yapı malzemesi sağlayabilir."
   ],
   "col": [
@@ -185,7 +185,7 @@
    "iğrendirmek; tiksindirmek"
   ],
   "ex": [
-   "Çürük meyveye bakınca burnunu kırıştırdı.",
+   "Çürük meyveye tiksintiyle bakıp burnunu kırıştırdı.",
    "Sakinler, evsel atıkların yerel nehrin kenarına kaçak olarak dökülmesinden duydukları tiksintiyi dile getirdi."
   ],
   "col": [
@@ -253,7 +253,7 @@
  {
   "id": "county",
   "senses": [
-   "ilçe; idari bölge"
+   "kontluk; ilçe"
   ],
   "ex": [
    "Büyükannem ve büyükbabam bu ilçenin sakin bir köyünde yaşıyor.",
@@ -264,7 +264,7 @@
    "ilçe merkezi",
    "ilçe sınırı"
   ],
-  "tip": "Anlamı ülkeye göre değişir. İngiltere'de bölge (shire benzeri), ABD'de ilçe anlamına gelir. Metindeki ülkeye bakın.",
+  "tip": "İngiltere'de kontluk, ABD'de ilçe anlamına gelir. Metindeki ülkeye bakın.",
   "note": ""
  }
 ]

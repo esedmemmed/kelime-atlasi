@@ -42,7 +42,7 @@
   "id": "couple",
   "senses": [
    "çift; evli çift",
-   "birkaç; iki üç",
+   "iki; birkaç",
    "bağlamak; birleştirmek"
   ],
   "ex": [
@@ -150,7 +150,7 @@
  {
   "id": "action",
   "senses": [
-   "girişim; tedbir",
+   "önlem; girişim",
    "davranış; hareket",
    "aksiyon; hareketli sahne"
   ],
@@ -247,7 +247,7 @@
    "gösterime sokmak"
   ],
   "ex": [
-   "Dizüstü bilgisayarımın ekranındaki parmak izlerini ssildim.",
+   "Dizüstü bilgisayarımın ekranındaki parmak izlerini sildim.",
    "Sağlık hizmetleri, ciddi belirtiler ortaya çıkmadan hastalıkları saptamak için savunmasız hastaları düzenli olarak taramalıdır."
   ],
   "col": [

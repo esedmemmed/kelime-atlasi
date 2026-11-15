@@ -43,7 +43,7 @@
    "postacı"
   ],
   "ex": [
-   "Postacı, ön kapımızın yanına bir paket bırakmış.",
+   "Postacı, ön kapımızın yanına bir paket bıraktı.",
    "Uzak köylerde bir postacı, sakinlerle kamu hizmetleri arasında önemli bir bağlantı sağlayabilir."
   ],
   "col": [
@@ -103,7 +103,7 @@
   ],
   "col": [
    "bizim için neyse ki",
-   "neyse ki yeterince",
+   "şans eseri",
    "neyse ki kimse yaralanmadı"
   ],
   "tip": "Genellikle cümle başında kullanılır ve virgülle ayrılır. Olayın genel olarak şanslı sonuçlandığını belirtir.",
@@ -174,7 +174,7 @@
   ],
   "ex": [
    "Çorba harikaydı, bu yüzden bir kase daha söyledim.",
-   "Kaliteli toplu taşıma, araç bağımlılığını azaltabilir ve şehirleri tüm sakinler için daha erişilebilir hâle getirebilir."
+   "Mükemmel bir toplu taşıma sistemi, araç bağımlılığını azaltabilir ve şehirleri tüm sakinler için daha erişilebilir hâle getirebilir."
   ],
   "col": [
    "mükemmel hizmet",
@@ -199,7 +199,7 @@
    "su kaynatmak",
    "yumurta haşlamak",
    "kaynama noktasına getirmek",
-   "özünde ... olmak"
+   "sonuçta ...-e dayanmak"
   ],
   "tip": "boil, sıvının kaynama noktasına ulaşmasını ya da kaynatılmasını anlatır. simmer ise kısık ateşte yavaş pişirmek için kullanılır.",
   "note": ""
@@ -211,7 +211,7 @@
   ],
   "ex": [
    "Bu domates sosu taze makarnayla çok güzel gidiyor.",
-   "Yemeği evde sos hazırlayarak aileler, yemeklerindeki tuz ve şeker miktarını kontrol edebilir."
+   "Sosu evde hazırlamak, ailelerin yemeklerindeki tuz ve şeker miktarını kontrol etmesine olanak tanır."
   ],
   "col": [
    "domates sosu",

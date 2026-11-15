@@ -19,7 +19,7 @@
  {
   "id": "capable",
   "senses": [
-   "muktedir; yapabilen",
+   "yapabilen; yetkin",
    "yetenekli; becerikli"
   ],
   "ex": [
@@ -40,7 +40,7 @@
    "karşılık gelen; uygun"
   ],
   "ex": [
-   "Her renkli kapağı kendi karşılık gelen kabının üzerine koyun.",
+   "Her renkli kapağı ona uyan kabın üzerine koyun.",
    "Kentsel nüfustaki artış çoğu zaman toplu taşıma talebinde buna karşılık gelen bir artışa yol açar."
   ],
   "col": [
@@ -63,7 +63,7 @@
   ],
   "col": [
    "canlı yorum",
-   "kesintisiz yorum",
+   "kesintisiz anlatım",
    "siyasi yorum",
    "üzerine yorum"
   ],
@@ -137,7 +137,7 @@
   "col": [
    "çok zor bir dönem yaşamak",
    "birinin hayatını cehenneme çevirmek",
-   "yaşayan cehennem"
+   "tam bir cehennem"
   ],
   "tip": "Mecaz anlamda çok sert bir ifadedir; küfür ya da vurgu olarak kullanıldığında dinleyenleri rahatsız edebilir.",
   "note": ""
@@ -184,7 +184,7 @@
    "çeşitlilik; farklılık"
   ],
   "ex": [
-   "Bahçemiz şaşırtıcı derecede çok çeşitli renkli kuşları çekiyor.",
+   "Bahçemiz şaşırtıcı çeşitlilikte renkli kuşları kendine çekiyor.",
    "Kültürel çeşitlilik, sakinlere farklı gelenekleri, dilleri ve bakış açılarını tanıtarak kentsel yaşamı zenginleştirebilir."
   ],
   "col": [
@@ -231,7 +231,7 @@
    "en yüksek teklif",
    "-mek amacıyla"
   ],
-  "tip": "Fiil olarak ve isim olarak 'teklif' anlamında geçmiş zaman ve ortaç dahil üç biçim de bid'dir; 'bidded' yanlıştır.",
+  "tip": "Geçmiş zaman ve ortaç dahil fiilin üç biçimi de bid'dir (bid – bid – bid); 'bidded' yanlıştır.",
   "note": ""
  },
  {
@@ -258,14 +258,14 @@
   "senses": [
    "ayırt etmek",
    "ayırmak; seçkin kılmak",
-   "seçebilmek; duyabilmek"
+   "seçmek; fark etmek"
   ],
   "ex": [
    "İkizleri seslerinden ayırt edebiliyorum.",
    "Öğrenciler, internette bilgi değerlendirirken güvenilir kanıtı kişisel görüşten ayırt etmeyi öğrenmelidir."
   ],
   "col": [
-   "arasında ayırt etmek",
+   "arasında ayrım yapmak",
    "A'yı B'den ayırmak",
    "kendini öne çıkarmak"
   ],

@@ -13,7 +13,7 @@
    "bir hatayı tekrarlamak",
    "bir soruyu tekrarlamak",
    "birinin ardından tekrarlamak",
-   "yeniden sunulan gösteri"
+   "tekrarlanan performans"
   ],
   "tip": "repeat zaten \"tekrar\" anlamı taşır; again ile birlikte kullanmayın (repeat again yanlıştır).",
   "note": ""
@@ -166,7 +166,7 @@
   "id": "family",
   "senses": [
    "aile; hane",
-   "familya; takım"
+   "familya; dil ailesi"
   ],
   "ex": [
    "Ailem her pazar mutfak masasının etrafında toplanır.",
@@ -197,7 +197,7 @@
    "örnek olmak",
    "tipik bir örnek"
   ],
-  "tip": "for example cümlenin başında ya da sonunda kullanılabilir. Yazıda for instance da aynı anlamda kullanılır.",
+  "tip": "set an example 'örnek olmak', give an example 'örnek vermek' demektir; ikisi karıştırılmamalı. for example 'örneğin' anlamındadır.",
   "note": ""
  },
  {
@@ -214,7 +214,7 @@
    "aralık ayının başında",
    "aralık ayının sonunda"
   ],
-  "tip": "Ay adları büyük harfle yazılır. Ayı belirtirken in December kalıbı kullanılır; \"on December\" demeyin.",
+  "tip": "Ay adları büyük harfle yazılır; ay için in December, belirli tarih için on December 5 kullanılır.",
   "note": ""
  },
  {
@@ -247,7 +247,7 @@
   ],
   "col": [
    "bir şeyi yapmaktan nefret etmek",
-   "itiraf etmek istememek",
+   "itiraf etmekten nefret etmek",
    "nefretle dolu"
   ],
   "tip": "hate'den sonra -ing ya da to + fiil gelebilir. dislike'a göre çok daha güçlü bir duygu bildirdiği için dikkatli kullanın.",

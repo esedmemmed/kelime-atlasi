@@ -29,7 +29,7 @@
   "col": [
    "usta bir mucit",
    "...nın mucidi",
-   "mucit olmayı hedefleyen kişi"
+   "hevesli bir mucit"
   ],
   "tip": "inventor yeni bir şey yaratan kişidir; discoverer ise zaten var olanı keşfeden kişidir. 'the inventor of' kalıbında of kullanılır.",
   "note": ""
@@ -186,7 +186,7 @@
   "senses": [
    "kaptan; takım kaptanı",
    "kaptanlık etmek; yönetmek",
-   "yüzbaşı; albay"
+   "yüzbaşı; deniz albayı"
   ],
   "ex": [
    "Kaptanımız son maçtan önce takımı bir araya topladı.",
@@ -197,7 +197,7 @@
    "gemi kaptanı",
    "takımı yönetmek"
   ],
-  "tip": "Askeri rütbeler kara ve deniz kuvvetlerinde farklıdır; bu yüzden captain bağlama göre değişen rütbeleri ifade edebilir. Bağlama dikkat edin.",
+  "tip": "Rütbe orduda yüzbaşı, donanmada genellikle deniz albayı düzeyindedir.",
   "note": ""
  },
  {
@@ -211,8 +211,8 @@
    "Sulak alanları kanoyla keşfeden ziyaretçiler, motorlu teknelerin yarattığı rahatsızlık olmadan yaban hayatını sessizce gözlemleyebilir."
   ],
   "col": [
-   "kürek çekmek",
-   "kano ile gezmeye gitmek",
+   "kanoyla kürek çekmek",
+   "kano yapmaya gitmek",
    "kano kiralamak"
   ],
   "tip": "Modern kanolar ağaçtan değil, çoğunlukla plastik ya da fiberglas gibi malzemelerden yapılır. Hem isim hem fiil olarak kullanılır.",

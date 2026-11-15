@@ -44,13 +44,13 @@
    "göze almak; riske atmak"
   ],
   "ex": [
-   "Kaymayı azaltmak için sağlam ayakkabı giyin.",
+   "Kayma riskini azaltmak için sağlam ayakkabı giyin.",
    "Hükümetler, nehir kenarındaki yeni konut projelerini onaylamadan önce taşkın riskini değerlendirmelidir."
   ],
   "col": [
    "risk almak",
    "tehlikede",
-   "bir şeyi yapma riskini almak",
+   "yapmayı göze almak",
    "riski azaltmak"
   ],
   "tip": "risk'ten sonra isim ya da -ing biçimi gelir (risk doing something). to + fiil ile kullanılmaz.",
@@ -60,7 +60,7 @@
   "id": "handsome",
   "senses": [
    "yakışıklı",
-   "epeyce; cömert"
+   "yüklü; hatırı sayılır"
   ],
   "ex": [
    "Kardeşim yeni mavi ceketiyle çok yakışıklı görünüyor.",
@@ -69,7 +69,7 @@
   "col": [
    "yakışıklı adam",
    "yüklü kâr",
-   "cömert ödül"
+   "yüklü ödül"
   ],
   "tip": "Genellikle erkekler için 'yakışıklı' anlamında kullanılır. Kâr ya da ödül için ise 'büyük, yüklü' anlamına gelir.",
   "note": ""
@@ -78,7 +78,7 @@
   "id": "error",
   "senses": [
    "hata; yanlış",
-   "hata; sapma"
+   "sapma; hata payı"
   ],
   "ex": [
    "Rezervasyondaki bir hata yüzünden yerimiz olmadan kaldık.",
@@ -100,7 +100,7 @@
   ],
   "ex": [
    "Patlak lastiği değiştirmek için yolun kenarında durduk.",
-   "Kullanılmış lastiklerin geri dönüştürülmesi, çöp depolama atıklarını azaltabilir ve daha güvenli oyun alanı zeminleri için malzeme sağlayabilir."
+   "Kullanılmış lastiklerin geri dönüştürülmesi, düzenli depolama alanlarına giden atığı azaltabilir ve daha güvenli oyun alanı zeminleri için malzeme sağlayabilir."
   ],
   "col": [
    "patlak lastik",
@@ -211,8 +211,8 @@
    "Çocuklara giysilerini onarmayı öğretmek, tekstil atıklarını azaltabilir ve tüketime karşı daha sorumlu tutumları teşvik edebilir."
   ],
   "col": [
-   "giysi onarmak",
-   "çit tamir etmek",
+   "giysileri onarmak",
+   "çiti onarmak",
    "ilişkileri düzeltmek",
    "iyileşme yolunda"
   ],
@@ -226,7 +226,7 @@
   ],
   "ex": [
    "Kuzenim bir gezi sırasında Antarktika'da penguenleri fotoğrafladı.",
-   "Antarktika'yı inceleyen bilim insanları, Dünya'nın iklimin zaman içinde nasıl değiştiğini anlamak için eski buzları analiz eder."
+   "Antarktika'yı inceleyen bilim insanları, Dünya'daki iklimin zaman içinde nasıl değiştiğini anlamak için eski buzları analiz eder."
   ],
   "col": [
    "Antarktika seferi",
@@ -248,9 +248,9 @@
   ],
   "col": [
    "turistik cazibe merkezi",
-   "ana cazibe",
+   "başlıca cazibe merkezi",
    "karşılıklı çekim",
-   "kütleçekim"
+   "kütle çekimi"
   ],
   "tip": "Yer anlamında sayılabilir, çekicilik anlamında genellikle sayılamaz.",
   "note": ""

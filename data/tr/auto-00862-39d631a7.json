@@ -100,7 +100,7 @@
   "col": [
    "keçi sütü",
    "keçi peyniri",
-   "bir sürü keçi"
+   "bir keçi sürüsü"
   ],
   "tip": "Goat keçidir, koyun sheep ile karıştırılmamalıdır; 'günah keçisi' anlamında scapegoat kullanılır.",
   "note": ""
@@ -119,7 +119,7 @@
   "col": [
    "açık talimatlar",
    "açık kanıt",
-   "tamamen net",
+   "apaçık",
    "masayı toplamak"
   ],
   "tip": "'make it clear that…' kalıbı 'şunu açıkça belirtmek' anlamında kullanılır.",
@@ -250,7 +250,7 @@
    "doğru cevaplamak",
    "doğru tanımlamak",
    "doğru yorumlamak",
-   "hatırlıyorsam doğru"
+   "doğru hatırlıyorsam"
   ],
   "tip": "Bir eylemi nitelemek için kullanılır; 'correct' sıfat ya da fiildir, zarf olarak kullanılmaz.",
   "note": ""
@@ -258,7 +258,7 @@
  {
   "id": "fair",
   "senses": [
-   "adil; haklı",
+   "adil; makul",
    "açık tenli; açık renk",
    "fuar; panayır"
   ],

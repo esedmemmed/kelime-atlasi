@@ -10,7 +10,7 @@
    "Eğitimli gönüllüler, yaşlı sakinleri tıbbi randevularına götürerek temel sağlık hizmetlerine erişimlerini kolaylaştırabilir."
   ],
   "col": [
-   "birini ... e götürmek",
+   "birine bir yere kadar eşlik etmek",
    "polis koruması",
    "refakat altında"
   ],
@@ -47,8 +47,8 @@
    "Öğrenme güçlüklerinin erken tespiti, okulların öğrenciler geride kalmadan uygun destek sağlamasına olanak tanır."
   ],
   "col": [
-   "kimlik kanıtı",
-   "tür tanımlama",
+   "kimlik belgesi",
+   "tür tanıma",
    "erken tespit",
    "ile özdeşleşme"
   ],
@@ -60,7 +60,7 @@
   "senses": [
    "hareket; devinim",
    "önerge; teklif",
-   "işaret etmek; el/başla işaret etmek"
+   "işaret etmek"
   ],
   "ex": [
    "Teknenin yumuşak hareketi beni uykulu yaptı.",
@@ -86,8 +86,8 @@
    "Eleştirmenler, sağlıklı ormanların geçici ekonomik kazanç için yok edilmesini çevresel bir çılgınlık olarak nitelendirdi."
   ],
   "col": [
-   "mutlak çılgınlık",
-   "saf çılgınlık",
+   "tam bir çılgınlık",
+   "düpedüz çılgınlık",
    "bir an için akıl tutulması"
   ],
   "tip": "Ruhsal hastalık anlamı eskimiştir ve incitici olabilir; insanları tanımlamak için bu anlamda kullanmaktan kaçının.",
@@ -114,18 +114,18 @@
   "id": "peer",
   "senses": [
    "akran; emsal",
-   "gözlerini kısarak bakmak",
+   "dikkatle bakmak",
    "İngiliz soylusu; lord"
   ],
   "ex": [
-   "Kedi yavrusunu görmek için pencereden gözlerini kısarak baktı.",
+   "Kedi yavrusunu görmek için pencereden dikkatle baktı.",
    "Öğrenciler, işbirlikçi sınıf etkinlikleri sırasında akranlarından yapıcı geri bildirim aldıklarında genellikle özgüvenleri artar."
   ],
   "col": [
    "akran baskısı",
    "akran değerlendirmesi",
    "akran grubu",
-   "gözlerini kısarak bakmak"
+   "içinden dikkatle bakmak"
   ],
   "tip": "İsmin çoğulu peers'tir. Fiil genellikle through, at ya da into ile kullanılır: peer through the window.",
   "note": ""
@@ -143,7 +143,7 @@
   ],
   "col": [
    "...e karşı savunma",
-   "...in lehine",
+   "...in savunmasında",
    "kendini savunma",
    "savunma harcamaları"
   ],
@@ -243,11 +243,11 @@
  {
   "id": "sympathize",
   "senses": [
-   "anlayışla karşılamak; acımak",
+   "anlayış göstermek",
    "yanında olmak; desteklemek"
   ],
   "ex": [
-   "Seninle empati kuruyorum; evcil hayvan kaybetmek çok acı verici.",
+   "Seni anlıyorum; evcil hayvan kaybetmek çok acı verici.",
    "Birçok sakin daha iyi çalışma koşulları talep eden işçilere sempati duyuyor, ancak ulaşım grevini rahatsız edici buluyor."
   ],
   "col": [

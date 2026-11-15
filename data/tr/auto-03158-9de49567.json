@@ -135,7 +135,7 @@
   ],
   "col": [
    "feneri açmak",
-   "feneri tutmak",
+   "el feneriyle ışık tutmak",
    "fener ışını"
   ],
   "tip": "Bu Amerikan İngilizcesi kelimesidir. İngiliz İngilizcesinde aynı nesne için torch kullanılır.",
@@ -220,11 +220,11 @@
   "id": "ink",
   "senses": [
    "mürekkep",
-   "mürekkeple yazmak; boyamak"
+   "mürekkeplemek; mürekkep sürmek"
   ],
   "ex": [
    "Kalemimden çıkan mavi mürekkep kolumu lekeledi.",
-   "Okullar, daha az kağıt kullanıp doldurulabilir mürekkep kartuşları seçerek çevresel etkilerini azaltabilir."
+   "Okullar, daha az kâğıt kullanıp doldurulabilir mürekkep kartuşları seçerek çevresel etkilerini azaltabilir."
   ],
   "col": [
    "mürekkeple yazılmış",
@@ -232,7 +232,7 @@
    "baskı mürekkebi",
    "mürekkebi bitmek"
   ],
-  "tip": "Genelde sayılamaz isimdir. Bir kap mürekkep için a bottle of ink gibi ölçü ifadeleri kullanılır.",
+  "tip": "Genelde sayılamaz. 'Mürekkeple yazılmış' için in ink denir: sign in ink (mürekkeple imzalamak).",
   "note": ""
  },
  {
@@ -259,7 +259,7 @@
   "id": "string",
   "senses": [
    "ip; sicim",
-   "tel; kiriş",
+   "tel",
    "dizi; silsile"
   ],
   "ex": [

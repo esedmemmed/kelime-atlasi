@@ -19,7 +19,7 @@
  {
   "id": "pastry",
   "senses": [
-   "hamur; yufka",
+   "hamur; pasta hamuru",
    "hamur işi; pasta"
   ],
   "ex": [
@@ -56,10 +56,10 @@
   "id": "copper",
   "senses": [
    "bakır",
-   "bakır para; kuruş"
+   "bakır para; bozuk para"
   ],
   "ex": [
-   "Eski mutfak lavabosunun çok güzel bakır musluğları var.",
+   "Eski mutfak lavabosunun çok güzel bakır muslukları var.",
    "Bakır, elektriği verimli iletmesi ve geri dönüştürülebilmesi nedeniyle elektrik sistemlerinde yaygın olarak kullanılır."
   ],
   "col": [
@@ -73,7 +73,7 @@
  {
   "id": "vein",
   "senses": [
-   "damar",
+   "toplardamar; damar",
    "yaprak damarı",
    "damar; cevher damarı"
   ],
@@ -86,7 +86,7 @@
    "yaprak damarları",
    "altın damarı"
   ],
-  "tip": "vein damar (kanı kalbe taşıyan) demektir; artery (atardamar) ile karıştırılmamalıdır.",
+  "tip": "Vein toplardamardır, artery atardamar; ikisi zıt anlamlı değil, farklı damar türleridir.",
   "note": ""
  },
  {
@@ -129,7 +129,7 @@
   "id": "executive",
   "senses": [
    "yönetici; üst düzey yönetici",
-   "yönetsel; icraî",
+   "yönetsel; yürütücü",
    "yürütme organı; yürütme"
   ],
   "ex": [
@@ -148,8 +148,8 @@
  {
   "id": "domestic",
   "senses": [
-   "iç; yurt içi",
-   "evle ilgili; ev işi",
+   "yurt içi; ulusal",
+   "evle ilgili; ailevi",
    "evcil"
   ],
   "ex": [
@@ -179,7 +179,7 @@
    "geçen kuyruklu yıldız",
    "kuyruklu yıldızı gözlemlemek"
   ],
-  "tip": "comet kuyruklu yıldızdır; atmosfere girerken parlayan meteor (şihab) ile karıştırılmamalıdır.",
+  "tip": "Comet kuyruklu yıldızdır; atmosfere girerken parlayan meteor (akan yıldız) ile karıştırılmamalıdır.",
   "note": ""
  },
  {
@@ -226,10 +226,10 @@
   ],
   "ex": [
    "Kuzenlerim devasa sırt çantam yüzünden hep benimle dalga geçer.",
-   "Okullar, çocuklara sınıf arkadaşlarının görünüşüyle ilgili takılmanın özgüvenlerine ciddi zarar verebileceğini öğretmelidir."
+   "Okullar, çocuklara sınıf arkadaşlarına görünüşleri yüzünden takılmanın özgüvenlerine ciddi zarar verebileceğini öğretmelidir."
   ],
   "col": [
-   "birini bir şey yüzünden takılmak",
+   "birine bir şey yüzünden takılmak",
    "hafifçe takılmak",
    "ayıklamak; ortaya çıkarmak"
   ],

@@ -105,7 +105,7 @@
   "col": [
    "en azından",
    "en az pahalı olan",
-   "özellikle de"
+   "en az da"
   ],
   "tip": "least, little'ın en üstünlü halidir. Sayılabilir isimlerle genellikle fewest kullanılır.",
   "note": ""
@@ -123,7 +123,7 @@
   ],
   "col": [
    "mikrodalga fırın",
-   "mikrodalgada pişmiş yiyecek",
+   "yiyeceği mikrodalgada ısıtmak",
    "mikrodalga ışınımı"
   ],
   "tip": "Fiil olarak doğrudan nesne alır: microwave the soup. Cihazı belirtmek için in the microwave kullanılır.",
@@ -262,7 +262,7 @@
    "üzüm"
   ],
   "ex": [
-   "Öğle yemeği kutuma birkaç üzüm koymuş.",
+   "Öğle yemeği kutuma biraz üzüm koydu.",
    "Yazlar daha sıcak ve kurak geçtikçe üzüm yetiştiren çiftçilerin daha verimli sulama sistemlerine ihtiyacı olabilir."
   ],
   "col": [

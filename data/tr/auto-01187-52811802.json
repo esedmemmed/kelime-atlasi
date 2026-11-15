@@ -14,7 +14,7 @@
    "bir hayali olmak",
    "bir hayalin peşinden gitmek",
    "olmayı hayal etmek",
-   "gerçek olan hayal"
+   "gerçek olmuş bir hayal"
   ],
   "tip": "dream of/about isim veya -ing ile kullanılır. Geçmiş zamanda dreamt ya da dreamed; ikisi de doğrudur.",
   "note": ""
@@ -33,7 +33,7 @@
   "col": [
    "düzenli egzersiz",
    "belirli aralıklarla",
-   "sadık müşteri",
+   "devamlı müşteri",
    "düzenli bir örüntü"
   ],
   "tip": "regular belli aralıklarla tekrar eden anlamına gelir; sürekli anlamındaki continuous ile karıştırılmamalı.",
@@ -50,10 +50,10 @@
   ],
   "col": [
    "merdivenleri çıkmak",
-   "bir sıra merdiven",
+   "bir kat merdiven",
    "merdiven kullanmak"
   ],
-  "tip": "stairs çoğul bir isimdir ve fiili de çoğul olur. Tek bir merdiven bloğu için a flight of stairs denir.",
+  "tip": "stairs çoğul bir isimdir ve fiili de çoğul olur. Tek bir kat merdiven için a flight of stairs denir.",
   "note": ""
  },
  {
@@ -107,7 +107,7 @@
   "col": [
    "bir toplantıya katılmak",
    "okula devam etmek",
-   "bir soruna ilgilenmek"
+   "bir sorunla ilgilenmek"
   ],
   "tip": "Bir etkinliğe katılmak anlamında attend doğrudan nesne alır. İlgilenmek, bakmak anlamında ise attend to kullanılır.",
   "note": ""
@@ -133,17 +133,17 @@
  {
   "id": "candy",
   "senses": [
-   "şekerleme; şeker"
+   "şeker; tatlı"
   ],
   "ex": [
-   "Her misafirine küçük bir şekerleme ikram etti.",
-   "Çocuklara yönelik şekerleme reklamlarını sınırlamak, ailelerin daha sağlıklı beslenme alışkanlıkları geliştirmesine yardımcı olabilir."
+   "Her misafirine küçük bir şeker ikram etti.",
+   "Çocuklara yönelik şeker reklamlarını sınırlamak, ailelerin daha sağlıklı beslenme alışkanlıkları geliştirmesine yardımcı olabilir."
   ],
   "col": [
    "bir parça şeker",
-   "sert şekerleme",
+   "sert şeker",
    "çikolatalı bar",
-   "şekerleme dükkânı"
+   "şekerci dükkânı"
   ],
   "tip": "candy Amerikan İngilizcesinde yaygındır; İngiliz İngilizcesinde sweets kullanılır. Tek bir parça için a piece of kalıbı kullanılır.",
   "note": ""
@@ -209,11 +209,11 @@
  {
   "id": "restroom",
   "senses": [
-   "tuvalet; wc"
+   "tuvalet"
   ],
   "ex": [
    "Otobüse binmeden önce tuvalete uğradım.",
-   "Yoğun ulaşım merkezlerinin yakınında temiz bir halka açık tuvalet bulunması, hem yolcular hem de turistler için konforu artırır."
+   "Yoğun ulaşım merkezlerinin yakınında halka açık temiz bir tuvalet bulunması, hem yolcular hem de turistler için konforu artırır."
   ],
   "col": [
    "halka açık tuvalet",

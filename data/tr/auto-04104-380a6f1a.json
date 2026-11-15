@@ -21,7 +21,7 @@
   "id": "tense",
   "senses": [
    "gergin; sıkı",
-   "zaman (dilbilgisi)",
+   "fiil zamanı",
    "gerilmek; gerginleşmek"
   ],
   "ex": [
@@ -41,7 +41,7 @@
   "id": "civilization",
   "senses": [
    "uygarlık; medeniyet",
-   "modern yaşamın konforu"
+   "uygar yaşam; konfor"
   ],
   "ex": [
    "Dün eski bir uygarlığın harabelerini gezdik.",
@@ -58,9 +58,9 @@
  {
   "id": "consideration",
   "senses": [
-   "dikkatli düşünme; değerlendirme",
-   "saygı; gözetme",
-   "göz önünde bulundurulacak etken"
+   "düşünme; değerlendirme",
+   "anlayış; saygı",
+   "dikkate alınacak etken"
   ],
   "ex": [
    "Dikkatli bir değerlendirmenin ardından daha küçük daireyi seçtik.",
@@ -101,7 +101,7 @@
    "soru; bilgi talebi"
   ],
   "ex": [
-   "Kayıp koli hakkındaki sorgulamama hızlı bir yanıt geldi.",
+   "Kayıp koli hakkındaki sorum hızlı bir yanıt aldı.",
    "Nehir kirliliği üzerine bağımsız bir soruşturma, mevcut çevre izleme sisteminde ciddi eksiklikler ortaya koydu."
   ],
   "col": [
@@ -125,7 +125,7 @@
   "col": [
    "anahtarı anahtar deliğine sokmak",
    "anahtar deliğinden bakmak",
-   "anahtar deliği ameliyatı"
+   "kapalı ameliyat"
   ],
   "tip": "Keyhole surgery 'anahtar deliği ameliyatı' değil, küçük kesiyle yapılan kapalı/minimal invaziv ameliyat anlamına gelir.",
   "note": ""
@@ -196,7 +196,7 @@
   ],
   "col": [
    "bu arada",
-   "bu arada devam etmek"
+   "bu arada çalışmaya devam etmek"
   ],
   "tip": "En çok 'in the meantime' kalıbında kullanılır; 'meanwhile' ise doğrudan zarf olarak kullanılabilir.",
   "note": ""
@@ -204,7 +204,7 @@
  {
   "id": "creep",
   "senses": [
-   "sessizce sinsice ilerlemek",
+   "sessizce ilerlemek",
    "yavaş yavaş yayılmak; sinsice değişmek"
   ],
   "ex": [
@@ -243,8 +243,8 @@
   "id": "caution",
   "senses": [
    "dikkat; ihtiyat",
-   "uyarı; ikaz",
-   "uyarmak; ikaz etmek"
+   "uyarı",
+   "uyarmak"
   ],
   "ex": [
    "Islak mutfak zemininde dikkatle yürüdük.",

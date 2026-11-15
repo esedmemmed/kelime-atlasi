@@ -3,10 +3,10 @@
   "id": "worm",
   "senses": [
    "solucan",
-   "solucan; virüs"
+   "bilgisayar solucanı"
   ],
   "ex": [
-   "Bahçedeki ıslak toprağın içinden bir solucan çıkıp kıvrandı.",
+   "Bahçedeki ıslak topraktan bir solucan kıvrılarak çıktı.",
    "Solucanlar organik maddeleri parçalayıp toprağın havalanmasını sağlayarak toprak kalitesini artırır."
   ],
   "col": [
@@ -42,7 +42,7 @@
    "enişte; kayınbirader"
   ],
   "ex": [
-   "Enişte, kız kardeşime yeni koltuklarını merdivenlerden çıkarmasında yardım etti.",
+   "Eniştem, kız kardeşimin yeni kanepelerini üst kata taşımasına yardım etti.",
    "Çocuk bakımını enişte gibi akrabalarla paylaşmak, çalışan ebeveynlerin günlük sorumluluklarını yönetmesine yardımcı olabilir."
   ],
   "col": [
@@ -148,7 +148,7 @@
   "id": "layer",
   "senses": [
    "kat; tabaka",
-   "katman katman koymak"
+   "katmanlamak; kat kat koymak"
   ],
   "ex": [
    "İnce bir toz tabakası rafı kaplamıştı.",
@@ -203,16 +203,16 @@
  {
   "id": "porter",
   "senses": [
-   "hamal; bagaj taşıyıcı",
+   "bagaj görevlisi; hamal",
    "kapıcı; kapı görevlisi"
   ],
   "ex": [
-   "Hamal ağır bavullarımızı asansöre kadar taşıdı.",
-   "Oteller, her hamalı sınırlı hareket kabiliyetine sahip misafirlere yardım edecek şekilde eğiterek erişilebilirliği artırabilir."
+   "Bagaj görevlisi ağır bavullarımızı asansöre kadar taşıdı.",
+   "Oteller, her bagaj görevlisini sınırlı hareket kabiliyetine sahip misafirlere yardım edecek şekilde eğiterek erişilebilirliği artırabilir."
   ],
   "col": [
-   "otel hamalı",
-   "bagaj hamalı",
+   "otel bagaj görevlisi",
+   "bagaj taşıyıcısı",
    "gece kapıcısı"
   ],
   "tip": "Her türlü görevliyi değil, bagaj taşıyan ya da bina girişini denetleyen kişiyi ifade eder.",
@@ -271,7 +271,7 @@
    "sağır doğmak",
    "sağırlaşmak"
   ],
-  "tip": "Nezaket için 'işitme engelli' tercih edilebilir. Büyük harfle Deaf, kültürel kimliği vurgular.",
+  "tip": "Okunuşu 'def' gibidir. Büyük harfle yazılan Deaf, sağır kültürel kimliğini vurgular.",
   "note": ""
  }
 ]

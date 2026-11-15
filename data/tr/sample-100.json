@@ -3,7 +3,7 @@
   "id": "spring",
   "senses": [
    "ilkbahar; bahar",
-   "yay (metal)",
+   "yay; zemberek",
    "kaynak; pınar"
   ],
   "ex": [
@@ -304,7 +304,7 @@
    "teyze",
    "hala"
   ],
-  "tip": "Türkçedeki teyze, hala ve yenge ayrımı İngilizcede yoktur; hepsi aunt'tır. Amerikan telaffuzu /ænt/, İngiliz /ɑːnt/.",
+  "tip": "Türkçedeki teyze, hala ve yenge ayrımı İngilizcede yoktur; hepsi aunt'tır. Telaffuz: /ɑːnt/, Amerikan'da sıklıkla /ænt/.",
   "note": ""
  },
  {
@@ -322,7 +322,7 @@
    "televizyon izlemek",
    "dikkatle izlemek",
    "saat takmak",
-   "dikkat et!"
+   "dikkat etmek"
   ],
   "tip": "watch sürekli ve dikkatli izlemeyi, see ise bir şeyi görmeyi anlatır.",
   "note": ""
@@ -459,7 +459,7 @@
   "id": "afraid",
   "senses": [
    "korkmuş; korkan",
-   "korkarım ki (kibar olumsuz haber)"
+   "korkarım ki; maalesef"
   ],
   "ex": [
    "Köpek yavrusu gürültülü elektrikli süpürgeden korkuyordu.",
@@ -501,7 +501,7 @@
   ],
   "ex": [
    "Yerel hastanede hemşire olarak çalışıyor.",
-   "Bölgeye yeni bir hastane yapmak, kırsal toplulukların uzman tedaviye erişimini iyileştirir."
+   "Bölgeye yeni bir hastane yapmak, kırsal toplulukların uzman tedaviye erişimini iyileştirecektir."
   ],
   "col": [
    "hastaneye yatırılmak",
@@ -573,8 +573,8 @@
   "id": "practise",
   "senses": [
    "pratik yapmak; alıştırma yapmak",
-   "meslek icra etmek",
-   "uygulamak; (dini) yaşamak"
+   "mesleği yapmak",
+   "uygulamak; sürdürmek"
   ],
   "ex": [
    "Her akşam yemekten sonra sessizce keman çalışırım.",
@@ -583,7 +583,7 @@
   "col": [
    "konuşma pratiği yapmak",
    "doktorluk yapmak",
-   "düzenli çalışmak",
+   "düzenli pratik yapmak",
    "söylediğini yapmak"
   ],
   "tip": "İngiliz İngilizcesinde fiil practise, isim practice'tir; Amerikan İngilizcesinde ikisi de practice yazılır.",
@@ -672,7 +672,7 @@
   ],
   "col": [
    "günlük yaşamımız",
-   "yaşadığımız mahalle",
+   "yerel topluluğumuz",
    "ortak geleceğimiz"
   ],
   "tip": "our'dan sonra mutlaka isim gelir: our house. Tek başına kullanılacaksa ours denir: The house is ours.",
@@ -749,7 +749,7 @@
   "col": [
    "dördüncü kat",
    "dördüncülük",
-   "… -in dörtte biri"
+   "-in dörtte biri"
   ],
   "tip": "\"Dördüncü\" fourth'tür; forth \"ileri\" demektir, yazımına dikkat.",
   "note": ""
@@ -838,7 +838,7 @@
    "Ortak mutfaklar, evden uzakta yurtta kalan öğrenciler arasında sosyal etkileşimi teşvik edebilir."
   ],
   "col": [
-   "mutfak aletleri (elektrikli)",
+   "mutfak cihazları",
    "mutfak lavabosu",
    "ortak mutfak",
    "mutfak gereçleri"
@@ -851,7 +851,7 @@
   "senses": [
    "ne zaman",
    "-dığında; -ınca",
-   "-diği hâlde; madem"
+   "madem; mademki"
   ],
   "ex": [
    "Şehre giden bir sonraki otobüs ne zaman kalkıyor?",

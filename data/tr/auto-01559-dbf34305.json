@@ -71,7 +71,7 @@
   "col": [
    "miktarı iki katına çıkarmak",
    "boyutu iki katına çıkmak",
-   "çift kontrol etmek",
+   "iki kez kontrol etmek",
    "çift kişilik oda"
   ],
   "tip": "Double, bir şeyin iki katına çıktığını ya da iki katına çıkarıldığını anlatır.",
@@ -140,7 +140,7 @@
    "rahatsız etmek; üzmek"
   ],
   "ex": [
-   "Paslı mutfak penceresini açmakta zorlandık.",
+   "Sıkışmış mutfak penceresini açmakta zorlandık.",
    "Birçok yaşlı yetişkin, yalnızca dijital platformlar üzerinden sunulan kamu hizmetlerine erişmekte zorlanıyor."
   ],
   "col": [
@@ -165,7 +165,7 @@
   "col": [
    "yapıştırıcı çubuğu",
    "ahşap tutkalı",
-   "birlikte yapıştırmak",
+   "yapıştırarak birleştirmek",
    "ekrana yapışıp kalmak"
   ],
   "tip": "İsim olarak genellikle sayılamaz; be glued to ise birinin gözünü bir şeyden ayırmamasını anlatır.",
@@ -184,8 +184,8 @@
   "col": [
    "biriyle tartışmak",
    "bir şey hakkında tartışmak",
-   "-diğini savunmak",
-   "-den yana savunmak"
+   "... olduğunu savunmak",
+   "lehinde konuşmak"
   ],
   "tip": "argue that kalıbı, gerekçelerle desteklenen bir görüşü savunmak için yazılı metinlerde sık kullanılır.",
   "note": ""
@@ -199,7 +199,7 @@
   ],
   "ex": [
    "Bisikletin kilitli garajımızın içinde güvende.",
-   "Hükümetler, tüm toplulukların güvenli içme suyuna ve güvenilir sağlık altyapısına erişebilmesini sağlamalıdır."
+   "Hükümetler, tüm toplulukların güvenli içme suyuna ve güvenilir kanalizasyon ile hijyen hizmetlerine erişebilmesini sağlamalıdır."
   ],
   "col": [
    "sağ salim",
@@ -213,7 +213,7 @@
  {
   "id": "tasty",
   "senses": [
-   "lezzetli; tatlı"
+   "lezzetli; nefis"
   ],
   "ex": [
    "Bu lezzetli çorba soğuk bir akşam için mükemmel.",
@@ -276,8 +276,8 @@
    "Maalesef, kırsal kesimdeki birçok okulda öğrencilere güvenilir internet erişimi sağlamak için gereken kaynaklar yok."
   ],
   "col": [
-   "birisi için talihsizlikle",
-   "maalesef olmamak"
+   "maalesef ... için",
+   "maalesef hayır"
   ],
   "tip": "Genellikle cümle başında virgülle kullanılır ve olayın tamamına yönelik üzüntüyü belirtir.",
   "note": ""

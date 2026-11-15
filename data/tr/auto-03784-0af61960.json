@@ -3,7 +3,7 @@
   "id": "faint",
   "senses": [
    "silik; zayıf",
-   "baygın; bitkin",
+   "başı dönen; bayılacak gibi",
    "bayılmak"
   ],
   "ex": [
@@ -13,7 +13,7 @@
   "col": [
    "silik ışık",
    "hafif koku",
-   "baş dönmesi hissetmek",
+   "bayılacak gibi olmak",
    "zayıf umut"
   ],
   "tip": "'feel faint' neredeyse bayılacak gibi hissetmek demektir; 'faint' fiili ise gerçekten bayılmak anlamına gelir.",
@@ -34,7 +34,7 @@
    "akıl dışı bir risk",
    "birini delirtmek"
   ],
-  "tip": "Gündelik dilde 'çok' ya da 'aşırı' anlamında kullanılır. Zihinsel hastalık için kullanımı eskidi ve incitici olabilir.",
+  "tip": "Gündelik dilde 'çılgınca, saçma' anlamında kullanılır; akıl hastalığı için kullanımı eskidir ve incitici olabilir.",
   "note": "Zihinsel hastalığı olan kişileri tarif etmek için kullanımı incitici olabilir; kaçının."
  },
  {
@@ -51,7 +51,7 @@
    "yaşam giderleri",
    "masrafı karşılamak",
    "pahasına",
-   "masrafa girmekten çekinmemek"
+   "hiçbir masraftan kaçınmamak"
   ],
   "tip": "Günlük harcamalar için genellikle çoğul 'expenses' kullanılır. 'Expensive' ise 'pahalı' anlamına gelen sıfattır, karıştırılmamalı.",
   "note": ""
@@ -95,11 +95,11 @@
  {
   "id": "pathetic",
   "senses": [
-   "berbat; acınacak kötü",
+   "berbat; rezil",
    "acıklı; zavallı"
   ],
   "ex": [
-   "Bozuk duştan yalnızca acınacak bir damla su akıyordu.",
+   "Bozuk duştan yalnızca cılız bir su akıyordu.",
    "Sakinler, belediyenin tekrarlayan sellere verdiği yanıtı berbat bulup daha iyi drenaj için acil yatırım talep etti."
   ],
   "col": [
@@ -159,7 +159,7 @@
    "Yoğun saatlerde trafik şehir merkezinde sürünerek ilerliyor; bu da yolculuk sürelerini ve araç emisyonlarını artırıyor."
   ],
   "col": [
-   "el ve dizler üzerinde sürünmek",
+   "el ve dizleri üzerinde emeklemek",
    "yavaşça ilerlemek",
    "iyice yavaşlamak",
    "kraul"
@@ -196,8 +196,8 @@
   ],
   "col": [
    "uykulu hissetmek",
-   "birini uykulu yapmak",
-   "uykulu sürüş"
+   "birinin uykusunu getirmek",
+   "uykulu halde araç kullanma"
   ],
   "tip": "Kişinin uykulu olduğunu anlatır. Bir ilaç ya da şeyin etkisi için 'make someone drowsy' kalıbı kullanılır.",
   "note": ""
@@ -214,7 +214,7 @@
   ],
   "col": [
    "zihinsel gelişim",
-   "zihinsel meydan okuma",
+   "zihinsel zorluk",
    "fikri mülkiyet",
    "entelektüel merak"
   ],

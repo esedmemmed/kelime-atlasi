@@ -21,7 +21,7 @@
   "senses": [
    "iş ortağı; ortak",
    "eş; partner",
-   "ortaklık etmek; birlikte çalışmak"
+   "ortaklık kurmak; iş birliği yapmak"
   ],
   "ex": [
    "Dans partnerim ben çalışırken sabırla bekledi.",
@@ -30,7 +30,7 @@
   "col": [
    "iş ortağı",
    "dans partneri",
-   "hayat arkadaşı",
+   "hayat ortağı",
    "ile ortaklık kurmak"
   ],
   "tip": "Partner cinsiyet belirtmez. Fiil olarak genellikle partner with kalıbıyla kullanılır.",
@@ -167,13 +167,13 @@
  {
   "id": "result",
   "senses": [
-   "sonuç; netice",
+   "sonuç",
    "not; skor",
    "neden olmak; yol açmak"
   ],
   "ex": [
    "Parlak zemin, saatlerce süren temizliğin sonucuydu.",
-   "Güvenilir toplu taşımaya yapılan yatırım, kentlilerin emisyonlarını azaltabilir ve işe gidiş süresini kısaltabilir."
+   "Güvenilir toplu taşımaya yapılan yatırım, kentliler için daha düşük emisyon ve daha kısa işe gidiş süreleriyle sonuçlanabilir."
   ],
   "col": [
    "bu yüzden",
@@ -209,7 +209,7 @@
   ],
   "ex": [
    "Kuzenimden gelen kartpostal posta kutumuza ulaştı.",
-   "Uzak bölgelerdeki sakinler, en yakın kamu posta kutusuna ulaşmak için epey uzun mesafeler kat edebilir."
+   "Uzak bölgelerdeki sakinler, en yakın posta kutusuna ulaşmak için epey uzun mesafeler kat edebilir."
   ],
   "col": [
    "posta kutunu kontrol etmek",

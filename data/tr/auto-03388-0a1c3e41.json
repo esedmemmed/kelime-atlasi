@@ -32,7 +32,7 @@
    "Rab",
    "birine tepeden bakmak"
   ],
-  "tip": "Tanrı anlamında the Lord ve baş harfi büyük yazılır. Unvan olarak isimden önce de büyük harfle yazılır.",
+  "tip": "Tanrı için the Lord kullanılır ve baş harf büyük yazılır. Unvan olarak ada eklenince de büyük yazılır: Lord Byron.",
   "note": ""
  },
  {
@@ -98,7 +98,7 @@
   ],
   "ex": [
    "Yerel gelenekleri bilmemem garip bir ana yol açtı.",
-   "Halk eğitimi beslenme konusundaki bilgisizliği azaltabilir ve sınırlı bütçeli aileler daha sağlıklı seçimler yapabilir."
+   "Halk eğitimi beslenme konusundaki bilgisizliği azaltabilir ve sınırlı bütçeli ailelerin daha sağlıklı seçimler yapmasına yardımcı olabilir."
   ],
   "col": [
    "hakkında bilgisizlik",
@@ -156,7 +156,7 @@
   "col": [
    "hayata bakış",
    "olumlu bakış açısı",
-   "ekonomik beklenti",
+   "ekonomik görünüm",
    "bakış açını genişletmek"
   ],
   "tip": "Tutum için on, gelecek beklentisi için for kullanılır: outlook on life, outlook for growth gibi.",
@@ -223,7 +223,7 @@
    "Yosunlar orman ekosistemlerinin nemi tutmasına yardımcı olur ve birçok küçük canlıya yaşam alanı sağlar."
   ],
   "col": [
-   "bir parça yosun",
+   "bir yosun öbeği",
    "kalın yosun",
    "yosunla kaplı kayalar"
   ],
@@ -253,7 +253,7 @@
  {
   "id": "arms",
   "senses": [
-   "silahlar; cephane",
+   "silahlar; silahlanma",
    "kollar"
   ],
   "ex": [

@@ -76,7 +76,7 @@
   "id": "winner",
   "senses": [
    "kazanan; birinci",
-   "başarılı olan kişi ya da şey; yararlanan"
+   "başarılı kişi; kazançlı çıkan"
   ],
   "ex": [
    "Kalabalık alkışlarken kazanan kadın kupasını havaya kaldırdı.",
@@ -96,7 +96,7 @@
    "matematik"
   ],
   "ex": [
-   "Özellikle şekillerle ilgili bulmacaları çözmeyi severek matematik çalışıyor.",
+   "Matematikten, özellikle şekillerle ilgili bulmacaları çözmekten hoşlanır.",
    "Matematikte sağlam bir temel, öğrencilerin verileri yorumlamasını ve günlük hayattaki iddiaları değerlendirmesini sağlar."
   ],
   "col": [
@@ -257,10 +257,10 @@
   "id": "whose",
   "senses": [
    "kimin; onun",
-   "kimin şeyi"
+   "kimin(ki)"
   ],
   "ex": [
-   "Yere her yere su damlatan şemsiye kimin?",
+   "Yerin her yerine su damlatan şemsiye kimin?",
    "Ebeveynleri evde düzenli kitap okuyan çocuklar kitaplara karşı daha güçlü bir ilgi geliştirebilir."
   ],
   "col": [

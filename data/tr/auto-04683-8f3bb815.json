@@ -45,7 +45,7 @@
    "Kirlilik, nehirlerdeki oksijen seviyelerini düşürerek balıkların ve diğer su canlılarının hayatta kalmasını zorlaştırabilir."
   ],
   "col": [
-   "oksijen arzı",
+   "oksijen temini",
    "oksijen seviyeleri",
    "oksijen eksikliği",
    "oksijen maskesi"
@@ -56,7 +56,7 @@
  {
   "id": "trader",
   "senses": [
-   "tüccar; komisyoncu"
+   "tüccar; piyasa işlemcisi"
   ],
   "ex": [
    "Bir pazar satıcısı, tezgâhının önüne taze portakalları dizdi.",
@@ -64,7 +64,7 @@
   ],
   "col": [
    "pazar satıcısı",
-   "döviz tüccarı",
+   "döviz işlemcisi",
    "bağımsız tüccar",
    "hisse senedi işlemcisi"
   ],
@@ -157,7 +157,7 @@
    "Birçok topluluk, mevsim sebzelerinin raf ömrünü uzatmak ve evdeki gıda israfını azaltmak için turşu kurar."
   ],
   "col": [
-   "turşu kurulmuş sebzeler",
+   "turşu yapılmış sebzeler",
    "bir kavanoz turşu",
    "başı belada olmak"
   ],
@@ -193,7 +193,7 @@
   "col": [
    "dağ gorili",
    "gümüş sırtlı goril",
-   "goril koruması"
+   "gorillerin korunması"
   ],
   "tip": "Goril büyük bir maymun türüdür; 'chimpanzee' (şempanze) ile karıştırılmamalıdır.",
   "note": ""
@@ -257,7 +257,7 @@
   "id": "stale",
   "senses": [
    "bayat",
-   "eskimiş; bayağı"
+   "eskimiş; sıkıcı"
   ],
   "ex": [
    "Bu ekmek bayat, onu galeta unu yapmak için kullanacağım.",

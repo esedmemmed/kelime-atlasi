@@ -65,7 +65,7 @@
   "col": [
    "sandıklı dondurucu",
    "dondurucu bölmesi",
-   "dondurucuyu buzunu çözmek"
+   "dondurucunun buzunu çözmek"
   ],
   "tip": "freezer dondurmak için kullanılan cihaz ya da bölmedir; soğutma için fridge (buzdolabı) denir. Karıştırılmamalı.",
   "note": ""
@@ -135,7 +135,7 @@
   "col": [
    "küçük çocuklar",
    "sadece şaka yapıyorum",
-   "etrafta şaka yapmak"
+   "şakalaşmak"
   ],
   "tip": "kid gayriresmi bir sözcüktür; akademik yazıda 'çocuk' anlamında child tercih edilir.",
   "note": ""
@@ -193,7 +193,7 @@
    "turist bilgi merkezi",
    "yurt dışından gelen turistler"
   ],
-  "tip": "Genellikle isim olarak kullanılır; tourist attraction gibi birleşik adlarda ikinci sözcük olarak ad gibi işlev görür.",
+  "tip": "tourist genelde isimdir; tourist attraction gibi birleşik adlarda başka bir ismi niteler (turistik).",
   "note": ""
  },
  {
@@ -210,7 +210,7 @@
   "col": [
    "bıçak ve çatal",
    "yolda bir ayrım noktası",
-   "sola sap"
+   "sola ayrılmak"
   ],
   "tip": "Yol anlamında fork bir yolun ayrıldığı yeri belirtir. a fork in the road deyimi hayatta önemli bir karar anlamına da gelebilir.",
   "note": ""

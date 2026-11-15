@@ -12,7 +12,7 @@
   "col": [
    "güzel bir manzara",
    "güzel vakit geçirmek",
-   "nazik biri"
+   "sevimli biri"
   ],
   "tip": "-ly ile bitse de sıfattır, zarf değildir. Zarf olarak kullanmak için ayrı bir biçim gerekir.",
   "note": ""
@@ -105,7 +105,7 @@
   ],
   "col": [
    "çekingen hissetmek",
-   "acı verecek kadar utangaç",
+   "aşırı utangaç",
    "-den çekinmek"
   ],
   "tip": "shy away from'dan sonra isim ya da -ing gelir: shy away from speaking. Kaçınma anlamı taşır.",
@@ -140,8 +140,8 @@
   ],
   "col": [
    "dizüstü bilgisayar",
-   "dizüstü şarj aleti",
-   "dizüstü pil"
+   "dizüstü bilgisayar şarj cihazı",
+   "dizüstü bilgisayar bataryası"
   ],
   "tip": "laptop taşınabilir bilgisayardır; masaüstü bilgisayar için genellikle 'desktop' kullanılır.",
   "note": ""
@@ -178,13 +178,13 @@
    "diş hekimi randevusu",
    "yetkin bir diş hekimi"
   ],
-  "tip": "'dentist' kişiyi, 'dentistry' ise diş hekimliği mesleğini ya da alanını anlatır.",
+  "tip": "the dentist's diş hekimi muayenehanesini de anlatır (I'm at the dentist's). Diş hekimliği alanı dentistry'dir.",
   "note": ""
  },
  {
   "id": "lock",
   "senses": [
-   "kilitlemek; kilitlemek",
+   "kilitlemek; erişime kapatmak",
    "kilit",
    "bir tutam saç"
   ],
@@ -271,7 +271,7 @@
    "düz çatı",
    "çatı kiremitleri",
    "tek çatı altında",
-   "çatı akıntısı"
+   "çatı sızıntısı"
   ],
   "tip": "Çoğulu roofs. 'roof' dış çatıyı, 'ceiling' ise iç tavanı anlatır.",
   "note": ""

@@ -60,7 +60,7 @@
   "id": "pen",
   "senses": [
    "kalem; dolma kalem",
-   "ağıl; çit",
+   "ağıl",
    "kaleme almak; yazmak"
   ],
   "ex": [
@@ -151,7 +151,7 @@
    "masa ayağı",
    "yolculuğun son etabı"
   ],
-  "tip": "Türkçede masanın \"ayağı\" denir, İngilizcede leg kullanılır: a table leg.",
+  "tip": "Masa ve sandalye ayağı İngilizcede foot değil leg'dir: a table leg.",
   "note": ""
  },
  {
@@ -185,7 +185,7 @@
   "col": [
    "bir şeyi yapmaya çalışmak",
    "bir şeyi yapmayı denemek",
-   "bir denemek",
+   "bir deneme yapmak",
    "kıyafet denemek"
   ],
   "tip": "try to do \"yapmaya çalışmak (zor)\", try doing \"yapmayı denemek (işe yarar mı diye)\" demektir.",
@@ -203,7 +203,7 @@
   "col": [
    "restoranda masa ayırtmak",
    "restoran işletmek",
-   "balık restoranı"
+   "deniz ürünleri restoranı"
   ],
   "tip": "restaurant yemek yenen yer, hotel konaklanan yerdir.",
   "note": ""
@@ -231,7 +231,7 @@
   "id": "father",
   "senses": [
    "baba",
-   "kurucu; babası",
+   "kurucu; öncü",
    "baba olmak"
   ],
   "ex": [
@@ -251,7 +251,7 @@
   "id": "foot",
   "senses": [
    "ayak",
-   "fit (uzunluk ölçüsü, 30,48 cm)",
+   "fit (uzunluk birimi)",
    "dip; etek"
   ],
   "ex": [
@@ -261,7 +261,7 @@
   "col": [
    "yürüyerek",
    "-in dibinde; eteğinde",
-   "bir yere ayak basmak",
+   "ayak basmak",
    "hesabı ödemek"
   ],
   "tip": "Hem \"ayak\" hem \"fit\" anlamında çoğulu feet'tir. \"Yürüyerek\" on foot'tur, by foot değil.",
@@ -397,7 +397,7 @@
   "senses": [
    "şu; o",
    "o; ki (ilgi zamiri)",
-   "ki; -dığını (bağlaç)"
+   "ki (bağlaç)"
   ],
   "ex": [
    "Pencerenin yanındaki şu kâseyi bana uzatır mısın?",
@@ -425,7 +425,7 @@
   ],
   "col": [
    "gidiş-dönüş bileti",
-   "tek yön bilet",
+   "gidiş bileti",
    "park cezası",
    "bilet ayırtmak"
   ],
@@ -483,7 +483,7 @@
   "col": [
    "ikincilik",
    "ikinci şans",
-   "göz açıp kapayıncaya kadar",
+   "bir saniyenin kesri",
    "bir önergeyi desteklemek"
   ],
   "tip": "the second \"ikinci\", a second \"bir tane daha\" ya da \"bir saniye\" anlamına gelebilir.",
@@ -543,7 +543,7 @@
    "düşük gelir",
    "düşük sıcaklıklar",
    "morali bozuk olmak",
-   "-i azalmak; tükenmek üzere olmak"
+   "tükenmek üzere olmak"
   ],
   "tip": "Fiyat için low, ürün için cheap kullanılır: low prices, cheap shoes.",
   "note": ""
@@ -553,7 +553,7 @@
   "senses": [
    "tablo; resim",
    "resim yapma",
-   "boyama; boya badana"
+   "boyama; badana"
   ],
   "ex": [
    "Kanepenin üstüne renkli bir tablo astık.",
@@ -599,7 +599,7 @@
    "Toplu taşımayı genişletme kararı, şehirdeki trafik sıkışıklığını azaltma yönünde olumlu bir adım."
   ],
   "col": [
-   "taşınmak (ev)",
+   "taşınmak",
    "ilerlemek",
    "çok duygulanmak",
    "olumlu bir adım"
@@ -673,7 +673,7 @@
   "col": [
    "biriyle ilk kez tanışmak",
    "şartları karşılamak",
-   "son teslim tarihine yetiştirmek",
+   "son tarihe yetişmek",
    "talebi karşılamak"
   ],
   "tip": "Geçmiş zaman ve üçüncü hâli met'tir. meet requirements \"şartları karşılamak\" demektir.",
@@ -747,8 +747,8 @@
   ],
   "col": [
    "buzdolabında",
-   "buzdolabı kapağı",
-   "derin dondurucu bölmeli buzdolabı"
+   "buzdolabı kapısı",
+   "dondurucu bölmeli buzdolabı"
   ],
   "tip": "fridge, refrigerator'ın günlük dildeki kısa hâlidir.",
   "note": ""
@@ -766,7 +766,7 @@
    "bir web sitesini ziyaret etmek",
    "resmî web sitesi",
    "web sitesi tasarımı",
-   "web sitesi yayına almak"
+   "web sitesini yayına almak"
   ],
   "tip": "\"Sitede\" on a website'tır; webpage tek bir sayfa demektir.",
   "note": ""

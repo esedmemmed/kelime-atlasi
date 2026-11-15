@@ -20,7 +20,7 @@
  {
   "id": "robot",
   "senses": [
-   "robot; otomat"
+   "robot"
   ],
   "ex": [
    "Biz kahvaltı yaparken küçük bir robot yeri temizledi.",
@@ -98,9 +98,9 @@
    "Sakinler, meclisin çocukların güvenle oynayabileceği daha fazla yeşil alan oluşturmasından memnundu."
   ],
   "col": [
-   "...den memnun",
-   "haber almaktan memnun olmak",
-   "tanıştığıma memnun oldum"
+   "-den memnun",
+   "duymaktan memnun olmak",
+   "memnun oldum; tanıştığımıza memnun oldum"
   ],
   "tip": "'Pleased with' bir şeyden duyulan memnuniyet için, 'pleased to' ise bir eylemden duyulan memnuniyet için kullanılır.",
   "note": ""
@@ -149,7 +149,7 @@
   ],
   "ex": [
    "Mavi olanı seçmeden önce birkaç ceket denedim.",
-   "Birçok çalışma, şehirde yaşayan insanların yeşil alanlara erişiminin ruh sağlığını iyileştirebileceğini göstermektedir."
+   "Birkaç çalışma, şehirde yaşayan insanların yeşil alanlara erişiminin ruh sağlığını iyileştirebileceğini göstermektedir."
   ],
   "col": [
    "birkaç kez",
@@ -170,7 +170,7 @@
    "Kuaförlük eğitimi pratik becerileri müşteri hizmetleriyle birleştirir ve geleneksel akademik eğitimin dışında bir kariyer yolu sunar."
   ],
   "col": [
-   "yetkili kuaför",
+   "nitelikli kuaför",
    "kuaföre gitmek",
    "kuaför salonu"
   ],

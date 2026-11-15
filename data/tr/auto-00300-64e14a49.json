@@ -2,7 +2,7 @@
  {
   "id": "hill",
   "senses": [
-   "tepe; yamaç"
+   "tepe"
   ],
   "ex": [
    "Gün batımını izlemek için tepeye tırmandık.",
@@ -11,7 +11,7 @@
   "col": [
    "bir tepeye tırmanmak",
    "engebeli tepeler",
-   "dik bir yamaç"
+   "dik bir tepe"
   ],
   "tip": "hill ile mountain arasında kesin bir yükseklik sınırı yoktur; hill genellikle daha alçak yer şekillerini anlatır.",
   "note": ""
@@ -25,11 +25,11 @@
   ],
   "ex": [
    "Bisikletimin lastiği patladığı için geç kaldım.",
-   "Sabahları düzenli olarak geç saate kadar uyanık kalan öğrenciler, sabah derslerinde dikkatini toplamakta zorlanabilir."
+   "Geç saate kadar uyanık kalan öğrenciler, sabah derslerinde dikkatini toplamakta ve başarılı olmakta zorlanabilir."
   ],
   "col": [
    "...e geç kalmak",
-   "geç yatmak",
+   "geç saate kadar uyanık kalmak",
    "gece geç saatte",
    "son aşamalarda"
   ],
@@ -63,7 +63,7 @@
    "kaplamak; kabuk bağlamak"
   ],
   "ex": [
-   "Öğle yemeğinden sonra limonlu keklerden bir dilim paylaştık.",
+   "Öğle yemeğinden sonra limonlu kekten bir dilim paylaştık.",
    "Okullar, kutlamalarda kek yerine taze meyve sunarak daha sağlıklı beslenmeyi teşvik edebilir."
   ],
   "col": [
@@ -96,7 +96,7 @@
  {
   "id": "sound",
   "senses": [
-   "ses; sada",
+   "ses",
    "kulağa gelmek; ses çıkarmak",
    "sağlam; mantıklı"
   ],
@@ -107,7 +107,7 @@
   "col": [
    "akıllıca tavsiye",
    "sağlam kanıt",
-   "...gibi gelmek",
+   "kulağa ... gibi gelmek",
    "alarm vermek"
   ],
   "tip": "sound sıfatla birlikte kullanılır (sounds good); sound like ise ardından isim gelir (sounds like a plan).",

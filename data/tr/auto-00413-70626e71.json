@@ -21,16 +21,16 @@
  {
   "id": "september",
   "senses": [
-   "Eylül"
+   "eylül"
   ],
   "ex": [
-   "Bu yıl akşam fotoğrafçılık kursumuz Eylül ayında başlıyor.",
-   "Birçok ülkede akademik yıl Eylül'de başlar; bu da üniversite çevresindeki öğrenci konaklamasına mevsimsel bir talep yaratır."
+   "Bu yıl akşam fotoğrafçılık kursumuz eylül ayında başlıyor.",
+   "Birçok ülkede akademik yıl eylülde başlar; bu da üniversite çevresindeki öğrenci konaklamasına mevsimsel bir talep yaratır."
   ],
   "col": [
-   "Eylül ayında",
-   "Eylül ayının başında",
-   "Eylül ayının sonunda"
+   "eylül ayında",
+   "eylül başında",
+   "eylül sonunda"
   ],
   "tip": "İngilizcede ay adları büyük harfle yazılır; Türkçeden farklı olarak. 'next September' gibi kalıplarda başına 'in' getirilmez.",
   "note": ""
@@ -48,7 +48,7 @@
   "col": [
    "kullanımı kolay",
    "kolay erişim",
-   "işi kolaya almak",
+   "sakin olmak; acele etmemek",
    "rahat bir hayat"
   ],
   "tip": "'easy to + fiil' kalıbı yaygındır (easy to make). Bir eylemin nasıl yapıldığını anlatmak için zarf biçimi 'easily' kullanılır.",
@@ -59,7 +59,7 @@
   "senses": [
    "şey; nesne",
    "olay; durum",
-   "eşya; özel eşya"
+   "eşya; kişisel eşyalar"
   ],
   "ex": [
    "Şu ağır şeyi sandalyemin üstünden kaldırır mısın?",
@@ -124,7 +124,7 @@
   ],
   "col": [
    "başka bir şey",
-   "kesinlikle hiçbir şey",
+   "her şey; herhangi bir şey",
    "hiç de... değil"
   ],
   "tip": "Soru ve koşul cümlelerinde 'bir şey' anlamında, olumlu cümlelerde ise 'herhangi bir şey' anlamında kullanılır.",
@@ -177,7 +177,7 @@
    "boyutlara göre ayırmak"
   ],
   "ex": [
-   "Bu bavul hafta sonu gezileri için tam boyutta.",
+   "Bu bavul hafta sonu gezileri için tam uygun boyutta.",
    "Sınıf mevcudunu azaltmak, öğretmenlerin öğrenme güçlüğü yaşayan öğrencilere daha bireysel destek vermesine olanak tanıyabilir."
   ],
   "col": [
@@ -261,7 +261,7 @@
    "inekten süt sağmak",
    "korkutulup susturulmak"
   ],
-  "tip": "'cow' yetişkin dişi sığırı anlatır; sığır türünü genel olarak 'cattle' (çoğul) ile anlatılır, 'a cattle' yanlıştır.",
+  "tip": "cow yetişkin dişi sığırdır (inek). Sığırlar için genel terim cattle çoğuldur; 'a cattle' denmez.",
   "note": ""
  },
  {

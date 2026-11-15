@@ -131,16 +131,16 @@
   "senses": [
    "kavurmak; fırında pişirmek",
    "fırında pişmiş; kavrulmuş",
-   "fırın etli yemek; rosto"
+   "rosto; fırın eti"
   ],
   "ex": [
    "Genellikle patatesleri sarımsak ve taze otlarla fırında pişiririz.",
    "Aileler, aşırı işlenmiş gıdalara bağımlı kalmadan besleyici yemekler hazırlamak için mevsim sebzelerini evde fırında pişirebilir."
   ],
   "col": [
-   "fırında sebze",
+   "sebzeleri fırında pişirmek",
    "fırında tavuk",
-   "pazar rosto yemeği"
+   "pazar günü rostosu"
   ],
   "tip": "roast çoğunlukla et ve sebze için kullanılır; ekmek ve kek gibi hamur işleri için bake tercih edilir.",
   "note": ""
@@ -158,7 +158,7 @@
   "col": [
    "ulusal kahraman",
    "yerel kahraman",
-   "adı duyulmamış kahraman",
+   "isimsiz kahraman",
    "aksiyon kahramanı"
   ],
   "tip": "Çoğulu heroes'dir. Hikâyelerdeki hero her zaman ahlaken iyi biri değildir; bağlama dikkat edin.",
@@ -172,7 +172,7 @@
    "pirzola"
   ],
   "ex": [
-   "Ben sup ısıtırken lütfen havuçları doğrar mısın?",
+   "Ben çorbayı ısıtırken lütfen havuçları doğrar mısın?",
    "Topluluklar yakacak için ağaçları kestiklerinde, farkında olmadan yaşam alanlarına zarar verip toprak erozyonunu artırabilir."
   ],
   "col": [

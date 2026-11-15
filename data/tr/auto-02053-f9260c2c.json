@@ -22,8 +22,8 @@
   "id": "smooth",
   "senses": [
    "pürüzsüz; düzgün",
-   "sorunsuz; pürüzsüz",
-   "pürüzsüzleştirmek; düzeltmek"
+   "sorunsuz; akıcı",
+   "düzeltmek; düzleştirmek"
   ],
   "ex": [
    "Bu taş elimde pürüzsüz ve serin hissettiriyor.",
@@ -81,11 +81,11 @@
    "yasak"
   ],
   "ex": [
-   "Kütüphane, halka açık bilgisayarların yanında yiyecek yasaklıyor.",
+   "Kütüphane, halka açık bilgisayarların yanında yiyecek tüketilmesini yasaklıyor.",
    "Hükümetler, tüketicileri kanıtlanmamış sağlık faydaları olan ürünleri satın almaya yönlendiren yanıltıcı reklamları yasaklamalıdır."
   ],
   "col": [
-   "sigarayı yasaklamak",
+   "sigara içmeyi yasaklamak",
    "bir şeye getirilen yasak",
    "yasak uygulamak",
    "yasağı kaldırmak"
@@ -143,7 +143,7 @@
   ],
   "col": [
    "midilliye binmek",
-   "midilli binme sporu",
+   "midilliye binmek",
    "Shetland midillisi"
   ],
   "tip": "Pony küçük cins atı anlatır. Yavru at ise foal kelimesiyle ifade edilir.",
@@ -157,7 +157,7 @@
   ],
   "ex": [
    "Öğretmenimiz mastarı üç basit örnekle açıkladı.",
-   "Mastarı ne zaman kullanacağını bilmek, dil öğrenenlerin niyet ve amaçlarını daha doğru ifade etmesine yardımcı olur."
+   "Mastarın ne zaman kullanılacağını bilmek, dil öğrenenlerin niyet ve amaçlarını daha doğru ifade etmesine yardımcı olur."
   ],
   "col": [
    "to'suz yalın mastar",
@@ -204,7 +204,7 @@
  {
   "id": "property",
   "senses": [
-   "mülk; özel eşya",
+   "mal; eşya",
    "mülk; gayrimenkul",
    "özellik; nitelik"
   ],
@@ -252,7 +252,7 @@
   "col": [
    "kurdele bağlamak",
    "kurdele fiyonk",
-   "kurdele kesmek (açılış)",
+   "açılış kurdelesi kesmek",
    "uzun ince bir yol şeridi"
   ],
   "tip": "Genellikle sayılabilir. a ribbon of ile uzun ve ince bir şerit biçiminde görünen yol ya da nehir gibi şeyler de anlatılabilir.",

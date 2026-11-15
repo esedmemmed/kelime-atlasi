@@ -239,7 +239,7 @@
    "yaratıcı yazarlık",
    "yazma becerileri",
    "yazılı olarak",
-   "akademik yazım"
+   "akademik yazı yazma"
   ],
   "tip": "Genellikle sayılamaz. write'ın -ing hâlinde e düşer: writing (writeing değil).",
   "note": ""
@@ -273,11 +273,11 @@
    "Burnu ve ağzı kapatan bir maske takmak havadaki toza maruz kalmayı azaltabilir."
   ],
   "col": [
-   "burnunu silmek",
+   "burnunu sümkürmek",
    "burun akıntısı",
    "uçağın burnu"
   ],
-  "tip": "\"Burnunu silmek\" blow your nose'dur, clean your nose denmez.",
+  "tip": "Burnunu sümkürmek için blow your nose denir; clean your nose denmez.",
   "note": ""
  },
  {
@@ -331,7 +331,7 @@
    "dün sabah",
    "dün öğleden sonra",
    "dün akşam",
-   "evvelsi gün"
+   "önceki gün"
   ],
   "tip": "yesterday'den önce edat kullanılmaz ve genellikle geçmiş zamanla kullanılır: I saw him yesterday.",
   "note": ""
@@ -671,7 +671,7 @@
    "bir çift ayakkabı",
    "bir makas",
    "ikili çalışmak",
-   "biriyle eş olmak"
+   "biriyle eşleşmek"
   ],
   "tip": "a pair of shoes özne olduğunda fiil tekil kullanılır: A pair of shoes is…",
   "note": ""
@@ -706,8 +706,8 @@
   ],
   "col": [
    "kendi başına",
-   "buyur, al; dilediğin kadar al",
-   "iyi eğlenceler",
+   "istediğin kadar almak",
+   "eğlenmek; keyfini çıkarmak",
    "kendin ol"
   ],
   "tip": "Tekil you içindir; birden fazla kişiye \"kendiniz\" derken yourselves kullanılır.",
@@ -768,7 +768,7 @@
    "dikkatle dinlemek",
    "tavsiyeye kulak vermek"
   ],
-  "tip": "Nesne alırken to gerekir: listen to music. hear ise \"duymak\" demektir ve isteğe bağlı değildir.",
+  "tip": "Nesne alırken to gerekir: listen to music. hear ise kasıtsız \"duymak\", listen bilinçli \"dinlemek\" demektir.",
   "note": ""
  },
  {

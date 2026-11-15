@@ -30,7 +30,7 @@
   ],
   "col": [
    "bir alkış",
-   "gök gürültüsü gibi alkış",
+   "gürültülü alkış",
    "alkışlamaya başlamak"
   ],
   "tip": "Sayılamayan bir isimdir; \"bir alkış\" için a round of applause kalıbı kullanılır, applause çoğul yapılmaz.",
@@ -96,14 +96,14 @@
    "rüşvet"
   ],
   "ex": [
-   "Sürücü, memura nakit para vererek onu rüşvetle etkilemeye çalıştı.",
+   "Sürücü, memura nakit rüşvet vermeye çalıştı.",
    "Kamu görevlilerine rüşvet veren şirketlere uygulanan sıkı cezalar, hükümet kurumlarına olan güveni yeniden sağlamaya yardımcı olabilir."
   ],
   "col": [
    "rüşvet teklif etmek",
    "rüşvet almak",
    "bir memura rüşvet vermek",
-   "birini rüşvetle bir şey yaptırmak"
+   "birine rüşvet verip bir şey yaptırmak"
   ],
   "tip": "Fiilin nesnesi rüşvet alan kişidir (birine rüşvet vermek). Rüşvet alma ve verme eylemi için bribery kullanılır.",
   "note": ""
@@ -130,8 +130,8 @@
   "id": "making",
   "senses": [
    "yapım; üretim",
-   "başarıya giden etken",
-   "gerekli nitelik"
+   "başarı etkeni",
+   "gerekli nitelikler"
   ],
   "ex": [
    "Öğleden sonrayı ekmek yapımının temellerini öğrenerek geçirdik.",
@@ -205,7 +205,7 @@
   "id": "demanding",
   "senses": [
    "zorlayıcı; yorucu",
-   "titiz; zor memnun"
+   "talepkâr; zor beğenen"
   ],
   "ex": [
    "Yorucu bir vardiyadan sonra otobüste uyuyakaldım.",
@@ -240,18 +240,18 @@
  {
   "id": "carve",
   "senses": [
-   "oymak; kazımak",
+   "oymak; yontmak",
    "dilimlemek; kesmek"
   ],
   "ex": [
-   "Dedem yumuşak ağaçtan küçük bir kuş oymuştu.",
+   "Dedem yumuşak ağaçtan küçük bir kuş oydu.",
    "Yerel zanaatkârlar geleneksel desenleri ahşap mobilyalara oyarak kültürel becerileri korurken modern evler için ürünler üretiyor."
   ],
   "col": [
    "ahşap oymak",
    "heykel oymak",
    "eti dilimlemek",
-   "kendine kariyer yapmak"
+   "kariyer edinmek"
   ],
   "tip": "Ahşap ya da taş oymak için de, pişmiş et dilimlemek için de carve kullanılır. carve out a career başarıyla kendine yol açmak demektir.",
   "note": ""

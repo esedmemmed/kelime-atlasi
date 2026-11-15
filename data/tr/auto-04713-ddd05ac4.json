@@ -47,7 +47,7 @@
    "yabani otları çekip çıkarmak",
    "bahçedeki otları ayıklamak",
    "yabani ot kontrolü",
-   "ayıklayıp çıkarmak"
+   "elemek"
   ],
   "tip": "weed out kalıbı, istenmeyen kişi ya da şeyleri elemek anlamında mecazi olarak da kullanılır.",
   "note": ""
@@ -85,7 +85,7 @@
   "col": [
    "özel olarak tasarlanmış",
    "özellikle belirtmek",
-   "daha ayrıntılı olarak"
+   "daha açık belirtmek gerekirse"
   ],
   "tip": "specifically for belirli bir amacı vurgular; ayrıntıya inmek için more specifically kullanılır.",
   "note": ""
@@ -121,9 +121,9 @@
   "col": [
    "sigara izmariti",
    "yağmur varili",
-   "alay konusu olmak"
+   "alay konusu"
   ],
-  "tip": "Popo anlamındaki butt gayriresmî bir kullanımdır; the butt of a joke ise birinin şakalara konu olması demektir.",
+  "tip": "Popo anlamı gayriresmî Amerikan kullanımıdır; water butt İngiliz İngilizcesinde yağmur suyu varilidir.",
   "note": ""
  },
  {
@@ -193,12 +193,12 @@
    "Haber kuruluşları, resmi iddiaları çevreleyen siyasi yönlendirmeyi olduğu gibi tekrarlamak yerine bunları dikkatle incelemeli."
   ],
   "col": [
-   "etrafında dönmek",
+   "hızla dönmek",
    "yün eğirmek",
    "siyasi yönlendirme",
    "kısa bir tur atmak"
   ],
-  "tip": "Düzensiz fiildir: spin – spun – spun; ing hali spinning olur. Anlamına göre 'iplik eğirmek' ya da 'yorum' olabilir.",
+  "tip": "Düzensiz fiildir: spin – spun – spun; ing biçimi spinning olur.",
   "note": ""
  },
  {
@@ -212,7 +212,7 @@
   ],
   "col": [
    "kamu ile özel",
-   "A karşı B davası",
+   "A – B davası",
    "faydalar ile maliyetler"
   ],
   "tip": "Genellikle vs. ya da v. olarak kısaltılır; maç, dava veya iki seçeneğin karşılaştırılması için kullanılır.",
@@ -228,8 +228,8 @@
    "Her yeni sıfatla birlikte bir zıt anlamlı da öğrenmek, dil öğrencilerinin karşıtlıkları anlamasına ve kelime dağarcığını genişletmesine yardımcı olabilir."
   ],
   "col": [
-   "...in zıt anlamlısı",
-   "bir zıt anlamlı çifti"
+   "bir sözcüğün zıt anlamlısı",
+   "bir çift zıt anlamlı sözcük"
   ],
   "tip": "Genellikle an antonym of kalıbıyla kullanılır; eş anlamlı sözcük için synonym terimi kullanılır.",
   "note": ""

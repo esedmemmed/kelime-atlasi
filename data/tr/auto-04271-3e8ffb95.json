@@ -150,7 +150,7 @@
   "id": "panel",
   "senses": [
    "uzman heyeti; jüri",
-   "kaplama levha",
+   "levha; panel",
    "kontrol paneli"
   ],
   "ex": [
@@ -161,7 +161,7 @@
    "uzman heyeti",
    "jüri heyeti",
    "kontrol paneli",
-   "ahşap kaplama"
+   "ahşap panel"
   ],
   "tip": "Uzman kurulu için a panel of experts denir. Üyelerine panellist adı verilir.",
   "note": ""
@@ -197,7 +197,7 @@
   "col": [
    "önemsiz bir miktar",
    "önemsiz görünmek",
-   "istatistiksel olarak anlamsız"
+   "istatistiksel olarak anlamlı olmayan"
   ],
   "tip": "Etkisinin az ya da önemsiz olduğunu vurgular; meaningless (anlamsız) ile aynı değildir.",
   "note": ""
@@ -214,7 +214,7 @@
   ],
   "col": [
    "birini kutsamak",
-   "-e sahip olmak",
+   "ile nimetlenmiş olmak",
    "çok yaşa"
   ],
   "tip": "be blessed with, bir şeye sahip olmanın şanslı olduğunu anlatır (be blessed with good health gibi).",

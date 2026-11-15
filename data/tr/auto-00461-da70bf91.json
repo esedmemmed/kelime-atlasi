@@ -2,7 +2,7 @@
  {
   "id": "cafe",
   "senses": [
-   "kafe; kahvehane"
+   "kafe; küçük lokanta"
   ],
   "ex": [
    "İstasyonun yanındaki kafede birlikte bir sandviç yedik.",
@@ -11,7 +11,7 @@
   "col": [
    "açık hava kafesi",
    "semt kafesi",
-   "internet kafe"
+   "internet kafesi"
   ],
   "tip": "Fransızcadan gelen café yazımı da kullanılır; İngilizcede genellikle cafe yazılır. Hem içecek hem hafif yemek sunan yerleri anlatır.",
   "note": ""
@@ -61,15 +61,15 @@
    "Ağustos"
   ],
   "ex": [
-   "Genellikle yazın Ağustos ayında deniz kenarındaki büyükannemizi ziyaret ederiz.",
-   "Turistik yerler Ağustos ayında genellikle artan talep yaşar; bu da yerel ulaşım ve konaklama üzerinde baskı oluşturur."
+   "Genellikle ağustos ayında deniz kenarındaki büyükanne ve büyükbabamızı ziyaret ederiz.",
+   "Turistik yerler ağustos ayında genellikle artan talep yaşar; bu da yerel ulaşım ve konaklama üzerinde baskı oluşturur."
   ],
   "col": [
-   "Ağustos ayında",
-   "Ağustos'un başında",
-   "Ağustos'un sonunda"
+   "ağustos ayında",
+   "ağustos başında",
+   "ağustos sonunda"
   ],
-  "tip": "Ay adları büyük harfle yazılır. Ay adından önce in kullanılır: in August.",
+  "tip": "İngilizcede ay adları büyük harfle yazılır. Ay adından önce in kullanılır: in August.",
   "note": ""
  },
  {
@@ -146,12 +146,12 @@
  {
   "id": "place",
   "senses": [
-   "yer; mekan",
+   "yer; mekân",
    "yerleştirmek; koymak",
    "yer; kontenjan"
   ],
   "ex": [
-   "Bu gölgeli yer piknik için çok güzel bir mekan.",
+   "Bu gölgeli yer piknik için çok güzel bir mekân.",
    "Şehir plancıları, temel hizmetlerin herkes için erişilebilir olması amacıyla kamu tesislerini konut alanlarının yakınına yerleştirmelidir."
   ],
   "col": [
@@ -178,7 +178,7 @@
    "yazlık elbise",
    "giyinmek; hazırlanmak",
    "kıyafet kuralı",
-   "süslenmek"
+   "şık giyinmek"
   ],
   "tip": "a dress elbise demektir. get dressed ise 'giyinmek' anlamında kullanılır: I got dressed quickly.",
   "note": ""
@@ -198,7 +198,7 @@
    "kablosuz fare",
    "fare tıklaması"
   ],
-  "tip": "Hayvan anlamında çoğulu mice, bilgisayar aygıtı için genellikle mice veya mouses olabilir. Hem hayvan hem bilgisayar anlamı vardır.",
+  "tip": "Hayvanın çoğulu mice'tır; bilgisayar faresi için mice ya da mouses kullanılabilir.",
   "note": ""
  },
  {
@@ -245,13 +245,13 @@
    "büyü; sihir"
   ],
   "ex": [
-   "Soyadınızı benim için yavaşça hecelerseniz sevinirim.",
+   "Soyadınızı benim için yavaşça heceler misiniz?",
    "Uzayan kurak bir dönem, ürün veriminin düşmesine ve yerel su kaynakları üzerindeki baskının artmasına neden olabilir."
   ],
   "col": [
    "bir kelimeyi hecelemek",
    "kurak bir dönem",
-   "hastalık nöbeti",
+   "bir hastalık dönemi",
    "büyü yapmak"
   ],
   "tip": "Geçmiş zaman biçimi İngiliz İngilizcesinde spelt veya spelled olabilir. 'Dönem' anlamında a spell of ile kullanılır.",

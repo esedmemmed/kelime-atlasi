@@ -24,7 +24,7 @@
   "senses": [
    "kaldırmak; yükseltmek",
    "asansör",
-   "bindirme; yol verme"
+   "arabayla götürme"
   ],
   "ex": [
    "Bu kutuyu rafa kaldırmama yardım eder misin?",
@@ -118,7 +118,7 @@
   "id": "pound",
   "senses": [
    "İngiliz lirası; sterlin",
-   "libre; pound",
+   "libre",
    "art arda vurmak; küt küt atmak"
   ],
   "ex": [
@@ -162,7 +162,7 @@
   ],
   "ex": [
    "Botun kalın sisin içinde kaybolmasını izledik.",
-   "Hükümetler ustaca el işi yapan işçileri desteklemez ve genç kuşakları bunları öğrenmeye teşvik etmezse birçok geleneksel zanaat yok olabilir."
+   "Hükümetler usta zanaatkârları desteklemez ve genç kuşakları bunları öğrenmeye teşvik etmezse birçok geleneksel zanaat yok olabilir."
   ],
   "col": [
    "gözden kaybolmak",
@@ -186,7 +186,7 @@
   "col": [
    "bir düğmeye basmak",
    "birini bir şey yapmaya zorlamak",
-   "reform için bastırmak",
+   "reform için ısrar etmek",
    "fiyatları yükseltmek"
   ],
   "tip": "push 'itmek', pull 'çekmek' anlamına gelir. push for ise 'için ısrarla çalışmak' anlamı taşır.",
@@ -222,7 +222,7 @@
    "Bilim insanları, fosil yakıtlardan yenilenebilir enerjiye geçişi desteklemek için daha verimli piller geliştiriyor."
   ],
   "col": [
-   "araştırma bilim insanı",
+   "araştırmacı bilim insanı",
    "önde gelen bilim insanı",
    "çevre bilimci"
   ],
@@ -275,7 +275,7 @@
   ],
   "col": [
    "bizim için neyse ki",
-   "iyi ki yeterince",
+   "neyse ki; şans eseri",
    "neyse ki kimse yaralanmadı"
   ],
   "tip": "Genellikle tüm cümleyi niteler. Cümle başında kullanıldığında virgülle ayrılır. Anlam olarak fortunately ile yakındır.",

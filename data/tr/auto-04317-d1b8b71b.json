@@ -6,8 +6,8 @@
    "kusmuk"
   ],
   "ex": [
-   "Sert deniz yolculuğu birkaç yolcuyu kustursun.",
-   " Tekrar tekrar kusan hastalar susuzlaşabilir; belirtiler sürerse bir hekime başvurmalıdır."
+   "Sert deniz yolculuğu birkaç yolcuyu kusturdu.",
+   "Tekrar tekrar kusan hastalar susuzlaşabilir; belirtiler sürerse bir hekime başvurmalıdır."
   ],
   "col": [
    "kusmaya başlamak",
@@ -32,7 +32,7 @@
    "siyasi devrim",
    "sanayi devrimi",
    "dijital devrim",
-   "tam bir devrim"
+   "tam bir tur"
   ],
   "tip": "'Revolution' köklü, ani değişimi anlatır; kademeli iyileştirmeler için 'reform' kullanılır. İki kelimeyi karıştırmayın.",
   "note": ""
@@ -155,7 +155,7 @@
    "Çok satan bir kitap, akademik yayınları nadiren okuyan okuyuculara karmaşık bilimsel fikirleri tanıtabilir."
   ],
   "col": [
-   "uluslararası çok satan",
+   "uluslararası çok satan kitap",
    "çok satan olmak",
    "çok satanlar listesi"
   ],
@@ -244,12 +244,12 @@
    "krema ile kaplamak"
   ],
   "ex": [
-   "İnce bir kırağı, mutfak penceremizin dışındaki çimenleri kaplamıştı.",
+   "İnce bir kırağı, mutfağımızın dışındaki çimenleri kaplamıştı.",
    "Beklenmedik bahar donu genç ürünlere zarar verebilir, verimi düşürür ve çiftçileri mali açıdan zorlar."
   ],
   "col": [
    "sert don",
-   "yerde don",
+   "yer donu",
    "don zararı",
    "pastayı kremayla kaplamak"
   ],
@@ -264,11 +264,11 @@
   ],
   "ex": [
    "Marangoz her rafı dolaba tam olarak sığacak şekilde kesti.",
-   "Araştırmacılar, uzun vadeli iklim değişikliği etkilerini değerlendirmek için deniz seviyesindeki değişimleri kesin olarak ölçmelidir."
+   "Araştırmacılar, uzun vadeli iklim değişikliği etkilerini değerlendirmek için deniz seviyesindeki değişimleri tam olarak ölçmelidir."
   ],
   "col": [
-   "kesin olarak ölçmek",
-   "kesin olarak tanımlamak",
+   "tam olarak ölçmek",
+   "tam olarak tanımlamak",
    "tam da bu yüzden"
   ],
   "tip": "'Precisely because' 'tam da bu yüzden' anlamına gelir ve nedeni vurgular.",

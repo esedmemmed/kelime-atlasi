@@ -60,14 +60,14 @@
    "önce; evvel"
   ],
   "ex": [
-   "Şemsiyemi yaklaşık bir saat önce otobüste unutmuşum.",
+   "Şemsiyemi bir saat önce otobüste unutmuşum.",
    "On yıl önce güvenli görünen birçok iş, artık çalışanlardan yeni dijital beceriler geliştirmelerini istiyor."
   ],
   "col": [
    "birkaç gün önce",
    "uzun zaman önce",
    "geçenlerde",
-   "bir yıl önce gibi yakın zamanda"
+   "daha bir yıl önce"
   ],
   "tip": "ago bir zaman ifadesinden sonra gelir (a year ago) ve genellikle geçmiş zamanla kullanılır. before ile karıştırılmamalı.",
   "note": ""
@@ -193,9 +193,9 @@
    "Öğrenci yapıcı geri bildirim aldığında, zayıf yönlerini fark edip performansını geliştirme olasılığı daha yüksektir."
   ],
   "col": [
-   "onlar -dır",
-   "onlar sahip",
-   "dedikleri gibi"
+   "onlar ...dır",
+   "onların ... var",
+   "söylendiğine göre"
   ],
   "tip": "Tekil they ile de fiil çoğul biçimde kullanılır: they are, they have. is ya da has kullanılmaz.",
   "note": ""

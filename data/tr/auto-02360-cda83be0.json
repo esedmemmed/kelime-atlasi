@@ -35,7 +35,7 @@
    "kısır döngü",
    "işe bisikletle gitmek"
   ],
-  "tip": "cycle hem isim hem fiil olarak kullanılır. Bisikletle yolculuk için 'ride a bike' da yaygın bir kalıptır.",
+  "tip": "Fiil olarak 'bisikletle gitmek' demektir: cycle to work (işe bisikletle gitmek). 'Ride a bike' da aynı anlamda kullanılır.",
   "note": ""
  },
  {
@@ -50,7 +50,7 @@
    "Küçük işletmeler, yeni ekipman ve personel eğitimine yatırım yapmak için yeterli sermaye bulmakta sık sık zorlanır."
   ],
   "col": [
-   "başkent şehir",
+   "başkent",
    "sermaye toplamak",
    "büyük harf"
   ],
@@ -124,7 +124,7 @@
    "ağır yük",
    "kamyonu yüklemek",
    "veri yüklemek",
-   "bir yığın çamaşır"
+   "bir makine çamaşır"
   ],
   "tip": "'load A with B' kalıbı A'yı B ile doldurmak anlamına gelir. Boşaltmak için 'unload' kullanılır.",
   "note": ""
@@ -208,7 +208,7 @@
  {
   "id": "dive",
   "senses": [
-   "dalmak; şnorkelle yüzmek",
+   "dalmak; suya atlamak",
    "hızla alçalmak",
    "dalış; sert düşüş"
   ],
@@ -250,7 +250,7 @@
    "uçurum; sarp kaya"
   ],
   "ex": [
-   "Martıların uçurumun yarısına kadar çıkan yerde yuva yaptığını izledik.",
+   "Deniz kuşlarının uçurumun yarı yüksekliğinde yuva yaptığını izledik.",
    "Kıyı erozyonu zamanla bir uçurumu zayıflatabilir ve yakındaki evleri ile yürüyüş yollarını tehlikeye atabilir."
   ],
   "col": [

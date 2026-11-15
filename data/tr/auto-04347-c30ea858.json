@@ -23,13 +23,13 @@
    "hapsetmek; hapse atmak"
   ],
   "ex": [
-   "Hakim, değerli tabloları çaldığı için hırsızı hapse attı.",
+   "Hâkim, değerli tabloları çaldığı için hırsızı hapse attı.",
    "Hükümetler, küçük suçlar için insanları hapsetmenin mi yoksa denetimli toplum hizmetini sağlamanın mı daha etkili olduğunu düşünmeli."
   ],
   "col": [
    "…nedeniyle hapsedilmek",
    "birini ömür boyu hapsetmek",
-   "haksız hapis"
+   "haksız yere hapsetme"
   ],
   "tip": "be imprisoned for'dan sonra suç adı ya da hapis süresi gelebilir. Bu yapı genellikle edilgen çatıda kullanılır.",
   "note": ""
@@ -75,7 +75,7 @@
   "id": "thirst",
   "senses": [
    "susuzluk",
-   "tutku; hırs"
+   "istek; tutku"
   ],
   "ex": [
    "Uzun yürüyüşten sonra serin su susuzluğumu giderdi.",
@@ -96,14 +96,14 @@
    "maske; kılık"
   ],
   "ex": [
-   "Nadia peruk takıp büyük boy gözlük takarak kılık değiştirdi.",
+   "Nadia peruk ve iri bir gözlükle kılık değiştirdi.",
    "Çekici ambalajlar, ürünün kötü kalitesini gizleyebilir ve tüketicilerin bilinçli seçim yapmasını zorlaştırabilir."
   ],
   "col": [
-   "kılık değiştirip … gibi görünmek",
+   "…kılığına girmek",
    "kılık değiştirmiş halde",
    "gerçeği gizlemek",
-   "görünüşte kötü, aslında iyi bir şey"
+   "şer görünen hayır"
   ],
   "tip": "disguise oneself as kalıbında 'as'tan sonra hangi kişi ya da rolün taklit edildiği gelir. 'as' unutulmamalıdır.",
   "note": ""
@@ -133,14 +133,14 @@
    "ölçülü; incelikli"
   ],
   "ex": [
-   "Bu rahatsız edici soruya çok ustaca bir cevap verdin.",
+   "Bu zor soruya çok incelikli bir yanıt verdin.",
    "Diplomatik ilişkilerin sürdürülmesi, ülkelerin gerilimleri tırmandırmak yerine müzakereyle anlaşmazlıkları çözmesini sağlar."
   ],
   "col": [
    "diplomatik ilişkiler",
    "diplomatik çabalar",
    "diplomatik bir çözüm",
-   "ustaca bir cevap"
+   "incelikli bir yanıt"
   ],
   "tip": "Hem devletler arası ilişkiler hem de kırıcı olmayan, incelikli davranış için kullanılır. Kişi için 'diplomat' değil, sıfat olarak diplomatic.",
   "note": ""
@@ -149,16 +149,16 @@
   "id": "hairpin",
   "senses": [
    "saç tokası; firkete",
-   "keskin viraj"
+   "firkete viraj"
   ],
   "ex": [
    "Saçını gümüş bir tokayla topladı.",
-   "Sık sık keskin virajlar içeren dağ yolları, kaza risklerini azaltmak ve çevredeki yaşam alanlarını korumak için dikkatli tasarlanmalıdır."
+   "Sık sık firkete viraj içeren dağ yolları, kaza risklerini azaltmak ve çevredeki yaşam alanlarını korumak için dikkatli tasarlanmalıdır."
   ],
   "col": [
    "gümüş saç tokası",
-   "keskin viraj",
-   "keskin dönüş"
+   "firkete viraj",
+   "U dönüşü"
   ],
   "tip": "Yol anlamında hairpin bend, neredeyse geri dönen U şeklindeki keskin virajı anlatır. Saç tokası için hair clip da kullanılabilir.",
   "note": ""
@@ -183,8 +183,8 @@
  {
   "id": "audition",
   "senses": [
-   "seçme; jüri denemesi",
-   "seçmek; deneme yapmak"
+   "seçme; sınama",
+   "seçmeye girmek; sınamak"
   ],
   "ex": [
    "Lena dün seçmeler için şarkısını çalıştı.",

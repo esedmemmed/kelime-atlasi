@@ -13,7 +13,7 @@
   "col": [
    "televizyon kanalı",
    "iletişim kanalları",
-   "bir deniz yolu",
+   "gemi geçiş kanalı",
    "kaynakları ... aktarmak"
   ],
   "tip": "Fiil olarak 'channel sth into sth' kalıbı kullanılır: kaynağı nereye yönlendirdiğinizi 'into' ile belirtin.",
@@ -92,15 +92,15 @@
    "çalışır durumda",
    "kurtarma operasyonu"
   ],
-  "tip": "Tıbbi anlamda ameliyat, işletme anlamında ise sistemin çalışması demektir. Bağlama göre doğru anlamı seçin.",
+  "tip": "Ameliyat yeri on ile bağlanır: an operation on the knee. Ameliyat olmak: have an operation.",
   "note": ""
  },
  {
   "id": "trust",
   "senses": [
-   "güven; itimat",
+   "güven; inanç",
    "güvenmek; inanmak",
-   "vakıf; emanet"
+   "vakıf; güven fonu"
   ],
   "ex": [
    "Kedimizi beslemesi için komşuma güveniyorum.",
@@ -209,7 +209,7 @@
   "id": "forgive",
   "senses": [
    "affetmek; bağışlamak",
-   "borcunu silmek"
+   "borcu silmek"
   ],
   "ex": [
    "Sevdiğim kupayı kırdığım için beni affedebilir misin?",

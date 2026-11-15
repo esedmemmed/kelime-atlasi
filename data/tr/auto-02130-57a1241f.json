@@ -40,7 +40,7 @@
   "id": "diving",
   "senses": [
    "dalış; sualtına dalma",
-   "atlayış; atlama sporu"
+   "su atlama; atlayış"
   ],
   "ex": [
    "Sualtına dalıp kıyıdaki resifin yakınında renkli balıklar gördük.",
@@ -66,7 +66,7 @@
    "Ziyaretçileri, müzenin koleksiyonunu anlatan ve yollarını bulmalarına yardım eden eğitimli gönüllüler karşılar."
   ],
   "col": [
-   "birini sıcakkanlılıkla karşılamak",
+   "birini sıcak karşılamak",
    "birini gülümseyerek karşılamak",
    "tarafından karşılanmak"
   ],
@@ -147,7 +147,7 @@
  {
   "id": "examination",
   "senses": [
-   "sınav; imtihan",
+   "sınav",
    "inceleme; muayene"
   ],
   "ex": [
@@ -184,7 +184,7 @@
   "id": "responsible",
   "senses": [
    "sorumlu",
-   "sorumlu; suçlu",
+   "sorumlu; neden olan",
    "güvenilir; sorumluluk sahibi"
   ],
   "ex": [
@@ -203,7 +203,7 @@
   "id": "electronic",
   "senses": [
    "elektronik",
-   "elektronik ortamda; dijital"
+   "dijital; çevrimiçi"
   ],
   "ex": [
    "Lütfen gösteri sırasında elektronik cihazlarınızı kapatın.",
@@ -239,7 +239,7 @@
  {
   "id": "approximately",
   "senses": [
-   "yaklaşık olarak; takriben"
+   "yaklaşık olarak; aşağı yukarı"
   ],
   "ex": [
    "Göle yürüyüş yaklaşık yirmi dakika sürüyor.",

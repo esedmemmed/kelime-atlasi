@@ -7,12 +7,12 @@
   ],
   "ex": [
    "Bu saatte dükkânın hâlâ açık olduğunu pek sanmıyorum.",
-   "Temiz suya erişimin halk sağlığını iyileştirmek için şart olduğunda hiç şüphe yok."
+   "Temiz suya erişimin halk sağlığını iyileştirmek için şart olduğundan pek şüphe yoktur."
   ],
   "col": [
    "şüphesi olmak",
    "şüphe yok",
-   "şüpheye düşürmek",
+   "şüphe uyandırmak",
    "şüphe götürmez"
   ],
   "tip": "b harfi okunmaz. 'I doubt that' 'pek sanmıyorum, olası görmüyorum' anlamında, 'I don't think' yerine kullanılabilir.",
@@ -103,7 +103,7 @@
   "col": [
    "bilgi toplamak",
    "kanıt toplamak",
-   "bir araya toplanmak",
+   "bir araya gelmek",
    "güç toplamak"
   ],
   "tip": "'I gather that...' kalıbı 'anladığıma göre / duyduğuma göre' anlamında, bir kaynaktan çıkarım yaparken kullanılır.",
@@ -147,7 +147,7 @@
  {
   "id": "relative",
   "senses": [
-   "akraba; yakın",
+   "akraba",
    "göreli; nispi"
   ],
   "ex": [
@@ -205,7 +205,7 @@
    "stajyer; kursiyer"
   ],
   "ex": [
-   "Çırak, aşçının sebzeleri doğrayışını dikkatle izledi.",
+   "Stajyer, aşçı sebzeleri doğrarken dikkatle izledi.",
    "Her stajyere deneyimli bir mentor atamak, iş yerinde öğrenmeyi geliştirebilir ve maliyetli hataları azaltabilir."
   ],
   "col": [

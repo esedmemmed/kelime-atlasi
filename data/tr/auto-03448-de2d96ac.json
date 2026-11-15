@@ -20,7 +20,7 @@
   "id": "moral",
   "senses": [
    "ahlaki; ahlaka uygun",
-   "kıssadan hisse; ders"
+   "ders; öğüt"
   ],
   "ex": [
    "Kaybolan cüzdanı geri vermek açıkça doğru olan tercihti.",
@@ -40,7 +40,7 @@
   "senses": [
    "matkap; delici alet",
    "tatbikat; alıştırma",
-   "delmek; talim ettirmek"
+   "delmek; alıştırma yaptırmak"
   ],
   "ex": [
    "Rafı asmak için bir matkap ödünç aldım.",
@@ -50,7 +50,7 @@
    "elektrikli matkap",
    "yangın tatbikatı",
    "delik delmek",
-   "alıştırma yapmak"
+   "alıştırma çalışmaları"
   ],
   "tip": "fire drill yangın tatbikatıdır, yangın söndürme aleti değildir. Drill hem alet hem de tekrarlı çalışma anlamına gelebilir.",
   "note": ""
@@ -97,14 +97,14 @@
   ],
   "ex": [
    "Alçak bir taş duvar, güneşli arka bahçemizi çevreliyor.",
-   "Burs başvuru sahipleri, kağıt başvurularını gönderirken niteliklerinin kopyalarını ilişikte göndermelidir."
+   "Burs başvuru sahipleri, kâğıt başvurularını gönderirken niteliklerinin kopyalarını ilişikte göndermelidir."
   ],
   "col": [
    "bahçeyi çevirmek",
    "bir kopyayı ilişikte göndermek",
    "tamamen kapalı"
   ],
-  "tip": "Kağıt bir mektuba ekleme için enclose, e-postadaki ek için attach kullanılır.",
+  "tip": "Kâğıt bir mektuba ekleme için enclose, e-postadaki ek için attach kullanılır.",
   "note": ""
  },
  {
@@ -169,7 +169,7 @@
   ],
   "ex": [
    "Trenle işe gidip geliyorum ve genellikle kitap okuyorum.",
-   "Uzun mesafelerden işe gidip gelen çalışanlar daha fazla stres yaşayabilir ve ailesiyle geçirebileceği zamanı azalabilir."
+   "Uzun mesafelerden işe gidip gelen çalışanlar daha fazla stres yaşayabilir ve ailesiyle geçirebilecekleri zaman azalabilir."
   ],
   "col": [
    "işe gidip gelmek",
@@ -260,7 +260,7 @@
   ],
   "ex": [
    "Kütüphane, yerel yetişkinler için ücretsiz okur yazarlık kursları sunuyor.",
-   "Dijital okuryazarlığın geliştirilmesi, yaşlı yetişkinlerin temel hizmetlere erişmesine ve modern topluma daha tam katılmasına yardımcı olur."
+   "Dijital okuryazarlığın geliştirilmesi, yaşlı yetişkinlerin temel hizmetlere erişmesine ve modern topluma daha etkin biçimde katılmasına yardımcı olur."
   ],
   "col": [
    "yetişkin okur yazarlığı",

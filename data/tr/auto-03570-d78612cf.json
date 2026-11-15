@@ -50,7 +50,7 @@
    "iki ayrı grup",
    "belirgin bir avantaj"
   ],
-  "tip": "'Distinct from' kalıbı 'ile farklı' anlamına gelir. 'Distant' (uzak) ile karıştırmayın.",
+  "tip": "'Distinct from' kalıbı '-den farklı' anlamına gelir. 'Distant' (uzak) ile karıştırmayın.",
   "note": ""
  },
  {
@@ -83,7 +83,7 @@
   ],
   "col": [
    "ortaya çıkmak",
-   "yürürlükte olan; mevcut",
+   "mevcut; var olan",
    "...in varlığı",
    "huzurlu bir hayat"
   ],
@@ -103,7 +103,7 @@
   "col": [
    "bir sorunla yüzleşmek",
    "...ile karşı karşıya kalmak",
-   "birini bir konuda yüzleştirmek"
+   "birinden bir konuda hesap sormak"
   ],
   "tip": "Nesne edatsız gelir: confront a problem. 'Be confronted with' edilgen kalıbı 'karşı karşıya kalmak' anlamı verir.",
   "note": ""
@@ -112,7 +112,7 @@
   "id": "experimental",
   "senses": [
    "deneysel; deneye dayalı",
-   "yenilikçi; denemeye dayalı"
+   "deneme amaçlı; yeni"
   ],
   "ex": [
    "Bugün öğle yemeğinde deneysel sonuçları karşılaştırdık.",
@@ -139,7 +139,7 @@
   ],
   "col": [
    "suç işlemek",
-   "ağır suç",
+   "ceza gerektiren suç",
    "alınmak; gücenmek",
    "gücendirmek"
   ],
@@ -184,16 +184,16 @@
  {
   "id": "unaffordable",
   "senses": [
-   "ödenemez; paraya sığmaz"
+   "karşılanamaz; çok pahalı"
   ],
   "ex": [
-   "Daha büyük daire maaşıma göre ödenemezdi.",
-   "Konut ödenemez hale geldiğinde, temel işçiler iş yerlerinden çok uzağa taşınmak zorunda kalabilir."
+   "Daha büyük daire maaşımla karşılanamazdı.",
+   "Konut karşılanamaz hâle geldiğinde, temel çalışanlar iş yerlerinden çok uzağa taşınmak zorunda kalabilir."
   ],
   "col": [
-   "ödenemez konut",
+   "fiyatı karşılanamayan konut",
    "karşılanamaz kiralar",
-   "ödenemez hale gelmek"
+   "karşılanamaz hâle gelmek"
   ],
   "tip": "Sadece pahalı değil, kişinin ödeme gücünü aşan anlamına gelir. Affordable'ın zıddıdır.",
   "note": ""

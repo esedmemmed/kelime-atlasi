@@ -22,7 +22,7 @@
   "id": "shocked",
   "senses": [
    "şoke olmuş; şaşkın",
-   "öfkeli; tiksinmiş"
+   "rahatsız olmuş; gücenmiş"
   ],
   "ex": [
    "Mutfağın su altında kaldığını görünce çok şaşırdım.",
@@ -31,7 +31,7 @@
   "col": [
    "derinden şoke olmuş",
    "haberden şoke olmuş",
-   "duyunca şaşkına dönmüş"
+   "duyunca şoke olmak"
   ],
   "tip": "shocked insanın duygusunu anlatır; shocking ise şoke edici olan şeyi anlatır. 'I am shocking' yerine 'I am shocked' demelisiniz.",
   "note": ""
@@ -208,14 +208,14 @@
   ],
   "ex": [
    "Yağmur yağmaya başlamazsa dışarıda yemek yiyeceğiz.",
-   "Yerel yönetimler güvenilirliğini artırıp ücretleri daha uygun hale getirmedikçe toplu taşıma popüler olmaya devam etmeyecek."
+   "Yerel yönetimler güvenilirliğini artırıp ücretleri daha uygun hale getirmedikçe toplu taşıma popüler olmayacaktır."
   ],
   "col": [
    "aksi belirtilmedikçe",
    "kesinlikle gerekmedikçe",
    "koşullar değişmedikçe"
   ],
-  "tip": "Gelecekle ilgili koşul cümlelerinde unless'ten sonra fiil gelecek zamanda değil, şimdiki zamanda kullanılır.",
+  "tip": "Gelecekle ilgili koşul cümlelerinde unless'ten sonra will değil, geniş zaman (şimdiki zaman biçimi) kullanılır.",
   "note": ""
  },
  {

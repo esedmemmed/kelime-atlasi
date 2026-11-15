@@ -21,7 +21,7 @@
   "id": "gambler",
   "senses": [
    "kumarbaz",
-   "risk alan kişi; cesur"
+   "risk alan kişi"
   ],
   "ex": [
    "Kumarbaz parasını kaybettikten sonra masadan ayrıldı.",
@@ -29,7 +29,7 @@
   ],
   "col": [
    "sorunlu kumarbaz",
-   "kronik kumarbaz",
+   "bağımlı kumarbaz",
    "profesyonel kumarbaz"
   ],
   "tip": "Gamble fiil ya da isimdir, gambler ise bu eylemi yapan kişiyi ifade eder.",
@@ -57,7 +57,7 @@
   "id": "congested",
   "senses": [
    "tıkanık; kalabalık",
-   "tıkanık; dolu"
+   "tıkalı; tıkanmış"
   ],
   "ex": [
    "Yollar o kadar tıkanmıştı ki eve yürüyerek gitmek zorunda kaldık.",
@@ -76,7 +76,7 @@
   "id": "ultimate",
   "senses": [
    "nihai; son",
-   "en üst düzeyde; en iyi"
+   "en üstün; en iyi"
   ],
   "ex": [
    "Bizim nihai hedefimiz küçük bir ev satın almak.",
@@ -189,11 +189,11 @@
   "id": "grant",
   "senses": [
    "hibe; destek ödeneği",
-   "resmen izin vermek",
+   "vermek; onaylamak",
    "kabul etmek; tanımak"
   ],
   "ex": [
-   "Küçük bir hibe sayesinde köy oyun alanını onarabildi.",
+   "Küçük bir hibe sayesinde köy oyun alanını onarabildik.",
    "Hükümetler, evsel enerji tüketimini azaltmaya yönelik uygun maliyetli teknolojiler geliştiren üniversitelere araştırma hibeleri sağlamalıdır."
   ],
   "col": [
@@ -212,7 +212,7 @@
    "milletvekili"
   ],
   "ex": [
-   "Müdür, bugünkü toplantıyı yönetmesi için yardımcısından istedi.",
+   "Müdür, yardımcısından bugünkü toplantıyı yönetmesini istedi.",
    "Yetkin bir yardımcı atamak, okul yöneticilerinin idari sorumlulukları paylaşmasına ve eğitimin iyileştirilmesine odaklanmasına olanak tanır."
   ],
   "col": [
@@ -247,8 +247,8 @@
   "id": "remains",
   "senses": [
    "artıklar; kalıntılar",
-   "eski eserler; kalıntılar",
-   "kalıntılar; ölünün kemikleri"
+   "kalıntılar; harabeler",
+   "naaş; kemikler"
   ],
   "ex": [
    "Piknikten kalan artıklar küçük bir torbayı doldurdu.",
@@ -265,7 +265,7 @@
  {
   "id": "stump",
   "senses": [
-   "kütük; ağaç kökü",
+   "kütük; kesik gövde",
    "şaşırtmak; çaresiz bırakmak"
   ],
   "ex": [

@@ -13,7 +13,7 @@
    "yatay çizgi",
    "yatay konum"
   ],
-  "tip": "horizontal (yatay) ile vertical (dikey) karşıt anlamlıdır. Yazımda 'horizantal' yanlıştır, doğrusu 'horizontal'dır.",
+  "tip": "Horizontal yatay, vertical dikey demektir; ikisi birbirinin karşıtıdır.",
   "note": ""
  },
  {
@@ -51,7 +51,7 @@
    "motorlu taşıt sektörü",
    "ince motor becerileri"
   ],
-  "tip": "fine motor skills 'ince motor beceriler' anlamındadır; vücut hareketleriyle ilgilidir, araçla bir ilgisi yoktur.",
+  "tip": "Fine motor skills 'ince motor becerileri' demektir; vücut hareketleriyle ilgilidir, araçla ilgisi yoktur.",
   "note": ""
  },
  {
@@ -67,7 +67,7 @@
   "col": [
    "etrafta dolaşmak",
    "uzaklaşmak; ayrılmak",
-   "aklını dağıtmak",
+   "aklı dalıp gitmek",
    "konudan sapmak"
   ],
   "tip": "wander (dolaşmak) ile wonder (merak etmek) harf benzerliği nedeniyle karıştırılabilir; yazımına dikkat edin.",
@@ -81,7 +81,7 @@
    "bir damla; renk lekesi"
   ],
   "ex": [
-   "Köpek pantolonuma her yerden su sıçrattı.",
+   "Köpek pantolonumun her yerine su sıçrattı.",
    "Su baskını olan sokaklardan geçen araçlar, yayaların üzerine kirli su sıçratabilir ve yakındaki dükkân vitrinlerine zarar verebilir."
   ],
   "col": [
@@ -96,10 +96,10 @@
  {
   "id": "extinction",
   "senses": [
-   "yok olma; soyu tükenme"
+   "yok olma; nesli tükenme"
   ],
   "ex": [
-   "Ormanları yok olursa bu nadir kuşlar soyu tükenme tehlikesiyle karşı karşıya kalır.",
+   "Ormanları yok olursa bu nadir kuşların nesli tükenme tehlikesiyle karşı karşıya kalır.",
    "Yoğun tarım ve kentsel genişleme yüzünden tehdit altındaki türlerin yok olmasını önlemek için doğal yaşam alanlarını korumak şarttır."
   ],
   "col": [
@@ -140,7 +140,7 @@
   ],
   "col": [
    "şiddet içeren davranış",
-   "şiddet suçu",
+   "şiddet içeren suç",
    "şiddetli fırtına"
   ],
   "tip": "violent hem insan davranışı hem de doğa olayları için kullanılabilir. İsim hali violence'tır.",
@@ -221,7 +221,7 @@
   "id": "component",
   "senses": [
    "parça; bileşen",
-   "bileşen olan"
+   "oluşturan; kurucu"
   ],
   "ex": [
    "Teknisyen dizüstü bilgisayarımın içindeki bozuk parçayı değiştirdi.",
@@ -230,7 +230,7 @@
   "col": [
    "önemli bir bileşen",
    "elektronik parçalar",
-   "yedek parçalar"
+   "bileşen parçalar"
   ],
   "tip": "a component of kalıbı '...in bir parçası/bileşeni' anlamına gelir: a component of the system.",
   "note": ""

@@ -60,10 +60,10 @@
   "id": "invest",
   "senses": [
    "yatırım yapmak",
-   "yatırmak; ayırmak"
+   "ayırmak; emek vermek"
   ],
   "ex": [
-   "Teyzem küçük bir fırın açmak için yatırım yapmayı planlıyor.",
+   "Teyzem küçük bir fırına yatırım yapmayı planlıyor.",
    "Hükümetler, enerji güvenliğini artırmak ve ithal yakıta bağımlılığı azaltmak için yenilenebilir enerjiye yatırım yapmalıdır."
   ],
   "col": [
@@ -226,7 +226,7 @@
  {
   "id": "electrical",
   "senses": [
-   "elektrikli; elektrik"
+   "elektriksel; elektrik"
   ],
   "ex": [
    "Bir elektrik arızası mutfağımızı karanlıkta bıraktı.",

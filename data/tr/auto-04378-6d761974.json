@@ -47,7 +47,7 @@
   "col": [
    "dolaylı olarak edinilen",
    "dolaylı yoldan öğrenmek",
-   "bir konuyu gelişigüzel belirtmek"
+   "geçerken değinmek"
   ],
   "tip": "Cümle başında \"bu arada\" anlamına gelir. Her bağlamda \"tesadüfen\" demek değildir; asıl amacın yan ürünü olduğunu da anlatabilir.",
   "note": ""
@@ -66,7 +66,7 @@
    "ampul",
    "ampulü değiştirmek",
    "enerji tasarruflu ampul",
-   "soğanlı bitkiler"
+   "çiçek soğanı dikmek"
   ],
   "tip": "Sözcük hem elektrik ampulünü hem de soğan, sarımsak veya zambak gibi bitkilerin yer altı soğanını ifade eder. Bağlama dikkat edin.",
   "note": ""
@@ -94,7 +94,7 @@
   "senses": [
    "kapasite; hacim",
    "kapasite; üretim gücü",
-   "sıfat; görev; sıfat"
+   "sıfat; görev"
   ],
   "ex": [
    "Bu küçük asansörün kapasitesi altı kişidir.",
@@ -131,12 +131,12 @@
  {
   "id": "gaze",
   "senses": [
-   "dikkatle bakmak; gözlemek",
+   "uzun uzun bakmak; dalıp bakmak",
    "bakış; dikkatli bakış"
   ],
   "ex": [
    "Lina yatak odasının penceresinden aya uzun uzun baktı.",
-   "Ziyaretçiler tarihi binalara sıkça hayranlıkla bakar, ancak bu kültürel hazineleri korumak için gereken bakım çalışmalarını fark etmez."
+   "Ziyaretçiler tarihi binalara sıkça uzun uzun bakar, ancak bu kültürel hazineleri korumak için gereken bakım çalışmalarını fark etmez."
   ],
   "col": [
    "...e bakmak",
@@ -173,12 +173,12 @@
    "dayanıklı olmak; etkilenmemek"
   ],
   "ex": [
-   "Sıcak tarçınlı bir çörek daha almamaya kendimi tutamadım.",
+   "Sıcak tarçınlı bir çörek daha almaktan kendimi alamadım.",
    "Çalışanlar, yeni sistemlerin iş güvencelerini tehdit edeceğine inanırlarsa teknolojik değişime direnebilirler."
   ],
   "col": [
    "değişime direnmek",
-   "baştan çıkarıcılığa direnmek",
+   "ayartıya direnmek",
    "baskıya karşı koymak",
    "korozyona dayanıklı olmak"
   ],
@@ -200,9 +200,9 @@
    "güvertede",
    "üst güverte",
    "ahşap teras",
-   "bir deste kâğıt"
+   "bir deste iskambil kâğıdı"
   ],
-  "tip": "Gemi güvertesi, otobüs katı, ahşap teras ve kağıt destesi anlamlarına gelir; bağlama göre çevirin.",
+  "tip": "Deste anlamında ABD'de deck, İngiltere'de çoğunlukla pack kullanılır. Gemide güverte, otobüste kat demektir.",
   "note": ""
  },
  {
@@ -236,7 +236,7 @@
   ],
   "col": [
    "tartışmaya katılmak",
-   "izleyiciyle ilgi kurmak",
+   "izleyiciyle bağ kurmak",
    "birinin dikkatini çekmek",
    "bir danışman tutmak"
   ],

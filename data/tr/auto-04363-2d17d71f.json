@@ -13,7 +13,7 @@
   "col": [
    "hassas cilt",
    "eleştiriye alıngan",
-   "gizli bilgi",
+   "hassas bilgi",
    "hassas konu"
   ],
   "tip": "sensitive (hassas) ile sensible (akıllıca, mantıklı) kelimelerini karıştırmayın.",
@@ -26,7 +26,7 @@
    "tuval; yağlı boya tablo"
   ],
   "ex": [
-   "Yemeğini sağlam bir kanvas çantaya koymuştu.",
+   "Yemeğini sağlam bir kanvas çantaya koydu.",
    "Tuval üzerine resim yapmak, öğrencilerin yaratıcı özgüvenlerini geliştirirken renk ve dokuyu keşfetmelerine olanak tanır."
   ],
   "col": [
@@ -43,7 +43,7 @@
   "senses": [
    "budamak; kısmak",
    "kırpma; düzeltme",
-   "düzgün; zayıf ve formda"
+   "derli toplu; formda"
   ],
   "ex": [
    "Pencereyi kapatmadan önce çiti budarım.",
@@ -52,7 +52,7 @@
   "col": [
    "çiti budamak",
    "maliyetleri kısmak",
-   "hafif kırpma",
+   "hızlı bir düzeltme",
    "formda kalmak"
   ],
   "tip": "Geçmiş zaman trimmed ve ing hâli trimming biçiminde m harfi ikilenir.",
@@ -72,7 +72,7 @@
    "zar zor görülebilen",
    "zar zor yeterli",
    "zar zor hayatta kalmak",
-   "fark etmemek"
+   "zar zor fark etmek"
   ],
   "tip": "Kendisi olumsuz anlam taşıdığı için genellikle not ile birlikte kullanılmaz.",
   "note": ""
@@ -80,7 +80,7 @@
  {
   "id": "confession",
   "senses": [
-   "itiraf; açık yürekli kabul",
+   "itiraf; ikrar",
    "günah çıkarma"
   ],
   "ex": [
@@ -108,7 +108,7 @@
   ],
   "col": [
    "kamuya açık",
-   "devlet desteğiyle finanse edilen",
+   "kamu kaynaklarıyla finanse edilen",
    "açıkça kabul etmek",
    "kamu mülkiyetinde"
   ],
@@ -147,7 +147,7 @@
   "col": [
    "pası temizlemek",
    "pası önlemek",
-   "pas gibi çözülüp gitmek"
+   "paslanıp aşınmak"
   ],
   "tip": "Bir becerinin unutulup körelmesi için rusty kullanılır: My French is rusty (Fransızcam paslandı).",
   "note": ""
@@ -202,7 +202,7 @@
   "col": [
    "kuru dallar",
    "bir dalı kırmak",
-   "bu anlamak"
+   "bir şeyi birden anlamak"
   ],
   "tip": "Fiil anlamı İngiliz kullanımında gayriresmîdir; geçmiş zamanı twigged'dir.",
   "note": ""
@@ -231,7 +231,7 @@
   "id": "dresser",
   "senses": [
    "çekmeceli dolap (ABD)",
-   "çanak çömlek dolabı (İng.)",
+   "mutfak büfesi (İng.)",
    "belli bir tarzda giyinen kişi"
   ],
   "ex": [
@@ -239,11 +239,11 @@
    "Yeni mobilya almak yerine eski bir çekmeceli dolabı yenilemek, atığı azaltabilir ve doğal kaynakları koruyabilir."
   ],
   "col": [
-   "yatak odası dolabı",
-   "mutfak servis dolabı",
+   "yatak odası şifonyeri",
+   "mutfak büfesi",
    "şık giyinen kişi"
   ],
-  "tip": "Amerikan kullanımında genellikle giysi çekmeceli dolabı, İngiliz kullanımında mutfak servis dolabı anlamına gelir.",
+  "tip": "Amerikan kullanımında genellikle giysi çekmeceli dolabı, İngiliz kullanımında mutfak büfesi anlamına gelir.",
   "note": ""
  },
  {
@@ -258,7 +258,7 @@
   ],
   "col": [
    "yakın gözlem",
-   "gözetim altında",
+   "gözlem altında",
    "bir gözlemde bulunmak",
    "doğrudan gözlem"
   ],

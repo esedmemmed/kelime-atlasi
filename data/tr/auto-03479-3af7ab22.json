@@ -12,7 +12,7 @@
   ],
   "col": [
    "şüphe uyandırmak",
-   "şüpheli durumda olmak",
+   "şüphe altında olmak",
    "hırsızlık şüphesiyle",
    "…olduğuna dair bir şüphe"
   ],
@@ -69,7 +69,7 @@
    "sade tasarım",
    "zarif sadelik"
   ],
-  "tip": "Genellikle sayılamaz. Sıfat olan simple'ın isim biçimidir; \"in simplicity\" yerine \"for simplicity\" kalıbına dikkat edin.",
+  "tip": "Genellikle sayılamaz. Sıfat olan simple'ın isim biçimidir.",
   "note": ""
  },
  {
@@ -122,7 +122,7 @@
   "col": [
    "taze nane",
    "nane çayı",
-   "madeni paralar",
+   "madeni para basmak",
    "mükemmel durumda"
   ],
   "tip": "Bitki anlamında genellikle sayılamaz; \"a mint\" bir adet naneli şekeri ifade eder. \"in mint condition\" yeni gibi durumu anlatır.",
@@ -142,7 +142,7 @@
    "kovayı doldurmak",
    "süt kovası"
   ],
-  "tip": "Pale (solgun) ile aynı sesleniyor. Günlük İngilizcede genellikle bucket daha yaygındır.",
+  "tip": "Pale (solgun) ile aynı okunur. Günlük İngilizcede genellikle bucket daha yaygındır.",
   "note": ""
  },
  {
@@ -168,7 +168,7 @@
   "senses": [
    "selam vermek; saygı göstermek",
    "övmek; takdir etmek",
-   "selam; saygı duruşu"
+   "selam; selamlama"
   ],
   "ex": [
    "Subay, kaptanı selamlamak için elini kaldırdı.",
@@ -222,7 +222,7 @@
  {
   "id": "tide",
   "senses": [
-   "gel-git; deniz kabarması",
+   "gelgit; deniz kabarması",
    "eğilim; akım"
   ],
   "ex": [

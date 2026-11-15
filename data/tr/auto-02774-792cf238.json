@@ -55,7 +55,7 @@
   "id": "excitement",
   "senses": [
    "heyecan; coşku",
-   "heyecan verici şey; ilgi çekici olay"
+   "heyecan verici şey"
   ],
   "ex": [
    "Yavru köpekler geldiğinde çocuklar heyecandan zıpladı.",
@@ -65,9 +65,9 @@
    "heyecanla",
    "heyecan dolu bir his",
    "heyecan yaratmak",
-   "heyecanını gizlemek"
+   "heyecanına hâkim olmak"
   ],
-  "tip": "Duygu anlamında excitement genellikle sayılamaz: with excitement. Heyecan verici bir şey anlamında sayılabilir kullanılabilir.",
+  "tip": "Duygu anlamında excitement genellikle sayılamaz (with excitement); heyecan verici bir olay anlamında sayılabilir.",
   "note": ""
  },
  {
@@ -79,12 +79,12 @@
   ],
   "ex": [
    "Gölet kenarına yaklaştığımda kaz çantama saldırdı.",
-   "Eleştirmenler, yoksulluk içinde yaşayan aileler için pek destek sunmadığı gerekçesiyle öneriye sert biçimde saldı."
+   "Eleştirmenler, yoksulluk içinde yaşayan aileler için pek destek sunmadığı gerekçesiyle öneriyi sert biçimde eleştirdi."
   ],
   "col": [
    "saldırıya uğramak; hedef olmak",
    "kalp krizi",
-   "bir öneriye saldırmak"
+   "bir öneriyi sert biçimde eleştirmek"
   ],
   "tip": "Fiil doğrudan nesne alır: attack someone. İsim olarak genellikle an attack on kalıbı kullanılır.",
   "note": ""
@@ -102,9 +102,9 @@
   ],
   "col": [
    "mumu üfleyerek söndürmek",
-   "burnunu sümkürmek",
+   "sümkürmek",
    "büyük bir darbe",
-   "...e darbe vurmak"
+   "...e darbe indirmek"
   ],
   "tip": "Düzensiz fiildir: blow–blew–blown. Geçmiş zamanda blew, bitmiş eylemde blown kullanılır.",
   "note": ""
@@ -146,8 +146,8 @@
  {
   "id": "antarctic",
   "senses": [
-   "Antarktika'ya ait; kutupsal",
-   "Antarktika; güney kutbu"
+   "Antarktika'ya ait; Antarktik",
+   "Antarktika; Güney Kutbu"
   ],
   "ex": [
    "Antarktika buzları üzerindeki penguenler hakkında bir film izledik.",
@@ -243,12 +243,12 @@
    "birebir ders vermek"
   ],
   "ex": [
-   "Özel öğretmenim kesirleri kağıt dairelerle anlamama yardımcı oldu.",
-   "Kişisel bir öğretmen, öğrencilerin etkili çalışma alışkanlıkları geliştirmesine ve belirli öğrenme güçlüklerini gidermesine yardımcı olabilir."
+   "Özel öğretmenim kesirleri kâğıt dairelerle anlamama yardımcı oldu.",
+   "Akademik danışman, öğrencilerin etkili çalışma alışkanlıkları geliştirmesine ve belirli öğrenme güçlüklerini gidermesine yardımcı olabilir."
   ],
   "col": [
    "özel öğretmen",
-   "kişisel eğitmen",
+   "akademik danışman",
    "birine matematik özel dersi vermek"
   ],
   "tip": "tutor, bireysel veya küçük grup dersi veren kişi demektir. Her zaman üniversite öğretim üyesi anlamına gelmez.",

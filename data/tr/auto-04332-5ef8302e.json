@@ -11,7 +11,7 @@
   ],
   "col": [
    "bir hastalığı teşhis etmek",
-   "...ile teşhis edilmek",
+   "…teşhisi konmak",
    "bir arızayı tespit etmek"
   ],
   "tip": "Birine hastalık teşhisi konduğunu söylerken be diagnosed with kalıbı kullanılır; diagnose someone with da kullanılabilir.",
@@ -67,7 +67,7 @@
   "col": [
    "yavaş yavaş kaybolmak",
    "güneşte solmak",
-   "anılar silinmek",
+   "anılar silikleşmek",
    "arka plana çekilmek"
   ],
   "tip": "Fade away, bir şeyin zamanla yavaş yavaş zayıflayıp kaybolmasını anlatır; ani değişimler için kullanılmaz.",
@@ -87,7 +87,7 @@
    "kalemi açmak",
    "bıçağı bilemek",
    "becerileri geliştirmek",
-   "dikkati keskinleştirmek"
+   "odaklanmayı artırmak"
   ],
   "tip": "Sharp sıfatına -en eki getirilerek fiil yapılmıştır. Mecazi olarak beceri, dikkat ve odaklanma için de kullanılır.",
   "note": ""
@@ -190,7 +190,7 @@
   "id": "organizational",
   "senses": [
    "örgütsel; kurumsal",
-   "düzenlemeye ilişkin"
+   "organizasyona ilişkin"
   ],
   "ex": [
    "Yeni müdür bu sabah birkaç örgütsel değişikliği duyurdu.",
@@ -209,7 +209,7 @@
   "id": "chunk",
   "senses": [
    "parça; büyük parça",
-   "önemli bir kısım"
+   "büyük kısım"
   ],
   "ex": [
    "Çorbaya bir parça peynir attı.",

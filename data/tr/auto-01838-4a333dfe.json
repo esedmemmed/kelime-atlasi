@@ -2,7 +2,7 @@
  {
   "id": "switch",
   "senses": [
-   "şalter; anahtar",
+   "düğme; şalter",
    "değiştirmek; geçmek",
    "değişiklik; geçiş"
   ],
@@ -31,10 +31,10 @@
    "Yanlış park edilmiş araçlar, tekerlekli sandalye kullanıcılarının kamu binalarına erişimini engelleyerek zorluklara yol açabiliyor."
   ],
   "col": [
-   "bir apartman",
+   "bir apartman bloğu",
    "girişi tıkamak",
    "bir buz bloğu",
-   "şehir bloğu; sokak arası"
+   "yapı adası"
   ],
   "tip": "block of flats apartman anlamına gelir ve İngiliz İngilizcesine özgüdür. Amerikan İngilizcesinde apartment building tercih edilir.",
   "note": ""
@@ -89,7 +89,7 @@
   ],
   "col": [
    "bir inç kalınlığında",
-   "yavaşça ileri ilerlemek",
+   "azar azar ilerlemek",
    "yavaş yavaş"
   ],
   "tip": "Inch yaklaşık 2,54 cm'dir; günlük Türkçe kullanımda metrik birimler tercih edilir. Fiil olarak da 'yavaşça ilerlemek' anlamına gelir.",
@@ -115,7 +115,7 @@
   "id": "rope",
   "senses": [
    "halat; ip",
-   "ip ile bağlamak"
+   "iple bağlamak"
   ],
   "ex": [
    "Tekneyi halatla bir direğe bağladık.",
@@ -145,7 +145,7 @@
    "içine dökmek",
    "dışarı dökmek",
    "şiddetle yağmak",
-   "içine para dökmek"
+   "...e para akıtmak"
   ],
   "tip": "Bir kaptan dışarı dökmek için pour out of, içine dökmek için pour into kullanılır. Yağmur için it's pouring şeklinde de kullanılır.",
   "note": ""
@@ -163,8 +163,8 @@
   ],
   "col": [
    "komik zamanlama",
-   "çizgi roman şeridi",
-   "çizgi roman kitabı",
+   "karikatür şeridi",
+   "çizgi roman",
    "komik etki"
   ],
   "tip": "Comic 'komik' ya da 'komedi ile ilgili' anlamına gelir; comical ise daha çok gülünç ve garip bulunan şeyler için kullanılır.",
@@ -173,7 +173,7 @@
  {
   "id": "content",
   "senses": [
-   "içerik; miktar",
+   "içerik; oran",
    "memnun; hoşnut",
    "memnun etmek"
   ],
@@ -184,8 +184,8 @@
   "col": [
    "çevrimiçi içerik",
    "şeker oranı",
-   "ile yetinmek",
-   "ile yetinmek"
+   "...den memnun olmak",
+   "...le yetinmek"
   ],
   "tip": "İsim olarak ilk hece (CON-tent) vurgulanır; sıfat ve fiil olarak ikinci hece vurgulanır. İçindekiler anlamında contents kullanılır.",
   "note": ""
@@ -257,7 +257,7 @@
   ],
   "col": [
    "dondurucu soğuk",
-   "donma sıcaklıkları",
+   "dondurucu sıcaklıklar",
    "sıfırın altında",
    "donma noktası"
   ],

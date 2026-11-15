@@ -2,11 +2,11 @@
  {
   "id": "undersea",
   "senses": [
-   "deniz altındaki; denizaltı"
+   "deniz altındaki; deniz altı"
   ],
   "ex": [
    "Belgesel, denizin altındaki bir mağaranın çevresindeki renkli balıkları gösteriyordu.",
-   "Denizaltı kablolar kıtaları birbirine bağlıyor ve küresel iletişim ile uluslararası ticaret için temel altyapı sağlıyor."
+   "Deniz altı kabloları kıtaları birbirine bağlıyor ve küresel iletişim ile uluslararası ticaret için temel altyapı sağlıyor."
   ],
   "col": [
    "denizaltı kablosu",
@@ -84,7 +84,7 @@
    "geniş bir alan",
    "geniş kaynaklar"
   ],
-  "tip": "'the vast majority of' kalıbı 'çoğunluğun büyük kısmı' anlamına gelir ve resmi yazıda çok kullanılır.",
+  "tip": "the vast majority of kalıbı 'büyük çoğunluğu' anlamına gelir ve resmi yazıda sık kullanılır.",
   "note": ""
  },
  {
@@ -136,9 +136,9 @@
    "Çevrim içi dersler bağımsız öğrenmeyi destekleyebilir, ama sınıf içi etkileşimin yerini her zaman yeterince tutamaz."
   ],
   "col": [
-   "bir şeyin yerine ikame",
+   "bir şeyin yerine geçen şey",
    "A'yı B yerine koymak",
-   "uygun bir ikame",
+   "uygun bir alternatif",
    "vekil öğretmen"
   ],
   "tip": "'substitute A for B' yapısında yeni gelen A, yerine konulan B'dir. Sıra karıştırılmamalı: substitute margarine for butter.",
@@ -156,7 +156,7 @@
   ],
   "col": [
    "üzerine şeker serpmek",
-   "otla serpiştirmek",
+   "otlarla serpmek",
    "bir tutam tuz"
   ],
   "tip": "sprinkle A over B (A'yı B'nin üzerine serpmek) ve sprinkle B with A (B'yi A ile serpiştirmek) kalıplarının ikisi de doğrudur.",
@@ -183,7 +183,7 @@
   "id": "infectious",
   "senses": [
    "bulaşıcı",
-   "etkileyici; yayılan"
+   "yayılan; bulaşıcı"
   ],
   "ex": [
    "Onun bulaşıcı kahkahası masadaki herkesi kısa sürede gülümsetti.",
@@ -241,7 +241,7 @@
   "senses": [
    "yenilik; özgünlük",
    "yeni şey; ilgi çeken şey",
-   "hediyelik eşya; oyuncak"
+   "eğlencelik eşya"
   ],
   "ex": [
    "Çadırda uyumanın heyecanı kısa sürede geçti.",
@@ -249,10 +249,10 @@
   ],
   "col": [
    "yenilik değeri",
-   "yeniliğin etkisi geçmek",
+   "yeni olmanın cazibesi kaybolmak",
    "hediyelik eşya"
   ],
-  "tip": "Yeni olma niteliği anlamında isim sayılamaz (the novelty of...). Yeni ilgi çeken şey veya küçük eşya anlamında sayılabilir (novelties).",
+  "tip": "Yeni olma niteliği anlamında sayılamaz (the novelty of...). İlgi çeken yeni bir şey veya küçük eşya anlamında sayılabilir (novelties).",
   "note": ""
  },
  {
@@ -260,7 +260,7 @@
   "senses": [
    "suya batırmak; daldırmak",
    "hafifçe düşmek; azalmak",
-   "kısa yüzüş; düşüş"
+   "kısa yüzme; düşüş"
   ],
   "ex": [
    "Çilekleri tabaklara koymadan önce çikolataya batırın.",
@@ -269,7 +269,7 @@
   "col": [
    "suya batırmak",
    "satışlarda düşüş",
-   "kısa bir yüzüş yapmak"
+   "kısa bir yüzmeye çıkmak"
   ],
   "tip": "Geçmiş zaman ve ortaç 'dipped', ing hâli 'dipping' olur. 'dip in sales' satışlardaki kısa süreli düşüşü anlatır.",
   "note": ""

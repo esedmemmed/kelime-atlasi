@@ -2,11 +2,11 @@
  {
   "id": "herb",
   "senses": [
-   "baharat otu; şifalı bitki"
+   "ot; şifalı bitki"
   ],
   "ex": [
-   "Mutfak penceresinin yanındaki saksılarda taze baharat otları yetiştiriyor.",
-   " Evde bitki yetiştirmek, daha sağlıklı yemek yapmayı teşvik edebilir ve paketli baharatlara olan ihtiyacı azaltabilir."
+   "Mutfak penceresinin yanındaki saksılarda taze otlar yetiştiriyor.",
+   "Evde aromatik bitki yetiştirmek, daha sağlıklı yemek yapmayı teşvik edebilir ve paketli baharatlara olan ihtiyacı azaltabilir."
   ],
   "col": [
    "taze otlar",
@@ -83,9 +83,9 @@
   "col": [
    "kötü bir eylem",
    "yaramaz bir sırıtış",
-   "kurnaz bir mizah anlayışı"
+   "muzip bir mizah anlayışı"
   ],
-  "tip": "Bad'den daha güçlü bir tondadır ve ahlaki kötülük ima eder; gülümseme gibi bağlamlarda ise yaramaz, kurnaz anlamına gelir.",
+  "tip": "Bad'den daha güçlü bir tondadır ve ahlaki kötülük ima eder; gülümseme gibi bağlamlarda ise yaramaz, muzip anlamına gelir.",
   "note": ""
  },
  {
@@ -168,7 +168,7 @@
   ],
   "ex": [
    "Evcil tavşan elimden doğrudan yemek yedi.",
-   "Evcil hayvanlar bile dikkatli kullanılmalıdır; özellikle küçük çocuklar onlarla etkileşim kurmayı öğrenirken."
+   "Evcil hayvanlar bile dikkatle ele alınmalıdır; özellikle küçük çocuklar onlarla etkileşim kurmayı öğrenirken."
   ],
   "col": [
    "evcil hayvanlar",
@@ -204,7 +204,7 @@
   ],
   "ex": [
    "Bisikleti tamir ettikten sonra ellerimde yağ vardı.",
-   "Restoranlar pişirme yağlarının giderlere karışmasını önlemelidir; çünkü borulları tıkayabilir ve bakım maliyetlerini artırabilir."
+   "Restoranlar pişirme yağlarının giderlere karışmasını önlemelidir; çünkü boruları tıkayabilir ve bakım maliyetlerini artırabilir."
   ],
   "col": [
    "pişirme yağı",

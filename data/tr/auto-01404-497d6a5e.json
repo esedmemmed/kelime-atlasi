@@ -161,7 +161,7 @@
   "col": [
    "bir araştırma projesi",
    "bir proje yürütmek",
-   "yükselmesi öngörülmek",
+   "yükselmesi beklenmek",
    "bir görüntüyü yansıtmak"
   ],
   "tip": "İsim olarak ilk hecede, fiil olarak ikinci hecede vurgulanır; fiil 'tahmin etmek' anlamında sık kullanılır.",
@@ -173,7 +173,7 @@
    "kadın oyuncu; aktris"
   ],
   "ex": [
-   "Oyuncu, tiyatronun dışındaki kalabalığa el salladı.",
+   "Kadın oyuncu, tiyatronun dışındaki kalabalığa el salladı.",
    "Başarılı bir kadın oyuncu, genç insanları sahne sanatlarında kariyer yapmaya teşvik edebilir."
   ],
   "col": [
@@ -250,7 +250,7 @@
   ],
   "ex": [
    "Lütfen muz kabuğunu mutfaktaki çöp kutusuna at.",
-   "Yiyecek atıkları için ayrı bir kutu sağlamak, hanelerin daha etkili geri dönüşüm yapmasına ve çöp depolamanın azalmasına yardımcı olabilir."
+   "Yiyecek atıkları için ayrı bir çöp kutusu sağlamak, hanelerin daha etkili geri dönüşüm yapmasına ve çöp sahalarına giden atığın azalmasına yardımcı olabilir."
   ],
   "col": [
    "çöp kutusu",
@@ -264,7 +264,7 @@
  {
   "id": "grilled",
   "senses": [
-   "ızgarada pişmiş; izgara"
+   "ızgara; ızgarada pişmiş"
   ],
   "ex": [
    "Öğle yemeğinde ızgara sebze ve sıcak ekmek paylaştık.",

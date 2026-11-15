@@ -39,7 +39,7 @@
   "id": "atlantic",
   "senses": [
    "Atlantik Okyanusu",
-   "Atlantik'e ait; kıyısal"
+   "Atlantik'le ilgili"
   ],
   "ex": [
    "Atlantik'ten gelen dev dalgaları izledik.",
@@ -70,7 +70,7 @@
    "maçın bitiş düdüğü",
    "yardım için düdük çalmak"
   ],
-  "tip": "Yazımda t harfi yoktur; wh /w/ gibi okunur. Düdük çalmak için blow a whistle kalıbı kullanılır.",
+  "tip": "whistle sözcüğündeki t okunmaz (/ˈwɪsl/). Düdük çalmak için blow a whistle kalıbı kullanılır.",
   "note": ""
  },
  {
@@ -178,7 +178,7 @@
    "yalnızca bir yere özgü"
   ],
   "ex": [
-   "Her el yapımı kasenin içinde farklı bir desen vardır.",
+   "Her el yapımı kasenin içinde eşsiz bir desen var.",
    "Yerel zanaatları korumak, topluluklara giderek küreselleşen bir dünyada kendilerine özgü kültürel kimliklerini sürdürme imkânı verir."
   ],
   "col": [
@@ -257,7 +257,7 @@
   "col": [
    "kesinlikle yasak",
    "yasak bölge",
-   "yasa gereği yasak"
+   "yasalarca yasaklanmış"
   ],
   "tip": "forbid fiilinin üçüncü hâlidir (V3). Geçmiş zaman biçimi forbade'dir; sıfat olarak forbidden kullanılır.",
   "note": ""

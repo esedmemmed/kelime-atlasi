@@ -13,7 +13,7 @@
    "öğretmen asistanı",
    "kişisel asistan",
    "mağaza görevlisi",
-   "asistan müdür"
+   "müdür yardımcısı"
   ],
   "tip": "Assistant insanı anlatır; 'yardım' anlamındaki assistance ise genellikle sayılamayan isimdir. İkisini karıştırmayın.",
   "note": ""
@@ -39,7 +39,7 @@
  {
   "id": "swedish",
   "senses": [
-   "İsveç'e ait; İsveççe ile ilgili",
+   "İsveç'e ait; İsveççe",
    "İsveççe"
   ],
   "ex": [
@@ -86,7 +86,7 @@
   "col": [
    "diplomalı hemşire",
    "toplum hemşiresi",
-   "birini iyileştirmek"
+   "birine bakıp sağlığına kavuşturmak"
   ],
   "tip": "Fiil olarak doğrudan nesne alır: nurse a patient (hastaya bakmak). Araya 'for' koymaya gerek yoktur.",
   "note": ""
@@ -142,7 +142,7 @@
   "col": [
    "el testeresi",
    "tahtayı testereyle kesmek",
-   "bir şeyi ikiye biçmek"
+   "bir şeyi testereyle ikiye kesmek"
   ],
   "tip": "'Testere ile kesmek' fiili düzenlidir: sawed. 'Gördü' anlamındaki saw, see fiilinin geçmiş zamanıdır.",
   "note": ""
@@ -178,7 +178,7 @@
   ],
   "col": [
    "geç saate kadar",
-   "beklemek; bekle ki",
+   "-e kadar beklemek",
    "kasada"
   ],
   "tip": "Till, until ile aynı anlama gelir. Zaman bağlacı olarak gelecekten söz ederken genellikle geniş zaman kullanılır.",

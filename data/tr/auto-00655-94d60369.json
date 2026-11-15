@@ -8,7 +8,7 @@
   ],
   "ex": [
    "Bu kalın battaniye soğuk akşamlarda beni sıcak tutuyor.",
-   "Okulda sıcak bir karşılama, yeni öğrencilerin kendilerini aralarında hissetmelerine ve özgüven kazanmalarına yardımcı olabilir."
+   "Okulda sıcak bir karşılama, yeni öğrencilerin kendilerini topluluğun parçası hissetmelerine ve özgüven kazanmalarına yardımcı olabilir."
   ],
   "col": [
    "sıcak tutmak",
@@ -22,7 +22,7 @@
  {
   "id": "future",
   "senses": [
-   "gelecek; istikbal",
+   "gelecek",
    "gelecekteki; ileride olacak"
   ],
   "ex": [
@@ -91,7 +91,7 @@
   "col": [
    "eve gelmek",
    "-den gelmek",
-   "gerçek olmak",
+   "gerçekleşmek",
    "sona ermek"
   ],
   "tip": "Düzensiz fiil: come, came, come. come from 'nereli olmak, -den gelmek' anlamında kullanılır; from edatını unutmayın.",
@@ -184,7 +184,7 @@
   "col": [
    "bir dakika",
    "tam zamanında",
-   "tam yeterli",
+   "tam yetecek kadar",
    "adil bir toplum"
   ],
   "tip": "Zarf olarak 'sadece' ya da 'az önce' anlamına gelir; sıfat olarak 'adil, doğru' demektir. Anlamı cümleye göre belirleyin.",
@@ -230,7 +230,7 @@
   "id": "college",
   "senses": [
    "yüksekokul; meslek okulu",
-   "fakülte; bölüm"
+   "kolej; fakülte"
   ],
   "ex": [
    "Kuzenim yerel bir yüksekokulda hemşirelik okuyor.",

@@ -85,7 +85,7 @@
   ],
   "col": [
    "aşkta şanssız",
-   "yeterince talihsiz olmak",
+   "-ecek kadar şanssız olmak",
    "uğursuz bir gün"
   ],
   "tip": "Unlucky şansın kötü olduğunu anlatır; unhappy (mutsuz) ile karıştırılmamalıdır.",
@@ -121,7 +121,7 @@
   "col": [
    "el bagajı",
    "bagaj saklama",
-   "bir valiz",
+   "bir parça bagaj",
    "bagaj hakkı"
   ],
   "tip": "Sayılamayan bir isimdir. Tek bir parça anlatılırken a piece of luggage denir; a luggage denmez.",
@@ -148,7 +148,7 @@
  {
   "id": "tidy",
   "senses": [
-   "düzenli; toplu",
+   "düzenli; derli toplu",
    "toparlamak; düzene koymak"
   ],
   "ex": [
@@ -158,7 +158,7 @@
   "col": [
    "düzenli tutmak",
    "toparlamak",
-   "düzgün ve temiz"
+   "derli toplu"
   ],
   "tip": "Tidy düzenli yerleşimi vurgular; clean ise kirin bulunmadığını anlatır. İkisi aynı anlamda kullanılmamalıdır.",
   "note": ""
@@ -189,7 +189,7 @@
    "dudak büzmek"
   ],
   "ex": [
-   "Çantasını açtı ve bir bozuk para çıkardı.",
+   "Cüzdanını açtı ve bir bozuk para çıkardı.",
    "Koruyucu sağlık hizmetlerine yapılan yatırım, kamu bütçesi üzerindeki uzun vadeli yükü azaltabilir."
   ],
   "col": [

@@ -6,7 +6,7 @@
    "canlı; coşkulu"
   ],
   "ex": [
-   "Neşeli köpek yavrusu bahçede topun peşinden koştu.",
+   "Hareketli köpek yavrusu bahçede topun peşinden koştu.",
    "Sınıftaki canlı tartışmalar öğrencileri farklı bakış açılarını düşünmeye teşvik edip eleştirel düşünme becerilerini geliştirebilir."
   ],
   "col": [
@@ -168,7 +168,7 @@
  {
   "id": "society",
   "senses": [
-   "toplum; cemiyet",
+   "toplum",
    "dernek; topluluk"
   ],
   "ex": [
@@ -178,7 +178,7 @@
   "col": [
    "modern toplum",
    "yaşlanan toplum",
-   "toplumun bütünü",
+   "bir bütün olarak toplum",
    "bir derneğe üye olmak"
   ],
   "tip": "Genel anlamda 'toplum' için başına the getirilmez. Dernek anlamında sayılabilir isimdir (a society).",
@@ -205,7 +205,7 @@
  {
   "id": "open-air",
   "senses": [
-   "açık havada olan; açık hava"
+   "açık hava; açık havada"
   ],
   "ex": [
    "Dün gece açık hava sinemasında bir film izledik.",
@@ -227,10 +227,10 @@
   ],
   "ex": [
    "Ağır bir kutuyu kaldırırken kasımı zorladım.",
-   "Düzenli kuvvet antrenmanı kas yapar ve yaşlı yetişkinlerin günlük yaşamda dengelerini ve bağımsızlıklarını korumalarına yardımcı olur."
+   "Düzenli kuvvet antrenmanı kas geliştirir ve yaşlı yetişkinlerin günlük yaşamda dengelerini ve bağımsızlıklarını korumalarına yardımcı olur."
   ],
   "col": [
-   "kas yapmak",
+   "kas geliştirmek",
    "kasını zorlamak",
    "kas gücü",
    "mali güç"
@@ -243,11 +243,11 @@
   "senses": [
    "özellik; karakteristik",
    "öne çıkarmak; yer vermek",
-   "yüz hatları; yüz organı"
+   "yüz hatları"
   ],
   "ex": [
    "Bu sırt çantasının en sevdiğim özelliği gizli cebidir.",
-   "Kentlerin vazgeçilmez bir özelliği, sakinlerin sağlık ve refahına öncelik veren kamusal parklardır."
+   "Kamusal parklar, sakinlerin sağlık ve refahına öncelik veren kentlerin vazgeçilmez bir özelliğidir."
   ],
   "col": [
    "önemli bir özellik",

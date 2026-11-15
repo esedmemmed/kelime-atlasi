@@ -13,7 +13,7 @@
    "çaresiz bir durum",
    "umutsuzluk hissetmek",
    "yemek yapmada çok beceriksiz",
-   "çaresiz bir vaka"
+   "umutsuz vaka"
   ],
   "tip": "Bir konuda kötü olmayı hopeless at + -ing kalıbıyla anlatın: hopeless at cooking. Olumsuz anlam taşıyan bir sözcüktür.",
   "note": ""
@@ -50,7 +50,7 @@
   "col": [
    "yakın müttefik",
    "güçlü bir müttefik",
-   "kendini ... ile birleştirmek"
+   "biriyle ittifak kurmak"
   ],
   "tip": "İsim /ˈæl.aɪ/ diye ön hecede vurgulanır; fiil /əˈlaɪ/ diye ikinci hecede. Fiilden sonra with gelir: ally yourself with.",
   "note": ""
@@ -153,7 +153,7 @@
   "col": [
    "etkisiz tedavi",
    "etkisiz politika",
-   "etkisiz olduğunu kanıtlamak"
+   "etkisiz çıkmak"
   ],
   "tip": "ineffective sonuç vermemeyi anlatır; inefficient ise enerji ya da zaman israfı gibi verimsizliği anlatır. Bunları karıştırmayın.",
   "note": ""
@@ -170,7 +170,7 @@
   "col": [
    "üst ranza",
    "alt ranza",
-   "iki katlı yatak"
+   "ranza"
   ],
   "tip": "bunk tek bir yatak katını anlatır; bunk bed ise iki katlı karyolanın tamamını anlatır. Yani bunk bed bir mobilya adıdır.",
   "note": ""
@@ -207,7 +207,7 @@
   "col": [
    "saf bir varsayım",
    "saf iyimserlik",
-   "siyaseten deneyimsiz"
+   "siyasi açıdan saf"
   ],
   "tip": "Çoğunlukla olumsuz anlam taşır: deneyimsizlik yüzünden kolay inanma. Masumiyet ve saflık için innocent daha uygundur.",
   "note": ""
@@ -239,7 +239,7 @@
    "gruplar halinde yürümek"
   ],
   "ex": [
-   "Askerler sel sonrası yerel aileleri nehri geçmede destekledi.",
+   "Askerler, sel sonrası yerel ailelerin nehri geçmesine yardım etti.",
    "Doğal afetler sivil ulaşım sistemlerini kullanılamaz hale getirdiğinde hükümetler acil yardım malzemelerini ulaştırmak için bazen asker birlikleri görevlendirir."
   ],
   "col": [

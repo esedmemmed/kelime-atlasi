@@ -19,16 +19,16 @@
  {
   "id": "unsuitable",
   "senses": [
-   "uygunsuz; elverişsiz"
+   "uygun olmayan; elverişsiz"
   ],
   "ex": [
    "Bu ince ayakkabılar derin karda yürümek için uygun değil.",
    "Bazı geleneksel öğretim yöntemleri, bireysel geri bildirim imkânı sınırlı olduğu için kalabalık sınıflara uygun değildir."
   ],
   "col": [
-   "çocuklar için uygunsuz",
-   "uygunsuz kıyafet",
-   "tamamen uygunsuz"
+   "çocuklara uygun olmayan",
+   "uygun olmayan kıyafet",
+   "hiç uygun olmayan"
   ],
   "tip": "Genellikle unsuitable for sb/sth kalıbıyla kullanılır; 'for' ile kime ya da hangi amaca uygun olmadığı belirtilir.",
   "note": ""
@@ -36,7 +36,7 @@
  {
   "id": "positively",
   "senses": [
-   "olumlu olarak",
+   "olumlu biçimde",
    "kesinlikle; kesin olarak",
    "gerçekten; resmen"
   ],
@@ -58,7 +58,7 @@
   "senses": [
    "olay örgüsü; konu",
    "arazi parçası; parsel",
-   "tezgâhlamak; plan kurmak"
+   "komplo kurmak; plan yapmak"
   ],
   "ex": [
    "Filmin basit ama heyecanlı bir olay örgüsü vardı.",
@@ -68,7 +68,7 @@
    "karmaşık bir olay örgüsü",
    "bir arazi parçası",
    "bahçe parseli",
-   "birine karşı plan kurmak"
+   "birine karşı komplo kurmak"
   ],
   "tip": "İsim olarak olay örgüsü ya da küçük arazi; fiil olarak gizlice ve kötü niyetle plan kurmak anlamına gelir.",
   "note": ""
@@ -191,12 +191,12 @@
    "köklü; sert"
   ],
   "ex": [
-   "Acil tedbirler aldık ve ikinci arabamızı sattık.",
+   "Sert önlemler alıp ikinci arabamızı sattık.",
    "Toplu taşıma finansmanında yapılacak sert kesintiler, birçok düşük gelirli hanenin temel hizmetlere uygun fiyatlı erişimini engelleyebilir."
   ],
   "col": [
    "sert önlemler",
-   "köklü eylem",
+   "radikal adım",
    "sert kesintiler",
    "köklü değişiklikler"
   ],
@@ -234,16 +234,16 @@
    "gürültüye katlanmak",
    "belirsizliğe tahammül etmek",
    "sıcağa dayanmak",
-   "tahammül etmemek"
+   "tahammül etmeyi reddetmek"
   ],
-  "tip": "Ardından isim ya da -ing almaz: tolerate doing biçimi kullanılır, to do kullanılmaz.",
+  "tip": "Ardından isim ya da -ing gelir: tolerate doing; tolerate to do denmez.",
   "note": ""
  },
  {
   "id": "imitate",
   "senses": [
    "taklit etmek; öykünmek",
-   "sahtesini yapmak; taklit etmek"
+   "benzerini yapmak; taklit etmek"
   ],
   "ex": [
    "Küçük kardeşimiz hayvan seslerini taklit etmeyi çok sever.",

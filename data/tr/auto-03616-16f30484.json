@@ -189,12 +189,12 @@
   ],
   "ex": [
    "Çiçekli çalının altında küçük bir kuş saklanıyordu.",
-   "Kentsel parklara yerel çalılar dikmek yaban hayvanları için barınak sağlar ve sulama ihtiyacını azaltabilir."
+   "Kentsel parklara yerli çalılar dikmek yaban hayvanları için barınak sağlar ve sulama ihtiyacını azaltabilir."
   ],
   "col": [
    "çiçekli çalı",
    "her mevsim yeşil çalı",
-   "yerel çalılar",
+   "yerli çalılar",
    "çalı dikmek"
   ],
   "tip": "Sayılabilir bir isimdir ve tek bir bitkiyi anlatır; çalıların bulunduğu alan için shrubbery kullanılır.",
@@ -224,16 +224,16 @@
   "id": "polish",
   "senses": [
    "parlatmak; cilalamak",
-   "rötuşlamak; düzeltmek",
+   "pürüzlerini gidermek",
    "cila; parlatıcı"
   ],
   "ex": [
    "Her önemli toplantıdan önce ayakkabılarımı parlatırım.",
-   "Üniversite öğrencileri, gereksiz kelimeleri çıkararak ve argümanlarını mantıklı biçimde düzenleyerek yazılarını rötuşlamayı öğrenmelidir."
+   "Üniversite öğrencileri, gereksiz kelimeleri çıkararak ve argümanlarını mantıklı biçimde düzenleyerek yazılarını geliştirmeyi öğrenmelidir."
   ],
   "col": [
    "ayakkabı parlatmak",
-   "bir kompozisyonu rötuşlamak",
+   "bir yazıyı düzeltmek",
    "mobilya cilası"
   ],
   "tip": "Küçük harfle polish 'parlatmak' anlamına gelir; büyük harfle Polish ise 'Polonya'ya ait' demektir ve telaffuzu farklıdır.",
@@ -250,7 +250,7 @@
    "Geri dönüşüm hizmetlerinin genişletilmesi, her yıl çöp sahasına gönderilen evsel atık miktarını azaltabilir."
   ],
   "col": [
-   "döküm sahası",
+   "çöp depolama sahası",
    "atığı çöp sahasına göndermek",
    "çöp sahası kapasitesi"
   ],

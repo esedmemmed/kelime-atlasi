@@ -2,12 +2,12 @@
  {
   "id": "solo",
   "senses": [
-   "solo; tek çalgı",
+   "solo",
    "tek kişilik; yalnız",
    "yalnız başına"
   ],
   "ex": [
-   "Kızın keman solosuna başladığında herkes sustu.",
+   "Keman solosuna başladığında herkes sustu.",
    "Yalnız seyahat, bireyleri tanıdık olmayan durumları yardım almadan yönetmeye zorlayarak bağımsızlığı teşvik edebilir."
   ],
   "col": [
@@ -42,7 +42,7 @@
   "senses": [
    "fısıldamak",
    "fısıltı",
-   "dedikodu; kulis"
+   "fısıltı; söylenti"
   ],
   "ex": [
    "Lütfen bebek yan odada uyurken fısıldayarak konuşun.",
@@ -50,8 +50,8 @@
   ],
   "col": [
    "birine fısıldamak",
-   "fısıltı halinde",
-   "neredeyse fısıltı kadar"
+   "fısıltıyla",
+   "neredeyse fısıltı düzeyinde"
   ],
   "tip": "Birine fısıldamak için whisper to someone, fısıltıyla konuşmak için in a whisper kalıbını kullanın.",
   "note": ""
@@ -94,7 +94,7 @@
  {
   "id": "welfare",
   "senses": [
-   "refah; iyilik hali",
+   "refah; esenlik",
    "sosyal yardım; destek"
   ],
   "ex": [
@@ -103,7 +103,7 @@
   ],
   "col": [
    "hayvan refahı",
-   "sosyal yardım",
+   "sosyal refah",
    "yardım ödemeleri"
   ],
   "tip": "Sayılamayan bir isimdir. Önüne başka bir isim gelse bile 'welfare' isim olarak kalır.",
@@ -132,18 +132,18 @@
  {
   "id": "territory",
   "senses": [
-   "toprak; ülke sınırları",
-   "hayvanın alanı; yuva bölgesi",
+   "ülke toprağı; bölge",
+   "hayvanın bölgesi",
    "alan; uzmanlık sahası"
   ],
   "ex": [
-   "Ada zamanla ülkenin topraklarının bir parçası oldu.",
+   "Ada ülkenin topraklarının bir parçası oldu.",
    "Şehirler vahşi yaşam alanlarına genişledikçe insanlar ile yerli hayvanlar arasındaki çatışmalar daha sık yaşanabilir."
   ],
   "col": [
    "ulusal topraklar",
    "bölgeyi savunmak",
-   "tanıdık olmayan alan",
+   "bilinmedik bir alan",
    "yeni alanlara girmek"
   ],
   "tip": "Ülke toprağı anlamında sayılamaz. Belirli bir bölge için ise a territory denilebilir.",

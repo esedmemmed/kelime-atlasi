@@ -30,7 +30,7 @@
    "Topluluklar ile yerel yönetimler arasında etkili iletişim, barışçıl gösterilerin şiddet olaylarına dönüşmesini önlemeye yardımcı olabilir."
   ],
   "col": [
-   "isyan patlak verir",
+   "isyan patlak vermek",
    "çevik kuvvet",
    "isyanı tetiklemek"
   ],
@@ -60,7 +60,7 @@
  {
   "id": "spit",
   "senses": [
-   "tükürmek; dışarı atmak",
+   "tükürmek; püskürtmek",
    "tükürük"
   ],
   "ex": [
@@ -129,14 +129,14 @@
    "birine sert çıkışmak",
    "hızlıca fotoğraf çekmek"
   ],
-  "tip": "'snap at someone' birine sert ve kısa biçimde karşılık vermek demektir; kelimenin tam karşılığını her cümlede aramayın.",
+  "tip": "snap at someone birine ters ters çıkışmak demektir; hayvan için ısırmaya kalkışmak anlamı da vardır.",
   "note": ""
  },
  {
   "id": "clumsy",
   "senses": [
    "sakar; beceriksiz",
-   "beceriksiz; hoyrat"
+   "beceriksiz; özensiz"
   ],
   "ex": [
    "Sakar köpeğim raftan bir saksıyı devirdi.",
@@ -172,7 +172,7 @@
   "id": "hardware",
   "senses": [
    "donanım",
-   "yapı malzemeleri; el aletleri"
+   "hırdavat; el aletleri"
   ],
   "ex": [
    "Tekniker bilgisayarımın içindeki eski donanım parçalarını değiştirdi.",
@@ -201,7 +201,7 @@
    "yasa gereği yasaklanmış",
    "yasaklı eşyalar"
   ],
-  "tip": "prohibit fiilinin sıfat biçimidir. 'prohibit someone from doing' kalıbı da kullanılır; 'prohibit doing' yerine bunu tercih edin.",
+  "tip": "prohibit fiilinin geçmiş zaman ve ortaç biçimidir; 'prohibit doing' ve 'prohibit someone from doing' kalıpları kullanılır.",
   "note": ""
  },
  {
@@ -218,7 +218,7 @@
   "col": [
    "boyayı kazımak",
    "dizini sıyırmak",
-   "zorlukla geçmek",
+   "sınavı zar zor geçmek",
    "zar zor para toplamak"
   ],
   "tip": "'scrape off' kazıyarak ayırmak, 'scrape through' zorlukla geçmek anlamına gelir; bağlama göre doğru anlamı seçin.",
@@ -247,16 +247,16 @@
   "id": "relief",
   "senses": [
    "rahatlama; ferahlama",
-   "ağrı hafifleme; rahatlama",
-   "yardım malzemesi"
+   "ağrının dinmesi; rahatlama",
+   "yardım; afet yardımı"
   ],
   "ex": [
-   "Kayıp kedim geri döndüğünde içimi rahatlatan bir oh çektim.",
+   "Kayıp kedim geri döndüğünde rahat bir nefes aldım.",
    "Acil yardım malzemelerinin hızlı şekilde ulaştırılması, şiddetli sellerden etkilenen topluluklarda daha fazla acı çekilmesini önleyebilir."
   ],
   "col": [
-   "rahatlama nefesi",
-   "ağrı giderme",
+   "rahat bir nefes",
+   "ağrı dindirme",
    "afet yardımı",
    "birinin rahatlamasına"
   ],

@@ -43,7 +43,7 @@
    "santigrat; Celsius"
   ],
   "ex": [
-   "Bugün gölgede otuz santigrat derece idi.",
+   "Bugün gölgede otuz santigrat dereceydi.",
    "Ortalama sıcaklıklarda iki santigrat derecelik bir artış, savunmasız bölgelerde tarımsal üretimi önemli ölçüde etkileyebilir."
   ],
   "col": [
@@ -65,7 +65,7 @@
   ],
   "col": [
    "tipik bir örnek",
-   "-e özgü, -e has",
+   "...e özgü olmak",
    "tipik bir gün"
   ],
   "tip": "'typical of' kalıbında of'tan sonra bir kişi, yer ya da durum gelir: 'It is typical of him.' (Bu onun tipik davranışıdır.)",
@@ -82,10 +82,10 @@
   ],
   "col": [
    "düzlem geometrisi",
-   "katı geometri",
+   "uzay geometrisi",
    "geometri çalışmak"
   ],
-  "tip": "Ders ya da bilim dalı adı olarak sayılamaz ve genellikle başına article getirilmez: 'study geometry'.",
+  "tip": "Ders ya da bilim dalı adı olarak sayılamaz; genellikle a/the almaz: study geometry.",
   "note": ""
  },
  {
@@ -149,12 +149,12 @@
    "güdülemek"
   ],
   "ex": [
-   "Bir arkadaşımla birlikte antrenman yapmak, düzenli egzersiz yapmama yardımcı oluyor.",
+   "Bir arkadaşımla birlikte antrenman yapmak, beni düzenli egzersiz yapmaya motive ediyor.",
    "Öğretmenler, dersleri günlük deneyimlerle ilişkilendirerek öğrencileri zor konuları keşfetmeye teşvik edebilir."
   ],
   "col": [
    "birini bir şey yapmaya teşvik etmek",
-   "çok istekli olmak",
+   "yüksek motivasyonlu olmak",
    "-den güdülenmek"
   ],
   "tip": "Genellikle 'motivate sb to do sth' kalıbında kullanılır; 'by' ile motivasyonun kaynağı belirtilir.",
@@ -164,7 +164,7 @@
   "id": "irritation",
   "senses": [
    "sinirlenme; rahatsızlık",
-   "tahriş; iltihap"
+   "tahriş"
   ],
   "ex": [
    "Telefon yine çalınca sinirle iç çekti.",
@@ -182,7 +182,7 @@
   "id": "pit",
   "senses": [
    "çukur; kuyu",
-   "bakım bölgesi",
+   "pit alanı",
    "çekirdek"
   ],
   "ex": [
@@ -227,7 +227,7 @@
    "Güvenilir mahalle ulaşımı, yaşlı sakinlerin işlerini bağımsız olarak görmesine ve topluluklarıyla düzenli iletişim kurmasına yardımcı olur."
   ],
   "col": [
-   "işleri görmek",
+   "ufak tefek işleri halletmek",
    "birini bir işe göndermek",
    "küçük bir iş"
   ],
@@ -245,7 +245,7 @@
    "Bölgenin nefes kesici kıyı manzarası turistleri çekiyor, ancak artan turizm kırılgan ekosistemler üzerinde baskı oluşturuyor."
   ],
   "col": [
-   "çarpıcı manzara",
+   "nefes kesici manzara",
    "etkileyici bir başarı",
    "çarpıcı bir zafer",
    "çok güzel görünmek"

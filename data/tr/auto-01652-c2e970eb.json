@@ -5,13 +5,13 @@
    "çok küçük; minik"
   ],
   "ex": [
-   "Küçük bir kurbağa çiçek saksısından fırlayıp çıktı.",
+   "Minik bir kurbağa çiçek saksısından fırlayıp çıktı.",
    "Günlük alışkanlıklardaki en küçük değişiklikler bile zamanla evdeki enerji tüketimini azaltabilir."
   ],
   "col": [
    "çok az miktar",
    "çok küçük bir kesir",
-   "küçük bir köy"
+   "minik bir köy"
   ],
   "tip": "small'a göre daha güçlü bir sözcüktür; şaşırtıcı derecede küçük olduğunu vurgular.",
   "note": ""
@@ -143,18 +143,18 @@
  {
   "id": "chef",
   "senses": [
-   "aşçıbaşı; profesyonel aşçı"
+   "şef; profesyonel aşçı"
   ],
   "ex": [
-   "Aşçıbaşı buharı tüten çorbaya taze otlar ekledi.",
+   "Şef buharı tüten çorbaya taze otlar ekledi.",
    "Yetenekli bir aşçı, sınırlı bir bütçeye sığarken çocukların hoşuna gidecek besleyici okul yemekleri tasarlayabilir."
   ],
   "col": [
-   "baş aşçı",
-   "pastacı aşçı",
+   "aşçıbaşı",
+   "pasta şefi",
    "aşçı olarak yetişmek"
   ],
-  "tip": "ch harfleri /ʃ/ sesi verir. Restoran veya otelde çalışan profesyonel aşçıyı anlatır.",
+  "tip": "chef'te ch harfleri /ʃ/ (ş) okunur. Restoran veya otelde çalışan profesyonel aşçıyı anlatır.",
   "note": ""
  },
  {
@@ -200,13 +200,13 @@
    "ayakkabı ucu; çorap ucu"
   ],
   "ex": [
-   "Parmaklarımın arasına sıkışmış biraz kum var.",
+   "Ayak parmaklarımın arasına sıkışmış biraz kum var.",
    "Parmak hareketini kısıtlayan ayakkabılar dengeyi etkileyebilir ve zamanla ayak sorunlarına yol açabilir."
   ],
   "col": [
-   "başparmak",
+   "ayak başparmağı",
    "küçük ayak parmağı",
-   "parmağını çarpmak",
+   "ayak parmağını çarpmak",
    "baştan ayağa"
   ],
   "tip": "El parmağı finger, ayak parmağı toe'dur; finger'ı ayak için kullanmayın. Başparmak big toe'dur.",
@@ -258,7 +258,7 @@
    "dalga; akın"
   ],
   "ex": [
-   "Kocaman bir dalga küçük kum kalemimizin üzerinden geçti.",
+   "Kocaman bir dalga, kumdan yaptığımız küçük kalenin üzerinden geçti.",
    "Kıyı sulak alanları dalga enerjisini emerek yakındaki yerleşimleri erozyon ve fırtına hasarından koruyabilir."
   ],
   "col": [

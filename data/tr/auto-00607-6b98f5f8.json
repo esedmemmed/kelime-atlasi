@@ -13,7 +13,7 @@
    "eğlenmek",
    "eğlence olsun diye",
    "alay etmek",
-   "güzel bir eğlence"
+   "çok eğlenceli"
   ],
   "tip": "fun isim olarak sayılamaz, 'a fun' demeyin. 'Komik' anlamında funny kullanılır, fun ile karıştırmayın.",
   "note": ""
@@ -25,12 +25,12 @@
   ],
   "ex": [
    "İşe gitmeden önce sakalını düzeltti.",
-   "Bazı iş yerlerinde sakal bırakan çalışanlar, gıda hijyeni standartlarını korumak için özel koruyucu kullanmak zorundadır."
+   "Bazı iş yerlerinde sakallı çalışanlar, gıda hijyeni standartlarını korumak için özel koruyucu kullanmak zorundadır."
   ],
   "col": [
    "sakal bırakmak",
-   "sakalı kısaltmak",
-   "kalın bir sakal"
+   "sakalı düzeltmek",
+   "gür bir sakal"
   ],
   "tip": "beard çene ve yanak sakalını anlatır; moustache ise üst dudak bıyığıdır. İkisini karıştırmayın.",
   "note": ""
@@ -52,7 +52,7 @@
    "sırılsıklam",
    "bezi ıslatmak"
   ],
-  "tip": "wet hem sıfat hem fiil olarak kullanılır. Sırılsıklam anlamı için soaking wet kullanılır.",
+  "tip": "wet ıslak, damp ise hafif nemli demektir. 'Sırılsıklam' için soaking wet kullanılır.",
   "note": ""
  },
  {
@@ -67,8 +67,8 @@
   ],
   "col": [
    "para biriktirmek",
-   "...için para harcamak",
-   "paraya değer",
+   "bir şey için para harcamak",
+   "fiyatına değer",
    "para toplamak"
   ],
   "tip": "money genellikle sayılamaz; 'many money' değil, 'much money' ya da 'a lot of money' kullanılır. Çoğul hali yoktur.",
@@ -81,7 +81,7 @@
    "anlaşmak; kararlaştırmak"
   ],
   "ex": [
-   "Bu çorbaya tuz gerektiğine ben de katılıyorum.",
+   "Bu çorbanın tuza ihtiyacı olduğu konusunda sana katılıyorum.",
    "Araştırmacıların çoğu, düzenli fiziksel aktivitenin hem ruh sağlığını hem de akademik performansı iyileştirebileceği konusunda hemfikir."
   ],
   "col": [
@@ -102,11 +102,11 @@
   ],
   "ex": [
    "Artık istasyonun yakınında oturuyoruz, bu yüzden yürümek kolay.",
-   "Çevrim içi kurslar yaygınlaştığından, pek çok yetişkin çalışırken eğitimine devam edebiliyor."
+   "Çevrimiçi kurslar yaygınlaştığından, pek çok yetişkin çalışırken eğitimine devam edebiliyor."
   ],
   "col": [
-   "tam şimdi",
-   "şu zamana kadar",
+   "şu anda",
+   "şimdiye kadar",
    "bundan sonra",
    "madem ki"
   ],
@@ -139,7 +139,7 @@
    "biri; birisi"
   ],
   "ex": [
-   "Mavi bir şemsiyeyi ön kapının yanına biri bırakmış.",
+   "Biri ön kapının yanına mavi bir şemsiye bırakmış.",
    "Öğrenciler, güvendikleri biri kaygılarını konuşmak için hazır olduğunda yardım istemekte daha özgüvenli hissedebilir."
   ],
   "col": [
@@ -184,7 +184,7 @@
    "lütfen yapın",
    "herkesi memnun etmek",
    "memnun etmesi zor",
-   "istediği gibi"
+   "istediğin gibi"
   ],
   "tip": "please fiil olarak 'memnun etmek' anlamına gelir. 'Memnun olmak' için be pleased kullanılır.",
   "note": ""
@@ -201,7 +201,7 @@
    "Pek çok öğrenci nitelik kazanmak için çok çalışıyor, ancak yine de istikrarlı bir iş bulmak zor oluyor."
   ],
   "col": [
-   "zahmetli iş",
+   "yorucu iş",
    "çok çalışmak",
    "somut kanıt",
    "sert yüzey"
@@ -220,7 +220,7 @@
    "Kötü atık yönetimi, özellikle yoğun nüfuslu şehirlerde halk sağlığı için ciddi sonuçlar doğurabilir."
   ],
   "col": [
-   "kötü hava",
+   "berbat hava",
    "korkunç bir hata",
    "kendini kötü hissetmek"
   ],
@@ -252,7 +252,7 @@
   "senses": [
    "çok; o kadar",
    "bu yüzden; bu nedenle",
-   "öyle; yani"
+   "öyle"
   ],
   "ex": [
    "Çorba o kadar sıcaktı ki beklemek zorunda kaldım.",
@@ -261,7 +261,7 @@
   "col": [
    "çok fazla",
    "şimdiye kadar",
-   "öyle ki",
+   "-mek için; böylece",
    "öyle düşünmek"
   ],
   "tip": "so sıfatı ya da zarfı güçlendirir (so good); such ise isim öbeğini güçlendirir (such a good day).",

@@ -30,7 +30,7 @@
   "col": [
    "saat yönünde çevirmek",
    "saat yönünde döndürmek",
-   "saat yönünde bir yön"
+   "saat yönü"
   ],
   "tip": "Karşıt anlamlısı İngiliz İngilizcesinde anticlockwise, Amerikan İngilizcesinde counterclockwise'dır.",
   "note": ""
@@ -78,7 +78,7 @@
    "deneme; girişim"
   ],
   "ex": [
-   "Patatesin pişip pişmediğini anlamak için çatalıyla ona batırdı.",
+   "Patatesin pişip pişmediğini anlamak için çatalını patatese batırdı.",
    "Birçok mezun, belirsiz bir ekonomide iş beklentilerini düşünürken ani bir kaygı sancısı hisseder."
   ],
   "col": [
@@ -147,7 +147,7 @@
   "id": "spite",
   "senses": [
    "kötü niyet; kin",
-   "kasten üzmek; inat etmek"
+   "kasten üzmek; kızdırmak"
   ],
   "ex": [
    "Kız kardeşinin en sevdiği oyuncağını kin yüzünden sakladı.",
@@ -156,7 +156,7 @@
   "col": [
    "kin yüzünden",
    "-e rağmen",
-   "saf kötü niyet"
+   "salt kin"
   ],
   "tip": "'In spite of' yalnızca isim veya -ing yapısından önce gelir; tam cümle alamaz. 'Despite' de aynı şekilde kullanılır.",
   "note": ""
@@ -218,7 +218,7 @@
   "id": "rival",
   "senses": [
    "rakip",
-   "boy ölçüşmek; eşit olmak",
+   "boy ölçüşmek; denk olmak",
    "rakip; çekişmeli"
   ],
   "ex": [
@@ -262,7 +262,7 @@
    "Bilgili öğretmenler, öğrencilerin karşılaştıkları her iddiayı kabul etmek yerine çevrim içi bilgileri değerlendirmelerine yardımcı olabilir."
   ],
   "col": [
-   "-konusunda bilgili",
+   "bir konuda bilgili",
    "bilgili personel",
    "bilgili bir rehber"
   ],

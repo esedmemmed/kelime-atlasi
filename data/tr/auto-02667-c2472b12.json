@@ -11,7 +11,7 @@
   ],
   "col": [
    "tohum ekmek",
-   "bir tohum dikmek",
+   "tohum ekmek",
    "ayçiçeği tohumları",
    "tohum bankası"
   ],
@@ -98,10 +98,10 @@
   ],
   "ex": [
    "Bir ünlü, hayranlarını selamlamak için tiyatronun önünde durdu.",
-   "Ünlü kişilerin onaylarının genç tüketicileri etkileyebileceği için reklamlar kişisel görüşleri ücretli tanıtımdan açıkça ayırmalıdır."
+   "Ünlülerin reklam desteği genç tüketicileri etkileyebileceğinden, reklamlar kişisel görüşleri ücretli tanıtımdan açıkça ayırmalıdır."
   ],
   "col": [
-   "ünlü onayı",
+   "ünlü reklam desteği",
    "ünlü kültürü",
    "şöhrete ulaşmak"
   ],
@@ -119,12 +119,12 @@
    "Birçok sağlık sorunu, kötü konut koşulları ve besleyici gıdaya sınırlı erişimle yakından ilişkilidir."
   ],
   "col": [
-   "ile ilgili",
+   "ile ilişkili olmak",
    "yakından ilişkili",
    "ilgili sorunlar",
-   "evlilik yoluyla akraba"
+   "evlilik yoluyla akraba olmak"
   ],
-  "tip": "be related to kalıbında to edat olup arkasına isim ya da -ing almaz; doğrudan isim veya -ing alır. 'related to' ile birlikte kullanın.",
+  "tip": "be related to kalıbında to edattır; arkasından isim veya -ing gelir.",
   "note": ""
  },
  {
@@ -206,7 +206,7 @@
   ],
   "ex": [
    "Kütüphaneci, kuşlarla ilgili bir kitap bulmama yardım etti.",
-   "Okul kütüphaneciler, öğrencilere güvenilir kaynakları bulmayı ve bilgiyi değerlendirmeyi öğreterek bağımsız öğrenmeyi destekler."
+   "Okul kütüphanecileri, öğrencilere güvenilir kaynakları bulmayı ve bilgiyi değerlendirmeyi öğreterek bağımsız öğrenmeyi destekler."
   ],
   "col": [
    "okul kütüphanecisi",

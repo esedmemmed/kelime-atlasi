@@ -59,7 +59,7 @@
    "eğlence; eğlence etkinliği"
   ],
   "ex": [
-   "Otel her akşam havuz kenarında canlı müzik ve eğlence sunuyor.",
+   "Otel her akşam havuz kenarında canlı eğlence sunuyor.",
    "Uygun fiyatlı eğlence tesisleri, sakinlere dinlenme ve sosyalleşme fırsatı vererek kent yaşamını iyileştirebilir."
   ],
   "col": [
@@ -84,11 +84,11 @@
   ],
   "col": [
    "olup olmadığını merak etmek",
-   "hakkında merak etmek",
+   "bir şeyi düşünüp merak etmek",
    "hayret içinde",
    "doğal harikalar"
   ],
-  "tip": "Wonder, where, whether gibi sözcüklerle dolaylı soru kurar; bu yapıda soru sırası değil, cümle sırası kullanılır: I wonder where he is.",
+  "tip": "Wonder, where/whether gibi sözcüklerle dolaylı soru kurar; soru sırası değil düz cümle sırası kullanılır: I wonder where he is.",
   "note": ""
  },
  {
@@ -233,7 +233,7 @@
   ],
   "col": [
    "birine bir şeyi bildirmek",
-   "birini bilgilendirilmiş tutmak",
+   "birini haberdar etmek",
    "politikaya yön vermek"
   ],
   "tip": "Birine bir şeyi bildirmek için inform sb of/about sth kalıbı kullanılır; inform sb sth yapısı standart değildir.",
@@ -251,7 +251,7 @@
   "col": [
    "kaşını kaldırmak",
    "kalın kaşlar",
-   "kemerli kaşlar"
+   "kavisli kaşlar"
   ],
   "tip": "Eyebrow kaşı, eyelash ise kirpiği anlatır. Eye (göz) kelimesine bakarak brow ve lash ayrımını hatırlayabilirsiniz.",
   "note": ""

@@ -98,7 +98,7 @@
  {
   "id": "orchestra",
   "senses": [
-   "senfoni orkestrası"
+   "orkestra"
   ],
   "ex": [
    "Işıklar kararırken orkestra çalmaya başladı.",
@@ -129,7 +129,7 @@
    "fiziksel özellikler",
    "somut kanıt"
   ],
-  "tip": "Physical genellikle bedensel veya maddi anlamda kullanılır. Zihinsel olanı belirtmek için mental, fizikselliği belirtmek için physiological ayrımını gözetin.",
+  "tip": "physical beden ya da maddeyle ilgilidir; physiological ise vücudun işleyişiyle (fizyolojik) ilgilidir.",
   "note": ""
  },
  {
@@ -146,7 +146,7 @@
   "col": [
    "su borusu",
    "patlamış boru",
-   "suyu ... e borularla taşımak"
+   "suyu ...e borularla iletmek"
   ],
   "tip": "Pipe fiil olarak da kullanılır: pipe water to ile suyun bir yere borularla iletildiğini ifade edebilirsiniz.",
   "note": ""
@@ -158,7 +158,7 @@
    "sayısız; milyarlarca"
   ],
   "ex": [
-   "Bilim müzesinde milyar yıllık bir kaya sergileniyordu.",
+   "Bilim müzesinde bir milyar yıllık bir kaya sergileniyordu.",
    "Hükümetler, ekonomik büyümeyi desteklemek ve izole topluluklara ulaşmak için ulaşım altyapısına milyarlarca dolar harcıyor."
   ],
   "col": [
@@ -195,7 +195,7 @@
   ],
   "ex": [
    "En sevdiğim gömleğin ön tarafında mavi çizgiler var.",
-   "Araştırmacılar, zebra çizgilerinin ısırgan böcekleri nasıl caydırabileceğini inceliyor; bu da hayvan yetiştiriciliğini korumak için faydalı yöntemlere ışık tutabilir."
+   "Araştırmacılar, zebra çizgilerinin ısıran böcekleri nasıl caydırabileceğini inceliyor; bu da hayvan yetiştiriciliğini korumak için faydalı yöntemlere ışık tutabilir."
   ],
   "col": [
    "dikey çizgiler",
@@ -232,7 +232,7 @@
    "karışım"
   ],
   "ex": [
-   "Mısır gevrek, pürüzsüz ve kremsi olana kadar karıştırın.",
+   "Karışım pürüzsüz ve kremsi olana kadar karıştırın.",
    "Başarılı şehirler; uygun fiyatlı konut, güvenilir ulaşım ve erişilebilir kamusal alanların karışımını sunar."
   ],
   "col": [
