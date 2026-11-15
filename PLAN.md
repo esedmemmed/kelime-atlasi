@@ -30,6 +30,10 @@ The goal is a full Turkish–English version of Word Atlas (词光) for Turkish 
 ## Status
 
 - **Phase 0 done (2026-11-15).** Repo: https://github.com/esedmemmed/kelime-atlasi (full original history, plus one Turkish commit). Live: https://esedmemmed.github.io/kelime-atlasi/ (300 words). Remotes: `origin` is kelime-atlasi; `upstream` is esedmemmed/word-atlas, the unchanged fork.
+- **Phase 1 done (2026-11-15).**
+  - Trial 1: Haiku 5.5 at low effort produced good examples, collocations and tips, but it translated the definitions into the sense glosses.
+  - Fix: send the zh gloss as a hint, add good/bad gloss examples, and have `check()` reject labelled or long glosses. Also a tip rule: no filler, follow TDK spelling.
+  - Trial 2: 200 words across A1–C2 with 0 errors and 5 warnings; median gloss 17 characters. Committed, so the repo now has 500 words.
 - Phase 4 additions found in the live check:
   - `Splash.tsx` `targets()` calls `getImageData` on a 0-width canvas when the page loads in a hidden or 0-size viewport. Guard it with `w,h > 0`.
   - The app requests `sw.js`, which the Pages workflow deletes, so it gets a 404. Skip service-worker registration when the file is absent, or keep the file.
