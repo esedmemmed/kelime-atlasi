@@ -6,10 +6,15 @@ Kelime Atlası has no accounts, server-side storage, analytics, or tracking. Pro
 
 ## Credentials
 
-The website does not need any API key. Only the content generation scripts in `scripts/atlas/` and the Turkish layer scripts in `scripts/tr/` that call model services need credentials. They read them from environment variables (`SUB2_BASE_URL`, `SUB2_API_KEY`, `ELEVENLABS_API_KEY`) or from a directory outside the repository (`ATLAS_SECRETS`). Credentials are never written into the repository.
+The website does not need any API key. Only scripts that call model services need credentials, and they read them from environment variables:
+
+- `scripts/tr/translate_tr.py` uses `ANTHROPIC_API_KEY`.
+- The original content pipeline in `scripts/atlas/` uses `SUB2_BASE_URL`, `SUB2_API_KEY` and `ELEVENLABS_API_KEY`, or a directory outside the repository (`ATLAS_SECRETS`).
+
+Credentials are never written into the repository.
 
 - Do not store credentials in `VITE_*` variables. They are bundled into the browser code.
-- Before publishing, run `npm run pack:public`. It exports according to an allowlist and scans for credentials and personal paths. The scan is an aid and does not replace a manual check.
+- Do not commit `.env` files (they are gitignored), and check `git diff` before pushing.
 - If a credential is leaked by accident, revoke or rotate it with the provider immediately.
 
 ## Reporting a vulnerability

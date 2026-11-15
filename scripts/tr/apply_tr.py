@@ -44,6 +44,8 @@ def snapshot_source():
     """First run: keep the original Chinese dataset and media flags as the source of truth."""
     SRC.mkdir(parents=True, exist_ok=True)
     if not (SRC / "word-atlas.zh.json").exists():
+        if not (DATA / "word-atlas.json").exists():
+            sys.exit("data/source/word-atlas.zh.json is missing (restore it from git or the original Word Atlas repo)")
         shutil.copyfile(DATA / "word-atlas.json", SRC / "word-atlas.zh.json")
     if not (SRC / "media.json").exists():
         idx = json.loads((PUB / "index.json").read_text(encoding="utf-8"))

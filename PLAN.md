@@ -40,6 +40,20 @@ The goal is a full Turkish–English version of Word Atlas (词光) for Turkish 
   - A Sonnet audit of 150 sample words found about 5% wrong and 19% awkward.
   - Full Sonnet review on the Claude plan, through subagents (`scripts/tr/review_tool.py` and `REVIEW_BRIEF.md`): 73 chunks, 3,343 corrected fields, log in `output/review/applied.log`.
   - Normalized "kâğıt" (TDK). QA: 0 errors.
+- **Phase 4 done.**
+  - All A1–C2 levels are back.
+  - The data fields were renamed from `zh` to `tr`.
+  - Turkish search folding, plus `tr-TR` number formatting.
+  - The splash 0-size guard; the service worker is kept and fetches data network-first.
+  - Branding now points to the kelime-atlasi site.
+- **Phase 5 done.** Turkish voice lines (edge-tts, Emel), with loudness matched to the originals. The social card, banner, mosaic and app screenshots were regenerated in Turkish.
+- **Phase 6 done.**
+  - `README.md` (Turkish) and `README.en.md` (English).
+  - English docs, licenses and templates, plus `docs/turkish-edition.md`.
+  - Chinese-only media removed, and stray CJK stripped from the fam/syn/ant lists.
+- **Phase 7 done.**
+  - Removed the Chinese dataset copies (`data/word-atlas.json`/`.csv`) and the original's private-repo export tooling (`PUBLIC_MANIFEST.json`, `scripts/package_public.py`, `pack:public`).
+  - Full-repo CJK scan: only intentional items remain (`data/source/`, the 词光 credit, and source-format handling in scripts).
 - Phase 4 additions found in the live check:
   - `Splash.tsx` `targets()` calls `getImageData` on a 0-width canvas when the page loads in a hidden or 0-size viewport. Guard it with `w,h > 0`.
   - The app requests `sw.js`, which the Pages workflow deletes, so it gets a 404. Skip service-worker registration when the file is absent, or keep the file.
