@@ -23,10 +23,10 @@ import { shouldShowSplash, Splash } from "./ui/Splash";
 import { Toasts } from "./ui/Toast";
 
 const NAV: { page: Route["page"]; label: string; icon: typeof Compass }[] = [
-  { page: "today", label: "今日", icon: Compass },
-  { page: "atlas", label: "图鉴", icon: BookOpen },
-  { page: "practice", label: "练习", icon: Keyboard },
-  { page: "me", label: "我的", icon: User },
+  { page: "today", label: "Bugün", icon: Compass },
+  { page: "atlas", label: "Atlas", icon: BookOpen },
+  { page: "practice", label: "Pratik", icon: Keyboard },
+  { page: "me", label: "Ben", icon: User },
 ];
 
 function useTheme() {
@@ -73,7 +73,7 @@ export default function App() {
         <Logo />
         <p>{error}</p>
         <button className="btn btn-primary" onClick={() => location.reload()}>
-          重新加载
+          Yeniden yükle
         </button>
       </div>
     );
@@ -125,10 +125,10 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
     <div className={`app ${focus ? "is-focus" : ""}`}>
       {!focus && (
         <header className="topbar">
-          <a className="topbar-logo" href="#/" aria-label="词光 Word Atlas 首页">
+          <a className="topbar-logo" href="#/" aria-label="Kelime Atlası ana sayfa">
             <Logo />
           </a>
-          <nav className="topnav" aria-label="主导航">
+          <nav className="topnav" aria-label="Ana menü">
             {NAV.map(({ page, label }) => (
               <a key={page} href={page === "today" ? "#/" : `#/${page}`} className={route.page === page ? "is-on" : ""} aria-current={route.page === page ? "page" : undefined}>
                 {label}
@@ -136,16 +136,16 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
             ))}
           </nav>
           <div className="topbar-tools">
-            <button className="search-pill" onClick={() => setPalette(true)} aria-label="搜索单词">
+            <button className="search-pill" onClick={() => setPalette(true)} aria-label="Kelime ara">
               <Search size={17} />
-              <span>搜索单词</span>
+              <span>Kelime ara</span>
               <kbd>⌘K</kbd>
             </button>
             <AmbiencePicker />
-            <button className="icon-btn" onClick={() => store.settings({ theme: dark ? "light" : "dark" })} aria-label={dark ? "切换到浅色" : "切换到深色"}>
+            <button className="icon-btn" onClick={() => store.settings({ theme: dark ? "light" : "dark" })} aria-label={dark ? "Açık temaya geç" : "Koyu temaya geç"}>
               {dark ? <Sun size={19} /> : <Moon size={19} />}
             </button>
-            <a className="icon-btn hide-sm" href="#/about" aria-label="关于与开源" title="关于与开源">
+            <a className="icon-btn hide-sm" href="#/about" aria-label="Hakkında" title="Hakkında">
               <Github size={19} />
             </a>
           </div>
@@ -165,17 +165,17 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
         <footer className="footer">
           <Logo compact />
           <p>
-            一词一画，点亮雅思 · 免费开源 ·{" "}
+            Her kelimeye bir resim · Ücretsiz ve açık kaynak ·{" "}
             <a href={REPO_URL} target="_blank" rel="noreferrer">
               GitHub
             </a>{" "}
-            · <a href="#/about">关于</a>
+            · <a href="#/about">Hakkında</a>
           </p>
         </footer>
       )}
 
       {!focus && (
-        <nav className="tabbar" aria-label="主导航">
+        <nav className="tabbar" aria-label="Ana menü">
           {NAV.map(({ page, label, icon: Icon }) => (
             <a key={page} href={page === "today" ? "#/" : `#/${page}`} className={route.page === page ? "is-on" : ""} aria-current={route.page === page ? "page" : undefined}>
               <Icon size={22} strokeWidth={route.page === page ? 2.1 : 1.7} />
@@ -222,7 +222,7 @@ function WordSheet({ id }: { id: string | null }) {
     return () => window.removeEventListener("keydown", on);
   }, [id, neighbor]);
   return (
-    <Sheet open={!!id} onClose={closeWord} label={ref ? `${ref.word} 词条` : "词条"} wide>
+    <Sheet open={!!id} onClose={closeWord} label={ref ? `${ref.word} kartı` : "Kelime kartı"} wide>
       {entry ? (
         <EntryView key={entry.id} entry={entry} />
       ) : error ? (
@@ -231,14 +231,14 @@ function WordSheet({ id }: { id: string | null }) {
         <span className="spinner" />
       )}
       {ref && (
-        <nav className="sheet-nav" aria-label="切换词条">
-          <button className="icon-btn" onClick={() => neighbor(-1)} disabled={ref.order === 0} aria-label="上一个">
+        <nav className="sheet-nav" aria-label="Kelimeler arasında geçiş">
+          <button className="icon-btn" onClick={() => neighbor(-1)} disabled={ref.order === 0} aria-label="Önceki">
             <ChevronLeft size={20} />
           </button>
           <span>
             {(ref.order + 1).toLocaleString()} / {atlas.count.toLocaleString()}
           </span>
-          <button className="icon-btn" onClick={() => neighbor(1)} disabled={ref.order >= atlas.count - 1} aria-label="下一个">
+          <button className="icon-btn" onClick={() => neighbor(1)} disabled={ref.order >= atlas.count - 1} aria-label="Sonraki">
             <ChevronRight size={20} />
           </button>
         </nav>

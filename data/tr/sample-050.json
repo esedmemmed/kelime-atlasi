@@ -1,0 +1,939 @@
+[
+ {
+  "id": "side",
+  "senses": [
+   "yan; kenar; taraf",
+   "yön; taraf (bir anlaşmazlıkta)",
+   "birinin tarafını tutmak"
+  ],
+  "ex": [
+   "Lütfen çamurlu botlarını yan kapının yanına bırak.",
+   "Kamuoyu tartışmaları, önemli bir politika kararı alınmadan önce bir meselenin her iki yönünü de dikkate almalı."
+  ],
+  "col": [
+   "her iki tarafta",
+   "yan yana",
+   "birinin tarafını tutmak",
+   "tartışmanın öbür yüzü"
+  ],
+  "tip": "side with \"birini desteklemek\", side by side \"yan yana\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "pretty",
+  "senses": [
+   "güzel; hoş",
+   "oldukça; epey"
+  ],
+  "ex": [
+   "Sessiz bir derenin kenarında şirin bir kır evi bulduk.",
+   "Güzel parklar ziyaretçi çekse de şehirler bu alanların sakinler için de erişilebilir kalmasını sağlamalı."
+  ],
+  "col": [
+   "şirin bir köy",
+   "güzel bir elbise",
+   "oldukça iyi",
+   "hemen hemen"
+  ],
+  "tip": "Zarf olarak \"oldukça\" anlamı gündelik dile aittir; resmî yazıda fairly ya da quite tercih et.",
+  "note": ""
+ },
+ {
+  "id": "arrive",
+  "senses": [
+   "varmak; ulaşmak",
+   "gelmek; gelip çatmak"
+  ],
+  "ex": [
+   "Misafirlerimiz tam akşam yemeği hazır olduğunda geldi.",
+   "Güvenilir toplu taşıma, çalışanların işe zamanında varmasına yardımcı olur ve özel araca bağımlılığı azaltır."
+  ],
+  "col": [
+   "istasyona varmak",
+   "bir şehre varmak",
+   "zamanında varmak",
+   "bir sonuca varmak"
+  ],
+  "tip": "Küçük yerler için at, şehir ve ülkeler için in kullanılır; home'dan önce edat gelmez: arrive home. \"arrive to\" yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "london",
+  "senses": [
+   "Londra (Birleşik Krallık'ın başkenti)"
+  ],
+  "ex": [
+   "Yağmurlu bir öğleden sonra otobüsle Londra'yı gezdik.",
+   "Londra, üniversitelerinin çeşitli programları ve zengin kültürel olanakları sayesinde uluslararası öğrencileri kendine çekiyor."
+  ],
+  "col": [
+   "Londra merkezi",
+   "Büyük Londra",
+   "Londra metrosu"
+  ],
+  "tip": "Şehir adları büyük harfle başlar ve genellikle the almaz.",
+  "note": ""
+ },
+ {
+  "id": "too",
+  "senses": [
+   "fazla; çok (gereğinden)",
+   "de; da; ayrıca"
+  ],
+  "ex": [
+   "Bu çorba şu an içilemeyecek kadar sıcak.",
+   "Biletler düzenli yolcular için fazla pahalıysa toplu taşıma daha fazla yolcu çekemez."
+  ],
+  "col": [
+   "çok fazla",
+   "çok geç",
+   "çalışamayacak kadar yorgun",
+   "ben de"
+  ],
+  "tip": "too \"gereğinden fazla\" demektir ve olumsuz bir sonuç ima eder; very sadece \"çok\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "glass",
+  "senses": [
+   "cam",
+   "bardak; bir bardak dolusu",
+   "gözlük (glasses)"
+  ],
+  "ex": [
+   "Top pencereye çarptı ve camı kırdı.",
+   "Camın geri dönüştürülmesi ham madde ihtiyacını azaltır ve üretim sektöründe enerji tüketimini düşürebilir."
+  ],
+  "col": [
+   "kırık cam",
+   "bir bardak su",
+   "gözlük takmak",
+   "cam şişe"
+  ],
+  "tip": "Cam (malzeme) sayılamaz, bardak sayılabilir; gözlük her zaman çoğuldur: glasses.",
+  "note": ""
+ },
+ {
+  "id": "policeman",
+  "senses": [
+   "erkek polis memuru"
+  ],
+  "ex": [
+   "Bir polis kalabalık caddeden karşıya geçmemize yardım etti.",
+   "Bölgedeki bir polis memuru, çocukların internette nasıl güvende kalabileceğini anlatmak için okulu ziyaret etti."
+  ],
+  "col": [
+   "trafik polisi",
+   "üniformalı polis"
+  ],
+  "tip": "policeman erkek polisi anlatır; cinsiyet belirtmeden police officer denir.",
+  "note": ""
+ },
+ {
+  "id": "or",
+  "senses": [
+   "veya; ya da",
+   "yoksa; aksi hâlde"
+  ],
+  "ex": [
+   "Sebzelerinin yanında pilav mı istersin, erişte mi?",
+   "Hükümetler toplu taşımayı iyileştirmeli, yoksa büyük şehirlerde artan trafik ve hava kirliliğiyle yüz yüze gelecekler."
+  ],
+  "col": [
+   "ya … ya da …",
+   "yoksa; aksi takdirde",
+   "er ya da geç",
+   "bir iki"
+  ],
+  "tip": "Olumsuz cümlelerde ögeleri bağlamak için and değil or kullanılır: I don't like tea or coffee.",
+  "note": ""
+ },
+ {
+  "id": "once",
+  "senses": [
+   "bir kez; bir defa",
+   "bir zamanlar; eskiden",
+   "-ince; -dığı anda"
+  ],
+  "ex": [
+   "Bu küçük kaktüsü iki haftada bir suluyorum.",
+   "Güvenilir toplu taşıma hizmete girdiğinde daha çok kişi arabasını evde bırakmayı tercih edebilir."
+  ],
+  "col": [
+   "haftada bir",
+   "hemen",
+   "bir kez daha",
+   "arada bir"
+  ],
+  "tip": "\"-ince\" anlamında gelecek zamandan söz ederken bile geniş zaman kullanılır: once it arrives (will arrive değil).",
+  "note": ""
+ },
+ {
+  "id": "sock",
+  "senses": [
+   "çorap"
+  ],
+  "ex": [
+   "Mavi çorabın teki yatağın altına saklanmıştı.",
+   "Geri dönüştürülmüş malzemeden yapılmış dayanıklı çoraplar seçmek, zamanla giysi atığını azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "bir çift çorap",
+   "yün çorap",
+   "çorap giymek"
+  ],
+  "tip": "Bir çift çorap a pair of socks'tur; sock sayılabilir bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "letter",
+  "senses": [
+   "mektup",
+   "harf"
+  ],
+  "ex": [
+   "Bu sabah kız kardeşimden bir mektup geldi.",
+   "Resmî bir şikâyet mektubu yazmak, şirketleri hizmetlerindeki sorunları çözmeye yöneltebilir."
+  ],
+  "col": [
+   "mektup yazmak",
+   "şikâyet mektubu",
+   "büyük harf",
+   "ön yazı (iş başvurusu)"
+  ],
+  "tip": "letter hem \"mektup\" hem \"harf\" demektir; Türkçedeki \"harf\" anlamını bağlamdan çıkar.",
+  "note": ""
+ },
+ {
+  "id": "bad",
+  "senses": [
+   "kötü; berbat",
+   "ciddi; zararlı",
+   "yaramaz; kötü (davranış)"
+  ],
+  "ex": [
+   "Çorbanın tadı o kadar kötüydü ki yemeyi bıraktım.",
+   "Kötü hava kalitesi açık havada spor yapmaktan caydırabilir ve çocuklar ile yaşlılar için sağlık risklerini artırabilir."
+  ],
+  "col": [
+   "kötü hava",
+   "kötü alışkanlıklar",
+   "sağlığa zararlı",
+   "ağır bir soğuk algınlığı"
+  ],
+  "tip": "Karşılaştırma hâli worse, en üstünlük hâli worst'tür. badly zarftır: I slept badly.",
+  "note": ""
+ },
+ {
+  "id": "writing",
+  "senses": [
+   "yazma; yazı yazma",
+   "el yazısı",
+   "yazılar; eserler"
+  ],
+  "ex": [
+   "Yazılarımın çoğunu kahvaltıdan önce yazıyorum.",
+   "Düzenli yazma pratiği öğrencilerin karmaşık fikirleri düzenlemesine ve argümanlarını daha açık ifade etmesine yardımcı olur."
+  ],
+  "col": [
+   "yaratıcı yazarlık",
+   "yazma becerileri",
+   "yazılı olarak",
+   "akademik yazım"
+  ],
+  "tip": "Genellikle sayılamaz. write'ın -ing hâlinde e düşer: writing (writeing değil).",
+  "note": ""
+ },
+ {
+  "id": "upstairs",
+  "senses": [
+   "üst katta; üst kata",
+   "üst kattaki"
+  ],
+  "ex": [
+   "Gözlüğümü üst katta yatağın yanında unuttum.",
+   "Ev çalışmak için zemin katta kullanılıyorsa yatak odalarını üst kata taşımak daha fazla mahremiyet sağlar."
+  ],
+  "col": [
+   "üst kata çıkmak",
+   "üst kattaki yatak odası",
+   "üst kat komşusu"
+  ],
+  "tip": "Zarf olduğu için to almaz: go upstairs (\"go to upstairs\" yanlış).",
+  "note": ""
+ },
+ {
+  "id": "nose",
+  "senses": [
+   "burun",
+   "(uçak vb.) burun kısmı"
+  ],
+  "ex": [
+   "Soğuk rüzgârda burnum kıpkırmızı oldu.",
+   "Burnu ve ağzı kapatan bir maske takmak havadaki toza maruz kalmayı azaltabilir."
+  ],
+  "col": [
+   "burnunu silmek",
+   "burun akıntısı",
+   "uçağın burnu"
+  ],
+  "tip": "\"Burnunu silmek\" blow your nose'dur, clean your nose denmez.",
+  "note": ""
+ },
+ {
+  "id": "postcard",
+  "senses": [
+   "kartpostal"
+  ],
+  "ex": [
+   "Bana bir sahil köyünden kartpostal gönderdi.",
+   "Dijital mesajlar daha hızlı olsa da kartpostal göndermek, gezginlerle aileleri arasında daha kişisel bir bağ kurabilir."
+  ],
+  "col": [
+   "kartpostal göndermek",
+   "kartpostal yazmak",
+   "manzaralı kartpostal"
+  ],
+  "tip": "send someone a postcard ya da send a postcard to someone şeklinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "head",
+  "senses": [
+   "baş; kafa",
+   "başkan; yönetici",
+   "-e doğru gitmek"
+  ],
+  "ex": [
+   "Ona daha fazla çorba verdiğimde başını iki yana salladı.",
+   "Bisikletliler kalabalık yollarda kafa yaralanması riskini azaltmak için uygun kask takmalı."
+  ],
+  "col": [
+   "başını sallamak (hayır anlamında)",
+   "okul müdürü",
+   "bölüm başkanı",
+   "-e doğru yola çıkmak"
+  ],
+  "tip": "head for + yer \"bir yere doğru gitmek\" demektir: We headed for the beach.",
+  "note": ""
+ },
+ {
+  "id": "yesterday",
+  "senses": [
+   "dün",
+   "dün (isim)"
+  ],
+  "ex": [
+   "Dün şemsiyemi otobüste unuttum.",
+   "Dün yayımlanan ulaşım anketi, şehir merkezlerinde insanların giderek araba yerine bisikleti tercih ettiğini gösteriyor."
+  ],
+  "col": [
+   "dün sabah",
+   "dün öğleden sonra",
+   "dün akşam",
+   "evvelsi gün"
+  ],
+  "tip": "yesterday'den önce edat kullanılmaz ve genellikle geçmiş zamanla kullanılır: I saw him yesterday.",
+  "note": ""
+ },
+ {
+  "id": "waitress",
+  "senses": [
+   "kadın garson"
+  ],
+  "ex": [
+   "Garson bize sıcak ekmek ve taze çorba getirdi.",
+   "Garsonluk yapmak, öğrencilerin hem okul masraflarını karşılamasına hem de iletişim becerilerini geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "garsonluk yapmak",
+   "güler yüzlü bir garson",
+   "garsona sormak"
+  ],
+  "tip": "waitress kadın garsondur; cinsiyet belirtmeden server ya da waiter da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "something",
+  "senses": [
+   "bir şey"
+  ],
+  "ex": [
+   "Bu küçük kutunun içinde yumuşak bir şey var.",
+   "Her gün yeni bir şey öğrenmek, yetişkinlerin meraklı kalmasına ve iş hayatındaki değişikliklere uyum sağlamasına yardımcı olur."
+  ],
+  "col": [
+   "başka bir şey",
+   "yeni bir şey",
+   "yiyecek bir şey",
+   "bir terslik"
+  ],
+  "tip": "Sıfat something'den sonra gelir: something useful (\"useful something\" değil).",
+  "note": ""
+ },
+ {
+  "id": "pet",
+  "senses": [
+   "evcil hayvan",
+   "(hayvanı) okşamak; sevmek"
+  ],
+  "ex": [
+   "Evcil tavşanımız mutfak masasının altına saklanmaya bayılıyor.",
+   "Evcil bir hayvana bakmak, çocukların sorumluluk duygusu kazanmasına ve başkalarının ihtiyaçlarını fark etmeyi öğrenmesine yardımcı olur."
+  ],
+  "col": [
+   "evcil hayvan beslemek",
+   "evcil hayvan sahibi",
+   "evcil hayvan bakımı",
+   "köpeği sevmek"
+  ],
+  "tip": "Fiilin geçmiş zamanı petted'dır. İngiliz İngilizcesinde \"okşamak\" için stroke da sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stop",
+  "senses": [
+   "durmak; durdurmak; engellemek",
+   "durak",
+   "duruş; mola"
+  ],
+  "ex": [
+   "Yağmur şiddetlenince yürümeyi bıraktık.",
+   "Şehirler nüfus arttıkça trafik sıkışıklığının kötüleşmesini önlemek için toplu taşımayı iyileştirmeli."
+  ],
+  "col": [
+   "bir şeyi yapmayı bırakmak",
+   "birinin bir şey yapmasını engellemek",
+   "otobüs durağı",
+   "durmak; durma noktasına gelmek"
+  ],
+  "tip": "stop doing \"yapmayı bırakmak\", stop to do \"bir şey yapmak için durmak\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "holiday",
+  "senses": [
+   "tatil",
+   "bayram; resmî tatil",
+   "tatil yapmak"
+  ],
+  "ex": [
+   "Tatilimizi yüzerek ve sakin köyleri gezerek geçirdik.",
+   "Esnek tatil düzenlemeleri, işletmelerin yıl boyunca temel hizmetleri sürdürmesine izin verirken çalışanların refahını artırabilir."
+  ],
+  "col": [
+   "tatile gitmek",
+   "resmî tatil",
+   "tatil yeri",
+   "yıllık izin hakkı"
+  ],
+  "tip": "İngiliz İngilizcesinde on holiday \"tatilde\" demektir; Amerikan İngilizcesinde on vacation denir.",
+  "note": ""
+ },
+ {
+  "id": "english",
+  "senses": [
+   "İngilizce",
+   "İngilizceye ait; İngiliz; İngiltere'ye ait"
+  ],
+  "ex": [
+   "Okuldan eve yürürken birlikte İngilizce pratik yapıyoruz.",
+   "İngilizce öğrenmek uluslararası araştırmalara erişimi genişletebilir ve öğrencilerin kültürler arası iletişim kurmasına yardımcı olur."
+  ],
+  "col": [
+   "İngilizce konuşmak",
+   "akıcı İngilizce",
+   "İngiliz edebiyatı",
+   "İngiliz aksanı"
+  ],
+  "tip": "Her zaman büyük harfle yazılır. English İngiltere'yi, British ise tüm Birleşik Krallık'ı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "front",
+  "senses": [
+   "ön; ön yüz",
+   "ön; öndeki",
+   "cephe (hava)"
+  ],
+  "ex": [
+   "Lütfen çamurlu botlarını ön kapının yanına bırak.",
+   "Kamu binalarının önüne bisiklet park yerleri koymak daha fazla kişiyi bisiklete binmeye teşvik edebilir."
+  ],
+  "col": [
+   "ön kapı; giriş kapısı",
+   "-in ön kısmında",
+   "-in önünde",
+   "soğuk hava cephesi"
+  ],
+  "tip": "in front of bir şeyin dışında, önündedir; at the front of bir şeyin içinde, ön kısmındadır (otobüsün ön tarafı gibi).",
+  "note": ""
+ },
+ {
+  "id": "night",
+  "senses": [
+   "gece"
+  ],
+  "ex": [
+   "Dün gece balkondan yıldızları izledik.",
+   "Gece aşırı yapay ışık uyku düzenini bozabilir ve şehirdeki yaban hayatının davranışlarını etkileyebilir."
+  ],
+  "col": [
+   "geceleyin",
+   "dün gece",
+   "gece vardiyası",
+   "deliksiz bir gece uykusu"
+  ],
+  "tip": "Genel olarak \"geceleri\" at night'tır; last night'tan önce edat kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "ask",
+  "senses": [
+   "sormak",
+   "istemek; rica etmek",
+   "davet etmek"
+  ],
+  "ex": [
+   "Şoföre otobüsün nerede durduğunu sordum.",
+   "Okullar, sınıftaki öğretim yöntemlerinde büyük değişiklikler yapmadan önce öğrencilerin görüşünü almalı."
+  ],
+  "col": [
+   "soru sormak",
+   "yardım istemek",
+   "birinden bir şey yapmasını istemek",
+   "birini eve davet etmek"
+  ],
+  "tip": "ask for + istenen şey: ask for help. ask someone to do: birinden bir şey yapmasını istemek.",
+  "note": ""
+ },
+ {
+  "id": "jacket",
+  "senses": [
+   "ceket; mont",
+   "kitap kabı; koruyucu kılıf"
+  ],
+  "ex": [
+   "Soğuğa çıkmadan önce ceketimi kaptım.",
+   "Geri dönüştürülmüş malzemeden yapılmış dayanıklı bir ceket, tüketicilere daha sürdürülebilir bir giyim seçeneği sunar."
+  ],
+  "col": [
+   "su geçirmez ceket",
+   "takım elbise ceketi",
+   "kitap kabı"
+  ],
+  "tip": "jacket genellikle kısa bir ceket ya da monttur; uzun palto için coat kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lucky",
+  "senses": [
+   "şanslı",
+   "uğurlu"
+  ],
+  "ex": [
+   "Eve giden son otobüsü yakalayacak kadar şanslıydık.",
+   "Bazı girişimciler şanslı fırsatlardan yararlansa da uzun vadeli iş başarısı genellikle dikkatli planlama ve sürekli çaba gerektirir."
+  ],
+  "col": [
+   "-ecek kadar şanslı",
+   "ucuz atlatma",
+   "uğurlu tılsım",
+   "şans eseri gelen fırsat"
+  ],
+  "tip": "\"Bir şeyi yapma şansına sahip olmak\" için be lucky to do something kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "jeans",
+  "senses": [
+   "kot pantolon"
+  ],
+  "ex": [
+   "Bu kot pantolon yıkamadan sonra hâlâ ıslak.",
+   "Çalışanların kot giymesine izin vermek, profesyonel standartları düşürmeden daha rahat bir iş ortamı yaratabilir."
+  ],
+  "col": [
+   "bir kot pantolon",
+   "mavi kot",
+   "soluk kot"
+  ],
+  "tip": "Her zaman çoğuldur; bir tane için a pair of jeans denir: These jeans are…",
+  "note": ""
+ },
+ {
+  "id": "fire",
+  "senses": [
+   "ateş; yangın",
+   "işten çıkarmak; kovmak",
+   "ateş etmek; fırlatmak"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra ellerimizi ateşte ısıttık.",
+   "Düzenli güvenlik denetimleri, elektrik tesisatı eskimiş binalarda yangın riskini azaltabilir."
+  ],
+  "col": [
+   "alev almak",
+   "yangın söndürmek",
+   "yangın güvenliği",
+   "bir çalışanı işten çıkarmak"
+  ],
+  "tip": "catch fire \"alev almak (yanmaya başlamak)\", be on fire \"yanıyor olmak\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "sister",
+  "senses": [
+   "kız kardeş; abla",
+   "rahibe"
+  ],
+  "ex": [
+   "Küçük kız kardeşim en sevdiğim mavi kazağı hep ödünç alır.",
+   "Kardeşleriyle düzenli olarak sorumluluk paylaşan çocuklar evde daha güçlü iş birliği becerileri geliştirebilir."
+  ],
+  "col": [
+   "abla",
+   "küçük kız kardeş",
+   "ikiz kız kardeş",
+   "kardeş şirket"
+  ],
+  "tip": "sister hem abla hem küçük kız kardeş demektir; ayırmak için older/younger sister kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "winter",
+  "senses": [
+   "kış",
+   "kışı geçirmek; kışlamak"
+  ],
+  "ex": [
+   "Kış soğuk rüzgârlar getirdiğinde kalın montlar giyeriz.",
+   "Daha ılık kışlar, bitkilerin ve göçmen hayvanların mevsimsel davranışlarını değiştirerek doğal ekosistemleri bozabilir."
+  ],
+  "col": [
+   "kışın",
+   "sert bir kış",
+   "kış ayları",
+   "kışlık giysiler"
+  ],
+  "tip": "Genel olarak \"kışın\" in winter'dır; belirli bir yılın kışı için in the winter of 2020 denir.",
+  "note": ""
+ },
+ {
+  "id": "doctor",
+  "senses": [
+   "doktor; hekim",
+   "doktora sahibi; doktor (unvan)",
+   "(hileyle) değiştirmek; tahrif etmek"
+  ],
+  "ex": [
+   "Belirtilerimi anlatırken doktor beni dikkatle dinledi.",
+   "Hükümetler, kırsal kesimdeki toplulukların sağlık hizmetine güvenilir şekilde ulaşabilmesi için daha fazla doktor yetiştirmeli."
+  ],
+  "col": [
+   "doktora gitmek",
+   "aile hekimi",
+   "felsefe doktoru (PhD)",
+   "delilleri tahrif etmek"
+  ],
+  "tip": "\"Doktora gitmek\" genellikle see a doctor diye söylenir.",
+  "note": ""
+ },
+ {
+  "id": "pizza",
+  "senses": [
+   "pizza"
+  ],
+  "ex": [
+   "Filmden sonra mantarlı bir pizzayı paylaştık.",
+   "Pizza pratik olsa da besin değeri büyük ölçüde içindekilere ve porsiyon büyüklüğüne bağlıdır."
+  ],
+  "col": [
+   "bir dilim pizza",
+   "pizza hamuru",
+   "pizza sipariş etmek"
+  ],
+  "tip": "Bütün bir pizza sayılabilir (a pizza); yiyecek olarak genel söz ederken some pizza denir.",
+  "note": ""
+ },
+ {
+  "id": "pair",
+  "senses": [
+   "çift; takım",
+   "ikili",
+   "eşleştirmek; ikili gruplar yapmak"
+  ],
+  "ex": [
+   "En sevdiğim eldivenleri otobüste unuttum.",
+   "Öğretmenler iş birliğini teşvik etmek ve öğrenmeyi güçlendirmek için farklı güçlü yönleri olan öğrencileri sık sık eşleştirir."
+  ],
+  "col": [
+   "bir çift ayakkabı",
+   "bir makas",
+   "ikili çalışmak",
+   "biriyle eş olmak"
+  ],
+  "tip": "a pair of shoes özne olduğunda fiil tekil kullanılır: A pair of shoes is…",
+  "note": ""
+ },
+ {
+  "id": "student",
+  "senses": [
+   "öğrenci"
+  ],
+  "ex": [
+   "Bir öğrenci sırt çantasını kütüphane masasının altında unuttu.",
+   "Üniversiteler her öğrencinin eğitimi boyunca uygun fiyatlı konuta ve gerekli desteğe erişebilmesini sağlamalı."
+  ],
+  "col": [
+   "üniversite öğrencisi",
+   "uluslararası öğrenci",
+   "öğrenim kredisi",
+   "öğrenci yurdu"
+  ],
+  "tip": "student her düzeydeki öğrenciyi anlatır; İngiliz İngilizcesinde ilk ve ortaokul öğrencisi için pupil de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "yourself",
+  "senses": [
+   "kendin; kendini",
+   "bizzat sen; kendin"
+  ],
+  "ex": [
+   "O bıçakla elini kesmemeye dikkat et.",
+   "Yemeklerini kendin hazırlamak ev harcamalarını azaltırken besin kalitesi üzerinde daha fazla kontrol sağlar."
+  ],
+  "col": [
+   "kendi başına",
+   "buyur, al; dilediğin kadar al",
+   "iyi eğlenceler",
+   "kendin ol"
+  ],
+  "tip": "Tekil you içindir; birden fazla kişiye \"kendiniz\" derken yourselves kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "price",
+  "senses": [
+   "fiyat",
+   "bedel",
+   "fiyat biçmek"
+  ],
+  "ex": [
+   "Taze çileğin fiyatı bu hafta düştü.",
+   "Yükselen gıda fiyatları, özellikle şehirlerde, geliri kısıtlı aileler üzerinde ciddi bir baskı oluşturuyor."
+  ],
+  "col": [
+   "yüksek fiyatlar",
+   "bedelini ödemek",
+   "fiyat artışı",
+   "makul fiyatlı"
+  ],
+  "tip": "Fiyat için high/low, ürün için expensive/cheap denir: \"The price is expensive\" yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "last",
+  "senses": [
+   "son; geçen",
+   "sürmek; dayanmak; yetmek",
+   "en son; son kez"
+  ],
+  "ex": [
+   "Gece yarısından hemen önce eve giden son otobüse yetiştim.",
+   "Daha uzun ömürlü ürünler ev harcamalarını azaltabilir ve çöp sahalarına giden atık miktarını sınırlayabilir."
+  ],
+  "col": [
+   "geçen hafta",
+   "son şans",
+   "yıllarca sürmek",
+   "ömür boyu dayanmak"
+  ],
+  "tip": "last week \"geçen hafta\", the last week ise \"son hafta\" (bir dönemin son haftası) anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "listen",
+  "senses": [
+   "dinlemek",
+   "söz dinlemek; kulak vermek"
+  ],
+  "ex": [
+   "Her akşam yemek pişirirken müzik dinlerim.",
+   "Yerel yönetimler, mahalleleri ciddi şekilde etkileyecek kararlar almadan önce sakinleri dinlemeli."
+  ],
+  "col": [
+   "müzik dinlemek",
+   "dikkatle dinlemek",
+   "tavsiyeye kulak vermek"
+  ],
+  "tip": "Nesne alırken to gerekir: listen to music. hear ise \"duymak\" demektir ve isteğe bağlı değildir.",
+  "note": ""
+ },
+ {
+  "id": "poor",
+  "senses": [
+   "yoksul; fakir",
+   "kötü; zayıf; yetersiz",
+   "zavallı"
+  ],
+  "ex": [
+   "Yoksul aile taze sebze almaya zar zor gücü yetiyordu.",
+   "Yetersiz toplu taşıma, büyük şehir merkezlerinden uzakta yaşayanların iş fırsatlarını kısıtlayabilir."
+  ],
+  "col": [
+   "kötü sağlık",
+   "düşük kalite",
+   "besin açısından fakir",
+   "yoksul aileler"
+  ],
+  "tip": "poor at \"bir şeyde kötü olmak\", poor in \"bir şeyden yoksun olmak\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "gym",
+  "senses": [
+   "spor salonu",
+   "beden eğitimi dersi"
+  ],
+  "ex": [
+   "Genellikle işten önce spor salonuna giderim.",
+   "Uygun fiyatlı spor salonu üyeliği düzenli egzersizi teşvik edebilir, ancak güvenli açık alanlar da halk sağlığı için aynı derecede önemlidir."
+  ],
+  "col": [
+   "spor salonuna gitmek",
+   "spor salonu üyeliği",
+   "spor aletleri",
+   "beden eğitimi dersi"
+  ],
+  "tip": "gym, gymnasium'un kısaltmasıdır; go to the gym şeklinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reading",
+  "senses": [
+   "okuma",
+   "(ölçü aletindeki) değer; okuma",
+   "okuma etkinliği; şiir dinletisi"
+  ],
+  "ex": [
+   "Yatmadan önce kitap okumak yoğun bir günün ardından rahatlamamı sağlıyor.",
+   "Düzenli okuma, öğrencileri farklı kelimelerle tanıştırır ve eleştirel düşünme becerilerini güçlendirir."
+  ],
+  "col": [
+   "okuduğunu anlama",
+   "okuma alışkanlıkları",
+   "ölçüm almak",
+   "şiir dinletisi"
+  ],
+  "tip": "Okuma etkinliği anlamında sayılamaz; ölçüm değeri ya da okuma etkinliği anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "guitar",
+  "senses": [
+   "gitar"
+  ],
+  "ex": [
+   "Kız kardeşim her akşam pencerenin yanında gitar çalar.",
+   "Gitar çalmayı öğrenmek, düzenli pratik sayesinde öğrencilerin sabır, koordinasyon ve özgüven geliştirmesine yardımcı olur."
+  ],
+  "col": [
+   "gitar çalmak",
+   "akustik gitar",
+   "elektro gitar",
+   "gitar telleri"
+  ],
+  "tip": "Çalgı çalmak için genellikle the kullanılır: play the guitar.",
+  "note": ""
+ },
+ {
+  "id": "toothpaste",
+  "senses": [
+   "diş macunu"
+  ],
+  "ex": [
+   "Kahvaltıdan önce fırçama biraz diş macunu sıktım.",
+   "Florürlü diş macunuyla düzenli fırçalamak diş çürümesini önler ve pahalı diş tedavilerine olan ihtiyacı azaltabilir."
+  ],
+  "col": [
+   "bir tüp diş macunu",
+   "florürlü diş macunu",
+   "diş macunu sıkmak"
+  ],
+  "tip": "Sayılamaz; \"bir tüp diş macunu\" a tube of toothpaste'tir.",
+  "note": ""
+ },
+ {
+  "id": "sun",
+  "senses": [
+   "güneş",
+   "güneş ışığı",
+   "güneşlenmek"
+  ],
+  "ex": [
+   "Biz plaja vardığımız anda güneş çıktı.",
+   "Uygun koşullara sahip bölgelerde güneş enerjisi, fosil yakıtlara yenilenebilir bir alternatif sunabilir."
+  ],
+  "col": [
+   "doğan güneş",
+   "güneşte",
+   "doğrudan güneş ışığı",
+   "güneşlenmek"
+  ],
+  "tip": "Güneş için genellikle the sun denir; in the sun \"güneşte\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "france",
+  "senses": [
+   "Fransa"
+  ],
+  "ex": [
+   "Geçen yaz Fransa'yı trenle gezdik.",
+   "Fransa, kültürel mirası, çeşitli manzaraları ve gelişmiş ulaşım ağıyla uluslararası ziyaretçileri çekiyor."
+  ],
+  "col": [
+   "Fransa'yı ziyaret etmek",
+   "Güney Fransa",
+   "Fransa anakarası"
+  ],
+  "tip": "Ülke adı büyük harfle yazılır ve genellikle the almaz.",
+  "note": ""
+ },
+ {
+  "id": "angry",
+  "senses": [
+   "kızgın; öfkeli"
+  ],
+  "ex": [
+   "Biri bisikletine zarar verince çok sinirlendi.",
+   "Sakinler, belediyenin mahallelerindeki tek kütüphaneyi kapatma kararına öfkelendi."
+  ],
+  "col": [
+   "birine kızgın olmak",
+   "bir şeye kızgın olmak",
+   "sinirlenmek"
+  ],
+  "tip": "Bir kişiye kızmak angry with, bir şeye kızmak angry about'tur.",
+  "note": ""
+ },
+ {
+  "id": "aeroplane",
+  "senses": [
+   "uçak"
+  ],
+  "ex": [
+   "Uçak kumlu plajın üzerinden alçaktan uçtu.",
+   "Uçak yolculuğu uzak toplulukları birbirine bağlar, ancak çevresel etkisi alternatif ulaşım konusunda tartışmalara yol açmıştır."
+  ],
+  "col": [
+   "uçağa binmek",
+   "uçak kullanmak",
+   "uçak motoru"
+  ],
+  "tip": "İngiliz İngilizcesinde aeroplane, Amerikan İngilizcesinde airplane denir; konuşmada genellikle kısaca plane kullanılır.",
+  "note": ""
+ }
+]

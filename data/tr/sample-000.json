@@ -1,0 +1,937 @@
+[
+ {
+  "id": "library",
+  "senses": [
+   "kütüphane",
+   "arşiv; koleksiyon"
+  ],
+  "ex": [
+   "Okuldan sonra kütüphaneden üç kitap ödünç aldım.",
+   "Halk kütüphaneleri kitaplara, dijital kaynaklara ve sessiz çalışma alanlarına ücretsiz erişim sağlayarak yaşam boyu öğrenmeyi destekler."
+  ],
+  "col": [
+   "halk kütüphanesi",
+   "kütüphane kartı",
+   "dijital kütüphane",
+   "kütüphane kaynakları"
+  ],
+  "tip": "library kitap ödünç alınan yerdir; kitap satılan yer bookshop'tur. Türkçedeki \"kitapçı\" ile karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "thursday",
+  "senses": [
+   "perşembe"
+  ],
+  "ex": [
+   "Genellikle perşembe günleri evde öğle yemeği için buluşuruz.",
+   "Üniversite, önümüzdeki perşembe akşamı sürdürülebilir ulaşım üzerine halka açık bir tartışma düzenleyecek."
+  ],
+  "col": [
+   "perşembe günü",
+   "perşembe sabahı",
+   "her perşembe"
+  ],
+  "tip": "Gün adları İngilizcede büyük harfle yazılır; belirli bir günden önce on kullanılır: on Thursday.",
+  "note": ""
+ },
+ {
+  "id": "bedroom",
+  "senses": [
+   "yatak odası"
+  ],
+  "ex": [
+   "Yatak odam sabahları bol güneş alır.",
+   "Aynı yatak odasını paylaşan çocuklar iş birliği becerisi geliştirebilir ama büyüdükçe yeterli mahremiyete de ihtiyaç duyarlar."
+  ],
+  "col": [
+   "yatak odasını paylaşmak",
+   "ebeveyn yatak odası",
+   "misafir odası",
+   "yatak odası mobilyası"
+  ],
+  "tip": "Sayılabilir isimdir; a two-bedroom flat \"2+1 daire\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "clothes",
+  "senses": [
+   "giysiler; kıyafetler"
+  ],
+  "ex": [
+   "Temiz kıyafetlerin dışarıda güneşte kuruyor.",
+   "Ucuz giysileri sık sık yenilemek yerine dayanıklı kıyafetler almak, evdeki atığı azaltabilir ve kaynak tasarrufu sağlar."
+  ],
+  "col": [
+   "günlük kıyafetler",
+   "temiz giysiler",
+   "üstünü değiştirmek",
+   "kıyafet denemek"
+  ],
+  "tip": "Sadece çoğul kullanılır: my clothes are… Tek bir giysi için a piece/an item of clothing denir.",
+  "note": ""
+ },
+ {
+  "id": "strong",
+  "senses": [
+   "güçlü; kuvvetli",
+   "sağlam; dayanıklı",
+   "yoğun; ikna edici"
+  ],
+  "ex": [
+   "Ağabeyim bu kanepeyi kaldıracak kadar güçlü.",
+   "Düzenli fiziksel aktivitenin hem ruh sağlığını hem de akademik başarıyı artırdığına dair güçlü kanıtlar var."
+  ],
+  "col": [
+   "güçlü kanıt",
+   "kuvvetli rüzgâr",
+   "sağlam temel",
+   "matematikte iyi olmak"
+  ],
+  "tip": "strong at bir konuda iyi olmayı anlatır: She is strong at maths.",
+  "note": ""
+ },
+ {
+  "id": "body",
+  "senses": [
+   "vücut; beden",
+   "kurum; kurul",
+   "ana kısım; gövde"
+  ],
+  "ex": [
+   "Dünkü uzun yürüyüşten sonra bütün vücudum ağrıyor.",
+   "Bağımsız bir kurum su kalitesini izlemeli ve bulgularını kamuoyuyla paylaşmalı."
+  ],
+  "col": [
+   "insan vücudu",
+   "yönetim kurulu",
+   "bir dizi kanıt",
+   "yazının gelişme bölümü"
+  ],
+  "tip": "body \"kurum\" anlamına da gelir; bir kompozisyonda body giriş ile sonuç arasındaki ana bölümdür.",
+  "note": ""
+ },
+ {
+  "id": "month",
+  "senses": [
+   "ay"
+  ],
+  "ex": [
+   "Her ay biraz para biriktiriyorum.",
+   "Çalışanlara her ay fazladan bir gün izin vermek, genel verimliliği belirgin şekilde düşürmeden refahlarını artırabilir."
+  ],
+  "col": [
+   "geçen ay",
+   "gelecek ay",
+   "ayda bir",
+   "aylık; ay başına"
+  ],
+  "tip": "last, next ve every month'tan önce edat kullanılmaz: \"in last month\" yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "let",
+  "senses": [
+   "izin vermek; bırakmak",
+   "kiraya vermek"
+  ],
+  "ex": [
+   "Lütfen eve sağ salim vardığında bana haber ver.",
+   "Okullar, öğrencilerden bir alan seçmelerini istemeden önce farklı dersleri keşfetmelerine izin vermeli."
+  ],
+  "col": [
+   "birine haber vermek",
+   "birini içeri almak",
+   "daire kiraya vermek",
+   "bırakmak; vazgeçmek"
+  ],
+  "tip": "let someone do something kalıbında to kullanılmaz. Geçmiş zaman ve üçüncü hâli de let'tir.",
+  "note": ""
+ },
+ {
+  "id": "born",
+  "senses": [
+   "doğmuş",
+   "doğuştan; yaratılıştan"
+  ],
+  "ex": [
+   "Küçük kız kardeşim karlı bir sabah doğdu.",
+   "Kırsal kesimde doğan çocuklar uzman sağlık hizmetlerine ulaşmakta şehirdekilerden daha çok zorlanabilir."
+  ],
+  "col": [
+   "…'da doğmak",
+   "bir ailede dünyaya gelmek",
+   "doğuştan lider"
+  ],
+  "tip": "\"Doğmak\" için be born kullanılır: I was born in 1994. \"I born\" yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "paint",
+  "senses": [
+   "boya",
+   "boyamak",
+   "(boyayla) resim yapmak"
+  ],
+  "ex": [
+   "Ellerinin her yeri mavi boya olmuş.",
+   "Okullar çocukların düzenli olarak resim yapmasına izin vermeli; yaratıcı etkinlikler duygusal gelişimi ve kendini ifade etmeyi destekler."
+  ],
+  "col": [
+   "yaş boya",
+   "bir kat boya",
+   "resim yapmak",
+   "duvar boyamak"
+  ],
+  "tip": "paint boyayla resim yapmaktır; kurşun kalemle çizim yapmak draw'dur.",
+  "note": ""
+ },
+ {
+  "id": "use",
+  "senses": [
+   "kullanmak",
+   "kullanım",
+   "fayda; işe yarama"
+  ],
+  "ex": [
+   "Bu paketi açmak için makasını kullanabilir miyim?",
+   "Hükümetler, hizmetleri daha güvenilir ve uygun fiyatlı hâle getirerek insanları toplu taşıma kullanmaya teşvik etmeli."
+  ],
+  "col": [
+   "toplu taşıma kullanmak",
+   "-den yararlanmak",
+   "kullanımda",
+   "çok çeşitli kullanım alanı"
+  ],
+  "tip": "Fiil /juːz/, isim /juːs/ diye okunur.",
+  "note": ""
+ },
+ {
+  "id": "minute",
+  "senses": [
+   "dakika; an",
+   "toplantı tutanağı",
+   "çok küçük; ufacık"
+  ],
+  "ex": [
+   "Anahtarlarımı bulana kadar bir dakika bekle.",
+   "Derste yapılan kısa ama düzenli bir tartışma bile öğrencilerin öğrendikleri üzerine düşünmesini sağlayabilir."
+  ],
+  "col": [
+   "birkaç dakika",
+   "son anda",
+   "toplantı tutanağı tutmak",
+   "en ince ayrıntılar"
+  ],
+  "tip": "Tutanak anlamında çoğul minutes kullanılır. \"Ufacık\" anlamındaki sıfat /maɪˈnjuːt/ okunur, vurgu sondadır.",
+  "note": ""
+ },
+ {
+  "id": "even",
+  "senses": [
+   "bile; hatta",
+   "düz; eşit",
+   "çift (sayı)"
+  ],
+  "ex": [
+   "Herkes dansa katıldı, utangaç amcamız bile.",
+   "Toplu taşımadaki küçük iyileştirmeler bile hareket kısıtlılığı olan insanların günlük yolculuklarını kolaylaştırabilir."
+  ],
+  "col": [
+   "-se bile",
+   "-diği hâlde",
+   "daha da iyi",
+   "çift sayı"
+  ],
+  "tip": "even if varsayım bildirir (\"olsa bile\"); even though gerçek bir durumu anlatır (\"olduğu hâlde\").",
+  "note": ""
+ },
+ {
+  "id": "o-clock",
+  "senses": [
+   "saat … (tam saat)"
+  ],
+  "ex": [
+   "Lütfen saat üçte kütüphanenin önünde buluşalım.",
+   "Okulu daha erken değil de saat dokuzda başlatmak, gençlerin sabah derslerinde daha iyi odaklanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "saat altıda",
+   "saat sekiz civarında",
+   "en geç saat onda"
+  ],
+  "tip": "Sadece tam saatler için kullanılır: at three o'clock. \"Üç buçuk\" için o'clock kullanılmaz.",
+  "note": "Standart olmayan o-clock yazımı o'clock olarak düzeltildi."
+ },
+ {
+  "id": "australian",
+  "senses": [
+   "Avustralya'ya ait; Avustralyalı",
+   "Avustralyalı (kişi)"
+  ],
+  "ex": [
+   "Yaban hayatı parkında birkaç Avustralya hayvanı gördük.",
+   "Avustralya üniversiteleri, araştırma olanakları ve çeşitli akademik programlarla uluslararası öğrencileri kendine çekiyor."
+  ],
+  "col": [
+   "Avustralya'nın yaban hayatı",
+   "Avustralya kültürü",
+   "Avustralya İngilizcesi"
+  ],
+  "tip": "Milliyet sıfatları her zaman büyük harfle başlar; bir Avustralyalı için an Australian denir.",
+  "note": ""
+ },
+ {
+  "id": "cut",
+  "senses": [
+   "kesmek",
+   "azaltmak; kısmak",
+   "kesik; yara; kesinti"
+  ],
+  "ex": [
+   "Kardeşi için elmayı dilimlere ayırdı.",
+   "Yerel yönetimler kamu binalarına verimli aydınlatma takarak enerji masraflarını azaltabilir."
+  ],
+  "col": [
+   "parçalara kesmek",
+   "masrafları kısmak",
+   "azaltmak"
+  ],
+  "tip": "Geçmiş zaman ve üçüncü hâli de cut'tır; -ing hâli cutting olarak çift t ile yazılır.",
+  "note": ""
+ },
+ {
+  "id": "remember",
+  "senses": [
+   "hatırlamak",
+   "unutmamak",
+   "anmak"
+  ],
+  "ex": [
+   "Büyükannemin mutfağının kokusunu hâlâ hatırlıyorum.",
+   "Öğrenciler yeni kelimeleri anlamlı konuşmalarda kullandıklarında genellikle daha kolay akılda tutarlar."
+  ],
+  "col": [
+   "net bir şekilde hatırlamak",
+   "bir şeyi yapmayı unutmamak",
+   "bir şeyi yaptığını hatırlamak",
+   "… ile anılmak"
+  ],
+  "tip": "remember to do \"yapmayı unutmamak\", remember doing \"yaptığını hatırlamak\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "wake",
+  "senses": [
+   "uyanmak; uyandırmak",
+   "dümen suyu",
+   "ölü evi toplantısı; yas toplantısı"
+  ],
+  "ex": [
+   "İşe gitmeden önce lütfen beni uyandır.",
+   "Her gün aynı saatte uyanan insanlar sağlıklı bir uyku düzenini daha kolay sürdürebilir."
+  ],
+  "col": [
+   "uyanmak; uyandırmak",
+   "birini uyandırmak",
+   "-in ardından; sonucunda"
+  ],
+  "tip": "Geçmiş zaman woke, üçüncü hâli woken'dır; çoğunlukla up ile kullanılır: wake up.",
+  "note": ""
+ },
+ {
+  "id": "juice",
+  "senses": [
+   "meyve suyu; sebze suyu"
+  ],
+  "ex": [
+   "Bir bardağa taze portakal suyu sıktı.",
+   "Meyve suyu vitamin içerse de meyvenin kendisini yemek genellikle daha fazla lif sağlar ve şeker alımını sınırlar."
+  ],
+  "col": [
+   "taze sıkılmış meyve suyu",
+   "portakal suyu",
+   "limon suyu"
+  ],
+  "tip": "Genellikle sayılamaz; sipariş verirken a juice \"bir bardak meyve suyu\" anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "really",
+  "senses": [
+   "çok; gerçekten (vurgu)",
+   "aslında; gerçekte",
+   "Sahi mi?; Gerçekten mi?"
+  ],
+  "ex": [
+   "Bu çorba çok sıcak, biraz soğumasını bekle.",
+   "Çevrim içi eğitimi yaygınlaştırmadan önce politika yapıcılar, dijital derslerin dezavantajlı öğrencilerin ihtiyaçlarını gerçekten karşılayıp karşılamadığını düşünmeli."
+  ],
+  "col": [
+   "çok faydalı",
+   "çok sevmek; çok keyif almak",
+   "pek değil; tam olarak değil"
+  ],
+  "tip": "not really \"pek sayılmaz\" demektir; düz bir no'dan daha kibar ve yumuşaktır.",
+  "note": ""
+ },
+ {
+  "id": "japanese",
+  "senses": [
+   "Japon; Japonca'ya ait",
+   "Japonca",
+   "Japon (kişi); Japonlar"
+  ],
+  "ex": [
+   "Dün küçük bir restoranda Japon yemeklerinin tadını çıkardık.",
+   "Japon mimarisini incelemek, öğrencilerin geleneksel tasarımın yerel çevre koşullarına nasıl uyum sağladığını anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "Japon mutfağı",
+   "Japon mimarisi",
+   "Japonca öğrenmek",
+   "Japon kültürü"
+  ],
+  "tip": "Her zaman büyük harfle yazılır. Bir Japon için genellikle a Japanese person denir.",
+  "note": ""
+ },
+ {
+  "id": "river",
+  "senses": [
+   "nehir; ırmak"
+  ],
+  "ex": [
+   "Bu sabah nehrin karşı kıyısına yüzen ördekleri izledik.",
+   "Nehir ekosistemlerini korumak, çiftçi toplulukları, yerel sanayi ve çevre kurumları arasında iş birliği gerektirir."
+  ],
+  "col": [
+   "nehir kıyısı",
+   "havza",
+   "nehri geçmek",
+   "nehir kirliliği"
+  ],
+  "tip": "Nehir adlarıyla genellikle the kullanılır: the River Thames, the Nile.",
+  "note": ""
+ },
+ {
+  "id": "horse",
+  "senses": [
+   "at"
+  ],
+  "ex": [
+   "Kahverengi at, elimdeki elmayı nazikçe aldı.",
+   "Motorlu taşıtlar yaygınlaşmadan önce atlar tarımda ve yük taşımacılığında merkezi bir rol oynuyordu."
+  ],
+  "col": [
+   "ata binmek",
+   "binicilik",
+   "yabani at",
+   "at yarışı"
+  ],
+  "tip": "\"Ata binmek\" ride a horse'tur; \"at sırtında\" on horseback denir.",
+  "note": ""
+ },
+ {
+  "id": "lunch",
+  "senses": [
+   "öğle yemeği",
+   "öğle yemeği yemek"
+  ],
+  "ex": [
+   "Nehir kenarındaki bir ağacın altında öğle yemeği yedik.",
+   "Okullarda besleyici öğle yemekleri sunmak çocukların konsantrasyonunu artırabilir ve zamanla daha sağlıklı beslenme alışkanlıkları kazandırabilir."
+  ],
+  "col": [
+   "öğle yemeği yemek",
+   "öğle arası",
+   "evden getirilen yemek",
+   "okul yemeği"
+  ],
+  "tip": "Genel olarak öğle yemeği yemek have lunch'tır; artikel kullanılmaz: \"have a lunch\" denmez.",
+  "note": ""
+ },
+ {
+  "id": "tall",
+  "senses": [
+   "uzun boylu; yüksek"
+  ],
+  "ex": [
+   "Öğleden sonraları uzun bir ağaç bahçemizi gölgeler.",
+   "Yüksek binalar daha çok kişiyi barındırabilir, ancak güneş ışığını ve kamusal alanları korumak için dikkatli planlama gerekir."
+  ],
+  "col": [
+   "yüksek bina",
+   "uzun ağaç",
+   "boy atmak",
+   "dik durmak"
+  ],
+  "tip": "İnsan, ağaç ve binalar için tall; dağlar için genellikle high kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "also",
+  "senses": [
+   "de; ayrıca"
+  ],
+  "ex": [
+   "Kız kardeşim tenis oynar, ayrıca yüzmeyi de sever.",
+   "Halk kütüphaneleri ücretsiz kitap sağlar, ama aynı zamanda toplumsal öğrenme için değerli alanlar da sunar."
+  ],
+  "col": [
+   "ayrıca mevcut",
+   "… olarak da bilinen",
+   "sadece … değil, aynı zamanda …"
+  ],
+  "tip": "Genellikle asıl fiilden önce, be fiilinden sonra gelir: I also like…, She is also… Bağlaç değildir.",
+  "note": ""
+ },
+ {
+  "id": "coat",
+  "senses": [
+   "palto; mont",
+   "kat; tabaka",
+   "bir şeyle kaplamak"
+  ],
+  "ex": [
+   "Islak paltonu mutfak kapısının yanına as.",
+   "Metal yapılara koruyucu bir kat uygulamak bakım masraflarını azaltır ve kullanım ömrünü uzatır."
+  ],
+  "col": [
+   "kışlık mont",
+   "bir kat boya",
+   "çikolataya bulamak"
+  ],
+  "tip": "Fiil olarak coat A with B kalıbı kullanılır: \"A'yı B ile kaplamak\".",
+  "note": ""
+ },
+ {
+  "id": "elephant",
+  "senses": [
+   "fil"
+  ],
+  "ex": [
+   "Fil hortumuyla sırtına su püskürttü.",
+   "Fillerin yaşam alanlarını korumak, sınırların ötesinde koruma kuruluşları, yerel topluluklar ve hükümetler arasında iş birliği gerektirir."
+  ],
+  "col": [
+   "bir fil sürüsü",
+   "fil hortumu",
+   "fillerin korunması"
+  ],
+  "tip": "Çoğulu elephants'tır; filin hortumu nose değil trunk'tır.",
+  "note": ""
+ },
+ {
+  "id": "fast",
+  "senses": [
+   "hızlı",
+   "hızla; çabuk",
+   "oruç tutmak"
+  ],
+  "ex": [
+   "Hızlı bir trene bindik ve öğle yemeğinden önce vardık.",
+   "Hızlı internet bağlantısı kırsaldaki işletmelerin daha geniş pazarlara ulaşmasını ve büyük şehirlerdeki şirketlerle rekabet etmesini sağlar."
+  ],
+  "col": [
+   "hızlı tren",
+   "hızla büyümek",
+   "fast food",
+   "derin uykuda"
+  ],
+  "tip": "fast zaten zarf olarak da kullanılır; \"fastly\" diye bir kelime yoktur.",
+  "note": ""
+ },
+ {
+  "id": "from",
+  "senses": [
+   "-den/-dan; … kaynaklı",
+   "yüzünden; -den dolayı",
+   "-den farklı; -den uzak"
+  ],
+  "ex": [
+   "Bu kartpostal dağlardaki kuzenimden geldi.",
+   "Kırsal topluluklardan gelen öğrenciler büyük şehirlerdeki üniversitelere başvururken ek engellerle karşılaşabilir."
+  ],
+  "col": [
+   "zaman zaman",
+   "-den muzdarip olmak",
+   "-den farklı",
+   "baştan sona"
+  ],
+  "tip": "from başlangıç noktasını gösterir ve genellikle bitişi gösteren to ile birlikte kullanılır: from 9 to 5.",
+  "note": ""
+ },
+ {
+  "id": "quickly",
+  "senses": [
+   "hızla; çabucak"
+  ],
+  "ex": [
+   "Taksi gelince çantalarımızı hızla topladık.",
+   "Şehirler, savunmasız sakinleri korumak ve temel hizmetleri sürdürmek için aşırı hava olaylarına hızla müdahale etmeli."
+  ],
+  "col": [
+   "hızla yanıt vermek",
+   "hızlı davranmak",
+   "çabuk öğrenmek",
+   "olabildiğince çabuk"
+  ],
+  "tip": "quickly zarftır ve fiili niteler; quick ise sıfattır ve ismi niteler: a quick answer.",
+  "note": ""
+ },
+ {
+  "id": "activity",
+  "senses": [
+   "etkinlik; faaliyet",
+   "hareketlilik; faaliyet"
+  ],
+  "ex": [
+   "Yağmurlu öğleden sonralarda en sevdiğim etkinlik resim yapmak.",
+   "Düzenli fiziksel aktivite ruh sağlığını iyileştirebilir ve birçok kronik hastalığın riskini azaltabilir."
+  ],
+  "col": [
+   "fiziksel aktivite",
+   "açık hava etkinlikleri",
+   "ekonomik faaliyet",
+   "boş zaman etkinlikleri"
+  ],
+  "tip": "Belirli etkinlikler sayılabilir (activities); genel hareketlilik anlamında sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "town",
+  "senses": [
+   "kasaba; ilçe",
+   "şehir merkezi; çarşı"
+  ],
+  "ex": [
+   "Kasabamızda eski köprünün yanında bir fırın var.",
+   "Küçük bir kasabada toplu taşımayı iyileştirmek, sakinlerin işlere ve temel hizmetlere ulaşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "küçük kasaba",
+   "şehir merkezi",
+   "sahil kasabası",
+   "çarşıya gitmek"
+  ],
+  "tip": "go into town \"şehir merkezine/çarşıya gitmek\" demektir; burada town'dan önce artikel kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "without",
+  "senses": [
+   "-sız/-siz; olmadan",
+   "-meden/-madan"
+  ],
+  "ex": [
+   "Bu sabah evden anahtarlarımı almadan çıktım.",
+   "Şehirler güvenilir toplu taşımaya yatırım yapmadan hava kirliliğinde kalıcı bir azalma sağlayamaz."
+  ],
+  "col": [
+   "şüphesiz",
+   "izinsiz",
+   "gecikmeden; hemen",
+   "tek kelime etmeden"
+  ],
+  "tip": "without bir edattır; ardından isim, zamir ya da -ing'li fiil gelir: without saying.",
+  "note": ""
+ },
+ {
+  "id": "picture",
+  "senses": [
+   "resim; fotoğraf",
+   "tablo; genel görünüm",
+   "gözünde canlandırmak"
+  ],
+  "ex": [
+   "Yatağının üstüne bir deniz resmi astı.",
+   "Anket sonuçları, konut maliyetlerinin genç yetişkinlerin refahını nasıl etkilediğine dair daha net bir tablo ortaya koyuyor."
+  ],
+  "col": [
+   "fotoğraf çekmek",
+   "net bir tablo",
+   "büyük resim; genel durum",
+   "kendini bir şeyi yaparken hayal etmek"
+  ],
+  "tip": "take a picture \"fotoğraf çekmek\", draw a picture \"resim çizmek\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "child",
+  "senses": [
+   "çocuk",
+   "evlat"
+  ],
+  "ex": [
+   "Çocuk bir kâse suyu dikkatlice dışarı taşıdı.",
+   "Her çocuk, ailesinin geliri ya da yaşadığı yer ne olursa olsun kaliteli eğitime erişebilmelidir."
+  ],
+  "col": [
+   "tek çocuk",
+   "çocuk gelişimi",
+   "çocuk yetiştirmek"
+  ],
+  "tip": "Çoğulu düzensizdir: children. childish olumsuz (\"çocukça\"), childlike olumlu (\"çocuk gibi saf\") anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "kind",
+  "senses": [
+   "nazik; iyi kalpli",
+   "tür; çeşit"
+  ],
+  "ex": [
+   "Hasta olduğumuzda iyi kalpli komşumuz bize çorba getirdi.",
+   "Okullar öğrencileri başkalarına karşı nazik olmaya teşvik etmeli; bu daha destekleyici bir öğrenme ortamı yaratır."
+  ],
+  "col": [
+   "birine karşı nazik olmak",
+   "bir çeşit",
+   "her türlü",
+   "nazik sözler"
+  ],
+  "tip": "Sıfat olarak genellikle to ile kullanılır: kind to animals. \"Bir tür\" için a kind of + isim.",
+  "note": ""
+ },
+ {
+  "id": "nothing",
+  "senses": [
+   "hiçbir şey",
+   "hiç; asla"
+  ],
+  "ex": [
+   "Buzdolabını açtım ama içinde hiçbir şey yoktu.",
+   "Uygun fiyatlı toplu taşıma olmadığında bazı sakinlerin kendi arabalarından başka güvenebileceği hiçbir şey kalmıyor."
+  ],
+  "col": [
+   "ile hiçbir ilgisi olmamak",
+   "sadece; -den başka bir şey değil",
+   "hiç benzemiyor",
+   "bedavaya; boşuna"
+  ],
+  "tip": "nothing zaten olumsuz anlam taşır, not ile birlikte kullanılmaz: \"I don't have nothing\" yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "tuesday",
+  "senses": [
+   "salı"
+  ],
+  "ex": [
+   "Salı akşamları genellikle birlikte akşam yemeği yeriz.",
+   "Toplum merkezi, yeni gelenlerin bölgeye uyum sağlamasına yardımcı olmak için her salı ücretsiz dil kursu düzenliyor."
+  ],
+  "col": [
+   "salı günü",
+   "salı sabahı",
+   "her salı"
+  ],
+  "tip": "Gün adları büyük harfle yazılır; every Tuesday'den önce on kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "why",
+  "senses": [
+   "neden; niçin",
+   "-mesinin nedeni"
+  ],
+  "ex": [
+   "Ayakkabıların bu sabah neden hâlâ ıslak?",
+   "Araştırmacıların, bazı öğrencilerin ortaöğretimi tamamlamadan neden okulu bıraktığını anlaması gerekiyor."
+  ],
+  "col": [
+   "neden olmasın",
+   "-mesinin nedeni",
+   "neden diye merak etmek"
+  ],
+  "tip": "Dolaylı soru cümlelerinde düz cümle sırası kullanılır: I know why he left. (\"why did he leave\" değil)",
+  "note": ""
+ },
+ {
+  "id": "hat",
+  "senses": [
+   "şapka"
+  ],
+  "ex": [
+   "Güneşe çıkmadan önce şapkamı kaptım.",
+   "Geniş kenarlı bir şapka takmak, özellikle uzun saatler dışarıda çalışan insanlar için güneşe maruz kalmayı azaltır."
+  ],
+  "col": [
+   "şapka takmak",
+   "geniş kenarlı şapka",
+   "güneş şapkası",
+   "şapkanı çıkarmak"
+  ],
+  "tip": "Şapka takmış olmak wear, şapkayı takma eylemi put on'dur.",
+  "note": ""
+ },
+ {
+  "id": "worker",
+  "senses": [
+   "işçi; çalışan"
+  ],
+  "ex": [
+   "Turuncu tulumlu bir işçi kırık çiti tamir etti.",
+   "İşverenler, iş kazası riskini azaltmak için her çalışana uygun eğitim ve ekipman sağlamalı."
+  ],
+  "col": [
+   "fabrika işçisi",
+   "kalifiye işçi",
+   "sağlık çalışanı",
+   "göçmen işçi"
+  ],
+  "tip": "Sadece beden işçisi değil, sağlık çalışanı gibi her türlü çalışanı anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "chips",
+  "senses": [
+   "patates kızartması (İng.); cips (Amer.)",
+   "kırıntı; yonga",
+   "çip; mikroçip"
+  ],
+  "ex": [
+   "Bu patates kızartmaları dışı çıtır, içi yumuşak.",
+   "Okullar patates kızartması yerine sebze ve başka besleyici garnitürler sunarak sağlıklı beslenmeyi teşvik edebilir."
+  ],
+  "col": [
+   "balık ve patates kızartması",
+   "talaş",
+   "bilgisayar çipleri"
+  ],
+  "tip": "İngiliz İngilizcesinde chips patates kızartması, crisps cipstir; Amerikan İngilizcesinde kızartmaya fries denir.",
+  "note": ""
+ },
+ {
+  "id": "keep",
+  "senses": [
+   "saklamak; elinde tutmak",
+   "korumak; tutmak (bir durumda)",
+   "sürdürmek; -ip durmak"
+  ],
+  "ex": [
+   "Yağmur dinene kadar şemsiyeyi sende tutabilirsin.",
+   "Hükümetler, sakinleri arabalarını evde bırakmaya teşvik etmek için toplu taşımayı uygun fiyatlı tutmalı."
+  ],
+  "col": [
+   "kayıt tutmak",
+   "iletişimi koparmamak",
+   "bir şeyi yapmaya devam etmek",
+   "sözünü tutmak"
+  ],
+  "tip": "Geçmiş zaman ve üçüncü hâli kept'tir. \"Devam etmek\" anlamında keep doing kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "left",
+  "senses": [
+   "sol",
+   "sola; solda",
+   "kalan; arta kalan"
+  ],
+  "ex": [
+   "Alışveriş çantamı sol elimde taşıyorum.",
+   "Sürücüler sola dönmeden önce, özellikle bisikletlilerle yolu paylaştıkları yerlerde, aynalarını dikkatle kontrol etmeli."
+  ],
+  "col": [
+   "sol el",
+   "sola dönmek",
+   "solda",
+   "kalan süre"
+  ],
+  "tip": "Aynı zamanda leave fiilinin geçmiş zaman ve üçüncü hâlidir. \"Kalan\" anlamında ismin arkasına gelir: time left.",
+  "note": ""
+ },
+ {
+  "id": "put",
+  "senses": [
+   "koymak; yerleştirmek",
+   "ifade etmek",
+   "(bir duruma) sokmak"
+  ],
+  "ex": [
+   "Lütfen ıslak şemsiyeni kapının yanına koy.",
+   "Yükselen konut maliyetleri, kariyerine yeni başlayan gençler üzerinde ciddi bir baskı oluşturuyor."
+  ],
+  "col": [
+   "bir şeyi kaldırmak; yerine koymak",
+   "-e baskı yapmak",
+   "kelimelere dökmek",
+   "bir şeyi hayata geçirmek"
+  ],
+  "tip": "Geçmiş zaman ve üçüncü hâli put'tır. \"Koymak\" anlamında genellikle bir yer belirtilir: put it on the table.",
+  "note": ""
+ },
+ {
+  "id": "sunday",
+  "senses": [
+   "pazar"
+  ],
+  "ex": [
+   "Pazar günleri genellikle birlikte büyük bir öğle yemeği pişiririz.",
+   "Halk kütüphanelerini pazar günü açmak, hafta içi yoğun çalışan insanların temel toplum hizmetlerine erişmesini sağlar."
+  ],
+  "col": [
+   "pazar günü",
+   "pazar sabahı",
+   "her pazar"
+  ],
+  "tip": "on Sunday denir, ama next Sunday ve last Sunday'den önce on kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "rainy",
+  "senses": [
+   "yağmurlu"
+  ],
+  "ex": [
+   "O yağmurlu öğleden sonra evde kalıp ekmek yaptık.",
+   "Uzun bir yağmur mevsimi olan bölgelerde güvenilir drenaj sistemleri evleri ve yolları korumak için şarttır."
+  ],
+  "col": [
+   "yağmurlu gün",
+   "yağmur mevsimi",
+   "yağmurlu hava"
+  ],
+  "tip": "rainy sıfattır. \"Yağmur yağıyor\" için It is raining denir, \"It is rainy\" havanın genel durumunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "hotel",
+  "senses": [
+   "otel"
+  ],
+  "ex": [
+   "Otel odamız sakin, kumlu bir plaja bakıyor.",
+   "İstasyonun yakınına yeni bir otel yapmak iş imkânı yaratabilir ve bölgeye daha fazla ziyaretçi çekebilir."
+  ],
+  "col": [
+   "otel rezervasyonu yapmak",
+   "otelde kalmak",
+   "otel resepsiyonu",
+   "ekonomik otel"
+  ],
+  "tip": "\"Otelde kalmak\" için hem stay at hem stay in a hotel kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "skirt",
+  "senses": [
+   "etek",
+   "kenarından dolaşmak",
+   "(bir konudan) kaçmak; geçiştirmek"
+  ],
+  "ex": [
+   "Mavi eteği merdivenleri çıkarken dalgalanıyordu.",
+   "Kamuoyu tartışmaları, çevrenin korunmasının bedelini kimin ödemesi gerektiği sorusunu çoğu zaman geçiştiriyor."
+  ],
+  "col": [
+   "pileli etek",
+   "diz boyu etek",
+   "konuyu geçiştirmek",
+   "-in kenarından ilerlemek"
+  ],
+  "tip": "skirt etektir; dress ise genellikle elbise anlamına gelir.",
+  "note": ""
+ }
+]

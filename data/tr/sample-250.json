@@ -1,0 +1,935 @@
+[
+ {
+  "id": "break",
+  "senses": [
+   "kırmak; kırılmak; bozmak",
+   "mola; ara",
+   "(kural, söz) çiğnemek"
+  ],
+  "ex": [
+   "O cam kâseyi kırmamaya dikkat et.",
+   "Çalışma sırasında düzenli molalar odaklanmayı artırabilir ve öğrencilerin yeni bilgileri akılda tutmasına yardımcı olabilir."
+  ],
+  "col": [
+   "mola vermek",
+   "yasayı çiğnemek",
+   "sözünü tutmamak",
+   "rekor kırmak"
+  ],
+  "tip": "Düzensiz fiildir: break – broke – broken. \"Mola vermek\" take a break'tir.",
+  "note": ""
+ },
+ {
+  "id": "egg",
+  "senses": [
+   "yumurta",
+   "yumurta hücresi"
+  ],
+  "ex": [
+   "Kızgın tavaya bir yumurta kırdı.",
+   "Yumurta uygun fiyatlı bir protein kaynağıdır ve dengeli beslenmenin bir parçası olabilir."
+  ],
+  "col": [
+   "haşlanmış yumurta",
+   "yumurtlamak",
+   "yumurta sarısı",
+   "yumurta hücresi"
+  ],
+  "tip": "scrambled eggs \"karıştırılarak pişirilmiş yumurta\", egg white \"yumurta akı\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "bookshop",
+  "senses": [
+   "kitapçı; kitabevi"
+  ],
+  "ex": [
+   "Tren istasyonunun yanında küçücük bir kitapçı bulduk.",
+   "Bağımsız bir kitapçı, okuma grupları düzenleyip yeni yazarları destekleyerek yerel kültür hayatını güçlendirebilir."
+  ],
+  "col": [
+   "bağımsız kitapçı",
+   "sahaf",
+   "mahalle kitapçısı"
+  ],
+  "tip": "bookshop İngiliz İngilizcesidir; Amerikan İngilizcesinde bookstore denir. library ile karıştırma: library kütüphanedir.",
+  "note": ""
+ },
+ {
+  "id": "year",
+  "senses": [
+   "yıl; sene",
+   "(eğitim, mali) yıl"
+  ],
+  "ex": [
+   "Bu daireye neredeyse bir yıl önce taşındık.",
+   "Bir yıllık ara (gap year), öğrencilere üniversiteye başlamadan önce değerli iş deneyimi kazandırabilir."
+  ],
+  "col": [
+   "akademik yıl; öğretim yılı",
+   "her yıl",
+   "yıl boyunca",
+   "ara yıl (okul öncesi bir yıl ara)"
+  ],
+  "tip": "last year gibi ifadelerden önce edat kullanılmaz. Yaş için years old denir: I am 32 years old.",
+  "note": ""
+ },
+ {
+  "id": "free",
+  "senses": [
+   "ücretsiz; bedava",
+   "özgür; serbest",
+   "serbest bırakmak; kurtarmak"
+  ],
+  "ex": [
+   "Kafe her sıcak içeceğin yanında ücretsiz kurabiye veriyor.",
+   "Ücretsiz toplu taşıma trafik sıkışıklığını azaltabilir ve dezavantajlı sakinlerin işe erişimini kolaylaştırabilir."
+  ],
+  "col": [
+   "ücretsiz giriş",
+   "ücretsiz",
+   "ifade özgürlüğü",
+   "birini bir şeyden kurtarmak"
+  ],
+  "tip": "be free to do \"bir şeyi yapmakta serbest olmak\", for free \"bedavaya\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "museum",
+  "senses": [
+   "müze"
+  ],
+  "ex": [
+   "Müzede kocaman bir dinozor iskeleti gördük.",
+   "Müzeler, gündelik eşyaları önceki kuşakların yaşamlarıyla ilişkilendirerek gençlerin yerel tarihi anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "müze gezmek",
+   "doğa tarihi müzesi",
+   "müze koleksiyonu"
+  ],
+  "tip": "Sayılabilir isimdir; \"müze gezmek\" visit a museum'dur.",
+  "note": ""
+ },
+ {
+  "id": "shop",
+  "senses": [
+   "dükkân; mağaza",
+   "alışveriş yapmak"
+  ],
+  "ex": [
+   "Evimizin yakınındaki küçük dükkân taze ekmek satıyor.",
+   "Bağımsız dükkânlar iş yaratarak ve harcamaları mahallede tutarak yerel ekonomiyi güçlendirebilir."
+  ],
+  "col": [
+   "mahalle dükkânı",
+   "vitrin",
+   "kıyafet alışverişi yapmak",
+   "fiyat karşılaştırmak"
+  ],
+  "tip": "Belirli bir şey almak için shop for, genel olarak alışverişe gitmek için go shopping kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "weekend",
+  "senses": [
+   "hafta sonu"
+  ],
+  "ex": [
+   "Hafta sonları genellikle üretici pazarına gideriz.",
+   "Uygun fiyatlı hafta sonu etkinlikleri ailelerin yaşadıkları yerde birlikte daha fazla zaman geçirmesini teşvik edebilir."
+  ],
+  "col": [
+   "hafta sonu (İngiliz)",
+   "hafta sonu (Amerikan)",
+   "uzun hafta sonu",
+   "hafta sonu tatili"
+  ],
+  "tip": "İngiliz İngilizcesinde at the weekend, Amerikan İngilizcesinde on the weekend denir.",
+  "note": ""
+ },
+ {
+  "id": "sweater",
+  "senses": [
+   "kazak"
+  ],
+  "ex": [
+   "Dışarı çıkmadan önce sıcak bir kazak giydim.",
+   "Birkaç ucuz kazak yerine dayanıklı bir yün kazak seçmek zamanla giysi atığını azaltabilir."
+  ],
+  "col": [
+   "yün kazak",
+   "örgü kazak",
+   "kalın kazak"
+  ],
+  "tip": "İngiliz İngilizcesinde jumper da denir; sweatshirt ise eşofman üstüdür.",
+  "note": ""
+ },
+ {
+  "id": "mother",
+  "senses": [
+   "anne",
+   "annelik etmek; şefkatle bakmak"
+  ],
+  "ex": [
+   "Bisiklete binmeyi bana annem öğretti.",
+   "Uygun fiyatlı çocuk bakımı, bir annenin aile bütçesini zorlamadan işe dönmesine yardımcı olabilir."
+  ],
+  "col": [
+   "çalışan anne",
+   "bekâr anne",
+   "hamile kadın; anne adayı",
+   "ana dil"
+  ],
+  "tip": "Günlük konuşmada İngiliz İngilizcesinde mum, Amerikan İngilizcesinde mom denir.",
+  "note": ""
+ },
+ {
+  "id": "tired",
+  "senses": [
+   "yorgun",
+   "bıkmış; usanmış"
+  ],
+  "ex": [
+   "Yürüyüşten sonra yemek yapamayacak kadar yorgundum.",
+   "Düzenli olarak uzun saatler çalışan kişiler görevlerini güvenli şekilde yapamayacak kadar yorulabilir."
+  ],
+  "col": [
+   "yorgun hissetmek",
+   "beklemekten bıkmış",
+   "odaklanamayacak kadar yorgun"
+  ],
+  "tip": "tired yorulan kişiyi, tiring yorucu olan şeyi anlatır: a tiring day, I am tired.",
+  "note": ""
+ },
+ {
+  "id": "spain",
+  "senses": [
+   "İspanya"
+  ],
+  "ex": [
+   "Geçen yaz İspanya'yı trenle dolaştık.",
+   "İspanya, kültürel mirası, çeşitli manzaraları ve gelişmiş turizm altyapısıyla uluslararası ziyaretçileri çekiyor."
+  ],
+  "col": [
+   "Güney İspanya",
+   "İspanya anakarası",
+   "İspanya'ya seyahat etmek"
+  ],
+  "tip": "Ülke adları büyük harfle yazılır ve genellikle the almaz.",
+  "note": ""
+ },
+ {
+  "id": "play",
+  "senses": [
+   "oynamak",
+   "çalmak (müzik); oynatmak; canlandırmak",
+   "oyun (tiyatro)"
+  ],
+  "ex": [
+   "Çocuklar yerde tahta bloklarla oynadı.",
+   "Okullar çocukların oynayabileceği ve temel sosyal becerilerini geliştirebileceği güvenli açık alanlar sağlamalı."
+  ],
+  "col": [
+   "futbol oynamak",
+   "piyano çalmak",
+   "-de rol oynamak",
+   "bir oyun sahnelemek"
+  ],
+  "tip": "Sporlardan önce artikel kullanılmaz (play football); çalgılardan önce genellikle the kullanılır (play the piano).",
+  "note": ""
+ },
+ {
+  "id": "different",
+  "senses": [
+   "farklı",
+   "çeşitli; farklı farklı"
+  ],
+  "ex": [
+   "Bu eldivenler birbirine benziyor ama bedenleri farklı.",
+   "Farklı kültürel geçmişlerden gelen öğrenciler küresel konulardaki sınıf tartışmalarına değerli bakış açıları katabilir."
+  ],
+  "col": [
+   "-den farklı",
+   "farklı bakış açıları",
+   "tamamen farklı"
+  ],
+  "tip": "\"-den farklı\" için different from kullanılır; resmî yazıda en uygunu budur.",
+  "note": ""
+ },
+ {
+  "id": "pool",
+  "senses": [
+   "havuz; gölet",
+   "ortak kaynak; havuz",
+   "bir araya getirmek; ortaklaşa kullanmak"
+  ],
+  "ex": [
+   "Öğleden sonrayı açık havuzda yüzerek geçirdik.",
+   "Küçük işletmeler, tek başlarına çok pahalı olacak ekipmanları almak için kaynaklarını birleştirebilir."
+  ],
+  "col": [
+   "yüzme havuzu",
+   "yetenek havuzu",
+   "kaynakları birleştirmek",
+   "bilgiyi paylaşmak"
+  ],
+  "tip": "pool resources \"kaynakları birleştirmek\" demektir; play pool ise \"bilardo oynamak\"tır.",
+  "note": ""
+ },
+ {
+  "id": "before",
+  "senses": [
+   "-den önce",
+   "-meden önce",
+   "daha önce"
+  ],
+  "ex": [
+   "Lütfen yemekten önce ayakkabılarını kapının yanına koy.",
+   "Yerel yönetimler yeni ulaşım politikaları getirmeden önce sakinlere günlük ulaşım ihtiyaçlarını sormalı."
+  ],
+  "col": [
+   "çok geçmeden",
+   "bir gün önce",
+   "kahvaltıdan önce",
+   "karar vermeden önce"
+  ],
+  "tip": "Gelecekten söz ederken before'dan sonra geniş zaman kullanılır: before you leave.",
+  "note": ""
+ },
+ {
+  "id": "wonderful",
+  "senses": [
+   "harika; muhteşem"
+  ],
+  "ex": [
+   "Göl kenarında harika bir piknik yaptık.",
+   "Halk kütüphaneleri, ailelere maddi yük bindirmeden çocuklara yeni ilgi alanları keşfetmeleri için harika fırsatlar sunar."
+  ],
+  "col": [
+   "harika bir deneyim",
+   "harika bir fırsat",
+   "harika haber"
+  ],
+  "tip": "\"Harika\" demektir; \"merak etmek\" anlamındaki wonder ile ilgisi olsa da \"tuhaf\" anlamı yoktur.",
+  "note": ""
+ },
+ {
+  "id": "notebook",
+  "senses": [
+   "defter",
+   "dizüstü bilgisayar"
+  ],
+  "ex": [
+   "Yatağının yanında küçük bir defter tutar.",
+   "Saha çalışması sırasında defter tutmak, araştırmacıların fotoğrafların tek başına yakalayamayacağı gözlemleri kaydetmesini sağlar."
+  ],
+  "col": [
+   "deftere yazmak",
+   "spiralli defter",
+   "dizüstü bilgisayar"
+  ],
+  "tip": "Genellikle kâğıt defterdir; bilgisayar için laptop daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "white",
+  "senses": [
+   "beyaz",
+   "beyaz (renk)",
+   "yumurta akı"
+  ],
+  "ex": [
+   "Pikniğe beyaz pamuklu bir gömlek giydi.",
+   "Çatıları beyaza boyamak binaların güneş ışığını yansıtmasına ve serinletme için gereken enerjinin azalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "beyaz boya",
+   "yumurta akı",
+   "siyah beyaz"
+  ],
+  "tip": "egg white \"yumurta akı\"dır; yumurta sarısı yolk'tur.",
+  "note": ""
+ },
+ {
+  "id": "large",
+  "senses": [
+   "büyük; geniş; çok"
+  ],
+  "ex": [
+   "Mutfak kapısının yanında büyük bir köpek uyuyordu.",
+   "Büyük şehirler genellikle daha iyi iş fırsatları sunar, ancak yüksek konut maliyetleri yaşam kalitesini düşürebilir."
+  ],
+  "col": [
+   "çok sayıda",
+   "büyük miktarda",
+   "büyük ölçekli kalkınma",
+   "kalabalık bir nüfus"
+  ],
+  "tip": "a large number of sayılabilir isimlerle, a large amount of sayılamayan isimlerle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hour",
+  "senses": [
+   "saat (60 dakika)",
+   "çalışma saatleri; mesai"
+  ],
+  "ex": [
+   "Göle yürümek bir saatimizi aldı.",
+   "Çalışma saatlerini kısaltmak, iş yerindeki genel verimliliği düşürmeden çalışanların refahını artırabilir."
+  ],
+  "col": [
+   "bir saat",
+   "çalışma saatleri",
+   "açılış saatleri",
+   "trafiğin yoğun olduğu saat"
+  ],
+  "tip": "h okunmaz, bu yüzden an hour denir, a hour değil.",
+  "note": ""
+ },
+ {
+  "id": "married",
+  "senses": [
+   "evli",
+   "evlilik; evliliğe ait"
+  ],
+  "ex": [
+   "Kız kardeşim evli ve sahile yakın bir yerde yaşıyor.",
+   "Uygun fiyatlı konut, yeni evli çiftlerin bütçelerini zorlamadan bağımsız bir ev kurmasına yardımcı olabilir."
+  ],
+  "col": [
+   "evlenmek",
+   "… ile evli olmak",
+   "evli çift",
+   "evlilik hayatı"
+  ],
+  "tip": "Biriyle evlenmek be/get married to'dur, with değil: She is married to a doctor.",
+  "note": ""
+ },
+ {
+  "id": "full",
+  "senses": [
+   "dolu",
+   "tam; eksiksiz",
+   "tok"
+  ],
+  "ex": [
+   "Sepet doldu, bir tane daha lazım.",
+   "Hükümetler, vatandaşların bilinçli kararlar verebilmesi için çevre araştırmalarının sonuçlarını eksiksiz yayımlamalı."
+  ],
+  "col": [
+   "… dolu",
+   "tüm ayrıntılar",
+   "tam potansiyel",
+   "tok hissetmek"
+  ],
+  "tip": "full of \"ile dolu\" demektir. \"Doydum\" için I'm full denir.",
+  "note": ""
+ },
+ {
+  "id": "europe",
+  "senses": [
+   "Avrupa"
+  ],
+  "ex": [
+   "Kuzenim geçen yaz Avrupa'yı trenle baştan sona gezdi.",
+   "Avrupa'daki birçok şehir trafik sıkışıklığını azaltmak ve hava kalitesini iyileştirmek için bisiklet yollarını genişletiyor."
+  ],
+  "col": [
+   "Avrupa genelinde",
+   "Kıta Avrupası",
+   "Doğu Avrupa",
+   "Batı Avrupa"
+  ],
+  "tip": "Büyük harfle yazılır ve genellikle the almaz; Avrupa Birliği (EU) ile aynı şey değildir.",
+  "note": ""
+ },
+ {
+  "id": "happen",
+  "senses": [
+   "olmak; meydana gelmek",
+   "tesadüfen … olmak"
+  ],
+  "ex": [
+   "Pencerenin yanındaki bitkiye ne oldu?",
+   "Sürücüler yorgun olduğunda ya da cep telefonuyla dikkati dağıldığında trafik kazaları daha sık meydana gelir."
+  ],
+  "col": [
+   "birinin başına gelmek",
+   "tesadüfen bir şey yapmak",
+   "tesadüfen olmak"
+  ],
+  "tip": "Edilgen yapılmaz: \"was happened\" yanlıştır. happen to do \"tesadüfen yapmak\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "number",
+  "senses": [
+   "sayı; numara",
+   "sayı; miktar",
+   "numaralandırmak; toplam … olmak"
+  ],
+  "ex": [
+   "Telefon numaranı yeni telefonuma kaydettim.",
+   "Dijital iletişim araçları geliştikçe evden çalışan insanların sayısı arttı."
+  ],
+  "col": [
+   "telefon numarası",
+   "çok sayıda",
+   "-in sayısı",
+   "sayfaları numaralandırmak"
+  ],
+  "tip": "a number of çoğul fiil alır (A number of people are…); the number of tekil fiil alır (The number of people is…).",
+  "note": ""
+ },
+ {
+  "id": "take",
+  "senses": [
+   "almak; alıp götürmek",
+   "(zaman, çaba) almak; gerektirmek",
+   "binmek (ulaşım aracı)"
+  ],
+  "ex": [
+   "Öğleden sonra yağmur yağabilir, şemsiye al.",
+   "Güvenilir toplu taşıma ağları kurmak uzun zaman alır ve yerel yönetimlerin sürekli yatırımını gerektirir."
+  ],
+  "col": [
+   "otobüse binmek",
+   "zaman almak",
+   "sorumluluk almak",
+   "not almak"
+  ],
+  "tip": "Geçmiş zaman took, üçüncü hâli taken'dır. take \"götürmek\", bring \"getirmek\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "enjoy",
+  "senses": [
+   "keyif almak; sevmek",
+   "sahip olmak; -den yararlanmak"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra nehir kenarında yürümeyi severiz.",
+   "Mahallelerinde güvenli yürüyüş yolları ve erişilebilir yeşil alanlar olan sakinler daha sağlıklı olur."
+  ],
+  "col": [
+   "bir şeyi yapmaktan keyif almak",
+   "iyi eğlenceler; keyfine bak",
+   "sağlıklı olmak",
+   "faydalarından yararlanmak"
+  ],
+  "tip": "Fiil alırken -ing kullanılır: enjoy swimming (enjoy to swim değil).",
+  "note": ""
+ },
+ {
+  "id": "january",
+  "senses": [
+   "ocak"
+  ],
+  "ex": [
+   "Bu yıl yüzme derslerimiz ocakta başlıyor.",
+   "Pek çok kişi ocak ayında sağlık hedefleri koyar, ama yeni alışkanlıkları sürdürmek düzenli destek gerektirir."
+  ],
+  "col": [
+   "ocakta",
+   "ocak başında",
+   "ocak sonunda"
+  ],
+  "tip": "Ay adları büyük harfle yazılır; \"ocakta\" in January'dir.",
+  "note": ""
+ },
+ {
+  "id": "hobby",
+  "senses": [
+   "hobi"
+  ],
+  "ex": [
+   "Balkonumda baharat bitkileri yetiştirmek en sevdiğim hobi oldu.",
+   "Yaratıcı bir hobi edinmek, insanların stresle başa çıkmasına ve iş ile boş zaman arasında sağlıklı bir denge kurmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir hobi edinmek",
+   "yaratıcı bir hobi",
+   "bir hobiyle uğraşmak"
+  ],
+  "tip": "Sayılabilir, çoğulu hobbies'dir. Yeni bir hobiye başlamak take up a hobby'dir.",
+  "note": ""
+ },
+ {
+  "id": "artist",
+  "senses": [
+   "sanatçı; ressam",
+   "sanatçı; icracı"
+  ],
+  "ex": [
+   "Ressam limanı yumuşak mavi tonlarla resmetti.",
+   "Kamu desteği, bir sanatçının tamamen satışlara bağlı kalmadan toplumsal yaşamı zenginleştiren eserler üretmesini sağlar."
+  ],
+  "col": [
+   "profesyonel sanatçı",
+   "yerel sanatçı",
+   "kayıt sanatçısı (şarkıcı)",
+   "yetenekli sanatçı"
+  ],
+  "tip": "artist kişidir; artistic \"sanatsal\" anlamında sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "stand",
+  "senses": [
+   "ayakta durmak; ayağa kalkmak",
+   "katlanmak; dayanmak",
+   "tavır; duruş"
+  ],
+  "ex": [
+   "Otobüs durana kadar lütfen kapının yanında durun.",
+   "Mahalle sakinleri, değerli bir ormanlığı yok edeceği için önerilen yola karşı tavır aldı."
+  ],
+  "col": [
+   "kıpırdamadan durmak",
+   "ayağa kalkmak",
+   "bir şeyi yapmaya katlanamamak",
+   "tavır almak"
+  ],
+  "tip": "Geçmiş zaman ve üçüncü hâli stood'dur. \"Katlanamamak\" can't stand ile söylenir: I can't stand noise.",
+  "note": ""
+ },
+ {
+  "id": "must",
+  "senses": [
+   "-meli; zorunda olmak",
+   "-meli (kesin tahmin)",
+   "mutlaka gereken şey"
+  ],
+  "ex": [
+   "Burada bisiklet sürerken kask takmalısın.",
+   "Hükümetler, ailelerinin geliri ne olursa olsun tüm çocukların kaliteli eğitime erişmesini sağlamalı."
+  ],
+  "col": [
+   "-iyor olmalı",
+   "-miş olmalı",
+   "olmazsa olmaz"
+  ],
+  "tip": "must bir yardımcı fiildir. mustn't \"yasak\" demektir, \"gerek yok\" değil (gerek yok: don't have to).",
+  "note": ""
+ },
+ {
+  "id": "sky",
+  "senses": [
+   "gökyüzü; gök"
+  ],
+  "ex": [
+   "Eve yürürken gökyüzü turuncuya döndü.",
+   "Işık kirliliği, birçok şehirlinin gece gökyüzünde yıldızları net görmesini engelliyor."
+  ],
+  "col": [
+   "açık gökyüzü",
+   "gece gökyüzü",
+   "mavi gökyüzü",
+   "bulutlu hava"
+  ],
+  "tip": "Genellikle the sky denir; çoğul skies daha çok hava durumunu anlatırken kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "about",
+  "senses": [
+   "hakkında; ile ilgili",
+   "yaklaşık; aşağı yukarı",
+   "etrafında; oralarda"
+  ],
+  "ex": [
+   "Akşam yemeğinde tatil planlarımızdan konuştuk.",
+   "Okullar çocuklara günlük seçimlerinin ve alışkanlıklarının çevresel sonuçlarını öğretmeli."
+  ],
+  "col": [
+   "-den bahsetmek",
+   "-i dert etmek; endişelenmek",
+   "yaklaşık bir saat"
+  ],
+  "tip": "about konu ya da yaklaşık miktar bildirir; be about to \"-mek üzere olmak\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "sandwich",
+  "senses": [
+   "sandviç",
+   "arasına sıkıştırmak"
+  ],
+  "ex": [
+   "Öğle yemeği için peynirli bir sandviç ve bir elma koydum.",
+   "Okul kafeteryaları tam buğday ekmeği ve taze sebzeyle yapılmış sandviçler sunarak sağlıklı beslenmeyi teşvik edebilir."
+  ],
+  "col": [
+   "peynirli sandviç",
+   "sandviç yapmak",
+   "… arasına sıkışmak"
+  ],
+  "tip": "Fiil olarak genellikle edilgen kullanılır: be sandwiched between \"arasında sıkışmak\".",
+  "note": ""
+ },
+ {
+  "id": "slow",
+  "senses": [
+   "yavaş",
+   "yavaşlamak; yavaşlatmak",
+   "geri (saat)"
+  ],
+  "ex": [
+   "Nehir boyunca ağır ağır yürüdük.",
+   "Toplu taşımanın genişlemesindeki yavaş ilerleme, insanları özel araçlarından vazgeçmekten caydırabilir."
+  ],
+  "col": [
+   "yavaş ilerleme",
+   "yavaşlamak",
+   "yavaş bir tempo",
+   "yavaş ekonomik büyüme"
+  ],
+  "tip": "slow çoğunlukla sıfattır; bir eylemi nitelerken genellikle slowly kullanılır: walk slowly.",
+  "note": ""
+ },
+ {
+  "id": "make",
+  "senses": [
+   "yapmak; üretmek",
+   "-e sebep olmak; -i … yapmak; zorlamak",
+   "marka; model"
+  ],
+  "ex": [
+   "Artan tahta parçalarından küçük bir masa yaptık.",
+   "Okullar öğrencilerin günlük malzemelerle basit deneyler yapmasına izin vererek bilimi daha erişilebilir kılabilir."
+  ],
+  "col": [
+   "karar vermek",
+   "ilerleme kaydetmek",
+   "fark yaratmak",
+   "birini mutlu etmek"
+  ],
+  "tip": "Etken çatıda make someone do (to yok), edilgende be made to do kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "every",
+  "senses": [
+   "her",
+   "her (aralık bildirir)",
+   "her türlü; tüm"
+  ],
+  "ex": [
+   "Her çocuk pikniğe en sevdiği oyuncağı getirdi.",
+   "Hükümetler her öğrencinin öğrenim için güvenilir internet hizmetine erişmesini sağlamalı."
+  ],
+  "col": [
+   "her gün",
+   "iki haftada bir",
+   "her türlü çaba",
+   "inanmak için her türlü neden"
+  ],
+  "tip": "every'den sonra tekil sayılabilir isim ve tekil fiil gelir: Every student has…",
+  "note": ""
+ },
+ {
+  "id": "quiet",
+  "senses": [
+   "sessiz; sakin",
+   "sakin; hareketsiz",
+   "sessizlik; huzur"
+  ],
+  "ex": [
+   "Çocuklar uyuduktan sonra ev sessizdi.",
+   "Halk kütüphanelerindeki sessiz çalışma alanları, evde odaklanamayan öğrenciler için vazgeçilmezdir."
+  ],
+  "col": [
+   "sessiz olmak",
+   "sakin bir mahalle",
+   "huzur ve sükûnet"
+  ],
+  "tip": "quiet \"sessiz\", quite \"oldukça\" demektir; yazımlarına dikkat.",
+  "note": ""
+ },
+ {
+  "id": "add",
+  "senses": [
+   "eklemek; katmak",
+   "toplamak (sayı)",
+   "(bir şey) eklemek; ilave etmek (söz)"
+  ],
+  "ex": [
+   "Çorba çok koyuysa biraz süt ekle.",
+   "Şehir mahallelerine daha fazla yeşil alan eklemek sakinlerin refahını artırabilir ve yaban hayatına yaşam alanı sağlayabilir."
+  ],
+  "col": [
+   "bir şeyi …-e eklemek",
+   "toplamak; anlam ifade etmek",
+   "değer katmak",
+   "… diye eklemek"
+  ],
+  "tip": "add A to B \"A'yı B'ye eklemek\" demektir; add to \"artırmak\" anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "fact",
+  "senses": [
+   "gerçek; olgu"
+  ],
+  "ex": [
+   "Tren biletlerini almadan önce bilgileri kontrol ettik.",
+   "Öğrenciler dijital medyada paylaşılan bilgileri değerlendirirken gerçekleri görüşlerden ayırt etmeyi öğrenmeli."
+  ],
+  "col": [
+   "aslında; hatta",
+   "… olduğu gerçeği",
+   "gerçekleri ortaya çıkarmak",
+   "bilgiler ve rakamlar"
+  ],
+  "tip": "the fact that'ten sonra tam bir cümle gelir: the fact that he left.",
+  "note": ""
+ },
+ {
+  "id": "nice",
+  "senses": [
+   "hoş; güzel",
+   "iyi; nazik"
+  ],
+  "ex": [
+   "Göl kenarında hoş bir piknik yaptık.",
+   "Hoş bir çevre önemli olsa da birçok şehirli için uygun fiyatlı konut ve güvenilir ulaşım daha önemlidir."
+  ],
+  "col": [
+   "güzel hava",
+   "hoş vakit",
+   "birine iyi davranmak"
+  ],
+  "tip": "nice çok genel bir sıfattır; resmî yazıda daha belirli sıfatlar tercih et.",
+  "note": ""
+ },
+ {
+  "id": "flower",
+  "senses": [
+   "çiçek",
+   "çiçek açmak"
+  ],
+  "ex": [
+   "Pencerenin yanındaki vazoya taze çiçekler koydu.",
+   "Şehir parklarına yerli çiçekler dikmek tozlayıcı böcekleri destekleyebilir ve yerel biyolojik çeşitliliği artırabilir."
+  ],
+  "col": [
+   "bir demet çiçek",
+   "kesme çiçek",
+   "çiçek açmış"
+  ],
+  "tip": "flower hem isim (çiçek) hem fiil (çiçek açmak) olabilir.",
+  "note": ""
+ },
+ {
+  "id": "cloudy",
+  "senses": [
+   "bulutlu",
+   "bulanık"
+  ],
+  "ex": [
+   "Hava bulutluydu, bu yüzden güneş gözlüklerimizi evde bıraktık.",
+   "Güneş panelleri bulutlu günlerde de elektrik üretebilir, ancak verimleri genellikle daha düşüktür."
+  ],
+  "col": [
+   "bulutlu gökyüzü",
+   "bulutlu hava",
+   "bulanık su"
+  ],
+  "tip": "Hem bulutlu havayı hem bulanık sıvıları anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "important",
+  "senses": [
+   "önemli",
+   "etkili; nüfuzlu"
+  ],
+  "ex": [
+   "Önemli belgelerini bu su geçirmez dosyada sakla.",
+   "Güvenilir bilgiye erişim, vatandaşların sağlıkları hakkında bilinçli kararlar vermesinde önemli bir rol oynar."
+  ],
+  "col": [
+   "önemli bir rol",
+   "önemli bir etken",
+   "biri için önemli",
+   "aynı derecede önemli"
+  ],
+  "tip": "It is important to do kalıbı yaygındır. İsim hâli importance'tır.",
+  "note": ""
+ },
+ {
+  "id": "house",
+  "senses": [
+   "ev",
+   "barındırmak; yerleştirmek"
+  ],
+  "ex": [
+   "Evlerinin mutfağın arkasında küçük bir bahçesi var.",
+   "Yerel yönetimler, kullanılmayan ofis binalarını daireye çevirerek uygun fiyatlı konuta ihtiyacı olan aileleri barındırabilir."
+  ],
+  "col": [
+   "ev almak",
+   "taşınmak",
+   "ev fiyatları",
+   "ailelere konut sağlamak"
+  ],
+  "tip": "İsim /haʊs/, fiil /haʊz/ okunur. home \"yuva, ev hissi\" vurgusu taşır.",
+  "note": ""
+ },
+ {
+  "id": "lady",
+  "senses": [
+   "hanımefendi; bayan"
+  ],
+  "ex": [
+   "Nazik bir hanımefendi istasyonu bulmama yardım etti.",
+   "Toplantıdaki yaşlı bir hanım, yeni otobüs hattının günlük hayatını nasıl iyileştirdiğini anlattı."
+  ],
+  "col": [
+   "yaşlı bir hanım",
+   "genç bir hanım",
+   "hanımlar ve beyler"
+  ],
+  "tip": "woman genel ve nötr bir kelimedir; lady kibar bir hitap biçimidir.",
+  "note": ""
+ },
+ {
+  "id": "piano",
+  "senses": [
+   "piyano"
+  ],
+  "ex": [
+   "Kız kardeşim her akşam yemekten sonra piyano çalışır.",
+   "Piyano çalmayı öğrenmek çocukların odaklanma becerisini geliştirmesine ve duygularını yaratıcı şekilde ifade etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "piyano çalmak",
+   "piyano dersleri",
+   "kuyruklu piyano"
+  ],
+  "tip": "\"Piyano çalmak\" play the piano'dur.",
+  "note": ""
+ },
+ {
+  "id": "market",
+  "senses": [
+   "pazar; çarşı",
+   "piyasa; pazar",
+   "pazarlamak"
+  ],
+  "ex": [
+   "Bu sabah pazardan taze şeftali aldık.",
+   "Şirketler, gezegen üzerindeki etkilerini azaltmak isteyen tüketicilere giderek daha fazla çevre dostu ürün pazarlıyor."
+  ],
+  "col": [
+   "yerel pazar",
+   "iş piyasası",
+   "pazar araştırması",
+   "pazar payı"
+  ],
+  "tip": "a market for something \"bir şeye olan talep\" demektir: There is a big market for electric cars.",
+  "note": ""
+ }
+]

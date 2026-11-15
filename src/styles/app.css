@@ -586,8 +586,8 @@ code {
   gap: 8px;
 }
 .logo-text b {
-  font: 700 21px/1 "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", serif;
-  letter-spacing: 0.06em;
+  font: 600 21px/1 var(--serif);
+  letter-spacing: -0.01em;
 }
 .logo-text small {
   font: italic 500 14px/1 var(--serif);
@@ -4119,4 +4119,14 @@ a:hover .mark-needle,
 }
 .streak-panel .mini-stats div:first-child dd {
   color: var(--ochre);
+}
+
+/* Turkish edition: the longer name must stay on one line */
+.logo-text b {
+  white-space: nowrap;
+}
+@media (max-width: 520px) {
+  .logo-text small {
+    display: none;
+  }
 }

@@ -59,22 +59,22 @@ export async function shareSession(atlas: Atlas, s: ActiveSession) {
     const d = new Date();
     ctx.fillStyle = "#8A8C96";
     ctx.font = `500 28px ${SANS}`;
-    ctx.fillText(`${d.getMonth() + 1}月${d.getDate()}日 · 今天点亮了 ${ids.length} 颗星`, pad, top - 24);
+    ctx.fillText(`${d.toLocaleDateString("tr-TR", { day: "numeric", month: "long" })} · bugün ${ids.length} yıldız yandı`, pad, top - 24);
     ctx.fillStyle = "#1E2640";
     ctx.font = `600 64px ${SERIF}`;
-    ctx.fillText(`学了 ${ids.length} 个词，首次正确 ${st.accuracy}%`, pad, top + 52, W - pad * 2);
+    ctx.fillText(`${ids.length} kelime çalışıldı, ilk denemede %${st.accuracy} doğru`, pad, top + 52, W - pad * 2);
     const wrong = Object.values(s.graded).filter((g) => g === Rating.Again).length;
     ctx.font = `400 30px ${SANS}`;
     ctx.fillStyle = "#5A6075";
-    ctx.fillText(`新词 ${s.newIds.length} · 复习 ${s.reviewIds.length} · 需要再见面 ${wrong}`, pad, top + 112);
+    ctx.fillText(`Yeni ${s.newIds.length} · Tekrar ${s.reviewIds.length} · Tekrar görülecek ${wrong}`, pad, top + 112);
     ctx.fillStyle = "rgba(30,38,64,.14)";
     ctx.fillRect(pad, H - 116, W - pad * 2, 2);
     ctx.fillStyle = "#1E2640";
     ctx.font = `600 34px ${SERIF}`;
-    ctx.fillText("词光 · Word Atlas", pad, H - 58);
+    ctx.fillText("Kelime Atlası · Word Atlas", pad, H - 58);
     ctx.font = `400 26px ${SANS}`;
     ctx.fillStyle = "#8A8C96";
-    const tag = "一词一画，点亮雅思";
+    const tag = "Her kelimeye bir resim";
     ctx.fillText(tag, W - pad - ctx.measureText(tag).width, H - 60);
     const blob = await new Promise<Blob | null>((r) => c.toBlob(r, "image/png"));
     if (!blob) throw new Error();
@@ -88,8 +88,8 @@ export async function shareSession(atlas: Atlas, s: ActiveSession) {
     a.download = file.name;
     a.click();
     setTimeout(() => URL.revokeObjectURL(a.href), 2000);
-    toast("成绩卡已保存", "ok");
+    toast("Sonuç kartı kaydedildi", "ok");
   } catch {
-    toast("成绩卡生成失败", "warn");
+    toast("Sonuç kartı oluşturulamadı", "warn");
   }
 }

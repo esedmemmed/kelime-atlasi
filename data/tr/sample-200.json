@@ -1,0 +1,942 @@
+[
+ {
+  "id": "my",
+  "senses": [
+   "benim"
+  ],
+  "ex": [
+   "Şemsiyemi ön kapının yanında unuttum.",
+   "Bence şehirler gösterişli inşaat projelerine büyük yatırımlar yapmak yerine uygun fiyatlı konuta öncelik vermeli."
+  ],
+  "col": [
+   "kendime ait; kendi",
+   "bence; bana göre",
+   "beni şaşırtan şekilde"
+  ],
+  "tip": "my'dan sonra mutlaka isim gelir: my book. Tek başına \"benimki\" için mine kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "later",
+  "senses": [
+   "sonra; daha sonra",
+   "sonraki; ileriki"
+  ],
+  "ex": [
+   "Yemeği bitirince bulaşıkları sonra yıkarım.",
+   "Güçlü okuma alışkanlığı kazanan çocuklar ileriki yaşlarında genellikle daha iyi akademik sonuçlar elde eder."
+  ],
+  "col": [
+   "görüşürüz",
+   "daha sonra",
+   "ileriki yaşlarda",
+   "daha sonraki bir aşamada"
+  ],
+  "tip": "later \"daha sonra\", latter ise \"ikisinden sonraki\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "soon",
+  "senses": [
+   "yakında; birazdan"
+  ],
+  "ex": [
+   "Yemek birazdan hazır, ellerini yıka.",
+   "Şehirler toplu taşımayı yakında iyileştirmezse trafik sıkışıklığı giderek ağırlaşacak gibi görünüyor."
+  ],
+  "col": [
+   "en kısa zamanda",
+   "kısa süre sonra",
+   "çok erken",
+   "yakında görüşürüz"
+  ],
+  "tip": "as soon as'ten sonra gelecekten söz ederken geniş zaman kullanılır: as soon as I arrive.",
+  "note": ""
+ },
+ {
+  "id": "umbrella",
+  "senses": [
+   "şemsiye",
+   "çatı (kuruluş); kapsayıcı"
+  ],
+  "ex": [
+   "Eve yürürken bir şemsiyeyi paylaştık.",
+   "Bir çatı kuruluş, küçük yardım derneklerinin faaliyetlerini koordine etmesine ve kaynaklarını daha verimli paylaşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "şemsiye açmak",
+   "şemsiyenin altında",
+   "çatı kuruluş",
+   "genel terim; üst kavram"
+  ],
+  "tip": "umbrella term birçok ilgili kavramı kapsayan genel bir terim demektir.",
+  "note": ""
+ },
+ {
+  "id": "after",
+  "senses": [
+   "-den sonra",
+   "-dıktan sonra",
+   "peşinden; arkasından"
+  ],
+  "ex": [
+   "Genellikle akşam yemeğinden sonra kısa bir yürüyüş yaparız.",
+   "Şehirler toplu taşımayı iyileştirdikten sonra daha fazla kişi arabasını evde bırakmayı tercih edebilir."
+  ],
+  "col": [
+   "okuldan sonra",
+   "bir süre sonra",
+   "-e bakmak; ilgilenmek",
+   "peşinden koşmak"
+  ],
+  "tip": "Edat olarak isim ya da -ing alır (after dinner, after eating); bağlaç olarak tam cümle alır.",
+  "note": ""
+ },
+ {
+  "id": "around",
+  "senses": [
+   "etrafında; çevresinde",
+   "yaklaşık; civarında",
+   "etrafta; oraya buraya"
+  ],
+  "ex": [
+   "Ateşin etrafına oturup yıldızları izledik.",
+   "Okul binalarının çevresine ağaç dikmek gölge sağlar ve sıcak havalarda iç mekân sıcaklığını düşürür."
+  ],
+  "col": [
+   "dünyanın dört bir yanında",
+   "köşede; kapıda (yakında)",
+   "etrafa bakmak",
+   "öğle saatlerinde"
+  ],
+  "tip": "\"Yaklaşık\" anlamı da vardır: around ten \"saat on civarı\" ya da \"on kadar\".",
+  "note": ""
+ },
+ {
+  "id": "by",
+  "senses": [
+   "tarafından",
+   "ile; yoluyla",
+   "-e kadar (en geç)"
+  ],
+  "ex": [
+   "Bu tahta kâseyi dedem yaptı.",
+   "Toplu taşımayı genişletip sakinleri daha çok bisiklete binmeye teşvik ederek şehirlerdeki hava kalitesi iyileştirilebilir."
+  ],
+  "col": [
+   "otobüsle",
+   "bir şey yaparak",
+   "-in sonuna kadar",
+   "elle"
+  ],
+  "tip": "by son tarihi bildirir (by Friday \"en geç cumaya kadar\"); until bir durumun ne zamana kadar sürdüğünü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "smell",
+  "senses": [
+   "koku; koku alma duyusu",
+   "koklamak; kokusunu almak",
+   "kokmak"
+  ],
+  "ex": [
+   "Taze ekmek kokusu mutfağımızı doldurdu.",
+   "Koku alma duyusunun zayıflaması iştahı etkileyebilir ve bozulmuş yiyecekleri fark etmeyi zorlaştırabilir."
+  ],
+  "col": [
+   "koku alma duyusu",
+   "keskin koku",
+   "taze kokmak",
+   "duman kokmak"
+  ],
+  "tip": "\"Kokmak\" anlamında sıfat alır: It smells good (well değil).",
+  "note": ""
+ },
+ {
+  "id": "grandparent",
+  "senses": [
+   "büyükanne ya da büyükbaba"
+  ],
+  "ex": [
+   "Büyükannelerimiz ve büyükbabalarımız pikniğe birer ev yemeği getirdi.",
+   "Anne ve baba ev dışında çalıştığında büyükanne ya da büyükbaba değerli bir duygusal destek sağlayabilir."
+  ],
+  "col": [
+   "büyükanne-büyükbabalar ve torunlar",
+   "büyükanne ve büyükbabanı ziyaret etmek",
+   "anneanne ve dede (anne tarafı)"
+  ],
+  "tip": "Tekil hâli tek bir büyük ebeveyni anlatır; grandparents hem anne hem baba tarafını kapsar.",
+  "note": ""
+ },
+ {
+  "id": "friendly",
+  "senses": [
+   "cana yakın; dostça; samimi",
+   "dostluk maçı; hazırlık maçı"
+  ],
+  "ex": [
+   "Yeni komşumuz cana yakın biri ve hep el sallar.",
+   "Güler yüzlü personel hastaların deneyimini iyileştirebilir ve onları daha erken tıbbi yardım almaya teşvik eder."
+  ],
+  "col": [
+   "samimi bir gülümseme",
+   "dostane bir ortam",
+   "dostluk maçı",
+   "yeni gelenlere karşı sıcak"
+  ],
+  "tip": "-ly ile bitse de zarf değil, sıfattır: a friendly person. \"Dostça bir şekilde\" için in a friendly way denir.",
+  "note": ""
+ },
+ {
+  "id": "wide",
+  "senses": [
+   "geniş",
+   "geniş; kapsamlı",
+   "sonuna kadar (açık)"
+  ],
+  "ex": [
+   "Kanepe bu geniş kapıdan bile sığmayacak.",
+   "Üniversiteler öğrencilerin farklı ilgi alanlarına ve kariyer hedeflerine hitap eden çok çeşitli dersler sunmalı."
+  ],
+  "col": [
+   "geniş bir yol",
+   "çok çeşitli",
+   "ardına kadar açık",
+   "büyük bir fark"
+  ],
+  "tip": "wide açıklığı anlatır (wide open); widely ise \"yaygın olarak\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "fly",
+  "senses": [
+   "uçmak",
+   "uçakla gitmek; uçak kullanmak",
+   "sinek"
+  ],
+  "ex": [
+   "Her sabah bahçemizin üstünden küçük kuşlar uçar.",
+   "Kısa yolculuklarda uçak yerine treni seçmek çevresel etkiyi önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "uçakla yurt dışına gitmek",
+   "uçak kullanmak",
+   "uçurtma uçurmak",
+   "bir sinek sürüsü"
+  ],
+  "tip": "Fiil: fly – flew – flown. İsim olarak \"sinek\"in çoğulu flies'dır.",
+  "note": ""
+ },
+ {
+  "id": "cold",
+  "senses": [
+   "soğuk",
+   "soğuk algınlığı; nezle",
+   "soğuk; mesafeli"
+  ],
+  "ex": [
+   "Ellerim üşüyordu, ben de eldiven taktım.",
+   "Soğuk hava evlerin enerji masraflarını artırarak geliri kısıtlı ailelere ek yük bindirebilir."
+  ],
+  "col": [
+   "soğuk hava",
+   "soğuk algınlığına yakalanmak",
+   "nezle olmak",
+   "soğuk bir karşılama"
+  ],
+  "tip": "\"Üşüyorum\" I am cold, \"Nezleyim\" I have a cold'dur.",
+  "note": ""
+ },
+ {
+  "id": "children",
+  "senses": [
+   "çocuklar",
+   "çocukları; evlatları"
+  ],
+  "ex": [
+   "Çocuklar sahilde birlikte kumdan bir kale yaptı.",
+   "Güvenli parklar çocuklara spor yapma, sosyal beceri geliştirme ve doğayı keşfetme imkânı verir."
+  ],
+  "col": [
+   "küçük çocuklar",
+   "çocuk yetiştirmek",
+   "çocuk kitapları"
+  ],
+  "tip": "child'ın düzensiz çoğuludur; iyelik hâli children's'tır (childrens' değil).",
+  "note": ""
+ },
+ {
+  "id": "trousers",
+  "senses": [
+   "pantolon"
+  ],
+  "ex": [
+   "Bu pantolon çok uzun, paçasını kısalttırmam lazım.",
+   "Bazı işverenler personelden kumaş pantolon giymesini isterken bazıları iş yerinde daha rahat giyime izin verir."
+  ],
+  "col": [
+   "bir pantolon",
+   "kumaş pantolon",
+   "pantolon denemek"
+  ],
+  "tip": "Her zaman çoğuldur: trousers are. Bir tane için a pair of trousers denir. Amerikan İngilizcesinde pants kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "farmer",
+  "senses": [
+   "çiftçi"
+  ],
+  "ex": [
+   "Çiftçi güneş doğmadan tavuklarını besler.",
+   "Küçük çiftçilerin kurak dönemlerde üretimi sürdürebilmek için suya ve uygun fiyatlı teknolojiye güvenilir erişime ihtiyacı var."
+  ],
+  "col": [
+   "süt üreticisi",
+   "yerel çiftçiler",
+   "küçük çiftçiler",
+   "koyun yetiştiricisi"
+  ],
+  "tip": "farmer kişi, farm çiftlik, farming ise tarımsal üretimdir.",
+  "note": ""
+ },
+ {
+  "id": "coffee",
+  "senses": [
+   "kahve; kahve çekirdeği; kahve tozu"
+  ],
+  "ex": [
+   "İşe gitmeden önce sütlü kahve içerim.",
+   "Artan sıcaklıklar kahve üretimini tehdit ederek birçok gelişmekte olan ülkedeki çiftçilerin gelirini etkileyebilir."
+  ],
+  "col": [
+   "bir fincan kahve",
+   "sade kahve",
+   "kahve çekirdekleri",
+   "hazır kahve"
+  ],
+  "tip": "Genellikle sayılamaz, ama sipariş verirken two coffees \"iki kahve\" denebilir.",
+  "note": ""
+ },
+ {
+  "id": "shoe",
+  "senses": [
+   "ayakkabı"
+  ],
+  "ex": [
+   "Ayakkabımın içinde küçük bir taş vardı.",
+   "Rahat ayakkabılar, iş gününün çoğunu ayakta geçiren çalışanlar için vazgeçilmezdir."
+  ],
+  "col": [
+   "bir çift ayakkabı",
+   "koşu ayakkabısı",
+   "ayakkabılarını giymek"
+  ],
+  "tip": "Bir çift ayakkabı a pair of shoes'tur; shoe sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "bike",
+  "senses": [
+   "bisiklet; motosiklet (gündelik)",
+   "bisikletle gitmek"
+  ],
+  "ex": [
+   "Bisikletimi köşedeki dükkânın önüne kilitledim.",
+   "İnsanları işe bisikletle gitmeye teşvik etmek şehirdeki trafiği azaltabilir ve halk sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "bisiklete binmek",
+   "bisikletle",
+   "bisiklet yolu",
+   "dağ bisikleti"
+  ],
+  "tip": "by bike artikel almaz; ride a bike'taki a atılamaz.",
+  "note": ""
+ },
+ {
+  "id": "little",
+  "senses": [
+   "küçük; ufak",
+   "az; çok az",
+   "biraz; pek az"
+  ],
+  "ex": [
+   "Küçük bir kuş mutfak penceremizin pervazına kondu.",
+   "Pek çok kırsal okulun dijital kaynaklara erişimi çok az; bu da mevcut eğitim eşitsizliklerini derinleştirebilir."
+  ],
+  "col": [
+   "küçük bir çocuk",
+   "çok az zaman",
+   "biraz su",
+   "azar azar"
+  ],
+  "tip": "Sayılamayan isimlerle little \"neredeyse hiç\", a little \"biraz\" demektir: little time / a little time.",
+  "note": ""
+ },
+ {
+  "id": "sweet",
+  "senses": [
+   "tatlı",
+   "tatlı; sevimli; düşünceli",
+   "şeker; tatlı (şekerleme)"
+  ],
+  "ex": [
+   "Bu çilekler şekersiz yenecek kadar tatlı.",
+   "Çocukların şekerli içecek tüketimini azaltmak diş çürümesi ve aşırı kilo alma riskini düşürebilir."
+  ],
+  "col": [
+   "tatlı tat",
+   "tatlı düşkünlüğü",
+   "tatlı bir gülümseme",
+   "şekerli içecekler"
+  ],
+  "tip": "Şekerleme İngiliz İngilizcesinde sweets, Amerikan İngilizcesinde candy'dir.",
+  "note": ""
+ },
+ {
+  "id": "morning",
+  "senses": [
+   "sabah"
+  ],
+  "ex": [
+   "Her sabah perdeleri açar ve bitkilerimi sularım.",
+   "Sabahları daha geç başlayan okullar, gençlerin yeterince uyumasına ve daha iyi odaklanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sabah erkenden",
+   "sabahleyin",
+   "pazartesi sabahı",
+   "her sabah"
+  ],
+  "tip": "Genel olarak in the morning; belirli bir günün sabahı için on kullanılır: on Monday morning.",
+  "note": ""
+ },
+ {
+  "id": "outside",
+  "senses": [
+   "dışarıda; dışarıya",
+   "dışında",
+   "dış; dışarıdan"
+  ],
+  "ex": [
+   "Anne babaları öğle yemeğini hazırlarken çocuklar dışarıda oynadı.",
+   "Okullar öğrencilere uygulamalı etkinlikler ve toplum projeleriyle sınıf dışında öğrenme fırsatları sunmalı."
+  ],
+  "col": [
+   "dışarı çıkmak",
+   "sınıf dışında",
+   "dışarıdan yardım",
+   "dış dünya"
+  ],
+  "tip": "Ardından yer gelirse edattır (outside the house); tek başına zarftır (Let's go outside).",
+  "note": ""
+ },
+ {
+  "id": "pasta",
+  "senses": [
+   "makarna"
+  ],
+  "ex": [
+   "Taze domates ve mantarla makarna pişirdik.",
+   "Okul yemekhaneleri, daha fazla lif içeren uygun fiyatlı öğünler için sebzeli tam buğday makarnası sunabilir."
+  ],
+  "col": [
+   "makarna pişirmek",
+   "makarna sosu",
+   "taze makarna",
+   "tam buğday makarnası"
+  ],
+  "tip": "Sayılamaz; bir porsiyon için a bowl/plate of pasta denir.",
+  "note": ""
+ },
+ {
+  "id": "black",
+  "senses": [
+   "siyah; kara",
+   "siyah (renk)",
+   "siyahi"
+  ],
+  "ex": [
+   "Siyah bir palto ve parlak sarı botlar giymişti.",
+   "Siyah çatılar açık renkli çatılardan daha fazla güneş ışığı emer; bu da serinletme için gereken enerjiyi artırabilir."
+  ],
+  "col": [
+   "sade (sütsüz) kahve",
+   "siyah beyaz",
+   "kararmak"
+  ],
+  "tip": "Etnik köken için Black büyük harfle yazılır; kişilere tekil isim olarak \"a black\" demekten kaçının.",
+  "note": ""
+ },
+ {
+  "id": "basketball",
+  "senses": [
+   "basketbol",
+   "basketbol topu"
+  ],
+  "ex": [
+   "Okuldan sonra parkta basketbol oynarız.",
+   "Basketbol gibi takım sporları gençlerin fiziksel kondisyonunu geliştirirken iş birliği becerilerini de güçlendirir."
+  ],
+  "col": [
+   "basketbol oynamak",
+   "basketbol sahası",
+   "basketbol takımı",
+   "basketbol potası"
+  ],
+  "tip": "play basketball'da artikel kullanılmaz; bir top için a basketball denir.",
+  "note": ""
+ },
+ {
+  "id": "tiger",
+  "senses": [
+   "kaplan"
+  ],
+  "ex": [
+   "Kaplan bir gölcüğün yanında, gölgede dinleniyordu.",
+   "Kaplanların yaşam alanlarını korumak, aynı orman ekosistemini paylaşan diğer türleri de korur."
+  ],
+  "col": [
+   "yabani kaplan",
+   "kaplanların korunması",
+   "kaplanın yaşam alanı"
+  ],
+  "tip": "Sayılabilir isimdir: a tiger, two tigers.",
+  "note": ""
+ },
+ {
+  "id": "christmas",
+  "senses": [
+   "Noel; Noel dönemi"
+  ],
+  "ex": [
+   "Ailemiz Noel'de genellikle özel bir yemekte bir araya gelir.",
+   "Noel döneminde artan tüketici harcamaları yerel dükkânlara yarar, ancak ek ambalaj atığına da yol açabilir."
+  ],
+  "col": [
+   "Noel arifesi",
+   "Noel günü",
+   "Noel ağacı",
+   "Noel'de"
+  ],
+  "tip": "Büyük harfle yazılır. Dönem için at Christmas, o gün için on Christmas Day denir.",
+  "note": ""
+ },
+ {
+  "id": "desk",
+  "senses": [
+   "masa; çalışma masası",
+   "danışma; resepsiyon"
+  ],
+  "ex": [
+   "Kalemlerimi masanın üst çekmecesinde tutarım.",
+   "Her öğrenciye uygun bir sıra sağlamak sınıfta rahatlığı ve dikkati artırabilir."
+  ],
+  "col": [
+   "masa çekmecesi",
+   "resepsiyon",
+   "masada oturmak"
+  ],
+  "tip": "\"Masada çalışmak\" at a desk'tir; on a desk masanın üstünde demektir.",
+  "note": ""
+ },
+ {
+  "id": "tell",
+  "senses": [
+   "söylemek; anlatmak",
+   "(yapmasını) söylemek; emretmek",
+   "ayırt etmek; anlamak"
+  ],
+  "ex": [
+   "Lütfen bana bugün okulda ne olduğunu anlat.",
+   "Okullar, çocuklarıyla ilgili kişisel bilgilerin nasıl toplanıp saklandığını velilere bildirmeli."
+  ],
+  "col": [
+   "hikâye anlatmak",
+   "doğruyu söylemek",
+   "birine bir şey yapmasını söylemek",
+   "farkı anlamak"
+  ],
+  "tip": "tell doğrudan kişi alır (tell me); say kişi alırsa to gerekir (say to me).",
+  "note": ""
+ },
+ {
+  "id": "course",
+  "senses": [
+   "kurs; ders",
+   "rota; gidişat",
+   "yemek (servis sırası)"
+  ],
+  "ex": [
+   "Toplum merkezinde bir yemek kursuna yazıldım.",
+   "Üniversiteler her dersi teorik bilgiyi gelecekteki işlerle ilgili pratik becerilerle birleştirecek şekilde tasarlamalı."
+  ],
+  "col": [
+   "kurs almak",
+   "eğitim kursu",
+   "rota değiştirmek",
+   "ana yemek"
+  ],
+  "tip": "course bir ders programının bütünüdür; lesson ise tek bir ders saatidir. of course \"elbette\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "beach",
+  "senses": [
+   "plaj; sahil",
+   "(tekneyi) karaya çekmek"
+  ],
+  "ex": [
+   "Kahvaltıdan sonra plajda pürüzsüz taşlar topladık.",
+   "Yerel yönetimler plajları plastik atıktan korurken turizmin yakındaki topluluklara da fayda sağlamasını garanti etmeli."
+  ],
+  "col": [
+   "kumlu plaj",
+   "çakıllı plaj",
+   "plajda",
+   "sahil temizliği"
+  ],
+  "tip": "\"Plajda\" on the beach'tir; shore genel olarak \"kıyı\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "below",
+  "senses": [
+   "altında; -den aşağı",
+   "aşağıda; aşağıda belirtilen"
+  ],
+  "ex": [
+   "Kedimiz pencerenin altındaki rafta uyur.",
+   "Geliri ülke ortalamasının altında olan haneler kışın yeterli ısınmayı karşılamakta zorlanabilir."
+  ],
+  "col": [
+   "ortalamanın altında",
+   "deniz seviyesinin altında",
+   "sıfırın altında"
+  ],
+  "tip": "below daha alçak konum ya da değer bildirir; tam altında olmak gerekmez (tam altı: under).",
+  "note": ""
+ },
+ {
+  "id": "wife",
+  "senses": [
+   "karı; eş (kadın)"
+  ],
+  "ex": [
+   "Karısı öğleden sonraki yürüyüşleri için sandviç hazırladı.",
+   "Her ikisinin de esnek çalışma saatleri olduğunda karı koca çocuk bakımını daha eşit paylaşabilir."
+  ],
+  "col": [
+   "karı koca",
+   "onun karısı",
+   "müstakbel eşi"
+  ],
+  "tip": "Çoğulu wives'tır. spouse cinsiyet belirtmeden \"eş\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "there",
+  "senses": [
+   "orada; oraya",
+   "(var anlamında) there is/are"
+  ],
+  "ex": [
+   "Çamurlu botlarını oraya, arka kapının yanına bırak.",
+   "Şehirlerin hane harcamalarını artırmadan atığı azaltmasının birkaç pratik yolu var."
+  ],
+  "col": [
+   "şurada; orada",
+   "… var",
+   "… var (çoğul)",
+   "oradan"
+  ],
+  "tip": "there yer ya da \"var\" yapısı için kullanılır; their (onların) ile karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "drive",
+  "senses": [
+   "(araba) sürmek",
+   "itmek; yönlendirmek",
+   "araba gezisi; azim; sürücü (bilgisayar)"
+  ],
+  "ex": [
+   "Kahvaltıdan sonra beni istasyona bırakabilir misin?",
+   "Tüketici talebi, şirketleri daha az doğal kaynak kullanan ürünler geliştirmeye yönelterek yeniliği teşvik edebilir."
+  ],
+  "col": [
+   "işe arabayla gitmek",
+   "ekonomik büyümeyi sağlamak",
+   "arabayla gezmeye çıkmak",
+   "sabit disk"
+  ],
+  "tip": "Düzensiz fiildir: drive – drove – driven. \"Birini arabayla bırakmak\" drive someone to'dur.",
+  "note": ""
+ },
+ {
+  "id": "face",
+  "senses": [
+   "yüz; surat",
+   "karşı karşıya kalmak; yüzleşmek",
+   "-e bakmak; yönelmek"
+  ],
+  "ex": [
+   "Kahvaltıya oturmadan önce yüzünü yıkadı.",
+   "Deniz seviyesi yükseldikçe ve aşırı hava olayları sıklaştıkça birçok kıyı şehri artan sel riskiyle karşı karşıya."
+  ],
+  "col": [
+   "yüzünü yıkamak",
+   "bir zorlukla yüzleşmek",
+   "güneye bakmak",
+   "yüz yüze"
+  ],
+  "tip": "Zorluklarla karşılaşmak face difficulties ya da be faced with difficulties diye söylenir.",
+  "note": ""
+ },
+ {
+  "id": "teacher",
+  "senses": [
+   "öğretmen"
+  ],
+  "ex": [
+   "Öğretmenimiz bugün sınıfa bir bitki getirdi.",
+   "İyi yetişmiş bir öğretmen, farklı öğrenme ihtiyaçlarına ve yeteneklere sahip öğrencileri desteklemek için sınıf etkinliklerini uyarlayabilir."
+  ],
+  "col": [
+   "ilkokul öğretmeni",
+   "yetkin öğretmen",
+   "öğretmen eğitimi"
+  ],
+  "tip": "İngilizcede öğretmene \"Teacher!\" diye seslenilmez; Mr/Ms + soyadı kullanılır. Türkçedeki \"Hocam\" alışkanlığına dikkat.",
+  "note": ""
+ },
+ {
+  "id": "road",
+  "senses": [
+   "yol; cadde",
+   "yol; süreç"
+  ],
+  "ex": [
+   "Karşıya geçmeden önce iki tarafa da bak.",
+   "Yol bakımına yatırım kamu güvenliğini artırabilir ve yerel işletmelerin ulaşım masraflarını düşürebilir."
+  ],
+  "col": [
+   "yol güvenliği",
+   "ana yol",
+   "yol bakımı",
+   "iyileşme yolu"
+  ],
+  "tip": "on the road genellikle \"yolda, seyahatte\" demektir; road to mecazi olarak bir sonuca giden yolu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "hot",
+  "senses": [
+   "sıcak",
+   "acı (yemek)",
+   "popüler; gündemde"
+  ],
+  "ex": [
+   "Dikkat et, çorba hâlâ çok sıcak.",
+   "Yazlar giderek ısındıkça şehirlerin sakinleri sıcaktan korumak için daha fazla gölgeli kamusal alana ihtiyacı var."
+  ],
+  "col": [
+   "sıcak hava",
+   "sıcak su",
+   "acı biber",
+   "güncel konu"
+  ],
+  "tip": "Yiyecek için hem \"sıcak\" hem \"acı\" anlamına gelebilir; bağlama bak. Acılı yemek için spicy da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "blue",
+  "senses": [
+   "mavi",
+   "mavi (renk)",
+   "hüzünlü; keyifsiz"
+  ],
+  "ex": [
+   "Pikniğe mavi bir ceket giydi.",
+   "Kent tasarımcıları kalabalık kamusal alanlarda huzur hissi yaratmak için çoğu zaman mavi yüzeyler kullanır."
+  ],
+  "col": [
+   "parlak mavi",
+   "lacivert",
+   "mavi gökyüzü",
+   "keyifsiz olmak"
+  ],
+  "tip": "feel blue \"moralinin bozuk olması\" demektir; açık mavi light blue'dur.",
+  "note": ""
+ },
+ {
+  "id": "tonight",
+  "senses": [
+   "bu akşam; bu gece",
+   "bu akşam; bu gece (isim)"
+  ],
+  "ex": [
+   "Bu akşam yemekte sebze çorbası yapıyoruz.",
+   "Sakinler, toplu taşımanın yerel halka nasıl daha iyi hizmet edebileceğini görüşmek için bu akşam toplanacak."
+  ],
+  "col": [
+   "bu akşamki toplantı",
+   "bu gece geç saatte",
+   "bu akşama kadar"
+  ],
+  "tip": "Zaman zarfı olarak edat almaz: See you tonight.",
+  "note": ""
+ },
+ {
+  "id": "internet",
+  "senses": [
+   "internet"
+  ],
+  "ex": [
+   "Görüntülü görüşmemizin ortasında internet kesildi.",
+   "Güvenilir internet erişimi, kırsaldaki öğrencilerin yerelde bulunmayan eğitim kaynaklarını kullanmasını sağlar."
+  ],
+  "col": [
+   "internet erişimi",
+   "internet bağlantısı",
+   "internette",
+   "internet kullanıcıları"
+  ],
+  "tip": "Genellikle the internet denir; sıfat gibi kullanıldığında the almaz: internet access.",
+  "note": ""
+ },
+ {
+  "id": "taxi",
+  "senses": [
+   "taksi",
+   "(uçak) taksi yapmak; pistte ilerlemek"
+  ],
+  "ex": [
+   "Ağır çantalarımızla eve taksiyle döndük.",
+   "Toplu taşımayı iyileştirmek, kalabalık şehir merkezlerinde taksiye ve özel araca bağımlılığı azaltabilir."
+  ],
+  "col": [
+   "taksiye binmek",
+   "el kaldırıp taksi çevirmek",
+   "taksi ücreti",
+   "taksi durağı"
+  ],
+  "tip": "\"Taksiyle gitmek\" take a taxi ya da by taxi diye söylenir.",
+  "note": ""
+ },
+ {
+  "id": "february",
+  "senses": [
+   "şubat"
+  ],
+  "ex": [
+   "Kız kardeşim yeni işine şubatta başlıyor.",
+   "Toplum merkezi, artan talebi karşılamak için şubatta ek akşam kursları açacak."
+  ],
+  "col": [
+   "şubatta",
+   "şubat başında",
+   "şubat sonunda"
+  ],
+  "tip": "Ay adları büyük harfle yazılır; aylarla in, tarihlerle on kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lose",
+  "senses": [
+   "kaybetmek; yitirmek",
+   "kaybetmek; azalmak",
+   "kaybetmek (yenilmek)"
+  ],
+  "ex": [
+   "Bu kocaman çantanın içinde anahtarlarımı hep kaybediyorum.",
+   "Büyük perakendeciler benzer ürünleri çok daha ucuza sattığında küçük işletmeler müşteri kaybedebilir."
+  ],
+  "col": [
+   "kilo vermek",
+   "iletişimi kaybetmek",
+   "maçı kaybetmek",
+   "sinirlenmek; kendini kaybetmek"
+  ],
+  "tip": "Geçmiş zaman ve üçüncü hâli lost'tur. loose (gevşek) ile karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "your",
+  "senses": [
+   "senin; sizin"
+  ],
+  "ex": [
+   "İçeri girmeden önce lütfen ayakkabılarını kapının yanına bırak.",
+   "Evine yakın bir üniversite seçmek yaşam masraflarını düşürebilir ve yükseköğrenimi daha karşılanabilir kılar."
+  ],
+  "col": [
+   "sana ait; kendi",
+   "ailen",
+   "elinden gelenin en iyisini yapmak"
+  ],
+  "tip": "your'dan sonra isim gelir; tek başına yours (seninki) kullanılır. you're \"you are\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "star",
+  "senses": [
+   "yıldız",
+   "yıldız; ünlü",
+   "başrolde oynamak"
+  ],
+  "ex": [
+   "Göl kenarındaki çadırımızdan yıldızları izledik.",
+   "Işık kirliliği birçok şehirlinin yıldızları görmesini engelleyerek doğal gece gökyüzüyle bağını zayıflatıyor."
+  ],
+  "col": [
+   "parlak bir yıldız",
+   "film yıldızı",
+   "yükselen yıldız",
+   "bir filmde başrol oynamak"
+  ],
+  "tip": "star in \"başrolde oynamak\" demektir; geçmiş zamanı starred, -ing hâli starring'dir.",
+  "note": ""
+ },
+ {
+  "id": "actor",
+  "senses": [
+   "oyuncu; aktör",
+   "aktör; taraf (bir süreçte)"
+  ],
+  "ex": [
+   "Oyuncu sahnede gümüş bir taç takıyordu.",
+   "Profesyonel oyuncular, ekip çalışmasını ve yaratıcı ifadeyi teşvik eden drama atölyeleriyle öğrencilerin iletişim becerilerini geliştirebilir."
+  ],
+  "col": [
+   "başrol oyuncusu",
+   "profesyonel oyuncu",
+   "yardımcı oyuncu",
+   "kilit aktör"
+  ],
+  "tip": "actor her cinsiyetten oyuncu için kullanılabilir; actress sadece kadın oyuncuyu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "art",
+  "senses": [
+   "sanat",
+   "sanat eseri",
+   "ustalık; sanat"
+  ],
+  "ex": [
+   "Öğleden sonrayı renkli kâğıtlarla sanat çalışmaları yaparak geçirdik.",
+   "Sanata kamu desteği toplumsal yaşamı zenginleştirir ve kültürel deneyimleri daha geniş kitlelere ulaştırır."
+  ],
+  "col": [
+   "bir sanat eseri",
+   "modern sanat",
+   "sanat galerisi",
+   "sohbet etme sanatı"
+  ],
+  "tip": "Genel anlamda sayılamaz; tek bir eser a work of art'tır.",
+  "note": ""
+ }
+]

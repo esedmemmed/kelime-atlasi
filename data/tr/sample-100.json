@@ -1,0 +1,924 @@
+[
+ {
+  "id": "spring",
+  "senses": [
+   "ilkbahar; bahar",
+   "yay (metal)",
+   "kaynak; pınar"
+  ],
+  "ex": [
+   "Her bahar bahçeye çiçek dikeriz.",
+   "İlkbaharda artan sıcaklıklar bitkilerin daha erken çiçek açmasına yol açarak onlara bağımlı böcekleri etkileyebilir."
+  ],
+  "col": [
+   "ilkbaharda",
+   "ilkbahar başı",
+   "doğal kaynak; pınar",
+   "helezon yay"
+  ],
+  "tip": "Mevsimlerle in kullanılır: in spring. \"Pınar\" ve \"yay\" anlamlarında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "rome",
+  "senses": [
+   "Roma (İtalya'nın başkenti)"
+  ],
+  "ex": [
+   "Roma'daki ilk öğleden sonramızı antik kalıntıları gezerek geçirdik.",
+   "Roma gibi şehirler turizmin ekonomik faydalarıyla tarihî alanların korunması arasında denge kurmak zorunda."
+  ],
+  "col": [
+   "Antik Roma",
+   "Roma şehri",
+   "Roma gezisi"
+  ],
+  "tip": "Şehir adları büyük harfle yazılır ve genellikle the almaz.",
+  "note": ""
+ },
+ {
+  "id": "band",
+  "senses": [
+   "müzik grubu",
+   "şerit; bant; halka",
+   "aralık; bant; seviye"
+  ],
+  "ex": [
+   "Kız kardeşim yerel bir grupta davul çalıyor.",
+   "Yerel festivallerdeki canlı müzik grupları ziyaretçi çekebilir ve küçük işletmelere fırsat yaratabilir."
+  ],
+  "col": [
+   "rock grubu",
+   "lastik bant",
+   "frekans bandı",
+   "gelir dilimi"
+  ],
+  "tip": "IELTS'te band \"puan seviyesi\" demektir: band 7. Müzik grubu anlamıyla karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "east",
+  "senses": [
+   "doğu",
+   "doğu; doğudaki",
+   "doğuya; doğuda"
+  ],
+  "ex": [
+   "Mutfak penceremiz doğuya bakıyor ve sabah güneşini alıyor.",
+   "Demiryolu bağlantılarına yatırım, ülkenin doğusundaki toplulukların işe erişimini kolaylaştırabilir."
+  ],
+  "col": [
+   "doğuda",
+   "doğu sahili",
+   "doğuya doğru gitmek",
+   "-in doğusunda"
+  ],
+  "tip": "in the east of bir yerin içindeki doğu kısmıdır; east of ise o yerin dışında, doğusunda demektir.",
+  "note": ""
+ },
+ {
+  "id": "banana",
+  "senses": [
+   "muz"
+  ],
+  "ex": [
+   "Bir muz soydu ve dilimleyip mısır gevreğinin üstüne koydu.",
+   "Muz yetiştiriciliği tropik bölgelerdeki pek çok aile için önemli bir gelir kaynağıdır."
+  ],
+  "col": [
+   "olgun muz",
+   "muz kabuğu",
+   "bir salkım muz"
+  ],
+  "tip": "Sayılabilir isimdir: a banana, two bananas.",
+  "note": ""
+ },
+ {
+  "id": "camera",
+  "senses": [
+   "fotoğraf makinesi; kamera"
+  ],
+  "ex": [
+   "Uyuyan kedinin fotoğrafını çekmek için makinesini kaldırdı.",
+   "Her girişe kamera takmak güvenliği artırabilir ama sakinler mahremiyet konusunda endişelerini dile getirdi."
+  ],
+  "col": [
+   "dijital fotoğraf makinesi",
+   "güvenlik kamerası",
+   "kamera objektifi",
+   "kamera karşısında"
+  ],
+  "tip": "camera bağlama göre hem fotoğraf makinesi hem video kamera olabilir.",
+  "note": ""
+ },
+ {
+  "id": "menu",
+  "senses": [
+   "menü; yemek listesi",
+   "menü (bilgisayar)"
+  ],
+  "ex": [
+   "Menüde birkaç vejetaryen yemek var.",
+   "Restoran menülerinde besin bilgilerini göstermek, insanların dışarıda yemek yerken daha sağlıklı seçimler yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "menüde",
+   "fiks menü",
+   "açılır menü"
+  ],
+  "tip": "Bir yemek \"menüde\" ise on the menu denir, in the menu değil.",
+  "note": ""
+ },
+ {
+  "id": "girl",
+  "senses": [
+   "kız; kız çocuğu; genç kız"
+  ],
+  "ex": [
+   "Kız, yavru kedisini dikkatlice eve taşıdı.",
+   "Her kız çocuğunun okula gidebilmesini sağlamak, eşitsizliği azaltmak ve ekonomik kalkınmayı desteklemek için şarttır."
+  ],
+  "col": [
+   "küçük kız",
+   "ergen kız",
+   "kız öğrenci"
+  ],
+  "tip": "Yetişkin bir kadın için resmî olarak woman kullanılır; \"kız arkadaş\" girlfriend'dir.",
+  "note": ""
+ },
+ {
+  "id": "answer",
+  "senses": [
+   "cevap; yanıt; çözüm",
+   "cevap vermek; (telefona) bakmak"
+  ],
+  "ex": [
+   "Fiyatını sordum ama kimse cevap vermedi.",
+   "Toplu taşımayı iyileştirmek, hızla büyüyen şehirlerdeki trafik sorununa bir çözüm olabilir."
+  ],
+  "col": [
+   "soruya cevap vermek",
+   "telefona bakmak",
+   "bir sorunun çözümü",
+   "net bir cevap"
+  ],
+  "tip": "Fiil olarak answer doğrudan nesne alır (answer a question, \"answer to a question\" değil); isim olarak the answer to kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "line",
+  "senses": [
+   "çizgi",
+   "sıra; kuyruk",
+   "hat (ulaşım, telefon)"
+  ],
+  "ex": [
+   "Cetvelinle sayfaya düz bir çizgi çiz.",
+   "Demiryolu hattını uzatmak kırsal toplulukları yakındaki şehirlerdeki iş fırsatlarına bağlayabilir."
+  ],
+  "col": [
+   "düz çizgi",
+   "sırada beklemek",
+   "demiryolu hattı",
+   "telefon hattı"
+  ],
+  "tip": "Amerikan İngilizcesinde \"sıra beklemek\" stand in line, İngiliz İngilizcesinde queue denir.",
+  "note": ""
+ },
+ {
+  "id": "mister",
+  "senses": [
+   "bay; beyefendi"
+  ],
+  "ex": [
+   "Çocuklar yeni komşularını \"Bay Green\" diye selamladı.",
+   "Resmî mülakatlarda adaylar erkek görüşmeciye \"Bay\" ve soyadıyla hitap edebilir."
+  ],
+  "col": [
+   "Sayın Cumhurbaşkanı",
+   "Sayın Başkan (toplantı başkanı)"
+  ],
+  "tip": "Genellikle Mr (Amerikan: Mr.) olarak yazılır ve soyadından önce gelir: Mr Smith. Ad ile kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "door",
+  "senses": [
+   "kapı"
+  ],
+  "ex": [
+   "Kedi dışarı çıkmadan kapıyı kapat lütfen.",
+   "Kamu binalarına daha geniş kapılar takmak, tekerlekli sandalye kullananların günlük işlerini kolaylaştırabilir."
+  ],
+  "col": [
+   "ön kapı; giriş kapısı",
+   "kapıya bakmak",
+   "kapıyı çalmak"
+  ],
+  "tip": "at the door \"kapıda\", answer the door \"kapıyı açmaya gitmek (zil çalınca)\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "smile",
+  "senses": [
+   "gülümsemek",
+   "gülümseme"
+  ],
+  "ex": [
+   "Odanın öbür ucundan el salladığımda bebek gülümsedi.",
+   "Samimi bir gülümseme, hastaların endişelerini sağlık çalışanlarıyla konuşurken daha rahat hissetmelerini sağlayabilir."
+  ],
+  "col": [
+   "birine gülümsemek",
+   "sıcak bir gülümseme",
+   "geniş bir gülümseme"
+  ],
+  "tip": "Birine gülümsemek smile at someone'dır, smile to değil.",
+  "note": ""
+ },
+ {
+  "id": "october",
+  "senses": [
+   "ekim"
+  ],
+  "ex": [
+   "Mahalledeki yüzme havuzumuz ekimde yeniden açılacak.",
+   "Üniversite her yıl ekim ayında toplum araştırma programını başlatarak öğrencilere yerel çevre sorunlarını inceleme fırsatı veriyor."
+  ],
+  "col": [
+   "ekimde",
+   "ekim başında",
+   "ekim sonunda"
+  ],
+  "tip": "Ay adları İngilizcede büyük harfle yazılır; aylarla in, belirli tarihlerle on kullanılır: on 5 October.",
+  "note": ""
+ },
+ {
+  "id": "room",
+  "senses": [
+   "oda",
+   "yer; alan; pay"
+  ],
+  "ex": [
+   "Odamda pencerenin yanında bir masa var.",
+   "Toplu taşıma önemli ölçüde iyileşmiş olsa da kırsal hizmetlere daha fazla yatırım yapılabilir."
+  ],
+  "col": [
+   "oturma odası",
+   "-e yer açmak",
+   "gelişmeye açık yön"
+  ],
+  "tip": "\"Oda\" anlamında sayılabilir; \"yer, alan\" anlamında sayılamaz: There is no room.",
+  "note": ""
+ },
+ {
+  "id": "rest",
+  "senses": [
+   "dinlenme; mola",
+   "dinlenmek; dinlendirmek",
+   "geri kalanı; diğerleri"
+  ],
+  "ex": [
+   "Şu gölgeli ağacın altında biraz dinlenelim.",
+   "Düzenli dinlenme araları, çalışanların konsantrasyonunu korumasına ve iş kazası riskini azaltmasına yardımcı olur."
+  ],
+  "col": [
+   "dinlenmek",
+   "biraz dinlenmek",
+   "-in geri kalanı"
+  ],
+  "tip": "the rest of'tan sonraki isme göre fiil tekil ya da çoğul olur: the rest of the cake is…, the rest of the students are…",
+  "note": ""
+ },
+ {
+  "id": "aunt",
+  "senses": [
+   "teyze; hala; yenge"
+  ],
+  "ex": [
+   "Ekmek yapmayı bana teyzem öğretti.",
+   "Teyze, hala ve amca gibi geniş aile üyeleri, çalışan ebeveynlere çoğu zaman değerli bir çocuk bakımı desteği sağlar."
+  ],
+  "col": [
+   "teyze/hala ve amca/dayı",
+   "teyze",
+   "hala"
+  ],
+  "tip": "Türkçedeki teyze, hala ve yenge ayrımı İngilizcede yoktur; hepsi aunt'tır. Amerikan telaffuzu /ænt/, İngiliz /ɑːnt/.",
+  "note": ""
+ },
+ {
+  "id": "watch",
+  "senses": [
+   "izlemek; seyretmek",
+   "kol saati",
+   "göz kulak olmak; dikkat etmek"
+  ],
+  "ex": [
+   "Sessiz gölette yüzen ördekleri izledik.",
+   "Eğitici programlar izleyen öğrenciler faydalı bilgiler edinebilir, ama aktif tartışma anlayışlarını derinleştirir."
+  ],
+  "col": [
+   "televizyon izlemek",
+   "dikkatle izlemek",
+   "saat takmak",
+   "dikkat et!"
+  ],
+  "tip": "watch sürekli ve dikkatli izlemeyi, see ise bir şeyi görmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "exciting",
+  "senses": [
+   "heyecan verici; heyecanlı"
+  ],
+  "ex": [
+   "Maçın son dakikaları inanılmaz heyecanlıydı.",
+   "Yenilenebilir enerjideki gelişmeler, küresel çevre sorunlarına çözüm arayan genç mühendisler için heyecan verici fırsatlar sunuyor."
+  ],
+  "col": [
+   "heyecan verici fırsat",
+   "heyecan verici gelişme",
+   "heyecanlı bir deneyim"
+  ],
+  "tip": "exciting heyecan veren şeyi anlatır; heyecanlanan kişi excited'dır: The film was exciting, I was excited.",
+  "note": ""
+ },
+ {
+  "id": "africa",
+  "senses": [
+   "Afrika"
+  ],
+  "ex": [
+   "Kuzenim Afrika'dan güzel el yapımı sepetlerle döndü.",
+   "Afrika genelinde yenilenebilir enerjiye yatırım, elektriğe erişimi artırırken sürdürülebilir ekonomik kalkınmayı destekleyebilir."
+  ],
+  "col": [
+   "Kuzey Afrika",
+   "Sahra Altı Afrika",
+   "Afrika genelinde"
+  ],
+  "tip": "Kıta adları büyük harfle yazılır ve genellikle artikel almaz. Afrika bir ülke değil, kıtadır.",
+  "note": ""
+ },
+ {
+  "id": "sometimes",
+  "senses": [
+   "bazen; ara sıra"
+  ],
+  "ex": [
+   "Bazen eve parkın içinden daha uzun yoldan dönerim.",
+   "Evden çalışmak bazen verimliliği artırır, ancak faydası uygun ekipmana ve sessiz bir ortama bağlıdır."
+  ],
+  "col": [
+   "bazen hissetmek",
+   "bazen olmak",
+   "sadece ara sıra"
+  ],
+  "tip": "sometimes \"bazen\", some time ise \"bir süre\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "newspaper",
+  "senses": [
+   "gazete",
+   "gazete (kuruluş)"
+  ],
+  "ex": [
+   "Dedem kahvaltı ederken gazete okur.",
+   "Yerel gazeteler, ulusal medyanın gözden kaçırabileceği toplumsal konuları değerli bir şekilde haberleştirir."
+  ],
+  "col": [
+   "günlük gazete",
+   "yerel gazete",
+   "gazete makalesi",
+   "gazete okumak"
+  ],
+  "tip": "Bir gazete a newspaper'dır; ambalaj malzemesi olarak (eski gazete kâğıdı) sayılamaz kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "fine",
+  "senses": [
+   "iyi; sağlıklı; kaliteli",
+   "ince; ufak taneli",
+   "para cezası"
+  ],
+  "ex": [
+   "Şimdi iyi hissediyorum, hadi yürüyüşe çıkalım.",
+   "Ağır bir para cezası, şirketlerin sanayi atıklarını nehirlere boşaltıp yerel ekosistemlere zarar vermesini caydırabilir."
+  ],
+  "col": [
+   "iyi hissetmek",
+   "ince kum",
+   "ceza ödemek",
+   "güzel sanatlar"
+  ],
+  "tip": "fine fiil olarak \"para cezası vermek\" demektir: fine someone for something.",
+  "note": ""
+ },
+ {
+  "id": "boat",
+  "senses": [
+   "tekne; kayık"
+  ],
+  "ex": [
+   "Küçük bir tekne kiralayıp gölü gezdik.",
+   "Ücra kıyı köylerinde okullara ve sağlık hizmetlerine ulaşmak için tekneyle yolculuk hâlâ vazgeçilmezdir."
+  ],
+  "col": [
+   "balıkçı teknesi",
+   "kürekli kayık",
+   "tekneyle",
+   "tekne turu"
+  ],
+  "tip": "by boat artikel almaz; \"teknede\" on a boat'tur.",
+  "note": ""
+ },
+ {
+  "id": "card",
+  "senses": [
+   "kart",
+   "tebrik kartı; kartpostal",
+   "oyun kâğıdı; iskambil"
+  ],
+  "ex": [
+   "Market alışverişini ödemek için kartımı okuttum.",
+   "Her öğrenciye kütüphane kartı vermek, bağımsız okumayı teşvik eder ve eğitim kaynaklarına erişimi kolaylaştırır."
+  ],
+  "col": [
+   "kredi kartı",
+   "kimlik kartı",
+   "doğum günü kartı",
+   "kâğıt oynamak"
+  ],
+  "tip": "play cards \"kâğıt oynamak\"tır; cards çoğuldur ve artikel almaz.",
+  "note": ""
+ },
+ {
+  "id": "afraid",
+  "senses": [
+   "korkmuş; korkan",
+   "korkarım ki (kibar olumsuz haber)"
+  ],
+  "ex": [
+   "Köpek yavrusu gürültülü elektrikli süpürgeden korkuyordu.",
+   "Bazı çalışanlar işlerini kaybetmekten endişe ettikleri için iş yerindeki sorunları bildirmekten korkuyor."
+  ],
+  "col": [
+   "-den korkmak",
+   "sormaktan çekinmek",
+   "hata yapmaktan korkmak",
+   "korkarım ki…"
+  ],
+  "tip": "Genellikle isimden önce gelmez: \"an afraid child\" değil, \"The child is afraid.\" afraid of + isim/-ing, afraid to + fiil.",
+  "note": ""
+ },
+ {
+  "id": "start",
+  "senses": [
+   "başlamak; başlatmak",
+   "çalıştırmak; çalışmak (makine)",
+   "başlangıç"
+  ],
+  "ex": [
+   "Eve varır varmaz akşam yemeğini pişirmeye başladık.",
+   "Okullar finansal becerileri erken öğretmeye başlamalı ki gençler parayla ilgili bilinçli kararlar verebilsin."
+  ],
+  "col": [
+   "iş kurmak",
+   "motoru çalıştırmak",
+   "-in başında",
+   "yeni bir başlangıç yapmak"
+  ],
+  "tip": "start doing ve start to do genellikle aynı anlamdadır: \"yapmaya başlamak\".",
+  "note": ""
+ },
+ {
+  "id": "hospital",
+  "senses": [
+   "hastane"
+  ],
+  "ex": [
+   "Yerel hastanede hemşire olarak çalışıyor.",
+   "Bölgeye yeni bir hastane yapmak, kırsal toplulukların uzman tedaviye erişimini iyileştirir."
+  ],
+  "col": [
+   "hastaneye yatırılmak",
+   "taburcu olmak",
+   "devlet hastanesi",
+   "hastane personeli"
+  ],
+  "tip": "\"Hastanede yatmak\" İngiliz İngilizcesinde in hospital, Amerikan İngilizcesinde in the hospital'dır.",
+  "note": ""
+ },
+ {
+  "id": "life",
+  "senses": [
+   "hayat; yaşam",
+   "can; hayat",
+   "ömür; kullanım süresi"
+  ],
+  "ex": [
+   "Kırsala taşındığımızdan beri hayat daha sakin geçiyor.",
+   "Uygun fiyatlı konuta erişim, büyük şehirlerde yaşam kalitesini önemli ölçüde artırabilir."
+  ],
+  "col": [
+   "yaşam kalitesi",
+   "günlük yaşam",
+   "bir hayat kurtarmak",
+   "pil ömrü"
+  ],
+  "tip": "Çoğulu lives'tır. Genel olarak \"hayat\" anlamında genellikle sayılamaz: Life is short.",
+  "note": ""
+ },
+ {
+  "id": "centre",
+  "senses": [
+   "merkez; orta",
+   "merkez (hizmet yeri)",
+   "-e odaklanmak"
+  ],
+  "ex": [
+   "Masanın ortasına bir vazo koyduk.",
+   "Yeni bir toplum merkezi, mahalle sakinlerine uygun fiyatlı spor imkânları ve buluşma alanları sağlayabilir."
+  ],
+  "col": [
+   "şehir merkezi",
+   "toplum merkezi",
+   "-e odaklanmak"
+  ],
+  "tip": "centre İngiliz yazımıdır, Amerikan İngilizcesinde center yazılır. Fiil olarak genellikle on ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "magazine",
+  "senses": [
+   "dergi"
+  ],
+  "ex": [
+   "İstasyonda bir bahçecilik dergisi aldı.",
+   "Uzmanlık dergileri, genel haber sitelerinin sunmadığı pratik kariyer tavsiyeleri verebilir."
+  ],
+  "col": [
+   "aylık dergi",
+   "moda dergisi",
+   "dergi aboneliği",
+   "dergi makalesi"
+  ],
+  "tip": "Sayılabilir isimdir. İngiliz İngilizcesinde vurgu genellikle son hecede, Amerikan İngilizcesinde ilk hecededir.",
+  "note": ""
+ },
+ {
+  "id": "practise",
+  "senses": [
+   "pratik yapmak; alıştırma yapmak",
+   "(doktorluk, avukatlık vb.) meslek icra etmek",
+   "uygulamak; (dini) yaşamak"
+  ],
+  "ex": [
+   "Her akşam yemekten sonra sessizce keman çalışırım.",
+   "Dil öğrenenler sadece kelime ve dil bilgisi kuralı ezberlemek yerine düzenli olarak konuşma pratiği yapmalı."
+  ],
+  "col": [
+   "konuşma pratiği yapmak",
+   "doktorluk yapmak",
+   "düzenli çalışmak",
+   "söylediğini yapmak"
+  ],
+  "tip": "İngiliz İngilizcesinde fiil practise, isim practice'tir; Amerikan İngilizcesinde ikisi de practice yazılır.",
+  "note": ""
+ },
+ {
+  "id": "city",
+  "senses": [
+   "şehir; kent"
+  ],
+  "ex": [
+   "Bütün öğleden sonra şehri yürüyerek gezdik.",
+   "İyi tasarlanmış bir şehir, sakinlerin yaşam kalitesini artıran erişilebilir toplu taşıma ve yeşil alanlar sunar."
+  ],
+  "col": [
+   "şehir merkezi",
+   "büyük şehir",
+   "şehir hayatı",
+   "şehir planlaması"
+  ],
+  "tip": "Çoğulu cities'dir. İngiliz İngilizcesinde şehir merkezi city centre'dır.",
+  "note": ""
+ },
+ {
+  "id": "boring",
+  "senses": [
+   "sıkıcı"
+  ],
+  "ex": [
+   "Film o kadar sıkıcıydı ki uyuyakaldım.",
+   "Öğretmenler amacını açıklayıp çeşitlilik katmazsa öğrenciler tekrara dayalı alıştırmaları sıkıcı bulabilir."
+  ],
+  "col": [
+   "sıkıcı bir iş",
+   "sıkıcı bir ders",
+   "bir şeyi sıkıcı bulmak"
+  ],
+  "tip": "boring sıkıcı olan şeyi, bored sıkılan kişiyi anlatır: \"I am boring\" \"ben sıkıcı biriyim\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "finish",
+  "senses": [
+   "bitirmek; tamamlamak",
+   "bitiş; son",
+   "yüzey işlemi; cila"
+  ],
+  "ex": [
+   "Çıkmadan önce bulaşıkları yıkamayı bitireceğim.",
+   "Ödevlerini erken bitiren öğrencilerin geri bildirimleri incelemek ve konuyu daha iyi anlamak için daha çok zamanı olur."
+  ],
+  "col": [
+   "bir şeyi yapmayı bitirmek",
+   "ödevi bitirmek",
+   "bitiş çizgisi",
+   "pürüzsüz yüzey"
+  ],
+  "tip": "\"Yapmayı bitirmek\" finish doing'dir, finish to do yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "pig",
+  "senses": [
+   "domuz"
+  ],
+  "ex": [
+   "Pembe bir domuz tahta çitin yanında uyuyordu.",
+   "Çiftçiler domuzlara serbestçe hareket edip etrafı keşfedebilecekleri kadar alan vererek hayvan refahını artırabilir."
+  ],
+  "col": [
+   "domuz çiftliği",
+   "domuz yetiştirmek",
+   "yaban domuzu"
+  ],
+  "tip": "pig hayvanın kendisidir; yiyecek olarak domuz eti pork'tur.",
+  "note": ""
+ },
+ {
+  "id": "our",
+  "senses": [
+   "bizim"
+  ],
+  "ex": [
+   "Babam taze ekmek yaptığında mutfağımız harika kokar.",
+   "Toplu taşımaya yatırım yapmak yaşam kalitemizi artırabilir ve şehirdeki hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "günlük yaşamımız",
+   "yaşadığımız mahalle",
+   "ortak geleceğimiz"
+  ],
+  "tip": "our'dan sonra mutlaka isim gelir: our house. Tek başına kullanılacaksa ours denir: The house is ours.",
+  "note": ""
+ },
+ {
+  "id": "football",
+  "senses": [
+   "futbol",
+   "Amerikan futbolu"
+  ],
+  "ex": [
+   "Her cumartesi sabahı parkta futbol oynarız.",
+   "Yerel futbol kulüpleri, farklı sosyal çevrelerden insanları bir araya getirerek toplumsal bağları güçlendirebilir."
+  ],
+  "col": [
+   "futbol oynamak",
+   "futbol maçı",
+   "futbol sahası",
+   "futbol kulübü"
+  ],
+  "tip": "İngiliz İngilizcesinde football futboldur; Amerikan İngilizcesinde Amerikan futbolu demektir, futbola soccer denir.",
+  "note": ""
+ },
+ {
+  "id": "station",
+  "senses": [
+   "istasyon; gar",
+   "istasyon; merkez (hizmet)",
+   "görevlendirmek; konuşlandırmak"
+  ],
+  "ex": [
+   "Ağır bavullarımızla istasyona koştuk.",
+   "Yerel yönetimler, hareket kısıtlılığı olan yolculara yardım etmek için kalabalık aktarma merkezlerinde eğitimli personel görevlendirmeli."
+  ],
+  "col": [
+   "tren istasyonu",
+   "karakol",
+   "radyo istasyonu",
+   "-de görevli olmak"
+  ],
+  "tip": "Fiil olarak genellikle edilgen kullanılır: be stationed at \"-de görevlendirilmek\".",
+  "note": ""
+ },
+ {
+  "id": "tomorrow",
+  "senses": [
+   "yarın",
+   "yarın; gelecek"
+  ],
+  "ex": [
+   "Yarın sabah yüzme havuzunda buluşuyoruz.",
+   "Bugün alınan çevre kararları, yarının çocuklarının devralacağı dünyayı şekillendirecek."
+  ],
+  "col": [
+   "yarın sabah",
+   "yarına kadar",
+   "öbür gün",
+   "geleceğin dünyası"
+  ],
+  "tip": "tomorrow'dan önce on kullanılmaz; \"yarın sabah\" tomorrow morning'dir.",
+  "note": ""
+ },
+ {
+  "id": "fourth",
+  "senses": [
+   "dördüncü",
+   "dörtte bir; çeyrek"
+  ],
+  "ex": [
+   "Dairemiz dördüncü katta, asansörün yanında.",
+   "Geri dönüşüm sürecinin dördüncü aşaması, temizlenmiş plastiği yeni ürünlere uygun malzemeye dönüştürmektir."
+  ],
+  "col": [
+   "dördüncü kat",
+   "dördüncülük",
+   "… -in dörtte biri"
+  ],
+  "tip": "\"Dördüncü\" fourth'tür; forth \"ileri\" demektir, yazımına dikkat.",
+  "note": ""
+ },
+ {
+  "id": "today",
+  "senses": [
+   "bugün; günümüzde",
+   "bugün; günümüz"
+  ],
+  "ex": [
+   "Hava sıcakken bugün dışarıda yiyelim.",
+   "Günümüzde birçok üniversite, öğrencilerin çalışmayla eğitimi birleştirmesine olanak tanıyan esnek programlar sunuyor."
+  ],
+  "col": [
+   "bugün daha erken saatlerde",
+   "günümüz toplumu",
+   "bugünden itibaren"
+  ],
+  "tip": "today hem \"bugün\" hem \"günümüzde\" demektir; önünde on kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "plane",
+  "senses": [
+   "uçak",
+   "düzlem",
+   "rendelemek"
+  ],
+  "ex": [
+   "Uçağımız yağmur başlamadan hemen önce indi.",
+   "Uçak yolculuğu zaman kazandırır ama ulaşım politikası planlanırken çevresel etkisi de göz önünde bulundurulmalı."
+  ],
+  "col": [
+   "uçakla",
+   "uçağa binmek",
+   "yatay düzlem",
+   "kapıyı rendelemek"
+  ],
+  "tip": "by plane artikel almaz; \"uçakta\" on a plane'dir.",
+  "note": ""
+ },
+ {
+  "id": "job",
+  "senses": [
+   "iş; meslek",
+   "görev; iş"
+  ],
+  "ex": [
+   "Kız kardeşim yerel kütüphanede bir iş buldu.",
+   "Uygulamalı eğitime erişim, gençlerin rekabetçi iş piyasasında iş bulmasına yardımcı olabilir."
+  ],
+  "col": [
+   "işe başvurmak",
+   "tam zamanlı iş",
+   "iş tatmini",
+   "iyi iş çıkarmak"
+  ],
+  "tip": "job belirli bir iştir ve sayılabilir (a job); work genel olarak \"iş, çalışma\" demektir ve genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "supermarket",
+  "senses": [
+   "süpermarket; market"
+  ],
+  "ex": [
+   "Süt ve pirinç almak için markete uğradık.",
+   "Büyük süpermarketler daha düşük fiyatlar sunabilir, ancak yayılmaları küçük yerlerdeki bağımsız dükkânları tehdit edebilir."
+  ],
+  "col": [
+   "süpermarket zinciri",
+   "market kasası",
+   "market rafları"
+  ],
+  "tip": "\"Marketten alışveriş yapmak\" genellikle shop at a supermarket diye söylenir.",
+  "note": ""
+ },
+ {
+  "id": "kitchen",
+  "senses": [
+   "mutfak"
+  ],
+  "ex": [
+   "Mutfak taze ekmek ve fırınlanmış sebze kokuyor.",
+   "Ortak mutfaklar, evden uzakta yurtta kalan öğrenciler arasında sosyal etkileşimi teşvik edebilir."
+  ],
+  "col": [
+   "mutfak aletleri (elektrikli)",
+   "mutfak lavabosu",
+   "ortak mutfak",
+   "mutfak gereçleri"
+  ],
+  "tip": "\"Mutfakta\" in the kitchen'dır. ch /tʃ/ (ç) diye okunur.",
+  "note": ""
+ },
+ {
+  "id": "when",
+  "senses": [
+   "ne zaman",
+   "-dığında; -ınca",
+   "-diği hâlde; madem"
+  ],
+  "ex": [
+   "Şehre giden bir sonraki otobüs ne zaman kalkıyor?",
+   "Şehirler güvenilir toplu taşımaya yatırım yaptığında, sakinlerin arabalarını evde bırakma olasılığı artar."
+  ],
+  "col": [
+   "gerektiğinde",
+   "mümkün olduğunda",
+   "ne zamandan beri"
+  ],
+  "tip": "Gelecekten söz ederken when'den sonra geniş zaman kullanılır: when I arrive (will arrive değil).",
+  "note": ""
+ },
+ {
+  "id": "north",
+  "senses": [
+   "kuzey",
+   "kuzey; kuzeydeki",
+   "kuzeye; kuzeyde"
+  ],
+  "ex": [
+   "Adanın kuzeyine her kış kar yağar.",
+   "Demiryolu bağlantılarına yatırım, kuzeydeki kasabaların işletme çekmesine ve daha fazla yerel iş yaratmasına yardımcı olabilir."
+  ],
+  "col": [
+   "-in kuzeyi",
+   "kuzeye doğru gitmek",
+   "kuzey sahili",
+   "daha kuzeyde"
+  ],
+  "tip": "in the north of bir yerin içindeki kuzey kısmı, north of ise o yerin dışında, kuzeyinde demektir.",
+  "note": ""
+ },
+ {
+  "id": "sugar",
+  "senses": [
+   "şeker"
+  ],
+  "ex": [
+   "Çayına bir kaşık şeker karıştırdı.",
+   "Şeker tüketimini azaltmak sağlıksız beslenmeyle ilişkili sağlık sorunlarını önlemeye yardımcı olabilir."
+  ],
+  "col": [
+   "şeker eklemek",
+   "şeker alımı",
+   "kan şekeri",
+   "şeker oranı"
+  ],
+  "tip": "Genellikle sayılamaz: a spoonful of sugar \"bir kaşık şeker\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "husband",
+  "senses": [
+   "koca; eş (erkek)",
+   "idareli kullanmak"
+  ],
+  "ex": [
+   "Yoğun bir vardiya sırasında kocası ona öğle yemeği getirdi.",
+   "Kocalar ev işlerini eşit şekilde paylaştığında her iki eş de kariyerlerini sürdürmek için daha fazla fırsat bulur."
+  ],
+  "col": [
+   "kocası",
+   "karı koca",
+   "kaynakları idareli kullanmak"
+  ],
+  "tip": "Fiil olarak oldukça resmîdir ve \"idareli kullanmak\" anlamına gelir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,944 @@
+[
+ {
+  "id": "correct",
+  "senses": [
+   "doğru",
+   "düzeltmek; (kâğıt) okumak",
+   "uygun; yerinde"
+  ],
+  "ex": [
+   "Anahtarların kanepenin altında olduğu konusunda haklıydın.",
+   "Öğretmenler öğrencilere sadece doğru cevabı vermek yerine hatalarını düzeltmelerine yardımcı olmalı."
+  ],
+  "col": [
+   "doğru cevap",
+   "hatayı düzeltmek",
+   "doğru prosedür",
+   "gerçeklere uygun"
+  ],
+  "tip": "Hem sıfat hem fiildir; zarf hâli correctly'dir.",
+  "note": ""
+ },
+ {
+  "id": "animal",
+  "senses": [
+   "hayvan",
+   "hayvansal; hayvanlara ait"
+  ],
+  "ex": [
+   "Kız kardeşim yerel çiftlikte hayvanları izlemeye bayılır.",
+   "Hayvanların yaşam alanlarını korumak şarttır, çünkü biyolojik çeşitlilik ekosistemleri dengede tutar ve insan refahına katkı sağlar."
+  ],
+  "col": [
+   "yaban hayvanı",
+   "hayvan refahı",
+   "hayvan davranışı",
+   "hayvanların yaşam alanı"
+  ],
+  "tip": "animal sadece memelileri değil, kuşları, balıkları ve böcekleri de kapsar.",
+  "note": ""
+ },
+ {
+  "id": "thirsty",
+  "senses": [
+   "susamış",
+   "-e susamış; hevesli"
+  ],
+  "ex": [
+   "Güneşte eve yürüdükten sonra susadım.",
+   "Bilgiye aç çocuklar, soru sormayı ve bağımsız keşfi teşvik eden derslerden çok fayda görür."
+  ],
+  "col": [
+   "susamak",
+   "bilgiye aç",
+   "birini susatmak"
+  ],
+  "tip": "\"Bir şeye susamış olmak\" thirsty for'dur, thirsty of değil. \"Susadım\" için I'm thirsty denir.",
+  "note": ""
+ },
+ {
+  "id": "pen",
+  "senses": [
+   "kalem; dolma kalem",
+   "ağıl; çit",
+   "kaleme almak; yazmak"
+  ],
+  "ex": [
+   "Bu form için bana bir kalem ödünç verebilir misin?",
+   "Bazı öğrenciler kalem kullanmayı tercih eder, çünkü elle yazmak fikirlerini düzenlemelerine yardımcı olur."
+  ],
+  "col": [
+   "tükenmez kalem",
+   "dolma kalem",
+   "koyun ağılı",
+   "bir mektup kaleme almak"
+  ],
+  "tip": "pen mürekkepli kalemdir; kurşun kalem pencil'dır.",
+  "note": ""
+ },
+ {
+  "id": "leave",
+  "senses": [
+   "ayrılmak; çıkmak",
+   "bırakmak; unutmak",
+   "izin (iş)"
+  ],
+  "ex": [
+   "Trafik kötüleşmeden yola çıkmamız lazım.",
+   "Ücretli ebeveyn izni, yeni anne babaların hemen işe dönmeden çocuklarına bakabilmesini sağlar."
+  ],
+  "col": [
+   "evden ayrılmak",
+   "mesaj bırakmak",
+   "-e doğru yola çıkmak",
+   "yıllık izin"
+  ],
+  "tip": "Geçmiş zaman ve üçüncü hâli left'tir. leave for \"bir yere doğru yola çıkmak\" demektir: leave for Paris.",
+  "note": ""
+ },
+ {
+  "id": "window",
+  "senses": [
+   "pencere",
+   "pencere (bilgisayar)",
+   "kısa fırsat; zaman aralığı"
+  ],
+  "ex": [
+   "Lütfen pencereyi aç da biraz temiz hava girsin.",
+   "Daha büyük pencereler takmak, gün ışığında evlerde yapay aydınlatma ihtiyacını azaltabilir."
+  ],
+  "col": [
+   "pencere açmak",
+   "pencere çerçevesi",
+   "tarayıcı penceresi",
+   "fırsat penceresi"
+  ],
+  "tip": "a window of opportunity \"kısa süreli bir fırsat\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "ride",
+  "senses": [
+   "binmek; sürmek (bisiklet, at)",
+   "yolculuk; gezinti"
+  ],
+  "ex": [
+   "Her hafta sonu bisikletlerimizle göle gideriz.",
+   "Daha güvenli bisiklet yolları, şehir içi kısa yolculuklarda daha fazla kişiyi araba yerine bisiklete binmeye teşvik edebilir."
+  ],
+  "col": [
+   "bisiklete binmek",
+   "ata binmek",
+   "gezintiye çıkmak",
+   "birini arabayla bırakmak"
+  ],
+  "tip": "Düzensiz fiildir: ride – rode – ridden.",
+  "note": ""
+ },
+ {
+  "id": "leg",
+  "senses": [
+   "bacak",
+   "ayak (masa, sandalye)",
+   "etap; bölüm (yolculuk)"
+  ],
+  "ex": [
+   "Eve uzun yürüyüşten sonra bacaklarım yorulmuştu.",
+   "Düzenli yürüyüş bacak kaslarımızı güçlendirir ve pahalı ekipman gerektirmeden sağlığımızı iyileştirebilir."
+  ],
+  "col": [
+   "biraz yürüyüp açılmak",
+   "masa ayağı",
+   "yolculuğun son etabı"
+  ],
+  "tip": "Türkçede masanın \"ayağı\" denir, İngilizcede leg kullanılır: a table leg.",
+  "note": ""
+ },
+ {
+  "id": "tomato",
+  "senses": [
+   "domates"
+  ],
+  "ex": [
+   "Peynirli sandviçi için olgun bir domates dilimledi.",
+   "Mahalle bahçelerinde domates yetiştirmek, şehirlerde taze gıdaya erişimi artırabilir."
+  ],
+  "col": [
+   "olgun domates",
+   "domates sosu",
+   "çeri domates"
+  ],
+  "tip": "Çoğulu tomatoes'tur. İngiliz telaffuzu /təˈmɑːtəʊ/, Amerikan /təˈmeɪtoʊ/.",
+  "note": ""
+ },
+ {
+  "id": "try",
+  "senses": [
+   "denemek; çalışmak (yapmaya)",
+   "denemek; tecrübe etmek",
+   "deneme"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce lambayı tamir etmeye çalışacağım.",
+   "Okullar farklı yeteneklere sahip öğrencilerin ihtiyaçlarını karşılamak için farklı öğretim yöntemleri denemeli."
+  ],
+  "col": [
+   "bir şeyi yapmaya çalışmak",
+   "bir şeyi yapmayı denemek",
+   "bir denemek",
+   "kıyafet denemek"
+  ],
+  "tip": "try to do \"yapmaya çalışmak (zor)\", try doing \"yapmayı denemek (işe yarar mı diye)\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "restaurant",
+  "senses": [
+   "restoran; lokanta"
+  ],
+  "ex": [
+   "Nehir kenarında sakin bir restoran bulduk.",
+   "Yerel restoranlar, yakındaki çiftliklerden gelen malzemelerle yapılmış geleneksel yemekler sunarak turist çekebilir."
+  ],
+  "col": [
+   "restoranda masa ayırtmak",
+   "restoran işletmek",
+   "balık restoranı"
+  ],
+  "tip": "restaurant yemek yenen yer, hotel konaklanan yerdir.",
+  "note": ""
+ },
+ {
+  "id": "bus",
+  "senses": [
+   "otobüs",
+   "otobüsle taşımak"
+  ],
+  "ex": [
+   "Konserden sonra eve giden son otobüse yetiştik.",
+   "Daha sık otobüs seferleri trafik sıkışıklığını azaltabilir ve dış mahallelerde işe ulaşımı kolaylaştırabilir."
+  ],
+  "col": [
+   "otobüse yetişmek",
+   "otobüs durağı",
+   "otobüs güzergâhı",
+   "otobüsle"
+  ],
+  "tip": "by bus artikel almaz; take a bus ise artikel alır.",
+  "note": ""
+ },
+ {
+  "id": "father",
+  "senses": [
+   "baba",
+   "kurucu; babası",
+   "baba olmak"
+  ],
+  "ex": [
+   "Bisiklete binmeyi ona babası öğretti.",
+   "Esnek çalışma düzenleri, babaların çocuklarının yetiştirilmesinde daha etkin rol almasını sağlayabilir."
+  ],
+  "col": [
+   "bekâr baba",
+   "baba figürü",
+   "biyolojik baba",
+   "modern tıbbın babası"
+  ],
+  "tip": "father daha resmîdir, dad daha samimidir. Babalar Günü Father's Day'dir.",
+  "note": ""
+ },
+ {
+  "id": "foot",
+  "senses": [
+   "ayak",
+   "fit (uzunluk ölçüsü, 30,48 cm)",
+   "dip; etek"
+  ],
+  "ex": [
+   "Ayakkabımdaki ufacık bir taş ayağımı acıttı.",
+   "Temel hizmetlere yürüyerek ulaşılabilmesi fiziksel aktiviteyi teşvik eder ve özel araca bağımlılığı azaltır."
+  ],
+  "col": [
+   "yürüyerek",
+   "-in dibinde; eteğinde",
+   "bir yere ayak basmak",
+   "hesabı ödemek"
+  ],
+  "tip": "Hem \"ayak\" hem \"fit\" anlamında çoğulu feet'tir. \"Yürüyerek\" on foot'tur, by foot değil.",
+  "note": ""
+ },
+ {
+  "id": "airplane",
+  "senses": [
+   "uçak"
+  ],
+  "ex": [
+   "Uçağın beyaz bir bulutun arkasında kayboluşunu izledik.",
+   "Uçak yolculuğu uzak toplulukları temel hizmetlere bağlar, ancak karbon salımına da katkıda bulunur."
+  ],
+  "col": [
+   "uçağa binmek",
+   "uçak kullanmak",
+   "yolcu uçağı"
+  ],
+  "tip": "airplane Amerikan İngilizcesidir; İngiliz İngilizcesinde aeroplane, konuşmada kısaca plane denir.",
+  "note": ""
+ },
+ {
+  "id": "french",
+  "senses": [
+   "Fransız; Fransızcaya ait",
+   "Fransızca",
+   "Fransızlar"
+  ],
+  "ex": [
+   "Küçük bir Fransız fırınından taze ekmek aldık.",
+   "Fransızca öğrenmek, bu dilin iş hayatında yaygın kullanıldığı bölgelerde iş olanaklarını artırabilir."
+  ],
+  "col": [
+   "Fransız mutfağı",
+   "Fransızca konuşmak",
+   "Fransız edebiyatı",
+   "Fransızlar"
+  ],
+  "tip": "Her zaman büyük harfle yazılır; the French \"Fransızlar (genel olarak)\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "him",
+  "senses": [
+   "onu; ona (erkek için)"
+  ],
+  "ex": [
+   "Ağabeyim öğle yemeğini unutmuş, ben de ona götürdüm.",
+   "Bir öğrenci okumada zorlandığında öğretmenler onu düzenli pratik ve yapıcı geri bildirimle destekleyebilir."
+  ],
+  "col": [
+   "ona yardım etmek",
+   "onunla",
+   "ona bir şans vermek"
+  ],
+  "tip": "he öznedir, him nesne ya da edattan sonra gelir: I saw him, with him.",
+  "note": ""
+ },
+ {
+  "id": "p-m",
+  "senses": [
+   "öğleden sonra; akşam (öğlen 12 – gece yarısı)"
+  ],
+  "ex": [
+   "Yüzme havuzu bugün akşam sekizde kapanıyor.",
+   "Halk kütüphanelerini akşam dokuza kadar açık tutmak daha fazla çalışan yetişkinin eğitim kaynaklarına erişmesini sağlar."
+  ],
+  "col": [
+   "öğleden sonra saat üçte",
+   "akşam ona kadar"
+  ],
+  "tip": "Saatten sonra gelir: 3 p.m. = 15.00. 12 p.m. öğlen, 12 a.m. gece yarısıdır.",
+  "note": ""
+ },
+ {
+  "id": "beginning",
+  "senses": [
+   "başlangıç; baş"
+  ],
+  "ex": [
+   "Dün filmin başını kaçırdık.",
+   "Örgün eğitimin başlangıcı, çocuğun sosyal gelişiminde önemli bir aşamadır."
+  ],
+  "col": [
+   "-in başında",
+   "baştan sona",
+   "yeni bir başlangıç"
+  ],
+  "tip": "at the beginning of + isim \"…in başında\", in the beginning \"başlangıçta, ilk başta\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "dirty",
+  "senses": [
+   "kirli; pis",
+   "kirli; haince",
+   "kirletmek; kirlenmek"
+  ],
+  "ex": [
+   "Lütfen kirli botlarını mutfak kapısının dışında bırak.",
+   "Temiz suya sınırlı erişim, birçok topluluğu hastalık yayabilen kirli kaynaklara mahkûm ediyor."
+  ],
+  "col": [
+   "kirli çamaşırlar",
+   "kirli su",
+   "kirlenmek",
+   "kirli oyunlar"
+  ],
+  "tip": "Karşılaştırma hâli dirtier, en üstünlük hâli dirtiest'tir.",
+  "note": ""
+ },
+ {
+  "id": "grammar",
+  "senses": [
+   "dil bilgisi; gramer"
+  ],
+  "ex": [
+   "Öğretmenimiz dil bilgisini günlük konuşmalardan örneklerle anlatıyor.",
+   "Dil bilgisi öğretimi önemli olsa da dil kursları öğrencilere gerçekçi durumlarda iletişim kurma fırsatı da vermeli."
+  ],
+  "col": [
+   "dil bilgisi kuralları",
+   "İngilizce dil bilgisi",
+   "doğru dil bilgisi",
+   "dil bilgisi alıştırması"
+  ],
+  "tip": "Sayılamaz; \"bir dil bilgisi hatası\" a grammar mistake'tir. Yazımı -ar ile biter: grammer değil.",
+  "note": ""
+ },
+ {
+  "id": "that",
+  "senses": [
+   "şu; o",
+   "o; ki (ilgi zamiri)",
+   "ki; -dığını (bağlaç)"
+  ],
+  "ex": [
+   "Pencerenin yanındaki şu kâseyi bana uzatır mısın?",
+   "Araştırmalar, yeşil alanlara erişimin şehirlerde yaşayanların ruh sağlığını iyileştirebileceğini gösteriyor."
+  ],
+  "col": [
+   "o zamanlar",
+   "o tür",
+   "madem ki; artık",
+   "-sın diye; böylece"
+  ],
+  "tip": "İşaret sıfatı olarak çoğulu those'dur. Bağlaç olarak çoğu zaman atılabilir: I think (that) he's right.",
+  "note": ""
+ },
+ {
+  "id": "ticket",
+  "senses": [
+   "bilet",
+   "trafik cezası",
+   "ceza kesmek"
+  ],
+  "ex": [
+   "İstasyondaki makineden gidiş-dönüş bilet aldım.",
+   "Daha düşük bilet fiyatları, daha fazla kişiyi işe arabayla gitmek yerine treni seçmeye teşvik edebilir."
+  ],
+  "col": [
+   "gidiş-dönüş bileti",
+   "tek yön bilet",
+   "park cezası",
+   "bilet ayırtmak"
+  ],
+  "tip": "İngiliz İngilizcesinde single ticket tek yön, return ticket gidiş-dönüş bilettir.",
+  "note": ""
+ },
+ {
+  "id": "third",
+  "senses": [
+   "üçüncü",
+   "üçte bir"
+  ],
+  "ex": [
+   "Dairemiz üçüncü katta, asansörün yanında.",
+   "Şehir sakinlerinin yaklaşık üçte biri işe gidip gelmek için toplu taşımaya bağımlı."
+  ],
+  "col": [
+   "üçüncülük",
+   "üçüncü kat",
+   "-in üçte biri",
+   "üçüncü taraf"
+  ],
+  "tip": "Kesirlerde: one third (1/3), two thirds (2/3).",
+  "note": ""
+ },
+ {
+  "id": "maths",
+  "senses": [
+   "matematik"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra renkli bloklarla matematik çalıştık.",
+   "Güçlü matematik becerileri, öğrencilerin finansal bilgileri yorumlamasına ve günlük hayatta bilinçli kararlar vermesine yardımcı olur."
+  ],
+  "col": [
+   "matematik öğretmeni",
+   "matematik dersi",
+   "matematik becerileri",
+   "matematikte iyi"
+  ],
+  "tip": "İngiliz İngilizcesinde maths, Amerikan İngilizcesinde math denir; -s ile bitse de tekil fiil alır: Maths is…",
+  "note": ""
+ },
+ {
+  "id": "second",
+  "senses": [
+   "ikinci",
+   "saniye; an",
+   "(bir öneriyi) desteklemek"
+  ],
+  "ex": [
+   "Bu bugün içtiğim ikinci fincan çay.",
+   "İkinci bir dil öğrenmek kariyer fırsatlarını genişletebilir ve öğrencilerin başka kültürlerin bakış açılarını anlamasına yardımcı olur."
+  ],
+  "col": [
+   "ikincilik",
+   "ikinci şans",
+   "göz açıp kapayıncaya kadar",
+   "bir önergeyi desteklemek"
+  ],
+  "tip": "the second \"ikinci\", a second \"bir tane daha\" ya da \"bir saniye\" anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "floor",
+  "senses": [
+   "yer; zemin",
+   "kat",
+   "dip; taban (deniz, vadi)"
+  ],
+  "ex": [
+   "Anahtarlarım yine mutfağın yerine düştü.",
+   "Kullanılmayan üst katları daireye dönüştürmek, şehirlerin dışa doğru büyümeden konut sorununu çözmesine yardımcı olabilir."
+  ],
+  "col": [
+   "ahşap zemin; parke",
+   "zemin kat",
+   "en üst kat",
+   "okyanus tabanı"
+  ],
+  "tip": "İngiliz İngilizcesinde first floor \"birinci kat\", Amerikan İngilizcesinde \"zemin kat\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "farm",
+  "senses": [
+   "çiftlik",
+   "çiftçilik yapmak; tarım yapmak"
+  ],
+  "ex": [
+   "Yakındaki bir çiftlikten taze yumurta aldık.",
+   "Küçük çiftlikler, kırsal kesimde iş imkânı yaratırken yerel gıda arzını da destekleyebilir."
+  ],
+  "col": [
+   "süt çiftliği",
+   "çiftlikte çalışmak",
+   "çiftlik hayvanları",
+   "toprağı işlemek"
+  ],
+  "tip": "\"Çiftlikte\" genellikle on a farm diye söylenir, in a farm değil.",
+  "note": ""
+ },
+ {
+  "id": "low",
+  "senses": [
+   "alçak; düşük; az",
+   "moralsiz; keyifsiz",
+   "alçaktan; alçak sesle"
+  ],
+  "ex": [
+   "Alçak raf çocukların kolayca uzanabileceği yükseklikte.",
+   "Düşük ücretler, temel hizmet çalışanlarının iş yerlerine yakın uygun fiyatlı konut bulmasını engelleyebilir."
+  ],
+  "col": [
+   "düşük gelir",
+   "düşük sıcaklıklar",
+   "morali bozuk olmak",
+   "-i azalmak; tükenmek üzere olmak"
+  ],
+  "tip": "Fiyat için low, ürün için cheap kullanılır: low prices, cheap shoes.",
+  "note": ""
+ },
+ {
+  "id": "painting",
+  "senses": [
+   "tablo; resim",
+   "resim yapma",
+   "boyama; boya badana"
+  ],
+  "ex": [
+   "Kanepenin üstüne renkli bir tablo astık.",
+   "Kamuya açık galeriler önemli tabloları geliri ya da eğitim düzeyi ne olursa olsun herkes için erişilebilir kılar."
+  ],
+  "col": [
+   "yağlı boya tablo",
+   "manzara resmi",
+   "soyut resim",
+   "ev boyama"
+  ],
+  "tip": "Bir tablo anlamında sayılabilir; resim yapma etkinliği olarak sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "map",
+  "senses": [
+   "harita",
+   "haritasını çıkarmak"
+  ],
+  "ex": [
+   "Çıkmadan önce haritayı masanın üstüne yaydık.",
+   "Araştırmacılar orman örtüsündeki değişimlerin haritasını çıkarmak ve acil korunması gereken alanları belirlemek için uydu görüntülerini kullanıyor."
+  ],
+  "col": [
+   "harita okumak",
+   "şehir haritası",
+   "bir güzergâh planlamak",
+   "değişimlerin haritasını çıkarmak"
+  ],
+  "tip": "Fiil olarak p iki katına çıkar: mapped, mapping.",
+  "note": ""
+ },
+ {
+  "id": "move",
+  "senses": [
+   "hareket etmek; taşınmak",
+   "duygulandırmak",
+   "adım; hamle"
+  ],
+  "ex": [
+   "Bu sandalyeyi pencereye biraz daha yaklaştırabilir misin?",
+   "Toplu taşımayı genişletme kararı, şehirdeki trafik sıkışıklığını azaltma yönünde olumlu bir adım."
+  ],
+  "col": [
+   "taşınmak (ev)",
+   "ilerlemek",
+   "çok duygulanmak",
+   "olumlu bir adım"
+  ],
+  "tip": "moving \"duygulandırıcı\", moved \"duygulanmış\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "send",
+  "senses": [
+   "göndermek; yollamak",
+   "göndermek (birini bir yere)"
+  ],
+  "ex": [
+   "Lütfen bana yeni köpek yavrunun bir fotoğrafını gönder.",
+   "Hükümetler, temel sağlık hizmetine erişimi olmayan ücra topluluklara sağlık ekipleri göndermeli."
+  ],
+  "col": [
+   "mesaj göndermek",
+   "koli göndermek",
+   "birini bir şey yapmaya göndermek"
+  ],
+  "tip": "Geçmiş zaman ve üçüncü hâli sent'tir. send something to someone ya da send someone something şeklinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sixty",
+  "senses": [
+   "altmış"
+  ],
+  "ex": [
+   "Dedem altmış yaşına girdi ve bunu bir piknikle kutladı.",
+   "Anket, katılımcıların yüzde altmışının ek otopark yerine güvenilir otobüsleri tercih ettiğini ortaya koydu."
+  ],
+  "col": [
+   "yüzde altmış",
+   "altmış yaşında",
+   "altmışlı yaşlarda"
+  ],
+  "tip": "sixty'de vurgu ilk hecede, sixteen'de genellikle son hecededir; telaffuzla karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "list",
+  "senses": [
+   "liste",
+   "listelemek; sıralamak"
+  ],
+  "ex": [
+   "Evden çıkmadan önce bir alışveriş listesi yaptım.",
+   "Rapor, şehirlerin trafik sıkışıklığını azaltmak için uygulayabileceği birkaç pratik önlemi sıralıyor."
+  ],
+  "col": [
+   "liste yapmak",
+   "alışveriş listesi",
+   "bekleme listesi"
+  ],
+  "tip": "\"Listede\" on the list'tir, in the list değil.",
+  "note": ""
+ },
+ {
+  "id": "meet",
+  "senses": [
+   "buluşmak; karşılaşmak; tanışmak",
+   "karşılamak (ihtiyaç, şart)"
+  ],
+  "ex": [
+   "Bugün öğle yemeğinden sonra kütüphanenin önünde buluşalım.",
+   "Toplu taşıma hizmetleri, özel araba alamayan sakinlerin ihtiyaçlarını karşılamalı."
+  ],
+  "col": [
+   "biriyle ilk kez tanışmak",
+   "şartları karşılamak",
+   "son teslim tarihine yetiştirmek",
+   "talebi karşılamak"
+  ],
+  "tip": "Geçmiş zaman ve üçüncü hâli met'tir. meet requirements \"şartları karşılamak\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "stay",
+  "senses": [
+   "kalmak; konaklamak",
+   "(bir durumda) kalmak",
+   "kalış; konaklama"
+  ],
+  "ex": [
+   "Gölün kenarında küçük bir otelde kaldık.",
+   "Kırsal bölgelerde daha uzun kalan turistler, kısa süreli ziyaretçilere göre yerel işletmelere daha çok katkı sağlayabilir."
+  ],
+  "col": [
+   "otelde kalmak",
+   "sağlıklı kalmak",
+   "iletişimi sürdürmek",
+   "kısa bir konaklama"
+  ],
+  "tip": "stay'den sonra doğrudan sıfat gelebilir: stay calm \"sakin kal\".",
+  "note": ""
+ },
+ {
+  "id": "food",
+  "senses": [
+   "yiyecek; yemek; gıda"
+  ],
+  "ex": [
+   "Göl kenarında piknik için yeterince yiyecek hazırladık.",
+   "Evde gıda israfını azaltmak para tasarrufu sağlar ve tüketimin çevreye etkisini düşürür."
+  ],
+  "col": [
+   "taze gıda",
+   "gıda israfı",
+   "gıda güvenliği",
+   "işlenmiş gıda"
+  ],
+  "tip": "Genel anlamda sayılamaz; foods farklı yiyecek türlerini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "music",
+  "senses": [
+   "müzik",
+   "nota"
+  ],
+  "ex": [
+   "Biz yemek pişirirken mutfakta hafif bir müzik çalıyordu.",
+   "Okulda müzik öğrenmek çocukların yaratıcılığını geliştirir ve grup performanslarıyla iş birliği fırsatı sunar."
+  ],
+  "col": [
+   "müzik dinlemek",
+   "canlı müzik",
+   "klasik müzik",
+   "bir müzik parçası"
+  ],
+  "tip": "music sayılamaz; \"bir parça müzik\" a piece of music'tir.",
+  "note": ""
+ },
+ {
+  "id": "fridge",
+  "senses": [
+   "buzdolabı"
+  ],
+  "ex": [
+   "Sütü buzdolabına geri koy lütfen.",
+   "Enerji verimli bir buzdolabı seçmek evdeki elektrik tüketimini azaltır ve zamanla masrafları düşürür."
+  ],
+  "col": [
+   "buzdolabında",
+   "buzdolabı kapağı",
+   "derin dondurucu bölmeli buzdolabı"
+  ],
+  "tip": "fridge, refrigerator'ın günlük dildeki kısa hâlidir.",
+  "note": ""
+ },
+ {
+  "id": "website",
+  "senses": [
+   "web sitesi; internet sitesi"
+  ],
+  "ex": [
+   "Müzenin açılış saatlerini web sitesinde buldum.",
+   "İyi tasarlanmış bir devlet web sitesi, kamu hizmetlerini ücra bölgelerdeki insanlar için daha erişilebilir hâle getirebilir."
+  ],
+  "col": [
+   "bir web sitesini ziyaret etmek",
+   "resmî web sitesi",
+   "web sitesi tasarımı",
+   "web sitesi yayına almak"
+  ],
+  "tip": "\"Sitede\" on a website'tır; webpage tek bir sayfa demektir.",
+  "note": ""
+ },
+ {
+  "id": "china",
+  "senses": [
+   "Çin"
+  ],
+  "ex": [
+   "Kuzenim Çin'den güzel dağ fotoğraflarıyla döndü.",
+   "Çin'de hızlı tren ağının genişlemesi, ulaşım yatırımlarının büyük şehirler arasındaki bağlantıları nasıl güçlendirebileceğini gösteriyor."
+  ],
+  "col": [
+   "Çin anakarası",
+   "Çin'i ziyaret etmek",
+   "Çin malı"
+  ],
+  "tip": "China \"Çin\"dir; küçük harfle china \"porselen\" demektir. Sıfat hâli Chinese'dir.",
+  "note": ""
+ },
+ {
+  "id": "telephone",
+  "senses": [
+   "telefon",
+   "telefon etmek; aramak"
+  ],
+  "ex": [
+   "Kapıyı açtığım anda telefon çaldı.",
+   "Telefonla muayene, sağlık merkezlerinden uzakta yaşayan kırsal kesim sakinlerinin sağlık hizmetine erişimini kolaylaştırabilir."
+  ],
+  "col": [
+   "telefon görüşmesi",
+   "telefon numarası",
+   "telefonla",
+   "telefona bakmak"
+  ],
+  "tip": "Günlük dilde genellikle kısaca phone denir.",
+  "note": ""
+ },
+ {
+  "id": "question",
+  "senses": [
+   "soru",
+   "mesele; konu",
+   "sorgulamak; sorguya çekmek"
+  ],
+  "ex": [
+   "Öğretmene soru sormak için elimi kaldırdım.",
+   "Araştırmacılar, daha uzun çalışma saatlerinin modern ofislerde verimliliği gerçekten artırıp artırmadığını giderek daha çok sorguluyor."
+  ],
+  "col": [
+   "soru sormak",
+   "soruya cevap vermek",
+   "bir soruyu gündeme getirmek",
+   "bir varsayımı sorgulamak"
+  ],
+  "tip": "Fiil olarak doğrudan kişiyi nesne alabilir: The police questioned him \"Polis onu sorguladı\".",
+  "note": ""
+ },
+ {
+  "id": "village",
+  "senses": [
+   "köy",
+   "köylüler; köy halkı"
+  ],
+  "ex": [
+   "Köyümüzde eski köprünün yanında bir fırın var.",
+   "Güvenilir toplu taşıma, köy sakinlerinin yakındaki kasabalarda işe, eğitime ve sağlık hizmetine ulaşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "ücra bir köy",
+   "balıkçı köyü",
+   "köy hayatı",
+   "köy sakinleri"
+  ],
+  "tip": "the whole village \"bütün köy halkı\" anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "news",
+  "senses": [
+   "haber",
+   "haberler (yayın)"
+  ],
+  "ex": [
+   "İyi haberi paylaşmak için kız kardeşini aradı.",
+   "İnsanlar sağlıkla ilgili haberleri sosyal medyada paylaşmadan önce birkaç güvenilir kaynaktan kontrol etmeli."
+  ],
+  "col": [
+   "iyi haber",
+   "son dakika haberi",
+   "haberleri izlemek",
+   "bir haber"
+  ],
+  "tip": "news -s ile bitse de sayılamaz ve tekil fiil alır: The news is good. \"Bir haber\" a piece of news'tir.",
+  "note": ""
+ },
+ {
+  "id": "word",
+  "senses": [
+   "kelime; sözcük",
+   "söz; vaat",
+   "ifade etmek; kelimelere dökmek"
+  ],
+  "ex": [
+   "Bilmediğim kelimeye sözlükte baktım.",
+   "Öğrenciler yeni kelimelerle anlamlı bağlamlarda tekrar tekrar karşılaştıklarında onları daha iyi hatırlar."
+  ],
+  "col": [
+   "sözünü tutmak",
+   "başka bir deyişle",
+   "kelime seçimi",
+   "bir soruyu dikkatle ifade etmek"
+  ],
+  "tip": "keep your word \"sözünü tutmak\" demektir; burada word tekildir.",
+  "note": ""
+ },
+ {
+  "id": "dark",
+  "senses": [
+   "karanlık",
+   "koyu (renk)",
+   "karanlık"
+  ],
+  "ex": [
+   "Koridor, ayakkabılarımı bulamayacağım kadar karanlıktı.",
+   "Az aydınlatılmış sokaklar karanlık ve güvensiz görünebilir, bu da insanları gün batımından sonra yürümekten caydırır."
+  ],
+  "col": [
+   "hava kararmak",
+   "lacivert; koyu mavi",
+   "karanlıkta; habersiz",
+   "hava karardıktan sonra"
+  ],
+  "tip": "dark hem ışık hem renk için kullanılır. in the dark \"habersiz olmak\" anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "see",
+  "senses": [
+   "görmek",
+   "anlamak",
+   "görüşmek; ziyaret etmek"
+  ],
+  "ex": [
+   "Ağaçların üstünde bir gökkuşağı görebiliyorum.",
+   "Öğrenciler bilimin günlük hayatta nasıl uygulandığını gördüklerinde öğrenmeye çoğu zaman daha çok ilgi duyar."
+  ],
+  "col": [
+   "doktora gitmek",
+   "farkı görmek",
+   "birinin ne demek istediğini anlamak"
+  ],
+  "tip": "Düzensiz fiildir: see – saw – seen. Bir şeyi görmeyi anlatır, izlemeyi değil (izlemek: watch).",
+  "note": ""
+ },
+ {
+  "id": "potato",
+  "senses": [
+   "patates"
+  ],
+  "ex": [
+   "Bir patates fırınlayıp içini peynirle doldurdum.",
+   "Patates tarımı, dünya genelinde birçok kırsal topluluk için önemli bir gıda ve gelir kaynağıdır."
+  ],
+  "col": [
+   "fırın patates",
+   "patates püresi",
+   "patates soymak"
+  ],
+  "tip": "Çoğulu potatoes'tur; sonuna -es eklenir.",
+  "note": ""
+ }
+]
