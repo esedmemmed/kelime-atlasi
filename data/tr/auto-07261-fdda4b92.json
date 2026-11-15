@@ -2,7 +2,7 @@
  {
   "id": "countermand",
   "senses": [
-   "geri çağırmak; iptal etmek"
+   "iptal etmek; geçersiz kılmak"
   ],
   "ex": [
    "Müdür, dükkânı kapatma emrini iptal etti.",
@@ -22,11 +22,11 @@
    "ters tepen; istenmeyen"
   ],
   "ex": [
-   "Her öneriye karşı çıkmaktan garip bir zevk alıyordu.",
+   "Her öneriye karşı çıkmaktan ters bir keyif alıyordu.",
    "Kötü tasarlanmış sübvansiyonlar, şirketleri temiz üretime yatırım yapmak yerine kirliliği artırmaya teşvik eden ters teşviklere yol açabilir."
   ],
   "col": [
-   "garip bir zevk",
+   "ters bir keyif",
    "ters teşvikler",
    "ters etki"
   ],
@@ -88,7 +88,7 @@
  {
   "id": "coinage",
   "senses": [
-   "yeni türetilen söz; türetme",
+   "yeni sözcük; türetme",
    "madeni para; sikke"
   ],
   "ex": [
@@ -98,7 +98,7 @@
   "col": [
    "yakın zamanda türetilmiş bir sözcük",
    "yeni sözcük türetme",
-   "ondalık sikke sistemi"
+   "ondalık para sistemi"
   ],
   "tip": "Yeni bir sözcük için sayılabilir (a coinage), sözcük türetme süreci veya para anlamında sayılamaz kullanılır.",
   "note": ""
@@ -110,7 +110,7 @@
   ],
   "ex": [
    "Yağmur suyu eski döşeme taşlarının aralarında birikmişti.",
-   "Kamusal yollarda yerel malzemeden yapılmış döşeme taşları kullanmak, bölgesel karakteri korurken taşıma emisyonlarını azaltabilir."
+   "Kamusal yollarda yerel kaynaklı döşeme taşları kullanmak, bölgesel karakteri korurken taşıma emisyonlarını azaltabilir."
   ],
   "col": [
    "taş döşemeli zemin",
@@ -182,7 +182,7 @@
   "col": [
    "hidrojen peroksit",
    "peroksit çözeltisi",
-   "peroksitle sarartılmış sarı saç"
+   "peroksitle açılmış sarı saç"
   ],
   "tip": "Gündelik dilde genellikle hidrojen peroksit anlamındadır. Fiil olarak saçı ağartmak demektir; 'peroxide blonde' sarı saç ifadesidir.",
   "note": ""
@@ -200,7 +200,7 @@
   "col": [
    "etkinliklere katılmak",
    "kutlamalara katılmak",
-   "ikramlardan yemek"
+   "ikramlardan almak"
   ],
   "tip": "Resmi bir sözcüktür. Etkinliğe katılmak için 'in', bir şey yemek veya içmek için 'of' kullanılır. Geçmiş zaman: partook.",
   "note": ""
@@ -251,7 +251,7 @@
    "Sağlıklı mercan resifleri deniz canlılarıyla dolup taşar, bu nedenle onların korunması okyanus biyoçeşitliliğini sürdürmek için şarttır."
   ],
   "col": [
-   "hayatla kaynamak",
+   "canlılarla dolup taşmak",
    "ziyaretçilerle dolup taşmak",
    "bardaktan boşanırcasına yağmak"
   ],

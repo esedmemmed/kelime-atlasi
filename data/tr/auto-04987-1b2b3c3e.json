@@ -22,7 +22,7 @@
    "titremek; titreştirmek"
   ],
   "ex": [
-   "Telefonum cebimdeki anahtarlara karşı titredi.",
+   "Telefonum cebimdeki anahtarlara değerek titreşti.",
    "Yoğun trafik, yakındaki binaların titremesine yol açabilir; bu da sakinlerin konforunu etkileyebilir ve eski yapılara zarar verebilir."
   ],
   "col": [
@@ -192,7 +192,7 @@
   "col": [
    "vat cinsinden güç",
    "on vatlık ampul",
-   "elli vat olarak derecelendirilmiş"
+   "elli vat gücünde"
   ],
   "tip": "Watt güç birimidir. Elektrik tüketimi ölçülürken kilowatt-hour (kWh) kullanılır. Sayıdan sonra çoğul watts olur.",
   "note": ""
@@ -201,7 +201,7 @@
   "id": "restricted",
   "senses": [
    "sınırlı; kısıtlı",
-   "yalnızca izinli kişilere açık"
+   "yetkililere özel"
   ],
   "ex": [
    "Yoğun sabah saatlerinde burada park etmek kısıtlıdır.",
@@ -209,7 +209,7 @@
   ],
   "col": [
    "sınırlı erişim",
-   "kısıtlı bölge",
+   "erişimi kısıtlı bölge",
    "kısıtlı hareket",
    "yalnızca üyelere özel"
   ],
@@ -256,7 +256,7 @@
  {
   "id": "robbery",
   "senses": [
-   "soygun; silahlı soygun"
+   "soygun; gasp"
   ],
   "ex": [
    "Dün yaşanan bir soygun yüzünden dükkân erken kapandı.",

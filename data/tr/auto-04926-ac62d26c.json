@@ -12,7 +12,7 @@
   "col": [
    "volkanik patlama",
    "volkanik kül",
-   "volkanik etkinlik",
+   "volkanik faaliyet",
    "volkanik kaya"
   ],
   "tip": "Genellikle sıfat olarak kullanılır. 'Volkanik kaya' gibi isimlerin önünde gelir; 'volcano' (volkan) ile karıştırmayın.",
@@ -47,7 +47,7 @@
   ],
   "col": [
    "klinik olarak obez",
-   "obez hale gelmek",
+   "obez olmak",
    "obez hastalar"
   ],
   "tip": "Tıbbi ve güçlü bir ifadedir; daha hafif olan 'overweight' (kilolu) ile karıştırmayın. İnsanlar hakkında konuşurken dikkatli olun.",
@@ -73,16 +73,16 @@
  {
   "id": "memo",
   "senses": [
-   "muhtıra; not"
+   "not; dahili yazı"
   ],
   "ex": [
-   "Müdürümüz yeni çalışma saatleriyle ilgili bir muhtıra gönderdi.",
-   "Açık ve anlaşılır bir iç muhtıra, çalışanların işyeri politikalarındaki değişiklikleri anlamasına ve gereksiz karışıklıktan kaçınmasına yardımcı olabilir."
+   "Müdürümüz yeni çalışma saatleriyle ilgili bir not gönderdi.",
+   "Açık ve anlaşılır bir dahili not, çalışanların işyeri politikalarındaki değişiklikleri anlamasına ve gereksiz karışıklıktan kaçınmasına yardımcı olabilir."
   ],
   "col": [
-   "muhtıra göndermek",
-   "iç muhtıra",
-   "bir konuda muhtıra"
+   "not göndermek",
+   "dahili not",
+   "bir konuda not"
   ],
   "tip": "Genellikle iş yerindeki kısa iç yazışmalar için kullanılır. Çoğulu 'memos' biçimindedir.",
   "note": ""
@@ -163,7 +163,7 @@
  {
   "id": "mass-media",
   "senses": [
-   "kitle iletişim; medya"
+   "kitle iletişim araçları"
   ],
   "ex": [
    "Büyükanne ve büyükbabam günlük haberleri için kitle iletişim araçlarına güvenirdi.",
@@ -171,7 +171,7 @@
   ],
   "col": [
    "kitle iletişim araçları",
-   "kitle iletişim kapsamı",
+   "medya kapsamı",
    "kitle iletişiminin etkisi"
   ],
   "tip": "Genellikle 'the mass media' biçiminde, belirli artikelle kullanılır. 'Mass medias' şeklinde çoğullaştırılmaz.",
@@ -182,7 +182,7 @@
   "senses": [
    "çip; entegre devre",
    "çentik; parça",
-   "parçasını kırmak"
+   "çentmek; kırmak"
   ],
   "ex": [
    "Tamirci dizüstü bilgisayarımın içindeki hasarlı çipi değiştirdi.",
@@ -192,7 +192,7 @@
    "bilgisayar çipi",
    "silikon çip",
    "bardakta bir çentik",
-   "dişini çentmek"
+   "dişini kırmak"
   ],
   "tip": "'Chips' İngiliz İngilizcesinde patates kızartması, Amerikan İngilizcesinde ise cips anlamına gelir.",
   "note": ""

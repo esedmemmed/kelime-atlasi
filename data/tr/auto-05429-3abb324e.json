@@ -19,16 +19,16 @@
  {
   "id": "inherent",
   "senses": [
-   "doğal; içsel"
+   "doğasında olan; içkin"
   ],
   "ex": [
    "Basit ev onarımları bile bazı doğal riskler içerir.",
    "Politika yapıcılar, ekonomik büyümenin toplumsal ilerleme ve refahın bir ölçüsü olarak taşıdığı içsel sınırlılıkları kabul etmelidir."
   ],
   "col": [
-   "doğal riskler",
+   "doğasında bulunan riskler",
    "içsel sınırlılıklar",
-   "...e özgü",
+   "...in doğasında olan",
    "içsel değer"
   ],
   "tip": "Genellikle inherent in kalıbıyla 'X'in doğasında olan' anlamında kullanılır. Sonradan kazanılan özellikler için kullanılmaz.",
@@ -62,8 +62,8 @@
   ],
   "col": [
    "sahil boyunca",
-   "kıyı bölgesi geliştirmesi",
-   "deniz kenarında restoran"
+   "kıyı bölgesinin geliştirilmesi",
+   "sahil restoranı"
   ],
   "tip": "Şehirlerde su kenarındaki bölgeyi anlatır; mutlaka plaj ya da açık deniz anlamına gelmez.",
   "note": ""
@@ -195,7 +195,7 @@
  {
   "id": "microcosm",
   "senses": [
-   "minyatür; küçük evren"
+   "minyatür; mikrokozmos"
   ],
   "ex": [
    "Yoğun mutfağımız, aile hayatının bir minyatürü.",
@@ -239,7 +239,7 @@
    "öğrenmeyi kolaylaştırmak",
    "erişimi kolaylaştırmak"
   ],
-  "tip": "Isim ya da -ing biçimiyle kullanılır. facilitate someone to do yapısı yanlıştır.",
+  "tip": "İsim ya da -ing biçimiyle kullanılır. facilitate someone to do yapısı yanlıştır.",
   "note": ""
  },
  {

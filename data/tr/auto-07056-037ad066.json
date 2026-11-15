@@ -89,16 +89,16 @@
   "id": "jeer",
   "senses": [
    "alay etmek; dalga geçmek",
-   "alaycı bağırış; hakaret"
+   "yuhalama; alay"
   ],
   "ex": [
-   "Oyuncu yine kaçırınca birkaç seyirci ona alay etti.",
-   "Seyirciler acemi oyunculara alay ettiğinde, topluluk sporuna katılımı caydıran bir ortam oluşur."
+   "Oyuncu yine kaçırınca birkaç seyirci onunla alay etti.",
+   "Seyirciler acemi oyuncularla alay ettiğinde, topluluk sporuna katılımı caydıran bir ortam oluşur."
   ],
   "col": [
-   "birine alay etmek",
-   "kalabalıktan gelen hakaretler",
-   "bir yağmur gibi hakaretler"
+   "biriyle alay etmek",
+   "kalabalıktan gelen yuhalamalar",
+   "bir yuhalama yağmuru"
   ],
   "tip": "Fiil genellikle jeer at someone biçiminde kullanılır; isim çoğunlukla çoğul hâlde görülür.",
   "note": ""
@@ -158,15 +158,15 @@
  {
   "id": "magnanimous",
   "senses": [
-   "cömert; affedici; yüce gönüllü"
+   "yüce gönüllü; affedici"
   ],
   "ex": [
    "Rakibine karşı yüce gönüllü davrandı ve onu içtenlikle tebrik etti.",
    "Eleştirilere gösterilen yüce gönüllü bir tavır, liderlerin güven kazanmasına ve yapıcı bir kamuoyu tartışmasına yardımcı olabilir."
   ],
   "col": [
-   "zaferde cömert davranmak",
-   "yüce gönüllü bir jest",
+   "zaferde yüce gönüllü olmak",
+   "yüce gönüllü bir davranış",
    "yüce gönüllü bir tepki"
   ],
   "tip": "Resmi bir kelimedir; genellikle rakibine ya da kendisine haksızlık etmiş kişiye karşı hoşgörülü davranmayı anlatır.",
@@ -192,7 +192,7 @@
  {
   "id": "ramify",
   "senses": [
-   "dallanmak; ayrılmak; dallara ayrılmak"
+   "dallanmak; çatallanmak"
   ],
   "ex": [
    "Ağacın kökleri eski bahçe duvarının altında dallanıp yayılıyor.",
@@ -242,16 +242,16 @@
  {
   "id": "disburse",
   "senses": [
-   "ödemek; dağıtmak; ayırmak"
+   "ödemek; dağıtmak"
   ],
   "ex": [
    "Hayır kurumu fonları önümüzdeki hafta başında ödeyecek.",
    "Hükümetler, toplulukların doğal afetlerden toparlanmasına yardımcı olmak için acil fonları hızlıca dağıtmalıdır."
   ],
   "col": [
-   "fon ödemek",
+   "fonları ödemek",
    "para ödemek",
-   "kredi ödemek"
+   "kredi kullandırmak"
   ],
   "tip": "Resmi bir kelimedir; genellikle funds ya da money gibi para nesneleriyle kullanılır.",
   "note": ""

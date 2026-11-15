@@ -2,7 +2,7 @@
  {
   "id": "snout",
   "senses": [
-   "hayvanın burnu; hortum"
+   "hayvan burnu"
   ],
   "ex": [
    "Domuz, ahşap çitin arasından burnunu zorla geçirdi.",
@@ -23,12 +23,12 @@
    "Holokost; toplu katliam"
   ],
   "ex": [
-   "Film, nükleer bir kıyımdan kaçmaya çalışan bir aileyi konu alıyor.",
+   "Film, nükleer bir yıkımdan kaçmaya çalışan bir aileyi konu alıyor.",
    "Öğrencilere Holokost'u öğretmek, önyargı, ayrımcılık ve insan hakları üzerine eleştirel düşünmeyi teşvik edebilir."
   ],
   "col": [
-   "nükleer kıyım",
-   "Holokost sağ kalanları",
+   "nükleer yıkım",
+   "Holokost'tan sağ kurtulanlar",
    "Holokost anması"
   ],
   "tip": "Nazi soykırımını ifade ederken the Holocaust biçiminde ve büyük harfle yazılır. Genel büyük yıkımlar için küçük harfli holocaust kullanılabilir.",
@@ -82,7 +82,7 @@
   "col": [
    "bir gelecek hayal etmek",
    "bir şey yapmayı hayal etmek",
-   "bir dünya tasavvur etmek"
+   "bir dünya hayal etmek"
   ],
   "tip": "Arkasından isim veya -ing almalı; to ile kullanılmaz: envision doing, envision to do değil.",
   "note": ""
@@ -180,7 +180,7 @@
   "id": "erosion",
   "senses": [
    "erozyon; aşınma",
-   "yavaş aşınma; kayıp"
+   "aşınma; zayıflama"
   ],
   "ex": [
    "Şiddetli yağmur, çamurlu nehir kıyısında erozyona yol açtı.",

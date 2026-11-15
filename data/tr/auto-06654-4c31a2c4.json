@@ -40,7 +40,7 @@
   "id": "precede",
   "senses": [
    "önce gelmek; önceden olmak",
-   "öne geçmek; önden gitmek"
+   "önden gitmek; önünde yürümek"
   ],
   "ex": [
    "Akşam yemeğinden önce kısa bir hoş geldin konuşması yapılacak.",
@@ -49,7 +49,7 @@
   "col": [
    "hemen öncesinde gelmek",
    "tanıtımdan önce gelmek",
-   "şeyden önce gelmek"
+   "bir şeyin ardından gelmek"
   ],
   "tip": "precede (önce gelmek) ile proceed (devam etmek, ilerlemek) karıştırılmamalı. Anlamı 'bir şeyden önce olmak' olduğu için genellikle bir nesne alır.",
   "note": ""
@@ -110,16 +110,16 @@
  {
   "id": "prairie",
   "senses": [
-   "bozkır; geniş çayır"
+   "preri; çayır"
   ],
   "ex": [
-   "Açık bozkırın üzerinde uzun otların dalgalandığını izledik.",
-   "Yerli bozkır habitatlarını korumak biyoçeşitliliği sürdürmeye yardımcı olur ve önemli miktarda karbon depolayan çayır ekosistemlerini destekler."
+   "Açık preride uzun otların dalgalandığını izledik.",
+   "Yerli preri yaşam alanlarını korumak biyoçeşitliliği sürdürmeye yardımcı olur ve önemli miktarda karbon depolayan çayır ekosistemlerini destekler."
   ],
   "col": [
-   "bozkır otu",
-   "yerli bozkır",
-   "bozkır koruması"
+   "preri otu",
+   "yerli preri",
+   "preri koruma"
   ],
   "tip": "Genellikle Kuzey Amerika'daki büyük bozkırları anlatır; genel olarak çayırlıklar için grassland kullanılır.",
   "note": ""
@@ -148,7 +148,7 @@
    "afyon"
   ],
   "ex": [
-   "Müze rehberi, afyon ticaretinin tarihi nasıl etkilediğini anlattı.",
+   "Müze rehberi, afyonun ticareti nasıl etkilediğini anlattı.",
    "Tarihi araştırmalar, afyon ticaretinin birkaç ülke için kalıcı ekonomik ve sosyal sonuçlar doğurduğunu gösteriyor."
   ],
   "col": [
@@ -169,7 +169,7 @@
    "Uygun yuvalama alanlarının yok olduğu bölgelerde, uçurum habitatlarını korumak doğan popülasyonlarının toparlanmasına yardımcı olabilir."
   ],
   "col": [
-   "şahin",
+   "gökdoğan",
    "doğan yuvası",
    "doğan popülasyonu"
   ],

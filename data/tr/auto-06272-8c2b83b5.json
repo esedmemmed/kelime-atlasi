@@ -6,7 +6,7 @@
    "aerodinamik performans"
   ],
   "ex": [
-   "Kağıt uçakları bahçede test ederek aerodinamiği inceledik.",
+   "Kâğıt uçakları bahçede test ederek aerodinamiği inceledik.",
    "Aerodinamikteki gelişmeler, uçak üreticilerinin yolcu kapasitesinden ödün vermeden yakıt tüketimini azaltmasına olanak tanıyor."
   ],
   "col": [
@@ -61,7 +61,7 @@
    "Daha güçlü tüketici koruma yasaları, dürüst olmayan işletmelerin savunmasız müşterileri dolandırmasını engelleyebilir."
   ],
   "col": [
-   "birinden para dolandırmak",
+   "birini parasından dolandırmak",
    "yatırımcıları dolandırmak",
    "dolandırıcılık komplosu"
   ],
@@ -83,7 +83,7 @@
    "personel devri",
    "yüksek devir oranı"
   ],
-  "tip": "Ciro kâr anlamına gelmez. Kâr için ayrı bir kavram olduğunu ve bağlama göre doğru anlamı seçmeyi unutmayın.",
+  "tip": "Ciro kâr değildir. Amerikan İngilizcesinde bu anlam için çoğunlukla revenue kullanılır.",
   "note": ""
  },
  {
@@ -143,12 +143,12 @@
  {
   "id": "wrench",
   "senses": [
-   "İngiliz anahtarı",
+   "somun anahtarı; İngiliz anahtarı",
    "sertçe çekmek; burkmak",
    "ayrılık acısı; ani burkma"
   ],
   "ex": [
-   "Gevşek cıvatayı bir İngiliz anahtarıyla sıktı.",
+   "Gevşek cıvatayı bir somun anahtarıyla sıktı.",
    "Yakın bir topluluktan ayrılmak, yurt dışında üniversiteye giden öğrenciler için gerçekten yürek yakan bir ayrılık olabilir."
   ],
   "col": [
@@ -163,7 +163,7 @@
  {
   "id": "affirm",
   "senses": [
-   "kesin olarak onaylamak"
+   "onaylamak; teyit etmek"
   ],
   "ex": [
    "Her iki ebeveyn de kızlarının kariyer seçimine desteklerini açıkça belirtti.",
@@ -235,19 +235,19 @@
  {
   "id": "captive",
   "senses": [
-   "esir tutulan; kafeste",
+   "esir tutulan; kafesteki",
    "esir; tutsak",
    "kaçamayan; çaresiz"
   ],
   "ex": [
-   "Esir kuş, kafesin içinde kanatlarını açtı.",
-   "Esir hayvanların üretimi koruma çalışmalarına destek olabilir; ancak doğal yaşam alanlarının korunması uzun vadeli yaşam için hâlâ şarttır."
+   "Kafesteki kuş, kafesin içinde kanatlarını açtı.",
+   "Esaret altındaki hayvanları üretmek koruma çalışmalarına destek olabilir; ancak doğal yaşam alanlarının korunması uzun vadeli yaşam için hâlâ şarttır."
   ],
   "col": [
    "birini esir tutmak",
-   "esir hayvanlar",
+   "esaret altındaki hayvanlar",
    "kaçamayan dinleyici kitlesi",
-   "esir üretimi"
+   "esaret altında üretim"
   ],
   "tip": "captive audience, zevkle dinleyen değil, kaçamayan dinleyici kitlesi anlamına gelir.",
   "note": ""

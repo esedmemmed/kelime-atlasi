@@ -258,11 +258,11 @@
   ],
   "ex": [
    "Hafif bir sapma, topu kalecinin yanından geçirdi.",
-   "Mühendisler, bir köprünün ağır trafiği güvenle taşıyıp taşıyamayacağını değerlendirmek için yapısal kirişlerin eğilmesini ölçer."
+   "Mühendisler, bir köprünün ağır trafiği güvenle taşıyıp taşıyamayacağını değerlendirmek için yapısal kirişlerin sehimini ölçer."
   ],
   "col": [
    "ışığın sapması",
-   "kiriş sapması",
+   "kiriş sehimi",
    "eleştiriyi savuşturma"
   ],
   "tip": "Fiziksel anlamda bir kuvvet nedeniyle yön değişimini anlatır. Mecazi kullanımda ise eleştiri ya da soruları başka yöne çekmek anlamına gelir.",

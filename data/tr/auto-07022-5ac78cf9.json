@@ -7,11 +7,11 @@
   ],
   "ex": [
    "Küçük kafe, her sandalyede yastık olmasıyla insana ev gibi bir his veriyordu.",
-   "Bakımevlerinde evsel bir ortam, yaşlıların kendilerini daha rahat ve güvende hissetmelerine yardımcı olabilir."
+   "Bakımevlerinde ev sıcaklığında bir ortam, yaşlıların kendilerini daha rahat ve güvende hissetmelerine yardımcı olabilir."
   ],
   "col": [
-   "evsel atmosfer",
-   "samimi çevre",
+   "samimi ortam",
+   "sıcak bir çevre",
    "çekici olmayan yüz"
   ],
   "tip": "İngiliz İngilizcesinde 'samimi, sıcak' anlamına gelir; Amerikan İngilizcesinde ise 'çekici olmayan' anlamına gelebilir. İnsanlar için kullanırken dikkatli olun.",
@@ -25,7 +25,7 @@
   ],
   "ex": [
    "Fotoğraf makinesinin ne kadar gelişmiş olduğu beni şaşırttı.",
-   "Tıbbi cihazların giderek gelişmesi, doktorların bazı hastalıkları daha erken aşamada tespit etmesine olanak tanıyor."
+   "Tıbbi cihazların giderek artan gelişmişliği, doktorların bazı hastalıkları daha erken aşamada tespit etmesine olanak tanıyor."
   ],
   "col": [
    "teknolojik gelişmişlik",
@@ -75,7 +75,7 @@
   ],
   "ex": [
    "Komşularımız nehir kenarına çöp atılmasını şiddetle kınıyor.",
-   "Birçok eğitimci, devlet okullarında müzik ve sanat derslerine erişimi kısıtlayan kesintileri eleştiriyor."
+   "Birçok eğitimci, devlet okullarında müzik ve sanat derslerine erişimi kısıtlayan kesintileri kınıyor."
   ],
   "col": [
    "şiddeti kınamak",
@@ -147,7 +147,7 @@
   ],
   "col": [
    "dumana bürünmüş olmak",
-   "sis tepeleri sarmak",
+   "sisin tepeleri sarması",
    "yüzü gülümsemeyle dolu olmak"
   ],
   "tip": "Edebi bir fiildir. wreathe /riːð/ ile isim olan wreath /riːθ/ farklı telaffuz edilir; wreath çelenk anlamına gelir.",
@@ -156,7 +156,7 @@
  {
   "id": "vortex",
   "senses": [
-   "girdap; kasırga",
+   "girdap; burgaç",
    "içinden çıkılmaz durum"
   ],
   "ex": [
@@ -198,9 +198,9 @@
    "Açık havada egzersiz sırasında aşırı terleme sıvı kaybını artırabileceğinden düzenli su içmek özellikle önemlidir."
   ],
   "col": [
-   "bol özür",
+   "bol bol özür",
    "aşırı terleme",
-   "çok teşekkür"
+   "bol bol teşekkür"
   ],
   "tip": "Sıfattır ve genellikle özür, teşekkür ya da terleme gibi sözcüklerle kullanılır. Resmi ve abartılı bir tonu vardır.",
   "note": ""
@@ -208,7 +208,7 @@
  {
   "id": "vex",
   "senses": [
-   "üzmek; rahatsız etmek"
+   "sinirlendirmek; rahatsız etmek"
   ],
   "ex": [
    "Musluktan sürekli damlayan su onu sinirlendirmeye başladı.",
@@ -232,7 +232,7 @@
    "Fonlama, mevcut politikaları destekleyen sonuçlar üretmeye bağlı olduğunda siyasi baskı bilimsel araştırmayı saptırabilir."
   ],
   "col": [
-   "adaletin işleyişini engellemek",
+   "adaleti saptırmak",
    "gerçeği saptırmak"
   ],
   "tip": "Fiil olarak vurgu ikinci hecededir (pervERT); isim olarak ilk hecededir (PERvert) ve genellikle olumsuz bir anlam taşır.",

@@ -41,7 +41,7 @@
  {
   "id": "specialist",
   "senses": [
-   "uzman; branş doktoru",
+   "uzman; uzman hekim",
    "uzmanlık gerektiren; özel"
   ],
   "ex": [
@@ -71,7 +71,7 @@
    "ölümcül kaza",
    "ölümcül yaralanma",
    "yıkıcı kusur",
-   "sonunda felakete yol açmak"
+   "ölümcül olmak"
   ],
   "tip": "fatal ölüm ya da tam bir başarısızlık anlamında kullanılır. Önemli sonuçları olan anlamında fateful kullanılır.",
   "note": ""
@@ -88,7 +88,7 @@
   "col": [
    "tarihî romancı",
    "en çok satan romancı",
-   "romancı olmayı hedefleyen"
+   "romancı adayı"
   ],
   "tip": "novelist uzun kurgu yazarını, novel ise romanın kendisini ifade eder.",
   "note": ""
@@ -120,8 +120,8 @@
    "Düzenli göz muayeneleri, tedavi edilmezse görme gücüne zarar verebilecek durumları belirleyebilir."
   ],
   "col": [
-   "zayıf görme",
-   "iyi görme",
+   "zayıf görme gücü",
+   "iyi görme gücü",
    "görme gücüne zarar vermek"
   ],
   "tip": "Sayılamayan bir isimdir; an eyesight demeyin. Cümlede my eyesight is poor gibi tekil ve sayılamaz biçimde kullanın.",
@@ -175,7 +175,7 @@
    "Okullar, acil durumlarda güvenle müdahale edebilmeleri için öğrencilere temel ilk yardım eğitimi vermelidir."
   ],
   "col": [
-   "birine bir şey yapmasını emretmek",
+   "birine bir şeyi yapma talimatı vermek",
    "birine bir konuda öğretmek",
    "personele talimat vermek"
   ],
@@ -230,7 +230,7 @@
   "col": [
    "hamuru yassılaştırmak",
    "bir binayı yerle bir etmek",
-   "düzleşip durulmak"
+   "düzleşmek"
   ],
   "tip": "flatten out fiyat ya da grafik gibi şeylerin dengelenmesini, yatay seyre girmesini de anlatabilir.",
   "note": ""
@@ -258,7 +258,7 @@
   "id": "scholarship",
   "senses": [
    "burs; bursluluk",
-   "akademik çalışma; ilim"
+   "akademik çalışma; bilgi"
   ],
   "ex": [
    "Bir burs, Ravi'nin üniversite eğitimini ödemesine yardımcı oldu.",

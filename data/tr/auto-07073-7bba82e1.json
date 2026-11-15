@@ -35,15 +35,15 @@
  {
   "id": "tantalize",
   "senses": [
-   "özlem uyandırmak; ayartmak"
+   "iştah kabartmak; cezbetmek"
   ],
   "ex": [
    "Fırının önünden geçerken taze ekmeğin kokusu bizi cezbetti.",
    "Erken dönem keşifler, araştırmacılara bugün tedavisi olmayan hastalıklar için uygun fiyatlı tedavi bulma umudu veriyor."
   ],
   "col": [
-   "birini bir şeyle ayartmak",
-   "kışkırtıcı kısa bir görüntü",
+   "birini bir şeyle cezbetmek",
+   "iştah kabartan kısa görüntü",
    "cazip bir ihtimal"
   ],
   "tip": "İngilizcede tantalise yazımı da kullanılır. Çekici görünen ama ulaşılamayan bir şeye duyulan arzuyu anlatır.",
@@ -52,7 +52,7 @@
  {
   "id": "denominate",
   "senses": [
-   "para birimiyle belirlemek",
+   "cinsinden ifade etmek",
    "adlandırmak; ad vermek"
   ],
   "ex": [
@@ -74,7 +74,7 @@
   ],
   "ex": [
    "Sıcak metal, kolayca bükülebilecek kadar dövülebilirdi.",
-   "Gençlerin tutumları çoğu zaman değiştirilebilir; bu da okulları saygı ve sosyal sorumluluk kazandırmada önemli ortamlar yapar."
+   "Gençlerin tutumları çoğu zaman kolay şekillenir; bu da okulları saygı ve sosyal sorumluluk kazandırmada önemli ortamlar yapar."
   ],
   "col": [
    "dövülebilir metal",
@@ -107,13 +107,13 @@
    "habercilik; reportaj"
   ],
   "ex": [
-   "Canlı anlatımı, uzak köyü gözlerimizin önüne getirdi.",
-   "Bağımsız haberciliği, aksi halde kamuoyunun ve hükümetin dikkatinden kaçabilecek çevre tahribatını ortaya çıkarabilir."
+   "Canlı reportajı, uzak köyü gözlerimizin önüne getirdi.",
+   "Bağımsız habercilik, aksi hâlde kamuoyunun ve hükümetin dikkatinden kaçabilecek çevre tahribatını ortaya çıkarabilir."
   ],
   "col": [
    "araştırmacı habercilik",
    "edebi reportaj",
-   "birinci elden haber anlatımı"
+   "birinci elden reportaj"
   ],
   "tip": "Genellikle sayılamayan bir isimdir. Reporting'den daha resmi olup çoğunlukla doğrudan gözleme dayalı haber anlatımını ifade eder.",
   "note": ""
@@ -163,7 +163,7 @@
    "Açık hava maceraları katılımcıları coşturabilir; aynı zamanda özgüvenlerini ve doğayla bağlarını güçlendirir."
   ],
   "col": [
-   "heyecanlanmak",
+   "coşkulanmak",
    "deneyimden coşmuş olmak",
    "heyecan verici bir deneyim"
   ],

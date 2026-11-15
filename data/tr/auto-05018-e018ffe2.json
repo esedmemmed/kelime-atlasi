@@ -13,7 +13,7 @@
    "arızayı bulmak",
    "kaynağı tespit etmek",
    "…da bulunmak",
-   "merkezi bir yerde olmak"
+   "merkezi konumda bulunmak"
   ],
   "tip": "“…da bulunmak” anlamında genellikle be located in/near kalıbı kullanılır; locate tek başına bu anlamda pek kullanılmaz.",
   "note": ""
@@ -25,7 +25,7 @@
   ],
   "ex": [
    "Pirinç, günlük etkinlikleriniz için enerji sağlayan karbonhidrat içerir.",
-   "Karbonhidratlar önemli bir enerji kaynağı olsa da halk sağlığı kılavuzları tam tahıllı gıdaları katkı şekeri içeren ürünlerden ayırt etmelidir."
+   "Karbonhidratlar önemli bir enerji kaynağı olsa da halk sağlığı kılavuzları tam tahıllı gıdaları eklenmiş şeker içeren ürünlerden ayırt etmelidir."
   ],
   "col": [
    "kompleks karbonhidratlar",
@@ -58,7 +58,7 @@
   "id": "yarn",
   "senses": [
    "iplik",
-   "uydurma hikâye; masal"
+   "abartılı hikâye"
   ],
   "ex": [
    "Bebeğin battaniyesi için yumuşak mavi bir iplik seçti.",
@@ -137,7 +137,7 @@
   "col": [
    "yoğun sis",
    "sabah sisi",
-   "üzerini buğu kaplamak"
+   "buğulanmak"
   ],
   "tip": "mist genellikle fog'dan daha hafif ve seyrek sisi anlatır. Camın buğulanması için mist over/up kullanılır.",
   "note": ""
@@ -226,7 +226,7 @@
   ],
   "col": [
    "mobilya teşhir salonu",
-   "araba bayisi",
+   "araba galerisi",
    "vitrin sergisi"
   ],
   "tip": "Sayılabilir bir isimdir. showrooming ise müşterinin ürünü mağazada inceleyip internetten satın alması anlamına gelir.",

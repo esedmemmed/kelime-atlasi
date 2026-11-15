@@ -50,7 +50,7 @@
   "col": [
    "un değirmeni",
    "çelik fabrikası",
-   "kağıt fabrikası",
+   "kâğıt fabrikası",
    "tahılı öğütmek"
   ],
   "tip": "Genellikle hammaddeyi işleyen tesisler için kullanılır. Sıradan bir fabrika için factory tercih edilir.",
@@ -111,7 +111,7 @@
    "için geçerli",
    "haklı endişe"
   ],
-  "tip": "valid for ile süre veya kapsam, valid until ile bitiş tarihi belirtilir. Türkçedeki 'geçerli' ile birebir örtüşür.",
+  "tip": "valid for süre veya kapsamı (valid for 30 days), valid until bitiş tarihini (valid until May) belirtir.",
   "note": ""
  },
  {
@@ -126,7 +126,7 @@
   ],
   "col": [
    "kesinlikle yasaklamak",
-   "birini bir şey yapmaktan men etmek",
+   "birine bir şeyi yasaklamak",
    "kullanımı yasaklamak"
   ],
   "tip": "Genellikle prohibit someone from doing something kalıbıyla kullanılır. 'prohibit doing' yapısı da var ama daha az yaygındır.",
@@ -146,7 +146,7 @@
    "denizanası sürüsü",
    "denizanası popülasyonları"
   ],
-  "tip": "Çoğul biçimi de jellyfish'tir. Denizanası bir balık değildir, bu yüzden 'fish' eki yoktur.",
+  "tip": "Çoğulu da jellyfish'tir (jellyfishes de kullanılır). Balık değildir; adındaki 'fish' yanıltmasın.",
   "note": ""
  },
  {
@@ -210,7 +210,7 @@
    "birbirini etkilemek"
   ],
   "ex": [
-   "Çocukları dışarıda oynarken komşularımız sık sık sohbet eder.",
+   "Komşularımız, çocukları dışarıda oynarken sık sık birbirleriyle görüşür.",
    "Grup projeleri, deneyimleri ve bakış açıları kendilerinden farklı olan sınıf arkadaşlarıyla etkileşime girmeyi teşvik eder."
   ],
   "col": [
@@ -224,7 +224,7 @@
  {
   "id": "superstitious",
   "senses": [
-   "batıl inançlı; hurafeci"
+   "batıl inançlı"
   ],
   "ex": [
    "Batıl inançlı kuzenim her zaman uğurlu bir taş taşır.",

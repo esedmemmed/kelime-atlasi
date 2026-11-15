@@ -68,7 +68,7 @@
    "sarsıntılara karşı dayanıklı",
    "esnek malzeme"
   ],
-  "tip": "Kişi, ekonomi ve malzeme için kullanılabilir. Karşısına gelen şeye karşı dayanıklılığı için to ile kullanılır (resilient to shocks).",
+  "tip": "Kişi, topluluk, ekonomi ve malzeme için kullanılır. \"Resilient to\" ile neye karşı dayanıklı olunduğu belirtilir (resilient to shocks).",
   "note": ""
  },
  {
@@ -102,26 +102,26 @@
   "col": [
    "meşru iş",
    "haklı endişeler",
-   "geçerli neden",
+   "haklı neden",
    "meşru otorite"
   ],
-  "tip": "Türkçedeki 'legal' ile karıştırılabilir. Legitimate hem yasal hem de haklı, makul anlamına gelir; bağlama dikkat edin.",
+  "tip": "Hem \"yasal, meşru\" hem de \"haklı, makul\" anlamına gelir; legal ise yalnızca yasaya uygunluğu anlatır.",
   "note": ""
  },
  {
   "id": "collaborate",
   "senses": [
-   "işbirliği yapmak",
-   "düşmanla işbirliği yapmak"
+   "iş birliği yapmak",
+   "düşmanla iş birliği yapmak"
   ],
   "ex": [
    "Hafta sonu yemek kulübümüz için tarifler üzerinde birlikte çalışıyoruz.",
-   "Üniversiteler, bölgesel çevre sorunlarına pratik çözümler geliştirmek için yerel işletmelerle işbirliği yapmalı."
+   "Üniversiteler, bölgesel çevre sorunlarına pratik çözümler geliştirmek için yerel işletmelerle iş birliği yapmalı."
   ],
   "col": [
-   "meslektaşlarıyla işbirliği yapmak",
+   "meslektaşlarıyla iş birliği yapmak",
    "bir proje üzerinde birlikte çalışmak",
-   "yakın işbirliği yapmak"
+   "yakın iş birliği yapmak"
   ],
   "tip": "Bir kişiyle birlikte çalışılacaksa with, bir konu ya da projede birlikte çalışılacaksa on kullanılır.",
   "note": ""
@@ -172,7 +172,7 @@
    "Açıklanamayan arkeolojik buluntular, araştırmacıların ilgisini çekmeye ve antik toplulukların yaşamına dair daha fazla incelemeyi teşvik etmeye devam ediyor."
   ],
   "col": [
-   "ilgi duymak",
+   "merakı uyanmış olmak",
    "siyasi entrika",
    "entrika ağı"
   ],
@@ -201,7 +201,7 @@
   "id": "essence",
   "senses": [
    "öz; esas",
-   "esans; uçucu yağ"
+   "esans; özüt"
   ],
   "ex": [
    "Benim için dostluğun özü, orada olmaktır.",
@@ -219,8 +219,8 @@
  {
   "id": "pilgrimage",
   "senses": [
-   "hac; ziyaret yolculuğu",
-   "gönül ziyareti"
+   "hac; kutsal ziyaret",
+   "anlamlı ziyaret"
   ],
   "ex": [
    "Büyükanne ve büyükbabam dağdaki tapınağa bir hac yolculuğu yaptı.",
@@ -231,7 +231,7 @@
    "kutsal mekân",
    "bir yere hac ziyareti yapmak"
   ],
-  "tip": "make a pilgrimage to kalıbı 'bir yere hac yapmak' anlamına gelir. Kişisel anlamda önemli yerler için de kullanılır.",
+  "tip": "make a pilgrimage to, \"...e hac/kutsal ziyaret yapmak\" demektir. Kişisel olarak önemli yerler için de kullanılır.",
   "note": ""
  },
  {
@@ -241,7 +241,7 @@
   ],
   "ex": [
    "Bu küçük vidaları ayırmak çok bezdirici bir iş.",
-   "Tekrarlanan idari kontroller öğretmenler için yorucu hale gelebilir ve ders hazırlığına ayrılan zamanı azaltabilir."
+   "Tekrarlanan idari kontroller öğretmenler için bıktırıcı hale gelebilir ve ders hazırlığına ayrılan zamanı azaltabilir."
   ],
   "col": [
    "bezdirici bir iş",

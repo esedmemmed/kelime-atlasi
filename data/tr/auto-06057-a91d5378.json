@@ -41,8 +41,8 @@
    "değişiklik; düzeltme"
   ],
   "ex": [
-   "Sözleşmeye üzerinde anlaştığımız küçük bir değişiklik yaptık.",
-   "Önerilen değişiklik, işverenleri geçici personel için daha güvenli çalışma koşulları sağlamaya zorunlu kılacaktı."
+   "Sözleşmede tek bir küçük değişiklik konusunda anlaştık.",
+   "Önerilen değişiklik, işverenleri geçici personel için daha güvenli çalışma koşulları sağlamaya zorunlu kılacaktır."
   ],
   "col": [
    "değişiklik yapmak",
@@ -74,10 +74,10 @@
  {
   "id": "obliging",
   "senses": [
-   "yardımsever; hevesli"
+   "yardımsever; kibar"
   ],
   "ex": [
-   "Yokken yardımsever bir komşumuz bitkilerimizi suladı.",
+   "Biz seyahatteyken yardımsever bir komşumuz bitkilerimizi suladı.",
    "Yardımsever personel, soruları sabırla yanıtlayıp makul taleplere hızlı karşılık vererek hastaların deneyimini iyileştirebilir."
   ],
   "col": [
@@ -110,7 +110,7 @@
  {
   "id": "commotion",
   "senses": [
-   "kargaşa; gürültü patırtı"
+   "kargaşa; hengâme"
   ],
   "ex": [
    "Kaçan bir köpek kafede kargaşaya yol açtı.",
@@ -168,9 +168,9 @@
    "Kentsel yaşam hızlandıkça birçok çalışan toplantılar ve son teslim tarihlerinin girdabına kapılıyor."
   ],
   "col": [
-   "etrafında dönmek",
+   "hızla dönmek",
    "yoğun bir faaliyet dönemi",
-   "bir denemek"
+   "bir şans vermek"
   ],
   "tip": "give it a whirl gayriresmi bir ifadedir ve “bir deneyeyim” anlamına gelir. Resmi yazıda kullanmaktan kaçının.",
   "note": ""
@@ -179,7 +179,7 @@
   "id": "composite",
   "senses": [
    "bileşik; karma",
-   "bileşik; karışım"
+   "kompozit; bileşim"
   ],
   "ex": [
    "Yeni bahçe bankımız kompozit malzemeden yapılmış.",
@@ -205,7 +205,7 @@
   "col": [
    "yerli flora",
    "yerel flora",
-   "flora ve fauna (bitki ve hayvan türleri)"
+   "flora ve fauna"
   ],
   "tip": "flora bir bölgenin bitki örtüsünü, fauna ise hayvan türlerini anlatır. Birlikte flora and fauna şeklinde sıklıkla kullanılır.",
   "note": ""
@@ -223,8 +223,8 @@
   ],
   "col": [
    "birini yakından izlemek",
-   "dış politikada sert politikacı",
-   "mal dolaştırıp satmak"
+   "dış politika şahini",
+   "sokakta mal satmak"
   ],
   "tip": "Politikada hawk, barışçı anlamındaki dove (güvercin) ile karşıt kullanılır. Fiil olarak sokakta mal satmak anlamına gelir.",
   "note": ""
@@ -253,14 +253,14 @@
    "temel; durum; konum"
   ],
   "ex": [
-   "Islak merdivenlerde ayağımın basacak yerini kaybettim.",
+   "Islak merdivenlerde dengemi kaybettim.",
    "Kamu finansmanı, kırsal okulların kentsel muadilleriyle eşit koşullara gelmesine yardımcı olabilir."
   ],
   "col": [
-   "dengeni kaybetmek",
-   "dengeni yeniden bulmak",
+   "dengesini kaybetmek",
+   "dengesini yeniden bulmak",
    "eşit koşullarda",
-   "sağlam bir temele oturmuş"
+   "sağlam temellere dayanmak"
   ],
   "tip": "on an equal footing “eşit konumda” anlamına gelir. Fiziksel denge ve soyut “temel, durum” anlamları birlikte öğrenilmelidir.",
   "note": ""

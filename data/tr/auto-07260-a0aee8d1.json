@@ -2,8 +2,8 @@
  {
   "id": "harangue",
   "senses": [
-   "uzun ve sert nutuk; azarlama",
-   "uzun uzun azarlamak; söylenmek"
+   "sert nutuk; azarlama",
+   "nutuk çekmek; azarlamak"
   ],
   "ex": [
    "Bulaşıklar hakkındaki uzun azarlaması sakin kahvaltımızı mahvetti.",
@@ -20,19 +20,19 @@
  {
   "id": "hoe",
   "senses": [
-   "çapalamak; yabani otları temizlemek",
-   "çapa; kazma"
+   "çapalamak",
+   "çapa"
   ],
   "ex": [
    "Fasulye ekmeden önce sebze bahçesini çapaladık.",
-   "Ekin sıraları arasında çapa yapan çiftçiler, yabani otları kontrol edebilir ve kimyasal herbisitlere bağımlılıklarını azaltabilir."
+   "Ekin sıraları arasında çapalama yapan çiftçiler, yabani otları kontrol edebilir ve kimyasal herbisitlere bağımlılıklarını azaltabilir."
   ],
   "col": [
    "toprağı çapalamak",
    "yabani otları çapalamak",
    "bahçe çapası"
   ],
-  "tip": "Hem fiil hem isim olarak kullanılır. Ing-form 'hoeing' şeklindedir; Türkçedeki 'çapa' isminden ayırt edin.",
+  "tip": "Hem fiil hem isim olarak kullanılır. -ing biçimi 'hoeing' şeklindedir; Türkçedeki 'çapa' ismine karşılık gelir.",
   "note": ""
  },
  {
@@ -80,8 +80,8 @@
   ],
   "col": [
    "deneyimli bir denizci",
-   "tüccar denizci",
-   "kaptan denizci"
+   "ticaret gemisi denizcisi",
+   "gemi kaptanı"
   ],
   "tip": "'Sailor'dan daha resmi bir kelimedir; denizcilik veya tarihsel bağlamlarda sıkça kullanılır.",
   "note": ""

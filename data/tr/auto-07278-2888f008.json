@@ -23,7 +23,7 @@
   ],
   "ex": [
    "Kulüp, havuzu kapatma kararını geri aldı.",
-   "Konsey, sakinlerin yerel dükkanlara erişim konusundaki endişelerini dile getirmesinin ardından park kısıtlamalarını kaldırmayı kabul etti."
+   "Konsey, sakinlerin yerel dükkânlara erişim konusundaki endişelerini dile getirmesinin ardından park kısıtlamalarını kaldırmayı kabul etti."
   ],
   "col": [
    "bir kararı geri almak",
@@ -45,7 +45,7 @@
   "col": [
    "temizlik konusunda titiz",
    "ayrıntılara titiz özen",
-   "çok seçici bir yiyici"
+   "yemekte seçici biri"
   ],
   "tip": "Hem olumlu (titiz) hem olumsuz (aşırı seçici) anlamda kullanılabilir; cümlenin bağlamına dikkat etmek gerekir.",
   "note": ""
@@ -56,7 +56,7 @@
    "iç bölge; ardbölge"
   ],
   "ex": [
-   "Arazide sürdük ve sessiz köyler bulduk.",
+   "İç bölgelere doğru araba sürdük ve sessiz köyler bulduk.",
    "Limanlar ile onların iç bölgeleri arasındaki ulaşım bağlantılarının iyileştirilmesi, bölgesel ticareti ve tarımsal gelişmeyi destekleyebilir."
   ],
   "col": [
@@ -124,7 +124,7 @@
    "dışkı; gaita"
   ],
   "ex": [
-   "Bahçe banklarında kuş dışkısı bulduk.",
+   "Bahçedeki bankta kuş dışkısı bulduk.",
    "Arıtılmamış hayvan dışkısı yerel su kaynaklarını kirletebilir ve halk sağlığı için ciddi riskler oluşturabilir."
   ],
   "col": [
@@ -142,7 +142,7 @@
    "harap; yıkık"
   ],
   "ex": [
-   "Onarımlar o kadar pahalıydı ki evi satmak zorunda kaldık.",
+   "Onarımlar o kadar yıkıcı bir masraf çıkardı ki evi satmak zorunda kaldık.",
    "Uzun süren kuraklık, yalnızca mevsimlik yağmura bağlı olan çiftçi topluluklarında yıkıcı sonuçlar doğurabilir."
   ],
   "col": [
@@ -227,7 +227,7 @@
   "id": "meteoric",
   "senses": [
    "çok hızlı; çarpıcı",
-   "meteor ile ilgili; göktaşı"
+   "meteorla ilgili"
   ],
   "ex": [
    "Ani yükselişi küçük tiyatroda herkesi şaşırttı.",

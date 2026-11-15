@@ -11,7 +11,7 @@
   ],
   "col": [
    "bir arı sürüsü",
-   "içine akın etmek",
+   "...e akın etmek",
    "turistlerle dolup taşmak"
   ],
   "tip": "Genellikle be swarming with biçiminde kullanılır; bir yerin insanlarla ya da böceklerle dolu olduğunu anlatır.",
@@ -66,7 +66,7 @@
    "...olduğunu kabul etmek",
    "yenilgiyi kabul etmek",
    "bir noktayı kabul etmek",
-   "geri çekilmek; zemin kaybetmek"
+   "mevzi kaybetmek; geri adım atmak"
   ],
   "tip": "Genellikle istemeyerek ya da karşı çıktıktan sonra bir şeyi kabul etmek anlamında kullanılır.",
   "note": ""
@@ -125,16 +125,16 @@
  {
   "id": "bypass",
   "senses": [
-   "dolaşmak; atlamak",
+   "baypas etmek; atlamak",
    "çevre yolu",
    "baypas; yan yol"
   ],
   "ex": [
-   "Köyü geçmek için dar bir yol kullandık.",
+   "Köyü dolaşmak için dar bir yol kullandık.",
    "Yeni bir çevre yolu şehir merkezindeki trafiği azaltabilir, ancak yakındaki yaban hayatı alanlarına zarar verebilir."
   ],
   "col": [
-   "kasabayı atlamak",
+   "kasabanın dışından geçmek",
    "güvenlik kontrollerini atlamak",
    "çevre yolu yapmak",
    "kalp baypas ameliyatı"
@@ -167,7 +167,7 @@
    "ölen kişi"
   ],
   "ex": [
-   "Büyükbabasının fotoğrafını yakınında saklıyor.",
+   "Vefat etmiş büyükbabasının fotoğrafını yakınında saklıyor.",
    "Müzeler, ziyaretçilerin sanatçıların hayatını ve yaratıcı etkilerini anlamasına yardımcı olmak için bazen vefat etmiş sanatçıların kişisel eşyalarını sergiler."
   ],
   "col": [
@@ -189,8 +189,8 @@
   ],
   "col": [
    "içerlemek",
-   "birine karşı kırgın olmak",
-   "birine karşı içi kırgın olmak"
+   "birine içerlemek",
+   "birine karşı kırgınlık duymak"
   ],
   "tip": "Haksız davranıldığına inanmaktan doğan kırgınlığı anlatır; sadece 'kızgın' olmak anlamına gelmez. of ya da towards ile kullanılır.",
   "note": ""
@@ -222,16 +222,16 @@
    "eğlence; hoş vakit"
   ],
   "ex": [
-   "Yol değişikliği bizi güzel bir gölün yanından geçirdi.",
+   "Yönlendirilen yol bizi güzel bir gölün yanından geçirdi.",
    "Kamu fonlarının eğitimden başka alanlara kaydırılması, dezavantajlı topluluklardaki çocukların fırsatlarını sınırlayabilir."
   ],
   "col": [
-   "trafik güzergâh değişikliği",
+   "trafiğin yönlendirilmesi",
    "fonların başka yöne aktarılması",
    "dikkat dağıtıcı bir şey yaratmak",
    "hoş bir mola"
   ],
-  "tip": "İngiliz İngilizcesinde yol güzergâh değişikliği için kullanılır; Amerikan İngilizcesinde bu anlam için genellikle detour tercih edilir.",
+  "tip": "İngiliz İngilizcesinde yol çalışması vb. nedeniyle yapılan yönlendirmeyi anlatır; Amerikan İngilizcesinde genellikle detour denir.",
   "note": ""
  },
  {

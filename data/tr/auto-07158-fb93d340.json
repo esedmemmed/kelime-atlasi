@@ -55,7 +55,7 @@
   "id": "tenacious",
   "senses": [
    "azimli; kararlı",
-   "sıkı tutunan; çıkmayan"
+   "sıkı tutunan; kalıcı"
   ],
   "ex": [
    "Azimli koşucu dik yokuşa rağmen yoluna devam etti.",
@@ -66,7 +66,7 @@
    "sıkı bir kavrayış",
    "inatçı direniş"
   ],
-  "tip": "Asıl anlamı azimli ve kararlı olmaktır; 'gergin' anlamına gelmez. Fiziksel anlamda sıkı tutunmayı da ifade eder.",
+  "tip": "Asıl anlamı azimli ve kararlı olmaktır; sıkı tutunan ya da kolay geçmeyen şeyler için de kullanılır.",
   "note": ""
  },
  {
@@ -233,10 +233,10 @@
   ],
   "ex": [
    "Mikroskop altında küçük yeşil alg çok güzel görünüyordu.",
-   "Araştırmacılar, bu tatlı su alginin atık sudaki kirleticileri giderirken biyoyakıt için uygun malzeme üretip üretemeyeceğini inceliyor."
+   "Araştırmacılar, bu tatlı su yosununun atık sudaki kirleticileri giderirken biyoyakıt için uygun malzeme üretip üretemeyeceğini inceliyor."
   ],
   "col": [
-   "tatlı su algi",
+   "tatlı sularda yaşayan bir alg",
    "yeşil algler",
    "alg büyümesi"
   ],

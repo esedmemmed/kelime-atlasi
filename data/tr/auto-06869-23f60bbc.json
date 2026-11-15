@@ -10,9 +10,9 @@
    "Çevre yönetmeliklerinin gevşek uygulanması, bazı fabrikaların arıtılmamış atığı yakındaki nehirlere boşaltmasına izin veriyor."
   ],
   "col": [
-   "gevşek güvenlik",
+   "zayıf güvenlik",
    "gevşek uygulama",
-   "gevşek standartlar",
+   "düşük standartlar",
    "kurallar konusunda gevşek"
   ],
   "tip": "Genellikle kuralların veya sorumlulukların uygulanmasında gevşekliği anlatır. Günlük dilde ishal anlamında kullanılmaz.",
@@ -31,7 +31,7 @@
   "col": [
    "yaralanmaya açık",
    "sel baskınına açık",
-   "kazaya meyilli",
+   "kazaya yatkın",
    "yüzüstü yatmak"
   ],
   "tip": "prone to'dan sonra isim ya da -ing almak gerekir ve genellikle olumsuz durumlar için kullanılır.",
@@ -65,7 +65,7 @@
   ],
   "col": [
    "ayrı bir kuruluş",
-   "yasal varlık",
+   "tüzel kişi",
    "ticari kuruluş"
   ],
   "tip": "Bağımsız olarak var olan birimi anlatır. Kurum, hukuk ve ticaret bağlamlarında sık kullanılır.",
@@ -82,8 +82,8 @@
   ],
   "col": [
    "ağır düzenlemeler",
-   "yorucu görev",
-   "mali yük"
+   "ağır bir görev",
+   "mali açıdan ağır"
   ],
   "tip": "Genellikle görev, masraf veya düzenlemeler için kullanılır; fiziksel ağırlığı anlatmaz.",
   "note": ""
@@ -117,9 +117,9 @@
    "Temel hizmetler ciddi bütçe kesintileriyle karşı karşıya kaldığında hükümetin israfına yönelik eleştiriler genellikle artıyor."
   ],
   "col": [
-   "kişisel israf",
+   "kişisel savurganlık",
    "gereksiz lüks",
-   "lüks zevki"
+   "lükse düşkünlük"
   ],
   "tip": "Savurganlık davranışı genellikle sayılamaz; belirli bir lüks harcama anlamında sayılabilir.",
   "note": ""
@@ -147,7 +147,7 @@
   "senses": [
    "standart; normal düzey",
    "nominal değer; itibari değer",
-   "par (golf standart vuruş sayısı)"
+   "par; standart vuruş sayısı"
   ],
   "ex": [
    "Kendimi iyi hissetmiyorum, bu yüzden bu akşam evde kalacağım.",
@@ -165,7 +165,7 @@
  {
   "id": "irrespective",
   "senses": [
-   "bakmaksızın; göz önünde bulundurmadan"
+   "bakmaksızın; bağımsız olarak"
   ],
   "ex": [
    "Yaşı ne olursa olsun herkes yürüyüşe katılabilir.",
@@ -182,16 +182,16 @@
  {
   "id": "incur",
   "senses": [
-   "başına gelmek; üstlenmek"
+   "uğramak; katlanmak"
   ],
   "ex": [
    "Bu kütüphanede geç iade edilen kitaplar için ek ücret alınabilir.",
    "Eski ekipmanı değiştirirken işletmeler önemli maliyetlere katlanabilir; ancak modern teknoloji zamanla verimliliği artırabilir."
   ],
   "col": [
-   "masraf çıkarmak",
+   "masrafa katlanmak",
    "zarara uğramak",
-   "borç yüklenmek",
+   "borca girmek",
    "ceza almak"
   ],
   "tip": "Geçmiş zamanı incurred, ing hali incurring; r harfi iki kez yazılır.",
@@ -204,13 +204,13 @@
    "incelemek; ayıklamak"
   ],
   "ex": [
-   "Hamuru kaseye koymadan önce eleyin.",
+   "Unu kaseye koymadan önce eleyin.",
    "Araştırmacılar, işsizliğin nedenleri hakkında güvenilir sonuçlara varmadan önce büyük miktarda kanıtı dikkatle incelemek zorundadır."
   ],
   "col": [
    "un elemek",
    "kanıtları incelemek",
-   "ayıklayıp çıkarmak"
+   "ayıklamak"
   ],
   "tip": "sift through, bilgi yığınını dikkatle inceleyip yararlı olanı bulmak anlamına gelir.",
   "note": ""
@@ -219,7 +219,7 @@
   "id": "lumber",
   "senses": [
    "kereste; biçilmiş tahta",
-   "ağır ağır ve beceriksizce ilerlemek"
+   "ağır ve hantal ilerlemek"
   ],
   "ex": [
    "Bahçe bankı yapmak için biraz kereste aldık.",
@@ -245,7 +245,7 @@
   "col": [
    "mangrov ormanı",
    "mangrov kökleri",
-   "mangrov koruma"
+   "mangrovların korunması"
   ],
   "tip": "Tek bir ağaç için de, ormanlık alan için de kullanılabilir; ormanlık alan için genellikle mangrove forest denir.",
   "note": ""
@@ -254,7 +254,7 @@
   "id": "squirt",
   "senses": [
    "fışkırtmak; püskürtmek",
-   "fışkırma; sıçrama"
+   "fışkırma; bir sıkım"
   ],
   "ex": [
    "Izgara balığın üzerine biraz limon suyu sıktı.",
@@ -263,7 +263,7 @@
   "col": [
    "su fışkırtmak",
    "üzerine meyve suyu sıkmak",
-   "bir fışkırma sos"
+   "bir sıkım sos"
   ],
   "tip": "Sıvının dar bir akımla fışkırmasını anlatır; genellikle squirt sıvı onto/into bir yer kalıbıyla kullanılır.",
   "note": ""

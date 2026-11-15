@@ -6,7 +6,7 @@
   ],
   "ex": [
    "Öğretmenlerimiz final sınavlarını sırayla gözetiyor.",
-   "Üniversiteler personeli sınavları adil biçimde gözetmeye ve kopya şüphesine uygun şekilde karşılık vermeye hazırlamalıdır."
+   "Üniversiteler personeli sınavları adil biçimde gözetmeye ve kopya şüphesine uygun şekilde tepki vermeye hazırlamalıdır."
   ],
   "col": [
    "sınavı gözetmek",
@@ -62,7 +62,7 @@
    "Yeterli konut politikaları olmazsa, kira maliyetleri birçok düşük gelirli ailenin bütçesini aşabilir."
   ],
   "col": [
-   "spiral merdiven",
+   "helezon merdiven",
    "düşüş sarmalı",
    "kontrolden çıkmak",
    "hızla artan maliyetler"
@@ -110,7 +110,7 @@
   "senses": [
    "yaymak; dağıtmak",
    "yayılmış; dağınık",
-   "dağınık; düzensiz"
+   "dolambaçlı; uzun uzadıya"
   ],
   "ex": [
    "Taze ekmeğin kokusu mutfağa yayıldı.",
@@ -143,11 +143,11 @@
  {
   "id": "conscientious",
   "senses": [
-   "titiz; sorumlu; vicdanlı"
+   "titiz; sorumlu"
   ],
   "ex": [
    "Titiz komşumuz her sabah bitkilerimizi kontrol eder.",
-   "Vicdanlı çalışanlar, prosedürleri dikkatle izleyip olası tehlikeleri zamanında bildirerek iş güvenliğine katkıda bulunur."
+   "Sorumluluk sahibi çalışanlar, prosedürleri dikkatle izleyip olası tehlikeleri zamanında bildirerek iş güvenliğine katkıda bulunur."
   ],
   "col": [
    "titiz bir işçi",
@@ -188,7 +188,7 @@
   "col": [
    "moda olmak",
    "moda olmaya başlamak",
-   "...e olan revaç"
+   "...e yönelik rağbet"
   ],
   "tip": "in vogue kalıbı 'moda olan' anlamına gelir; vogue genellikle tekil ve soyut biçimde kullanılır.",
   "note": ""

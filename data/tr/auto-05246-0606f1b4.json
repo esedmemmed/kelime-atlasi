@@ -38,7 +38,7 @@
   "id": "blush",
   "senses": [
    "kızarmak",
-   "kızarıklık"
+   "kızarma"
   ],
   "ex": [
    "Herkes şarkısını övmeye başlayınca yüzü kızarmaya başladı.",
@@ -47,7 +47,7 @@
   "col": [
    "utançtan kızarmak",
    "birini utandırmak",
-   "koyu kızarıklık"
+   "yüzün iyice kızarması"
   ],
   "tip": "Fiil genellikle nesnesiz kullanılır. 'Birinin yüzünü kızartmak' için make someone blush kalıbı kullanılır.",
   "note": ""
@@ -106,7 +106,7 @@
  {
   "id": "inhabitant",
   "senses": [
-   "sakin; yerleşik"
+   "sakin; yaşayan"
   ],
   "ex": [
    "Köyün her sakini köprünün onarılmasına yardım etti.",
@@ -123,17 +123,17 @@
  {
   "id": "liking",
   "senses": [
-   "beğeni; sevgi"
+   "hoşlanma; düşkünlük"
   ],
   "ex": [
-   "Bu kış acılı çorbaya karşı bir beğeni geliştirdim.",
+   "Bu kış acılı çorbaya düşkünlük geliştirdim.",
    "Dış mekân etkinliklerine ilgi duyan çocuklar, ilerleyen yaşlarda sağlıklı alışkanlıklar edinmeye daha istekli olabilir."
   ],
   "col": [
-   "bir şeye karşı beğeni",
+   "bir şeye düşkünlük",
    "hoşlanmaya başlamak",
    "zevkinize uygun",
-   "beğeni geliştirmek"
+   "bir şeye düşkünlük geliştirmek"
   ],
   "tip": "a liking for bir şeyi sevmeyi, to your liking ise bir şeyin zevkinize uygun olmasını anlatır.",
   "note": ""
@@ -177,17 +177,17 @@
  {
   "id": "glimpse",
   "senses": [
-   "kısa bakış; görüntü",
-   "kısaca görmek"
+   "anlık görüntü",
+   "bir an görmek"
   ],
   "ex": [
    "Çitin arkasında bir tilkinin kısa görüntüsünü yakaladık.",
-   "Müze sergileri ziyaretçilere binlerce yıl önce var olmuş toplumların günlük hayatına dair bir bakış sunar."
+   "Müze sergileri ziyaretçilere binlerce yıl önce var olmuş toplumların günlük hayatından bir kesit sunar."
   ],
   "col": [
    "bir an görmek",
    "kısa bir bakış",
-   "içine bir bakış sunmak"
+   "genel bir fikir sunmak"
   ],
   "tip": "glimpse kısa ve kısmi görmeyi anlatır; glance ise bilerek ve hızlıca bakmayı anlatır.",
   "note": ""
@@ -204,7 +204,7 @@
    "Tüketiciler satın aldıkları ürünlerin çevresel etkisinin farkına giderek daha fazla varıyor ve daha sürdürülebilir ürünleri tercih ediyor."
   ],
   "col": [
-   "-in farkında olmak",
+   "bir şeyin farkında olmak",
    "bilinci yerinde kalmak",
    "bilinçli bir çaba",
    "bilinçli bir karar"

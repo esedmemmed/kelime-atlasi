@@ -33,7 +33,7 @@
   "col": [
    "pratik fayda",
    "kamu hizmetleri",
-   "fatura (kamu hizmetleri)",
+   "kamu hizmeti faturaları",
    "kamu hizmeti şirketi"
   ],
   "tip": "'Fayda' anlamında isim sayılamaz; su, elektrik, gaz gibi hizmetler için çoğul utilities kullanılır.",
@@ -89,7 +89,7 @@
   "col": [
    "cam bölme",
    "bölme duvar",
-   "bölerek ayırmak",
+   "bölmelerle ayırmak",
    "bir ülkenin bölünmesi"
   ],
   "tip": "Partition off bir alanı bölmek anlamına gelir, örneğin ofisi bölmeyle ayırmak gibi. Ülke bölünmesi için de kullanılır.",
@@ -205,18 +205,18 @@
   "id": "dismay",
   "senses": [
    "şaşkınlık; hayal kırıklığı",
-   "üzmek; hayal kırıklığına uğratmak"
+   "şaşkına çevirmek; üzmek"
   ],
   "ex": [
    "Ne yazık ki pasta fırında çöktü.",
    "Sakinler, yerel parklarının büyük bir ticari projeyle değiştirilmesi planına hayal kırıklığını dile getirdi."
   ],
   "col": [
-   "herkesin üzüntüsüne",
+   "birinin hayal kırıklığına",
    "hayal kırıklığını dile getirmek",
    "hayal kırıklığına uğramak"
   ],
-  "tip": "İsim olarak genellikle sayılamaz. To one's dismay kalıbı 'üzülerek görmüştür ki' anlamında kullanılır.",
+  "tip": "İsim olarak genellikle sayılamaz. To one's dismay kalıbı 'hayal kırıklığına uğrayarak, ne yazık ki' anlamına gelir.",
   "note": ""
  },
  {
@@ -232,7 +232,7 @@
   "col": [
    "bir dosyayı sıkıştırmak",
    "havayı sıkıştırmak",
-   "bir yere sıkıştırmak"
+   "içine sıkıştırmak"
   ],
   "tip": "Fiilde vurgu ikinci hecededir (com-PRESS); isimde ise birinci hecededir (COM-press). Vurguya dikkat edin.",
   "note": ""

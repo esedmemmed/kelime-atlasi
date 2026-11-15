@@ -13,7 +13,7 @@
    "yarı iletken üretimi",
    "yarı iletken sektörü"
   ],
-  "tip": "Bitişik yazılır. 'Semiconductor chips' örneğinde olduğu gibi isim önünde sıfat gibi de kullanılabilir.",
+  "tip": "semi- 'yarı' demektir: iletkenliği iletken ile yalıtkan arasındadır. İngilizcede bitişik yazılır.",
   "note": ""
  },
  {
@@ -80,7 +80,7 @@
    "Yetişkinler arasındaki okuma yazma bilmezliğin azaltılması istihdam fırsatlarını artırabilir ve insanların topluma tam katılımını sağlayabilir."
   ],
   "col": [
-   "yetişkinler arasında okuma yazma bilmezlik",
+   "yetişkinlerde okuma yazma bilmezlik",
    "okuma yazma bilmezlik oranı",
    "okuma yazma bilmezlikle mücadele etmek",
    "finansal okuryazarlık eksikliği"
@@ -100,7 +100,7 @@
   "col": [
    "doğal afet",
    "felaketi önlemek",
-   "felaket meydana gelir"
+   "felaketin vurması"
   ],
   "tip": "'Problem'den çok daha ciddi, büyük yıkıma yol açan olaylar için kullanılır; küçük günlük sorunlar için uygun değildir.",
   "note": ""
@@ -108,7 +108,7 @@
  {
   "id": "diplomacy",
   "senses": [
-   "diplomasi; dış politika",
+   "diplomasi",
    "diplomatik beceri; incelik"
   ],
   "ex": [
@@ -134,9 +134,9 @@
    "Toplu taşımaya yapılan yatırımlar, büyüyen şehirlerde trafik sıkışıklığını azaltabilir ve istihdama erişimi iyileştirebilir."
   ],
   "col": [
-   "transit halinde",
+   "taşıma sırasında; yolda",
    "toplu taşıma",
-   "transit sistemi",
+   "toplu taşıma sistemi",
    "transit vizesi"
   ],
   "tip": "In transit taşıma sırasında demektir. Public transit Amerikan İngilizcesidir; İngiliz İngilizcesinde public transport kullanılır.",
@@ -163,14 +163,14 @@
  {
   "id": "reimbursement",
   "senses": [
-   "masraf karşılama; geri ödeme"
+   "masraf iadesi; geri ödeme"
   ],
   "ex": [
-   "İş yerinden masraf karşılaması talep etmek için tren biletini sakla.",
+   "İş yerinden masrafların geri ödenmesini talep etmek için tren biletini sakla.",
    "Çalışanlara seyahat masrafları için geri ödeme sağlamak, mesleki eğitimi düşük gelirli çalışanlar için daha erişilebilir kılabilir."
   ],
   "col": [
-   "masraf karşılaması talep etmek",
+   "masraf iadesi talep etmek",
    "masrafların geri ödenmesi",
    "tam geri ödeme"
   ],
@@ -218,8 +218,8 @@
  {
   "id": "prelude",
   "senses": [
-   "prelüd; ön müzik",
-   "başlangıç; habercisi"
+   "başlangıç; öncül",
+   "prelüd; giriş parçası"
   ],
   "ex": [
    "Kısa yürüyüşümüz güzel bir pikniğin başlangıcıydı.",
@@ -244,7 +244,7 @@
   ],
   "col": [
    "araştırmacıları şaşırtmak",
-   "...den şaşkına dönmek",
+   "...karşısında şaşkına dönmek",
    "kafa karıştırıcı bir sorun"
   ],
   "tip": "Kişinin duygusu için 'perplexed', şeyin etkisi için 'perplexing' kullanılır: 'I am perplexed' ve 'a perplexing problem'.",

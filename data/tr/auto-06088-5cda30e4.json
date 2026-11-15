@@ -94,7 +94,7 @@
    "isteksizlik; çekingenlik"
   ],
   "ex": [
-   "Leo, belli belirsiz bir isteksizlikle en sevdiği oyuncağını geri verdi.",
+   "Belirgin bir isteksizlikle Leo en sevdiği oyuncağı geri verdi.",
    "Bazı yolcular, hizmetler seyrek ve güvenilmez olduğu için toplu taşımayı kullanmaya isteksiz davranıyor."
   ],
   "col": [
@@ -109,7 +109,7 @@
   "id": "grudge",
   "senses": [
    "kin; garez",
-   "kin beslemek; esirgemek"
+   "esirgemek; çok görmek"
   ],
   "ex": [
    "Hâlâ kırık vazo yüzünden ona kin besliyor.",
@@ -127,7 +127,7 @@
   "id": "imperial",
   "senses": [
    "imparatorluğa ait",
-   "İngiliz ölçü birimlerine ait; emperyal"
+   "İngiliz ölçü sistemine ait"
   ],
   "ex": [
    "İmparatorluk sarayının altın çatısına hayran kaldık.",
@@ -146,7 +146,7 @@
   "id": "leafy",
   "senses": [
    "yapraklı; yeşil ağaçlı",
-   "yapraklı; yaprak sebze türü"
+   "yapraklı; yaprağı yenen"
   ],
   "ex": [
    "Büyük, yapraklı bir ağacın altında sandviçlerimizi yedik.",
@@ -200,7 +200,7 @@
   "id": "lavish",
   "senses": [
    "gösterişli; bol; cömert",
-   "bol bol vermek; lavışça harcamak"
+   "bol bol vermek; yağdırmak"
   ],
   "ex": [
    "Tüm aile için gösterişli bir ziyafet hazırladılar.",
@@ -253,12 +253,12 @@
  {
   "id": "paralysis",
   "senses": [
-   "felç; uyuşma",
+   "felç",
    "felç; durma noktası"
   ],
   "ex": [
    "Yaralanma, sol bacağında geçici bir felce neden oldu.",
-   "Siyasi anlaşmazlıklar, konut ve toplu taşıma gibi temel kararların gecikmesine yol açan idari bir felce yol açabilir."
+   "Siyasi anlaşmazlıklar, idari felce yol açarak konut ve toplu taşıma gibi temel kararları geciktirebilir."
   ],
   "col": [
    "geçici felç",

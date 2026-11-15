@@ -28,7 +28,7 @@
    "Küçük çocuklar, tanıdık bir oyuncağı yabancı bir ortamda rahatlık sağladığı için tıbbi randevularda sıkıca tutabilir."
   ],
   "col": [
-   "birinin elini sıkmak",
+   "birinin elini sıkıca tutmak",
    "ellerini birleştirip sıkmak",
    "kolye tokası"
   ],
@@ -45,8 +45,8 @@
    "Müzisyen, insanların evlerinden uzakta yaşadıkları yalnızlığı aktarmak için hüzünlü bir melodi kullanıyor."
   ],
   "col": [
-   "hüzünlü bir ses",
-   "hüzünlü bir ses tonu",
+   "hüzünlü bir feryat",
+   "hüzünlü ses",
    "hüzünlü bir ezgi"
   ],
   "tip": "Çoğunlukla ses, ton veya müzikte duyulan hüznü anlatır; sadece 'üzgün' değil, yakınır gibi bir tını da taşır.",
@@ -74,12 +74,12 @@
    "bilgi vermek; haberdar etmek"
   ],
   "ex": [
-   "Cuma gününden önce bana yapılacak herhangi bir değişiklikten haberdar edin.",
+   "Cuma gününden önce olası her değişiklikten beni haberdar edin.",
    "Okullar, çocukları etkileyen yeni kurallar uygulamadan önce ailelere önemli politika değişikliklerini resmen bildirmelidir."
   ],
   "col": [
    "birini bir şeyden haberdar etmek",
-   "birini bilgilendirilmiş tutmak"
+   "birini bilgilendirmeye devam etmek"
   ],
   "tip": "Resmi bir fiildir ve 'apprise sb of sth' kalıbıyla kullanılır. 'Değerlendirmek' anlamındaki appraise ile karıştırılmamalıdır.",
   "note": ""
@@ -144,7 +144,7 @@
   ],
   "ex": [
    "Doktor, kabakulak belirtisi olup olmadığını görmek için şişmiş yanaklarını kontrol etti.",
-   "Düzenli aşılama kabakulağın önlenmesine yardımcı olur ve okullarda ile kalabalık ortamlardaki salgın riskini azaltır."
+   "Düzenli aşılama kabakulağın önlenmesine yardımcı olur ve okullardaki ve diğer kalabalık ortamlardaki salgın riskini azaltır."
   ],
   "col": [
    "kabakulağa yakalanmak",
@@ -178,8 +178,8 @@
    "bataklık; çamurlu zemin"
   ],
   "ex": [
-   "Basit mutfak tadilatımız beklenmedik masrafların çıkmazına dönüştü.",
-   "Açık düzenlemeler olmadan büyük altyapı projeleri hukuki anlaşmazlıklar ve mali belirsizlik çıkmazına saplanabilir."
+   "Basit mutfak tadilatımız, beklenmedik masraflardan oluşan bir çıkmaza dönüştü.",
+   "Açık düzenlemeler olmadan büyük altyapı projeleri, hukuki anlaşmazlıkların ve mali belirsizliğin oluşturduğu bir çıkmaza saplanabilir."
   ],
   "col": [
    "hukuki bir çıkmaz",
@@ -244,17 +244,17 @@
  {
   "id": "baroness",
   "senses": [
-   "baronluk unvanlı kadın; baronun eşi"
+   "kadın baron; baron eşi"
   ],
   "ex": [
-   "Baroness, ziyaretçileri ailesinin eski kalesine kabul etti.",
-   "Baronesin portresi, kıyafetlerin bir zamanlar toplumsal statüyü ve servetini nasıl gösterdiğini ortaya koyuyor."
+   "Barones, ziyaretçileri ailesinin eski kalesine kabul etti.",
+   "Baronesin portresi, kıyafetlerin bir zamanlar toplumsal statüyü ve serveti nasıl gösterdiğini ortaya koyuyor."
   ],
   "col": [
-   "ömürlük baronluk unvanlı kadın",
+   "ömür boyu barones",
    "baroneslik unvanı"
   ],
-  "tip": "Hem kendisi asalet unvanı taşıyan kadını hem de bir barona evli kadını ifade edebilir; bağlama dikkat edin.",
+  "tip": "Hem kendisi baronluk unvanı taşıyan kadını hem de bir baronun eşini ifade edebilir; bağlama dikkat edin.",
   "note": ""
  }
 ]

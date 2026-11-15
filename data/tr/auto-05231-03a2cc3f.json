@@ -3,7 +3,7 @@
   "id": "photographic",
   "senses": [
    "fotoğrafa ait; fotoğrafik",
-   "çok keskin; kusursuz"
+   "fotoğrafik; çok keskin"
   ],
   "ex": [
    "Gün doğumu yürüyüşünden önce fotoğraf ekipmanlarını çantasına koydu.",
@@ -12,7 +12,7 @@
   "col": [
    "fotoğraf ekipmanı",
    "fotoğraf kanıtı",
-   "çok keskin hafıza"
+   "fotoğrafik hafıza"
   ],
   "tip": "photographic memory, fotoğraf gibi kayıt tutmak değil, çok ayrıntılı hatırlamak anlamına gelir. Fotoğrafla ilgili nesneler için photographic kullanılır.",
   "note": ""
@@ -43,7 +43,7 @@
    "bağlam; metin akışı"
   ],
   "ex": [
-   "Durumu anladığımda sessizliği mantıklı geldi.",
+   "Bağlamı anladığımda sessizliği anlam kazandı.",
    "Tarihsel olaylar, yalnızca çağdaş ölçülere göre yargılanmak yerine kendi toplumsal bağlamları içinde incelenmelidir."
   ],
   "col": [
@@ -82,7 +82,7 @@
    "özet"
   ],
   "ex": [
-   "Karmaşık fikirleri çocuklara açıklamak için oyuncakları kullanıyor.",
+   "Soyut fikirleri çocuklara açıklamak için oyuncakları kullanıyor.",
    "Özeti okumak, araştırmacıların bir çalışmanın kendi işleriyle ilgili olup olmadığına karar vermelerine yardımcı olur."
   ],
   "col": [
@@ -97,15 +97,15 @@
  {
   "id": "majority",
   "senses": [
-   "çoğunluk; ekseriyet",
-   "oy farkı; çoğunluk oyu"
+   "çoğunluk; büyük kısım",
+   "oy farkı; üstünlük"
   ],
   "ex": [
    "Komşularımızın çoğunun köpeği ya da kedisi var.",
    "Ankete katılanların çoğunluğu, yeni yollar yapmak yerine toplu taşımaya daha fazla yatırım yapılmasını destekledi."
   ],
   "col": [
-   "çoğunluğun büyük kısmı",
+   "büyük çoğunluk",
    "açık bir çoğunluk",
    "çoğunluğu kazanmak"
   ],
@@ -132,7 +132,7 @@
  {
   "id": "suffix",
   "senses": [
-   "sonek; son ek"
+   "sonek"
   ],
   "ex": [
    "Öğretmenimiz bize bir sonekin kelimeyi nasıl değiştirdiğini gösterdi.",
@@ -157,7 +157,7 @@
    "Hükümetlerin ve toplulukların birleşik tepkisi, iklim değişikliğinin uzun vadeli zorluklarıyla başa çıkmak için şarttır."
   ],
   "col": [
-   "tek cephe",
+   "ortak cephe",
    "birleşik tepki",
    "muhalefette birlik içinde",
    "birlik içinde kalmak"
@@ -177,7 +177,7 @@
   "col": [
    "uygulamalı dilbilim",
    "tarihsel dilbilim",
-   "dilbilim çalışmak"
+   "dilbilim okumak"
   ],
   "tip": "s ile bitmesine rağmen bilim dalı adı olarak tekil fiil alır (Linguistics is interesting). Dil öğrenimi anlamına gelmez, bilimsel incelemedir.",
   "note": ""

@@ -10,7 +10,7 @@
    "Toplu taşımanın özel araçlara gerçekçi bir alternatif olabilmesi için uygun fiyatlı ve güvenilir olması gerekir."
   ],
   "col": [
-   "uygun seçenek",
+   "uygulanabilir seçenek",
    "ekonomik açıdan uygulanabilir",
    "uygulanabilir çözüm",
    "çimlenebilir tohumlar"
@@ -113,17 +113,17 @@
  {
   "id": "tentative",
   "senses": [
-   "geçici; kesinleşmemiş",
+   "kesinleşmemiş; ön",
    "çekingen; tereddütlü"
   ],
   "ex": [
-   "Gelecek hafta sonu kıyıya gitmek için geçici planlar yaptık.",
+   "Gelecek hafta sonu kıyıya gitmek için kesinleşmemiş planlar yaptık.",
    "Araştırmacılar ihtiyatlı sonuçlara ulaştı; ancak tedavinin geniş çapta önerilebilmesi için daha fazla çalışma gerekiyor."
   ],
   "col": [
-   "geçici planlar",
-   "ihtiyatlı bir sonuç",
-   "geçici anlaşma",
+   "kesinleşmemiş planlar",
+   "ön bir sonuç",
+   "ön anlaşma",
    "çekingen bir gülümseme"
   ],
   "tip": "Tentative, süreden çok belirsizliği anlatır; 'temporary' ile karıştırılmamalı.",
@@ -158,10 +158,10 @@
    "Bağımsız müfettişler, gelecekte benzer kazaları önlemek için endüstriyel kazaların nedenlerini araştırmalıdır."
   ],
   "col": [
+   "...i araştırmak",
    "soruşturma başlatmak",
    "uzay sondası",
-   "tıbbi sonda",
-   "...i araştırmak"
+   "tıbbi sonda"
   ],
   "tip": "Fiil doğrudan inceleme nesnesi alabilir ya da 'probe into' kalıbıyla kullanılır.",
   "note": ""
@@ -172,7 +172,7 @@
    "nüans; ince fark"
   ],
   "ex": [
-   "Gülümsemesi özre hafif oyunbaz bir tını kattı.",
+   "Gülümsemesi özre hafif oyunbaz bir hava kattı.",
    "Dil öğrenenlerin, sözlüklerin tam olarak açıklayamadığı nüansları fark edebilmesi için kültürel bilgiye ihtiyacı vardır."
   ],
   "col": [
@@ -232,7 +232,7 @@
    "yasayı yürürlüğe koymak",
    "bir sahneyi canlandırmak"
   ],
-  "tip": "Enact yasa çıkarmak ya da kabul ettirmek anlamına gelir; yasayı uygulamak için enforce kullanılır.",
+  "tip": "Enact yasa çıkarmak ya da yasayı kabul etmek anlamına gelir; yasayı uygulamak için enforce kullanılır.",
   "note": ""
  },
  {

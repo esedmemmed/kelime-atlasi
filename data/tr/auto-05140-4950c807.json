@@ -2,8 +2,8 @@
  {
   "id": "debit",
   "senses": [
-   "borç kaydı; hesap borcu",
-   "hesabı borçlandırmak; düşmek"
+   "hesaptan çekim; borç kaydı",
+   "hesaptan düşmek; borçlandırmak"
   ],
   "ex": [
    "Banka aynı alışveriş için hesabımdan iki kez para çekti.",
@@ -11,24 +11,24 @@
   ],
   "col": [
    "banka kartı",
-   "doğrudan borçlandırma (otomatik ödeme)",
+   "otomatik ödeme",
    "hesabı borçlandırmak"
   ],
-  "tip": "Banka hesabından para çekilmesini anlatır; kredi kartı harcamaları için kullanılmaz. Kredi kartı için credit card denir.",
+  "tip": "Debit card hesaptaki bakiyeyi kullanır; credit card ise kredi limitini kullanır.",
   "note": ""
  },
  {
   "id": "outskirt",
   "senses": [
-   "şehrin dış çeperi"
+   "şehir çevresi; kenar"
   ],
   "ex": [
-   "Teyzem, çiftliğin yakınındaki şehir çeperinde yaşıyor.",
-   "Şehir çeperinde uygun fiyatlı konut inşa etmek maliyetleri düşürebilir, ancak sakinlerin araca bağımlılığını artırabilir."
+   "Teyzem, şehrin eteklerinde, bir çiftliğin yakınında yaşıyor.",
+   "Şehrin eteklerinde uygun fiyatlı konut inşa etmek maliyetleri düşürebilir, ancak sakinlerin araca bağımlılığını artırabilir."
   ],
   "col": [
-   "...nin çevresinde",
-   "kasabanın kenar mahalleleri"
+   "...in eteklerinde",
+   "kasabanın eteklerinde"
   ],
   "tip": "Genellikle çoğul outskirts biçiminde ve on the outskirts of kalıbıyla kullanılır; in yerine on tercih edilir.",
   "note": "Tekil biçim nadir kullanılır; yaygın sözlük biçimi outskirts'tir."
@@ -57,7 +57,7 @@
   ],
   "ex": [
    "Muhasebe memurumuz her cuma öğleden sonra fişleri kontrol eder.",
-   "Küçük işletmeler, doğru finansal kayıtları tutmak ve günlük giderleri izlemek için genellikle bir defter tutma görevlisi çalıştırır."
+   "Küçük işletmeler, doğru finansal kayıtları tutmak ve günlük giderleri izlemek için genellikle bir muhasebe memuru çalıştırır."
   ],
   "col": [
    "muhasebe memuru çalıştırmak",
@@ -253,7 +253,7 @@
   "id": "depression",
   "senses": [
    "depresyon; çöküntü",
-   "ekonomik durgunluk; bunalım",
+   "ekonomik bunalım; buhran",
    "çukur; alçak alan"
   ],
   "ex": [
@@ -263,7 +263,7 @@
   "col": [
    "depresyondan muzdarip olmak",
    "ağır depresyon",
-   "ekonomik durgunluk",
+   "ekonomik bunalım",
    "depresyonu tedavi etmek"
   ],
   "tip": "Kalıcı üzüntü ve ilgi kaybını anlatan klinik bir durumdur; geçici moral bozukluğu için kullanılmaz. Ekonomik anlamda a depression biçiminde sayılabilir.",

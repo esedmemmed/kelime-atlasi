@@ -6,12 +6,12 @@
   ],
   "ex": [
    "Onun harika yemek pişirme becerisi konusunda kefil olabilirim.",
-   "Bağımsız uzmanlar, bulguların doğruluğunu garanti etmeden önce araştırma yöntemlerini incelemelidir."
+   "Bağımsız uzmanlar, bulguların doğruluğuna kefil olmadan önce araştırma yöntemlerini incelemelidir."
   ],
   "col": [
    "birine kefil olmak",
-   "bulguların doğruluğunu garanti etmek",
-   "kalitesini garanti etmek"
+   "doğruluğuna kefil olmak",
+   "kalitesine kefil olmak"
   ],
   "tip": "Genellikle \"vouch for\" kalıbıyla kullanılır. \"Vouch someone\" biçimi kullanılmaz.",
   "note": ""
@@ -54,7 +54,7 @@
  {
   "id": "periodic",
   "senses": [
-   "periyodik; belirli aralıklarla"
+   "periyodik; düzenli"
   ],
   "ex": [
    "Eski kazanın güvenli şekilde çalışmaya devam etmesi için periyodik kontroller gerekir.",
@@ -125,11 +125,11 @@
   "id": "orthodox",
   "senses": [
    "Ortodoks",
-   "Ortodoks; geleneksel Yahudi"
+   "Ortodoks; Ortodoks Yahudi"
   ],
   "ex": [
-   "Güzel boyalı ikonlarıyla ünlü bir Ortodoks kilisesini ziyaret ettik.",
-   "Ortodoks kiliselerin korunması, mimari mirası koruyabilir ve ziyaretçilerin yerel toplulukların dini geleneklerini anlamasına yardımcı olabilir."
+   "Güzel boyalı ikonları olan bir Ortodoks kilisesini ziyaret ettik.",
+   "Ortodoks kiliselerin korunması, mimari mirası koruyabilir ve ziyaretçilerin yerel toplulukların dinî geleneklerini anlamasına yardımcı olabilir."
   ],
   "col": [
    "Ortodoks Kilisesi",

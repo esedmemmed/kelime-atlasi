@@ -2,7 +2,7 @@
  {
   "id": "repay",
   "senses": [
-   "geri ödemek; iade etmek",
+   "geri ödemek",
    "karşılık vermek"
   ],
   "ex": [
@@ -10,7 +10,7 @@
    "Sağlam iş imkânları sınırlı kalırsa mezunlar öğrenci kredilerini geri ödemekte zorlanabilir."
   ],
   "col": [
-   "kredi geri ödemek",
+   "krediyi geri ödemek",
    "borcunu ödemek",
    "birinin iyiliğine karşılık vermek"
   ],
@@ -41,7 +41,7 @@
    "harfi harfine; kelimesi kelimesine"
   ],
   "ex": [
-   "Soğuk ayaklar deyimini gerçek anlamında kastetmiştim.",
+   "\"Cold feet\" derken gerçekten soğuk ayakları kastetmiştim.",
    "Kelimesi kelimesine çeviri, tek tek sözcükleri koruyabilir ama ifadenin kültürel anlamını aktaramayabilir."
   ],
   "col": [
@@ -66,7 +66,7 @@
    "bir noktayı açıklığa kavuşturmak",
    "durumu netleştirmek",
    "anlamı açıklamak",
-   "berraklaştırılmış tereyağı"
+   "arıtılmış tereyağı"
   ],
   "tip": "Açıklanacak şeyi doğrudan nesne olarak alır: clarify the rules. Nesneden önce 'about' koymak gerekmez.",
   "note": ""
@@ -192,7 +192,7 @@
    "Tecrit edilmiş topluluklar için güvenilmez ulaşım, sağlık hizmetine ve istihdama erişimi kısıtlayan bir belâ olabilir."
   ],
   "col": [
-   "nefesinin altından küfretmek",
+   "kısık sesle küfretmek",
    "birine lanet okumak",
    "hem nimet hem belâ"
   ],
@@ -249,7 +249,7 @@
   "col": [
    "hayatta kalma becerileri",
    "hayatta kalma oranı",
-   "uzun vadeli varlığını sürdürme",
+   "uzun vadeli hayatta kalma",
    "hayatta kalmak için mücadele etmek"
   ],
   "tip": "survival hayatta kalma durumunu anlatır; hayatta kalan kişi için survivor kullanılır.",

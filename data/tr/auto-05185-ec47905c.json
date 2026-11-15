@@ -78,7 +78,7 @@
    "şans; kader"
   ],
   "ex": [
-   "Istasyonun yakınındaki o küçük daire bir servete mal oluyor.",
+   "İstasyonun yakınındaki o küçük daire bir servete mal oluyor.",
    "Bazı girişimciler, daha önce gözden kaçmış ihtiyaçlara uygun fiyatlı ürünler geliştirerek servet kazanır."
   ],
   "col": [
@@ -94,7 +94,7 @@
   "id": "explosion",
   "senses": [
    "patlama",
-   "patlama gibi artış; ani artış",
+   "ani artış; patlama",
    "ani patlama; taşma"
   ],
   "ex": [
@@ -192,7 +192,7 @@
   "senses": [
    "uygulamak; koymak",
    "dayatmak",
-   "yük olmak; zorlamak"
+   "zahmet vermek; yük olmak"
   ],
   "ex": [
    "Kütüphane, geciken kitaplarım için küçük bir ceza uyguladı.",
@@ -247,7 +247,7 @@
   "senses": [
    "sıkıca tutmak; kavramak",
    "sıkı kavrayış; tutuş",
-   "hakimiyet; egemenlik"
+   "denetim; hâkimiyet"
   ],
   "ex": [
    "Tekne hafifçe sallanırken parmaklığı sıkıca tuttu.",
@@ -255,7 +255,7 @@
   ],
   "col": [
    "sıkıca tutmak",
-   "sağlam bir kavrayış",
+   "sıkı bir tutuş",
    "kontrolü kaybetmek",
    "iktidar üzerinde hakimiyet"
   ],
@@ -278,7 +278,7 @@
    "... için boş pozisyon",
    "müsait oda yok"
   ],
-  "tip": "Hem iş pozisyonu hem oda için sayılabilir; çoğulu vacancies. Yerel kullanımda 'boş kontenjan' yerine 'açık pozisyon' tercih edilir.",
+  "tip": "İş için de oda için de sayılabilir; çoğulu vacancies. 'Vacancy for' + pozisyon kalıbıyla kullanılır.",
   "note": ""
  }
 ]

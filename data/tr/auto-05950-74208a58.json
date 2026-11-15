@@ -13,7 +13,7 @@
   "col": [
    "ciddi bir dezavantaj",
    "golf handikabı",
-   "-den dezavantajlı olmak"
+   "...nedeniyle dezavantajlı olmak"
   ],
   "tip": "Engellilik ya da engelli kişileri anlatmak için kullanımı eskimiştir; bu durumda disability tercih edilmelidir.",
   "note": "Engellilik ya da engelli kişileri anlatmak için kullanımı eskimiştir ve incitici olabilir."
@@ -67,7 +67,7 @@
    "Bağımsız mahkemeler, kamu makamlarının yasa çerçevesinde hareket etmesini sağlayarak vatandaşların haklarını korumaya yardımcı olur."
   ],
   "col": [
-   "yasayı savunmak",
+   "yasayı korumak",
    "insan haklarını savunmak",
    "bir kararı onamak",
    "standartları korumak"
@@ -98,7 +98,7 @@
    "uyma; uygunluk; konformizm"
   ],
   "ex": [
-   "Sanat öğretmenimiz katı bir uyum yerine yaratıcılığı teşvik eder.",
+   "Sanat öğretmenimiz katı bir uyumculuk yerine yaratıcılığı teşvik eder.",
    "Okullarda uyma baskısının güçlü olması, öğrencilerin yerleşik fikirleri sorgulamasını ve bağımsız yargı geliştirmesini engelleyebilir."
   ],
   "col": [
@@ -151,11 +151,11 @@
    "harcama; masraf"
   ],
   "ex": [
-   "İlk yatırımımız alet ve sağlam bir çalışma tezgâhını kapsıyordu.",
+   "İlk masrafımız aletleri ve sağlam bir çalışma tezgâhını kapsıyordu.",
    "Güneş panelleri büyük bir başlangıç masrafı gerektirse de zamanla evlerin enerji giderlerini azaltabilir."
   ],
   "col": [
-   "ilk yatırım",
+   "ilk masraf",
    "sermaye harcaması",
    "önemli bir harcama"
   ],
@@ -235,7 +235,7 @@
  {
   "id": "appraise",
   "senses": [
-   "değerlendirmek; takdir etmek",
+   "değerlendirmek; incelemek",
    "değer biçmek; ekspertiz yapmak"
   ],
   "ex": [
@@ -261,9 +261,9 @@
    "Gümrük vergileri yerli üreticileri koruyabilse de tüketici fiyatlarını yükseltebilir ve ticari anlaşmazlıklara yol açabilir."
   ],
   "col": [
-   "vergi uygulamak",
+   "gümrük vergisi uygulamak",
    "ithalat vergisi",
-   "vergileri azaltmak",
+   "gümrük vergilerini azaltmak",
    "elektrik tarifesi"
   ],
   "tip": "Mal üzerindeki vergi için tariff on goods kalıbı kullanılır; çoğul tariffs ise birden fazla vergiyi anlatır.",

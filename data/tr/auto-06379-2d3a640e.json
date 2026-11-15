@@ -64,7 +64,7 @@
    "Hayvanat bahçeleri, her bir kafesin hayvanların doğal davranışlarını sergileyebilecekleri kadar geniş olmasını sağlamalıdır."
   ],
   "col": [
-   "bir hayvan çiti",
+   "hayvan barınağı",
    "güvenli bir çevrili alan",
    "arazinin çitlenmesi"
   ],
@@ -111,7 +111,7 @@
   "id": "materialism",
   "senses": [
    "maddecilik; maddiyatçılık",
-   "materyalizm; maddecilik"
+   "materyalizm; özdekçilik"
   ],
   "ex": [
    "Maddiyatçılığa karşı çıkar ve pahalı eşyalar yerine deneyimleri tercih eder.",
@@ -149,7 +149,7 @@
    "olumsuz; aleyhte; zararlı"
   ],
   "ex": [
-   "Feci hava koşulları yüzünden feribot seferleri iptal edildi.",
+   "Olumsuz hava koşulları yüzünden feribot seferleri iptal edildi.",
    "Trafik gürültüsüne uzun süre maruz kalmak sakinlerin uykusu ve ruh sağlığı üzerinde olumsuz etkilere yol açabilir."
   ],
   "col": [
@@ -201,7 +201,7 @@
   "id": "cordial",
   "senses": [
    "samimi; sıcakkanlı; içten",
-   "meyve şurubu; konsantre meyve içeceği"
+   "meyve şurubu"
   ],
   "ex": [
    "Yeni komşularımız bizi çok sıcak bir şekilde karşıladı.",
@@ -237,8 +237,8 @@
  {
   "id": "carp",
   "senses": [
-   "sazan; sazan balığı",
-   "sürekli eleştirmek; yakınmak"
+   "sazan",
+   "sürekli eleştirmek; söylenmek"
   ],
   "ex": [
    "Köprünün altında yüzen büyük bir sazanı izledik.",

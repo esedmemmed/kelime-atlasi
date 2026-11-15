@@ -3,7 +3,7 @@
   "id": "degrade",
   "senses": [
    "bozmak; kalitesini düşürmek",
-   "parçalamak; ayrıştırmak",
+   "parçalanmak; ayrışmak",
    "aşağılamak; onursuzlaştırmak"
   ],
   "ex": [
@@ -22,7 +22,7 @@
   "id": "hoist",
   "senses": [
    "kaldırmak; çekmek",
-   "vinç; asansör"
+   "vinç; kaldırıcı"
   ],
   "ex": [
    "Ağır bavulu büyük güçlükle bagaj rafına kaldırdık.",
@@ -30,7 +30,7 @@
   ],
   "col": [
    "bayrak çekmek",
-   "yelken çekmek",
+   "yelken açmak",
    "yerine kaldırmak",
    "elektrikli vinç"
   ],
@@ -63,7 +63,7 @@
    "dengesiz; eşit olmayan"
   ],
   "ex": [
-   "Ceketin yaka tasarımı asimetrik, ama cepleri derin.",
+   "Ceketin yakası asimetrik ve cepleri derin.",
    "Pazar bilgisine eşit olmayan erişim, küçük işletmeleri büyük firmalarla pazarlık yaparken dezavantajlı duruma düşürebilir."
   ],
   "col": [
@@ -197,7 +197,7 @@
  {
   "id": "redeem",
   "senses": [
-   "değiştirmek; takas etmek",
+   "bozdurmak; kullanmak",
    "telafi etmek; kurtarmak",
    "geri almak; rehinden çıkarmak"
   ],
@@ -208,7 +208,7 @@
   "col": [
    "kuponu kullanmak",
    "puanları harcamak",
-   "kendini telafi etmek",
+   "itibarını geri kazanmak",
    "telafi edici özellik"
   ],
   "tip": "redeem A for B: A'yı B ile değiştirmek anlamına gelir. Bağlama göre 'telafi etmek' ya da 'geri almak' anlamı da olabilir.",
@@ -235,7 +235,7 @@
   "senses": [
    "gizli oylama; oylama",
    "oy pusulası",
-   "oylamaya başvurmak"
+   "oylama yapmak; oy vermek"
   ],
   "ex": [
    "Kulübümüz yeni başkanını gizli oylamayla seçti.",

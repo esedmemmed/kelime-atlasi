@@ -46,13 +46,13 @@
    "menevişlemek"
   ],
   "ex": [
-   "Çekmece yine sıkışınca sinirlenip kendini kaybetti.",
+   "Çekmece yine sıkışınca sinirlendi.",
    "Hükümetler, yeni teknolojilere duyulan coşkuyu olası toplumsal sonuçlarına dair dikkatli bir değerlendirmeyle dengelemelidir."
   ],
   "col": [
-   "sabrını yitirmek",
+   "sinirlenmek",
    "öfkesini kontrol etmek",
-   "kısa tabiatlı olmak",
+   "çabuk sinirlenen bir yapı",
    "coşkuyu ihtiyatla dengelemek"
   ],
   "tip": "'Lose your temper' öfkelenmek demektir. Fiil olarak 'temper A with B' kalıbıyla 'A'yı B ile dengelemek' anlamına gelir.",
@@ -66,12 +66,12 @@
   ],
   "ex": [
    "İki dilli komşumuz hem İngilizceyi hem Çinceyi akıcı konuşuyor.",
-   "İki dilli eğitim, çocukların kültürel kimliklerini korumalarına ve giderek bağlanan bir dünyada beceri kazanmalarına yardımcı olabilir."
+   "İki dilli eğitim, çocukların kültürel kimliklerini korumalarına ve giderek birbirine bağlanan bir dünyada beceri kazanmalarına yardımcı olabilir."
   ],
   "col": [
    "iki dilli eğitim",
    "iki dilli sözlük",
-   "iki dilli konuşan kişi"
+   "iki dilli konuşmacı"
   ],
   "tip": "Hangi dilleri bildiğini belirtmek için 'bilingual in English and Turkish' kalıbı kullanılır.",
   "note": ""
@@ -108,7 +108,7 @@
   "col": [
    "bağışıklık sistemini zayıflatmak",
    "bir argümanı zayıflatmak",
-   "talebi azaltmak"
+   "talebi zayıflatmak"
   ],
   "tip": "Hem geçişli hem geçişsiz kullanılır: hem bir şeyi zayıflatmak hem de kendiliğinden zayıflamak anlamına gelir.",
   "note": ""
@@ -153,16 +153,16 @@
   "id": "grace",
   "senses": [
    "zarafet; incelik",
-   "süre tanıma; lütuf",
+   "mühlet; lütuf",
    "süslemek; onurlandırmak"
   ],
   "ex": [
-   "Dansçı sahnede çaba göstermeden bir zarafetle hareket etti.",
+   "Dansçı sahnede zahmetsiz bir zarafetle hareket etti.",
    "Kısa bir ek süre, hanelerin beklenmedik gecikmelerle gelen gelirlerini yönetmesine yardımcı olabilir."
   ],
   "col": [
    "zarafetle",
-   "ödeme erteleme süresi",
+   "ek süre",
    "etkinliği onurlandırmak"
   ],
   "tip": "'Zarafet' anlamında genellikle sayılamayan bir isimdir; 'grace period' bir ödeme ya da yükümlülük için tanınan ek süredir.",
@@ -216,7 +216,7 @@
   "col": [
    "cömertlik göstermek",
    "bir cömertlik örneği",
-   "başkalarına karşı hoşgörü"
+   "başkalarına karşı cömertlik"
   ],
   "tip": "Genellikle sayılamayan bir isimdir; tek bir cömert davranış için 'an act of generosity' kalıbı kullanılır.",
   "note": ""

@@ -21,7 +21,7 @@
   "id": "stiffen",
   "senses": [
    "sertleşmek; katılaşmak",
-   "kararlılaşmak; güçlenmek"
+   "pekişmek; güçlenmek"
   ],
   "ex": [
    "Otobüste saatlerce oturduktan sonra bacaklarım katılaşıyor.",
@@ -38,8 +38,8 @@
  {
   "id": "paralyse",
   "senses": [
-   "felç etmek; felç bırakmak",
-   "işlevini durdurmak; aksatmak"
+   "felç etmek; felce uğratmak",
+   "durdurmak; aksatmak"
   ],
   "ex": [
    "Yaralanma bacaklarını felç etti, ama kolları güçlü kaldı.",
@@ -66,7 +66,7 @@
   "col": [
    "yemek masasında oyalanmak",
    "havada asılı kalmak",
-   "üzerinde uzun uzun durmak"
+   "uzun süre sürmek"
   ],
   "tip": "Geçişsiz bir fiildir, doğrudan nesne almaz. linger over bir şeyi yavaşça yapmak ya da üzerinde uzun uzun durmak anlamına gelir.",
   "note": ""
@@ -75,7 +75,7 @@
   "id": "stranding",
   "senses": [
    "karaya vurma",
-   "mahsur bırakmak; karaya oturmak"
+   "mahsur bırakmak; karaya oturtmak"
   ],
   "ex": [
    "Bir balinanın karaya vurmasının ardından gönüllüler yardıma koştu.",
@@ -118,7 +118,7 @@
    "Su arıtma yöntemlerinin sürekli geliştirilmesi, temiz suyun maliyetini düşürürken halk sağlığını da iyileştirebilir."
   ],
   "col": [
-   "daha ileri iyileştirme",
+   "daha fazla iyileştirme",
    "tasarıma yapılan ince ayar",
    "ham maddelerin arıtılması"
   ],
@@ -151,7 +151,7 @@
    "uysal; yumuşak başlı"
   ],
   "ex": [
-   "Hafifçe başını sallayıp kenara çekildi.",
+   "Çekingen bir baş sallamayla kenara çekildi.",
    "Sınıfta sessiz görünen öğrenciler, destekleyici bir tartışma ortamında güçlü görüşler dile getirebilir."
   ],
   "col": [
@@ -209,7 +209,7 @@
   "col": [
    "neredeyse algılanamayan",
    "fark edilir değişim",
-   "fark edilir fark"
+   "belirgin fark"
   ],
   "tip": "Algılanabilecek kadar belirgin anlamına gelir, mutlaka çok büyük olması gerekmez. Genellikle barely ile birlikte kullanılır.",
   "note": ""
@@ -235,15 +235,15 @@
  {
   "id": "pretentious",
   "senses": [
-   "gösterişli; kendini beğenmiş"
+   "gösterişçi; yapmacık"
   ],
   "ex": [
-   "Kafe, kadife koltukları ve küçük porsiyonlarıyla gösterişli bir havaya sahipti.",
-   "Kamusal sanat eserlerinin sunumu davetkâr ve erişilebilir olmak yerine gösterişli görünürse yerel sakinler uzaklaşabilir."
+   "Kafe, kadife koltukları ve küçük porsiyonlarıyla gösterişçi bir havaya sahipti.",
+   "Kamusal sanat eserlerinin sunumu davetkâr ve erişilebilir olmak yerine gösterişçi görünürse yerel sakinler uzaklaşabilir."
   ],
   "col": [
-   "gösterişli görünmek",
-   "gösterişli dil",
+   "gösterişçi görünmek",
+   "yapmacık dil",
    "gösterişçi bir tavır"
   ],
   "tip": "Olumsuz bir sözcüktür: gereğinden fazla önemli görünmeye çalışmak anlamına gelir. Sadece özgüven ifade etmez.",
@@ -253,7 +253,7 @@
   "id": "peripheral",
   "senses": [
    "ikincil; önemsiz",
-   "çevresel; dış kenar",
+   "çevresel; kenardaki",
    "çevre birimi; yan donanım"
   ],
   "ex": [
@@ -263,7 +263,7 @@
   "col": [
    "ikincil sorun",
    "çevre görüşü",
-   "çevresel sinirler",
+   "periferik sinirler",
    "çevre aygıtı"
   ],
   "tip": "peripheral to something bir konuya göre ikincil ya da önemsiz olduğunu anlatır. Fiziksel olarak dış kenar anlamı da vardır.",

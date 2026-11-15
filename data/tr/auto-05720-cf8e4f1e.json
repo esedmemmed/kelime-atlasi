@@ -3,7 +3,7 @@
   "id": "maiden",
   "senses": [
    "ilk; ilk kez",
-   "genç kız; bakire"
+   "genç kız; kız"
   ],
   "ex": [
    "Yeni feribot bu sabah ilk seferini tamamladı.",
@@ -24,11 +24,11 @@
    "savcılık; iddia makamı"
   ],
   "ex": [
-   "Dükkân sahibi çalıntı bisikletleri satmaktan dolayı dava ile karşı karşıya kaldı.",
+   "Dükkân sahibi, çalıntı bisiklet sattığı için hakkında dava açılmasıyla karşı karşıya kaldı.",
    "Çevre suçlarının etkili bir şekilde kovuşturulması, güvenilir delil ve uzman hukuk ekipleri için yeterli kaynak gerektirir."
   ],
   "col": [
-   "dava ile karşı karşıya kalmak",
+   "hakkında dava açılmak",
    "ceza kovuşturması",
    "iddia makamının davası",
    "iddia makamı tanığı"
@@ -45,7 +45,7 @@
   ],
   "ex": [
    "Ailem giyeceğim kıyafetler konusunda oldukça hoşgörülü.",
-   "Özgür bir toplum, vatandaşları başkalarının haklarına saygı göstermeye teşvik ederken bireysel özgürlükleri korumalıdır."
+   "Liberal bir toplum, vatandaşları başkalarının haklarına saygı göstermeye teşvik ederken bireysel özgürlükleri korumalıdır."
   ],
   "col": [
    "hoşgörülü tutumlar",
@@ -165,7 +165,7 @@
   "id": "expenditure",
   "senses": [
    "harcama; gider",
-   "tüketim; harcama"
+   "sarf etme; emek harcama"
   ],
   "ex": [
    "Aylık harcamalarımızı küçük bir defterde takip ediyoruz.",
@@ -246,7 +246,7 @@
   "col": [
    "kira sözleşmesi",
    "sabit süreli kira",
-   "kiralamayı sonlandırmak",
+   "kira ilişkisini sonlandırmak",
    "kiracılık güvencesi"
   ],
   "tip": "'Tenant' kiracıyı, 'tenancy' ise kiralama ilişkisini, hakkı veya süreyi anlatır.",

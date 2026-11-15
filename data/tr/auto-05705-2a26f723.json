@@ -110,7 +110,7 @@
   "id": "cardinal",
   "senses": [
    "temel; en önemli",
-   "kardinal; kilise ileri geleni",
+   "kardinal",
    "kardinal kuşu"
   ],
   "ex": [
@@ -121,9 +121,9 @@
    "temel kural",
    "temel ilke",
    "temel hata",
-   "temel sayı"
+   "sayma sayısı"
   ],
-  "tip": "cardinal number temel sayıdır (1, 2, 3); ordinal number ise sıra sayısıdır (1., 2., 3.). Bu iki terimi karıştırmayın.",
+  "tip": "cardinal number sayma sayısıdır (1, 2, 3); ordinal number ise sıra sayısıdır (1., 2., 3.). Karıştırmayın.",
   "note": ""
  },
  {
@@ -157,7 +157,7 @@
   ],
   "col": [
    "plastik huni",
-   "suyu ... içine akıtmak",
+   "suyu ...'a yönlendirmek",
    "geminin bacası"
   ],
   "tip": "Fiil olarak funnel A into B kalıbıyla kullanılır: A'yı B'ye yönlendirmek anlamına gelir.",
@@ -166,9 +166,9 @@
  {
   "id": "cutting",
   "senses": [
-   "keskin; incitici",
+   "iğneleyici; incitici",
    "gazete kupürü",
-   "yarma; kazı"
+   "yarma"
   ],
   "ex": [
    "Onun yemekleri hakkındaki iğneleyici sözü akşam yemeğini mahvetti.",
@@ -179,7 +179,7 @@
    "gazete kupürü",
    "demiryolu yarması"
   ],
-  "tip": "Gazete kupürü anlamında Amerikan İngilizcesinde genellikle clipping kullanılır. Sıfat olarak cutting, kişiyi incitici bir sözü anlatır.",
+  "tip": "Gazete kupürü için İngiliz İngilizcesinde cutting, Amerikan İngilizcesinde clipping kullanılır.",
   "note": ""
  },
  {

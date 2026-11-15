@@ -6,7 +6,7 @@
   ],
   "ex": [
    "Bugün fen dersinde tuz da dahil olmak üzere inorganik bileşikleri inceledik.",
-   "Inorganik gübrelerin aşırı kullanımı toprak kalitesine zarar verebilir ve yakındaki nehirlerde kirliliğe yol açabilir."
+   "İnorganik gübrelerin aşırı kullanımı toprak kalitesine zarar verebilir ve yakındaki nehirlerde kirliliğe yol açabilir."
   ],
   "col": [
    "inorganik kimya",
@@ -14,7 +14,7 @@
    "inorganik gübreler",
    "inorganik madde"
   ],
-  "tip": "Inorganik maddelerin hepsinde karbon yoktur sanılmasın; karbondioksit gibi bazı karbonlu bileşikler de inorganik kabul edilir.",
+  "tip": "İnorganik maddelerin hepsinde karbon yoktur sanılmasın; karbondioksit gibi bazı karbonlu bileşikler de inorganik kabul edilir.",
   "note": ""
  },
  {
@@ -85,7 +85,7 @@
    "toprak fethi",
    "fetih savaşları"
   ],
-  "tip": "Eylem anlamında sayılamaz; fethedilen bir yer anlamında sayılabilir (a conquest) kullanılır.",
+  "tip": "Eylem anlamında sayılamaz; fethedilen bir yer anlamında sayılabilir (a conquest) olarak kullanılır.",
   "note": ""
  },
  {
@@ -197,7 +197,7 @@
  {
   "id": "pledge",
   "senses": [
-   "taahhüt; yemin",
+   "taahhüt; söz",
    "taahhüt etmek; söz vermek"
   ],
   "ex": [
@@ -205,7 +205,7 @@
    "Yerel yönetimler önümüzdeki on yıl içinde toplu taşımayı iyileştirmeyi ve trafik sıkışıklığını azaltmayı taahhüt etti."
   ],
   "col": [
-   "taahhüt vermek",
+   "söz vermek; taahhütte bulunmak",
    "sözünü tutmak",
    "destek sözü vermek",
    "bir şeyi yapmaya söz vermek"
@@ -259,7 +259,7 @@
    "İnşaat şirketleri eski binalardan değerli malzemeleri geri kazanabilir; bu da atığı ve yeni kaynak talebini azaltır."
   ],
   "col": [
-   "geri kazanılan malzemeler",
+   "malzemeleri kurtarmak",
    "kurtarma operasyonu",
    "itibarı kurtarmak"
   ],

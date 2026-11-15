@@ -28,7 +28,7 @@
    "Sakinlerin güvenli biçimde yıkanabilmesi ve iyi kişisel hijyeni sürdürebilmesi için temiz suya güvenilir erişime ihtiyacı var."
   ],
   "col": [
-   "bebeği banyo yaptırmak",
+   "bebeği yıkamak",
    "yarayı yıkamak",
    "denizde yüzmek"
   ],
@@ -48,7 +48,7 @@
   "col": [
    "düşüş eğilimi",
    "aşağı yönlü baskı",
-   "kötüleşen kısır döngü",
+   "giderek kötüleşme",
    "aşağı doğru hareket etmek"
   ],
   "tip": "downward hem sıfat hem zarf olabilir; downwards ise yalnızca zarf olarak kullanılır.",
@@ -62,7 +62,7 @@
    "aceleyle tıkmak; itmek"
   ],
   "ex": [
-   "Battaniye demetini taşıyarak eve girdi.",
+   "Bir deste battaniye taşıyarak eve girdi.",
    "İnternet ve telefon hizmetlerini paket halinde sunmak maliyetleri düşürebilir, ancak tüketiciler sözleşmeleri dikkatle karşılaştırmalıdır."
   ],
   "col": [
@@ -88,7 +88,7 @@
   "col": [
    "sözleşme imzalamak",
    "iş sözleşmesi",
-   "sözleşmeyi ihlal etmek",
+   "sözleşme ihlali",
    "hastalığa yakalanmak"
   ],
   "tip": "İsimde vurgu birinci hecededir (CON-tract), fiilde ikinci hecededir (con-TRACT). Bu vurgu farkına dikkat edin.",
@@ -100,13 +100,13 @@
    "mezar; türbe"
   ],
   "ex": [
-   "Köyün dışında eski bir taş mezar ziyaret ettik.",
+   "Köyün dışında eski bir taş mezarı ziyaret ettik.",
    "Kraliyet mezarının içinde bulunan eserler, eski inançlar, zanaatkârlık ve toplumsal örgütlenme hakkında değerli kanıtlar sunuyor."
   ],
   "col": [
    "antik mezar",
    "kraliyet mezarı",
-   "defin mezarı"
+   "mezar yeri"
   ],
   "tip": "b harfi okunmaz. Genellikle yapılı, üstü örtülü mezarlar için kullanılır; sıradan toprak mezar için grave daha uygundur.",
   "note": ""
@@ -120,7 +120,7 @@
   ],
   "ex": [
    "Havalimanı hem askeri hem sivil uçakları karşılıyor.",
-   "Sivil hakları korumak; tüm vatandaşlara adil davranan erişilebilir hukuki hizmetler ve kamu kurumları gerektirir."
+   "Medeni hakları korumak; tüm vatandaşlara adil davranan erişilebilir hukuki hizmetler ve kamu kurumları gerektirir."
   ],
   "col": [
    "yurttaş hakları",
@@ -248,7 +248,7 @@
   ],
   "ex": [
    "Çocuklar, büyükannelerinin hikâye anlatmasını dikkatle dinledi.",
-   "Grup tartışmaları sırasında dikkatle dinleyen öğrenciler, kendilerinden farklı bakış açılarını anlama olasılığı daha yüksek olan öğrencilerdir."
+   "Grup tartışmaları sırasında dikkatle dinleyen öğrencilerin, kendilerinden farklı bakış açılarını anlama olasılığı daha yüksektir."
   ],
   "col": [
    "dikkatle dinlemek",

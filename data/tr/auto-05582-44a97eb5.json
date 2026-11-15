@@ -39,7 +39,7 @@
  {
   "id": "quest",
   "senses": [
-   "arayış; macera",
+   "arayış",
    "aramak; peşinde koşmak"
   ],
   "ex": [
@@ -48,8 +48,8 @@
   ],
   "col": [
    "bilgi arayışı",
-   "arayışa girişmek",
-   "peşinde olmak"
+   "...in arayışında",
+   "arayışa çıkmak"
   ],
   "tip": "Genellikle a quest for kalıbıyla isim olarak kullanılır. Fiil kullanımı daha çok edebi bir tondadır.",
   "note": ""
@@ -58,7 +58,7 @@
   "id": "stagger",
   "senses": [
    "sendelemek; yalpalamak",
-   "dönüşümlü planlamak",
+   "kaydırmak",
    "şaşırtmak; sarsmak"
   ],
   "ex": [
@@ -77,7 +77,7 @@
  {
   "id": "sheepish",
   "senses": [
-   "utangaç; mahcup"
+   "mahcup; utanmış"
   ],
   "ex": [
    "Meyve suyunu döktükten sonra mahcup bir gülümseme takındı.",

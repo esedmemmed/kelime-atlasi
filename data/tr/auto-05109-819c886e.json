@@ -6,12 +6,12 @@
   ],
   "ex": [
    "Arkadaşlarımla öğle yemeğine çıkmadan önce ders ödevlerimi bitirdim.",
-   "Öğrencileri yalnızca sınavlarla değil, ders çalışmalarıyla değerlendirmek, yeteneklerine dair daha geniş bir tablo sunabilir."
+   "Öğrencileri yalnızca sınavlarla değil, ders ödevleriyle değerlendirmek, yeteneklerine dair daha geniş bir tablo sunabilir."
   ],
   "col": [
    "ders ödevini teslim etmek",
    "ders ödevini tamamlamak",
-   "ders çalışmasıyla değerlendirme"
+   "ödevle değerlendirme"
   ],
   "tip": "İngilizcede coursework sayılamaz; 'a coursework' denmez. Tek bir parça için 'a piece of coursework' kullanılır.",
   "note": ""
@@ -22,7 +22,7 @@
    "çok önemli; kritik"
   ],
   "ex": [
-   "Dışarıda kaldığımda yedek anahtarım hayat kurtarıcı oldu.",
+   "Dışarıda kaldığımda yedek anahtarım hayati önem taşıdı.",
    "İş aramak isteyenler için güvenilir toplu taşımaya erişim, kendi mahallelerinin ötesinde çok kritik bir öneme sahip."
   ],
   "col": [
@@ -31,7 +31,7 @@
    "başarı için hayati",
    "kritik bir karar"
   ],
-  "tip": "'Important'tan daha güçlü bir vurgu taşır. 'be crucial to' kalıbında edat 'to'dur; 'for' kullanılmaz.",
+  "tip": "Important'tan daha güçlüdür; genellikle 'be crucial to success' kalıbıyla kullanılır.",
   "note": ""
  },
  {
@@ -165,7 +165,7 @@
  {
   "id": "clay",
   "senses": [
-   "kil; çamur"
+   "kil"
   ],
   "ex": [
    "Çocuklar ıslak kili küçük kaselere dönüştürdü.",
@@ -195,7 +195,7 @@
    "süreyi uzatmak",
    "ağı genişletmek",
    "elini uzatmak",
-   "sıcak bir karşılama yapmak"
+   "sıcak bir şekilde karşılamak"
   ],
   "tip": "'Extend by' bir artış miktarıyla, 'extend to' yeni bir son nokta ya da süreyle birlikte kullanılır.",
   "note": ""

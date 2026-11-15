@@ -55,7 +55,7 @@
   "id": "hull",
   "senses": [
    "gövde",
-   "kabuk; dış kabuk",
+   "kabuk",
    "kabuğunu soymak; sapını almak"
   ],
   "ex": [
@@ -83,7 +83,7 @@
   ],
   "col": [
    "üniversite tanıtım kılavuzu",
-   "kılavuz istemek",
+   "tanıtım kılavuzu istemek",
    "izahname yayımlamak"
   ],
   "tip": "Eğitim bağlamında tanıtım kılavuzu, finans bağlamında ise izahname anlamına gelir. Bağlama göre doğru karşılığı seçin.",
@@ -118,7 +118,7 @@
   "col": [
    "karma eğitimin faydaları",
    "karma eğitimi desteklemek",
-   "karma eğitimi getirmek"
+   "karma eğitimi başlatmak"
   ],
   "tip": "Sayılamayan bir isimdir; 'a coeducation' ya da 'coeducations' demeyin. Sıfat biçimi coeducational'dır.",
   "note": ""
@@ -144,7 +144,7 @@
   "id": "manipulation",
   "senses": [
    "manipülasyon; yönlendirme",
-   "ustaca kullanma; ayarlama"
+   "kullanma; ayarlama"
   ],
   "ex": [
    "Duygusal manipülasyonunu fark etti ve kendini suçlu hissetmeyi reddetti.",
@@ -178,7 +178,7 @@
  {
   "id": "flatter",
   "senses": [
-   "yaltaklanmak; yağ çekmek",
+   "pohpohlamak; methetmek",
    "memnun etmek; onurlandırmak",
    "daha çekici göstermek"
   ],
@@ -189,9 +189,9 @@
   "col": [
    "egosunu okşamak",
    "onur duymak",
-   "kendini fazla övmek"
+   "kendini kandırmak"
   ],
-  "tip": "'Be flattered' genellikle 'hoşuna gitmek, onur duymak' anlamına gelir ve olumsuz değildir; yaltaklanma anlamı taşımaz.",
+  "tip": "Be flattered genellikle 'hoşuna gitmek, onur duymak' demektir ve olumsuz değildir; dalkavukluk anlamı taşımaz.",
   "note": ""
  },
  {
@@ -257,7 +257,7 @@
   ],
   "ex": [
    "Sebzeler buzdolabımızdaki yiyeceklerin çoğunu oluşturuyor.",
-   "Son yıllardaki konut maliyet artışları, büyük şehirlerdeki genç yetişkinler için mali bağımsızlığın önünde büyük bir engel teşkil ediyor."
+   "Artan konut maliyetleri, büyük şehirlerdeki genç yetişkinler için mali bağımsızlığın önünde büyük bir engel oluşturuyor."
   ],
   "col": [
    "çoğunluğu oluşturmak",

@@ -93,11 +93,11 @@
   ],
   "ex": [
    "Ev sahibi sonunda onarım talebimizi kabul etti.",
-   "Ulusal kurumlara güven azaldığında hükümetler, daha fazla şeffaflık yönündeki kamuoyu taleplerine boyun eğebilir."
+   "Ulusal kurumlara güven azaldığında hükümetler, daha fazla şeffaflık yönündeki kamuoyu taleplerini kabul edebilir."
   ],
   "col": [
    "bir talebi kabul etmek",
-   "taleplere razı olmak",
+   "talepleri kabul etmek",
    "tahta çıkmak"
   ],
   "tip": "Resmi bir dildir ve genellikle to ile kullanılır. exceed (aşmak) ile karıştırılmamalıdır.",
@@ -114,7 +114,7 @@
   ],
   "col": [
    "destansı yolculuk",
-   "kişisel macera",
+   "kişisel yolculuk",
    "manevi yolculuk"
   ],
   "tip": "Edebi bir üslubu vardır; kişisel gelişim yolculuğunu anlatmak için mecazi olarak da kullanılır. Çoğulu odysseys'tir.",
@@ -175,7 +175,7 @@
  {
   "id": "upholster",
   "senses": [
-   "koltuk minderi takmak; döşemek"
+   "döşemek; kaplamak"
   ],
   "ex": [
    "Eski sandalyeyi yumuşak mavi kadifeyle kaplayarak döşediler.",
@@ -200,7 +200,7 @@
   ],
   "col": [
    "ızgara pisi balığı",
-   "pisi balığı fileto",
+   "pisi balığı filetosu",
    "pisi balığı avcılığı"
   ],
   "tip": "Balık için çoğul hâli de genellikle halibut olarak kalır. Balık eti anlamında sayılamayan bir isimdir.",
@@ -244,16 +244,16 @@
  {
   "id": "inveterate",
   "senses": [
-   "köklü; kronik; alışkanlığı bırakamayan"
+   "müzmin; kökleşmiş"
   ],
   "ex": [
    "Amcam eski haritaların tutkulu bir koleksiyoncusudur.",
-   "Köklü araba kullanıcıları, toplu taşıma girişimlerine ancak hizmetler önemli ölçüde daha uygun ve güvenilir olursa direnmeyi sürdürebilir."
+   "Alışkanlıklarından vazgeçmeyen araba kullanıcıları, hizmetler önemli ölçüde daha uygun ve güvenilir olmadıkça toplu taşıma girişimlerine direnebilir."
   ],
   "col": [
-   "adetâ yalancı; kronik yalancı",
+   "kronik yalancı",
    "kronik kumarbaz",
-   "yerleşik gezgin"
+   "tutkulu gezgin"
   ],
   "tip": "Genellikle isimden önce kullanılır ve uzun süredir var olan, değişmesi zor bir alışkanlığı vurgular.",
   "note": ""

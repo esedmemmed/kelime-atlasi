@@ -6,7 +6,7 @@
    "devirme; yıkılma"
   ],
   "ex": [
-   "Film, haksız bir hükümdarı devirmek isteyen vatandaşları anlatıyor.",
+   "Film, haksız bir hükümdarı deviren vatandaşları anlatıyor.",
    "Ekonomik zorluklar, halkın hükümete desteğini zayıflatabilir ve onu devirme girişimlerini teşvik edebilir."
   ],
   "col": [
@@ -42,7 +42,7 @@
    "çıldırmak; ürkmek"
   ],
   "ex": [
-   "Olağanüstü bir dolu fırtınası bahçemizi beyaz buzla kaplamıştı.",
+   "Olağandışı bir dolu yağışı bahçemizi beyaz buzla kaplamıştı.",
    "Olağandışı bir hava olayı kentsel altyapının zayıflıklarını ortaya çıkarabilir ve temel kamu hizmetlerini aksatabilir."
   ],
   "col": [
@@ -67,16 +67,16 @@
    "belge sahteciliği",
    "sanat sahteciliği",
    "sahteciliği tespit etmek",
-   "inandırıcı bir sahte"
+   "inandırıcı bir sahte eser"
   ],
-  "tip": "Hem sahteciliğin kendisini hem de sahte eseri anlatır. 'A forgery' genellikle somut sahte nesneyi gösterir.",
+  "tip": "Forgery sahtecilik ya da sahte eserdir; demirci ocağı anlamındaki forge ile karıştırmayın.",
   "note": ""
  },
  {
   "id": "brim",
   "senses": [
    "kenar; ağız",
-   "şapka siperi",
+   "şapka kenarı",
    "taşmak; dolup taşmak"
   ],
   "ex": [
@@ -85,7 +85,7 @@
   ],
   "col": [
    "ağzına kadar",
-   "geniş bir şapka siperi",
+   "geniş bir şapka kenarı",
    "güvenle dolup taşmak"
   ],
   "tip": "Kap için to the brim 'ağzına kadar' demektir. Brim with ise bir duygu ya da enerjiyle dolu olmayı anlatır.",
@@ -251,7 +251,7 @@
    "hizmetlerin askıya alınması",
    "okuldan uzaklaştırma",
    "süspansiyon sistemi",
-   "askıda halde"
+   "askıda"
   ],
   "tip": "Geçici durdurma anlamında kullanılır. Araçlarda ise sarsıntıyı azaltan süspansiyon aksamını anlatır.",
   "note": ""

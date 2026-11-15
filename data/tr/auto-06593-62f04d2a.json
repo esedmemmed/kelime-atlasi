@@ -61,7 +61,7 @@
   "senses": [
    "bozulma; kötüleşme",
    "ayrışma; parçalanma",
-   "onur kırılması; aşağılanma"
+   "aşağılanma; onur kaybı"
   ],
   "ex": [
    "Çiftçi, kurak tarlalarında toprak bozulmasını fark etti.",
@@ -97,7 +97,7 @@
   "id": "hamper",
   "senses": [
    "engellemek; zorlaştırmak",
-   "büyük sepet; hamper"
+   "kapaklı sepet; hediye sepeti"
   ],
   "ex": [
    "Şiddetli yağmur, çit onarma çabalarımızı zorlaştırdı.",
@@ -142,7 +142,7 @@
   "col": [
    "antrepo",
    "gümrüklü mallar",
-   "borçlu işçilik"
+   "borç esareti"
   ],
   "tip": "'Bonded' gümrük vergisinin geçici olarak ertelenmesi anlamına gelir; kalıcı bir muafiyet değildir.",
   "note": ""
@@ -249,7 +249,7 @@
   "col": [
    "...ile denk gelmek",
    "tamamen örtüşmek",
-   "görüşler örtüşmek"
+   "görüşlerin örtüşmesi"
   ],
   "tip": "Geçişsiz bir fiildir ve nesne almaz. Bir şeyle eşzamanlı olduğunu belirtmek için 'with' kullanılır.",
   "note": ""
@@ -266,7 +266,7 @@
   "col": [
    "bir an dikkatsizlik",
    "sürücü dikkatsizliği",
-   "ayrıntıya dikkatsizlik"
+   "ayrıntılara dikkat etmeme"
   ],
   "tip": "Sayılamayan bir isimdir; 'an inattention' yerine 'a moment of inattention' gibi kalıplar kullanılır. 'Inattention to' bir şeye dikkat edilmemesini belirtir.",
   "note": ""

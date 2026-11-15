@@ -38,7 +38,7 @@
   "id": "lofty",
   "senses": [
    "yüce; yüksek amaçlı",
-   "çok yüksek; uzun boylu",
+   "yüksek; yükselen",
    "kibirli; küstah"
   ],
   "ex": [
@@ -57,7 +57,7 @@
  {
   "id": "render",
   "senses": [
-   "bir duruma sokmak; etkisiz kılmak",
+   "hâle getirmek; kılmak",
    "yardım ya da hizmet sunmak",
    "resmetmek; betimlemek"
   ],
@@ -69,7 +69,7 @@
    "bir şeyi işe yaramaz kılmak",
    "yardımda bulunmak",
    "hizmet vermek",
-   "bir görüntüyü resmetmek"
+   "görüntü oluşturmak"
   ],
   "tip": "\"Render + nesne + sıfat\" yapısı (make ile benzer) resmî bir dil kullanımıdır; günlük konuşmada make tercih edilir.",
   "note": ""
@@ -95,7 +95,7 @@
  {
   "id": "notorious",
   "senses": [
-   "kötü şöhretli; bilinen"
+   "kötü şöhretli; adı çıkmış"
   ],
   "ex": [
    "O yol derin çukurlarıyla kötü şöhretlidir.",
@@ -103,7 +103,7 @@
   ],
   "col": [
    "...ile kötü şöhretli",
-   "...olarak tanınan",
+   "...olarak adı çıkmış",
    "kötü bir ün"
   ],
   "tip": "Genellikle olumsuz anlam taşır; sadece ünlü olmak için famous kullanılmalıdır, notorious değil.",
@@ -147,7 +147,7 @@
  {
   "id": "counterpart",
   "senses": [
-   "karşılık; eş değer"
+   "muadil; karşılık"
   ],
   "ex": [
    "Ekip liderimiz başka bir şubedeki muadiliyle görüştü.",
@@ -216,7 +216,7 @@
  {
   "id": "quartz",
   "senses": [
-   "kuvars; kristal"
+   "kuvars"
   ],
   "ex": [
    "Dere kenarında bir parça kuvars buldu.",
@@ -253,7 +253,7 @@
    "yersiz; haksız"
   ],
   "ex": [
-   "Yersiz açıklamanız masadaki herkesi üzdü.",
+   "Yersiz sözünüz masadaki herkesi üzdü.",
    "Öğretmenlerin yersiz eleştirileri, öğrencilerin sınıf tartışmalarına aktif katılımını azaltabilir."
   ],
   "col": [

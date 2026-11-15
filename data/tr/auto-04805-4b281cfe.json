@@ -8,7 +8,7 @@
   ],
   "ex": [
    "Temiz tabakların bir yığını lavabonun yanında duruyordu.",
-   "Kütüphaneler, ortak öğrenme için daha fazla alan açmak amacıyla eski dergi ciltlerini giderek daha çok şube dışında saklıyor."
+   "Kütüphaneler, ortak öğrenme için daha fazla alan açmak amacıyla eski dergi ciltlerini giderek daha çok kütüphane dışındaki depolarda saklıyor."
   ],
   "col": [
    "bir yığın kitap",
@@ -22,7 +22,7 @@
   "id": "sophisticated",
   "senses": [
    "gelişmiş; karmaşık",
-   "görgülü; bilgili"
+   "görmüş geçirmiş; kültürlü"
   ],
   "ex": [
    "Bu gelişmiş kamera, az ışıkta ayarlarını otomatik olarak değiştirir.",
@@ -93,10 +93,10 @@
  {
   "id": "expertise",
   "senses": [
-   "uzmanlık; ihtisas"
+   "uzmanlık; uzman bilgisi"
   ],
   "ex": [
-   "Bu eski saatı tamir etmek için uzmanlığınıza ihtiyacımız var.",
+   "Bu eski saati tamir etmek için uzmanlığınıza ihtiyacımız var.",
    "Üniversiteler, yenilenebilir enerji ve sürdürülebilir üretim alanındaki uzmanlıklarını paylaşarak yerel işletmelere destek olabilir."
   ],
   "col": [
@@ -113,7 +113,7 @@
   "senses": [
    "rekabetçi; rekabet dolu",
    "hırslı; yarışçı",
-   "rekabet edebilir"
+   "rekabet gücü yüksek"
   ],
   "ex": [
    "Hafta sonu futbol ligimiz şaşırtıcı derecede rekabetçi hale geldi.",
@@ -160,7 +160,7 @@
   ],
   "col": [
    "takım ruhu",
-   "savaş azmi",
+   "mücadele ruhu",
    "keyfi yerinde",
    "iş birliği ruhu"
   ],
@@ -217,7 +217,7 @@
    "önemli ölçüde farklılık göstermek",
    "yerden yere değişmek",
    "...e göre değişmek",
-   "beslenmeni çeşitlendirmek"
+   "beslenmeyi çeşitlendirmek"
   ],
   "tip": "vary from A to B bir aralığı, vary in ise belirli bir yönden farklılığı anlatır. Fiil ile varied sıfatını karıştırmayın.",
   "note": ""
@@ -271,7 +271,7 @@
   ],
   "col": [
    "olarak görmek",
-   "yüksek saygı",
+   "...e duyulan büyük saygı",
    "...ile ilgili olarak",
    "selamlarımı iletmek"
   ],

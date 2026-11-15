@@ -29,7 +29,7 @@
   "col": [
    "yabancılık duygusu",
    "toplumsal yabancılaşma",
-   "toplumdan uzaklaşma"
+   "toplumdan yabancılaşma"
   ],
   "tip": "Günlük dilde “yabancılık hissi”, sosyoloji ve felsefede ise “yabancılaşma” anlamına gelir; bağlama göre seçin.",
   "note": ""
@@ -74,8 +74,8 @@
   "id": "terrestrial",
   "senses": [
    "karada yaşayan; karasal",
-   "dünyaya ait; karasal",
-   "karasal; karadan yayın"
+   "Dünya'ya ait",
+   "karasal; karasal yayın"
   ],
   "ex": [
    "Balıkların aksine karasal hayvanlar yaşamlarını karada geçirir.",
@@ -147,7 +147,7 @@
  {
   "id": "monopoly",
   "senses": [
-   "tekel; inhisar",
+   "tekel; tekelcilik",
    "tekelci şirket"
   ],
   "ex": [
@@ -155,7 +155,7 @@
    "Etkili bir düzenleme olmadan tekel, fiyatları yükseltebilir ve tüketicilere az seçenek bırakabilir."
   ],
   "col": [
-   "…üzerinde tekeline sahip olmak",
+   "…üzerinde tekele sahip olmak",
    "tekeli kırmak",
    "devlet tekeli"
   ],
@@ -175,7 +175,7 @@
   ],
   "col": [
    "taş ocağı",
-   "kullanımdan kalmış taş ocağı",
+   "kullanılmayan taş ocağı",
    "kireçtaşı çıkarmak"
   ],
   "tip": "Ocak anlamında sayılabilir; “av” anlamında genellikle tekil kullanılır. Fiil olarak “taş çıkarmak” anlamına gelir.",
@@ -261,7 +261,7 @@
   ],
   "ex": [
    "Lütfen köprünün yanındaki ördeklere yem vermekten kaçının.",
-   "Ziyaretçiler, müzelerin bu eserleri gelecek kuşaklar için koruyabilmesi adına narin sergilere dokunmaktan kaçınmalıdır."
+   "Ziyaretçiler, müzelerin bu eserleri gelecek kuşaklar için koruyabilmesi adına hassas sergi parçalarına dokunmaktan kaçınmalıdır."
   ],
   "col": [
    "bir şey yapmaktan kaçınmak",

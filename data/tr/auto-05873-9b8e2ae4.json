@@ -11,8 +11,8 @@
    "Kötü kentsel planlamanın sonuçları, asıl kararlar alındıktan çok sonra bile toplulukları rahatsız etmeye devam edebilir."
   ],
   "col": [
-   "anılarla musallat olunmak",
-   "eski bir evde dolaşmak",
+   "anılardan kurtulamamak",
+   "eski bir eve musallat olmak",
    "gözde uğrak"
   ],
   "tip": "Geçişli fiildir; edilgen hâlde be haunted by kalıbı 'tarafından rahatsız edilmek' anlamına gelir.",
@@ -40,7 +40,7 @@
   "id": "royalty",
   "senses": [
    "kraliyet ailesi; soylular",
-   "telif hakkı; kullanım bedeli"
+   "telif ücreti; kullanım bedeli"
   ],
   "ex": [
    "Saray bir zamanlar kraliyet ailesinin konutu olarak kullanılmıştı.",
@@ -67,7 +67,7 @@
   "col": [
    "soğuktan ölmek",
    "yangında can vermek",
-   "kauçuk çürümek"
+   "kauçuğun çürümesi"
   ],
   "tip": "Genellikle geçişsiz fiildir. İngiliz İngilizcesinde lastik gibi malzemelerin bozulması için de kullanılır.",
   "note": ""
@@ -120,7 +120,7 @@
   "col": [
    "birini harekete geçmeye zorlamak",
    "kendini zorunlu hissetmek",
-   "koşullar tarafından mecbur bırakılmak"
+   "koşullar yüzünden mecbur kalmak"
   ],
   "tip": "compel sb to do kalıbıyla kullanılır; güçlü ve resmi bir fiildir, günlük konuşmada genellikle force veya make tercih edilir.",
   "note": ""
@@ -139,7 +139,7 @@
   "col": [
    "yerinden edilmiş insanlar",
    "işçilerin yerini almak",
-   "suyu yer değiştirmek"
+   "suyu yerinden itmek"
   ],
   "tip": "Genellikle zorla yerinden edilmeyi anlatır; yeni bir şeyin eskisinin yerini alması anlamında da kullanılır.",
   "note": ""
@@ -147,7 +147,7 @@
  {
   "id": "lure",
   "senses": [
-   "cezbetmek; ayartmak; tuzağa çekmek",
+   "cezbetmek; ayartmak",
    "cazibe; yem"
   ],
   "ex": [
@@ -167,7 +167,7 @@
   "id": "cruiser",
   "senses": [
    "kamaralı tekne; gezi teknesi",
-   "zırhlı savaş gemisi; kruvazör",
+   "kruvazör; savaş gemisi",
    "devriye arabası; polis arabası"
   ],
   "ex": [
@@ -190,7 +190,7 @@
   ],
   "ex": [
    "Teğmen, yeni askerlerin teçhizatlarını düzenlemelerine yardım etti.",
-   "Afet yardım operasyonlarında bir subay, izole topluluklara temel malzeme ulaştıran askeri ekipleri koordine edebilir."
+   "Afet yardım operasyonlarında bir teğmen, izole topluluklara temel malzeme ulaştıran askeri ekipleri koordine edebilir."
   ],
   "col": [
    "kara kuvvetleri teğmeni",
@@ -203,7 +203,7 @@
  {
   "id": "accumulation",
   "senses": [
-   "birikim; yığılma; birikmiş madde"
+   "birikim; yığılma"
   ],
   "ex": [
    "Eski ahşap raflarda bir toz birikintisi oluşmuştu.",
@@ -212,7 +212,7 @@
   "col": [
    "servet birikimi",
    "atık birikimi",
-   "yavaş yavaş birikme",
+   "kademeli birikim",
    "sermaye birikimi"
   ],
   "tip": "Genellikle of ile kullanılır ve zamanla kademeli artışı vurgular.",
@@ -221,8 +221,8 @@
  {
   "id": "prophecy",
   "senses": [
-   "kehanet; önseziyle söylenen söz",
-   "kehanet etme yeteneği"
+   "kehanet; öngörü",
+   "kehanet yeteneği"
   ],
   "ex": [
    "Hikâyede eski bir kehanet sonunda gerçekleşti.",
@@ -240,7 +240,7 @@
   "id": "swift",
   "senses": [
    "çabuk; süratli; ani",
-   "ebabil; uzun kanatlı bir kuş"
+   "ebabil"
   ],
   "ex": [
    "Onun çabuk tepkisi camın düşmesini engelledi.",

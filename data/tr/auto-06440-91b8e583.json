@@ -22,7 +22,7 @@
   "senses": [
    "seçmen; seçim bölgesi halkı",
    "bileşen; öğe",
-   "oluşturucu; bileşen olan"
+   "bileşen; kurucu"
   ],
   "ex": [
    "Bir seçmen, yerel milletvekiline kapanan kütüphaneyi sordu.",
@@ -108,7 +108,7 @@
   "id": "deliberation",
   "senses": [
    "dikkatli düşünme; müzakere",
-   "ağırbaşlılık; temkin"
+   "temkin; telaşsızlık"
   ],
   "ex": [
    "Çok düşündükten sonra daha küçük daireyi seçtik.",
@@ -117,7 +117,7 @@
   "col": [
    "uzun düşünmenin ardından",
    "dikkatli değerlendirme",
-   "ağırbaşlılıkla"
+   "temkinle"
   ],
   "tip": "Tartışma ve istişare süreci için çoğul deliberations da kullanılır. Her bağlamda 'kasıtlı' diye çevirmeyin.",
   "note": ""
@@ -126,7 +126,7 @@
   "id": "constraint",
   "senses": [
    "kısıt; sınırlama",
-   "ketleme; baskı"
+   "baskı; zorlama"
   ],
   "ex": [
    "Temel kısıtımız mutfağın küçük olması.",
@@ -203,7 +203,7 @@
   ],
   "ex": [
    "Minik böcekler mutfak dolabımızdaki unu istila etti.",
-   "Bakımsız konutlarda fareler çoğalabilir ve yoğun nüfuslu alanlarda sakinler için ciddi sağlık riskleri yaratabilir."
+   "Fareler bakımsız konutları istila edebilir ve yoğun nüfuslu alanlarda sakinler için ciddi sağlık riskleri yaratabilir."
   ],
   "col": [
    "fare istilasına uğramak",
@@ -216,12 +216,12 @@
  {
   "id": "characterize",
   "senses": [
-   "özelliği olmak; belirlemek",
+   "özelliği olmak",
    "nitelemek; tanımlamak"
   ],
   "ex": [
    "Parlak renkler ve cesur desenler, el yapımı çantalarını karakterize ediyor.",
-   "Yüksek konut maliyetleri ve sınırlı kamusal alan birçok büyük şehri belirliyor ve sakinlerin yaşam kalitesini etkiliyor."
+   "Yüksek konut maliyetleri ve sınırlı kamusal alan birçok büyük şehrin ayırt edici özelliğidir ve sakinlerin yaşam kalitesini etkiler."
   ],
   "col": [
    "ile karakterize edilmek",

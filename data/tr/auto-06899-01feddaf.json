@@ -107,7 +107,7 @@
  {
   "id": "appraisal",
   "senses": [
-   "değerlendirme; takdir",
+   "değerlendirme",
    "değer tespiti; ekspertiz"
   ],
   "ex": [
@@ -117,7 +117,7 @@
   "col": [
    "performans değerlendirmesi",
    "eleştirel değerlendirme",
-   "mülk değer tespiti",
+   "mülk değerlemesi",
    "değerlendirme süreci"
   ],
   "tip": "Appraisal 'değerlendirme' demektir; 'onay' anlamındaki approval ile karıştırılmamalıdır.",
@@ -234,7 +234,7 @@
  {
   "id": "spouse",
   "senses": [
-   "eş; evlilik eşi"
+   "eş"
   ],
   "ex": [
    "Her çalışan eşini akşam yemeğine getirebilir.",

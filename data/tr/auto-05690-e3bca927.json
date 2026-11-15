@@ -82,7 +82,7 @@
    "Çocuklara kışkırtmalara sakin biçimde karşılık vermeyi öğretmek, çatışmaları azaltabilir ve daha destekleyici bir okul ortamı oluşturabilir."
   ],
   "col": [
-   "kışkırtma olmadan",
+   "kışkırtılmadan",
    "kasıtlı kışkırtma",
    "kışkırtmaya karşılık vermek"
   ],
@@ -100,8 +100,8 @@
   ],
   "col": [
    "bir noktayı yinelemek",
-   "bir taahhüdü yenilemek",
-   "that olduğunu yinelemek"
+   "taahhüdü yinelemek",
+   "…olduğunu yinelemek"
   ],
   "tip": "Fiildir, sıfat değildir; isim alabilir ya da that yan cümlesi ile kullanılabilir.",
   "note": ""
@@ -127,10 +127,10 @@
  {
   "id": "dishonorable",
   "senses": [
-   "onursuz; şerefsiz"
+   "onursuz; utanç verici"
   ],
   "ex": [
-   "Kart oyununda hile yapmanın onursuzca olduğunu düşündü.",
+   "Kart oyununda hile yapmanın onursuzluk olduğunu düşündü.",
    "Kamu görevlilerinin onursuz davranışları kurumlara olan güveni zayıflatabilir ve vatandaşları siyasete katılmaktan caydırabilir."
   ],
   "col": [
@@ -180,7 +180,7 @@
   "id": "tertiary",
   "senses": [
    "yükseköğretime ait",
-   "üçüncü sırada; üçüncü aşama"
+   "üçüncül; üçüncü derece"
   ],
   "ex": [
    "Kız kardeşim gelecek yıl yükseköğretime başlamayı umuyor.",
@@ -206,7 +206,7 @@
   "col": [
    "birine katılmak",
    "olduğu konusunda hemfikir olmak",
-   "bir karara uymak"
+   "bir karara katılmak"
   ],
   "tip": "Resmî bir kelimedir; concur with someone veya concur that yapısıyla kullanılır.",
   "note": ""
@@ -232,7 +232,7 @@
  {
   "id": "stagnation",
   "senses": [
-   "durgunluk; gelişmeme",
+   "durgunluk; duraklama",
    "suyun ya da havanın durgunluğu"
   ],
   "ex": [

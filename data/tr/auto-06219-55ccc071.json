@@ -27,7 +27,7 @@
   ],
   "col": [
    "...e yakınlık",
-   "...e çok yakın olarak",
+   "...e çok yakın",
    "coğrafi yakınlık"
   ],
   "tip": "Genellikle proximity to biçiminde kullanılır; to'dan sonra isim veya isim tamlaması gelir.",
@@ -58,7 +58,7 @@
    "tinselcilik"
   ],
   "ex": [
-   "Onun idealizmi bizi nehir kıyısını temizlemeye ilham etti.",
+   "Onun idealizmi bizi nehir kıyısını temizlemeye teşvik etti.",
    "Gençlerdeki idealizm toplumsal değişimi teşvik edebilir; ancak etkili politikalar pratik planlama ve güvenilir finansman da gerektirir."
   ],
   "col": [
@@ -90,7 +90,7 @@
   "id": "cynical",
   "senses": [
    "kuşkucu; insanlara güvenmeyen",
-   "bencil; ahlaksız"
+   "çıkarcı; ilkesiz"
   ],
   "ex": [
    "Leah, bedava hediye veren mağazalara karşı kuşkucu.",
@@ -112,14 +112,14 @@
   ],
   "ex": [
    "Teslimat ücreti, paketin ağırlığıyla orantılıdır.",
-   "Çevre vergileri verilen zarara orantılı olmalı; böylece işletmeler daha temiz üretim yöntemlerini benimsemeye teşvik edilmeli."
+   "Çevre vergileri verilen zararla orantılı olmalı; böylece işletmeler daha temiz üretim yöntemlerini benimsemeye teşvik edilmeli."
   ],
   "col": [
-   "doğrudan orantılı",
+   "doğru orantılı",
    "ters orantılı",
    "orantılı temsil"
   ],
-  "tip": "Genellikle to ile kullanılır: proportional to. Orantı anlamı için 'to' ile birlikte düşünülmelidir.",
+  "tip": "Genellikle to ile kullanılır: proportional to. Doğru orantı için 'directly proportional to' denir.",
   "note": ""
  },
  {
@@ -130,11 +130,11 @@
   ],
   "ex": [
    "Sınıfımız gelecek hafta kısa bir hikâyeyi sahneye uyarlayacak.",
-   "Televizyon yapımcıları izleyiciyi çekmek için tarihi olayları sıklıkla dramatize eder; ancak bu, gerçek ile kurgu arasındaki farkı bulanıklaştırabilir."
+   "Televizyon yapımcıları izleyiciyi çekmek için tarihî olayları sıklıkla dramatize eder; ancak bu, gerçek ile kurgu arasındaki farkı bulanıklaştırabilir."
   ],
   "col": [
    "bir romanı uyarlamak",
-   "tarihi olayları dramatize etmek",
+   "tarihî olayları dramatize etmek",
    "bir durumu abartmak"
   ],
   "tip": "Bağlama göre 'uyarlamak' ya da 'abartmak' anlamına gelebilir. İngiliz İngilizcesinde dramatise yazılır.",
@@ -148,7 +148,7 @@
    "sular altında bırakmak; boğmak"
   ],
   "ex": [
-   "Yağmur durana kadar bir kafede sığındık.",
+   "Yağmur dinene kadar bir kafeye sığındık.",
    "Yeni konut politikası duyurulduğunda, yerel yetkililer endişeli sakinlerin sorularına boğuldu."
   ],
   "col": [
@@ -248,7 +248,7 @@
    "günlük hayatın tekdüzeliği",
    "tekdüzeliği gidermek"
   ],
-  "tip": "Genellikle sayılamaz isimdir. 'Monotonous' sıfatıyla karıştırılmamalıdır.",
+  "tip": "Genellikle sayılamaz; çeşitlilik eksikliğinden doğan bıkkınlığı anlatır. Sıfatı monotonous'tur.",
   "note": ""
  },
  {

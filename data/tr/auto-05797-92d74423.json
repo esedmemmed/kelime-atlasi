@@ -12,7 +12,7 @@
   "col": [
    "bir tabuyu yıkmak",
    "tartışılmaz bir konu; tabu konu",
-   "…a karşı bir tabu"
+   "bir şeye yönelik tabu"
   ],
   "tip": "İsim olarak 'a taboo' şeklinde kullanılır; sıfat olarak 'a taboo subject' gibi isimden önce gelir.",
   "note": ""
@@ -22,7 +22,7 @@
   "senses": [
    "güçlendirmek; takviye etmek",
    "güçlendirmek; dirençli kılmak",
-   "besinlerini zenginleştirmek"
+   "zenginleştirmek; takviye etmek"
   ],
   "ex": [
    "Fırtınadan önce duvarı güçlendirmek için kum torbaları kullandık.",
@@ -83,9 +83,9 @@
    "Birçok ülkede Yüksek Mahkeme, yeni yasaların anayasaya uygunluğunu inceleyebilir."
   ],
   "col": [
-   "Yargıtay; Yüksek Mahkeme",
+   "Yüksek Mahkeme",
    "en yüksek yetki",
-   "son derece güven"
+   "mutlak güven"
   ],
   "tip": "Kendisi zaten 'en yüksek' anlamı taşıdığı için genellikle 'more supreme' veya 'most supreme' gibi kullanılmaz.",
   "note": ""
@@ -145,7 +145,7 @@
  {
   "id": "amplification",
   "senses": [
-   "ses veya sinyal yükseltme; amplifikasyon",
+   "ses güçlendirme; yükseltme",
    "artış; güçlenme"
   ],
   "ex": [
@@ -170,9 +170,9 @@
    "Hükümetler yeni ulaşım teknolojileri için düzenleme geliştirirken kamu güvenliği, ticari çıkarların önüne geçmelidir."
   ],
   "col": [
-   "…önünde yer almak; önce gelmek",
-   "…a öncelik vermek",
-   "…üzerinde üstünlüğe sahip olmak"
+   "…den önce gelmek",
+   "bir şeye öncelik vermek",
+   "…e göre önceliği olmak"
   ],
   "tip": "Sık kullanılan kalıp 'take precedence over' şeklindedir; 'over' ile neyin önce geldiğini belirtin.",
   "note": ""
@@ -180,13 +180,13 @@
  {
   "id": "resonance",
   "senses": [
-   "duygusal yankı; etkileşim",
-   "derin ses; çınlama",
+   "duygusal yankı; yankı",
+   "gür ses; tınlama",
    "rezonans; titreşim"
   ],
   "ex": [
    "Bu eski şarkının büyükanne ve büyükbabam için özel bir anlamı var.",
-   "Göç hikâyeleri, benzer yolculuklar ve zorluklar yaşamış ailelerin okurları için genellikle duygusal bir yankı uyandırır."
+   "Göç hikâyeleri, ailesi benzer yolculuklar ve zorluklar yaşamış okurlar için genellikle duygusal bir yankı uyandırır."
   ],
   "col": [
    "duygusal yankı",
@@ -217,7 +217,7 @@
   "id": "stoop",
   "senses": [
    "eğilmek; öne doğru bükülmek",
-   "alçalmak; değersiz bir şey yapmak",
+   "alçalmak; kendini düşürmek",
    "kamburluk; eğik duruş"
   ],
   "ex": [
@@ -236,7 +236,7 @@
   "id": "postmortem",
   "senses": [
    "otopsi; ölü muayenesi",
-   "sonradan değerlendirme; tahlil",
+   "sonradan değerlendirme; analiz",
    "ölümden sonraki"
   ],
   "ex": [
@@ -263,7 +263,7 @@
   "col": [
    "…olduğunu onaylamak",
    "güvenli olarak onaylamak",
-   "organik olarak sertifikalı"
+   "sertifikalı organik"
   ],
   "tip": "Resmî veya yetkili bir onayı ifade eder; genellikle 'certify that' ile bir cümle yapısı kurulur.",
   "note": ""

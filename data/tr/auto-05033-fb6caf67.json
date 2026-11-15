@@ -5,7 +5,7 @@
    "inmek; alçalmak"
   ],
   "ex": [
-   "Dar taş merdivenlerden serin bir bodrum katına indik.",
+   "Dar merdivenlerden serin bir bodruma indik.",
    "Uçaklar kentsel havalimanlarına alçalırken çıkardıkları gürültü, yakındaki toplulukların yaşam kalitesini ciddi biçimde etkileyebilir."
   ],
   "col": [
@@ -39,14 +39,14 @@
   "id": "dispose",
   "senses": [
    "atmak; ortadan kaldırmak",
-   "yöneltmek; eğilim vermek"
+   "eğilimli kılmak; yöneltmek"
   ],
   "ex": [
    "Bu eski pilleri güvenli bir şekilde nereye atabilirim?",
    "Yerel yönetimler, sakinlerin ev atıklarını sorumlu biçimde atabilmeleri için uygun tesisler sunmalıdır."
   ],
   "col": [
-   "atık atmak",
+   "atığı bertaraf etmek",
    "istenmeyen eşyaları atmak",
    "kabul etmeye meyilli olmak"
   ],
@@ -65,7 +65,7 @@
    "Artan ev atığı miktarı, kentsel alanlarda daha iyi geri dönüşüm tesislerine duyulan ihtiyacı açıkça ortaya koyuyor."
   ],
   "col": [
-   "yoğun trafik hacmi",
+   "yüksek trafik hacmi",
    "sesi kısmak",
    "hacmi hesaplamak",
    "tamamlayıcı cilt"
@@ -87,7 +87,7 @@
   "col": [
    "yazı tura atmak",
    "salata karıştırmak",
-   "sağa sola dönüp durmak (uyku)"
+   "sağa sola dönüp durmak"
   ],
   "tip": "Toss genellikle hafif ve özensiz bir atışı anlatır; toss and turn ise uykusuzlukta sağa sola dönmek anlamına gelir.",
   "note": ""
@@ -95,8 +95,8 @@
  {
   "id": "absence",
   "senses": [
-   "yokluk; bulunmama",
-   "bulunmama; yokluk (eksiklik)"
+   "yokluk; devamsızlık",
+   "yokluk; eksiklik"
   ],
   "ex": [
    "Akşam yemeğinde olmaması tüm aileyi endişelendirdi.",
@@ -124,7 +124,7 @@
   "col": [
    "pahalı onarımlar",
    "pahalıya mal olan hata",
-   "pahalıya patlamak"
+   "pahalıya mal olmak"
   ],
   "tip": "-ly ile bitmesine rağmen sıfattır, zarf değildir. Maddi olmayan ağır zararları da anlatabilir.",
   "note": ""
@@ -153,7 +153,7 @@
    "yaşam için elverişli; uygun"
   ],
   "ex": [
-   "Cömert komşularımız bizi içeri davet edip sıcak bir çorba ikram etti.",
+   "Misafirperver komşularımız bizi içeri davet edip sıcak bir çorba ikram etti.",
    "Ilıman iklim ve güvenilir su kaynakları, bu bölgede yüzyıllardır insan yerleşimini teşvik etmiştir."
   ],
   "col": [
@@ -170,7 +170,7 @@
    "ilgisiz"
   ],
   "ex": [
-   "Leo oyuna ilgisiz görünüyordu ve dışarı çıktı.",
+   "Leo oyunla ilgilenmiyor gibiydi ve dışarı çıktı.",
    "Dersler pratik deney fırsatı sunmadığında öğrenciler fen bilimlerine ilgisiz görünebilir."
   ],
   "col": [
@@ -189,7 +189,7 @@
    "espri yapan kişi; şakacı"
   ],
   "ex": [
-   "Yavru köpek eve geldiğimde kuyruğunu sallamaya başladı.",
+   "Yavru köpek eve geldiğimde kuyruğunu salladı.",
    "Köpekler dostça karşılaşmalarda sık sık kuyruklarını sallasa da bu hareket her zaman mutluluk anlamına gelmez."
   ],
   "col": [
@@ -204,7 +204,7 @@
   "id": "equivalent",
   "senses": [
    "eşdeğer; denk",
-   "karşılık; eş değer"
+   "karşılık; eşdeğer"
   ],
   "ex": [
    "Bu küçük ısıtıcı, daha büyük olanınkiyle aynı miktarda ısı üretiyor.",

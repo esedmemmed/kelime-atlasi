@@ -31,7 +31,7 @@
   ],
   "col": [
    "para birimi devalüasyonu",
-   "keskin devalüasyon",
+   "sert devalüasyon",
    "bakım emeğinin değersizleştirilmesi"
   ],
   "tip": "Ekonomide genellikle hükümetin resmi olarak kuru düşürmesini anlatır. Piyasadaki değer kaybı için depreciation kullanılır.",
@@ -71,7 +71,7 @@
    "başarı için vazgeçilmez",
    "ayrılmaz bir bileşen"
   ],
-  "tip": "an integral part of ve be integral to kalıplarında 'of' ve 'to' edatlarını karıştırmayın; her ikisi de doğrudur ama farklı yapılardadır.",
+  "tip": "Sık kalıplar an integral part of ve be integral to'dur; 'integral of' biçimi bu anlamda kullanılmaz.",
   "note": ""
  },
  {
@@ -134,7 +134,7 @@
   "id": "mobilize",
   "senses": [
    "harekete geçirmek; seferber etmek",
-   "askeri seferber etmek"
+   "orduyu seferber etmek"
   ],
   "ex": [
    "Komşularımız yerel plajı temizlemek için gönüllüleri seferber etti.",
@@ -142,9 +142,9 @@
   ],
   "col": [
    "kaynakları harekete geçirmek",
-   "desteği seferber etmek",
+   "destek toplamak",
    "gönüllüleri seferber etmek",
-   "askeri seferber etmek"
+   "birlikleri seferber etmek"
   ],
   "tip": "İngiliz İngilizcesinde mobilise biçimi de kullanılır. Kaynak, destek, gönüllü ya da asker gibi nesnelerle birlikte kullanılır.",
   "note": ""
@@ -157,12 +157,12 @@
   ],
   "ex": [
    "Kazağım kapının yanındaki bir çiviye takıldı.",
-   "Konut projesi, mühendisler önerilen alanın altındaki zemin kaymasını fark edince bir engelle karşılaştı."
+   "Konut projesi, mühendisler önerilen alanın altındaki zeminin dengesiz olduğunu fark edince bir engelle karşılaştı."
   ],
   "col": [
    "bir engelle karşılaşmak",
    "küçük bir aksilik",
-   "bir çivide takılmak"
+   "bir çiviye takılmak"
   ],
   "tip": "Hit a snag bir engelle karşılaşmak anlamına gelir. Fiil olarak takılma nesnesinden önce on edatı gelir: snag on a nail.",
   "note": ""
@@ -179,7 +179,7 @@
   ],
   "col": [
    "teknolojik üstünlük",
-   "...karşı üstünlük",
+   "…e karşı üstünlük",
    "üstünlük duygusu"
   ],
   "tip": "Karşılaştırmada than yerine superiority over kullanılır. Örneğin: superiority over its rivals.",
@@ -198,7 +198,7 @@
    "yemin etmek",
    "yemin etmek",
    "yemin altında",
-   "yemin bozmak"
+   "yeminini bozmak"
   ],
   "tip": "Under oath, yemin ederek doğru söyleme taahhüdünü anlatır; çoğunlukla hukuki bağlamda kullanılır.",
   "note": ""
@@ -225,7 +225,7 @@
  {
   "id": "rosy",
   "senses": [
-   "al yanaklı; kırmızımsı",
+   "pembe; al",
    "umut verici; parlak"
   ],
   "ex": [
@@ -244,7 +244,7 @@
   "id": "ridicule",
   "senses": [
    "alay; küçümseme",
-   "alay etmek; güldürmek"
+   "alay etmek; alaya almak"
   ],
   "ex": [
    "Alışılmadık şapkası birkaç sınıf arkadaşının alayına yol açtı.",

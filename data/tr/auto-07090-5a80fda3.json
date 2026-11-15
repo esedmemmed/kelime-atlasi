@@ -6,7 +6,7 @@
   ],
   "ex": [
    "Mutfaktan gelen gürültülü kahkahalar uyuyan kediyi uyandırdı.",
-   "Sakinler, gürültülü gece hayatının uykuyu bölduğunu ve şehrin cazip mahallelerinin çekiciliğini azalttığını savunuyor."
+   "Sakinler, gürültülü gece hayatının uykuyu böldüğünü ve şehrin cazip mahallelerinin çekiciliğini azalttığını savunuyor."
   ],
   "col": [
    "gürültülü kahkaha",
@@ -23,7 +23,7 @@
   ],
   "ex": [
    "Yüzüğündeki opal yeşil ve mavi renklerde parladı.",
-   "Opal madenciliği, dikkatli olunmazsa hassas çöl ekosistemlerini bozsa da uzak bölgelerde iş imkânı sağlayabilir."
+   "Opal madenciliği, uzak bölgelerde iş imkânı sağlayabilir; ancak hassas çöl ekosistemlerini de bozabilir."
   ],
   "col": [
    "opal yüzük",
@@ -71,7 +71,7 @@
  {
   "id": "panacea",
   "senses": [
-   "panzehir; her derde deva"
+   "her derde deva; çare"
   ],
   "ex": [
    "Yeni bir telefon, sorunlarınızın hiçbirine çare değildir.",
@@ -79,7 +79,7 @@
   ],
   "col": [
    "...için her derde deva",
-   "hiçbir çare değil",
+   "her derde deva değil",
    "evrensel çare"
   ],
   "tip": "Genellikle 'a panacea for' kalıbıyla kullanılır ve çoğunlukla 'tek çare değildir' gibi olumsuz cümlelerde geçer.",
@@ -88,7 +88,7 @@
  {
   "id": "miscarry",
   "senses": [
-   "düşük yapmak; düşük yapmak",
+   "düşük yapmak",
    "başarısız olmak; sonuçsuz kalmak"
   ],
   "ex": [
@@ -140,7 +140,7 @@
  {
   "id": "eucalyptus",
   "senses": [
-   "okaliptüs; öksüروت ağacı"
+   "okaliptüs"
   ],
   "ex": [
    "Bir koala, okaliptüs ağacının en tepesinde dinleniyordu.",
@@ -159,7 +159,7 @@
   "senses": [
    "dizgin; gem",
    "dizginlemek; gem takmak",
-   "alınmak; küskünlük göstermek"
+   "alınmak; öfkelenmek"
   ],
   "ex": [
    "Ata binmeden önce atın dizginini kontrol etti.",
@@ -197,13 +197,13 @@
    "ağaçlarla ilgili; ağaca ait"
   ],
   "ex": [
-   "Hayvanat bahçesindeki ağaç yılanları başlarımızın üzerindeki dallara dolanmıştı.",
-   "Ormansızlaşma, ağaç türlerinin hayatta kalmak için bağlı olduğu dalları ve tepe örtüsünü yok ederek bu türleri tehdit ediyor."
+   "Hayvanat bahçesindeki ağaçta yaşayan yılanlar başlarımızın üzerindeki dallara dolanmıştı.",
+   "Ormansızlaşma, hayatta kalmak için dallara ve ağaç tepelerine bağımlı olan ağaçta yaşayan türleri, bu alanları yok ederek tehdit ediyor."
   ],
   "col": [
-   "ağaç türleri",
-   "ağaç yaşam alanı",
-   "ağaç memelileri"
+   "ağaçta yaşayan türler",
+   "ağaçta yaşam alanı",
+   "ağaçta yaşayan memeliler"
   ],
   "tip": "Genellikle zooloji alanında kullanılır ve büyük ölçüde ağaçta yaşayan hayvanları tanımlar.",
   "note": ""
@@ -214,12 +214,12 @@
    "tazmin etmek; güvence altına almak"
   ],
   "ex": [
-   "Sigortacı, verdiğimiz zararı karşılamayı kabul etti.",
+   "Sigortacı, uğradığımız zararı karşılamayı kabul etti.",
    "İnşaat sözleşmeleri, genellikle şirketlerin ihmal nedeniyle oluşan mali kayıplara karşı müşterilerini tazmin etmesini şart koşar."
   ],
   "col": [
    "birini kayba karşı tazmin etmek",
-   "birini zarar için tazmin etmek"
+   "birinin zararını tazmin etmek"
   ],
   "tip": "Hukuki bir terimdir: 'for' zaten oluşmuş zararı, 'against' ise ileride oluşabilecek riski ifade eder.",
   "note": ""
@@ -233,10 +233,10 @@
   ],
   "ex": [
    "Öğretmenimiz yazmaya başlamadan önce puanlama ölçütlerini açıkladı.",
-   "Açık bir değerlendirme cetveli, öğrencilerin beklentileri anlamasına yardımcı olur ve öğretmenlerin ödevleri daha tutarlı notlandırmasını sağlar."
+   "Açık bir değerlendirme rubriği, öğrencilerin beklentileri anlamasına yardımcı olur ve öğretmenlerin ödevleri daha tutarlı notlandırmasını sağlar."
   ],
   "col": [
-   "değerlendirme cetveli",
+   "değerlendirme rubriği",
    "puanlama ölçütü",
    "...başlığı altında"
   ],

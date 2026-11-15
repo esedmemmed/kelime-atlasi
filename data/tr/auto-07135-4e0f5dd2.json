@@ -6,12 +6,12 @@
   ],
   "ex": [
    "Onun tuhaf huylarından biri çorapları renklerine göre ayırmasıdır.",
-   "Etkili öğretmenler bireysel farklılıkları fark eder ve öğrencilerin kişiliklerini ifade etmesini engellemeden yöntemlerini uyarlar."
+   "Etkili öğretmenler bireysel tuhaflıkları fark eder ve öğrencilerin kişiliklerini ifade etmesini engellemeden yöntemlerini uyarlar."
   ],
   "col": [
    "kişisel tuhaflıklar",
    "bireysel tuhaflıklar",
-   "dilsel özellikler"
+   "dile özgü tuhaflıklar"
   ],
   "tip": "Çoğulu idiosyncrasies. Türkçedeki 'tuhaflık'tan farklı olarak çoğunlukla nötr ya da hoş bir kişisel özelliği anlatır.",
   "note": ""
@@ -92,7 +92,7 @@
   ],
   "ex": [
    "Korsanlar gemiyi yağmaladı ve gümüşlerini aldı.",
-   "İşgalci orduler sık sık tarihi alanları yağmalayarak etkilenen toplulukların kültürel mirasına kalıcı zarar verir."
+   "İşgalci ordular sık sık tarihi alanları yağmalayarak etkilenen toplulukların kültürel mirasına kalıcı zarar verir."
   ],
   "col": [
    "bir kenti yağmalamak",
@@ -121,7 +121,7 @@
  {
   "id": "idyll",
   "senses": [
-   "huzurlu köşe; kır cenneti",
+   "huzurlu dönem; kır huzuru",
    "pastoral şiir; kır şiiri"
   ],
   "ex": [
@@ -224,24 +224,24 @@
  {
   "id": "ungainly",
   "senses": [
-   "beceriksiz; sakar"
+   "hantal; biçimsiz"
   ],
   "ex": [
-   "Genç deve yavaşça beceriksiz bacakları üzerinde doğruldu.",
-   "Erken elektrikli araçlar beceriksiz görünse de tasarımdaki gelişmeler onları tüketiciler için daha cazip hale getirdi."
+   "Genç deve yavaşça hantal bacakları üzerinde doğruldu.",
+   "Erken elektrikli araçlar hantal görünse de tasarımdaki gelişmeler onları tüketiciler için daha cazip hale getirdi."
   ],
   "col": [
-   "beceriksiz hareket",
+   "hantal hareket",
    "hantal figür",
-   "beceriksiz biçim"
+   "hantal biçim"
   ],
-  "tip": "-ly ile bitse de bu kelime sıfattır, zarf değildir. Görünüş ve hareketin uygunsuzluğunu anlatır.",
+  "tip": "-ly ile bitse de bu kelime sıfattır, zarf değildir. Hareketteki ya da görünüşteki hantallığı anlatır.",
   "note": ""
  },
  {
   "id": "learned",
   "senses": [
-   "bilgili; bilimsel"
+   "bilgili; bilgin"
   ],
   "ex": [
    "Bilgili komşumuz neredeyse her tarihi gizemi açıklayabilir.",

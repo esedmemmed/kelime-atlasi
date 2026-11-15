@@ -34,7 +34,7 @@
    "binanın yönelimi",
    "siyasi eğilim"
   ],
-  "tip": "Eğitim bağlamında 'oryantasyon', yön anlamında ise 'direction' sözcüğüne göre daha çok bina veya konum için kullanılır.",
+  "tip": "Eğitim ve iş bağlamında 'oryantasyon' (tanıtım programı) demektir; yön anlamında daha çok bina veya konum için kullanılır.",
   "note": ""
  },
  {
@@ -78,7 +78,7 @@
    "olağanüstü başarı; hüner"
   ],
   "ex": [
-   "O koca kanepeyi üst kata çıkarmak epey bir marifetti.",
+   "O koca kanepeyi üst kata çıkarmak epey büyük bir başarıydı.",
    "Dağlık arazi boyunca demiryolu inşa etmek, modern teknolojiye rağmen hâlâ etkileyici bir mühendislik başarısıdır."
   ],
   "col": [
@@ -118,7 +118,7 @@
    "Bazı eğitimciler, sık yapılan resmi sınavlardan daha etkili olarak düzenli geri bildirimin öğrenci motivasyonunu artırdığını savunmaktadır."
   ],
   "col": [
-   "şunu ileri sürmek",
+   "...olduğunu ileri sürmek",
    "haklarını savunmak",
    "otorite kurmak",
    "kendini ortaya koymak"

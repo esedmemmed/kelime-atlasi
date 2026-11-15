@@ -11,7 +11,7 @@
    "Toplu taşımada yolculara karşı nezaketli davranmak, yolculuğu herkes için daha keyifli ve erişilebilir kılabilir."
   ],
   "col": [
-   "genel nezaket",
+   "temel nezaket",
    "nezaket olarak",
    "ücretsiz servis otobüsü",
    "...izniyle; ...sayesinde"
@@ -42,7 +42,7 @@
   "senses": [
    "brüt; toplam",
    "ağır; çok ciddi",
-   "iğrenç; midesi bulandırıcı"
+   "iğrenç; tiksindirici"
   ],
   "ex": [
    "Brüt maaşım, eline geçen net maaştan çok daha iyi görünüyor.",
@@ -128,7 +128,7 @@
    "kabarık bulutlar",
    "kabarık krep"
   ],
-  "tip": "Hayvan tüyü için 'tüylü', yiyecek için 'kabarık, lapa lapa' anlamında kullanılır.",
+  "tip": "Hayvan tüyü ve kumaş için 'tüylü, yumuşacık'; yiyecek için 'kabarık, yumuşak' anlamı vardır.",
   "note": ""
  },
  {
@@ -173,7 +173,7 @@
    "canlanma; ferahlama"
   ],
   "ex": [
-   "Toplantıdan sonra bahçede ikram servis ettiler.",
+   "Toplantıdan sonra bahçede ikramlar sundular.",
    "Toplum etkinlikleri sırasında ücretsiz ikram sunmak, misafirperver bir ortam yaratabilir ve sakinler arasında samimi sohbetleri teşvik edebilir."
   ],
   "col": [
@@ -225,7 +225,7 @@
   "id": "universal",
   "senses": [
    "evrensel; genel",
-   "evrensel; her yerde kullanılabilir"
+   "çok amaçlı; uyumlu"
   ],
   "ex": [
    "Yeni oyun parkı yerel ailelerden genel beğeni topladı.",
@@ -234,7 +234,7 @@
   "col": [
    "evrensel erişim",
    "evrensel sağlık hizmeti",
-   "geniş kitlelerin ilgisi",
+   "evrensel cazibe",
    "evrensel şarj aleti"
   ],
   "tip": "Her kişiye ya da her yere uygulanabilirliği vurgular; common'a göre daha güçlü bir anlam taşır.",

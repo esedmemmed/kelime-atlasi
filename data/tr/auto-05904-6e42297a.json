@@ -40,10 +40,10 @@
   "id": "nameless",
   "senses": [
    "adsız; isimsiz",
-   "tarifsiz; belirsiz"
+   "tarifsiz; tanımlanamaz"
   ],
   "ex": [
-   "Sığınağın dışına isimsiz bir bağışçı taze çiçekler bırakmış.",
+   "Sığınağın dışına isimsiz bir bağışçı taze çiçekler bıraktı.",
    "Bugün dünya genelinde turistleri çeken anıtların yapımına pek çok adı bilinmeyen işçi katkıda bulundu."
   ],
   "col": [
@@ -51,7 +51,7 @@
    "tarifsiz korku",
    "adı bilinmeyen işçiler"
   ],
-  "tip": "Sıfat olarak isimden önce gelir ve 'a nameless' biçiminde kullanılır: a nameless fear.",
+  "tip": "remain nameless, adı açıklanmayan anlamına gelir; kişinin gerçekten adı olmadığı anlamına gelmez.",
   "note": ""
  },
  {
@@ -109,10 +109,10 @@
   "id": "gracious",
   "senses": [
    "nazik; kibar",
-   "zarif; rahat"
+   "konforlu; lüks"
   ],
   "ex": [
-   "Cömert ev sahibimiz herkes için ekstra battaniye getirdi.",
+   "Nazik ev sahibimiz herkes için ekstra battaniye getirdi.",
    "Eleştirenlerine karşı nazik davranmayı sürdüren kamuoyu figürleri, toplumda daha saygılı tartışmaları teşvik edebilir."
   ],
   "col": [
@@ -135,7 +135,7 @@
   "col": [
    "deneyimli denizci",
    "ticaret gemisi denizcisi",
-   "yetkin denizci"
+   "tam yetkili tayfa"
   ],
   "tip": "Çoğulu seamen'dir. Cinsiyet ayrımı içermeyen karşılığı olarak seafarer kullanılır.",
   "note": ""
@@ -223,7 +223,7 @@
    "Okullar öğrencilere çevrimiçi medyadaki güvenilir kanıtla desteksiz iddiaları ayırt etmeyi öğretmelidir."
   ],
   "col": [
-   "arasını ayırt etmek",
+   "arasındaki farkı ayırt etmek",
    "A'yı B'den ayırmak",
    "ürünleri farklılaştırmak"
   ],
@@ -255,7 +255,7 @@
    "süsleyerek anlatmak"
   ],
   "ex": [
-   "Teyzem yastığın kenarına küçük çiçekler nakşetti.",
+   "Teyzem yastığın kenarına küçük çiçekler işledi.",
    "Yerel zanaatkârlar giysilere geleneksel desenler işliyor; böylece kültürel bilgiyi korurken ziyaretçilerin beğenisini kazanan ürünler üretiyor."
   ],
   "col": [

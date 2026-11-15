@@ -187,10 +187,10 @@
   "col": [
    "banyo havlusu",
    "el havlusu",
-   "kağıt havlu",
+   "kâğıt havlu",
    "havluyla kurulamak"
   ],
-  "tip": "Sayılabilir bir isimdir; paper towel kumaş havlu değil, kağıt havludur.",
+  "tip": "Sayılabilir bir isimdir; paper towel kumaş havlu değil, kâğıt havludur.",
   "note": ""
  },
  {

@@ -39,7 +39,7 @@
    "net kâra ilişkin"
   ],
   "ex": [
-   "Sahibi, sonuçları ve kârlılığı muhasebecisiyle görüştü.",
+   "Sahibi, nihai kâr sonuçlarını muhasebecisiyle görüştü.",
    "Aşırı derecede net kâr performansına odaklanmak, şirketlerin çalışanlarını geliştirmeye yatırım yapmasını engelleyebilir."
   ],
   "col": [
@@ -47,7 +47,7 @@
    "net kâr performansı",
    "net kâr etkisi"
   ],
-  "tip": "Sıfat olarak sıfat niteleyici biçimde, bağlaçsız, tire ile kullanılır. İsim olarak ise bottom line yazılır: 'the bottom line' (sonuç).",
+  "tip": "Sıfat olarak tire ile (bottom-line results) yazılır. İsim olarak ayrı yazılır: the bottom line (nihai sonuç).",
   "note": ""
  },
  {
@@ -101,7 +101,7 @@
    "büyüklük hedeflemek",
    "tıpta kariyer hedeflemek"
   ],
-  "tip": "aspire to + fiil (-ing değil, isim gibi) kalıbını kullanın: aspire to become. aspire to yapısından sonra isim de gelebilir.",
+  "tip": "aspire to do (…meyi amaçlamak) ya da aspire to + isim biçiminde kullanılır: aspire to become, aspire to greatness.",
   "note": ""
  },
  {
@@ -132,8 +132,8 @@
    "Finans kurumlarının sorumsuz kredi vermesi, hanehalklarını ödeme şansı çok az olan borçlarla karşı karşıya bırakabilir."
   ],
   "col": [
-   "tehlikeli sürüş",
-   "sorumsuz davranış",
+   "pervasız sürüş",
+   "pervasız davranış",
    "savurganca harcama",
    "güvenliğe karşı umursamazlık"
   ],
@@ -229,7 +229,7 @@
  {
   "id": "tolerable",
   "senses": [
-   "katlanılabilir; dayanılır",
+   "katlanılabilir; dayanılabilir",
    "fena olmayan; idare eder"
   ],
   "ex": [

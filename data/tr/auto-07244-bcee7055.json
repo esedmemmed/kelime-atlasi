@@ -47,7 +47,7 @@
    "bir yaklaşımı doğrulamak",
    "haklı çıkmış hissetmek"
   ],
-  "tip": "Kanıt ya da sonuçla doğrulanarak haklı çıkmayı anlatır. Sadece sözlü savunma için justify daha uygundur.",
+  "tip": "Kanıt ya da sonuçla haklı çıkarmayı anlatır; yalnızca sözlü savunma (defend) değildir.",
   "note": ""
  },
  {
@@ -57,7 +57,7 @@
   ],
   "ex": [
    "Teknisyen, suda benzen izi olup olmadığını test etti.",
-   "Endüstriyel emisyonlara sıkı denetimler getirilmesi, işçilerin benzene ve diğer zararlı kimyasallara maruziyetini azaltabilir."
+   "Endüstriyel emisyonlara sıkı denetimler getirilmesi, işçilerin benzen ve diğer zararlı kimyasallara maruziyetini azaltabilir."
   ],
   "col": [
    "benzen maruziyeti",
@@ -131,7 +131,7 @@
   ],
   "col": [
    "ızgara kalkan",
-   "çiftlik kalkanı",
+   "çiftlikte yetiştirilmiş kalkan",
    "kalkan filetosu"
   ],
   "tip": "Yemek olarak söz edilirken sayılamayan isim gibi kullanılır. Balık olarak sayıldığında çoğulu da genellikle turbot kalır.",
@@ -244,17 +244,17 @@
  {
   "id": "furrow",
   "senses": [
-   "saban izi; toprak oluğu",
+   "karık; saban izi",
    "derin çizgi; kırışıklık",
-   "kaşlarını çatmak; oluk açmak"
+   "kırıştırmak; karık açmak"
   ],
   "ex": [
-   "Çiftçi, yeni sürülmüş bir saban izine tohumları bıraktı.",
-   "Tepelerin eğrilerini izleyen saban izleri boyunca ekim yapmak, çiftçilerin toprak erozyonunu azaltmasına yardımcı olabilir."
+   "Çiftçi, yeni sürülmüş bir karığa tohumları bıraktı.",
+   "Tepelerin eğrilerini izleyen karıklar boyunca ekim yapmak, çiftçilerin toprak erozyonunu azaltmasına yardımcı olabilir."
   ],
   "col": [
-   "saban izi açmak",
-   "derin oluk",
+   "karık açmak",
+   "derin karık",
    "kaşlarını çatmak"
   ],
   "tip": "furrow your brow kalıbı, kaşları çatıp düşünceli ya da endişeli görünmek anlamına gelir.",

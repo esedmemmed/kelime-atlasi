@@ -7,10 +7,10 @@
   ],
   "ex": [
    "Hazırladığımız sürpriz parti hakkında lütfen ağzını sıkı tut.",
-   "Sağlık çalışanları, mahremiyeti korumak ve halkın güvenini sürdürmek için hastalar hakkında konuşurken dikkatli olmalıdır."
+   "Sağlık çalışanları, mahremiyeti korumak ve halkın güvenini sürdürmek için hastalar hakkında konuşurken ketum olmalıdır."
   ],
   "col": [
-   "temkinli bir soruşturma",
+   "sezdirmeden yapılan araştırma",
    "temkinli bir tavır",
    "...konusunda ağzı sıkı",
    "gösterişsiz bir giriş"
@@ -43,7 +43,7 @@
    "kimyasal sentez"
   ],
   "ex": [
-   "Odası, eski ve modern tarzların bir birleşimi.",
+   "Odası, eski ve modern tarzların bir birleşimidir.",
    "Birkaç çalışmanın bulgularının bir araya getirilmesi, düzenli egzersizin faydaları için daha güçlü kanıtlar sunuyor."
   ],
   "col": [
@@ -104,7 +104,7 @@
   ],
   "col": [
    "bir kiracıyı tahliye etmek",
-   "birini mülkten çıkarmak",
+   "birini mülkten tahliye etmek",
    "tahliye ile karşı karşıya olmak"
   ],
   "tip": "Genellikle evict somebody from ... kalıbıyla kullanılır. Yasal süreçle yapılan zorla çıkarmayı anlatır; sıradan 'kovmak' anlamında değildir.",
@@ -183,11 +183,11 @@
  {
   "id": "psychiatry",
   "senses": [
-   "psikiyatri; ruhsal tedavi"
+   "psikiyatri; ruh hekimliği"
   ],
   "ex": [
    "Kız kardeşim tıp fakültesini bitirdikten sonra psikiyatriyi seçti.",
-   "Psikiyatriye yapılacak daha fazla yatırım, ağır zihinsel hastalığı olan kişilerin uzman bakıma erişimini iyileştirebilir."
+   "Psikiyatriye yapılacak daha fazla yatırım, ağır ruhsal hastalığı olan kişilerin uzman bakıma erişimini iyileştirebilir."
   ],
   "col": [
    "psikiyatri kariyeri",
@@ -260,7 +260,7 @@
   "col": [
    "böylece maliyeti düşürerek",
    "böylece verimliliği artırarak",
-   "bu sayede mümkün kılarak"
+   "böylece olanak tanıyarak"
   ],
   "tip": "Genellikle virgülden sonra thereby doing biçiminde gelir ve önceki eylemin sonucunu belirtir. Resmi yazıda sıkça kullanılır.",
   "note": ""

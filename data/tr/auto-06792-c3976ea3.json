@@ -50,7 +50,7 @@
   "col": [
    "halatı sarmak",
    "bir kangal tel",
-   "ısıtıcı boru bobini",
+   "ısıtıcı sarmal",
    "etrafına dolanmak"
   ],
   "tip": "Hem geçişli hem geçişsiz kullanılabilir. 'Coil around' kalıbı bir şeyin etrafına dolanmasını anlatır.",
@@ -84,7 +84,7 @@
    "Çalışanlar, yöneticileri tarafından sadakatsizlikle suçlanmadan meşru kaygılarını dile getirebilmelidir."
   ],
   "col": [
-   "bir sadakatsizlik",
+   "bir sadakatsizlik eylemi",
    "birine karşı sadakatsizlik",
    "birini sadakatsizlikle suçlamak"
   ],
@@ -94,7 +94,7 @@
  {
   "id": "worthy",
   "senses": [
-   "değer; layık",
+   "layık; hak eden",
    "saygın; değerli"
   ],
   "ex": [
@@ -139,7 +139,7 @@
   "col": [
    "şiir okuma",
    "ezberden okuma",
-   "bir okuma sunmak"
+   "ezber okuma yapmak"
   ],
   "tip": "Ezberden yapılan sesli okuma etkinliğini anlatır; fiili 'recite'tır. 'Reading' (okuma) ile karıştırılmamalıdır.",
   "note": ""
@@ -148,7 +148,7 @@
   "id": "oblige",
   "senses": [
    "zorunlu kılmak; mecbur bırakmak",
-   "iyilik etmek; rica yerine getirmek"
+   "isteği yerine getirmek"
   ],
   "ex": [
    "Ani fırtına bizi evde kalmaya mecbur etti.",
@@ -183,7 +183,7 @@
  {
   "id": "shrewd",
   "senses": [
-   "kurnaz; ferasetli"
+   "ferasetli; açıkgöz"
   ],
   "ex": [
    "Bu akıllıca alışveriş ısınma giderimizde bize para kazandırdı.",
@@ -194,7 +194,7 @@
    "isabetli bir değerlendirme",
    "akıllı bir yatırım"
   ],
-  "tip": "Yargıların sağduyulu ve menfaat sağlayıcı olmasını vurgular; yalnızca 'zeki' anlamına gelmez. Olumlu bir anlam taşır.",
+  "tip": "Yargının isabetli ve çıkar sağlayan olduğunu vurgular; yalnızca 'zeki' demek değildir. Genelde olumludur.",
   "note": ""
  },
  {

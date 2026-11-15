@@ -125,10 +125,10 @@
  {
   "id": "exasperation",
   "senses": [
-   "bıkkınlık; sabırsızlık"
+   "çileden çıkma; bıkkınlık"
   ],
   "ex": [
-   "Yazıcı yine sıkışınca içini çekerek bıkkınlıkla iç geçirdi.",
+   "Yazıcı yine sıkışınca bıkkınlıkla iç çekti.",
    "Toplu taşımadaki tekrarlayan gecikmeler yaygın bir bıkkınlığa yol açabilir ve yerel yönetimlere duyulan güveni azaltabilir."
   ],
   "col": [
@@ -221,12 +221,12 @@
    "feodal; derebeylik"
   ],
   "ex": [
-   "Rehber, feodal beylerin bu vadiyi nasıl denetlediğini anlattı.",
+   "Rehber, derebeylerinin bu vadiyi nasıl denetlediğini anlattı.",
    "Feodal sistemde toprağa erişim, bir kişinin toplumsal konumunu ve ekonomik güvenliğini büyük ölçüde belirlerdi."
   ],
   "col": [
    "feodal sistem",
-   "feodal bey",
+   "bir derebeyi",
    "feodal toplum"
   ],
   "tip": "Esas olarak toprağın sadakat ve hizmet karşılığında verildiği tarihî sistemi anlatır.",
@@ -245,7 +245,7 @@
    "düzyazı hâlinde",
    "açık bir düzyazı",
    "düzyazı kurgu",
-   "nesir şiir"
+   "düzyazı şiir"
   ],
   "tip": "Sayılamaz bir isimdir. Yalnızca edebî metinleri değil, romanlar dahil manzum olmayan tüm yazıyı kapsar.",
   "note": ""
@@ -254,7 +254,7 @@
   "id": "streamline",
   "senses": [
    "sadeleştirmek; verimli kılmak",
-   "akıcı hatlı yapmak"
+   "aerodinamik yapmak"
   ],
   "ex": [
    "Evden daha erken çıkabilmek için sabah rutinimizi sadeleştirdik.",

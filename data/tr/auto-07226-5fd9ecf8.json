@@ -29,7 +29,7 @@
   "col": [
    "coşku içinde",
    "bir şeye bayılmak",
-   "saf mutluluk"
+   "tam bir coşku"
   ],
   "tip": "Happiness'tan çok daha güçlü bir duygu anlatır ve çoğunlukla edebi bir üslupta kullanılır.",
   "note": ""
@@ -124,7 +124,7 @@
    "yanıltıcı; hayali; aldatıcı"
   ],
   "ex": [
-   "Çöl, gerçek olmayan su birikintileriyle titreşiyordu.",
+   "Çöl, serap gibi yanıltıcı su birikintileriyle titreşiyordu.",
    "Reklamlar, kişisel tatmini yalnızca maddi sahiplikle ilişkilendirerek yanıltıcı bir mutluluk hissi yaratabilir."
   ],
   "col": [
@@ -137,16 +137,16 @@
  {
   "id": "toddle",
   "senses": [
-   "tökezleyerek yürümek",
+   "küçük adımlarla yürümek",
    "keyifle yürümek; dolaşmak"
   ],
   "ex": [
-   "Bebek halının üzerinde babasına doğru tökezleyerek yürüdü.",
+   "Bebek halının üzerinde babasına doğru küçük adımlarla yürüdü.",
    "Çocuklar yürümeye başladıkça, güvenli alanlar dengelerini geliştirmelerine ve çevrelerini bağımsız keşfetmelerine yardımcı olur."
   ],
   "col": [
-   "odayı tökezleyerek geçmek",
-   "birine doğru tökezlemek",
+   "odayı küçük adımlarla geçmek",
+   "birine doğru küçük adımlarla yürümek",
    "yavaşça uzaklaşmak"
   ],
   "tip": "Esas olarak nesne almayan bir fiildir ve yeni yürümeye başlayan küçük çocuklar için kullanılır. Yürümeye başlayan çocuğa toddler denir.",
@@ -197,7 +197,7 @@
   ],
   "col": [
    "koltukta uyuklamak",
-   "uyuklayarak dalmak",
+   "uyuklamak; içi geçmek",
    "yarı uykuda"
   ],
   "tip": "Biraz resmi bir sözcüktür; günlük konuşmada doze daha yaygındır. Tam uyku değil, hafif uyku halini anlatır.",
@@ -231,7 +231,7 @@
   "col": [
    "havluyu sıkmak",
    "ellerini ovuşturmak",
-   "kıyafetin suyunu sıkmak"
+   "giysilerin suyunu sıkmak"
   ],
   "tip": "Düzensiz bir fiildir: wring, wrung, wrung. Suyunu sıkmak anlamında genellikle wring out kalıbı kullanılır.",
   "note": ""
@@ -243,7 +243,7 @@
   ],
   "ex": [
    "Veznedar, kişisel faturalarını ödemek için kulübün paralarını zimmetine geçirdi.",
-   "Bağımsız denetimler, sağlık ve eğitim gibi temel hizmetler için ayrılmış kamu fonlarının yetkililer tarafından zimmetlere geçirilmesini önlemeye yardımcı olur."
+   "Bağımsız denetimler, sağlık ve eğitim gibi temel hizmetler için ayrılmış kamu fonlarının yetkililer tarafından zimmete geçirilmesini önlemeye yardımcı olur."
   ],
   "col": [
    "fonları zimmetine geçirmek",

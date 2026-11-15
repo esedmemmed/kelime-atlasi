@@ -11,7 +11,7 @@
   "col": [
    "örtük onay",
    "örtük anlaşma",
-   "örtük anlayış",
+   "örtük uzlaşı",
    "örtük rıza"
   ],
   "tip": "Genellikle 'tacit approval' ve 'tacit agreement' gibi kalıplarla kullanılır. Sözle ya da yazıyla açıkça belirtilmeyen ama anlaşılan şeyi anlatır.",
@@ -38,14 +38,14 @@
  {
   "id": "crave",
   "senses": [
-   "özlemek; çok istemek"
+   "çok istemek; canı çekmek"
   ],
   "ex": [
-   "Uzun yürüyüşün ardından sıcak bir yemek özlemiştim.",
-   "Birçok kentli doğayla temas kurmayı özlüyor; bu durum erişilebilir park ve yeşil alanların önemini ortaya koyuyor."
+   "Uzun yürüyüşün ardından canım sıcak bir yemek çekiyordu.",
+   "Birçok kentli doğayla temas etmeyi çok istiyor; bu durum erişilebilir park ve yeşil alanların önemini ortaya koyuyor."
   ],
   "col": [
-   "ilgi görmeyi özlemek",
+   "ilgi görmeye can atmak",
    "onay görmeyi çok istemek",
    "tatlı yiyecekleri çok istemek"
   ],
@@ -216,7 +216,7 @@
   "id": "theatrical",
   "senses": [
    "tiyatroya ait; sahneye özgü",
-   "abartılı; gösterişli"
+   "abartılı; yapmacık"
   ],
   "ex": [
    "Dün parkta tiyatro gösterisi izledik.",

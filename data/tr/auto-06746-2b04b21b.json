@@ -12,7 +12,7 @@
   "col": [
    "uyarıyı dikkate almak",
    "tavsiyeye uymak",
-   "üzerinde durmak",
+   "...e dikkat etmek",
    "dikkate almak"
   ],
   "tip": "Fiil doğrudan nesne alır (heed a warning). İsim hâli genellikle pay heed to / take heed of kalıplarında kullanılır.",
@@ -63,7 +63,7 @@
    "Şeffaf karar alma süreci, vatandaşların kamu görevlilerini hesap vermeye zorlamasına imkân verdiği için etkili yönetimin ayırt edici bir özelliğidir."
   ],
   "col": [
-   "kalite işareti",
+   "kalitenin göstergesi",
    "...ın izlerini taşımak",
    "ayırt edici bir işaret"
   ],
@@ -109,16 +109,16 @@
  {
   "id": "lament",
   "senses": [
-   "yakınmak; üzülmek",
+   "hayıflanmak; yakınmak",
    "ağıt; sitem"
   ],
   "ex": [
-   "Büyükanne ve büyükbabam sık sık yerel dükkânların kapanmasına üzülürler.",
-   "Birçok sakin tarihi binaların yıkılmasına üzülüyor; onlara göre yeniden geliştirme kentin kültürel kimliğini zayıflatıyor."
+   "Büyükanne ve büyükbabam sık sık yerel dükkânların kapanmasına hayıflanıyor.",
+   "Birçok sakin tarihi binaların yıkılmasına hayıflanıyor; onlara göre yeniden geliştirme kentin kültürel kimliğini zayıflatıyor."
   ],
   "col": [
-   "...kaybına yanmak",
-   "derinden üzülmek",
+   "...kaybına hayıflanmak",
+   "derinden hayıflanmak",
    "...için ağıt"
   ],
   "tip": "Resmî bir fiildir. Doğrudan nesne alabilir ya da that yan cümlesi ile kullanılabilir.",
@@ -162,7 +162,7 @@
   "id": "obstruction",
   "senses": [
    "engel; tıkanıklık",
-   "engelleme; mâni olma"
+   "engelleme; engel olma"
   ],
   "ex": [
    "Devrilen bir dal, dar patikada tıkanıklığa yol açtı.",
@@ -201,11 +201,11 @@
   ],
   "ex": [
    "Antrenör bize bir son uyarı verdi: ya antrenmana katılın ya da takımdan ayrılın.",
-   "Belediye, fabrikanın atık arıtımını iyileştirmesini ya da kapatılmayı kabul etmesini isteyen bir son uyarı yayımladı."
+   "Belediye, fabrikanın atık arıtımını iyileştirmesini ya da kapatılmayla karşı karşıya kalacağını bildiren bir son uyarı yayımladı."
   ],
   "col": [
    "son uyarı vermek",
-   "birine son uyarı yapmak",
+   "birine ültimatom vermek",
    "son uyarıyı reddetmek"
   ],
   "tip": "Genellikle give someone an ultimatum kalıbıyla kullanılır. Çoğul hâli ultimatums'tır.",

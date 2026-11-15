@@ -3,16 +3,16 @@
   "id": "self-access",
   "senses": [
    "bağımsız öğrenmeye açık",
-   "özerk öğrenme"
+   "bağımsız öğrenme"
   ],
   "ex": [
-   "Kütüphanemizde sessiz bir özerk öğrenme alanı var.",
-   "Özerk öğrenme merkezleri, öğrencileri ihtiyaçlarına uygun materyalleri seçerek kendi gelişimlerinin sorumluluğunu almaya teşvik eder."
+   "Kütüphanemizde sessiz bir bağımsız öğrenme alanı var.",
+   "Bağımsız öğrenme merkezleri, öğrencileri ihtiyaçlarına uygun materyalleri seçerek kendi gelişimlerinin sorumluluğunu almaya teşvik eder."
   ],
   "col": [
-   "özerk öğrenme merkezi",
-   "özerk öğrenme materyalleri",
-   "özerk öğrenme"
+   "bağımsız öğrenme merkezi",
+   "bağımsız öğrenme materyalleri",
+   "bağımsız öğrenme"
   ],
   "tip": "Genellikle eğitim bağlamında kullanılır. Kısa çizgili yazılır: self-access. Centre ve materials gibi isimlerle birlikte sık görülür.",
   "note": ""
@@ -21,16 +21,16 @@
   "id": "obscene",
   "senses": [
    "müstehcen; edepsiz",
-   "ahlak dışı derecede aşırı"
+   "aşırı; akıl almaz"
   ],
   "ex": [
    "Moderatör sohbetten müstehcen bir yorumu kaldırdı.",
-   "Eleştirmenler, sıradan işçiler ücret kesintisiyle karşı karşıyayken yöneticilere verilen ahlak dışı büyüklükteki primlerin savunulmasının zor olduğunu söylüyor."
+   "Eleştirmenler, sıradan işçiler ücret kesintisiyle karşı karşıyayken yöneticilere verilen akıl almaz büyüklükteki primlerin savunulmasının zor olduğunu söylüyor."
   ],
   "col": [
    "müstehcen dil",
    "müstehcen materyal",
-   "çok büyük miktarda para"
+   "akıl almaz miktarda para"
   ],
   "tip": "Rude'dan daha güçlü bir sözcüktür. An obscene amount gibi kullanımla bir miktarın aşırı fazlalığını da vurgulayabilir.",
   "note": ""
@@ -75,16 +75,16 @@
  {
   "id": "encroach",
   "senses": [
-   "yavaşça ele geçirmek; sokulmak"
+   "ihlal etmek; sızmak"
   ],
   "ex": [
-   "Komşunun çalılıkları bahçemize doğru sokulmaya başladı.",
-   "Yeni konut projeleri sulak alanlara sokuldukça yerel yaban hayatı temel üreme alanlarını ve besin kaynaklarını kaybediyor."
+   "Komşunun çalılıkları bahçemize doğru yayılmaya başladı.",
+   "Yeni konut projeleri sulak alanlara doğru yayıldıkça yerel yaban hayatı temel üreme alanlarını ve besin kaynaklarını kaybediyor."
   ],
   "col": [
-   "araziye tecavüz etmek",
+   "araziyi işgal etmek",
    "mahremiyete müdahale etmek",
-   "boş zamana el koymak"
+   "boş zamanı işgal etmek"
   ],
   "tip": "Nesne almak için genellikle on ya da upon edatıyla kullanılır: encroach on land. Yavaş yavaş ilerleyen bir süreci anlatır.",
   "note": ""
@@ -110,7 +110,7 @@
  {
   "id": "clamor",
   "senses": [
-   "gürültü; gür sesli talep",
+   "yaygara; güçlü talep",
    "yüksek sesle istemek"
   ],
   "ex": [
@@ -131,13 +131,13 @@
    "sevecen; sıcakkanlı"
   ],
   "ex": [
-   "Sevimli komşumuz her zaman kapıda durup sohbet eder.",
+   "Cana yakın komşumuz kapıda her zaman durup sohbet eder.",
    "Sıcak bir tavır, sağlık çalışanlarının farklı kültürel geçmişlerden gelen hastalarla güven kurmasına yardımcı olabilir."
   ],
   "col": [
    "sıcakkanlı tavır",
    "sevecen kişilik",
-   "sevimli gülümseme"
+   "cana yakın gülümseme"
   ],
   "tip": "Genellikle kişiler için kullanılır. İlişki ya da anlaşma için amicable tercih edilir; ikisini karıştırma.",
   "note": ""
@@ -173,7 +173,7 @@
    "noterye danışmak",
    "noter huzurunda"
   ],
-  "tip": "notary public biçiminde de kullanılır. Yetkileri ülkeden ülkeye değişebildiği için her bağlamda tanımına dikkat et.",
+  "tip": "Notary public biçiminde de kullanılır; yetkileri ülkeden ülkeye değişir.",
   "note": ""
  },
  {
@@ -183,12 +183,12 @@
   ],
   "ex": [
    "Haftalarca hiçbir şey yapmadan geçirdikten sonra sonunda garajı temizledim.",
-   "İşsizlik sırasında uzun süre zorunlu boşlukta kalmak özgüveni zedeleyebilir ve işe dönmeyi zorlaştırabilir."
+   "İşsizlik sırasında uzun süre zorunlu olarak boşta kalmak özgüveni zedeleyebilir ve işe dönmeyi zorlaştırabilir."
   ],
   "col": [
-   "zorunlu boşluk",
-   "boş bir yaşam",
-   "saf tembellik"
+   "zorunlu boş durma",
+   "aylak bir yaşam",
+   "tam bir tembellik"
   ],
   "tip": "Sayılamayan bir isimdir. Hem isteyerek yapılan tembelliği hem de zorunlu olarak boşta kalmayı anlatabilir.",
   "note": ""
@@ -196,7 +196,7 @@
  {
   "id": "temperate",
   "senses": [
-   "ılıman; ılıman iklimli",
+   "ılıman",
    "ölçülü; ağırbaşlı"
   ],
   "ex": [
@@ -252,7 +252,7 @@
    "saçma durum; saçma söz"
   ],
   "ex": [
-   "Evde palto giymenin saçmalığına gülduk.",
+   "Evde palto giymenin saçmalığına güldük.",
    "Eleştirmenler, özel araç bağımlılığını azaltmayı savunurken daha fazla yol yapmanın saçmalığına dikkat çekti."
   ],
   "col": [

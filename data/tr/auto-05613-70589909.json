@@ -2,7 +2,7 @@
  {
   "id": "semblance",
   "senses": [
-   "görünüş; kılık"
+   "görünüm; az çok"
   ],
   "ex": [
    "Düzeni bir nebze sağlamak için minderleri topladım.",
@@ -11,7 +11,7 @@
   "col": [
    "bir nebze normallik",
    "bir nebze düzen",
-   "bir görünümü korumak"
+   "…in görünümünü korumak"
   ],
   "tip": "'a semblance of' kalıbında semblance tekil kullanılır ve başına 'a' ya da 'some' gelir. Gerçek olmayan ama görünen bir durumu anlatır.",
   "note": ""
@@ -20,7 +20,7 @@
   "id": "indicative",
   "senses": [
    "belirtici; işaret eden",
-   "bildirme kipine ait"
+   "bildirme kipinde"
   ],
   "ex": [
    "Bu koyu bulutlar yaklaşan bir fırtınanın habercisi.",
@@ -141,7 +141,7 @@
    "hava girişi",
    "su girişi"
   ],
-  "tip": "Coğrafyada koy, teknik bağlamda giriş anlamına gelir. Zıt sözcük 'outlet' (çıkış) ya da 'exit' tir.",
+  "tip": "Coğrafyada koy, teknik bağlamda giriş anlamına gelir. Teknik bağlamda zıt sözcük outlet (çıkış) olur.",
   "note": ""
  },
  {
@@ -170,7 +170,7 @@
    "kaba; terbiyesiz"
   ],
   "ex": [
-   "Kaba yün kumaş bütün öğleden sonra boynumu batırdı.",
+   "Kaba yün bütün öğleden sonra boynumu tahriş etti.",
    "Kentsel havadaki iri parçacıklar akciğerleri tahriş edebilir ve savunmasız sakinlerde mevcut solunum sorunlarını kötüleştirebilir."
   ],
   "col": [
@@ -214,7 +214,7 @@
   "col": [
    "çöküşün eşiğinde",
    "felaketten kurtarmak",
-   "sınıra kadar zorlamak"
+   "eşiğe getirmek"
   ],
   "tip": "'On the brink of' kalıbından sonra isim ya da -ing gelir ve genellikle olumsuz bir durum anlatılır.",
   "note": ""
@@ -246,7 +246,7 @@
    "Bazı mezunlar kurumsal kariyerlerden uzak durur, çünkü yüksek maaştan çok kişisel bağımsızlığa değer verirler."
   ],
   "col": [
-   "medyadan kaçınmak",
+   "kamuoyu ilgisinden kaçınmak",
    "sorumluluktan kaçmak",
    "toplumdan uzak durmak"
   ],

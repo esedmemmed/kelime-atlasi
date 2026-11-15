@@ -10,7 +10,7 @@
   ],
   "col": [
    "zooloji okumak",
-   "zooloji derecesi",
+   "zooloji alanında diploma",
    "zooloji bölümü"
   ],
   "tip": "Genellikle sayılamayan isimdir; 'bir zooloji' gibi kullanılmaz. Bitkileri inceleyen bilim dalı botany (botanik) adını alır.",
@@ -27,7 +27,7 @@
    "Bir genetik varyant, bazı bireylerin belirli ilaçlara verdiği tepkiyi etkileyebilir; bu da kişiye özel tedavinin giderek önemli hale gelmesine yol açıyor."
   ],
   "col": [
-   "...nın bir çeşidi",
+   "bir şeyin bir çeşidi",
    "genetik varyant",
    "bölgesel çeşit",
    "farklı yazım biçimi"
@@ -56,10 +56,10 @@
   "id": "fume",
   "senses": [
    "çok öfkelenmek; köpürmek",
-   "zehirli duman; gaz"
+   "duman; gaz"
   ],
   "ex": [
-   "Yere bulaşan çamurlu ayakkabılar temiz halıyı lekeleyince öfkeden köpürdü.",
+   "Çamurlu ayakkabılar temiz halısını lekeleyince öfkeden köpürdü.",
    "Egzoz dumanlarına maruz kalmak, özellikle işlek yolların yakınında yaşayan çocuklarda solunum rahatsızlıklarını ağırlaştırabilir."
   ],
   "col": [
@@ -80,8 +80,8 @@
    "Üniversite, yeni yapıların bundan böyle daha sıkı çevre standartlarını karşılayacağını duyurdu."
   ],
   "col": [
-   "bundan böyle olacak",
-   "bundan sonra ... olarak tanınmak"
+   "bundan böyle ...-ecek olmak",
+   "bundan böyle ... olarak anılmak"
   ],
   "tip": "Resmî bir kelimedir. Günlük konuşmada from now on ifadesi daha yaygındır.",
   "note": ""
@@ -148,11 +148,11 @@
    "yöneltmek; odaklamak"
   ],
   "ex": [
-   "Kasabada yerimi bulmak için nehri referans aldım.",
+   "Kasabada yönümü bulmak için nehri kullandım.",
    "Üniversiteler, evden uzakta yaşamaya uyum sağlayan öğrencilerin ihtiyaçlarına göre destek hizmetlerini yönlendirmelidir."
   ],
   "col": [
-   "kendini yeni ortama alıştırmak",
+   "yönünü bulmak; yeni ortama alışmak",
    "bir şeyi ... yöneltmek"
   ],
   "tip": "Özellikle İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde orient yaygındır. Orientate oneself: yeni ortama alışmak.",
@@ -169,7 +169,7 @@
   ],
   "col": [
    "ince işçilik",
-   "geleneksel el sanatları",
+   "geleneksel ustalık",
    "kaliteli işçilik"
   ],
   "tip": "Sayılamayan isimdir; 'bir işçilik' gibi kullanılmaz. Ustalığı ve işin kalitesini vurgular.",

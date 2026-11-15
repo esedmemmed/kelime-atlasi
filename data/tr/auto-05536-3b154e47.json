@@ -2,16 +2,16 @@
  {
   "id": "commissioner",
   "senses": [
-   "komiser; yetkili"
+   "komisyon üyesi; yetkili"
   ],
   "ex": [
-   "Komiser, trafik güvenliğini görüşmek üzere mahallemizi ziyaret etti.",
-   "Bağımsız bir komiser, halkın şikayetlerini incelemeli ve kamu kurumlarının vatandaşlara adil davranmasını sağlamalıdır."
+   "Yetkili, trafik güvenliğini görüşmek üzere mahallemizi ziyaret etti.",
+   "Bağımsız bir yetkili, halkın şikâyetlerini incelemeli ve kamu kurumlarının vatandaşlara adil davranmasını sağlamalıdır."
   ],
   "col": [
    "polis komiseri",
    "yüksek komiser",
-   "komiser atamak"
+   "komisyon üyesi atamak"
   ],
   "tip": "Belirli bir kamu hizmetinden sorumlu yetkilidir; her komisyon üyesi için kullanılmaz. Türkçedeki 'komiser' rütbesiyle karıştırılmamalıdır.",
   "note": ""
@@ -38,7 +38,7 @@
   "id": "citrus",
   "senses": [
    "narenciye; turunçgil",
-   "narenciye cinsinden"
+   "narenciyeyle ilgili"
   ],
   "ex": [
    "Salataya taze narenciye suyu sıktık.",
@@ -65,7 +65,7 @@
   "col": [
    "ayakta alkış",
    "alkış almak",
-   "gök gürültüsü gibi alkış"
+   "gürleyen alkış"
   ],
   "tip": "Sayılabilir isimdir ve genellikle receive/get an ovation kalıplarıyla kullanılır. Sıradan alkış değil, coşkulu ve uzun süren alkış için kullanılır.",
   "note": ""
@@ -150,7 +150,7 @@
   ],
   "col": [
    "başka bir şirketle birleşmek",
-   "tek bir şeye birleşmek",
+   "tek bir bütün olarak birleşmek",
    "iki departmanı birleştirmek"
   ],
   "tip": "merge with bir şeyle birleşmek; merge into ise bir şeye katılıp onun içinde erimek anlamına gelir.",
@@ -215,7 +215,7 @@
   "senses": [
    "uzlaştırmak; bağdaştırmak",
    "barıştırmak; barışmak",
-   "gerçeği kabullenmek"
+   "kabullendirmek; alıştırmak"
   ],
   "ex": [
    "Farklı zevklerimizi bir açık büfe seçerek uzlaştırdık.",

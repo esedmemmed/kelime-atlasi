@@ -81,7 +81,7 @@
   "col": [
    "müreffeh ekonomi",
    "refah içindeki ülke",
-   "parlak bir gelecek"
+   "refah dolu bir gelecek"
   ],
   "tip": "Genellikle ülke, bölge veya ekonomi için kullanılır. Kişiler için rich ya da wealthy daha yaygındır.",
   "note": ""
@@ -127,7 +127,7 @@
   "id": "explosive",
   "senses": [
    "patlayıcı; patlamaya yatkın",
-   "hızla artan; patlayıcı",
+   "hızla artan; ani",
    "patlayıcı madde"
   ],
   "ex": [
@@ -156,8 +156,8 @@
   "col": [
    "temel neden",
    "kök salmak",
-   "...in kaynağında",
-   "kökleri dikmek"
+   "...in temelinde",
+   "bitki kökleri"
   ],
   "tip": "Root tek başına 'kökünden sökmek' anlamına gelmez. Bu anlam için root out kullanılır.",
   "note": ""
@@ -185,17 +185,17 @@
   "id": "rapid",
   "senses": [
    "hızlı; süratli",
-   "çağlayan; hızlı akıntı"
+   "akıntı yeri; hızlı akıntı"
   ],
   "ex": [
-   "Kızının hızlı iyileşmesi ailedeki herkesi şaşırttı.",
+   "Onun hızlı iyileşmesi ailedeki herkesi şaşırttı.",
    "Hızlı kentleşme genellikle toplu taşıma, konut ve temel hizmetler üzerinde önemli bir baskı oluşturur."
   ],
   "col": [
    "hızlı büyüme",
    "hızlı değişim",
    "hızlı iyileşme",
-   "beyaz su çağlayanları"
+   "beyaz su akıntıları"
   ],
   "tip": "Rapid çoğunlukla değişim ve büyüme gibi kavramlarla kullanılır. Akarsudaki hızlı akıntı için genellikle çoğul rapids kullanılır.",
   "note": ""
@@ -231,14 +231,14 @@
    "ambulans sireni",
    "uyarı sireni"
   ],
-  "tip": "Siren hem cihazı hem de çıkan sesi anlatır. Sesi için sound a siren kalıbı kullanılır.",
+  "tip": "Siren hem cihazı hem de sesi anlatır. 'Siren çalmak' için sound a siren denir.",
   "note": ""
  },
  {
   "id": "recite",
   "senses": [
    "ezberden okumak; okumak",
-   "sırayla sıralamak; anlatmak"
+   "sıralamak; saymak"
   ],
   "ex": [
    "Kız kardeşim akşam yemeğinden sonra kısa bir şiiri ezberden okudu.",

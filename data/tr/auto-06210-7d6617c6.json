@@ -56,7 +56,7 @@
    "üzülerek; esefle"
   ],
   "ex": [
-   "Çalıştığım için davetiyeyi üzülerek geri çevirdim.",
+   "Çalıştığım için daveti üzülerek geri çevirdim.",
    "Meclis, bütçe kısıtlamalarının yeni bir toplum merkezinin inşaatını geciktireceğini üzülerek duyurdu."
   ],
   "col": [
@@ -108,7 +108,7 @@
   "id": "operational",
   "senses": [
    "çalışır durumda; kullanılabilir",
-   "işletmesel; operasyonel"
+   "operasyonel; işletmeyle ilgili"
   ],
   "ex": [
    "Dünkü onarımdan sonra asansör yeniden çalışır durumda.",
@@ -187,7 +187,7 @@
    "Birçok çevre sorununun kaynağı, mevcut teknoloji eksikliğinden çok tüketim alışkanlıklarında yatar."
   ],
   "col": [
-   "...de kaynaklanmak",
+   "...de ortaya çıkmak",
    "...dan kaynaklanmak",
    "...ile başlamak"
   ],
@@ -261,7 +261,7 @@
   ],
   "col": [
    "prototip oluşturmak",
-   "prototip test etmek",
+   "prototipi test etmek",
    "çalışan bir prototip"
   ],
   "tip": "Test edilip geliştirilmek üzere yapılan erken bir modeldir; nihai ürün anlamına gelmez.",

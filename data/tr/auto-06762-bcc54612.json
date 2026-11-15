@@ -14,7 +14,7 @@
    "yaklaşan bir rapor",
    "yaklaşan seçimler",
    "bir konuda açık sözlü olmak",
-   "hiçbir yardım sağlanamadı"
+   "hiçbir yardım gelmedi"
   ],
   "tip": "Çoğunlukla 'yaklaşan' anlamında kullanılır; 'about' ile birlikte bilgi konusunda istekli olmayı da ifade eder.",
   "note": ""
@@ -49,7 +49,7 @@
   "col": [
    "kararname çıkarmak",
    "kararname ile",
-   "karar vermek"
+   "...mesini emretmek"
   ],
   "tip": "Fiil olarak 'decree that' kalıbıyla bir şeyin olmasını resmen emretmek anlamında kullanılır.",
   "note": ""
@@ -77,7 +77,7 @@
    "baskı; zulüm"
   ],
   "ex": [
-   "Büyükannem ve büyükbabam baskı altındaki hayatları hakkında hikâyeler anlatırdı.",
+   "Onun büyükanne ve büyükbabası baskı altındaki yaşam hakkında hikâyeler anlatırdı.",
    "Bağımsız mahkemeler, savunmasız grupları baskıdan korumada ve temel özgürlükleri savunmada hayati bir rol oynar."
   ],
   "col": [
@@ -112,7 +112,7 @@
    "mani; manik dönem"
   ],
   "ex": [
-   "Oyuncak tren koleksiyonu yapma tutkusu mahallemizi sarmıştı.",
+   "Oyuncak tren koleksiyonu yapma tutkusu mahallemizi sardı.",
    "Manik dönemlerde bireyler, uyku düzensizliği ve dürtüsel davranışlarını yönetmek için profesyonel desteğe ihtiyaç duyabilir."
   ],
   "col": [
@@ -242,7 +242,7 @@
    "Kamu binaları, farklı ihtiyaçları olan insanlar için erişilebilir alanlar sağlayarak kapsayıcılık değerlerini somutlaştırmalıdır."
   ],
   "col": [
-   "bir idealı somutlaştırmak",
+   "bir ideali somutlaştırmak",
    "ruhunu yansıtmak",
    "temel değerleri yansıtmak"
   ],

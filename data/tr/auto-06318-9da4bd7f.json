@@ -12,7 +12,7 @@
   "col": [
    "kalıtsal hastalık",
    "kalıtsal rahatsızlık",
-   "babadan kalma unvan",
+   "soydan gelen unvan",
    "kalıtsal monarşi"
   ],
   "tip": "'Hereditary' bir hastalığın bulaşması değil, genlerle aktarılması anlamına gelir. Bulaşıcılıkla karıştırmayın.",
@@ -22,7 +22,7 @@
   "id": "epoch",
   "senses": [
    "çağ; dönem",
-   "seri (jeoloji)"
+   "epok (jeoloji)"
   ],
   "ex": [
    "Bu eski fotoğraflar hızlı değişimin yaşandığı bir dönemi yansıtıyor.",
@@ -58,7 +58,7 @@
   "id": "sly",
   "senses": [
    "sinsi; kurnaz",
-   "manalı; gizemli"
+   "manalı; bilmiş"
   ],
   "ex": [
    "Kurnaz kedi, ben arkamı dönünce bir bisküviyi çaldı.",
@@ -84,7 +84,7 @@
    "Yenilenebilir enerjinin hızlı yükselişi, hem teknolojik ilerlemeyi hem de çevre korumaya yönelik güçlenen kamuoyu desteğini yansıtıyor."
   ],
   "col": [
-   "dik bir yokuş",
+   "dik bir tırmanış",
    "tırmanış yapmak",
    "iktidara yükseliş"
   ],
@@ -102,8 +102,8 @@
   ],
   "col": [
    "genç görünüm",
-   "genç enerji",
-   "genç coşku"
+   "gençlik enerjisi",
+   "gençlik coşkusu"
   ],
   "tip": "'Youthful' çoğunlukla genç görünmeyi ya da genç ruhu anlatır; kişinin yaşının küçük olduğu anlamına gelmez. 'Young' ile karıştırmayın.",
   "note": ""
@@ -201,11 +201,11 @@
   "id": "approximation",
   "senses": [
    "yaklaşık değer; tahmin",
-   "yaklaşık benzeri"
+   "yakın benzeri"
   ],
   "ex": [
    "Bütçem maliyetin yalnızca kaba bir tahmini.",
-   "Bilgisayar modelleri, gelecekteki iklim koşullarının her değişikliğini kesin olarak öngörmekten çok bir yaklaşımını sunar."
+   "Bilgisayar modelleri, gelecekteki iklim koşullarının her değişikliğini kesin olarak öngörmek yerine yaklaşık bir tahmin sunar."
   ],
   "col": [
    "kaba bir tahmin",
@@ -218,7 +218,7 @@
  {
   "id": "thereafter",
   "senses": [
-   "bundan sonra; o zamandan beri"
+   "bundan sonra; ardından"
   ],
   "ex": [
    "Dükkân ilkbaharda açıldı ve kısa süre sonra kapandı.",
@@ -226,7 +226,7 @@
   ],
   "col": [
    "kısa süre sonra",
-   "bundan sonra",
+   "hemen ardından",
    "sonraki yıllar boyunca"
   ],
   "tip": "Resmî bir kelimedir; gündelik konuşmada 'after that' tercih edilir. Önceden söz edilen bir zaman noktasından sonrasını anlatır.",

@@ -11,7 +11,7 @@
   "col": [
    "resmi okul eğitimi",
    "zorunlu eğitim",
-   "eğitim yılları",
+   "okulda geçirilen yıllar",
    "öğrenimini tamamlamak"
   ],
   "tip": "Genellikle sayılamayan bir isimdir; okulda alınan eğitimi ifade eder. \"Education\" ile karıştırmayın, o daha geniş bir kavramdır.",

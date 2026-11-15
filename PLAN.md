@@ -34,6 +34,12 @@ The goal is a full Turkish–English version of Word Atlas (词光) for Turkish 
   - Trial 1: Haiku 5.5 at low effort produced good examples, collocations and tips, but it translated the definitions into the sense glosses.
   - Fix: send the zh gloss as a hint, add good/bad gloss examples, and have `check()` reject labelled or long glosses. Also a tip rule: no filler, follow TDK spelling.
   - Trial 2: 200 words across A1–C2 with 0 errors and 5 warnings; median gloss 17 characters. Committed, so the repo now has 500 words.
+- **Phase 2 done.** All 7,298 words were translated by Haiku 5.5 through the API (a few dollars).
+- **Phase 3 done.**
+  - QA cleanup: cleared stray notes, and Sonnet fixed 41 words that were too long.
+  - A Sonnet audit of 150 sample words found about 5% wrong and 19% awkward.
+  - Full Sonnet review on the Claude plan, through subagents (`scripts/tr/review_tool.py` and `REVIEW_BRIEF.md`): 73 chunks, 3,343 corrected fields, log in `output/review/applied.log`.
+  - Normalized "kâğıt" (TDK). QA: 0 errors.
 - Phase 4 additions found in the live check:
   - `Splash.tsx` `targets()` calls `getImageData` on a 0-width canvas when the page loads in a hidden or 0-size viewport. Guard it with `w,h > 0`.
   - The app requests `sw.js`, which the Pages workflow deletes, so it gets a 404. Skip service-worker registration when the file is absent, or keep the file.

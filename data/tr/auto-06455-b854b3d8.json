@@ -2,12 +2,12 @@
  {
   "id": "precarious",
   "senses": [
-   "tehlikeli derecede dengesiz; sallantılı",
+   "dengesiz; sallantılı",
    "güvencesiz; kırılgan"
   ],
   "ex": [
    "Zemin ıslak ve engebeli olduğu için merdiven tehlikeli derecede dengesiz duruyordu.",
-   "Kısa süreli sözleşmelerle çalışan işçiler çoğu zaman güvencesiz bir mali durumda oluyor ve geleceğini planlamakta zorlanıyor."
+   "Kısa süreli sözleşmelerle çalışan işçiler çoğu zaman güvencesiz bir mali durumla karşılaşır ve geleceği planlamakta zorlanır."
   ],
   "col": [
    "tehlikeli bir durum",
@@ -73,14 +73,14 @@
  {
   "id": "dormant",
   "senses": [
-   "uyuyan; hareketsiz; durgun"
+   "uyuyan; durgun"
   ],
   "ex": [
    "Bu bitkiler hava ısınana kadar uykuda kalır.",
    "Yanardağ yüzyıllardır uyuyor olsa da bilim insanları yeniden hareketlenme belirtilerine karşı onu izlemeye devam ediyor."
   ],
   "col": [
-   "sönmüş gibi duran yanardağ; uyuyan yanardağ",
+   "uyuyan yanardağ",
    "uykuda kalmak",
    "uyuyan tohumlar",
    "hareketsiz hesap"
@@ -91,7 +91,7 @@
  {
   "id": "vocation",
   "senses": [
-   "meslek edinme isteği; kutsal görev",
+   "meslek aşkı; çağrı",
    "meslek; uğraş"
   ],
   "ex": [
@@ -155,7 +155,7 @@
    "Geleneksel tutumların yaygın olduğu yerlerde, kadınlara daha eşit fırsatlar tanınması için kamu eğitim kampanyaları gerekebilir."
   ],
   "col": [
-   "yaygın koşullar",
+   "geçerli koşullar",
    "birine üstün gelmek",
    "birini bir şey yapmaya ikna etmek"
   ],
@@ -200,9 +200,9 @@
  {
   "id": "sprawl",
   "senses": [
-   "bacaklarını ve kollarını yayarak uzanmak",
+   "yayılıp uzanmak",
    "plansızca yayılmak",
-   "plansız yayılan yerleşim alanı"
+   "plansız yerleşim"
   ],
   "ex": [
    "Yürüyüşten sonra yumuşak çimenlerin üzerine uzanıp yayıldık.",

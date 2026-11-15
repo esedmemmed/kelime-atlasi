@@ -66,10 +66,10 @@
   ],
   "col": [
    "bir Roma imparatoru",
-   "tahtaki imparator",
+   "tahttaki imparator",
    "birini imparator ilan etmek"
   ],
-  "tip": "Kadın karşılığı empress'tir (imparatoriçe). Imparatorluk anlamındaki empire ile birlikte aklınızda tutun.",
+  "tip": "Kadın karşılığı empress'tir (imparatoriçe). empire (imparatorluk) ile karıştırmayın; emperor empire'ı yönetir.",
   "note": ""
  },
  {
@@ -159,7 +159,7 @@
    "yaban arısı sokması",
    "yaban arısı yuvası"
   ],
-  "tip": "wasp (yaban arısı) ile bee (arı) farklı böceklerdir; bee'yi wasp olarak çevirmeyin.",
+  "tip": "wasp (yaban arısı, eşek arısı) ile bee (bal arısı) farklı böceklerdir; Türkçedeki 'arı' çoğunlukla bee'yi akla getirir.",
   "note": ""
  },
  {
@@ -214,7 +214,7 @@
   "col": [
    "istenmeyen ilgi",
    "istenmeyen misafir",
-   "kötü haber"
+   "istenmeyen haber"
   ],
   "tip": "Kişi, haber ya da durum için kullanılabilir. feel unwelcome, kendini istenmeyen biri gibi hissetmek anlamına gelir.",
   "note": ""
@@ -251,7 +251,7 @@
    "spor tesisleri",
    "sağlık tesisleri",
    "bir araştırma tesisi",
-   "dil öğrenme imkanı"
+   "dil öğrenme yeteneği"
   ],
   "tip": "Genel olarak 'tesisler' anlamında çoğul facilities kullanılır; tekil facility belirli bir yer ya da donanımı anlatır.",
   "note": ""

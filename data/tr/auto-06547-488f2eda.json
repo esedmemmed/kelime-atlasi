@@ -3,8 +3,8 @@
   "id": "slaughter",
   "senses": [
    "kesmek; boğazlamak",
-   "katliam; kıyım",
-   "katletmek; kırmak"
+   "kesim; katliam",
+   "katletmek; kılıçtan geçirmek"
   ],
   "ex": [
    "Çiftçi, bazı hayvanların neden yiyecek için kesildiğini açıkladı.",
@@ -30,7 +30,7 @@
   "col": [
    "çabaları artırmak",
    "baskıyı artırmak",
-   "rekabet kızışıyor"
+   "rekabetin kızışması"
   ],
   "tip": "Hem nesneli (bir şeyi yoğunlaştırmak) hem nesnesiz (kendiliğinden artmak) kullanılır. Akademik metinlerde sık görülür.",
   "note": ""
@@ -55,7 +55,7 @@
  {
   "id": "ration",
   "senses": [
-   "kısıtlı pay; erzak",
+   "tayın; erzak",
    "karneyle dağıtmak; kısıtlamak"
   ],
   "ex": [
@@ -63,8 +63,8 @@
    "Uzun süren kuraklıklarda yerel yönetimler, her hanenin yeterli su almasını sağlamak için suyu kısıtlayabilir."
   ],
   "col": [
-   "günlük pay",
-   "gıda erzakı",
+   "günlük tayın",
+   "gıda tayını",
    "suyu kısıtlamak"
   ],
   "tip": "Fiil olarak 'ration someone to' kalıbıyla 'birini ... ile sınırlamak' anlamında kullanılabilir.",
@@ -103,7 +103,7 @@
    "kronik uykusuzluk",
    "uykusuzluğu tedavi etmek"
   ],
-  "tip": "Sayılamayan bir isimdir; 'bir uykusuzluk' yerine genellikle 'suffer from' kalıbıyla 'uykusuzluk çekmek' denir.",
+  "tip": "Sayılamayan isimdir ('an insomnia' denmez); 'suffer from insomnia' kalıbıyla sık kullanılır.",
   "note": ""
  },
  {
@@ -133,7 +133,7 @@
    "üstünlük; olumlu yan"
   ],
   "ex": [
-   "Dedemiz sabrın bir erdem olduğunu hep söylerdi.",
+   "Dedem sabrın bir erdem olduğunu hep söylerdi.",
    "Toplu taşımanın bir üstünlüğü, nispeten az yer kaplayarak çok sayıda insanı taşıyabilmesidir."
   ],
   "col": [
@@ -168,7 +168,7 @@
    "aldatma; hile"
   ],
   "ex": [
-   "Her zamanki neşeli gülümsemesi hayal kırıklığını gizliyordu; bu küçük bir aldatmacaydı.",
+   "Neşeli gülümsemesi hayal kırıklığını gizliyordu; bu küçük bir aldatmacaydı.",
    "Açık reklam düzenlemeleri, tüketicileri aldatmaya karşı koruyabilir ve çevrimiçi piyasalara güveni artırabilir."
   ],
   "col": [
@@ -205,7 +205,7 @@
    "içeriden biri; bilgi sahibi"
   ],
   "ex": [
-   "Bir bilgimiz, restoranın gelecek hafta yeniden açılacağını söyledi.",
+   "İçeriden biri bize restoranın gelecek hafta yeniden açılacağını söyledi.",
    "Sektör içinden bazı kişiler, daha küçük firmaların daha katı çevre düzenlemelerinin maliyetlerini karşılamakta zorlanabileceğini öne sürüyor."
   ],
   "col": [
@@ -230,7 +230,7 @@
   "col": [
    "garantiyi geçersiz kılmak",
    "sözleşmeyi geçersiz kılmak",
-   "sonuçları çürütmek"
+   "sonuçları geçersiz kılmak"
   ],
   "tip": "Hukuki anlamda 'geçersiz kılmak', argüman ve sonuçlar için 'çürütmek' anlamındadır. 'Invalid' sıfatıyla ilişkilidir.",
   "note": ""

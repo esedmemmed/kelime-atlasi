@@ -2,18 +2,18 @@
  {
   "id": "acquaint",
   "senses": [
-   "tanıştırmak; bilgi vermek"
+   "bilgilendirmek; aşina kılmak"
   ],
   "ex": [
-   "Mutfağa başlamadan önce lütfen mutfağı iyice tanı.",
+   "Yemek pişirmeye başlamadan önce lütfen mutfağa iyice aşina ol.",
    "Üniversiteler, yeni öğrencilerin kampüs yaşamına uyum sağlamaları için mevcut destek hizmetleri hakkında onları bilgilendirmelidir."
   ],
   "col": [
-   "kendini ... ile tanıştırmak",
-   "birini ... ile tanıştırmak",
-   "...ile tanışık olmak"
+   "...hakkında bilgi edinmek",
+   "birine ... hakkında bilgi vermek",
+   "...e aşina olmak"
   ],
-  "tip": "Resmi bir fiildir; genellikle acquaint sb/oneself with sth kalıbıyla kullanılır. be acquainted with tanışık olmak anlamına gelir.",
+  "tip": "Resmi bir fiildir; genellikle acquaint sb/oneself with sth kalıbıyla kullanılır. be acquainted with, aşina olmak demektir.",
   "note": ""
  },
  {
@@ -27,8 +27,8 @@
    "Çelik yapıları kaynaklayan işçilerin, iş kazalarını azaltmak için uygun eğitim ve koruyucu ekipmana ihtiyacı vardır."
   ],
   "col": [
-   "kaynak metali",
-   "birlikte kaynaklamak",
+   "metali kaynaklamak",
+   "kaynaklayarak birleştirmek",
    "sağlam bir kaynak dikişi"
   ],
   "tip": "Fiil olarak weld A to B kalıbı A'yı B'ye kaynaklamak anlamına gelir. Bu kalıbı kullanırken 'to' edatını unutmayın.",
@@ -63,7 +63,7 @@
   "col": [
    "konuşma dili",
    "günlük konuşma ifadesi",
-   "konuşma dilinde söylenen"
+   "günlük konuşma dili"
   ],
   "tip": "Günlük konuşma dilini anlatır. Argo (slang) ile aynı şey değildir; yazılı resmi metinlerde genellikle kaçınılması gereken bir üsluptur.",
   "note": ""
@@ -142,16 +142,16 @@
  {
   "id": "potluck",
   "senses": [
-   "herkesin yemek getirdiği ortak yemek",
-   "elde ne varsa; şans eseri yemek"
+   "getir-paylaş yemeği",
+   "elde ne varsa"
   ],
   "ex": [
    "Mahallemizin ortak yemeğine sebzeli bir turta götürdüm.",
    "Topluluk ortak yemekleri, sakinleri yiyecek ve kültürel gelenekleri paylaşmaya teşvik ederek sosyal bağları güçlendirebilir."
   ],
   "col": [
-   "ortak yemek",
-   "ortak yemeğe bir şey getirmek",
+   "getir-paylaş yemeği",
+   "getir-paylaş yemeğine yemek getirmek",
    "elde olanla yetinmek"
   ],
   "tip": "Herkesin bir yemek getirdiği ortak yemeği anlatır; sıradan bir ev yemeği değildir. take potluck, elde olanla yetinmek demektir.",
@@ -160,7 +160,7 @@
  {
   "id": "exemplify",
   "senses": [
-   "örnek teşkil etmek; temsil etmek",
+   "örnek olmak; temsil etmek",
    "örnekleyerek açıklamak"
   ],
   "ex": [
@@ -232,12 +232,12 @@
  {
   "id": "extravagant",
   "senses": [
-   "savurgan; müsrif",
+   "savurgan; israfçı",
    "abartılı; aşırı"
   ],
   "ex": [
-   "Bütçesi için bir ipek ceket daha almak israf gibi görünüyordu.",
-   "Uluslararası etkinliklere yapılan gösterişli harcamalar, kamu kaynaklarını temel sağlık ve eğitim hizmetlerinden saptırabilir."
+   "Bütçesine göre bir ipek ceket daha almak savurganlık gibi görünüyordu.",
+   "Uluslararası etkinliklere yapılan savurgan harcamalar, kamu kaynaklarını temel sağlık ve eğitim hizmetlerinden saptırabilir."
   ],
   "col": [
    "savurgan harcama",

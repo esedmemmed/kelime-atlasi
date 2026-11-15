@@ -19,11 +19,11 @@
  {
   "id": "molest",
   "senses": [
-   "tacize uğratmak; cinsel taciz",
+   "tacizde bulunmak",
    "rahatsız etmek; musallat olmak"
   ],
   "ex": [
-   "Kulüp, konuklara taciz etmeye çalışan herkesi yasaklıyor.",
+   "Kulüp, konukları taciz etmeye çalışan herkesi yasaklıyor.",
    "Toplu taşıma yetkilileri, başkalarını taciz eden kişilerin hedef aldığı yolcular için açık bildirim prosedürleri sunmalıdır."
   ],
   "col": [
@@ -113,8 +113,8 @@
    "Tüketiciler görünüşe karşı çok titiz olabilir; bu yüzden marketler küçük kusurları olan ama yenilebilir meyveleri reddediyor."
   ],
   "col": [
-   "seçici yiyici",
-   "yiyecek konusunda titiz",
+   "yemek seçen kişi",
+   "yemek konusunda seçici",
    "hassas ekipman"
   ],
   "tip": "Gündelik ve çoğunlukla olumsuz bir sözcüktür. 'Be finicky about something' kalıbında 'about' ile kullanılır.",
@@ -124,7 +124,7 @@
   "id": "flick",
   "senses": [
    "silkelemek; hızla çevirmek",
-   "hafif hamle; silkeleme",
+   "fiske; hafif hareket",
    "film"
   ],
   "ex": [
@@ -180,10 +180,10 @@
  {
   "id": "embryo",
   "senses": [
-   "embriyo; döl"
+   "embriyo"
   ],
   "ex": [
-   "İçinde civciv embriyosunu yumurtanın içinde görebiliyorduk.",
+   "Yumurtanın içindeki civciv embriyosunu görebiliyorduk.",
    "Araştırmacılar, çevre koşullarının embriyo gelişimini nasıl etkilediğini inceleyerek nesli tükenmekte olan türlerin üremesini iyileştirmeyi amaçlıyor."
   ],
   "col": [

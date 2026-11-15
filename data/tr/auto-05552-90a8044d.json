@@ -9,8 +9,8 @@
    "Nüfus artışı inşaatın önüne geçtiğinde konut maliyetleri hızla yükselebilir ve uygun fiyatlı konut bulmak giderek zorlaşır."
   ],
   "col": [
-   "fiyatlar hızla yükselmek",
-   "talep hızla artmak",
+   "fiyatların hızla yükselmesi",
+   "talebin hızla artması",
    "hızla artan maliyetler"
   ],
   "tip": "Genellikle geçişsiz kullanılır; öznesi çoğunlukla fiyat, maliyet veya talep olur.",
@@ -103,7 +103,7 @@
   ],
   "col": [
    "birini bir şeyden dolayı övmek",
-   "büyük takdir toplamak",
+   "büyük övgü almış",
    "bir şeyi birine tavsiye etmek"
   ],
   "tip": "Commend 'övmek' anlamındadır; command ise 'emir vermek' demektir. Yazımına dikkat edin.",
@@ -139,7 +139,7 @@
   "col": [
    "bir iddiayı yalanlamak",
    "kanıtlarla çelişmek",
-   "kendi kendisiyle çelişmek"
+   "kendiyle çelişmek"
   ],
   "tip": "Geçişli fiildir; with almadan doğrudan nesne alır: contradict the evidence.",
   "note": ""

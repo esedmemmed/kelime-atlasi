@@ -3,7 +3,7 @@
   "id": "initiate",
   "senses": [
    "başlatmak; girişmek",
-   "tanıtmak; kabul etmek"
+   "dahil etmek; üye yapmak"
   ],
   "ex": [
    "Gürültü hakkında birinin konuşmayı başlatması gerekiyor.",
@@ -12,7 +12,7 @@
   "col": [
    "müzakere başlatmak",
    "bir projeyi başlatmak",
-   "birini ... içine almak"
+   "birini ...a dahil etmek"
   ],
   "tip": "Resmi bir fiildir; günlük dilde start veya begin daha yaygındır. initiate sb into sth, birini bir etkinliğe veya gruba dahil etmek anlamına gelir.",
   "note": ""
@@ -32,7 +32,7 @@
    "doktora tezi",
    "eğitim üzerine bir tez"
   ],
-  "tip": "Konu on ile belirtilir: a dissertation on education. Amerikan İngilizcesinde genellikle doktora tezini, İngilizcede ise daha geniş bir kapsamı ifade eder.",
+  "tip": "Konu on ile belirtilir: a dissertation on education. ABD İngilizcesinde genellikle doktora tezi, İngiliz İngilizcesinde daha geniş anlamlıdır.",
   "note": ""
  },
  {
@@ -46,7 +46,7 @@
   ],
   "col": [
    "birinin ölümüne yas tutmak",
-   "kaybın acısını çekmek",
+   "...in kaybına yas tutmak",
    "birinin ardından yas tutmak"
   ],
   "tip": "Doğrudan ölen kişi veya kayıp nesnesiyle kullanılabilir (mourn someone); mourn for someone kalıbı da yaygındır.",
@@ -221,7 +221,7 @@
    "birikmiş iş; bekleyen işler"
   ],
   "ex": [
-   "E-postalarımın birikmişini temizlemek için geç saate kadar kaldım.",
+   "Biriken e-postaları temizlemek için geç saate kadar kaldım.",
    "Ek personel alımı, hastanelerin rutin ameliyat bekleyen hasta birikimini azaltmasına yardımcı olabilir."
   ],
   "col": [
@@ -247,7 +247,7 @@
   "col": [
    "orman açma",
    "güvenlik onayı",
-   "gümrük onayı",
+   "gümrük işlemleri",
    "stok tasfiye satışı"
   ],
   "tip": "clearance sale tasfiye satışı, customs clearance ise gümrük işlemi anlamına gelir; bağlama göre doğru anlamı seçin.",

@@ -63,7 +63,7 @@
   ],
   "ex": [
    "Mantosu yok, o halde muhtemelen gitmiş.",
-   "Daha sık otobüs seferleri, işe gidip gelenleri arabalarını evde bırakmaya muhtemelen teşvik ederek kentsel trafiği azaltır."
+   "Daha sık otobüs seferleri, işe gidip gelenleri arabalarını evde bırakmaya büyük olasılıkla teşvik edecek ve kentsel trafiği azaltacaktır."
   ],
   "col": [
    "muhtemelen ... nedeniyle",
@@ -95,10 +95,10 @@
   "id": "infect",
   "senses": [
    "enfekte etmek; bulaştırmak",
-   "sirayet etmek; etkilemek"
+   "etkilemek; yaymak"
   ],
   "ex": [
-   "Hasta bir tavşan kafesindeki diğerlerine bulaştırabilir.",
+   "Hasta bir tavşan kafesindeki diğer tavşanlara hastalık bulaştırabilir.",
    "Hastanelerde etkili hijyen önlemleri ve yeterli havalandırma yoksa, virüsler savunmasız hastalara daha kolay bulaşabilir."
   ],
   "col": [
@@ -113,8 +113,8 @@
   "id": "thread",
   "senses": [
    "iplik; ip",
-   "konu akışı; yorum zinciri",
-   "iplik geçirmek; geçirmek"
+   "düşünce akışı; ileti dizisi",
+   "iplik geçirmek"
   ],
   "ex": [
    "Bu gömleği onarmak için mavi bir ipliğe ihtiyacım var.",
@@ -123,8 +123,8 @@
   "col": [
    "dikiş ipliği",
    "iğneye iplik geçirmek",
-   "konunun akışını kaybetmek",
-   "tartışma zinciri"
+   "ipin ucunu kaçırmak",
+   "tartışma başlığı"
   ],
   "tip": "'Lose the thread' konuşmanın ya da yazının akışını kaybetmek anlamına gelir. 'Thread' fiil olarak iplik geçirmek demektir.",
   "note": ""
@@ -190,7 +190,7 @@
    "makinevari; düşüncesiz"
   ],
   "ex": [
-   "Köye giderken arabamız mekanik bir arıza yüzünden durdu.",
+   "Mekanik bir arıza arabamızı köyün dışında durdurdu.",
    "Düzenli kontroller, ciddi aksamalara yol açmadan önce mekanik sorunları belirleyebilir."
   ],
   "col": [
@@ -233,8 +233,8 @@
   ],
   "col": [
    "fidye için kaçırmak",
-   "kaçırma kurbanı",
-   "kaçırma girişimi"
+   "adam kaçırma mağduru",
+   "adam kaçırma girişimi"
   ],
   "tip": "Yalnızca çocuklar için kullanılmaz. Geçmiş zaman 'kidnapped' ve ing biçimi 'kidnapping' olarak p harfi ikilenir.",
   "note": ""
@@ -249,7 +249,7 @@
    "Ortasında avlusu olan geleneksel evler, doğal havalandırma sağlarken sakinlere özel bir açık alan da sunabilir."
   ],
   "col": [
-   "merkezi avlu",
+   "orta avlu",
    "kapalı avlu",
    "avlu bahçesi"
   ],

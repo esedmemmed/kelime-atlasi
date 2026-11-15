@@ -3,7 +3,7 @@
   "id": "successor",
   "senses": [
    "halef; ardıl",
-   "yerini alan ürün; halef"
+   "yerine geçen; yeni model"
   ],
   "ex": [
    "Emekli olan antrenör, yeni antrenörünü takıma tanıttı.",
@@ -76,16 +76,16 @@
  {
   "id": "gaudy",
   "senses": [
-   "cafcaflı; gösterişli"
+   "cafcaflı; abartılı"
   ],
   "ex": [
    "Üzerine simli pullar dikilmiş cafcaflı bir ceket giydi.",
-   "Bazı sakinler, tarihi bölgelerdeki gösterişli süslemelerin geleneksel binaların görsel karakterini zedelediğini savunuyor."
+   "Bazı sakinler, tarihi bölgelerdeki abartılı süslemelerin geleneksel binaların görsel karakterini zedelediğini savunuyor."
   ],
   "col": [
    "cafcaflı renkler",
-   "gösterişli süslemeler",
-   "gösterişli mücevher"
+   "abartılı süslemeler",
+   "abartılı mücevher"
   ],
   "tip": "Olumsuz çağrışımlıdır; sadece parlak değil, aşırı ve zevksiz süslü anlamı taşır.",
   "note": ""
@@ -103,8 +103,8 @@
   "col": [
    "üretken yazar",
    "üretken sanatçı",
-   "golcü oyuncu",
-   "verimli yetiştirici"
+   "çok gol atan oyuncu",
+   "çok yavru veren hayvan"
   ],
   "tip": "Miktar vurgusu yapar, kaliteyi garanti etmez. Genellikle olumlu bir anlamla kullanılır.",
   "note": ""
@@ -120,8 +120,8 @@
   ],
   "col": [
    "yabani çiçekli çayır",
-   "dağ çayırı",
-   "otlak alanı"
+   "ot biçilen çayır",
+   "yüksek dağ çayırı"
   ],
   "tip": "Meadow genellikle doğal yabani çiçeklerin bulunduğu çayırdır; düzgün biçilmiş çim alan için lawn kullanılır.",
   "note": ""
@@ -131,16 +131,16 @@
   "senses": [
    "belirmek; görünmek",
    "yaklaşmak; gelmek üzere olmak",
-   "dokuma tezgahı"
+   "dokuma tezgâhı"
   ],
   "ex": [
    "Sabah sisinden kocaman bir gemi belirdi.",
    "Su kıtlığı yaklaşırken hükümetler verimli sulama sistemlerine yatırım yapmalı ve hanehalkını gereksiz tüketimi azaltmaya teşvik etmeli."
   ],
   "col": [
-   "üzerinde asılı durmak",
+   "tepesinde yükselmek",
    "büyük yer tutmak",
-   "dokuma tezgahı"
+   "dokuma tezgâhı"
   ],
   "tip": "Fiil genellikle tehdit ya da kaygı uyandıran bir durumu anlatır. 'loom large' sorunun büyük olduğunu gösterir.",
   "note": ""
@@ -238,7 +238,7 @@
   "id": "embed",
   "senses": [
    "yerleştirmek; gömmek",
-   "gömülü olarak eklemek",
+   "sayfaya gömmek",
    "kökleştirmek; benimsetmek"
   ],
   "ex": [
@@ -246,8 +246,8 @@
    "Okullar çevre bilincini sürdürülebilirliği yalnızca özel günlerde tartışmak yerine günlük derslere yerleştirmeli."
   ],
   "col": [
-   "...in içine gömülü olmak",
-   "video eklemek",
+   "...e gömülü olmak",
+   "video gömmek",
    "derinlere kök salmış"
   ],
   "tip": "Düzenli fiildir: embedded, embedding. Web ve bilgisayar bağlamında içerik eklemek anlamına da gelir.",

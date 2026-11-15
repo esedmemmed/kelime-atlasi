@@ -29,11 +29,11 @@
   ],
   "col": [
    "ince bir fark",
-   "hafif bir ipucu",
+   "ince bir ipucu",
    "ince bir etki",
    "hafif bir tat"
   ],
-  "tip": "Telaffuzda b sessizdir. Genellikle fark ya da etkinin gözle görülmesinin ya da fark edilmesinin zor olduğunu anlatır.",
+  "tip": "b harfi okunmaz (/ˈsʌtl/). Fark ya da etkinin güç fark edilen, ince olduğunu anlatır.",
   "note": ""
  },
  {
@@ -47,11 +47,11 @@
    "Şehirler gün boyunca güvenilir ve uygun fiyatlı toplu taşıma sunarsa özel araç talebi keskin biçimde düşebilir."
   ],
   "col": [
-   "fiyatlar çakılmak",
-   "sıcaklıklar hızla düşmek",
+   "fiyatların çakılması",
+   "sıcaklığın sert düşmesi",
    "rekor düşük seviyeye inmek"
   ],
-  "tip": "Genellikle yer değiştiren bir fiil gibi kullanılır; ulaşılan değer to ile, düşüş miktarı ise by ile belirtilir.",
+  "tip": "Genellikle geçişsiz fiildir; ulaşılan değer to ile, düşüş miktarı by ile belirtilir.",
   "note": ""
  },
  {
@@ -125,7 +125,7 @@
   "col": [
    "ahşap kalas",
    "politikanın temel direği",
-   "bir politikayı savunmak"
+   "plank pozisyonunda durmak"
   ],
   "tip": "central plank of ifadesi bir politikanın ana unsurunu anlatır. Somut 'kalas' anlamıyla karıştırılmamalıdır.",
   "note": ""
@@ -137,7 +137,7 @@
    "İngiliz Milletler Topluluğu"
   ],
   "ex": [
-   "Adalılar, seçilmiş bir meclisle birlikte bir yönetim topluluğu kurdu.",
+   "Adalılar, seçilmiş bir konseyle yönetilen bir siyasi topluluk kurdu.",
    "Commonwealth üyeleri, kendi bağımsız hükümetlerini sürdürürken eğitim ve kalkınma alanında iş birliği yapar."
   ],
   "col": [
@@ -171,19 +171,19 @@
   "senses": [
    "keyif almak; zevk almak",
    "zevk; keyif",
-   "turşu sosu"
+   "turşu ezmesi"
   ],
   "ex": [
    "Sessiz sabahları çay ve bir kitapla geçirmekten büyük keyif alırım.",
    "Birçok öğrenci yabancı bir ülkede okuma fırsatını dört gözle bekler, çünkü bu onları farklı kültür ve bakış açılarıyla tanıştırır."
   ],
   "col": [
-   "meydan okumadan keyif almak",
+   "bir zorluktan keyif almak",
    "fırsattan zevk almak",
    "büyük bir zevkle",
-   "domatesli turşu sosu"
+   "domatesli turşu ezmesi"
   ],
-  "tip": "Fiilin ardından isim ya da -ing biçimi gelir; to do kalıbı kullanılmaz. Turkish speakers sometimes mistakenly add to.",
+  "tip": "Ardından isim ya da -ing gelir; to do kullanılmaz: relish doing, relish to do değil.",
   "note": ""
  },
  {
@@ -209,7 +209,7 @@
   "senses": [
    "piyon",
    "kukla; alet",
-   "rehine vermek"
+   "rehin bırakmak"
   ],
   "ex": [
    "Satranç tahtasında bir piyonu ileri götürdü ve tahtayı dikkatle inceledi.",
@@ -218,9 +218,9 @@
   "col": [
    "piyon oynatmak",
    "güç mücadelesinde kukla",
-   "mücevheri rehine vermek"
+   "mücevheri rehin bırakmak"
   ],
-  "tip": "Rehine vermek, değerli bir eşyayı borç karşılığı bırakmak demektir ve geri alınabilir; doğrudan satış anlamına gelmez.",
+  "tip": "Rehin bırakmak, değerli bir eşyayı borç karşılığı bırakmaktır ve geri alınabilir; doğrudan satış değildir.",
   "note": ""
  },
  {
@@ -261,8 +261,8 @@
   "id": "dwarf",
   "senses": [
    "gölgede bırakmak",
-   "cüce; minyatür tür",
-   "cüce; küçük"
+   "cüce; bodur canlı",
+   "cüce; bodur"
   ],
   "ex": [
    "Yeni kule, sokağımızdaki her evi gölgede bırakıyor.",

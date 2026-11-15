@@ -82,7 +82,7 @@
   "col": [
    "altta yatan neden",
    "temel sorun",
-   "örtük varsayım",
+   "altta yatan varsayım",
    "altta yatan sağlık sorunu"
   ],
   "tip": "Genellikle isimden önce gelir; yüzeydeki görüntünün arkasındaki temel nedeni ya da zemini vurgular.",
@@ -185,7 +185,7 @@
   ],
   "ex": [
    "Ahşap direğin yukarısında beyaz bir yelken dalgalanıyordu.",
-   "Yeni bir iletişim anteni kurulması, uzak köylerde mobil kapsamayı iyileştirebilir ve yerel işletmeleri destekleyebilir."
+   "Yeni bir iletişim anteni kurulması, uzak köylerde mobil kapsama alanını iyileştirebilir ve yerel işletmeleri destekleyebilir."
   ],
   "col": [
    "ana direk",
@@ -216,11 +216,11 @@
   "id": "conform",
   "senses": [
    "uymak; karşılamak",
-   "kurallara uymak; ayak uydurmak"
+   "uyum sağlamak; ayak uydurmak"
   ],
   "ex": [
    "Bu yeni kasklar en son güvenlik standartlarına uygun.",
-   "Uyma baskısı, genç insanların özgün fikirlerini ifade etmesini ve yerleşik geleneklere sorgulamasını engelleyebilir."
+   "Uyma baskısı, genç insanların özgün fikirlerini ifade etmesini ve yerleşik gelenekleri sorgulamasını engelleyebilir."
   ],
   "col": [
    "standartlara uymak",
@@ -251,14 +251,14 @@
   "id": "dangle",
   "senses": [
    "sarkmak; sallanmak",
-   "ayartmak; yem atmak"
+   "cazip göstermek"
   ],
   "ex": [
    "Yüksek sandalyeden ayakları yerden sarkıyordu.",
    "Bazı işverenler başvuru sahiplerine cömert primler vaat ederken uzun vadeli kariyer gelişimi için sınırlı fırsatlar sunar."
   ],
   "col": [
-   "...den sarkmak",
+   "bir şeyden sarkmak",
    "ayaklarını sallamak",
    "cazip bir teklif sunmak"
   ],

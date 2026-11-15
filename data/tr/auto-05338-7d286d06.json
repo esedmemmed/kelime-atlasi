@@ -61,7 +61,7 @@
   "id": "awkward",
   "senses": [
    "utandırıcı; garip",
-   "beceriksiz; sakar",
+   "sakar; kullanışsız",
    "zor; çetrefilli"
   ],
   "ex": [
@@ -74,7 +74,7 @@
    "zor bir soru",
    "zor bir durum"
   ],
-  "tip": "Sosyal durumlarda utanç verici anlamına gelir. Utangaç anlamındaki shy ile karıştırılmamalıdır.",
+  "tip": "awkward hem sosyal olarak utanç verici/tuhaf durumlar hem de sakar hareket ya da kullanımı zor şeyler için geçer.",
   "note": ""
  },
  {
@@ -221,7 +221,7 @@
   "col": [
    "miras koruma",
    "gıda saklama",
-   "korunmuş durum"
+   "korunma durumu"
   ],
   "tip": "Genellikle sayılamayan bir isimdir. The preservation of kalıbıyla korunan nesne belirtilir.",
   "note": ""

@@ -95,7 +95,7 @@
   ],
   "ex": [
    "Otobüs seferlerinin normale dönmesi işe gidip gelmeyi yeniden kolaylaştırdı.",
-   "İkili ilişkilerin normalleşmesi ticareti teşvik edebilir ve ortak çevre sorunlarında iş birliğini güçlendirebilir."
+   "Diplomatik ilişkilerin normalleşmesi ticareti teşvik edebilir ve ortak çevre sorunlarında iş birliğini güçlendirebilir."
   ],
   "col": [
    "ilişkilerin normalleşmesi",
@@ -178,17 +178,17 @@
   "id": "rig",
   "senses": [
    "sondaj kulesi; petrol platformu",
-   "manipüle etmek; hile yapmak",
+   "hile karıştırmak; manipüle etmek",
    "kurmak; takmak"
   ],
   "ex": [
    "Plajdan bir petrol platformu görebiliyorduk.",
-   "Bağımsız gözlemciler, güçlü grupların seçimleri kendi lehlerine çevirmesini önlemeye yardımcı olabilir."
+   "Bağımsız gözlemciler, güçlü grupların seçimlere kendi lehlerine hile karıştırmasını önlemeye yardımcı olabilir."
   ],
   "col": [
    "petrol platformu",
    "sondaj kulesi",
-   "seçimi manipüle etmek",
+   "seçime hile karıştırmak",
    "ekipmanı kurmak"
   ],
   "tip": "Fiil olarak hem kurmak, takmak hem de sonucu hileli biçimde değiştirmek anlamına gelir. Bağlama dikkat edin.",
@@ -205,7 +205,7 @@
   ],
   "col": [
    "küçümseyen bir bakış",
-   "tavsiyeyi hor görmek",
+   "öğütleri küçümseyen",
    "alaycı bir kahkaha"
   ],
   "tip": "Genellikle scornful of + isim kalıbıyla kullanılır ve bir kişiyi ya da şeyi değersiz görmeyi anlatır.",
@@ -221,7 +221,7 @@
    "Uygun fiyatlı çocuk bakımına erişimin kısıtlı olması, tam zamanlı çalışmak isteyen ebeveynler için özellikle dezavantajlı olabilir."
   ],
   "col": [
-   "birine karşı dezavantajlı olmak",
+   "birinin aleyhine olmak",
    "dezavantajlı durum",
    "elverişsiz koşullar"
   ],
@@ -234,13 +234,13 @@
    "gösteriş yapmak; övünmek"
   ],
   "ex": [
-   "Dün akşam yemekte yeni saatini gurur duyarak gösterdi.",
+   "Dün akşam yemekte yeni saatini gösterişle sergiledi.",
    "Sosyal medya bazı kullanıcıları zenginliklerini sergilemeye teşvik ederek izleyicilerde yetersizlik duygusunu artırabilir."
   ],
   "col": [
    "zenginliğini sergilemek",
    "başarısıyla övünmek",
-   "malvarlığını gösteriye sokmak"
+   "sahip olduklarını sergilemek"
   ],
   "tip": "flaunt gösteriş yapmak anlamına gelir. flout ise kuralları küçümseyerek çiğnemek demektir. İkisini karıştırmayın.",
   "note": ""
@@ -256,7 +256,7 @@
    "Hükümetler, kamu sağlığını ve hane harcamalarını önemli ölçüde etkileyebilecek politikaları uygulamadan önce sağlam kanıtlara ihtiyaç duyar."
   ],
   "col": [
-   "sağlam sağlık",
+   "güçlü sağlık",
    "sağlam kanıt",
    "sağlam sistem",
    "güçlü ekonomi"

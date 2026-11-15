@@ -133,7 +133,7 @@
   ],
   "col": [
    "yatağın sertliği",
-   "kararlı bir amaç",
+   "amaçta kararlılık",
    "kararlılık göstermek"
   ],
   "tip": "Sayılamayan bir isimdir; hem nesnenin sert olmasını hem de tutumun kararlı olmasını anlatabilir.",
@@ -164,7 +164,7 @@
    "sinirlendirmek; bezdirmek"
   ],
   "ex": [
-   "Yazıcının sürekli kağıt sıkıştırması ofisteki herkesi çileden çıkarıyor.",
+   "Yazıcının sürekli kâğıt sıkıştırması ofisteki herkesi çileden çıkarıyor.",
    "Toplu taşımadaki tekrarlayan gecikmeler yolcuları bezdirebilir ve arabalarını evde bırakma isteklerini azaltabilir."
   ],
   "col": [
@@ -178,7 +178,7 @@
  {
   "id": "counter-offer",
   "senses": [
-   "karşı teklif; pazarlık"
+   "karşı teklif"
   ],
   "ex": [
    "Satıcı fiyatımızı reddetti ve karşı bir teklifte bulundu.",
@@ -215,7 +215,7 @@
   "senses": [
    "gemi; tekne",
    "damar",
-   "kap; kap-kacak"
+   "kap"
   ],
   "ex": [
    "Büyük bir balıkçı teknesi limana yavaşça girdi.",
@@ -259,7 +259,7 @@
   "col": [
    "yoğun bitki örtüsü",
    "yerli bitki örtüsü",
-   "bitki örtüsü kaplaması",
+   "bitkisel örtü",
    "bitki örtüsünü temizlemek"
   ],
   "tip": "Sayılamayan bir isimdir; bir bölgedeki bitkileri genel olarak anlatır, sebze anlamına gelmez.",

@@ -30,7 +30,7 @@
    "soruşturma yürütmek",
    "soruşturma başlatmak",
    "...hakkında soruşturma/araştırma",
-   "soruşturulmakta olan"
+   "soruşturma altında"
   ],
   "tip": "Bir konu hakkında soruşturma veya araştırma için genellikle 'an investigation into' kalıbı kullanılır. 'under investigation' ise 'soruşturulmakta' anlamındadır.",
   "note": ""
@@ -47,7 +47,7 @@
   ],
   "col": [
    "hoş hava",
-   "keyifli arkadaş",
+   "keyifli arkadaşlık",
    "bir teklife razı"
   ],
   "tip": "Kişiler için 'hoş, sevimli' anlamında da kullanılır. 'be agreeable to sth' kalıbı resmi bir dil taşır ve 'razı olmak' anlamı verir.",
@@ -65,7 +65,7 @@
   "col": [
    "çevrimiçi ansiklopedi",
    "ansiklopedi maddesi",
-   "ansiklopedive başvurmak"
+   "ansiklopediye başvurmak"
   ],
   "tip": "İngiliz İngilizcesinde 'encyclopaedia', Amerikan İngilizcesinde 'encyclopedia' yazılır. İkisi de aynı anlamdadır.",
   "note": ""
@@ -94,7 +94,7 @@
    "ittifak; birlik"
   ],
   "ex": [
-   "İki kulüp havuzu kurtarmak için bir birlik kurdu.",
+   "İki kulüp havuzu kurtarmak için ittifak kurdu.",
    "Uluslararası bir ittifak, ülkelerin sınır aşan çevre tehditlerine karşı müdahalelerini koordine etmelerine yardımcı olabilir."
   ],
   "col": [
@@ -145,10 +145,10 @@
  {
   "id": "postal",
   "senses": [
-   "posta ile ilgili; postai"
+   "posta ile ilgili; posta"
   ],
   "ex": [
-   "Posta görevlisi kapımızın önüne bir koli bırakmış.",
+   "Posta görevlisi kapımızın önüne bir koli bıraktı.",
    "İnternete erişimin sınırlı ya da hiç olmadığı kırsal topluluklar için güvenilir posta hizmetleri hâlâ çok önemlidir."
   ],
   "col": [
@@ -165,7 +165,7 @@
   "senses": [
    "bir kenara; yana",
    "bir yana; bir tarafa",
-   "kenar yorum; fısıltı"
+   "yan söz; aparte"
   ],
   "ex": [
    "Bisikletçinin geçmesi için bir kenara çekildi.",
@@ -218,7 +218,7 @@
  {
   "id": "slum",
   "senses": [
-   "gecekondu; yoksul mahalle"
+   "yoksul mahalle; gecekondu"
   ],
   "ex": [
    "Ailesi kalabalık bir gecekondu bölgesinde küçük bir odayı paylaşıyordu.",

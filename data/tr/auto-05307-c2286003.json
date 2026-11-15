@@ -9,7 +9,7 @@
    "Üniversiteler her adayı, akademik başarısını ve ilgili kişisel deneyimini birlikte göz önünde bulundurarak adil biçimde değerlendirmelidir."
   ],
   "col": [
-   "iş başvurucusu",
+   "iş başvuru sahibi",
    "başarılı aday",
    "bir pozisyon için aday"
   ],
@@ -73,7 +73,7 @@
  {
   "id": "elder",
   "senses": [
-   "büyük; ağabey; abla",
+   "büyük; yaşça büyük",
    "büyükler; ileri gelenler"
   ],
   "ex": [
@@ -92,8 +92,8 @@
  {
   "id": "consequence",
   "senses": [
-   "sonuç; netice",
-   "önem; ehemmiyet"
+   "sonuç; akıbet",
+   "önem"
   ],
   "ex": [
    "Son otobüsü kaçırmak, geç çıkmanın bir sonucuydu.",
@@ -118,9 +118,9 @@
    "Yerel müzelerde sergilenen geleneksel süs eşyaları, önceki toplulukların kültürel kimliğini dekoratif nesneler aracılığıyla nasıl ifade ettiğini gösterebilir."
   ],
   "col": [
-   "cam süs",
+   "cam süs eşyası",
    "dekoratif süs",
-   "ile süslemek"
+   "bir şeyi ... ile süslemek"
   ],
   "tip": "İsim olarak ilk hecede vurgulanır; fiil olarak son hecesi /ment/ okunur. Fiil kalıbı: ornament something with.",
   "note": ""
@@ -130,7 +130,7 @@
   "senses": [
    "harika; muhteşem",
    "çok büyük; muazzam",
-   "efsanevi; masal"
+   "efsanevi; masalsı"
   ],
   "ex": [
    "Dün göl kenarında harika bir piknik yaptık.",
@@ -147,14 +147,14 @@
  {
   "id": "warrior",
   "senses": [
-   "savaşçı; cengaver"
+   "savaşçı; dövüşçü"
   ],
   "ex": [
    "Müze, antik bir savaşçının giydiği zırhı sergiliyordu.",
    "Savaşçılar hakkındaki geleneksel hikâyeler, geçmiş toplumların cesareti, sadakati ve liderliği nasıl anladığını ortaya koyabilir."
   ],
   "col": [
-   "antik savaşçı",
+   "antik çağ savaşçısı",
    "cesur savaşçı",
    "savaşçı kültürü"
   ],
@@ -165,7 +165,7 @@
   "id": "literally",
   "senses": [
    "kelimesi kelimesine; harfiyen",
-   "gerçekten; hakikaten"
+   "gerçekten; tam anlamıyla"
   ],
   "ex": [
    "Tavsiyemi harfiyen aldı ve daha büyük bir tabak aldı.",
@@ -174,7 +174,7 @@
   "col": [
    "bir şeyi harfiyen almak",
    "kelimesi kelimesine çevirmek",
-   "gerçekten doğru"
+   "kelimenin tam anlamıyla doğru"
   ],
   "tip": "Günlük konuşmada abartı için de kullanılır; yazıda ise kelimenin gerçek, sözlük anlamını vurgulamak için tercih edilir.",
   "note": ""
@@ -191,7 +191,7 @@
   "col": [
    "erken tespit",
    "fark edilmekten kaçınmak",
-   "sahtekarlık tespiti",
+   "sahtecilik tespiti",
    "duman algılama"
   ],
   "tip": "Genellikle sayılamaz; 'detection of' kalıbından sonra fark edilen ya da tespit edilen şey gelir.",

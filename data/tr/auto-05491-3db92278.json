@@ -12,7 +12,7 @@
   "col": [
    "vaaz vermek",
    "nezaket üzerine bir vaaz",
-   "vaaz okumak"
+   "vaaz vermek"
   ],
   "tip": "Dini bir konuşmayı anlatır. 'Uzun uzun öğüt verme' anlamında kullanıldığında genellikle hoşnutsuzluk ifade eder.",
   "note": ""
@@ -27,9 +27,9 @@
    "Okullar, dersler sonrasında büyük öğrencilerin küçüklere akademik destek verdiği bir sistem uygulayabilir."
   ],
   "col": [
-   "bir sistem ki bu sayede",
-   "bir süreç ki bu sayede",
-   "bir düzenleme ki bu sayede"
+   "böylece işleyen bir sistem",
+   "böylece gerçekleşen bir süreç",
+   "böylece yürüyen bir düzenleme"
   ],
   "tip": "Resmi bir bağlaç niteliğindeki ilgi zamiri-zarfıdır; genellikle system, process gibi isimlerden sonra gelir. 'by which' karşılığıdır.",
   "note": ""
@@ -78,7 +78,7 @@
   ],
   "ex": [
    "Çamurlu ayakkabılarından bahçıvanlık yaptığını çıkardım.",
-   "Öğrenci performansını etkileyen diğer faktörleri incelemeden, daha küçük sınıfların öğrenmeyi artırdığı sonucuna varamayız."
+   "Araştırmacılar, öğrenci performansını etkileyen diğer faktörleri incelemeden daha küçük sınıfların öğrenmeyi artırdığı sonucunu çıkaramaz."
   ],
   "col": [
    "kanıtlardan çıkarsamak",
@@ -100,7 +100,7 @@
   "col": [
    "çok sevinçli hissetmek",
    "haber karşısında coşkulu",
-   "başarıyla coşkulu"
+   "başarıdan dolayı çok sevinçli"
   ],
   "tip": "Happy'den daha güçlü bir duygudur; genellikle bir başarı ya da iyi bir haber sonrasında kullanılır.",
   "note": ""
@@ -125,7 +125,7 @@
  {
   "id": "alpine",
   "senses": [
-   "yüksek dağlara ait; dağlık"
+   "alpin; yüksek dağ"
   ],
   "ex": [
    "Patikanın kenarındaki kayaların arasında minik dağ çiçekleri yetişiyordu.",
@@ -148,7 +148,7 @@
   ],
   "ex": [
    "Dükkâna taze portakallardan oluşan bir parti mal geldi.",
-   "Uzak topluluklarda, tıbbi ekipmanlardan oluşan bir partinin kontrolündeki gecikmeler temel hizmetleri aksatabilir."
+   "Uzak topluluklarda, tıbbi ekipman sevkiyatının denetlenmesindeki gecikmeler temel hizmetleri aksatabilir."
   ],
   "col": [
    "bir parti mal",
@@ -161,7 +161,7 @@
  {
   "id": "primate",
   "senses": [
-   "primat; memeli"
+   "primat"
   ],
   "ex": [
    "Rehber, dallar arasında sallanan bir primatı gösterdi.",
@@ -214,19 +214,19 @@
  {
   "id": "delinquent",
   "senses": [
-   "suça yönelik; asi",
-   "ödenmemiş; gecikmiş",
-   "suçlu; asi genç"
+   "suça eğilimli",
+   "vadesi geçmiş; gecikmiş",
+   "suçlu genç"
   ],
   "ex": [
-   "Gençlik merkezi, genç yaşta asi davranışlar sergileyen gençlerin davranışlarını değiştirmelerine yardımcı oluyor.",
-   "Savunmasız aileler için erken destek, yalnızca sert cezalara kıyasla suç davranışını daha etkili biçimde azaltabilir."
+   "Gençlik merkezi, gençlerin suça yönelik davranışlarını değiştirmelerine yardımcı oluyor.",
+   "Savunmasız aileler için erken destek, yalnızca sert cezalara kıyasla suça yönelik davranışları daha etkili biçimde azaltabilir."
   ],
   "col": [
-   "suç davranışı",
+   "suça yönelik davranış",
    "suçlu genç",
    "gecikmiş ödemeler",
-   "borcunu ödemeyen kredi alan"
+   "borcunu ödemeyen borçlu"
   ],
   "tip": "Finans bağlamında ödemelerin gecikmesini, günlük kullanımda ise genellikle gençlerin yasa dışı davranışlarını anlatır.",
   "note": ""
@@ -243,11 +243,11 @@
    "Birçok ülke son on yılda ilkokula erişimi iyileştirmede önemli ilerlemeler kaydetti."
   ],
   "col": [
-   "bir odayı geçmek",
+   "büyük adımlarla odayı geçmek",
    "büyük ilerleme kaydetmek",
-   "bir şeyi kolayca karşılamak"
+   "bir şeyi soğukkanlılıkla karşılamak"
   ],
-  "tip": "Geçmiş zamanı strode, üçüncü hali stridden'dir; 'ilerleme' anlamında genellikle çoğul strides kullanılır.",
+  "tip": "Geçmiş zamanı strode, ortacı stridden'dir; 'ilerleme' anlamında genellikle çoğul strides kullanılır.",
   "note": ""
  },
  {

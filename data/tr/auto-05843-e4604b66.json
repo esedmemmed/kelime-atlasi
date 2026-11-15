@@ -99,7 +99,7 @@
   ],
   "col": [
    "mevcut kuralları geçersiz kılmak",
-   "tarafından değiştirilmek",
+   "yerini …a bırakmak",
    "önceki sürümlerin yerini almak"
   ],
   "tip": "Yazımı -sede ile biter, -cede değil. Genellikle 'be superseded by' yapısında edilgen olarak kullanılır.",
@@ -111,14 +111,14 @@
    "nüfus sayımı"
   ],
   "ex": [
-   "Nüfus sayım formunu mutfak masamızda doldurduk.",
+   "Nüfus sayımı formunu mutfak masamızda doldurduk.",
    "Nüfus sayımı verileri, hükümetlerin değişen nüfus ihtiyaçlarına göre konut, okul ve sağlık hizmetlerini planlamasına yardımcı olur."
   ],
   "col": [
    "nüfus sayımı yapmak",
    "nüfus sayımı verileri",
    "ulusal nüfus sayımı",
-   "nüfus sayım formu"
+   "nüfus sayımı formu"
   ],
   "tip": "Census tüm nüfusu sayar; örneklem anketi (sample survey) ise yalnızca bir kesimi inceler. İkisini karıştırmayın.",
   "note": ""
@@ -144,7 +144,7 @@
  {
   "id": "infringement",
   "senses": [
-   "ihlal; hak gaspı"
+   "ihlal; hak ihlali"
   ],
   "ex": [
    "O fotoğrafı izinsiz kopyalamak telif hakkı ihlali olabilir.",

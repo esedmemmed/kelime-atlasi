@@ -9,7 +9,7 @@
    "Çocukların yaban hayatına duyduğu merak, ilkokullarda çevre eğitimi için değerli bir başlangıç noktası olabilir."
   ],
   "col": [
-   "~e karşı ilgi; merak",
+   "...e duyulan ilgi",
    "büyülenerek izlemek",
    "birinin ilgisini çekmek"
   ],
@@ -81,11 +81,11 @@
   ],
   "ex": [
    "Küçük kuşun özenle ördüğü yuvaya hayran kaldık.",
-   "Yeni köprü, izole topluluklari temel hizmetlere bağlayan bir mühendislik harikasıdır."
+   "Yeni köprü, izole toplulukları birbirine bağlayan ve temel hizmetlere erişimi iyileştiren bir mühendislik harikasıdır."
   ],
   "col": [
    "mühendislik harikası",
-   "teknolojik harika",
+   "teknoloji harikası",
    "~e hayran kalmak",
    "doğa harikası"
   ],
@@ -122,7 +122,7 @@
   "col": [
    "genel bir bakış sunmak",
    "kısa bir özet",
-   "genel bir değerlendirme",
+   "genel bir bakış",
    "~e genel bakış"
   ],
   "tip": "Genellikle sayılabilir isimdir: an overview. Konu of ile belirtilir (an overview of the topic).",
@@ -251,7 +251,7 @@
    "basit bir süreç",
    "açık bir cevap",
    "nispeten basit",
-   "dürüst tavsiye"
+   "açık sözlü tavsiye"
   ],
   "tip": "Bir işin basit olduğunu ya da kişinin açık sözlü olduğunu anlatabilir; bağlama göre doğru anlamı seçin.",
   "note": ""
@@ -268,10 +268,10 @@
    "Yeniden kullanılabilir bir kabın üzerindeki küçük bir çizik bile etkili temizlemeyi zorlaştırabilir."
   ],
   "col": [
-   "kafasını kaşımak",
+   "başını kaşımak",
    "derin bir çizik",
    "sıfırdan",
-   "işin yüzeyine dokunmak"
+   "konunun yüzeyine değinmek"
   ],
   "tip": "from scratch 'sıfırdan' anlamına gelir ve kaşımakla ilgisi yoktur. scratch the surface ise bir konuyu yüzeysel ele almak demektir.",
   "note": ""

@@ -104,7 +104,7 @@
   ],
   "col": [
    "tatmin edici performans göstermek",
-   "sorunu tatmin edici biçimde çözmek",
+   "tatmin edici biçimde çözmek",
    "yeterince iyi işlemek"
   ],
   "tip": "Kabul edilebilir, gereksinimleri karşılayan düzeyi anlatır; mükemmel anlamına gelmez.",
@@ -113,7 +113,7 @@
  {
   "id": "catching",
   "senses": [
-   "bulaşıcı; sirayet eden"
+   "bulaşıcı; yayılan"
   ],
   "ex": [
    "Kahkahası bulaşıcıydı; kısa sürede herkes gülümsemeye başladı.",
@@ -185,7 +185,7 @@
  {
   "id": "motive",
   "senses": [
-   "güdü; saik; neden"
+   "güdü; neden"
   ],
   "ex": [
    "Katılmasının tek nedeni arkadaş edinmekti.",
@@ -214,7 +214,7 @@
    "bir ihtiyacı karşılamak",
    "gereksinimleri karşılamak",
    "merakını gidermek",
-   "kendini ikna etmek ki"
+   "...olduğundan emin olmak"
   ],
   "tip": "İnsanlar için 'satisfied' (memnun), şeyler için 'satisfying' (memnuniyet verici) kullanılır.",
   "note": ""

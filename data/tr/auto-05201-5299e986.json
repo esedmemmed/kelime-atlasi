@@ -50,7 +50,7 @@
    "tarafsız kalmak",
    "tarafsız bir gözlemci",
    "nötr renkler",
-   "boşta; boş vitese takılı"
+   "vitesi boşta"
   ],
   "tip": "\"Remain neutral\" tarafsız kalmak demektir. Araç için \"in neutral\" boş vites anlamına gelir.",
   "note": ""
@@ -113,7 +113,7 @@
   "id": "appendix",
   "senses": [
    "ek; ek bölüm",
-   "apandisit; körbağırsak"
+   "apandis; kör bağırsak"
   ],
   "ex": [
    "Tam tarifi ekte bulabilirsin.",
@@ -122,7 +122,7 @@
   "col": [
    "ekte",
    "bir rapora ek",
-   "patlamış apandisit"
+   "patlamış apandis"
   ],
   "tip": "Kitap ekleri için \"appendix\" çoğulu \"appendices\", tıbbi anlamda \"appendixes\" kullanılabilir.",
   "note": ""
@@ -159,7 +159,7 @@
   "col": [
    "insan",
    "canlı varlık",
-   "var olmak"
+   "meydana gelmek"
   ],
   "tip": "Canlı anlamında sayılabilir; \"varoluş\" anlamında genellikle sayılamaz.",
   "note": ""
@@ -168,7 +168,7 @@
   "id": "westward",
   "senses": [
    "batıya doğru",
-   "batıya doğru olan"
+   "batıya yönelik"
   ],
   "ex": [
    "Güneş batmaya başlarken batıya doğru sürdük.",
@@ -205,7 +205,7 @@
   "id": "assess",
   "senses": [
    "değerlendirmek",
-   "değer biçmek; tahakkuk ettirmek"
+   "değer biçmek; belirlemek"
   ],
   "ex": [
    "Tamirci bisikletimi onarmadan önce hasarı değerlendirdi.",
@@ -223,7 +223,7 @@
  {
   "id": "cork",
   "senses": [
-   "mantar (kabuk)",
+   "mantar (malzeme)",
    "mantar tıpa",
    "mantar tıpayla kapatmak"
   ],

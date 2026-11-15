@@ -11,7 +11,7 @@
   "col": [
    "-e zarar vermek",
    "-e acı çektirmek",
-   "-e ıstırap yaşatmak"
+   "-e ıstırap çektirmek"
   ],
   "tip": "'inflict sb' kalıbı yanlıştır. Doğrusu 'inflict something on someone' yapısıdır: zararı/acıyı 'on' ile kişiye ya da nesneye bağlayın.",
   "note": ""
@@ -21,16 +21,16 @@
   "senses": [
    "kopya; suret",
    "kopyalamak; tekrarlamak",
-   "birebir aynı; kopya"
+   "birebir aynı; çift"
   ],
   "ex": [
    "Anahtarın bir kopyasını evde saklıyorum.",
    "Araştırma ekipleri, gereksiz yere işi tekrarlamamak ve sınırlı kamu fonlarını boşa harcamamak için bulgularını paylaşmalıdır."
   ],
   "col": [
-   "yedek anahtar",
+   "kopya anahtar",
    "yinelenen kayıtlar",
-   "aynı işin tekrarı",
+   "mükerrer çaba",
    "iki nüsha halinde"
   ],
   "tip": "İsim ve sıfatta sonu /-ɪkət/, fiilde /-ɪkeɪt/ okunur. Vurgu üç durumda da ilk hecededir (DUplicate).",
@@ -99,8 +99,8 @@
    "Halk sağlığı kampanyaları, yaygın kaygıları saygılı biçimde ele alırken vatandaşlara aşının faydaları hakkında bilgi vermelidir."
   ],
   "col": [
-   "birine hakkında bilgi vermek",
-   "birine konusunda aydınlatmak",
+   "birini ... hakkında bilgilendirmek",
+   "birini ... konusunda aydınlatmak",
    "aydınlatıcı bir tartışma"
   ],
   "tip": "Resmi bir fiildir. 'enlighten sb about/on sth' kalıbıyla kullanılır. Günlük konuşmada 'tell' ya da 'explain' daha yaygındır.",
@@ -127,7 +127,7 @@
  {
   "id": "magnitude",
   "senses": [
-   "büyüklük; ölçek",
+   "büyüklük; boyut",
    "deprem büyüklüğü"
   ],
   "ex": [
@@ -139,7 +139,7 @@
    "altı büyüklüğünde bir deprem",
    "bir büyüklük mertebesi"
   ],
-  "tip": "Genel ölçek ve önem için de, deprem şiddetini ölçmek için de kullanılır. 'The magnitude of' kalıbı genel büyüklüğü anlatır.",
+  "tip": "Genel boyut ve önem için de, depremin büyüklüğü için de kullanılır. 'The magnitude of' kalıbı genel büyüklüğü anlatır.",
   "note": ""
  },
  {

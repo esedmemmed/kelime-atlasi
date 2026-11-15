@@ -47,7 +47,7 @@
   ],
   "col": [
    "bir tekniği geliştirmek",
-   "bir öneriyi düzenlemek",
+   "bir öneriyi iyileştirmek",
    "ham petrolü arıtmak"
   ],
   "tip": "Küçük ve dikkatli değişikliklerle bir şeyi daha iyi hale getirmek anlamına gelir. Ham madde için 'arıtmak' anlamı da vardır.",
@@ -56,7 +56,7 @@
  {
   "id": "obsess",
   "senses": [
-   "aklını kurcalamak; saplanmak",
+   "zihnini meşgul etmek",
    "kafaya takmak"
   ],
   "ex": [
@@ -74,7 +74,7 @@
  {
   "id": "practitioner",
   "senses": [
-   "hekim; uzman",
+   "meslek mensubu; hekim",
    "uygulayıcı"
   ],
   "ex": [
@@ -92,19 +92,19 @@
  {
   "id": "ferocious",
   "senses": [
-   "vahşi; azgın",
+   "azılı; saldırgan",
    "amansız; şiddetli"
   ],
   "ex": [
-   "Kilitli kapının arkasından vahşi köpek hırladı.",
+   "Kilitli kapının arkasından azılı köpek hırladı.",
    "Teknoloji sektöründeki amansız rekabet inovasyonu teşvik edebilir, ancak küçük firmaların varlığını da tehdit edebilir."
   ],
   "col": [
-   "vahşi bir hayvan",
+   "azılı bir hayvan",
    "amansız rekabet",
    "şiddetli bir fırtına"
   ],
-  "tip": "Hayvanlar için 'vahşi', durumlar için 'amansız' ya da 'şiddetli' gibi çevrilebilir. 'Fierce' kelimesine göre daha güçlü bir ton taşır.",
+  "tip": "Hayvan için 'azılı', rekabet ya da fırtına için 'amansız; şiddetli' denir; 'fierce'ın daha güçlü biçimidir.",
   "note": ""
  },
  {
@@ -154,8 +154,8 @@
   ],
   "col": [
    "oybirliğiyle alınan karar",
-   "tam destek",
-   "tam mutabakat",
+   "oybirliğiyle destek",
+   "oybirliğiyle uzlaşma",
    "oybirliğiyle oylama"
   ],
   "tip": "Grubun tamamının aynı fikirde olduğunu belirtir; sadece çoğunluğun onayını anlatmaz. 'Majority' ile karıştırılmamalıdır.",
@@ -187,21 +187,21 @@
    "tıslama sesi"
   ],
   "ex": [
-   "Yavru köpek fazla yaklaşınca kedi tıslamıştı.",
+   "Yavru köpek fazla yaklaşınca kedi tıslayıverdi.",
    "Mühendisler, olası kaçakları belirlemek ve enerji kaybını önlemek için ısıtma sistemindeki sürekli tıslama sesini inceledi."
   ],
   "col": [
-   "birine yuhalamak",
+   "birine tıslamak",
    "hafif bir tıslama",
    "buharın tıslaması"
   ],
-  "tip": "'Hiss at' kalıbı 'birine yuhalamak' anlamına da gelir. Kedi, yılan ya da buhar için 'tıslamak' kullanılır.",
+  "tip": "'Hiss at' birine tıslamak ya da onu ıslıklayıp yuhalamak demektir. Kedi, yılan, buhar için 'tıslamak' kullanılır.",
   "note": ""
  },
  {
   "id": "attribution",
   "senses": [
-   "nedene atfetme; saptama",
+   "atfetme; nedene bağlama",
    "kaynak gösterme; atıf"
   ],
   "ex": [
@@ -236,16 +236,16 @@
  {
   "id": "clam",
   "senses": [
-   "midye; deniz kabuklusu"
+   "kum midyesi; çift kabuklu"
   ],
   "ex": [
-   "Islak kumun içinde gömülü bir deniz kabuklusu bulduk.",
-   "Midye yetiştiriciliği kıyı ekonomilerini destekleyebilir; ancak düşük su kalitesi hem kabuklu hayvanları hem de tüketicileri tehdit edebilir."
+   "Islak kumun içinde gömülü bir kum midyesi bulduk.",
+   "Kum midyesi yetiştiriciliği kıyı ekonomilerini destekleyebilir; ancak düşük su kalitesi hem kabuklu hayvanları hem de tüketicileri tehdit edebilir."
   ],
   "col": [
-   "midye kabuğu",
-   "midye çorbası",
-   "midye yetiştiriciliği"
+   "kum midyesi kabuğu",
+   "kum midyesi çorbası",
+   "kum midyesi yetiştiriciliği"
   ],
   "tip": "'Clam' ile 'calm' (sakin) kelimeleri birbirine benzer ama anlamları farklıdır; karıştırmamaya dikkat edin.",
   "note": ""
@@ -253,7 +253,7 @@
  {
   "id": "maniac",
   "senses": [
-   "çılgın; aşırı",
+   "çılgın; manyak",
    "fanatik; tutkun"
   ],
   "ex": [

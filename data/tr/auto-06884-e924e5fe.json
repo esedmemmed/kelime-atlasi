@@ -2,7 +2,7 @@
  {
   "id": "reliant",
   "senses": [
-   "bağımlı; muhtaç"
+   "bağımlı; ihtiyaç duyan"
   ],
   "ex": [
    "Arabamız olmadığı için yerel otobüslere bağımlıyız.",
@@ -74,7 +74,7 @@
   "id": "pinnacle",
   "senses": [
    "zirve; doruk",
-   "sivri kaya; sivri çatı süsü"
+   "sivri kaya; küçük sivri kule"
   ],
   "ex": [
    "Turnuvayı kazanmak, kariyerinin zirvesiydi.",
@@ -100,7 +100,7 @@
   ],
   "col": [
    "ısıyı dağıtmak",
-   "gerginlik dağılıyor",
+   "gerginliğin dağılması",
    "enerjiyi boşa harcamak"
   ],
   "tip": "Hem geçişsiz (sis dağılır) hem geçişli (bir şeyi dağıtır) kullanılabilir. Ayrıca 'boşa harcamak' anlamı vardır.",
@@ -126,7 +126,7 @@
  {
   "id": "aesthetic",
   "senses": [
-   "estetik; güzelliksel",
+   "estetik; güzellikle ilgili",
    "estetik anlayış; üslup"
   ],
   "ex": [
@@ -156,7 +156,7 @@
    "başlangıç tarihi",
    "mezuniyet töreni"
   ],
-  "tip": "Resmi bir sözcüktür; start'tan daha yüksek bir dile aittir. ABD İngilizcesinde mezuniyet töreni anlamına da gelir.",
+  "tip": "Resmî bir sözcüktür; start'tan daha resmî bir dil katmanına aittir. ABD İngilizcesinde mezuniyet töreni anlamına da gelir.",
   "note": ""
  },
  {
@@ -218,11 +218,11 @@
    "ikircikli; kararsız"
   ],
   "ex": [
-   "Ailemden uzaklaşmak konusunda ikilem yaşıyorum.",
+   "Ailemden uzaklaşmak konusunda ikircikli hissediyorum.",
    "Birçok tüketici, kolaylığın gizlilik kaygılarıyla dengelenmesi gerektiğini düşündüğü için çevrimiçi alışverişe karşı hâlâ ikircikli."
   ],
   "col": [
-   "...konusunda ikilem yaşamak",
+   "...konusunda ikircikli olmak",
    "ikircikli tutum",
    "ikircikli kalmak"
   ],

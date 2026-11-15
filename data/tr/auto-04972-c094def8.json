@@ -21,7 +21,7 @@
   "id": "hatch",
   "senses": [
    "kuluçkadan çıkmak; çıkarmak",
-   "geçit; kapak",
+   "kapak; delik",
    "gizlice tasarlamak"
   ],
   "ex": [
@@ -51,7 +51,7 @@
    "misket limonu suyu",
    "bir dilim misket limonu",
    "tarımsal kireç",
-   "açık yeşilimsi sarı renk"
+   "limon yeşili"
   ],
   "tip": "Meyve anlamında sayılabilir, kireç anlamında sayılamaz. Normal limon için lemon kelimesi kullanılır.",
   "note": ""
@@ -81,7 +81,7 @@
    "göç etmek; yerleşmek"
   ],
   "ex": [
-   "Büyükannem ve büyükbabam Kanada'ya yerleşti ve bir fırın açtı.",
+   "Büyükanne ve büyükbabası Kanada'ya yerleşti ve bir fırın açtı.",
    "Göç eden insanlar, yeni toplumsal geleneklere uyum sağlarken genellikle ev sahibi ülkelerine değerli beceriler katar."
   ],
   "col": [
@@ -183,7 +183,7 @@
   "id": "disable",
   "senses": [
    "devre dışı bırakmak; kapatmak",
-   "sakatlamak; engellemek"
+   "sakat bırakmak; sakatlamak"
   ],
   "ex": [
    "Akşam yemeğinde telefonum sessiz kalsın diye bildirimleri kapattım.",

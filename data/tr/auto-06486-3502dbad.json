@@ -41,7 +41,7 @@
   "id": "prophet",
   "senses": [
    "peygamber",
-   "kehanetçi; gelecek bildiren"
+   "kâhin"
   ],
   "ex": [
    "Eski tabloda bir kalabalığa hitap eden bir peygamber görülüyor.",
@@ -49,10 +49,10 @@
   ],
   "col": [
    "dini bir peygamber",
-   "kıyamet kehanetçisi",
+   "felaket tellalı",
    "bir peygamberin öğretileri"
   ],
-  "tip": "Profit (kâr) ile benzer yazılsa da telaffuzu farklıdır. Fiili prophesy'dir; prophet ile karıştırmayın.",
+  "tip": "Profit (kâr) ile aynı okunur ama yazılışı ve anlamı farklıdır. Fiili prophesy'dir.",
   "note": ""
  },
  {
@@ -143,7 +143,7 @@
    "pankart kaldırmak",
    "protesto pankartı"
   ],
-  "tip": "Genellikle gösteri ve protestolarda taşınan büyük bir pankarttır. Küçük kağıt afişler için poster sözcüğü daha uygundur.",
+  "tip": "Genellikle gösteri ve protestolarda taşınan büyük bir pankarttır. Küçük kâğıt afişler için poster sözcüğü daha uygundur.",
   "note": ""
  },
  {
@@ -222,7 +222,7 @@
   "senses": [
    "doğrudan; kesinlikle",
    "peşin; tamamen",
-   "tam; açık"
+   "tam; apaçık"
   ],
   "ex": [
    "Ev sahibim, hiç tartışmadan isteğimi doğrudan reddetti.",
@@ -231,7 +231,7 @@
   "col": [
    "doğrudan reddetmek",
    "peşin satın almak",
-   "açık bir yasak",
+   "kesin bir yasak",
    "apaçık bir yalan"
   ],
   "tip": "Buy outright, bir şeyi taksitsiz ve tamamen kendi mülkü olarak peşin almak demektir. Sıfat olarak genellikle isimden önce gelir.",
@@ -268,7 +268,7 @@
    "özel mülke izinsiz girmek",
    "birinin arazisine izinsiz girmek"
   ],
-  "tip": "Bir yere izinsiz girmek için trespass on kullanılır. Bu, sıradan bir hata değil, mülk sahibinin iznine dayanan hukuki bir durumdur.",
+  "tip": "Bir yere izinsiz girmek için 'trespass on' kullanılır; sıradan bir hata ya da kusur anlamı taşımaz.",
   "note": ""
  }
 ]

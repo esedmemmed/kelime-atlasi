@@ -132,7 +132,7 @@
   "col": [
    "ofis masası rezervasyonu",
    "hotelling sistemi",
-   "masa paylaşımı"
+   "rezervasyonlu masa kullanımı"
   ],
   "tip": "Ofiste önceden rezervasyonla kullanılan paylaşımlı masayı anlatır. 'Hotel industry' (otel endüstrisi) ile karıştırılmamalıdır.",
   "note": "Gerçek bir kelime; 'hoteling' yazımıyla da geçer. Modern anlamı ofis masası rezervasyon sistemidir, otel işletmeciliği değildir."
@@ -149,7 +149,7 @@
   "col": [
    "topluma yayılmak",
    "havaya sinmek",
-   "bir huzursuzluk hissi yayılmak"
+   "huzursuzluk hissi her yeri sarmak"
   ],
   "tip": "Geçişli bir fiildir. Yer ya da alan adı doğrudan nesne olarak gelir, arasına edat konmaz.",
   "note": ""

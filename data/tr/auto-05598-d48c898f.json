@@ -5,13 +5,13 @@
    "telafi; tazminat"
   ],
   "ex": [
-   "Ona gönlünü almak için bir pasta yaptım.",
+   "Onun gönlünü almak için bir pasta yaptım.",
    "Şirketler, habitatları onarıp etkilenen topluluklara tazminat ödeyerek çevreye verdikleri zararın telafisini yapmalıdır."
   ],
   "col": [
    "telafi etmek",
    "bir hatayı telafi etmek",
-   "birine telafi etmek"
+   "birinin gönlünü almak"
   ],
   "tip": "Bu anlamda çoğunlukla make amends kalıbıyla kullanılır. 'an amends' şeklinde kullanılmaz.",
   "note": ""
@@ -41,7 +41,7 @@
   ],
   "ex": [
    "Onun zekice cevabı masadaki herkesi güldürdü.",
-   "Esprili bir sunum, mizahın dersi destekleyip dikkatı dağıtmaması koşuluyla öğrencilerin ilgisini çekebilir."
+   "Esprili bir sunum, mizahın dersten uzaklaştırmayıp onu desteklemesi koşuluyla öğrencilerin ilgisini çekebilir."
   ],
   "col": [
    "zekice bir söz",
@@ -109,7 +109,7 @@
  {
   "id": "bust",
   "senses": [
-   "büst; heykel",
+   "büst; yarım heykel",
    "göğüs; göğüs ölçüsü"
   ],
   "ex": [
@@ -203,9 +203,9 @@
    "Daha iyi toplu taşıma, işe gidip gelenlere şüphesiz fayda sağlayacak; ancak inşaatı geçici aksamalara yol açabilir."
   ],
   "col": [
-   "şüphesiz olacak",
+   "şüphesiz olacaktır",
    "şüphesiz olurdu",
-   "muhakkak farkında olmak"
+   "şüphesiz farkında olmak"
   ],
   "tip": "Genellikle emin olunan bir tahmini belirtir; her zaman mutlak kesinlik anlamı taşımaz.",
   "note": ""

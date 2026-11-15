@@ -6,7 +6,7 @@
   ],
   "ex": [
    "Sorusu masum görünüyordu, bu yüzden tereddüt etmeden cevapladım.",
-   "Zararsız görünen ev temizlik ürünleri, atık suyla nehirlere büyük miktarda karıştığında su ekosistemlerine zarar verebilir."
+   "Zararsız görünen ev ürünleri, atık suyla nehirlere büyük miktarda karıştığında su ekosistemlerine zarar verebilir."
   ],
   "col": [
    "zararsız bir söz",
@@ -134,7 +134,7 @@
   ],
   "ex": [
    "Gece boyunca süren kaşıntı adeta bir işkenceydi.",
-   "İstihdamla ilgili sürekli belirsizlik, işçileri zamanla üzebilir ve ruh sağlıklarını zedeleyebilir."
+   "İstihdamla ilgili sürekli belirsizlik, işçileri zamanla yıpratabilir ve ruh sağlıklarını zedeleyebilir."
   ],
   "col": [
    "zihinsel ıstırap",
@@ -150,7 +150,7 @@
    "belirsiz; çift anlamlı"
   ],
   "ex": [
-   "Muğlak cevabı, gelip gelmeyeceğimizi anlamamızı sağlamadı.",
+   "Muğlak cevabı yüzünden gelip gelmememiz gerektiğinden emin olamadık.",
    "Halk sağlığı tavsiyelerindeki muğlak ifadeler okuyucuları şaşırtabilir ve resmi yönergelere güvenlerini azaltabilir."
   ],
   "col": [
@@ -237,7 +237,7 @@
   "id": "reed",
   "senses": [
    "kamış; saz",
-   "ince kamış; kamış dil"
+   "çalgı kamışı; dilcik"
   ],
   "ex": [
    "Göletin kenarındaki bir kamışın üzerinde küçük bir kuş duruyordu.",
@@ -248,7 +248,7 @@
    "kamış ötleğeni",
    "klarnet kamışı"
   ],
-  "tip": "Yazılışı read (okumak) ile benzer, ana telaffuzu da aynıdır. Çalgılarda ses çıkaran ince kamışa da reed denir.",
+  "tip": "Read fiilinin yalın biçimiyle aynı okunur; çalgılarda ses çıkaran ince kamışa da reed denir.",
   "note": ""
  },
  {

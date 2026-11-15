@@ -22,7 +22,7 @@
   "senses": [
    "öfke; infial",
    "kızdırmak; öfkelendirmek",
-   "utanç verici eylem; zulüm"
+   "skandal; rezalet"
   ],
   "ex": [
    "Sakinler, işçiler eski ağacı kestiğinde büyük bir öfke dile getirdi.",
@@ -50,8 +50,8 @@
   "col": [
    "yardım çağrısı",
    "çağrıda bulunmak",
-   "suçu kabul etme savunması",
-   "savunma yapmak"
+   "suçunu kabul beyanı",
+   "savunma beyanında bulunmak"
   ],
   "tip": "plea for ile istenen şey, plea to ile istekte bulunulan kişi belirtilir.",
   "note": ""
@@ -119,7 +119,7 @@
   ],
   "col": [
    "tarafsız tavsiye",
-   "tarafsız hakim",
+   "tarafsız hâkim",
    "tarafsız kalmak"
   ],
   "tip": "partial kayırmacı anlamına gelebilir; impartial ise kayırmamayı anlatır.",
@@ -186,11 +186,11 @@
    "üzmek; kederlendirmek"
   ],
   "ex": [
-   "Geçen bahar öldü diye hâlâ kedimiz için yas tutuyoruz.",
+   "Geçen bahar ölen kedimizin yasını hâlâ tutuyoruz.",
    "İşverenler, çalışanların bir aile üyesini kaybettikten sonra yas tutmalarına zaman tanımak için şefkat izni vermelidir."
   ],
   "col": [
-   "birini için yas tutmak",
+   "birinin yasını tutmak",
    "bir kayıp yüzünden üzülmek",
    "yas tutma zamanı"
   ],
@@ -216,10 +216,10 @@
  {
   "id": "intangible",
   "senses": [
-   "soyut; maddi olmayan; ölçülmesi zor"
+   "soyut; maddi olmayan"
   ],
   "ex": [
-   "Sıcak karşılaması eve belirsiz bir çekicilik kattı.",
+   "Sıcak karşılaması eve tarif edilemez bir çekicilik kattı.",
    "Kamu parkları, daha güçlü bir aidiyet duygusu ve gelişmiş toplumsal ilişkiler dahil olmak üzere maddi olmayan faydalar sağlar."
   ],
   "col": [

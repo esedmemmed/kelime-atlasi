@@ -4,7 +4,7 @@
   "senses": [
    "vurgulamak; öne çıkarmak",
    "en güzel an; doruk nokta",
-   "altını çizmek"
+   "fosforlu kalemle işaretlemek"
   ],
   "ex": [
    "Tekne turu tatilimizin en güzel anıydı.",
@@ -12,7 +12,7 @@
   ],
   "col": [
    "bir sorunu vurgulamak",
-   "...ın önemini vurgulamak",
+   "önemini vurgulamak",
    "gezinin en güzel anı"
   ],
   "tip": "Fiil olarak doğrudan nesne alır: highlight the problem. Araya 'on' ya da 'to' gibi edat eklemeyin.",
@@ -61,7 +61,7 @@
   "id": "cooperation",
   "senses": [
    "iş birliği",
-   "yardım; destek"
+   "uyum; destek"
   ],
   "ex": [
    "Ortak mutfağı temizlemek herkesin iş birliğini gerektirir.",
@@ -71,7 +71,7 @@
    "uluslararası iş birliği",
    "yakın iş birliği",
    "...ile iş birliği içinde",
-   "tam destek"
+   "tam iş birliği"
   ],
   "tip": "Genellikle sayılmaz, çoğul yapılmaz. 'İle iş birliği içinde' anlamında in cooperation with kalıbı kullanılır.",
   "note": ""
@@ -83,13 +83,13 @@
    "kesir"
   ],
   "ex": [
-   "Bu ceket orijinal fiyatının çok küçük bir kısmına mal oldu.",
+   "Bu ceket, orijinal fiyatının çok küçük bir kısmına mal oluyor.",
    "Hızla büyüyen bazı şehirlerde evsel atıkların yalnızca küçük bir kısmı geri dönüştürülüyor."
   ],
   "col": [
-   "...ın bir kısmı",
+   "-in küçük bir kısmı",
    "küçük bir kısmı",
-   "saniyenin bir kesri",
+   "saniyenin çok küçük bir kısmı",
    "basit kesir"
   ],
   "tip": "'A fraction of' genellikle çok küçük bir oranı belirtir. Matematikte fraction kesir demektir.",
@@ -118,7 +118,7 @@
   "id": "whip",
   "senses": [
    "kamçı; kırbaç",
-   "kamçılamak; fırlatmak",
+   "kamçılamak; savurmak",
    "çırpmak"
   ],
   "ex": [

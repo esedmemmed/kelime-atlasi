@@ -89,8 +89,8 @@
  {
   "id": "mistress",
   "senses": [
-   "metres; gayri meşru eş",
-   "ev hanımı; kadın efendi",
+   "metres; gizli sevgili",
+   "evin hanımı; ev sahibesi",
    "usta kadın; kadın uzman"
   ],
   "ex": [
@@ -102,7 +102,7 @@
    "evin hanımı",
    "zanaatında usta"
   ],
-  "tip": "Metres, evli bir erkeğin ilişkide olduğu kadın demektir; karı ya da sıradan kız arkadaş anlamında değildir. 'Ev hanımı' anlamı eski kullanımdır.",
+  "tip": "Metres, evli bir erkeğin ilişkide olduğu kadın demektir; eş ya da sıradan kız arkadaş anlamında değildir. 'Evin hanımı' anlamı eskidir.",
   "note": ""
  },
  {
@@ -188,7 +188,7 @@
   "col": [
    "tuhaf bir fikir",
    "tuhaf kıyafetler",
-   "saçma bir iddia"
+   "akıl almaz bir iddia"
   ],
   "tip": "Olağandışılığı ve çoğu zaman makul olmadığını vurgular. Genellikle şaşkınlık ya da onaylamama tonu taşır.",
   "note": ""
@@ -196,7 +196,7 @@
  {
   "id": "explanatory",
   "senses": [
-   "açıklayıcı; izah edici"
+   "açıklayıcı; açıklayan"
   ],
   "ex": [
    "Tarifte, zor her adım için açıklayıcı resimler yer alıyor.",
@@ -255,7 +255,7 @@
    "Şirketler, çevresel taahhütlerinden vazgeçmek için ekonomik belirsizliği bir bahane olarak kullanmamalıdır."
   ],
   "col": [
-   "bir bahane altında",
+   "...bahanesiyle",
    "bir şey yapmak için bahane",
    "bir bahaneyle"
   ],

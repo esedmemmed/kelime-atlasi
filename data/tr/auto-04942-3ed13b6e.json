@@ -66,7 +66,7 @@
   "col": [
    "güneş ışığında parıldamak",
    "gözleri parlamak",
-   "-e canlılık katmak"
+   "canlılık katmak"
   ],
   "tip": "sparkle küçük, parlak parıltıları anlatır; shine ise genel olarak ışık yaymayı ifade eder.",
   "note": ""
@@ -91,8 +91,8 @@
  {
   "id": "venus",
   "senses": [
-   "Venüs; Zühre",
-   "Venüs; aşk ve güzellik tanrıçası"
+   "Venüs",
+   "Venüs; aşk tanrıçası"
   ],
   "ex": [
    "Gün batımından hemen sonra Venüs'ün parlak ışıldadığını fark ettik.",
@@ -101,7 +101,7 @@
   "col": [
    "Venüs'ün atmosferi",
    "Venüs'ün yüzeyi",
-   "Venüs'e bir görev"
+   "Venüs'e bir uzay görevi"
   ],
   "tip": "Özel isim olduğu için büyük harfle yazılır; gezegen adının başında genellikle belirli artikel (the) kullanılmaz.",
   "note": ""
@@ -119,7 +119,7 @@
   ],
   "col": [
    "değişimi benimsemek",
-   "bir fırsatı kucaklamak",
+   "fırsatı değerlendirmek",
    "sıcak bir kucaklama"
   ],
   "tip": "Bir fikri veya değişimi kabul etmek anlamında change, idea gibi soyut isimlerle kullanılır.",
@@ -164,7 +164,7 @@
   "senses": [
    "yoğun; sık",
    "anlaşılması zor; yoğun",
-   "kavrayışı yavaş; kalın kafalı"
+   "geç anlayan"
   ],
   "ex": [
    "Yoğun sis mutfak penceremizden köprüyü gizledi.",
@@ -172,7 +172,7 @@
   ],
   "col": [
    "yoğun sis",
-   "yoğun orman",
+   "sık orman",
    "yoğun nüfus",
    "ağır yazılmış metin"
   ],
@@ -216,7 +216,7 @@
  {
   "id": "inevitable",
   "senses": [
-   "kaçınılmaz; zorunlu"
+   "kaçınılmaz; engellenemez"
   ],
   "ex": [
    "Trafik bu kadar yoğunken gecikme kaçınılmaz görünüyor.",
@@ -234,7 +234,7 @@
   "id": "brighten",
   "senses": [
    "aydınlatmak; aydınlanmak",
-   "neşelendirmek; sevinmek"
+   "neşelendirmek; neşelenmek"
   ],
   "ex": [
    "Bu sarı perdeler küçük mutfağımızı gerçekten aydınlatıyor.",
@@ -242,10 +242,10 @@
   ],
   "col": [
    "odayı aydınlatmak",
-   "birinin gününü aydınlatmak",
+   "birinin gününü güzelleştirmek",
    "neşelenmek"
   ],
-  "tip": "Hem nesneyi hem de kişiyi konu alan bir fiildir; brighten up ise ruh hali için de kullanılır.",
+  "tip": "Hem geçişli hem geçişsiz kullanılır; 'brighten up' ruh hâlinin düzelmesi için de kullanılır.",
   "note": ""
  },
  {

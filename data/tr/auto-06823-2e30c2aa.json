@@ -2,7 +2,7 @@
  {
   "id": "panoramic",
   "senses": [
-   "panoramik; geniş görüşlü"
+   "panoramik; geniş açılı"
   ],
   "ex": [
    "Balkonumuzdan limanın panoramik manzarası görülüyor.",
@@ -48,7 +48,7 @@
    "seyredilebilir su yolları",
    "kolay gezilebilir web sitesi"
   ],
-  "tip": "Genellikle nehir ve su yolları için kullanılır. Bir geminin denizde elverişli olmasını ise seaworthy ifade eder.",
+  "tip": "Genellikle nehir ve su yolları için kullanılır. Geminin denize elverişli olması için seaworthy denir.",
   "note": ""
  },
  {
@@ -64,7 +64,7 @@
   "col": [
    "faydasını görmek",
    "ödülünü almak",
-   "hasat toplamak"
+   "ürün biçmek"
   ],
   "tip": "Soyut anlamda genellikle benefits veya rewards ile kullanılır; önce yapılan emeği, ardından gelen sonucu vurgular.",
   "note": ""

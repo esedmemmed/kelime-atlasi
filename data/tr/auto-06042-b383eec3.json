@@ -6,7 +6,7 @@
    "sadeleştirerek anlatmak"
   ],
   "ex": [
-   "Kadın yemek videoları bu basit fasulye çorbasının yaygınlaşmasına yardımcı oldu.",
+   "Onun yemek videoları bu basit fasulye çorbasının yaygınlaşmasına yardımcı oldu.",
    "Kamu yayıncıları, karmaşık keşifleri erişilebilir belgeseller ve uygulamalı gösterimlerle anlatarak bilimsel bilgiyi halka ulaştırabilir."
   ],
   "col": [
@@ -73,7 +73,7 @@
   "id": "assertion",
   "senses": [
    "iddia; öne sürüş",
-   "kararlı savunma; koruma"
+   "kararlı savunma; ortaya koyma"
   ],
   "ex": [
    "Dükkânın kapalı olduğu yönündeki iddiası yanlış çıktı.",
@@ -154,7 +154,7 @@
   "col": [
    "yavaşça sallanmak",
    "kamuoyunu etkilemek",
-   "hükmünü sürdürmek",
+   "hüküm sürmek",
    "...nin etkisi altında"
   ],
   "tip": "sway hem fiziksel sallanmayı hem de birinin fikrini ya da kararını etkilemeyi anlatır. under the sway of kalıbı sık görülür.",
@@ -252,10 +252,10 @@
   "senses": [
    "kendini tutma; ölçülülük",
    "kısıtlama; sınırlama",
-   "koruyucu aparat"
+   "tutucu düzenek"
   ],
   "ex": [
-   "Son bisküviyi bana saklayarak kendini tuttu.",
+   "Kendini tutup son bisküviyi bana sakladı.",
    "Hükümetler, vatandaşların güvenilir bilgiye erişimini sınırlayabilecek kısıtlamalar getirirken ölçülü davranmalıdır."
   ],
   "col": [

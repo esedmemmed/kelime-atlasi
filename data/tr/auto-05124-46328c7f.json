@@ -11,10 +11,10 @@
   ],
   "col": [
    "gemi enkazı",
-   "araba kazası; kaza enkazı",
+   "araba enkazı; kazalı araç",
    "birinin planlarını bozmak"
   ],
-  "tip": "Gemi ya da araç için kaza enkazı anlamında kullanılır; genel enkaz için wreckage daha uygundur.",
+  "tip": "Wreck, kazada hasar görmüş gemi ya da aracı anlatır; genel 'enkaz, kalıntı' için wreckage kullanılır.",
   "note": ""
  },
  {
@@ -39,7 +39,7 @@
   "id": "herd",
   "senses": [
    "sürü",
-   "sürmek; toplamak"
+   "gütmek; yönlendirmek"
   ],
   "ex": [
    "Bir inek sürüsü dar kırsal yolu kapattı.",
@@ -48,7 +48,7 @@
   "col": [
    "bir sığır sürüsü",
    "sürü hayvanları",
-   "sığırları sürmek",
+   "sığır gütmek",
    "sürü içgüdüsü"
   ],
   "tip": "Sığır, fil gibi büyük hayvanların toplulukları için herd kullanılır; koyun ya da kuş sürüsü için flock tercih edilir.",
@@ -74,8 +74,8 @@
  {
   "id": "consciousness",
   "senses": [
-   "bilinç; kendine gelme",
-   "farkındalık; idrak"
+   "bilinç",
+   "farkındalık; bilinç"
   ],
   "ex": [
    "Ambulans geldikten kısa süre sonra kendine geldi.",
@@ -95,12 +95,12 @@
    "görgü kuralları; adap"
   ],
   "ex": [
-   "Anneannem akşam yemeğinden önce bana temel sofra adabını öğretti.",
+   "Teyzem akşam yemeğinden önce bana temel sofra adabını öğretti.",
    "Yerel görgü kurallarını öğrenmek, uluslararası öğrencilerin yanlış anlaşılmalardan kaçınmasına ve ev sahipleriyle daha sağlam ilişkiler kurmasına yardımcı olabilir."
   ],
   "col": [
    "sofra adabı",
-   "iş görgüsü",
+   "iş görgü kuralları",
    "toplumsal görgü kuralları",
    "görgü kuralları"
   ],
@@ -187,7 +187,7 @@
   "id": "latter",
   "senses": [
    "ikincisi; sonuncusu",
-   "sonraki; sonlardaki"
+   "sondaki; son"
   ],
   "ex": [
    "Yüzmeyi ve bisiklet sürmeyi denedik, ama ikincisini tercih ettik.",
@@ -268,11 +268,11 @@
    "Havalandırmanın zayıf olması, eski binalarda nemin birikmesine yol açar ve ahşap yapılarda çürüme riskini artırır."
   ],
   "col": [
-   "odun çürümesi",
-   "yavaş yavaş çürümek",
+   "ahşap çürümesi",
+   "çürüyüp yok olmak",
    "kuru çürüklük"
   ],
-  "tip": "rot ve decay ikisi de çürümeyi anlatır. Ing biçimi rotting'dir; t harfi iki kez yazılır.",
+  "tip": "Rot ve decay ikisi de çürümeyi anlatır. -ing biçimi rotting'dir; t harfi iki kez yazılır.",
   "note": ""
  }
 ]

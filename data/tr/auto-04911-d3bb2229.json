@@ -82,7 +82,7 @@
   "col": [
    "örneğin",
    "bu durumda",
-   "tek seferlik bir olay"
+   "münferit bir örnek"
   ],
   "tip": "'for instance' ve 'for example' eşdeğerdir. 'instant' (anlık) ile karıştırmayın; instance 'örnek, durum' anlamındadır.",
   "note": ""
@@ -95,7 +95,7 @@
   ],
   "ex": [
    "Kurtarma merkezi, nesli tehlikede olan birkaç kuş türüne bakıyor.",
-   "Tehdit altındaki türlerin korunması, hükümetlerin doğal yaşam alanlarını korumasını ve biyoçeşitlilik kaybının altındaki nedenlerle mücadele etmesini gerektirir."
+   "Tehdit altındaki türlerin korunması, hükümetlerin doğal yaşam alanlarını korumasını ve biyoçeşitlilik kaybının temel nedenleriyle mücadele etmesini gerektirir."
   ],
   "col": [
    "tehlike altındaki türler",
@@ -108,7 +108,7 @@
  {
   "id": "howl",
   "senses": [
-   "uluyarak bağırmak; uğuldamak",
+   "ulumak; uğuldamak",
    "uluma; feryat"
   ],
   "ex": [
@@ -116,7 +116,7 @@
    "Sakinler, zayıf yalıtımlı pencerelerden rüzgârın uğuldayarak geçtiğini ve kış boyunca evlerini rahatsız ettiğini şikâyet etti."
   ],
   "col": [
-   "aya uluma",
+   "aya ulumak",
    "kahkahalarla gülmek",
    "protesto feryatları",
    "rüzgâr uğuluyor"
@@ -246,7 +246,7 @@
    "Konut patlaması iş yaratabilir, ama yerel sakinler için evleri daha az erişilebilir hale de getirebilir."
   ],
   "col": [
-   "ekonomik canlanma",
+   "ekonomik patlama",
    "turizmdeki patlama",
    "gelişen sektör"
   ],

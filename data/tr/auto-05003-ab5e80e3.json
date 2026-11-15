@@ -28,7 +28,7 @@
   ],
   "col": [
    "bir şakaya kıkırdamak",
-   "sinirli kıkırtı",
+   "gergin kıkırtı",
    "kıkırtıyı bastırmak"
   ],
   "tip": "giggle genellikle hafif, neşeli ya da sinirli bir gülüşü anlatır; birine ya da bir şeye gülmek için at ile kullanılır.",
@@ -37,7 +37,7 @@
  {
   "id": "dispute",
   "senses": [
-   "anlaşmazlık; ihtilaf",
+   "anlaşmazlık; uyuşmazlık",
    "itiraz etmek",
    "tartışmak; çekişmek"
   ],
@@ -105,7 +105,7 @@
    "Hükümetler, kuraklık dönemlerinde vatandaşların temiz suya güvenli erişimini sağlamalıdır."
   ],
   "col": [
-   "iş garantilemek",
+   "bir işi elde etmek",
    "finansman sağlamak",
    "güvende hissetmek",
    "sıkıca sabitlemek"
@@ -161,7 +161,7 @@
   "col": [
    "stresle başa çıkmak",
    "değişime uyum sağlamak",
-   "iyi idare etmek"
+   "iyi başa çıkmak"
   ],
   "tip": "cope geçişsiz fiildir; zorluk ya da stres için genellikle with ile kullanılır.",
   "note": ""
@@ -205,7 +205,7 @@
  {
   "id": "gear",
   "senses": [
-   "donanım; techizat",
+   "ekipman; donanım",
    "dişli; vites",
    "uyarlamak; yöneltmek"
   ],
@@ -247,7 +247,7 @@
    "karmaşık durum; çıkmaz"
   ],
   "ex": [
-   "Kulaklığım bir sürü kablonun arasında dolaşıp kalmıştı.",
+   "Kulaklığım dolaşık bir kablo yığınının içinde kaybolmuştu.",
    "Küçük işletmeler, genişlemeyi pahalı ve zaman alıcı kılan karmaşık bir yönetmelik ağıyla sık sık karşılaşır."
   ],
   "col": [
@@ -263,7 +263,7 @@
   "senses": [
    "izini sürmek; kaynağını bulmak",
    "iz; eser; az miktar",
-   "izini çizerek kopyalamak"
+   "üzerinden çizmek"
   ],
   "ex": [
    "Tesisatçı sızıntının kaynağını çatlak bir boruya kadar izledi.",

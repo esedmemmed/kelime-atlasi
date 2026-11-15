@@ -11,7 +11,7 @@
   ],
   "col": [
    "güçlü muhalefet",
-   "sesini yükselten eleştirmen",
+   "açık sözlü eleştirmen",
    "ses telleri",
    "vokal eğitimi"
   ],
@@ -120,7 +120,7 @@
   ],
   "col": [
    "ile ilgili olmak",
-   "ilgili konular"
+   "...ile ilgili konular"
   ],
   "tip": "Resmî bir fiildir ve genellikle to ile kullanılır. Yazılı metinlerde pertaining to kalıbı sık görülür.",
   "note": ""
@@ -172,9 +172,9 @@
    "Bir ülkenin para birimi değer kaybettiğinde ithal mallar daha pahalı hale gelir ve yaşam maliyetini artırabilir."
   ],
   "col": [
-   "değerinde düşmek",
+   "değeri düşmek",
    "hızla değer kaybetmek",
-   "varlıkların değerini düşürmek"
+   "varlıklara amortisman ayırmak"
   ],
   "tip": "Genellikle para birimi ve varlıklar için kullanılır. Zıt anlamlısı appreciate (değer kazanmak) fiilidir.",
   "note": ""
@@ -182,16 +182,16 @@
  {
   "id": "hereby",
   "senses": [
-   "işbu ile; bu yolla"
+   "bu vesileyle; bu yolla"
   ],
   "ex": [
    "Fotoğraflarımı kullanmanız için size izin veriyorum.",
    "Belediye meclisi, kullanılmayan kamu binalarının uygun fiyatlı konutlara dönüştürülmesini işbu kararla onaylamaktadır."
   ],
   "col": [
-   "işbu ile beyan ederim",
-   "işbu ile yetki veririm",
-   "işbu ile kabul ederim"
+   "bu vesileyle beyan etmek",
+   "bu belgeyle yetki vermek",
+   "bu vesileyle kabul etmek"
   ],
   "tip": "Resmî belge ve beyanlarda kullanılır. Genellikle öznenin hemen ardından, asıl fiilden önce gelir.",
   "note": ""
@@ -256,7 +256,7 @@
    "gramofon; pikap"
   ],
   "ex": [
-   "Dedem eski bir plağı gramofonunda çalardı.",
+   "Dedem eski bir plağı gramofonunda çaldı.",
    "Gramofon, ailelerin canlı performanslara katılmadan kayıtlı müzik dinlemesine olanak tanıyarak ev eğlencesini dönüştürdü."
   ],
   "col": [

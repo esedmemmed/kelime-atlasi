@@ -30,7 +30,7 @@
   "col": [
    "amacıyla",
    "bir şey yapmaya kararlı",
-   "dikkatli bakış",
+   "yoğun bir bakış",
    "niyet beyanı"
   ],
   "tip": "intent on bir şeye odaklanmış ya da kararlı olmayı anlatır; ardından isim veya -ing biçimi gelir.",
@@ -40,7 +40,7 @@
   "id": "arbitrary",
   "senses": [
    "keyfi; rastgele",
-   "keyfi; baskıcı"
+   "keyfi; despotça"
   ],
   "ex": [
    "Seçimi keyfiydi; bakmadan rastgele seçti.",
@@ -49,7 +49,7 @@
   "col": [
    "keyfi bir karar",
    "keyfi bir sınır",
-   "keyfi güç"
+   "keyfi yetki"
   ],
   "tip": "Asıl vurgu, makul bir nedene dayanmamasıdır; yalnızca serbestçe seçilmiş anlamına gelmez.",
   "note": ""
@@ -57,7 +57,7 @@
  {
   "id": "recital",
   "senses": [
-   "konser; resital",
+   "resital; solo konser",
    "ayrıntılı anlatım"
   ],
   "ex": [
@@ -149,7 +149,7 @@
   "senses": [
    "vahşi; acımasız",
    "çok sert; şiddetli",
-   "sert saldırmak; eleştirmek"
+   "saldırmak; sert eleştirmek"
   ],
   "ex": [
    "Belgeselde iki kurt arasındaki vahşi bir kavga gösterildi.",
@@ -175,7 +175,7 @@
   "col": [
    "paha biçilmez tavsiye",
    "paha biçilmez kaynak",
-   "çok değerli olduğunu kanıtlamak"
+   "çok değerli çıkmak"
   ],
   "tip": "Invaluable değeri ölçülemeyecek kadar yüksek anlamına gelir; değersiz demek değildir.",
   "note": ""
@@ -190,7 +190,7 @@
    "Fabrikalar, su ekosistemlerini korumak ve halk sağlığını güvence altına almak için arıtılmamış atık suyu nehirlere boşaltmayı durdurmalıdır."
   ],
   "col": [
-   "faaliyeti durdurmak",
+   "faaliyetlerini durdurmak",
    "var olmaktan çıkmak",
    "üretimi durdurmak",
    "ticareti durdurmak"
@@ -236,8 +236,8 @@
  {
   "id": "plume",
   "senses": [
-   "tüy; tüy süs",
-   "sütun şeklinde duman ya da su"
+   "büyük tüy; süs tüyü",
+   "duman sütunu; su sütunu"
   ],
   "ex": [
    "Parlak bir tüy, dansçının uzun şapkasını süslüyordu.",
@@ -245,7 +245,7 @@
   ],
   "col": [
    "duman sütunu",
-   "tüy demeti",
+   "bir demet tüy",
    "volkanik duman sütunu"
   ],
   "tip": "Hem büyük süs tüyü hem de tüy gibi yükselen duman veya su sütununu anlatır; iki anlamı da akılda tutun.",
@@ -264,7 +264,7 @@
   "col": [
    "...konusunda kuşkulu",
    "şüpheli iddialar",
-   "şüpheli bir değer",
+   "değeri şüpheli",
    "şüpheli uygulamalar"
   ],
   "tip": "Kişi bir şeyden kuşkulanıyorsa dubious about kullanılır; şey kendisi şüpheli görünüyorsa doğrudan dubious denir.",

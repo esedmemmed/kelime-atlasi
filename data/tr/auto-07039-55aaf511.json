@@ -2,7 +2,7 @@
  {
   "id": "virile",
   "senses": [
-   "erkeksi; güçli"
+   "erkeksi; güçlü"
   ],
   "ex": [
    "Heykel, disk atan güçlü bir sporcuyu betimliyor.",
@@ -11,7 +11,7 @@
   "col": [
    "erkeksi imaj",
    "güçlü genç adam",
-   "erkeksi erkeklik"
+   "güçlü erkeklik"
   ],
   "tip": "Sözcük “erkeksi” anlamına gelir, ama asıl vurgu geleneksel olarak erkeklere atfedilen güç ve canlılıktadır. Kalıp yargı bağlamında da kullanılabilir.",
   "note": ""
@@ -19,7 +19,7 @@
  {
   "id": "treatise",
   "senses": [
-   "inceleme; risale"
+   "inceleme; kapsamlı eser"
   ],
   "ex": [
    "Üst katta tozlu bir bahçecilik incelemesi buldum.",
@@ -74,11 +74,11 @@
    "kehanet etmek; önceden bildirmek"
   ],
   "ex": [
-   "Yaşlı anlatıcı krallığın refaha kavuşacağını kehanet etti.",
+   "Yaşlı anlatıcı, krallığın refaha kavuşacağı yönünde kehanette bulundu.",
    "Bazı erken dönem yorumcular televizyonun kitapların yerini alacağını öngörmüştü; ancak okuma önemli bir kültürel etkinlik olmayı sürdürdü."
   ],
   "col": [
-   "...olacağını kehanet etmek",
+   "...olacağına dair kehanette bulunmak",
    "felaketi önceden bildirmek",
    "geleceği önceden bildirmek"
   ],
@@ -88,7 +88,7 @@
  {
   "id": "glutinous",
   "senses": [
-   "yapışkan; yapışkan kıvamlı"
+   "yapışkan; macunsu"
   ],
   "ex": [
    "Yapışkan pirinç tahta kaşığıma sıkıca yapıştı.",
@@ -128,11 +128,11 @@
    "Düzenli taramalar, ciddi bir sağlık sorununa dönüşmeden önce rahim ağzındaki anormal hücreleri tespit edebilir."
   ],
   "col": [
-   "rahmin rahim ağzı",
+   "rahmin ağız kısmı",
    "rahim ağzı hücreleri",
    "rahim ağzı kanseri"
   ],
-  "tip": "Genellikle “rahim ağzı” anlamında kullanılır. “Cervical” sıfatı ise “rahim ağzıyla ilgili” demektir; “uterus” (rahim) ile aynı şey değildir.",
+  "tip": "Genellikle 'rahim ağzı' demektir. 'Cervical' hem rahim ağzıyla hem boyunla ilgili olabilir; 'uterus' (rahim) ile aynı şey değildir.",
   "note": ""
  },
  {
@@ -145,7 +145,7 @@
    "Tarihsel anlatı, suikastçinin saiklerini ve cinayetin ardından gelen siyasi istikrarsızlığı inceliyor."
   ],
   "col": [
-   "potansiyel suikastçi",
+   "olası suikastçı",
    "suikastçinin saikleri"
   ],
   "tip": "Nadir kullanılan bir sözcüktür; günlük ve akademik İngilizcede çoğunlukla “assassin” tercih edilir.",

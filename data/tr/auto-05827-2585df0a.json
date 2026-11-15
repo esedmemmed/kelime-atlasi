@@ -6,7 +6,7 @@
    "denetim; gözetim"
   ],
   "ex": [
-   "Bir ihmal sonucu öğle yemeğini evde unutmuşum.",
+   "Bir dikkatsizlik yüzünden senin öğle yemeğini evde bıraktım.",
    "Kamu harcamalarının bağımsız denetimi yolsuzluğu azaltabilir ve vatandaşların hükümet kurumlarına olan güvenini güçlendirebilir."
   ],
   "col": [
@@ -21,16 +21,16 @@
  {
   "id": "kerosene",
   "senses": [
-   "gaz yağı; kerosen"
+   "gazyağı; kerosen"
   ],
   "ex": [
-   "Kulübedeki eski lamba için gaz yağı aldık.",
-   "Güvenilir elektriğin olmadığı topluluklarda gaz yağlı lambaların güneş enerjili aydınlatmayla değiştirilmesi, kapalı alan hava kirliliğini azaltabilir."
+   "Kulübedeki eski lamba için gazyağı aldık.",
+   "Gazyağı lambalarının güneş enerjili aydınlatmayla değiştirilmesi, güvenilir elektriğin olmadığı topluluklarda iç mekân hava kirliliğini azaltabilir."
   ],
   "col": [
-   "gaz yağlı lamba",
-   "gaz yağlı soba",
-   "havacılık kerosenı"
+   "gazyağı lambası",
+   "gazyağı sobası",
+   "havacılık gazyağı"
   ],
   "tip": "Sayılamayan bir isimdir. İngiliz İngilizcesinde günlük dilde paraffin de denir.",
   "note": ""
@@ -68,7 +68,7 @@
    "haklı kızgınlık",
    "haklı bir amaç"
   ],
-  "tip": "Kalıplaşmış ve ciddi bir ton taşır. self-righteous ise 'kendini doğru sanan' anlamında genellikle eleştirel kullanılır.",
+  "tip": "Ciddi, ahlaki bir tonu vardır. self-righteous ise 'kendini ahlaken üstün gören' anlamında olumsuzdur.",
   "note": ""
  },
  {
@@ -162,7 +162,7 @@
   "id": "ironical",
   "senses": [
    "alaycı; iğneleyici",
-   "ters; ironik"
+   "beklenmedik; ironik"
   ],
   "ex": [
    "Alaycı övgüsü yemeği sevmediğini açıkça gösteriyordu.",
@@ -184,7 +184,7 @@
    "dışa doğru"
   ],
   "ex": [
-   "İçten içe endişelenmesine rağmen dışarıdan özgüvenli görünüyordu.",
+   "Dıştan özgüvenli görünmesine rağmen Leila içten içe gergindi.",
    "Bir kentin dışsal görünümü yeniden imar ile iyileşebilir, ancak altta yatan toplumsal eşitsizlikler büyük ölçüde değişmeden kalır."
   ],
   "col": [
@@ -237,14 +237,14 @@
    "bina ve arazi"
   ],
   "ex": [
-   "Planın herkesin anlaştığı bir varsayıma dayandığı açık.",
+   "Planın, herkesin aynı fikirde olduğu varsayımına dayanıyor.",
    "Politika, uygun fiyatlı eğitimin hem bireysel beklentileri hem de ulusal verimliliği artırdığı önermesine dayanmaktadır."
   ],
   "col": [
    "temel önerme",
    "şu varsayımla",
    "işletme binaları",
-   "yerinde"
+   "bina içinde"
   ],
   "tip": "Bina ve arazi anlamında çoğul premises kullanılır. Tekil premise çoğunlukla 'önerme' anlamındadır.",
   "note": ""

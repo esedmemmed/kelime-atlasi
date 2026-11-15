@@ -7,7 +7,7 @@
    "seyreltik; sulandırılmış"
   ],
   "ex": [
-   "Meyveyi çocuklara vermeden önce suyla sulandırın.",
+   "Meyve suyunu çocuklara vermeden önce suyla sulandırın.",
    "Ticari unsurların fazlalığı, genç izleyicilere yönelik programların eğitici değerini azaltabilir."
   ],
   "col": [
@@ -66,7 +66,7 @@
   "col": [
    "dayanılmaz cazibe",
    "dayanılmaz dürtü",
-   "koyu bir çekicilik"
+   "karşı konulamaz çekicilik"
   ],
   "tip": "Genellikle cazibe, baştan çıkarma ya da dürtü için kullanılır; güçlü ve kendini tutamama duygusu taşır.",
   "note": ""
@@ -99,7 +99,7 @@
    "Tarihsel yazışmalar, sıradan ailelerin toplumsal değişimleri nasıl yaşadığını ortaya koyabilir; resmi kayıtlar bunları yalnızca kısaca anlatır."
   ],
   "col": [
-   "birisiyle yazışma",
+   "biriyle yazışma",
    "iş yazışmaları",
    "arasındaki uyum"
   ],
@@ -163,12 +163,12 @@
   "id": "squeal",
   "senses": [
    "cıyaklamak; tiz ses çıkarmak",
-   "tiz çığlık; cızırtı",
+   "tiz çığlık; gıcırtı",
    "ispiyonlamak"
   ],
   "ex": [
    "Çocuklar yavru köpeği görünce sevinçle çığlık attı.",
-   "Sakinler, keskin virajlarda tren tekerleklerinin sık sık cızırdadığını ve yakındaki evlerde gürültü rahatsızlığı yarattığını bildirdi."
+   "Sakinler, keskin virajlarda tren tekerleklerinin sık sık gıcırdadığını ve yakındaki evlerde gürültü rahatsızlığı yarattığını bildirdi."
   ],
   "col": [
    "sevinçle çığlık atmak",
@@ -220,7 +220,7 @@
    "bilgisiz; habersiz"
   ],
   "ex": [
-   "Büyükbabam okuma yazma bilmiyordu ama harika uyku masalları anlatırdı.",
+   "Onun büyükbabası okuma yazma bilmiyordu ama harika uyku masalları anlatırdı.",
    "Ücretsiz yetişkin eğitimi, okuma yazma bilmeyen vatandaşların temel becerileri geliştirmesine ve topluma daha tam katılmasına yardımcı olabilir."
   ],
   "col": [

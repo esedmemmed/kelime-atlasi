@@ -6,11 +6,11 @@
   ],
   "ex": [
    "Taze pastalar beni pastaneye girmeye ayarttı.",
-   "Büyük indirimler, tüketicileri ihtiyaç duymadıkları ya da başta almayı planlamadıkları ürünleri satın almaya teşvik edebilir."
+   "Büyük indirimler, tüketicileri ihtiyaç duymadıkları ya da başta almayı planlamadıkları ürünleri satın almaya cezbedebilir."
   ],
   "col": [
-   "birine bir şey yaptırmak için ayartmak",
-   "bir şey yapmaya özendirilmek",
+   "birini bir şeye ayartmak",
+   "bir şey yapma isteği duymak",
    "kaderi zorlamak"
   ],
   "tip": "tempt someone to do ya da tempt someone into doing kalıplarını kullanın. be tempted to do yapısında özne, ayartılan kişidir.",
@@ -83,7 +83,7 @@
   "col": [
    "doğal yırtıcı",
    "tepe yırtıcı",
-   "yırtıcı popülasyonu"
+   "yırtıcı hayvan popülasyonu"
   ],
   "tip": "predator avcı hayvanı, prey ise avı ya da av hayvanını anlatır. İkisini karıştırmayın.",
   "note": ""
@@ -169,7 +169,7 @@
   ],
   "ex": [
    "Yeni bisikletini ödünç vermek istemiyordu.",
-   "Bazı yolcular, yoğun yollarda güvenli şerit ve bisiklet park yeri olmadığı için işe bisikletle gitmek istemiyor."
+   "Bazı işe gidip gelenler, yoğun yollarda güvenli şerit ve bisiklet park yeri olmadığı için işe bisikletle gitmek istemiyor."
   ],
   "col": [
    "kabul etmek istemeyen",
@@ -183,7 +183,7 @@
   "id": "maintain",
   "senses": [
    "sürdürmek; korumak",
-   "bakmak; onarmak",
+   "bakımını yapmak",
    "savunmak; iddia etmek"
   ],
   "ex": [
@@ -258,7 +258,7 @@
   "senses": [
    "şişmek; kabarmak",
    "artmak; yoğunlaşmak",
-   "kabarma; dalgalanma"
+   "yüksek dalga; kabarma"
   ],
   "ex": [
    "Bileğimi burkunca şişmeye başladı.",
@@ -267,7 +267,7 @@
   "col": [
    "şişmek",
    "gururla kabarmak",
-   "ağır dalgalanma"
+   "yüksek dalgalı deniz"
   ],
   "tip": "Geçmiş zaman swelled, ortaç biçimi genellikle swollen'dır. Sıfat olarak da swollen kullanılır.",
   "note": ""

@@ -94,7 +94,7 @@
   "id": "fury",
   "senses": [
    "öfke; hiddet",
-   "şiddet; saldırganlık"
+   "şiddet; hırçınlık"
   ],
   "ex": [
    "Hasarı fark ettiğinde öfkeden titredi.",
@@ -105,7 +105,7 @@
    "öfkeye neden olmak",
    "fırtınanın şiddeti"
   ],
-  "tip": "\"Anger\"dan daha güçlü bir öfkeyi anlatır. \"In a fury\" ifadesi \"öfkeden kudurmuş halde\" anlamına gelir.",
+  "tip": "\"Anger\"dan daha güçlü bir öfkeyi anlatır. \"In a fury\" ifadesi \"büyük bir öfke içinde\" anlamına gelir.",
   "note": ""
  },
  {
@@ -190,7 +190,7 @@
   ],
   "col": [
    "arkeoloji okumak",
-   "arkeoloji bölümü",
+   "arkeoloji diploması",
    "arkeoloji müzesi"
   ],
   "tip": "Genellikle sayılamaz. Dinozor fosilleri üzerine çalışmak paleontolojiye girer, arkeolojiye değil.",
@@ -201,7 +201,7 @@
   "senses": [
    "sanatsal; sanata ilişkin",
    "sanat yeteneği olan",
-   "estetik; sanatsal güzellik taşıyan"
+   "estetik; sanatsal"
   ],
   "ex": [
    "Festival, müzik ve dans aracılığıyla sanatsal gelenekleri kutluyor.",
@@ -210,7 +210,7 @@
   "col": [
    "sanatsal ifade",
    "sanatsal yetenek",
-   "sanat özgürlüğü",
+   "sanatsal özgürlük",
    "sanatsal değer"
   ],
   "tip": "\"Artistic\" sanat ya da sanat yeteneğiyle ilgilidir; \"artificial\" ise yapay anlamına gelir. İkisini karıştırmayın.",
@@ -219,15 +219,15 @@
  {
   "id": "survivor",
   "senses": [
-   "hayatta kalan kişi; sağ kurtulan"
+   "hayatta kalan; kurtulan"
   ],
   "ex": [
    "Kurtarma ekibi, sel basan evden bir hayatta kalanı çıkardı.",
-   "Her felaket mağduru, güvenli konuta, tıbbi tedaviye ve uzun vadeli psikolojik desteğe erişebilmelidir."
+   "Felaketten sağ kurtulan her kişi güvenli konuta, tıbbi tedaviye ve uzun vadeli psikolojik desteğe erişebilmelidir."
   ],
   "col": [
    "tek sağ kalan",
-   "deprem mağduru",
+   "depremden sağ kurtulan",
    "kanser atlatan kişi"
   ],
   "tip": "\"Survivor\" kişiyi anlatır; \"survival\" ise hayatta kalma durumunu ya da eylemini ifade eder.",

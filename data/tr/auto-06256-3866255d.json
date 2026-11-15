@@ -28,7 +28,7 @@
   ],
   "col": [
    "birini bir şey için azarlamak",
-   "eleştiriye yer vermeyen",
+   "kusursuz; eleştirilemez",
    "suçlayıcı bir bakış"
   ],
   "tip": "'reproach sb for doing sth' kalıbında 'for'dan sonra eylem -ing biçiminde gelir: reproach him for leaving.",
@@ -58,8 +58,8 @@
    "düet; ikili"
   ],
   "ex": [
-   "Kızkardeşler konserde çok güzel bir düet söyledi.",
-   "İkili düet çalışmak, müzik öğrencilerini dikkatle dinlemeye ve zamanlamalarını başka bir müzisyenle uyumlu hale getirmeye teşvik eder."
+   "Kız kardeşler konserde çok güzel bir düet söyledi.",
+   "Düet icra etmek, müzik öğrencilerini dikkatle dinlemeye ve zamanlamalarını başka bir müzisyenle uyumlu hale getirmeye teşvik eder."
   ],
   "col": [
    "düet söylemek",
@@ -95,10 +95,10 @@
   ],
   "ex": [
    "Otel rezervasyonumuzu yanlış yönetti ve odamızı başkasına verdi.",
-   "Yetkililer kamusal şikayetleri yanlış ele aldığında vatandaşlar yerel kurumlara olan güvenini kaybedebilir ve iş birliğine daha az istekli olabilir."
+   "Yetkililer kamusal şikâyetleri yanlış ele aldığında vatandaşlar yerel kurumlara olan güvenini kaybedebilir ve iş birliğine daha az istekli olabilir."
   ],
   "col": [
-   "şikayeti kötü yönetmek",
+   "şikâyeti kötü yönetmek",
    "krizi yanlış ele almak",
    "bagajı özensiz taşımak"
   ],
@@ -144,19 +144,19 @@
  {
   "id": "manor",
   "senses": [
-   "malikane; konak",
+   "malikâne; konak",
    "derebeyi arazisi"
   ],
   "ex": [
-   "Elma ağaçlarıyla çevrili eski bir malikaneyi ziyaret ettik.",
+   "Elma ağaçlarıyla çevrili eski bir malikâneyi ziyaret ettik.",
    "Tarihi bir konağın restore edilmesi ziyaretçileri çekebilir ve kırsal topluluklarda iş imkânları yaratabilir."
   ],
   "col": [
    "malikane konağı",
-   "malikane sahibi",
-   "ortaçağ malikanesi"
+   "malikâne sahibi",
+   "ortaçağ malikânesi"
   ],
-  "tip": "Geniş araziye sahip kırsal konak anlamı taşır. manor house ise bu malikanenin ana binasını ifade eder.",
+  "tip": "Geniş araziye sahip kırsal konak anlamı taşır. manor house ise bu malikânenin ana binasını ifade eder.",
   "note": ""
  },
  {
@@ -171,7 +171,7 @@
   "col": [
    "akla gelebilecek her yol",
    "akla gelebilecek her seçenek",
-   "mümkün olabilir ki"
+   "...olması mümkündür"
   ],
   "tip": "Bir şeyin hayal edilebilir ya da mümkün olduğunu gösterir, 'çok olası' anlamına gelmez. 'It is conceivable that' kalıbı bunu gösterir.",
   "note": ""
@@ -250,7 +250,7 @@
   "senses": [
    "titreşmek; sönüp yanmak",
    "titrek ışık; parıltı",
-   "bir an; hafif iz"
+   "belirti; kırıntı"
   ],
   "ex": [
    "Kapıyı açtığında mum titreşti.",
@@ -259,7 +259,7 @@
   "col": [
    "titrek ışık",
    "bir umut kırıntısı",
-   "bir an tanıma belirtisi"
+   "tanıma belirtisi"
   ],
   "tip": "'a flicker of' + soyut isim kalıbı, kısa süren hafif bir duygu ya da belirtiyi anlatır: a flicker of hope.",
   "note": ""

@@ -11,7 +11,7 @@
   ],
   "col": [
    "yaşamın bir yönü",
-   "her yönü",
+   "her yön",
    "farklı bir yön"
   ],
   "tip": "Genellikle \"a facet of\" kalıbıyla, karmaşık bir konunun bir yönünü anlatmak için kullanılır. \"Kesim yüzü\" anlamı teknik bağlamlarda görülür.",
@@ -48,7 +48,7 @@
   "col": [
    "yüksek hız",
    "sabit hız",
-   "sonlanma hızı"
+   "sınır hız"
   ],
   "tip": "Fizikte velocity yön bilgisi içerir; speed yalnızca hızın büyüklüğünü gösterir. Günlük dilde ikisi sık karıştırılır.",
   "note": ""
@@ -111,8 +111,8 @@
    "her zaman; daima"
   ],
   "ex": [
-   "Kardeşim uzun tren yolculuklarında mutlaka uyuyakalır.",
-   "Bu çalışmada, işe gidip gelme süresi uzun olan katılımcıların neredeyse her zaman boş zamanlarına daha az vakit ayırabildiklerini bildirdiği görüldü."
+   "Kardeşim uzun tren yolculuklarında her seferinde uyuyakalır.",
+   "Bu çalışmada, işe gidip gelme süresi uzun olan katılımcıların istisnasız boş zamanlarına daha az vakit ayırabildiklerini bildirdiği görüldü."
   ],
   "col": [
    "neredeyse her zaman",
@@ -126,18 +126,18 @@
   "id": "monopolize",
   "senses": [
    "tekel kurmak",
-   "kendine mal etmek"
+   "tekeline almak"
   ],
   "ex": [
-   "Lütfen bu akşam yemek boyunca sohbeti tek başına ele geçirme.",
+   "Lütfen bu akşam yemek boyunca sohbeti tekeline alma.",
    "Birkaç büyük şirket temel hizmetlerde tekel oluşturduğunda tüketiciler daha yüksek fiyatlar ve daha az seçenekle karşılaşabilir."
   ],
   "col": [
    "piyasayı tekelinde tutmak",
    "sohbeti tekeline almak",
-   "birinin dikkatini kendine çekmek"
+   "birinin tüm dikkatini üzerine çekmek"
   ],
-  "tip": "Piyasa ya da arz için tekel kurmak, sohbet ve dikkat için kendine ayırmak anlamında kullanılır. İngiliz yazımı: monopolise.",
+  "tip": "İngiliz yazımı monopolise. Piyasa için \"tekel kurmak\", sohbet ve dikkat için \"tekeline almak\" denir.",
   "note": ""
  },
  {
@@ -181,15 +181,15 @@
  {
   "id": "tactful",
   "senses": [
-   "anlayışlı; incitmeyen"
+   "incelikli; nazik"
   ],
   "ex": [
    "Onun nazik cevabı herkesi tatsız bir tartışmadan kurtardı.",
-   "İnsanlara anlayışla geri bildirim veren yöneticiler, performans sorunlarını çalışanların özgüvenini ve motivasyonunu koruyarak ele alabilir."
+   "İnsanlara incelikle geri bildirim veren yöneticiler, performans sorunlarını çalışanların özgüvenini ve motivasyonunu koruyarak ele alabilir."
   ],
   "col": [
-   "anlayışlı yaklaşım",
-   "özenli yanıt",
+   "incelikli yaklaşım",
+   "incelikli yanıt",
    "nazik eleştiri"
   ],
   "tip": "Karşıdakinin duygularını gözeterek konuşmayı anlatır. \"Zekice\" ya da \"kurnaz\" anlamına gelmez.",

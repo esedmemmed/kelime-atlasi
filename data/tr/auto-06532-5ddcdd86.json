@@ -20,7 +20,7 @@
   "id": "hijack",
   "senses": [
    "kaçırmak; zorla ele geçirmek",
-   "ele geçirmek; kendine yormak"
+   "ele geçirmek; el koymak"
   ],
   "ex": [
    "Konuklardan biri sohbeti kendi sorunlarını anlatmak için ele geçirdi.",
@@ -66,7 +66,7 @@
    "albaylığa terfi etmek",
    "emekli bir albay"
   ],
-  "tip": "Harf l sessizdir ve /ˈkɜːrnl/ diye okunur; yazımdaki l'ye bakarak sert bir l sesi çıkarmayın. kernel ile aynı şekilde okunur.",
+  "tip": "Kernel ile aynı okunur: /ˈkɜːrnl/. Yazıdaki ilk l, 'l' değil 'r' sesi verir.",
   "note": ""
  },
  {
@@ -99,7 +99,7 @@
   "col": [
    "koroner atardamar",
    "tıkanmış atardamar",
-   "ana güzergâh"
+   "ana arter"
   ],
   "tip": "Atardamar kanı kalpten uzağa taşır; kalbe kan getiren damar toplardamardır (vein).",
   "note": ""
@@ -169,7 +169,7 @@
   "col": [
    "çocuk suçluluğu",
    "suçluluğu önlemek",
-   "kredi ödemesi gecikmesi"
+   "kredi ödemesinde gecikme"
   ],
   "tip": "Çoğunlukla juvenile delinquency gibi gençlerin ciddi suç davranışları için kullanılır; küçük hatalar için uygun değildir.",
   "note": ""

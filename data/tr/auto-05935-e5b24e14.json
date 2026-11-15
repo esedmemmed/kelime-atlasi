@@ -3,17 +3,17 @@
   "id": "pounce",
   "senses": [
    "üstüne atılmak; saldırmak",
-   "hemen yakalamak; eleştirmek",
+   "fırsatı kapmak; hemen eleştirmek",
    "ani saldırı; atılım"
   ],
   "ex": [
    "Yavru kedimiz bahçede uçuşan bir yaprağın üstüne atladı.",
-   "Haber siteleri çoğu zaman küçük hataları hemen yakalayıp, izleyicileri daha önemli politika tartışmalarından uzaklaştırıyor."
+   "Haber siteleri çoğu zaman küçük hataların üzerine atlayıp izleyicileri daha önemli politika tartışmalarından uzaklaştırıyor."
   ],
   "col": [
    "avın üstüne atılmak",
    "fırsatın üstüne atlamak",
-   "bir hataya hemen saldırmak"
+   "bir hatanın üstüne atlamak"
   ],
   "tip": "Genellikle on edatıyla kullanılır (pounce on). Hem somut hem mecazi anlamda aynı yapı geçerlidir.",
   "note": ""
@@ -94,7 +94,7 @@
   "id": "conception",
   "senses": [
    "kavram; anlayış; tasavvur",
-   "döllenme; gebelik",
+   "döllenme; gebe kalma",
    "tasarlama; oluşturma"
   ],
   "ex": [
@@ -104,7 +104,7 @@
   "col": [
    "...hakkındaki anlayış",
    "başlangıçtan tamamlanmaya kadar",
-   "geniş bir bakış açısı",
+   "geniş bir anlayış",
    "döllenme anı"
   ],
   "tip": "conception of ile bir şeyi anlama biçimi kastedilir. Tıbbi anlamda döllenme demektir; bağlama dikkat edilmelidir.",

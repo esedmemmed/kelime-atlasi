@@ -54,7 +54,7 @@
  {
   "id": "militia",
   "senses": [
-   "milis; yedek asker birliği"
+   "milis; sivil askeri güç"
   ],
   "ex": [
    "Müze, yerel milislerin bir zamanlar giydiği üniformaları sergiliyordu.",
@@ -80,7 +80,7 @@
    "Okullar, sınav ve gelecek kariyeri konusunda kaygı yaşayan öğrencilere rehberlik yapacak eğitimli uzmanlar istihdam etmelidir."
   ],
   "col": [
-   "öğüt almak",
+   "öğüt istemek",
    "hukuki danışman",
    "birini bir şeye karşı uyarmak",
    "bilge öğütler"
@@ -133,11 +133,11 @@
   ],
   "ex": [
    "Hava tahmini yağmur bekliyordu, bu yüzden buna uygun giyindik.",
-   "Okullar, her öğrencinin destekleyici bir öğrenme sürecine sahip olması için bireysel öğrenme ihtiyaçlarını belirleyip öğretim yöntemlerini buna göre ayarlamalıdır."
+   "Okullar, her öğrenciyi desteklemek için bireysel öğrenme ihtiyaçlarını belirleyip öğretim yöntemlerini buna göre ayarlamalıdır."
   ],
   "col": [
    "buna göre ayarlamak",
-   "uygun davranmak",
+   "ona göre davranmak",
    "buna göre plan yapmak"
   ],
   "tip": "\"Buna uygun olarak\" anlamında genellikle cümle sonunda kullanılır; \"bu nedenle\" anlamı daha resmîdir.",
@@ -146,7 +146,7 @@
  {
   "id": "precinct",
   "senses": [
-   "yayalaştırılmış ticaret bölgesi",
+   "yayalara ayrılmış çarşı",
    "polis bölgesi; seçim bölgesi",
    "bina çevresindeki alan"
   ],
@@ -204,7 +204,7 @@
   "id": "maturity",
   "senses": [
    "olgunluk; ağırbaşlılık",
-   "ergin olma; gelişim tamamlama",
+   "olgunlaşma; tam gelişme",
    "vade; itfa tarihi"
   ],
   "ex": [
@@ -250,7 +250,7 @@
   ],
   "col": [
    "oryantasyon programı",
-   "göreve iade / göreve başlatılma",
+   "göreve başlatma",
    "elektromanyetik indüksiyon",
    "tümevarımsal akıl yürütme"
   ],
@@ -268,7 +268,7 @@
   ],
   "col": [
    "baş vokal",
-   "yardımcı vokal",
+   "arka vokal",
    "caz vokalisti"
   ],
   "tip": "Genellikle bir müzik grubundaki şarkıcıyı anlatır; lead vocalist grubun baş vokalidir.",
