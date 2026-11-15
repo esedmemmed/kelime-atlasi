@@ -1,0 +1,281 @@
+[
+ {
+  "id": "return",
+  "senses": [
+   "geri dönmek; iade etmek",
+   "dönüş; geri gelme",
+   "getiri; kazanç"
+  ],
+  "ex": [
+   "Gitmeden önce bu kütüphane kitaplarını iade et lütfen.",
+   "Erken çocukluk eğitimine yapılan yatırım, gelecekteki iş fırsatlarını artırarak önemli bir ekonomik getiri sağlayabilir."
+  ],
+  "col": [
+   "eve dönmek",
+   "işe dönmek",
+   "karşılığında",
+   "yatırım getirisi"
+  ],
+  "tip": "return zaten 'geri dönmek' anlamı taşır; genellikle return back demeye gerek yoktur, return back hatalı kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "properly",
+  "senses": [
+   "doğru biçimde; uygun şekilde",
+   "tamamen; gereği gibi"
+  ],
+  "ex": [
+   "Kış aylarında mutfak kapısı düzgün kapanmıyor.",
+   "Halk, evsel atıkları nasıl doğru ayıracağını bilirse geri dönüşüm programları daha etkili olur."
+  ],
+  "col": [
+   "düzgün çalışmak",
+   "uygun davranmak",
+   "iyi eğitilmiş",
+   "uygun donanımlı"
+  ],
+  "tip": "Bir fiili niteleyen zarf olarak properly kullanılır; isim niteleyen sıfat olarak ise proper yazılır (proper plan gibi).",
+  "note": ""
+ },
+ {
+  "id": "northwest",
+  "senses": [
+   "kuzeybatı; kuzeybatı bölgesi",
+   "kuzeybatıdaki; kuzeybatıdan gelen",
+   "kuzeybatıya doğru"
+  ],
+  "ex": [
+   "Kulübemiz adanın kuzeybatısında.",
+   "Demiryolu ağlarına yapılacak yatırım, ülkenin kuzeybatısındaki topluluklar için işe erişimi iyileştirebilir."
+  ],
+  "col": [
+   "kuzeybatıda",
+   "kuzeybatıya doğru gitmek",
+   "kuzeybatı rüzgârı"
+  ],
+  "tip": "Kuzeybatıya doğru gitmek için head northwest kullanılır. Rüzgâr için a northwest wind denir, rüzgârın yönünü belirtir.",
+  "note": ""
+ },
+ {
+  "id": "runner",
+  "senses": [
+   "koşucu; yarışçı"
+  ],
+  "ex": [
+   "Göl kenarında parlak renkli ayakkabılı bir koşucu yanımızdan geçti.",
+   "Kentsel parklar, yoğun trafikten ve kirli ana yollardan uzakta koşucular için daha güvenli spor alanları sunar."
+  ],
+  "col": [
+   "uzun mesafe koşucusu",
+   "maraton koşucusu",
+   "meraklı koşucu"
+  ],
+  "tip": "run fiiline -er eklenirken son n harfi ikilenir (runner). Yarışta ikinci olan için runner-up kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pork",
+  "senses": [
+   "domuz eti"
+  ],
+  "ex": [
+   "Domuz etini elma ve soğanla yavaş yavaş pişirdik.",
+   "Açık gıda etiketleri, tüketicilerin domuz eti içeren ürünleri tanımasına ve beslenme ihtiyaçlarına uygun seçim yapmasına yardımcı olur."
+  ],
+  "col": [
+   "fırın domuz eti",
+   "domuz pirzolası",
+   "kıyma domuz eti",
+   "domuz göbeği"
+  ],
+  "tip": "pork sayılamayan bir isimdir ve et anlamına gelir. Canlı hayvan için pig kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "drama",
+  "senses": [
+   "tiyatro; dram",
+   "dramatik olay; gerilim"
+  ],
+  "ex": [
+   "Drama grubumuz her perşembe salonda prova yapar.",
+   "Okullarda drama eğitimi, öğrencilerin özgüvenini geliştirebilir ve farklı bakış açılarını düşünmelerini teşvik edebilir."
+  ],
+  "col": [
+   "drama kulübü",
+   "televizyon dizisi",
+   "drama çalışmak",
+   "tarihi dram"
+  ],
+  "tip": "Tiyatro sanatı için drama sayılamaz; tek bir oyun için a drama denir. Olaylar için de sayılabilir kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "surprise",
+  "senses": [
+   "sürpriz; şaşkınlık",
+   "şaşırtmak"
+  ],
+  "ex": [
+   "Mutfakta doğum günü pastası bulmak hoş bir sürprizdi.",
+   "Anket sonuçları, gençlerin çevrim içi öğrenmeyi tercih ettiğini varsayan politika yapıcıları şaşırtabilir."
+  ],
+  "col": [
+   "hoş bir sürpriz",
+   "kimsenin şaşkınlığına",
+   "birini şaşırtmak",
+   "sürpriz ziyaret"
+  ],
+  "tip": "İnsan şaşırırsa surprised, şey şaşırtıcıysa surprising kullanılır: I was surprised / It was surprising.",
+  "note": ""
+ },
+ {
+  "id": "case",
+  "senses": [
+   "durum; örnek; vaka",
+   "kutu; kılıf",
+   "dava; gerekçe"
+  ],
+  "ex": [
+   "Yağmur yağabilir diye yanına şemsiye al.",
+   "Birçok durumda hastalıklar ortaya çıktıktan sonra tedavi etmek yerine önleyici sağlık hizmetine yatırım yapmak daha uygun maliyetlidir."
+  ],
+  "col": [
+   "bazı durumlarda",
+   "acil durumda",
+   "için güçlü gerekçe",
+   "telefon kılıfı"
+  ],
+  "tip": "in case sonrasında cümle gelir (in case it rains); in case of sonrasında isim gelir (in case of emergency).",
+  "note": ""
+ },
+ {
+  "id": "spider",
+  "senses": [
+   "örümcek"
+  ],
+  "ex": [
+   "Küçük bir örümcek pencerenin yanına ağ örmüştü.",
+   "Pek çok insan örümceklerden korksa da bu canlılar bahçelerde ve tarım alanlarında böcek popülasyonunu kontrol etmeye yardımcı olur."
+  ],
+  "col": [
+   "örümcek ağı",
+   "örümcek ısırığı"
+  ],
+  "tip": "Örümcek sekiz bacaklıdır, bu yüzden altı bacaklı böceklerden ayrı bir canlı grubundadır; böcek olarak sayılmaz.",
+  "note": ""
+ },
+ {
+  "id": "pepper",
+  "senses": [
+   "karabiber",
+   "biber",
+   "serpiştirmek; doldurmak"
+  ],
+  "ex": [
+   "Çorbamın üstüne karabiberi uzatır mısın?",
+   "Çiftçiler, yıl boyunca güvenilir bir gıda arzı sağlamak için biberleri seralarda yetiştirebilir."
+  ],
+  "col": [
+   "karabiber",
+   "kırmızı biber",
+   "örneklerle doldurmak"
+  ],
+  "tip": "Karabiber sayılamaz (pepper); tek bir sebze biberi için a pepper denir.",
+  "note": ""
+ },
+ {
+  "id": "allow",
+  "senses": [
+   "izin vermek",
+   "olanak tanımak",
+   "zaman ayırmak"
+  ],
+  "ex": [
+   "Kütüphane ziyaretçilerin aynı anda beş kitap ödünç almasına izin veriyor.",
+   "Esnek çalışma düzenleri, çalışanların mesleki sorumluluklarıyla aile yükümlülüklerini daha etkili dengelemesine olanak tanır."
+  ],
+  "col": [
+   "birinin yapmasına izin vermek",
+   "yeterli zaman ayırmak",
+   "gecikmeleri hesaba katmak"
+  ],
+  "tip": "Kişi belirtilirken allow sb to do kalıbı kullanılır. Nesne olmadan allow doing yapısı da görülür (smoking is not allowed).",
+  "note": ""
+ },
+ {
+  "id": "camping",
+  "senses": [
+   "kamp yapma; kampçılık"
+  ],
+  "ex": [
+   "Bu hafta sonu nehir kenarında kamp yapmaya gidiyoruz.",
+   "Ziyaretçiler yaban hayatını rahatsız etmekten kaçınır ve çöplerini geri götürürse kamp yapmak doğaya daha büyük bir takdir duygusu kazandırabilir."
+  ],
+  "col": [
+   "kampa gitmek",
+   "kamp ekipmanı",
+   "kamp gezisi"
+  ],
+  "tip": "camping sayılamayan bir isimdir (etkinlik anlamında). Kampa gitmek için go camping kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ant",
+  "senses": [
+   "karınca"
+  ],
+  "ex": [
+   "Bir karınca mutfak zemininde bir kırıntıyı taşıyordu.",
+   "Karıncalar tohumları taşıyarak ve toprağın yapısını iyileştirerek sağlıklı ekosistemlere katkıda bulunur."
+  ],
+  "col": [
+   "karınca kolonisi",
+   "karınca yuvası",
+   "işçi karıncalar"
+  ],
+  "tip": "ant sayılabilir bir isimdir; tek bir karınca için an ant denir. Çoğulu ants'tir.",
+  "note": ""
+ },
+ {
+  "id": "raise",
+  "senses": [
+   "yükseltmek; artırmak",
+   "toplamak",
+   "yetiştirmek; büyütmek"
+  ],
+  "ex": [
+   "Başka bir kaleme ihtiyacın varsa lütfen elini kaldır.",
+   "Topluluk etkinlikleri, yerel çevre sorunlarını anlamaya yardımcı olurken koruma projeleri için fon toplayabilir."
+  ],
+  "col": [
+   "farkındalık yaratmak",
+   "fon toplamak",
+   "çocuk büyütmek",
+   "soru gündeme getirmek"
+  ],
+  "tip": "raise nesne alan geçişli bir fiildir. rise ise kendiliğinden yükselmek anlamına gelir ve nesne almaz.",
+  "note": ""
+ },
+ {
+  "id": "set",
+  "senses": [
+   "koymak; belirlemek",
+   "takım; set",
+   "önceden belirlenmiş; sabit"
+  ],
+  "ex": [
+   "Kadın kaseyi nazikçe mutfak masasının üstüne koydu.",
+   "Hükümetler hava kirliliğini azaltmak için açık hedefler belirlemeli ve bu hedeflere ulaşmadaki ilerlemeyi düzenli olarak değerlendirmelidir."
+  ],
+  "col": [
+   "hedef belirlemek",
+   "masayı kurmak",
+   "bir takım alet",
+   "belirli bir zaman"
+  ],
+  "tip": "set fiilinin üç hali de aynıdır (set – set – set). Şimdiki zaman ortacı setting olur.",
+  "note": ""
+ }
+]

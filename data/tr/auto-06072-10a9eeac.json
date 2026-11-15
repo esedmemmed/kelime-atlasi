@@ -1,0 +1,273 @@
+[
+ {
+  "id": "mirage",
+  "senses": [
+   "serap",
+   "hayal; yanılsama"
+  ],
+  "ex": [
+   "Uzaktaki gölet çölde yalnızca bir serapmış.",
+   "Birçok genç çalışan için uygun fiyatlı ev sahibi olmak, konut fiyatları ücretlerden daha hızlı arttıkça bir hayal olmaya devam ediyor."
+  ],
+  "col": [
+   "çöl serabı",
+   "titreyen serap",
+   "refah hayali"
+  ],
+  "tip": "Fiziksel olay için serap, soyut anlamda ise hayal veya yanılsama anlamına gelir. Genel bir sis için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "orientation",
+  "senses": [
+   "oryantasyon; uyum eğitimi",
+   "yön; konum",
+   "eğilim; yönelim"
+  ],
+  "ex": [
+   "Oryantasyon sırasında bir öğrenci rehberi bize kütüphaneyi gösterdi.",
+   "Kapsamlı bir oryantasyon programı, uluslararası öğrencilerin akademik beklentileri anlamasına ve temel destek hizmetlerine erişmesine yardımcı olabilir."
+  ],
+  "col": [
+   "oryantasyon programı",
+   "oryantasyon oturumu",
+   "binanın yönelimi",
+   "siyasi eğilim"
+  ],
+  "tip": "Eğitim bağlamında 'oryantasyon', yön anlamında ise 'direction' sözcüğüne göre daha çok bina veya konum için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "carnivore",
+  "senses": [
+   "etobur; etçil"
+  ],
+  "ex": [
+   "Kaplan, güçlü çeneleri olan bir etoburdur.",
+   "Büyük etoburların korunması, av popülasyonlarının aşırı artmasını önleyerek dengeli ekosistemlerin sürdürülmesine yardımcı olabilir."
+  ],
+  "col": [
+   "büyük etobur",
+   "deniz etoburu",
+   "etobur popülasyonu"
+  ],
+  "tip": "Carnivore isimdir; sıfat hali carnivorous'tur. Hem et hem bitki yiyen hayvanlar için omnivore kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "highland",
+  "senses": [
+   "yüksek arazi; yayla",
+   "dağlık; yayla"
+  ],
+  "ex": [
+   "Tatilimizde yaylaları yürüyerek keşfettik.",
+   "Dağlık bölgelerdeki topluluklar, dik arazi nedeniyle yol yapımının pahalı ve zor olması yüzünden sık sık ulaşım sorunlarıyla karşılaşır."
+  ],
+  "col": [
+   "dağlık bölge",
+   "dağlık bölge toplulukları",
+   "yaylalar; dağlık bölgeler"
+  ],
+  "tip": "Yer adı olarak çoğunlukla çoğul 'highlands' kullanılır. Sıfat olarak ismin önüne gelir: highland region.",
+  "note": ""
+ },
+ {
+  "id": "feat",
+  "senses": [
+   "olağanüstü başarı; hüner"
+  ],
+  "ex": [
+   "O koca kanepeyi üst kata çıkarmak epey bir marifetti.",
+   "Dağlık arazi boyunca demiryolu inşa etmek, modern teknolojiye rağmen hâlâ etkileyici bir mühendislik başarısıdır."
+  ],
+  "col": [
+   "etkileyici bir başarı",
+   "mühendislik harikası",
+   "hafife alınmayacak bir başarı"
+  ],
+  "tip": "Telaffuzu 'feet' (ayaklar) ile aynıdır, ancak anlamı ve yazımı farklıdır. 'No mean feat' çok önemli bir başarı anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "warden",
+  "senses": [
+   "görevli; bekçi",
+   "cezaevi müdürü"
+  ],
+  "ex": [
+   "Park bekçisi kamp alanını bulmamıza yardım etti.",
+   "Bir yaban hayatı koruma görevlisi, habitatları izleyerek ve ziyaretçileri hassas alanlardan uzak tutarak nesli tükenmekte olan türlerin korunmasına yardımcı olabilir."
+  ],
+  "col": [
+   "park bekçisi",
+   "cezaevi müdürü",
+   "trafik görevlisi"
+  ],
+  "tip": "Amerikan İngilizcesinde prison warden cezaevi müdürüdür. Sıradan cezaevi gardiyanı için 'guard' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "assert",
+  "senses": [
+   "iddia etmek; ileri sürmek",
+   "hakkını savunmak"
+  ],
+  "ex": [
+   "Öğle yemeğinin parasını zaten ödediğini ileri sürdü.",
+   "Bazı eğitimciler, sık yapılan resmi sınavlardan daha etkili olarak düzenli geri bildirimin öğrenci motivasyonunu artırdığını savunmaktadır."
+  ],
+  "col": [
+   "şunu ileri sürmek",
+   "haklarını savunmak",
+   "otorite kurmak",
+   "kendini ortaya koymak"
+  ],
+  "tip": "Assert kesin ve kararlı bir iddia anlamına gelir; kanıt sunulduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "exile",
+  "senses": [
+   "sürgün; sürgün hayatı",
+   "sürgün edilen kişi",
+   "sürgüne göndermek; ülkeden sürmek"
+  ],
+  "ex": [
+   "Yıllarca sürgünde yaşadıktan sonra sonunda eve döndü.",
+   "Sürgünde yaşayan birçok yazar, kültürel gelenekleri yaşatmak ve yerinden edilme deneyimlerini anlatmak için edebiyatı kullanır."
+  ],
+  "col": [
+   "sürgünde",
+   "siyasi sürgün",
+   "birini sürgüne göndermek",
+   "birini ülkesinden sürmek"
+  ],
+  "tip": "'In exile' kalıbında genellikle artikel kullanılmaz ve 'sürgünde olmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "symposium",
+  "senses": [
+   "sempozyum; bilimsel toplantı"
+  ],
+  "ex": [
+   "Leila dün bir sempozyumda birkaç araştırmacıyla tanıştı.",
+   "Uluslararası sempozyum, kentsel hava kirliliğine pratik çözümleri tartışmak için bilim insanlarını bir araya getirdi."
+  ],
+  "col": [
+   "bir sempozyuma katılmak",
+   "iklim değişikliği üzerine sempozyum",
+   "sempozyum düzenlemek"
+  ],
+  "tip": "Çoğul biçimi symposia veya symposiums olabilir. Akademik yazıda symposia daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "sceptical",
+  "senses": [
+   "şüpheci; kuşkulu"
+  ],
+  "ex": [
+   "Bu kremin anında sonuç vaadine şüpheyle bakıyorum.",
+   "Birçok tüketici, sürdürülebilir uygulamalara dair çok az kanıt sunan şirketlerin çevresel iddialarına hâlâ kuşkuyla yaklaşıyor."
+  ],
+  "col": [
+   "şüpheci olmak",
+   "iddialara şüpheyle bakmak",
+   "şüpheci kalmak"
+  ],
+  "tip": "İngiliz İngilizcesinde sceptical, Amerikan İngilizcesinde skeptical yazılır; anlamı aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "intervene",
+  "senses": [
+   "müdahale etmek; araya girmek",
+   "lafa girmek; söze karışmak",
+   "araya girmek; engellemek"
+  ],
+  "ex": [
+   "Tartışma daha da kızışmadan antrenör araya girdi.",
+   "Piyasa rekabeti uygun fiyatlı temel hizmetleri sağlayamadığında, hükümetlerin müdahale etmesi gerekebilir."
+  ],
+  "col": [
+   "bir anlaşmazlığa müdahale etmek",
+   "önlemek için müdahale etmek",
+   "hükümet müdahalesi"
+  ],
+  "tip": "Nesnesini 'in' edatıyla bağlar: intervene in a dispute. Doğrudan nesne almaz.",
+  "note": ""
+ },
+ {
+  "id": "verification",
+  "senses": [
+   "doğrulama; teyit"
+  ],
+  "ex": [
+   "Parayı çekebilmem için web sitesi kimlik doğrulaması istiyor.",
+   "Araştırma bulgularının bağımsız olarak doğrulanması, bilimsel tavsiyelere olan kamu güvenini sürdürmek için şarttır."
+  ],
+  "col": [
+   "kimlik doğrulaması",
+   "bağımsız doğrulama",
+   "doğrulama süreci"
+  ],
+  "tip": "Genellikle 'verification of' kalıbıyla kullanılır: verification of identity. Fiili 'verify'dır.",
+  "note": ""
+ },
+ {
+  "id": "attentive",
+  "senses": [
+   "dikkatli; özenli",
+   "ilgili; özenli"
+  ],
+  "ex": [
+   "Büyükannesi oyunu anlatırken çocuklar dikkatle dinliyordu.",
+   "Bireysel öğrenme ihtiyaçlarına duyarlı olan öğretmenler, öğrencilerin sınıf tartışmalarına daha özgüvenle katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "dikkatli bir dinleyici kitlesi",
+   "ayrıntılara özen gösteren",
+   "ilgili hizmet"
+  ],
+  "tip": "'Attentive to' kalıbından sonra dikkat edilen şey gelir: attentive to detail. Genellikle olumlu bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "tempo",
+  "senses": [
+   "tempo",
+   "tempo; hız"
+  ],
+  "ex": [
+   "Davulcu tempoyu artırdı, herkes daha hızlı dans etmeye başladı.",
+   "Dijital hizmetler günlük işleri giderek anlık hale getirdikçe, kentsel yaşamın temposu hızlandı."
+  ],
+  "col": [
+   "hızlı tempo",
+   "yavaş tempo",
+   "tempoyu artırmak",
+   "yaşamın temposu"
+  ],
+  "tip": "Müzikte tempo, parçanın hızını anlatır; ritim anlamındaki 'rhythm' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "equivalence",
+  "senses": [
+   "denklik; eşdeğerlik"
+  ],
+  "ex": [
+   "Dengeli terazi iki ağırlığın eşit olduğunu gösterdi.",
+   "Farklı ülkelerdeki niteliklerin denkliğinin kurulması, becerikli işçilerin yurt dışında iş bulmasını kolaylaştırabilir."
+  ],
+  "col": [
+   "arasındaki denklik",
+   "denklik kurmak",
+   "işlevsel eşdeğerlik"
+  ],
+  "tip": "Genellikle 'equivalence between A and B' kalıbıyla kullanılır. 'Equal' sıfatının isim karşılığıdır.",
+  "note": ""
+ }
+]

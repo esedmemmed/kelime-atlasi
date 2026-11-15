@@ -1,0 +1,283 @@
+[
+ {
+  "id": "warmly",
+  "senses": [
+   "samimi bir biçimde; sıcakkanlılıkla",
+   "sıcak tutarak"
+  ],
+  "ex": [
+   "Komşularımız bu sabah gülümseyip bizi sıcak bir şekilde karşıladı.",
+   "Okullar yeni öğrencileri sıcak bir tavırla karşıladığında, kaygıyı azaltıp sınıf etkinliklerine katılımı artırabilirler."
+  ],
+  "col": [
+   "sıcakkanlılıkla selamlamak",
+   "sıcak bir biçimde karşılamak",
+   "sıcak giyinmek",
+   "sıcak bir tebessümle gülümsemek"
+  ],
+  "tip": "warmly bir zarftır; 'warm' ise sıfat ya da fiil olarak kullanılır. greet warmly (sıcak karşılamak) ile dress warmly (sıcak giyinmek) anlamca farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "cycle",
+  "senses": [
+   "döngü; çevrim",
+   "bisikletle gitmek",
+   "bisiklet"
+  ],
+  "ex": [
+   "Güneşli sabahlarda genellikle bisikletle parka giderim.",
+   "İklim değişikliği doğal su döngüsünü bozarak bazı bölgelerde kuraklık ve sel sıklığını artırabilir."
+  ],
+  "col": [
+   "yaşam döngüsü",
+   "su döngüsü",
+   "kısır döngü",
+   "işe bisikletle gitmek"
+  ],
+  "tip": "cycle hem isim hem fiil olarak kullanılır. Bisikletle yolculuk için 'ride a bike' da yaygın bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "capital",
+  "senses": [
+   "başkent; il merkezi",
+   "sermaye; öz kaynak",
+   "büyük harf"
+  ],
+  "ex": [
+   "Başkente gittik ve kalabalık pazarlarını gezdik.",
+   "Küçük işletmeler, yeni ekipman ve personel eğitimine yatırım yapmak için yeterli sermaye bulmakta sık sık zorlanır."
+  ],
+  "col": [
+   "başkent şehir",
+   "sermaye toplamak",
+   "büyük harf"
+  ],
+  "tip": "Büyük harf anlamında sayılabilir (a capital letter); sermaye anlamında ise genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "instructor",
+  "senses": [
+   "eğitmen; antrenör",
+   "öğretim görevlisi"
+  ],
+  "ex": [
+   "Yüzme eğitmenimiz nefesi doğru nasıl alacağımızı gösterdi.",
+   "Yetkin bir eğitmen, yaşlı yetişkinlerin güvenli egzersiz yapmasına ve fiziksel becerilerine güven kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sürücü kursu eğitmeni",
+   "yetkin eğitmen",
+   "fitness antrenörü"
+  ],
+  "tip": "Sürüş, yüzme, fitness gibi belirli bir beceriyi öğreten kişi için kullanılır. ABD'de üniversitede öğretim görevlisidir.",
+  "note": ""
+ },
+ {
+  "id": "motel",
+  "senses": [
+   "yol kenarı oteli; motel"
+  ],
+  "ex": [
+   "Kasabanın hemen dışında sessiz bir motel bulduk.",
+   "Ana yollar üzerindeki uygun fiyatlı moteller, kırsal bölgeleri arabayla gezen yolcular için kullanışlı konaklama imkânı sunar."
+  ],
+  "col": [
+   "motelde kalmak",
+   "yol kenarındaki motel",
+   "motel odası"
+  ],
+  "tip": "Motel, araçla yolculuk yapanlara yönelik ve genellikle otoparkı olan konaklama yeridir. 'Hotel' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "sportsman",
+  "senses": [
+   "erkek sporcu"
+  ],
+  "ex": [
+   "Amcam gençliğinde hevesli bir sporcuydu.",
+   "Başarılı bir sporcu, genç insanları düzenli egzersiz yapmaya ve fiziksel etkinlikle kendine güven geliştirmeye teşvik edebilir."
+  ],
+  "col": [
+   "hevesli sporcu",
+   "profesyonel sporcu",
+   "yetenekli sporcu"
+  ],
+  "tip": "Yalnızca erkekleri ifade eder. Cinsiyet belirtmek istemediğinizde 'athlete' kullanmak daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "load",
+  "senses": [
+   "yük; taşınan miktar",
+   "yüklemek",
+   "yük; sorumluluk"
+  ],
+  "ex": [
+   "Eşek tepeye kadar ağır bir yük taşıdı.",
+   "Ev işlerini daha eşit paylaşmak, tam zamanlı çalışan ebeveynlerin üzerindeki yükü azaltabilir."
+  ],
+  "col": [
+   "ağır yük",
+   "kamyonu yüklemek",
+   "veri yüklemek",
+   "bir yığın çamaşır"
+  ],
+  "tip": "'load A with B' kalıbı A'yı B ile doldurmak anlamına gelir. Boşaltmak için 'unload' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "messenger",
+  "senses": [
+   "haberci; ulak"
+  ],
+  "ex": [
+   "Yöneticiye bir zarf getiren bir haberci geldi.",
+   "Modern iletişim araçlarından önce hükümetler, uzak kasabalar ve askeri karakollar arasında önemli bilgileri taşımak için habercilere güvenirdi."
+  ],
+  "col": [
+   "haberci göndermek",
+   "bisikletli kurye",
+   "haberci olarak görev yapmak"
+  ],
+  "tip": "'Message' mesajın kendisi, 'messenger' ise mesajı taşıyan kişidir. Bu iki kelimeyi karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "publish",
+  "senses": [
+   "yayımlamak; basmak",
+   "açıklamak; yayımlamak"
+  ],
+  "ex": [
+   "Yerel dergi nehir fotoğrafımı yayımladı.",
+   "Araştırmacılar, politika yapıcıların güvenilir kanıtlara dayanarak karar verebilmesi için bulgularını açıkça yayımlamalıdır."
+  ],
+  "col": [
+   "kitap yayımlamak",
+   "makale yayımlamak",
+   "bulguları açıklamak",
+   "çevrim içi yayımlamak"
+  ],
+  "tip": "Publish yalnızca basmak değil, kitleye sunmak ve dağıtmak anlamını da taşır. 'Print' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "humour",
+  "senses": [
+   "mizah; espri",
+   "ruh hali; keyif",
+   "istediğini yapmak; uymak"
+  ],
+  "ex": [
+   "Onun nazik mizahı akşam yemeğindeki herkesi rahatlattı.",
+   "Öğretmenler mizahı, öğrenci kaygısını azaltmak ve katılımı artırmak için kullanabilir."
+  ],
+  "col": [
+   "mizah anlayışı",
+   "iyi ruh hali",
+   "kuru mizah",
+   "birinin keyfine uymak"
+  ],
+  "tip": "İngiliz İngilizcesinde humour, Amerikan İngilizcesinde humor yazılır. Fiil olarak mizahla ilgisi yoktur; birini memnun etmek için isteğine uymak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tag",
+  "senses": [
+   "etiket; künye",
+   "etiketlemek; işaretlemek",
+   "yakalamaca"
+  ],
+  "ex": [
+   "Yeni kazağımı yıkamadan önce etiketine baktım.",
+   "Araştırmacılar, deniz hayvanlarının hareketlerini izlemek ve daha sıkı çevre korumaya ihtiyaç duyan yaşam alanlarını belirlemek için onları işaretler."
+  ],
+  "col": [
+   "fiyat etiketi",
+   "isim etiketi",
+   "birini fotoğrafta etiketlemek",
+   "yakalamaca oynamak"
+  ],
+  "tip": "Geçmiş zaman tagged şeklindedir. 'Tag along' kalıbı birinin yanında gitmek, peşinden gelmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "dive",
+  "senses": [
+   "dalmak; şnorkelle yüzmek",
+   "hızla alçalmak",
+   "dalış; sert düşüş"
+  ],
+  "ex": [
+   "Yüzücünün havuza pürüzsüzce daldığını izledik.",
+   "Mercan resifleri yakınında dalış yapan turistler, kırılgan ekosistemlere zarar vermemek için deniz canlılarına dokunmaktan kaçınmalıdır."
+  ],
+  "col": [
+   "suya dalmak",
+   "tüplü dalış yapmak",
+   "ani düşüş yaşamak"
+  ],
+  "tip": "Geçmiş zaman İngiliz İngilizcesinde dived, Amerikan İngilizcesinde çoğunlukla dove biçimindedir. Ani düşüş anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "charge",
+  "senses": [
+   "ücret talep etmek",
+   "ücret; bedel",
+   "şarj etmek"
+  ],
+  "ex": [
+   "Kahvaltıyı odanızda isterseniz ekstra ücret alırlar.",
+   "Giriş ücreti alan müzeler, öğrencilerin kültürel kaynaklara erişebilmesi için indirim sunmalıdır."
+  ],
+  "col": [
+   "ücret almak",
+   "ücretsiz",
+   "pili şarj etmek",
+   "sorumlu olmak"
+  ],
+  "tip": "Birinden bir şey için ücret almak: 'charge someone for something'. 'Free of charge' ise ücretsiz anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "cliff",
+  "senses": [
+   "uçurum; sarp kaya"
+  ],
+  "ex": [
+   "Martıların uçurumun yarısına kadar çıkan yerde yuva yaptığını izledik.",
+   "Kıyı erozyonu zamanla bir uçurumu zayıflatabilir ve yakındaki evleri ile yürüyüş yollarını tehlikeye atabilir."
+  ],
+  "col": [
+   "uçurum kenarı",
+   "dik uçurum",
+   "uçurum yüzü",
+   "kıyı uçurumları"
+  ],
+  "tip": "Cliff dik ve kayalık yüzeyi anlatır. Genel bir yamaç için 'slope' ya da 'hill' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stuff",
+  "senses": [
+   "eşya; şeyler",
+   "tıkıştırmak; doldurmak"
+  ],
+  "ex": [
+   "Lütfen eşyalarını mutfak masasından kaldır.",
+   "Tüketiciler, çoğu zaman hiç kullanmadıkları şeyleri satın alarak ev atıklarına ve gereksiz kaynak tüketimine katkıda bulunur."
+  ],
+  "col": [
+   "kişisel eşyalar",
+   "çantayı doldurmak",
+   "içine tıkıştırmak"
+  ],
+  "tip": "İsim olarak stuff sayılamaz ve gayri resmidir. Akademik yazıda 'items' ya da 'things' gibi daha somut kelimeler tercih edilmelidir.",
+  "note": ""
+ }
+]

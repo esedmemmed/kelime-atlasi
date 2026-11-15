@@ -1,0 +1,268 @@
+[
+ {
+  "id": "discreet",
+  "senses": [
+   "temkinli; ağzı sıkı",
+   "gösterişsiz; dikkat çekmeyen"
+  ],
+  "ex": [
+   "Hazırladığımız sürpriz parti hakkında lütfen ağzını sıkı tut.",
+   "Sağlık çalışanları, mahremiyeti korumak ve halkın güvenini sürdürmek için hastalar hakkında konuşurken dikkatli olmalıdır."
+  ],
+  "col": [
+   "temkinli bir soruşturma",
+   "temkinli bir tavır",
+   "...konusunda ağzı sıkı",
+   "gösterişsiz bir giriş"
+  ],
+  "tip": "discrete (ayrık, ayrı) ile karıştırılmamalı. discreet, kişinin sır saklaması ya da gösterişsiz olmasını anlatır; about ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "microfilm",
+  "senses": [
+   "mikrofilm",
+   "mikrofilme çekmek"
+  ],
+  "ex": [
+   "Kütüphaneci, mikrofilmi nasıl inceleyeceğimi gösterdi.",
+   "Dijital arşivler yaygınlaşmadan önce kütüphaneler, değerli depolama alanından tasarruf etmek için gazeteleri korumada mikrofilm kullanırdı."
+  ],
+  "col": [
+   "mikrofilm üzerinde",
+   "mikrofilm okuyucu",
+   "mikrofilm arşivleri"
+  ],
+  "tip": "on microfilm, belgelerin mikrofilm biçiminde saklandığını anlatır. Fiil olarak da kullanılır: to microfilm documents (belgeleri mikrofilme çekmek).",
+  "note": ""
+ },
+ {
+  "id": "synthesis",
+  "senses": [
+   "bütünleştirme; birleşim",
+   "kimyasal sentez"
+  ],
+  "ex": [
+   "Odası, eski ve modern tarzların bir birleşimi.",
+   "Birkaç çalışmanın bulgularının bir araya getirilmesi, düzenli egzersizin faydaları için daha güçlü kanıtlar sunuyor."
+  ],
+  "col": [
+   "fikirlerin bileşimi",
+   "kimyasal sentez",
+   "protein sentezi"
+  ],
+  "tip": "Çoğulu syntheses'tir. Genellikle a synthesis of ... kalıbıyla kullanılır. Genel anlamda birçok unsuru bir araya getirme anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "sober",
+  "senses": [
+   "ayık; ayılmış",
+   "ciddi; sade",
+   "ayılmak; ayıltmak"
+  ],
+  "ex": [
+   "Amcam ayık kaldı ve herkesi güvenle eve bıraktı.",
+   "Büyük inşaat projelerine onay verilmeden önce çevresel risklerin ağırbaşlı bir değerlendirmesi şarttır."
+  ],
+  "col": [
+   "ayık kalmak",
+   "ağırbaşlı değerlendirme",
+   "sade renkler",
+   "ayılmak"
+  ],
+  "tip": "sober up 'ayılmak' anlamında kalıp bir ifadedir. Sıfat olarak 'ciddi, sade' anlamlarını da taşır; bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "representation",
+  "senses": [
+   "temsil; vekâlet",
+   "tasvir; betimleme"
+  ],
+  "ex": [
+   "Kulübümüzün artık ilçe komitesinde temsilcisi var.",
+   "Okul ders kitaplarında farklı toplulukların doğru biçimde temsil edilmesi, öğrencilerin daha kapsayıcı bir dünya görüşü geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "hukuki temsil",
+   "siyasi temsil",
+   "doğru tasvir",
+   "görsel temsil"
+  ],
+  "tip": "Hem birinin adına konuşmayı hem de bir şeyin resim, yazı veya model gibi betimlemesini anlatabilir. Anlamı bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "evict",
+  "senses": [
+   "tahliye etmek"
+  ],
+  "ex": [
+   "Ev sahibi, ödenmeyen kira yüzünden bizi tahliye etmekle tehdit etti.",
+   "Daha güçlü kiracı koruma önlemleri, ev sahiplerinin savunmasız aileleri yeterli bildirim veya yasal gerekçe olmadan çıkarmasını engelleyebilir."
+  ],
+  "col": [
+   "bir kiracıyı tahliye etmek",
+   "birini mülkten çıkarmak",
+   "tahliye ile karşı karşıya olmak"
+  ],
+  "tip": "Genellikle evict somebody from ... kalıbıyla kullanılır. Yasal süreçle yapılan zorla çıkarmayı anlatır; sıradan 'kovmak' anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "permanence",
+  "senses": [
+   "kalıcılık; süreklilik"
+  ],
+  "ex": [
+   "Bir ağaç dikmek, yeni evimize bir kalıcılık hissi verdi.",
+   "Dijital kayıtların görünürdeki kalıcılığı, mahremiyet ve unutulma hakkı konusunda önemli soruları gündeme getiriyor."
+  ],
+  "col": [
+   "kalıcılık hissi",
+   "görünürdeki kalıcılık",
+   "kalıcılığı sağlamak"
+  ],
+  "tip": "Sayılamayan bir isimdir. Sıfatı permanent'tır ('kalıcı'). Soyut bir niteliği anlatır.",
+  "note": ""
+ },
+ {
+  "id": "preset",
+  "senses": [
+   "önceden ayarlamak",
+   "önceden ayarlanmış",
+   "hazır ayar; ön ayar"
+  ],
+  "ex": [
+   "Sebzeleri hazırlamadan önce fırının zamanlayıcısını ayarladım.",
+   "Akıllı ısıtma sistemleri, binalar boş olduğunda enerji tüketimini azaltacak şekilde önceden ayarlanabilir."
+  ],
+  "col": [
+   "zamanlayıcıyı önceden ayarlamak",
+   "önceden ayarlanmış sıcaklık",
+   "fabrika ayarları"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi preset'tir; -ing biçimi presetting olur. Cihaz ayarlarında sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "protectionism",
+  "senses": [
+   "ticaret korumacılığı"
+  ],
+  "ex": [
+   "İthal ayakkabılar pahalılaşınca korumacılığı konuştuk.",
+   "Korumacılık, yerli sanayileri kısa vadede destekleyebilse de tüketici fiyatlarını yükseltebilir ve ticaret ortaklarıyla anlaşmazlıklara yol açabilir."
+  ],
+  "col": [
+   "ticaret korumacılığı",
+   "artan korumacılık",
+   "korumacılığa başvurmak"
+  ],
+  "tip": "Sayılamayan bir isimdir ve özellikle ithalat kısıtlamalarını içeren ticaret politikalarını anlatır. Genel anlamda 'koruma' için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "obtainable",
+  "senses": [
+   "elde edilebilir; ulaşılabilir"
+  ],
+  "ex": [
+   "Yedek parçalar yerel dükkândan kolayca temin edilebilir.",
+   "Halk sağlığı hizmetleri hakkında güvenilir bilgilere toplumun tüm üyeleri kolayca ulaşabilmelidir."
+  ],
+  "col": [
+   "kolayca temin edilebilir",
+   "...den temin edilebilir",
+   "geniş ölçüde ulaşılabilir"
+  ],
+  "tip": "Kaynağı belirtmek için from kullanılır. 'Elde edilebilir' anlamı taşır; available ile aynı anlamda değildir, bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "psychiatry",
+  "senses": [
+   "psikiyatri; ruhsal tedavi"
+  ],
+  "ex": [
+   "Kız kardeşim tıp fakültesini bitirdikten sonra psikiyatriyi seçti.",
+   "Psikiyatriye yapılacak daha fazla yatırım, ağır zihinsel hastalığı olan kişilerin uzman bakıma erişimini iyileştirebilir."
+  ],
+  "col": [
+   "psikiyatri kariyeri",
+   "çocuk psikiyatrisi",
+   "klinik psikiyatri"
+  ],
+  "tip": "Baştaki p harfi okunmaz. Psikiyatrist tıp eğitimi almış bir doktordur; psikolog ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "nomad",
+  "senses": [
+   "göçebe; gezgin"
+  ],
+  "ex": [
+   "Göçebe adam, keçilerini yukarı çıkarmadan önce çadırını topladı.",
+   "Birçok göçebe için mevsimlik otlaklara erişim, geleneksel yaşam tarzlarını sürdürmek açısından hayati önem taşır."
+  ],
+  "col": [
+   "dijital göçebe",
+   "çöl göçebesi",
+   "göçebe yaşamı"
+  ],
+  "tip": "Genellikle isim olarak kullanılır; sıfat biçimi nomadic'tir. 'Dijital göçebe' gibi mecazi kullanımlar da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "practicable",
+  "senses": [
+   "uygulanabilir; yapılabilir"
+  ],
+  "ex": [
+   "Yol yeniden açıldığı için otobüse binmek artık uygulanabilir.",
+   "Yerel yönetimler, yeni altyapı projelerini onaylamadan önce toplu taşımayı genişletmenin mali açıdan uygulanabilir olup olmadığını değerlendirmelidir."
+  ],
+  "col": [
+   "uygulanabilir çözüm",
+   "makul ölçüde uygulanabilir",
+   "mümkün olan en kısa sürede"
+  ],
+  "tip": "practicable 'yapılabilir' anlamındadır; practical ise 'pratik, kullanışlı' demektir. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "degenerate",
+  "senses": [
+   "kötüleşmek; bozulmak",
+   "ahlaken çökmüş; bozulmuş"
+  ],
+  "ex": [
+   "Dostane tartışmaları kısa sürede gürültülü bir kavgaya dönüştü.",
+   "Düzenli bakım yapılmazsa kamusal tesisler hızla bozulabilir; bu da sakinlerin yaşam kalitesini düşürür ve gelecekteki onarım maliyetlerini artırır."
+  ],
+  "col": [
+   "...e dönüşmek",
+   "hızla bozulmak"
+  ],
+  "tip": "Fiilin son hecesi /reɪt/, sıfatın son hecesi /rət/ okunur. Fiil genellikle degenerate into kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thereby",
+  "senses": [
+   "böylece; bu sayede"
+  ],
+  "ex": [
+   "Kavanozu sıkıca kapattı, böylece bisküvileri taze tuttu.",
+   "Şehirler toplu taşıma ağlarını genişletebilir; böylece trafik sıkışıklığı azalır ve sakinler için hava kalitesi iyileşir."
+  ],
+  "col": [
+   "böylece maliyeti düşürerek",
+   "böylece verimliliği artırarak",
+   "bu sayede mümkün kılarak"
+  ],
+  "tip": "Genellikle virgülden sonra thereby doing biçiminde gelir ve önceki eylemin sonucunu belirtir. Resmi yazıda sıkça kullanılır.",
+  "note": ""
+ }
+]

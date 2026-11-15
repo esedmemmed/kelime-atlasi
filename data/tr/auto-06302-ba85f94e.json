@@ -1,0 +1,276 @@
+[
+ {
+  "id": "lapse",
+  "senses": [
+   "dikkatsizlik; hata",
+   "aralık; zaman farkı",
+   "geçerliliğini yitirmek; sona ermek"
+  ],
+  "ex": [
+   "Konsantrasyonumdaki kısa bir dalgınlık yüzünden durağımı kaçırdım.",
+   "Temel hizmetlerin yönetiminde küçük bir yargı hatası bile kamunun güvenini zedeleyebilir."
+  ],
+  "col": [
+   "dikkat dağınıklığı",
+   "yargı hatası",
+   "zaman aralığı",
+   "bir poliçenin süresinin dolmasına izin vermek"
+  ],
+  "tip": "Hata anlamında a lapse in, zaman aralığı anlamında a lapse of kullanılır. Fiil olarak let a policy lapse kalıbına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "utility",
+  "senses": [
+   "fayda; kullanışlılık",
+   "kamu hizmeti; altyapı hizmeti",
+   "yardımcı program; araç yazılımı"
+  ],
+  "ex": [
+   "Bu katlanabilir masa küçücük mutfağımızda gerçek bir fayda sağlıyor.",
+   "Temel hizmetlere güvenilir erişim, kırsal topluluklarda halk sağlığını iyileştirmek ve ekonomik kalkınmayı desteklemek için şarttır."
+  ],
+  "col": [
+   "pratik fayda",
+   "kamu hizmetleri",
+   "fatura (kamu hizmetleri)",
+   "kamu hizmeti şirketi"
+  ],
+  "tip": "'Fayda' anlamında isim sayılamaz; su, elektrik, gaz gibi hizmetler için çoğul utilities kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "premature",
+  "senses": [
+   "zamanından önce olan; erken",
+   "erken doğmuş"
+  ],
+  "ex": [
+   "Kutlamamız erkendi; maç henüz bitmemişti.",
+   "Politikanın uzun vadeli etkileri incelenmeden başarılı olduğu sonucuna varmak erken olur."
+  ],
+  "col": [
+   "erken doğmuş bebek",
+   "erken ölüm",
+   "erken yaşlanma",
+   "sonuca varmak için erken"
+  ],
+  "tip": "Premature zamanından önce olmayı anlatır; immature ise olgunlaşmamış, yaşça ya da davranışça henüz gelişmemiş anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "cavern",
+  "senses": [
+   "büyük mağara"
+  ],
+  "ex": [
+   "Fenerlerimiz mağaranın içindeki derin bir göleti ortaya çıkardı.",
+   "Kireçtaşı bir mağarada turizm, hassas oluşumları ve yeraltı yaşam alanlarını korumak için dikkatle yönetilmelidir."
+  ],
+  "col": [
+   "kireçtaşı mağarası",
+   "yer altı mağarası",
+   "mağarayı keşfetmek"
+  ],
+  "tip": "Cavern büyük doğal yeraltı mağarasıdır; tavern (han, meyhane) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "partition",
+  "senses": [
+   "bölme duvar; paravana",
+   "bölünme; taksim",
+   "bölmek; ayırmak"
+  ],
+  "ex": [
+   "Ahşap bir bölme mutfağımızı yemek odasından ayırıyor.",
+   "Hareketli bölmeler, okulların sınıf alanlarını grup tartışmaları, bağımsız çalışma ve büyük etkinliklere uyarlamasına olanak tanır."
+  ],
+  "col": [
+   "cam bölme",
+   "bölme duvar",
+   "bölerek ayırmak",
+   "bir ülkenin bölünmesi"
+  ],
+  "tip": "Partition off bir alanı bölmek anlamına gelir, örneğin ofisi bölmeyle ayırmak gibi. Ülke bölünmesi için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "predecessor",
+  "senses": [
+   "selef; önceki görevli",
+   "önceki model; öncül"
+  ],
+  "ex": [
+   "Selefim masada bazı yararlı notlar bırakmış.",
+   "Yeni ulaşım sistemi, selefine göre çok daha az enerji harcarken önemli ölçüde daha fazla yolcu taşıyor."
+  ],
+  "col": [
+   "hemen önceki selef",
+   "görevdeki selef",
+   "selefinin yerini almak"
+  ],
+  "tip": "Bir görevin veya ürünün önceki hali için kullanılır; genel anlamda 'öncüler' için forerunner veya ancestor tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "feudalism",
+  "senses": [
+   "feodalizm; derebeylik"
+  ],
+  "ex": [
+   "Rehberimiz kaleyi gezerken bize feodalizmi anlattı.",
+   "Feodalizm altında toprağa erişim toplumsal ilişkileri şekillendiriyor ve kalıtsal yönetici grupların gücünü pekiştiriyordu."
+  ],
+  "col": [
+   "feodalizm döneminde",
+   "feodalizmin çöküşü",
+   "Avrupa feodalizmi"
+  ],
+  "tip": "Sayılamayan bir isimdir; genellikle Ortaçağ Avrupa'sındaki toprak ve bağlılık sistemini anlatmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "corrode",
+  "senses": [
+   "aşındırmak; paslandırmak",
+   "zedelemek; aşındırmak"
+  ],
+  "ex": [
+   "Tuzlu su bahçe kapımızın metal menteşelerini aşındırdı.",
+   "Şeffaflık eksikliği kurumlara duyulan kamu güvenini aşındırabilir ve demokratik süreçlere katılımı azaltabilir."
+  ],
+  "col": [
+   "metali aşındırmak",
+   "güveni zedelemek",
+   "ciddi şekilde aşınmış borular"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılabilir. Metal için rust daha çok demirin paslanmasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "chant",
+  "senses": [
+   "tezahürat; slogan",
+   "tezahürat etmek; ilahi okumak",
+   "dini ezgi; ilahi"
+  ],
+  "ex": [
+   "Koşucular yaklaşırken kalabalık bir tezahürat tekrarladı.",
+   "Taraftarlar spor müsabakalarında sıklıkla birlikte tezahürat yapar; bu da ortak bir kimlik ve aidiyet duygusu yaratır."
+  ],
+  "col": [
+   "slogan atmak",
+   "ritmik tezahürat",
+   "dini ilahi"
+  ],
+  "tip": "Dini bağlamla sınırlı değildir; kalabalığın ritmik şekilde tekrarladığı sözleri de anlatır.",
+  "note": ""
+ },
+ {
+  "id": "municipal",
+  "senses": [
+   "belediyeye ait; belediye"
+  ],
+  "ex": [
+   "Belediye yüzme havuzu cumartesileri erken açılır.",
+   "Hızla büyüyen şehirlerde belediye hizmetlerine yapılan yatırım, halk sağlığını iyileştirebilir ve eşitsizliği azaltabilir."
+  ],
+  "col": [
+   "belediye yönetimi",
+   "belediye hizmetleri",
+   "belediye atıkları"
+  ],
+  "tip": "Şehir veya kasaba yönetimiyle ilgili işler için kullanılır; ülke genelindeki devlet işleri için national tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "dungeon",
+  "senses": [
+   "zindan; yeraltı hapishanesi"
+  ],
+  "ex": [
+   "Rehberle birlikte kalenin soğuk zindanını gezdik.",
+   "Ortaçağ zindanının korunması, müzelerin hapsetme ve adaletin zamanla nasıl değiştiğini anlatmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kale zindanı",
+   "karanlık zindan",
+   "zindandan kaçmak"
+  ],
+  "tip": "Genellikle kale altındaki karanlık hapishaneyi anlatır; sıradan bir bodrum katı için basement kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dismay",
+  "senses": [
+   "şaşkınlık; hayal kırıklığı",
+   "üzmek; hayal kırıklığına uğratmak"
+  ],
+  "ex": [
+   "Ne yazık ki pasta fırında çöktü.",
+   "Sakinler, yerel parklarının büyük bir ticari projeyle değiştirilmesi planına hayal kırıklığını dile getirdi."
+  ],
+  "col": [
+   "herkesin üzüntüsüne",
+   "hayal kırıklığını dile getirmek",
+   "hayal kırıklığına uğramak"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz. To one's dismay kalıbı 'üzülerek görmüştür ki' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "compress",
+  "senses": [
+   "sıkıştırmak; küçültmek",
+   "özetlemek; kısaltmak"
+  ],
+  "ex": [
+   "Battaniyeleri küçük bir saklama torbasına sıkıştırdı.",
+   "Dijital araçlar büyük dosyaları sıkıştırarak sınırlı internete sahip öğrencilerin eğitim materyallerini daha kolay indirmesini sağlayabilir."
+  ],
+  "col": [
+   "bir dosyayı sıkıştırmak",
+   "havayı sıkıştırmak",
+   "bir yere sıkıştırmak"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir (com-PRESS); isimde ise birinci hecededir (COM-press). Vurguya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "ascribe",
+  "senses": [
+   "atfetmek; bağlamak",
+   "birine atfetmek; yüklemek"
+  ],
+  "ex": [
+   "Daha iyi uyumamı düzenli akşam yürüyüşlerime bağlıyorum.",
+   "Araştırmacılar akademik performans farklarını, sosyal koşulları hesaba katmadan yalnızca bireysel çabaya bağlamamalıdır."
+  ],
+  "col": [
+   "başarıyı bağlamak",
+   "önem atfetmek",
+   "bir eseri birine atfetmek"
+  ],
+  "tip": "Ascribe A to B kalıbı 'A'yı B'ye bağlamak' anlamına gelir. Attribute ile benzerdir ama daha resmi bir üsluba sahiptir.",
+  "note": ""
+ },
+ {
+  "id": "bout",
+  "senses": [
+   "nöbet; bir dönem",
+   "boks ya da güreş maçı"
+  ],
+  "ex": [
+   "Bir grip nöbeti yüzünden bütün hafta evde kaldım.",
+   "Düzenli egzersiz, üniversite öğrencileri arasında kaygı nöbetlerinin azalmasına ve genel ruh sağlığının iyileşmesine yardımcı olabilir."
+  ],
+  "col": [
+   "grip nöbeti",
+   "öksürük nöbeti",
+   "boks maçı"
+  ],
+  "tip": "Hastalık ya da yoğun bir etkinlik dönemi için a bout of kalıbı kullanılır; sporda ise boxing bout gibi maçları anlatır.",
+  "note": ""
+ }
+]

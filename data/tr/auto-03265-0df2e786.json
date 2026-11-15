@@ -1,0 +1,281 @@
+[
+ {
+  "id": "channel",
+  "senses": [
+   "kanal",
+   "su yolu; boğaz",
+   "yönlendirmek; aktarmak"
+  ],
+  "ex": [
+   "Film başlamadan önce kanalı değiştirebilir misiniz?",
+   "Hükümetler, trafik sıkışıklığını azaltmak ve istihdama erişimi iyileştirmek için toplu taşımaya daha fazla kaynak aktarmalı."
+  ],
+  "col": [
+   "televizyon kanalı",
+   "iletişim kanalları",
+   "bir deniz yolu",
+   "kaynakları ... aktarmak"
+  ],
+  "tip": "Fiil olarak 'channel sth into sth' kalıbı kullanılır: kaynağı nereye yönlendirdiğinizi 'into' ile belirtin.",
+  "note": ""
+ },
+ {
+  "id": "route",
+  "senses": [
+   "güzergâh; yol",
+   "yönlendirmek"
+  ],
+  "ex": [
+   "Trafiğe takılmamak için eve farklı bir yoldan döndük.",
+   "Kırsal topluluklara giden otobüs güzergâhlarını genişletmek, istihdama ve temel kamu hizmetlerine erişimi artırır."
+  ],
+  "col": [
+   "otobüs güzergâhı",
+   "alternatif güzergâh",
+   "ticaret yolu",
+   "çağrıları yönlendirmek"
+  ],
+  "tip": "İngiliz /ruːt/ ve Amerikan /raʊt/ olmak üzere iki telaffuzu vardır. 'Root' (kök) ile yazılışı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "valuable",
+  "senses": [
+   "yararlı; faydalı",
+   "değerli; kıymetli"
+  ],
+  "ex": [
+   "Komşum domates yetiştirme konusunda bana çok değerli tavsiyelerde bulundu.",
+   "Staj uygulamaları, öğrencilerin tam zamanlı işe girmeden önce pratik becerilerini geliştirmelerine yardımcı olan değerli deneyimler sağlar."
+  ],
+  "col": [
+   "değerli deneyim",
+   "değerli tavsiye",
+   "değerli katkı",
+   "değerli mücevherler"
+  ],
+  "tip": "Değerli eşyalar için genellikle çoğul 'valuables' kullanılır. 'Invaluable' ise 'paha biçilmez' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "historical",
+  "senses": [
+   "tarihsel; tarihle ilgili"
+  ],
+  "ex": [
+   "Kütüphanede sokağımızın tarihî fotoğraflarını bulduk.",
+   "Tarihsel kayıtlar, araştırmacıların önceki toplumların çevresel değişime ve ekonomik belirsizliğe nasıl tepki verdiğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "tarihsel kayıtlar",
+   "tarihsel kanıt",
+   "tarihsel bağlam",
+   "tarihî roman"
+  ],
+  "tip": "'Historical' tarihle ilgili olanı, 'historic' ise tarihte önemli yeri olanı anlatır: historic building (tarihî yapı).",
+  "note": ""
+ },
+ {
+  "id": "operation",
+  "senses": [
+   "ameliyat",
+   "işletim; işleyiş",
+   "operasyon; harekât"
+  ],
+  "ex": [
+   "Teyzem diz ameliyatından sonra iyi iyileşiyor.",
+   "Toplu taşıma sistemlerinin başarılı işleyişi, güvenilir finansmana ve dikkatli uzun vadeli planlamaya bağlıdır."
+  ],
+  "col": [
+   "ameliyat olmak",
+   "ameliyat yapmak",
+   "çalışır durumda",
+   "kurtarma operasyonu"
+  ],
+  "tip": "Tıbbi anlamda ameliyat, işletme anlamında ise sistemin çalışması demektir. Bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "trust",
+  "senses": [
+   "güven; itimat",
+   "güvenmek; inanmak",
+   "vakıf; emanet"
+  ],
+  "ex": [
+   "Kedimizi beslemesi için komşuma güveniyorum.",
+   "Bilim danışmanlığına halkın güveni, araştırmacıların belirsizliği ve kanıtları ne kadar açık ilettiğine kısmen bağlıdır."
+  ],
+  "col": [
+   "güven oluşturmak",
+   "birinin bir şey yapacağına güvenmek",
+   "karşılıklı güven",
+   "hayır vakfı"
+  ],
+  "tip": "'Trust sb to do sth' kalıbı, birinin bir işi güvenilir biçimde yapacağına inanmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "session",
+  "senses": [
+   "seans; antrenman",
+   "oturum; birleşim"
+  ],
+  "ex": [
+   "Yüzme antrenmanımız yarın sabah erken başlıyor.",
+   "Düzenli tekrar oturumları, öğrencilerin sınavlardan hemen önce yoğun çalışmaya kıyasla bilgiyi daha etkili akılda tutmasını sağlar."
+  ],
+  "col": [
+   "antrenman seansı",
+   "tekrar oturumu",
+   "soru-cevap oturumu",
+   "oturumda"
+  ],
+  "tip": "'Session' belirli bir etkinlik süresini ifade eder; 'semester' (yarıyıl) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "minivan",
+  "senses": [
+   "minivan; çok koltuklu araç",
+   "küçük kamyonet"
+  ],
+  "ex": [
+   "Minivanımızda tüm aile için yeterli koltuk var.",
+   "Ortak minivan hizmetleri, güvenilir toplu taşımaya sahip olmayan kırsal sakinlerin sağlık hizmetlerine erişimini iyileştirebilir."
+  ],
+  "col": [
+   "aile minivanı",
+   "minivan kiralamak",
+   "yedi koltuklu minivan"
+  ],
+  "tip": "Amerikan İngilizcesinde genellikle aile için çok koltuklu araç anlamına gelir; küçük kargo aracı için de 'van' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "unexpected",
+  "senses": [
+   "beklenmedik; umulmadık"
+  ],
+  "ex": [
+   "Öğle yemeğini bitirdiğimiz anda beklenmedik bir misafir geldi.",
+   "Hükümetlerin, sağlık ve eğitim gibi temel harcamaları azaltmadan beklenmedik olayları yönetebilmesi için acil fonlara ihtiyacı vardır."
+  ],
+  "col": [
+   "beklenmedik sonuç",
+   "beklenmedik misafir",
+   "beklenmedik gecikme"
+  ],
+  "tip": "'Unexpected' öngörülmemiş olmayı vurgular; ani olmayı ifade etmez. Ani olan için 'sudden' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vote",
+  "senses": [
+   "oy vermek; oylamak",
+   "oy; oylama"
+  ],
+  "ex": [
+   "Pikniği parkta yapmaya oy verdik.",
+   "Sakinlerin yerel projeler hakkında oy kullanmasına izin vermek, topluluk gelişimine katılımı artırabilir."
+  ],
+  "col": [
+   "için oy vermek",
+   "karşı oy vermek",
+   "oy kullanmak",
+   "oy hakkı"
+  ],
+  "tip": "'Vote for' destekleme, 'vote against' karşı çıkma anlamına gelir. 'Vote on' ile karar konusunu belirtebilirsiniz.",
+  "note": ""
+ },
+ {
+  "id": "avocado",
+  "senses": [
+   "avokado"
+  ],
+  "ex": [
+   "Sıcak tostunun üzerine olgun avokado sürdü.",
+   "Avokadoya artan talep, yağış miktarı sınırlı olan bölgelerde su kaynakları üzerinde baskı oluşturabilir."
+  ],
+  "col": [
+   "olgun avokado",
+   "ezilmiş avokado",
+   "avokadolu tost"
+  ],
+  "tip": "Çoğulu 'avocados' şeklindedir; sonuna '-es' eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "forgive",
+  "senses": [
+   "affetmek; bağışlamak",
+   "borcunu silmek"
+  ],
+  "ex": [
+   "Sevdiğim kupayı kırdığım için beni affedebilir misin?",
+   "Uluslararası kredi verenler, daha yoksul ülkelerin sağlık ve eğitime daha fazla yatırım yapabilmesi için bazı borçları silebilir."
+  ],
+  "col": [
+   "birini bir şey için affetmek",
+   "bir hatayı affetmek",
+   "bir borcu silmek"
+  ],
+  "tip": "'Forgive sb for doing sth' kalıbı kullanılır. Düzensiz fiildir: forgive - forgave - forgiven.",
+  "note": ""
+ },
+ {
+  "id": "aircraft",
+  "senses": [
+   "uçak; hava aracı"
+  ],
+  "ex": [
+   "Küçük bir uçak tarlaların üzerinden alçaktan uçtu.",
+   "Daha verimli uçaklar geliştirmek yakıt tüketimini azaltabilir; ancak artan yolcu talebi bu çevresel kazançları sınırlayabilir."
+  ],
+  "col": [
+   "ticari uçak",
+   "yolcu uçağı",
+   "hafif uçak",
+   "uçak bakımı"
+  ],
+  "tip": "'Aircraft' tekil ve çoğul aynı biçimdedir; 'aircrafts' denmez. Helikopter gibi araçları da kapsayan genel bir terimdir.",
+  "note": ""
+ },
+ {
+  "id": "baggage",
+  "senses": [
+   "bagaj; valiz",
+   "manevi yük; bagaj"
+  ],
+  "ex": [
+   "Bagajlarımız bu öğleden sonra bir sonraki uçuşla geldi.",
+   "Havayolları, kayıt edilen bagaj için genellikle ek ücret alır; bu da seyahatin toplam maliyetini artırır."
+  ],
+  "col": [
+   "kayıt edilen bagaj",
+   "bagaj hakkı",
+   "bagaj teslim alanı",
+   "duygusal yük"
+  ],
+  "tip": "Sayılamayan bir isimdir; bir parça için 'a piece of baggage' kullanılır, 'a baggage' denmez.",
+  "note": ""
+ },
+ {
+  "id": "generous",
+  "senses": [
+   "cömert; eli açık",
+   "bol; geniş"
+  ],
+  "ex": [
+   "Cömert komşumuz taze sebzelerini bizimle paylaştı.",
+   "Yerel işletmelerden gelen cömert bağışlar, topluluk merkezlerinin çocuklara ve yaşlı sakinlere uygun fiyatlı etkinlikler sunmasına yardımcı olabilir."
+  ],
+  "col": [
+   "cömert bağış",
+   "bol porsiyon",
+   "zamanını cömertçe paylaşmak"
+  ],
+  "tip": "'Be generous with sth' kalıbı, bir şeyi cömertçe vermek anlamında kullanılır: be generous with your time.",
+  "note": ""
+ }
+]

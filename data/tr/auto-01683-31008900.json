@@ -1,0 +1,279 @@
+[
+ {
+  "id": "lovely",
+  "senses": [
+   "güzel; hoş",
+   "çok hoş; nazik"
+  ],
+  "ex": [
+   "Mutfak penceresinin yanında güzel sarı çiçekler var.",
+   "Kıyı manzaralarının korunması ziyaretçileri çekebilir ve yerel halkın açık hava etkinlikleri için değerli alanlar bulmasını sağlayabilir."
+  ],
+  "col": [
+   "güzel bir manzara",
+   "güzel vakit geçirmek",
+   "nazik biri"
+  ],
+  "tip": "-ly ile bitse de sıfattır, zarf değildir. Zarf olarak kullanmak için ayrı bir biçim gerekir.",
+  "note": ""
+ },
+ {
+  "id": "exit",
+  "senses": [
+   "çıkış",
+   "çıkmak; ayrılmak"
+  ],
+  "ex": [
+   "Sinemanın arka tarafındaki çıkışı bulduk.",
+   "Kamu binalarında, tahliye sırasında içeridekilerin güvenle çıkabilmesi için açıkça görülebilen acil çıkışlar bulunmalıdır."
+  ],
+  "col": [
+   "acil çıkış",
+   "yangın çıkışı",
+   "en yakın çıkış",
+   "programdan çıkmak"
+  ],
+  "tip": "İsim olarak 'çıkış', fiil olarak 'çıkmak/ayrılmak' anlamına gelir. 'exist' (var olmak) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "race",
+  "senses": [
+   "yarış",
+   "ırk",
+   "yarışmak; koşmak"
+  ],
+  "ex": [
+   "Köprüden tekne yarışını izledik.",
+   "Okullar, ırklarına ya da ailelerinin gelirine bakılmaksızın tüm çocukların eşit eğitim fırsatlarına sahip olmasını sağlamalıdır."
+  ],
+  "col": [
+   "yarışı kazanmak",
+   "bayrak yarışı",
+   "ırkına bakılmaksızın",
+   "zamanla yarışmak"
+  ],
+  "tip": "Bağlama göre 'yarış' ya da 'ırk' anlamını seçin. Ulusal veya etnik kimlik için 'nation' ya da 'ethnicity' daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "avoid",
+  "senses": [
+   "önlemek; kaçınmak",
+   "kaçınmak; uzak durmak"
+  ],
+  "ex": [
+   "Sabah trafiğine yakalanmamak için erken çıktık.",
+   "Şehirler, trafik sıkışıklığı ve hava kirliliğinin daha da artmasını önlemek için toplu taşımayı geliştirmelidir."
+  ],
+  "col": [
+   "bir şey yapmaktan kaçınmak",
+   "hatalardan kaçınmak",
+   "temastan kaçınmak"
+  ],
+  "tip": "avoid'den sonra isim ya da -ing gelir: avoid doing. 'avoid to do' kalıbı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "entrance",
+  "senses": [
+   "giriş; kapı",
+   "girme; giriş hakkı"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra girişte buluşalım.",
+   "Üniversiteler, akademik standartları korurken farklı eğitim geçmişlerini tanıyan giriş koşulları uygulamalıdır."
+  ],
+  "col": [
+   "ana giriş",
+   "giriş sınavı",
+   "giriş koşulları",
+   "giriş ücreti"
+  ],
+  "tip": "Bir yerin girişi için 'entrance to' kullanılır: the entrance to the park. 'entrance of' kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "shy",
+  "senses": [
+   "utangaç; çekingen",
+   "ürkmek; geri çekilmek"
+  ],
+  "ex": [
+   "Lina yeni kulübe katıldığında kendini çekingen hissetti.",
+   "Küçük grup tartışmaları, utangaç öğrencilerin tüm sınıf önünde konuşmadan önce özgüven kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "çekingen hissetmek",
+   "acı verecek kadar utangaç",
+   "-den çekinmek"
+  ],
+  "tip": "shy away from'dan sonra isim ya da -ing gelir: shy away from speaking. Kaçınma anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "lemon",
+  "senses": [
+   "limon",
+   "açık sarı; limon sarısı"
+  ],
+  "ex": [
+   "Izgara balığın üzerine yarım limon sıktım.",
+   "Yemeklere limon suyu eklemek, tüketilen tuz miktarını artırmadan lezzeti geliştirebilir."
+  ],
+  "col": [
+   "limon suyu",
+   "bir dilim limon",
+   "limon kabuğu rendesi"
+  ],
+  "tip": "Bütün limon sayılabilir (a lemon, two lemons). 'lemon juice'daki 'juice' ise sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "laptop",
+  "senses": [
+   "dizüstü bilgisayar"
+  ],
+  "ex": [
+   "Dizüstü bilgisayarım sırt çantamın ön bölmesine tam sığıyor.",
+   "Her öğrenciye dizüstü bilgisayar vermek öğrenme kaynaklarına erişimi artırabilir, ancak teknik destek hâlâ gereklidir."
+  ],
+  "col": [
+   "dizüstü bilgisayar",
+   "dizüstü şarj aleti",
+   "dizüstü pil"
+  ],
+  "tip": "laptop taşınabilir bilgisayardır; masaüstü bilgisayar için genellikle 'desktop' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "forever",
+  "senses": [
+   "sonsuza dek; ebediyen",
+   "durmadan; sürekli"
+  ],
+  "ex": [
+   "Bu güneşli öğleden sonraların sonsuza dek sürmesini isterdim.",
+   "Etkili koruma önlemleri alınmazsa, bazı nadir hayvan türleri önümüzdeki birkaç on yıl içinde sonsuza dek yok olabilir."
+  ],
+  "col": [
+   "sonsuza dek sürmek",
+   "sonsuza dek kaybolmak",
+   "sürekli değişen"
+  ],
+  "tip": "'be forever doing' çoğunlukla hoşnutsuzluk bildirir: sürekli bir şeyi yapmak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dentist",
+  "senses": [
+   "diş hekimi"
+  ],
+  "ex": [
+   "Diş hekimi dişlerime baktı ve daha yumuşak bir diş fırçası önerdi.",
+   "Diş hekimine düzenli gitmek, küçük diş sorunlarının ciddi sağlık problemlerine dönüşmesini önleyebilir."
+  ],
+  "col": [
+   "diş hekimine gitmek",
+   "diş hekimi randevusu",
+   "yetkin bir diş hekimi"
+  ],
+  "tip": "'dentist' kişiyi, 'dentistry' ise diş hekimliği mesleğini ya da alanını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "lock",
+  "senses": [
+   "kilitlemek; kilitlemek",
+   "kilit",
+   "bir tutam saç"
+  ],
+  "ex": [
+   "Yukarı çıkmadan önce lütfen arka kapıyı kilitle.",
+   "Çalışanlar, gizli bilgilere yetkisiz erişimi önlemek için masalarından ayrıldıklarında bilgisayarlarını kilitlemelidir."
+  ],
+  "col": [
+   "kapıyı kilitlemek",
+   "ekranı kilitlemek",
+   "kapı kilidi",
+   "bir tutam saç"
+  ],
+  "tip": "'lock' kilitlemek, 'unlock' kilidi açmak anlamına gelir; ikisi birbirinin yerine kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "curly",
+  "senses": [
+   "kıvırcık; kıvrımlı"
+  ],
+  "ex": [
+   "Yukarı koşarken kıvırcık saçları zıplıyordu.",
+   "Reklamlar, kıvırcık saçlı ve farklı ten renklerine sahip kişiler dahil olmak üzere çeşitli görünümdeki insanları temsil etmelidir."
+  ],
+  "col": [
+   "kıvırcık saç",
+   "doğal olarak kıvırcık",
+   "kıvrık bir kuyruk"
+  ],
+  "tip": "'curly' kıvrımın belirgin olduğunu gösterir; yumuşak dalgalı görünüm için 'wavy' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nervous",
+  "senses": [
+   "gergin; endişeli",
+   "sinirsel; sinir"
+  ],
+  "ex": [
+   "Dün ilk yüzme dersimden önce gergin hissettim.",
+   "Sınavlar konusunda endişeli olan öğrenciler, düzenli pratik ve öğretmenlerinden destekleyici geri bildirim alarak fayda görebilir."
+  ],
+  "col": [
+   "-den endişelenmek",
+   "gergin hissetmek",
+   "sinir sistemi",
+   "gergin kahkaha"
+  ],
+  "tip": "'nervous about'tan sonra isim ya da -ing gelir: nervous about speaking. 'Sinir sistemi' anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "practice",
+  "senses": [
+   "alıştırma; antrenman",
+   "gelenek; uygulama",
+   "uygulama"
+  ],
+  "ex": [
+   "Her gün yaptığım çalışma gitarı daha özgüvenle çalmamı sağladı.",
+   "Okullar, öğrencilere deneyler ve uygulamalı projeler yoluyla bilimsel bilgiyi uygulama fırsatı vermelidir."
+  ],
+  "col": [
+   "düzenli alıştırma",
+   "yaygın uygulama",
+   "pratikte",
+   "uygulamaya koymak"
+  ],
+  "tip": "İngiliz İngilizcesinde isim olarak 'practice', fiil olarak 'practise' yazılır. Amerikan İngilizcesinde ikisi de 'practice'tir.",
+  "note": ""
+ },
+ {
+  "id": "roof",
+  "senses": [
+   "çatı; üst örtü",
+   "çatı yapmak; örtmek"
+  ],
+  "ex": [
+   "Gece boyunca yağmur çatıya davul gibi vurdu.",
+   "Çatıya güneş paneli kurmak, hanelerin elektrik faturalarını düşürmesine ve çevresel etkilerini azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "düz çatı",
+   "çatı kiremitleri",
+   "tek çatı altında",
+   "çatı akıntısı"
+  ],
+  "tip": "Çoğulu roofs. 'roof' dış çatıyı, 'ceiling' ise iç tavanı anlatır.",
+  "note": ""
+ }
+]

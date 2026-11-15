@@ -1,0 +1,279 @@
+[
+ {
+  "id": "tailor",
+  "senses": [
+   "terzi",
+   "uyarlamak; özel olarak hazırlamak"
+  ],
+  "ex": [
+   "Ben beklerken terzi pantolonumu kısalttı.",
+   "Öğretmenler, herkese tek bir yöntem uygulamak yerine derslerini öğrencilerin becerilerine göre uyarlamalıdır."
+  ],
+  "col": [
+   "bir takım elbiseyi dikmek",
+   "bir şeyi bireysel ihtiyaçlara göre uyarlamak",
+   "ısmarlama giysi"
+  ],
+  "tip": "tailor A to B kalıbı 'A'yı B'ye göre uyarlamak ya da özelleştirmek anlamına gelir. Fiil olarak 'dikmek' değil, daha çok 'uyarlamak' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "tense",
+  "senses": [
+   "gergin; sıkı",
+   "zaman (dilbilgisi)",
+   "gerilmek; gerginleşmek"
+  ],
+  "ex": [
+   "Mülakat odasının dışında beklerken gergin görünüyordu.",
+   "Gergin bir çalışma ortamı, verimliliği azaltabilir ve çalışanları yaratıcı fikirler paylaşmaktan alıkoyabilir."
+  ],
+  "col": [
+   "gergin hissetmek",
+   "gergin bir atmosfer",
+   "geçmiş zaman",
+   "kaslarını germek"
+  ],
+  "tip": "İsim olarak dilbilgisinde zaman, sıfat olarak gergin demektir; tense fiziksel gerginliği de anlatabilir, nervous'tan farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "civilization",
+  "senses": [
+   "uygarlık; medeniyet",
+   "modern yaşamın konforu"
+  ],
+  "ex": [
+   "Dün eski bir uygarlığın harabelerini gezdik.",
+   "Güvenilir su kaynakları, tarımı ve kalıcı yerleşimleri destekleyerek medeniyetin gelişiminde kritik bir rol oynadı."
+  ],
+  "col": [
+   "antik uygarlık",
+   "medeniyetin yükselişi",
+   "insanlık medeniyeti"
+  ],
+  "tip": "İngiliz İngilizcesinde civilisation şeklinde de yazılır. Belirli bir uygarlık sayılabildiği için 'a civilization' kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "consideration",
+  "senses": [
+   "dikkatli düşünme; değerlendirme",
+   "saygı; gözetme",
+   "göz önünde bulundurulacak etken"
+  ],
+  "ex": [
+   "Dikkatli bir değerlendirmenin ardından daha küçük daireyi seçtik.",
+   "Şehir plancıları, toplu taşıma sistemlerini tasarlarken yaşlı sakinlerin ihtiyaçlarını göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "dikkatli düşünme",
+   "göz önünde bulundurmak",
+   "görüşülmekte olan",
+   "-e karşı saygılı davranmak"
+  ],
+  "tip": "Düşünme ya da gözetme anlamında genellikle sayılamaz; 'göz önünde bulundurulacak etken' anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "crane",
+  "senses": [
+   "vinç",
+   "turna",
+   "boynunu uzatarak bakmak"
+  ],
+  "ex": [
+   "Bir vinç ağır kirişi çatının üzerine kaldırdı.",
+   "İnşaat şirketleri yüksek binaları verimli bir şekilde monte etmek için vinç kullanır, ancak katı güvenlik prosedürleri hâlâ çok önemlidir."
+  ],
+  "col": [
+   "kule vinç",
+   "vinç kullanmak",
+   "boynunu uzatmak"
+  ],
+  "tip": "Fiil olarak genellikle 'crane your neck' kalıbında, bir şeyi görmek için boynunu uzatmak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inquiry",
+  "senses": [
+   "soruşturma; araştırma",
+   "soru; bilgi talebi"
+  ],
+  "ex": [
+   "Kayıp koli hakkındaki sorgulamama hızlı bir yanıt geldi.",
+   "Nehir kirliliği üzerine bağımsız bir soruşturma, mevcut çevre izleme sisteminde ciddi eksiklikler ortaya koydu."
+  ],
+  "col": [
+   "kamu soruşturması",
+   "-e ilişkin soruşturma",
+   "soruşturma yapmak; bilgi istemek",
+   "bilimsel araştırma"
+  ],
+  "tip": "Bir konudaki soruşturma için 'inquiry into' kalıbı kullanılır. İngiliz İngilizcesinde enquiry biçimi de yaygındır ve genellikle bilgi talebi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "keyhole",
+  "senses": [
+   "anahtar deliği"
+  ],
+  "ex": [
+   "Karanlıkta anahtar deliğini bulmakta zorlandım.",
+   "Modern elektronik kilitler geleneksel bir anahtar deliğine olan ihtiyacı ortadan kaldırıyor, ancak yeni güvenlik riskleri de yaratabiliyor."
+  ],
+  "col": [
+   "anahtarı anahtar deliğine sokmak",
+   "anahtar deliğinden bakmak",
+   "anahtar deliği ameliyatı"
+  ],
+  "tip": "Keyhole surgery 'anahtar deliği ameliyatı' değil, küçük kesiyle yapılan kapalı/minimal invaziv ameliyat anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "unite",
+  "senses": [
+   "birleşmek; birleştirmek"
+  ],
+  "ex": [
+   "Bütün köy, hasar gören köprüyü onarmak için bir araya geldi.",
+   "Ortak çevre hedefleri, ekonomik ve siyasi çıkarları çok farklı olan toplulukları birleştirebilir."
+  ],
+  "col": [
+   "-e karşı birleşmek",
+   "bir liderin arkasında birleşmek",
+   "çabaları birleştirmek"
+  ],
+  "tip": "Unite hem geçişli hem geçişsiz kullanılabilir; ortak bir amaç için bir araya gelme anlamını vurgular.",
+  "note": ""
+ },
+ {
+  "id": "interface",
+  "senses": [
+   "arayüz; ara yüz",
+   "sınır; temas noktası",
+   "bağlanmak; entegre olmak"
+  ],
+  "ex": [
+   "Uygulamanın basit arayüzü bilet almayı çok daha kolaylaştırıyor.",
+   "Erişilebilir bir kullanıcı arayüzü, sınırlı teknik deneyime sahip kişilerin dijital kamu hizmetlerinden yararlanmasını sağlar."
+  ],
+  "col": [
+   "kullanıcı arayüzü",
+   "grafik arayüz",
+   "arayüz tasarımı",
+   "-le bağlantı kurmak"
+  ],
+  "tip": "Bilgisayar bağlamında 'arayüz' anlamına gelir. Fiil olarak genellikle with ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "embassy",
+  "senses": [
+   "büyükelçilik"
+  ],
+  "ex": [
+   "Yurt dışında pasaportumu kaybettikten sonra büyükelçilikle iletişime geçtim.",
+   "Büyükelçilik, yurt dışındaki vatandaşlara yardım sağlar ve iki ülke arasındaki diplomatik ilişkilerin sürdürülmesine katkıda bulunur."
+  ],
+  "col": [
+   "büyükelçilikle iletişime geçmek",
+   "büyükelçilik personeli",
+   "yabancı büyükelçilik"
+  ],
+  "tip": "Embassy büyükelçiliği, consulate ise konsolosluğu ifade eder; karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "meantime",
+  "senses": [
+   "ara dönem; bekleme süresi",
+   "bu arada; bu sırada"
+  ],
+  "ex": [
+   "Yemek pişiyor; bu arada sofrayı kuralım.",
+   "Yeni demiryolunun tamamlanması yıllar alacak; bu arada şehirler mevcut otobüs hizmetlerini iyileştirmelidir."
+  ],
+  "col": [
+   "bu arada",
+   "bu arada devam etmek"
+  ],
+  "tip": "En çok 'in the meantime' kalıbında kullanılır; 'meanwhile' ise doğrudan zarf olarak kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "creep",
+  "senses": [
+   "sessizce sinsice ilerlemek",
+   "yavaş yavaş yayılmak; sinsice değişmek"
+  ],
+  "ex": [
+   "Uyuyan bebeği uyandırmamak için sessizce yukarı çıktım.",
+   "Konut maliyetleri yavaş yavaş artabilir ve sınırlı gelirli aileler üzerinde giderek artan bir mali baskı yaratabilir."
+  ],
+  "col": [
+   "sessizce yukarı çıkmak",
+   "yavaş yavaş yükselmek",
+   "-e sızmak",
+   "birinin tüylerini diken diken etmek"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi crept'tir. Her zaman sürünmek anlamına gelmez; sessizce ilerlemek de olabilir.",
+  "note": ""
+ },
+ {
+  "id": "motivation",
+  "senses": [
+   "motivasyon; güdü",
+   "güdü; neden"
+  ],
+  "ex": [
+   "Bir arkadaşımla antrenman yapmak, koşmaya devam etmem için bana motivasyon veriyor.",
+   "Öğrencilere anlamlı seçenekler sunmak, onların motivasyonunu artırabilir ve öğrenmenin sorumluluğunu almalarını teşvik edebilir."
+  ],
+  "col": [
+   "motivasyon eksikliği",
+   "içsel motivasyon",
+   "öğrenme motivasyonu",
+   "bir kararın ardındaki neden"
+  ],
+  "tip": "Genel anlamda motivasyon çoğunlukla sayılamaz; belirli bir neden olarak sayılabilir ve genellikle for ya da behind ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "caution",
+  "senses": [
+   "dikkat; ihtiyat",
+   "uyarı; ikaz",
+   "uyarmak; ikaz etmek"
+  ],
+  "ex": [
+   "Islak mutfak zemininde dikkatle yürüdük.",
+   "Araştırmacılar, küçük çaplı çalışmaların halk sağlığı politikalarındaki büyük değişiklikler için güvenilir kanıt sağlamayabileceği konusunda uyarıyor."
+  ],
+  "col": [
+   "dikkatle",
+   "dikkatli olmak",
+   "-e karşı uyarmak"
+  ],
+  "tip": "Bir şeyi yapmamaya karşı uyarmak için caution against doing kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "colorless",
+  "senses": [
+   "renksiz",
+   "renksiz; sönük; ilgi çekmeyen"
+  ],
+  "ex": [
+   "Şişe, suya benzeyen renksiz bir sıvı içeriyordu.",
+   "Bazı zararlı gazlar renksizdir; bu nedenle endüstriyel iş yerlerinde güvenliği sağlamak için güvenilir algılama ekipmanı şarttır."
+  ],
+  "col": [
+   "renksiz sıvı",
+   "renksiz gaz",
+   "renksiz kişilik"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımı colourless şeklindedir. Renksiz olmak her zaman şeffaf olmak anlamına gelmez.",
+  "note": ""
+ }
+]

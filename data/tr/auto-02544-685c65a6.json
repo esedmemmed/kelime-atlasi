@@ -1,0 +1,280 @@
+[
+ {
+  "id": "dust",
+  "senses": [
+   "toz",
+   "tozunu almak; silmek",
+   "üstüne toz serpmek"
+  ],
+  "ex": [
+   "Eski piyanonun üzerini kalın bir toz tabakası kaplamıştı.",
+   "İnşaat tozu, yakındaki sakinler arasında hava kalitesini düşürebilir ve nefes almada zorluklara yol açabilir."
+  ],
+  "col": [
+   "bir toz tabakası",
+   "toza dönmek",
+   "rafların tozunu almak",
+   "unla serpmek"
+  ],
+  "tip": "Fiil olarak hem tozu almak hem de toz serpmek anlamına gelebilir; anlamı nesneye bakarak anlayın.",
+  "note": ""
+ },
+ {
+  "id": "afterward",
+  "senses": [
+   "sonra; daha sonra"
+  ],
+  "ex": [
+   "Bir film izledik ve sonunu daha sonra tartıştık.",
+   "Yeni konuları kısa süre sonra gözden geçiren öğrenciler, bunları uzun vadede hatırlama olasılığı daha yüksek olan öğrencilerdir."
+  ],
+  "col": [
+   "kısa süre sonra",
+   "hemen sonra",
+   "hemen ardından"
+  ],
+  "tip": "Amerikan İngilizcesinde afterward, İngiliz İngilizcesinde ise afterwards daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "rob",
+  "senses": [
+   "soymak; yağmalamak",
+   "yoksun bırakmak; elinden almak"
+  ],
+  "ex": [
+   "Birisi evimizin yakınındaki dükkânı soymaya çalıştı.",
+   "Uzun çalışma saatleri, ebeveynleri çocuklarıyla vakit geçirmek için değerli fırsatlardan yoksun bırakabilir."
+  ],
+  "col": [
+   "bir bankayı soymak",
+   "birinden bir şeyi almak",
+   "birini fırsatlardan yoksun bırakmak"
+  ],
+  "tip": "rob bir kişi ya da yer ile kullanılır; çalınan eşya için steal kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "researcher",
+  "senses": [
+   "araştırmacı"
+  ],
+  "ex": [
+   "Araştırmacı yaprağı mikroskop altında dikkatle inceledi.",
+   "Araştırmacılar, yeşil alanlara erişimin kentsel sakinlerin ruh sağlığını nasıl etkilediğini inceliyor."
+  ],
+  "col": [
+   "tıp araştırmacısı",
+   "baş araştırmacı",
+   "bir araştırmacı ekibi"
+  ],
+  "tip": "researcher sayılabilir bir isimdir; research ise genellikle sayılamayan bir isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "represent",
+  "senses": [
+   "temsil etmek",
+   "simgelemek; betimlemek",
+   "oluşturmak; denk gelmek"
+  ],
+  "ex": [
+   "Sınıf arkadaşlarım toplantıda beni onları temsil etmem için seçti.",
+   "Seçilmiş meclisler, dezavantajlı kesimden olanlar dahil tüm sakinlerin çıkarlarını temsil etmelidir."
+  ],
+  "col": [
+   "bir ülkeyi temsil etmek",
+   "birinin çıkarlarını temsil etmek",
+   "önemli bir oran oluşturmak"
+  ],
+  "tip": "represent bir fiildir; \"on behalf of\" ise \"adına\" anlamında bir edat grubudur.",
+  "note": ""
+ },
+ {
+  "id": "exist",
+  "senses": [
+   "var olmak",
+   "zar zor yaşamak; ayakta kalmak"
+  ],
+  "ex": [
+   "Bunun gibi yaratıkların gerçekten var olduğunu düşünüyor musun?",
+   "Kırsal topluluklar ile büyük kentsel merkezler arasında sağlık hizmetlerine erişimde hâlâ önemli farklılıklar var."
+  ],
+  "col": [
+   "zaten var olmak",
+   "var olmaya devam etmek",
+   "doğada var olmak",
+   "sınırlı kaynaklarla ayakta kalmak"
+  ],
+  "tip": "Geçişsiz bir fiildir, edilgen çatıda kullanılmaz; \"yok\" anlamı için does not exist kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rather",
+  "senses": [
+   "oldukça; epey",
+   "ziyade; tercihen",
+   "daha doğrusu"
+  ],
+  "ex": [
+   "Bu çorba oldukça tuzlu, ama ekmek çok lezzetli.",
+   "Birçok işe gidip gelen kişi, şehrin her yerinde daha güvenli yollar olsaydı bisikletle gitmeyi tercih ederdi."
+  ],
+  "col": [
+   "oldukça zor",
+   "kalmayı tercih ederdim",
+   "yerine; ziyade",
+   "veya daha doğrusu"
+  ],
+  "tip": "would rather'dan sonra fiilin yalın hali gelir; rather than \"-ense de yerine\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "mention",
+  "senses": [
+   "bahsetmek; değinmek",
+   "sözle anma; değinme"
+  ],
+  "ex": [
+   "Kırık pencereden ev sahibine bahsettin mi?",
+   "Kentsel ulaşım raporları sıklıkla sıkışıklığa değinir ama hareket kısıtlılığı olan insanların ihtiyaçlarını gözden kaçırır."
+  ],
+  "col": [
+   "birine bir şeyden bahsetmek",
+   "şunu söylemek",
+   "hiçbir şeyden söz etmemek",
+   "-i saymıyorum bile"
+  ],
+  "tip": "Doğrudan nesne alır: mention something; \"mention about\" demek yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "practical",
+  "senses": [
+   "uygulamalı; pratik",
+   "işe yarar; uygulanabilir",
+   "el becerisi olan; becerikli"
+  ],
+  "ex": [
+   "Kurs bana bisiklet tamirinde uygulamalı deneyim kazandırdı.",
+   "Okullar, öğrencileri değişen iş dünyasına hazırlamak için akademik öğrenmeyi pratik becerilerle birleştirmelidir."
+  ],
+  "col": [
+   "uygulamalı deneyim",
+   "pratik beceriler",
+   "pratik çözüm",
+   "pratik tavsiye"
+  ],
+  "tip": "practical, bizzat yapmayı vurgulayabilir ya da bir şeyin işe yarar, uygulanabilir olduğunu gösterebilir.",
+  "note": ""
+ },
+ {
+  "id": "wheat",
+  "senses": [
+   "buğday"
+  ],
+  "ex": [
+   "Evimizin arkasındaki tarlada altın rengi buğdaylar sallanıyordu.",
+   "Uzun süren kuraklıklar buğday hasadını azaltarak gıda fiyatlarını yükseltebilir ve savunmasız bölgelerde gıda güvenliğini tehdit edebilir."
+  ],
+  "col": [
+   "buğday ekmek",
+   "buğday unu",
+   "buğday hasadı",
+   "tam buğday"
+  ],
+  "tip": "wheat genellikle sayılamaz; tek bir buğday tanesi için a grain of wheat kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shade",
+  "senses": [
+   "gölgelik; gölge",
+   "ton; renk tonu",
+   "gölgelemek; korumak"
+  ],
+  "ex": [
+   "Büyük bir ağacın altındaki gölgede dinlendik.",
+   "Kent caddelerine ağaç dikmek gölge sağlar ve sakinlerin yaz aşırı sıcaklarına maruz kalmasını azaltabilir."
+  ],
+  "col": [
+   "gölgede",
+   "gölge sağlamak",
+   "mavinin bir tonu",
+   "gözlerini gölgelemek"
+  ],
+  "tip": "shade genellikle gölgeli alanı anlatır; shadow ise bir cismin düşürdüğü gölgeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "recycling",
+  "senses": [
+   "geri dönüşüm",
+   "geri dönüştürülecek atıklar"
+  ],
+  "ex": [
+   "Binamızda geri dönüşüm ve yemek atıkları için ayrı kutular var.",
+   "Etkili geri dönüşüm programları, kolay toplama hizmetlerinin yanı sıra halkın ev atıklarını ayırma konusunda açık yönlendirmeler almasını gerektirir."
+  ],
+  "col": [
+   "geri dönüşüm merkezi",
+   "geri dönüşüm kutusu",
+   "geri dönüşüm programı",
+   "evsel geri dönüşüm"
+  ],
+  "tip": "Genellikle sayılamaz; hem geri dönüşüm faaliyetini hem de geri dönüştürülecek malzemeleri ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "crying",
+  "senses": [
+   "ağlama; ağlayış",
+   "acil; çok belirgin"
+  ],
+  "ex": [
+   "Gece yarısından sonra bebeğin odasından hafif bir ağlama sesi geliyordu.",
+   "Her iki ebeveynin de tam zamanlı çalıştığı topluluklarda uygun fiyatlı çocuk bakımına acil bir ihtiyaç var."
+  ],
+  "col": [
+   "ağlamayı kesmek",
+   "acil ihtiyaç",
+   "büyük ayıp"
+  ],
+  "tip": "cry fiilinin -ing hali; \"a crying need\" ifadesi acil bir ihtiyacı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "tortoise",
+  "senses": [
+   "kara kaplumbağası"
+  ],
+  "ex": [
+   "Kaplumbağa yavaşça boynunu bir marul yaprağına doğru uzattı.",
+   "Yasa dışı ticaret ve tarımsal genişleme tehdidi altındaki kara kaplumbağası popülasyonlarını korumak için doğal yaşam alanları hayati önem taşır."
+  ],
+  "col": [
+   "dev kaplumbağa",
+   "kaplumbağa kabuğu",
+   "evcil kaplumbağa"
+  ],
+  "tip": "Genellikle kara kaplumbağasını anlatır; İngiliz İngilizcesinde turtle daha çok deniz kaplumbağası için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "laboratory",
+  "senses": [
+   "laboratuvar"
+  ],
+  "ex": [
+   "Okul laboratuvarının içinde koruyucu gözlük takardık.",
+   "Üniversite öğrencilerinin pratik beceriler geliştirmesini ve güvenilir deneyler yapmasını laboratuvar ekipmanına yapılan yatırım sağlar."
+  ],
+  "col": [
+   "laboratuvar ekipmanı",
+   "laboratuvar testleri",
+   "araştırma laboratuvarı"
+  ],
+  "tip": "Genellikle lab olarak kısaltılır; Amerikan ve İngiliz telaffuzlarında vurgu yeri farklıdır.",
+  "note": ""
+ }
+]

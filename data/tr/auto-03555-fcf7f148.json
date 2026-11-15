@@ -1,0 +1,281 @@
+[
+ {
+  "id": "counsellor",
+  "senses": [
+   "psikolojik danışman; rehber",
+   "danışman"
+  ],
+  "ex": [
+   "Okul psikolojik danışmanı kaygılarımdan konuşmama yardımcı oldu.",
+   "Eğitimli bir psikolojik danışmana erişim, üniversite öğrencilerinin stresle başa çıkmasına ve bağımsız yaşama uyum sağlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "okul psikolojik danışmanı",
+   "evlilik danışmanı",
+   "kariyer danışmanı"
+  ],
+  "tip": "İngiliz İngilizcesinde counsellor, Amerikan İngilizcesinde counselor yazılır. Councillor (meclis üyesi) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "marine",
+  "senses": [
+   "deniz; denizel",
+   "denizcilik; deniz taşımacılığı",
+   "deniz piyadesi"
+  ],
+  "ex": [
+   "Dün gece deniz yaşamıyla ilgili bir belgesel izledik.",
+   "Plastik kirliliği deniz ekosistemlerini tehdit ediyor ve balıkçılığa bağlı toplulukların gelirini azaltıyor."
+  ],
+  "col": [
+   "deniz yaşamı",
+   "deniz ekosistemi",
+   "deniz kirliliği",
+   "deniz taşımacılığı"
+  ],
+  "tip": "Marine genellikle 'denize ait' anlamındadır. Donanmayı anlatmak için naval kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "remedy",
+  "senses": [
+   "çare; ilaç",
+   "çözüm; çare",
+   "gidermek; düzeltmek"
+  ],
+  "ex": [
+   "Ilık limonlu su, soğuk algınlığına karşı en sevdiği çaredir.",
+   "Uygun fiyatlı eğitime erişimi artırmak, kırsal kesimdeki nitelikli işçi açığını gidermeye yardımcı olabilir."
+  ],
+  "col": [
+   "ev yapımı çare",
+   "...için çare",
+   "bir sorunu gidermek",
+   "durumu düzeltmek"
+  ],
+  "tip": "İsim olarak genellikle for ile kullanılır (a remedy for...). Fiil olarak doğrudan nesne alır, for gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "recognition",
+  "senses": [
+   "tanıma; fark etme",
+   "takdir; itibar",
+   "kabul; resmi tanınma"
+  ],
+  "ex": [
+   "Elimi salladığımda yüzü tanıma ifadesiyle aydınlandı.",
+   "Ücretsiz bakım emeğinin daha fazla kabul görmesi, daha adil sosyal politikalara ve ailelere daha güçlü desteğe yol açabilir."
+  ],
+  "col": [
+   "yüz tanıma",
+   "takdir görmek",
+   "...hizmetinden dolayı",
+   "resmi tanınma"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. in recognition of ifadesi çoğunlukla bir katkının takdir edilmesi için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "additional",
+  "senses": [
+   "ek; ilave"
+  ],
+  "ex": [
+   "Bu gece misafirimiz için ek bir sandalyeye ihtiyacımız var.",
+   "Üniversiteler, temel öğrenme materyallerini karşılayamayan öğrencilere ek mali destek sağlamalıdır."
+  ],
+  "col": [
+   "ek maliyetler",
+   "ek bilgi",
+   "ek destek",
+   "ek ücret"
+  ],
+  "tip": "Sıfat olarak genellikle isimden önce gelir (additional costs). Cümlenin sonunda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "cooperating",
+  "senses": [
+   "işbirliği yapmak; yardımcı olmak"
+  ],
+  "ex": [
+   "Komşular, ortak çiti tamir etmek için işbirliği yapıyor.",
+   "Temiz enerji araştırmalarında işbirliği yapan ülkeler maliyetleri düşürebilir ve sürdürülebilir teknolojilerin gelişimini hızlandırabilir."
+  ],
+  "col": [
+   "meslektaşlarla işbirliği yapmak",
+   "araştırmada işbirliği yapmak",
+   "yakın işbirliği yapmak"
+  ],
+  "tip": "Bir kişiyle işbirliği için with kullanılır (cooperate with someone). Konuyu belirtmek için on kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "overdose",
+  "senses": [
+   "aşırı doz",
+   "aşırı doz almak"
+  ],
+  "ex": [
+   "Eczacı, kazara aşırı doz almaktan nasıl kaçınılacağını açıkladı.",
+   "Açık ambalajlama ve profesyonel tavsiye, birden fazla ilaç kullanan hastalar arasında kazara aşırı doz riskini azaltabilir."
+  ],
+  "col": [
+   "kazara aşırı doz",
+   "ilaç aşırı dozu",
+   "ilaçtan aşırı doz almak"
+  ],
+  "tip": "Fiil olarak overdose on + ilaç, isim olarak an overdose of + madde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "affordable",
+  "senses": [
+   "uygun fiyatlı; karşılanabilir"
+  ],
+  "ex": [
+   "Bu küçük daire şu anki maaşımla bana uygun.",
+   "Hükümetler, temel çalışanların iş yerlerine yakın yaşayabilmesi için uygun fiyatlı konut sağlamalıdır."
+  ],
+  "col": [
+   "uygun fiyatlı konut",
+   "uygun fiyatlar",
+   "uygun maliyetli sağlık hizmeti"
+  ],
+  "tip": "Fiyatın ödenebilir olduğunu anlatır; mutlaka çok ucuz anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "layout",
+  "senses": [
+   "düzen; yerleşim; sayfa düzeni"
+  ],
+  "ex": [
+   "Daha fazla alan yaratmak için mutfağın düzenini değiştirdik.",
+   "Açık bir web sitesi düzeni, kullanıcıların temel bilgileri hızlıca bulmasına yardımcı olur ve kamu hizmetlerine erişimi iyileştirir."
+  ],
+  "col": [
+   "sayfa düzeni",
+   "oda düzeni",
+   "açık planlı düzen"
+  ],
+  "tip": "İsim olarak layout tek kelime yazılır; fiil olarak lay out iki kelime yazılır.",
+  "note": ""
+ },
+ {
+  "id": "slight",
+  "senses": [
+   "hafif; küçük",
+   "ince yapılı; narin",
+   "hor görmek; küçümsemek"
+  ],
+  "ex": [
+   "Yeni telefonumda hafif bir çizik var.",
+   "Ortalama sıcaklıklardaki küçük bir artış bile dünya genelindeki kırılgan ekosistemler için önemli sonuçlar doğurabilir."
+  ],
+  "col": [
+   "hafif bir artış",
+   "küçük bir fark",
+   "kısa bir gecikme",
+   "küçük bir ihtimal"
+  ],
+  "tip": "Slight sıfattır. Fiili veya sıfatı nitelemek için slightly kullanılır (slightly better).",
+  "note": ""
+ },
+ {
+  "id": "convert",
+  "senses": [
+   "dönüştürmek; çevirmek",
+   "din değiştirmek",
+   "din değiştirmiş kişi"
+  ],
+  "ex": [
+   "Boş yatak odasını küçük bir ofise dönüştürdük.",
+   "Güneş panelleri güneş ışığını elektriğe dönüştürerek hanelerin fosil yakıtlara bağımlılığını azaltmasını sağlar."
+  ],
+  "col": [
+   "...e dönüştürmek",
+   "...e geçmek; çevirmek",
+   "enerjiyi dönüştürmek",
+   "binayı dönüştürmek"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir (kən-VƏRT); isimde ilk hecededir (KON-vət).",
+  "note": ""
+ },
+ {
+  "id": "shipping",
+  "senses": [
+   "nakliye; taşımacılık",
+   "nakliye ücreti; kargo ücreti",
+   "gemiler; gemi filosu"
+  ],
+  "ex": [
+   "Bu kutuları yurt dışına göndermek yaklaşık bir ay sürecek.",
+   "Uluslararası nakliye küresel ticareti destekler, ancak çevresel etkisi daha temiz yakıt talebine yol açmıştır."
+  ],
+  "col": [
+   "nakliye maliyetleri",
+   "ücretsiz kargo",
+   "nakliye sektörü",
+   "gemi rotaları"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Online alışverişte shipping, deniz yoluyla olmayan kargo teslimatını da kapsayabilir.",
+  "note": ""
+ },
+ {
+  "id": "grasshopper",
+  "senses": [
+   "çekirge"
+  ],
+  "ex": [
+   "Bahçede kolumun üzerine yeşil bir çekirge kondu.",
+   "Çekirgeler birçok kuşa besin sağlar ve sağlıklı çayır ekosistemlerinin korunmasında önemli rol oynar."
+  ],
+  "col": [
+   "yeşil bir çekirge",
+   "çekirge zıplar",
+   "çekirge türleri"
+  ],
+  "tip": "Grasshopper genel terimdir. Kitleler halinde göç eden türler için locust (çöl çekirgesi) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "expire",
+  "senses": [
+   "süresi dolmak; sona ermek"
+  ],
+  "ex": [
+   "Pasaportumun gelecek ay süresi doluyor, bu yüzden yenilemem gerekiyor.",
+   "Geçici çalışma izinleri sona erdiğinde, çalışanlar gelecekteki istihdamları ve ikametleri konusunda belirsizlik yaşayabilir."
+  ],
+  "col": [
+   "pasaportun süresi dolmak",
+   "sözleşmenin sona ermesi",
+   "gece yarısı sona ermek"
+  ],
+  "tip": "Geçişsiz bir fiildir. 'Sözleşmenin süresi doldu' için the contract expires denir, the contract is expired denmez.",
+  "note": ""
+ },
+ {
+  "id": "mold",
+  "senses": [
+   "kalıp",
+   "biçimlendirmek; etkilemek",
+   "küf"
+  ],
+  "ex": [
+   "Eritilmiş çikolatayı dikkatlice kalıba dökün.",
+   "Erken yaşantılar, çocukların eğitime karşı tutumlarını şekillendirebilir ve okul yıllarındaki özgüvenlerini etkileyebilir."
+  ],
+  "col": [
+   "silikon kalıp",
+   "şekle sokmak",
+   "küf oluşumu",
+   "alışılmışın dışına çıkmak"
+  ],
+  "tip": "Amerikan İngilizcesinde mold, İngiliz İngilizcesinde genellikle mould yazılır. 'Küf' anlamı da aynı yazılışla kullanılır.",
+  "note": ""
+ }
+]

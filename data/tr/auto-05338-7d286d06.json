@@ -1,0 +1,285 @@
+[
+ {
+  "id": "deed",
+  "senses": [
+   "davranış; eylem",
+   "senet; tapu"
+  ],
+  "ex": [
+   "Komşumuza market poşetlerini taşımada yardım etmek güzel bir davranıştı.",
+   "Okullarda iyi davranışların takdir edilmesi, öğrencilerin yerel topluluklarına karşı daha fazla sorumluluk almasını teşvik edebilir."
+  ],
+  "col": [
+   "iyi bir davranış",
+   "kahramanca eylemler",
+   "mülkiyet senetleri",
+   "söz ve eylemle"
+  ],
+  "tip": "Eylem anlamında daha resmi bir kelimedir. Tapu anlamında genellikle çoğul deeds kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "disturb",
+  "senses": [
+   "rahatsız etmek; bölmek",
+   "huzursuz etmek; endişelendirmek",
+   "yerinden oynatmak; karıştırmak"
+  ],
+  "ex": [
+   "Babamı rahatsız etmemek için kapıyı sessizce kapat.",
+   "İnşaat gürültüsü, yakındaki sakinleri zamanla rahatsız edebilir ve yaşam kalitelerini düşürebilir."
+  ],
+  "col": [
+   "birinin uykusunu bölmek",
+   "derinden sarsılmış",
+   "huzuru bozmak"
+  ],
+  "tip": "Genellikle rahatsız etmek ya da huzursuz etmek anlamına gelir. Bir eylemi kesmek anlamı için interrupt kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "launch",
+  "senses": [
+   "piyasaya sürmek; başlatmak",
+   "fırlatmak; suya indirmek",
+   "lansman; başlatma"
+  ],
+  "ex": [
+   "Semtimizdeki fırın dün yeni bir teslimat hizmetini başlattı.",
+   "Okullar, öğrencilerin daha sağlıklı beslenmesini ve yemek israfını azaltmasını teşvik etmek için farkındalık kampanyaları başlatmalıdır."
+  ],
+  "col": [
+   "kampanya başlatmak",
+   "ürünü piyasaya sürmek",
+   "uydu fırlatmak",
+   "ürün lansmanı"
+  ],
+  "tip": "Ürün tanıtımı, kampanya başlatma ve uydu fırlatma gibi farklı durumlarda aynı fiil kullanılır. Anlamı bağlamdan seçin.",
+  "note": ""
+ },
+ {
+  "id": "awkward",
+  "senses": [
+   "utandırıcı; garip",
+   "beceriksiz; sakar",
+   "zor; çetrefilli"
+  ],
+  "ex": [
+   "Kadının adını unuttuktan sonra garip bir sessizlik oldu.",
+   "Esnek çalışma düzenleri, ebeveynlerin kariyer fırsatlarından ödün vermeden zor programlarını yönetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "garip bir sessizlik",
+   "kendini rahatsız hissetmek",
+   "zor bir soru",
+   "zor bir durum"
+  ],
+  "tip": "Sosyal durumlarda utanç verici anlamına gelir. Utangaç anlamındaki shy ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "ward",
+  "senses": [
+   "servis; koğuş",
+   "seçim bölgesi; mahalle",
+   "vesayet altındaki kişi"
+  ],
+  "ex": [
+   "Bir hemşire çocuk koğuşuna temiz battaniyeler getirdi.",
+   "Yeterli eğitimli personel bulunmadığı sürece, yalnızca hastane servislerini genişletmek sağlık hizmetlerini iyileştirmeyecektir."
+  ],
+  "col": [
+   "hastane koğuşu",
+   "doğum servisi",
+   "seçim bölgesi",
+   "enfeksiyonu önlemek"
+  ],
+  "tip": "Fiil olarak genellikle ward off kalıbında kullanılır ve önlemek, savuşturmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "boost",
+  "senses": [
+   "artırmak; desteklemek",
+   "teşvik; artış"
+  ],
+  "ex": [
+   "Kısa bir yürüyüş, öğle yemeğinden sonra enerjini artırabilir.",
+   "Güvenilir toplu taşımaya yapılan yatırım, yerel istihdamı artırabilir ve temel hizmetlere erişimi iyileştirebilir."
+  ],
+  "col": [
+   "özgüveni artırmak",
+   "ekonomiyi canlandırmak",
+   "satışları artırmak",
+   "bir şeye ivme kazandırmak"
+  ],
+  "tip": "Geçişli bir fiildir ve doğrudan nesne alır: boost sales, boost confidence. Araya edat koymayın.",
+  "note": ""
+ },
+ {
+  "id": "indicate",
+  "senses": [
+   "belirtmek; göstermek",
+   "işaret ederek göstermek"
+  ],
+  "ex": [
+   "Bu koyu renkli bulutlar yağmurun geleceğine işaret ediyor.",
+   "Son anketler, uygun fiyatlı konutun kentsel alanlardaki genç yetişkinler için hâlâ önemli bir kaygı olduğunu gösteriyor."
+  ],
+  "col": [
+   "bir ihtiyacı göstermek",
+   "açıkça belirtmek",
+   "...olduğunu göstermek"
+  ],
+  "tip": "Bir durumun var olduğunu ya da olası olduğunu anlatırken indicate that kalıbını kullanın. That'ten sonra tam bir cümle gelir.",
+  "note": ""
+ },
+ {
+  "id": "exceptional",
+  "senses": [
+   "olağanüstü; seçkin",
+   "istisnai; olağandışı"
+  ],
+  "ex": [
+   "Genç keman sanatçısı dün gece olağanüstü bir performans sergiledi.",
+   "Olağanüstü yeteneğe sahip öğrenciler, sınıf içi öğrenmeye ilgili kalmaları için ek zorluklara ihtiyaç duyabilir."
+  ],
+  "col": [
+   "olağanüstü yetenek",
+   "istisnai durumlar",
+   "olağanüstü performans"
+  ],
+  "tip": "Genellikle çok iyi anlamında olumlu bir sıfattır. Exceptional circumstances ise özel ve olağandışı durumları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "depth",
+  "senses": [
+   "derinlik",
+   "derinlik; ayrıntı"
+  ],
+  "ex": [
+   "Havuza atlamadan önce derinliğine bak.",
+   "Üniversite dersleri, öğrencileri karmaşık çevre sorunlarını daha derinlemesine incelemeye teşvik etmelidir."
+  ],
+  "col": [
+   "su derinliği",
+   "derinlemesine",
+   "bilgi derinliği"
+  ],
+  "tip": "In depth ifadesi derinlemesine, ayrıntılı olarak anlamına gelir. Derinde anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "icon",
+  "senses": [
+   "simge; ikon",
+   "simge kişi; sembol",
+   "kutsal resim; ikon"
+  ],
+  "ex": [
+   "Hızlı bir fotoğraf çekmek için kamera simgesine dokun.",
+   "Tanınan bir kültürel simge, uluslararası ziyaretçileri çekebilir ve turizm kampanyalarında kentin kimliğini güçlendirebilir."
+  ],
+  "col": [
+   "bir simgeye tıklamak",
+   "masaüstü simgesi",
+   "kültürel simge",
+   "moda ikonu"
+  ],
+  "tip": "Bilgisayar ekranındaki simge ile toplumda örnek alınan kişi anlamlarını bağlama göre ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "risky",
+  "senses": [
+   "riskli; tehlikeli"
+  ],
+  "ex": [
+   "Işıksız bisikletle eve gitmek risklidir.",
+   "Tüm kamu fonlarını tek bir sektöre yatırmak risklidir, çünkü ekonomik koşullar beklenmedik biçimde değişebilir."
+  ],
+  "col": [
+   "riskli bir yatırım",
+   "riskli davranış",
+   "riskli bir strateji",
+   "oldukça riskli"
+  ],
+  "tip": "It is risky to do sth kalıbını kullanın. Bu, bir şeyi yapmanın riskli olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "preservation",
+  "senses": [
+   "koruma; muhafaza",
+   "gıda saklama"
+  ],
+  "ex": [
+   "Bu eski fotoğrafların daha fazla hasar görmemesi için dikkatli bir şekilde korunması gerekiyor.",
+   "Tarihi binaların korunması, yerel kimliği güçlendirebilir, ziyaretçileri çekebilir ve küçük işletmeleri destekleyebilir."
+  ],
+  "col": [
+   "miras koruma",
+   "gıda saklama",
+   "korunmuş durum"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. The preservation of kalıbıyla korunan nesne belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "steer",
+  "senses": [
+   "yön vermek; sürmek",
+   "yönlendirmek",
+   "iğdiş boğa; öküz"
+  ],
+  "ex": [
+   "Teknesini dikkatlice kayalardan uzaklaştırdı.",
+   "Hükümetler, yenilenebilir enerjiye yapılan yatırımları finansal teşviklerle ve net çevre standartlarıyla yönlendirebilir."
+  ],
+  "col": [
+   "tekneyi yönetmek",
+   "uzak durmak",
+   "konuşmayı yönlendirmek"
+  ],
+  "tip": "Steer clear of kalıbı bir kişiden ya da şeyden uzak durmak anlamına gelir. Clear kelimesi bu kalıpta şarttır.",
+  "note": ""
+ },
+ {
+  "id": "commercial",
+  "senses": [
+   "ticari; ticarete yönelik",
+   "reklam; reklam filmi"
+  ],
+  "ex": [
+   "Bu caddede ticari mekânların üst katlarında evler bulunuyor.",
+   "Ticari gelişme iş imkânı yaratabilir, ancak kamusal yeşil alanların pahasına gerçekleşmemelidir."
+  ],
+  "col": [
+   "ticari gelişme",
+   "ticari başarı",
+   "ticari amaçlar",
+   "televizyon reklamı"
+  ],
+  "tip": "İsim olarak genellikle televizyon ya da radyo reklamını anlatır. Her türlü reklamı kapsamaz; daha genel terim advertisement'tır.",
+  "note": ""
+ },
+ {
+  "id": "casualty",
+  "senses": [
+   "yaralı; kayıp",
+   "kurban; zarar gören"
+  ],
+  "ex": [
+   "Ambulans yaralıyı yakındaki bir hastaneye götürdü.",
+   "Deprem yoğun nüfuslu kentsel alanları vurduğunda, gelişmiş bina standartları yaralı ve can kaybı sayısını azaltabilir."
+  ],
+  "col": [
+   "sivil kayıplar",
+   "ağır kayıplar",
+   "ekonomik durgunluğun kurbanı"
+  ],
+  "tip": "Yaralıları da kapsar. Yalnızca ölüm anlamına gelen fatality ile karıştırılmamalıdır.",
+  "note": ""
+ }
+]

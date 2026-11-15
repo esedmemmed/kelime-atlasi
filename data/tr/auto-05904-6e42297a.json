@@ -1,0 +1,270 @@
+[
+ {
+  "id": "administer",
+  "senses": [
+   "yönetmek; yürütmek",
+   "vermek; uygulamak"
+  ],
+  "ex": [
+   "Eve gitmeden önce hemşire bana ilacı verdi.",
+   "Yerel yönetimler, düşük gelirli aileler için uygun fiyatlı konut sağlamayı amaçlayan konut programlarını yürütüyor."
+  ],
+  "col": [
+   "bir programı yönetmek",
+   "ilaç vermek",
+   "ilk yardım uygulamak",
+   "bir sınav uygulamak"
+  ],
+  "tip": "Kişiye ilaç verirken administer medicine to someone kalıbı kullanılır; 'to' edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "combustion",
+  "senses": [
+   "yanma"
+  ],
+  "ex": [
+   "Soba, verimli yanma için yeterli hava almalı.",
+   "Fosil yakıtların yanması karbondioksit salar ve küresel sıcaklık artışına önemli ölçüde katkıda bulunur."
+  ],
+  "col": [
+   "yakıt yanması",
+   "tam yanma",
+   "içten yanmalı motor",
+   "kendiliğinden tutuşma"
+  ],
+  "tip": "Genellikle sayılamaz; burning'in teknik ve bilimsel karşılığıdır, günlük dilde burning tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "nameless",
+  "senses": [
+   "adsız; isimsiz",
+   "tarifsiz; belirsiz"
+  ],
+  "ex": [
+   "Sığınağın dışına isimsiz bir bağışçı taze çiçekler bırakmış.",
+   "Bugün dünya genelinde turistleri çeken anıtların yapımına pek çok adı bilinmeyen işçi katkıda bulundu."
+  ],
+  "col": [
+   "adsız kalmak",
+   "tarifsiz korku",
+   "adı bilinmeyen işçiler"
+  ],
+  "tip": "Sıfat olarak isimden önce gelir ve 'a nameless' biçiminde kullanılır: a nameless fear.",
+  "note": ""
+ },
+ {
+  "id": "catastrophe",
+  "senses": [
+   "felaket; büyük afet"
+  ],
+  "ex": [
+   "Sel, küçük köyümüz için bir felaketti.",
+   "Kıyı savunmalarını güçlendirmek, doğal bir tehlikenin insani bir felakete dönüşmesini önleyebilir."
+  ],
+  "col": [
+   "çevresel felaket",
+   "insani felaket",
+   "bir felaketi önlemek"
+  ],
+  "tip": "Problem'den çok daha ağır, büyük zarar veren olayları anlatır; küçük sorunlar için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "wreath",
+  "senses": [
+   "çelenk"
+  ],
+  "ex": [
+   "Kapıya yapraklardan bir çelenk astı.",
+   "Anıtlara çelenk koymak, toplulukların ortak acıyı dile getirmesine ve geçmişi onurlandırmasına olanak tanır."
+  ],
+  "col": [
+   "çelenk koymak",
+   "çiçek çelengi",
+   "defne çelengi"
+  ],
+  "tip": "Baştaki w sessizdir, ses /r/ ile başlar. Çoğulu wreaths, 'çelenk örmek' anlamındaki fiili wreathe'dir.",
+  "note": ""
+ },
+ {
+  "id": "legible",
+  "senses": [
+   "okunaklı"
+  ],
+  "ex": [
+   "Bu kalemle yazın çok daha okunaklı oluyor.",
+   "Kamu bilgileri, yaşlı sakinlerin temel hizmetlere bağımsız olarak erişebilmesi için okunaklı bir biçimde sunulmalıdır."
+  ],
+  "col": [
+   "okunaklı el yazısı",
+   "açıkça okunaklı",
+   "zar zor okunaklı"
+  ],
+  "tip": "legible harflerin ve yazının seçilebilir olmasını vurgular; readable ise içeriğin anlaşılır ve okunmaya değer olmasını da anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "gracious",
+  "senses": [
+   "nazik; kibar",
+   "zarif; rahat"
+  ],
+  "ex": [
+   "Cömert ev sahibimiz herkes için ekstra battaniye getirdi.",
+   "Eleştirenlerine karşı nazik davranmayı sürdüren kamuoyu figürleri, toplumda daha saygılı tartışmaları teşvik edebilir."
+  ],
+  "col": [
+   "nazik bir ev sahibi",
+   "yenilgide zarif davranmak",
+   "lüks ve rahat yaşam"
+  ],
+  "tip": "gracious insanların tutum ve davranışını (nazik, kibar) anlatır; graceful ise hareketlerin zarafetini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "seaman",
+  "senses": [
+   "denizci"
+  ],
+  "ex": [
+   "Deneyimli denizci gemi kalkmadan önce halatları kontrol etti.",
+   "Uluslararası deniz ticaret hattında bir mürettebata katılmadan önce her denizci pratik güvenlik eğitimi almalıdır."
+  ],
+  "col": [
+   "deneyimli denizci",
+   "ticaret gemisi denizcisi",
+   "yetkin denizci"
+  ],
+  "tip": "Çoğulu seamen'dir. Cinsiyet ayrımı içermeyen karşılığı olarak seafarer kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "arduous",
+  "senses": [
+   "zahmetli; yorucu"
+  ],
+  "ex": [
+   "Zorlu tırmanış bizi bitkin ama derinden tatmin olmuş bıraktı.",
+   "Zarar görmüş ekosistemleri onarmak, bilim insanları ve yerel topluluklar arasında sürekli yatırım ve iş birliği gerektiren zahmetli bir süreçtir."
+  ],
+  "col": [
+   "zahmetli bir iş",
+   "yorucu bir yolculuk",
+   "zahmetli bir süreç"
+  ],
+  "tip": "Uzun süreli ve yoğun çaba gerektiren işler için kullanılır; task, journey, process gibi isimlerle sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "expressly",
+  "senses": [
+   "açıkça; kesin olarak",
+   "özellikle; özel olarak"
+  ],
+  "ex": [
+   "Asansörden uzak bir oda istediğimi açıkça belirttim.",
+   "Yalnızca çevre koruma için ayrılan kamu fonları, endüstriyel kirliliği artıran projelere aktarılmamalıdır."
+  ],
+  "col": [
+   "açıkça yasaklamak",
+   "açıkça belirtmek",
+   "özellikle ... için"
+  ],
+  "tip": "expressively (ifadeli biçimde, duygusal anlatımla) ile karıştırılmamalı; anlamları farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "supposition",
+  "senses": [
+   "varsayım; tahmin"
+  ],
+  "ex": [
+   "Kayıp anahtarlarla ilgili tahminin yanlış çıktı.",
+   "Eğitim politikaları, çocukların nasıl öğrendiğine dair varsayımlar yerine güvenilir kanıtlara dayanmalıdır."
+  ],
+  "col": [
+   "şu varsayımla",
+   "salt bir varsayım",
+   "tahmine dayalı"
+  ],
+  "tip": "Kanıtlanmamış bir fikir anlamına gelir; doğrulanmış bir gerçek değildir. Bir varsayımı da, genel tahmini de ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "thermal",
+  "senses": [
+   "ısıl; ısıya ilişkin",
+   "sıcak tutan; yalıtımlı",
+   "sıcak hava akımı"
+  ],
+  "ex": [
+   "Termal kameramız evde ısının nereden kaçtığını gösteriyor.",
+   "Eski binalarda ısı yalıtımını iyileştirmek enerji tüketimini azaltabilir ve kış aylarında evleri daha konforlu hâle getirebilir."
+  ],
+  "col": [
+   "ısı enerjisi",
+   "ısı yalıtımı",
+   "termal görüntüleme",
+   "termal iç çamaşırı"
+  ],
+  "tip": "thermal hem ısıyla ilgili hem de sıcak tutan (termal iç çamaşır) anlamına gelir; bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "differentiate",
+  "senses": [
+   "ayırt etmek; fark görmek",
+   "ayırmak; farklılaştırmak"
+  ],
+  "ex": [
+   "Bu iki kuşu ötüşlerinden ayırt edebilir misin?",
+   "Okullar öğrencilere çevrimiçi medyadaki güvenilir kanıtla desteksiz iddiaları ayırt etmeyi öğretmelidir."
+  ],
+  "col": [
+   "arasını ayırt etmek",
+   "A'yı B'den ayırmak",
+   "ürünleri farklılaştırmak"
+  ],
+  "tip": "Genellikle differentiate between A and B kalıbıyla kullanılır; between edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "sluggish",
+  "senses": [
+   "halsiz; ağır",
+   "durgun; yavaş"
+  ],
+  "ex": [
+   "Bu kadar büyük bir öğle yemeğinden sonra kendimi halsiz hissettim.",
+   "Yavaş ekonomik büyüme yatırımı caydırabilir ve yeni mezun üniversite öğrencileri için istihdam fırsatlarını sınırlayabilir."
+  ],
+  "col": [
+   "halsiz hissetmek",
+   "durgun büyüme",
+   "ağır tepki"
+  ],
+  "tip": "Hem insanın enerjisiz olduğunu hem de ekonomi ya da sistemlerin yavaş işlediğini anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "embroider",
+  "senses": [
+   "nakış işlemek; süslemek",
+   "süsleyerek anlatmak"
+  ],
+  "ex": [
+   "Teyzem yastığın kenarına küçük çiçekler nakşetti.",
+   "Yerel zanaatkârlar giysilere geleneksel desenler işliyor; böylece kültürel bilgiyi korurken ziyaretçilerin beğenisini kazanan ürünler üretiyor."
+  ],
+  "col": [
+   "bir desen işlemek",
+   "kumaşa çiçek işlemek",
+   "ipekle nakış işlemek",
+   "bir hikâyeyi süslemek"
+  ],
+  "tip": "embroider kumaşa iplikle desen işlemeyi anlatır; ilmek ile örgü yapmak anlamına gelen knit ile karıştırılmamalı.",
+  "note": ""
+ }
+]

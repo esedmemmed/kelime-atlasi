@@ -1,0 +1,267 @@
+[
+ {
+  "id": "courteous",
+  "senses": [
+   "nazik; kibar"
+  ],
+  "ex": [
+   "Nazik sürücü, biletimi bulana kadar bekledi.",
+   "Sağlık personeli ile hastalar arasındaki nazik iletişim güveni artırabilir ve randevuları daha az stresli hale getirebilir."
+  ],
+  "col": [
+   "nazik hizmet",
+   "kibar tavır",
+   "müşterilere karşı nazik"
+  ],
+  "tip": "polite'a göre daha resmi bir kelimedir. Birine karşı nazik olmak için 'to' kullanılır: courteous to customers.",
+  "note": ""
+ },
+ {
+  "id": "reproach",
+  "senses": [
+   "azarlamak; suçlamak",
+   "azar; kınama"
+  ],
+  "ex": [
+   "Kapıyı açık bıraktığı için kardeşini azarladı.",
+   "Öğretmenler, öğrenme sürecinde yapılan hatalar için öğrencileri azarlamak yerine yapıcı rehberlik sunmalıdır."
+  ],
+  "col": [
+   "birini bir şey için azarlamak",
+   "eleştiriye yer vermeyen",
+   "suçlayıcı bir bakış"
+  ],
+  "tip": "'reproach sb for doing sth' kalıbında 'for'dan sonra eylem -ing biçiminde gelir: reproach him for leaving.",
+  "note": ""
+ },
+ {
+  "id": "regime",
+  "senses": [
+   "rejim; yönetim",
+   "düzen; program"
+  ],
+  "ex": [
+   "Yeni rejim, halk kütüphanesini yeniden açmayı vaat etti.",
+   "Otoriter bir rejim, kamusal tartışmayı kısıtlayabilir ve vatandaşların hükümet kararlarını etkilemesini zorlaştırabilir."
+  ],
+  "col": [
+   "otoriter rejim",
+   "vergi rejimi",
+   "egzersiz programı"
+  ],
+  "tip": "Siyasi bağlamda çoğunlukla olumsuz çağrışım taşır. Vergi rejimi ya da antrenman programı anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "duet",
+  "senses": [
+   "düet; ikili"
+  ],
+  "ex": [
+   "Kızkardeşler konserde çok güzel bir düet söyledi.",
+   "İkili düet çalışmak, müzik öğrencilerini dikkatle dinlemeye ve zamanlamalarını başka bir müzisyenle uyumlu hale getirmeye teşvik eder."
+  ],
+  "col": [
+   "düet söylemek",
+   "piyano düeti",
+   "düet icra etmek"
+  ],
+  "tip": "İki kişinin birlikte söylediği ya da çaldığı parça veya performansı anlatır; iki kişilik grubun kendisini değil.",
+  "note": ""
+ },
+ {
+  "id": "extraction",
+  "senses": [
+   "çıkarma; çekme; kazma"
+  ],
+  "ex": [
+   "Dişçi, bir dişin çekilmesinin neden gerekli olduğunu açıkladı.",
+   "Mineral çıkarımı, sıkı çevre önlemleri uygulanmazsa yerel ekosistemlere zarar verebilir."
+  ],
+  "col": [
+   "mineral çıkarma",
+   "diş çekimi",
+   "petrol çıkarma",
+   "veri çıkarma"
+  ],
+  "tip": "extract bir fiildir; extraction ise bu eylemin işlemi ya da sonucudur. Metnin özeti anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "mishandle",
+  "senses": [
+   "kötü yönetmek; yanlış ele almak",
+   "özensiz taşımak; kötü kullanmak"
+  ],
+  "ex": [
+   "Otel rezervasyonumuzu yanlış yönetti ve odamızı başkasına verdi.",
+   "Yetkililer kamusal şikayetleri yanlış ele aldığında vatandaşlar yerel kurumlara olan güvenini kaybedebilir ve iş birliğine daha az istekli olabilir."
+  ],
+  "col": [
+   "şikayeti kötü yönetmek",
+   "krizi yanlış ele almak",
+   "bagajı özensiz taşımak"
+  ],
+  "tip": "Olumsuz anlam taşır. Hem durumlar hem de nesneler için kullanılabilir: mishandle a crisis, mishandle luggage.",
+  "note": ""
+ },
+ {
+  "id": "waken",
+  "senses": [
+   "uyanmak; uyandırmak"
+  ],
+  "ex": [
+   "Ötüşen kuşlar, güneş doğmadan beni uyandırdı.",
+   "Havaalanlarının yakınında yaşayan sakinler, uçak gürültüsü nedeniyle defalarca uyandırılabilir; bu da genel sağlıklarını etkileyebilir."
+  ],
+  "col": [
+   "birini uykudan uyandırmak",
+   "şafakta uyanmak",
+   "kuş sesiyle uyanmak"
+  ],
+  "tip": "wake kelimesine göre daha az kullanılır ve daha yazılı bir tondadır. Geçmiş zaman ve geçmiş ortaç biçimi wakened olur.",
+  "note": ""
+ },
+ {
+  "id": "reel",
+  "senses": [
+   "makara; bobin",
+   "sendelemek; şaşkına dönmek"
+  ],
+  "ex": [
+   "Gevşek olta ipini makaraya sardı.",
+   "Yerel işletmeler, bölgenin en büyük fabrikasının aniden kapanmasının şokunu hâlâ atlatamıyor."
+  ],
+  "col": [
+   "film makarası",
+   "olta makarası",
+   "şoktan sarsılmak",
+   "bir listeyi sıralamak"
+  ],
+  "tip": "reel from: bir şokun etkisiyle sarsılmak. reel off: bir şeyi akıcı biçimde, ardı ardına söylemek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "manor",
+  "senses": [
+   "malikane; konak",
+   "derebeyi arazisi"
+  ],
+  "ex": [
+   "Elma ağaçlarıyla çevrili eski bir malikaneyi ziyaret ettik.",
+   "Tarihi bir konağın restore edilmesi ziyaretçileri çekebilir ve kırsal topluluklarda iş imkânları yaratabilir."
+  ],
+  "col": [
+   "malikane konağı",
+   "malikane sahibi",
+   "ortaçağ malikanesi"
+  ],
+  "tip": "Geniş araziye sahip kırsal konak anlamı taşır. manor house ise bu malikanenin ana binasını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "conceivable",
+  "senses": [
+   "düşünülebilir; olası"
+  ],
+  "ex": [
+   "Kayıp anahtarları akla gelebilecek her yerde aradık.",
+   "Yenilenebilir enerjideki gelişmelerin küresel fosil yakıt bağımlılığını önemli ölçüde azaltması mümkün görünüyor."
+  ],
+  "col": [
+   "akla gelebilecek her yol",
+   "akla gelebilecek her seçenek",
+   "mümkün olabilir ki"
+  ],
+  "tip": "Bir şeyin hayal edilebilir ya da mümkün olduğunu gösterir, 'çok olası' anlamına gelmez. 'It is conceivable that' kalıbı bunu gösterir.",
+  "note": ""
+ },
+ {
+  "id": "defendant",
+  "senses": [
+   "sanık; davalı"
+  ],
+  "ex": [
+   "Sanık, mahkemede avukatının yanında sessizce oturdu.",
+   "Her sanığın, geliri ya da sosyal geçmişi ne olursa olsun hukuki danışmanlığa erişimi olmalıdır."
+  ],
+  "col": [
+   "ceza davasında sanık",
+   "sanığın avukatı",
+   "sanıkların hakları"
+  ],
+  "tip": "Türkçede 'sanık' ceza davasında, 'davalı' hukuk davasında kullanılır. Defendant ikisini de karşılar; suçlu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "irrigate",
+  "senses": [
+   "sulamak"
+  ],
+  "ex": [
+   "Çiftçiler bu tarlaları nehirden gelen suyla sulamaktadır.",
+   "Kurak bölgelerde arıtılmış atık suyla ürün sulamak, tatlı su kaynakları üzerindeki baskıyı azaltabilir."
+  ],
+  "col": [
+   "ürünleri sulamak",
+   "tarım arazisini sulamak",
+   "sulama sistemi"
+  ],
+  "tip": "Nesne genellikle tarla veya üründür. Su 'with' ile eklenir: irrigate fields with water. Yani su nesne değil, araçtır.",
+  "note": ""
+ },
+ {
+  "id": "residue",
+  "senses": [
+   "kalıntı; artık"
+  ],
+  "ex": [
+   "Etiket kavanozun üzerinde yapışkan bir kalıntı bıraktı.",
+   "Endüstriyel süreçler toprakta zehirli kalıntılar bırakarak yakındaki ekosistemler ve topluluklar için uzun vadeli riskler yaratabilir."
+  ],
+  "col": [
+   "yapışkan kalıntı",
+   "kimyasal kalıntı",
+   "pestisit kalıntıları",
+   "kalıntı bırakmak"
+  ],
+  "tip": "Bir işlem ya da uzaklaştırma sonrasında geriye kalan maddedir. Farklı türler söz konusu olduğunda çoğul kullanılabilir: pesticide residues.",
+  "note": ""
+ },
+ {
+  "id": "analogy",
+  "senses": [
+   "benzetme; analoji"
+  ],
+  "ex": [
+   "Benzetmesinde, kalabalık mutfağımızı bir tren istasyonuna benzetti.",
+   "Öğretmenler, bilinmeyen bilimsel kavramları açıklamak için sıklıkla elektrik devreleri ile akan su arasında bir benzetme kurar."
+  ],
+  "col": [
+   "benzetme yapmak",
+   "arasında benzetme",
+   "yararlı bir benzetme"
+  ],
+  "tip": "draw an analogy between A and B kalıbı yaygındır. Açıklama amacıyla yapılan karşılaştırmadır, sıradan bir benzerlik değildir.",
+  "note": ""
+ },
+ {
+  "id": "flicker",
+  "senses": [
+   "titreşmek; sönüp yanmak",
+   "titrek ışık; parıltı",
+   "bir an; hafif iz"
+  ],
+  "ex": [
+   "Kapıyı açtığında mum titreşti.",
+   "Sokak lambaları titrediğinde ya da söndüğünde yayalar kentsel kamusal alanlarda kendilerini daha az güvende hissedebilir."
+  ],
+  "col": [
+   "titrek ışık",
+   "bir umut kırıntısı",
+   "bir an tanıma belirtisi"
+  ],
+  "tip": "'a flicker of' + soyut isim kalıbı, kısa süren hafif bir duygu ya da belirtiyi anlatır: a flicker of hope.",
+  "note": ""
+ }
+]

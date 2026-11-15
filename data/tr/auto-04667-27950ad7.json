@@ -1,0 +1,273 @@
+[
+ {
+  "id": "thickness",
+  "senses": [
+   "kalınlık",
+   "kıvam; yoğunluk"
+  ],
+  "ex": [
+   "Satın almadan önce tahtanın kalınlığını kontrol edin.",
+   "Yalıtımın kalınlığı, binanın kış aylarında ısınmak için ne kadar enerji harcayacağını etkiler."
+  ],
+  "col": [
+   "duvar kalınlığı",
+   "...kalınlığında",
+   "tek tip kalınlık"
+  ],
+  "tip": "Ölçüyü belirtmek için 'a thickness of + ölçü' kalıbı kullanılır (a thickness of 2 cm). Sıfat 'thick' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "data",
+  "senses": [
+   "veri; bilgi"
+  ],
+  "ex": [
+   "Akıllı saatim ne kadar yürüdüğüme dair veri topluyor.",
+   "Güvenilir veriler, politika yapıcıların çevre düzenlemelerinin kentsel kirliliği azaltıp azaltmadığını değerlendirmesine olanak tanır."
+  ],
+  "col": [
+   "veri toplamak",
+   "veriyi analiz etmek",
+   "kişisel veriler",
+   "veri koruma"
+  ],
+  "tip": "Günlük İngilizcede genellikle tekil fiille ('the data is') kullanılır; akademik yazımda çoğul fiil ('the data are') da görülür. Metinde tutarlı olun.",
+  "note": ""
+ },
+ {
+  "id": "essentially",
+  "senses": [
+   "esas olarak; özünde"
+  ],
+  "ex": [
+   "Bu iki telefon renk dışında özünde aynı.",
+   "Öğretim yöntemleri değişmiş olsa da eğitimin amacı nesiller boyunca özünde aynı kalmıştır."
+  ],
+  "col": [
+   "özünde aynı",
+   "özünde farklı",
+   "temelde bir ... meselesi"
+  ],
+  "tip": "Bir zarftır; 'essential' sıfatıyla karıştırmayın. Sıfat ya da başka bir zarfı değiştirir: essentially the same.",
+  "note": ""
+ },
+ {
+  "id": "inspect",
+  "senses": [
+   "dikkatle incelemek",
+   "denetlemek; teftiş etmek"
+  ],
+  "ex": [
+   "Bisikleti kullanmadan önce frenlerini kontrol edin.",
+   "Yerel yönetimler, kiracıların güvenli ve sağlıklı yaşam koşullarına sahip olmasını sağlamak için kiralık konutları düzenli olarak denetlemelidir."
+  ],
+  "col": [
+   "hasar için incelemek",
+   "tesisi denetlemek",
+   "dikkatle incelemek"
+  ],
+  "tip": "Geçişli fiildir; nesne edat almadan gelir: inspect the brakes. 'For' ise yalnızca amaç belirtir: inspect for damage.",
+  "note": ""
+ },
+ {
+  "id": "beverage",
+  "senses": [
+   "içecek"
+  ],
+  "ex": [
+   "Sandviçinizle birlikte sıcak bir içecek ister misiniz?",
+   "Şekerli içeceklerin tüketimini azaltmak, genç insanlar arasındaki obezite oranlarını düşürmeye yardımcı olabilir."
+  ],
+  "col": [
+   "sıcak içecek",
+   "alkollü içecek",
+   "şekerli içecek",
+   "yiyecek ve içecekler"
+  ],
+  "tip": "Resmi ya da akademik bağlamda kullanılır; günlük konuşmada 'drink' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "verbal",
+  "senses": [
+   "sözlü",
+   "sözel; dille ilgili"
+  ],
+  "ex": [
+   "Bahçeyi paylaşmak için sözlü bir anlaşma yaptık.",
+   "İşverenler, çalışma saatleri ve sorumluluklar konusunda yanlış anlamaları önlemek için sözlü anlaşmaları yazılı olarak teyit etmelidir."
+  ],
+  "col": [
+   "sözlü anlaşma",
+   "sözlü iletişim",
+   "sözel beceriler",
+   "sözlü uyarı"
+  ],
+  "tip": "'Verbal' yalnızca 'yazılı değil' anlamına gelmez; 'sözcüklerle ifade edilen' anlamını da taşır (verbal skills = dil becerileri).",
+  "note": ""
+ },
+ {
+  "id": "finance",
+  "senses": [
+   "finans; mali yönetim",
+   "kaynak; sermaye",
+   "finanse etmek; fon sağlamak"
+  ],
+  "ex": [
+   "Banka, yeni fırınımızı finanse etmeyi kabul etti.",
+   "Uygun fiyatlı finansmana erişim, küçük işletmelerin ekipman yatırımı yapmasına ve daha fazla yerel iş yaratmasına olanak tanır."
+  ],
+  "col": [
+   "kamu maliyesi",
+   "finansman sağlamak",
+   "bir projeyi finanse etmek",
+   "kişisel mali durum"
+  ],
+  "tip": "Genel anlamda para yönetimi ve fon için kullanılır; kişisel mali durumdan söz ederken çoğul 'finances' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "emotion",
+  "senses": [
+   "duygu; his"
+  ],
+  "ex": [
+   "Kardeşini gördüğünde sesi duygudan titriyordu.",
+   "Çocuklara duyguları tanımayı ve yönetmeyi öğretmek, ilişkilerini geliştirebilir ve uzun vadeli ruh sağlığını destekleyebilir."
+  ],
+  "col": [
+   "duygu ifade etmek",
+   "güçlü duygular",
+   "karışık duygular",
+   "duygularını kontrol etmek"
+  ],
+  "tip": "Genel olarak sayılamaz; farklı duygu türlerinden söz edilirken çoğul 'emotions' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "evolution",
+  "senses": [
+   "evrim",
+   "gelişim; değişim"
+  ],
+  "ex": [
+   "Müze, evrimi açıklamak için kuş iskeletlerini kullanıyor.",
+   "Dijital teknolojinin gelişimi, insanların iletişim kurma, öğrenme ve kamu hizmetlerine erişme biçimini dönüştürdü."
+  ],
+  "col": [
+   "evrim kuramı",
+   "insan evrimi",
+   "biyolojik evrim",
+   "teknolojinin gelişimi"
+  ],
+  "tip": "Biyolojide 'the theory of evolution' kalıbı yaygındır. 'The evolution of + konu' ise zamanla gelişimi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "supervise",
+  "senses": [
+   "denetlemek; yönetmek; gözetmek"
+  ],
+  "ex": [
+   "Havuzun yanındaki çocukları bir yetişkin gözetmelidir.",
+   "Deneyimli hemşireler, hastaların güvenli ve etkili bakım almasını sağlamak için yeni personeli denetlemelidir."
+  ],
+  "col": [
+   "personeli denetlemek",
+   "çocukları gözetmek",
+   "bir projeyi yönetmek"
+  ],
+  "tip": "Geçişli fiildir; nesne edat almadan gelir: supervise staff. 'Supervise over' gibi kullanımlardan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "grin",
+  "senses": [
+   "sırıtmak; gülümsemek",
+   "geniş gülümseme"
+  ],
+  "ex": [
+   "Köpeği topu geri getirdiğinde yüzü sırıttı.",
+   "Bir öğretmenin samimi gülümsemesi, sınıf tartışmalarına katılmaktan çekinen öğrencilerin kendilerini daha rahat hissetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "geniş bir sırıtışla gülmek",
+   "yaramaz bir sırıtma",
+   "birine sırıtmak"
+  ],
+  "tip": "'Smile'dan farklı olarak dişleri göstererek gülümsemeyi anlatır. Geçmiş zaman: grinned.",
+  "note": ""
+ },
+ {
+  "id": "insert",
+  "senses": [
+   "sokmak; yerleştirmek",
+   "eklemek; araya koymak",
+   "ek parça; eklenti"
+  ],
+  "ex": [
+   "Anahtarı yavaşça sokun, sonra sola çevirin.",
+   "Öğrenciler, karmaşık toplumsal sorunlarla ilgili argümanlarını desteklemek için denemelerine ilgili örnekler eklemelidir."
+  ],
+  "col": [
+   "...içine sokmak",
+   "kart takmak",
+   "görsel eklemek"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir (in-SERT), isimde birinci hecededir (IN-sert). Telaffuza dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "marketing",
+  "senses": [
+   "pazarlama"
+  ],
+  "ex": [
+   "Ablam küçük bir yerel fırının pazarlamasıyla ilgileniyor.",
+   "Etkili pazarlama, küçük işletmelerin reklama büyük meblağlar harcamadan yeni müşterilere ulaşmasına yardımcı olur."
+  ],
+  "col": [
+   "pazarlama stratejisi",
+   "dijital pazarlama",
+   "pazarlama kampanyası",
+   "pazar araştırması"
+  ],
+  "tip": "Genellikle sayılamaz; kapsamı 'advertising' (reklam) kelimesinden daha geniştir. Reklam, pazarlamanın yalnızca tanıtım kısmıdır.",
+  "note": ""
+ },
+ {
+  "id": "resume",
+  "senses": [
+   "yeniden başlamak; devam etmek"
+  ],
+  "ex": [
+   "Yağmur durunca yürüyüşümüze devam edeceğiz.",
+   "Hasarlı binalar onarılıp temel güvenlik kontrolleri tamamlandıktan sonra okullar normal eğitime yeniden başlayabilir."
+  ],
+  "col": [
+   "işe yeniden başlamak",
+   "görüşmelere devam etmek",
+   "normal hizmete dönmek"
+  ],
+  "tip": "Fiilden sonra isim ya da -ing alır: resume work / resume working. 'Résumé' (özgeçmiş) farklı bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "aluminum",
+  "senses": [
+   "alüminyum"
+  ],
+  "ex": [
+   "Bu alüminyum merdiven, tek başına taşınabilecek kadar hafif.",
+   "Alüminyumun geri dönüşümü, cevherden yeni metal üretmeye göre çok daha az enerji gerektirir ve üretimin çevresel etkisini azaltır."
+  ],
+  "col": [
+   "alüminyum folyo",
+   "alüminyum kutular",
+   "alüminyum alaşımı"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz İngilizcesinde 'aluminium' yazılır. Yazımda tutarlı olun.",
+  "note": ""
+ }
+]

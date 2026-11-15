@@ -1,0 +1,275 @@
+[
+ {
+  "id": "citizenship",
+  "senses": [
+   "vatandaşlık",
+   "yurttaşlık; vatandaşlık bilinci"
+  ],
+  "ex": [
+   "Yıllarca burada yaşadıktan sonra vatandaşlık için başvurdu.",
+   "Yurttaşlık eğitimi, genç insanların haklarını ve sorumluluklarını anlamalarına yardımcı olurken demokratik süreçlere aktif katılımlarını da teşvik edebilir."
+  ],
+  "col": [
+   "vatandaşlık için başvurmak",
+   "çifte vatandaşlık",
+   "vatandaşlık vermek",
+   "yurttaşlık eğitimi"
+  ],
+  "tip": "Genellikle sayılamaz bir isimdir. Oturma izni anlamındaki residency ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "anchor",
+  "senses": [
+   "çapa",
+   "demirlemek; sabitlemek",
+   "destek; dayanak"
+  ],
+  "ex": [
+   "Sessiz bir adanın yanına çapa attık.",
+   "Güçlü toplumsal ağlar, yabancı şehirlere uyum sağlamaya çalışan aileler için bir dayanak olabilir."
+  ],
+  "col": [
+   "çapa atmak",
+   "çapayı kaldırmak",
+   "bir tekneyi demirlemek",
+   "duygusal bir destek"
+  ],
+  "tip": "drop anchor çapa atmak, weigh anchor ise çapayı kaldırmak anlamına gelir; weigh 'tartmak' demek değildir.",
+  "note": ""
+ },
+ {
+  "id": "antibiotics",
+  "senses": [
+   "antibiyotik"
+  ],
+  "ex": [
+   "Doktor kulak enfeksiyonum için antibiyotik yazdı.",
+   "Antibiyotikleri gereksiz yere kullanmak, bakteriyel enfeksiyonların tedavisini zorlaştırabilir; bu da ciddi bir halk sağlığı sorunudur."
+  ],
+  "col": [
+   "antibiyotik yazmak",
+   "antibiyotik kürü",
+   "antibiyotik direnci"
+  ],
+  "tip": "Antibiyotikler yalnızca bakteriyel enfeksiyonlarda etkilidir; grip gibi viral hastalıklarda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "erupt",
+  "senses": [
+   "püskürmek",
+   "patlak vermek; birden başlamak"
+  ],
+  "ex": [
+   "Bir doğa belgeselinde yanardağın püskürdüğünü izledik.",
+   "Yanardağlar püskürdüğünde, yayılan kül bulutları hava yolculuğunu aksatabilir ve kraterden çok uzaktaki toplulukları da etkileyebilir."
+  ],
+  "col": [
+   "yanardağ püskürür",
+   "alkış tufanına dönüşmek",
+   "öfkeyle patlamak"
+  ],
+  "tip": "Genellikle nesne almadan kullanılır. erupt into ile birlikte birden başlayan bir durum ya da tepki anlatılır.",
+  "note": ""
+ },
+ {
+  "id": "greed",
+  "senses": [
+   "açgözlülük; tamahkârlık"
+  ],
+  "ex": [
+   "Onun açgözlülüğü yüzünden diğerlerinin hiç pastası kalmadı.",
+   "Şirketlerin kurumsal açgözlülüğü, kısa vadeli kârı yerel toplulukların refahının önüne koyduklarında çevre korumasını zayıflatabilir."
+  ],
+  "col": [
+   "kurumsal açgözlülük",
+   "güç tutkusu",
+   "açgözlülüğün etkisiyle"
+  ],
+  "tip": "Sayılamayan bir isimdir. greed for ile neyin peşinde olunduğu belirtilir, örneğin greed for power.",
+  "note": ""
+ },
+ {
+  "id": "renew",
+  "senses": [
+   "yenilemek; uzatmak",
+   "yeniden başlatmak; tazelemek"
+  ],
+  "ex": [
+   "Yarın kütüphane kitaplarımı uzatmam gerekiyor.",
+   "Kentsel nüfus artmaya devam ederken hükümetler toplu taşımaya olan bağlılıklarını yenilemelidir."
+  ],
+  "col": [
+   "aboneliği yenilemek",
+   "pasaportu yenilemek",
+   "taahhüdü yenilemek",
+   "kütüphane kitabını uzatmak"
+  ],
+  "tip": "Geçerlilik süresini uzatmak ya da yeniden başlatmak anlamındadır. Bilgileri güncellemek için update kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "yield",
+  "senses": [
+   "sonuç vermek; sağlamak",
+   "ürün; verim",
+   "boyun eğmek; yol vermek"
+  ],
+  "ex": [
+   "Elma ağacımız üç sepet meyve verdi.",
+   "Tarımsal araştırmalara yapılan yatırım, tarım arazisini genişletmeden gıda güvenliği için önemli faydalar sağlayabilir."
+  ],
+  "col": [
+   "sonuç vermek",
+   "ürün verimi",
+   "baskıya boyun eğmek",
+   "yayalara yol vermek"
+  ],
+  "tip": "yield results sonuç vermek, yield to ise birine boyun eğmek ya da yol vermek anlamına gelir; iki kalıbı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "commission",
+  "senses": [
+   "komisyon; kurul",
+   "komisyon; prim",
+   "ısmarlamak; sipariş vermek"
+  ],
+  "ex": [
+   "Galeri, limanımızı resmetmesi için yerel bir sanatçıya sipariş verdi.",
+   "Hükümet kiralık konutlar için yeni güvenlik düzenlemeleri getirmeden önce, bağımsız bir komisyon konut koşullarını incelemelidir."
+  ],
+  "col": [
+   "bağımsız bir komisyon",
+   "komisyon kazanmak",
+   "rapor ısmarlamak",
+   "tablo ısmarlamak"
+  ],
+  "tip": "Kurul anlamında sayılabilir, satış karşılığı ödeme anlamında genellikle sayılamaz bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "refusal",
+  "senses": [
+   "ret; reddetme"
+  ],
+  "ex": [
+   "Kibar bir ret cevabı ev sahibini üzmedi.",
+   "Hükümetin kamu kaygılarını ele almayı reddetmesi, güveni zayıflatabilir ve demokratik süreçlere katılımı azaltabilir."
+  ],
+  "col": [
+   "işbirliğini reddetme",
+   "kesin bir ret",
+   "ret ile karşılaşmak"
+  ],
+  "tip": "Bir şeyi yapmayı reddetmek için refusal to do kalıbı kullanılır (refusal to cooperate); refusal of doing kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "daring",
+  "senses": [
+   "cesur; gözü pek",
+   "cesaret; atılganlık"
+  ],
+  "ex": [
+   "Parlak turuncu pelerinli cesur kıyafeti dikkat çekiciydi.",
+   "Mimar, uygun fiyatlı konutları geniş çatı bahçeleriyle birleştiren cesur bir tasarım önerdi."
+  ],
+  "col": [
+   "cesur bir kurtarma",
+   "cesur bir tasarım",
+   "cesaret ve atılganlık"
+  ],
+  "tip": "Sıfat olarak riske girmeye istekli olmayı, isim olarak ise cesareti anlatır. İsim olarak genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "framework",
+  "senses": [
+   "çerçeve; sistem",
+   "iskelet; karkas"
+  ],
+  "ex": [
+   "Koçumuz her antrenman planlamamız için bir çerçeve verdi.",
+   "Hükümetlerin, çevrimiçi hizmetlerin topladığı kişisel bilgileri korumak için açık bir yasal çerçeveye ihtiyacı var."
+  ],
+  "col": [
+   "yasal çerçeve",
+   "kuramsal çerçeve",
+   "bir çerçeve sunmak",
+   "...çerçevesinde"
+  ],
+  "tip": "a framework for sth kalıbı, bir şeyin temel yapısını ya da çerçevesini anlatmak için sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "brag",
+  "senses": [
+   "övünmek; böbürlenmek"
+  ],
+  "ex": [
+   "Ne kadar hızlı yüzebildiğini sürekli övünerek anlatır.",
+   "Sosyal medya, kullanıcıları günlük zorlukları dürüstçe tartışmak yerine kişisel başarılarıyla övünmeye teşvik edebilir."
+  ],
+  "col": [
+   "başarılarıyla övünmek",
+   "arkadaşlarına övünmek",
+   "kazandığını övünerek söylemek"
+  ],
+  "tip": "Genellikle about ya da that ile kullanılır. Geçmiş zaman bragged olur; g harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "optimistic",
+  "senses": [
+   "iyimser; umutlu"
+  ],
+  "ex": [
+   "Yağmura rağmen pikniğimiz için iyimserdik.",
+   "Birçok mezun, iş gücü piyasasındaki rekabet artmasına rağmen kariyer beklentileri konusunda iyimser kalmaya devam ediyor."
+  ],
+  "col": [
+   "...konusunda iyimser olmak",
+   "temkinli biçimde iyimser",
+   "iyimser bir bakış açısı"
+  ],
+  "tip": "be optimistic about kalıbıyla kullanılır. Zıt anlamlısı pessimistic (kötümser) sözcüğüdür.",
+  "note": ""
+ },
+ {
+  "id": "financing",
+  "senses": [
+   "finansman; fon sağlama"
+  ],
+  "ex": [
+   "Fırını açmadan önce finansmana ihtiyacımız var.",
+   "Uygun maliyetli finansmana erişim, küçük işletmelerin daha temiz teknolojiye yatırım yapmasına ve yerel iş imkânları yaratmasına olanak tanır."
+  ],
+  "col": [
+   "finansman sağlamak",
+   "proje finansmanı",
+   "finansman maliyetleri"
+  ],
+  "tip": "Bir proje ya da işe para sağlama anlamındadır. Finans bilimi için genellikle finance kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "heritage",
+  "senses": [
+   "miras; gelenek"
+  ],
+  "ex": [
+   "Bu eski şarkılar ailemizin mirasının bir parçası.",
+   "Kültürel mirası korumak, topluluk kimliğini güçlendirirken yerel işletmeleri destekleyen ziyaretçileri de çekebilir."
+  ],
+  "col": [
+   "kültürel miras",
+   "mirasımızı korumak",
+   "miras alanı",
+   "zengin bir miras"
+  ],
+  "tip": "Kültürel ve tarihsel birikimi anlatır. Kişisel mal varlığının devri için inheritance kullanılır.",
+  "note": ""
+ }
+]

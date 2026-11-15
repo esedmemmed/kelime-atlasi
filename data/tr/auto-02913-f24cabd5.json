@@ -1,0 +1,277 @@
+[
+ {
+  "id": "respond",
+  "senses": [
+   "yanıt vermek; cevaplamak",
+   "tepki vermek"
+  ],
+  "ex": [
+   "Akşam yemeğiyle ilgili sormuştum ama mesajıma kimse cevap vermedi.",
+   "Sağlık sistemlerinin, yüksek bakım standartlarını korurken değişen nüfus ihtiyaçlarına hızla yanıt vermesi gerekir."
+  ],
+  "col": [
+   "bir soruya yanıt vermek",
+   "tedaviye yanıt vermek",
+   "hızla yanıt vermek",
+   "olumlu tepki vermek"
+  ],
+  "tip": "Fiilden sonra yanıtın verildiği şey için 'to' edatı gerekir: respond to a question. 'respond someone' kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "agreement",
+  "senses": [
+   "anlaşma; sözleşme",
+   "uzlaşı; fikir birliği",
+   "uyum"
+  ],
+  "ex": [
+   "Mutfağı paylaşma konusunda bir anlaşmaya vardık.",
+   "Karbon emisyonlarına ilişkin uluslararası anlaşmalar, katılan ülkeler net hedefler belirleyip ilerlemeyi izlediklerinde daha etkili olur."
+  ],
+  "col": [
+   "anlaşmaya varmak",
+   "anlaşma imzalamak",
+   "fikir birliği içinde olmak",
+   "özne-fiil uyumu"
+  ],
+  "tip": "Somut bir anlaşma sayılabilir (an agreement); fikir birliği anlamında genellikle sayılamaz (agreement on something).",
+  "note": ""
+ },
+ {
+  "id": "network",
+  "senses": [
+   "ağ; sistem",
+   "yayın ağı; kanal ağı",
+   "ağ kurmak; ilişki geliştirmek"
+  ],
+  "ex": [
+   "Ev ağımız üç dizüstü bilgisayarı ve bir yazıcıyı birbirine bağlıyor.",
+   "Verimli bir toplu taşıma ağı trafik sıkışıklığını azaltabilir ve işe erişimi iyileştirebilir."
+  ],
+  "col": [
+   "ulaşım ağı",
+   "kablosuz ağ",
+   "destek ağı",
+   "meslektaşlarla ağ kurmak"
+  ],
+  "tip": "Network, birbirine bağlı birçok öğeden oluşan sistemi anlatır; tek bir bağlantıyı değil, bütün yapıyı vurgular.",
+  "note": ""
+ },
+ {
+  "id": "contain",
+  "senses": [
+   "içermek; barındırmak",
+   "denetim altında tutmak"
+  ],
+  "ex": [
+   "Bu küçük kutu dikiş malzemelerimin hepsini içeriyor.",
+   "İşlenmiş gıdalar genellikle yüksek miktarda tuz içerir; bu da ciddi sağlık sorunlarına yol açabilir."
+  ],
+  "col": [
+   "malzeme içermek",
+   "yayılmayı önlemek",
+   "maliyetleri denetim altında tutmak",
+   "heyecanını bastırmak"
+  ],
+  "tip": "Geçişli bir fiildir; nesnesini doğrudan alır. 'contain of' gibi bir edat kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "daylight",
+  "senses": [
+   "gün ışığı; gündüz"
+  ],
+  "ex": [
+   "Hâlâ gün ışığı varken şu çiçekleri dikmeyi bitirelim.",
+   "Sınıfların daha fazla gün ışığı alacak şekilde tasarlanması elektrik kullanımını azaltabilir ve daha rahat bir öğrenme ortamı yaratabilir."
+  ],
+  "col": [
+   "gün ortasında; herkesin önünde",
+   "gündüz saatleri",
+   "doğal gün ışığı"
+  ],
+  "tip": "Genellikle sayılamaz. 'in broad daylight' ifadesi, herkesin görebileceği bir yerde ve zamanda anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "notepaper",
+  "senses": [
+   "mektup kağıdı; not kağıdı"
+  ],
+  "ex": [
+   "Kız masanın çekmecesinden birkaç not kağıdı aldı.",
+   "Ofislerde geri dönüştürülmüş not kağıdı kullanmak, daha sürdürülebilir satın alma uygulamalarını destekleyebilecek basit bir önlemdir."
+  ],
+  "col": [
+   "bir yaprak not kağıdı",
+   "bir blok not kağıdı",
+   "kişisel mektup kağıdı"
+  ],
+  "tip": "Sayılamaz bir isimdir. Tek bir yaprak için 'a sheet of notepaper', bir defter için 'a pad of notepaper' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "backwards",
+  "senses": [
+   "geriye doğru; arkaya",
+   "ters yönde; tersine"
+  ],
+  "ex": [
+   "Bisikletliyi geçirmek için geriye doğru bir adım attı.",
+   "Araştırmacılar, çevresel zararın olası kaynaklarını bulmak için mevcut kirlilik düzeylerinden geriye doğru çalışabilir."
+  ],
+  "col": [
+   "geriye doğru yürümek",
+   "ileri geri",
+   "sondan başa doğru çalışmak"
+  ],
+  "tip": "Zarf olarak backwards kullanılır. İsimden önce sıfat olarak backward yazılır: a backward step.",
+  "note": ""
+ },
+ {
+  "id": "pale",
+  "senses": [
+   "solgun; açık renkli",
+   "silik; zayıf",
+   "gölgede kalmak"
+  ],
+  "ex": [
+   "Solgun görünüyorsun; otur ve biraz su iç.",
+   "Turizmin mali faydaları, uzun vadeli çevresel maliyetleriyle karşılaştırıldığında önemsiz kalabilir."
+  ],
+  "col": [
+   "açık mavi",
+   "solgun görünmek",
+   "karşısında önemsiz kalmak"
+  ],
+  "tip": "Pale yalnızca 'beyaz' değil, 'açık ya da soluk' renk anlamına da gelebilir. Yüz için 'solgun' karşılığı uygundur.",
+  "note": ""
+ },
+ {
+  "id": "tough",
+  "senses": [
+   "zor; güç",
+   "dayanıklı; yılmaz",
+   "sağlam; kırılmaz"
+  ],
+  "ex": [
+   "Zorlu bir tırmanıştı ama manzarası buna değdi.",
+   "Hükümetler, ekonomik büyümeyi doğal kaynakları koruma ihtiyacıyla dengelerken zor tercihlerle karşı karşıya kalır."
+  ],
+  "col": [
+   "zor karar",
+   "zor zamanlar",
+   "sert rekabet",
+   "dayanıklı malzeme"
+  ],
+  "tip": "Gündelik dilde zor anlamına gelir; et için kullanıldığında sert, çiğnenmesi güç anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "duty-free",
+  "senses": [
+   "gümrüksüz; vergisiz",
+   "gümrüksüz olarak"
+  ],
+  "ex": [
+   "Uçağa binmeden önce gümrüksüz bir parfüm aldı.",
+   "Gümrüksüz alışveriş havalimanlarına önemli gelir sağlayabilir, ancak yolcular her zaman en düşük fiyatları bulamayabilir."
+  ],
+  "col": [
+   "gümrüksüz mağaza",
+   "gümrüksüz ürünler",
+   "gümrüksüz muafiyet hakkı"
+  ],
+  "tip": "Duty burada gümrük vergisi anlamındadır. Gümrüksüz ürünler yine de yolcu başına giriş limitlerine tabidir.",
+  "note": ""
+ },
+ {
+  "id": "religion",
+  "senses": [
+   "din; dinî inanç"
+  ],
+  "ex": [
+   "Bugün okulda farklı dinler hakkında bilgi edindik.",
+   "Okullar, farklı inançlara sahip insanlara saygıyı teşvik ederken öğrencilere din hakkında bilgi verebilir."
+  ],
+  "col": [
+   "din özgürlüğü",
+   "örgütlü din",
+   "dinî inançlar"
+  ],
+  "tip": "Din genel anlamda sayılamaz (religion). Belirli bir dinden söz edilirken sayılabilir hâle gelir: a religion.",
+  "note": ""
+ },
+ {
+  "id": "nap",
+  "senses": [
+   "şekerleme; kısa uyku",
+   "kısa uyumak; şekerleme yapmak"
+  ],
+  "ex": [
+   "Pazar günü öğle yemeğinden sonra kısa bir şekerleme yaptım.",
+   "Kısa bir öğleden sonra şekerlemesi dikkati artırabilir, ancak geceki yeterli uykunun yerini tutmamalıdır."
+  ],
+  "col": [
+   "şekerleme yapmak",
+   "öğleden sonra şekerlemesi",
+   "kısa enerji uykusu"
+  ],
+  "tip": "Fiilin çekiminde son ünsüz ikilenir: napped, napping.",
+  "note": ""
+ },
+ {
+  "id": "slightly",
+  "senses": [
+   "biraz; hafifçe"
+  ],
+  "ex": [
+   "Lütfen pencereyi biraz aç; ortam sıcak geliyor.",
+   "Ortalama gelirler hafifçe artmış olsa da birçok hane, artan gıda ve enerji maliyetleriyle hâlâ zorlanıyor."
+  ],
+  "col": [
+   "biraz daha yüksek",
+   "biraz farklı",
+   "biraz daha fazla"
+  ],
+  "tip": "Sıfatların, karşılaştırma derecelerinin ve fiillerin önünde kullanılır: slightly higher, slightly changed.",
+  "note": ""
+ },
+ {
+  "id": "licence",
+  "senses": [
+   "ruhsat; lisans",
+   "izinli sapma; serbestlik"
+  ],
+  "ex": [
+   "Sürücü belgemi cüzdanımda taşıyorum.",
+   "Turistik teknelerin işletilmesi için ruhsat zorunluluğu getirmek, yoğun su yollarında güvenlik standartlarının korunmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sürücü belgesi",
+   "ruhsat başvurusu yapmak",
+   "ruhsatı yenilemek",
+   "sanatsal özgürlük"
+  ],
+  "tip": "İngiliz İngilizcesinde isim licence, fiil license yazılır. Amerikan İngilizcesinde ikisi de license yazılır.",
+  "note": ""
+ },
+ {
+  "id": "eagle",
+  "senses": [
+   "kartal"
+  ],
+  "ex": [
+   "Bir kartal kayalık vadinin üzerinde yavaşça daire çizdi.",
+   "Dağ ormanlarını korumak, kartalın avlanma alanlarını ve yuvalama yerlerini korumaya yardımcı olur."
+  ],
+  "col": [
+   "altın kartal",
+   "kel kartal",
+   "kartal yuvası"
+  ],
+  "tip": "Eagle genellikle büyük avcı kuşlarını anlatır. 'Eagle-eyed' ifadesi keskin gözlü anlamına gelir.",
+  "note": ""
+ }
+]

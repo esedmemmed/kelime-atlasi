@@ -1,0 +1,279 @@
+[
+ {
+  "id": "punch",
+  "senses": [
+   "yumruklamak; vurmak",
+   "yumruk",
+   "delmek"
+  ],
+  "ex": [
+   "Yumruk torbasına vurdu, sonra nefesini topladı.",
+   "Boksörler dengelerini koruyarak ve kendilerini yaralanmaktan sakınarak kontrollü bir yumruk atmayı öğrenir."
+  ],
+  "col": [
+   "torbaya yumruk atmak",
+   "yumruk atmak",
+   "delik açmak",
+   "kağıt delgeci"
+  ],
+  "tip": "punch yumrukla vurmak anlamına gelir; slap ise açık el ile tokat atmak veya şaplak vurmak anlamındadır. Bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "dine",
+  "senses": [
+   "akşam yemeği yemek"
+  ],
+  "ex": [
+   "Dün gece nehir kenarında dışarıda yemek yedik.",
+   "Yerel işletmelere ait restoranlarda yemek yiyen turistler küçük işletmelere destek olabilir ve bölgesel yemek geleneklerini deneyimleyebilir."
+  ],
+  "col": [
+   "dışarıda yemek yemek",
+   "arkadaşlarla yemek yemek",
+   "restoranda yemek yemek"
+  ],
+  "tip": "dine, eat'ten daha resmi bir kelimedir ve genellikle doğrudan yiyecek nesnesi almaz; eat food yerine yalnızca dine kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "knot",
+  "senses": [
+   "düğüm",
+   "düğümlemek; bağlamak",
+   "knot; deniz mili"
+  ],
+  "ex": [
+   "Bu düğüm benim açamayacağım kadar sıkı.",
+   "Açık hava eğitim kurslarında öğrenciler temel tırmanış etkinliklerine başlamadan önce sağlam bir düğüm atmayı öğrenir."
+  ],
+  "col": [
+   "düğüm atmak",
+   "düğümü çözmek",
+   "sıkı düğüm",
+   "saatte yirmi knot hız"
+  ],
+  "tip": "knot'taki k sessizdir. Hız birimi olarak knot, saatte bir deniz mili (yaklaşık 1,852 km) anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "drift",
+  "senses": [
+   "sürüklenmek",
+   "savrulmak; başıboş gitmek",
+   "anlam; ana fikir"
+  ],
+  "ex": [
+   "Bir yaprağın göletin üzerinden süzülüşünü izledik.",
+   "Uygun fiyatlı konut ve istikrarlı iş olmadan genç sakinler kırsal topluluklardan yavaş yavaş uzaklaşabilir."
+  ],
+  "col": [
+   "birbirinden uzaklaşmak",
+   "uykuya dalmak",
+   "uzaklaşmak; kopmak",
+   "konuyu anlamak"
+  ],
+  "tip": "drift, su veya rüzgârla sürüklenmeyi ya da belli bir amaç olmadan hareket etmeyi anlatır. get the drift deyimi günlük konuşmada sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "adapt",
+  "senses": [
+   "uyum sağlamak",
+   "uyarlamak"
+  ],
+  "ex": [
+   "Kedimiz yeni dairedeki hayata çabucak uyum sağladı.",
+   "Okullar, farklı kültürel geçmişlerden gelen öğrencilerin ihtiyaçlarını karşılamak için öğretim yöntemlerini uyarlamak zorundadır."
+  ],
+  "col": [
+   "değişime uyum sağlamak",
+   "öğretim yöntemlerini uyarlamak",
+   "bir romanı televizyona uyarlamak"
+  ],
+  "tip": "adapt to'dan sonra isim ya da -ing biçimi gelir. adopt ile karıştırmayın: adopt 'benimsemek, evlat edinmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "temptation",
+  "senses": [
+   "ayartı; cazibe"
+  ],
+  "ex": [
+   "Bir dilim pasta daha yeme isteğine direndim.",
+   "Öğrenciler kendi fikirlerini geliştirmek yerine çevrim içi materyalleri kopyalama ayartısıyla karşılaşabilir."
+  ],
+  "col": [
+   "ayartıya direnmek",
+   "ayartıya kapılmak",
+   "bir şey yapma isteği"
+  ],
+  "tip": "the temptation to do something kalıbı sıkça kullanılır. Bu isim sayılabilir olduğu için başına gerektiğinde a veya the getirilebilir.",
+  "note": ""
+ },
+ {
+  "id": "cigar",
+  "senses": [
+   "puro"
+  ],
+  "ex": [
+   "Küçük ahşap kutunun içinde yakılmamış bir puro duruyordu.",
+   "Halk sağlığı kampanyaları, puro içmenin de ciddi sağlık riskleri taşıdığını açıklamalıdır."
+  ],
+  "col": [
+   "puro dumanı",
+   "puro kutusu",
+   "puro içmek"
+  ],
+  "tip": "cigar puro, cigarette ise genellikle kağıda sarılmış sigara anlamındadır. İkisini birbirinin yerine kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "goodness",
+  "senses": [
+   "iyilik; erdem",
+   "besin değeri",
+   "aman Tanrım"
+  ],
+  "ex": [
+   "Son sandviçini paylaşırken iyiliği ortaya çıktı.",
+   "Sebzeleri uzun süre kaynatmak yerine buharda pişirmek doğal besin değerlerinin daha fazlasını koruyabilir."
+  ],
+  "col": [
+   "içten bir iyilikle",
+   "doğal besin değeri",
+   "Allah'a şükür",
+   "aman Tanrım"
+  ],
+  "tip": "goodness isim olarak genellikle sayılamaz. my goodness ve thank goodness gibi kalıplar şaşkınlık ya da rahatlama ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "charcoal",
+  "senses": [
+   "odun kömürü",
+   "kömür kalemi"
+  ],
+  "ex": [
+   "Sebzeleri bahçede parlayan kömürlerin üzerinde pişirdik.",
+   "Ağaçlar yeniden büyüyebileceklerinden daha hızlı kesildiğinde, odun kömürüne olan yoğun talep ormansızlaşmaya yol açabilir."
+  ],
+  "col": [
+   "kömürlü ızgara",
+   "kömür çizim",
+   "aktif karbon",
+   "kömür üretimi"
+  ],
+  "tip": "charcoal genellikle sayılamaz. coal ise taş kömürüdür; odun kömürü için charcoal kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fragile",
+  "senses": [
+   "kırılgan; narin",
+   "kırılgan; hassas"
+  ],
+  "ex": [
+   "Paketlemeden önce lütfen bu kırılgan bardakları sarın.",
+   "Turizm, yeterli çevresel önlem alınmadan büyük grupların hassas habitatlara gitmesi durumunda kırılgan ekosistemleri tehdit edebilir."
+  ],
+  "col": [
+   "kırılgan cam",
+   "kırılgan ekosistem",
+   "kırılgan toparlanma"
+  ],
+  "tip": "fragile hem fiziksel olarak kırılabilen nesneler hem de zayıf ekonomi veya hassas duygular için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "rib",
+  "senses": [
+   "kaburga",
+   "kaburga eti",
+   "takılmak; dalga geçmek"
+  ],
+  "ex": [
+   "Doktor modeldeki bir kaburgayı gösterdi.",
+   "Uygun koruyucu ekipman kullanmak, temas sporlarında kaburga yaralanma riskini azaltabilir."
+  ],
+  "col": [
+   "kırık kaburga",
+   "göğüs kafesi",
+   "ızgara kaburga eti",
+   "birini bir konuda takılmak"
+  ],
+  "tip": "Et anlamında ribs genellikle çoğul kullanılır. Fiil olarak rib gayriresmîdir ve arkadaşça bir alay anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "lonesome",
+  "senses": [
+   "yalnız; kimsesiz",
+   "ıssız; tenha"
+  ],
+  "ex": [
+   "Kız kardeşim taşındıktan sonra kendimi yalnız hissettim.",
+   "Yaşlı bireyler, düzenli sosyal temas fırsatları az ise emeklilikten sonra yalnızlık hissedebilir."
+  ],
+  "col": [
+   "yalnız hissetmek",
+   "ıssız bir yol"
+  ],
+  "tip": "lonesome daha çok Amerikan İngilizcesinde kullanılır. Genel kullanımda lonely daha yaygındır; alone ise yalnızca tek başına olmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "coffin",
+  "senses": [
+   "tabut"
+  ],
+  "ex": [
+   "Kapalı ahşap tabutun üzerine beyaz çiçekler bırakılmıştı.",
+   "Tabut yapımında kullanılan malzemeler, yerel kaynakları ve kültürel gelenekleri yansıtabilir."
+  ],
+  "col": [
+   "ahşap tabut",
+   "tabut taşımak",
+   "ölüm çanı"
+  ],
+  "tip": "casket Amerikan İngilizcesinde de tabut anlamında kullanılır. a nail in the coffin deyimi bir şeyin sonunu hızlandıran etken anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "transaction",
+  "senses": [
+   "işlem; muamele"
+  ],
+  "ex": [
+   "Kasiyer bana işlem için bir fiş verdi.",
+   "Güvenli ödeme sistemleri, çevrim içi işlemler sırasında kişisel bilgileri korumak ve tüketici güvenini sürdürmek için şarttır."
+  ],
+  "col": [
+   "mali işlem",
+   "işlemi tamamlamak",
+   "işlem ücreti",
+   "çevrim içi işlem"
+  ],
+  "tip": "transaction sayılabilir bir isimdir; tek bir işlem için a transaction denir. Çoğul hali transactions olur.",
+  "note": ""
+ },
+ {
+  "id": "catalog",
+  "senses": [
+   "katalog; liste",
+   "kataloglamak"
+  ],
+  "ex": [
+   "Mobilya kataloğunda sağlam bir masa buldum.",
+   "Aranabilir dijital katalog, araştırmacıların uzak arşivlere gitmeden tarihi belgelere ulaşmasını sağlar."
+  ],
+  "col": [
+   "çevrim içi katalog",
+   "ürün kataloğu",
+   "kütüphane kataloğu",
+   "koleksiyonu kataloglamak"
+  ],
+  "tip": "catalog Amerikan yazımıdır; İngiliz İngilizcesinde genellikle catalogue biçimi kullanılır. İkisi de kabul edilebilir, ancak sınavda tutarlı olun.",
+  "note": ""
+ }
+]

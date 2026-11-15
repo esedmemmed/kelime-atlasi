@@ -1,0 +1,283 @@
+[
+ {
+  "id": "salesman",
+  "senses": [
+   "satıcı; satış elemanı"
+  ],
+  "ex": [
+   "Satış elemanı bize bisikletin nasıl katlanacağını gösterdi.",
+   "Deneyimli bir satış elemanı, müşterileri gereksiz alışverişe zorlamak yerine ürünün sınırlarını dürüstçe anlatmalıdır."
+  ],
+  "col": [
+   "araba satıcısı",
+   "gezgin satıcı",
+   "deneyimli satış elemanı"
+  ],
+  "tip": "salesman yalnızca erkeği belirtir; cinsiyet belirtilmek istenmiyorsa salesperson kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fantastic",
+  "senses": [
+   "harika; muhteşem",
+   "fantastik; hayalî",
+   "çok büyük; inanılmaz"
+  ],
+  "ex": [
+   "Balkonumuzdan dağların harika bir manzarası vardı.",
+   "Toplum spor programları, gençlere takım çalışması becerilerini geliştirme ve özgüven kazanma konusunda harika bir fırsat sunuyor."
+  ],
+  "col": [
+   "harika fırsat",
+   "muhteşem manzara",
+   "büyük başarı",
+   "fantastik yaratıklar"
+  ],
+  "tip": "Konuşma dilinde çok yaygındır; resmi yazıda excellent ya da outstanding daha uygun olabilir.",
+  "note": ""
+ },
+ {
+  "id": "running",
+  "senses": [
+   "koşu",
+   "yönetim; işletme",
+   "akan; işleyen"
+  ],
+  "ex": [
+   "Sahil boyunca koşmak her zaman kafamı boşaltır.",
+   "Gönüllüler, toplum spor merkezlerinin günlük işleyişinde kritik bir rol oynuyor."
+  ],
+  "col": [
+   "koşuya çıkmak",
+   "günlük işleyiş",
+   "akan su",
+   "işletme giderleri"
+  ],
+  "tip": "Spor anlamında sayılamaz isimdir; the running of ifadesi ise yönetim ya da işletme anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "gate",
+  "senses": [
+   "bahçe kapısı; kapı",
+   "uçuş kapısı; biniş kapısı"
+  ],
+  "ex": [
+   "Köpeği içeride tutmak için bahçe kapısını kapattı.",
+   "Havalimanları, yolcuların gereksiz stres yaşamadan kalkış kapılarına ulaşabilmesi için net yönlendirme sağlamalıdır."
+  ],
+  "col": [
+   "ön kapı",
+   "kalkış kapısı",
+   "okul kapısı",
+   "kapıyı kilitlemek"
+  ],
+  "tip": "gate çoğunlukla çit ya da duvardaki dış kapıyı anlatır; oda kapısı için door kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "title",
+  "senses": [
+   "başlık; ad",
+   "unvan; görev adı",
+   "şampiyonluk; unvan"
+  ],
+  "ex": [
+   "Kitabın kapağını hatırlıyorum ama adını hatırlamıyorum.",
+   "Etkili bir deneme başlığı, tartışılan temel sorunu tüm ayrıntıları açığa vurmadan net biçimde göstermelidir."
+  ],
+  "col": [
+   "kitap adı",
+   "iş unvanı",
+   "şampiyonluğu kazanmak",
+   "unvanını savunmak"
+  ],
+  "tip": "title başlık, ad ya da unvan anlamına gelir; bir konunun ana fikrini anlatmak için topic kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "platform",
+  "senses": [
+   "peron",
+   "kürsü; podyum",
+   "çevrim içi platform; ortam"
+  ],
+  "ex": [
+   "Tren yaklaşırken peronda bekledik.",
+   "Çevrim içi öğrenme platformları, uzak bölgelerdeki öğrencilerin yerelde bulunmayan derslere erişmesini sağlıyor."
+  ],
+  "col": [
+   "tren peronu",
+   "çevrim içi platform",
+   "tartışma ortamı"
+  ],
+  "tip": "Peronda duran biri için on the platform kullanılır; in the platform denmez.",
+  "note": ""
+ },
+ {
+  "id": "parking",
+  "senses": [
+   "park etme",
+   "otopark; park yeri"
+  ],
+  "ex": [
+   "Gün batımından sonra bu dar sokakta park etmek zor.",
+   "Şehir merkezlerinde ücretsiz park yerlerinin azaltılması, insanları toplu taşımayı daha sık kullanmaya yöneltebilir."
+  ],
+  "col": [
+   "park yeri",
+   "park kısıtlamaları",
+   "ücretsiz otopark",
+   "yeraltı otoparkı"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz; tek bir park yeri için a parking space denir.",
+  "note": ""
+ },
+ {
+  "id": "replace",
+  "senses": [
+   "değiştirmek; yerini almak",
+   "yerine koymak; geri koymak"
+  ],
+  "ex": [
+   "Kırık mutfak sandalyesini değiştirmemiz gerekiyor.",
+   "Hükümetler altyapı ve depolama teknolojisine yeterince yatırım yaparsa yenilenebilir enerji, fosil yakıtların yerini kademeli olarak alabilir."
+  ],
+  "col": [
+   "A'yı B ile değiştirmek",
+   "pili değiştirmek",
+   "yerine geçilmek"
+  ],
+  "tip": "replace A with B, A'yı B ile değiştirmek demektir; yönü karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "yard",
+  "senses": [
+   "bahçe; avlu",
+   "yard (uzunluk birimi)"
+  ],
+  "ex": [
+   "Köpeğimiz sarı topun peşinden bahçede koştu.",
+   "Kullanılmayan bir okul bahçesinin bahçeye dönüştürülmesi, kentli çocuklar için değerli açık hava öğrenme fırsatları sağlayabilir."
+  ],
+  "col": [
+   "arka bahçe",
+   "okul bahçesi",
+   "bir yard kumaş"
+  ],
+  "tip": "Amerikan İngilizcesinde yard evin çevresindeki çimli alanı da anlatır; İngiliz İngilizcesinde daha çok garden kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "printer",
+  "senses": [
+   "yazıcı",
+   "matbaacı; basımcı"
+  ],
+  "ex": [
+   "Ödevimin yarısında yazıcının kağıdı bitti.",
+   "Okullar, her yazıcıyı kağıdın iki yüzüne otomatik basacak şekilde ayarlayarak kağıt israfını azaltabilir."
+  ],
+  "col": [
+   "lazer yazıcı",
+   "mürekkep püskürtmeli yazıcı",
+   "yazıcı kartuşu"
+  ],
+  "tip": "print basmak demektir; printer hem makineyi hem de basım işini yapan kişiyi anlatabilir, bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "land",
+  "senses": [
+   "kara; arazi",
+   "inmek; indirmek",
+   "kapmak; elde etmek"
+  ],
+  "ex": [
+   "Saatlerce denizde kaldıktan sonra sonunda karayı gördük.",
+   "Tarım arazilerinin kentsel genişlemeden korunması, büyüyen şehirlerin yakınında gıda üretimini sürdürmek için şarttır."
+  ],
+  "col": [
+   "tarım arazisi",
+   "karayoluyla",
+   "güvenle inmek",
+   "iş kapmak"
+  ],
+  "tip": "Fiil olarak 'inmek' ve 'elde etmek' anlamlarına gelir; land a job bir işi elde etmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "businessman",
+  "senses": [
+   "iş adamı; işadamı"
+  ],
+  "ex": [
+   "Yerel bir iş insanı okulumuzun yakınında bir fırın açtı.",
+   "Başarılı bir iş insanı, eğitime yatırım yaparak ve istikrarlı istihdam fırsatları yaratarak yerel kalkınmayı destekleyebilir."
+  ],
+  "col": [
+   "başarılı iş insanı",
+   "yerel iş adamı",
+   "varlıklı iş insanı"
+  ],
+  "tip": "Çoğulu businessmen olur; cinsiyet belirtmek istemediğinizde businessperson kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "glad",
+  "senses": [
+   "memnun; sevinçli",
+   "istekli; razı"
+  ],
+  "ex": [
+   "Bu akşam bizimle yemeğe geldiğin için sevindim.",
+   "Birçok sakin, meclisin yerel parkı koruma kararı almasından memnun oldu."
+  ],
+  "col": [
+   "duyduğuma sevindim",
+   "yardım etmeye istekli",
+   "bu konuda memnun",
+   "...olduğuna sevinmek"
+  ],
+  "tip": "Genellikle yüklem olarak kullanılır; be glad to do (yapmaktan memnuniyet duymak) ya da be glad that + cümle kalıbına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "shine",
+  "senses": [
+   "parlamak; ışık vermek",
+   "cilalamak; parlatmak",
+   "parlaklık; ışıltı"
+  ],
+  "ex": [
+   "Bu sabah güneş yatak odamın penceresinden içeri parladı.",
+   "Evlere doğrudan ışık saçan sokak lambaları uykuyu bozabilir ve sakinlerin yaşam kalitesini düşürebilir."
+  ],
+  "col": [
+   "parlak parlamak",
+   "ışık tutmak",
+   "ayakkabıları parlatmak",
+   "sağlıklı bir parlaklık"
+  ],
+  "tip": "Parlamak fiilinin geçmiş zamanı shone, parlatmak fiilinin geçmiş zamanı ise shined olur.",
+  "note": ""
+ },
+ {
+  "id": "pear",
+  "senses": [
+   "armut"
+  ],
+  "ex": [
+   "Kahvaltı kasesine olgun bir armut dilimledi.",
+   "Doğal mevsiminde yerel olarak yetiştirilen armutları satın almak, uzun mesafeli gıda taşımacılığı ihtiyacını azaltabilir."
+  ],
+  "col": [
+   "olgun armut",
+   "armut ağacı",
+   "armut suyu"
+  ],
+  "tip": "pear ile pair (çift) sesteştir ama yazımları farklıdır; tek bir armut için a pear denir.",
+  "note": ""
+ }
+]

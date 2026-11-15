@@ -1,0 +1,278 @@
+[
+ {
+  "id": "formula",
+  "senses": [
+   "formül",
+   "yöntem; reçete",
+   "bebek maması"
+  ],
+  "ex": [
+   "Öğretmenimiz bize alan hesaplamak için bir formül gösterdi.",
+   "Kentsel yoksulluğu azaltmanın tek bir yolu yok; çünkü yerel ekonomik koşullar büyük farklılıklar gösteriyor."
+  ],
+  "col": [
+   "matematiksel formül",
+   "başarı formülü",
+   "bebek maması"
+  ],
+  "tip": "Çoğulu formulas veya formulae olabilir. 'Yöntem' anlamında genellikle a formula for success gibi for ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "unreasonable",
+  "senses": [
+   "mantıksız; makul olmayan",
+   "aşırı; fahiş"
+  ],
+  "ex": [
+   "Hava durumu için seni suçlamak mantıksız görünüyor.",
+   "Çalışanlardan tatillerinde bile mesajlara cevap vermelerini beklemek, zamanları üzerinde aşırı talepler oluşturuyor ve refahlarına zarar veriyor."
+  ],
+  "col": [
+   "aşırı talepler",
+   "mantıksız davranış",
+   "makul olmayan beklentiler"
+  ],
+  "tip": "Kişinin davranışı için de, talep veya fiyat için de kullanılır. Kişi için 'haksız, akla yatkın olmayan' anlamı öne çıkar.",
+  "note": ""
+ },
+ {
+  "id": "mill",
+  "senses": [
+   "değirmen",
+   "fabrika",
+   "öğütmek; ezmek"
+  ],
+  "ex": [
+   "Buğdayın eski değirmende öğütülüşünü izledik.",
+   "Terk edilmiş tekstil fabrikalarını konuta dönüştürmek, kentsel konut talebini karşılarken endüstriyel mirası da koruyabilir."
+  ],
+  "col": [
+   "un değirmeni",
+   "çelik fabrikası",
+   "kağıt fabrikası",
+   "tahılı öğütmek"
+  ],
+  "tip": "Genellikle hammaddeyi işleyen tesisler için kullanılır. Sıradan bir fabrika için factory tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "overwhelming",
+  "senses": [
+   "ezici; çok büyük",
+   "dayanılmaz; bunaltıcı"
+  ],
+  "ex": [
+   "Öneri komşularımızdan ezici bir destek gördü.",
+   "Sakinlerin ezici çoğunluğu, daha geniş yollar yerine güvenilir toplu taşımaya yatırım yapılmasını destekliyor."
+  ],
+  "col": [
+   "ezici çoğunluk",
+   "ezici kanıt",
+   "ezici destek",
+   "ağır baskı"
+  ],
+  "tip": "Bir şeyin derecesinin çok büyük ya da güçlü olduğunu belirtir. Olumlu (support) ve olumsuz (pressure) bağlamda kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "minister",
+  "senses": [
+   "bakan",
+   "papaz; vaiz",
+   "ilgilenmek; yardım etmek"
+  ],
+  "ex": [
+   "Bakan, öğretmenlerle görüşmek için okulumuzu ziyaret etti.",
+   "Eğitimli gönüllüler, düzenli tıbbi bakıma erişimi olmayan yaşlı sakinlerin ihtiyaçlarıyla ilgileniyor."
+  ],
+  "col": [
+   "eğitim bakanı",
+   "başbakan",
+   "bir kilise papazı",
+   "birinin ihtiyaçlarıyla ilgilenmek"
+  ],
+  "tip": "Fiil olarak resmi bir kullanımdır; genellikle minister to someone's needs biçiminde, bakım veya yardım bağlamında görülür.",
+  "note": ""
+ },
+ {
+  "id": "valid",
+  "senses": [
+   "geçerli",
+   "haklı; dayanaklı"
+  ],
+  "ex": [
+   "Biletiniz dönüş yolculuğu için hâlâ geçerli.",
+   "Çevrimiçi öğrenme esneklik sunsa da öğrencilerin öğretmenleriyle sınırlı etkileşim konusunda haklı endişeleri var."
+  ],
+  "col": [
+   "geçerli bilet",
+   "geçerli neden",
+   "için geçerli",
+   "haklı endişe"
+  ],
+  "tip": "valid for ile süre veya kapsam, valid until ile bitiş tarihi belirtilir. Türkçedeki 'geçerli' ile birebir örtüşür.",
+  "note": ""
+ },
+ {
+  "id": "prohibit",
+  "senses": [
+   "yasaklamak",
+   "engellemek; önlemek"
+  ],
+  "ex": [
+   "Havuz kuralları, ıslak zeminde koşmayı yasaklıyor.",
+   "Hükümetler, halk sağlığını korumak için işlenmemiş endüstriyel atıkların nehirlere boşaltılmasını yasaklamalı."
+  ],
+  "col": [
+   "kesinlikle yasaklamak",
+   "birini bir şey yapmaktan men etmek",
+   "kullanımı yasaklamak"
+  ],
+  "tip": "Genellikle prohibit someone from doing something kalıbıyla kullanılır. 'prohibit doing' yapısı da var ama daha az yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "jellyfish",
+  "senses": [
+   "denizanası"
+  ],
+  "ex": [
+   "Bu sabah teknemizin yanından saydam bir denizanası süzüldü.",
+   "Okyanus sıcaklıklarının artması denizanası popülasyonlarını büyütebilir; bu da deniz ekosistemlerini ve kıyı turizmini olumsuz etkileyebilir."
+  ],
+  "col": [
+   "denizanası sokması",
+   "denizanası sürüsü",
+   "denizanası popülasyonları"
+  ],
+  "tip": "Çoğul biçimi de jellyfish'tir. Denizanası bir balık değildir, bu yüzden 'fish' eki yoktur.",
+  "note": ""
+ },
+ {
+  "id": "miracle",
+  "senses": [
+   "mucize"
+  ],
+  "ex": [
+   "Vazonun kırılmadan kurtulması bir mucizeydi.",
+   "Yeni teknoloji mucizeler yaratıyormuş gibi görünse de kalıcı çevresel ilerleme, halkın davranışlarında da değişiklik gerektirir."
+  ],
+  "col": [
+   "mucizeler yaratmak",
+   "tıbbi bir mucize",
+   "mucize tedavi"
+  ],
+  "tip": "work miracles, abartılı biçimde çok etkili olmak anlamında da kullanılır. Gerçek bir mucize ile mecaz anlamı bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "establish",
+  "senses": [
+   "kurmak",
+   "yerleştirmek; kabul ettirmek",
+   "belirlemek; kanıtlamak"
+  ],
+  "ex": [
+   "Komşularımız geçen bahar bir bahçecilik kulübü kurdu.",
+   "Hükümetler, yeni konutların hem güvenli hem de enerji verimli olmasını sağlamak için açık standartlar belirlemeli."
+  ],
+  "col": [
+   "işletme kurmak",
+   "itibar kazanmak",
+   "gerçekleri belirlemek",
+   "bağlantı kurmak"
+  ],
+  "tip": "Geçişli bir fiildir; kurum, sistem, itibar veya gerçek gibi bir nesne alır. 'establish that' kalıbı 'olduğunu kanıtlamak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "criteria",
+  "senses": [
+   "ölçütler; kriterler"
+  ],
+  "ex": [
+   "Bu daire, ev için belirlediğimiz tüm ölçütleri karşılıyor.",
+   "Burslar, hem akademik başarıyı hem de maddi ihtiyacı dikkate alan açık ölçütlere göre verilmeli."
+  ],
+  "col": [
+   "ölçütlere uymak",
+   "seçim ölçütleri",
+   "değerlendirme ölçütleri"
+  ],
+  "tip": "Criteria çoğul bir sözcüktür; tekili criterion'dır. Fiille kullanılırken criteria are biçiminde çoğul çekim alır.",
+  "note": ""
+ },
+ {
+  "id": "interact",
+  "senses": [
+   "iletişim kurmak; etkileşmek",
+   "birbirini etkilemek"
+  ],
+  "ex": [
+   "Çocukları dışarıda oynarken komşularımız sık sık sohbet eder.",
+   "Grup projeleri, deneyimleri ve bakış açıları kendilerinden farklı olan sınıf arkadaşlarıyla etkileşime girmeyi teşvik eder."
+  ],
+  "col": [
+   "ile etkileşmek",
+   "sosyal olarak iletişim kurmak",
+   "birbiriyle etkileşmek"
+  ],
+  "tip": "Genellikle interact with ile kullanılır; 'with' edatı atlanmamalıdır. Kimyasal veya fiziksel bağlamda da birbirini etkilemek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "superstitious",
+  "senses": [
+   "batıl inançlı; hurafeci"
+  ],
+  "ex": [
+   "Batıl inançlı kuzenim her zaman uğurlu bir taş taşır.",
+   "İnsanlar güvenilir kanıtlar yerine uğurlu nesnelere güvendiğinde, batıl inançlar finansal kararları etkileyebilir."
+  ],
+  "col": [
+   "batıl inançlar",
+   "bir konuda batıl inançlı olmak",
+   "batıl uygulamalar"
+  ],
+  "tip": "Bir konuda batıl inançlı olunduğunu belirtmek için be superstitious about kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "congress",
+  "senses": [
+   "meclis; kongre",
+   "kongre; büyük toplantı"
+  ],
+  "ex": [
+   "Meclis, yeni yasayı gece geç saatlere kadar tartıştı.",
+   "Uluslararası kongredeki delegeler, kırsal topluluklarda sağlık hizmetine erişimi iyileştirmenin pratik yollarını görüştü."
+  ],
+  "col": [
+   "ulusal meclis",
+   "uluslararası kongre",
+   "Kongre'nin bir üyesi"
+  ],
+  "tip": "ABD'deki yasama organı için büyük harfle Congress yazılır. Genel anlamda büyük toplantı için küçük harfle congress kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "panic",
+  "senses": [
+   "panik; paniklik",
+   "paniğe kapılmak; panikletmek"
+  ],
+  "ex": [
+   "Anahtarlarımın kaybolduğunu fark ettiğimde kısa bir panik yaşadım.",
+   "Acil durumlarda açık iletişim, halkın paniğini azaltabilir ve insanların güvenlik talimatlarını daha etkili uygulamasına yardımcı olabilir."
+  ],
+  "col": [
+   "panik içinde",
+   "panik atağı",
+   "panik yaratmak",
+   "panik alışverişi"
+  ],
+  "tip": "Geçmiş zaman ve -ing biçimlerinde panicked, panicking yazılır; 'c' harfinden sonra 'k' eklenir.",
+  "note": ""
+ }
+]

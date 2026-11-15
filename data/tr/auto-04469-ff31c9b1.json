@@ -1,0 +1,272 @@
+[
+ {
+  "id": "antique",
+  "senses": [
+   "antika; eski eser",
+   "antika; değerli eski"
+  ],
+  "ex": [
+   "Küçük bir dükkânda güzel bir antika bulduk.",
+   "Antika mobilyaların korunması, gelecek kuşakların geleneksel zanaatkârlığı ve geçmişteki insanların günlük yaşamını anlamasına yardımcı olur."
+  ],
+  "col": [
+   "antika dükkânı",
+   "antika mobilya",
+   "antika tüccarı"
+  ],
+  "tip": "Antique, sadece eski değil, yaşı, güzelliği veya nadirliği yüzünden değerli olan şey için kullanılır. Sıradan eski eşyaya \"old\" demek daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "lasting",
+  "senses": [
+   "kalıcı; uzun süren"
+  ],
+  "ex": [
+   "Kamp gezimiz bende unutulmaz anılar bıraktı.",
+   "Erken çocukluk eğitimine yapılan yatırım, bireylere ve bütün topluma uzun vadeli faydalar sağlayabilir."
+  ],
+  "col": [
+   "kalıcı izlenim",
+   "uzun süreli faydalar",
+   "kalıcı barış",
+   "kalıcı etki"
+  ],
+  "tip": "Lasting uzun süre devam etmeyi vurgular; permanent gibi sonsuza dek olmayı ifade etmez.",
+  "note": ""
+ },
+ {
+  "id": "multiple",
+  "senses": [
+   "çoklu; birden fazla",
+   "kat; katı"
+  ],
+  "ex": [
+   "Bu şarj aleti evimizdeki birden fazla cihazla çalışıyor.",
+   "Kentsel hava kirliliğinin, araç emisyonları, endüstriyel faaliyetler ve evsel yakıtların yakılması dahil birden fazla nedeni vardır."
+  ],
+  "col": [
+   "birden fazla neden",
+   "çoktan seçmeli",
+   "çoklu kaynak",
+   "...in katı"
+  ],
+  "tip": "\"Çoklu/birden fazla\" anlamında genellikle çoğul isimleri niteler. Matematikte \"a multiple of\" bir sayının katı anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "spectacular",
+  "senses": [
+   "muhteşem; gösterişli",
+   "çarpıcı; olağanüstü"
+  ],
+  "ex": [
+   "Tepeden muhteşem bir gün batımı izledik.",
+   "Bölgenin etkileyici dağ manzaraları turistleri çekiyor; bu iş imkânı yaratsa da kırılgan ekosistemler üzerindeki baskıyı artırıyor."
+  ],
+  "col": [
+   "muhteşem manzara",
+   "etkileyici bir gösteri",
+   "olağanüstü büyüme"
+  ],
+  "tip": "Spectacular hem somut manzaraları hem de growth gibi soyut kavramları niteleyebilir; her iki kullanımda da anlamı \"çok etkileyici\" veya \"çok büyük\"tür.",
+  "note": ""
+ },
+ {
+  "id": "resident",
+  "senses": [
+   "sakin; oturan kişi",
+   "yerleşik; ikamet eden"
+  ],
+  "ex": [
+   "Her sakin paylaşımlı bahçenin anahtarını aldı.",
+   "Yollarda ve kamusal alanlarda büyük değişiklikler yapılmadan önce yerel sakinlere danışılmalıdır."
+  ],
+  "col": [
+   "yerel sakinler",
+   "daimi oturum izni sahibi",
+   "...de ikamet eden"
+  ],
+  "tip": "Resident insanlar için kullanılır; \"konut, ikametle ilgili\" anlamında residential sıfatını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "gamble",
+  "senses": [
+   "kumar oynamak; bahis yapmak",
+   "şansını denemek",
+   "riskli girişim"
+  ],
+  "ex": [
+   "Tasarruflarına değer verdiği için kumar oynamayı reddediyor.",
+   "Tamamen turizme bağımlı olmak, aşırı hava olaylarına ve değişen seyahat alışkanlıklarına karşı savunmasız bölgeler için riskli bir girişimdir."
+  ],
+  "col": [
+   "...e bahis oynamak",
+   "tasarrufları kumarda kaybetmek",
+   "risk almak"
+  ],
+  "tip": "Gamble on ile bahse konu olan şeyi ya da umulan sonucu belirtirsiniz: \"gamble on the result\".",
+  "note": ""
+ },
+ {
+  "id": "inhabit",
+  "senses": [
+   "yaşamak; ikamet etmek"
+  ],
+  "ex": [
+   "Evimizin yakınındaki kaya havuzlarında minik yengeçler yaşıyor.",
+   "Tropikal ormanlarda yaşayan birçok tür, tarımsal genişleme uygun yaşam alanını azalttıkça artan baskıyla karşı karşıya."
+  ],
+  "col": [
+   "bir adada yaşamak",
+   "kıyı sularında yaşamak",
+   "yoğun nüfuslu bölgeler"
+  ],
+  "tip": "Inhabit geçişli bir fiildir; yer adını doğrudan alır, arkasına \"in\" gelmez. \"Live in\" ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "rehearse",
+  "senses": [
+   "prova yapmak; provalamak"
+  ],
+  "ex": [
+   "Dansımızı boş okul salonunda prova ettik.",
+   "Sunumlarını sınıf arkadaşlarıyla prova eden öğrenciler genellikle daha fazla özgüven kazanır ve fikirlerini daha net aktarır."
+  ],
+  "col": [
+   "oyun provası yapmak",
+   "konuşmayı prova etmek",
+   "gösteri için prova yapmak"
+  ],
+  "tip": "Rehearse'den sonra doğrudan prova edilen şey gelir; bir gösteri için prova yapıldığını belirtirken \"for\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fringe",
+  "senses": [
+   "kenar; çevre",
+   "kâkül",
+   "püskül; saçak"
+  ],
+  "ex": [
+   "Kulübeleri ormanın kenarında duruyor.",
+   "Kent çevresindeki uygun fiyatlı konutlar, sakinleri günlük yolculuklarında araçlara bağımlı bırakıyor."
+  ],
+  "col": [
+   "kentin çevresi",
+   "toplumun kenarında",
+   "kâkül kestirmek",
+   "ağaçlardan oluşan bir kenar"
+  ],
+  "tip": "\"Kâkül\" İngiliz İngilizcesinde fringe, Amerikan İngilizcesinde bangs olarak kullanılır. Kenar anlamında çoğunlukla çoğul fringes de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "craziness",
+  "senses": [
+   "çılgınlık; saçmalık; karmaşa"
+  ],
+  "ex": [
+   "Taşınmanın karmaşasından sonra sakin bir yürüyüşe ihtiyacımız vardı.",
+   "Moda ürünlere çok yüksek fiyatlar ödenmesindeki görünürdeki saçmalık, reklamın güçlü etkisini yansıtıyor."
+  ],
+  "col": [
+   "günlük hayatın karmaşası",
+   "saf çılgınlık",
+   "karmaşadan kaçmak"
+  ],
+  "tip": "Genellikle gayriresmî kullanılır. Bir ruhsal rahatsızlığı tanımlamak için teknik bir terim olarak kullanılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "portray",
+  "senses": [
+   "betimlemek; tasvir etmek",
+   "canlandırmak; rol almak"
+  ],
+  "ex": [
+   "Resimlerinde köy hayatını sıcak renklerle betimliyor.",
+   "Haber raporları kentsel yaşamı genellikle stresli olarak tasvir ediyor ve şehirlerin sunduğu sosyal ve kültürel fırsatları göz ardı ediyor."
+  ],
+  "col": [
+   "...olarak tasvir etmek",
+   "doğru betimlemek",
+   "bir karakteri canlandırmak"
+  ],
+  "tip": "Portray A as B kalıbıyla A'yı B olarak tasvir ettiğinizi belirtirsiniz.",
+  "note": ""
+ },
+ {
+  "id": "teller",
+  "senses": [
+   "banka memuru; vezne görevlisi"
+  ],
+  "ex": [
+   "Vezne görevlisi parayı saydı ve bana bir makbuz uzattı.",
+   "Online bankacılık kullanışlı olsa da kişisel yardıma ihtiyaç duyan müşteriler için banka veznedarları hâlâ önemlidir."
+  ],
+  "col": [
+   "banka veznedarı",
+   "vezne penceresi",
+   "otomatik para çekme makinesi"
+  ],
+  "tip": "Teller genellikle banka veznedarı anlamına gelir; mağazadaki kasiyer için cashier kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "misfortune",
+  "senses": [
+   "talihsizlik; şanssızlık"
+  ],
+  "ex": [
+   "Son trene yetişememe talihsizliğine uğradık.",
+   "Güçlü toplum ağları, ailelerin maddi talihsizliklerden toplumdan soyutlanmadan toparlanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "talihsizliğe uğramak",
+   "maddi talihsizlik",
+   "bir dizi talihsizlik"
+  ],
+  "tip": "Genel anlamda 'talihsizlik' sayılamaz bir isimdir; belirli bir olayı kastettiğinde sayılabilir hale gelir ve çoğul alır (misfortunes).",
+  "note": ""
+ },
+ {
+  "id": "hollow",
+  "senses": [
+   "içi boş; oyuk",
+   "boş; samimiyetsiz",
+   "oymak; içini boşaltmak"
+  ],
+  "ex": [
+   "İçi boş bir ağacın içinde saklanan bir sincap bulduk.",
+   "Tehlike altındaki türleri koruma yönündeki hükümet vaatleri, yeterli finansman ve etkili uygulama desteklenmezse boş kalacak."
+  ],
+  "col": [
+   "içi boş ağaç",
+   "boş vaatler",
+   "boş bir ses",
+   "içini oymak"
+  ],
+  "tip": "Hollow içinin boş olduğunu, empty ise içinde bir şey bulunmadığını vurgular.",
+  "note": ""
+ },
+ {
+  "id": "imperfect",
+  "senses": [
+   "kusurlu; eksik"
+  ],
+  "ex": [
+   "Bu el yapımı kase kusurlu, ama şeklini çok seviyorum.",
+   "Mevcut geri dönüşüm sistemi kusurlu olsa da çöp sahalarına giden atık miktarını yine de azaltıyor."
+  ],
+  "col": [
+   "kusurlu bir çözüm",
+   "eksik bilgi",
+   "tam olmayan rekabet"
+  ],
+  "tip": "Imperfect kusurlu ya da eksik olduğunu belirtir; bu, tamamen işe yaramaz ya da başarısız olduğu anlamına gelmez.",
+  "note": ""
+ }
+]

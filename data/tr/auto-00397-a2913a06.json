@@ -1,0 +1,281 @@
+[
+ {
+  "id": "tree",
+  "senses": [
+   "ağaç"
+  ],
+  "ex": [
+   "Küçük bir kuş yuvasını bizim ağacımıza yapmış.",
+   "Kentsel alanlarda ağaç dikmek gölge sağlar, hava kalitesini iyileştirir ve yaban hayatı için değerli yaşam alanları oluşturur."
+  ],
+  "col": [
+   "ağaç dikmek",
+   "ağaca tırmanmak",
+   "ağaç gövdesi",
+   "soy ağacı"
+  ],
+  "tip": "tree 'ağaç' demektir; wood ise odun ya da ahşap anlamına gelir, woods genellikle ormanlık alanı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "build",
+  "senses": [
+   "inşa etmek; kurmak",
+   "vücut yapısı; yapı"
+  ],
+  "ex": [
+   "Bahçede küçük ahşap bir barınak inşa ettik.",
+   "Yerel yönetimler, düşük gelirli aileleri desteklemek için toplu taşıma yakınında daha fazla uygun fiyatlı konut inşa etmeli."
+  ],
+  "col": [
+   "ev inşa etmek",
+   "özgüven kazanmak",
+   "ilişki kurmak",
+   "ince vücut yapısı"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi built'tir (builded değil). İsim olarak vücut yapısı anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "man",
+  "senses": [
+   "adam; erkek",
+   "insanlık; insan türü",
+   "görev başında olmak"
+  ],
+  "ex": [
+   "Mavi paltolu bir adam kapıyı tuttu.",
+   "Şehrin yıllık kültür festivali sırasında bilgi masalarında görev yapacak ek gönüllülere ihtiyaç var."
+  ],
+  "col": [
+   "genç adam",
+   "bir masada görev yapmak",
+   "bir kontrol noktasında nöbet tutmak"
+  ],
+  "tip": "Çoğulu men'dir. 'İnsanlık' anlamında günümüzde humankind daha yaygın bir tercihtir.",
+  "note": ""
+ },
+ {
+  "id": "early",
+  "senses": [
+   "erken; ilk dönemdeki",
+   "erken; önceden"
+  ],
+  "ex": [
+   "Erken bir trene bindik ve kahvaltıdan önce vardık.",
+   "Çocukluk döneminde erken yatırım yapmak eşitsizliği azaltabilir ve ileride iş bulma olanaklarını artırabilir."
+  ],
+  "col": [
+   "erken çocukluk",
+   "ilk aşamalar",
+   "erken gelmek",
+   "erken teşhis"
+  ],
+  "tip": "early hem sıfat hem zarf olarak kullanılır; sonuna -ly eklenmez. 'Geç' anlamındaki late ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "these",
+  "senses": [
+   "bu",
+   "bunlar; bu şeyler"
+  ],
+  "ex": [
+   "Bu çilekler çok güzel kokuyor, bir sepet alalım.",
+   "Bu bulgular, düzenli açık hava etkinliklerinin çocukların odaklanmasını ve duygusal sağlığını geliştirebileceğini gösteriyor."
+  ],
+  "col": [
+   "bu günlerde",
+   "bu şeyler",
+   "bu koşullarda"
+  ],
+  "tip": "these, this'in çoğuludur ve çoğul isimlerle kullanılır. Tekil için this kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "favourite",
+  "senses": [
+   "en sevilen; favori",
+   "favori; en sevilen şey",
+   "favori; en çok şansı olan"
+  ],
+  "ex": [
+   "Bu küçük fırın benim en sevdiğim ekmek çeşidini satıyor.",
+   "Halk kütüphaneleri, okuyucuların ek bir maliyet olmadan yeni yazarları keşfetmesini ve en sevdikleri kitaplara tekrar dönmesini sağlar."
+  ],
+  "col": [
+   "en sevdiği ders",
+   "kesin favori",
+   "kazanması beklenen favori"
+  ],
+  "tip": "İngiliz yazımı favourite, Amerikan yazımı favorite'tir. Zaten üstünlük ifade ettiği için 'most favourite' denmez.",
+  "note": ""
+ },
+ {
+  "id": "adult",
+  "senses": [
+   "yetişkin",
+   "yetişkin; yetişkinlere ait"
+  ],
+  "ex": [
+   "Çocuklar yüzme havuzuna bir yetişkinle birlikte girmelidir.",
+   "Yetişkin eğitimi programları, insanların yeni nitelikler kazanmasına ve iş piyasasındaki değişimlere uyum sağlamasına yardımcı olur."
+  ],
+  "col": [
+   "genç yetişkin",
+   "yetişkin eğitimi",
+   "yetişkin hayatı",
+   "sorumlu bir yetişkin"
+  ],
+  "tip": "Hem isim hem sıfat olarak kullanılır. Sıfat olarak isimden önce gelir: adult education gibi.",
+  "note": ""
+ },
+ {
+  "id": "clock",
+  "senses": [
+   "saat",
+   "süresini ölçmek; kaydetmek"
+  ],
+  "ex": [
+   "Mutfaktaki saat, biz öğle yemeği hazırlarken durmuş.",
+   "Esnek çalışma düzenleri, çalışanların saate bakmak yerine en verimli oldukları zamanlarda çalışmasına olanak tanır."
+  ],
+  "col": [
+   "çalar saat",
+   "günün her saati",
+   "mesaiye giriş yapmak",
+   "sürekli saate bakmak"
+  ],
+  "tip": "clock genellikle duvar ya da masa saati için kullanılır; kol saati için watch kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "downstairs",
+  "senses": [
+   "alt katta; aşağıya",
+   "alt kattaki"
+  ],
+  "ex": [
+   "Taze ekmek kokusunu alınca aşağı kata indim.",
+   "Alt katta bir yatak odası sağlamak, yaşlı sakinlerin kendi evlerinde bağımsız kalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "alt kata inmek",
+   "alt kattaki banyo",
+   "alt kattaki komşu"
+  ],
+  "tip": "Zarf olarak go downstairs biçiminde kullanılır; arada to eklenmez. Sıfat olarak isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "blackboard",
+  "senses": [
+   "yazı tahtası; kara tahta"
+  ],
+  "ex": [
+   "Öğretmenimiz yazı tahtasına büyük bir daire çizdi.",
+   "Dijital ekranlar etkileşimli özellikler sunsa da geleneksel yazı tahtası birçok okul için uygun fiyatlı bir öğretim aracı olmayı sürdürüyor."
+  ],
+  "col": [
+   "yazı tahtasına yazmak",
+   "yazı tahtasını silmek",
+   "tahta silgisi"
+  ],
+  "tip": "Tahta yüzeyinde bir şey yazıldığını söylerken on the blackboard kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "party",
+  "senses": [
+   "parti; kutlama",
+   "siyasi parti",
+   "taraf; ilgili kişi"
+  ],
+  "ex": [
+   "Dün bahçede küçük bir parti verdik.",
+   "Her siyasi parti, eğitim politikalarının dezavantajlı geçmişten gelen öğrencilere nasıl fayda sağlayacağını açıklamalıdır."
+  ],
+  "col": [
+   "doğum günü partisi",
+   "siyasi parti",
+   "üçüncü taraf",
+   "parti vermek"
+  ],
+  "tip": "Sözleşme ya da hukuk bağlamında party 'taraf' anlamına gelir; bu durumda eğlence ya da siyasi parti anlamı yoktur.",
+  "note": ""
+ },
+ {
+  "id": "meal",
+  "senses": [
+   "yemek; öğün"
+  ],
+  "ex": [
+   "Uzun yürüyüşümüzden sonra babam sıcak bir yemek hazırladı.",
+   "Sağlıklı okul yemekleri sunmak, çocukların odaklanmasını artırabilir ve fiziksel gelişimlerini destekleyebilir."
+  ],
+  "col": [
+   "dengeli öğün",
+   "yemek hazırlamak",
+   "öğün atlamak",
+   "ana öğün"
+  ],
+  "tip": "meal bir öğünü ifade eder ve sayılabilir. food ise genel olarak yiyecek anlamına gelir ve çoğunlukla sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "chair",
+  "senses": [
+   "sandalye",
+   "başkan; oturum başkanı",
+   "başkanlık etmek; yönetmek"
+  ],
+  "ex": [
+   "Pencerenin yanına bir sandalye çekti.",
+   "Herkesin adil bir şekilde katkıda bulunabilmesi için toplantıyı bağımsız bir uzmanın yönetmesi gerekir."
+  ],
+  "col": [
+   "ofis koltuğu",
+   "komite başkanı",
+   "toplantıyı yönetmek"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: chair a meeting. Bu kullanımda 'toplantıya başkanlık etmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "never",
+  "senses": [
+   "asla; hiç",
+   "kesinlikle hayır"
+  ],
+  "ex": [
+   "Evden asla su şişemi almadan çıkmam.",
+   "Toplu taşıma, yürüme ve bisiklete binme kadar erişilebilir günlük egzersiz biçimlerinin yerini tamamen asla alamaz."
+  ],
+  "col": [
+   "bir daha asla",
+   "neredeyse hiç",
+   "daha önce hiç"
+  ],
+  "tip": "Genellikle yardımcı fiilden sonra, asıl fiilden önce gelir: I have never seen. Be fiilinden sonra ise is never gibi yer alır.",
+  "note": ""
+ },
+ {
+  "id": "middle",
+  "senses": [
+   "orta; ortası",
+   "orta; ortadaki"
+  ],
+  "ex": [
+   "Koridorun ortasına biri bir bavul bırakmış.",
+   "Konut maliyetleri genellikle temel işçileri, hizmet verdikleri şehirlerin merkezinden uzakta yaşamaya zorluyor."
+  ],
+  "col": [
+   "...ortasında",
+   "orta yaş",
+   "orta sınıf",
+   "uzlaşma noktası"
+  ],
+  "tip": "İsim olarak genellikle the middle of kalıbıyla kullanılır. Sıfat olarak isimden önce gelir: the middle class.",
+  "note": ""
+ }
+]

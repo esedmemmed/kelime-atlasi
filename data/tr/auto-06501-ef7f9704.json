@@ -1,0 +1,272 @@
+[
+ {
+  "id": "viable",
+  "senses": [
+   "uygulanabilir; işe yarar",
+   "yaşayabilen; gelişebilen"
+  ],
+  "ex": [
+   "Evi paylaşmak uygun bir seçenek gibi görünüyor.",
+   "Toplu taşımanın özel araçlara gerçekçi bir alternatif olabilmesi için uygun fiyatlı ve güvenilir olması gerekir."
+  ],
+  "col": [
+   "uygun seçenek",
+   "ekonomik açıdan uygulanabilir",
+   "uygulanabilir çözüm",
+   "çimlenebilir tohumlar"
+  ],
+  "tip": "Plan, fikir ya da seçenek için 'gerçekten işe yarayan' anlamında kullanılır; possible ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "interim",
+  "senses": [
+   "geçici; ara",
+   "ara dönem; geçiş dönemi"
+  ],
+  "ex": [
+   "Geçici müdürümüz, bir yedek bulana kadar görevde kalacak.",
+   "Konsey, sel nedeniyle evsiz kalan aileler için kalıcı konutlar inşa edilirken geçici konut önlemleri uyguladı."
+  ],
+  "col": [
+   "ara rapor",
+   "geçici önlemler",
+   "geçici müdür",
+   "bu arada; bu süre zarfında"
+  ],
+  "tip": "Sıfat olarak isimden önce gelir. 'In the interim' kalıbı 'bu arada' anlamına gelir ve resmi yazıda sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "breeding",
+  "senses": [
+   "üreme; yetiştirme",
+   "terbiye; görgü"
+  ],
+  "ex": [
+   "Kuşları üreme mevsiminde rahatsız etmemeye özen gösteriyoruz.",
+   "Seçici ıslah verimi artırabilir, ancak tarımsal sistemlerde genetik çeşitliliği de azaltabilir."
+  ],
+  "col": [
+   "üreme mevsimi",
+   "seçici ıslah",
+   "esaret altında üreme",
+   "ıslah programı"
+  ],
+  "tip": "Breeding bir süreci ya da eylemi anlatır; breed isim olarak 'cins, ırk' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "barren",
+  "senses": [
+   "verimsiz; çorak",
+   "sonuçsuz; yoksun"
+  ],
+  "ex": [
+   "Çorak tepede yalnızca birkaç çalı yetişiyordu.",
+   "Sürdürülebilir olmayan tarım, verimli tarlaları çorak araziye dönüştürerek gıda güvenliğini tehdit edebilir ve kırsal toplulukları göç etmeye zorlayabilir."
+  ],
+  "col": [
+   "çorak arazi",
+   "çorak manzara",
+   "...den yoksun"
+  ],
+  "tip": "Barren, bitki yetişmeyen ya da verimsiz toprağı anlatır; bare ise üstü açık, çıplak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "assault",
+  "senses": [
+   "saldırı; darp",
+   "saldırmak; darp etmek"
+  ],
+  "ex": [
+   "Bir tanık olayı yakındaki bir polis memuruna bildirdi.",
+   "Sokak aydınlatmasının iyileştirilmesi saldırı riskini azaltabilir ve sakinlerin geceleri kendilerini daha güvende hissetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "fiziksel saldırı",
+   "birine yapılan saldırı",
+   "saldırıyı bildirmek"
+  ],
+  "tip": "İsim olarak genellikle on ile kullanılır; fiil ise edat almadan doğrudan kişiyi nesne olarak alır.",
+  "note": ""
+ },
+ {
+  "id": "animate",
+  "senses": [
+   "canlandırmak; hareketlendirmek",
+   "animasyonla hareketlendirmek"
+  ],
+  "ex": [
+   "Komik hikâyeleri aile yemeklerimizi her zaman canlandırır.",
+   "Öğretmenler, öğrencileri kendi topluluklarındaki deneyimleri paylaşmaya teşvik ederek sınıf tartışmalarını canlandırabilir."
+  ],
+  "col": [
+   "tartışmayı canlandırmak",
+   "bir karaktere hareket kazandırmak",
+   "animasyon film"
+  ],
+  "tip": "Fiil /ˈænɪmeɪt/, sıfat /ˈænɪmət/ okunur; vurgu ve sondaki ses farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "tentative",
+  "senses": [
+   "geçici; kesinleşmemiş",
+   "çekingen; tereddütlü"
+  ],
+  "ex": [
+   "Gelecek hafta sonu kıyıya gitmek için geçici planlar yaptık.",
+   "Araştırmacılar ihtiyatlı sonuçlara ulaştı; ancak tedavinin geniş çapta önerilebilmesi için daha fazla çalışma gerekiyor."
+  ],
+  "col": [
+   "geçici planlar",
+   "ihtiyatlı bir sonuç",
+   "geçici anlaşma",
+   "çekingen bir gülümseme"
+  ],
+  "tip": "Tentative, süreden çok belirsizliği anlatır; 'temporary' ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "chronological",
+  "senses": [
+   "kronolojik; zamana göre"
+  ],
+  "ex": [
+   "Aile fotoğraflarını zaman sırasına göre düzenledik.",
+   "Tarihî olayları kronolojik sırayla sunmak, öğrencilerin önceki gelişmelerin sonraki toplumsal değişimleri nasıl etkilediğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "kronolojik sıra",
+   "kronolojik anlatım",
+   "kronolojik dizi"
+  ],
+  "tip": "Olayların gerçekleşme sırasını vurgular; önem derecesini ya da mantıksal sıralamayı değil.",
+  "note": ""
+ },
+ {
+  "id": "probe",
+  "senses": [
+   "araştırmak; incelemek",
+   "soruşturma; inceleme",
+   "sonda; araştırma aracı"
+  ],
+  "ex": [
+   "Elektrikçi, hasarlı kabloları bulmak için duvarın arkasını inceledi.",
+   "Bağımsız müfettişler, gelecekte benzer kazaları önlemek için endüstriyel kazaların nedenlerini araştırmalıdır."
+  ],
+  "col": [
+   "soruşturma başlatmak",
+   "uzay sondası",
+   "tıbbi sonda",
+   "...i araştırmak"
+  ],
+  "tip": "Fiil doğrudan inceleme nesnesi alabilir ya da 'probe into' kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nuance",
+  "senses": [
+   "nüans; ince fark"
+  ],
+  "ex": [
+   "Gülümsemesi özre hafif oyunbaz bir tını kattı.",
+   "Dil öğrenenlerin, sözlüklerin tam olarak açıklayamadığı nüansları fark edebilmesi için kültürel bilgiye ihtiyacı vardır."
+  ],
+  "col": [
+   "ince nüans",
+   "anlam nüansları",
+   "nüansları yakalamak"
+  ],
+  "tip": "Genellikle çoğul nuances biçiminde kullanılır; anlam, ton ya da duygudaki küçük farkları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "smuggling",
+  "senses": [
+   "kaçakçılık"
+  ],
+  "ex": [
+   "Belgesel, kaçakçılığın nadir hayvanları nasıl tehlikeye attığını anlatıyordu.",
+   "Yabani hayat kaçakçılığıyla mücadele için uluslararası iş birliği şarttır; bu durum biyoçeşitliliği tehdit eder ve koruma çabalarını zayıflatır."
+  ],
+  "col": [
+   "yabani hayvan kaçakçılığı",
+   "kaçakçılık çetesi",
+   "kaçakçılıkla mücadele etmek"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; smuggle fiili 'smuggle goods into a country' biçiminde, mal kaçırmak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "statesman",
+  "senses": [
+   "deneyimli devlet adamı"
+  ],
+  "ex": [
+   "Emekli devlet adamı, toplanan kalabalığa sakin bir sesle konuştu.",
+   "Saygın bir devlet adamı, diyalogu teşvik ederek ve hükümetler arasında güven inşa ederek uluslararası anlaşmazlıkların çözülmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kıdemli devlet adamı",
+   "saygın devlet adamı",
+   "seçkin devlet adamı"
+  ],
+  "tip": "Olumlu bir anlam taşır; politikacı karşılığı değildir. Kadın için stateswoman kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "enact",
+  "senses": [
+   "yasalaştırmak; kabul etmek",
+   "sahneye koymak; canlandırmak"
+  ],
+  "ex": [
+   "Çocuklar en sevdikleri hikâyeden bir sahneyi canlandırdı.",
+   "Hükümetler, küçük işletmelere aşırı mali yük getirmeden savunmasız çalışanları koruyan yasal düzenlemeleri yürürlüğe koymalıdır."
+  ],
+  "col": [
+   "yasa çıkarmak",
+   "yasayı yürürlüğe koymak",
+   "bir sahneyi canlandırmak"
+  ],
+  "tip": "Enact yasa çıkarmak ya da kabul ettirmek anlamına gelir; yasayı uygulamak için enforce kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bi",
+  "senses": [
+   "biseksüel"
+  ],
+  "ex": [
+   "Kız kardeşim biseksüel ve ailemiz ona destek oluyor.",
+   "Kapsayıcı iş politikaları, biseksüel çalışanların kendilerini değerli hissetmelerine ve cinsel yönelime dayalı ayrımcılığın azalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "biseksüel insanlar",
+   "biseksüel kimlik",
+   "açıkça biseksüel olmak"
+  ],
+  "tip": "Bisexual kelimesinin gayriresmi kısaltmasıdır; iki anlamındaki bi- önekiyle karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "esthetic",
+  "senses": [
+   "estetik; güzelliğe ilişkin"
+  ],
+  "ex": [
+   "Kavisli ahşap sap, çaydanlığa estetik bir görünüm kazandırıyor.",
+   "Kentsel planlayıcılar, kamusal alanların estetik niteliklerini erişilebilirlik ve çevresel sürdürülebilirlikle dengelemelidir."
+  ],
+  "col": [
+   "estetik cazibe",
+   "estetik değer",
+   "estetik nitelikler"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımı aesthetic şeklindedir ve sınavda genellikle bu biçim tercih edilir.",
+  "note": ""
+ }
+]

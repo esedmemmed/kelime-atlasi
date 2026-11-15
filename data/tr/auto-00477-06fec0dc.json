@@ -1,0 +1,291 @@
+[
+ {
+  "id": "love",
+  "senses": [
+   "sevmek; hoşlanmak",
+   "sevgi; aşk"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra nehir kenarında yürümeyi çok severim.",
+   "Okullar çeşitli kitaplar sunarak ve düzenli kütüphane ziyaretleri düzenleyerek çocukların okuma sevgisini geliştirebilir."
+  ],
+  "col": [
+   "aşık olmak",
+   "öğrenme sevgisi",
+   "bir şey yapmayı sevmek"
+  ],
+  "tip": "love doing ve love to do ikisi de bir şeyi yapmayı sevmek anlamına gelir ve ikisi de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "show",
+  "senses": [
+   "göstermek",
+   "göstermek; kanıtlamak",
+   "gösteri; program"
+  ],
+  "ex": [
+   "Lütfen bu kağıttan kuşun nasıl katlanacağını bana göster.",
+   "Son araştırmalar, yeşil alanlara erişimin kentsel nüfusun ruh sağlığını iyileştirebileceğini ortaya koyuyor."
+  ],
+  "col": [
+   "birine nasıl yapacağını göstermek",
+   "olduğunu göstermek",
+   "bir iyileşme göstermek",
+   "canlı gösteri"
+  ],
+  "tip": "Geçmiş zaman showed, geçmiş ortaç ise genellikle shown'dır. Özellikle edilgen yapılarda ve have ile shown kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "above",
+  "senses": [
+   "üstünde; üzerinde",
+   "üstünde; fazla",
+   "yukarıda; önce"
+  ],
+  "ex": [
+   "Küçük ahşap bir raf mutfak lavabosunun üstünde asılı.",
+   "Mevsim ortalamasının üzerindeki sıcaklıklar su talebini artırabilir ve kentsel su kaynakları üzerinde baskı oluşturabilir."
+  ],
+  "col": [
+   "deniz seviyesinden yüksek",
+   "ortalamanın üstünde",
+   "her şeyden önce",
+   "yukarıda belirtildiği gibi"
+  ],
+  "tip": "above bir şeyin daha yüksekte olduğunu belirtir; doğrudan tepesinde olmak zorunda değildir ve temas anlamı taşımaz. Temas için on kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "beginner",
+  "senses": [
+   "acemi; yeni başlayan"
+  ],
+  "ex": [
+   "Bu yüzme kursu tamamen yeni başlayanlar için mükemmel.",
+   "Yeni başlayanlar için tasarlanan kurslar, net yönlendirme ve yeni becerileri uygulamak için düzenli fırsatlar sunmalıdır."
+  ],
+  "col": [
+   "tamamen acemi",
+   "yeni başlayanlara uygun",
+   "yeni başlayanlar için rehber"
+  ],
+  "tip": "beginner sayılabilir bir isimdir; tekil kullanıldığında önünde a/an veya the gibi bir belirleyici bulunmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "cry",
+  "senses": [
+   "ağlamak",
+   "bağırmak; haykırmak",
+   "çığlık; bağırış"
+  ],
+  "ex": [
+   "Oyuncağı düşünce bebek ağlamaya başladı.",
+   "Küçük çocuklar ebeveynlerinden ayrıldığında ağlayabilir, bu yüzden okullar hoş bir ortam sunmalıdır."
+  ],
+  "col": [
+   "yardım için bağırmak",
+   "sevinçten ağlamak",
+   "yüksek bir çığlık",
+   "doyasıya ağlamak"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç cried, -ing hâli crying'dir. Bağırmak anlamında genellikle cry out kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "buy",
+  "senses": [
+   "satın almak",
+   "inanmak; kabul etmek",
+   "uygun fiyatlı alım"
+  ],
+  "ex": [
+   "Kahvaltıdan önce biraz ekmek almam gerekiyor.",
+   "Tüketiciler yerel pazarlardan taze ürün aldıklarında ambalaj atığını azaltabilirler."
+  ],
+  "col": [
+   "toptan almak",
+   "ikinci el almak",
+   "zaman kazanmak",
+   "iyi bir alım"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç bought'tur. buyed şeklinde yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "short",
+  "senses": [
+   "kısa; kısa süreli",
+   "yetersiz; eksik",
+   "yetmeyerek; aniden"
+  ],
+  "ex": [
+   "Bu akşam yemekten önce kısa bir yürüyüş yaptık.",
+   "Kısa eğitim kursları, işsiz yetişkinlerin birkaç yıllık eğitime bağlanmadan pratik beceriler kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kısa bir mesafe",
+   "zamanı yetersiz olmak",
+   "kısa vadede",
+   "bir hedefe ulaşamamak"
+  ],
+  "tip": "short of 'eksik olmak' anlamına gelir. shortly ise genellikle 'kısa süre sonra' demektir, 'kısaca' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "sentence",
+  "senses": [
+   "cümle",
+   "ceza; hüküm",
+   "cezaya çarptırmak"
+  ],
+  "ex": [
+   "Öğretmenimiz bizden sonbahar hakkında bir cümle yazmamızı istedi.",
+   "Cümle uzunluğunu değiştirmeyi öğrenmek, öğrencilerin akademik makalelerde karmaşık fikirleri daha açık ifade etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "tam cümle",
+   "cümle yapısı",
+   "hapis cezası",
+   "birini cezaya çarptırmak"
+  ],
+  "tip": "Birine ceza vermek için sentence sb to sth kalıbı kullanılır: sentence him to ten years gibi.",
+  "note": ""
+ },
+ {
+  "id": "wear",
+  "senses": [
+   "giymek; takmak",
+   "yıpranmak; eskimek",
+   "aşınma; yıpranma"
+  ],
+  "ex": [
+   "Zemin soğuk olduğunda her zaman kalın çorap giyerim.",
+   "Çalışanları koruyucu ekipman kullanmaya teşvik etmek, sanayi işyerlerinde yaralanma riskini önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "gözlük takmak",
+   "üniforma giymek",
+   "eskiyip bitmek",
+   "aşınma ve yıpranma"
+  ],
+  "tip": "wear kıyafetin üzerde olma durumunu, put on ise giyme eylemini anlatır. Düzensiz geçmiş zaman biçimi wore'dur.",
+  "note": ""
+ },
+ {
+  "id": "day",
+  "senses": [
+   "gün",
+   "gündüz",
+   "dönem; çağ"
+  ],
+  "ex": [
+   "Bütün günü sahilde kum kalesi yaparak geçirdik.",
+   "Daha kısa çalışma günleri, çalışan refahını artırabilirken ebeveynlerin çocuklarıyla daha fazla zaman geçirmesine de olanak tanıyabilir."
+  ],
+  "col": [
+   "her gün",
+   "gündüz vakti",
+   "izin günü",
+   "bu günlerde"
+  ],
+  "tip": "every day 'her gün' demektir. everyday ise sıfat olarak 'günlük' anlamına gelir ve bitişik yazılır.",
+  "note": ""
+ },
+ {
+  "id": "homework",
+  "senses": [
+   "ev ödevi",
+   "ön çalışma; hazırlık"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce ödevimi bitirdim ve dışarı çıktım.",
+   "Okullar, çocukların egzersiz ve aile etkinlikleri için yeterli zamanı olabilmesi adına ev ödevini sınırlamalıdır."
+  ],
+  "col": [
+   "ödev yapmak",
+   "ödevi teslim etmek",
+   "ödevini yapmak"
+  ],
+  "tip": "Sayılamayan bir isimdir. Bir ödev için a piece of homework denir, a homework denmez.",
+  "note": ""
+ },
+ {
+  "id": "better",
+  "senses": [
+   "daha iyi; daha uygun",
+   "daha iyi",
+   "iyileşmiş; toparlanmış"
+  ],
+  "ex": [
+   "Bu sırt çantası eskisinden daha iyi.",
+   "Daha iyi toplu taşıma, trafik sıkışıklığını azaltabilir ve büyüyen şehirlerde istihdama erişimi artırabilir."
+  ],
+  "col": [
+   "...den daha iyi",
+   "kendini daha iyi hissetmek",
+   "daha iyi anlayış",
+   "çok daha iyi"
+  ],
+  "tip": "good ve well'in karşılaştırma biçimidir. 'more better' demek yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "into",
+  "senses": [
+   "içine; içeri",
+   "dönüşerek",
+   "meraklı; ilgili"
+  ],
+  "ex": [
+   "Yavru kedi sandalyemin yanındaki sepetin içine atladı.",
+   "Kullanılmayan ofislerin uygun fiyatlı konutlara dönüştürülmesi, şehirlerin çevredeki kırsal alanlara yayılmadan konut açığıyla başa çıkmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir odaya girmek",
+   "dönüşmek",
+   "müzikle ilgilenmek",
+   "bir sorunu incelemek"
+  ],
+  "tip": "into hareketin içine doğru yönü ve dönüşümü vurgular. in ise bir yerde bulunmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "bicycle",
+  "senses": [
+   "bisiklet",
+   "bisikletle gitmek"
+  ],
+  "ex": [
+   "Bisikletimi küçük fırının önüne kilitledim.",
+   "Bisikletle seyahat etmek, kentsel hava kirliliğini azaltırken sakinlere düzenli fiziksel egzersiz imkânı sağlayabilir."
+  ],
+  "col": [
+   "bisiklete binmek",
+   "bisikletle",
+   "bisiklet yolu",
+   "bisiklet kaskı"
+  ],
+  "tip": "by bicycle kalıbında artikel kullanılmaz. ride a bicycle ise a artikeli ister.",
+  "note": ""
+ },
+ {
+  "id": "everyone",
+  "senses": [
+   "herkes; her insan"
+  ],
+  "ex": [
+   "Piknikte herkes paylaşmak için bir yemek getirdi.",
+   "Kamu kütüphaneleri, gelir veya eğitim geçmişi ne olursa olsun herkesin güvenilir bilgiye erişebilmesini sağlamalıdır."
+  ],
+  "col": [
+   "diğer herkes",
+   "hemen hemen herkes",
+   "ilgili herkes"
+  ],
+  "tip": "everyone tekil fiille kullanılır. every one ise kişileri tek tek vurgular ve iki kelimeden oluşur.",
+  "note": ""
+ }
+]

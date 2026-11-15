@@ -1,0 +1,280 @@
+[
+ {
+  "id": "cover",
+  "senses": [
+   "örtmek; kaplamak",
+   "karşılamak; kapsamak",
+   "kapak; kılıf"
+  ],
+  "ex": [
+   "Ekmek soğurken üzerini bir bezle ört.",
+   "Düşük gelirli ailelerin öğrencileri için üniversite burslarının öğrenim ücretlerinin yanı sıra barınma giderlerini de karşılaması gerekir."
+  ],
+  "col": [
+   "bir şeyi ... ile örtmek",
+   "maliyeti karşılamak",
+   "bir konuyu ele almak",
+   "kitap kapağı"
+  ],
+  "tip": "cover something with kalıbında örtülen şey önce gelir, örtme malzemesi with'ten sonra gelir. cover the cost, yalnızca ödemek değil yeterli olmak da demektir.",
+  "note": ""
+ },
+ {
+  "id": "baseball",
+  "senses": [
+   "beyzbol",
+   "beyzbol topu"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra parkta beyzbol oynadık.",
+   "Beyzbol gibi takım sporları, genç insanların işbirliği becerilerini geliştirmesine ve fiziksel formlarını korumasına yardımcı olabilir."
+  ],
+  "col": [
+   "beyzbol oynamak",
+   "beyzbol sopası",
+   "beyzbol eldiveni",
+   "beyzbol sahası"
+  ],
+  "tip": "Spor adı olarak sayılamaz ve başında article almaz: play baseball. Tek bir topu kastediyorsanız a baseball denir.",
+  "note": ""
+ },
+ {
+  "id": "clever",
+  "senses": [
+   "zeki; becerikli",
+   "akıllıca; yaratıcı"
+  ],
+  "ex": [
+   "O zeki çocuk öğle yemeğinden önce bulmacayı çözdü.",
+   "Akıllı bir tasarım, küçük kentsel dairelerin çevresel etkisini artırmadan ferah hissettirilmesini sağlayabilir."
+  ],
+  "col": [
+   "zekice bir fikir",
+   "bir konuda becerikli",
+   "akıllıca bir çözüm"
+  ],
+  "tip": "Karşılaştırma biçimleri cleverer ve cleverest'tir. Smart de 'zeki' anlamında kullanılır, ancak clever daha çok sorun çözme becerisini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "everywhere",
+  "senses": [
+   "her yerde; her yere"
+  ],
+  "ex": [
+   "Kediyi her yerde aradık, ama koltuğun altındaymış.",
+   "Dijital hizmetler hızla yaygınlaşsa da güvenilir internet erişimi henüz her yerde mevcut değil."
+  ],
+  "col": [
+   "her yerde aramak",
+   "neredeyse her yerde",
+   "başka her yerde"
+  ],
+  "tip": "Zarf olduğu için önüne in ya da at getirilmez. 'in everywhere' yerine doğrudan everywhere kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "passport",
+  "senses": [
+   "pasaport",
+   "başarıya giden yol; fırsat"
+  ],
+  "ex": [
+   "Çantamı iki kez karıştırdım ama pasaportumu bulamadım.",
+   "Üniversite diploması, pratik deneyim de önemli olsa da, daha iyi bir iş bulmanın anahtarı olarak görülür."
+  ],
+  "col": [
+   "geçerli pasaport",
+   "pasaportu yenilemek",
+   "pasaport kontrolü",
+   "başarıya giden anahtar"
+  ],
+  "tip": "Mecaz anlamda a passport to kalıbı kullanılır; to'dan sonra bir isim gelir: a passport to success.",
+  "note": ""
+ },
+ {
+  "id": "cash",
+  "senses": [
+   "nakit; para",
+   "nakde çevirmek; bozdurmak"
+  ],
+  "ex": [
+   "Acil durumlar için cüzdanımda biraz nakit bulundururum.",
+   "Dijital ödemeler giderek yaygınlaşsa da birçok küçük işletme müşterilerinin nakit ödemesini hâlâ tercih ediyor."
+  ],
+  "col": [
+   "nakit ödemek",
+   "nakit çekmek",
+   "çeki bozdurmak",
+   "nakit akışı"
+  ],
+  "tip": "Para anlamında cash sayılamaz; 'bir cash' demek yanlıştır. Çek bozdurmak için cash fiil olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "scarf",
+  "senses": [
+   "atkı; fular; başörtüsü"
+  ],
+  "ex": [
+   "Boynuna yünden bir atkı doladı.",
+   "Daha soğuk bölgelerde yerel olarak dokunmuş bir atkı, geleneksel zanaatkârlığı yansıtırken temel sıcaklığı da sağlayabilir."
+  ],
+  "col": [
+   "atkı takmak",
+   "yün atkı",
+   "boynuna atkı dolamak"
+  ],
+  "tip": "Çoğulu genellikle scarves biçimindedir; scarfs da kullanılabilir ancak daha az yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "shoulder",
+  "senses": [
+   "omuz",
+   "üstlenmek; yüklenmek"
+  ],
+  "ex": [
+   "Başını babasının omzuna yasladı.",
+   "Hükümetler ve işletmeler, sanayi üretiminin çevresel etkisini azaltmada daha büyük bir sorumluluğu üstlenmelidir."
+  ],
+  "col": [
+   "sorumluluğu üstlenmek",
+   "yükü omuzlamak",
+   "omuz omuza",
+   "omzunun üstünden bakmak"
+  ],
+  "tip": "Fiil olarak genellikle responsibility ya da burden gibi sorumluluk ve yük anlamındaki sözcüklerle birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "refrigerator",
+  "senses": [
+   "buzdolabı"
+  ],
+  "ex": [
+   "Süt bozulmadan önce buzdolabına koy.",
+   "Eski bir buzdolabını verimli bir modelle değiştirmek, evin elektrik tüketimini önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "buzdolabını açmak",
+   "yiyecekleri buzdolabında saklamak",
+   "buzdolabı kapağı"
+  ],
+  "tip": "Günlük konuşmada fridge daha yaygındır. freezer ise dondurucuyu ya da derin dondurucuyu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "prince",
+  "senses": [
+   "prens; şehzade",
+   "emir; prens"
+  ],
+  "ex": [
+   "Prens, sarayın balkonundan ziyaretçilere el salladı.",
+   "Bazı anayasal monarşilerde bir prens, doğrudan siyasi güç olmadan hayır kurumlarını destekleyebilir."
+  ],
+  "col": [
+   "veliaht prens",
+   "genç prens"
+  ],
+  "tip": "Prince her zaman 'oğul' anlamına gelmez; küçük bir devletin hükümdarı ya da emir anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sailing",
+  "senses": [
+   "yelkencilik; yelkenli gezi",
+   "sefer; vapur seferi"
+  ],
+  "ex": [
+   "Geçen hafta sonu gölde yelkenli gezintisine çıktık.",
+   "Yelkenli kulüpleri, genç insanlara takım çalışmasını ve deniz ortamlarına saygıyı öğretirken açık hava egzersizini teşvik edebilir."
+  ],
+  "col": [
+   "yelkenliye çıkmak",
+   "yelkenli kulübü",
+   "yelkenli tekne",
+   "düzenli seferler"
+  ],
+  "tip": "Spor anlamında sayılamaz. Sefer anlamında sayılabilir ve çoğul alabilir: daily sailings gibi.",
+  "note": ""
+ },
+ {
+  "id": "ninth",
+  "senses": [
+   "dokuzuncu",
+   "dokuzda bir"
+  ],
+  "ex": [
+   "Yeni dairemiz dokuzuncu katta.",
+   "Koruma programının dokuzuncu yılına gelindiğinde, nesli tükenmekte olan birkaç tür toparlanmaya başlamıştı."
+  ],
+  "col": [
+   "dokuzuncu kat",
+   "dokuzuncu yüzyıl",
+   "dokuzuncu sırada",
+   "dokuzda biri"
+  ],
+  "tip": "Nine'dan ninth'e geçerken e harfi düşer. Sıra sayılarından önce genellikle the kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nature",
+  "senses": [
+   "doğa",
+   "nitelik; özellik",
+   "mizaç; yaradılış"
+  ],
+  "ex": [
+   "Kamp, meşgul sokaklardan uzakta doğanın tadını çıkarmamızı sağlar.",
+   "Kentsel yoksulluğun doğasını anlamak, altta yatan nedenleri ele alan politikalar geliştirmek için şarttır."
+  ],
+  "col": [
+   "doğayı korumak",
+   "...nin doğası",
+   "insan doğası",
+   "doğası gereği"
+  ],
+  "tip": "Doğa anlamında genellikle the almadan kullanılır. the nature of ise bir şeyin özünü veya niteliğini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "reply",
+  "senses": [
+   "yanıtlamak; cevap vermek",
+   "yanıt; cevap"
+  ],
+  "ex": [
+   "Akşam yemeğini ayırtabilmem için lütfen cuma gününe kadar cevap ver.",
+   "Yerel yetkililer, toplu taşıma hizmetleriyle ilgili kaygılarını dile getiren sakinlere hızlı yanıt vermelidir."
+  ],
+  "col": [
+   "mesaja yanıt vermek",
+   "hızlı bir yanıt",
+   "...e yanıt olarak"
+  ],
+  "tip": "reply to kalıbında to'dan sonra kişi ya da mesaj gelir. reply someone yerine reply to someone kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "oil",
+  "senses": [
+   "petrol; ham petrol",
+   "yağ; yemeklik yağ",
+   "yağlamak"
+  ],
+  "ex": [
+   "Kamyon kuyudan rafineriye petrol taşıdı.",
+   "Petrole bağımlılığı azaltmak, yenilenebilir enerjiye ve daha verimli toplu taşımaya sürekli yatırım yapmayı gerektirir."
+  ],
+  "col": [
+   "ham petrol",
+   "petrol fiyatları",
+   "yemeklik yağ",
+   "menteşeyi yağlamak"
+  ],
+  "tip": "Genellikle sayılamaz. Farklı türdeki yağlar için oils kullanılabilir.",
+  "note": ""
+ }
+]

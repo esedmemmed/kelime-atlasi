@@ -1,0 +1,272 @@
+[
+ {
+  "id": "patient",
+  "senses": [
+   "hasta",
+   "sabırlı"
+  ],
+  "ex": [
+   "Hemşire hastaya bir bardak su getirdi.",
+   "Hastaların tedavi seçeneklerini tartışmasına izin vermek güveni artırabilir ve daha iyi sağlık sonuçlarına yol açabilir."
+  ],
+  "col": [
+   "bir hastayı tedavi etmek",
+   "hasta bakımı",
+   "birine karşı sabırlı olmak"
+  ],
+  "tip": "İsim olarak 'hasta', sıfat olarak 'sabırlı' anlamına gelir. Sıfat olduğunda çoğunlukla 'be patient with' kalıbında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "robot",
+  "senses": [
+   "robot; otomat"
+  ],
+  "ex": [
+   "Biz kahvaltı yaparken küçük bir robot yeri temizledi.",
+   "Robotlar tekrarlayan fabrika işlerini yapabilir; ancak çalışanların yeni görevlere geçmek için ek eğitime ihtiyacı olabilir."
+  ],
+  "col": [
+   "endüstriyel robot",
+   "robot kol",
+   "özerk robot"
+  ],
+  "tip": "'Robot' sayılabilir bir isimdir: 'a robot' ya da 'robots' biçiminde kullanılır. 'Robotik' bilimi için robotics kelimesi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "father-in-law",
+  "senses": [
+   "kayınpeder"
+  ],
+  "ex": [
+   "Kayınpederim bahçe çitini tamir etmemize yardım etti.",
+   "Kayınpederle birlikte yaşamak, ailelerin hane giderlerini paylaşmasını ve nesiller arası bakımı teşvik edebilir."
+  ],
+  "col": [
+   "gelecekteki kayınpederi",
+   "yaşlı kayınpeder"
+  ],
+  "tip": "Üvey baba anlamında değildir; üvey baba 'stepfather' kelimesiyle ifade edilir. Kadın için karşılığı 'mother-in-law'dır.",
+  "note": ""
+ },
+ {
+  "id": "leader",
+  "senses": [
+   "lider; önder",
+   "öncü; lider kuruluş"
+  ],
+  "ex": [
+   "Grup liderimiz bize en güvenli dağ yolunu gösterdi.",
+   "Etkili liderler, çalışanları sorgulamadan talimatları izlemek yerine fikirlerini paylaşmaya teşvik eder."
+  ],
+  "col": [
+   "takım lideri",
+   "siyasi lider",
+   "pazar lideri",
+   "liderlik becerileri"
+  ],
+  "tip": "'Leader' lideri, 'leadership' ise liderlik niteliğini ya da yönetim kadrosunu anlatır. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "subway",
+  "senses": [
+   "metro",
+   "yeraltı yaya geçidi"
+  ],
+  "ex": [
+   "Bu sabah müzeye metroyla gittik.",
+   "Metro ağlarının genişletilmesi, hizmetler yerel halk için uygun fiyatlı ve erişilebilir kaldığı sürece trafik sıkışıklığını azaltabilir."
+  ],
+  "col": [
+   "metroya binmek",
+   "metro istasyonu",
+   "metro hattı",
+   "yaya alt geçidi"
+  ],
+  "tip": "Amerikan İngilizcesinde metro, İngiliz İngilizcesinde ise çoğunlukla yeraltı yaya geçidi anlamına gelir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "pleased",
+  "senses": [
+   "memnun; hoşnut"
+  ],
+  "ex": [
+   "Pastanın çıkışından gerçekten memnunum.",
+   "Sakinler, meclisin çocukların güvenle oynayabileceği daha fazla yeşil alan oluşturmasından memnundu."
+  ],
+  "col": [
+   "...den memnun",
+   "haber almaktan memnun olmak",
+   "tanıştığıma memnun oldum"
+  ],
+  "tip": "'Pleased with' bir şeyden duyulan memnuniyet için, 'pleased to' ise bir eylemden duyulan memnuniyet için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "main",
+  "senses": [
+   "ana; başlıca",
+   "ana boru; ana hat"
+  ],
+  "ex": [
+   "Ana giriş küçük kahve dükkânının yanındadır.",
+   "Kentlere göçün başlıca nedenlerinden biri, şehirlerde sunulan daha geniş iş olanaklarıdır."
+  ],
+  "col": [
+   "başlıca neden",
+   "ana giriş",
+   "temel kaygı",
+   "ana su borusu"
+  ],
+  "tip": "Sıfat olarak isimden önce gelir. Zarf hâli 'mainly' (başlıca olarak, esas olarak) biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "drugstore",
+  "senses": [
+   "eczane; drogeri"
+  ],
+  "ex": [
+   "Tren istasyonunun yakınındaki eczaneden diş macunu aldım.",
+   "Bazı topluluklarda yerel eczane, uygun fiyatlı ilaçların yanı sıra temel sağlık tavsiyeleri de sunar."
+  ],
+  "col": [
+   "yerel eczane",
+   "eczane zinciri",
+   "eczane tezgâhı"
+  ],
+  "tip": "Esas olarak Amerikan İngilizcesinde kullanılır. İngiliz İngilizcesinde aynı anlam için chemist's ya da pharmacy denir.",
+  "note": ""
+ },
+ {
+  "id": "several",
+  "senses": [
+   "birkaç",
+   "birkaçı"
+  ],
+  "ex": [
+   "Mavi olanı seçmeden önce birkaç ceket denedim.",
+   "Birçok çalışma, şehirde yaşayan insanların yeşil alanlara erişiminin ruh sağlığını iyileştirebileceğini göstermektedir."
+  ],
+  "col": [
+   "birkaç kez",
+   "birkaç yıl",
+   "onlardan birkaçı",
+   "birkaç nedenden dolayı"
+  ],
+  "tip": "'Several' sayılabilir çoğul isimlerle kullanılır. 'Several of' ardından belirleyici ya da zamir gelir: several of them.",
+  "note": ""
+ },
+ {
+  "id": "hairdresser",
+  "senses": [
+   "kuaför"
+  ],
+  "ex": [
+   "Kuaför saçımı kesti ve nazikçe kuruttu.",
+   "Kuaförlük eğitimi pratik becerileri müşteri hizmetleriyle birleştirir ve geleneksel akademik eğitimin dışında bir kariyer yolu sunar."
+  ],
+  "col": [
+   "yetkili kuaför",
+   "kuaföre gitmek",
+   "kuaför salonu"
+  ],
+  "tip": "'Hairdresser' kişiyi, 'hairdresser's' ise kuaför dükkânını anlatır. Berber için ayrı bir kelime olan 'barber' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "customer",
+  "senses": [
+   "müşteri"
+  ],
+  "ex": [
+   "Müşteri daha büyük bir ayakkabı istedi.",
+   "İşletmeler, güvenilir ürünler sunarak ve şikâyetlere hızlı yanıt vererek müşteri sadakati oluşturabilir."
+  ],
+  "col": [
+   "müşteri hizmeti",
+   "düzenli müşteri",
+   "müşteri memnuniyeti",
+   "müşteri sadakati"
+  ],
+  "tip": "'Customer' genel olarak alışveriş yapan müşteriyi, 'client' ise çoğunlukla profesyonel hizmet alan müşteriyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "collect",
+  "senses": [
+   "toplamak; koleksiyon yapmak",
+   "almaya gitmek; teslim almak",
+   "toplamak; tahsil etmek"
+  ],
+  "ex": [
+   "Sahile her gittiğimizde pürüzsüz taşlar toplarım.",
+   "Araştırmacılar, ulaşım politikalarının günlük seyahat alışkanlıklarını nasıl etkilediğini değerlendirmek için yerel hanelerden veri toplar."
+  ],
+  "col": [
+   "veri toplamak",
+   "bir koliyi teslim almak",
+   "bağış toplamak",
+   "pul koleksiyonu yapmak"
+  ],
+  "tip": "İngiliz İngilizcesinde 'collect someone' birini almaya gitmek anlamına gelir. Anlam, bağlama göre değişir.",
+  "note": ""
+ },
+ {
+  "id": "frog",
+  "senses": [
+   "kurbağa"
+  ],
+  "ex": [
+   "Yeşil bir kurbağa taştan sıçrayarak havuzumuza atladı.",
+   "Kurbağa popülasyonunun azalması çevresel zarara işaret edebilir, çünkü bu hayvanlar su kalitesindeki değişimlere karşı hassastır."
+  ],
+  "col": [
+   "ağaç kurbağası",
+   "kurbağa popülasyonu",
+   "kurbağa yumurtaları"
+  ],
+  "tip": "Sayılabilir bir isimdir; çoğulu 'frogs' olur. Benzer görünen 'toad' ise ayrı bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "magic",
+  "senses": [
+   "büyü; sihir",
+   "büyü; cazibe",
+   "sihirli; büyülü"
+  ],
+  "ex": [
+   "Çocuklar adam bir sihir numarası yapınca güldü.",
+   "Teknoloji eğitimi geliştirebilse de okulların karşılaştığı her sorun için sihirli bir çözüm değildir."
+  ],
+  "col": [
+   "sihir numarası",
+   "sihirli değnek",
+   "sihirli çözüm"
+  ],
+  "tip": "'Magic' sihir ve sihir numarası anlamına gelir. 'Magical' ise 'a magical day' örneğinde olduğu gibi büyüleyici, harika anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "topic",
+  "senses": [
+   "konu"
+  ],
+  "ex": [
+   "Yemek evimizde her zaman popüler bir konudur.",
+   "İklim değişikliği, gezegenimizin geleceğine dair okul tartışmalarında merkezi bir konu hâline geldi."
+  ],
+  "col": [
+   "tartışma konusu",
+   "tartışmalı bir konu",
+   "konuyu değiştirmek",
+   "araştırma konusu"
+  ],
+  "tip": "'Topic' tartışılan ya da yazılan konuyu, 'title' ise başlığı anlatır. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ }
+]

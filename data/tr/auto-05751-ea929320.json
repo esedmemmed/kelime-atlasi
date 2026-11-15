@@ -1,0 +1,276 @@
+[
+ {
+  "id": "rejoice",
+  "senses": [
+   "sevinmek; neşelenmek"
+  ],
+  "ex": [
+   "Kayıp kedimiz sonunda eve döndüğünde çok sevindik.",
+   "Sakinler, yerel kütüphanenin yeniden açılmasına sevindi; kütüphane değerli eğitim kaynakları sunuyor."
+  ],
+  "col": [
+   "habere sevinmek",
+   "birinin başarısına sevinmek",
+   "...olduğuna sevinmek"
+  ],
+  "tip": "Resmî bir fiil; genellikle rejoice at/in ile kullanılır, that yan cümlesi de alabilir.",
+  "note": ""
+ },
+ {
+  "id": "onset",
+  "senses": [
+   "başlangıç; baş gösterme"
+  ],
+  "ex": [
+   "Aniden başlayan yağmur bizi içeri koşmaya itti.",
+   "Düzenli fiziksel aktivite, bazı kronik hastalıkların başlamasını geciktirebilir ve genel iyi oluşu artırabilir."
+  ],
+  "col": [
+   "semptomların başlaması",
+   "kışın başlangıcı",
+   "ani başlangıç",
+   "başlangıcını geciktirmek"
+  ],
+  "tip": "Genellikle the onset of kalıbıyla kullanılır; çoğunlukla hastalık ya da olumsuz durumların başlangıcı için tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "fission",
+  "senses": [
+   "nükleer fisyon; çekirdek bölünmesi",
+   "ikiye bölünerek üreme"
+  ],
+  "ex": [
+   "Bilim müzesinde çekirdek bölünmesini gösteren bir animasyon izledik.",
+   "Nükleer fisyon, doğrudan karbon salımı olmadan elektrik üretir; ancak radyoaktif atıkların yönetimi büyük bir sorun olmaya devam ediyor."
+  ],
+  "col": [
+   "nükleer fisyon",
+   "ikili bölünme",
+   "fisyon tepkimesi"
+  ],
+  "tip": "Nükleer fizikte fission fisyon (çekirdek bölünmesi), fusion ise füzyon (birleşme) anlamına gelir; karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "illuminate",
+  "senses": [
+   "aydınlatmak",
+   "açıklığa kavuşturmak; aydınlatmak"
+  ],
+  "ex": [
+   "Güneş battıktan sonra küçük lambalar bahçe yolunu aydınlatıyor.",
+   "Farklı eğitim sistemlerini karşılaştırmak, çeşitli sosyal geçmişlerden gelen öğrencilerin başarısını etkileyen faktörleri açığa çıkarabilir."
+  ],
+  "col": [
+   "odayı aydınlatmak",
+   "bir sorunu açıklığa kavuşturmak",
+   "parlak biçimde aydınlatılmış"
+  ],
+  "tip": "Hem fiziksel ışık hem de bir konuyu açıklama anlamında kullanılır; akademik yazıda ikinci anlam sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "brood",
+  "senses": [
+   "yavru kuş grubu",
+   "üzülerek düşünmek; kafaya takmak",
+   "kuluçkaya yatmak"
+  ],
+  "ex": [
+   "Ördek yavrularını sessiz göletin içinden yürüttü.",
+   "Küçük aksiliklere takılıp kalan öğrenciler, zorlu derslerde motivasyonlarını korumakta zorlanabilir."
+  ],
+  "col": [
+   "bir grup civciv",
+   "bir hatayı kafaya takmak",
+   "geçmişi düşünüp durmak"
+  ],
+  "tip": "Fiil olarak üzüntüyle düşünme anlamında over ya da on ile kullanılır; 'kuluçkaya yatmak' anlamı daha az yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "relinquish",
+  "senses": [
+   "vazgeçmek; bırakmak"
+  ],
+  "ex": [
+   "Pencere kenarındaki koltuğunu isteksizce bıraktı.",
+   "Ulusal hükümetler, enerji politikası üzerindeki kontrolü uluslararası kuruluşlara devretmekte isteksiz olabilir."
+  ],
+  "col": [
+   "kontrolden vazgeçmek",
+   "iktidarı bırakmak",
+   "bir iddiadan vazgeçmek"
+  ],
+  "tip": "Resmî bir geçişli fiil; nesnesi doğrudan gelir (relinquish control), of gibi bir edat gerektirmez.",
+  "note": ""
+ },
+ {
+  "id": "muster",
+  "senses": [
+   "toplamak; bir araya getirmek",
+   "toplamak; çağırmak",
+   "toplanma; yoklama"
+  ],
+  "ex": [
+   "Sonunda yardım istemek için cesaretimi topladım.",
+   "Yerel yönetimler, kentsel ulaşım sistemlerinde büyük değişikliklere gitmeden önce yeterli kamuoyu desteğini toplamalıdır."
+  ],
+  "col": [
+   "cesaret toplamak",
+   "destek toplamak",
+   "güç toplamak",
+   "yeterli bulunmak"
+  ],
+  "tip": "Cesaret ya da destek toplamak anlamında kullanılır; pass muster ise 'yeterli bulunmak, kabul görmek' demektir.",
+  "note": ""
+ },
+ {
+  "id": "petty",
+  "senses": [
+   "önemsiz; küçük",
+   "küçük görüşlü; ufak tefek",
+   "hafif; küçük ölçekli"
+  ],
+  "ex": [
+   "Öğleden sonrayı önemsiz ayrıntılar yüzünden tartışarak harcadık.",
+   "Gençlik hizmetlerine yapılan yatırım, yapıcı etkinlikler ve destek sağlayarak küçük suçların azaltılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "küçük suç",
+   "küçük hırsızlık",
+   "önemsiz tartışmalar",
+   "küçük harcamalar kasası"
+  ],
+  "tip": "İnsanlar için kullanıldığında olumsuzdur ve küçük görüşlü anlamına gelir; sadece cimri olmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "justification",
+  "senses": [
+   "gerekçe; haklı neden"
+  ],
+  "ex": [
+   "Bu dağınıklığı geride bırakmak için hiçbir gerekçe yok.",
+   "Hükümetler, kamu güvenliği çıkarları doğrultusunda bireysel özgürlüğü kısıtlayan politikalar için açık gerekçeler sunmak zorundadır."
+  ],
+  "col": [
+   "...için gerekçe",
+   "gerekçe sunmak",
+   "çok az gerekçe",
+   "ekonomik gerekçe"
+  ],
+  "tip": "Genellikle justification for + isim ya da -ing yapısıyla kullanılır; neden anlatılan şeyin haklılığını belirtir.",
+  "note": ""
+ },
+ {
+  "id": "limestone",
+  "senses": [
+   "kireçtaşı"
+  ],
+  "ex": [
+   "Eski kulübe, solgun renkli yerel kireçtaşından yapılmıştı.",
+   "Kireçtaşı oluşumları turistleri çeker; ancak yoğun ziyaretçi trafiği zamanla hassas mağara ortamlarına zarar verebilir."
+  ],
+  "col": [
+   "kireçtaşı uçurumları",
+   "kireçtaşı mağarası",
+   "kireçtaşı ocağı",
+   "kireçtaşı oluşumları"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir (limestone). Lime ise kireç ya da misket limonu anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "hemisphere",
+  "senses": [
+   "yarımküre",
+   "beyin yarımküresi"
+  ],
+  "ex": [
+   "Avustralya, Avrupa'dan çok uzakta, güney yarımkürede yer alır.",
+   "Kuzey ve güney yarımküreler arasındaki mevsim farklılıkları, yıl boyunca küresel turizm eğilimlerini etkiler."
+  ],
+  "col": [
+   "kuzey yarımküre",
+   "güney yarımküre",
+   "sol beyin yarımküresi"
+  ],
+  "tip": "Coğrafyada yeryüzünün yarısı, tıpta ise beynin iki yarısından biri anlamına gelir; bağlama göre anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "pester",
+  "senses": [
+   "rahatsız etmek; tutturmak"
+  ],
+  "ex": [
+   "Çocuklar amcalarından bir uyku masalı daha istemek için tutturdu.",
+   "Bazı çevrimiçi reklamlar kullanıcıları tekrarlayan isteklerle rahatsız ediyor; bu da dijital hizmetlere olan güveni azaltabilir."
+  ],
+  "col": [
+   "birinden bir şey için tutturmak",
+   "birini bir şey yapması için sıkıştırmak",
+   "birini sorularla bunaltmak"
+  ],
+  "tip": "Genellikle pester sb for sth ya da pester sb to do sth kalıplarıyla kullanılır; tekrar ve ısrar vurgusu taşır.",
+  "note": ""
+ },
+ {
+  "id": "venture",
+  "senses": [
+   "riskli girişim; proje",
+   "göze almak; cesaret etmek",
+   "cesaretle öne sürmek"
+  ],
+  "ex": [
+   "Son iş girişimleri küçük bir fırın.",
+   "Kamu fonları, genç girişimcilerin topluluklarındaki çevre sorunlarını çözen projeler başlatmasına yardımcı olabilir."
+  ],
+  "col": [
+   "ortak girişim",
+   "girişim sermayesi",
+   "bir alana atılmak",
+   "görüş öne sürmek"
+  ],
+  "tip": "Venture tek başına risk sermayesi anlamına gelmez; risk sermayesi venture capital'dır.",
+  "note": ""
+ },
+ {
+  "id": "compile",
+  "senses": [
+   "derlemek; hazırlamak",
+   "derlemek"
+  ],
+  "ex": [
+   "Uzun tren yolculuğumuz için bir çalma listesi hazırladık.",
+   "Araştırmacılar, hava kirliliği ile çocukluk çağı astımı arasındaki ilişkiyi incelemek için birkaç hastaneden veri topladı."
+  ],
+  "col": [
+   "rapor hazırlamak",
+   "veri derlemek",
+   "liste hazırlamak",
+   "kodu derlemek"
+  ],
+  "tip": "Yazmaktan çok, farklı kaynaklardan bilgi toplayıp düzenlemeyi ifade eder. Bilgisayar bağlamında 'derlemek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "vulnerable",
+  "senses": [
+   "savunmasız; kırılgan"
+  ],
+  "ex": [
+   "Genç bitkiler soğuk gecelerde donmaya karşı savunmasızdır.",
+   "Yerel yönetimler, aşırı sıcak dönemlerde savunmasız durumdaki sakinlere ek destek sağlamalıdır."
+  ],
+  "col": [
+   "hastalığa karşı savunmasız",
+   "savunmasız gruplar",
+   "kendini savunmasız hissetmek"
+  ],
+  "tip": "Genellikle vulnerable to + isim kalıbıyla kullanılır; to'dan sonra fiil değil isim gelir.",
+  "note": ""
+ }
+]

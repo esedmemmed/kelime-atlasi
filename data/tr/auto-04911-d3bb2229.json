@@ -1,0 +1,276 @@
+[
+ {
+  "id": "collide",
+  "senses": [
+   "çarpışmak; çarpmak",
+   "çatışmak; uyuşmamak"
+  ],
+  "ex": [
+   "Süpermarketin kalabalık girişinin yakınında iki alışveriş arabası çarpıştı.",
+   "Hükümetler büyük altyapı projelerini onaylamayı düşündüğünde ekonomik hedefler sık sık çevresel önceliklerle çatışır."
+  ],
+  "col": [
+   "ile çarpışmak",
+   "kafa kafaya çarpışmak",
+   "çatışan çıkarlar"
+  ],
+  "tip": "Genellikle geçişsiz fiildir; bir şeye çarpmak için with kullanılır. 'collide to' gibi bir kullanım yoktur.",
+  "note": ""
+ },
+ {
+  "id": "merchandise",
+  "senses": [
+   "mal; ürün",
+   "pazarlamak; tanıtıp satmak"
+  ],
+  "ex": [
+   "Dükkân yeni ürünlerini girişin yakınında sergiliyor.",
+   "Yerel üretim ürünleri satmak küçük işletmeleri destekleyebilir ve ulaşımın çevreye etkisini azaltabilir."
+  ],
+  "col": [
+   "mal satmak",
+   "markalı ürünler",
+   "ürünleri sergilemek"
+  ],
+  "tip": "İsim olarak sayılamaz; 'merchandises' demeyin. Fiil olarak son hece /daɪz/ okunur.",
+  "note": ""
+ },
+ {
+  "id": "edible",
+  "senses": [
+   "yenilebilir"
+  ],
+  "ex": [
+   "Bu yenilebilir çiçekler salataya özellikle renk katıyor.",
+   "Dükkânların atacağı yenilebilir gıdaları yeniden dağıtmak israfı azaltabilir ve düşük gelirli ailelere destek olabilir."
+  ],
+  "col": [
+   "yenilebilir bitkiler",
+   "yenilebilir çiçekler",
+   "yenilebilir yağ"
+  ],
+  "tip": "Edible 'yenebilir' demektir, 'lezzetli' değildir. Yabani bitkileri görünüşüne bakarak yenilebilir sanmayın.",
+  "note": ""
+ },
+ {
+  "id": "disrupt",
+  "senses": [
+   "aksatmak; bozmak"
+  ],
+  "ex": [
+   "Yarın ağır kar yağışı tren yolculuğumuzu aksatabilir.",
+   "Sık elektrik kesintileri, güvenilir internet erişiminin zaten sınırlı olduğu kırsal topluluklarda çevrim içi eğitimi aksatıyor."
+  ],
+  "col": [
+   "trafiği aksatmak",
+   "hizmetleri aksatmak",
+   "uykuyu bölmek",
+   "öğrenmeyi aksatmak"
+  ],
+  "tip": "Geçişli fiildir; nesneyi doğrudan alır, araya edat koymayın. İsim hali 'disruption' ayrı bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "instance",
+  "senses": [
+   "örnek; durum"
+  ],
+  "ex": [
+   "Bazı meyveler iyi donar; örneğin böğürtlenler lezzetini korur.",
+   "Bu proje, yerel işletmeler ile çevre araştırma grupları arasındaki başarılı iş birliğinin bir örneğini sunuyor."
+  ],
+  "col": [
+   "örneğin",
+   "bu durumda",
+   "tek seferlik bir olay"
+  ],
+  "tip": "'for instance' ve 'for example' eşdeğerdir. 'instant' (anlık) ile karıştırmayın; instance 'örnek, durum' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "threatened",
+  "senses": [
+   "tehlike altındaki",
+   "tehdit altında hisseden"
+  ],
+  "ex": [
+   "Kurtarma merkezi, nesli tehlikede olan birkaç kuş türüne bakıyor.",
+   "Tehdit altındaki türlerin korunması, hükümetlerin doğal yaşam alanlarını korumasını ve biyoçeşitlilik kaybının altındaki nedenlerle mücadele etmesini gerektirir."
+  ],
+  "col": [
+   "tehlike altındaki türler",
+   "tehdit altında hissetmek",
+   "yok olma tehlikesiyle karşı karşıya"
+  ],
+  "tip": "'threatened' tehdit altında olan kişi veya şeyi, 'threatening' ise tehdit eden şeyi anlatır. Bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "howl",
+  "senses": [
+   "uluyarak bağırmak; uğuldamak",
+   "uluma; feryat"
+  ],
+  "ex": [
+   "Ambulans evin önünden geçerken köpeğimiz uludu.",
+   "Sakinler, zayıf yalıtımlı pencerelerden rüzgârın uğuldayarak geçtiğini ve kış boyunca evlerini rahatsız ettiğini şikâyet etti."
+  ],
+  "col": [
+   "aya uluma",
+   "kahkahalarla gülmek",
+   "protesto feryatları",
+   "rüzgâr uğuluyor"
+  ],
+  "tip": "Hayvan ulumasından rüzgâr uğultusuna ve öfke çığlığına kadar geniş kullanılır. Genel 'bağırmak' anlamındaki cry ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "satisfactory",
+  "senses": [
+   "yeterli; kabul edilebilir"
+  ],
+  "ex": [
+   "Tamirci, frenlerin yeterli durumda olduğunu doğruladı.",
+   "Şehirler sakinlerinin özel araçlara daha az bağımlı olmasını istiyorsa yeterli toplu taşıma sağlamak şarttır."
+  ],
+  "col": [
+   "yeterli sonuçlar",
+   "tatmin edici açıklama",
+   "yeterli ilerleme"
+  ],
+  "tip": "Bir standarda uygunluğu anlatır, çok iyi anlamına gelmez. İnsanın duyduğu memnuniyet için 'satisfied' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "chief",
+  "senses": [
+   "başlıca; en önemli",
+   "baş; en üst düzey",
+   "lider; şef"
+  ],
+  "ex": [
+   "Benim en büyük kaygım herkesi güvenle eve ulaştırmak.",
+   "Toplu taşımanın en büyük avantajı, az yol alanı kullanarak çok sayıda insanı taşıyabilmesidir."
+  ],
+  "col": [
+   "başlıca kaygı",
+   "baş yönetici",
+   "başlıca neden",
+   "polis şefi"
+  ],
+  "tip": "Hem sıfat hem isim olarak kullanılır. Zarf hali 'chiefly' (başlıca olarak) şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "indirectly",
+  "senses": [
+   "dolaylı olarak",
+   "dolambaçlı biçimde"
+  ],
+  "ex": [
+   "Boş daireyi bir meslektaşım aracılığıyla dolaylı olarak öğrendim.",
+   "Akaryakıt fiyatlarındaki artış, tarımsal ürünlerin taşınmasını tedarikçiler için pahalılaştırdığından gıda maliyetlerini dolaylı olarak etkiler."
+  ],
+  "col": [
+   "dolaylı olarak etkilemek",
+   "dolaylı olarak sorumlu olmak",
+   "dolaylı olarak değinmek",
+   "doğrudan veya dolaylı olarak"
+  ],
+  "tip": "Zarftır; fiili veya sıfatı değiştirir. Sıfat hali 'indirect' olup 'indirectly' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "halt",
+  "senses": [
+   "durmak; durdurmak",
+   "duraklama; durma"
+  ],
+  "ex": [
+   "Otobüs bir koyun karşıya geçince aniden durdu.",
+   "Habitat tahribatını durdurmak ve nesli tükenme tehlikesindeki türleri korumak için acil uluslararası iş birliği gerekiyor."
+  ],
+  "col": [
+   "durmak",
+   "durdurmak",
+   "üretimi durdurmak",
+   "gerilemeyi durdurmak"
+  ],
+  "tip": "'stop'tan daha resmi bir kelimedir. 'come to a halt' (durmak) ve 'bring to a halt' (durdurmak) kalıplarını öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "man-made",
+  "senses": [
+   "insan yapımı; yapay"
+  ],
+  "ex": [
+   "Havaalanının yakınındaki insan yapımı bir gölün etrafında yürüdük.",
+   "Barajlar gibi insan yapımı engeller, balıkların üreme alanlarına ulaşmasını önleyerek nehir ekosistemlerini bozabilir."
+  ],
+  "col": [
+   "insan yapımı göl",
+   "yapay malzemeler",
+   "insan kaynaklı felaket",
+   "sentetik lifler"
+  ],
+  "tip": "Doğal olmayan, insanlar tarafından yapılmış veya yol açılmış şeyleri anlatır. Yerine 'human-made' da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "absurd",
+  "senses": [
+   "saçma; akıl dışı"
+  ],
+  "ex": [
+   "Dükkân bu kadar yakınken arabayla gitmek saçma görünüyor.",
+   "Hizmet kalitesi veya uygun fiyat artmadan toplu taşıma kullanımının artmasını beklemek saçmadır."
+  ],
+  "col": [
+   "saçma bir fikir",
+   "saçma bir iddia",
+   "tamamen saçma"
+  ],
+  "tip": "'It is absurd to do sth.' kalıbı yaygındır. Güçlü bir olumsuz tepki bildirir; hafif durumlar için kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "boom",
+  "senses": [
+   "patlama; hızlı büyüme",
+   "gümbürtü",
+   "hızla büyümek; gümbürdemek"
+  ],
+  "ex": [
+   "Turizm patlaması kasabadaki her oteli doldurdu.",
+   "Konut patlaması iş yaratabilir, ama yerel sakinler için evleri daha az erişilebilir hale de getirebilir."
+  ],
+  "col": [
+   "ekonomik canlanma",
+   "turizmdeki patlama",
+   "gelişen sektör"
+  ],
+  "tip": "Ekonomide ani büyümeyi anlatırken 'a boom in' kalıbıyla kullanılır. Ses anlamı da vardır; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "migration",
+  "senses": [
+   "göç",
+   "hayvan göçü",
+   "veri veya sistem aktarımı"
+  ],
+  "ex": [
+   "Yıllık sonbahar göçü sırasında kuşları izledik.",
+   "Kırsal alanlardan kentlere göç, genişleyen sanayilere işgücü sağlarken konut üzerindeki baskıyı da artırabilir."
+  ],
+  "col": [
+   "kırsaldan kentlere göç",
+   "mevsimlik göç",
+   "kuş göçü",
+   "veri aktarımı"
+  ],
+  "tip": "'Migration' genel göçü anlatır; 'immigration' ülkeye giriş, 'emigration' ise ülkeden çıkış vurgusu taşır.",
+  "note": ""
+ }
+]

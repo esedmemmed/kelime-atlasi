@@ -1,0 +1,271 @@
+[
+ {
+  "id": "invigilate",
+  "senses": [
+   "sınav gözetmek"
+  ],
+  "ex": [
+   "Öğretmenlerimiz final sınavlarını sırayla gözetiyor.",
+   "Üniversiteler personeli sınavları adil biçimde gözetmeye ve kopya şüphesine uygun şekilde karşılık vermeye hazırlamalıdır."
+  ],
+  "col": [
+   "sınavı gözetmek",
+   "sınavları gözetmek"
+  ],
+  "tip": "Esas olarak İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde bunun yerine proctor denir.",
+  "note": ""
+ },
+ {
+  "id": "exorbitant",
+  "senses": [
+   "aşırı; fahiş"
+  ],
+  "ex": [
+   "Otel kahvaltı için fahiş bir ücret aldı.",
+   "Büyük şehirlerdeki fahiş kiralar, temel hizmet çalışanlarını işyerlerinden uzakta yaşamaya zorlayabiliyor."
+  ],
+  "col": [
+   "fahiş fiyatlar",
+   "fahiş ücretler",
+   "fahiş kiralar"
+  ],
+  "tip": "Expensive'den daha güçlü bir anlam taşır; makul olmayacak ölçüde yüksek olduğunu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "abrupt",
+  "senses": [
+   "ani; birden",
+   "sert; kaba"
+  ],
+  "ex": [
+   "Otobüs evimizin önünde ani bir frenle durdu.",
+   "Hükümet politikasındaki ani değişiklikler işletmeler için belirsizlik yaratabilir ve uzun vadeli yatırımları caydırabilir."
+  ],
+  "col": [
+   "ani bir değişiklik",
+   "ani bir son",
+   "sert bir tavır"
+  ],
+  "tip": "Değişim için 'ani', kişinin tavrı ya da konuşma biçimi için 'sert, kaba' anlamı verilir.",
+  "note": ""
+ },
+ {
+  "id": "spiral",
+  "senses": [
+   "sarmal; spiral",
+   "sarmal biçimli",
+   "dönmek; hızla artmak"
+  ],
+  "ex": [
+   "Portakal kabuğu tabağın üzerine sarmal bir biçimde düştü.",
+   "Yeterli konut politikaları olmazsa, kira maliyetleri birçok düşük gelirli ailenin bütçesini aşabilir."
+  ],
+  "col": [
+   "spiral merdiven",
+   "düşüş sarmalı",
+   "kontrolden çıkmak",
+   "hızla artan maliyetler"
+  ],
+  "tip": "İngiliz İngilizcesinde spiralled, Amerikan İngilizcesinde spiraled yazılır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "exempt",
+  "senses": [
+   "muaf",
+   "muaf tutmak"
+  ],
+  "ex": [
+   "Beş yaşın altındaki çocuklar giriş ücretinden muaftır.",
+   "Hükümetler, yatırımı teşvik etmek ve yerel istihdamı desteklemek için küçük işletmeleri belirli vergilerden muaf tutabilir."
+  ],
+  "col": [
+   "vergiden muaf",
+   "birini muaf tutmak",
+   "vergi muafiyeti statüsü"
+  ],
+  "tip": "be exempt from kalıbı 'bir şeyden muaf olmak' anlamına gelir; exempt sb from ise birini bir şeyden muaf tutmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "preside",
+  "senses": [
+   "başkanlık etmek; yönetmek"
+  ],
+  "ex": [
+   "Kulübümüz bir sonraki toplantıya başkanlık etmesi için Nina'yı seçti.",
+   "Tüm katılımcıların adil muamele görmesini sağlamak için bağımsız bir uzman kamuya açık duruşmaya başkanlık etmelidir."
+  ],
+  "col": [
+   "toplantıya başkanlık etmek",
+   "törende başkanlık etmek",
+   "başkanlık eden yargıç"
+  ],
+  "tip": "Toplantı gibi nesneleri doğrudan almaz; genellikle preside over biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "diffuse",
+  "senses": [
+   "yaymak; dağıtmak",
+   "yayılmış; dağınık",
+   "dağınık; düzensiz"
+  ],
+  "ex": [
+   "Taze ekmeğin kokusu mutfağa yayıldı.",
+   "Kamu kütüphaneleri, güvenilir bilgi ve eğitim kaynaklarına ücretsiz erişim sağlayarak bilgiyi toplum genelinde yaymaya yardımcı olur."
+  ],
+  "col": [
+   "dağınık ışık",
+   "bilgiyi yaymak",
+   "yayılmak"
+  ],
+  "tip": "Fiilin sonu /z/, sıfatın sonu /s/ okunur; defuse (etkisiz hâle getirmek) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "bread-earner",
+  "senses": [
+   "geçim sağlayan; ekmek parası kazanan"
+  ],
+  "ex": [
+   "Annem ailemizin başlıca geçim kaynağıydı.",
+   "Uygun fiyatlı çocuk bakımı, bir ailenin tek geçim sağlayıcısının çalışmaya devam etmesine yardımcı olabilir ve çocukların uygun bakım almasını sağlar."
+  ],
+  "col": [
+   "başlıca geçim kaynağı",
+   "tek geçim kaynağı"
+  ],
+  "tip": "Daha az yaygın bir ifadedir; günlük dilde ve sınav yazımında genellikle breadwinner tercih edilir.",
+  "note": "Daha az yaygın bir ifade; genellikle breadwinner kullanılır."
+ },
+ {
+  "id": "conscientious",
+  "senses": [
+   "titiz; sorumlu; vicdanlı"
+  ],
+  "ex": [
+   "Titiz komşumuz her sabah bitkilerimizi kontrol eder.",
+   "Vicdanlı çalışanlar, prosedürleri dikkatle izleyip olası tehlikeleri zamanında bildirerek iş güvenliğine katkıda bulunur."
+  ],
+  "col": [
+   "titiz bir işçi",
+   "çalışkan bir öğrenci",
+   "işine özen gösteren"
+  ],
+  "tip": "Conscientious (titiz, sorumlu) ile conscious (bilinçli, farkında) kelimelerini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "whitewash",
+  "senses": [
+   "örtbas etmek; aklamak",
+   "örtbas; aklama",
+   "kireç badanası"
+  ],
+  "ex": [
+   "Özür dilemek yerine hatayı örtbas etmeye çalıştılar.",
+   "Kamu güvenliğindeki ciddi başarısızlıkların kuruluşlar tarafından örtbas edilmesini önlemek için bağımsız soruşturmalar şarttır."
+  ],
+  "col": [
+   "skandalı örtbas etmek",
+   "resmi bir örtbas",
+   "bir kat kireç badanası"
+  ],
+  "tip": "Mecaz anlamı olumsuzdur; sorunu çözmek değil, gizlemek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "vogue",
+  "senses": [
+   "moda; revaç"
+  ],
+  "ex": [
+   "Geniş paçalı pantolonlar bu yaz yeniden moda oldu.",
+   "Eski mobilyaları onarmaya yönelik güncel moda, evsel atığı azaltmaya ve daha sürdürülebilir tüketime yardımcı olabilir."
+  ],
+  "col": [
+   "moda olmak",
+   "moda olmaya başlamak",
+   "...e olan revaç"
+  ],
+  "tip": "in vogue kalıbı 'moda olan' anlamına gelir; vogue genellikle tekil ve soyut biçimde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "grit",
+  "senses": [
+   "kum; çakıl",
+   "azim; kararlılık",
+   "yollara kum serpmek"
+  ],
+  "ex": [
+   "Yürüyüş botlarımın içindeki kumları silkeledim.",
+   "Yetenek önemli olsa da öğrenciler kalıcı öğrenme güçlüklerini aşmak için çoğu zaman azim ve tutarlı destek ihtiyacı duyar."
+  ],
+  "col": [
+   "dişlerini sıkmak",
+   "yollara kum serpmek",
+   "azim göstermek",
+   "azim ve kararlılık"
+  ],
+  "tip": "Kum ve azim anlamında sayılamayan bir isimdir; 'öğütmek' anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "endeavour",
+  "senses": [
+   "çaba; girişim",
+   "çabalamak; uğraşmak"
+  ],
+  "ex": [
+   "Birlikte sebze yetiştirmek ailemizin en yeni girişimi oldu.",
+   "Hükümetler, uzak topluluklardaki insanların güvenilir toplu taşımaya erişebilmesi için çaba göstermelidir."
+  ],
+  "col": [
+   "bir şey yapmaya çalışmak",
+   "her türlü çabayı göstermek",
+   "ortak girişim",
+   "bilimsel çaba"
+  ],
+  "tip": "İngiliz yazımıdır; Amerikan İngilizcesinde endeavor yazılır. Fiilden sonra to + fiil gelir.",
+  "note": ""
+ },
+ {
+  "id": "insulation",
+  "senses": [
+   "yalıtım; izolasyon",
+   "yalıtım malzemesi"
+  ],
+  "ex": [
+   "Yeni çatı yalıtımı yatak odamızı sıcak tutuyor.",
+   "Eski evlerde yalıtımın iyileştirilmesi enerji tüketimini azaltabilir ve kış aylarında ısıtma giderlerini düşürebilir."
+  ],
+  "col": [
+   "ısı yalıtımı",
+   "ses yalıtımı",
+   "elektrik yalıtımı",
+   "yalıtım malzemesi"
+  ],
+  "tip": "Genellikle sayılamaz; yalıtım işlevi ya da kullanılan malzeme anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "clench",
+  "senses": [
+   "sıkmak; kenetlemek"
+  ],
+  "ex": [
+   "Soğuk rüzgar eserken Arun yumruklarını sıktı.",
+   "Uzun süre stres altında kalan insanlar uyku sırasında dişlerini sıkabilir ve bu da çene ağrısına yol açabilir."
+  ],
+  "col": [
+   "yumruklarını sıkmak",
+   "dişlerini sıkmak",
+   "çenesini sıkmak"
+  ],
+  "tip": "Clench 'sıkmak, kenetlemek' anlamına gelir; clinch ise bir anlaşmayı kesinleştirmek ya da zafer kazanmak anlamında kullanılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,279 @@
+[
+ {
+  "id": "quality",
+  "senses": [
+   "kalite",
+   "nitelik; özellik",
+   "kaliteli"
+  ],
+  "ex": [
+   "Bu ayakkabıların kalitesi fiyatına göre beni şaşırttı.",
+   "Hükümetler, insanları araba kullanmayı bırakmaya teşvik etmeden önce toplu taşımanın kalitesini artırmalı."
+  ],
+  "col": [
+   "yüksek kalite",
+   "yaşam kalitesi",
+   "liderlik nitelikleri",
+   "kalite kontrolü"
+  ],
+  "tip": "Kalite anlamında genellikle sayılamaz; 'özellik' anlamında qualities biçiminde çoğul kullanılır. Sıfat olarak da 'quality time' gibi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "international",
+  "senses": [
+   "uluslararası",
+   "uluslararası maç; milli oyuncu"
+  ],
+  "ex": [
+   "Kız kardeşim yarın sabah uluslararası bir uçuşa binecek.",
+   "Bireysel ülke sınırlarını aşan çevre sorunlarıyla başa çıkmak için uluslararası iş birliği şarttır."
+  ],
+  "col": [
+   "uluslararası ticaret",
+   "uluslararası iş birliği",
+   "uluslararası uçuş",
+   "uluslararası öğrenciler"
+  ],
+  "tip": "'International' birden fazla ülkeyi ilgilendiren şeyler için kullanılır; 'domestic' ise iç, yerel anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "event",
+  "senses": [
+   "etkinlik; organizasyon",
+   "yarışma dalı; branş"
+  ],
+  "ex": [
+   "Açık hava konseri kasabamızın bu yazki en büyük etkinliğiydi.",
+   "Büyük bir kültürel etkinliğe ev sahipliği yapmak yerel turizmi canlandırabilir; ancak mali faydalar eşit dağılmayabilir."
+  ],
+  "col": [
+   "etkinlik düzenlemek",
+   "büyük etkinlik",
+   "spor etkinliği",
+   "... durumunda"
+  ],
+  "tip": "'in the event of' kalıbından sonra isim gelir; 'if' gibi tam cümle almaz. Anlamı 'bir durumda, olursa' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "however",
+  "senses": [
+   "ancak; yine de",
+   "ne kadar olursa olsun",
+   "nasıl olursa olsun"
+  ],
+  "ex": [
+   "Ceket sıcak görünüyordu; ancak şaşırtıcı derecede ince hissettirdi.",
+   "Çevrimiçi kurslar daha fazla esneklik sunar; yine de bazı öğrenciler öğretmenlerle yüz yüze etkileşimden daha çok fayda görür."
+  ],
+  "col": [
+   "ne kadar zor olursa olsun",
+   "ne kadar çok olursa olsun",
+   "ne kadar çabalasan da"
+  ],
+  "tip": "Zıtlık bildirirken yalnızca virgülle iki cümleyi birleştirmeyin; noktalı virgül kullanın ya da cümle başında 'However,' yazın.",
+  "note": ""
+ },
+ {
+  "id": "present",
+  "senses": [
+   "hazır bulunan; mevcut",
+   "sunmak; takdim etmek",
+   "hediye; armağan"
+  ],
+  "ex": [
+   "Sınıf fotoğrafı için bütün çocuklar hazır bulundu.",
+   "Araştırmacılar, politika yapıcıların halk sağlığı konusunda bilinçli kararlar verebilmesi için bulgularını açıkça sunmalıdır."
+  ],
+  "col": [
+   "... da hazır bulunmak",
+   "şu an; şimdilik",
+   "kanıt sunmak",
+   "doğum günü hediyesi"
+  ],
+  "tip": "İsim ve sıfat PRESent biçiminde ilk heceye, fiil preSENT biçiminde ikinci heceye vurgu alır.",
+  "note": ""
+ },
+ {
+  "id": "asian",
+  "senses": [
+   "Asya'ya ait; Asya ile ilgili",
+   "Asyalı; Asya kökenli"
+  ],
+  "ex": [
+   "Müze, birçok farklı Asya ülkesinden çanak çömlek sergiliyor.",
+   "Birçok Asya kenti, trafik sıkışıklığını azaltmak ve kentsel hava kalitesini iyileştirmek için toplu taşıma ağlarını genişletiyor."
+  ],
+  "col": [
+   "Asya ülkeleri",
+   "Asya kültürleri",
+   "Asya ekonomileri"
+  ],
+  "tip": "Baş harf her zaman büyük yazılır. 'Asia' yer adıdır; 'Asian' hem sıfat hem de bir kişiyi tanımlayan isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shape",
+  "senses": [
+   "şekil; biçim",
+   "etkilemek; şekillendirmek",
+   "şekil vermek; biçimlendirmek"
+  ],
+  "ex": [
+   "Bisküvileri yıldız şeklinde kesti.",
+   "Erken çocukluk deneyimleri öğrenmeye yönelik tutumları şekillendirebilir ve gelecekteki eğitim başarısını etkileyebilir."
+  ],
+  "col": [
+   "... şeklinde",
+   "belirginleşmek",
+   "tutumları şekillendirmek",
+   "formda kalmak"
+  ],
+  "tip": "'In shape' ifadesi 'formda, iyi durumda' anlamına gelir; yalnızca şekil anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "washroom",
+  "senses": [
+   "tuvalet; lavabo"
+  ],
+  "ex": [
+   "Asansörlerin hemen yanında bir tuvalet var.",
+   "Her halk kütüphanesi, çeşitli hareket kısıtlılıkları olan ziyaretçileri karşılayabilmek için erişilebilir bir tuvalet bulundurmalıdır."
+  ],
+  "col": [
+   "halka açık tuvalet",
+   "erişilebilir tuvalet",
+   "tuvalet olanakları"
+  ],
+  "tip": "Ağırlıklı olarak Kuzey Amerika'da, özellikle Kanada'da kullanılır; İngiltere'de genellikle 'toilet' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "surprising",
+  "senses": [
+   "şaşırtıcı; beklenmedik"
+  ],
+  "ex": [
+   "Küçücük fırın şaşırtıcı çeşitlilikte taze ekmek sunuyor.",
+   "Anket, büyük şehirlerde yaşayan genç yetişkinler arasında araba sahipliğinde şaşırtıcı bir düşüş olduğunu ortaya koydu."
+  ],
+  "col": [
+   "şaşırtıcı sonuçlar",
+   "şaşırtıcı sayıda",
+   "hiç şaşırtıcı değil"
+  ],
+  "tip": "'Surprising' bir şeyi tarif eder; 'surprised' ise kişinin hissettiği duyguyu anlatır: 'I was surprised' / 'It was surprising'.",
+  "note": ""
+ },
+ {
+  "id": "snowy",
+  "senses": [
+   "karlı; kar yağan",
+   "karla kaplı"
+  ],
+  "ex": [
+   "O karlı öğleden sonra evde kalıp ekmek pişirdik.",
+   "Karlı bölgelerde güvenilir toplu taşıma, düzenli yol bakımı ve kış koşullarına uygun araçlar gerektirir."
+  ],
+  "col": [
+   "karlı hava",
+   "karla kaplı dağlar",
+   "karlı kış"
+  ],
+  "tip": "'Snowy' hem kar yağan havayı hem de karla örtülü yüzeyleri anlatabilir. 'It is snowing' ise 'kar yağıyor' demektir.",
+  "note": ""
+ },
+ {
+  "id": "soda",
+  "senses": [
+   "gazlı içecek; kola",
+   "soda; maden suyu"
+  ],
+  "ex": [
+   "Mutfak zeminine portakallı gazoz döktüm.",
+   "Şekerli gazlı içecekler yerine su içmek günlük şeker alımını azaltmaya ve diş sağlığını desteklemeye yardımcı olabilir."
+  ],
+  "col": [
+   "bir kutu gazlı içecek",
+   "sodalı su",
+   "şekerli gazlı içecek"
+  ],
+  "tip": "Amerikan İngilizcesinde genellikle gazlı içecek anlamına gelir. 'Baking soda' ise sodyum bikarbonattır, içecek değildir.",
+  "note": ""
+ },
+ {
+  "id": "anybody",
+  "senses": [
+   "herhangi biri; biri"
+  ],
+  "ex": [
+   "Mavi şemsiyemi nereye bıraktığımı bilen var mı?",
+   "Halk kütüphaneleri, geliri veya geçmişi ne olursa olsun, öğrenmek isteyen herkese açık olmalıdır."
+  ],
+  "col": [
+   "başka biri",
+   "neredeyse kimse",
+   "hiç kimse"
+  ],
+  "tip": "Olumsuz cümlelerde 'hiç kimse' anlamı verir. Özne olarak kullanıldığında fiil tekil çekimlenir.",
+  "note": ""
+ },
+ {
+  "id": "ping-pong",
+  "senses": [
+   "masa tenisi",
+   "gidip gelmek; sekmek"
+  ],
+  "ex": [
+   "Akşam yemeğini beklerken birlikte masa tenisi oynadık.",
+   "Topluluk merkezleri, yaşlı sakinler arasında sosyal etkileşimi teşvik etmek için masa tenisi gibi ucuz etkinlikler sunabilir."
+  ],
+  "col": [
+   "masa tenisi oynamak",
+   "masa tenisi masası",
+   "masa tenisi topu",
+   "masa tenisi raketi"
+  ],
+  "tip": "Günlük konuşmada kullanılır; resmi metin ve akademik yazıda 'table tennis' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "rent",
+  "senses": [
+   "kira; kira bedeli",
+   "kiralamak",
+   "kiraya vermek"
+  ],
+  "ex": [
+   "Aylık kiram suyu içeriyor ama elektriği içermiyor.",
+   "Kentsel alanlardaki yükselen kiralar, temel işçileri işyerlerinden daha uzakta yaşamaya zorlayabilir."
+  ],
+  "col": [
+   "kira ödemek",
+   "daire kiralamak",
+   "odayı kiraya vermek",
+   "aylık kira"
+  ],
+  "tip": "'Rent' hem kiralamak hem de kiraya vermek anlamına gelebilir; bağlama dikkat edin. Kiraya verme için 'rent out' daha açık bir ifadedir.",
+  "note": ""
+ },
+ {
+  "id": "nephew",
+  "senses": [
+   "yeğen"
+  ],
+  "ex": [
+   "Yeğenim yeni bisikletini gururla bana gösterdi.",
+   "Bir yeğen ya da yeğeniyle ilgilenmek, genç yetişkinlerin çocuk yetiştirmenin sorumluluklarını anlamalarına yardımcı olabilir."
+  ],
+  "col": [
+   "küçük yeğen",
+   "yeğenler"
+  ],
+  "tip": "Türkçede 'yeğen' hem erkek hem kız için kullanılır; İngilizcede erkek yeğen 'nephew', kız yeğen 'niece' olarak ayrılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "id": "summary",
+  "senses": [
+   "özet",
+   "kısa; özet niteliğinde"
+  ],
+  "ex": [
+   "Toplantının kısa bir özetini verebilir misiniz?",
+   "Bir raporun başındaki net bir özet, okuyucuların temel bulguları hızlıca kavramasına yardımcı olur."
+  ],
+  "col": [
+   "kısa bir özet",
+   "...nin özeti",
+   "özetle",
+   "yönetici özeti"
+  ],
+  "tip": "a summary of'un ardından özetlenen şey gelir. in summary ise konuşmanın sonunda toparlama yaparken kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "statue",
+  "senses": [
+   "heykel"
+  ],
+  "ex": [
+   "Atın bronz heykeli çeşmenin yanında duruyor.",
+   "Kamusal heykeller yerel tarihi yaşatabilir, ancak topluluklar hangi kişilerin bu onura layık olduğunu tartışmalıdır."
+  ],
+  "col": [
+   "bronz heykel",
+   "mermer heykel",
+   "heykel dikmek",
+   "heykelin açılışını yapmak"
+  ],
+  "tip": "statue heykel demektir; status ise durum veya statü anlamına gelir. Yazımı karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "political",
+  "senses": [
+   "siyasi; siyasal"
+  ],
+  "ex": [
+   "Akşam yemeklerinde sık sık siyasi konuları tartışırız.",
+   "Siyasi istikrar uzun vadeli yatırımları teşvik edebilir ve hükümetlerin temel kamu hizmetlerini sürdürmesine yardımcı olabilir."
+  ],
+  "col": [
+   "siyasi parti",
+   "siyasi istikrar",
+   "siyasi tartışma",
+   "siyasi sistem"
+  ],
+  "tip": "political sıfattır. politics siyaset, politician ise siyasetçi anlamına gelir; bunları karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cabbage",
+  "senses": [
+   "lahana"
+  ],
+  "ex": [
+   "Lahanayı ince ince doğrayıp çorbaya ekledi.",
+   "Lahana gibi yerel yetişen sebzeler daha sağlıklı beslenmeyi destekleyebilir ve gıda taşımacılığının çevresel etkisini azaltabilir."
+  ],
+  "col": [
+   "kırmızı lahana",
+   "doğranmış lahana",
+   "bir baş lahana"
+  ],
+  "tip": "Tek bir lahana için a cabbage denir, yani sayılabilir. Yemek malzemesi olarak genellikle sayılamaz kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inexpensive",
+  "senses": [
+   "uygun fiyatlı"
+  ],
+  "ex": [
+   "Tren istasyonunun yakınında uygun fiyatlı bir kafe bulduk.",
+   "Bisiklet, araba kullanmaya uygun fiyatlı bir alternatiftir ve büyüyen şehirlerde trafik sıkışıklığını azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "uygun fiyatlı alternatif",
+   "nispeten uygun fiyatlı",
+   "uygun fiyatlı konaklama"
+  ],
+  "tip": "cheap daha çok kalitesiz izlenimi verebilir. inexpensive ise daha nötrdür ve sadece fiyatın düşük olduğunu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "rug",
+  "senses": [
+   "küçük halı; kilim",
+   "kalın battaniye"
+  ],
+  "ex": [
+   "Kedi, kanepenin yanındaki halının üzerinde kıvrılıp uyudu.",
+   "Sert bir zemine halı sermek gürültüyü azaltabilir ve paylaşılan evleri daha konforlu hale getirebilir."
+  ],
+  "col": [
+   "yün halı",
+   "dokunmuş halı",
+   "şömine önü halısı"
+  ],
+  "tip": "rug genellikle zeminin sadece bir kısmını kaplar. Tüm odayı kaplayan halı için carpet kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "agent",
+  "senses": [
+   "temsilci; acente",
+   "ajan; casus",
+   "etken madde"
+  ],
+  "ex": [
+   "Seyahat acentesi bize eve dönüş için daha ucuz bir uçuş buldu.",
+   "Yerel topluluk grupları, sakinleri daha sürdürülebilir alışkanlıklar benimsemeye teşvik ederek değişimin öncüleri olarak hareket edebilir."
+  ],
+  "col": [
+   "seyahat acentesi",
+   "emlakçı",
+   "temizlik maddesi",
+   "değişimin öncüsü"
+  ],
+  "tip": "agent sadece casus anlamına gelmez. cleaning agent ifadesinde ise agent, bir maddeyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "port",
+  "senses": [
+   "liman",
+   "port; bağlantı noktası",
+   "iskele; sol yan"
+  ],
+  "ex": [
+   "Balıkçı teknelerinin limana dönüşünü izledik.",
+   "Limanın genişletilmesi uluslararası ticareti artırabilir, ancak yakındaki deniz yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "işlek liman",
+   "liman kenti",
+   "USB portu",
+   "sol taraf (iskele)"
+  ],
+  "tip": "Geminin sol tarafı için port, sağ tarafı için starboard kullanılır. Bu iki kelimeyi birbirine karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "workplace",
+  "senses": [
+   "iş yeri; çalışma ortamı"
+  ],
+  "ex": [
+   "İş yerimizde öğle molası için sessiz bir oda var.",
+   "Kapsayıcı bir iş ortamı oluşturmak, çalışanların kendilerini değerli hissetmesine ve farklı geçmişlerden insanlar arasında iş birliğini teşvik etmesine yardımcı olur."
+  ],
+  "col": [
+   "iş yeri güvenliği",
+   "iş yerinde",
+   "iş yeri kültürü",
+   "iş yeri eğitimi"
+  ],
+  "tip": "workplace sadece ofisi değil, fabrika gibi insanların çalıştığı tüm yerleri kapsar.",
+  "note": ""
+ },
+ {
+  "id": "intelligent",
+  "senses": [
+   "zeki; anlayışlı",
+   "akıllı"
+  ],
+  "ex": [
+   "Akıllı köpek yavrumuz kapıları nasıl açacağını çabucak öğrendi.",
+   "Akıllı ulaşım sistemleri, değişen yol koşullarına göre trafik ışıklarını ayarlayarak sıkışıklığı azaltabilir."
+  ],
+  "col": [
+   "çok zeki",
+   "akıllı sistemler",
+   "isabetli karar"
+  ],
+  "tip": "intelligent 'zeki' anlamına gelir. intelligible ise 'anlaşılır' demektir; bu iki kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "employment",
+  "senses": [
+   "istihdam; iş",
+   "kullanım; uygulama"
+  ],
+  "ex": [
+   "Evine yakın bir fırında iş buldu.",
+   "Yenilenebilir enerjiye yapılan yatırımlar, ülkelerin iklim hedeflerine ulaşmasına yardımcı olurken istihdam fırsatları yaratabilir."
+  ],
+  "col": [
+   "iş imkânları",
+   "tam zamanlı çalışma",
+   "iş aramak",
+   "istihdam oranı"
+  ],
+  "tip": "employment genellikle sayılamaz. Tek bir işi ifade etmek için a job kullanılır, an employment denmez.",
+  "note": ""
+ },
+ {
+  "id": "equator",
+  "senses": [
+   "ekvator"
+  ],
+  "ex": [
+   "Rehberimiz, ekvator yakınlarında neden hep sıcak olduğunu anlattı.",
+   "Ekvator yakınındaki bölgeler yıl boyunca yoğun güneş ışığı alır, bu da sürekli yüksek sıcaklıklara yol açar."
+  ],
+  "col": [
+   "ekvatora yakın",
+   "ekvatoru geçmek",
+   "ekvatorun kuzeyinde"
+  ],
+  "tip": "Genellikle the ile kullanılır: the equator. Sıfat biçimi equatorial'dır.",
+  "note": ""
+ },
+ {
+  "id": "suncream",
+  "senses": [
+   "güneş kremi"
+  ],
+  "ex": [
+   "Öğleden sonraki yürüyüşümüz için güneş kremi ve bir şapka koydum.",
+   "Okullar, güneşli havalarda açık hava etkinlikleri sırasında çocukları güneş kremi sürmeye ve gölgede kalmaya teşvik edebilir."
+  ],
+  "col": [
+   "güneş kremi sürmek",
+   "bir tüp güneş kremi",
+   "yüksek korumalı güneş kremi"
+  ],
+  "tip": "Bu kelime özellikle İngiliz İngilizcesinde kullanılır. Amerikan İngilizcesinde genellikle sunscreen denir.",
+  "note": ""
+ },
+ {
+  "id": "signed",
+  "senses": [
+   "imzalı",
+   "imzalamak"
+  ],
+  "ex": [
+   "İmzalı formu mavi bir zarfa koydum.",
+   "İmzalanmış bir sözleşme, kiracı ve ev sahibinin hak ve sorumluluklarını açıkça belirleyerek her ikisini de korumaya yardımcı olur."
+  ],
+  "col": [
+   "imzalı sözleşme",
+   "imzalı nüsha",
+   "imzalı anlaşma"
+  ],
+  "tip": "signed sıfat olarak da kullanılır. 'Biri tarafından imzalanmış' anlamı için signed by yapısı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "waterproof",
+  "senses": [
+   "su geçirmez",
+   "su geçirmez yapmak"
+  ],
+  "ex": [
+   "Su geçirmez montum fırtınada beni kuru tuttu.",
+   "Dış mekânda çalışanların, ıslak havada görev yaparken rahat ve korunaklı kalabilmeleri için su geçirmez giysilere ihtiyacı vardır."
+  ],
+  "col": [
+   "su geçirmez mont",
+   "su geçirmez bot",
+   "su geçirmez malzeme",
+   "çatıyı su geçirmez yapmak"
+  ],
+  "tip": "water-resistant sadece belli ölçüde su direnci anlamına gelir. waterproof ise suyun tamamen geçmediğini ifade eder.",
+  "note": ""
+ }
+]

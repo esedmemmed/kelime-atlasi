@@ -1,0 +1,277 @@
+[
+ {
+  "id": "horn",
+  "senses": [
+   "boynuz",
+   "korna",
+   "korno"
+  ],
+  "ex": [
+   "Keçi, boynuzunu çitin arasına sıkıştırdı.",
+   "Araba kornalarının sık kullanılması gürültü kirliliğine yol açar ve sakinlerin yaşam kalitesini düşürür."
+  ],
+  "col": [
+   "kornaya basmak",
+   "korna çalmak",
+   "bir çift boynuz"
+  ],
+  "tip": "Hayvan boynuzu, araç kornası ve müzik aleti için horn kullanılır. Üçü de sayılabilir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "canal",
+  "senses": [
+   "kanal; yapay su yolu",
+   "kanal"
+  ],
+  "ex": [
+   "Dar bir teknenin kanal boyunca kaydığını izledik.",
+   "Tarihi kanalların restore edilmesi turistleri çekebilir ve yoğun kentsel alanlarda yaban hayatı için değerli yaşam alanları sağlayabilir."
+  ],
+  "col": [
+   "sulama kanalı",
+   "kanal teknesi",
+   "kulak kanalı"
+  ],
+  "tip": "canal genellikle insan yapımı su yolunu anlatır. Doğal akarsu için river kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "wildlife",
+  "senses": [
+   "yaban hayatı; vahşi yaşam"
+  ],
+  "ex": [
+   "Ağaçların arkasından yaban hayatını sessizce izledik.",
+   "Yaban hayatını korumak, hükümetlerin doğal yaşam alanlarını korumasını ve hassas bölgelerde yapılaşmayı sınırlamasını gerektirir."
+  ],
+  "col": [
+   "yaban hayatını korumak",
+   "yaban hayatı koruma",
+   "yaban hayatı rezervi"
+  ],
+  "tip": "Sayılamayan bir isimdir; çoğul hâli yoktur, 'wildlives' demeyin.",
+  "note": ""
+ },
+ {
+  "id": "chest",
+  "senses": [
+   "göğüs",
+   "sandık; kasa"
+  ],
+  "ex": [
+   "Uyuyan yavru kediyi nazikçe göğsüne bastırdı.",
+   "Kirli havaya maruz kalan işçilerde göğüs rahatsızlıkları görülebilir; bu da iş yerinde etkili havalandırmanın önemini gösterir."
+  ],
+  "col": [
+   "göğüs ağrısı",
+   "göğüs enfeksiyonu",
+   "ahşap sandık",
+   "çekmeceli dolap"
+  ],
+  "tip": "chest hem göğüs hem de sandık anlamına gelir. Çekmeceli dolap chest of drawers olarak söylenir.",
+  "note": ""
+ },
+ {
+  "id": "naturally",
+  "senses": [
+   "doğal olarak",
+   "tabii ki; elbette",
+   "doğuştan"
+  ],
+  "ex": [
+   "Saçlarını yıkadıktan sonra doğal olarak kurumaya bırak.",
+   "Bazı kirleticiler çevrede doğal olarak bulunur, ancak insan faaliyetleri bunların yoğunluğunu zararlı düzeylere çıkarabilir."
+  ],
+  "col": [
+   "doğal olarak oluşmak",
+   "doğuştan meraklı",
+   "birine doğal gelmek",
+   "doğal yollarla kurumak"
+  ],
+  "tip": "Cümle başında Naturally çoğu zaman 'tabii ki' anlamına gelir; her zaman 'doğal olarak' demek değildir.",
+  "note": ""
+ },
+ {
+  "id": "hardly",
+  "senses": [
+   "neredeyse hiç; zar zor",
+   "daha yeni; ancak"
+  ],
+  "ex": [
+   "Şiddetli yağmur yüzünden seni zar zor duyabiliyordum.",
+   "Yalnızca yol genişletmek, toplu taşıma iyileştirilmeden trafik sıkışıklığını çözmek için pek yeterli değildir."
+  ],
+  "col": [
+   "neredeyse hiç",
+   "neredeyse hiç yok",
+   "sabırsızlanmak",
+   "hiç şaşırtıcı değil"
+  ],
+  "tip": "hardly zaten olumsuz anlam taşır; cümlede 'not' ya da 'no' ile birlikte kullanmayın (çifte olumsuzluk hatası).",
+  "note": ""
+ },
+ {
+  "id": "safety",
+  "senses": [
+   "güvenlik; emniyet"
+  ],
+  "ex": [
+   "Kendi güvenliğin için lütfen kask tak.",
+   "Yol güvenliğini artırmak, daha iyi sokak tasarımının yanı sıra trafik kurallarının daha sıkı uygulanmasını gerektirir."
+  ],
+  "col": [
+   "yol güvenliği",
+   "güvenlik standartları",
+   "güvenlik nedeniyle",
+   "güvenliğe ulaşmak"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Sıfat hâli safe'tir; 'safety' ile 'safe' karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "cottage",
+  "senses": [
+   "kır evi; kulübe"
+  ],
+  "ex": [
+   "Onların kır evinin küçük bir bahçesi var ve içi güllerle dolu.",
+   "Kullanılmayan bir kır evini tatil konaklamasına dönüştürmek, kırsal ailelere ek gelir sağlayabilir."
+  ],
+  "col": [
+   "bir kır evi",
+   "saz çatılı ev",
+   "bir tatil evi"
+  ],
+  "tip": "cottage genellikle küçük ve kırsal bölgedeki bir evdir; lüks villa ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "fond",
+  "senses": [
+   "düşkün; meraklı",
+   "sevgi dolu; şefkatli"
+  ],
+  "ex": [
+   "Büyükannem nehir kenarında yürümeye düşkündür.",
+   "Birçok yetişkin, merakını teşvik eden ve hırslarını destekleyen öğretmenlerine dair sıcak anılar taşır."
+  ],
+  "col": [
+   "hoşlanmak; sevmek",
+   "sıcak anılar",
+   "sevgi dolu veda"
+  ],
+  "tip": "be fond of'dan sonra isim ya da -ing gelir (be fond of reading). 'fond to do' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "exhibition",
+  "senses": [
+   "sergi"
+  ],
+  "ex": [
+   "Yerel müzede bir fotoğraf sergisi gezdik.",
+   "Etkileşimli bir sergi, bilimsel keşifleri çocuklara daha ulaşılabilir kılabilir ve onların araştırmaya ilgisini artırabilir."
+  ],
+  "col": [
+   "sanat sergisi",
+   "sergi düzenlemek",
+   "sergilenmekte"
+  ],
+  "tip": "exhibition tüm sergi etkinliğini anlatır. Tek bir sergi parçası için exhibit kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "difficulty",
+  "senses": [
+   "güçlük; zorluk",
+   "sorun; sıkıntı"
+  ],
+  "ex": [
+   "Islak ellerle kavanozu açmakta zorlandım.",
+   "İnternet erişimi sınırlı olan öğrenciler, kapsamlı çevrim içi araştırma gerektiren ödevleri tamamlamakta zorlanabilir."
+  ],
+  "col": [
+   "bir şey yapmakta zorlanmak",
+   "zorlukların üstesinden gelmek",
+   "mali sıkıntılar",
+   "güçlükle"
+  ],
+  "tip": "have difficulty doing kalıbını kullanın. 'difficulty to do' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "steam",
+  "senses": [
+   "buhar",
+   "buharda pişirmek"
+  ],
+  "ex": [
+   "Kapağı kaldırdığımda çorbadan buhar yükseldi.",
+   "Bazı santraller ısı kullanarak buhar üretir; bu buhar türbinleri çevirerek elektrik üretir."
+  ],
+  "col": [
+   "buhar motoru",
+   "sebzeleri buharda pişirmek",
+   "buhar çıkarmak",
+   "gücü tükenmek"
+  ],
+  "tip": "Ad olarak genellikle sayılamaz. Fiil olarak yiyecekleri buharda pişirmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "horror",
+  "senses": [
+   "dehşet; korku",
+   "korku türü"
+  ],
+  "ex": [
+   "Dizüstü bilgisayarının merdivenlerden düştüğünü dehşet içinde izledi.",
+   "Korku filmleri gerilim yaratmak için çoğu zaman yalnızca korkutucu görüntülere değil, müzik ve ışığa dayanır."
+  ],
+  "col": [
+   "dehşet içinde",
+   "korku filmi",
+   "dehşet hissi"
+  ],
+  "tip": "Duygu anlamında genellikle sayılamaz. in horror 'dehşet içinde' demektir; film türü için horror film kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "biography",
+  "senses": [
+   "biyografi; yaşam öyküsü"
+  ],
+  "ex": [
+   "Yatmadan önce bir kaşifin biyografisini okuyorum.",
+   "İyi araştırılmış bir biyografi, toplumsal koşulların bireyin seçimlerini ve başarılarını nasıl etkilediğini gösterebilir."
+  ],
+  "col": [
+   "biyografi yazmak",
+   "birinin biyografisi",
+   "yetkili biyografi"
+  ],
+  "tip": "biography başkası tarafından yazılan yaşam öyküsüdür. Kişinin kendi yazdığı için autobiography kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "site",
+  "senses": [
+   "yer; alan",
+   "web sitesi",
+   "yerini belirlemek"
+  ],
+  "ex": [
+   "İşçiler inşaat alanının etrafına çit çektiler.",
+   "Önerilen hastane alanı toplu taşımaya yakın olduğundan sağlık hizmeti sakinler için daha erişilebilir hâle geliyor."
+  ],
+  "col": [
+   "inşaat sahası",
+   "tarihi alan",
+   "yerinde; sahada",
+   "fabrikanın yerini belirlemek"
+  ],
+  "tip": "site yer ya da web sitesi anlamına gelir. Görme ya da manzara anlamındaki sight ile karıştırılmamalıdır; telaffuzları aynıdır.",
+  "note": ""
+ }
+]

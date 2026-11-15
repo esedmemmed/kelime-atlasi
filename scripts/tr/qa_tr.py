@@ -87,7 +87,7 @@ def main():
     md = ["# Turkish overlay QA", ""] + [f"- {l}" for l in lines]
     md += ["", "## Errors", ""] + ([f"- {x}" for x in errors] or ["none"])
     md += ["", "## Warnings", ""] + ([f"- {x}" for x in warns] or ["none"])
-    (OUT / "qa-tr.md").write_text("\n".join(md) + "\n", encoding="utf-8")
+    (OUT / "qa-tr.md").write_text("\n".join(md) + "\n", encoding="utf-8", newline="\n")
     print("\n".join(lines))
     print("Report: output/qa-tr.md")
 
@@ -115,7 +115,7 @@ def main():
             for c, t in zip(e["col"], o["col"]):
                 r.append(f'- {c.split("｜")[0]} → {t}')
             r += ["", f'tip_zh: {e.get("tip", "")}', f'tip_tr: {o.get("tip", "")}', ""]
-        (OUT / "review-tr.md").write_text("\n".join(r), encoding="utf-8")
+        (OUT / "review-tr.md").write_text("\n".join(r), encoding="utf-8", newline="\n")
         print(f"Review: output/review-tr.md ({len(pick)} entries)")
     sys.exit(1 if errors else 0)
 

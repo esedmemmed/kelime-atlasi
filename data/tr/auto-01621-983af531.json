@@ -1,0 +1,283 @@
+[
+ {
+  "id": "cause",
+  "senses": [
+   "neden; sebep",
+   "neden olmak; yol açmak",
+   "amaç; dava"
+  ],
+  "ex": [
+   "Tesisatçı sızıntının nedenini buldu.",
+   "Hızlı büyüyen birçok kentte yoğun trafik, hava kirliliğinin başlıca nedenlerinden biri."
+  ],
+  "col": [
+   "-in nedeni",
+   "zarara yol açmak",
+   "temel neden; asıl sebep",
+   "iyi bir amaç"
+  ],
+  "tip": "İsim olarak genellikle 'cause of' kalıbıyla kullanılır. Fiil olarak 'cause sb to do sth' (birine bir şey yaptırmak) kalıbı da bilinmeli.",
+  "note": ""
+ },
+ {
+  "id": "knowledge",
+  "senses": [
+   "bilgi; birikim",
+   "farkındalık; haberdar olma"
+  ],
+  "ex": [
+   "Büyükbabam kuşlar hakkındaki bilgisini benimle paylaştı.",
+   "Okullar, öğrencilerin öğrendiklerini ezberlemek yerine pratik sorunlara uygulamalarına yardımcı olmalı."
+  ],
+  "col": [
+   "bilgi edinmek",
+   "pratik bilgi",
+   "-hakkında bilgi",
+   "birinin haberi olmadan"
+  ],
+  "tip": "Genellikle sayılamaz bir isimdir. Bir alandaki bilgiyi anlatmak için 'a good knowledge of' kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "order",
+  "senses": [
+   "düzen; sıra",
+   "sipariş vermek; ısmarlamak; emretmek",
+   "sipariş; emir"
+  ],
+  "ex": [
+   "Lütfen bu fotoğrafları doğru sıraya koyun.",
+   "Çevrim içi alışveriş yapanlar artık taze ürünleri doğrudan yerel çiftliklerden sipariş edebiliyor; bu da bölgesel ekonomileri destekliyor."
+  ],
+  "col": [
+   "alfabetik sırayla",
+   "sipariş vermek",
+   "yemek ısmarlamak",
+   "birine bir şey yapmasını emretmek"
+  ],
+  "tip": "'in order to' + fiil 'için' anlamında amaç bildirir. 'In order' tek başına 'sırayla, düzenli' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "ground",
+  "senses": [
+   "yer; zemin",
+   "gerekçe; dayanak",
+   "uçuşunu yasaklamak"
+  ],
+  "ex": [
+   "Bir ağacın altında yere battaniye serdik.",
+   "Ağaçlandırma, toprağın nemini tutmasına yardımcı olur ve toprak erozyonu riskini azaltır."
+  ],
+  "col": [
+   "yerde",
+   "şikâyet için gerekçeler",
+   "ortak nokta; ortak zemin",
+   "bir uçağı uçuşa yasaklamak"
+  ],
+  "tip": "Gerekçe anlamında genellikle çoğul 'grounds' kullanılır. 'On the ground' ifadesi 'sahada, yerinde' anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "ireland",
+  "senses": [
+   "İrlanda",
+   "İrlanda Adası"
+  ],
+  "ex": [
+   "Batı kıyısını bisikletle gezdik.",
+   "İrlanda, İngilizce eğitim veren üniversiteleri ve farklı bir kültürü deneyimleme fırsatlarıyla uluslararası öğrencileri çekiyor."
+  ],
+  "col": [
+   "İrlanda'da",
+   "İrlanda Cumhuriyeti",
+   "İrlanda Adası",
+   "kırsal İrlanda"
+  ],
+  "tip": "Ülke ya da ada anlamında kullanılabilir. Kuzey İrlanda İngiltere'ye bağlıdır, İrlanda Cumhuriyeti'ne değil.",
+  "note": ""
+ },
+ {
+  "id": "hurry",
+  "senses": [
+   "acele etmek; acele ettirmek",
+   "acele; telaş"
+  ],
+  "ex": [
+   "Yağmur başlamadan eve koşarak döndük.",
+   "Öğretmenler zor konuları aceleyle geçtiğinde öğrenciler temel kavramları net biçimde kavramakta zorlanabilir."
+  ],
+  "col": [
+   "acele et",
+   "telaşla; aceleyle",
+   "eve koşmak",
+   "bir şeyi aceleyle bitirmek"
+  ],
+  "tip": "'Hurry up' günlük konuşmada 'acele et' anlamında sık kullanılır. 'In a hurry' ise 'acelesi olmak' demektir.",
+  "note": ""
+ },
+ {
+  "id": "nail",
+  "senses": [
+   "tırnak",
+   "çivi",
+   "çivilemek"
+  ],
+  "ex": [
+   "Piyano dersimden önce tırnaklarımı kestim.",
+   "Çocuklara tırnaklarını temiz tutmayı öğretmek, erken yaşta sağlıklı kişisel hijyen alışkanlıkları kazandırmaya yardımcı olabilir."
+  ],
+  "col": [
+   "tırnaklarını kesmek",
+   "oje",
+   "çekiçle çivi çakmak",
+   "kesin olarak belirlemek"
+  ],
+  "tip": "Hem parmak tırnağı hem de çivi anlamına gelir; anlam bağlamdan anlaşılır. Ayak tırnağı için 'toenail' denir.",
+  "note": ""
+ },
+ {
+  "id": "stomach",
+  "senses": [
+   "mide; karın",
+   "katlanmak; tahammül etmek"
+  ],
+  "ex": [
+   "Akşam yemeği pişirirken midem guruldamaya başladı.",
+   "Düzenli öğün yemek, öğrenciler arasında mide rahatsızlıklarını önlemeye ve sağlıklı beslenme alışkanlıklarını desteklemeye yardımcı olabilir."
+  ],
+  "col": [
+   "aç karnına",
+   "mide ağrısı",
+   "karın ağrısı"
+  ],
+  "tip": "'Can't stomach' kalıbı 'dayanamamak, katlanamamak' anlamında, genellikle olumsuz cümlelerde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pie",
+  "senses": [
+   "turta"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra sıcak bir elmalı turta paylaştık.",
+   "Meyveli turta gibi geleneksel yemekler, nesiller boyunca bölgesel yemek kültürünün korunmasına yardımcı olabilir."
+  ],
+  "col": [
+   "elmalı turta",
+   "etli turta",
+   "bir dilim turta"
+  ],
+  "tip": "'Pie' bir yiyecek adıdır. 'Daire grafik' anlamında ise 'pie chart' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "form",
+  "senses": [
+   "biçim; tür; şekil",
+   "form; belge",
+   "oluşturmak; meydana getirmek"
+  ],
+  "ex": [
+   "Bulutlar dev bir tavşan biçimini aldı.",
+   "Çevrim içi öğrenme, çalışan yetişkinlere esneklik sunduğu için popüler bir eğitim biçimi hâline geldi."
+  ],
+  "col": [
+   "-nın bir türü",
+   "-biçiminde; şeklinde",
+   "bir formu doldurmak",
+   "alışkanlık edinmek"
+  ],
+  "tip": "Bir formu doldurmak için İngiliz İngilizcesinde 'fill in a form', Amerikan İngilizcesinde 'fill out a form' denir.",
+  "note": ""
+ },
+ {
+  "id": "attention",
+  "senses": [
+   "dikkat",
+   "ilgi; ilgilenme"
+  ],
+  "ex": [
+   "Ben oyunu anlatırken lütfen dikkat edin.",
+   "Okullar, öğrencilerin akademik gelişimiyle birlikte duygusal iyi oluşlarına da daha fazla önem vermelidir."
+  ],
+  "col": [
+   "-e dikkat etmek",
+   "dikkat çekmek",
+   "tıbbi bakım",
+   "dikkat süresi"
+  ],
+  "tip": "'Pay attention to' kalıbındaki 'to' edattır; ardından isim ya da -ing biçimi gelir, fiilin yalın hâli gelmez.",
+  "note": ""
+ },
+ {
+  "id": "hairstyle",
+  "senses": [
+   "saç modeli"
+  ],
+  "ex": [
+   "Yeni saç modelin yuvarlak gözlüklerinle gerçekten yakışmış.",
+   "Bazı iş yerlerindeki katı saç modeli kuralları, çalışanların kimliklerini ifade etme özgürlüğünü kısıtlayabilir."
+  ],
+  "col": [
+   "saç modelini değiştirmek",
+   "kısa saç modeli",
+   "moda bir saç modeli"
+  ],
+  "tip": "Sayılabilir bir isimdir. Kesilmiş ya da taranmış saçın genel biçimini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "workbook",
+  "senses": [
+   "alıştırma kitabı",
+   "çalışma kitabı; e-tablo dosyası"
+  ],
+  "ex": [
+   "Çalışma kitabımı okul çantamda unutmuşum.",
+   "İyi tasarlanmış bir alıştırma kitabı, öğrencilerin yeni becerileri bağımsız olarak uygulamasına ve ilerlemelerini takip etmesine olanak tanır."
+  ],
+  "col": [
+   "bir alıştırma kitabını bitirmek",
+   "alıştırma kitabı çalışmaları",
+   "bir gramer alıştırma kitabı"
+  ],
+  "tip": "'Workbook' alıştırma ağırlıklıdır. Konuyu anlatan kitap için 'textbook' (ders kitabı) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "type",
+  "senses": [
+   "tür; çeşit",
+   "klavyede yazmak"
+  ],
+  "ex": [
+   "Bugün nasıl bir ekmek istersin?",
+   "Hem kentsel hem de kırsal topluluklara hizmet etmek için farklı türde toplu taşıma araçlarına ihtiyaç var."
+  ],
+  "col": [
+   "bir çeşit",
+   "kan grubu",
+   "bir mesaj yazmak"
+  ],
+  "tip": "'Type of' kalıbından sonra tekil isim gelir. Birden fazla çeşit için 'types of' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "adjective",
+  "senses": [
+   "sıfat"
+  ],
+  "ex": [
+   "Öğretmenimiz bize hava durumunu anlatan sıfatları bulmamızı istedi.",
+   "Akademik yazımda kesin sıfatlar, okuyucuların uzun açıklamalara başvurmadan karmaşık fikirleri anlamasına yardımcı olur."
+  ],
+  "col": [
+   "betimleyici sıfat",
+   "karşılaştırma sıfatı",
+   "sıfat sırası"
+  ],
+  "tip": "Sıfat genellikle isimden önce gelir (a cold day) ya da 'be' gibi fiillerden sonra kullanılır (the day is cold).",
+  "note": ""
+ }
+]

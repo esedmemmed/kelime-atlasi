@@ -1,0 +1,272 @@
+[
+ {
+  "id": "precarious",
+  "senses": [
+   "tehlikeli derecede dengesiz; sallantılı",
+   "güvencesiz; kırılgan"
+  ],
+  "ex": [
+   "Zemin ıslak ve engebeli olduğu için merdiven tehlikeli derecede dengesiz duruyordu.",
+   "Kısa süreli sözleşmelerle çalışan işçiler çoğu zaman güvencesiz bir mali durumda oluyor ve geleceğini planlamakta zorlanıyor."
+  ],
+  "col": [
+   "tehlikeli bir durum",
+   "güvencesiz iş",
+   "kırılgan denge",
+   "güvencesiz mali durum"
+  ],
+  "tip": "Sadece 'belirsiz' değil, her an bozulabilecek ya da tehlike doğurabilecek bir durumu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "exert",
+  "senses": [
+   "uygulamak; kullanmak",
+   "çaba göstermek; kendini zorlamak"
+  ],
+  "ex": [
+   "Bu kapağı açmak için sürekli ve sabit bir baskı uygulamalısın.",
+   "Ebeveynler, evde dengeli yemekler hazırlayarak çocukların beslenme alışkanlıklarını önemli ölçüde etkileyebilir."
+  ],
+  "col": [
+   "baskı uygulamak",
+   "etkide bulunmak",
+   "kendini zorlamak"
+  ],
+  "tip": "Genellikle pressure, influence gibi isimlerle birlikte kullanılır; 'exert oneself' kendini zorlamak, çok çalışmak anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "recollect",
+  "senses": [
+   "hatırlamak; anımsamak"
+  ],
+  "ex": [
+   "Köydeki fırının dışında onunla buluştuğumu açıkça hatırlıyorum.",
+   "Yaşlı sakinler, kamusal alanların topluluk hayatında daha büyük bir rol oynadığı dönemi sık sık anımsar."
+  ],
+  "col": [
+   "açıkça hatırlamak",
+   "bir şeyi yaptığını hatırlamak",
+   "hatırladığım kadarıyla"
+  ],
+  "tip": "Remember'dan daha resmi bir kelimedir. 'recollect doing' kalıbıyla kullanılır, 'to do' ile değil.",
+  "note": ""
+ },
+ {
+  "id": "condolence",
+  "senses": [
+   "taziye; başsağlığı"
+  ],
+  "ex": [
+   "Komşularımız içten bir başsağlığı mesajı gönderdi.",
+   "Kamusal taziye gösterileri, yakınını kaybeden ailelerin geniş toplum tarafından desteklendiğini hissetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "başsağlığı dilemek",
+   "başsağlığı mesajı",
+   "içten başsağlıkları"
+  ],
+  "tip": "Genellikle çoğul kullanılır: 'offer condolences to someone' (birine başsağlığı dilemek).",
+  "note": ""
+ },
+ {
+  "id": "dormant",
+  "senses": [
+   "uyuyan; hareketsiz; durgun"
+  ],
+  "ex": [
+   "Bu bitkiler hava ısınana kadar uykuda kalır.",
+   "Yanardağ yüzyıllardır uyuyor olsa da bilim insanları yeniden hareketlenme belirtilerine karşı onu izlemeye devam ediyor."
+  ],
+  "col": [
+   "sönmüş gibi duran yanardağ; uyuyan yanardağ",
+   "uykuda kalmak",
+   "uyuyan tohumlar",
+   "hareketsiz hesap"
+  ],
+  "tip": "Geçici olarak etkin olmayan ama yeniden canlanabilecek durumları anlatır. 'Dormant volcano' ölü değil, uyuyan yanardağ demektir.",
+  "note": ""
+ },
+ {
+  "id": "vocation",
+  "senses": [
+   "meslek edinme isteği; kutsal görev",
+   "meslek; uğraş"
+  ],
+  "ex": [
+   "Yaralı hayvanlara bakmak, hayatının erken dönemlerinde onun ömür boyu sürecek uğraşı oldu.",
+   "Mesleki rehberlik, gençlerin yeteneklerine ve değerlerine uygun bir meslek keşfetmelerine yardımcı olmalıdır."
+  ],
+  "col": [
+   "mesleğini bulmak",
+   "meslek bilinci",
+   "öğretmenliğe yatkınlık"
+  ],
+  "tip": "Çoğu zaman bir çağrı ya da güçlü bir yönelim hissiyle yapılan işi anlatır. 'Vacation' (tatil) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "invert",
+  "senses": [
+   "ters çevirmek; baş aşağı etmek"
+  ],
+  "ex": [
+   "Jölenin kalıptan çıkması için kaseyi dikkatlice ters çevirin.",
+   "Araştırmacılar, öğrencilerden resmi açıklamalar almadan önce problemleri keşfetmelerini isteyerek alışılmış öğretim sırasını tersine çevirebilir."
+  ],
+  "col": [
+   "kabı ters çevirmek",
+   "sırayı tersine çevirmek",
+   "görüntüyü ters çevirmek"
+  ],
+  "tip": "Genellikle geçişli bir fiildir. Sıfat olarak 'inverted' (ters çevrilmiş) biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "precipitate",
+  "senses": [
+   "neden olmak; hızlandırmak",
+   "çökelti; çökelek",
+   "aceleci; düşüncesiz"
+  ],
+  "ex": [
+   "Kırık bir boru, tesisatçının acil olarak gelmesine yol açtı.",
+   "Gıda fiyatlarındaki ani artış, savunmasız bölgelerde daha geniş bir ekonomik krizi tetikleyebilir."
+  ],
+  "col": [
+   "kriz doğurmak",
+   "değişimi hızlandırmak",
+   "çökelti oluşturmak",
+   "aceleci davranış"
+  ],
+  "tip": "Fiil olarak sonu /teɪt/, isim ve sıfat olarak /tət/ okunur. Fiil olarak 'beklenenden önce tetiklemek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "prevail",
+  "senses": [
+   "yaygın olmak; hüküm sürmek",
+   "galip gelmek; üstün gelmek",
+   "ikna etmek"
+  ],
+  "ex": [
+   "Pazar günleri mutfağımızda rahat bir hava hüküm sürer.",
+   "Geleneksel tutumların yaygın olduğu yerlerde, kadınlara daha eşit fırsatlar tanınması için kamu eğitim kampanyaları gerekebilir."
+  ],
+  "col": [
+   "yaygın koşullar",
+   "birine üstün gelmek",
+   "birini bir şey yapmaya ikna etmek"
+  ],
+  "tip": "'Prevail over' rakibe galip gelmek; 'prevail upon someone to do' birini bir şey yapmaya ikna etmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "anthropology",
+  "senses": [
+   "insanbilim; antropoloji"
+  ],
+  "ex": [
+   "Kuzenim antropoloji okuyor ve aile geleneklerine dair hikâyeler topluyor.",
+   "Antropoloji, araştırmacıların kültürel geleneklerin sağlık, eğitim ve aile yaşamına karşı tutumları nasıl etkilediğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "kültürel antropoloji",
+   "sosyal antropoloji",
+   "antropoloji okumak"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Bu alanda çalışan kişiye 'anthropologist' denir.",
+  "note": ""
+ },
+ {
+  "id": "hasten",
+  "senses": [
+   "hızlandırmak; çabuklaştırmak",
+   "acele etmek; çabuk davranmak"
+  ],
+  "ex": [
+   "Ilık güneş, karların erimesini hızlandırdı.",
+   "Yenilenebilir enerjiye yapılan yatırımlar, daha sürdürülebilir ve dayanıklı bir ekonomiye geçişi hızlandırabilir."
+  ],
+  "col": [
+   "iyileşmeyi hızlandırmak",
+   "süreci hızlandırmak",
+   "hemen eklemek"
+  ],
+  "tip": "'h' harfi okunur, 't' ise sessizdir. 'Hasten to do' bir şeyi acele ederek yapmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "sprawl",
+  "senses": [
+   "bacaklarını ve kollarını yayarak uzanmak",
+   "plansızca yayılmak",
+   "plansız yayılan yerleşim alanı"
+  ],
+  "ex": [
+   "Yürüyüşten sonra yumuşak çimenlerin üzerine uzanıp yayıldık.",
+   "Kentsel yayılma, özel araçlara bağımlılığı artırabilir ve çevredeki tarım arazilerini baskı altına alabilir."
+  ],
+  "col": [
+   "kanepeye uzanmak",
+   "yayılıp uzanmak",
+   "kentsel yayılma",
+   "yayılmış bir şehir"
+  ],
+  "tip": "İnsan özne olduğunda genellikle gevşekçe uzanmayı anlatır; 'urban sprawl' ise şehrin plansız büyümesidir.",
+  "note": ""
+ },
+ {
+  "id": "lubrication",
+  "senses": [
+   "yağlama; yağlanma"
+  ],
+  "ex": [
+   "Yağmurlu günlerden sonra bisiklet zincirinin yağlanması gerekiyor.",
+   "Düzenli yağlama, endüstriyel makinelerdeki sürtünmeyi azaltır; bu da enerji verimliliğini artırır ve hareketli parçaların ömrünü uzatır."
+  ],
+  "col": [
+   "düzenli yağlama",
+   "yeterli yağlama",
+   "yağlama sistemi",
+   "yağlama eksikliği"
+  ],
+  "tip": "'Lubrication' yağlama işlemini, 'lubricant' ise yağlayıcı maddeyi (yağ, gres gibi) ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "dogged",
+  "senses": [
+   "azimli; inatçı; kararlı"
+  ],
+  "ex": [
+   "Onun azimli çabaları eski bahçeyi sonunda yeniden canlandırdı.",
+   "Azimli bir kararlılık, birçok araştırmacının tekrarlanan başarısızlıklara ve sınırlı fona rağmen önemli sorular üzerinde çalışmasını sağlar."
+  ],
+  "col": [
+   "azimli kararlılık",
+   "inatçı sebat",
+   "azimli bir arayış"
+  ],
+  "tip": "Sıfat olarak iki heceli okunur. Zorluklar karşısında pes etmemeyi vurgular.",
+  "note": ""
+ },
+ {
+  "id": "submerge",
+  "senses": [
+   "batırmak; su altında bırakmak"
+  ],
+  "ex": [
+   "Kirli kavanozu yıkamadan önce ılık suya batırın.",
+   "Yükselen deniz seviyeleri, alçak kıyı yerleşimlerini sular altında bırakabilir; bu da sakinlerin yer değiştirmesine ve yakın şehirlerde baskıya yol açabilir."
+  ],
+  "col": [
+   "tamamen batırmak",
+   "suya batırmak",
+   "kısmen sular altında kalmış"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılabilir. Bir şeyin sıvı yüzeyinin altına girmesini ya da bırakılmasını vurgular.",
+  "note": ""
+ }
+]

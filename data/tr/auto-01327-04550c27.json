@@ -1,0 +1,281 @@
+[
+ {
+  "id": "download",
+  "senses": [
+   "indirmek",
+   "indirme; indirilen dosya"
+  ],
+  "ex": [
+   "Yarın otelden ayrılmadan önce haritayı indir.",
+   "Öğrenciler, internet erişimi olmadığında bile çalışabilmek için ders materyallerini evde indirebiliyor."
+  ],
+  "col": [
+   "bir dosyayı indirmek",
+   "bir uygulamayı indirmek",
+   "ücretsiz indirme",
+   "indirme hızı"
+  ],
+  "tip": "Fiilde vurgu sonda (download), isimde önde (DOWNload) okunur. Zıt anlamlısı upload (yükleme).",
+  "note": ""
+ },
+ {
+  "id": "frightened",
+  "senses": [
+   "korkmuş; ürkmüş"
+  ],
+  "ex": [
+   "Fırtına sırasında korkmuş yavru kedi koltuğun arkasına saklandı.",
+   "Tanıdık olmayan ortamlarda kendini korkmuş hisseden çocuklar, sabırlı destek ve öngörülebilir rutinlerden fayda görebilir."
+  ],
+  "col": [
+   "...den korkmak",
+   "ölesiye korkmuş",
+   "korkmuş bir çocuk"
+  ],
+  "tip": "frightened, birinin hissettiği korkuyu; frightening ise korkutucu olan şeyi anlatır. I am frightened / It is frightening.",
+  "note": ""
+ },
+ {
+  "id": "surname",
+  "senses": [
+   "soyad"
+  ],
+  "ex": [
+   "Soyadım, yabancılar için çoğu zaman telaffuzu zor oluyor.",
+   "Adlandırma gelenekleri kültürden kültüre değişir; bir kişinin soyadı aile geçmişini ya da bölgesel kökenini yansıtabilir."
+  ],
+  "col": [
+   "aile soyadı",
+   "yaygın bir soyad",
+   "soyadını değiştirmek"
+  ],
+  "tip": "surname soyadı, first name ya da given name ise adı anlatır. Formlarda bu iki alanı karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "memory",
+  "senses": [
+   "hafıza; bellek",
+   "anı; hatıra",
+   "bellek"
+  ],
+  "ex": [
+   "Büyükannemin yüzleri hatırlamada olağanüstü bir hafızası var.",
+   "Düzenli fiziksel egzersiz hafızayı geliştirebilir ve yaşlı yetişkinlerin daha uzun süre bağımsız kalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kısa süreli hafıza",
+   "çocukluk anıları",
+   "ezbere; hafızadan",
+   "bilgisayar belleği"
+  ],
+  "tip": "Hafıza yetisi anlamında memory genelde sayılamaz; birden fazla anı için memories kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pillow",
+  "senses": [
+   "yastık"
+  ],
+  "ex": [
+   "Misafir yatağının üstüne taze bir yastık koydu.",
+   "Destekleyici bir yastık seçmek, boynu rahat bir pozisyonda tutarak uyku kalitesini artırabilir."
+  ],
+  "col": [
+   "yumuşak yastık",
+   "tüy yastık",
+   "yastık kılıfı"
+  ],
+  "tip": "pillow genellikle uyumak için kullanılan yastıktır; oturmak ya da süs için kullanılan yastık ise cushion olur.",
+  "note": ""
+ },
+ {
+  "id": "program",
+  "senses": [
+   "bilgisayar programı",
+   "programlamak; ayarlamak",
+   "program; plan"
+  ],
+  "ex": [
+   "Bu program tatil fotoğraflarımın hepsini düzenlememe yardımcı oluyor.",
+   "Okullar öğrencilere mevcut yazılımları nasıl kullanacaklarını değil, bilgisayar programlamayı öğretmelidir."
+  ],
+  "col": [
+   "bilgisayar programı",
+   "programı çalıştırmak",
+   "bilgisayarı programlamak",
+   "eğitim programı"
+  ],
+  "tip": "İngiliz İngilizcesinde bilgisayar programı için program, plan ya da TV programı için programme yazılır. Amerikan İngilizcesinde ikisi de program.",
+  "note": ""
+ },
+ {
+  "id": "sign",
+  "senses": [
+   "belirti; alamet",
+   "tabela; işaret; el hareketi",
+   "imzalamak"
+  ],
+  "ex": [
+   "Şu koyu bulutlar yaklaşan yağmurun işareti.",
+   "Yerel yaban hayatındaki azalma, kentleşmenin yol açtığı daha geniş çevresel zararın bir belirtisi olabilir."
+  ],
+  "col": [
+   "iyileşmenin belirtisi",
+   "uyarı işaretleri",
+   "yol tabelası",
+   "bir sözleşmeyi imzalamak"
+  ],
+  "tip": "sign içindeki g harfi okunmaz. 'a sign of' kalıbından sonra isim ya da -ing ile biten isim gelir.",
+  "note": ""
+ },
+ {
+  "id": "per",
+  "senses": [
+   "başına; her"
+  ],
+  "ex": [
+   "Yüzme havuzunun girişi ziyaret başına beş sterlin.",
+   "Hane başına enerji tüketimini azaltmak, ülkenin karbon emisyonlarını düşürmesinde önemli bir adımdır."
+  ],
+  "col": [
+   "kişi başına",
+   "saat başına",
+   "kişi başına düşen",
+   "yıl başına"
+  ],
+  "tip": "per'den sonra genellikle tekil isim gelir ve başında artikel kullanılmaz: per day, per the day değil.",
+  "note": ""
+ },
+ {
+  "id": "chemistry",
+  "senses": [
+   "kimya",
+   "kimyasal yapı; özellik",
+   "uyum; kimya"
+  ],
+  "ex": [
+   "Bugün kimya dersinde iki berrak sıvıyı karıştırdık.",
+   "Deniz suyunun kimyasını anlamak, bilim insanlarının artan karbon emisyonlarının deniz yaşamını nasıl etkilediğini açıklamasına yardımcı olur."
+  ],
+  "col": [
+   "organik kimya",
+   "kimya çalışmak",
+   "toprak kimyası"
+  ],
+  "tip": "Ders adları genellikle sayılamaz; 'a chemistry' demek yerine 'study chemistry' denir.",
+  "note": ""
+ },
+ {
+  "id": "hang",
+  "senses": [
+   "asmak; sallandırmak",
+   "sarkmak; eğilmek"
+  ],
+  "ex": [
+   "Lütfen ıslak paltonu ön kapının yanına as.",
+   "Müzeler, koleksiyonlarını her yaştan ziyaretçiye ulaşılabilir kılmak için tabloları sık sık farklı yüksekliklerde asar."
+  ],
+  "col": [
+   "resim asmak",
+   "duvarda asılı olmak",
+   "başını eğmek",
+   "çamaşır asmak"
+  ],
+  "tip": "Asmak anlamında geçmiş zaman ve geçmiş ortaç hung olur; idam etmek anlamında ise hanged kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "especially",
+  "senses": [
+   "özellikle; bilhassa"
+  ],
+  "ex": [
+   "Yemek pişirmeyi severim, özellikle arkadaşlar akşam yemeğine geldiğinde.",
+   "Güvenilir toplu taşıma, araba sahibi olmaya gücü yetmeyen sakinler için özellikle önemlidir."
+  ],
+  "col": [
+   "özellikle önemli",
+   "özellikle yararlı",
+   "özellikle ... için"
+  ],
+  "tip": "especially 'özellikle' anlamına gelir; specially ise 'özel olarak, bu amaçla' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "countryside",
+  "senses": [
+   "kırsal bölge; kır"
+  ],
+  "ex": [
+   "Hafta sonunu sakin kırsal bölgede bisikletle gezerek geçirdik.",
+   "Kırsal alanda güvenilir toplu taşıma, iş olanaklarına erişimi artırabilir ve sakinlerin araba bağımlılığını azaltabilir."
+  ],
+  "col": [
+   "kırsalda",
+   "çevredeki kırsal alan",
+   "bozulmamış kır",
+   "kırsalı korumak"
+  ],
+  "tip": "countryside genellikle sayılamaz ve 'the countryside' biçiminde kullanılır; 'a countryside' denmez.",
+  "note": ""
+ },
+ {
+  "id": "health",
+  "senses": [
+   "sağlık; sağlık durumu",
+   "iyi durum; sağlıklı işleyiş"
+  ],
+  "ex": [
+   "Işe yürümek sağlığımı gerçekten iyileştirdi.",
+   "Hükümetler güvenli içme suyu ve uygun fiyatlı tıbbi hizmet sağlayarak halk sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "zihinsel sağlık",
+   "halk sağlığı",
+   "iyi sağlıkta olmak",
+   "ekonomik sağlık"
+  ],
+  "tip": "health genellikle sayılamaz; 'in good health' ifadesi 'iyi sağlıkta olmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "mobile",
+  "senses": [
+   "hareketli; taşınabilir",
+   "mobil; seyyar",
+   "cep telefonu"
+  ],
+  "ex": [
+   "Gezici kütüphane köyümüzü her Cuma sabahı ziyaret eder.",
+   "Gezici klinikler, uzak kırsal topluluklarda yaşayan insanlara temel sağlık hizmetlerine erişimi kolaylaştırabilir."
+  ],
+  "col": [
+   "cep telefonu",
+   "gezici klinik",
+   "hareketli işgücü",
+   "mobil ağ"
+  ],
+  "tip": "İngiliz İngilizcesinde 'a mobile' cep telefonu demektir; Amerikan İngilizcesinde genellikle cell phone denir.",
+  "note": ""
+ },
+ {
+  "id": "leaves",
+  "senses": [
+   "yapraklar",
+   "ayrılmak; bırakmak"
+  ],
+  "ex": [
+   "Evimizin önündeki yolu sarı yapraklar kaplamıştı.",
+   "Dökülen yapraklar küçük canlılara yaşam alanı sağlar ve çürüdükçe değerli besin maddelerini toprağa geri kazandırır."
+  ],
+  "col": [
+   "dökülen yapraklar",
+   "yeşil yapraklar",
+   "sonbahar yaprakları",
+   "yaprakları tırmıklamak"
+  ],
+  "tip": "leaves hem leaf sözcüğünün çoğulu hem de leave fiilinin üçüncü tekil şahıs biçimidir; cümlenin anlamından ayırt edin.",
+  "note": ""
+ }
+]

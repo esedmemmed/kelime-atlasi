@@ -1,0 +1,279 @@
+[
+ {
+  "id": "installment",
+  "senses": [
+   "taksit",
+   "bölüm; kısım"
+  ],
+  "ex": [
+   "Bugün bisikletimin son taksitini ödedim.",
+   "Öğrenim ücretlerini taksitle ödemek, daha yoksul hanelerden gelen öğrenciler için yükseköğrenimi daha erişilebilir kılabilir."
+  ],
+  "col": [
+   "taksitle ödemek",
+   "aylık taksit",
+   "bir sonraki bölüm"
+  ],
+  "tip": "Amerikan İngilizcesinde installment, İngiliz İngilizcesinde instalment yazılır. 'pay in installments' kalıbı çok yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "exhibit",
+  "senses": [
+   "sergilemek",
+   "göstermek; ortaya koymak",
+   "sergi parçası; delil"
+  ],
+  "ex": [
+   "Yerel galeri, genç sanatçıların yaptığı çanak çömlekleri sergiliyor.",
+   "Yaratıcı etkinliklere düzenli katılan çocuklar, alışık olmadıkları sorunları çözerken genellikle daha fazla özgüven gösterir."
+  ],
+  "col": [
+   "sanat eserlerini sergilemek",
+   "belirtileri göstermek",
+   "müze sergi parçası"
+  ],
+  "tip": "Tek bir sergi parçası için exhibit, genel anlamda sergi için exhibition kullanılır. Fiil olarak 'belirti göstermek' anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "kingdom",
+  "senses": [
+   "krallık",
+   "alem"
+  ],
+  "ex": [
+   "Eski kale, bir zamanlar krallığın girişini koruyordu.",
+   "Küçük krallıktaki turizm istihdam sağlıyor, ancak artan ziyaretçi sayısı tarihi binalar üzerinde baskı oluşturuyor."
+  ],
+  "col": [
+   "hayvanlar alemi",
+   "bitkiler alemi",
+   "krallık yönetmek"
+  ],
+  "tip": "Siyasi bağlamda kingdom 'krallık' demektir; biyolojide ise canlıların sınıflandırmasındaki 'alem' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "crisp",
+  "senses": [
+   "gevrek; çıtır",
+   "serin; ferah",
+   "cips"
+  ],
+  "ex": [
+   "Elma her ısırıkta gevrek ve tatlıydı.",
+   "Ambalaj atıştırmalıkların gevrekliğini korumaya yardımcı olur, ancak plastiğin aşırı kullanımı ciddi çevre sorunlarına yol açar."
+  ],
+  "col": [
+   "gevrek marul",
+   "serin hava",
+   "bir paket cips"
+  ],
+  "tip": "Atıştırmalık patates dilimi için İngilizcede genellikle çoğul crisps kullanılır. Amerikan İngilizcesinde bu potato chips'tir.",
+  "note": ""
+ },
+ {
+  "id": "nitrogen",
+  "senses": [
+   "azot"
+  ],
+  "ex": [
+   "Bu fasulyeler bahçe toprağımıza azot eklemeye yardımcı olur.",
+   "Tarımsal gübrelerden gelen fazla azot nehirlere karışarak alg büyümesini hızlandırır ve su ekosistemlerine zarar verir."
+  ],
+  "col": [
+   "sıvı azot",
+   "azot gazı",
+   "azot döngüsü",
+   "azot bağlama"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a nitrogen' ya da çoğul 'nitrogens' şeklinde kullanılmaz. Kimyasal sembolü N'dir.",
+  "note": ""
+ },
+ {
+  "id": "constant",
+  "senses": [
+   "sürekli; devamlı",
+   "sabit; değişmez",
+   "sabit değer"
+  ],
+  "ex": [
+   "Dışarıdaki sürekli gürültü bütün gece uyumamı engelledi.",
+   "Kamu binalarında sabit bir sıcaklığı korumak konforu artırabilir, ancak enerji tüketimini yükseltebilir."
+  ],
+  "col": [
+   "sürekli baskı",
+   "sabit sıcaklık",
+   "sabit kalmak"
+  ],
+  "tip": "Tekrarlanan bir olay için 'sürekli', değişmeyen bir değer için 'sabit' anlamına gelir. Cümlenin bağlamına göre seçim yapın.",
+  "note": ""
+ },
+ {
+  "id": "twist",
+  "senses": [
+   "bükmek; burmak",
+   "beklenmedik dönüş",
+   "çarpıtmak; saptırmak"
+  ],
+  "ex": [
+   "Kadın ıslak havluyu lavabonun üzerinde burdu.",
+   "Çevrimiçi haberler bazen bilimsel bulguları çarpıtarak okuyucuların sağlık risklerini doğru değerlendirmesini zorlaştırır."
+  ],
+  "col": [
+   "bileğini burkmak",
+   "hikâyedeki sürpriz dönüş",
+   "gerçekleri çarpıtmak"
+  ],
+  "tip": "Fiil hem fiziksel olarak bükmek hem de bilgiyi çarpıtmak anlamında kullanılır. Cümlenin bağlamına göre anlamı belirlenir.",
+  "note": ""
+ },
+ {
+  "id": "spoonful",
+  "senses": [
+   "bir kaşık dolusu"
+  ],
+  "ex": [
+   "Çayına bir kaşık bal karıştırdı.",
+   "Her gün içeceklere birkaç kaşık şeker eklemek, kişinin günlük kalori alımını önemli ölçüde artırabilir."
+  ],
+  "col": [
+   "bir kaşık şeker",
+   "tepeleme bir kaşık",
+   "düz bir kaşık"
+  ],
+  "tip": "Bir isimdir, sıfat değildir. Çoğulu genellikle spoonfuls şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "brightness",
+  "senses": [
+   "parlaklık; aydınlık",
+   "canlılık; parlaklık",
+   "zekâ; keskinlik"
+  ],
+  "ex": [
+   "Film izlemeden önce ekranın parlaklığını düşürdüm.",
+   "Gece dış mekân aydınlatmasının parlaklığını azaltmak enerji tasarrufu sağlayabilir ve yaban hayatı üzerindeki rahatsızlığı sınırlayabilir."
+  ],
+  "col": [
+   "parlaklığı ayarlamak",
+   "ekran parlaklığı",
+   "renklerin canlılığı"
+  ],
+  "tip": "Sayılamayan bir isimdir. Ekran parlaklığı için brightness kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "remainder",
+  "senses": [
+   "kalan kısım; geri kalan",
+   "kalan; artan"
+  ],
+  "ex": [
+   "Pastanın yarısını yedik, kalanını buzdolabına koyduk.",
+   "Temel hizmetleri finanse ettikten sonra belediye, bütçesinin kalanını kamu parklarını iyileştirmeye ayırdı."
+  ],
+  "col": [
+   "...nın geri kalanı",
+   "kalan süre boyunca",
+   "kalan bırakmak"
+  ],
+  "tip": "'the remainder of' kalıbında fiilin tekil mi çoğul mu olacağı, kalan kısmın neyi ifade ettiğine bağlıdır.",
+  "note": ""
+ },
+ {
+  "id": "sow",
+  "senses": [
+   "ekmek",
+   "yaymak; körüklemek"
+  ],
+  "ex": [
+   "Bu sabah bahçeye havuç tohumu ektik.",
+   "Yanıltıcı çevrimiçi haberler topluluklar arasında güvensizlik yayabilir ve kamu kurumlarına olan güveni zayıflatabilir."
+  ],
+  "col": [
+   "tohum ekmek",
+   "şüphe yaymak",
+   "anlaşmazlık tohumu ekmek"
+  ],
+  "tip": "Geçmiş zaman sowed, ortaç sown ya da sowed olabilir. 'Dikmek' anlamındaki sew ile karıştırılmamalıdır. Domuz anlamındaki sow /saʊ/ okunur.",
+  "note": ""
+ },
+ {
+  "id": "artificial",
+  "senses": [
+   "yapay; suni",
+   "yapmacık; doğal olmayan"
+  ],
+  "ex": [
+   "Masadaki yapay çiçekler şaşırtıcı derecede taze görünüyordu.",
+   "Kentsel alanlardaki aşırı yapay aydınlatma yaban hayatının davranışlarını bozabilir ve yıldızların görünürlüğünü azaltabilir."
+  ],
+  "col": [
+   "yapay zekâ",
+   "yapay aydınlatma",
+   "yapay tatlandırıcılar",
+   "yapmacık bir gülümseme"
+  ],
+  "tip": "artificial 'yapay' anlamına gelir. 'Sanatsal' anlamındaki artistic ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "appealing",
+  "senses": [
+   "cazip; çekici",
+   "yalvaran; acıklı"
+  ],
+  "ex": [
+   "Güneşli balkon bu küçük daireyi özellikle cazip kılıyor.",
+   "Esnek çalışma düzenleri, işi ve çocuk bakımını dengelemek zorunda olan ebeveynler için özellikle cazip."
+  ],
+  "col": [
+   "cazip bir ihtimal",
+   "görsel olarak çekici",
+   "tüketicilere hitap eden",
+   "çekici bir görünüm"
+  ],
+  "tip": "'Birine cazip gelmek' anlamında appealing to sb kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "optical",
+  "senses": [
+   "optik",
+   "görsel; görmeye ilişkin"
+  ],
+  "ex": [
+   "Bu optik yanılsama, düz çizilmiş resmi üç boyutlu gösteriyor.",
+   "Optik fiberler hızlı veri iletimi sağlar ve uzak topluluklarda güvenilir internet erişiminin yaygınlaşmasına destek olur."
+  ],
+  "col": [
+   "optik yanılsama",
+   "optik fiber",
+   "optik alet"
+  ],
+  "tip": "Işık ya da görmeyle ilgili anlamda kullanılır. optical illusion 'optik yanılsama' demektir.",
+  "note": ""
+ },
+ {
+  "id": "distribute",
+  "senses": [
+   "dağıtmak",
+   "yaymak; serpiştirmek"
+  ],
+  "ex": [
+   "Gönüllüler her Cuma toplum merkezinin önünde taze meyve dağıtır.",
+   "Hükümetler, kırsal toplulukların kentlilerle aynı kalitede bakım alabilmesi için sağlık kaynaklarını adil biçimde dağıtmalıdır."
+  ],
+  "col": [
+   "yiyecek dağıtmak",
+   "kaynakları dağıtmak",
+   "eşit dağılmış",
+   "geniş bir alana yayılmış"
+  ],
+  "tip": "distribute A to B kalıbı 'A'yı B'ye dağıtmak' anlamına gelir: distribute food to the poor.",
+  "note": ""
+ }
+]

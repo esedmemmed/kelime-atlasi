@@ -1,0 +1,280 @@
+[
+ {
+  "id": "shaded",
+  "senses": [
+   "gölgeli",
+   "gölgelendirilmiş"
+  ],
+  "ex": [
+   "Eski bir ağacın altında gölgeli bir bank bulduk.",
+   "Halka açık parklarda gölgeli alanların bulunması, sıcak havalarda açık havada hareketi teşvik eder ve sıcağa maruz kalmayı azaltır."
+  ],
+  "col": [
+   "gölgeli alan",
+   "gölgeli yol",
+   "gölgeli oturma yeri"
+  ],
+  "tip": "Sıfat olarak isimden önce gelebilir. Fiilin (shade) geçmiş zaman ve ortaç biçimi olduğunu da unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "sack",
+  "senses": [
+   "çuval; torba",
+   "işten çıkarmak",
+   "kovulma"
+  ],
+  "ex": [
+   "Mutfağa ağır bir çuval patates taşıdık.",
+   "İşverenler, gerekçelerini açıklamadan ve çalışanlara karara itiraz etme imkânı tanımadan kimseyi işten çıkarmamalıdır."
+  ],
+  "col": [
+   "bir çuval patates",
+   "işten çıkarılmak",
+   "yanlış davranış nedeniyle birini işten çıkarmak"
+  ],
+  "tip": "Bu anlam İngiliz İngilizcesinde gayriresmî bir kullanımdır. Resmî yazıda 'dismiss' tercih edilir; 'get the sack' kalıbı 'işten atılmak' demektir.",
+  "note": ""
+ },
+ {
+  "id": "soul",
+  "senses": [
+   "ruh",
+   "insan; kişi",
+   "soul müziği"
+  ],
+  "ex": [
+   "Denizin kenarında yürümek her zaman ruhumu dinlendiriyor gibi geliyor.",
+   "Birçok kültürel gelenek, ruhun beden öldükten sonra da var olmaya devam ettiğini düşünür."
+  ],
+  "col": [
+   "tüm kalbiyle; yürekten",
+   "iyi kalpli biri",
+   "hiç kimse",
+   "soul müziği"
+  ],
+  "tip": "'not a soul' kalıbı kelimesi kelimesine 'ruh yok' değil, 'hiç kimse yok' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "crystal",
+  "senses": [
+   "kristal",
+   "billur; dağ kristali",
+   "kristal cam; kristal eşya"
+  ],
+  "ex": [
+   "Sınıfta mikroskop altında bir tuz kristalini inceledik.",
+   "Bir kristalin yapısı fiziksel özelliklerini etkiler ve çeşitli endüstriyel uygulamalara uygunluğunu belirler."
+  ],
+  "col": [
+   "tuz kristalleri",
+   "kristal yapı",
+   "kristal cam",
+   "apaçık; çok açık"
+  ],
+  "tip": "'crystal clear' hem suyun berraklığını hem de bir şeyin çok net anlaşılmasını anlatmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "elect",
+  "senses": [
+   "seçmek",
+   "tercih etmek"
+  ],
+  "ex": [
+   "Kulübümüz dün gece yeni bir kaptan seçti.",
+   "Vatandaşlar, anında popülerlik yerine uzun vadeli çevre sorunlarıyla ilgilenmeye istekli temsilcileri seçmelidir."
+  ],
+  "col": [
+   "bir başkan seçmek",
+   "birini göreve seçmek",
+   "bir şeyi yapmayı tercih etmek"
+  ],
+  "tip": "Oylama yoluyla görev için resmî bir kelimedir. Sıradan 'seçmek' için 'choose' kullanın; 'elect to do' kalıbında fiil 'to' ile gelir.",
+  "note": ""
+ },
+ {
+  "id": "abundant",
+  "senses": [
+   "bol; zengin"
+  ],
+  "ex": [
+   "Yaz aylarında burada taze meyve bol bulunur.",
+   "Bol güneş ışığı alan bölgeler, güneş enerjisinden uygun fiyatlı elektrik üretme konusunda önemli bir potansiyele sahiptir."
+  ],
+  "col": [
+   "bol kaynak",
+   "bol kanıt",
+   "zengin yaban hayatı"
+  ],
+  "tip": "Miktarın fazlalığını vurgular. İsim biçimi 'abundance' olup 'an abundance of' kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "beneath",
+  "senses": [
+   "altında",
+   "layık olmayan; yakışmayan",
+   "aşağıda; altta"
+  ],
+  "ex": [
+   "Kedimiz yemek sırasında masanın altında uyudu.",
+   "Şehrin yoğun caddelerinin altında uzanan geniş bir demiryolu ağı, sakinlerin verimli biçimde seyahat etmesini sağlar."
+  ],
+  "col": [
+   "yüzeyin altında",
+   "birinin onuruna yakışmayan",
+   "dalgaların altında"
+  ],
+  "tip": "'under'a göre daha resmî bir kelimedir. 'beneath your dignity' kalıbı 'onuruna yakışmamak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "overload",
+  "senses": [
+   "aşırı yüklemek",
+   "aşırı akım bindirmek"
+  ],
+  "ex": [
+   "Sırt çantanı kullanmayacağın şeylerle aşırı doldurma.",
+   "Aşırı baskı motivasyonu ve iyi oluşu zedeleyebileceğinden okullar öğrencileri aşırı ödevle bunaltmaktan kaçınmalıdır."
+  ],
+  "col": [
+   "bir aracı aşırı yüklemek",
+   "birini işle bunaltmak",
+   "bir devreyi aşırı yüklemek"
+  ],
+  "tip": "Genellikle 'overload someone with something' kalıbıyla kullanılır: birini bir şeyle bunaltmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "bear",
+  "senses": [
+   "katlanmak; dayanmak",
+   "ayı",
+   "taşımak; barındırmak"
+  ],
+  "ex": [
+   "Eski vantilatörün o gürültüsüne dayanamıyorum.",
+   "Temel ürünlerin fiyatı arttığında, düşük gelirli haneler genellikle en büyük yükü taşır."
+  ],
+  "col": [
+   "dayanamamak",
+   "sorumluluk üstlenmek",
+   "aklında tutmak",
+   "...ile benzerlik taşımak"
+  ],
+  "tip": "Geçmiş zaman 'bore', ortaç genellikle 'borne' olur. 'Doğmak' anlamında ise 'be born' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "modest",
+  "senses": [
+   "alçakgönüllü",
+   "az; küçük",
+   "ağırbaşlı; ölçülü"
+  ],
+  "ex": [
+   "Yarışı kazanmasına rağmen başarısı konusunda alçakgönüllü kaldı.",
+   "Kırsal topluluklarda ulaşım hizmetlerini iyileştirmek için kamu ulaşım fonunda yapılacak mütevazı bir artış bile yardımcı olabilir."
+  ],
+  "col": [
+   "başarısı konusunda alçakgönüllü olmak",
+   "mütevazı bir artış",
+   "mütevazı bir gelir"
+  ],
+  "tip": "İnsan için kullanıldığında 'alçakgönüllü', miktar veya tutar için kullanıldığında 'az, küçük' anlamına gelir. Anlamı bağlamdan seçin.",
+  "note": ""
+ },
+ {
+  "id": "activated",
+  "senses": [
+   "aktifleştirilmiş",
+   "etkinleştirilmiş"
+  ],
+  "ex": [
+   "Kedimiz hareket edince kapının üstündeki ışık yandı.",
+   "Sensörler okyanusun altında olağandışı bir hareket algılar algılamaz acil uyarı sistemi devreye sokuldu."
+  ],
+  "col": [
+   "aktif karbon",
+   "aktif kömür",
+   "sesle etkinleşen cihaz"
+  ],
+  "tip": "'activate' fiilinin geçmiş zaman ve ortaç biçimidir. 'Aktif, faal' anlamındaki 'active' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "landscape",
+  "senses": [
+   "manzara; peyzaj",
+   "ortam; tablo",
+   "peyzaj düzenlemek"
+  ],
+  "ex": [
+   "Küçük ahşap kulübemizin ötesinde kar, manzarayı kaplamıştı.",
+   "Büyük rüzgâr çiftlikleri kırsal manzarayı değiştirebilir; yine de temiz enerjinin önemli bir kaynağını sağlarlar."
+  ],
+  "col": [
+   "kırsal manzara",
+   "doğal manzara",
+   "siyasi tablo",
+   "peyzaj tasarımı"
+  ],
+  "tip": "'Landscape' sayılabilir; 'a landscape' bir manzara anlamına gelir. 'Scenery' ise genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "videotape",
+  "senses": [
+   "video kaseti",
+   "video kasetine kaydetmek"
+  ],
+  "ex": [
+   "Ailemizin eski piknik gününe ait bir video kaseti bulduk.",
+   "Kütüphaneler, video kasetlerde saklanan kayıtları gelecek nesiller için dijital formata dönüştürerek koruyabilir."
+  ],
+  "col": [
+   "eski bir video kaseti",
+   "kasete kaydedilmiş",
+   "bir gösteriyi kasete kaydetmek"
+  ],
+  "tip": "Manyetik bantlı kayıtlar için kullanılır. Günümüzde dijital kayıt için genellikle 'video' veya 'record' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "houseboat",
+  "senses": [
+   "ev teknesi"
+  ],
+  "ex": [
+   "Hafta sonunu nehir kenarındaki bir ev teknesinde geçirdik.",
+   "Ev teknesinde yaşamak uygun fiyatlı bir konaklama sağlayabilir; ancak bakım masrafları ve bağlama ücretleri yüksek olabilir."
+  ],
+  "col": [
+   "ev teknesinde yaşamak",
+   "ev teknesi kiralamak",
+   "ev teknesiyle tatil"
+  ],
+  "tip": "İnsanların yaşamak için kullandığı bir teknedir; eğlence amaçlı yatla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "moped",
+  "senses": [
+   "moped; küçük motosiklet"
+  ],
+  "ex": [
+   "Mopedini bu sabah fırının yanına park etti.",
+   "Moped, kısa yolculuklar için uygun fiyatlı bir ulaşım aracı olabilir; ancak sürücüler yoğun şehir yollarında hâlâ savunmasızdır."
+  ],
+  "col": [
+   "moped sürmek",
+   "moped kiralamak",
+   "moped sürücüsü"
+  ],
+  "tip": "'Mope' (asık suratlı olmak) fiilinin geçmiş zaman biçimiyle yazılışı aynıdır; anlam bağlamdan anlaşılır.",
+  "note": ""
+ }
+]

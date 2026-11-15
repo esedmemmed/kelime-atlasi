@@ -1,0 +1,283 @@
+[
+ {
+  "id": "empty",
+  "senses": [
+   "boş",
+   "boşaltmak",
+   "boş; anlamsız"
+  ],
+  "ex": [
+   "Bisküvi kutusunu açtığımda boştu.",
+   "Boş ofis binalarını uygun fiyatlı konutlara dönüştürmek, şehirlerin çevredeki kırsala yayılmadan konut sıkıntısını çözmesine yardımcı olabilir."
+  ],
+  "col": [
+   "boş oda",
+   "boş vaatler",
+   "çöpü boşaltmak",
+   "aç karnına"
+  ],
+  "tip": "empty içinde hiçbir şey olmadığını vurgular. Boş ev ya da boş iş pozisyonu için genellikle vacant kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "earn",
+  "senses": [
+   "kazanmak",
+   "kazanmak; hak kazanmak"
+  ],
+  "ex": [
+   "Okuldan sonra köpek gezdirerek fazladan para kazanıyor.",
+   "Şirketler çevresel etkilerini dürüstçe raporlayıp hatalarının sorumluluğunu üstlenerek halkın güvenini kazanabilir."
+  ],
+  "col": [
+   "geçimini sağlamak",
+   "para kazanmak",
+   "saygı kazanmak",
+   "ün kazanmak"
+  ],
+  "tip": "earn, emeğin ya da çalışmanın karşılığını almak için kullanılır. Yarışmada kazanmak anlamında genellikle win tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "adventure",
+  "senses": [
+   "macera",
+   "macera ruhu"
+  ],
+  "ex": [
+   "Kamp gezimiz karanlık basınca bir maceraya dönüştü.",
+   "Açık hava macera etkinlikleri, gençlerin özgüven kazanmasına ve başkalarıyla iş birliği yapmayı öğrenmesine yardımcı olabilir."
+  ],
+  "col": [
+   "maceraya atılmak",
+   "macera ruhu",
+   "macera turizmi"
+  ],
+  "tip": "Belirli bir yaşantı için sayılabilir (an adventure); genel cesaret ve keşif isteği için sayılamaz (a sense of adventure).",
+  "note": ""
+ },
+ {
+  "id": "twelfth",
+  "senses": [
+   "on ikinci",
+   "on ikide bir"
+  ],
+  "ex": [
+   "Kendi yaptığı pastayla kızımızın on ikinci doğum gününü kutladık.",
+   "Programın on ikinci ayına gelindiğinde, katılımcıların çoğu daha etkili çalışma alışkanlıkları geliştirmişti."
+  ],
+  "col": [
+   "on ikinci doğum günü",
+   "on ikinci yüzyıl",
+   "bunun on ikide biri"
+  ],
+  "tip": "Twelve sayısından türetilen sıra sayısı twelfth'tir; ve harfi f'ye dönüşür. Yazarken twelveth gibi hatalı biçim kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "belt",
+  "senses": [
+   "kemer",
+   "kuşak; bölge",
+   "kayış; konveyör bandı"
+  ],
+  "ex": [
+   "Bu kemer pantolonumun kaymasını engelliyor.",
+   "Bir şehrin çevresindeki yeşil kuşak, kentsel genişlemeyi sınırlayabilir ve yakındaki tarım arazilerini imardan koruyabilir."
+  ],
+  "col": [
+   "deri kemer",
+   "kemeri takmak",
+   "yeşil kuşak",
+   "konveyör bandı"
+  ],
+  "tip": "belt yalnızca giysi kemeri değildir; green belt gibi bölgeleri ya da makinelerdeki kayış ve bandı da anlatır. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "interview",
+  "senses": [
+   "mülakat; iş görüşmesi",
+   "röportaj; söyleşi",
+   "mülakat yapmak"
+  ],
+  "ex": [
+   "İlk iş görüşmemden önce sorulara cevap vermeyi pratik ettim.",
+   "Araştırmacılar, konut politikalarının farklı toplumsal kesimleri nasıl etkilediğini anlamak için çeşitli geçmişlere sahip sakinlerle görüşmelidir."
+  ],
+  "col": [
+   "iş görüşmesi",
+   "görüşme yapmak",
+   "adayları mülakata almak",
+   "derinlemesine görüşme"
+  ],
+  "tip": "Interviewer soruyu soran, interviewee ise yanıt veren kişidir. Bu iki kelimeyi yazımda ve anlamda karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "similar",
+  "senses": [
+   "benzer"
+  ],
+  "ex": [
+   "Ceketin benzer görünüyor, ama benimkinden biraz daha koyu.",
+   "Nüfusu benzer büyüklükte olan şehirler, coğrafi özellikleri nedeniyle farklı ulaşım politikalarına ihtiyaç duyabilir."
+  ],
+  "col": [
+   "...ile benzer",
+   "benzer özellikler",
+   "büyük ölçüde benzer"
+  ],
+  "tip": "similar genellikle to ile kullanılır: similar to. Tamamen aynı olmayan ama birbirine yakın şeyler için uygundur.",
+  "note": ""
+ },
+ {
+  "id": "whole",
+  "senses": [
+   "bütün; tüm",
+   "bütün; bütünlük"
+  ],
+  "ex": [
+   "Öğleden sonranın tamamını birlikte ekmek pişirerek geçirdik.",
+   "Ulaşım politikaları yalnızca araba sahiplerine odaklanmak yerine tüm topluluğun ihtiyaçlarını göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "bütün gün",
+   "bir bütün olarak",
+   "genel olarak",
+   "çok geniş bir yelpaze"
+  ],
+  "tip": "The whole day gibi kalıplarda whole, the ile birlikte kullanılır ve all the day ile aynı anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "thought",
+  "senses": [
+   "düşünce; fikir",
+   "düşünme; dikkatli düşünme",
+   "düşündü; sandı"
+  ],
+  "ex": [
+   "Ani bir düşünce beni ceket cebimi kontrol etmeye yöneltti.",
+   "Kentsel planlama, kamusal alanların farklı yaş gruplarına nasıl hizmet edebileceği konusunda dikkatli düşünmeyi gerektirir."
+  ],
+  "col": [
+   "bir şey üzerinde düşünmek",
+   "düşünceye dalmış",
+   "ani bir düşünce",
+   "düşündürücü bir konu"
+  ],
+  "tip": "Belirli bir düşünce sayılabilir (a thought); düşünme süreci genellikle sayılamaz. Think fiilinin geçmiş zamanı da thought'tur.",
+  "note": ""
+ },
+ {
+  "id": "loudly",
+  "senses": [
+   "yüksek sesle"
+  ],
+  "ex": [
+   "Takımımız maçı kazanınca herkes yüksek sesle tezahürat yaptı.",
+   "Toplu taşımada, özellikle sabahın erken ya da akşamın geç saatlerinde yüksek sesle konuşan yolcular diğerlerini rahatsız edebilir."
+  ],
+  "col": [
+   "yüksek sesle konuşmak",
+   "yüksek sesle gülmek",
+   "yüksek sesle tezahürat yapmak"
+  ],
+  "tip": "loudly sesin şiddetini vurgular; aloud ise sesli söylemeyi, yani sessizce değil duyulur biçimde konuşmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "weight",
+  "senses": [
+   "kilo; ağırlık",
+   "dambıl; ağırlık",
+   "önem; etki"
+  ],
+  "ex": [
+   "Bu bavulun ağırlığı onu kaldırmayı zorlaştırıyor.",
+   "Politika yapıcılar, halk sağlığını iyileştirmeye yönelik stratejileri tasarlarken bilimsel kanıtlara daha fazla önem vermelidir."
+  ],
+  "col": [
+   "kilo vermek",
+   "kilo almak",
+   "dambıl kaldırmak",
+   "bir şeye önem vermek"
+  ],
+  "tip": "Weight isimdir; fiili weigh'dir. Örnek: How much does it weigh? (Ne kadar ağırlığında?)",
+  "note": ""
+ },
+ {
+  "id": "folder",
+  "senses": [
+   "dosya; evrak klasörü",
+   "klasör"
+  ],
+  "ex": [
+   "Fişlerini masanın yanındaki bu dosyada sakla.",
+   "Dijital kaynakları açıkça adlandırılmış klasörlere ayırmak, öğrencilerin araştırma projelerinde bilgiyi daha hızlı bulmasına yardımcı olabilir."
+  ],
+  "col": [
+   "klasör oluşturmak",
+   "paylaşımlı klasör",
+   "dosyaları bir klasöre kaydetmek"
+  ],
+  "tip": "File belge ya da dosyadır; folder ise dosyaların konduğu klasördür. Bilgisayarda dosyaları gruplayan yer için folder kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "steal",
+  "senses": [
+   "çalmak",
+   "gizlice ilerlemek",
+   "fırsat; ucuz ürün"
+  ],
+  "ex": [
+   "Ekmek alırken biri bisikletimi çaldı.",
+   "Suç işleyenler güvenli olmayan web sitelerinden kişisel verileri çalabileceği için şirketler müşteri bilgilerini korumak zorundadır."
+  ],
+  "col": [
+   "birinden çalmak",
+   "bir fikri çalmak",
+   "gösteriyi çalmak"
+  ],
+  "tip": "Düzensiz fiildir: steal, stole, stolen. Kimden çalındığını belirtmek için from kullanılır: steal from someone.",
+  "note": ""
+ },
+ {
+  "id": "modern",
+  "senses": [
+   "çağdaş; güncel",
+   "modern; yenilikçi"
+  ],
+  "ex": [
+   "Dairemizde büyük pencereli modern bir mutfak var.",
+   "Modern teknoloji, uzak bölgelerdeki öğrencilerin daha önce yalnızca şehirlerde bulunan eğitim kaynaklarına erişmesini sağlıyor."
+  ],
+  "col": [
+   "modern toplum",
+   "modern teknoloji",
+   "modern mimari"
+  ],
+  "tip": "Modern yalnızca yeni yapılmış anlamına gelmez; güncel ya da yeni tarzda olmayı anlatır. Eski değil, çağın tarzına uygun demektir.",
+  "note": ""
+ },
+ {
+  "id": "opinion",
+  "senses": [
+   "görüş; fikir"
+  ],
+  "ex": [
+   "Yeni mutfağımız hakkında görüşün nedir?",
+   "Bence toplu taşıma, insanları arabalarını evde bırakmaya teşvik edecek kadar uygun fiyatlı olmalı."
+  ],
+  "col": [
+   "bence",
+   "kamuoyu",
+   "görüşünü bildirmek",
+   "görüş ayrılığı"
+  ],
+  "tip": "Bence demek için in my opinion kullanılır. According to me kalıbı doğal değildir. Görüş ayrılığı için a difference of opinion denir.",
+  "note": ""
+ }
+]

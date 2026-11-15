@@ -1,0 +1,272 @@
+[
+ {
+  "id": "stumble",
+  "senses": [
+   "sendelemek; tökezlemek",
+   "takılmak; kekelemek"
+  ],
+  "ex": [
+   "Bahçe yolundaki gevşek bir taşa takılıp sendeledim.",
+   "Öğrenciler sunum sırasında tanıdık olmayan kelimelerde takılabilir; ama düzenli pratik özgüvenlerini artırabilir."
+  ],
+  "col": [
+   "taşa takılmak",
+   "kelimelerde takılmak",
+   "bir şeye tesadüfen rastlamak"
+  ],
+  "tip": "stumble across tesadüfen rastlamak anlamında kullanılır; her zaman düşmek anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "seaport",
+  "senses": [
+   "liman; liman kenti"
+  ],
+  "ex": [
+   "Her sabah dev gemiler liman kentine yanaşıyor.",
+   "Modern limanlara yapılan yatırımlar uluslararası ticareti güçlendirebilir ve kıyı bölgelerinde istihdam yaratabilir."
+  ],
+  "col": [
+   "büyük liman",
+   "yoğun liman",
+   "liman geliştirme"
+  ],
+  "tip": "seaport deniz limanını vurgular; iç su limanı ya da havalimanı için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "spontaneous",
+  "senses": [
+   "kendiliğinden olan; plansız",
+   "doğal; içten"
+  ],
+  "ex": [
+   "Dün sahile plansız bir gezi yaptık.",
+   "Meslektaşlar arasındaki kendiliğinden sohbetler, resmi toplantıların bazen üretemediği yaratıcı fikirleri doğurabilir."
+  ],
+  "col": [
+   "kendiliğinden tepki",
+   "kendiliğinden alkış",
+   "ani karar"
+  ],
+  "tip": "spontaneous önceden planlanmamış anlamındadır; 'bilinçsiz' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "ounce",
+  "senses": [
+   "ons",
+   "az miktar; zerre"
+  ],
+  "ex": [
+   "Tavaya bir ons tereyağı ekledim.",
+   "Sporcuların, derslerine ek olarak yoğun antrenman programını sürdürebilmek için bütün azimlerine ihtiyacı olur."
+  ],
+  "col": [
+   "bir miktar",
+   "bütün gücü",
+   "zerre kadar bile"
+  ],
+  "tip": "Ağırlık birimi ons yaklaşık 28,35 gramdır; fluid ounce ise sıvı hacim birimidir.",
+  "note": ""
+ },
+ {
+  "id": "bait",
+  "senses": [
+   "yem; cazip şey",
+   "yem takmak",
+   "kışkırtmak; alay etmek"
+  ],
+  "ex": [
+   "Yem olarak küçük ekmek parçaları kullandık.",
+   "Bazı çevrimiçi reklamlar, tüketicileri kişisel bilgilerini paylaşmaya teşvik etmek için ücretsiz hediyeleri yem olarak kullanıyor."
+  ],
+  "col": [
+   "canlı yem",
+   "tuzağa düşmek",
+   "oltaya yem takmak"
+  ],
+  "tip": "take the bait hem balığın yeme gelmesi hem de birinin tuzağa düşmesi anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "smog",
+  "senses": [
+   "duman sisi; kirli sis"
+  ],
+  "ex": [
+   "Kalın bir duman sisi, apartmanımızın ötesindeki tepeleri gizliyordu.",
+   "Araç emisyonlarını azaltmak, şehirlerin duman sisiyle mücadele etmesine ve sakinleri solunum hastalıklarından korumasına yardımcı olabilir."
+  ],
+  "col": [
+   "kalın duman sisi",
+   "duman sisi düzeyleri",
+   "fotokimyasal duman sisi"
+  ],
+  "tip": "Genellikle sayılamaz isimdir; yalnızca kirli havadan oluşan sis için kullanılır, sıradan sis için değil.",
+  "note": ""
+ },
+ {
+  "id": "brutal",
+  "senses": [
+   "zalim; vahşi",
+   "acımasız; sert"
+  ],
+  "ex": [
+   "Zalim kış, bahçemizi çıplak ve donmuş bıraktı.",
+   "Mahkûmlara yönelik vahşi muamele insan haklarını ihlal eder ve kamunun adalet sistemine olan güvenini zedeler."
+  ],
+  "col": [
+   "vahşi muamele",
+   "vahşi saldırı",
+   "acımasız dürüstlük",
+   "sert kış"
+  ],
+  "tip": "brutal honesty, incitici derecede açık sözlülüğü anlatır; her zaman kaba anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "durable",
+  "senses": [
+   "dayanıklı",
+   "uzun ömürlü; kalıcı"
+  ],
+  "ex": [
+   "Bu dayanıklı botlar, yıllardır çamurlu yürüyüşlere dayandı.",
+   "Tek kullanımlık ürünler yerine dayanıklı ürünleri tercih etmek, ev atıklarını azaltabilir ve değerli doğal kaynakları koruyabilir."
+  ],
+  "col": [
+   "dayanıklı malzemeler",
+   "dayanıklı tüketim malları",
+   "kalıcı çözüm"
+  ],
+  "tip": "Tüketim malları için durable goods ifadesi kullanılır; durable tek başına sıfat olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "funeral",
+  "senses": [
+   "cenaze töreni"
+  ],
+  "ex": [
+   "Dün komşumuzun cenazesine beyaz çiçekler götürdük.",
+   "Cenaze gelenekleri kültürden kültüre değişir; ancak genellikle yas sürecinde ailelere duygusal destek sağlarlar."
+  ],
+  "col": [
+   "cenazeye katılmak",
+   "cenaze ayini",
+   "cenaze alayı",
+   "cenaze düzenlemeleri"
+  ],
+  "tip": "Genellikle sayılabilir isimdir: attend a funeral (cenazeye katılmak) gibi 'a funeral' biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "glare",
+  "senses": [
+   "öfkeyle bakmak",
+   "kamaştırıcı ışık",
+   "öfkeli bakış"
+  ],
+  "ex": [
+   "Sözünü kestiğimde hikâyesini anlatırken bana öfkeyle baktı.",
+   "Sokak aydınlatmasının dikkatli yerleştirilmesi, hem sürücüler hem yayalar için kamaşmayı azaltabilir ve görüşü iyileştirebilir."
+  ],
+  "col": [
+   "birine öfkeyle bakmak",
+   "birine öfkeli bir bakış atmak",
+   "kamaşmayı azaltmak",
+   "güneşin kamaştırıcı ışığı"
+  ],
+  "tip": "glare at öfkeyle bakmaktır; stare at ise yalnızca dikkatle bakmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "hospitality",
+  "senses": [
+   "misafirperverlik; konukseverlik",
+   "otelcilik; konaklama hizmeti"
+  ],
+  "ex": [
+   "Sıcak misafirperverlikleri, kendimizi tamamen evimizdeymiş gibi hissettirdi.",
+   "Otelcilik sektörü istihdam fırsatları yaratır; ancak mevsimsel talep, çalışanların gelirlerini daha az öngörülebilir kılabilir."
+  ],
+  "col": [
+   "sıcak misafirperverlik",
+   "birine misafirperverlik göstermek",
+   "otelcilik sektörü"
+  ],
+  "tip": "Genellikle sayılamaz isimdir; hospitality industry, konaklama ve yiyecek-içecek hizmetleri sektörünü ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "regardless",
+  "senses": [
+   "yine de; buna rağmen"
+  ],
+  "ex": [
+   "Yağmur yağacağı tahmin ediliyordu ama yine de yürüyüşe çıktık.",
+   "Kamu kütüphaneleri, gelir ya da eğitim geçmişine bakılmaksızın herkese güvenilir bilgiye erişim imkânı sağlamalıdır."
+  ],
+  "col": [
+   "yaşa bakılmaksızın",
+   "maliyete bakılmaksızın",
+   "olduğu gibi devam etmek"
+  ],
+  "tip": "regardless tek başına zarftır; isimden önce regardless of kullanılır, 'regardless the' gibi yapılar yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "skinny",
+  "senses": [
+   "çok zayıf; cılız",
+   "dar; vücuda yapışık"
+  ],
+  "ex": [
+   "Cılız yavru kedi, sıcak bir battaniyenin yanında kıvrılıp uyudu.",
+   "Genç insanların özgüvenini olumsuz etkileyebilecek bir şekilde, aşırı zayıf vücutları idealize eden medya görüntüleri gerçekçi olmayan beklentiler yaratabilir."
+  ],
+  "col": [
+   "dar kot pantolon",
+   "ince bacaklar",
+   "zayıf görünmek"
+  ],
+  "tip": "İnsanlar için kullanıldığında genellikle olumsuz bir çağrışım taşır; slim ise daha olumlu anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "loyal",
+  "senses": [
+   "sadık; bağlı"
+  ],
+  "ex": [
+   "Sadık köpeğimiz her akşam kapının önünde bekliyor.",
+   "Çalışanlarına adil davranan şirketler, sadık ve verimli bir iş gücünü elde tutma olasılığı daha yüksek olan kurumlardır."
+  ],
+  "col": [
+   "birine sadık",
+   "sadık müşteri",
+   "sadık kalmak",
+   "sadık destekçi"
+  ],
+  "tip": "Bağlılık gösterilen kişi ya da kurum için loyal to kullanılır; loyal with yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "blockage",
+  "senses": [
+   "tıkanma; tıkanıklık"
+  ],
+  "ex": [
+   "Borudaki bir tıkanıklık suyun akmasını durdurdu.",
+   "Kentsel drenaj sistemlerinin düzenli bakımı, sel riskini artıran tıkanıklıkları önleyebilir."
+  ],
+  "col": [
+   "tıkanıklığı gidermek",
+   "borudaki tıkanıklık",
+   "bağırsak tıkanıklığı"
+  ],
+  "tip": "Bir geçişin tıkanmasını anlatır; askeri ya da ekonomik 'abluka' için blockade kullanılır.",
+  "note": ""
+ }
+]

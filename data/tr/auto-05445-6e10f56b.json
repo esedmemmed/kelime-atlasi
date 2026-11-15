@@ -1,0 +1,278 @@
+[
+ {
+  "id": "overthrow",
+  "senses": [
+   "devirmek; yıkmak",
+   "devirme; yıkılma"
+  ],
+  "ex": [
+   "Film, haksız bir hükümdarı devirmek isteyen vatandaşları anlatıyor.",
+   "Ekonomik zorluklar, halkın hükümete desteğini zayıflatabilir ve onu devirme girişimlerini teşvik edebilir."
+  ],
+  "col": [
+   "bir hükümeti devirmek",
+   "bir rejimi devirmek",
+   "bir hükümdarın devrilmesi"
+  ],
+  "tip": "Düzensiz fiil: geçmiş zaman overthrew, ortaç overthrown. Ortaç yerine overthrowed yazmayın.",
+  "note": ""
+ },
+ {
+  "id": "incense",
+  "senses": [
+   "tütsü; buhur"
+  ],
+  "ex": [
+   "İnce bir duman tütsüden yükseliyordu.",
+   "Kapalı alanlarda, özellikle havalandırması yetersiz küçük odalarda tütsü yakmak hava kalitesini etkileyebilir."
+  ],
+  "col": [
+   "tütsü yakmak",
+   "çubuk tütsü",
+   "tütsülük"
+  ],
+  "tip": "İsim ilk hecede vurgulanır. Aynı yazılan fiil (incense) ikinci hecede vurgulanır ve 'öfkelendirmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "freak",
+  "senses": [
+   "olağandışı; beklenmedik",
+   "meraklı; tutkun",
+   "çıldırmak; ürkmek"
+  ],
+  "ex": [
+   "Olağanüstü bir dolu fırtınası bahçemizi beyaz buzla kaplamıştı.",
+   "Olağandışı bir hava olayı kentsel altyapının zayıflıklarını ortaya çıkarabilir ve temel kamu hizmetlerini aksatabilir."
+  ],
+  "col": [
+   "beklenmedik bir kaza",
+   "olağandışı bir fırtına",
+   "fitness tutkunu",
+   "paniğe kapılmak"
+  ],
+  "tip": "Sıfat olarak genellikle isimden önce gelir. Fiil olarak çoğunlukla freak out kalıbıyla kullanılır.",
+  "note": "İsim olarak görünüşü ya da davranışı olağandışı bir kişiyi anlatmak için kullanıldığında aşağılayıcıdır."
+ },
+ {
+  "id": "forgery",
+  "senses": [
+   "sahtecilik; sahte eser"
+  ],
+  "ex": [
+   "Dükkândaki tablo sahteydi.",
+   "Müzeler, tarihi eserlerle ilgili yanıltıcı iddialara karşı halkı korumak için sahteciliği tespit edecek uzmanlar çalıştırır."
+  ],
+  "col": [
+   "belge sahteciliği",
+   "sanat sahteciliği",
+   "sahteciliği tespit etmek",
+   "inandırıcı bir sahte"
+  ],
+  "tip": "Hem sahteciliğin kendisini hem de sahte eseri anlatır. 'A forgery' genellikle somut sahte nesneyi gösterir.",
+  "note": ""
+ },
+ {
+  "id": "brim",
+  "senses": [
+   "kenar; ağız",
+   "şapka siperi",
+   "taşmak; dolup taşmak"
+  ],
+  "ex": [
+   "Bardağımı çayla ağzına kadar doldurdu.",
+   "Etkinliklerle dolup taşan toplum merkezleri sosyal bağları güçlendirebilir ve yaşlı sakinler arasındaki yalnızlığı azaltabilir."
+  ],
+  "col": [
+   "ağzına kadar",
+   "geniş bir şapka siperi",
+   "güvenle dolup taşmak"
+  ],
+  "tip": "Kap için to the brim 'ağzına kadar' demektir. Brim with ise bir duygu ya da enerjiyle dolu olmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "liable",
+  "senses": [
+   "muhtemel; eğilimli",
+   "sorumlu; yükümlü"
+  ],
+  "ex": [
+   "Bu eski borular kış aylarında patlamaya meyillidir.",
+   "İşverenler, güvensiz çalışma koşullarının yol açtığı yaralanmalardan sorumlu tutulabilir."
+  ],
+  "col": [
+   "bir şey yapmaya eğilimli",
+   "zararlardan sorumlu",
+   "sorumlu tutulmak"
+  ],
+  "tip": "Liable to + fiil, olumsuz bir olayın olma ihtimalini anlatır. Hukuki sorumluluk için liable for kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dispatch",
+  "senses": [
+   "göndermek; sevk etmek",
+   "sevkiyat; gönderme",
+   "haber yazısı; resmi bildiri"
+  ],
+  "ex": [
+   "Mağaza yeni ayakkabılarımı bu sabah gönderdi.",
+   "Ciddi sel felaketi evleri ve temel altyapıyı tehdit ettiğinde yerel yönetimler acil ekipleri hızla sevk etmelidir."
+  ],
+  "col": [
+   "mal göndermek",
+   "bir ekip göndermek",
+   "sevke hazır",
+   "bir haber yazısı"
+  ],
+  "tip": "Despatch da geçerli bir yazımdır, ancak dispatch daha yaygındır. Ticari dilde ready for dispatch 'sevke hazır' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "alignment",
+  "senses": [
+   "hizalanma; sıralanma",
+   "uyum; görüş birliği",
+   "ittifak; siyasi birlik"
+  ],
+  "ex": [
+   "Tamirci ön tekerleklerimin hizasını kontrol etti.",
+   "Okul müfredatları ile iş dünyasının ihtiyaçları arasında daha fazla uyum, genç mezunların iş bulma olanaklarını artırabilir."
+  ],
+  "col": [
+   "teker hizalaması",
+   "ile uyumlu olarak",
+   "siyasi ittifak"
+  ],
+  "tip": "In alignment with hem fiziksel hizada hem de fikir ya da hedef uyumunda kullanılabilir. Bağlama göre anlamı değişir.",
+  "note": ""
+ },
+ {
+  "id": "democrat",
+  "senses": [
+   "demokrat",
+   "ABD Demokrat Parti üyesi"
+  ],
+  "ex": [
+   "Demokrat biri olarak herkesin oy hakkına sahip olmasını istiyor.",
+   "Kararlı bir demokrat, sonuçlar rakip bir siyasi partinin lehine olsa bile adil seçimleri savunmalıdır."
+  ],
+  "col": [
+   "kararlı bir demokrat",
+   "ömür boyu demokrat",
+   "liberal demokrat"
+  ],
+  "tip": "Genel anlamda demokrat küçük harfle yazılır. ABD'deki Demokrat Parti üyesi için büyük harfle Democrat yazılır.",
+  "note": ""
+ },
+ {
+  "id": "malice",
+  "senses": [
+   "kötü niyet; kin"
+  ],
+  "ex": [
+   "Alaycı gülümsemesinde hiç kötü niyet yoktu.",
+   "Okullar, öğrenciler arasındaki anlaşmazlıklara yaklaşırken dikkatsizce yapılan sözleri kötü niyetle yapılan yorumlardan ayırmalıdır."
+  ],
+  "col": [
+   "kötü niyetle",
+   "kin gütmemek",
+   "kötü niyetten dolayı"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Malicious (kötü niyetli) sıfatıyla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "certification",
+  "senses": [
+   "sertifikalandırma; onay"
+  ],
+  "ex": [
+   "Yüzme eğitmeni yeni sertifikasını gururla gösterdi.",
+   "Bağımsız sertifikalandırma, tüketicilerin üretim sürecinde tanınmış çevre standartlarına uygun ürünleri belirlemesine yardımcı olur."
+  ],
+  "col": [
+   "mesleki sertifika",
+   "sertifika almak",
+   "sertifika kuruluşu",
+   "sertifikalandırma süreci"
+  ],
+  "tip": "Certification resmi onaylama sürecini anlatır; certificate ise bu onayı gösteren belgedir.",
+  "note": ""
+ },
+ {
+  "id": "requisite",
+  "senses": [
+   "gerekli; zorunlu",
+   "gerekli şey; şart"
+  ],
+  "ex": [
+   "Bu bisikleti tamir edecek gerekli beceriye sahip.",
+   "Gerekli niteliklere sahip olmayan başvuru sahipleri, kalifiye işlere erişimi artırmak için tasarlanmış eğitim programlarından yararlanabilir."
+  ],
+  "col": [
+   "gerekli beceriler",
+   "gerekli nitelikler",
+   "başarı için bir şart"
+  ],
+  "tip": "Resmi bir kelimedir. Önceden şart olan anlamındaki prerequisite ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "deceit",
+  "senses": [
+   "aldatma; hile"
+  ],
+  "ex": [
+   "Boş kutuyu açtığımızda aldatmacası ortaya çıktı.",
+   "Reklamlarda yapılan aldatma, tüketici güvenini zedeleyebilir ve ürünlerini yanlış tanıtan şirketlere haksız avantaj sağlayabilir."
+  ],
+  "col": [
+   "kasıtlı aldatma",
+   "bir aldatmaca",
+   "yalan ve hile"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Tek bir olayı anlatmak için an act of deceit kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "suspension",
+  "senses": [
+   "askıya alma; uzaklaştırma",
+   "araç süspansiyonu",
+   "süspansiyon; askıda kalma"
+  ],
+  "ex": [
+   "Fırtına, tüm feribot seferlerinin askıya alınmasına neden oldu.",
+   "İnşaat çalışmalarının geçici olarak durdurulması, araştırmacıların projenin yerel yaban hayatı üzerindeki etkisini değerlendirmesine olanak sağladı."
+  ],
+  "col": [
+   "hizmetlerin askıya alınması",
+   "okuldan uzaklaştırma",
+   "süspansiyon sistemi",
+   "askıda halde"
+  ],
+  "tip": "Geçici durdurma anlamında kullanılır. Araçlarda ise sarsıntıyı azaltan süspansiyon aksamını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "overrun",
+  "senses": [
+   "istila etmek; kaplamak",
+   "aşmak; uzamak",
+   "aşım; fazla harcama"
+  ],
+  "ex": [
+   "Komşularımız taşındığından beri bahçeyi yabani otlar istila etti.",
+   "Büyük altyapı projeleri, planlamacılar malzeme maliyetlerini ve inşaat gecikmelerini hafife aldığında genellikle bütçelerini aşar."
+  ],
+  "col": [
+   "yabani otlarla kaplanmak",
+   "bütçeyi aşmak",
+   "maliyet aşımı"
+  ],
+  "tip": "Düzensiz fiil: geçmiş zaman overran, ortaç overrun. İsim olarak ilk hece vurgulanır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,276 @@
+[
+ {
+  "id": "guilty",
+  "senses": [
+   "suçlu",
+   "suçluluk duyan; vicdan azabı çeken"
+  ],
+  "ex": [
+   "Kız kardeşimin doğum gününü unuttuğum için kendimi suçlu hissettim.",
+   "Yasa dışı atık döktüğü tespit edilen şirketler, verilen çevresel zararı yansıtan cezalarla karşılaşmalıdır."
+  ],
+  "col": [
+   "...suçlu olmak",
+   "birini suçlu bulmak",
+   "suçunu kabul etmek",
+   "...için suçluluk duymak"
+  ],
+  "tip": "guilty of suç veya hatayla, feel guilty about ise yapılan bir şeyden dolayı duyulan vicdan azabıyla kullanılır. Bu iki kalıbı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "export",
+  "senses": [
+   "ihraç etmek; dışarı satmak",
+   "ihracat; ihraç ürünü",
+   "dışa aktarmak"
+  ],
+  "ex": [
+   "Teyzemin şirketi el yapımı kaseleri birkaç ülkeye ihraç ediyor.",
+   "Ağırlıklı olarak ham madde ihraç eden ülkeler, küresel emtia fiyatlarındaki ani değişimlere karşı savunmasız olabilir."
+  ],
+  "col": [
+   "mal ihraç etmek",
+   "ihracat pazarları",
+   "ihracat geliri",
+   "verileri dışa aktarmak"
+  ],
+  "tip": "Fiil ikinci hecede (exPORT), isim ilk hecede (EXport) vurgulanır. Bilgisayar anlamında verileri dışa aktarmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aquarium",
+  "senses": [
+   "akvaryum; balık kabı",
+   "akvaryum; su altı müzesi"
+  ],
+  "ex": [
+   "Akvaryumumuzdaki bitkilerin arasında iki turuncu balık yüzüyor.",
+   "İyi yönetilen bir akvaryum, ziyaretçilere deniz ekosistemlerini öğretebilir ve okyanus korumasına daha fazla önem verilmesini sağlayabilir."
+  ],
+  "col": [
+   "tatlı su akvaryumu",
+   "halka açık akvaryum",
+   "akvaryum balığı"
+  ],
+  "tip": "Hem evdeki balık kabını hem de halkın gezdiği akvaryum binasını anlatır. Bağlama göre anlamı belirleyin.",
+  "note": ""
+ },
+ {
+  "id": "competitor",
+  "senses": [
+   "rakip",
+   "yarışmacı; katılımcı"
+  ],
+  "ex": [
+   "Yeni fırın, yerel müşteriler için en büyük rakibimiz.",
+   "Bir işletme, giderek kalabalıklaşan pazarda müşteri çekmek için strateji geliştirmeden önce rakiplerini iyi anlamalıdır."
+  ],
+  "col": [
+   "önemli bir rakip",
+   "doğrudan rakip",
+   "güçlü bir rakip"
+  ],
+  "tip": "competitor rakibi ya da yarışmacıyı anlatır; competition ise rekabet veya yarışmanın kendisidir.",
+  "note": ""
+ },
+ {
+  "id": "breathe",
+  "senses": [
+   "nefes almak; solumak"
+  ],
+  "ex": [
+   "Pencerenin yanına oturun ve bir dakika boyunca yavaşça nefes alın.",
+   "Yoğun yollara yakın yaşayan insanlar çoğu zaman kirli hava solur; bu da solunum yolu hastalıkları riskini artırabilir."
+  ],
+  "col": [
+   "derin nefes almak",
+   "nefesini içine çekmek",
+   "nefesini vermek",
+   "temiz hava solumak"
+  ],
+  "tip": "Fiil olan breathe [briːð] sonunda ses ðdır; isim olan breath [breθ] ise θ ile biter. Telaffuzu karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "predict",
+  "senses": [
+   "tahmin etmek; öngörmek"
+  ],
+  "ex": [
+   "Şiddetli yağmur bekliyorlar, o yüzden şemsiyeni al.",
+   "İklim modelleri, bilim insanlarının yükselen sıcaklıkların farklı bölgelerdeki tarımsal üretimi nasıl etkileyebileceğini öngörmesine yardımcı olur."
+  ],
+  "col": [
+   "sonucu tahmin etmek",
+   "doğru tahmin etmek",
+   "tahmin etmesi zor"
+  ],
+  "tip": "that yan cümlesi alabilir (predict that...). prevent (önlemek) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "entertain",
+  "senses": [
+   "eğlendirmek",
+   "ağırlamak; konuk etmek",
+   "düşünmek; aklında tutmak"
+  ],
+  "ex": [
+   "Kardeşim komik hayvan seslerini taklit ederek çocukları eğlendirdi.",
+   "Halka açık müzeler, ziyaretçilere ilgi çekici sergiler ve etkileşimli etkinliklerle hem eğitim vermeli hem de onları eğlendirmelidir."
+  ],
+  "col": [
+   "izleyiciyi eğlendirmek",
+   "misafir ağırlamak",
+   "...fikrini düşünmek"
+  ],
+  "tip": "entertain an idea bir fikri düşünmek anlamına gelir, kabul ettiği anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "alcohol",
+  "senses": [
+   "alkollü içki; içki",
+   "alkol; etil alkol"
+  ],
+  "ex": [
+   "Bu restoran taze meyve suyu servis ediyor ama alkollü içki satmıyor.",
+   "Halk sağlığı kampanyaları, aşırı alkol tüketiminin hem fiziksel hem de ruhsal sağlığa nasıl zarar verebileceğini anlatmalıdır."
+  ],
+  "col": [
+   "alkol tüketimi",
+   "alkol bağımlılığı",
+   "alkol oranı",
+   "dezenfektan alkolü"
+  ],
+  "tip": "Genel olarak alkollü içki anlamında sayılamaz. Bir kadeh içki için a drink kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "basement",
+  "senses": [
+   "bodrum kat; bodrum"
+  ],
+  "ex": [
+   "Kışın bisikletlerimizi bodrum katta saklıyoruz.",
+   "Kullanılmayan bodrum alanlarını topluluk tesislerine dönüştürmek, yoğun nüfuslu mahallelerin daha fazla etkinliğe ev sahipliği yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bodrumda",
+   "bodrum daire",
+   "bodrum depo"
+  ],
+  "tip": "basement yaşam alanı olarak da kullanılabilir; cellar ise genellikle şarap veya erzak için kullanılan bir mahzen anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "sneeze",
+  "senses": [
+   "aksırmak",
+   "aksırık"
+  ],
+  "ex": [
+   "Eski halıdaki toz beni aksırttı.",
+   "Aksırırken ağzınızı ve burnunuzu kapatmak, solunum yolu enfeksiyonlarının yayılmasını azaltmaya yardımcı olur."
+  ],
+  "col": [
+   "mendile aksırmak",
+   "aksırık nöbeti",
+   "aksırığını tutmak"
+  ],
+  "tip": "Fiil geçişsiz kullanılır. \"Bir aksırık yapmak\" için give a sneeze demek yerine doğrudan sneeze kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "treatment",
+  "senses": [
+   "tedavi",
+   "davranış; muamele",
+   "işlem; arıtma"
+  ],
+  "ex": [
+   "Tedaviden sonra sakatlanan ayak bileği çok daha iyi hissettirdi.",
+   "Uygun fiyatlı tıbbi tedaviye erişim, zengin ve dezavantajlı topluluklar arasındaki sağlık eşitsizliğini azaltmak için şarttır."
+  ],
+  "col": [
+   "tedavi görmek",
+   "tıbbi tedavi",
+   "eşit muamele",
+   "atık su arıtımı"
+  ],
+  "tip": "Genel anlamda tedavi sayılamaz; belirli bir tedavi yöntemi anlatıldığında a treatment kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "self-service",
+  "senses": [
+   "self servis",
+   "self servis; kendi kendine hizmet"
+  ],
+  "ex": [
+   "Tepsilerimizi self servis kafeteryada taşıdık.",
+   "Self servis makineleri kuyrukları kısaltabilir, ancak işletmeler ek desteğe ihtiyaç duyan müşterilere yardımcı olmak için personel bulundurmalıdır."
+  ],
+  "col": [
+   "self servis kasa",
+   "self servis kafeterya",
+   "self servis makinesi"
+  ],
+  "tip": "self-service müşterinin kendi işini yapması anlamına gelir; tamamen otomatik bir makine anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "honest",
+  "senses": [
+   "dürüst; namuslu",
+   "samimi; açık sözlü"
+  ],
+  "ex": [
+   "Dürüst kasiyer, fazla ödediğim parayı iade etti.",
+   "Öğretmenler ve veliler arasında dürüst iletişim, okulların öğrenci sorunlarını ciddi hale gelmeden çözmesine yardımcı olabilir."
+  ],
+  "col": [
+   "dürüst bir insan",
+   "dürüst bir cevap",
+   "açık konuşmak gerekirse"
+  ],
+  "tip": "h harfi okunmaz, bu yüzden an honest person denir (a değil, an kullanılır).",
+  "note": ""
+ },
+ {
+  "id": "tractor",
+  "senses": [
+   "traktör"
+  ],
+  "ex": [
+   "Çiftçi çamurlu tarlada traktörü sürdü.",
+   "Traktör kullanmak, çiftçilerin daha az fiziksel çabayla ve daha az işçiyle daha geniş alanları işlemesine olanak tanır."
+  ],
+  "col": [
+   "traktör sürmek",
+   "traktör şoförü",
+   "traktör lastiği"
+  ],
+  "tip": "tractor traktördür; truck ise kamyon anlamına gelir, bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "yell",
+  "senses": [
+   "bağırmak; haykırmak",
+   "bağırış; çığlık"
+  ],
+  "ex": [
+   "Takımımız sonunda gol attığında heyecanla bağırdık.",
+   "Genç sporcularına bağıran antrenörler, performanslarını artırmak yerine onların özgüvenini zedeleyebilir."
+  ],
+  "col": [
+   "birine bağırmak",
+   "yardım için bağırmak",
+   "yüksek sesle bağırmak"
+  ],
+  "tip": "yell at genellikle öfkeyle bağırmayı anlatır; yell to ise birine seslenip duyurmak amacını taşır.",
+  "note": ""
+ }
+]

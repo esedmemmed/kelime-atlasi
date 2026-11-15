@@ -1,0 +1,271 @@
+[
+ {
+  "id": "day-off",
+  "senses": [
+   "izin günü; boş gün"
+  ],
+  "ex": [
+   "İzin günümde bisikletle göle gittim.",
+   "Çalışanların düzenli olarak izin günü kullanması, dinlenmelerine yardımcı olur ve iş performanslarını artırabilir."
+  ],
+  "col": [
+   "bir gün izin almak",
+   "izinli olmak",
+   "işten izin günü"
+  ],
+  "tip": "Çoğulu days off. Bir gün izin almak için take a day off kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "comedy",
+  "senses": [
+   "komedi; komedi filmi",
+   "mizah; komiklik"
+  ],
+  "ex": [
+   "Bir komedi izledik ve akşam boyunca güldük.",
+   "Komedi, tanıdık sorunları beklenmedik ve eğlenceli biçimlerde sunarak izleyicileri toplumsal tutumları sorgulamaya teşvik edebilir."
+  ],
+  "col": [
+   "romantik komedi",
+   "stand-up komedi",
+   "komedi dizisi"
+  ],
+  "tip": "Tür anlamında genellikle sayılamaz; tek bir yapım için a comedy denir.",
+  "note": ""
+ },
+ {
+  "id": "immediately",
+  "senses": [
+   "hemen; derhal",
+   "hemen yanında; bitişik",
+   "-ince hemen"
+  ],
+  "ex": [
+   "Kapı zili çalınca hemen kapıyı açtım.",
+   "Okullar, ciddi bir olay yaşanmasını beklemek yerine güvenlik kaygılarına derhal yanıt vermelidir."
+  ],
+  "col": [
+   "derhal yanıt vermek",
+   "hemen sonra",
+   "hemen kullanılabilir"
+  ],
+  "tip": "Bağlaç olarak 'as soon as' anlamındaki kullanımı ağırlıklı olarak İngiliz İngilizcesine özgüdür.",
+  "note": ""
+ },
+ {
+  "id": "freezer",
+  "senses": [
+   "dondurucu"
+  ],
+  "ex": [
+   "Dondurmayı tekrar dondurucuya koy.",
+   "Dondurucu kullanmak, hanelerin mevsimlik ürünleri daha uzun süre saklamasını ve gıda israfını azaltmasını sağlar."
+  ],
+  "col": [
+   "sandıklı dondurucu",
+   "dondurucu bölmesi",
+   "dondurucuyu buzunu çözmek"
+  ],
+  "tip": "freezer dondurmak için kullanılan cihaz ya da bölmedir; soğutma için fridge (buzdolabı) denir. Karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "rucksack",
+  "senses": [
+   "sırt çantası"
+  ],
+  "ex": [
+   "Öğle yemeğimi ve ceketimi sırt çantama koydum.",
+   "Yalnızca bir sırt çantası taşıyan gezginler toplu taşıma hizmetleri arasında daha rahat geçiş yapabilir."
+  ],
+  "col": [
+   "sırt çantasını hazırlamak",
+   "sırt çantası taşımak",
+   "doğa yürüyüşü çantası"
+  ],
+  "tip": "İngiliz İngilizcesinde yaygındır; Amerikan İngilizcesinde backpack kullanılır, anlamı aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "essay",
+  "senses": [
+   "deneme; kompozisyon"
+  ],
+  "ex": [
+   "Tarih kompozisyonumu akşam yemeğinden hemen önce bitirdim.",
+   "Deneme yazmak, öğrencilerin fikirlerini düzenlemesine ve argümanlarını ilgili kanıtlarla desteklemesine yardımcı olur."
+  ],
+  "col": [
+   "deneme yazmak",
+   "deneme sorusu",
+   "...hakkında bir deneme"
+  ],
+  "tip": "Sayılabilir isimdir. Konu belirtmek için on kullanılır: an essay on climate change.",
+  "note": ""
+ },
+ {
+  "id": "pub",
+  "senses": [
+   "pub; birahane"
+  ],
+  "ex": [
+   "Köydeki pub'da sebzeli çorba içtik.",
+   "Bazı kırsal topluluklarda yerel pub, sakinler için önemli bir buluşma yeridir."
+  ],
+  "col": [
+   "yerel pub",
+   "köy pub'ı",
+   "pub yemekleri"
+  ],
+  "tip": "Esas olarak İngiltere'de kullanılır; alkollü içki ve çoğu zaman yemek servis eden bir mekândır, konaklama yeri değildir.",
+  "note": ""
+ },
+ {
+  "id": "kid",
+  "senses": [
+   "çocuk",
+   "şaka yapmak; dalga geçmek",
+   "yavru keçi"
+  ],
+  "ex": [
+   "Çocuklar dere üzerinde küçük bir köprü yaptılar.",
+   "Açık hava etkinlikleri, çocukların fiziksel sağlıklarını geliştirirken sosyal becerilerini de geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "küçük çocuklar",
+   "sadece şaka yapıyorum",
+   "etrafta şaka yapmak"
+  ],
+  "tip": "kid gayriresmi bir sözcüktür; akademik yazıda 'çocuk' anlamında child tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "manage",
+  "senses": [
+   "becermek; başarmak",
+   "yönetmek; idare etmek",
+   "başa çıkmak; geçinmek"
+  ],
+  "ex": [
+   "Bütün çantaları güçlükle de olsa yukarı taşımayı başardım.",
+   "Birçok öğrenci, haftalık programlarını dikkatle planlayarak akademik yükü ücretli işle dengelemeyi başarır."
+  ],
+  "col": [
+   "bir şeyi becermek",
+   "bir ekibi yönetmek",
+   "zamanını yönetmek",
+   "yardımsız idare etmek"
+  ],
+  "tip": "manage to do zorluğa rağmen başarmak anlamına gelir; sadece denemek anlamında değildir. try to ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "circus",
+  "senses": [
+   "sirk"
+  ],
+  "ex": [
+   "Sirk sanatçılarının parlak renkli toplarla hokkabazlık yapmasını izledik.",
+   "Modern sirk gösterileri, geleneksel eğlence becerilerini korurken farklı geçmişlerden sanatçılara fırsatlar yaratabilir."
+  ],
+  "col": [
+   "sirk sanatçısı",
+   "sirk çadırı",
+   "sirk numarası",
+   "gezici sirk"
+  ],
+  "tip": "Çoğulu circuses'dır. Mecazen gürültülü, karmaşık durumlar için de kullanılır: a media circus.",
+  "note": ""
+ },
+ {
+  "id": "tourist",
+  "senses": [
+   "turist; gezgin"
+  ],
+  "ex": [
+   "Bir turist bana kaleye nasıl gidileceğini sordu.",
+   "Çok sayıda turist yerel işletmeleri destekler, ancak toplu taşıma üzerinde de baskı oluşturabilir."
+  ],
+  "col": [
+   "turistik cazibe merkezi",
+   "turistik destinasyon",
+   "turist bilgi merkezi",
+   "yurt dışından gelen turistler"
+  ],
+  "tip": "Genellikle isim olarak kullanılır; tourist attraction gibi birleşik adlarda ikinci sözcük olarak ad gibi işlev görür.",
+  "note": ""
+ },
+ {
+  "id": "fork",
+  "senses": [
+   "çatal",
+   "yol ayrımı; ayrım noktası",
+   "ayrılmak; çatallanmak"
+  ],
+  "ex": [
+   "Havucu çatalıyla aldı.",
+   "Kırsal bir patika ayrıldığında, açık yönergeler ziyaretçilerin çevresel açıdan hassas alanlara girmesini önleyebilir."
+  ],
+  "col": [
+   "bıçak ve çatal",
+   "yolda bir ayrım noktası",
+   "sola sap"
+  ],
+  "tip": "Yol anlamında fork bir yolun ayrıldığı yeri belirtir. a fork in the road deyimi hayatta önemli bir karar anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "president",
+  "senses": [
+   "cumhurbaşkanı; devlet başkanı",
+   "başkan; genel başkan; rektör"
+  ],
+  "ex": [
+   "Cumhurbaşkanı, sarayın önündeki kalabalığa el salladı.",
+   "Yeni seçilen cumhurbaşkanı, kamu sağlığını iyileştirmeye ve uygun fiyatlı eğitime erişimi genişletmeye söz verdi."
+  ],
+  "col": [
+   "cumhurbaşkanı seçmek",
+   "cumhurbaşkanlığı seçimi",
+   "üniversite rektörü",
+   "başkan yardımcısı"
+  ],
+  "tip": "Devlet başkanı için 'cumhurbaşkanı', kuruluşlarda 'başkan' ya da 'genel başkan' karşılığı kullanılır. Bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "barber",
+  "senses": [
+   "berber"
+  ],
+  "ex": [
+   "Berber, düğünden önce saçımı kısalttı.",
+   "Mahalledeki berber gibi yerel işletmeler temel hizmetleri sunar ve gayriresmi sosyal etkileşim fırsatları yaratır."
+  ],
+  "col": [
+   "berbere gitmek",
+   "berber dükkânı",
+   "berber koltuğu"
+  ],
+  "tip": "Erkek saç kesimi ve sakal tıraşı için kullanılır; kadın kuaförü için hairdresser denir.",
+  "note": ""
+ },
+ {
+  "id": "asleep",
+  "senses": [
+   "uyuyan; uykuda"
+  ],
+  "ex": [
+   "Biz eve varmadan bebek uyumuştu.",
+   "Geceleri geç saatte elektronik cihaz kullananlar uykuya dalmakta daha çok zorlanabilir."
+  ],
+  "col": [
+   "uykuya dalmak",
+   "derin uykuda",
+   "uyur durumda kalmak"
+  ],
+  "tip": "asleep genellikle yüklem olarak kullanılır, isimden önce gelmez. 'Uyuyan bebek' için a sleeping baby denir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "id": "doubt",
+  "senses": [
+   "şüphe; kuşku",
+   "şüphe etmek; pek sanmamak"
+  ],
+  "ex": [
+   "Bu saatte dükkânın hâlâ açık olduğunu pek sanmıyorum.",
+   "Temiz suya erişimin halk sağlığını iyileştirmek için şart olduğunda hiç şüphe yok."
+  ],
+  "col": [
+   "şüphesi olmak",
+   "şüphe yok",
+   "şüpheye düşürmek",
+   "şüphe götürmez"
+  ],
+  "tip": "b harfi okunmaz. 'I doubt that' 'pek sanmıyorum, olası görmüyorum' anlamında, 'I don't think' yerine kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "unwell",
+  "senses": [
+   "hasta; rahatsız"
+  ],
+  "ex": [
+   "Kendimi rahatsız hissettim ve öğle yemeğinden önce eve gittim.",
+   "Kendini iyi hissetmeyen çalışanların, enfeksiyonun işyerinde yayılmasını önlemek için evde kalmaları teşvik edilmelidir."
+  ],
+  "col": [
+   "kendini rahatsız hissetmek",
+   "hastalanmak",
+   "hafif rahatsız"
+  ],
+  "tip": "Genellikle feel veya be ile yüklem olarak kullanılır, isimden önce pek kullanılmaz. 'Sick' ile yakındır ama daha resmi ve nazik bir tondadır.",
+  "note": ""
+ },
+ {
+  "id": "original",
+  "senses": [
+   "ilk; başlangıçtaki",
+   "özgün; yaratıcı",
+   "asıl nüsha; orijinal"
+  ],
+  "ex": [
+   "Mutfakta hâlâ orijinal ahşap zemin duruyor.",
+   "Okullar, öğrencileri yalnızca ders kitaplarındaki bilgileri tekrar ettikleri için ödüllendirmek yerine özgün düşünmeyi teşvik etmelidir."
+  ],
+  "col": [
+   "ilk plan",
+   "özgün tasarım",
+   "özgün araştırma",
+   "asıl sürüm"
+  ],
+  "tip": "Hem 'başlangıçtaki' hem 'özgün' anlamına gelir; anlamı bağlamdan belirleyin. Sıfat olarak isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "congratulate",
+  "senses": [
+   "tebrik etmek; kutlamak"
+  ],
+  "ex": [
+   "Lina'yı yeni işinden dolayı tebrik etmek için aradık.",
+   "Okullar, yalnızca yüksek sınav puanlarına odaklanmak yerine öğrencilerin kişisel gelişimlerinden dolayı onları tebrik etmelidir."
+  ],
+  "col": [
+   "birini bir şeyden dolayı tebrik etmek",
+   "birini içtenlikle tebrik etmek"
+  ],
+  "tip": "Kalıp congratulate sb on sth şeklindedir; 'for' değil 'on' kullanılır. Türkçedeki 'tebrik ederim' yapısına bakıp 'for' demek sık görülen bir hatadır.",
+  "note": ""
+ },
+ {
+  "id": "dining",
+  "senses": [
+   "yemek yeme; yemek"
+  ],
+  "ex": [
+   "Yemek masasını pencereye biraz daha yaklaştırdık.",
+   "Öğrenci yurtlarındaki ortak yemek alanları sosyal etkileşimi artırabilir ve yeni gelenlerin aidiyet duygusu geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "yemek odası",
+   "yemek masası",
+   "lüks yemek deneyimi",
+   "açık havada yemek"
+  ],
+  "tip": "Dine fiilinin -ing biçimidir ama isim olarak da kullanılır. 'Dining room', 'dining table' gibi bileşik isimlerde sıktır.",
+  "note": ""
+ },
+ {
+  "id": "gather",
+  "senses": [
+   "toplamak; biriktirmek",
+   "bir araya gelmek; toplamak",
+   "anlamak; sonuç çıkarmak"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce düşen elmaları bir sepette topladık.",
+   "Araştırmacılar, toplu taşımanın istihdama erişimi nasıl etkilediğini anlamak için yerel sakinlerden bilgi toplar."
+  ],
+  "col": [
+   "bilgi toplamak",
+   "kanıt toplamak",
+   "bir araya toplanmak",
+   "güç toplamak"
+  ],
+  "tip": "'I gather that...' kalıbı 'anladığıma göre / duyduğuma göre' anlamında, bir kaynaktan çıkarım yaparken kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fortnight",
+  "senses": [
+   "iki hafta; on dört gün"
+  ],
+  "ex": [
+   "Bu yaz denizde iki hafta geçireceğiz.",
+   "Çalışanlara iki hafta boyunca uzaktan çalışma izni vermek, işverenlerin esnek çalışmanın faydalarını değerlendirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "iki hafta önce",
+   "iki hafta içinde",
+   "iki haftada bir"
+  ],
+  "tip": "Ağırlıklı olarak İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde genellikle 'two weeks' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "whatever",
+  "senses": [
+   "ne olursa olsun; her ne",
+   "hangi olursa olsun; her türlü"
+  ],
+  "ex": [
+   "Bu akşam yemek için ne istersen seçebilirsin.",
+   "Geçmişleri ne olursa olsun, öğrenciler yüksek kaliteli eğitime ve uygun öğrenme desteğine eşit erişime sahip olmalıdır."
+  ],
+  "col": [
+   "ne olursa olsun",
+   "sebep ne olursa olsun",
+   "ne istersen"
+  ],
+  "tip": "whatever sınırsız bir seçimi anlatır; whichever ise belirli bir kümeden seçim yapılırken kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "relative",
+  "senses": [
+   "akraba; yakın",
+   "göreli; nispi"
+  ],
+  "ex": [
+   "Bayram sırasında bir akrabamız bize evde yapılmış ekmek getirdi.",
+   "Toplu taşımanın göreli maliyeti, sakinlerin otobüsü mü yoksa özel arabayı mı tercih edeceğini etkiler."
+  ],
+  "col": [
+   "yakın akraba",
+   "uzak akraba",
+   "göreli önem",
+   "-e göre; -e kıyasla"
+  ],
+  "tip": "İsim olarak 'akraba', sıfat olarak ise 'göreli' anlamına gelir. Sıfat olarak genellikle 'relative to' kalıbında karşılaştırma bildirir.",
+  "note": ""
+ },
+ {
+  "id": "necessarily",
+  "senses": [
+   "mutlaka; zorunlu olarak"
+  ],
+  "ex": [
+   "Pahalı bir mont, mutlaka daha sıcak bir mont değildir.",
+   "Ekonomik büyüme, faydaları toplumda geniş çapta paylaşılmadıkça yaşam standartlarını mutlaka iyileştirmez."
+  ],
+  "col": [
+   "mutlaka değil",
+   "mutlaka içermek",
+   "mutlaka ima etmek"
+  ],
+  "tip": "'Not necessarily' 'mutlaka değil, şart değil' demektir, 'kesinlikle değil' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "flow",
+  "senses": [
+   "akmak; akıp gitmek",
+   "akış; akım"
+  ],
+  "ex": [
+   "Yağmur suyu patikadan aşağı akıp bahçeye girdi.",
+   "Toplu taşımanın iyileştirilmesi trafik akışını rahatlatabilir ve kalabalık şehirlerde hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "içine akmak",
+   "trafik akışı",
+   "nakit akışı",
+   "akış hızı"
+  ],
+  "tip": "Düzenli bir fiildir: flowed. Geçmiş zaman 'flew' (uçtu) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "trainee",
+  "senses": [
+   "stajyer; kursiyer"
+  ],
+  "ex": [
+   "Çırak, aşçının sebzeleri doğrayışını dikkatle izledi.",
+   "Her stajyere deneyimli bir mentor atamak, iş yerinde öğrenmeyi geliştirebilir ve maliyetli hataları azaltabilir."
+  ],
+  "col": [
+   "öğretmen adayı",
+   "yönetici adayı",
+   "mezun stajyer"
+  ],
+  "tip": "trainee eğitim alan kişidir; trainer ise eğitimi veren kişidir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "grab",
+  "senses": [
+   "kapmak; yakalamak",
+   "aceleyle almak; atıştırmak",
+   "dikkatini çekmek"
+  ],
+  "ex": [
+   "Şemsiyesini kapıp otobüse doğru koştu.",
+   "Halk sağlığı kampanyaları, insanların sağlıksız alışkanlıklarını değiştirmesini teşvik etmek için genellikle çarpıcı görseller kullanarak dikkat çeker."
+  ],
+  "col": [
+   "dikkatini çekmek",
+   "çabucak bir şeyler atıştırmak",
+   "fırsatı yakalamak"
+  ],
+  "tip": "Gayriresmi bir fiildir. Düzenli fiildir ama grabbed, grabbing biçimlerinde b harfi çift yazılır.",
+  "note": ""
+ },
+ {
+  "id": "effective",
+  "senses": [
+   "etkili; işe yarar",
+   "yürürlükteki; geçerli",
+   "fiili; gerçekteki"
+  ],
+  "ex": [
+   "Bu basit esneme, omuz gerginliğini azaltmada etkilidir.",
+   "Etkili çevre politikaları, şirketleri atığı azaltmaya teşvik eden mali teşviklerle açık düzenlemeleri birleştirmelidir."
+  ],
+  "col": [
+   "etkili tedavi",
+   "bir şeyi yapmakta etkili",
+   "çok etkili",
+   "...tarihinden itibaren geçerli"
+  ],
+  "tip": "effective istenen sonucun elde edilmesini, efficient ise az zaman ve enerji harcanmasını anlatır. Türkçede ikisi de 'etkili' gibi görünebilir.",
+  "note": ""
+ },
+ {
+  "id": "frequently",
+  "senses": [
+   "sık sık; sıklıkla"
+  ],
+  "ex": [
+   "Komşumuz bahçesinden sık sık bize sebze getirir.",
+   "Toplu taşımayı sık kullananlar, her gün araba kullananlara göre ulaşımda daha az harcama yapabilir."
+  ],
+  "col": [
+   "sık sorulan sorular",
+   "sık sık meydana gelmek",
+   "sık kullanılan"
+  ],
+  "tip": "Genellikle asıl fiilden önce, be fiilinden sonra gelir. often ile yakın anlamlıdır.",
+  "note": ""
+ }
+]

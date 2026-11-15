@@ -1,0 +1,268 @@
+[
+ {
+  "id": "pounce",
+  "senses": [
+   "üstüne atılmak; saldırmak",
+   "hemen yakalamak; eleştirmek",
+   "ani saldırı; atılım"
+  ],
+  "ex": [
+   "Yavru kedimiz bahçede uçuşan bir yaprağın üstüne atladı.",
+   "Haber siteleri çoğu zaman küçük hataları hemen yakalayıp, izleyicileri daha önemli politika tartışmalarından uzaklaştırıyor."
+  ],
+  "col": [
+   "avın üstüne atılmak",
+   "fırsatın üstüne atlamak",
+   "bir hataya hemen saldırmak"
+  ],
+  "tip": "Genellikle on edatıyla kullanılır (pounce on). Hem somut hem mecazi anlamda aynı yapı geçerlidir.",
+  "note": ""
+ },
+ {
+  "id": "pioneering",
+  "senses": [
+   "öncü; çığır açan"
+  ],
+  "ex": [
+   "Onun çığır açan tasarımı, tekerlekli sandalye kullanıcılarının her rafa ulaşmasını sağlıyor.",
+   "Enerji depolama üzerine öncü araştırmalar, yenilenebilir elektriği daha güvenilir hale getirebilir ve fosil yakıtlara bağımlılığı azaltabilir."
+  ],
+  "col": [
+   "çığır açan araştırma",
+   "öncü çalışma",
+   "öncü yaklaşım"
+  ],
+  "tip": "Genellikle sıfat olarak kullanılır. Öncü kişi anlamında isim için pioneer kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "undertaking",
+  "senses": [
+   "girişim; büyük iş",
+   "taahhüt; söz"
+  ],
+  "ex": [
+   "Bu eski evi yenilemek çok daha büyük bir iş.",
+   "Ülke çapında bir demiryolu ağı kurmak, sürekli yatırım ve dikkatli planlama gerektiren büyük bir girişimdir."
+  ],
+  "col": [
+   "büyük bir girişim",
+   "ortak bir girişim",
+   "taahhütte bulunmak"
+  ],
+  "tip": "Taahhüt anlamında genellikle give an undertaking to do kalıbında, to ile fiil gelir.",
+  "note": ""
+ },
+ {
+  "id": "neutralize",
+  "senses": [
+   "etkisiz hale getirmek; gidermek",
+   "nötrleştirmek"
+  ],
+  "ex": [
+   "Bu sprey mutfaktaki kötü kokuları gidermeye yardımcı oluyor.",
+   "Çiftçiler, bitki büyümesini iyileştirmek için asidik toprağa bazen kireç ekleyerek fazla asitliği nötrleştirir."
+  ],
+  "col": [
+   "asidi nötrleştirmek",
+   "tehdidi etkisiz hale getirmek",
+   "etkileri gidermek",
+   "kokuları gidermek"
+  ],
+  "tip": "İngiliz İngilizcesinde neutralise de yazılır. Etkisini yok etmek anlamındadır; nesnenin ortadan kalkması şart değildir.",
+  "note": ""
+ },
+ {
+  "id": "aspiration",
+  "senses": [
+   "hedef; arzu",
+   "aspirasyon; soluma"
+  ],
+  "ex": [
+   "En büyük hayali küçük bir fırın açmak.",
+   "Uygun fiyatlı yükseköğretime erişim, aile gelirinden bağımsız olarak gençlerin hedeflerine ulaşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kariyer hedefleri",
+   "bir arzuyu gerçekleştirmek",
+   "başarma arzusu"
+  ],
+  "tip": "Hedef anlamında çoğunlukla çoğul kullanılır (aspirations). aspiration to do kalıbıyla bir şeyi yapma isteği ifade edilir.",
+  "note": ""
+ },
+ {
+  "id": "conception",
+  "senses": [
+   "kavram; anlayış; tasavvur",
+   "döllenme; gebelik",
+   "tasarlama; oluşturma"
+  ],
+  "ex": [
+   "Onun mükemmel tatil anlayışında telefon yoktur.",
+   "Yeşil alanlara erişim, çocukların doğa anlayışını sınıfta öğrendiklerinin ötesine taşıyabilir."
+  ],
+  "col": [
+   "...hakkındaki anlayış",
+   "başlangıçtan tamamlanmaya kadar",
+   "geniş bir bakış açısı",
+   "döllenme anı"
+  ],
+  "tip": "conception of ile bir şeyi anlama biçimi kastedilir. Tıbbi anlamda döllenme demektir; bağlama dikkat edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "conscientiously",
+  "senses": [
+   "özenle; sorumlulukla"
+  ],
+  "ex": [
+   "Hemşire, çantadaki her malzemeyi titizlikle kontrol etti.",
+   "Her öğrencinin ilerlemesini özenle inceleyen öğretmenler, öğrenciler ciddi biçimde geride kalmadan öğrenme güçlüklerini fark edebilir."
+  ],
+  "col": [
+   "özenle çalışmak",
+   "görevleri titizlikle yerine getirmek"
+  ],
+  "tip": "Sadece dikkatli olmak değil, sorumluluk duygusuyla hareket etmek anlamına gelir. Sıfatı conscientious'tır.",
+  "note": ""
+ },
+ {
+  "id": "faction",
+  "senses": [
+   "hizip; grup"
+  ],
+  "ex": [
+   "Kulübümüzün bir grubu yeni bir lider istiyor.",
+   "Yönetici partinin içindeki güçlü bir hizip, önerilen ulusal eğitim reformlarına karşı çıktı."
+  ],
+  "col": [
+   "rakip gruplar",
+   "siyasi hizip",
+   "parti içindeki bir hizip"
+  ],
+  "tip": "Büyük bir örgüt içinde görüşleri çatışan küçük grupları ifade eder; özellikle siyasi bağlamda sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aboriginal",
+  "senses": [
+   "yerli; ilk sakinlere ait",
+   "Aborijin; Avustralya yerlisi"
+  ],
+  "ex": [
+   "Sergi, birkaç farklı bölgeden yerli kültürleri kutluyor.",
+   "Yerli dillerini korumak, bu dilleri konuşan topluluklarla yakın iş birliği ve sürekli finansman gerektirir."
+  ],
+  "col": [
+   "yerli halklar",
+   "Aborijin kültürü",
+   "Aborijin toplulukları"
+  ],
+  "tip": "Avustralya yerlileri için büyük harfle yazılır. Genellikle sıfat olarak kullanılır; insanları tanımlamak için tek başına isim gibi kullanmaktan kaçınılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "offset",
+  "senses": [
+   "dengelemek; telafi etmek"
+  ],
+  "ex": [
+   "Buradaki yüksek kirayı, daha kısa işe gidiş yolum telafi ediyor.",
+   "Ağaç dikmek bazı karbon emisyonlarını dengeleyebilir, ancak fosil yakıt tüketimini azaltmak hâlâ şart."
+  ],
+  "col": [
+   "maliyeti dengelemek",
+   "karbon emisyonunu dengelemek",
+   "etkiyi azaltmak"
+  ],
+  "tip": "Düzensiz fiildir: offset, offset, offset. Şimdiki zamanı offsetting'dir; yazımda t'yi ikiye katlamayı unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "arable",
+  "senses": [
+   "ekilebilir; tarıma elverişli"
+  ],
+  "ex": [
+   "Aile, küçük ekilebilir bir tarlada patates yetiştiriyor.",
+   "Hızlı kentleşme, birçok bölgede gıda üretimi için kullanılabilir tarım arazisi miktarını azaltıyor."
+  ],
+  "col": [
+   "ekilebilir arazi",
+   "tarla tarımı",
+   "tarla bitkileri"
+  ],
+  "tip": "Genellikle land ile birlikte kullanılır. Hayvan otlatma alanları için değil, ürün yetiştirilebilen topraklar için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "truce",
+  "senses": [
+   "ateşkes; geçici anlaşma"
+  ],
+  "ex": [
+   "Bütün sabah tartıştıktan sonra komşular bir ateşkes ilan etti.",
+   "Geçici bir ateşkes, yardım çalışanlarının çatışmadan etkilenen topluluklara temel malzemeleri ulaştırmasına izin verebilir."
+  ],
+  "col": [
+   "ateşkes ilan etmek",
+   "ateşkes anlaşması yapmak",
+   "geçici bir ateşkes",
+   "ateşkesi bozmak"
+  ],
+  "tip": "Genellikle kısa süreli bir durdurma anlamına gelir; kalıcı barış anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "exuberant",
+  "senses": [
+   "coşkulu; neşeli",
+   "gür; bereketli; süslü"
+  ],
+  "ex": [
+   "Enerjik yavru köpek bütün sabah bahçede zıplayıp durdu.",
+   "Uluslararası spor etkinliklerindeki coşkulu kutlamalar, seyirciler arasında güçlü bir ortak kimlik duygusu yaratabilir."
+  ],
+  "col": [
+   "coşkulu bir heves",
+   "neşeli bir kişilik",
+   "gür büyüme"
+  ],
+  "tip": "Temelde enerji, coşku ya da bolluk düzeyinin yüksek olduğunu anlatır; olumsuz bir 'abartılı' anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "oxide",
+  "senses": [
+   "oksit"
+  ],
+  "ex": [
+   "Bu güneş kremi, cildinizi korumak için çinko oksit içerir.",
+   "Araç motorlarından salınan azot oksitler hava kirliliğine yol açar ve insan sağlığına zarar verebilir."
+  ],
+  "col": [
+   "çinko oksit",
+   "demir oksit",
+   "azot oksitler"
+  ],
+  "tip": "oxide genel olarak oksit anlamındadır. İki oksijen atomu içeren bileşikler için dioxide kullanılır (karbondioksit gibi).",
+  "note": ""
+ },
+ {
+  "id": "inscribe",
+  "senses": [
+   "oyarak yazmak; kazımak"
+  ],
+  "ex": [
+   "Kuyumcu, gümüş yüzüğün içine baş harflerimizi kazıdı.",
+   "Topluluklar, yerel tarihi gelecek kuşaklara aktarmak için anıt taşlarına kişisel hikâyeler kazıyor."
+  ],
+  "col": [
+   "bir adı üzerine kazımak",
+   "üzerine yazılmış olmak",
+   "bir ithafı yazmak"
+  ],
+  "tip": "inscribe A on B ya da inscribe B with A kalıbında kullanılır. Sıradan not almak için değil, kalıcı yazılar için tercih edilir.",
+  "note": ""
+ }
+]

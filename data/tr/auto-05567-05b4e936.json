@@ -1,0 +1,272 @@
+[
+ {
+  "id": "semiconductor",
+  "senses": [
+   "yarı iletken"
+  ],
+  "ex": [
+   "Kız kardeşim yarı iletken çipler üreten bir fabrikada çalışıyor.",
+   "Modern elektronik cihazlarda kullanılan bileşenlerin güvenilir tedarikini sağlamak için yarı iletken üretimine yatırım yapmak şart."
+  ],
+  "col": [
+   "yarı iletken çipler",
+   "yarı iletken üretimi",
+   "yarı iletken sektörü"
+  ],
+  "tip": "Bitişik yazılır. 'Semiconductor chips' örneğinde olduğu gibi isim önünde sıfat gibi de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "deficiency",
+  "senses": [
+   "eksiklik; yetersizlik",
+   "kusur; eksiklik"
+  ],
+  "ex": [
+   "Kan tahlili bende demir eksikliği olduğunu ortaya çıkardı.",
+   "Çocuklar arasındaki beslenme yetersizliği, fiziksel gelişimi etkileyebilir ve okulda dikkatlerini toplama becerisini azaltabilir."
+  ],
+  "col": [
+   "demir eksikliği",
+   "vitamin eksikliği",
+   "beslenme yetersizliği",
+   "bir eksikliği gidermek"
+  ],
+  "tip": "Bir şeyin eksikliğini belirtmek için 'deficiency in + isim' kalıbı kullanılır. Belirli eksiklikler için çoğul da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "scorch",
+  "senses": [
+   "yüzeyini yakmak; kavurmak"
+  ],
+  "ex": [
+   "Sıcak ütü en sevdiğim pamuklu gömleğimi yaktı.",
+   "Uzun süren sıcak hava dalgaları ekinleri kavurarak verimi düşürebilir ve savunmasız bölgelerde gıda arzını tehdit edebilir."
+  ],
+  "col": [
+   "yanık izleri",
+   "çimenleri kavurmak",
+   "kavurucu sıcak"
+  ],
+  "tip": "Genellikle yüzeyin hafifçe yanması ya da kavrulması anlamındadır, tamamen yanıp kül olmayı belirtmez. Güneş de bitkileri kavurabilir.",
+  "note": ""
+ },
+ {
+  "id": "symmetry",
+  "senses": [
+   "simetri"
+  ],
+  "ex": [
+   "Kelebeğin açık kanatları güneş ışığında güzel bir simetri gösteriyor.",
+   "Mimarlar, ziyaretçilere dengeli ve görsel olarak hoş görünen binalar yaratmak için sıklıkla simetriden yararlanır."
+  ],
+  "col": [
+   "mükemmel simetri",
+   "iki yanlı simetri",
+   "ışınsal simetri"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Sıfat hali 'symmetrical' olur, örneğin 'symmetrical buildings'.",
+  "note": ""
+ },
+ {
+  "id": "illiteracy",
+  "senses": [
+   "okuma yazma bilmezlik",
+   "temel bilgi eksikliği"
+  ],
+  "ex": [
+   "Akşam kursları dedemin okuma yazma bilmezliğini aşmasına ve bağımsız okuyabilmesine yardımcı oldu.",
+   "Yetişkinler arasındaki okuma yazma bilmezliğin azaltılması istihdam fırsatlarını artırabilir ve insanların topluma tam katılımını sağlayabilir."
+  ],
+  "col": [
+   "yetişkinler arasında okuma yazma bilmezlik",
+   "okuma yazma bilmezlik oranı",
+   "okuma yazma bilmezlikle mücadele etmek",
+   "finansal okuryazarlık eksikliği"
+  ],
+  "tip": "Bir durumu anlatır. Kişiyi tanımlamak için 'illiterate person' gibi sıfat yapısı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "calamity",
+  "senses": [
+   "felaket; büyük afet"
+  ],
+  "ex": [
+   "Sel, tüm köy için bir felaket oldu.",
+   "Etkili acil durum planlaması, doğal bir afetin insani ve ekonomik maliyetlerini azaltabilir."
+  ],
+  "col": [
+   "doğal afet",
+   "felaketi önlemek",
+   "felaket meydana gelir"
+  ],
+  "tip": "'Problem'den çok daha ciddi, büyük yıkıma yol açan olaylar için kullanılır; küçük günlük sorunlar için uygun değildir.",
+  "note": ""
+ },
+ {
+  "id": "diplomacy",
+  "senses": [
+   "diplomasi; dış politika",
+   "diplomatik beceri; incelik"
+  ],
+  "ex": [
+   "İki ülke anlaşmazlıklarını diplomasi yoluyla çözdü.",
+   "Etkili diplomasi, komşu ülkelerin çatışmaya başvurmadan ortak su kaynaklarını yönetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "uluslararası diplomasi",
+   "sessiz diplomasi",
+   "diplomasi kullanmak"
+  ],
+  "tip": "Hem devletler arası ilişkileri hem de insanları kırmadan idare etme becerisini anlatır. İkinci anlamda 'tact' ile karşılaştırılabilir.",
+  "note": ""
+ },
+ {
+  "id": "transit",
+  "senses": [
+   "taşıma; nakliye",
+   "toplu taşıma sistemi"
+  ],
+  "ex": [
+   "Gözlükler taşınırken kırıldı.",
+   "Toplu taşımaya yapılan yatırımlar, büyüyen şehirlerde trafik sıkışıklığını azaltabilir ve istihdama erişimi iyileştirebilir."
+  ],
+  "col": [
+   "transit halinde",
+   "toplu taşıma",
+   "transit sistemi",
+   "transit vizesi"
+  ],
+  "tip": "In transit taşıma sırasında demektir. Public transit Amerikan İngilizcesidir; İngiliz İngilizcesinde public transport kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "resistant",
+  "senses": [
+   "dayanıklı; etkilenmeyen",
+   "karşı çıkan; direnen"
+  ],
+  "ex": [
+   "Bu botlar suya dayanıklı ve temizlemesi kolay.",
+   "Bazı bakteriler yaygın antibiyotiklere karşı dirençli hale geldi ve enfeksiyonların tedavisini zorlaştırdı."
+  ],
+  "col": [
+   "değişime karşı direnç gösteren",
+   "antibiyotiğe dirençli bakteriler",
+   "suya dayanıklı giysiler"
+  ],
+  "tip": "Genellikle 'resistant to' kalıbıyla kullanılır. 'Water-resistant' hafif koruma sağlar; tam geçirmezlik için 'waterproof' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "reimbursement",
+  "senses": [
+   "masraf karşılama; geri ödeme"
+  ],
+  "ex": [
+   "İş yerinden masraf karşılaması talep etmek için tren biletini sakla.",
+   "Çalışanlara seyahat masrafları için geri ödeme sağlamak, mesleki eğitimi düşük gelirli çalışanlar için daha erişilebilir kılabilir."
+  ],
+  "col": [
+   "masraf karşılaması talep etmek",
+   "masrafların geri ödenmesi",
+   "tam geri ödeme"
+  ],
+  "tip": "Genellikle ödenmiş masrafların geri verilmesi için kullanılır, kredi geri ödemesi için değil.",
+  "note": ""
+ },
+ {
+  "id": "aristocracy",
+  "senses": [
+   "soylu sınıf; aristokrasi",
+   "soylular yönetimi"
+  ],
+  "ex": [
+   "Bu görkemli ev bir zamanlar yerel soyluların malıydı.",
+   "Tarihsel olarak toprak mülkiyeti, soyluların politik kararlar ve kırsal istihdam üzerinde önemli etki kurmasını sağlıyordu."
+  ],
+  "col": [
+   "toprak sahibi soylular",
+   "kalıtsal soylu sınıf",
+   "soylu sınıfın bir üyesi"
+  ],
+  "tip": "Sınıfın bütünü için genellikle 'the aristocracy' denir. Tek bir kişi için 'an aristocrat' ya da 'a member of the aristocracy' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "array",
+  "senses": [
+   "geniş yelpaze; çeşitlilik",
+   "dizi; matris",
+   "dizmek; sıralamak"
+  ],
+  "ex": [
+   "Pastane renkli bir pasta yelpazesi sergiliyordu.",
+   "Modern üniversiteler, değişen iş gücü piyasasının taleplerini karşılamak için geniş bir ders yelpazesi sunar."
+  ],
+  "col": [
+   "geniş bir yelpaze",
+   "etkileyici bir yelpaze",
+   "güneş paneli dizisi",
+   "veri dizisi"
+  ],
+  "tip": "'A wide array of' kalıbı çok sayıda ve çeşitli şeyleri anlatır. Programlamada 'veri dizisi' anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "prelude",
+  "senses": [
+   "prelüd; ön müzik",
+   "başlangıç; habercisi"
+  ],
+  "ex": [
+   "Kısa yürüyüşümüz güzel bir pikniğin başlangıcıydı.",
+   "Güvenilir internet altyapısına yapılan yatırımlar, kırsal bölgelerde daha geniş ekonomik kalkınmanın habercisi olur."
+  ],
+  "col": [
+   "...in habercisi",
+   "piyano prelüdü",
+   "kısa bir giriş"
+  ],
+  "tip": "'A prelude to' kalıbından sonra isim ya da -ing alır. Bir olayın öncesinde gelen ve onu tanıtan şeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "perplex",
+  "senses": [
+   "şaşırtmak; kafasını karıştırmak"
+  ],
+  "ex": [
+   "Çamaşır makinesinin tuhaf sesleri hâlâ beni şaşırtıyor.",
+   "Birbiriyle çelişen beslenme tavsiyeleri, daha sağlıklı yiyecek seçmeye çalışan tüketicilerin kafasını karıştırabilir."
+  ],
+  "col": [
+   "araştırmacıları şaşırtmak",
+   "...den şaşkına dönmek",
+   "kafa karıştırıcı bir sorun"
+  ],
+  "tip": "Kişinin duygusu için 'perplexed', şeyin etkisi için 'perplexing' kullanılır: 'I am perplexed' ve 'a perplexing problem'.",
+  "note": ""
+ },
+ {
+  "id": "tonnage",
+  "senses": [
+   "tonaj; toplam ağırlık",
+   "gemi tonajı"
+  ],
+  "ex": [
+   "Sürücü geçmeden önce kamyonun tonajını kontrol etti.",
+   "Geri dönüşüm programları başladığından beri çöp sahasına gönderilen toplam atık tonajı azaldı."
+  ],
+  "col": [
+   "toplam tonaj",
+   "yük tonajı",
+   "brüt tonaj",
+   "gemi tonajı"
+  ],
+  "tip": "Gemi tonajı hacmi ya da taşıma kapasitesini ölçer; geminin gerçek ağırlığı değildir. Ton ve tonaj kavramlarını karıştırmamaya dikkat edin.",
+  "note": ""
+ }
+]

@@ -1,0 +1,261 @@
+[
+ {
+  "id": "eddy",
+  "senses": [
+   "girdap; hava girdabı",
+   "girdap oluşturmak; dönmek"
+  ],
+  "ex": [
+   "Köprünün yanındaki bir girdapta düşmüş bir yaprak dönüp durdu.",
+   "Nehir setlerinin arkasında oluşan küçük girdaplar, yüzen atıkları tutabilir ve su canlılarının hareketini etkileyebilir."
+  ],
+  "col": [
+   "dönen bir girdap",
+   "nehir girdapları",
+   "girdap akıntıları"
+  ],
+  "tip": "Su ya da hava akıntısında dönen hareket için kullanılır. Çoğul biçimi eddies'tir (y → ies).",
+  "note": ""
+ },
+ {
+  "id": "sullen",
+  "senses": [
+   "somurtkan; asık suratlı"
+  ],
+  "ex": [
+   "Omuzlarını silkip yere bakarak asık bir tavır takındı.",
+   "Dışlandığını hisseden öğrenciler somurtkanlaşabilir ve sınıf tartışmalarına katılmaya daha az istekli olabilir."
+  ],
+  "col": [
+   "somurtkan sessizlik",
+   "asık bir ifade",
+   "somurtkan bir ruh hali"
+  ],
+  "tip": "Öfke ya da hoşnutsuzlukla birlikte sessiz ve tatsız bir tavrı anlatır; sadece üzgün olmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "tetrad",
+  "senses": [
+   "dörtlü; dört kişilik grup; dörtlü küme",
+   "dörtlü kromatit; tetrad"
+  ],
+  "ex": [
+   "Mikroskopta dört hücrelik bir küme gözlemledik.",
+   "Mayoz sırasında her tetrad, eşleşmiş kromozomlar arasında genetik materyalin değişimine olanak tanır ve biyolojik çeşitliliğe katkıda bulunur."
+  ],
+  "col": [
+   "dört hücrelik bir küme",
+   "tetrad oluşumu",
+   "tetrad analizi"
+  ],
+  "tip": "Genellikle biyoloji terimi olarak kullanılır. Günlük anlamı dört kişilik ya da dört parçalı bir grup demektir.",
+  "note": ""
+ },
+ {
+  "id": "abridge",
+  "senses": [
+   "kısaltmak; özetlemek"
+  ],
+  "ex": [
+   "Yayınevi romanı genç okurlar için kısaltarak yayımladı.",
+   "Yayıncılar, klasik romanları az okuma deneyimi olan öğrenciler için daha erişilebilir kılmak amacıyla sıklıkla kısaltır."
+  ],
+  "col": [
+   "bir romanı kısaltmak",
+   "kısaltılmış baskı",
+   "kısaltılmış sürüm"
+  ],
+  "tip": "Ana içeriği koruyarak bazı bölümleri çıkarmak anlamına gelir; sadece kısa bir özet yazmak değildir.",
+  "note": ""
+ },
+ {
+  "id": "capitulate",
+  "senses": [
+   "teslim olmak; boyun eğmek; taviz vermek"
+  ],
+  "ex": [
+   "Saatlerce tartıştıktan sonra pes ettik ve pizza söyledik.",
+   "Halk sağlığı ve çevre koruma söz konusu olduğunda hükümetler ticari baskılara boyun eğmemelidir."
+  ],
+  "col": [
+   "baskıya boyun eğmek",
+   "taleplere teslim olmak"
+  ],
+  "tip": "Geçişsiz bir fiildir; bir baskıya ya da kişiye boyun eğmek için genellikle to ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "accede",
+  "senses": [
+   "kabul etmek; razı olmak",
+   "tahta çıkmak; görevi devralmak"
+  ],
+  "ex": [
+   "Ev sahibi sonunda onarım talebimizi kabul etti.",
+   "Ulusal kurumlara güven azaldığında hükümetler, daha fazla şeffaflık yönündeki kamuoyu taleplerine boyun eğebilir."
+  ],
+  "col": [
+   "bir talebi kabul etmek",
+   "taleplere razı olmak",
+   "tahta çıkmak"
+  ],
+  "tip": "Resmi bir dildir ve genellikle to ile kullanılır. exceed (aşmak) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "odyssey",
+  "senses": [
+   "uzun yolculuk; serüven"
+  ],
+  "ex": [
+   "Bisikletle yaptıkları yolculuk onları çöllerden ve dağlardan geçirdi.",
+   "Belgesel, bir ailenin birkaç kıta boyunca yaptığı yolculuğu izler ve göçün kimliği ile aidiyeti nasıl şekillendirdiğini inceler."
+  ],
+  "col": [
+   "destansı yolculuk",
+   "kişisel macera",
+   "manevi yolculuk"
+  ],
+  "tip": "Edebi bir üslubu vardır; kişisel gelişim yolculuğunu anlatmak için mecazi olarak da kullanılır. Çoğulu odysseys'tir.",
+  "note": ""
+ },
+ {
+  "id": "thereof",
+  "senses": [
+   "bunun; bununla ilgili; onun"
+  ],
+  "ex": [
+   "Akşam yemeği planlarını konuştuk, ya da daha doğrusu planın olmadığını konuştuk.",
+   "Toplu taşımaya erişim, ya da bu erişimin olmaması, kırsal topluluklarda iş fırsatlarını güçlü biçimde etkiler."
+  ],
+  "col": [
+   "olmaması",
+   "bunların bir kısmı",
+   "bunun herhangi bir bölümü"
+  ],
+  "tip": "of that anlamına gelir ve daha çok hukuk ya da resmi metinlerde görülür. therefore (bu nedenle) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "macabre",
+  "senses": [
+   "ölümle ilgili ürkütücü; tekinsiz"
+  ],
+  "ex": [
+   "Eski tiyatroda dans eden iskeletleri gösteren ürkütücü bir tablo sergileniyordu.",
+   "Edebiyattaki ürkütücü imgeler, okurları sadece korkutmak yerine ölümlülük üzerine düşünmeye teşvik edebilir."
+  ],
+  "col": [
+   "ürkütücü mizah",
+   "ürkütücü imgeler",
+   "ürkütücü bir öykü"
+  ],
+  "tip": "Her türlü korkutucu şey için değil, özellikle ölüm ya da rahatsız edici ayrıntılar içeren durumlar için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fetter",
+  "senses": [
+   "kısıtlamak; zincirlemek; engellemek",
+   "kısıtlayıcı şey; pranga; zincir"
+  ],
+  "ex": [
+   "Yalnız seyahat etme planlarını korku yüzünden engellemene izin verme.",
+   "Aşırı idari gereklilikler küçük işletmeleri kısıtlayarak yenilikçiliğe yatırım yapmalarını ve iş yaratmalarını engelleyebilir."
+  ],
+  "col": [
+   "kısıtlanmak",
+   "yaratıcılığı engellemek",
+   "zincirlerden kurtulmak"
+  ],
+  "tip": "Resmi bir kelimedir. İsim olarak genellikle çoğul fetters biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "upholster",
+  "senses": [
+   "koltuk minderi takmak; döşemek"
+  ],
+  "ex": [
+   "Eski sandalyeyi yumuşak mavi kadifeyle kaplayarak döşediler.",
+   "Mobilya döşemeyi öğrenmek, insanların eşyalarının kullanım ömrünü uzatmasına ve ev atıklarını azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sandalyeyi döşemek",
+   "deri kaplı",
+   "döşemeli mobilya"
+  ],
+  "tip": "Mobilyaya yastık ve kumaş ya da deri kaplamak anlamına gelir; genel olarak dekorasyon ya da tadilat için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "halibut",
+  "senses": [
+   "pisi balığı"
+  ],
+  "ex": [
+   "Yanında patates ve taze limonla ızgara pisi balığı sipariş ettik.",
+   "Sıkı avlanma sınırları, pisi balığı popülasyonlarını korurken kıyı topluluklarının uzun vadeli geçim kaynaklarını da destekleyebilir."
+  ],
+  "col": [
+   "ızgara pisi balığı",
+   "pisi balığı fileto",
+   "pisi balığı avcılığı"
+  ],
+  "tip": "Balık için çoğul hâli de genellikle halibut olarak kalır. Balık eti anlamında sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "pneumatic",
+  "senses": [
+   "pnömatik; havalı"
+  ],
+  "ex": [
+   "İşçiler kaldırımı kırmak için pnömatik bir matkap kullandı.",
+   "Sıkıştırılmış hava, aletleri güvenli ve verimli biçimde çalıştırabildiğinden pnömatik sistemler imalatta yaygın olarak kullanılır."
+  ],
+  "col": [
+   "pnömatik matkap",
+   "havalı lastikler",
+   "pnömatik sistem"
+  ],
+  "tip": "Başındaki p harfi okunmaz. Genellikle sıkıştırılmış hava ile çalışan ya da havayla şişirilmiş nesneler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "delirium",
+  "senses": [
+   "deliryum; ani zihinsel karışıklık",
+   "aşırı heyecan; coşku"
+  ],
+  "ex": [
+   "Ateşi yükselirken deliryuma girdi ve anlamsız konuşmaya başladı.",
+   "Hastane personelinin, özellikle ameliyat sonrası iyileşen yaşlı hastalarda deliryumu hızla fark edebilmesi için uygun eğitim alması gerekir."
+  ],
+  "col": [
+   "akut deliryum",
+   "ameliyat sonrası deliryum",
+   "deliryum hâli"
+  ],
+  "tip": "Tıbbi anlamda ani gelişen bilinç bulanıklığıdır; uzun süreli bunamayla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "inveterate",
+  "senses": [
+   "köklü; kronik; alışkanlığı bırakamayan"
+  ],
+  "ex": [
+   "Amcam eski haritaların tutkulu bir koleksiyoncusudur.",
+   "Köklü araba kullanıcıları, toplu taşıma girişimlerine ancak hizmetler önemli ölçüde daha uygun ve güvenilir olursa direnmeyi sürdürebilir."
+  ],
+  "col": [
+   "adetâ yalancı; kronik yalancı",
+   "kronik kumarbaz",
+   "yerleşik gezgin"
+  ],
+  "tip": "Genellikle isimden önce kullanılır ve uzun süredir var olan, değişmesi zor bir alışkanlığı vurgular.",
+  "note": ""
+ }
+]

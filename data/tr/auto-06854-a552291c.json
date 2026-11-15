@@ -1,0 +1,277 @@
+[
+ {
+  "id": "propeller",
+  "senses": [
+   "pervane"
+  ],
+  "ex": [
+   "Teknenin pervanesi suyu beyaz köpüğe dönüştürerek çalkaladı.",
+   "Mühendisler, gemi gürültüsünün deniz canlılarına etkisini azaltmak için daha sessiz pervane tasarımları geliştiriyor."
+  ],
+  "col": [
+   "uçak pervanesi",
+   "geminin pervanesi",
+   "pervane kanadı"
+  ],
+  "tip": "Propeller (pervane) ile propel (ileri itmek) fiilini karıştırmayın; propeller itme sağlayan cihazdır.",
+  "note": ""
+ },
+ {
+  "id": "horsepower",
+  "senses": [
+   "beygir gücü"
+  ],
+  "ex": [
+   "Bu traktörün ağır römorku çekecek kadar beygir gücü var.",
+   "Daha yüksek beygir gücü araç performansını artırabilir; ancak yakıt verimliliği birçok tüketici için hâlâ önemli bir etmendir."
+  ],
+  "col": [
+   "motor beygir gücü",
+   "fren beygir gücü",
+   "yüksek beygir gücü"
+  ],
+  "tip": "Sayıdan sonra horsepower çoğul yapılmaz (ör. 200 horsepower). Motorun gücünü ölçer, hızını değil.",
+  "note": ""
+ },
+ {
+  "id": "variance",
+  "senses": [
+   "uyuşmazlık; tutarsızlık",
+   "varyans"
+  ],
+  "ex": [
+   "Neşeli gülümsemesi, şikâyetleriyle çelişiyordu.",
+   "Önerilen konut politikası, hükümetin yeşil alanları koruma taahhüdüyle uyuşmuyor."
+  ],
+  "col": [
+   "ile uyuşmamak",
+   "gruplar arası varyans",
+   "popülasyon varyansı"
+  ],
+  "tip": "at variance with kalıbı \"ile çelişmek / uyuşmamak\" anlamına gelir; istatistikte ise varyans demektir.",
+  "note": ""
+ },
+ {
+  "id": "militia",
+  "senses": [
+   "milis; yedek asker birliği"
+  ],
+  "ex": [
+   "Müze, yerel milislerin bir zamanlar giydiği üniformaları sergiliyordu.",
+   "Tarihi kayıtlar, milislerin çoğunlukla düzenli işleriyle birlikte eğitim alan çiftçilerden oluştuğunu gösteriyor."
+  ],
+  "col": [
+   "yerel milis",
+   "milis kurmak",
+   "milis üyeleri"
+  ],
+  "tip": "Militia topluluk/örgüt anlamında kullanılır; tek bir üye için a militia member denir.",
+  "note": ""
+ },
+ {
+  "id": "counsel",
+  "senses": [
+   "öğüt; tavsiye",
+   "danışmanlık yapmak; öğüt vermek",
+   "avukat; hukuk danışmanı"
+  ],
+  "ex": [
+   "İşi kabul etmeden önce teyzemin öğüdüne başvurdum.",
+   "Okullar, sınav ve gelecek kariyeri konusunda kaygı yaşayan öğrencilere rehberlik yapacak eğitimli uzmanlar istihdam etmelidir."
+  ],
+  "col": [
+   "öğüt almak",
+   "hukuki danışman",
+   "birini bir şeye karşı uyarmak",
+   "bilge öğütler"
+  ],
+  "tip": "Counsel (öğüt, avukat) ile council (kurul, meclis) farklı kelimelerdir; yazarken karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "abundance",
+  "senses": [
+   "bolluk; çokluk"
+  ],
+  "ex": [
+   "Bahçemiz her yaz bol miktarda domates veriyor.",
+   "Doğal kaynakların bolluğu, sürdürülebilir ekonomik büyümeyi veya daha iyi yaşam standartlarını mutlaka garanti etmez."
+  ],
+  "col": [
+   "bol miktarda",
+   "bol bol",
+   "bol yaban hayatı"
+  ],
+  "tip": "an abundance of + isim kalıbını sıkça kullanın; in abundance ise \"bol miktarda\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "shaft",
+  "senses": [
+   "kuyu; asansör boşluğu",
+   "mil; sap; gövde",
+   "ışık huzmesi"
+  ],
+  "ex": [
+   "Asansör dar kuyunun yarısında durdu.",
+   "Mühendisler, yeraltı ulaşım istasyonu boyunca hava kalitesini artırmak için bir havalandırma bacası kurdu."
+  ],
+  "col": [
+   "asansör kuyusu",
+   "havalandırma bacası",
+   "tahrik mili",
+   "bir huzme güneş ışığı"
+  ],
+  "tip": "Asansör kuyusu İngilizcede lift shaft, Amerikan İngilizcesinde elevator shaft olarak adlandırılır.",
+  "note": ""
+ },
+ {
+  "id": "accordingly",
+  "senses": [
+   "buna uygun olarak; uygun şekilde",
+   "bu nedenle; bunun sonucu olarak"
+  ],
+  "ex": [
+   "Hava tahmini yağmur bekliyordu, bu yüzden buna uygun giyindik.",
+   "Okullar, her öğrencinin destekleyici bir öğrenme sürecine sahip olması için bireysel öğrenme ihtiyaçlarını belirleyip öğretim yöntemlerini buna göre ayarlamalıdır."
+  ],
+  "col": [
+   "buna göre ayarlamak",
+   "uygun davranmak",
+   "buna göre plan yapmak"
+  ],
+  "tip": "\"Buna uygun olarak\" anlamında genellikle cümle sonunda kullanılır; \"bu nedenle\" anlamı daha resmîdir.",
+  "note": ""
+ },
+ {
+  "id": "precinct",
+  "senses": [
+   "yayalaştırılmış ticaret bölgesi",
+   "polis bölgesi; seçim bölgesi",
+   "bina çevresindeki alan"
+  ],
+  "ex": [
+   "Fırının önünde, alışveriş bölgesinde buluştuk.",
+   "Yayalaştırılmış bir bölge oluşturmak, şehir merkezlerinde trafik kirliliğini azaltırken yerel alışverişi teşvik edebilir."
+  ],
+  "col": [
+   "alışveriş bölgesi",
+   "yaya bölgesi",
+   "polis bölgesi",
+   "katedral çevresi"
+  ],
+  "tip": "Bir binanın çevresindeki alanı anlatırken genellikle çoğul precincts kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "acquisition",
+  "senses": [
+   "edinme; öğrenme",
+   "satın alma; edinilen şey"
+  ],
+  "ex": [
+   "Günlük konuşmalar, onun yeni kelime dağarcığı edinmesine yardımcı oldu.",
+   "Çocuklar erken yaşta çeşitli konuşmalara maruz kalırsa, dil edinimi desteklenir ve iletişim becerileri güçlenir."
+  ],
+  "col": [
+   "dil edinimi",
+   "beceri edinimi",
+   "birleşme ve satın almalar",
+   "bir satın alma yapmak"
+  ],
+  "tip": "Dil veya beceri edinimi genellikle sayılmaz; şirket satın alımı ya da satın alınan nesne ise sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "mitigate",
+  "senses": [
+   "hafifletmek; azaltmak"
+  ],
+  "ex": [
+   "Kalın perdeler, sokaktan gelen gürültüyü azaltmaya yardımcı oldu.",
+   "Kentsel alanlarda ağaç dikmek, aşırı sıcakların etkilerini hafifletebilir ve sakinlerin yaşam kalitesini artırabilir."
+  ],
+  "col": [
+   "etkilerini hafifletmek",
+   "riskleri azaltmak",
+   "iklim değişikliğini hafifletmek",
+   "hafifletici koşullar"
+  ],
+  "tip": "Resmî bir fiildir; risk, zarar veya etki gibi kavramlarla kullanılır ve tamamen ortadan kaldırmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "maturity",
+  "senses": [
+   "olgunluk; ağırbaşlılık",
+   "ergin olma; gelişim tamamlama",
+   "vade; itfa tarihi"
+  ],
+  "ex": [
+   "Lena, hatasını sakince kabul ederek olgunluk gösterdi.",
+   "Okullar, öğrencileri anlaşmazlıkları saygıyla çözmeye ve farklı bakış açılarını düşünmeye teşvik ederek duygusal olgunluğu geliştirebilir."
+  ],
+  "col": [
+   "duygusal olgunluk",
+   "erginliğe ulaşmak",
+   "vade tarihi",
+   "olgunluk göstermek"
+  ],
+  "tip": "Genellikle sayılmayan bir isimdir; finans bağlamında at maturity \"vadesinde\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "stow",
+  "senses": [
+   "özenle yerleştirmek; kaldırmak"
+  ],
+  "ex": [
+   "Lütfen çantanızı önündeki koltuğun altına yerleştirin.",
+   "Yolcular, beklenmedik türbülans sırasında gevşek eşyaların yaralanmaya yol açmaması için bagajlarını sıkıca yerleştirmelidir."
+  ],
+  "col": [
+   "bagajı yerleştirmek",
+   "bir şeyi kaldırıp saklamak",
+   "sıkıca yerleştirmek"
+  ],
+  "tip": "Stow away kalıbı eşyayı toparlayıp kaldırmak anlamına gelebilir; özne insan olduğunda ise gizlice yolculuk yapmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "induction",
+  "senses": [
+   "işe alıştırma; göreve başlatma",
+   "tümevarım",
+   "elektromanyetik indüksiyon"
+  ],
+  "ex": [
+   "Oryantasyonumuz, tüm ofisi gezmeyi de kapsıyordu.",
+   "Yapılandırılmış bir oryantasyon programı, yeni çalışanların iş beklentilerini anlamasına ve görevlerine uyum sağlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "oryantasyon programı",
+   "göreve iade / göreve başlatılma",
+   "elektromanyetik indüksiyon",
+   "tümevarımsal akıl yürütme"
+  ],
+  "tip": "İşe başlama oryantasyonu için induction kullanılır; tümevarım karşıtı deduction (tümdengelim) kelimesidir.",
+  "note": ""
+ },
+ {
+  "id": "vocalist",
+  "senses": [
+   "şarkıcı; vokalist"
+  ],
+  "ex": [
+   "Grubun vokali, gitarist çalarken yumuşak bir sesle şarkı söyledi.",
+   "Yetenekli bir vokalist, geleneksel müziğin kendine özgü kültürel karakterini kaybetmeden genç dinleyicilere ulaşmasını sağlayabilir."
+  ],
+  "col": [
+   "baş vokal",
+   "yardımcı vokal",
+   "caz vokalisti"
+  ],
+  "tip": "Genellikle bir müzik grubundaki şarkıcıyı anlatır; lead vocalist grubun baş vokalidir.",
+  "note": ""
+ }
+]

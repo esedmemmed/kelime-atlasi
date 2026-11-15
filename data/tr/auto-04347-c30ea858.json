@@ -1,0 +1,275 @@
+[
+ {
+  "id": "interfere",
+  "senses": [
+   "karışmak; müdahale etmek",
+   "engellemek; bozmak"
+  ],
+  "ex": [
+   "Köpeğime oturmayı öğretirken lütfen karışma.",
+   "Arka plandaki aşırı gürültü, öğrencilerin konsantrasyonunu bozabilir ve yeni bilgileri özümseme yeteneklerini azaltabilir."
+  ],
+  "col": [
+   "birinin işlerine karışmak",
+   "konsantrasyonu bozmak",
+   "uykuyu bölmek"
+  ],
+  "tip": "interfere in genellikle başkasının işlerine karışmak, interfere with ise bir şeyin düzgün işleyişini engellemek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "imprison",
+  "senses": [
+   "hapsetmek; hapse atmak"
+  ],
+  "ex": [
+   "Hakim, değerli tabloları çaldığı için hırsızı hapse attı.",
+   "Hükümetler, küçük suçlar için insanları hapsetmenin mi yoksa denetimli toplum hizmetini sağlamanın mı daha etkili olduğunu düşünmeli."
+  ],
+  "col": [
+   "…nedeniyle hapsedilmek",
+   "birini ömür boyu hapsetmek",
+   "haksız hapis"
+  ],
+  "tip": "be imprisoned for'dan sonra suç adı ya da hapis süresi gelebilir. Bu yapı genellikle edilgen çatıda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "independently",
+  "senses": [
+   "bağımsız olarak; kendi başına",
+   "birbirinden bağımsız olarak"
+  ],
+  "ex": [
+   "Büyükannem hâlâ kendi dairesinde tek başına yaşıyor.",
+   "Bağımsız çalışmayı öğrenen öğrenciler, yükseköğretimin taleplerine genellikle daha iyi hazırlıklı oluyor."
+  ],
+  "col": [
+   "tek başına yaşamak",
+   "bağımsız çalışmak",
+   "…den bağımsız olarak",
+   "bağımsız olarak doğrulanmış"
+  ],
+  "tip": "'…den bağımsız olarak' anlamında independently of kalıbı kullanılır; of eki unutulmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "fluency",
+  "senses": [
+   "akıcılık",
+   "akıcılık; ustalık"
+  ],
+  "ex": [
+   "Arkadaşlarımla her gün sohbet etmek İngilizcemi epey geliştirdi.",
+   "Dil kursları, öğrencilerin tanımadıkları durumlarda özgüvenle iletişim kurabilmeleri için doğrulukla birlikte akıcılığı da geliştirmelidir."
+  ],
+  "col": [
+   "İngilizce akıcılığı",
+   "sözlü akıcılık",
+   "akıcılık kazanmak"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Dil için fluency in English biçiminde kullanılır; sıfatı fluent'tir: fluent in English.",
+  "note": ""
+ },
+ {
+  "id": "thirst",
+  "senses": [
+   "susuzluk",
+   "tutku; hırs"
+  ],
+  "ex": [
+   "Uzun yürüyüşten sonra serin su susuzluğumu giderdi.",
+   "Okullar, çocukların bilgiye duydukları merakı beslemeli; yalnızca sınav sonuçlarına odaklanmamalıdır."
+  ],
+  "col": [
+   "susuzluğu gidermek",
+   "bilgi tutkusu",
+   "macera tutkusu"
+  ],
+  "tip": "'Susamak' için be thirsty kullanılır. thirst isim olarak susuzluk demektir; thirst for ise bir şeye duyulan tutkuyu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "disguise",
+  "senses": [
+   "kılık değiştirmek; gizlemek",
+   "maske; kılık"
+  ],
+  "ex": [
+   "Nadia peruk takıp büyük boy gözlük takarak kılık değiştirdi.",
+   "Çekici ambalajlar, ürünün kötü kalitesini gizleyebilir ve tüketicilerin bilinçli seçim yapmasını zorlaştırabilir."
+  ],
+  "col": [
+   "kılık değiştirip … gibi görünmek",
+   "kılık değiştirmiş halde",
+   "gerçeği gizlemek",
+   "görünüşte kötü, aslında iyi bir şey"
+  ],
+  "tip": "disguise oneself as kalıbında 'as'tan sonra hangi kişi ya da rolün taklit edildiği gelir. 'as' unutulmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "exceed",
+  "senses": [
+   "aşmak; üstüne çıkmak"
+  ],
+  "ex": [
+   "Bu bavul havayolunun ağırlık sınırını aşmamalı.",
+   "Dünyanın birçok hızla büyüyen şehrinde uygun fiyatlı konut talebi, arzın üzerinde seyretmeye devam ediyor."
+  ],
+  "col": [
+   "beklentileri aşmak",
+   "sınırı aşmak",
+   "talebi aşmak",
+   "bütçeyi aşmak"
+  ],
+  "tip": "Geçişli bir fiildir; doğrudan nesne alır. Exceed than yerine doğrudan sayı ya da sınır getirilir: exceed the limit.",
+  "note": ""
+ },
+ {
+  "id": "diplomatic",
+  "senses": [
+   "diplomatik",
+   "ölçülü; incelikli"
+  ],
+  "ex": [
+   "Bu rahatsız edici soruya çok ustaca bir cevap verdin.",
+   "Diplomatik ilişkilerin sürdürülmesi, ülkelerin gerilimleri tırmandırmak yerine müzakereyle anlaşmazlıkları çözmesini sağlar."
+  ],
+  "col": [
+   "diplomatik ilişkiler",
+   "diplomatik çabalar",
+   "diplomatik bir çözüm",
+   "ustaca bir cevap"
+  ],
+  "tip": "Hem devletler arası ilişkiler hem de kırıcı olmayan, incelikli davranış için kullanılır. Kişi için 'diplomat' değil, sıfat olarak diplomatic.",
+  "note": ""
+ },
+ {
+  "id": "hairpin",
+  "senses": [
+   "saç tokası; firkete",
+   "keskin viraj"
+  ],
+  "ex": [
+   "Saçını gümüş bir tokayla topladı.",
+   "Sık sık keskin virajlar içeren dağ yolları, kaza risklerini azaltmak ve çevredeki yaşam alanlarını korumak için dikkatli tasarlanmalıdır."
+  ],
+  "col": [
+   "gümüş saç tokası",
+   "keskin viraj",
+   "keskin dönüş"
+  ],
+  "tip": "Yol anlamında hairpin bend, neredeyse geri dönen U şeklindeki keskin virajı anlatır. Saç tokası için hair clip da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "participant",
+  "senses": [
+   "katılımcı"
+  ],
+  "ex": [
+   "Her katılımcı yemek atölyesine evde yaptığı bir yemek getirdi.",
+   "Araştırma projesindeki her katılımcı, günlük egzersiz alışkanlıkları hakkında bilgi paylaşmadan önce bilgilendirilmiş onay verdi."
+  ],
+  "col": [
+   "aktif katılımcı",
+   "bir çalışmanın katılımcısı",
+   "çalışma katılımcıları"
+  ],
+  "tip": "Bir etkinliğin katılımcısı belirtilirken participant in kalıbı kullanılır. Fiil karşılığı take part in'dir.",
+  "note": ""
+ },
+ {
+  "id": "audition",
+  "senses": [
+   "seçme; jüri denemesi",
+   "seçmek; deneme yapmak"
+  ],
+  "ex": [
+   "Lena dün seçmeler için şarkısını çalıştı.",
+   "Açık seçmeler, yerel tiyatroların profesyonel eğitimi ya da sektör bağlantısı olmayan yetenekli sanatçıları keşfetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "seçmelere katılmak",
+   "seçme yapmak",
+   "bir rol için seçmelere girmek"
+  ],
+  "tip": "Bu anlamda 'işitme' değil, bir rol için yapılan kısa performans ya da seçme demektir. Fiil kullanımında audition for a role yapısı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "infant",
+  "senses": [
+   "bebek",
+   "bebeğe ait; ilk dönem"
+  ],
+  "ex": [
+   "Bebek babasının kucağında huzurla uyudu.",
+   "Temiz suya ve temel sağlık hizmetlerine erişim, dezavantajlı topluluklarda bebek ölümlerini azaltmak için şarttır."
+  ],
+  "col": [
+   "bebek bakımı",
+   "bebek ölüm oranı",
+   "bebek maması",
+   "korunan genç sanayi"
+  ],
+  "tip": "baby'den daha resmi bir kelimedir. infant mortality sabit bir ifadedir ve bebek ölüm oranı anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "comparatively",
+  "senses": [
+   "nispeten; görece"
+  ],
+  "ex": [
+   "Öğle yoğunluğu geçtikten sonra bu kafe nispeten sakin oluyor.",
+   "Bisiklet, özellikle güvenli ve geniş bisiklet yollarına sahip şehirlerde, nispeten ucuz bir ulaşım türü olmayı sürdürüyor."
+  ],
+  "col": [
+   "nispeten düşük",
+   "nispeten ucuz",
+   "nispeten az"
+  ],
+  "tip": "Genellikle sıfatları ya da zarfları nitelendirir: comparatively cheap, comparatively quiet. Tek başına değil, bir derecenin ölçüsü olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "factor",
+  "senses": [
+   "etken; faktör",
+   "hesaba katmak"
+  ],
+  "ex": [
+   "Kanepeyi seçerken en önemli etken fiyattı.",
+   "Güvenilir toplu taşımaya erişim, özel araç bağımlılığını azaltmada önemli bir etkendir."
+  ],
+  "col": [
+   "önemli etken",
+   "katkı sağlayan etken",
+   "risk faktörü",
+   "maliyeti hesaba katmak"
+  ],
+  "tip": "Fiil olarak genellikle factor in biçiminde, bir şeyi hesaba katmak anlamında kullanılır: factor in the cost.",
+  "note": ""
+ },
+ {
+  "id": "expectation",
+  "senses": [
+   "öngörü; beklenti",
+   "beklenti; talep"
+  ],
+  "ex": [
+   "Soğuk hava bekleyerek sıcak montlarımızı yanımıza aldık.",
+   "Ebeveynlerin yüksek beklentileri öğrencileri motive edebilir; ancak aşırı baskı zihinsel sağlıklarını olumsuz etkileyebilir."
+  ],
+  "col": [
+   "…beklentisiyle",
+   "beklentileri karşılamak",
+   "beklentileri aşmak",
+   "yüksek beklentiler"
+  ],
+  "tip": "Bir performans ya da davranış beklentisinden söz edilirken genellikle çoğul expectations kullanılır. in expectation of sabit bir ifadedir.",
+  "note": ""
+ }
+]

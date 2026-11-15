@@ -1,0 +1,277 @@
+[
+ {
+  "id": "familiar",
+  "senses": [
+   "tanıdık; bilinen",
+   "aşina; bilgili"
+  ],
+  "ex": [
+   "Mutfak kapısının dışından tanıdık bir ses duydum.",
+   "Dijital araçlara aşina olan öğrenciler, çevrimiçi öğrenme ortamlarına daha kolay uyum sağlayabilir."
+  ],
+  "col": [
+   "...e aşina",
+   "...e tanıdık gelmek",
+   "tanıdık bir yüz",
+   "tanıdık görünmek"
+  ],
+  "tip": "Bir kişinin bir şeye aşinalığı için 'familiar with', bir şeyin birine tanıdık gelmesi için 'familiar to' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "marvellous",
+  "senses": [
+   "harika; muhteşem",
+   "harika; hayret verici"
+  ],
+  "ex": [
+   "Göl kenarında harika bir piknik yaptık.",
+   "Kamusal bahçeler, kent sakinlerinin rahatlaması ve doğayla yeniden bağ kurması için harika fırsatlar sunar."
+  ],
+  "col": [
+   "harika bir fikir",
+   "harika bir fırsat",
+   "harika bir başarı"
+  ],
+  "tip": "İngiliz İngilizcesinde 'marvellous' (iki l), Amerikan İngilizcesinde 'marvelous' yazılır. Sınavda tek bir yazımı tutarlı kullanın.",
+  "note": ""
+ },
+ {
+  "id": "cough",
+  "senses": [
+   "öksürmek",
+   "öksürük; öksürük sesi"
+  ],
+  "ex": [
+   "Tozlu oda birkaç kez öksürmeme neden oldu.",
+   "Inatçı bir öksürüğü olan kişiler, özellikle belirtiler uykuyu veya günlük etkinlikleri etkiliyorsa doktora başvurmalıdır."
+  ],
+  "col": [
+   "inatçı öksürük",
+   "kuru öksürük",
+   "öksürük şurubu",
+   "öksürüp çıkarmak"
+  ],
+  "tip": "'gh' harfleri burada sessizdir ve /f/ sesi verir. Öksürük belirtisi olduğunu söylemek için 'have a cough' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "racket",
+  "senses": [
+   "raket",
+   "gürültü; patırtı"
+  ],
+  "ex": [
+   "Tenis raketimi kortun yanında unuttum.",
+   "Raket gibi temel ekipmanların sağlanması, okul sporlarını çocuklar için daha erişilebilir hale getirebilir."
+  ],
+  "col": [
+   "tenis raketi",
+   "badminton raketi",
+   "gürültü çıkarmak"
+  ],
+  "tip": "Raket 'racquet' olarak da yazılabilir; 'gürültü' anlamında ise yalnızca 'racket' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "similarly",
+  "senses": [
+   "benzer biçimde; aynı şekilde"
+  ],
+  "ex": [
+   "İkizler benzer giyiniyor ama kişilikleri çok farklı.",
+   "Halk kütüphaneleri bilgiye ücretsiz erişim sağlar; benzer şekilde, toplum merkezleri de yaşam boyu öğrenme için değerli fırsatlar sunar."
+  ],
+  "col": [
+   "benzer şekilde etkilenmiş",
+   "benzer fiyatlandırılmış",
+   "benzer davranmak"
+  ],
+  "tip": "Cümle başında 'Similarly' genellikle virgülle ayrılır ve önceki bilgiye benzer bir durumu bağlamak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "jug",
+  "senses": [
+   "sürahi; testi",
+   "bir sürahilik miktar"
+  ],
+  "ex": [
+   "Lütfen masaya bir sürahi su getirir misiniz?",
+   "Musluk suyunu yeniden kullanılabilir bir sürahide sunmak, restoranların tek kullanımlık plastik şişelere bağımlılığını azaltabilir."
+  ],
+  "col": [
+   "bir sürahi su",
+   "süt sürahisi",
+   "sürahiyi doldurmak"
+  ],
+  "tip": "Jug, kulplu ve dökmek için ağızlı kaplardır. Ağız şekli İngiliz ve Amerikan kullanımında farklılık gösterebildiği için bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "fashionable",
+  "senses": [
+   "moda; şık"
+  ],
+  "ex": [
+   "Şu renkli spor ayakkabılar arkadaşlarım arasında çok moda.",
+   "Tüketiciler moda giysileri sık sık değiştirir; bu da tekstil atıklarını artırır ve doğal kaynaklar üzerinde baskı oluşturur."
+  ],
+  "col": [
+   "moda kıyafetler",
+   "moda bir semt",
+   "moda olmak"
+  ],
+  "tip": "Yalnızca giysiler için değil, fikirler, etkinlikler ve semtler için de kullanılır. İsim 'fashion', sıfat ise 'fashionable'dır.",
+  "note": ""
+ },
+ {
+  "id": "cracker",
+  "senses": [
+   "kraker"
+  ],
+  "ex": [
+   "Piknik için biraz peynir ve kraker hazırladım.",
+   "Kraker pratik atıştırmalıklar olsa da bazı çeşitleri yüksek miktarda tuz içerebilir, bu yüzden ölçülü tüketilmelidir."
+  ],
+  "col": [
+   "peynirli kraker",
+   "tuzlu kraker",
+   "tam tahıllı kraker"
+  ],
+  "tip": "Cracker genellikle ince ve gevrek, çoğunlukla tuzlu bisküviyi anlatır. Tatlı bisküviler için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "trick",
+  "senses": [
+   "hile; şaka",
+   "püf noktası; numara",
+   "kandırmak; aldatmak"
+  ],
+  "ex": [
+   "Biri bana plastik bir örümcekle şaka yaptı.",
+   "Bazı çevrimiçi reklamlar, tüketicileri başta ücretsiz sandıkları hizmetler için ödeme yapmaya kandırır."
+  ],
+  "col": [
+   "birine şaka yapmak",
+   "birini bir şey yapmaya kandırmak",
+   "sihirli numara",
+   "bir şeyi yapmanın püf noktası"
+  ],
+  "tip": "'trick sb into doing sth' kalıbı 'birini bir şeyi yapmaya kandırmak' anlamına gelir; 'into'dan sonra -ing biçimi gelir.",
+  "note": ""
+ },
+ {
+  "id": "advise",
+  "senses": [
+   "tavsiye etmek; öğütlemek",
+   "resmen bilgilendirmek"
+  ],
+  "ex": [
+   "Doktor birkaç gün dinlenmemi tavsiye etti.",
+   "Okullar, öğrencilerin ileri eğitim için ders seçmeden önce kariyer seçenekleri hakkında onlara rehberlik etmelidir."
+  ],
+  "col": [
+   "birine bir şey yapmasını önermek",
+   "...e karşı tavsiye etmek",
+   "...hakkında danışmanlık yapmak",
+   "kuvvetle tavsiye etmek"
+  ],
+  "tip": "'Advise' fiildir; 'advice' ise isimdir ve sayılamaz. Telaffuzda advise /əd'vaɪz/, advice /əd'vaɪs/ şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "identity",
+  "senses": [
+   "kimlik",
+   "kimlik; kişilik"
+  ],
+  "ex": [
+   "Resepsiyonist anahtarı vermeden önce kimliğimi kontrol etti.",
+   "Yerel dillerin korunması kültürel kimliği güçlendirebilir ve toplulukların geleneksel bilgileri genç nesillere aktarmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kimlik kanıtı",
+   "kültürel kimlik",
+   "kimlik duygusu",
+   "kimlik hırsızlığı"
+  ],
+  "tip": "'Identity' isimdir ve kimlik anlamına gelir; fiili 'identify'dır (tanımlamak, belirlemek). İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "reality",
+  "senses": [
+   "gerçeklik; gerçek durum",
+   "gerçek; var olan şey"
+  ],
+  "ex": [
+   "Tatil çok mükemmel görünüyordu ama gerçek oldukça farklıydı.",
+   "Uzaktan çalışma esneklik sunsa da birçok çalışanın işi özel hayatından ayırmakta zorlandığı bir gerçektir."
+  ],
+  "col": [
+   "aslında",
+   "gerçeklerle yüzleşmek",
+   "gerçeğe dönüşmek",
+   "sanal gerçeklik"
+  ],
+  "tip": "'In reality' 'aslında' anlamına gelir; 'a reality' ise gerçekleşmiş, somut bir durumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "lecturer",
+  "senses": [
+   "öğretim görevlisi; okutman"
+  ],
+  "ex": [
+   "Dersten sonra şemayı açıklamak için hocamız kaldı.",
+   "Bir üniversite öğretim görevlisi, öğrencilerden farklı kaynaklardaki kanıtları karşılaştırmalarını isteyerek eleştirel düşünmeyi teşvik edebilir."
+  ],
+  "col": [
+   "üniversite öğretim görevlisi",
+   "kıdemli öğretim görevlisi",
+   "ekonomi öğretim görevlisi",
+   "konuk öğretim görevlisi"
+  ],
+  "tip": "'Lecturer in' + ders adı kalıbıyla bir alanın öğretim görevlisi belirtilir. Bu unvan 'professor' (profesör) ile aynı değildir.",
+  "note": ""
+ },
+ {
+  "id": "rate",
+  "senses": [
+   "oran; hız",
+   "ücret; tarife",
+   "değerlendirmek; puanlamak"
+  ],
+  "ex": [
+   "Otel kış aylarında daha ucuz bir tarife sunuyor.",
+   "İyi toplu taşımaya sahip şehirlerde genellikle daha düşük araba sahipliği oranları görülür; bu da trafik sıkışıklığını azaltır."
+  ],
+  "col": [
+   "işsizlik oranı",
+   "faiz oranı",
+   "saatlik ücret",
+   "yüksek puan almış"
+  ],
+  "tip": "'Rate' isim olarak oran veya birim fiyat, fiil olarak bir şeyi değerlendirmek anlamına gelir. 'Rate of' 'bir şeyin oranı' demektir.",
+  "note": ""
+ },
+ {
+  "id": "overcoat",
+  "senses": [
+   "palto; kaban"
+  ],
+  "ex": [
+   "Karların içine adım atmadan önce paltosunu giydi.",
+   "Kullanmadığı bir paltoyu yerel bir hayır kurumuna bağışlamak, birinin kış boyunca sıcak kalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "yün palto",
+   "kalın palto",
+   "palto giymek"
+  ],
+  "tip": "'Overcoat', diğer giysilerin üzerine giyilen uzun ve sıcak paltoyu anlatır. Genel anlamda ceket için 'jacket' kullanılır.",
+  "note": ""
+ }
+]

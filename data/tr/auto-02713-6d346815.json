@@ -1,0 +1,282 @@
+[
+ {
+  "id": "bat",
+  "senses": [
+   "yarasa",
+   "sopa; raket",
+   "vurmak"
+  ],
+  "ex": [
+   "Akşamüstü bahçemizin üzerinde bir yarasa uçtu.",
+   "Birçok yarasa türü ekinlere zarar veren böcekleri yediği için, yarasa yaşam alanlarını korumak tarıma fayda sağlayabilir."
+  ],
+  "col": [
+   "kriket sopası",
+   "beyzbol sopası",
+   "yarasa kanatları"
+  ],
+  "tip": "Tenis ve badminton raketi racket, beyzbol ve kriket sopası bat ile ifade edilir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "identify",
+  "senses": [
+   "tanımlamak; belirlemek",
+   "tespit etmek; saptamak",
+   "özdeşleşmek"
+  ],
+  "ex": [
+   "Çitin üzerindeki kuşu tanıyabilir misin?",
+   "Okullar, öğrenciler geride kalmadan uygun desteği alabilsin diye öğrenme güçlüklerini erken tespit etmelidir."
+  ],
+  "col": [
+   "bir sorunu belirlemek",
+   "nedeni tespit etmek",
+   "birini ... olarak tanımlamak",
+   "...ile özdeşleşmek"
+  ],
+  "tip": "identify with, birinin duygu ve deneyimlerine yakınlık duymak anlamına gelir; sadece \"kimliğini belirlemek\" değildir.",
+  "note": ""
+ },
+ {
+  "id": "fee",
+  "senses": [
+   "ücret; harç"
+  ],
+  "ex": [
+   "Spor salonu her ders için küçük bir ücret alıyor.",
+   "Yüksek öğrenim ücretleri, mali destek mevcut olsa bile dezavantajlı geçmişten gelen öğrencileri üniversiteye başvurmaktan caydırabilir."
+  ],
+  "col": [
+   "öğrenim ücretleri",
+   "giriş ücreti",
+   "avukatlık ücreti",
+   "ücret ödemek"
+  ],
+  "tip": "fee, hizmet veya girişe bağlı resmi ücretler için kullanılır. Hizmet karşılığı verilen bahşiş için tip kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "appetite",
+  "senses": [
+   "iştah",
+   "istek; arzu"
+  ],
+  "ex": [
+   "Uzun bir yürüyüş her zaman bana iyi bir iştah veriyor.",
+   "Sürdürülebilir ürünlere yönelik artan toplumsal talep, şirketleri malzeme ve üretim süreçlerini yeniden gözden geçirmeye yöneltiyor."
+  ],
+  "col": [
+   "iştahını kaybetmek",
+   "sağlıklı bir iştah",
+   "iştah açmak",
+   "...e karşı büyük istek"
+  ],
+  "tip": "appetite for, bilgiye ya da değişime duyulan güçlü istek için de kullanılır. \"İştah\" her zaman yemekle ilgili değildir.",
+  "note": ""
+ },
+ {
+  "id": "headline",
+  "senses": [
+   "manşet; haber başlığı",
+   "manşete çıkmak; öne çıkmak"
+  ],
+  "ex": [
+   "Kahvaltı ederken gözüme çarpan bir haber başlığı dikkatimi çekti.",
+   "Yanıltıcı manşetler, okuyucular kanıtları incelemeden önce kamuoyunu şekillendirebilir."
+  ],
+  "col": [
+   "birinci sayfa manşeti",
+   "manşetlere çıkmak",
+   "yanıltıcı başlık"
+  ],
+  "tip": "make headlines, gündemin ilk sırasına gelmek anlamına gelir; \"başlık yapmak\" demek değildir.",
+  "note": ""
+ },
+ {
+  "id": "consider",
+  "senses": [
+   "düşünmek; değerlendirmek",
+   "addetmek; görmek",
+   "dikkate almak; hesaba katmak"
+  ],
+  "ex": [
+   "Yarın arabayla değil, trenle gitmeyi düşünüyoruz.",
+   "Hükümetler, hassas kıyı bölgelerinde büyük inşaat projelerini onaylamadan önce uzun vadeli çevresel maliyetleri göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "bir şey yapmayı düşünmek",
+   "sonuçları göz önünde bulundurmak",
+   "tüm seçenekleri değerlendirmek",
+   "gerekli görülmek"
+  ],
+  "tip": "consider'dan sonra fiil -ing alır: consider doing. \"consider to do\" kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "credit",
+  "senses": [
+   "veresiye; kredi",
+   "övgü; takdir",
+   "kredi; ders kredisi"
+  ],
+  "ex": [
+   "Geçen ay yeni buzdolabımızı veresiye aldık.",
+   "Uygun fiyatlı krediler, küçük işletmelerin ekipman yatırımı yapmasına ve yerel topluluklarda iş yaratmasına yardımcı olabilir."
+  ],
+  "col": [
+   "veresiye almak",
+   "birinin emeğini takdir etmek",
+   "kredi kazanmak",
+   "kredi kartı"
+  ],
+  "tip": "Akademik anlamda credit sayılabilir ve genelde çoğul kullanılır (earn credits). on credit ise \"sonradan ödemeyle\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "mask",
+  "senses": [
+   "maske; yüzlük",
+   "gizlemek; örtmek"
+  ],
+  "ex": [
+   "Tozlu dolabı temizlerken maske taktı.",
+   "Hızlı ekonomik büyüme, eğitim ve sağlık hizmetlerine erişimdeki ciddi eşitsizlikleri gizleyebilir."
+  ],
+  "col": [
+   "maske takmak",
+   "yüz maskesi",
+   "kokuyu gizlemek",
+   "sorunu gizlemek"
+  ],
+  "tip": "mask fiili doğrudan nesne alır (mask the problem). Yani edat kullanmadan \"sorunu gizlemek\" anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "royal",
+  "senses": [
+   "kraliyete ait; kraliyet",
+   "kraliyet üyesi"
+  ],
+  "ex": [
+   "Tatilimizde kraliyet sarayını ziyaret ettik.",
+   "Bazı kraliyet konutları ziyarete açık olup, elde edilen gelir tarihi binaların korunmasına katkı sağlıyor."
+  ],
+  "col": [
+   "kraliyet ailesi",
+   "kraliyet sarayı",
+   "kraliyet görevleri"
+  ],
+  "tip": "royal (kraliyet) ile loyal (sadık) benzer yazıldığı için karıştırılabilir. Loyal \"sadık\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "climate",
+  "senses": [
+   "iklim",
+   "ortam; hava"
+  ],
+  "ex": [
+   "Bu bitkiler sıcak ve kuru bir iklimde iyi yetişir.",
+   "Değişen iklim, çiftçileri farklı ürünler yetiştirmeye ve daha verimli sulama yöntemleri benimsemeye zorlayabilir."
+  ],
+  "col": [
+   "iklim değişikliği",
+   "ılıman iklim",
+   "siyasi ortam"
+  ],
+  "tip": "climate uzun dönemli iklimi, weather ise belirli bir andaki hava durumunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "uncomfortable",
+  "senses": [
+   "rahatsız edici; rahat olmayan",
+   "huzursuz; rahatsız"
+  ],
+  "ex": [
+   "Bu yeni ayakkabılar uzun bir yürüyüşten sonra rahatsız ediyor.",
+   "Öğrenciler kalabalık sınıflarda soru sormaktan çekinebilir; bu da katılımlarını ve anlamalarını sınırlayabilir."
+  ],
+  "col": [
+   "rahat olmayan bir sandalye",
+   "kendini rahatsız hissetmek",
+   "rahatsız edici bir sessizlik"
+  ],
+  "tip": "Hem fiziksel rahatsızlık hem de duygusal huzursuzluk için kullanılabilir. İki anlamda da kullanımı aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "cave",
+  "senses": [
+   "mağara"
+  ],
+  "ex": [
+   "Yağmurdan küçük bir mağaranın içinde korunduk.",
+   "Bir mağarada bulunan antik resimler, erken toplulukların çevrelerini nasıl anladığını ortaya koyabilir."
+  ],
+  "col": [
+   "mağarayı keşfetmek",
+   "mağara girişi",
+   "mağara resimleri"
+  ],
+  "tip": "Cave isim olarak \"mağara\" demektir. cave in fiil öbeği ise \"çökmek; boyun eğmek\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "explore",
+  "senses": [
+   "keşfetmek; gezip görmek",
+   "araştırmak; irdelemek"
+  ],
+  "ex": [
+   "Öğleden sonrayı liman yakınındaki dar sokaklarda gezerek geçirdik.",
+   "Okullar, öğrencileri ileri öğrenim için ders seçmeden önce farklı kariyer seçeneklerini araştırmaya teşvik etmelidir."
+  ],
+  "col": [
+   "bölgeyi keşfetmek",
+   "olanakları araştırmak",
+   "bir konuyu irdelemek"
+  ],
+  "tip": "explore doğrudan nesne alır: explore the area. Araya about eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "peel",
+  "senses": [
+   "soymak",
+   "soyulmak; dökülmek",
+   "kabuk; kabuk"
+  ],
+  "ex": [
+   "Ben havuçları doğrarken bu patatesleri soyar mısın?",
+   "Haneler sebze kabuklarını atmak yerine kompost yapabilir; böylece çöp depolama alanlarına giden atık azalır."
+  ],
+  "col": [
+   "patates soymak",
+   "portakal kabuğu",
+   "dökülen boya"
+  ],
+  "tip": "peel hem meyve ve sebze soymak hem de boyanın dökülmesi için kullanılır. Anlamı nesneye göre değişir.",
+  "note": ""
+ },
+ {
+  "id": "fiction",
+  "senses": [
+   "roman; kurgu",
+   "uydurma; kurgu"
+  ],
+  "ex": [
+   "Kız kardeşim her sabah trende roman okuyor.",
+   "Kurgu okumak, gençlerin tanıdık olmayan bakış açılarını anlamasına ve başkalarına karşı daha fazla empati geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bilim kurgu",
+   "tarihi roman",
+   "bir kurgu eseri",
+   "gerçek ile kurgu"
+  ],
+  "tip": "Genel anlamda \"kurgu\" sayılamaz. Tek bir kitap için a novel ya da a work of fiction kullanılır.",
+  "note": ""
+ }
+]

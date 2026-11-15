@@ -1,0 +1,285 @@
+[
+ {
+  "id": "gold",
+  "senses": [
+   "altın",
+   "altın madalya",
+   "altından yapılmış; altın sarısı"
+  ],
+  "ex": [
+   "Büyükannem altın yüzüğünü tahta bir kutuda saklar.",
+   "Ekonomik belirsizlik dönemlerinde, yatırımcılar nispeten güvenli saydıkları varlıklara yöneldiği için altına olan talep artabilir."
+  ],
+  "col": [
+   "saf altın",
+   "altın madalya",
+   "altın mücevher",
+   "altın rezervleri"
+  ],
+  "tip": "gold maddeyi anlatırken genellikle sayılmaz; 'bir altın' dediğinizde çoğu zaman altın madalyayı kastedersiniz.",
+  "note": ""
+ },
+ {
+  "id": "pronunciation",
+  "senses": [
+   "telaffuz; okunuş"
+  ],
+  "ex": [
+   "Telaffuzumu kısa sesli mesajlar kaydederek çalışıyorum.",
+   "Açık bir telaffuz, dilbilgisi her zaman kusursuz olmasa bile dil öğrenenlerin etkili iletişim kurmasına yardımcı olur."
+  ],
+  "col": [
+   "açık telaffuz",
+   "doğru telaffuz",
+   "telaffuzunu geliştirmek",
+   "telaffuz pratiği"
+  ],
+  "tip": "Doğru yazım pronunciation'dır; 'ation' ekine dikkat edin, 'pronounciation' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "training",
+  "senses": [
+   "eğitim; öğretim",
+   "antrenman; idman"
+  ],
+  "ex": [
+   "İlk eğitim günümde müşterilere yardım etmek vardı.",
+   "Düzenli mesleki eğitim, çalışanların teknolojik değişimlere uyum sağlamasına yardımcı olur ve uzun vadeli kariyer beklentilerini iyileştirir."
+  ],
+  "col": [
+   "mesleki eğitim",
+   "iş başı eğitimi",
+   "eğitim kursu",
+   "kuvvet antrenmanı"
+  ],
+  "tip": "Genellikle sayılamaz; tek bir eğitim oturumu için a training session denir.",
+  "note": ""
+ },
+ {
+  "id": "slice",
+  "senses": [
+   "dilim; ince parça",
+   "ince ince dilimlemek",
+   "pay; bölüm"
+  ],
+  "ex": [
+   "Çayıma bir dilim limon koydu.",
+   "Konut giderleri, hanehalkı gelirinin büyük bir bölümünü tüketir; bu da birçok ailenin eğlenceye ayıracak az parası kalması demektir."
+  ],
+  "col": [
+   "bir dilim ekmek",
+   "ince ince dilimlemek",
+   "pazardan büyük pay"
+  ],
+  "tip": "slice belirli, ince ve düz bir parçayı vurgular; piece ise genel olarak bir parçayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "diet",
+  "senses": [
+   "beslenme; yemek düzeni",
+   "diyet; perhiz",
+   "diyet yapmak"
+  ],
+  "ex": [
+   "Olağan beslenmem bol miktarda pirinç ve sebze içerir.",
+   "Dengeli bir beslenme, öğrencilerin konsantrasyonunu artırabilir ve okul günü boyunca enerjilerini korumalarına yardımcı olabilir."
+  ],
+  "col": [
+   "dengeli beslenme",
+   "lifçe zengin bir beslenme",
+   "diyet yapmak"
+  ],
+  "tip": "diet her zaman kilo vermek için değildir; günlük beslenme düzenini de anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "dutch",
+  "senses": [
+   "Hollandalı; Hollanda'ya ait",
+   "Hollandaca",
+   "Hollandalılar"
+  ],
+  "ex": [
+   "Hollandalı komşumuz bize elma turtası yapmayı öğretti.",
+   "Hollanda şehirleri, daha güvenli ve erişilebilir bisiklet yolları geliştirmek isteyen şehir plancıları tarafından sıkça incelenir."
+  ],
+  "col": [
+   "Hollanda kültürü",
+   "Hollandaca konuşmak",
+   "Hollandalılar"
+  ],
+  "tip": "Dutch her zaman büyük harfle yazılır; the Dutch ise 'Hollandalılar' anlamında toplu olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "less",
+  "senses": [
+   "daha az",
+   "daha az",
+   "daha az miktar"
+  ],
+  "ex": [
+   "Bu sefer çayıma daha az şeker koyun lütfen.",
+   "Hanehalkları, yalıtımı iyileştirerek ve elektriği daha verimli tüketen cihazları seçerek daha az enerji kullanabilir."
+  ],
+  "col": [
+   "...den az",
+   "daha az olası",
+   "giderek azalan",
+   "tam tamına; en az"
+  ],
+  "tip": "Sayılamayan isimlerle less, sayılabilir çoğul isimlerle fewer kullanılır; örneğin fewer people.",
+  "note": ""
+ },
+ {
+  "id": "army",
+  "senses": [
+   "kara ordusu; ordu",
+   "kalabalık grup; ordu"
+  ],
+  "ex": [
+   "Kuzenim okulu bitirdikten sonra orduya katıldı.",
+   "Büyük sellerde sivil hizmetler yetersiz kaldığında ordu, temel ulaşım ve malzeme sağlayabilir."
+  ],
+  "col": [
+   "orduya katılmak",
+   "orduda hizmet etmek",
+   "gönüllülerden oluşan bir ordu"
+  ],
+  "tip": "army esas olarak kara kuvvetlerini anlatır; tüm silahlı kuvvetler için armed forces kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "broken",
+  "senses": [
+   "kırık; parçalanmış",
+   "bozuk; arızalı",
+   "akıcı olmayan; kesik kesik"
+  ],
+  "ex": [
+   "Dikkatlice kırık camları süpürgeyle toplayıp çöp kutusuna koydu.",
+   "Evdeki bozuk cihazları yenisiyle değiştirmek yerine onarmak, atığı azaltabilir ve değerli doğal kaynakları koruyabilir."
+  ],
+  "col": [
+   "kırık cam",
+   "kırık kemik",
+   "akıcı olmayan İngilizce",
+   "tutulmayan söz"
+  ],
+  "tip": "break fiilinin ortaç hali broken, geçmiş zaman hali broke'tur; 'camı kırdı' cümlesinde broke kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "forest",
+  "senses": [
+   "orman; ormanlık alan"
+  ],
+  "ex": [
+   "Dar bir patikayı izleyerek ormanın derinliklerine girdik.",
+   "Doğal ormanları korumak biyolojik çeşitliliği korur ve atmosferdeki karbondioksit miktarını azaltır."
+  ],
+  "col": [
+   "tropikal orman",
+   "orman koruma",
+   "orman yangını",
+   "sık orman"
+  ],
+  "tip": "forest genellikle geniş ormanlık alanı anlatır; daha küçük ağaçlık alan için wood kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "sausage",
+  "senses": [
+   "sosis"
+  ],
+  "ex": [
+   "Sosisleri ızgarada pişirip taze sebzelerle servis ettik.",
+   "Tüketiciler, geleneksel et ürünlerine alternatif aradıkça vejetaryen sosisleri giderek daha çok seçiyor."
+  ],
+  "col": [
+   "ızgara sosis",
+   "vejetaryen sosis",
+   "sosis harcı"
+  ],
+  "tip": "Tek bir sosis sayılabilir: a sausage, two sausages; sausage meat ise sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "organize",
+  "senses": [
+   "organize etmek; düzenlemek",
+   "düzene koymak; toparlamak"
+  ],
+  "ex": [
+   "Komşularımız nehir kenarında bir piknik düzenledi.",
+   "Okullar, öğrencilerin iletişim becerilerini geliştirmelerine ve iş hayatına hazırlanmalarına yardımcı olacak uygulamalı atölyeler düzenlemelidir."
+  ],
+  "col": [
+   "etkinlik düzenlemek",
+   "toplantı düzenlemek",
+   "zamanını düzenlemek",
+   "dosyaları düzenlemek"
+  ],
+  "tip": "İngiliz yazımında organise de kullanılır; organize ise Amerikan yazımıdır ve her iki yazım da kabul görür.",
+  "note": ""
+ },
+ {
+  "id": "donkey",
+  "senses": [
+   "eşek"
+  ],
+  "ex": [
+   "Gri bir eşek, dar dağ patikasında sepetleri taşıyordu.",
+   "Bazı kırsal topluluklarda, yollar araçlar için uygun olmadığından eşekler hâlâ mal taşımada önemli bir rol oynuyor."
+  ],
+  "col": [
+   "yük taşıyan eşek",
+   "eşeğe binmek",
+   "eşek anırmak"
+  ],
+  "tip": "Hayvan için donkey en yaygın kelimedir; insanlara donkey diye seslenmek aşağılayıcı olur.",
+  "note": ""
+ },
+ {
+  "id": "wild",
+  "senses": [
+   "yabani; vahşi",
+   "çılgın; kontrolsüz",
+   "vahşi doğa"
+  ],
+  "ex": [
+   "Ormandaki dere kenarında içen yabani geyikler gördük.",
+   "Vahşi hayvanları korumak, hükümetlerin yaşam alanlarını korumasını ve ülke sınırları ötesindeki yasa dışı ticareti azaltmasını gerektirir."
+  ],
+  "col": [
+   "vahşi hayvanlar",
+   "doğada; vahşi doğada",
+   "çılgına dönmek",
+   "yabani çiçekler"
+  ],
+  "tip": "'Doğada' anlamında in the wild kalıbını kullanırken the'yi atlamayın.",
+  "note": ""
+ },
+ {
+  "id": "social",
+  "senses": [
+   "toplumsal; sosyal",
+   "sosyal; arkadaşça",
+   "toplu yaşayan; sürü halinde"
+  ],
+  "ex": [
+   "Yeni işim sosyal etkinlikler için pek zaman bırakmıyor.",
+   "Uygun fiyatlı konut politikaları, ailelerin temel hizmetlere yakın güvenli evlere erişmesini sağlayarak toplumsal eşitsizliği azaltabilir."
+  ],
+  "col": [
+   "toplumsal eşitsizlik",
+   "sosyal beceriler",
+   "sosyal etkinlikler",
+   "toplumsal değişim"
+  ],
+  "tip": "social toplumla ya da sosyal ilişkilerle ilgilidir; insanın dışa dönük ve arkadaş canlısı olduğunu anlatmak için sociable kullanılır.",
+  "note": ""
+ }
+]

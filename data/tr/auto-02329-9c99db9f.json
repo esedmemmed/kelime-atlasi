@@ -1,0 +1,281 @@
+[
+ {
+  "id": "fault",
+  "senses": [
+   "kusur; arıza",
+   "kabahat; sorumluluk",
+   "fay"
+  ],
+  "ex": [
+   "Dün küçük bir elektrik arızası çamaşır makinesini durdurdu.",
+   "Düzenli denetimler, sakinlerin güvenliğini tehdit etmeden önce yapısal bir kusuru belirleyebilir."
+  ],
+  "col": [
+   "elektrik arızası",
+   "kusurlu olmak; suçlu olmak",
+   "bir şeyde kusur bulmak",
+   "fay hattı"
+  ],
+  "tip": "'It's my fault' kalıbı 'Benim hatam' anlamındadır. Bir durumdaki kusur ya da sorumluluk için 'fault' kullanılır; 'mistake' ile her zaman yer değiştirmez.",
+  "note": ""
+ },
+ {
+  "id": "parcel",
+  "senses": [
+   "paket; koli",
+   "arazi parseli",
+   "paketlemek; dağıtmak"
+  ],
+  "ex": [
+   "Bu sabah sana küçük bir paket geldi.",
+   "Artan paket teslimatları, şehirleri yerel dağıtım için daha temiz ulaşım seçeneklerini araştırmaya yöneltti."
+  ],
+  "col": [
+   "paket göndermek",
+   "bir arazi parseli",
+   "bir şeyi paketlemek",
+   "bir şeyi dağıtmak"
+  ],
+  "tip": "İngiliz İngilizcesinde yaygındır; Amerikan İngilizcesinde genellikle 'package' tercih edilir. Fiil olarak 'parcel up' ve 'parcel out' kalıplarında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mud",
+  "senses": [
+   "çamur"
+  ],
+  "ex": [
+   "Yürüyüşten sonra botlarımız çamur içindeydi.",
+   "Şiddetli yağmur, asfaltsız yolları çamura çevirebilir ve kırsal toplulukların ulaşımını zorlaştırabilir."
+  ],
+  "col": [
+   "koyu çamur",
+   "çamur içinde",
+   "çamura saplanmak"
+  ],
+  "tip": "'mud' genellikle sayılamaz bir isimdir. 'Çamurlu' anlamında sıfat olarak 'muddy' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "phrase",
+  "senses": [
+   "kelime grubu; deyim",
+   "ifade etmek; dile getirmek"
+  ],
+  "ex": [
+   "Bugün İngilizce dersimde işe yarar bir deyim öğrendim.",
+   "Araştırmacılar, katılımcıları etkilememek ve bulgularının güvenilirliğini azaltmamak için anket sorularını dikkatle ifade etmelidir."
+  ],
+  "col": [
+   "yaygın bir deyim",
+   "isim öbeği",
+   "bir soruyu ifade etmek",
+   "işe yarar bir ifade"
+  ],
+  "tip": "'Phrase' tek başına tam bir cümle olmak zorunda değildir. 'Sentence' (cümle) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "upset",
+  "senses": [
+   "üzgün; kırgın",
+   "üzmek; kırmak",
+   "bozmak; altüst etmek"
+  ],
+  "ex": [
+   "Lena en sevdiği şalını kaybettiğinde üzüldü.",
+   "Okul rutinlerindeki ani değişiklikler, genellikle öngörülebilir günlük etkinliklere bağlı olan küçük çocukları üzebilir."
+  ],
+  "col": [
+   "üzgün hissetmek",
+   "bir şeyden dolayı üzgün olmak",
+   "dengeyi bozmak",
+   "birinin planlarını altüst etmek"
+  ],
+  "tip": "Ad olarak UP-set (ilk hece vurgulu), fiil olarak up-SET (ikinci hece vurgulu) okunur. Geçmiş zaman ve ortaç biçimi de 'upset' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "involved",
+  "senses": [
+   "katılan; dahil olan",
+   "karmaşık; çetrefilli"
+  ],
+  "ex": [
+   "Pikniğe katılan herkes paylaşmak için bir şey getirdi.",
+   "Sakinler, mahallelerinin geleceğini etkileyen planlama kararlarına aktif olarak katılmalıdır."
+  ],
+  "col": [
+   "...e katılmak",
+   "aktif olarak katılan",
+   "karmaşık bir süreç"
+  ],
+  "tip": "Bir etkinliğe katılmak için 'be involved in' kalıbı kullanılır. Sıfat olarak 'involved' isimden önce veya sonra gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "totally",
+  "senses": [
+   "tamamen; bütünüyle"
+  ],
+  "ex": [
+   "Yüzme kıyafetimi getirmeyi tamamen unuttum.",
+   "Çevrimiçi dersler, öğrenciler doğrudan sosyal etkileşimden de fayda sağladığı için sınıf içi öğretimin yerini tamamen alamaz."
+  ],
+  "col": [
+   "tamamen farklı",
+   "kesinlikle katılmak",
+   "tamamen kabul edilemez"
+  ],
+  "tip": "Konuşmada güçlü bir vurgu taşır. Resmi yazıda 'completely' veya 'entirely' ile değiştirilebilir.",
+  "note": ""
+ },
+ {
+  "id": "display",
+  "senses": [
+   "sergilemek; göstermek",
+   "sergi; teşhir",
+   "ekran; monitör"
+  ],
+  "ex": [
+   "Pastane, ön camın yanında taze pastaları sergiliyor.",
+   "Müzeler, sıradan insanların geçmişte nasıl yaşadığını göstermek için giderek daha fazla gündelik nesne sergiliyor."
+  ],
+  "col": [
+   "sergilenmekte",
+   "bilgi göstermek",
+   "renkli bir sergi",
+   "dijital ekran"
+  ],
+  "tip": "'On display' kalıbı 'sergilenmekte' anlamına gelir ve başında 'the' kullanılmaz. Fiil olarak 'display' düzenli çekimlenir.",
+  "note": ""
+ },
+ {
+  "id": "minus",
+  "senses": [
+   "eksi; çıkarılarak",
+   "negatif; eksi",
+   "dezavantaj; olumsuz yön"
+  ],
+  "ex": [
+   "On eksi üç, herkese yetecek kadar elma bırakır.",
+   "Bir hanehalkının kullanılabilir geliri, toplam gelirinden vergiler ve diğer zorunlu ödemeler düşüldükten sonra kalan tutardır."
+  ],
+  "col": [
+   "eksi on derece",
+   "eksi işareti",
+   "artılar ve eksiler"
+  ],
+  "tip": "Sayıların önünde 'minus' 'eksi' anlamına gelir. Sıcaklıkta 'minus ten degrees' şeklinde kullanılır; 'negative ten' demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "airmail",
+  "senses": [
+   "uçak postası"
+  ],
+  "ex": [
+   "Paketi dün sabah uçak postasıyla gönderdik.",
+   "Dijital iletişim uluslararası ticareti egemen kılsa da, orijinal belgeleri denizaşırı göndermek için uçak postası hâlâ kullanışlıdır."
+  ],
+  "col": [
+   "uçak postasıyla",
+   "bir şeyi uçak postasıyla göndermek",
+   "uçak posta hizmeti"
+  ],
+  "tip": "Gönderim yöntemini belirtirken 'by airmail' kalıbı kullanılır ve başına 'the' ya da 'a' getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "stolen",
+  "senses": [
+   "çalınmış; çalıntı",
+   "çalmak"
+  ],
+  "ex": [
+   "Polis, kayıp bisikletimi bir garajın arkasında buldu.",
+   "Çalınan kişisel veriler internet kullanıcılarını mali kayıplara maruz bırakabilir; bu da etkili çevrimiçi güvenliğin önemini gösterir."
+  ],
+  "col": [
+   "çalıntı mallar",
+   "çalınmış bir araç",
+   "çalınmış veriler"
+  ],
+  "tip": "steal – stole – stolen biçimi düzenlidir. 'Stolen' tek başına geçmiş zaman değildir; 'I stole' şeklinde geçmiş zaman kullanılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "pleasure",
+  "senses": [
+   "zevk; memnuniyet",
+   "keyifli şey; hoş deneyim"
+  ],
+  "ex": [
+   "Balkonunda fesleğen yetiştirmekten büyük zevk alıyor.",
+   "Halk kütüphaneleri, her yaştan insana uygun fiyatlı bilgi erişimi sağlarken keyif için okumayı teşvik eder."
+  ],
+  "col": [
+   "...den zevk almak",
+   "keyif için",
+   "büyük bir zevk",
+   "memnuniyetle"
+  ],
+  "tip": "'Pleasure' genellikle sayılamaz. Bir deneyimi tanımlarken 'a pleasure' kullanılır; 'It's a pleasure' nezaket ifadesidir.",
+  "note": ""
+ },
+ {
+  "id": "sidewalk",
+  "senses": [
+   "kaldırım"
+  ],
+  "ex": [
+   "Lütfen bisikletinizi kalabalık kaldırımdan uzak tutun.",
+   "Kaldırımlar boyunca ağaç dikmek, yayalara gölge sağlayabilir ve şehirlerde yaz sıcaklıklarını azaltabilir."
+  ],
+  "col": [
+   "kalabalık kaldırım",
+   "kaldırım kafesi",
+   "kaldırım onarımı"
+  ],
+  "tip": "'Sidewalk' Amerikan İngilizcesindedir; İngiliz İngilizcesinde karşılığı 'pavement'tır. Sınavda hangi lehçenin kullanıldığına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "shortly",
+  "senses": [
+   "birazdan; kısa süre sonra",
+   "sertçe; sabırsızca"
+  ],
+  "ex": [
+   "Otobüs birazdan gelecek, o yüzden çantanı hazırla.",
+   "Yeni demiryolu açıldıktan kısa süre sonra, yerel işletmeler müşteri ziyaretlerinde önemli bir artış bildirdi."
+  ],
+  "col": [
+   "birazdan gelmek",
+   "...den kısa süre sonra",
+   "...den kısa süre önce"
+  ],
+  "tip": "'Kısaca, özetle' anlamında 'briefly' kullanılır. 'Shortly' ise zamanla ilgilidir ya da sert bir tavrı anlatır; bu iki anlam karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "secondhand",
+  "senses": [
+   "ikinci el; kullanılmış",
+   "dolaylı; duyma yoluyla",
+   "ikinci el olarak; dolaylı"
+  ],
+  "ex": [
+   "Komşumdan ikinci el bir bisiklet aldım.",
+   "İkinci el mobilya almak, hane harcamalarını azaltabilir ve yeni ürün üretiminin çevresel etkisini sınırlayabilir."
+  ],
+  "col": [
+   "ikinci el mobilya",
+   "dolaylı bilgi",
+   "ikinci el almak",
+   "pasif sigara dumanı"
+  ],
+  "tip": "Genellikle bitişik yazılır; 'second-hand' biçimi de kullanılır. Bilgi anlamında kişinin bizzat deneyimlemediği, başkalarından duyulan bilgiyi anlatır.",
+  "note": ""
+ }
+]

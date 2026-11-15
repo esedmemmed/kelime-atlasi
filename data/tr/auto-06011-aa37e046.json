@@ -1,0 +1,271 @@
+[
+ {
+  "id": "swarm",
+  "senses": [
+   "sürü; küme",
+   "üşüşmek; akın etmek"
+  ],
+  "ex": [
+   "Elma ağacına bir arı sürüsü konmuştu.",
+   "Yaz aylarında ziyaretçiler sahil kasabalarına akın ediyor; bu da toplu taşıma ve atık toplama hizmetlerine olan talebi artırıyor."
+  ],
+  "col": [
+   "bir arı sürüsü",
+   "içine akın etmek",
+   "turistlerle dolup taşmak"
+  ],
+  "tip": "Genellikle be swarming with biçiminde kullanılır; bir yerin insanlarla ya da böceklerle dolu olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "strive",
+  "senses": [
+   "çabalamak; uğraşmak"
+  ],
+  "ex": [
+   "Her gün piyano çalışmak için çaba gösteriyorum.",
+   "Hükümetler, kamu hizmetlerinin kalitesinden ödün vermeden uygun fiyatlı konut sağlamak için çaba göstermelidir."
+  ],
+  "col": [
+   "geliştirmek için çabalamak",
+   "mükemmeliyet için çaba göstermek",
+   "bir hedefe ulaşmaya çalışmak"
+  ],
+  "tip": "strive to do ya da strive for kalıplarıyla kullanılır. Düzensiz çekimi: strive, strove, striven.",
+  "note": ""
+ },
+ {
+  "id": "yearn",
+  "senses": [
+   "özlemek; can atmak"
+  ],
+  "ex": [
+   "Aylarca yurt dışında kaldıktan sonra annesinin yemeklerini çok özledi.",
+   "Birçok kentli daha sakin çevrelere özlem duyuyor; bu durum kırsal turizmin giderek artan cazibesini açıklayabilir."
+  ],
+  "col": [
+   "özgürlüğe özlem duymak",
+   "geri dönmek için can atmak",
+   "evi özlemek"
+  ],
+  "tip": "yearn for sth ya da yearn to do kalıbıyla kullanılır. Güçlü ve duygusal bir özlemi anlatır, sıradan 'want' yerine tercih edilmez.",
+  "note": ""
+ },
+ {
+  "id": "concede",
+  "senses": [
+   "kabul etmek; itiraf etmek",
+   "taviz vermek; bırakmak",
+   "yenilgiyi kabul etmek"
+  ],
+  "ex": [
+   "Sonunda benim güzergâhımın çok daha hızlı olduğunu kabul etti.",
+   "Eleştirmenler turizmin iş yarattığını kabul etse de çevresel maliyetlerinin çoğu zaman göz ardı edildiğini savunuyor."
+  ],
+  "col": [
+   "...olduğunu kabul etmek",
+   "yenilgiyi kabul etmek",
+   "bir noktayı kabul etmek",
+   "geri çekilmek; zemin kaybetmek"
+  ],
+  "tip": "Genellikle istemeyerek ya da karşı çıktıktan sonra bir şeyi kabul etmek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "conversely",
+  "senses": [
+   "tersine; aksine"
+  ],
+  "ex": [
+   "Şehir hayatını çok severim; kız kardeşim ise tersine sakin köyleri tercih eder.",
+   "Güvenilir toplu taşıma araba kullanımını azaltabilir; tersine, kötü hizmetler özel araçlara daha fazla bağımlılığı teşvik edebilir."
+  ],
+  "col": [
+   "ve tersine",
+   "ancak tersine"
+  ],
+  "tip": "Karşıt bir durumu ya da ilişkiyi tanıtır; sıradan bir ekleme yapan 'also' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "coherence",
+  "senses": [
+   "tutarlılık; bütünlük"
+  ],
+  "ex": [
+   "Hikayenizin farklı bölümleri arasında daha fazla bütünlük olmalı.",
+   "Açık paragraf yapısı bir kompozisyonun tutarlılığını artırır ve okuyucuların karmaşık argümanları takip etmesine yardımcı olur."
+  ],
+  "col": [
+   "mantıksal tutarlılık",
+   "genel bütünlük",
+   "tutarlılıktan yoksun olmak",
+   "tutarlılığı artırmak"
+  ],
+  "tip": "Fikirlerin mantıksal olarak birbirine uymasına odaklanır; cohesion ise dilsel bağlantılara işaret eder. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "monarch",
+  "senses": [
+   "hükümdar; kral"
+  ],
+  "ex": [
+   "Hükümdar, saray balkonundan kalabalığa el salladı.",
+   "Anayasal monarşide hükümdar genellikle törensel görevleri yerine getirirken siyasi gücü seçilmiş temsilciler kullanır."
+  ],
+  "col": [
+   "anayasal hükümdar",
+   "tahtta bulunan hükümdar",
+   "mutlak hükümdar"
+  ],
+  "tip": "Erkek ya da kadın hükümdar için kullanılır; yönetim biçimi monarchy (monarşi) olarak ifade edilir.",
+  "note": ""
+ },
+ {
+  "id": "bypass",
+  "senses": [
+   "dolaşmak; atlamak",
+   "çevre yolu",
+   "baypas; yan yol"
+  ],
+  "ex": [
+   "Köyü geçmek için dar bir yol kullandık.",
+   "Yeni bir çevre yolu şehir merkezindeki trafiği azaltabilir, ancak yakındaki yaban hayatı alanlarına zarar verebilir."
+  ],
+  "col": [
+   "kasabayı atlamak",
+   "güvenlik kontrollerini atlamak",
+   "çevre yolu yapmak",
+   "kalp baypas ameliyatı"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: bypass the town. 'by pass' yerine bitişik yazılan 'bypass' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "multitude",
+  "senses": [
+   "çok sayıda; sayısız",
+   "kalabalık; halk"
+  ],
+  "ex": [
+   "Gölet çevresinde sayısız renkli kuş toplanmıştı.",
+   "Şehir plancıları, nüfusu artan bölgelerde uygun fiyatlı konut tasarlarken çok sayıda etkeni dikkate almak zorundadır."
+  ],
+  "col": [
+   "çok sayıda etken",
+   "çok sayıda seçenek",
+   "çok büyük bir kalabalık"
+  ],
+  "tip": "a multitude of'dan sonra çoğul isim gelir; 'çok sayıda' anlamında daha resmi bir ifadedir.",
+  "note": ""
+ },
+ {
+  "id": "deceased",
+  "senses": [
+   "merhum; vefat etmiş",
+   "ölen kişi"
+  ],
+  "ex": [
+   "Büyükbabasının fotoğrafını yakınında saklıyor.",
+   "Müzeler, ziyaretçilerin sanatçıların hayatını ve yaratıcı etkilerini anlamasına yardımcı olmak için bazen vefat etmiş sanatçıların kişisel eşyalarını sergiler."
+  ],
+  "col": [
+   "vefat etmiş bir akraba",
+   "ölen kişi",
+   "merhumun mirası"
+  ],
+  "tip": "Resmi kullanımdır; the deceased bir ya da birden çok ölü kişiye atıfta bulunabilir. Günlük dilde 'dead' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "resentful",
+  "senses": [
+   "kırgın; içerleyen"
+  ],
+  "ex": [
+   "Kardeşi bütün takdiri kendi aldığında içerledi.",
+   "Liyakat yerine kişisel ilişkilerin terfi kararlarında belirleyici olduğu izlenimi doğarsa, çalışanlar kırgınlık duymaya başlayabilir."
+  ],
+  "col": [
+   "içerlemek",
+   "birine karşı kırgın olmak",
+   "birine karşı içi kırgın olmak"
+  ],
+  "tip": "Haksız davranıldığına inanmaktan doğan kırgınlığı anlatır; sadece 'kızgın' olmak anlamına gelmez. of ya da towards ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "radical",
+  "senses": [
+   "köklü; temelden",
+   "radikal; aşırı",
+   "radikal"
+  ],
+  "ex": [
+   "Garajımızı mutfağa çevirmek köklü bir değişiklikti.",
+   "Özel araç kullanımına bağımlılığı azaltmak, kentsel planlamada ve toplu taşıma yatırımlarında köklü değişiklikler gerektirir."
+  ],
+  "col": [
+   "köklü değişiklik",
+   "köklü reform",
+   "radikal fikirler"
+  ],
+  "tip": "radical change, politik olmayan ve temelden bir değişikliği de anlatabilir. Türkçedeki siyasi çağrışımı, bağlama göre seçilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "diversion",
+  "senses": [
+   "güzergâh değişikliği",
+   "dikkat dağıtıcı şey",
+   "eğlence; hoş vakit"
+  ],
+  "ex": [
+   "Yol değişikliği bizi güzel bir gölün yanından geçirdi.",
+   "Kamu fonlarının eğitimden başka alanlara kaydırılması, dezavantajlı topluluklardaki çocukların fırsatlarını sınırlayabilir."
+  ],
+  "col": [
+   "trafik güzergâh değişikliği",
+   "fonların başka yöne aktarılması",
+   "dikkat dağıtıcı bir şey yaratmak",
+   "hoş bir mola"
+  ],
+  "tip": "İngiliz İngilizcesinde yol güzergâh değişikliği için kullanılır; Amerikan İngilizcesinde bu anlam için genellikle detour tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "reappraisal",
+  "senses": [
+   "yeniden değerlendirme"
+  ],
+  "ex": [
+   "Beklenmedik onarım faturası bütçemizi yeniden gözden geçirmemize yol açtı.",
+   "Yeni kanıtlar, bu tarım yönteminin çevresel faydalarının yeniden değerlendirilmesine yol açtı."
+  ],
+  "col": [
+   "kapsamlı bir yeniden değerlendirme",
+   "yeniden değerlendirmeye yol açmak",
+   "önceliklerin yeniden değerlendirilmesi"
+  ],
+  "tip": "a reappraisal of ile bir şeyin yeniden değerlendirilmesini anlatır; genellikle resmi ya da akademik bağlamda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "toad",
+  "senses": [
+   "kara kurbağası"
+  ],
+  "ex": [
+   "Küçük bir kara kurbağası bahçe saksısının altına saklanmıştı.",
+   "Kentsel gelişim doğal yaşam alanlarını azalttıkça, göletlerin ve yakındaki ormanlık alanların korunması kara kurbağalarının hayatta kalmasına yardımcı olur."
+  ],
+  "col": [
+   "yaygın kara kurbağası",
+   "kamış kurbağası",
+   "kara kurbağası yumurtaları"
+  ],
+  "tip": "toad genellikle kuru ve siğilli derili kurbağa türünü; frog ise daha çok suya bağlı, pürüzsüz derili kurbağayı anlatır.",
+  "note": ""
+ }
+]

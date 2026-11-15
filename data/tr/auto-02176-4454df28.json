@@ -1,0 +1,281 @@
+[
+ {
+  "id": "length",
+  "senses": [
+   "uzunluk; boy",
+   "süre; uzunluk"
+  ],
+  "ex": [
+   "Masanın uzunluğunu sandalye almadan önce ölçtük.",
+   "Okul gününün uzunluğu hem öğrencilerin dikkatini hem de aile düzenini etkileyebilir."
+  ],
+  "col": [
+   "uzunluk olarak",
+   "zaman uzunluğu",
+   "sonunda; ayrıntılı olarak"
+  ],
+  "tip": "'at length' 'uzunlamasına' değil, 'ayrıntılı olarak' ya da 'sonunda' anlamına gelir. Bu deyimi dikkatli kullanın.",
+  "note": ""
+ },
+ {
+  "id": "recognize",
+  "senses": [
+   "tanımak; fark etmek",
+   "kabul etmek; farkına varmak",
+   "resmen tanımak; takdir etmek"
+  ],
+  "ex": [
+   "Eski öğretmenimi onun tanıdık kahkahasından tanıdım.",
+   "İşverenler resmi niteliği olmayan adayları değerlendirirken pratik deneyimin değerini kabul etmelidir."
+  ],
+  "col": [
+   "yüzü tanımak",
+   "önemini kabul etmek",
+   "birini ... olarak kabul etmek",
+   "uluslararası alanda tanınmış"
+  ],
+  "tip": "İngiliz İngilizcesinde 'recognise' de yazılır. 'Tanımak' anlamında genellikle şimdiki zaman kullanılmaz; 'recognizing' yerine 'recognize' tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "shock",
+  "senses": [
+   "şok; ani üzüntü",
+   "şoke etmek; sarsmak",
+   "şok; elektrik çarpması"
+  ],
+  "ex": [
+   "Kiradaki ani artış herkes için bir şok oldu.",
+   "Yabancı bir ülkeye taşınmak, günlük gelenekler evdekinden çok farklı olduğunda kültür şokuna yol açabilir."
+  ],
+  "col": [
+   "şaşırtıcı gelmek",
+   "kültür şoku",
+   "elektrik çarpması",
+   "şok halinde"
+  ],
+  "tip": "İnsan şaşkınlık duyuyorsa 'shocked', olay şaşırtıcıysa 'shocking' kullanılır. 'I am shocking' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "baby-sit",
+  "senses": [
+   "çocuğa bakmak"
+  ],
+  "ex": [
+   "Cumartesi akşamı bize bakıcılık yapabilir misin?",
+   "Düzenli bakıcılık yapan akrabalar, çocuk bakım masraflarını azaltabilir ve ebeveynlerin çalışmaya devam etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "birine bakıcılık yapmak",
+   "çocuklara bakmak"
+  ],
+  "tip": "Genellikle 'babysit' olarak da yazılır. Geçmiş zamanı 'babysat' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "sticky",
+  "senses": [
+   "yapışkan",
+   "bunaltıcı; nemli ve sıcak",
+   "zor; çetrefilli"
+  ],
+  "ex": [
+   "Bal kekini yedikten sonra parmaklarım yapışkan olmuştu.",
+   "Gıda ambalajlarında, malzemeler etkili biçimde geri dönüştürülmeden önce temizlenmesi gereken yapışkan kalıntılar bulunabilir."
+  ],
+  "col": [
+   "yapışkan bant",
+   "yapışkan parmaklar",
+   "zor bir durum",
+   "sıcak ve bunaltıcı"
+  ],
+  "tip": "'Sticky weather' nemli ve sıcak havayı, 'sticky situation' ise zor bir durumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "symptom",
+  "senses": [
+   "belirti; semptom",
+   "işaret; sorunun belirtisi"
+  ],
+  "ex": [
+   "Boğaz ağrısı, hastalığın ilk belirtisiydi.",
+   "Personelin sık sık işi bırakması, nitelikli işçi eksikliğinden çok kötü yönetimin bir işareti olabilir."
+  ],
+  "col": [
+   "yaygın belirti",
+   "hastalık belirtisi",
+   "belirtileri hafifletmek"
+  ],
+  "tip": "Genellikle 'a symptom of' kalıbıyla kullanılır. Belirtilerin azalması için 'relieve symptoms' ifadesi yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "honeymoon",
+  "senses": [
+   "balayı; balayı seyahati",
+   "başlangıçtaki iyi dönem",
+   "balayına çıkmak"
+  ],
+  "ex": [
+   "Balayılarını sakin bir sahil köyünde geçirdiler.",
+   "Popüler balayı destinasyonları yerel ekonomilere destek olabilir, ama aşırı turizm kırılgan kıyı çevrelerine zarar verebilir."
+  ],
+  "col": [
+   "balayında",
+   "balayı destinasyonu",
+   "başlangıç dönemi"
+  ],
+  "tip": "İngiliz İngilizcesinde genellikle 'on honeymoon', Amerikan İngilizcesinde 'on a honeymoon' denir.",
+  "note": ""
+ },
+ {
+  "id": "translate",
+  "senses": [
+   "çevirmek; tercüme etmek",
+   "dönüştürmek; hayata geçirmek"
+  ],
+  "ex": [
+   "Bu tarifi benim için İngilizceye çevirebilir misin?",
+   "Hükümetler çevre taahhütlerini, işletmelerin emisyonları azaltmasını teşvik eden somut politikalara dönüştürmelidir."
+  ],
+  "col": [
+   "İngilizceye çevirmek",
+   "Çinceden çevirmek",
+   "fikirleri eyleme dönüştürmek"
+  ],
+  "tip": "Bir dilden başka bir dile çevirmek için 'translate from ... into ...' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cabin",
+  "senses": [
+   "kulübe; ahşap ev",
+   "kabin; kamara; kabin (uçak)"
+  ],
+  "ex": [
+   "Hafta sonunu göl kenarındaki bir kulübede geçirdik.",
+   "Korunan ormanlardaki tatil kulübeleri, yerel yaban hayatı üzerindeki etkiyi sınırlamak için dikkatle yönetilmelidir."
+  ],
+  "col": [
+   "kütük kulübe",
+   "kabin ekibi",
+   "yolcu kabini",
+   "kabin bagajı"
+  ],
+  "tip": "Hem karadaki küçük evi hem de gemi kamarasını ya da uçak kabinini ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "effort",
+  "senses": [
+   "çaba; emek",
+   "girişim; organize çaba"
+  ],
+  "ex": [
+   "Kanepeyi yukarı çıkarmak epey çaba gerektirdi.",
+   "Evsel atıkları azaltmak, tüketicilerin, üreticilerin ve yerel yönetimlerin günlük alışkanlıkları değiştirmek için ortak bir çaba göstermesini gerektirir."
+  ],
+  "col": [
+   "çaba göstermek",
+   "bir şeye emek vermek",
+   "ortak çaba",
+   "büyük çaba"
+  ],
+  "tip": "Enerji anlamında sayılamaz; tek bir girişim anlamında sayılabilir. 'Make an effort' kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "boxer",
+  "senses": [
+   "boksör; boks sporcusu"
+  ],
+  "ex": [
+   "Boksör antrenmandan önce eldivenlerini giydi.",
+   "Profesyonel bir boksörün, hem performansını hem de uzun vadeli sağlığını korumak için disiplinli antrenman ve yeterli dinlenmeye ihtiyacı vardır."
+  ],
+  "col": [
+   "profesyonel boksör",
+   "amatör boksör",
+   "ağır sıklet boksör"
+  ],
+  "tip": "'Box' fiili boks yapmak anlamına gelir; 'boxer' ise bu sporu yapan kişidir.",
+  "note": ""
+ },
+ {
+  "id": "battery",
+  "senses": [
+   "pil; batarya",
+   "dizi; seri"
+  ],
+  "ex": [
+   "Yolculuktan önce el fenerinin yeni bir pile ihtiyacı var.",
+   "Gelişmiş batarya teknolojisi, elektrikli araçları daha uygun fiyatlı hale getirebilir ve fosil yakıtlara bağımlılığı azaltabilir."
+  ],
+  "col": [
+   "şarj edilebilir pil",
+   "pil ömrü",
+   "pili şarj etmek",
+   "bir dizi test"
+  ],
+  "tip": "Çoğul hali 'batteries'tir. 'A battery of' kalıbı bir dizi test ya da soru için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "goods",
+  "senses": [
+   "mal; ürün",
+   "eşya; mal varlığı"
+  ],
+  "ex": [
+   "Dükkân yakındaki köylerden gelen el yapımı ürünleri satıyor.",
+   "Malları karayolu yerine demiryoluyla taşımak, emisyonları düşürebilir ve kentsel alanlardaki trafik sıkışıklığını azaltabilir."
+  ],
+  "col": [
+   "tüketim malları",
+   "lüks mallar",
+   "ev eşyaları",
+   "mal taşımak"
+  ],
+  "tip": "'Goods' çoğul bir isimdir. Tek bir ürün için 'an item' ya da 'a product' kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "submit",
+  "senses": [
+   "sunmak; teslim etmek",
+   "boyun eğmek; itaat etmek"
+  ],
+  "ex": [
+   "Lütfen başvurunuzu cuma gününün sonundan önce iletin.",
+   "Araştırmacılar, bulgularını itibarlı akademik dergilerde yayımlanabilmesi için bağımsız incelemeye sunmalıdır."
+  ],
+  "col": [
+   "başvuru yapmak",
+   "rapor sunmak",
+   "bir şeyi ... sunmak",
+   "otoriteye boyun eğmek"
+  ],
+  "tip": "Geçmiş zamanı 'submitted'tır. 'Submit something to someone' kalıbında birine bir şey sunulduğu belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "aged",
+  "senses": [
+   "... yaşında",
+   "yaşlı; ihtiyar"
+  ],
+  "ex": [
+   "Yüzme kursu altı yaş ve üzeri çocukları kabul etmektedir.",
+   "Halk kütüphaneleri, okul tatillerinde ücretsiz okuma etkinlikleri düzenleyerek beş ila on iki yaş arasındaki çocukları destekleyebilir."
+  ],
+  "col": [
+   "beş yaşındaki çocuklar",
+   "on sekiz yaş ve üzeri",
+   "yaşlı akrabalar"
+  ],
+  "tip": "Yaş bildirirken /eɪdʒd/, yaşlılık anlamında /ˈeɪdʒɪd/ okunur. Bu iki okunuşu karıştırmamaya dikkat edin.",
+  "note": ""
+ }
+]

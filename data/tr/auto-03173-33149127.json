@@ -1,0 +1,278 @@
+[
+ {
+  "id": "profit",
+  "senses": [
+   "kâr; kazanç",
+   "kazanç sağlamak; yararlanmak"
+  ],
+  "ex": [
+   "Fırın bu ay küçük bir kâr elde etti.",
+   "Şirketler, çevreye verilen zararı azaltmak için kârlarının bir kısmını daha temiz teknolojilere yatırmalı."
+  ],
+  "col": [
+   "kâr etmek",
+   "net kâr",
+   "kâr marjı",
+   "...den kazanç sağlamak"
+  ],
+  "tip": "Profit, giderler düşüldükten sonra kalan kârdır; gelir anlamına gelen revenue ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "embarrassed",
+  "senses": [
+   "mahcup; utanmış"
+  ],
+  "ex": [
+   "Akşam yemeğindeyken telefonum çalınca çok utandım.",
+   "Öğrenciler hata yapmaktan utanabilir; bu yüzden öğretmenler destekleyici bir sınıf ortamı oluşturmalıdır."
+  ],
+  "col": [
+   "utanmak",
+   "...den utanmak",
+   "sormaya utanmak"
+  ],
+  "tip": "Kişinin utandığını embarrassed ile, utandırıcı durumu embarrassing ile anlatırsınız. İkisi sıkça karıştırılır.",
+  "note": ""
+ },
+ {
+  "id": "excite",
+  "senses": [
+   "heyecanlandırmak; coşturmak",
+   "uyandırmak; tetiklemek"
+  ],
+  "ex": [
+   "Sahile yapılan geziler kız kardeşimi her zaman heyecanlandırır.",
+   "Etkileşimli bilim sergileri genç ziyaretçilerin ilgisini çekebilir ve onları bilimsel fikirleri bağımsız olarak keşfetmeye teşvik edebilir."
+  ],
+  "col": [
+   "ilgi uyandırmak",
+   "merak uyandırmak",
+   "hayal gücünü harekete geçirmek"
+  ],
+  "tip": "İnsanlar için excited (heyecanlı), şeyler için exciting (heyecan verici) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cruel",
+  "senses": [
+   "acımasız; zalim",
+   "acı verici; yürek parçalayıcı"
+  ],
+  "ex": [
+   "Onun hatasına gülmek acımasızcaydı.",
+   "Okullar, her çocuğun kendini güvende ve saygı görmüş hissetmesi için acımasız davranışları erken dönemde ele almalıdır."
+  ],
+  "col": [
+   "hayvanlara acımasız olmak",
+   "acımasız bir söz",
+   "ağır bir darbe"
+  ],
+  "tip": "Birine karşı acımasız olmak için be cruel to kalıbı kullanılır: be cruel to someone.",
+  "note": ""
+ },
+ {
+  "id": "hike",
+  "senses": [
+   "uzun yürüyüş",
+   "yürüyüşe çıkmak",
+   "ani artış; zam"
+  ],
+  "ex": [
+   "Hafta sonu yürüyüşümüz berrak bir dağ gölünün kenarında bitti.",
+   "Toplu taşıma ücretlerindeki ani bir zam, yolcuları otobüs yerine özel araçları tercih etmekten alıkoyabilir."
+  ],
+  "col": [
+   "yürüyüşe çıkmak",
+   "dağ yürüyüşü",
+   "fiyat artışı"
+  ],
+  "tip": "Hike genellikle doğada yapılan uzun yürüyüşü anlatır; fiyat için kullanıldığında ani ve büyük artışı belirtir.",
+  "note": ""
+ },
+ {
+  "id": "chick",
+  "senses": [
+   "yavru kuş; civciv"
+  ],
+  "ex": [
+   "Sarı bir civciv tavuğun peşinden avluya çıktı.",
+   "Koruma ekipleri, habitat restorasyonunun üreme başarısını artırıp artırmadığını değerlendirmek için yeni yumurtadan çıkan her yavruyu izliyor."
+  ],
+  "col": [
+   "yeni yumurtadan çıkmış civciv",
+   "bir günlük civciv",
+   "civcivleri büyütmek"
+  ],
+  "tip": "Chick yalnızca tavuk yavrusu değil, başka kuşların yavrusu için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "stock",
+  "senses": [
+   "stok; mal mevcudu",
+   "hisse senedi",
+   "stok bulundurmak; satmak"
+  ],
+  "ex": [
+   "Dükkâna yarın sabah erkenden taze ürün gelecek.",
+   "Ulaşım aksaklıkları büyük tedarikçilerden gelen teslimatları geciktirdiğinde küçük perakendeciler yeterli stok bulundurmakta zorlanıyor."
+  ],
+  "col": [
+   "stokta",
+   "stokta yok",
+   "borsa",
+   "yiyecek stoklamak"
+  ],
+  "tip": "Stock (stok) genelde sayılamaz. Farklı şirketlerin hisselerinden söz ederken stocks şeklinde çoğul kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "stranger",
+  "senses": [
+   "yabancı; tanımadığımız kişi",
+   "bölgeye yabancı kimse"
+  ],
+  "ex": [
+   "Nazik bir yabancı ağır bavulumu taşımama yardım etti.",
+   "Toplumsal etkinlikler, sakinlerin tanımadıkları insanlarla etkileşime girmesini teşvik edebilir ve güçlü bir aidiyet duygusu geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "tamamen yabancı",
+   "bölgeye yabancı",
+   "...e alışkın olmak"
+  ],
+  "tip": "Stranger, tanımadığımız kişi demektir; ülke dışından gelen kişi anlamındaki foreigner ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "election",
+  "senses": [
+   "seçim",
+   "seçilme; seçilme durumu"
+  ],
+  "ex": [
+   "Kulübümüz bir sonraki başkanı için seçim yapıyor.",
+   "Adil bir seçim; şeffaf prosedürler ve adayların politikalarını sunabilmeleri için eşit fırsatlar gerektirir."
+  ],
+  "col": [
+   "seçim yapmak",
+   "genel seçim",
+   "seçim kampanyası",
+   "seçimi kazanmak"
+  ],
+  "tip": "Elect oy vererek seçmek, select ise özenle seçmek anlamına gelir. Türkçede ikisi de seçim/seçmek ile karşılanabilir.",
+  "note": ""
+ },
+ {
+  "id": "shadow",
+  "senses": [
+   "gölge",
+   "yakından izlemek; eğitim için izlemek"
+  ],
+  "ex": [
+   "Kedi güneşli mutfağın zemininde kendi gölgesinin peşinden koştu.",
+   "Öğrencilere deneyimli hemşireleri yakından izleme fırsatı vermek, onların sağlık mesleğinin pratik zorluklarını anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "gölge düşürmek",
+   "gölgede kalmak",
+   "meslek gözlemi"
+  ],
+  "tip": "Shadow belirli bir gölgeyi anlatır; serin ve gölgeli alan için shade kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "drug",
+  "senses": [
+   "ilaç",
+   "uyuşturucu",
+   "uyuşturmak; etkisiz kılmak"
+  ],
+  "ex": [
+   "Doktor ağrısını hafifletmek için bir ilaç yazdı.",
+   "Yeni ilaç geliştirme süreci, tedavilerin hem güvenli hem etkili olduğundan emin olmak için kapsamlı testler gerektirir."
+  ],
+  "col": [
+   "reçeteli ilaç",
+   "ilaç geliştirme",
+   "uyuşturucu bağımlılığı",
+   "ilaç direnci"
+  ],
+  "tip": "Bağlama dikkat edin: drug hem ilaç hem uyuşturucu anlamına gelebilir. Tıbbi konularda genellikle ilaç anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "alcoholic",
+  "senses": [
+   "alkollü",
+   "alkol bağımlılığına bağlı",
+   "alkol bağımlısı"
+  ],
+  "ex": [
+   "Garson alkollü içki isteyip istemediğimizi sordu.",
+   "Alkollü içecekler hakkında açık bilgi, tüketicilerin sağlık risklerini anlamasına ve daha bilinçli seçimler yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "alkollü içkiler",
+   "alkollü içecekler",
+   "alkole bağlı karaciğer hastalığı"
+  ],
+  "tip": "Kişiyi tanımlarken alcoholic yerine 'alkol bağımlısı' demek daha saygılıdır.",
+  "note": ""
+ },
+ {
+  "id": "grain",
+  "senses": [
+   "tahıl; hububat",
+   "tane; zerre",
+   "ağaç damarı; lif"
+  ],
+  "ex": [
+   "Çiftçi tahılı kuru bir ahırda depoladı.",
+   "Tahıl üretimi güvenilir su kaynakları gerektirir; bu kaynaklar birçok tarım bölgesinde kuraklık nedeniyle giderek tehdit altındadır."
+  ],
+  "col": [
+   "tam tahıl",
+   "bir kum tanesi",
+   "ahşap damarı"
+  ],
+  "tip": "Tahıl (hububat) anlamında genelde sayılamaz; tek tek tane anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "unfair",
+  "senses": [
+   "haksız; adaletsiz"
+  ],
+  "ex": [
+   "Bulaşıkları hep benim yıkamam bana haksız geliyor.",
+   "Adaletsiz işe alım uygulamaları, nitelikli adayların istihdama erişimini engelleyebilir ve iş yerinde çeşitliliği azaltabilir."
+  ],
+  "col": [
+   "haksız muamele",
+   "haksız avantaj",
+   "haksız rekabet",
+   "birine karşı haksız olmak"
+  ],
+  "tip": "'Birine karşı haksız' anlamında unfair to someone kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "careless",
+  "senses": [
+   "dikkatsiz; özensiz"
+  ],
+  "ex": [
+   "Dikkatsizlik ettim ve anahtarlarımı kapıda unuttum.",
+   "Evsel atıkların özensiz bırakılması yerel su yollarını kirletebilir ve yaban hayatı için ciddi riskler yaratabilir."
+  ],
+  "col": [
+   "dikkatsiz bir hata",
+   "dikkatsiz sürüş",
+   "paraya karşı özensiz"
+  ],
+  "tip": "Careless olumsuz bir anlam taşır (dikkatsiz); carefree ise tasasız, kaygısız anlamına gelir.",
+  "note": ""
+ }
+]

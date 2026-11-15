@@ -1,0 +1,282 @@
+[
+ {
+  "id": "crime",
+  "senses": [
+   "suç; suçluluk",
+   "suç; suç eylemi"
+  ],
+  "ex": [
+   "Daha iyi sokak aydınlatması burada suçun azalmasına yardımcı oldu.",
+   "Eğitime ve istihdam fırsatlarına yapılan yatırım, giderek ağırlaşan cezalardan daha etkili biçimde suçu azaltabilir."
+  ],
+  "col": [
+   "suç işlemek",
+   "suçu önlemek",
+   "suç oranı",
+   "şiddet suçu"
+  ],
+  "tip": "Genel anlamda sayılamaz (suçluluk gibi); belirli bir suç eylemi için sayılabilir: commit a crime (suç işlemek).",
+  "note": ""
+ },
+ {
+  "id": "escape",
+  "senses": [
+   "kaçmak; kurtulmak",
+   "kaçınmak; sakınmak",
+   "kaçış; kurtuluş"
+  ],
+  "ex": [
+   "Tavşanımız çitteki küçük bir boşluktan kaçtı.",
+   "Erişilebilir parklar, kentlilere kalabalık sokaklardan kaçış ve doğanın keyfini çıkarma fırsatı sunar."
+  ],
+  "col": [
+   "tehlikeden kurtulmak",
+   "kıl payı kurtuluş",
+   "yaralanmaktan kaçınmak",
+   "kaçış yolu"
+  ],
+  "tip": "Bir yerden kaçmak için escape from kullanılır. Doğrudan isim alırsa 'kaçınmak, sakınmak' anlamına gelir: escape injury.",
+  "note": ""
+ },
+ {
+  "id": "intermediate",
+  "senses": [
+   "orta düzeyde; ara",
+   "orta düzey öğrenci"
+  ],
+  "ex": [
+   "Bu yüzme dersi orta düzeydeki öğrenciler için uygundur.",
+   "Orta düzey dil kursları, dilbilgisi öğretimini sınıf dışında anlamlı iletişim fırsatlarıyla dengelemelidir."
+  ],
+  "col": [
+   "orta düzey",
+   "orta seviye kurs",
+   "ara aşama"
+  ],
+  "tip": "Hem sıfat hem isim olarak kullanılır. beginner ile advanced arasındaki düzeyi anlatır; intermediate level kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "raw",
+  "senses": [
+   "çiğ; pişmemiş",
+   "işlenmemiş; ham",
+   "acıyan; sıyrılmış"
+  ],
+  "ex": [
+   "Çıtır çıtır olduğu için çiğ havuçları severim.",
+   "Ağırlıklı olarak ham madde ihraç eden ülkeler, küresel emtia fiyatlarındaki ani değişimlere karşı savunmasız olabilir."
+  ],
+  "col": [
+   "çiğ sebze",
+   "ham madde",
+   "ham veri",
+   "doğal yetenek"
+  ],
+  "tip": "Pişirilmemiş ya da işlenmemiş anlamına gelir. 'Taze' anlamındaki fresh ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "fur",
+  "senses": [
+   "kürk; yumuşak tüy",
+   "kürk; post"
+  ],
+  "ex": [
+   "Kedinin ıslak kürkü güneşte çabucak kurudu.",
+   "Kalın kürk, birçok memelinin soğuk iklimlerde sıcak hava tabakası tutarak hayatta kalmasına yardım eder."
+  ],
+  "col": [
+   "kalın kürk",
+   "yumuşak kürk",
+   "suni kürk",
+   "kürk mont"
+  ],
+  "tip": "Hayvanın vücudundaki kürk genellikle sayılmaz. Kuş tüyü için feather kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "permit",
+  "senses": [
+   "izin vermek; müsaade etmek",
+   "izin belgesi; ruhsat",
+   "olanak tanımak; mümkün kılmak"
+  ],
+  "ex": [
+   "Müze, ziyaretçilerin flaşsız fotoğraf çekmesine izin veriyor.",
+   "Yerel yönetimler, yeterli ulaşım ve sağlık hizmetleri olduğunda yeni konut projelerine izin vermelidir."
+  ],
+  "col": [
+   "birine bir şey yapma izni vermek",
+   "çalışma izni",
+   "yapı ruhsatı",
+   "hava müsait olursa"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir, isimde ilk hecededir. Kalıp: permit sb to do sth (birine bir şey yapma izni vermek).",
+  "note": ""
+ },
+ {
+  "id": "subtract",
+  "senses": [
+   "çıkarmak; eksiltmek"
+  ],
+  "ex": [
+   "Orijinal fiyatı bulmak için teslimat ücretini çıkarın.",
+   "Araştırmacılar, her tarım yönteminin sağladığı kârı hesaplamak için toplam gelirden üretim maliyetlerini çıkarır."
+  ],
+  "col": [
+   "-den çıkarmak",
+   "maliyeti düşmek"
+  ],
+  "tip": "subtract A from B, B'den A'yı çıkarmak anlamına gelir; sıra önemlidir. Edat from unutulmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "suitable",
+  "senses": [
+   "uygun; elverişli"
+  ],
+  "ex": [
+   "Bu yürüyüş ayakkabıları çamurlu orman patikaları için uygundur.",
+   "Şehirler, yaşlı sakinler için sağlık hizmetlerine ve toplu taşımaya kolay erişimi olan uygun konutlar sağlamalıdır."
+  ],
+  "col": [
+   "çocuklar için uygun",
+   "uygun konaklama",
+   "uygun bir aday"
+  ],
+  "tip": "Genellikle suitable for sb/sth kalıbıyla kullanılır; for edatı atlanmamalıdır. Suitable to do da kullanılır ama daha az yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "jungle",
+  "senses": [
+   "tropik orman; cengel",
+   "vahşi rekabet ortamı"
+  ],
+  "ex": [
+   "İnce patikanın üzerinde kalın sarmaşıklar sarkıyordu.",
+   "Tarım için ormanların kesilmesi yaşam alanlarını yok eder ve bütün bir bölgedeki biyolojik çeşitliliği azaltabilir."
+  ],
+  "col": [
+   "yoğun orman",
+   "tropik orman tavanı",
+   "beton orman"
+  ],
+  "tip": "Genellikle tropikal, yoğun bitki örtülü ormanı anlatır; genel 'orman' için forest kullanılır. Mecazen acımasız rekabet anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "hop",
+  "senses": [
+   "tek ayak üstünde zıplamak",
+   "kısa sıçrama; zıplama",
+   "atlayıp binmek; inmek"
+  ],
+  "ex": [
+   "Küçük kuş ıslak bahçe yolunun üzerinden zıplayarak geçti.",
+   "Çocukları zıplamaya ve dengede durmaya teşvik eden etkinlikler, erken eğitimde fiziksel gelişimi destekleyebilir."
+  ],
+  "col": [
+   "tek ayak üstünde zıplamak",
+   "otobüse atlayıp binmek",
+   "atlayıp inmek",
+   "kısa mesafe"
+  ],
+  "tip": "Geçmiş zaman hopped, -ing hopping olur; p harfi ikilenir. Kısa bir yolculuk için 'a short hop' da denir.",
+  "note": ""
+ },
+ {
+  "id": "ambulance",
+  "senses": [
+   "ambulans"
+  ],
+  "ex": [
+   "Bir ambulans hemen geldi ve onu hastaneye götürdü.",
+   "Uzak topluluklarda ambulans erişiminin iyileştirilmesi tedavideki gecikmeleri azaltabilir ve hastaların iyileşme şansını artırabilir."
+  ],
+  "col": [
+   "ambulans çağırmak",
+   "ambulans hizmeti",
+   "ambulans ekibi"
+  ],
+  "tip": "Ünlü sesle başladığı için 'an ambulance' denir; 'a ambulance' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "confirm",
+  "senses": [
+   "doğrulamak; teyit etmek",
+   "onaylamak; kesinleştirmek"
+  ],
+  "ex": [
+   "Bugün rezervasyonumuzu teyit etmek için lütfen otelle iletişime geçin.",
+   "Küçük sınıfların ilkokullarda öğrenme sonuçlarını sürekli iyileştirip iyileştirmediğini doğrulamak için daha fazla araştırmaya ihtiyaç var."
+  ],
+  "col": [
+   "rezervasyonu onaylamak",
+   "...olduğunu doğrulamak",
+   "tanıyı doğrulamak",
+   "teslim alındığını onaylamak"
+  ],
+  "tip": "Isim ya da that cümleciği alır: confirm that... Confirm to do kalıbı kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "volcano",
+  "senses": [
+   "yanardağ; volkan"
+  ],
+  "ex": [
+   "Gölün karşısındaki volkandan yükselen buharı izledik.",
+   "Aktif bir yanardağ yakındaki toplulukları tehdit edebilse de volkanik topraklar genellikle tarım için değerli arazi sağlar."
+  ],
+  "col": [
+   "aktif yanardağ",
+   "uyuyan yanardağ",
+   "sönmüş yanardağ",
+   "yanardağ püskürür"
+  ],
+  "tip": "Çoğulu volcanoes'tur. Püskürmek için erupt fiili kullanılır: The volcano erupted.",
+  "note": ""
+ },
+ {
+  "id": "pin",
+  "senses": [
+   "iğne; toplu iğne",
+   "iğneyle tutturmak",
+   "tutmak; sabitlemek"
+  ],
+  "ex": [
+   "Kumaşı bir arada tutmak için iğne kullandı.",
+   "Öğretmenler, yaratıcılığı kutlamak ve katılımı teşvik etmek için öğrencilerin resimlerini sınıf duvarlarına iliştirebilir."
+  ],
+  "col": [
+   "emniyet iğnesi",
+   "raptiye",
+   "bir şeyi ... iliştirmek",
+   "kesin olarak belirlemek"
+  ],
+  "tip": "Fiilde geçmiş zaman pinned, -ing pinning olur; n ikilenir. Pin down mecazen 'tam olarak belirlemek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "shared",
+  "senses": [
+   "ortak; paylaşılan",
+   "paylaştı; ortak kullandı"
+  ],
+  "ex": [
+   "Ortak mutfağımız akşam yemeği vaktine doğru çok kalabalık olur.",
+   "Ev işlerinde ortak sorumluluk paylaşmak, aile üyeleri arasındaki stresi azaltabilir ve ilişkileri iyileştirebilir."
+  ],
+  "col": [
+   "ortak konaklama",
+   "ortak sorumluluk",
+   "ortak ilgi alanları",
+   "paylaşılan kaynaklar"
+  ],
+  "tip": "Sıfat olarak 'ortak' anlamına gelir. Ayrıca share fiilinin geçmiş zamanı ve ortacıdır: share - shared - shared.",
+  "note": ""
+ }
+]

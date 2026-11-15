@@ -1,0 +1,274 @@
+[
+ {
+  "id": "irritate",
+  "senses": [
+   "sinirlendirmek; rahatsız etmek",
+   "tahriş etmek"
+  ],
+  "ex": [
+   "Musluktan sürekli damlayan su gerçekten sinirimi bozuyor.",
+   "Bazı ev temizlik ürünleri cilde zarar verebilen ve nefes almada güçlüğe yol açabilen kimyasallar içerir."
+  ],
+  "col": [
+   "cildi tahriş etmek",
+   "gözleri tahriş etmek",
+   "birini gerçekten sinirlendirmek"
+  ],
+  "tip": "irritated sinirlenen kişiyi, irritating ise sinir bozucu şeyi anlatır. Bu iki sıfatı karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "vacuum",
+  "senses": [
+   "boşluk; vakum",
+   "elektrik süpürgesi",
+   "elektrik süpürgesiyle temizlemek"
+  ],
+  "ex": [
+   "Kardeşim raflardaki tozları alırken ben halıyı süpürüyorum.",
+   "Ses, iletilebilmek için hava ya da su gibi bir ortama ihtiyaç duyduğundan vakumda yayılamaz."
+  ],
+  "col": [
+   "elektrik süpürgesi",
+   "siyasi boşluk",
+   "halıyı süpürmek"
+  ],
+  "tip": "Temizlik anlamında fiil olarak kullanılır: vacuum the floor. Genel süpürme için ayrı bir fiil olan sweep ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "concerned",
+  "senses": [
+   "endişeli; kaygılı",
+   "söz konusu olan; ilgili",
+   "konuyla ilgilenen"
+  ],
+  "ex": [
+   "Son otobüsü kaçırdığında endişelenmiştim.",
+   "Hava kirliliği konusunda sakinler giderek daha fazla endişe duyuyor ve yerel yönetimlerin toplu taşımayı iyileştirmesini istiyor."
+  ],
+  "col": [
+   "...hakkında endişeli",
+   "söz konusu kişiler",
+   "...ile ilgili",
+   "bana kalırsa"
+  ],
+  "tip": "about bir kişi ya da durum için duyulan endişeyi, with ise bir konunun ilgili olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "sincerely",
+  "senses": [
+   "içtenlikle; samimiyetle"
+  ],
+  "ex": [
+   "Bir an önce kendini daha iyi hissetmeni içtenlikle umuyorum.",
+   "Kuruluşlar, yerel topluluğu etkileyecek değişiklikleri uygulamadan önce sakinlerin kaygılarını samimiyetle dinlemelidir."
+  ],
+  "col": [
+   "içtenlikle ummak",
+   "içtenlikle özür dilemek",
+   "içtenlikle inanmak",
+   "saygılarımla"
+  ],
+  "tip": "Tanıdığınız birine yazılan İngilizce mektupta Yours sincerely kullanılır; isimsiz hitaplarda Yours faithfully tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "scope",
+  "senses": [
+   "kapsam; alan",
+   "olanak; fırsat"
+  ],
+  "ex": [
+   "Mutfak tamirleri bu işin kapsamı dışında kalıyor.",
+   "Çalışmanın kapsamı yalnızca kentsel okullarla sınırlıydı, bu yüzden bulguları kırsal topluluklara uygulanamayabilir."
+  ],
+  "col": [
+   "çalışmanın kapsamı",
+   "...kapsamının ötesinde",
+   "gelişme alanı",
+   "kapsamı genişletmek"
+  ],
+  "tip": "Bir konunun kapsamı için scope of, bir şeyi yapma olanağı için scope for kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "physicist",
+  "senses": [
+   "fizikçi"
+  ],
+  "ex": [
+   "Bir fizikçi bize sınıfta mıknatısların nasıl çalıştığını gösterdi.",
+   "Fizikçiler, doktorların insan vücudunu incelemesine yardımcı olan görüntüleme teknolojileri geliştirerek tıbbi ilerlemeye katkı sağlar."
+  ],
+  "col": [
+   "kuramsal fizikçi",
+   "nükleer fizikçi",
+   "deneysel fizikçi"
+  ],
+  "tip": "Fizikçi anlamına gelir; doktor anlamındaki physician ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "spectator",
+  "senses": [
+   "seyirci"
+  ],
+  "ex": [
+   "Bir seyirci topu çitin yakınında yakaladı.",
+   "Büyük spor etkinlikleri binlerce seyirciyi çeker ve yerel işletmeler için önemli bir gelir kaynağı olabilir."
+  ],
+  "col": [
+   "seyirci sporu",
+   "seyirci güvenliği",
+   "seyirci çekmek"
+  ],
+  "tip": "Genellikle spor müsabakasındaki izleyiciler için kullanılır; tiyatro ya da konser izleyicileri için audience tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "sponsor",
+  "senses": [
+   "sponsor; destekçi",
+   "sponsorluk etmek; desteklemek"
+  ],
+  "ex": [
+   "Yüzme kulübümüzün yeni ekipmanlar için bir sponsora ihtiyacı var.",
+   "Yerel işletmeler, halk sağlığını iyileştirmek ve sakinlerle ilişkileri güçlendirmek için toplumsal spor programlarına sponsor olabilir."
+  ],
+  "col": [
+   "kurumsal sponsor",
+   "ana sponsor",
+   "bir etkinliğe sponsor olmak",
+   "bir takıma sponsor olmak"
+  ],
+  "tip": "Hem isim hem fiil olarak kullanılır; sponsorluk eylemi için ise sponsorship sözcüğü tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "prejudice",
+  "senses": [
+   "önyargı; peşin hüküm",
+   "önyargı oluşturmak; zarar vermek"
+  ],
+  "ex": [
+   "Komşuları ona hiçbir önyargı göstermeden sıcak bir karşılama yaptı.",
+   "Okullar, öğrencileri kendi kültürlerinden farklı kültürleri öğrenmeye teşvik ederek önyargılarla mücadele edebilir."
+  ],
+  "col": [
+   "ırksal önyargı",
+   "...e karşı önyargı",
+   "önyargıyla mücadele etmek",
+   "birinin şansına zarar vermek"
+  ],
+  "tip": "Bir gruba yönelik önyargı için prejudice against kalıbı kullanılır; kalıbın edatını ihmal etmeyin.",
+  "note": ""
+ },
+ {
+  "id": "disgraceful",
+  "senses": [
+   "utanç verici; yakışıksız"
+  ],
+  "ex": [
+   "Bu güzel parkın her yerine çöp atmak utanç verici.",
+   "Rapor, sektör genelindeki utanç verici çalışma koşullarını ortaya çıkardı ve çalışanların daha güçlü korunmasını istedi."
+  ],
+  "col": [
+   "utanç verici davranış",
+   "utanç verici muamele",
+   "tamamen utanç verici"
+  ],
+  "tip": "Güçlü bir kınamayı ifade eder; itibarını yitirmiş anlamında ise disgraced sıfatı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tragic",
+  "senses": [
+   "feci; acı verici",
+   "trajik"
+  ],
+  "ex": [
+   "Film, kaybedilen bir dostluğun trajik hikâyesini anlatıyor.",
+   "Yoğun yollardaki trajik kazalar, daha güvenli geçitlere ve hız sınırlarının daha sıkı uygulanmasına duyulan ihtiyacı gösteriyor."
+  ],
+  "col": [
+   "trajik bir kaza",
+   "trajik bir kayıp",
+   "trajik bir son",
+   "trajik kahraman"
+  ],
+  "tip": "Sad'den daha ağır bir üzüntüyü, çoğunlukla ölüm ya da ciddi acıları anlatır; hafif üzüntüler için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "drawback",
+  "senses": [
+   "dezavantaj; olumsuzluk"
+  ],
+  "ex": [
+   "Dairenin tek olumsuz yanı çok küçük olan mutfağı.",
+   "Uzaktan çalışmanın önemli bir dezavantajı, meslektaşlarla gayriresmi iletişim fırsatının azalmasıdır."
+  ],
+  "col": [
+   "önemli bir dezavantaj",
+   "başlıca dezavantaj",
+   "...in dezavantajı"
+  ],
+  "tip": "Sayılabilir bir isimdir; a drawback of kalıbından sonra isim ya da -ing biçimli bir sözcük gelir.",
+  "note": ""
+ },
+ {
+  "id": "specialize",
+  "senses": [
+   "uzmanlaşmak; ihtisas yapmak"
+  ],
+  "ex": [
+   "Evimizin yakınındaki fırın, taze ekşi mayalı ekmek konusunda uzmanlaşmış.",
+   "Çok erken uzmanlaşan öğrenciler, daha geniş bir yelpazede bilgi geliştirme fırsatlarını kaçırabilir."
+  ],
+  "col": [
+   "tıpta uzmanlaşmak",
+   "araba tamiri konusunda uzmanlaşmak",
+   "son derece uzmanlaşmış beceriler"
+  ],
+  "tip": "Genellikle specialize in kalıbıyla kullanılır; İngiliz İngilizcesinde specialise yazımı da kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "rip",
+  "senses": [
+   "yırtmak; yırtılmak",
+   "yırtık; yarık"
+  ],
+  "ex": [
+   "Dün keskin bir dal yüzünden kolumu yırttım.",
+   "Giysideki küçük bir yırtığı değiştirmek yerine tamir etmek, evdeki atığı azaltabilir."
+  ],
+  "col": [
+   "yırtarak açmak",
+   "paramparça etmek",
+   "...de yırtık"
+  ],
+  "tip": "Hızlı ve düzensiz yırtılma için kullanılır; geçmiş zaman ve ortaç biçimi ripped olur.",
+  "note": ""
+ },
+ {
+  "id": "flexible",
+  "senses": [
+   "esnek; uyarlanabilir",
+   "esnek; eğilebilir"
+  ],
+  "ex": [
+   "Esnek programım, çocukları okuldan sonra almama olanak tanıyor.",
+   "Esnek çalışma düzenlemeleri, çalışanların mesleki sorumluluklarını aile yükümlülükleriyle dengelemesine yardımcı olabilir."
+  ],
+  "col": [
+   "esnek çalışma saatleri",
+   "esnek bir yaklaşım",
+   "esnek malzemeler"
+  ],
+  "tip": "Hem plan ya da kişi için (uyarlanabilir) hem de malzeme için (eğilebilir) kullanılır; anlama göre doğru Türkçe karşılığı seçilmelidir.",
+  "note": ""
+ }
+]

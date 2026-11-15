@@ -1,0 +1,276 @@
+[
+ {
+  "id": "comment",
+  "senses": [
+   "yorum; görüş",
+   "yorum yapmak; görüş bildirmek"
+  ],
+  "ex": [
+   "Resmimle ilgili nazik yorumu beni gülümsetti.",
+   "Yerel yönetimler son kararı vermeden önce sakinlerin geliştirme önerileri hakkında görüş bildirme fırsatına sahip olmalı."
+  ],
+  "col": [
+   "yorum yapmak",
+   "bir şey hakkında yorum yapmak",
+   "yapıcı yorumlar",
+   "yorum yok"
+  ],
+  "tip": "comment genellikle on ile kullanılır: comment on something. Doğrudan nesne almaz; 'comment something' şeklinde kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "soil",
+  "senses": [
+   "toprak",
+   "kirletmek; lekelemek"
+  ],
+  "ex": [
+   "Saksıyı toprakla doldurdu ve tohumları ekti.",
+   "Yoğun tarım, toprak kalitesine zarar verebilir ve zamanla arazinin ürün yetiştirme kapasitesini azaltabilir."
+  ],
+  "col": [
+   "verimli toprak",
+   "toprak erozyonu",
+   "toprak kalitesi",
+   "giysilerini kirletmek"
+  ],
+  "tip": "Toprak genellikle sayılamaz. Farklı toprak türlerinden söz ederken soils (çoğul) kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "risk",
+  "senses": [
+   "risk; tehlike",
+   "göze almak; riske atmak"
+  ],
+  "ex": [
+   "Kaymayı azaltmak için sağlam ayakkabı giyin.",
+   "Hükümetler, nehir kenarındaki yeni konut projelerini onaylamadan önce taşkın riskini değerlendirmelidir."
+  ],
+  "col": [
+   "risk almak",
+   "tehlikede",
+   "bir şeyi yapma riskini almak",
+   "riski azaltmak"
+  ],
+  "tip": "risk'ten sonra isim ya da -ing biçimi gelir (risk doing something). to + fiil ile kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "handsome",
+  "senses": [
+   "yakışıklı",
+   "epeyce; cömert"
+  ],
+  "ex": [
+   "Kardeşim yeni mavi ceketiyle çok yakışıklı görünüyor.",
+   "Yenilenebilir enerjiye yatırım yapan şirketler, temiz alternatiflere olan talep arttıkça epey yüksek kâr elde edebilir."
+  ],
+  "col": [
+   "yakışıklı adam",
+   "yüklü kâr",
+   "cömert ödül"
+  ],
+  "tip": "Genellikle erkekler için 'yakışıklı' anlamında kullanılır. Kâr ya da ödül için ise 'büyük, yüklü' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "error",
+  "senses": [
+   "hata; yanlış",
+   "hata; sapma"
+  ],
+  "ex": [
+   "Rezervasyondaki bir hata yüzünden yerimiz olmadan kaldık.",
+   "Araştırmacılar hesaplamalarını dikkatle kontrol etmelidir, çünkü küçük bir hata nihai sonuçları önemli ölçüde etkileyebilir."
+  ],
+  "col": [
+   "hata yapmak",
+   "insan hatası",
+   "hata payı",
+   "deneme yanılma"
+  ],
+  "tip": "error, mistake'e göre daha resmi bir kelimedir ve çoğunlukla teknik, hesap ya da yargı hatalarında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tyre",
+  "senses": [
+   "lastik"
+  ],
+  "ex": [
+   "Patlak lastiği değiştirmek için yolun kenarında durduk.",
+   "Kullanılmış lastiklerin geri dönüştürülmesi, çöp depolama atıklarını azaltabilir ve daha güvenli oyun alanı zeminleri için malzeme sağlayabilir."
+  ],
+  "col": [
+   "patlak lastik",
+   "yedek lastik",
+   "lastik basıncı",
+   "lastiği değiştirmek"
+  ],
+  "tip": "tyre İngiliz İngilizcesi yazımıdır; Amerikan İngilizcesinde tire olarak yazılır.",
+  "note": ""
+ },
+ {
+  "id": "skyscraper",
+  "senses": [
+   "gökdelen"
+  ],
+  "ex": [
+   "Gökdelen parkın üzerine uzun bir gölge düşürüyordu.",
+   "Gökdelenler büyüyen kentsel nüfusu barındırabilir, ancak şehirler güvenilir toplu taşımaya da yatırım yapmalıdır."
+  ],
+  "col": [
+   "gökdelen inşa etmek",
+   "camlı gökdelen",
+   "çok yüksek gökdelen"
+  ],
+  "tip": "Özellikle çok yüksek binaları anlatır. Sıradan yüksek binalar için high-rise daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "tiredness",
+  "senses": [
+   "yorgunluk; bitkinlik"
+  ],
+  "ex": [
+   "Uzun yürüyüşten sonra yorgunluk bacaklarımı ağırlaştırdı.",
+   "Süregelen yorgunluk, öğrencilerin dikkatini azaltabilir ve yeterince uyumadıklarını gösterebilir."
+  ],
+  "col": [
+   "aşırı yorgunluk",
+   "süregelen yorgunluk",
+   "yorgunluk belirtileri"
+  ],
+  "tip": "Genellikle sayılamaz. İnsanın yorgun olduğunu tired, bir şeyin yorucu olduğunu tiring ile anlatın.",
+  "note": ""
+ },
+ {
+  "id": "terribly",
+  "senses": [
+   "çok; son derece",
+   "berbat biçimde; kötü"
+  ],
+  "ex": [
+   "Ceketinize meyve suyu döktüğüm için çok özür dilerim.",
+   "Güvenilir toplu taşıma olmadan, yaşlı sakinler uzak kırsal topluluklarda kendilerini çok yalnız hissedebilir."
+  ],
+  "col": [
+   "çok üzgün",
+   "çok endişeli",
+   "kötü davranmak"
+  ],
+  "tip": "Günlük dilde çoğunlukla 'çok' anlamında güçlendirici olarak kullanılır; 'korkunç biçimde' anlamına her zaman gelmez.",
+  "note": ""
+ },
+ {
+  "id": "follower",
+  "senses": [
+   "takipçi; destekçi",
+   "takipçi; abone"
+  ],
+  "ex": [
+   "Amcam yerel takımın bağlı bir taraftarıdır.",
+   "Sosyal medyada çok takipçisi olmak, birini sağlık konusunda güvenilir bir kaynak yapmaz."
+  ],
+  "col": [
+   "bağlı takipçi",
+   "sosyal medya takipçileri",
+   "takipçi kazanmak"
+  ],
+  "tip": "Sosyal medya bağlamında 'takipçi' karşılığı kullanılır; bu her zaman hayran ya da taraftar anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "prayer",
+  "senses": [
+   "dua etme; ibadet",
+   "dua; dua metni"
+  ],
+  "ex": [
+   "Gözlerini kapattı ve sessizce bir dua etti.",
+   "Birçok topluluk için dua, zor zamanlarda teselli sağlar ve aidiyet duygusunu güçlendirir."
+  ],
+  "col": [
+   "dua etmek",
+   "günlük dua",
+   "barış için dua"
+  ],
+  "tip": "Dua etme eylemi genellikle sayılamaz; belirli bir duayı anlatırken sayılabilir (a prayer).",
+  "note": ""
+ },
+ {
+  "id": "mend",
+  "senses": [
+   "onarmak; tamir etmek",
+   "iyileşmek",
+   "düzeltmek; onarmak"
+  ],
+  "ex": [
+   "Büyükbabam yırtılmış cebi nasıl tamir edeceğimi bana gösterdi.",
+   "Çocuklara giysilerini onarmayı öğretmek, tekstil atıklarını azaltabilir ve tüketime karşı daha sorumlu tutumları teşvik edebilir."
+  ],
+  "col": [
+   "giysi onarmak",
+   "çit tamir etmek",
+   "ilişkileri düzeltmek",
+   "iyileşme yolunda"
+  ],
+  "tip": "on the mend 'iyileşmekte, toparlanmakta' anlamında sabit bir ifadedir; kalıp olarak öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "antarctica",
+  "senses": [
+   "Antarktika"
+  ],
+  "ex": [
+   "Kuzenim bir gezi sırasında Antarktika'da penguenleri fotoğrafladı.",
+   "Antarktika'yı inceleyen bilim insanları, Dünya'nın iklimin zaman içinde nasıl değiştiğini anlamak için eski buzları analiz eder."
+  ],
+  "col": [
+   "Antarktika seferi",
+   "Antarktika'da araştırma",
+   "Antarktika kıyısı"
+  ],
+  "tip": "Kıta adı büyük harfle yazılır ve önünde genellikle 'the' kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "attraction",
+  "senses": [
+   "cazibe merkezi; turistik yer",
+   "çekicilik; cazibe"
+  ],
+  "ex": [
+   "Eski kale, kasabanın en popüler cazibe merkezidir.",
+   "Turizm iş imkânı yaratsa da, ana cazibe merkezlerindeki kalabalık tarihi binalara zarar verebilir ve yerel hayatı bozabilir."
+  ],
+  "col": [
+   "turistik cazibe merkezi",
+   "ana cazibe",
+   "karşılıklı çekim",
+   "kütleçekim"
+  ],
+  "tip": "Yer anlamında sayılabilir, çekicilik anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "bull",
+  "senses": [
+   "boğa",
+   "boğa; yükselişçi"
+  ],
+  "ex": [
+   "Çiftliğin kapısının yanında büyük bir boğa sessizce duruyordu.",
+   "Boğa piyasası sırasında hisse fiyatları yükseldikçe, haneler tasarruflarının daha büyük bölümünü yatırıma yönlendirebilir."
+  ],
+  "col": [
+   "damızlık boğa",
+   "boğa piyasası",
+   "sorunla doğrudan yüzleşmek"
+  ],
+  "tip": "Finansta bull, fiyatların yükseleceğine inanan yatırımcıyı anlatır. Karşıtı bear'dır (düşüşe inanan yatırımcı).",
+  "note": ""
+ }
+]

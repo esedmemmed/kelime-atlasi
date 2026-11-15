@@ -1,0 +1,280 @@
+[
+ {
+  "id": "cafe",
+  "senses": [
+   "kafe; kahvehane"
+  ],
+  "ex": [
+   "İstasyonun yanındaki kafede birlikte bir sandviç yedik.",
+   "Mahalle kafesi, sakinlerin buluşabileceği sıcak bir alan sunarak topluluk bağlarını güçlendirebilir."
+  ],
+  "col": [
+   "açık hava kafesi",
+   "semt kafesi",
+   "internet kafe"
+  ],
+  "tip": "Fransızcadan gelen café yazımı da kullanılır; İngilizcede genellikle cafe yazılır. Hem içecek hem hafif yemek sunan yerleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "live",
+  "senses": [
+   "yaşamak; oturmak",
+   "canlı; yayınlanan",
+   "canlı; hayatta olan"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam sahil yakınındaki sakin bir köyde yaşıyorlar.",
+   "Toplu taşımaya yakın yaşayan insanlar günlük yolculuklarında özel araçlara daha az bağımlı olma eğiliminde olur."
+  ],
+  "col": [
+   "tek başına yaşamak",
+   "sağlıklı bir hayat sürmek",
+   "canlı müzik",
+   "canlı yayın"
+  ],
+  "tip": "Fiil olarak /lɪv/, sıfat olarak /laɪv/ okunur. Anlamı belirlemek için cümledeki yerine bakın: live music (canlı müzik), live broadcast (canlı yayın).",
+  "note": ""
+ },
+ {
+  "id": "quick",
+  "senses": [
+   "hızlı; çabuk",
+   "kısa süren; çabuk"
+  ],
+  "ex": [
+   "Hızlı refleksi sayesinde bardağın düşmesi önlendi.",
+   "Su kirliliği raporlarına hızlı yanıt verilmesi, yakın ekosistemlerde ciddi zararların önüne geçebilir."
+  ],
+  "col": [
+   "hızlı tepki",
+   "hızlı karar",
+   "hızlı bir bakış",
+   "hemen tepki vermek"
+  ],
+  "tip": "Sıfat olarak quick kullanılır; fiili nitelerken quickly yazılır. Örneğin: She reacted quickly (Hızlıca tepki verdi).",
+  "note": ""
+ },
+ {
+  "id": "august",
+  "senses": [
+   "Ağustos"
+  ],
+  "ex": [
+   "Genellikle yazın Ağustos ayında deniz kenarındaki büyükannemizi ziyaret ederiz.",
+   "Turistik yerler Ağustos ayında genellikle artan talep yaşar; bu da yerel ulaşım ve konaklama üzerinde baskı oluşturur."
+  ],
+  "col": [
+   "Ağustos ayında",
+   "Ağustos'un başında",
+   "Ağustos'un sonunda"
+  ],
+  "tip": "Ay adları büyük harfle yazılır. Ay adından önce in kullanılır: in August.",
+  "note": ""
+ },
+ {
+  "id": "germany",
+  "senses": [
+   "Almanya"
+  ],
+  "ex": [
+   "Kuzenim mühendislik okumak için Almanya'ya taşındı.",
+   "Almanya, fosil yakıtlara bağımlılığını azaltma çabasının bir parçası olarak yenilenebilir enerjiye yatırım yaptı."
+  ],
+  "col": [
+   "Almanya'da",
+   "Almanya'ya seyahat etmek",
+   "Almanya yapımı"
+  ],
+  "tip": "Germany ülke adıdır; German ise Almanca, Alman veya Almanya'ya ait anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "bag",
+  "senses": [
+   "çanta; torba",
+   "poşetlemek; torbalamak"
+  ],
+  "ex": [
+   "Elmaları yeniden kullanılabilir bir torbaya koydu.",
+   "Müşterilerden plastik poşet ücreti alınması, alışveriş yapanları daha çevreci alışkanlıklar edinmeye teşvik edebilir."
+  ],
+  "col": [
+   "alışveriş çantası",
+   "yeniden kullanılabilir torba",
+   "çanta hazırlamak"
+  ],
+  "tip": "a bag of ifadesinden sonra içindekiler gelir: a bag of rice (bir torba pirinç). Fiil olarak da kullanılır: to bag groceries.",
+  "note": ""
+ },
+ {
+  "id": "tennis",
+  "senses": [
+   "tenis"
+  ],
+  "ex": [
+   "Pazar günleri parkta tenis oynarız.",
+   "Uygun fiyatlı tenis dersleri, gençleri düzenli spor yapmaya ve daha iyi fiziksel koordinasyon geliştirmeye teşvik edebilir."
+  ],
+  "col": [
+   "tenis oynamak",
+   "tenis kortu",
+   "tenis raketi",
+   "tenis maçı"
+  ],
+  "tip": "Spor adları için play tennis denir ve başına the veya a getirilmez. Raket racket olarak yazılır.",
+  "note": ""
+ },
+ {
+  "id": "cat",
+  "senses": [
+   "kedi",
+   "kedigiller"
+  ],
+  "ex": [
+   "Kedimiz pencerenin yanındaki güneşli bir köşede uyuyor.",
+   "Evcil kedilerin evde tutulması, özellikle savunmasız yaban hayatı popülasyonu olan bölgelerde yerli kuşların korunmasına yardımcı olabilir."
+  ],
+  "col": [
+   "evcil kedi",
+   "sokak kedisi",
+   "büyük kedigiller"
+  ],
+  "tip": "big cats ifadesi aslan, kaplan gibi büyük kedigil türlerini anlatır. Bu anlamda kedigiller sözcüğü kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "place",
+  "senses": [
+   "yer; mekan",
+   "yerleştirmek; koymak",
+   "yer; kontenjan"
+  ],
+  "ex": [
+   "Bu gölgeli yer piknik için çok güzel bir mekan.",
+   "Şehir plancıları, temel hizmetlerin herkes için erişilebilir olması amacıyla kamu tesislerini konut alanlarının yakınına yerleştirmelidir."
+  ],
+  "col": [
+   "kamusal alan",
+   "sipariş vermek",
+   "gerçekleşmek; yapılmak",
+   "üniversite kontenjanı"
+  ],
+  "tip": "take place 'gerçekleşmek, yapılmak' anlamına gelir ve edilgen yapılmaz. Örneğin: The meeting took place yesterday.",
+  "note": ""
+ },
+ {
+  "id": "dress",
+  "senses": [
+   "elbise",
+   "giydirmek; giyinmek",
+   "kıyafet; giyim"
+  ],
+  "ex": [
+   "Kız kardeşinin partisi için mavi bir elbise giydi.",
+   "Bazı işverenler resmi giyim isterken, bazıları çalışanlarının iş yerinde günlük kıyafet giymesine izin verir."
+  ],
+  "col": [
+   "yazlık elbise",
+   "giyinmek; hazırlanmak",
+   "kıyafet kuralı",
+   "süslenmek"
+  ],
+  "tip": "a dress elbise demektir. get dressed ise 'giyinmek' anlamında kullanılır: I got dressed quickly.",
+  "note": ""
+ },
+ {
+  "id": "mouse",
+  "senses": [
+   "fare",
+   "bilgisayar faresi"
+  ],
+  "ex": [
+   "Kahvaltıdan önce küçük bir fare dolabın arkasına kaçtı.",
+   "Mouse'u uzun süre kullanmak bilek rahatsızlığına yol açabilir; bu yüzden ofis çalışanları düzenli aralar vermelidir."
+  ],
+  "col": [
+   "tarla faresi",
+   "kablosuz fare",
+   "fare tıklaması"
+  ],
+  "tip": "Hayvan anlamında çoğulu mice, bilgisayar aygıtı için genellikle mice veya mouses olabilir. Hem hayvan hem bilgisayar anlamı vardır.",
+  "note": ""
+ },
+ {
+  "id": "car",
+  "senses": [
+   "araba; otomobil",
+   "vagon"
+  ],
+  "ex": [
+   "Arabamız dışarıda ağacın altına park edilmiş.",
+   "Özel araç kullanımını azaltmak, kentsel hava kalitesini iyileştirebilir ve sokakları yayalar için daha güvenli hale getirebilir."
+  ],
+  "col": [
+   "arabayla",
+   "elektrikli araba",
+   "otopark",
+   "yemekli vagon"
+  ],
+  "tip": "by car (arabayla) ifadesinde article kullanılmaz. in a car (bir arabada) ifadesinde ise a gerekir.",
+  "note": ""
+ },
+ {
+  "id": "breakfast",
+  "senses": [
+   "kahvaltı"
+  ],
+  "ex": [
+   "Genellikle otobüse binmeden önce kahvaltı yaparım.",
+   "Sağlıklı kahvaltı sunan okullar, öğrencilerin sabah derslerinde daha iyi odaklanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kahvaltı yapmak",
+   "kahvaltıyı atlamak",
+   "dengeli bir kahvaltı"
+  ],
+  "tip": "Genel olarak kahvaltı yapmaktan söz ederken have breakfast kullanılır ve başına article getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "spell",
+  "senses": [
+   "hecelemek; yazmak",
+   "dönem; süre",
+   "büyü; sihir"
+  ],
+  "ex": [
+   "Soyadınızı benim için yavaşça hecelerseniz sevinirim.",
+   "Uzayan kurak bir dönem, ürün veriminin düşmesine ve yerel su kaynakları üzerindeki baskının artmasına neden olabilir."
+  ],
+  "col": [
+   "bir kelimeyi hecelemek",
+   "kurak bir dönem",
+   "hastalık nöbeti",
+   "büyü yapmak"
+  ],
+  "tip": "Geçmiş zaman biçimi İngiliz İngilizcesinde spelt veya spelled olabilir. 'Dönem' anlamında a spell of ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "catch",
+  "senses": [
+   "yakalamak; tutmak",
+   "yetişmek; binmek",
+   "kapmak; yakalanmak"
+  ],
+  "ex": [
+   "Topu sadece tek elinizle tutabilir misiniz?",
+   "Daha sık otobüs seferleri, işe gidip gelenlerin özel araçlara bağlı kalmadan aktarmalı trenlere yetişmesini kolaylaştırabilir."
+  ],
+  "col": [
+   "topu yakalamak",
+   "trene yetişmek",
+   "soğuk algınlığına yakalanmak",
+   "dikkatini çekmek"
+  ],
+  "tip": "Düzensiz fiildir: catch, caught, caught. Hastalığa yakalanmak için catch a cold kalıbı kullanılır.",
+  "note": ""
+ }
+]

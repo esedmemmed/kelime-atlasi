@@ -1,0 +1,274 @@
+[
+ {
+  "id": "successor",
+  "senses": [
+   "halef; ardıl",
+   "yerini alan ürün; halef"
+  ],
+  "ex": [
+   "Emekli olan antrenör, yeni antrenörünü takıma tanıttı.",
+   "Yeni bir lider, temel kamu hizmetlerinin sorunsuz sürmesi için halefine yeterli rehberlik sağlamalı."
+  ],
+  "col": [
+   "...in halefi",
+   "halef atamak",
+   "halef seçmek",
+   "muhtemel halef"
+  ],
+  "tip": "successor to + kişi kalıbıyla kullanılır. Mal mirasçısı için genelde heir tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "spectrum",
+  "senses": [
+   "yelpaze; skala",
+   "tayf; spektrum"
+  ],
+  "ex": [
+   "Kitap kulübümüz çok geniş bir görüş yelpazesini memnuniyetle karşılıyor.",
+   "Üniversiteler, akademik yetenek ve sosyal geçmişin tüm yelpazesindeki öğrencilere destek sunmalı."
+  ],
+  "col": [
+   "geniş bir yelpaze",
+   "yelpazenin tamamında",
+   "görünür tayf",
+   "siyasi yelpaze"
+  ],
+  "tip": "Bilimsel bağlamda çoğulu spectra; genel kullanımda spectrums da görülür. Fikir anlatırken 'a broad spectrum of' kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "registrar",
+  "senses": [
+   "kayıt memuru; sicil memuru",
+   "uzmanlık eğitimi gören hekim"
+  ],
+  "ex": [
+   "Düğün töreninden önce kayıt memuru belgelerimizi kontrol etti.",
+   "Üniversite kayıt görevlisi öğrenci kayıtlarını denetler ve mezuniyet koşullarının tutarlı uygulanmasını sağlar."
+  ],
+  "col": [
+   "üniversite kayıt memuru",
+   "kayıt bürosu",
+   "uzman hekim adayı"
+  ],
+  "tip": "Üniversitede kayıt işlerinden sorumlu görevliyi, İngiltere'de ise uzmanlık eğitimi alan hekimi ifade eder. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "refuge",
+  "senses": [
+   "sığınma; barınma",
+   "sığınak; barınak"
+  ],
+  "ex": [
+   "Fırtına sırasında bir köprünün altına sığındık.",
+   "Kentsel parklar, şehirler doğal yaşam alanlarının yerini yapılara bıraktıkça yaban hayvanlarına barınak sağlar."
+  ],
+  "col": [
+   "sığınmak",
+   "sığınma aramak",
+   "...e karşı sığınak"
+  ],
+  "tip": "take refuge in ya da seek refuge kalıpları 'sığınmak' anlamında kullanılır. Refuge genellikle isimdir.",
+  "note": ""
+ },
+ {
+  "id": "gaudy",
+  "senses": [
+   "cafcaflı; gösterişli"
+  ],
+  "ex": [
+   "Üzerine simli pullar dikilmiş cafcaflı bir ceket giydi.",
+   "Bazı sakinler, tarihi bölgelerdeki gösterişli süslemelerin geleneksel binaların görsel karakterini zedelediğini savunuyor."
+  ],
+  "col": [
+   "cafcaflı renkler",
+   "gösterişli süslemeler",
+   "gösterişli mücevher"
+  ],
+  "tip": "Olumsuz çağrışımlıdır; sadece parlak değil, aşırı ve zevksiz süslü anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "prolific",
+  "senses": [
+   "üretken; verimli",
+   "çok üreyen; bereketli"
+  ],
+  "ex": [
+   "Teyzem iki atölyesi olan çok üretken bir ressam.",
+   "Üretken araştırmacılar bilimsel ilerlemeye önemli katkı sağlayabilir, ancak yayın sayısı kaliteden önemli olmamalı."
+  ],
+  "col": [
+   "üretken yazar",
+   "üretken sanatçı",
+   "golcü oyuncu",
+   "verimli yetiştirici"
+  ],
+  "tip": "Miktar vurgusu yapar, kaliteyi garanti etmez. Genellikle olumlu bir anlamla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "meadow",
+  "senses": [
+   "çayır; otlak"
+  ],
+  "ex": [
+   "Piknik örtümüzü güneşli bir çayırın üzerine serdik.",
+   "Yabani çiçekli çayırların korunması, böcekler ve kuşlar için besin ve barınak sağlayarak biyolojik çeşitliliği destekler."
+  ],
+  "col": [
+   "yabani çiçekli çayır",
+   "dağ çayırı",
+   "otlak alanı"
+  ],
+  "tip": "Meadow genellikle doğal yabani çiçeklerin bulunduğu çayırdır; düzgün biçilmiş çim alan için lawn kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "loom",
+  "senses": [
+   "belirmek; görünmek",
+   "yaklaşmak; gelmek üzere olmak",
+   "dokuma tezgahı"
+  ],
+  "ex": [
+   "Sabah sisinden kocaman bir gemi belirdi.",
+   "Su kıtlığı yaklaşırken hükümetler verimli sulama sistemlerine yatırım yapmalı ve hanehalkını gereksiz tüketimi azaltmaya teşvik etmeli."
+  ],
+  "col": [
+   "üzerinde asılı durmak",
+   "büyük yer tutmak",
+   "dokuma tezgahı"
+  ],
+  "tip": "Fiil genellikle tehdit ya da kaygı uyandıran bir durumu anlatır. 'loom large' sorunun büyük olduğunu gösterir.",
+  "note": ""
+ },
+ {
+  "id": "supersonic",
+  "senses": [
+   "sesüstü; süpersonik"
+  ],
+  "ex": [
+   "Süpersonik uçak geçerken yüksek bir patlama sesi duyduk.",
+   "Süpersonik yolcu uçakları uluslararası yolculukları kısaltabilir, ancak gürültüleri ve yakıt tüketimleri hâlâ başlıca kaygı kaynağı."
+  ],
+  "col": [
+   "süpersonik hız",
+   "süpersonik uçak",
+   "süpersonik uçuş"
+  ],
+  "tip": "Sesin hızını aşan hızları anlatır. Yüksek frekanslı ses için ultrasonic kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "liability",
+  "senses": [
+   "yasal sorumluluk",
+   "borç; yükümlülük",
+   "yük; dezavantaj"
+  ],
+  "ex": [
+   "Sigortamız komşu evlere verilen zararlar için sorumluluğu kapsıyor.",
+   "Yasal sorumluluk konusundaki açık kurallar, şirketleri ürünlerinin güvenliği konusunda daha fazla sorumluluk almaya teşvik eder."
+  ],
+  "col": [
+   "yasal sorumluluk",
+   "sorumluluk üstlenmek",
+   "sınırlı sorumluluk",
+   "varlıklar ve borçlar"
+  ],
+  "tip": "Sorumluluk anlamında genellikle tekil ve sayılamaz; borç anlamında çoğul liabilities kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "philosophical",
+  "senses": [
+   "felsefi",
+   "sakin; soğukkanlı"
+  ],
+  "ex": [
+   "Hayatın amacını tartışırken sohbetimiz felsefi bir hâl aldı.",
+   "Yapay zekâ üzerine tartışmalar, sorumluluk, insan kimliği ve yaratıcılığın anlamıyla ilgili felsefi sorular doğuruyor."
+  ],
+  "col": [
+   "felsefi soru",
+   "felsefi tartışma",
+   "aksiliklere karşı soğukkanlı"
+  ],
+  "tip": "be philosophical about kalıbı, istenmeyen bir durumu olgunlukla ve sakince karşılamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "ramification",
+  "senses": [
+   "dolaylı sonuç; yan etki"
+  ],
+  "ex": [
+   "Bu kadar uzağa taşınmanın bütün sonuçlarını düşünmemiştik.",
+   "Politika yapıcılar, toplu taşıma hatlarının özel işletmelere devredilmesinin uzun vadeli etkilerini dikkate almalı."
+  ],
+  "col": [
+   "...e etkileri olmak",
+   "geniş kapsamlı sonuçlar",
+   "yasal sonuçlar"
+  ],
+  "tip": "Genellikle çoğul ramifications biçiminde kullanılır ve karmaşık ya da beklenmeyen sonuçları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "amplifier",
+  "senses": [
+   "yükselteç; amplifikatör"
+  ],
+  "ex": [
+   "Gitarını küçük bir amfiye bağladı.",
+   "Bir yükselteç, konuşmacının sesinin büyük konferans salonunun her yerinden net duyulmasını sağlayabilir."
+  ],
+  "col": [
+   "gitar amfisi",
+   "güç yükselteci",
+   "sinyal yükselteci"
+  ],
+  "tip": "Amplifier sinyali güçlendirir; speaker ise elektrik sinyalini sese çevirir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "embed",
+  "senses": [
+   "yerleştirmek; gömmek",
+   "gömülü olarak eklemek",
+   "kökleştirmek; benimsetmek"
+  ],
+  "ex": [
+   "Sanatçı, ıslak kilin içine küçük kabukları yerleştirdi.",
+   "Okullar çevre bilincini sürdürülebilirliği yalnızca özel günlerde tartışmak yerine günlük derslere yerleştirmeli."
+  ],
+  "col": [
+   "...in içine gömülü olmak",
+   "video eklemek",
+   "derinlere kök salmış"
+  ],
+  "tip": "Düzenli fiildir: embedded, embedding. Web ve bilgisayar bağlamında içerik eklemek anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "distortion",
+  "senses": [
+   "çarpıtma; saptırma",
+   "bozulma; çarpılma"
+  ],
+  "ex": [
+   "Konuşmamızın onun anlatımı tamamen çarpıtılmıştı.",
+   "Bilimsel bulguların haber metinlerinde çarpıtılması, halkın sağlık risklerini anlamasını zayıflatabilir."
+  ],
+  "col": [
+   "gerçekleri çarpıtma",
+   "görüntü bozulması",
+   "ses bozulması"
+  ],
+  "tip": "Yanıltıcı sunumda 'distortion of the facts' kalıbı kullanılır; fiziksel biçim veya ses bozulması için image/sound distortion denir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "roam",
+  "senses": [
+   "dolaşmak; gezinmek"
+  ],
+  "ex": [
+   "Pazarda ayaklarımız ağrıyana kadar dolaştık.",
+   "Korunan yaban hayatı koridorları, büyük hayvanların yoğun yollardan geçmeden yaşam alanları arasında özgürce dolaşmasına olanak tanır."
+  ],
+  "col": [
+   "özgürce dolaşmak",
+   "sokaklarda dolaşmak",
+   "etrafta dolaşmak"
+  ],
+  "tip": "Doğrudan yer adıyla kullanılabilir (roam the streets); around ya da through ile de kullanılır. Özgürce hareket etme anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "hijack",
+  "senses": [
+   "kaçırmak; zorla ele geçirmek",
+   "ele geçirmek; kendine yormak"
+  ],
+  "ex": [
+   "Konuklardan biri sohbeti kendi sorunlarını anlatmak için ele geçirdi.",
+   "Güçlü çıkar grupları kamusal tartışmaları ele geçirebilir ve toplulukların en acil kaygılarını konuşmasını engelleyebilir."
+  ],
+  "col": [
+   "uçağı kaçırmak",
+   "tartışmayı ele geçirmek",
+   "sohbeti ele geçirmek"
+  ],
+  "tip": "Asıl anlamı uçak gibi taşıtları kaçırmaktır; mecazen tartışmayı veya gündemi kendi amacına göre yönlendirme anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "periodical",
+  "senses": [
+   "dergi; süreli yayın",
+   "periyodik; düzenli aralıklı"
+  ],
+  "ex": [
+   "Kütüphane bu dergiyi gazetelerin yanında tutuyor.",
+   "Akademik süreli yayınlar araştırmacıların bulgularını paylaşmasını sağlar; ancak abonelik ücretleri küçük kurumların erişimini sınırlayabilir."
+  ],
+  "col": [
+   "akademik dergi",
+   "aylık dergi",
+   "süreli yayın"
+  ],
+  "tip": "İsim olarak 'dergi' anlamındadır; düzenli aralıklarla olan anlamda sıfat olarak periodic daha yaygın kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "colonel",
+  "senses": [
+   "albay"
+  ],
+  "ex": [
+   "Albay, kampın dışında askerleri selamladı.",
+   "Bir albay, ordunun acil müdahalesini koordine etti ve izole topluluklara gıda ile tıbbi malzeme ulaşmasını sağladı."
+  ],
+  "col": [
+   "ordu albayı",
+   "albaylığa terfi etmek",
+   "emekli bir albay"
+  ],
+  "tip": "Harf l sessizdir ve /ˈkɜːrnl/ diye okunur; yazımdaki l'ye bakarak sert bir l sesi çıkarmayın. kernel ile aynı şekilde okunur.",
+  "note": ""
+ },
+ {
+  "id": "fibreglass",
+  "senses": [
+   "cam elyafı; fiberglas"
+  ],
+  "ex": [
+   "Küçük fiberglas teknemizi kıyıya taşımak çok kolay.",
+   "Cam elyafı, düşük ağırlığı ve önemli dayanıklılığı bir arada sunduğu için inşaatta yaygın olarak kullanılır."
+  ],
+  "col": [
+   "cam elyafı yalıtımı",
+   "fiberglas tekne",
+   "cam elyafı paneller"
+  ],
+  "tip": "İngiliz yazımı fibreglass, Amerikan yazımı fiberglass'tır. Her iki biçim de aynı malzemeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "artery",
+  "senses": [
+   "atardamar",
+   "ana yol; ana güzergâh"
+  ],
+  "ex": [
+   "Doktor, kanın bir atardamardan nasıl aktığını açıkladı.",
+   "Yeni demiryolu, kırsal toplulukları bölgesel pazarlara bağlayan önemli bir ulaşım omurgası olacak."
+  ],
+  "col": [
+   "koroner atardamar",
+   "tıkanmış atardamar",
+   "ana güzergâh"
+  ],
+  "tip": "Atardamar kanı kalpten uzağa taşır; kalbe kan getiren damar toplardamardır (vein).",
+  "note": ""
+ },
+ {
+  "id": "hoof",
+  "senses": [
+   "toynak"
+  ],
+  "ex": [
+   "Çiftçi, incelemek için atın toynağını nazikçe kaldırdı.",
+   "Düzenli toynak bakımı, çalışan atların ağrı çekmesini önlemek ve sağlıklarını korumak için şarttır."
+  ],
+  "col": [
+   "toynak bakımı",
+   "toynak izi",
+   "atın toynağı"
+  ],
+  "tip": "Çoğulu daha yaygın olan hooves biçimindedir; hoofs da kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "gaol",
+  "senses": [
+   "hapishane; cezaevi",
+   "hapsetmek"
+  ],
+  "ex": [
+   "Yürüyüş turumuz sırasında eski hapishaneyi ziyaret ettik.",
+   "Eski cezaevi bugün cezalandırma ve hapishane koşullarındaki değişimleri anlatan bir müze olarak hizmet veriyor."
+  ],
+  "col": [
+   "eski hapishane",
+   "hapis cezası",
+   "hapishane hücresi"
+  ],
+  "tip": "Gaol, jail'in eski İngiliz yazımıdır ve aynı şekilde okunur. Günümüz İngilizcesinde genellikle jail tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "unprecedented",
+  "senses": [
+   "eşi benzeri görülmemiş"
+  ],
+  "ex": [
+   "Pastane bugün eşi benzeri görülmemiş sayıda sipariş aldı.",
+   "Pek çok kıyı topluluğu, yükselen deniz seviyeleri evleri, altyapıyı ve yerel geçim kaynaklarını tehdit ederken eşi görülmemiş zorluklarla karşı karşıya."
+  ],
+  "col": [
+   "eşi görülmemiş büyüme",
+   "eşi benzeri görülmemiş ölçekte",
+   "eşi görülmemiş zorluklar"
+  ],
+  "tip": "Yalnızca çok büyük ya da nadir değil, daha önce hiç olmamış anlamını taşır; gündelik abartılarda kullanmaktan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "delinquency",
+  "senses": [
+   "gençlik suçu; suç davranışı",
+   "ödeme gecikmesi; temerrüt"
+  ],
+  "ex": [
+   "Gençlik kulübümüz, gençlerin suçtan uzak durmasına yardımcı oluyor.",
+   "Uygun fiyatlı rekreasyon olanakları ve destekleyici mentorluk programları, dezavantajlı mahallelerde çocuk suçluluğunu azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "çocuk suçluluğu",
+   "suçluluğu önlemek",
+   "kredi ödemesi gecikmesi"
+  ],
+  "tip": "Çoğunlukla juvenile delinquency gibi gençlerin ciddi suç davranışları için kullanılır; küçük hatalar için uygun değildir.",
+  "note": ""
+ },
+ {
+  "id": "barge",
+  "senses": [
+   "mavna; yük gemisi",
+   "ansızın girmek; dalmak"
+  ],
+  "ex": [
+   "Kumla yüklü bir mavna köprünün altından geçti.",
+   "İnşaat malzemelerini mavnayla taşımak, kalabalık kentsel alanlardan geçen ağır araç sayısını azaltabilir."
+  ],
+  "col": [
+   "yük mavnası",
+   "mavnayla",
+   "odaya dalmak",
+   "birinin yanından itip geçmek"
+  ],
+  "tip": "Fiil olarak genellikle in ya da into ile kullanılır ve kaba, dikkatsiz bir girişi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "forensic",
+  "senses": [
+   "adli; adli tıbbi",
+   "titiz; ayrıntılı"
+  ],
+  "ex": [
+   "Adli ekip pencerenin üzerindeki parmak izlerini dikkatle inceledi.",
+   "Adli bilimdeki gelişmeler, mahkemelerin delilleri daha doğru değerlendirmesine ve yanlış mahkûmiyetleri azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "adli bilim",
+   "adli deliller",
+   "adli analiz",
+   "adli inceleme"
+  ],
+  "tip": "Genellikle sıfat olarak kullanılır; bilim dalının adı için forensics daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "frugal",
+  "senses": [
+   "tutumlu; idareli"
+  ],
+  "ex": [
+   "Tutumlu komşum, giysilerini yenisiyle değiştirmek yerine tamir eder.",
+   "Tutumlu bir yaşam tarzı, ailenin yaşam kalitesini mutlaka düşürmeden ev atıklarını azaltabilir."
+  ],
+  "col": [
+   "tutumlu yaşam tarzı",
+   "tutumlu alışkanlıklar",
+   "sade ve ekonomik yemek"
+  ],
+  "tip": "Genellikle olumlu bir anlam taşır ve israfı önleyen bir tutumu anlatır; cimri anlamındaki stingy ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "whisker",
+  "senses": [
+   "bıyık",
+   "sakal kılı"
+  ],
+  "ex": [
+   "Bıyıklarından birinde küçücük bir süt damlası asılı kalmıştı.",
+   "Her bıyık, bazı memelilerin dar alanlarda yol bulmasına ve çevrelerindeki değişiklikleri algılamasına yardımcı olan duyusal bilgi sağlar."
+  ],
+  "col": [
+   "harika bir şey; en iyisi",
+   "bıyıklarını oynatmak",
+   "kıl payı"
+  ],
+  "tip": "Genellikle çoğul whiskers biçiminde kullanılır; by a whisker kalıbı 'kıl payı, az farkla' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "cognitive",
+  "senses": [
+   "bilişsel; zihinsel"
+  ],
+  "ex": [
+   "Bu bulmacalar büyükannemin zihinsel becerilerini canlı tutmasına yardımcı oluyor.",
+   "Düzenli fiziksel aktivite, çocuklarda bilişsel gelişimi destekleyebilir ve yaşlı yetişkinlerin hafızasını korumalarına yardımcı olabilir."
+  ],
+  "col": [
+   "bilişsel gelişim",
+   "bilişsel yetenek",
+   "bilişsel gerileme",
+   "bilişsel işlev"
+  ],
+  "tip": "Öğrenme, hatırlama ve anlama gibi zihinsel süreçleri anlatır; genellikle ability, development gibi isimlerle birlikte kullanılır.",
+  "note": ""
+ }
+]

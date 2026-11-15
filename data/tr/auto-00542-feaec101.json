@@ -1,0 +1,276 @@
+[
+ {
+  "id": "building",
+  "senses": [
+   "bina; yapı",
+   "inşaat; yapım"
+  ],
+  "ex": [
+   "Apartman binamızın çatısında bir bahçe var.",
+   "Eski binalarda ısı yalıtımını iyileştirmek enerji tüketimini azaltabilir ve sakinlerin ısıtma giderlerini düşürebilir."
+  ],
+  "col": [
+   "ofis binası",
+   "yapı malzemeleri",
+   "inşaat sahası",
+   "tarihi bina"
+  ],
+  "tip": "Bina anlamında sayılabilir (a building, two buildings); inşaat faaliyeti anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "sunny",
+  "senses": [
+   "güneşli; aydınlık",
+   "neşeli; iyimser"
+  ],
+  "ex": [
+   "Bu sabah kahvaltıyı güneşli balkonda yaptık.",
+   "Güneşli iklime sahip bölgeler, iyi planlanmış güneş enerjisi projeleriyle önemli miktarda elektrik üretebilir."
+  ],
+  "col": [
+   "güneşli hava",
+   "güneşli bir gün",
+   "güneşli bir yer",
+   "neşeli mizaç"
+  ],
+  "tip": "Sunny yalnızca güneş ışığının bol olduğunu anlatır; sıcak olduğu anlamına gelmez. Sıcaklık için hot ya da warm kullanın.",
+  "note": ""
+ },
+ {
+  "id": "swim",
+  "senses": [
+   "yüzmek",
+   "yüzme; kısa yüzüş"
+  ],
+  "ex": [
+   "Her cumartesi sabahı kapalı havuzda yüzüyoruz.",
+   "Okullar çocuklara yüzmeyi öğretmeli, çünkü bu temel beceri hem fiziksel uygunluğu hem de su güvenliğini geliştirir."
+  ],
+  "col": [
+   "yüzmeye gitmek",
+   "yüzmeyi öğrenmek",
+   "karşıya yüzmek"
+  ],
+  "tip": "Düzensiz fiil: swim – swam – swum.",
+  "note": ""
+ },
+ {
+  "id": "science",
+  "senses": [
+   "bilim; fen",
+   "bilim dalı"
+  ],
+  "ex": [
+   "Bugün fen dersinde küçük kristaller yetiştirdik.",
+   "Bilime yapılan yatırım, ülkelerin daha temiz enerji kaynakları geliştirmesine ve halk sağlığını iyileştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "fen eğitimi",
+   "doğa bilimleri",
+   "bilimdeki gelişmeler",
+   "bilgisayar bilimi"
+  ],
+  "tip": "Genel anlamda bilim sayılamaz; belirli bir bilim dalı için a science (sayılabilir) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "snow",
+  "senses": [
+   "kar",
+   "kar yağmak"
+  ],
+  "ex": [
+   "Uyandığımızda bahçeyi taze kar kaplamıştı.",
+   "Yoğun kar, toplu taşımayı aksatabilir ve kırsal toplulukların temel hizmetlere ulaşmasını engelleyebilir."
+  ],
+  "col": [
+   "yoğun kar",
+   "taze kar",
+   "yoğun kar yağmak"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz; kar yağdığını anlatmak için it snows kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "forget",
+  "senses": [
+   "unutmak",
+   "unutup yapmamak; unutmak"
+  ],
+  "ex": [
+   "Gözlüğümü nereye koyduğumu hep unutuyorum.",
+   "Öğrenciler, düzenli tekrar yapmadıkça ve yeni kelimeleri anlamlı bağlamlarda kullanmadıkça bunları çabucak unutabilir."
+  ],
+  "col": [
+   "bir şey yapmayı unutmak",
+   "...i unutmak",
+   "tamamen unutmak"
+  ],
+  "tip": "forget to do: yapmayı unutmak (yapılmamış); forget doing: yapmış olduğunu unutmak.",
+  "note": ""
+ },
+ {
+  "id": "slowly",
+  "senses": [
+   "yavaşça; ağır ağır"
+  ],
+  "ex": [
+   "Kadın sıcak çorbayı yavaşça kaselere döktü.",
+   "Kamuoyunun tutumu yavaş yavaş değişse de, daha fazla tüketici plastik ambalajı az olan ürünleri tercih ediyor."
+  ],
+  "col": [
+   "yavaş hareket etmek",
+   "yavaş konuşmak",
+   "yavaş ama emin adımlarla"
+  ],
+  "tip": "Slowly zarftır ve fiili niteler; sıfat olan slow ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "glasses",
+  "senses": [
+   "gözlük",
+   "bardak"
+  ],
+  "ex": [
+   "Dün gece gözlüğümü yatağın yanına bırakmıştım.",
+   "Düzenli göz muayeneleri, öğrencilerin uygun gözlük edinmesine yardımcı olur; böylece rahatça okuyup derslere tam olarak katılabilirler."
+  ],
+  "col": [
+   "bir çift gözlük",
+   "gözlük takmak",
+   "okuma gözlüğü",
+   "içki bardakları"
+  ],
+  "tip": "Gözlük anlamında her zaman çoğul kullanılır (glasses); bir çift için a pair of glasses denir.",
+  "note": ""
+ },
+ {
+  "id": "special",
+  "senses": [
+   "özel; olağanüstü",
+   "özel amaçlı; ayrılmış",
+   "indirimli ürün; özel yemek"
+  ],
+  "ex": [
+   "Bu özel pastayı doğum günün için sakladık.",
+   "Okullar, engelli öğrencilerin sınıf etkinliklerine tam olarak katılabilmesi için özel donanım sağlamalıdır."
+  ],
+  "col": [
+   "özel bir gün",
+   "özel indirim",
+   "özel donanım",
+   "özel ilgi"
+  ],
+  "tip": "specially 'özel olarak, bu amaçla' anlamındadır; especially ise 'özellikle, başta' anlamına gelir. Karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "plant",
+  "senses": [
+   "bitki",
+   "dikmek; ekmek",
+   "fabrika; tesis"
+  ],
+  "ex": [
+   "Bu küçük bitki daha fazla güneş ışığına, daha az suya ihtiyaç duyuyor.",
+   "Yerel yönetimler, hava kalitesini artırmak ve kalabalık mahallelerde gölge sağlamak için daha fazla ağaç dikmelidir."
+  ],
+  "col": [
+   "bir bitkiyi sulamak",
+   "ağaç dikmek",
+   "enerji santrali",
+   "üretim tesisi"
+  ],
+  "tip": "Plant hem 'bitki' hem 'fabrika' anlamına gelir; fiil olarak genellikle 'dikmek' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "meat",
+  "senses": [
+   "et"
+  ],
+  "ex": [
+   "Buzdolabında çiğ eti sebzelerden ayrı tutuyoruz.",
+   "Et tüketimini azaltmak, birçok ülkede gıda üretiminin çevresel etkisini düşürebilir."
+  ],
+  "col": [
+   "çiğ et",
+   "yağsız et",
+   "kırmızı et",
+   "et tüketimi"
+  ],
+  "tip": "Yenilebilir et anlamında sayılamaz; farklı türdeki etler için meats kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "swimming",
+  "senses": [
+   "yüzme"
+  ],
+  "ex": [
+   "Her cumartesi kapalı havuzda yüzmeye gidiyoruz.",
+   "Düzenli yüzme, eklemlere nispeten az yük bindirirken fiziksel uygunluğu artırabilir."
+  ],
+  "col": [
+   "yüzmeye gitmek",
+   "yüzme havuzu",
+   "yüzme dersleri"
+  ],
+  "tip": "Spor etkinliği olarak sayılamaz; yüzmeye gitmek için go swimming ifadesi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "grass",
+  "senses": [
+   "çim; çimen"
+  ],
+  "ex": [
+   "Nehrin kenarındaki çimenlere bir battaniye serdik.",
+   "Doğal çimenlerin yapay yüzeylerle değiştirilmesi, böceklerin yaşam alanlarını azaltabilir ve yerel sıcaklıkları artırabilir."
+  ],
+  "col": [
+   "çimleri biçmek",
+   "bir çimen yaprağı",
+   "uzun çimen",
+   "ıslak çimen"
+  ],
+  "tip": "Genellikle sayılamaz; tek bir çimen yaprağı için a blade of grass denir.",
+  "note": ""
+ },
+ {
+  "id": "teach",
+  "senses": [
+   "öğretmek"
+  ],
+  "ex": [
+   "Halam bana gömleğin nasıl onarılacağını öğretti.",
+   "Okullar çocuklara, bilgileri sadece ezberletmek yerine çevrimiçi bilgiyi nasıl değerlendireceklerini öğretmelidir."
+  ],
+  "col": [
+   "bir ders vermek",
+   "birine yüzmeyi öğretmek",
+   "birine ders vermek"
+  ],
+  "tip": "Geçmiş zaman ve ortaç: taught. Birine bir şeyi yapmayı öğretmek için teach sb to do yapısı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "switzerland",
+  "senses": [
+   "İsviçre"
+  ],
+  "ex": [
+   "Tatilimizde trenle İsviçre'yi gezdik.",
+   "İsviçre, güvenilir demiryolu ağlarının turizmi desteklerken özel araba bağımlılığını azaltabileceğini gösteriyor."
+  ],
+  "col": [
+   "İsviçre'yi ziyaret etmek",
+   "İsviçre'de",
+   "İsviçre'ye seyahat etmek"
+  ],
+  "tip": "Ülke adı Switzerland'dır, sıfatı Swiss'tir (Swiss saat). Sweden (İsveç) ile karıştırmayın.",
+  "note": ""
+ }
+]

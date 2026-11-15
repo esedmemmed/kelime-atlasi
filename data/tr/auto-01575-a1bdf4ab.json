@@ -1,0 +1,275 @@
+[
+ {
+  "id": "usual",
+  "senses": [
+   "olağan; alışılmış"
+  ],
+  "ex": [
+   "Her zamanki masamız pencerenin yanında zaten doluydu.",
+   "Bilişim sektöründeki bazı çalışanlar için evden çalışmak artık olağan bir düzen hâline geldi."
+  ],
+  "col": [
+   "her zamanki gibi",
+   "her zamanki rutin",
+   "normalden daha"
+  ],
+  "tip": "Sıfattır; 'usually' (genellikle) zarfıyla karıştırılmamalı. 'as usual' = her zamanki gibi.",
+  "note": ""
+ },
+ {
+  "id": "method",
+  "senses": [
+   "yöntem; yol",
+   "düzen; sistematiklik"
+  ],
+  "ex": [
+   "Bu yöntem otlarımı birkaç gün taze tutuyor.",
+   "Öğretmenler, karma seviyeli sınıflardaki öğrencilerin çeşitli ihtiyaçlarını karşılamak için öğretim yöntemlerini uyarlamalıdır."
+  ],
+  "col": [
+   "öğretim yöntemi",
+   "araştırma yöntemi",
+   "ödeme yöntemi",
+   "etkili yöntem"
+  ],
+  "tip": "'a method of/for doing sth' kalıbı, bir işi yapmanın yolunu anlatır. Sayılabilir isimdir, başına 'a' gelir.",
+  "note": ""
+ },
+ {
+  "id": "square",
+  "senses": [
+   "kare",
+   "meydan; alan",
+   "kare biçimli; metrekare"
+  ],
+  "ex": [
+   "Kesmeden önce kağıdı kare şeklinde katlayın.",
+   "Kalabalık şehirlerde bir kamusal meydan oluşturmak, toplumsal etkileşimi teşvik edebilir ve kültürel etkinlikler için alan sağlayabilir."
+  ],
+  "col": [
+   "kasaba meydanı",
+   "metrekare",
+   "karekök",
+   "kare masa"
+  ],
+  "tip": "Alan için 'square metre' (metrekare) kullanılır; 'metre' uzunluk içindir. 'Square' sıfat olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bottom",
+  "senses": [
+   "alt; dip",
+   "kalça; popo",
+   "en alt"
+  ],
+  "ex": [
+   "Anahtarlarım çantamın dibindeydi.",
+   "Atıklar genellikle nehirlerin dibinde birikerek yaşam alanlarına zarar verir ve su canlılarını tehdit eder."
+  ],
+  "col": [
+   "...in dibinde",
+   "en alt raf",
+   "baştan aşağıya"
+  ],
+  "tip": "Bir şeyin dibini ifade ederken 'at the bottom of' kalıbı kullanılır; 'in the bottom' demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "crocodile",
+  "senses": [
+   "timsah"
+  ],
+  "ex": [
+   "Nehre kayarak giren bir timsahı izledik.",
+   "Sulak alan koruma çalışmaları, bu ekosistemlere bağlı balık ve kuşları da desteklerken timsah yaşam alanlarını korur."
+  ],
+  "col": [
+   "timsah yaşam alanı",
+   "timsah yumurtaları",
+   "timsah gözyaşları"
+  ],
+  "tip": "'alligator' (aligatör) da Türkçede 'timsah' diye çevrilebilir ama farklı bir türdür. Aralarındaki farka dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "clap",
+  "senses": [
+   "alkışlamak; el çırpmak",
+   "gümbürtü; çatırtı"
+  ],
+  "ex": [
+   "Çocuklar şarkılarını bitirince herkes alkışladı.",
+   "Seyirciler canlı performanslardan sonra sanatçıların becerisini ve emeğini takdir etmek için sıklıkla alkışlar."
+  ],
+  "col": [
+   "ellerini çırpmak",
+   "eşlik ederek el çırpmak",
+   "bir gök gürültüsü"
+  ],
+  "tip": "Geçmiş zaman 'clapped', ing biçimi 'clapping' (p harfi iki kez yazılır). 'Clap' hem fiil hem isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "noon",
+  "senses": [
+   "öğle; öğlen vakti"
+  ],
+  "ex": [
+   "Yarın öğlen kütüphanenin dışında buluşalım.",
+   "Dış mekanda çalışanlar, sıcaklık ve güneş ışığının özellikle güçlü olduğu öğlen saatlerinde yoğun fiziksel etkinlikten kaçınmalıdır."
+  ],
+  "col": [
+   "öğlen",
+   "öğlen saatlerinde",
+   "öğleye kadar"
+  ],
+  "tip": "'at noon' denir, 'in noon' denmez. Öğlen 12'dir; 'midday' da aynı anlamda kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "discussion",
+  "senses": [
+   "tartışma; görüşme",
+   "inceleme; değerlendirme"
+  ],
+  "ex": [
+   "Tatil planlarımız hakkında hareketli bir tartışma yaptık.",
+   "Ulaşım politikasının kamuoyunda tartışılması, hükümetlerin hizmetleri sakinlerin ihtiyaçlarına daha uygun tasarlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "tartışma yapmak",
+   "grup tartışması",
+   "görüşülmekte olan",
+   "derinlemesine tartışma"
+  ],
+  "tip": "İsim olarak 'discussion about/of' kullanılır. Fiil 'discuss' ise edilgen olmayan geçişli fiildir: 'discuss about' denmez, doğrudan 'discuss the topic' denir.",
+  "note": ""
+ },
+ {
+  "id": "wedding",
+  "senses": [
+   "düğün"
+  ],
+  "ex": [
+   "Düğünleri küçük bir bahçede gerçekleşti.",
+   "Düğün gelenekleri genellikle kültürel değerleri yansıtır; yine de birçok çift artık daha sade ve daha ucuz kutlamaları tercih ediyor."
+  ],
+  "col": [
+   "nikâh töreni",
+   "düğün resepsiyonu",
+   "evlilik yıldönümü",
+   "bir düğüne katılmak"
+  ],
+  "tip": "'wedding' düğün/tören anlamındadır; 'marriage' ise evlilik ilişkisini ifade eder. Bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "blood",
+  "senses": [
+   "kan",
+   "soy; kan bağı"
+  ],
+  "ex": [
+   "Hemşire kolumdan biraz kan aldı.",
+   "Düzenli fiziksel aktivite kan basıncını düşürebilir ve kalp hastalığı riskini azaltabilir."
+  ],
+  "col": [
+   "kan basıncı",
+   "kan testi",
+   "kan bağışlamak",
+   "kan damarı"
+  ],
+  "tip": "'blood' genellikle sayılamaz. Tek bir kan tahlili için 'a blood test' denir; 'a blood' demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "wallet",
+  "senses": [
+   "cüzdan"
+  ],
+  "ex": [
+   "Cüzdanımı mutfak lavabosunun yanında unuttum.",
+   "Dijital ödemeler yaygınlaştıkça, daha az tüketici nakit parasını cüzdanında taşımak zorunda kalıyor."
+  ],
+  "col": [
+   "deri cüzdan",
+   "dijital cüzdan",
+   "kayıp cüzdan"
+  ],
+  "tip": "'wallet' para ve kartlar için cüzdandır. 'Purse' ise İngiliz İngilizcesinde genellikle bozuk para kesesi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "according",
+  "senses": [
+   "göre; -e göre",
+   "uyarınca; göre"
+  ],
+  "ex": [
+   "Tahmine göre bu akşam yağmur başlayacak.",
+   "Kamu fonları, bireysel bölgelerin siyasi etkisine değil, yerel ihtiyaçlara göre dağıtılmalıdır."
+  ],
+  "col": [
+   "araştırmaya göre",
+   "plana göre",
+   "ihtiyaca göre"
+  ],
+  "tip": "Her zaman 'according to + isim' yapısında kullanılır. Tek başına 'according' sıfat gibi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "bowling",
+  "senses": [
+   "bowling; bovling",
+   "top atışı (kriket)"
+  ],
+  "ex": [
+   "Cumartesi günü kuzenlerimle bowling oynamaya gittik.",
+   "Bowling gibi etkinlikler sunan spor merkezleri, farklı yaş gruplarındaki insanlar arasında sosyal etkileşimi teşvik edebilir."
+  ],
+  "col": [
+   "bowling oynamaya gitmek",
+   "bowling salonu",
+   "bowling topu",
+   "hızlı top atışı"
+  ],
+  "tip": "Bowling oyununda 'go bowling' kalıbı kullanılır. Kriketteki 'bowling' ise topu rakibe atmayı anlatır; farklı bir anlamdır.",
+  "note": ""
+ },
+ {
+  "id": "crowd",
+  "senses": [
+   "kalabalık; kitle",
+   "akın etmek; doldurmak"
+  ],
+  "ex": [
+   "Meydanda müzisyenlerin etrafında bir kalabalık toplandı.",
+   "Popüler turistik yerlerdeki büyük kalabalıklar, ziyaretçi sayısı dikkatle yönetilmezse tarihi alanlara zarar verebilir."
+  ],
+  "col": [
+   "büyük bir kalabalık",
+   "kalabalık çekmek",
+   "-e üşüşmek",
+   "kalabalık kontrolü"
+  ],
+  "tip": "'a crowd of' kalıbından sonra çoğul isim gelir. 'Crowded' ise 'kalabalık' anlamında sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "oven",
+  "senses": [
+   "fırın"
+  ],
+  "ex": [
+   "Ekmek fırından henüz çıktığı için hâlâ sıcak.",
+   "Enerji verimli bir fırın kullanmak, pişirme alışkanlıklarını önemli ölçüde değiştirmeden ev elektrik tüketimini azaltabilir."
+  ],
+  "col": [
+   "fırını önceden ısıtmak",
+   "fırında pişirmek",
+   "fırın sıcaklığı"
+  ],
+  "tip": "'oven' kapalı pişirme cihazıdır. Türkçede 'fırın' fırıncı dükkânı da olduğundan, bu anlamda İngilizcede 'bakery' kullanılır.",
+  "note": ""
+ }
+]

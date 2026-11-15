@@ -1,0 +1,278 @@
+[
+ {
+  "id": "officer",
+  "senses": [
+   "polis memuru",
+   "subay",
+   "yetkili; görevli"
+  ],
+  "ex": [
+   "Bir polis memuru istasyonu bulmamıza yardım etti.",
+   "Yerel bir konut görevlisi, sakinlere uygun fiyatlı konut başvurusu ve finansal destek konusunda tavsiye verebilir."
+  ],
+  "col": [
+   "polis memuru",
+   "ordu subayı",
+   "konut görevlisi",
+   "genel müdür"
+  ],
+  "tip": "officer, bağlama göre polis, asker ya da kurum görevlisi anlamına gelebilir. Cümlenin geri kalanına bakarak doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "panda",
+  "senses": [
+   "büyük panda"
+  ],
+  "ex": [
+   "Panda sessizce oturmuş, taze bir bambu filizini çiğniyordu.",
+   "Panda yaşam alanlarını korumak, aynı dağ ormanlarına bağlı yaşayan diğer türlere de fayda sağlar."
+  ],
+  "col": [
+   "dev panda",
+   "panda yavrusu",
+   "panda yaşam alanı"
+  ],
+  "tip": "panda genellikle büyük pandayı anlatır. Kırmızı pandaya ise red panda denir.",
+  "note": ""
+ },
+ {
+  "id": "experience",
+  "senses": [
+   "deneyim; tecrübe",
+   "yaşantı; deneyim",
+   "yaşamak; deneyimlemek"
+  ],
+  "ex": [
+   "Kız kardeşimin eski bisikletleri tamir etme konusunda yılların deneyimi var.",
+   "İş deneyimi, mezunların akademik niteliklerin yanında işverenlerin değer verdiği pratik becerileri geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "deneyim kazanmak",
+   "iş deneyimi",
+   "güzel bir yaşantı",
+   "zorluklar yaşamak"
+  ],
+  "tip": "Genel anlamda 'deneyim' sayılamaz. Belirli bir olay anlamında a/an experience ya da çoğulda experiences kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "increase",
+  "senses": [
+   "artmak; artırmak",
+   "artış; artma"
+  ],
+  "ex": [
+   "Fırın bu hafta fiyatlarını yine artırdı.",
+   "Toplu taşımaya yapılan yatırımın artması, şehirlerde trafik sıkışıklığını azaltabilir ve hava kalitesini iyileştirebilir."
+  ],
+  "col": [
+   "miktar kadar artmak",
+   "düzeyine çıkmak",
+   "talepte artış",
+   "önemli bir artış"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir (inˈcrease), isimde birinci hecededir (ˈincrease). by artış miktarını, to ulaşılan son düzeyi verir.",
+  "note": ""
+ },
+ {
+  "id": "belong",
+  "senses": [
+   "ait olmak",
+   "yeri olmak",
+   "aidiyet hissetmek"
+  ],
+  "ex": [
+   "Bu mavi şemsiye küçük kız kardeşime ait.",
+   "Toplum merkezleri, yeni gelenlerin kendilerini ait hissedebileceği ve kalıcı dostluklar kurabileceği davetkâr ortamlar sunar."
+  ],
+  "col": [
+   "birine ait olmak",
+   "müzede yeri olmak",
+   "kendini ait hissetmek"
+  ],
+  "tip": "belong sürekli bir durumu anlatır. Bu yüzden genellikle basit zamanlarda kullanılır; belong için 'is belonging' gibi kalıplar kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "almost",
+  "senses": [
+   "neredeyse; hemen hemen"
+  ],
+  "ex": [
+   "Ayakkabılarımı bağlarken otobüsü neredeyse kaçırıyordum.",
+   "Katılımcıların neredeyse hepsi, uygun fiyatlı toplu taşımanın istihdam fırsatlarına erişimlerini artıracağı görüşünde birleşti."
+  ],
+  "col": [
+   "neredeyse hepsi",
+   "neredeyse kesin",
+   "neredeyse imkânsız",
+   "neredeyse her gün"
+  ],
+  "tip": "almost all, every ve no ile kullanılabilir. 'almost most' demek yerine 'almost all' ya da 'most of' tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "tape-recorder",
+  "senses": [
+   "teyp; kaset kaydedici"
+  ],
+  "ex": [
+   "Büyükbabam şarkı kaydetmek için hâlâ bir teyp kullanıyor.",
+   "Dijital cihazlar yaygınlaşmadan önce araştırmacılar, görüşmeleri sonraki analiz için saklamak amacıyla sık sık teyp kullanırdı."
+  ],
+  "col": [
+   "taşınabilir teyp",
+   "kasetli teyp"
+  ],
+  "tip": "Modern İngilizcede tape recorder biçimi tercih edilir ve tire kullanılmaz. Türkçede 'teyp' yaygın karşılıktır.",
+  "note": ""
+ },
+ {
+  "id": "exactly",
+  "senses": [
+   "tam olarak; kesin olarak",
+   "tam da; aynen"
+  ],
+  "ex": [
+   "Bu ceket tam istediğim renkte.",
+   "Araştırmacılar, bölgeler arasında güvenilir karşılaştırmalar yapabilmek için her hanenin ne kadar enerji kullandığını tam olarak kaydetmek zorundadır."
+  ],
+  "col": [
+   "tamamen aynı",
+   "tam doğru",
+   "tam olarak bilmek"
+  ],
+  "tip": "not exactly genellikle 'tam değil' anlamında ya da nazik bir reddetme olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "either",
+  "senses": [
+   "ikisinden biri; her iki",
+   "ikisinden biri",
+   "de; da"
+  ],
+  "ex": [
+   "İkisinden birini ödünç alabilirsin; ikisi de kuru.",
+   "Öğrenciler ilgi alanlarına ve kariyer hedeflerine bağlı olarak mesleki eğitim ya da üniversite eğitiminden birini seçebilir."
+  ],
+  "col": [
+   "her halükârda",
+   "her iki taraf",
+   "ikisinden biri",
+   "ikisi de"
+  ],
+  "tip": "either…or… iki seçenekten birini anlatır. Olumsuz cümle sonunda either 'de/da' anlamına gelir: 'I don't like it either.'",
+  "note": ""
+ },
+ {
+  "id": "camp",
+  "senses": [
+   "kamp alanı; kamp",
+   "kamp yapmak",
+   "cephe; kesim"
+  ],
+  "ex": [
+   "Yağmur başlamadan kampa döndük.",
+   "Okullar, öğrencilerin bağımsızlık kazanmasına ve sınıf dışında pratik beceriler öğrenmesine yardımcı olmak için açık hava kampları düzenleyebilir."
+  ],
+  "col": [
+   "kamp kurmak",
+   "kampa gitmek",
+   "yaz kampı",
+   "karşıt cepheler"
+  ],
+  "tip": "go camping (kampa gitmek) kalıbı yaygındır. 'go camp' demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "suddenly",
+  "senses": [
+   "birdenbire; aniden"
+  ],
+  "ex": [
+   "Biz yemek pişirirken ışıklar birden söndü.",
+   "Talep birdenbire arttığında toplu taşıma sistemleri yolcular için yeterli hizmet sunmakta zorlanabilir."
+  ],
+  "col": [
+   "birden ortaya çıkmak",
+   "birden fark etmek",
+   "aniden durmak"
+  ],
+  "tip": "suddenly cümlenin başında ya da fiilden önce gelebilir. Sıfat olan sudden ile zarf olan suddenly karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "gas",
+  "senses": [
+   "gaz",
+   "doğal gaz; gaz",
+   "benzin"
+  ],
+  "ex": [
+   "Yemeklerimizi evde pişirmek için doğalgaz kullanıyoruz.",
+   "Sera gazı salınımını azaltmak, daha temiz enerjiye ve daha verimli toplu taşıma sistemlerine yatırım yapmayı gerektirir."
+  ],
+  "col": [
+   "sera gazı",
+   "doğal gaz",
+   "gaz kaçağı",
+   "benzin istasyonu"
+  ],
+  "tip": "Genel anlamda gaz sayılamaz. Birden fazla gaz türünden söz ediliyorsa gases kullanılır. Amerikan İngilizcesinde gas benzin demektir.",
+  "note": ""
+ },
+ {
+  "id": "scissors",
+  "senses": [
+   "makas"
+  ],
+  "ex": [
+   "Hediye paketini kesmek için lütfen bu makası kullan.",
+   "Öğretmenler, küçük çocuklar sınıf içi el işi etkinliklerinde makas kullanırken onları gözetlemelidir."
+  ],
+  "col": [
+   "bir çift makas",
+   "keskin makas",
+   "makasla kesmek"
+  ],
+  "tip": "Genellikle çoğul kullanılır. Tek bir makas için a pair of scissors denir ve fiil çoğul çekimlenir: The scissors are sharp.",
+  "note": ""
+ },
+ {
+  "id": "goldfish",
+  "senses": [
+   "japon balığı; altın balık"
+  ],
+  "ex": [
+   "Büyük akvaryumdaki bitkilerin arasında japon balığımız yüzüyor.",
+   "Japon balıklarını uygun büyüklükte akvaryumlarda beslemek, çocuklara sorumluluk ve hayvan refahının önemini öğretebilir."
+  ],
+  "col": [
+   "japon balığı beslemek",
+   "japon balığı havuzu",
+   "japon balıklarını beslemek"
+  ],
+  "tip": "Tekil ve çoğul biçimi aynıdır: one goldfish, two goldfish.",
+  "note": ""
+ },
+ {
+  "id": "tail",
+  "senses": [
+   "kuyruk",
+   "izlemek; takip etmek"
+  ],
+  "ex": [
+   "Eve geldiğimde köpek kuyruğunu sallıyordu.",
+   "Bazı hayvanlar dengelerini sağlamak için kuyruklarını kullanır; bu da karmaşık orman yaşam alanlarında güvenle hareket etmelerine yardımcı olur."
+  ],
+  "col": [
+   "kuyruğunu sallamak",
+   "kalın kuyruk",
+   "kuyruğun ucu"
+  ],
+  "tip": "tail (kuyruk) ile tale (hikâye) sesteştir. Yazılışa dikkat edin.",
+  "note": ""
+ }
+]

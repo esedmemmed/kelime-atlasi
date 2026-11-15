@@ -1,0 +1,269 @@
+[
+ {
+  "id": "harmonious",
+  "senses": [
+   "uyumlu; huzurlu",
+   "uyumlu; ahenkli"
+  ],
+  "ex": [
+   "Ev işlerini paylaşmak evimizin huzurlu kalmasına yardımcı oluyor.",
+   "Okullar, öğrencilere saygılı tartışma yoluyla anlaşmazlıkları çözmeyi öğreterek uyumlu ilişkileri teşvik edebilir."
+  ],
+  "col": [
+   "uyumlu ilişki",
+   "uyumlu toplum",
+   "uyumlu karışım"
+  ],
+  "tip": "Hem insan ilişkileri hem de renk, ses gibi uyum için kullanılır. Sıfattır; isim karşılığı harmony'dir, karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "generic",
+  "senses": [
+   "genel; özel olmayan",
+   "markasız; jenerik"
+  ],
+  "ex": [
+   "Web sitesi teslimatla ilgili bana genel bir cevap gönderdi.",
+   "Jenerik ilaçlar, markalı muadilleriyle aynı etkin maddeleri içerirken sağlık harcamalarını azaltabilir."
+  ],
+  "col": [
+   "genel terim",
+   "genel tavsiye",
+   "jenerik ilaç",
+   "genel sürüm"
+  ],
+  "tip": "Belirli bir örnek yerine genel bir grubu anlatır; generic medicine ise genellikle jenerik (patenti dolmuş) ilaç anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "aural",
+  "senses": [
+   "işitsel; işitme ile ilgili"
+  ],
+  "ex": [
+   "Müzik öğretmenimiz işitsel becerileri geliştirmek için oyunlar kullanıyor.",
+   "Dil kurslarında öğrenciler günlük iletişimdeki farklı aksanları anlayabilsin diye düzenli işitsel çalışmalar yer almalı."
+  ],
+  "col": [
+   "işitsel beceriler",
+   "işitsel eğitim",
+   "işitsel anlama",
+   "işitsel sınav"
+  ],
+  "tip": "Aural işitmeyle ilgilidir; oral ise sözlü ya da ağıza ait anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "locomotive",
+  "senses": [
+   "lokomotif"
+  ],
+  "ex": [
+   "Buharlı bir lokomotif vagonları peronumuzun önünden yavaşça çekti.",
+   "Dizel lokomotifler yerine elektrikli modeller kullanmak, özellikle yoğun kentsel demiryolu hatlarında yerel hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "buharlı lokomotif",
+   "dizel lokomotif",
+   "elektrikli lokomotif"
+  ],
+  "tip": "Trene güç veren motorlu aracı anlatır; vagonlarla birlikte tüm treni kastetmez.",
+  "note": ""
+ },
+ {
+  "id": "mock",
+  "senses": [
+   "alay etmek; dalga geçmek",
+   "taklit; sahte",
+   "deneme sınavı"
+  ],
+  "ex": [
+   "Lütfen dans etmemle alay etmeyin; hâlâ öğreniyorum.",
+   "Simüle mülakatlar, öğrencilerin ilk profesyonel iş başvurularından önce yeteneklerini anlatma pratiği yapmalarına olanak tanır."
+  ],
+  "col": [
+   "birinin aksanıyla alay etmek",
+   "deneme sınavı",
+   "deneme mülakatı"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır; mock at kalıbı kullanılmaz. Sıfat olarak 'sahte, taklit' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "exertion",
+  "senses": [
+   "efor; enerji harcama"
+  ],
+  "ex": [
+   "Merdivenleri çıkmanın yorgunluğundan nefes nefese kalmıştı.",
+   "Düzenli fiziksel aktivite sağlığa faydalıdır; ancak yeterli dinlenme olmadan aşırı efor sarf etmek sakatlanma riskini artırabilir."
+  ],
+  "col": [
+   "fiziksel efor",
+   "zihinsel efor",
+   "yorucu çaba",
+   "aşırı efor"
+  ],
+  "tip": "Genellikle yorgunluğa yol açan fiziksel ya da zihinsel çabayı anlatır; 'çaba gösterme' anlamındaki try hard ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "genocide",
+  "senses": [
+   "soykırım"
+  ],
+  "ex": [
+   "Soykırım kurbanlarının anıtını ziyaret ettik.",
+   "Geçmişteki soykırım olaylarını öğretmek, toplumların önyargıyı fark etmesine ve insan haklarına bağlılıklarını güçlendirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "soykırım işlemek",
+   "soykırımı önlemek",
+   "soykırım kurbanları"
+  ],
+  "tip": "Büyük ölçekli her ölümü değil, belirli bir ulusal, etnik, ırksal ya da dini grubu yok etme amacını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "fallible",
+  "senses": [
+   "hataya açık; yanılabilir"
+  ],
+  "ex": [
+   "Deneyimli sürücüler bile hata yapabilir, bu yüzden lütfen dikkatli olun.",
+   "İnsan hafızası yanılabilir; bu da mahkemede yalnızca görgü tanıklarının ifadelerine dayanmanın sorunlu olabileceğini gösteriyor."
+  ],
+  "col": [
+   "hataya açık insan yargısı",
+   "hataya açık sistem"
+  ],
+  "tip": "Hata yapabileceğini belirtir, hata yaptığını değil. Zıt anlamlısı infallible (yanılmaz) sözcüğüdür.",
+  "note": ""
+ },
+ {
+  "id": "transact",
+  "senses": [
+   "iş yapmak; işlem yapmak"
+  ],
+  "ex": [
+   "Çoğu işimizi bankayla yürütüyoruz.",
+   "Dijital platformlar, küçük şirketlerin yabancı pazarlarda pahalı ofisler açmadan uluslararası iş yapmasına olanak tanır."
+  ],
+  "col": [
+   "iş yapmak",
+   "biriyle iş yapmak",
+   "çevrim içi işlem yapmak"
+  ],
+  "tip": "Resmi bir dil kullanımıdır; transact business kalıbı 'iş yapmak' anlamında sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "consolidate",
+  "senses": [
+   "pekiştirmek; güçlendirmek",
+   "birleştirmek; bütünleştirmek"
+  ],
+  "ex": [
+   "Öğrendiklerimi pekiştirmek için her akşam notlarımı gözden geçiriyorum.",
+   "Düzenli uygulamalı çalışmalar, öğrencilerin bilgilerini pekiştirmesine ve kuramsal kavramları tanıdık olmayan durumlara uygulamasına yardımcı olur."
+  ],
+  "col": [
+   "bilgiyi pekiştirmek",
+   "gücü pekiştirmek",
+   "kazanımları sağlamlaştırmak",
+   "borçları birleştirmek"
+  ],
+  "tip": "Var olan kazanımları pekiştirme ya da birden çok parçayı tek bütünde birleştirme anlamına gelir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "manure",
+  "senses": [
+   "hayvan gübresi",
+   "gübrelemek"
+  ],
+  "ex": [
+   "Çiftçi genç elma ağaçlarının etrafına hayvan gübresi serpti.",
+   "Hayvan gübresi toprağın verimliliğini artırabilir; ancak aşırı kullanım yakındaki nehirleri ve yeraltı sularını kirletebilir."
+  ],
+  "col": [
+   "hayvan gübresi",
+   "gübre serpmek",
+   "iyi çürümüş gübre"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz; fertilizer ise kimyasal gübreler dahil daha geniş bir terimdir.",
+  "note": ""
+ },
+ {
+  "id": "verge",
+  "senses": [
+   "eşik; kıyı",
+   "yol kenarı çim şeridi",
+   "yaklaşmak; kıyısında olmak"
+  ],
+  "ex": [
+   "Yüzüğünü kaybettikten sonra ağlamak üzereydi.",
+   "Bazı yerli türler, yaşam alanları ciddi biçimde zarar gördüğü için yok olmanın eşiğinde."
+  ],
+  "col": [
+   "yok olmanın eşiğinde",
+   "bir şey yapmak üzere",
+   "yol kenarı çim şeridi",
+   "saçmalığa yakın olmak"
+  ],
+  "tip": "On the verge of'tan sonra isim ya da -ing yapısı gelir; fiil olarak verge genellikle on ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "optimal",
+  "senses": [
+   "en iyi; optimum"
+  ],
+  "ex": [
+   "Bu güneşli pencere kenarı otlarım için en uygun koşulları sağlıyor.",
+   "Şehir plancıları, sakinler için en iyi yaşam koşullarını sağlamak adına konut yoğunluğu ile yeşil alanları dengelemek zorundadır."
+  ],
+  "col": [
+   "en uygun koşullar",
+   "en iyi performans",
+   "en iyi çözüm"
+  ],
+  "tip": "'En iyi' anlamını zaten içerdiği için genellikle most ile birlikte kullanılmaz; most optimal demeyin.",
+  "note": ""
+ },
+ {
+  "id": "resolutely",
+  "senses": [
+   "kararlılıkla; azimle"
+  ],
+  "ex": [
+   "Yağmura rağmen kararlı adımlarla barınağa doğru yürüdü.",
+   "Hükümetler, koruma önlemleri güçlü muhalefetle karşılaşsa bile tehlike altındaki yaşam alanlarını korumak için kararlılıkla hareket etmelidir."
+  ],
+  "col": [
+   "kararlı davranmak",
+   "kararlılıkla karşı çıkmak",
+   "kesin kararla reddetmek"
+  ],
+  "tip": "Zarftır; sıfat biçimi resolute'tur.",
+  "note": ""
+ },
+ {
+  "id": "upkeep",
+  "senses": [
+   "bakım; bakım masrafı"
+  ],
+  "ex": [
+   "Bu eski ev yıl boyunca düzenli bakım gerektiriyor.",
+   "Yerel yönetimler, kamu parklarının güvenli ve erişilebilir kalmasını sağlamak için bakım giderlerini bütçelemek zorundadır."
+  ],
+  "col": [
+   "düzenli bakım",
+   "bakım masrafı",
+   "mülk bakımı"
+  ],
+  "tip": "Sayılamayan isimdir (an upkeep denmez); hem bakım işini hem bakım giderini kapsar.",
+  "note": ""
+ }
+]

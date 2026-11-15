@@ -1,0 +1,266 @@
+[
+ {
+  "id": "self-access",
+  "senses": [
+   "bağımsız öğrenmeye açık",
+   "özerk öğrenme"
+  ],
+  "ex": [
+   "Kütüphanemizde sessiz bir özerk öğrenme alanı var.",
+   "Özerk öğrenme merkezleri, öğrencileri ihtiyaçlarına uygun materyalleri seçerek kendi gelişimlerinin sorumluluğunu almaya teşvik eder."
+  ],
+  "col": [
+   "özerk öğrenme merkezi",
+   "özerk öğrenme materyalleri",
+   "özerk öğrenme"
+  ],
+  "tip": "Genellikle eğitim bağlamında kullanılır. Kısa çizgili yazılır: self-access. Centre ve materials gibi isimlerle birlikte sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "obscene",
+  "senses": [
+   "müstehcen; edepsiz",
+   "ahlak dışı derecede aşırı"
+  ],
+  "ex": [
+   "Moderatör sohbetten müstehcen bir yorumu kaldırdı.",
+   "Eleştirmenler, sıradan işçiler ücret kesintisiyle karşı karşıyayken yöneticilere verilen ahlak dışı büyüklükteki primlerin savunulmasının zor olduğunu söylüyor."
+  ],
+  "col": [
+   "müstehcen dil",
+   "müstehcen materyal",
+   "çok büyük miktarda para"
+  ],
+  "tip": "Rude'dan daha güçlü bir sözcüktür. An obscene amount gibi kullanımla bir miktarın aşırı fazlalığını da vurgulayabilir.",
+  "note": ""
+ },
+ {
+  "id": "fling",
+  "senses": [
+   "fırlatmak; savurmak",
+   "kısa süreli eğlence"
+  ],
+  "ex": [
+   "Çamurlu botlarını boş kovanın içine fırlattı.",
+   "Şiddetli fırtınalarda güçlü rüzgârlar gevşek enkazı yollara savurabilir; bu da sürücüler ve yayalar için ciddi tehlikeler yaratır."
+  ],
+  "col": [
+   "kapıyı aniden açmak",
+   "kollarını birinin boynuna dolamak",
+   "kendini bir şeye atmak",
+   "son bir eğlence"
+  ],
+  "tip": "Düzensiz fiildir: fling, flung, flung. Kendini bir şeye atmak anlamında fling yourself into something kalıbı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "empower",
+  "senses": [
+   "güçlendirmek; yetkinlik kazandırmak",
+   "yetki vermek"
+  ],
+  "ex": [
+   "Yemek pişirmeyi öğrenmek onun bağımsız yaşamasını sağladı.",
+   "Güvenilir bilgiye erişim, vatandaşların sağlıkları hakkında bilinçli kararlar almasına yardımcı olabilir."
+  ],
+  "col": [
+   "kadınları güçlendirmek",
+   "toplulukları güçlendirmek",
+   "birine harekete geçme yetkisi vermek"
+  ],
+  "tip": "Genellikle empower sb to do sth kalıbıyla kullanılır: birine bir şeyi yapma gücü ya da yetkisi vermek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "encroach",
+  "senses": [
+   "yavaşça ele geçirmek; sokulmak"
+  ],
+  "ex": [
+   "Komşunun çalılıkları bahçemize doğru sokulmaya başladı.",
+   "Yeni konut projeleri sulak alanlara sokuldukça yerel yaban hayatı temel üreme alanlarını ve besin kaynaklarını kaybediyor."
+  ],
+  "col": [
+   "araziye tecavüz etmek",
+   "mahremiyete müdahale etmek",
+   "boş zamana el koymak"
+  ],
+  "tip": "Nesne almak için genellikle on ya da upon edatıyla kullanılır: encroach on land. Yavaş yavaş ilerleyen bir süreci anlatır.",
+  "note": ""
+ },
+ {
+  "id": "petition",
+  "senses": [
+   "dilekçe",
+   "dilekçe vermek; başvurmak"
+  ],
+  "ex": [
+   "Komşularımız oyun alanını kurtarmak için bir dilekçeyi imzaladı.",
+   "Sakinler, şehir merkezi dışındaki bölgelerde toplu taşımanın iyileştirilmesini isteyen bir dilekçeyi belediyeye sundu."
+  ],
+  "col": [
+   "dilekçeyi imzalamak",
+   "dilekçe sunmak",
+   "reform için dilekçe vermek"
+  ],
+  "tip": "Fiil olarak genellikle petition somebody to do something kalıbıyla kullanılır: birinden bir şey yapmasını dilekçeyle istemek.",
+  "note": ""
+ },
+ {
+  "id": "clamor",
+  "senses": [
+   "gürültü; gür sesli talep",
+   "yüksek sesle istemek"
+  ],
+  "ex": [
+   "Çocuklar yatmadan önce bir masal daha istemek için bağırdılar.",
+   "Kamuoyunun daha temiz hava talebi, yerel yönetimleri daha güvenilir toplu taşımaya yatırım yapmaya yöneltti."
+  ],
+  "col": [
+   "değişim talebi",
+   "kamuoyunun yüksek sesli talebi",
+   "duyulmak için bağırmak"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımı clamour şeklindedir. Bir şeyi istemek için clamor for something kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "amiable",
+  "senses": [
+   "sevecen; sıcakkanlı"
+  ],
+  "ex": [
+   "Sevimli komşumuz her zaman kapıda durup sohbet eder.",
+   "Sıcak bir tavır, sağlık çalışanlarının farklı kültürel geçmişlerden gelen hastalarla güven kurmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sıcakkanlı tavır",
+   "sevecen kişilik",
+   "sevimli gülümseme"
+  ],
+  "tip": "Genellikle kişiler için kullanılır. İlişki ya da anlaşma için amicable tercih edilir; ikisini karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "illegible",
+  "senses": [
+   "okunaksız"
+  ],
+  "ex": [
+   "Yağmur, zarfın üzerindeki adresi okunamaz hale getirmişti.",
+   "Tıbbi formlardaki okunaksız el yazısı, hasta güvenliğini tehlikeye atabilecek hatalara yol açabilir."
+  ],
+  "col": [
+   "okunaksız el yazısı",
+   "neredeyse okunamaz",
+   "bir şeyi okunamaz hale getirmek"
+  ],
+  "tip": "Yazının okunmasının zorluğunu anlatır; metnin anlaşılmasının zor olduğunu anlatmaz. Bunun için difficult to understand kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "notary",
+  "senses": [
+   "noter"
+  ],
+  "ex": [
+   "Mülk belgelerini bir noterin huzurunda imzaladık.",
+   "Noter, hukuki belgelerdeki imzaları doğrulayabilir ve mülk işlemlerinde sahteciliğin riskini azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "noter",
+   "noterye danışmak",
+   "noter huzurunda"
+  ],
+  "tip": "notary public biçiminde de kullanılır. Yetkileri ülkeden ülkeye değişebildiği için her bağlamda tanımına dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "idleness",
+  "senses": [
+   "tembellik; boş durma"
+  ],
+  "ex": [
+   "Haftalarca hiçbir şey yapmadan geçirdikten sonra sonunda garajı temizledim.",
+   "İşsizlik sırasında uzun süre zorunlu boşlukta kalmak özgüveni zedeleyebilir ve işe dönmeyi zorlaştırabilir."
+  ],
+  "col": [
+   "zorunlu boşluk",
+   "boş bir yaşam",
+   "saf tembellik"
+  ],
+  "tip": "Sayılamayan bir isimdir. Hem isteyerek yapılan tembelliği hem de zorunlu olarak boşta kalmayı anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "temperate",
+  "senses": [
+   "ılıman; ılıman iklimli",
+   "ölçülü; ağırbaşlı"
+  ],
+  "ex": [
+   "Bu ılıman iklimde dışarıda yürüyüş yapmaktan keyif alıyoruz.",
+   "Ilıman bölgeler, küresel sıcaklıklar artmaya devam ettikçe yağış düzenlerinde önemli değişikliklerle karşılaşabilir."
+  ],
+  "col": [
+   "ılıman iklim",
+   "ılıman kuşak",
+   "ölçülü dil"
+  ],
+  "tip": "İklim anlamında ne çok sıcak ne de çok soğuk havayı anlatır. Tropikal iklimle karıştırma; ölçülü anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "herbivorous",
+  "senses": [
+   "otobur"
+  ],
+  "ex": [
+   "Bu otobur kertenkeleler bahçemizdeki taze yaprakları çok seviyor.",
+   "Otobur hayvanlar genç bitkileri yiyerek ve tohumları dışkılarıyla yayarak orman büyümesini etkiler."
+  ],
+  "col": [
+   "otobur hayvanlar",
+   "otobur memeliler",
+   "otobur türler"
+  ],
+  "tip": "Sadece ot yiyen hayvanları değil, yaprak, meyve gibi bitkisel gıdalarla beslenen canlıları da kapsar.",
+  "note": ""
+ },
+ {
+  "id": "granary",
+  "senses": [
+   "tahıl ambarı"
+  ],
+  "ex": [
+   "Çiftçi bir çuval buğdayı daha tahıl ambarına taşıdı.",
+   "İyi bakımlı bir tahıl ambarı, hasat edilen ürünleri nemden koruyabilir ve kırsal topluluklarda gıda kayıplarını azaltabilir."
+  ],
+  "col": [
+   "tahılı ambarda saklamak",
+   "ahşap tahıl ambarı",
+   "ortak tahıl ambarı"
+  ],
+  "tip": "Tahıl depolamak için kullanılan binayı anlatır. Barn ise daha geniş bir kullanıma sahiptir ve hayvan barınağı da olabilir.",
+  "note": ""
+ },
+ {
+  "id": "absurdity",
+  "senses": [
+   "saçmalık; akıl dışılık",
+   "saçma durum; saçma söz"
+  ],
+  "ex": [
+   "Evde palto giymenin saçmalığına gülduk.",
+   "Eleştirmenler, özel araç bağımlılığını azaltmayı savunurken daha fazla yol yapmanın saçmalığına dikkat çekti."
+  ],
+  "col": [
+   "...nin saçmalığı",
+   "tam bir saçmalık",
+   "bir saçmalığı ortaya çıkarmak"
+  ],
+  "tip": "Bir durumun saçma niteliğini anlatırken sayılamaz; belirli bir saçma durum ya da söz anlatılırken an absurdity biçiminde sayılabilir.",
+  "note": ""
+ }
+]

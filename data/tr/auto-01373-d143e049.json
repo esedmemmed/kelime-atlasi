@@ -1,0 +1,275 @@
+[
+ {
+  "id": "excuse",
+  "senses": [
+   "bahane; mazeret",
+   "affetmek; bağışlamak",
+   "izin vermek; muaf tutmak"
+  ],
+  "ex": [
+   "Akşam yemeğine geç kalmak için bir bahane uydurdu.",
+   "Sınırlı finansman, okullarda ve devlet hastanelerinde temel bakımın ihmal edilmesi için bir bahane olmamalı."
+  ],
+  "col": [
+   "bahane uydurmak",
+   "...için bahane",
+   "affedersiniz; pardon",
+   "birini ... muaf tutmak"
+  ],
+  "tip": "İsim olarak sonu /s/, fiil olarak /z/ okunur. Excuse me, nazikçe söze girerken ya da özür dilerken kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thick",
+  "senses": [
+   "kalın",
+   "yoğun; sık",
+   "kıvamlı; koyu"
+  ],
+  "ex": [
+   "Soğuk omuzlarının etrafına kalın bir battaniye sardı.",
+   "Kış aylarında kalın yalıtım katmanları ısı kaybını azaltabilir ve hane halkının enerji faturalarını düşürebilir."
+  ],
+  "col": [
+   "kalın sis",
+   "yoğun saç",
+   "kıvamlı çorba",
+   "kalın katman"
+  ],
+  "tip": "Sıvılar için kullanıldığında kıvamın yoğun olduğunu belirtir; tadın kuvvetli olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "chess",
+  "senses": [
+   "satranç"
+  ],
+  "ex": [
+   "Kışlık tatiller boyunca dedem bana satranç öğretti.",
+   "Düzenli satranç oynamak, çocukların konsantrasyon geliştirmesine ve birkaç adım sonrasını planlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "satranç oynamak",
+   "satranç tahtası",
+   "satranç turnuvası",
+   "satranç taşı"
+  ],
+  "tip": "play chess kalıbında başına the getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "kilo",
+  "senses": [
+   "kilo; kilogram"
+  ],
+  "ex": [
+   "Yarım kilo domates alabilir miyim, lütfen?",
+   "Gıda fiyatlarını kilo başına karşılaştırmak, hanelerin bütçelerini yönetmesine ve daha ekonomik alışveriş yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "yarım kilo",
+   "bir kilo pirinç",
+   "kilo başına"
+  ],
+  "tip": "Kilo, kilogram'ın kısaltması olarak kullanılır; kilometre anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "illness",
+  "senses": [
+   "hastalık"
+  ],
+  "ex": [
+   "Ani bir hastalık yüzünden piknik buluşmamıza katılamadı.",
+   "Erken tıbbi bakım, hafif rahatsızlıkların ciddi sağlık sorunlarına dönüşmesini önleyebilir."
+  ],
+  "col": [
+   "ciddi hastalık",
+   "ruhsal hastalık",
+   "hastalıktan iyileşmek",
+   "hastalık nedeniyle"
+  ],
+  "tip": "Genel olarak hastalık durumunu anlatırken sayılamaz; belirli bir hastalık için sayılabilir (an illness, many illnesses).",
+  "note": ""
+ },
+ {
+  "id": "headache",
+  "senses": [
+   "baş ağrısı",
+   "dert; baş belası"
+  ],
+  "ex": [
+   "Başım ağrıyor, biraz sessizliğe ihtiyacım var.",
+   "Yaşlanan ulaşım altyapısı, giderek daralan bütçelerle karşı karşıya kalan yerel yönetimler için büyük bir dert hâline geldi."
+  ],
+  "col": [
+   "baş ağrısı olmak",
+   "şiddetli baş ağrısı",
+   "büyük bir dert"
+  ],
+  "tip": "Bir baş ağrısı için genellikle have a headache kalıbı kullanılır; mecazi anlamda da 'dert' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dustbin",
+  "senses": [
+   "çöp kutusu"
+  ],
+  "ex": [
+   "Lütfen o çöpü dışarıdaki çöp kutusuna at.",
+   "Yiyecek atıkları için ayrı bir çöp kutusu sağlamak, hanelerin çöp depolama alanlarına giden atık miktarını azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "çöp kutusunu boşaltmak",
+   "çöp kutusu kapağı",
+   "çöpü çöp kutusuna atmak"
+  ],
+  "tip": "İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde genellikle garbage can ya da trash can denir.",
+  "note": ""
+ },
+ {
+  "id": "nowhere",
+  "senses": [
+   "hiçbir yere; hiçbir yerde"
+  ],
+  "ex": [
+   "Kalabalık trende oturacak hiçbir yer yoktu.",
+   "Uygun fiyatlı konut olmadan, düzenli ücretli işi olan bazı düşük gelirli aileler yaşayacak hiçbir yer bulamıyor."
+  ],
+  "col": [
+   "başka hiçbir yerde",
+   "hemen hemen hiç",
+   "bir sonuca ulaşamamak",
+   "ücra bir yerde"
+  ],
+  "tip": "Kendi başına olumsuz anlam taşır, bu yüzden ayrıca not eklenmez: I have nowhere to go (gidecek hiçbir yerim yok).",
+  "note": ""
+ },
+ {
+  "id": "bee",
+  "senses": [
+   "arı"
+  ],
+  "ex": [
+   "Sarı çiçeğin üzerine bir arı nazikçe kondu.",
+   "Bu böcekler insanların bağımlı olduğu birçok ürünü tozlaştırdığı için arıların korunması tarım açısından çok önemlidir."
+  ],
+  "col": [
+   "bal arısı",
+   "arı sürüsü",
+   "arı sokması",
+   "arı kolonisi"
+  ],
+  "tip": "Bee (arı) ile be (olmak) aynı okunur ama farklı anlamdadır; yazarken karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "barbecue",
+  "senses": [
+   "mangal partisi; barbekü",
+   "mangal; barbekü ızgarası",
+   "mangalda pişirmek"
+  ],
+  "ex": [
+   "Komşularımızı bahçedeki bir mangal partisine davet ettik.",
+   "Belirlenmiş mangal alanları, ziyaretçilerin açık havada yemek pişirmesine olanak tanırken kamu parklarında yangın riskini azaltır."
+  ],
+  "col": [
+   "mangal partisi yapmak",
+   "barbekü sosu",
+   "sebzeleri mangalda pişirmek"
+  ],
+  "tip": "Hem isim hem fiil olarak kullanılır; kısaltması BBQ şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "invitation",
+  "senses": [
+   "davet; davetiye"
+  ],
+  "ex": [
+   "Komşumuzun bahçe partisine bir davetiye aldık.",
+   "Yerel planlamaya katılma daveti, sakinleri mahallelerine daha fazla sorumluluk almaya teşvik edebilir."
+  ],
+  "col": [
+   "daveti kabul etmek",
+   "daveti reddetmek",
+   "akşam yemeğine davet",
+   "yalnızca davetle"
+  ],
+  "tip": "Bir etkinliğe davet için invitation to + isim; bir şey yapmaya davet için invitation to + fiil (to do) kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "secretary",
+  "senses": [
+   "sekreter",
+   "genel sekreter; yazman",
+   "bakan"
+  ],
+  "ex": [
+   "Sekreter yarın öğleden sonra için bir toplantı ayarladı.",
+   "Okul sekreteri, gün boyunca randevuları koordine ederek ve velilerle iletişim kurarak çoğu zaman önemli destek sağlar."
+  ],
+  "col": [
+   "kişisel sekreter",
+   "kulüp sekreteri",
+   "dışişleri bakanı"
+  ],
+  "tip": "Ofis sekreteri anlamının yanı sıra bazı devlet bakanlarını da ifade eder; foreign secretary (dışişleri bakanı) gibi.",
+  "note": ""
+ },
+ {
+  "id": "onto",
+  "senses": [
+   "üzerine; üstüne"
+  ],
+  "ex": [
+   "Kedi yanımdaki kanepenin üzerine atladı.",
+   "Yükleri trenlere taşımak, karayolu tıkanıklığını azaltabilir ve ulaşım sektöründen kaynaklanan emisyonları düşürebilir."
+  ],
+  "col": [
+   "üzerine tırmanmak",
+   "üzerine basmak",
+   "malları ... yüklemek"
+  ],
+  "tip": "Onto hareketi, on ise durumu belirtir: The book fell onto the table (masanın üzerine düştü); The book is on the table (masanın üstünde).",
+  "note": ""
+ },
+ {
+  "id": "prize",
+  "senses": [
+   "ödül; ikramiye",
+   "değer vermek"
+  ],
+  "ex": [
+   "Lina renkli bahçesi için bir ödül kazandı.",
+   "Yenilikçi tasarımlar için ödül koymak, öğrencileri çevre sorunlarına pratik çözümler geliştirmeye teşvik edebilir."
+  ],
+  "col": [
+   "ödül kazanmak",
+   "birincilik ödülü",
+   "ödül parası",
+   "çok değer görmek"
+  ],
+  "tip": "Price (fiyat) ile karıştırılmamalıdır. Fiil olarak çok değer vermek anlamına gelir; genellikle be highly prized kalıbında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "popcorn",
+  "senses": [
+   "patlamış mısır"
+  ],
+  "ex": [
+   "Film boyunca bir kase patlamış mısır paylaştık.",
+   "Sinemalar, film gösterimleri için biletlerin yanında patlamış mısır gibi atıştırmalıklar satarak ek gelir elde eder."
+  ],
+  "col": [
+   "bir kase patlamış mısır",
+   "tuzlu patlamış mısır",
+   "patlamış mısır yapmak"
+  ],
+  "tip": "Genellikle sayılamaz; tek bir tanesi için a piece of popcorn denir.",
+  "note": ""
+ }
+]

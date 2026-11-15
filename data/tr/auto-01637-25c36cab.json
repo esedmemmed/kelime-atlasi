@@ -1,0 +1,279 @@
+[
+ {
+  "id": "skin",
+  "senses": [
+   "cilt; deri",
+   "kabuk; dış katman",
+   "soymak"
+  ],
+  "ex": [
+   "Yüzdükten sonra cildim kuruyor.",
+   "Cildi aşırı güneş ışığından korumak, ileride ciddi sağlık sorunları riskini azaltabilir."
+  ],
+  "col": [
+   "kuru cilt",
+   "hassas cilt",
+   "cilt bakımı",
+   "patates kabukları"
+  ],
+  "tip": "İnsan cildi için genelde sayılamaz. 'a skin' ise bir hayvan postunu ya da bir meyve kabuğunu anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "decide",
+  "senses": [
+   "karar vermek",
+   "belirlemek"
+  ],
+  "ex": [
+   "Filmden sonra eve yürümeye karar verdik.",
+   "Hükümetler sınırlı kaynakları sağlık, eğitim ve toplu taşıma arasında nasıl dağıtacaklarına karar vermek zorunda."
+  ],
+  "col": [
+   "yapmaya karar vermek",
+   "üzerinde karar kılmak",
+   "karşı karar vermek",
+   "sonucu belirlemek"
+  ],
+  "tip": "decide to + fiil kalıbı kullanılır (decide to do). decide doing yanlış olur.",
+  "note": ""
+ },
+ {
+  "id": "painful",
+  "senses": [
+   "ağrılı; acı veren",
+   "acı verici; üzücü"
+  ],
+  "ex": [
+   "Merdiven çıkarken ayak bileğim hâlâ ağrıyor.",
+   "Birçok işçi için güvenli bir işi kaybetmek, özgüvenini ve mali istikrarını etkileyen acı bir deneyimdir."
+  ],
+  "col": [
+   "acılı yaralanma",
+   "acı verici deneyim",
+   "acı anılar",
+   "dokunulunca ağrılı"
+  ],
+  "tip": "painful hem fiziksel ağrıyı hem de duygusal acıyı anlatır. Çeviriyi bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "theirs",
+  "senses": [
+   "onlarınki"
+  ],
+  "ex": [
+   "Bizim bahçemiz küçük ama onlarınkinde birkaç ağaç var.",
+   "Bazı aileler evlerinin sahibi; diğerleri ise fiyatlar ulaşamayacakları düzeyde olduğu için kiralıyor."
+  ],
+  "col": [
+   "onların bir arkadaşı",
+   "saklamak onlara ait",
+   "bizimkiler ve onlarınkiler"
+  ],
+  "tip": "theirs tek başına kullanılır; arkasına isim gelmez ve kesme işareti almaz. 'their's' yazımı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "playground",
+  "senses": [
+   "oyun alanı; oyun parkı"
+  ],
+  "ex": [
+   "Çocuklar öğle yemeğinden sonra oyun alanına koştu.",
+   "Her mahalle, çocukların egzersiz yapıp sosyal becerilerini geliştirebileceği güvenli bir oyun alanı sunmalıdır."
+  ],
+  "col": [
+   "okul bahçesi",
+   "oyun parkı ekipmanları",
+   "macera parkı"
+  ],
+  "tip": "Esas olarak çocukların oynadığı açık alanı anlatır; profesyonel spor sahası için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "loud",
+  "senses": [
+   "gürültülü; yüksek sesli",
+   "yüksek sesle"
+  ],
+  "ex": [
+   "Yüksek bir gürültü evdeki herkesi uyandırdı.",
+   "Sık sık yüksek sesli müzik dinlemek, özellikle kulaklık kullanan gençlerde işitmeye zarar verebilir."
+  ],
+  "col": [
+   "yüksek ses",
+   "yüksek sesli müzik",
+   "sesli olarak; yüksek sesle",
+   "çok net ve anlaşılır"
+  ],
+  "tip": "read out loud 'sesli okumak' demektir. loud sıfat olarak da zarf olarak da kullanılır; zarf olarak loudly da mümkündür.",
+  "note": ""
+ },
+ {
+  "id": "shout",
+  "senses": [
+   "bağırmak",
+   "bağrış; haykırış"
+  ],
+  "ex": [
+   "Nehrin karşı tarafından bağırdık ama kimse bizi duymadı.",
+   "Gürültülü sınıflarda öğretmenler bağırmak zorunda kalabilir; bu da zamanla seslerini yorabilir."
+  ],
+  "col": [
+   "yardım için bağırmak",
+   "birine bağırmak",
+   "birine seslenmek",
+   "sevinç çığlığı"
+  ],
+  "tip": "shout at genellikle kızgınlıkla birine bağırmayı, shout to ise uzaktaki birine seslenmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "beside",
+  "senses": [
+   "yanında; yan tarafında"
+  ],
+  "ex": [
+   "Lütfen ıslak botlarını kapının yanına bırak.",
+   "Kentsel nehirlerin kenarında yürüyüş yolları oluşturmak, fiziksel aktiviteyi teşvik edebilir ve sakinlerin doğaya erişimini artırabilir."
+  ],
+  "col": [
+   "birinin yanına oturmak",
+   "nehir kenarında",
+   "konunun dışında; alakasız"
+  ],
+  "tip": "beside 'yanında' anlamına gelir. besides ise 'ayrıca' ya da 'dışında' anlamındadır; ikisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "knee",
+  "senses": [
+   "diz"
+  ],
+  "ex": [
+   "Egzersize başlamadan önce dizini hafifçe büktü.",
+   "Düzenli ve eklem yükü az egzersizler dizin çevresindeki kasları güçlendirir ve yaşlılarda hareket kabiliyetini korumaya yardımcı olabilir."
+  ],
+  "col": [
+   "diz eklemi",
+   "diz yaralanması",
+   "dizlerini bükmek",
+   "diz çökerek; çaresiz"
+  ],
+  "tip": "Başındaki k sessizdir ve /niː/ okunur. Çoğul hâli knees de aynı şekilde telaffuz edilir.",
+  "note": ""
+ },
+ {
+  "id": "tie",
+  "senses": [
+   "bağlamak; düğümlemek",
+   "kravat",
+   "bağ; ilişki"
+  ],
+  "ex": [
+   "Dışarı koşmadan önce ayakkabı bağcıklarını bağla.",
+   "Okullar ile yerel işverenler arasındaki güçlü bağlar, gençlerin işe daha sorunsuz geçmesine yardımcı olabilir."
+  ],
+  "col": [
+   "düğüm atmak",
+   "kravat takmak",
+   "aile bağları",
+   "bağları güçlendirmek"
+  ],
+  "tip": "tie'ın -ing hâli tying'dir. İlişki anlamında genellikle çoğul ties kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "including",
+  "senses": [
+   "dahil; dâhil olmak üzere"
+  ],
+  "ex": [
+   "Yeni komşularımız da dahil olmak üzere herkes pikniğe geldi.",
+   "Şehirler; yaşlılar ve hareket kısıtlılığı olanlar dahil tüm sakinler için erişilebilir kamusal alanlar sağlamalıdır."
+  ],
+  "col": [
+   "vergi dahil",
+   "teslimat dahil",
+   "çocuklar dahil"
+  ],
+  "tip": "including'den sonra isim ya da zamir gelir. 'included' ise genellikle cümlede edilgen olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spelling",
+  "senses": [
+   "yazım; imla",
+   "yazılış; yazım biçimi"
+  ],
+  "ex": [
+   "Kardeşim e-postalarımı göndermeden önce yazımımı kontrol eder.",
+   "Dijital araçlar yazım hatalarını düzeltebilse de öğrencilerin doğru yazma becerisi geliştirmesi gerekir."
+  ],
+  "col": [
+   "yazım hatası",
+   "yazımı kontrol etmek",
+   "doğru yazım"
+  ],
+  "tip": "Yazım becerisi anlamında genellikle sayılamaz. Belirli bir kelimenin yazılışı için sayılabilir (a spelling).",
+  "note": ""
+ },
+ {
+  "id": "korean",
+  "senses": [
+   "Kore'ye ait; Koreli",
+   "Korece",
+   "Koreli; Kore vatandaşı"
+  ],
+  "ex": [
+   "Komşumuz bize Kore mandusu yapmayı gösterdi.",
+   "Kore sineması uluslararası izleyicileri çekerek ülkenin diline ve kültürel geleneklerine olan ilgiyi artırdı."
+  ],
+  "col": [
+   "Korece dili",
+   "Kore mutfağı",
+   "Korece öğrenmek"
+  ],
+  "tip": "Korean bağlama göre Güney Kore, Kuzey Kore ya da her ikisini birden kapsayabilir. Anlamı bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "indian",
+  "senses": [
+   "Hindistan'a ait; Hint",
+   "Hintli"
+  ],
+  "ex": [
+   "Dün akşam yemek için Hint körisi pişirdik.",
+   "Kentsel nüfus artmaya devam ettikçe Hint şehirleri toplu taşımayı genişletme konusunda artan bir baskıyla karşı karşıya."
+  ],
+  "col": [
+   "Hint mutfağı",
+   "Hint kültürü",
+   "Hint Okyanusu"
+  ],
+  "tip": "Hem sıfat hem isim olarak büyük harfle yazılır. Amerika yerlileri için kendi adlandırmaları tercih edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "mind",
+  "senses": [
+   "zihin; akıl",
+   "sakınca görmek; önemsemek",
+   "dikkat etmek; ilgilenmek"
+  ],
+  "ex": [
+   "Gitmeden önce pencereyi kapatmanın bir sakıncası var mı?",
+   "Düzenli fiziksel aktivite, stresi azaltıp konsantrasyonu artırarak hem bedene hem zihne fayda sağlayabilir."
+  ],
+  "col": [
+   "fikrini değiştirmek",
+   "aklında tutmak",
+   "bir şey yapmaya aldırmak",
+   "zihin huzuru"
+  ],
+  "tip": "'bir şeye aldırmak' anlamında mind + -ing kullanılır (mind doing), mind to do değil. 'Would you mind...?' nazik bir istek bildirir.",
+  "note": ""
+ }
+]

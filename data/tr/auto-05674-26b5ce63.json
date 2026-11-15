@@ -1,0 +1,266 @@
+[
+ {
+  "id": "depreciation",
+  "senses": [
+   "değer kaybı; amortisman",
+   "kur düşüşü; devalüasyon"
+  ],
+  "ex": [
+   "Amortisman yüzünden arabamızın değeri her yıl biraz daha düşüyor.",
+   "Para biriminin hızlı değer kaybı, yabancı tedarikçilere bağımlı işletmelerin ithalat maliyetlerini artırabilir ve onlar üzerindeki baskıyı büyütebilir."
+  ],
+  "col": [
+   "yıllık amortisman",
+   "para birimi değer kaybı",
+   "amortisman oranı",
+   "amortismanı hesaba katmak"
+  ],
+  "tip": "Varlıkların değer kaybı ve para biriminin değer kaybı için kullanılır. Zıt anlamlısı appreciation (değer kazanma). Sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "climactic",
+  "senses": [
+   "doruk noktasındaki"
+  ],
+  "ex": [
+   "Filmin doruk sahnesinde herkes nefesini tuttu.",
+   "Romanın doruk noktasındaki yüzleşme, toplumsal beklentilerin kişisel kararları ve aile ilişkilerini nasıl şekillendirebileceğini gösteriyor."
+  ],
+  "col": [
+   "doruk sahnesi",
+   "doruk anı",
+   "doruk noktasındaki son"
+  ],
+  "tip": "climatic (iklimle ilgili) ile karıştırılmamalı. climactic, bir olayın en heyecanlı ya da en önemli bölümünü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "bona-fide",
+  "senses": [
+   "gerçek; hakiki",
+   "iyi niyetli; samimi"
+  ],
+  "ex": [
+   "Bir uzman tablonun gerçek olduğunu doğruladı.",
+   "Üniversiteler mali desteğin gerçekten ihtiyacı olan öğrencilere ulaşmasını sağlamalıdır."
+  ],
+  "col": [
+   "gerçek bir öğrenci",
+   "samimi bir teklif",
+   "gerçek bir kuruluş"
+  ],
+  "tip": "Resmi bir ifadedir ve çoğunlukla isimden önce gelir. Hem gerçekliği hem de dürüst niyeti vurgulayabilir.",
+  "note": ""
+ },
+ {
+  "id": "assassination",
+  "senses": [
+   "suikast; siyasi cinayet"
+  ],
+  "ex": [
+   "Müze rehberi, bu suikastın tarihi nasıl değiştirdiğini anlattı.",
+   "Siyasi bir liderin suikasta kurban gitmesi, yaygın istikrarsızlığa yol açabilir ve hükümete olan güveni zedeleyebilir."
+  ],
+  "col": [
+   "siyasi suikast",
+   "suikast girişimi",
+   "suikast planı"
+  ],
+  "tip": "Genellikle önemli bir kişiye, çoğunlukla siyasi nedenlerle yapılan bilinçli öldürme için kullanılır. Sıradan cinayet için murder kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "gloom",
+  "senses": [
+   "karanlık; loşluk",
+   "keder; karamsarlık"
+  ],
+  "ex": [
+   "Bodrumun loşluğunda küçük bir mum titreşiyordu.",
+   "Yaygın ekonomik karamsarlığa rağmen yenilenebilir enerjiye yapılan yatırımlar, nitelikli işçiler için fırsat yaratmaya devam ediyor."
+  ],
+  "col": [
+   "loşlukta",
+   "ekonomik karamsarlık",
+   "karamsar bir hava",
+   "kötümserlik ve karamsarlık"
+  ],
+  "tip": "Hem fiziksel karanlık hem de duygusal veya ekonomik karamsarlık için kullanılır. Sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "sewer",
+  "senses": [
+   "lağım; kanalizasyon borusu"
+  ],
+  "ex": [
+   "İşçiler sokağımızın altındaki tıkalı lağımı açtı.",
+   "Modern kanalizasyon sistemlerine yapılan yatırımlar, hızla büyüyen şehirlerde su kirliliğini azaltabilir ve halk sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "kanalizasyon sistemi",
+   "tıkalı lağım",
+   "kanalizasyon borusu"
+  ],
+  "tip": "sewer atık suyu taşıyan boru ya da kanalı gösterir. sewage atık suyun kendisidir, sewerage ise tüm kanalizasyon sistemini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "displeasure",
+  "senses": [
+   "hoşnutsuzluk; memnuniyetsizlik"
+  ],
+  "ex": [
+   "Kaşlarını çatması, uzun gecikmeden duyduğu hoşnutsuzluğu gösteriyordu.",
+   "Sakinler, meclisin yerel kütüphanelere ayrılan fonu azaltma kararından duydukları memnuniyetsizliği dile getirdi."
+  ],
+  "col": [
+   "hoşnutsuzluğunu dile getirmek",
+   "hoşnutsuzluk göstermek",
+   "bir şeyden duyulan hoşnutsuzluk"
+  ],
+  "tip": "Genellikle sayılamayan ve resmi bir isimdir. Kendinden sonra at veya with edatıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "financier",
+  "senses": [
+   "finansör; mali destekçi"
+  ],
+  "ex": [
+   "Yerel bir finansör yeni tiyatronun inşasını destekledi.",
+   "Finansörler, yatırımları yenilikçi yenilenebilir teknolojilere yönlendirerek temiz enerjiye geçişi hızlandırabilir."
+  ],
+  "col": [
+   "uluslararası finansör",
+   "varlıklı finansör",
+   "önde gelen finansör"
+  ],
+  "tip": "Büyük miktarda yatırım parasını sağlayan ya da yöneten kişiyi anlatır; sıradan bir banka çalışanı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "contaminate",
+  "senses": [
+   "kirletmek; bulaştırmak"
+  ],
+  "ex": [
+   "Yemek pişirirken kirli ellerin yiyecekleri kirletmesi mümkün.",
+   "Endüstriyel kimyasallar yeraltı suyunu kirletebilir; bu da hem tarımsal üretimi hem de yakın toplulukların sağlığını tehdit eder."
+  ],
+  "col": [
+   "içme suyunu kirletmek",
+   "kirlenmiş yiyecek",
+   "kimyasallarla kirlenmiş"
+  ],
+  "tip": "Bir şeyin zararlı bir maddeyle kirlenmesini anlatır. Genellikle be contaminated with kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "foretell",
+  "senses": [
+   "kehanet etmek; haber vermek"
+  ],
+  "ex": [
+   "Köyün ne kadar hızla değişeceğini kimse önceden kestiremezdi.",
+   "Tarihsel örüntüler faydalı bilgiler sunsa da gelecekteki ekonomik politikaların sonuçlarını güvenilir biçimde önceden söyleyemez."
+  ],
+  "col": [
+   "geleceği önceden söylemek",
+   "felaketi önceden haber vermek"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi foretold'dur. predict'e göre daha edebi bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "testify",
+  "senses": [
+   "ifade vermek; tanıklık etmek",
+   "doğrulamak; kanıtlamak"
+  ],
+  "ex": [
+   "Gördüğü kaza hakkında ifade vermeyi kabul etti.",
+   "Sakinler, endüstriyel kirliliğin sağlıklarına etkileri hakkında mahkemede ifade vermeye davet edildi."
+  ],
+  "col": [
+   "mahkemede ifade vermek",
+   "birine karşı tanıklık etmek",
+   "bir şeyi doğrulamak"
+  ],
+  "tip": "testify that bir cümle, testify to ise isim veya -ing ile kullanılır. Hukuki bağlamda da genel anlamda da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "proofreading",
+  "senses": [
+   "metin düzeltisi",
+   "metin düzeltmek"
+  ],
+  "ex": [
+   "Kız kardeşimin kompozisyonunu mutfak masasında düzeltiyorum.",
+   "Dikkatli metin düzeltisi, öğrencilerin yazım hatalarını ayıklamasına ve araştırmalarını daha profesyonel sunmasına yardımcı olur."
+  ],
+  "col": [
+   "dikkatli metin düzeltisi",
+   "düzeltme becerisi",
+   "düzeltme yazılımı"
+  ],
+  "tip": "Düzeltme yazım ve noktalama gibi hataları ayıklar; metni yeniden yazmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "communicative",
+  "senses": [
+   "konuşkan; iletişime açık",
+   "iletişimsel; anlatımsal"
+  ],
+  "ex": [
+   "Kardeşim akşam yürüyüşlerimizde daha konuşkan oluyor.",
+   "Dil sınıflarındaki iletişimsel etkinlikler, öğrencilerin özgüven kazanmasına ve yeni kelimeleri anlamlı bağlamlarda kullanmasına yardımcı olur."
+  ],
+  "col": [
+   "iletişim becerileri",
+   "iletişimsel yeterlilik",
+   "iletişimsel yaklaşım"
+  ],
+  "tip": "Kişiler için konuşkan, öğretim için ise anlatıma ve iletişime odaklı anlamına gelir. Kullanıldığı bağlama dikkat edilmeli.",
+  "note": ""
+ },
+ {
+  "id": "null",
+  "senses": [
+   "geçersiz; hükümsüz",
+   "sıfır; boş değer"
+  ],
+  "ex": [
+   "Mahkeme kiralama sözleşmelerini hükümsüz ve geçersiz ilan etti.",
+   "Taraflardan biri koşulları kabule zorlandıysa, sözleşme geçersiz ilan edilebilir."
+  ],
+  "col": [
+   "hükümsüz ve geçersiz",
+   "boş değer",
+   "sıfır hipotezi"
+  ],
+  "tip": "Hukukta null and void kalıbı yaygındır. Programlamadaki null (boş değer) her zaman sıfır anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "lawful",
+  "senses": [
+   "yasal; hukuka uygun"
+  ],
+  "ex": [
+   "Kaybolan bisiklet, yasal sahibine geri verildi.",
+   "Hükümetler kişisel bilgilerin yalnızca yasal amaçlarla toplanmasını ve kötüye kullanıma karşı korunmasını sağlamalıdır."
+  ],
+  "col": [
+   "yasal sahip",
+   "yasal yetki",
+   "yasal yollar",
+   "yasal amaç"
+  ],
+  "tip": "lawful yasaca izin verilen anlamına gelir. legal ise hukukla ilgili anlamını da taşıdığı için bazı bağlamlarda farklı kullanılır.",
+  "note": ""
+ }
+]

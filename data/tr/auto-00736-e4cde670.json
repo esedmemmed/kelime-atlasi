@@ -1,0 +1,278 @@
+[
+ {
+  "id": "dining-room",
+  "senses": [
+   "yemek odası"
+  ],
+  "ex": [
+   "Taze çiçekleri yemek masasının üzerine koyduk.",
+   "Ortak kullanılan bir yemek odası, yalnız yemek yiyen yaşlı sakinler arasında sosyal etkileşimi teşvik edebilir."
+  ],
+  "col": [
+   "yemek odası masası",
+   "yemek odası mobilyası",
+   "geniş bir yemek odası"
+  ],
+  "tip": "Modern İngilizcede genellikle dining room (tire olmadan) yazılır. Anlamı yemek yenilen oda demektir.",
+  "note": ""
+ },
+ {
+  "id": "need",
+  "senses": [
+   "gerekmek; ihtiyaç duymak",
+   "ihtiyaç; gereksinim",
+   "yoksulluk; sıkıntı"
+  ],
+  "ex": [
+   "Bu bitkiler sıcak havalarda daha fazla suya ihtiyaç duyar.",
+   "Şehirler özel araba bağımlılığını azaltmak istiyorlarsa toplu taşımayı geliştirmek zorundadır."
+  ],
+  "col": [
+   "yapmak zorunda olmak",
+   "temel ihtiyaçları karşılamak",
+   "muhtaç durumda",
+   "acil bir ihtiyaç"
+  ],
+  "tip": "need to + fiil 'yapmak zorunda olmak' anlamındadır. need doing ise 'yapılmaya ihtiyaç duymak' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "hungry",
+  "senses": [
+   "aç",
+   "hevesli; istekli"
+  ],
+  "ex": [
+   "Nehir kenarında uzun bir yürüyüşten sonra acıktım.",
+   "Okul yemek programları, aç çocukların derse konsantre olmasına ve öğrenmeye daha aktif katılmasına yardımcı olur."
+  ],
+  "col": [
+   "acıkmak",
+   "aç kalmak",
+   "başarıya aç"
+  ],
+  "tip": "hungry for + isim, bir şeye hevesli ya da aç olmayı anlatır. Yemek için sadece hungry yeterlidir.",
+  "note": ""
+ },
+ {
+  "id": "ago",
+  "senses": [
+   "önce; evvel"
+  ],
+  "ex": [
+   "Şemsiyemi yaklaşık bir saat önce otobüste unutmuşum.",
+   "On yıl önce güvenli görünen birçok iş, artık çalışanlardan yeni dijital beceriler geliştirmelerini istiyor."
+  ],
+  "col": [
+   "birkaç gün önce",
+   "uzun zaman önce",
+   "geçenlerde",
+   "bir yıl önce gibi yakın zamanda"
+  ],
+  "tip": "ago bir zaman ifadesinden sonra gelir (a year ago) ve genellikle geçmiş zamanla kullanılır. before ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "fruit",
+  "senses": [
+   "meyve",
+   "sonuç; ürün",
+   "meyve vermek"
+  ],
+  "ex": [
+   "Öğle yemeği kutuma taze meyve koymuş.",
+   "Taze meyveyi uygun fiyatlı hale getirmek, sınırlı gelire sahip ailelerde daha sağlıklı beslenme alışkanlıklarını teşvik edebilir."
+  ],
+  "col": [
+   "taze meyve",
+   "meyve suyu",
+   "meyve vermek",
+   "emeğinin meyvesi"
+  ],
+  "tip": "Meyve genel anlamda sayılamaz. fruits ise meyve çeşitlerini ya da emeğin sonuçlarını ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "son",
+  "senses": [
+   "oğul"
+  ],
+  "ex": [
+   "Oğulları bahçeye çiçek dikmelerinde onlara yardım etti.",
+   "Ebeveynler, oğullarına ve kızlarına eğitim almak ve pratik beceriler geliştirmek için eşit fırsatlar sunmalıdır."
+  ],
+  "col": [
+   "tek oğul",
+   "en büyük oğul",
+   "oğul yetiştirmek"
+  ],
+  "tip": "son ve sun aynı şekilde telaffuz edilir ama anlamları farklıdır (oğul / güneş). Yetişkin bir erkek de ebeveyni için hâlâ son'dur.",
+  "note": ""
+ },
+ {
+  "id": "over",
+  "senses": [
+   "üzerinde; üstünden",
+   "-den fazla",
+   "bitmiş; sona ermiş"
+  ],
+  "ex": [
+   "Küçük bir kuş bahçe duvarının üzerinden uçtu.",
+   "Anketlenen sakinlerin yarısından fazlası, mahallelerinde daha fazla yeşil alan oluşturulması planlarını destekledi."
+  ],
+  "col": [
+   "köprünün üzerinden",
+   "yarıdan fazla",
+   "bitmiş olmak",
+   "dünyanın her yerinde"
+  ],
+  "tip": "over 'üzerinde' ya da 'fazla' anlamına gelebilir. be over ise 'bitmek, sona ermek' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "vegetable",
+  "senses": [
+   "sebze"
+  ],
+  "ex": [
+   "Bu sabah pazardan taze sebze aldık.",
+   "Okullar öğle yemeğinde daha çeşitli sebzeler sunarak daha sağlıklı beslenmeyi teşvik edebilir."
+  ],
+  "col": [
+   "taze sebze",
+   "yapraklı sebzeler",
+   "sebze çorbası",
+   "sebze bahçesi"
+  ],
+  "tip": "Genellikle sayılabilir isimdir. Birden çok sebzeyi genel olarak kastediyorsanız vegetables kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dictionary",
+  "senses": [
+   "sözlük"
+  ],
+  "ex": [
+   "Bu kelimenin telaffuzunu bir sözlükte kontrol ettim.",
+   "İki dilli bir sözlük kullanmak, dil öğrenenlerin tamamen öğretmenlerine bağlı kalmadan bilmedikleri kelimeleri anlamalarına yardımcı olabilir."
+  ],
+  "col": [
+   "iki dilli sözlük",
+   "çevrimiçi sözlük",
+   "sözlüğe bakmak",
+   "sözlük maddesi"
+  ],
+  "tip": "Bir kelimeye bakmak için look up a word in a dictionary kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "maybe",
+  "senses": [
+   "belki; olabilir"
+  ],
+  "ex": [
+   "Hava düzelirse belki piknik yapabiliriz.",
+   "Şehirler, daha fazla yol yapmak yerine daha ucuz toplu taşıma sunarak trafik sıkışıklığını azaltabilir belki."
+  ],
+  "col": [
+   "belki sonra",
+   "belki de hayır",
+   "belki bir dahaki sefere"
+  ],
+  "tip": "maybe bir zarftır. may be ise 'may' kipi ile 'be' fiilinden oluşur ve yüklem olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "they",
+  "senses": [
+   "onlar",
+   "o (cinsiyeti belirsiz)"
+  ],
+  "ex": [
+   "Çocuklar otobüse binerken el salladılar.",
+   "Öğrenci yapıcı geri bildirim aldığında, zayıf yönlerini fark edip performansını geliştirme olasılığı daha yüksektir."
+  ],
+  "col": [
+   "onlar -dır",
+   "onlar sahip",
+   "dedikleri gibi"
+  ],
+  "tip": "Tekil they ile de fiil çoğul biçimde kullanılır: they are, they have. is ya da has kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "many",
+  "senses": [
+   "birçok; çok sayıda",
+   "birçokları; pek çok kişi"
+  ],
+  "ex": [
+   "Turta için kaç elmaya ihtiyacımız var?",
+   "Birçok şehir, trafik sıkışıklığını azaltmak ve halk sağlığını iyileştirmek için bisiklet altyapısına yatırım yapıyor."
+  ],
+  "col": [
+   "kaç tane",
+   "çok fazla",
+   "-ların birçoğu",
+   "pek çok"
+  ],
+  "tip": "many sayılabilir isimlerin çoğul hâliyle, much ise sayılamayan isimlerle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cook",
+  "senses": [
+   "pişirmek; yemek yapmak",
+   "aşçı"
+  ],
+  "ex": [
+   "Hava soğumaya başladığında genellikle sebze çorbası pişiririm.",
+   "Çocuklara basit yemekler pişirmeyi öğretmek, ilerleyen yaşlarında daha sağlıklı beslenme ve daha fazla bağımsızlık kazandırabilir."
+  ],
+  "col": [
+   "yemek pişirmek",
+   "sıfırdan pişirmek",
+   "iyi bir aşçı",
+   "kısık ateşte pişirmek"
+  ],
+  "tip": "cook hem fiil hem isimdir. İsim olarak 'aşçı' anlamına gelir. cooker ise İngiliz İngilizcesinde ocak ya da fırın demektir.",
+  "note": ""
+ },
+ {
+  "id": "salad",
+  "senses": [
+   "salata"
+  ],
+  "ex": [
+   "Salataya salatalık ve domates ekledim.",
+   "Okul yemekhanelerinde taze salata sunmak, çocukları daha çeşitli sebzeler yemeye teşvik edebilir."
+  ],
+  "col": [
+   "yeşil salata",
+   "meyve salatası",
+   "salata sosu"
+  ],
+  "tip": "Tek bir porsiyon için sayılabilir, yemek türü olarak genel anlamda ise sayılamaz kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "out",
+  "senses": [
+   "dışarıda; evde değil",
+   "sönmüş; durmuş",
+   "ortaya çıkmış; yayımlanmış"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra yürüyüşe çıktık.",
+   "Yeni bir araştırma raporu yayımlandığında, gazeteciler sonuçlarını haberleştirmeden önce kanıtları incelemelidir."
+  ],
+  "col": [
+   "dışarı çıkmak",
+   "dışarıda yemek yemek",
+   "ortaya çıkmak",
+   "yangını söndürmek"
+  ],
+  "tip": "out çoğunlukla zarf olarak kullanılır. Bir şeyin dışında anlamında ise outside kullanılır (outside the house).",
+  "note": ""
+ }
+]

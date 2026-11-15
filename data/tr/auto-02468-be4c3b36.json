@@ -1,0 +1,277 @@
+[
+ {
+  "id": "wire",
+  "senses": [
+   "tel; kablo",
+   "tesisat döşemek; kablo çekmek"
+  ],
+  "ex": [
+   "İnce bir tel lambayı piline bağlıyor.",
+   "Eski binaların çoğunda, modern güvenlik standartlarını karşılamak ve artan enerji kullanımını desteklemek için yeni elektrik tesisatı gerekir."
+  ],
+  "col": [
+   "bakır tel",
+   "elektrik teli",
+   "tel çit",
+   "bir evin tesisatını döşemek"
+  ],
+  "tip": "wire tek bir metal tele de elektrik teline de denir; cable ise genellikle daha kalın ya da birçok telden oluşan kabloyu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "strongly",
+  "senses": [
+   "kuvvetle; güçlü bir şekilde; kesinlikle"
+  ],
+  "ex": [
+   "Bu yürüyüşte yanınıza bir ceket almanızı kesinlikle öneririm.",
+   "Birçok sakin, önerilen havalimanı genişlemesine kuvvetle karşı çıkıyor; çünkü gürültü ve hava kirliliğinin artmasından endişe ediyorlar."
+  ],
+  "col": [
+   "kesinlikle öneriyorum",
+   "kuvvetle karşı çıkmak",
+   "güçlü biçimde inanmak",
+   "güçlü biçimde ilişkili olmak"
+  ],
+  "tip": "Genellikle recommend, oppose, believe gibi fiillerle kullanılır ve bir tutumun ne kadar güçlü olduğunu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "relaxing",
+  "senses": [
+   "rahatlatıcı; dinlendirici"
+  ],
+  "ex": [
+   "Yorucu bir günün ardından ılık bir banyo insanı harika bir şekilde rahatlatır.",
+   "Yoğun nüfuslu kentsel alanlarda yaşayanlar için rahatlatıcı yeşil alanlara erişim, zihinsel iyi oluşu artırabilir."
+  ],
+  "col": [
+   "rahatlatıcı bir atmosfer",
+   "rahatlatıcı müzik",
+   "rahatlatıcı bir tatil"
+  ],
+  "tip": "relaxing şeyleri tanımlar (rahatlatıcı); insanın hissettiği durum için relaxed kullanılır (rahatlamış).",
+  "note": ""
+ },
+ {
+  "id": "uncertain",
+  "senses": [
+   "emin olmayan; kararsız",
+   "belirsiz; öngörülemez"
+  ],
+  "ex": [
+   "Hangi ceketi alacağım konusunda kararsız hissettim.",
+   "Uzaktan çalışmanın uzun vadeli etkileri, özellikle iş gücü piyasasına yeni giren genç çalışanlar için hâlâ belirsiz."
+  ],
+  "col": [
+   "-den emin olmamak",
+   "belirsiz bir gelecek",
+   "belirsiz kalmak"
+  ],
+  "tip": "Bir kişinin emin olmadığını uncertain about ile ifade edin; bir durumun henüz belli olmadığını ise remain uncertain gibi kalıplarla anlatın.",
+  "note": ""
+ },
+ {
+  "id": "sink",
+  "senses": [
+   "batmak; dibe çökmek; batırmak",
+   "lavabo; evye",
+   "azalmak; alçalmak"
+  ],
+  "ex": [
+   "Küçük oyuncak tekne banyo suyunun altına battı.",
+   "Kıyı toplulukları, iklim değişikliği nedeniyle arazi çöktükçe ve deniz seviyeleri yükseldikçe artan risklerle karşı karşıya."
+  ],
+  "col": [
+   "dibe batmak",
+   "mutfak evyesi",
+   "borca batmak"
+  ],
+  "tip": "Düzensiz fiil: sink – sank – sunk. Geçmiş zamanda sinked değil, sank kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "trade",
+  "senses": [
+   "ticaret; alım satım",
+   "alışveriş yapmak; takas etmek",
+   "meslek; el işi"
+  ],
+  "ex": [
+   "Öğle yemeğinde elmamı bir armutla takas ettim.",
+   "Uluslararası ticaret istihdam yaratabilir; ancak hükümetler işçilerin adil ücret ve yeterli koruma almasını sağlamalıdır."
+  ],
+  "col": [
+   "uluslararası ticaret",
+   "ticaret anlaşması",
+   "ile ticaret yapmak",
+   "bir meslek öğrenmek"
+  ],
+  "tip": "\"A'yı B ile takas etmek\" için trade A for B kalıbı kullanılır; by trade ise \"mesleği olarak\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "native",
+  "senses": [
+   "doğduğu; ana dil olan",
+   "yerli; doğal olarak yetişen",
+   "yerli halk; o yerde doğmuş kişi"
+  ],
+  "ex": [
+   "Yıllarca yurt dışında yaşadıktan sonra Ravi doğduğu şehre döndü.",
+   "Kentsel bahçelerde yerli türler yetiştirmek yerel yaban hayatını destekleyebilir ve ek sulama ihtiyacını azaltabilir."
+  ],
+  "col": [
+   "ana dil",
+   "ana dili konuşan kişi",
+   "yerli türler",
+   "...e özgü olmak"
+  ],
+  "tip": "a native of kalıbı bir yerde doğan kişiyi anlatır; the natives ise bazen küçümseyici bir anlam taşıyabilir.",
+  "note": ""
+ },
+ {
+  "id": "prison",
+  "senses": [
+   "hapishane; cezaevi",
+   "hapis; hapse girme"
+  ],
+  "ex": [
+   "Eski cezaevi artık popüler bir yerel müze oldu.",
+   "Cezaevindeki eğitim programları, bireylerin topluma başarılı bir şekilde dönmelerini destekleyecek beceriler kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "hapiste",
+   "hapse girmek",
+   "hapis cezası",
+   "cezaevi reformu"
+  ],
+  "tip": "in prison cezaevinde olmayı / cezasını çektiğini ifade eder; in the prison ise belirli bir cezaevinin içini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "boarding",
+  "senses": [
+   "uçağa / gemiye binme",
+   "yatılı kalma; pansiyon",
+   "kaplama tahtaları; kalas"
+  ],
+  "ex": [
+   "Bu sabah binişler başlamadan önce birkaç sandviç aldık.",
+   "Havalimanları, yolcular için daha net talimatlar ve ek yardım sağlayarak biniş gecikmelerini azaltabilir."
+  ],
+  "col": [
+   "biniş kartı",
+   "biniş kapısı",
+   "yatılı okul",
+   "öncelikli biniş"
+  ],
+  "tip": "Ad olarak genellikle uçak veya gemiye binme sürecini anlatır; board fiilinin -ing hâli olduğunda \"binme\" anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "opera",
+  "senses": [
+   "opera; opera sanatı"
+  ],
+  "ex": [
+   "Dün gece tiyatroda bir opera izledik.",
+   "Opera için kamu finansmanı, sanatsal gelenekleri korurken gösterilerin daha geniş bir kitleye ulaşmasını sağlayabilir."
+  ],
+  "col": [
+   "bir opera sanatçısı",
+   "opera binası",
+   "bir opera sahnelemek"
+  ],
+  "tip": "Sanat dalı olarak genel anlamda sayılamaz; belirli bir eser için an opera denir.",
+  "note": ""
+ },
+ {
+  "id": "complex",
+  "senses": [
+   "karmaşık; çok parçalı",
+   "kompleks; yapı topluluğu"
+  ],
+  "ex": [
+   "Bu tarif karmaşık görünüyor, ama her adımı basit.",
+   "Kentsel yoksulluk, hükümetler, işletmeler ve yerel topluluklar arasında iş birliği gerektiren karmaşık bir sorundur."
+  ],
+  "col": [
+   "karmaşık bir sorun",
+   "karmaşık bir sistem",
+   "spor kompleksi"
+  ],
+  "tip": "Sıfat olarak \"karmaşık\" anlamına gelir; isim olarak ise birbiriyle ilişkili binalardan oluşan bir kompleksi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "chase",
+  "senses": [
+   "kovalamak; peşinden koşmak",
+   "peşinde olmak; elde etmeye çalışmak",
+   "kovalama; takip"
+  ],
+  "ex": [
+   "Köpek yavrumuz bahçede bir yaprağın peşinden koştu.",
+   "Birçok genç profesyonel, kalıcı tatmin sağlayan işler aramak yerine daha yüksek maaşların peşinde koşuyor."
+  ],
+  "col": [
+   "birinin peşinden koşmak",
+   "bir hayalin peşinde koşmak",
+   "yüksek hızda kovalamaca"
+  ],
+  "tip": "chase doğrudan bir nesneyi alabilir; chase after kalıbı da aynı anlamda kullanılır ve daha çok konuşma dilinde görülür.",
+  "note": ""
+ },
+ {
+  "id": "storey",
+  "senses": [
+   "kat; katman"
+  ],
+  "ex": [
+   "Yeni evlerinin iki katı ve küçük bir bahçesi var.",
+   "Çok katlı binalar, yoğun şehirlerde ek arazi gerektirmeden daha fazla sakini barındırabilir."
+  ],
+  "col": [
+   "iki katlı ev",
+   "en üst kat",
+   "çok katlı bina"
+  ],
+  "tip": "İngiliz İngilizcesinde storey, çoğul hâli storeys; Amerikan İngilizcesinde story yazılır.",
+  "note": ""
+ },
+ {
+  "id": "width",
+  "senses": [
+   "genişlik; en"
+  ],
+  "ex": [
+   "Satın almadan önce kanepenin genişliğini kontrol edin.",
+   "Kaldırımların genişliğini artırmak, tekerlekli sandalye kullanıcıları için erişilebilirliği iyileştirebilir ve yürümeyi daha rahat hâle getirebilir."
+  ],
+  "col": [
+   "genişliğini ölçmek",
+   "genişlik olarak",
+   "tam genişlik"
+  ],
+  "tip": "Sıfat wide, isim width, fiil widen. Yazarken width (genişlik) ile wide (geniş) karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "employer",
+  "senses": [
+   "işveren; iş veren kurum"
+  ],
+  "ex": [
+   "İş verenim cuma günleri evden çalışmama izin veriyor.",
+   "İşverenler, adil ücretler, esnek çalışma saatleri ve mesleki gelişim fırsatları sunarak personelin şirkette kalmasını sağlayabilir."
+  ],
+  "col": [
+   "önemli bir işveren",
+   "olası bir işveren",
+   "mevcut işveren"
+  ],
+  "tip": "employer işveren, employee çalışan demektir; bu iki kelimeyi karıştırmamak için employer'ın \"-er\" ile işi yapana değil ödeyene verildiğini aklınızda tutun.",
+  "note": ""
+ }
+]

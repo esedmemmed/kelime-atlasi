@@ -1,0 +1,273 @@
+[
+ {
+  "id": "elevate",
+  "senses": [
+   "yükseltmek; kaldırmak",
+   "yükseltmek; geliştirmek",
+   "moralini yükseltmek"
+  ],
+  "ex": [
+   "Hemşire, ayak bileğimi yükseltmek için bir yastık kullandı.",
+   "İleri düzey eğitime erişim, mesleki standartları yükseltebilir ve kamu hizmetlerinin kalitesini artırabilir."
+  ],
+  "col": [
+   "bir uzvu yükseltmek",
+   "standartları yükseltmek",
+   "birini bir makama yükseltmek",
+   "ruh halini yükseltmek"
+  ],
+  "tip": "Geçişli bir fiildir. 'elevate A to B' kalıbı, A'yı B düzeyine yükseltmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tranquil",
+  "senses": [
+   "sakin; dingin"
+  ],
+  "ex": [
+   "Sakin bir sabahı durgun gölün kenarında geçirdik.",
+   "Kentsel parklar, sakinlerin trafik gürültüsünden uzaklaşıp günlük stresten dinlenebileceği huzurlu alanlar sunar."
+  ],
+  "col": [
+   "sakin bir ortam",
+   "durgun sular",
+   "huzurlu bir atmosfer"
+  ],
+  "tip": "Genellikle bir ortam ya da su yüzeyi için kullanılır. 'quiet'a göre daha çok huzur ve dinginlik hissini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "thrive",
+  "senses": [
+   "gelişmek; serpilmek"
+  ],
+  "ex": [
+   "Bu bitkiler mutfağımızdaki güneşli pencere pervazında çok iyi gelişiyor.",
+   "Yerel yönetimler güvenilir altyapı ve erişilebilir finansal destek sağladığında küçük işletmelerin gelişme olasılığı daha yüksektir."
+  ],
+  "col": [
+   "sıcak koşullarda gelişmek",
+   "zorluklardan güç almak",
+   "gelişen bir işletme"
+  ],
+  "tip": "Geçişsiz bir fiildir. 'thrive on' kalıbı, bir şeyden güç ve enerji almak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "stimulus",
+  "senses": [
+   "teşvik edici etken",
+   "uyaran; uyarıcı"
+  ],
+  "ex": [
+   "Ödül, kızın günlük çalışmaları için bir teşvik kaynağı oldu.",
+   "Yenilenebilir enerjiye yapılan yatırım, emisyonları azaltırken ekonomik büyümeye güçlü bir itici güç sağlayabilir."
+  ],
+  "col": [
+   "büyüme için bir teşvik",
+   "ekonomik teşvik",
+   "bir uyarana tepki vermek"
+  ],
+  "tip": "Çoğul biçimi stimuli'dir. 'stimulus to' kalıbında to edat olarak 'için' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "deft",
+  "senses": [
+   "becerikli; çevik"
+  ],
+  "ex": [
+   "Kadın becerikli bir hareketle düşen fincanı yakaladı.",
+   "Etkili sınıf yönetimi, farklı geçmişlerden gelen öğrenciler arasındaki anlaşmazlıkların ustalıkla ele alınmasını gerektirir."
+  ],
+  "col": [
+   "ustalıklı dokunuş",
+   "ustaca ele alma",
+   "çevik hareket"
+  ],
+  "tip": "Hem el hareketlerinin çevikliğini hem de bir sorunu incelikle ve becerikli şekilde çözmeyi anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "culminate",
+  "senses": [
+   "sonuçlanmak; doruğa ulaşmak"
+  ],
+  "ex": [
+   "Haftalarca süren provalar harika bir akşam gösterisiyle sonuçlandı.",
+   "Yıllarca süren halk danışmalarının sonunda, trafik sıkışıklığını azaltmak ve erişilebilirliği artırmak amacıyla kapsamlı bir ulaşım planı ortaya çıktı."
+  ],
+  "col": [
+   "başarıyla sonuçlanmak",
+   "bir anlaşmayla sonuçlanmak",
+   "bir kutlamayla doruğa ulaşmak"
+  ],
+  "tip": "'culminate in + sonuç' kalıbıyla kullanılır. Gelişimin ulaştığı son noktayı ya da doruğu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "touchy",
+  "senses": [
+   "alıngan; hassas",
+   "dikkat gerektiren; hassas"
+  ],
+  "ex": [
+   "Kardeşim, kimse yemeklerini eleştirdiğinde hemen alınır.",
+   "Ücret farklılıkları birçok iş yerinde hâlâ hassas bir konu olduğundan, adalet üzerine açık tartışmalar özellikle zordur."
+  ],
+  "col": [
+   "eleştiriden alınmak",
+   "hassas bir konu",
+   "hassas bir mesele"
+  ],
+  "tip": "'touchy' alıngan, hassas anlamına gelir; 'touched' ise duygulanmış, etkilenmiş anlamındadır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "workmanship",
+  "senses": [
+   "işçilik; yapım kalitesi"
+  ],
+  "ex": [
+   "Pürüzsüz ahşap birleşimler, sandalyenin mükemmel işçiliğini ortaya koyuyor.",
+   "Tüketiciler, ürünler üstün işçilik gösterdiğinde ve daha uzun ömürlü olduğunda daha yüksek fiyatları kabul edebilir."
+  ],
+  "col": [
+   "kaliteli işçilik",
+   "özensiz işçilik",
+   "üstün işçilik"
+  ],
+  "tip": "Sayılamayan bir isimdir. Bir ürünün yapım kalitesini anlatır, çalışanın iş tutumunu değil.",
+  "note": ""
+ },
+ {
+  "id": "marshal",
+  "senses": [
+   "düzenlemek; toplamak",
+   "etkinlik görevlisi",
+   "mareşal"
+  ],
+  "ex": [
+   "Bir gönüllü koşucuları düzgün bir sıraya dizdi.",
+   "Hükümetler, şiddetli sellerden etkilenen topluluklar için acil konut sağlamak amacıyla kaynakları etkili biçimde seferber etmelidir."
+  ],
+  "col": [
+   "kaynakları seferber etmek",
+   "kanıtları düzenlemek",
+   "yarış görevlisi",
+   "saha mareşali"
+  ],
+  "tip": "İngilizce'de İngiliz yazımı marshalled, Amerikan yazımı marshaled'dır. 'martial' (savaşa ait) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "pharmaceutical",
+  "senses": [
+   "ilaca ait; farmasötik",
+   "ilaç"
+  ],
+  "ex": [
+   "Kız kardeşim bir ilaç araştırma laboratuvarında çalışıyor.",
+   "İlaç şirketleri, temel ilaçların yoksul topluluklardaki hastalar için uygun fiyatlı kalmasını sağlamalıdır."
+  ],
+  "col": [
+   "ilaç sektörü",
+   "ilaç şirketi",
+   "ilaç araştırması"
+  ],
+  "tip": "İsim olarak genellikle çoğul 'pharmaceuticals' biçiminde, genel anlamda ilaçları ifade etmek için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bleak",
+  "senses": [
+   "umutsuz; karamsar",
+   "ıssız; kasvetli"
+  ],
+  "ex": [
+   "Yeterli yağmur olmadan çiftlik kasvetli bir gelecekle karşı karşıya.",
+   "Geleneksel endüstrilerin gerilediği ve yatırımın sınırlı olduğu kırsal bölgelerde istihdam beklentileri hâlâ umutsuz."
+  ],
+  "col": [
+   "karanlık bir gelecek",
+   "umutsuz bir görünüm",
+   "ıssız bir manzara"
+  ],
+  "tip": "Hem umutsuz bir durumu hem de soğuk ve çıplak bir yeri anlatabilir. Anlamı bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "weary",
+  "senses": [
+   "bitkin; yorgun",
+   "bıkmış; usanmış",
+   "yorulmak; bıkmak"
+  ],
+  "ex": [
+   "Yorgun yürüyüşçüler, gün batmadan önce bir derenin kenarında dinlendi.",
+   "Uzun yolculuklara katlanan insanlar, eve çok yorgun döndükleri için egzersiz yapamıyor ya da aileleriyle kaliteli zaman geçiremiyor."
+  ],
+  "col": [
+   "yorgun gezginler",
+   "bıkmak",
+   "bir şeyden usanmak"
+  ],
+  "tip": "'weary' yorgun ya da bıkmış anlamına gelir; 'wary' ise temkinli anlamındadır. 'weary of' kalıbı 'bıkmak' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "mantle",
+  "senses": [
+   "örtü; kaplama",
+   "manto",
+   "görev; sorumluluk"
+  ],
+  "ex": [
+   "Bir gecede bahçeyi kar örtüsü kapladı.",
+   "Deneyimli bilim insanları emekli olurken genç araştırmacılar liderlik sorumluluğunu üstlenmek zorundadır."
+  ],
+  "col": [
+   "kar örtüsü",
+   "Dünya'nın manto tabakası",
+   "bir görevi üstlenmek"
+  ],
+  "tip": "Pelerin anlamı da vardır. Şömine rafı anlamında ise genellikle 'mantel' olarak yazılır.",
+  "note": ""
+ },
+ {
+  "id": "ceremonial",
+  "senses": [
+   "törensel; resmi"
+  ],
+  "ex": [
+   "Belediye başkanı açılış için tören cüppesi giydi.",
+   "Geleneksel törensel kıyafetler kültürel kimliği güçlendirebilir ve genç kuşakları topluluklarının tarihiyle bağlayabilir."
+  ],
+  "col": [
+   "tören kıyafeti",
+   "törensel görev",
+   "resmi tören"
+  ],
+  "tip": "'ceremonial' törenle ilgili kullanımı vurgular. 'ceremonious' ise görgü kurallarına uygun, ağırbaşlı tavrı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "lunar",
+  "senses": [
+   "ay'a ait; ayla ilgili",
+   "kameri; aya dayalı"
+  ],
+  "ex": [
+   "Bahçemizden ay tutulmasını izledik.",
+   "Ay kayaçları üzerine yapılan araştırmalar, bilim insanlarının Ay'ın ve erken Güneş Sistemi'nin nasıl geliştiğini anlamasına yardımcı oluyor."
+  ],
+  "col": [
+   "ay tutulması",
+   "ay yüzeyi",
+   "kameri takvim",
+   "ay görevi"
+  ],
+  "tip": "'lunar' Aya ait, 'solar' ise Güneş'e ait anlamındadır. Bu zıt çiftleri birlikte öğrenmek işinizi kolaylaştırır.",
+  "note": ""
+ }
+]

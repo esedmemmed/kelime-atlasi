@@ -1,0 +1,281 @@
+[
+ {
+  "id": "bother",
+  "senses": [
+   "rahatsız etmek; canını sıkmak",
+   "zahmet etmek; uğraşmak",
+   "zahmet; sıkıntı"
+  ],
+  "ex": [
+   "Lütfen kız kardeşin ders çalışırken onu rahatsız etme.",
+   "Sürekli gelen bildirimler, dersler sırasında öğrencilerin dikkatini dağıtabilir ve karmaşık görevlere odaklanma becerisini azaltabilir."
+  ],
+  "col": [
+   "birini bir şeyle rahatsız etmek",
+   "zahmet edip bir şey yapmak",
+   "zahmete girecek hali olmamak",
+   "büyük bir zahmet"
+  ],
+  "tip": "bother to do çoğunlukla olumsuz ve soru cümlelerinde kullanılır (didn't bother to call: aramaya zahmet etmedi). Olumlu cümlede de geçer ama daha seyrektir.",
+  "note": ""
+ },
+ {
+  "id": "battle",
+  "senses": [
+   "savaş; muharebe",
+   "mücadele; zorlu uğraş",
+   "mücadele etmek; çarpışmak"
+  ],
+  "ex": [
+   "Müze, ünlü bir savaştan kalma zırhları sergiliyor.",
+   "Hava kirliliğiyle mücadele, kentteki hükümetlerin, işletmelerin ve bireylerin birlikte hareket etmesini gerektiriyor."
+  ],
+  "col": [
+   "bir savaşı kazanmak",
+   "zorlu bir mücadele",
+   "kirlilikle mücadele",
+   "hayatta kalma mücadelesi"
+  ],
+  "tip": "battle hem somut çatışmayı hem de hastalık, kirlilik gibi sorunlarla verilen mücadeleyi anlatır. Mücadele edilen şey against ile belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "unnecessary",
+  "senses": [
+   "gereksiz; lüzumsuz"
+  ],
+  "ex": [
+   "Hafif bir ceket getir, ama ağır botlara gerek yok.",
+   "Açık talimatlar, gereksiz gecikmeleri önleyebilir ve kamu hizmetlerinin daha verimli çalışmasına yardımcı olabilir."
+  ],
+  "col": [
+   "gereksiz harcama",
+   "gereksiz stres",
+   "gereksiz gecikmelerden kaçınmak"
+  ],
+  "tip": "It is unnecessary to do... kalıbı 'yapmaya gerek yok' anlamında kullanılır. Sıfat olarak doğrudan isimden önce de gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "puzzle",
+  "senses": [
+   "bulmaca; yapboz",
+   "muamma; anlaşılması zor şey",
+   "şaşırtmak; kafasını karıştırmak"
+  ],
+  "ex": [
+   "Yapbozu mutfak masasında birlikte tamamladık.",
+   "Gelir ile kişisel mutluluk arasındaki ilişki, araştırmacıların birkaç farklı açıdan yaklaştığı bir muamma olmayı sürdürüyor."
+  ],
+  "col": [
+   "bir bulmacayı çözmek",
+   "yapboz",
+   "bir şey üzerine kafa yormak",
+   "çapraz bulmaca"
+  ],
+  "tip": "puzzled kişinin şaşkın olduğunu, puzzling ise bir şeyin şaşırtıcı olduğunu anlatır: I am puzzled / a puzzling result.",
+  "note": ""
+ },
+ {
+  "id": "spoil",
+  "senses": [
+   "mahvetmek; bozmak",
+   "şımartmak; el üstünde tutmak",
+   "bozulmak; çürümek"
+  ],
+  "ex": [
+   "Kız kardeşine söyleyerek sürprizi bozma lütfen.",
+   "Özensiz planlanmış inşaat, doğal manzaraları bozabilir ve hem sakinler hem de turistler için çekiciliklerini azaltabilir."
+  ],
+  "col": [
+   "sürprizi bozmak",
+   "çocuğu şımartmak",
+   "iştahı kapatmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç için spoiled ve spoilt ikisi de kullanılabilir; spoilt daha çok İngiliz İngilizcesinde görülür.",
+  "note": ""
+ },
+ {
+  "id": "bleed",
+  "senses": [
+   "kanamak"
+  ],
+  "ex": [
+   "Küçük bir kağıt kesiğinden sonra parmağım kanamaya başladı.",
+   "İlk yardım kursları, küçük yaralanmalar birinin kanamasına yol açtığında insanlara güvenli biçimde nasıl müdahale edeceklerini öğretir."
+  ],
+  "col": [
+   "çok kanamak",
+   "iç kanama geçirmek",
+   "kanamayı durdurmak"
+  ],
+  "tip": "Düzensiz fiil: bleed – bled – bled. Fiille karıştırılmaması gereken isim 'kan' anlamındaki blood'dur.",
+  "note": ""
+ },
+ {
+  "id": "choir",
+  "senses": [
+   "koro; ilahi korosu"
+  ],
+  "ex": [
+   "Kız kardeşim her pazar koroda şarkı söyler.",
+   "Bir toplum korosuna katılmak, yaşlı yetişkinler arasında yalnızlığı azaltabilir ve sosyal bağları güçlendirebilir."
+  ],
+  "col": [
+   "bir korora katılmak",
+   "kilise korosu",
+   "koro provası"
+  ],
+  "tip": "Telaffuzda 'ch' sesi yoktur; ilk harf 'k' gibi okunur ve kelime 'quire' ile benzer telaffuz edilir.",
+  "note": ""
+ },
+ {
+  "id": "element",
+  "senses": [
+   "unsur; temel öğe",
+   "kimyasal element",
+   "doğa güçleri; kötü hava"
+  ],
+  "ex": [
+   "Taze otlar bu çorbanın temel unsurlarından biridir.",
+   "Kamuoyunun güveni, toplum sağlığını iyileştirmeyi amaçlayan başarılı her politikanın temel unsurudur."
+  ],
+  "col": [
+   "temel unsur",
+   "kimyasal element",
+   "doğanın sert koşullarına maruz kalmak"
+  ],
+  "tip": "Hava koşulları anlamında genellikle the elements biçiminde, belirtili ve çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sail",
+  "senses": [
+   "yelken açmak; gemiyle seyretmek",
+   "yelken"
+  ],
+  "ex": [
+   "Güneşli bir öğleden sonra tekneyle gölün karşısına açıldık.",
+   "Hassas deniz yaşam alanlarından geçen gemiler, yaban hayatını korumak için sıkı kurallara uymalıdır."
+  ],
+  "col": [
+   "yola çıkmak; yelken açmak",
+   "okyanusu geçmek",
+   "yelkenleri kaldırmak"
+  ],
+  "tip": "Fiil olarak yalnızca yelkenli tekneler için değil, denizde seyreden her türlü gemi için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "boxing-day",
+  "senses": [
+   "26 Aralık tatili"
+  ],
+  "ex": [
+   "Boxing Day'de genellikle artan hindiyi birlikte yeriz.",
+   "Boxing Day indirimleri perakende gelirini artırabilir, ama gereksiz tüketim konusunda kaygılara da yol açar."
+  ],
+  "col": [
+   "Boxing Day'de",
+   "Boxing Day indirimleri",
+   "Boxing Day'de yapılan yürüyüş"
+  ],
+  "tip": "Her zaman 26 Aralık'a karşılık gelir; her iki kelime de büyük harfle yazılır ve aralarında tire kullanılmaz.",
+  "note": "Standart olmayan boxing-day yazımı Boxing Day olarak düzeltildi."
+ },
+ {
+  "id": "murder",
+  "senses": [
+   "cinayet",
+   "cinayet işlemek"
+  ],
+  "ex": [
+   "Bir dedektifin bir cinayeti soruşturduğu bir film izledik.",
+   "Doğru adli kanıtlar, cinayet davalarının çözülmesinde ve yanlış mahkûmiyetlerin önlenmesinde kritik rol oynar."
+  ],
+  "col": [
+   "cinayet işlemek",
+   "cinayete teşebbüs",
+   "cinayet soruşturması",
+   "cinayetle suçlanmak"
+  ],
+  "tip": "murder kasten ve hukuka aykırı biçimde öldürmeyi anlatır; kill ise daha geniş bir anlam taşır ve kazada ölme gibi durumlar için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "district",
+  "senses": [
+   "bölge; ilçe"
+  ],
+  "ex": [
+   "Eski pazar bölgesinde küçük bir fırın bulduk.",
+   "Banliyö bölgelerinde toplu taşımanın iyileştirilmesi, araba bağımlılığını azaltabilir ve işe erişimi genişletebilir."
+  ],
+  "col": [
+   "konut bölgesi",
+   "iş bölgesi",
+   "okul bölgesi",
+   "seçim bölgesi"
+  ],
+  "tip": "district hem idari bir bölünmeyi hem de belirli bir işlevi olan şehir bölgesini anlatabilir. Bağlama göre karşılığı değişir.",
+  "note": ""
+ },
+ {
+  "id": "differ",
+  "senses": [
+   "farklı olmak",
+   "fikir ayrılığına düşmek"
+  ],
+  "ex": [
+   "Bu ceketler fiyat bakımından farklı, ama ikisi de çok güzel görünüyor.",
+   "Eğitim öncelikleri ülkeler arasında değişir; çünkü ekonomik koşullar ve kültürel beklentiler ulusal politikaları şekillendirir."
+  ],
+  "col": [
+   "...den farklı olmak",
+   "boyut bakımından farklı olmak",
+   "büyük ölçüde farklılık göstermek",
+   "biriyle görüş ayrılığı yaşamak"
+  ],
+  "tip": "from farklılığın karşılaştırıldığı şeyi, in ise farklılığın hangi yönden olduğunu belirtir: differ from ... in size.",
+  "note": ""
+ },
+ {
+  "id": "general",
+  "senses": [
+   "genel; yaygın",
+   "genel; ana hatlarıyla",
+   "general; orgeneral"
+  ],
+  "ex": [
+   "Mutfağın yeniden boyanması gerektiği konusunda genel bir uzlaşma vardı.",
+   "Eğitimin genel düzeyi iyileşmiş olsa da kentsel ve kırsal okullar arasında önemli farklar hâlâ var."
+  ],
+  "col": [
+   "genel olarak",
+   "genel halk",
+   "genel kültür",
+   "genel bir bakış"
+  ],
+  "tip": "in general 'genel olarak' anlamında, bir konuyu özetlerken kullanılır. general public ise 'genel halk' demektir.",
+  "note": ""
+ },
+ {
+  "id": "fog",
+  "senses": [
+   "sis",
+   "buğulanmak; buğulandırmak"
+  ],
+  "ex": [
+   "Kalın bir sis, evimizin arkasındaki tepeleri gizledi.",
+   "Yoğun sis ulaşım ağlarını aksatabilir; uçuşların iptal edilmesine ve karayolu kazası riskinin artmasına yol açabilir."
+  ],
+  "col": [
+   "kalın sis",
+   "yoğun sis",
+   "sis dağılır",
+   "buğulanmak"
+  ],
+  "tip": "fog, mist'ten daha yoğun sisi anlatır. fog up ise çoğunlukla camın buğulanması için kullanılır.",
+  "note": ""
+ }
+]

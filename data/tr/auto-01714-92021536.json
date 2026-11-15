@@ -1,0 +1,284 @@
+[
+ {
+  "id": "wind",
+  "senses": [
+   "rüzgâr",
+   "sarmak; dolamak",
+   "kıvrılarak ilerlemek"
+  ],
+  "ex": [
+   "Ani bir rüzgâr şapkamı uçurdu.",
+   "Rüzgâr enerjisine yatırım yapmak, ülkelerin fosil yakıtlara bağımlılığını azaltmasına ve karbon salımlarını düşürmesine yardımcı olabilir."
+  ],
+  "col": [
+   "ani bir rüzgâr",
+   "rüzgâr enerjisi",
+   "saatı kurmak",
+   "içinden kıvrılarak geçmek"
+  ],
+  "tip": "Rüzgâr anlamındaki wind /wɪnd/ okunur; sarmak anlamındaki wind /waɪnd/ okunur ve geçmiş zamanı wound'dur. Okunuşa dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "thai",
+  "senses": [
+   "Tayland'a ait; Tayca",
+   "Tayca",
+   "Tayland'lı; Tay"
+  ],
+  "ex": [
+   "Akşam yemeğinde lezzetli bir Tay körisi yedik.",
+   "Tay mutfağı, uluslararası ziyaretçileri çekiyor ve yerel restoranlara ile yemek okullarına değerli fırsatlar sunuyor."
+  ],
+  "col": [
+   "Tay mutfağı",
+   "Tay kültürü",
+   "Tayca konuşmak"
+  ],
+  "tip": "Thai her zaman büyük harfle yazılır. Ülke adı Thailand'dır; sıfat ve dil ya da kişi için Thai kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "wood",
+  "senses": [
+   "tahta; odun",
+   "orman; koru"
+  ],
+  "ex": [
+   "Bu küçük sandalye tamamen masif tahtadan yapılmış.",
+   "Sorumlu biçimde yönetilen ormanlardan elde edilen kerestenin kullanılması, yeni konutların inşasının çevreye etkisini azaltabilir."
+  ],
+  "col": [
+   "masif tahta",
+   "ahşap oyma",
+   "bir parça tahta",
+   "ormanda yürümek"
+  ],
+  "tip": "Malzeme anlamında wood sayılamaz. Küçük orman anlamında a wood ya da the woods kullanılır; 'ormanda' için in the woods denir.",
+  "note": ""
+ },
+ {
+  "id": "private",
+  "senses": [
+   "özel; kişisel",
+   "özel; özel sektöre ait",
+   "gizli; mahrem"
+  ],
+  "ex": [
+   "Her misafirin yatak odasının yanında kendine ait özel bir banyosu var.",
+   "Özel şirketler toplu taşımayı iyileştirebilir, ancak hükümetler ücretlerin uygun fiyatlı kalmasını sağlamalıdır."
+  ],
+  "col": [
+   "özel mülk",
+   "özel sektör",
+   "özel hayat",
+   "özel olarak"
+  ],
+  "tip": "in private 'kapalı kapılar ardında, özel olarak' anlamına gelir; in public ise 'herkesin önünde' demektir.",
+  "note": ""
+ },
+ {
+  "id": "million",
+  "senses": [
+   "milyon"
+  ],
+  "ex": [
+   "Şehrin artık bir milyondan fazla sakini var.",
+   "Hükümet, önümüzdeki on yıl içinde yenilenebilir enerji projelerine birkaç milyon sterlin yatırım yapmayı planlıyor."
+  ],
+  "col": [
+   "bir milyon insan",
+   "iki milyon sterlin",
+   "milyonlarca insan"
+  ],
+  "tip": "Belirli bir sayının arkasında million çoğul yapılmaz (two million). 'Milyonlarca' anlamında millions of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "silly",
+  "senses": [
+   "aptalca; saçma",
+   "komik; eğlenceli"
+  ],
+  "ex": [
+   "Şemsiyemi evde unutmam aptalcaydı.",
+   "Öğretmenler, öğrencileri derse katılmaktan caydırabileceği için hiçbir soruya saçma demekten kaçınmalıdır."
+  ],
+  "col": [
+   "aptalca bir hata",
+   "saçma bir soru",
+   "komik bir şaka",
+   "kendini aptal hissetmek"
+  ],
+  "tip": "Genellikle stupid'a göre daha hafif bir tona sahiptir; ciddi olmayan, şakacı anlamda da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "repair",
+  "senses": [
+   "onarmak; tamir etmek",
+   "tamir; onarım",
+   "düzeltmek; onarmak"
+  ],
+  "ex": [
+   "Ceketimin kırık fermuarını tamir edebilir misin?",
+   "Tüketicileri ev aletlerini değiştirmek yerine tamir etmeye teşvik etmek, elektronik atığı önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "hasarı onarmak",
+   "tamir yapmak",
+   "onarılamaz",
+   "iyi durumda"
+  ],
+  "tip": "Belirli bir tamir işi için çoğul repairs kullanılır. beyond repair ise 'onarılamaz durumda' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "shut",
+  "senses": [
+   "kapatmak; kapanmak",
+   "kapalı"
+  ],
+  "ex": [
+   "Yağmur içeri girmeden lütfen pencereyi kapat.",
+   "Yerel kütüphaneler kapandığında sakinler ücretsiz öğrenme kaynaklarına ve ortak topluluk alanlarına değerli erişimlerini kaybeder."
+  ],
+  "col": [
+   "kapıyı kapatmak",
+   "gözlerini kapamak",
+   "bir fabrikayı kapatmak",
+   "bir şeyi kapalı tutmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç hem shut hem de shut biçimindedir; -ing hali shutting olur.",
+  "note": ""
+ },
+ {
+  "id": "myself",
+  "senses": [
+   "kendim; kendimi",
+   "bizzat kendim"
+  ],
+  "ex": [
+   "Yürüyüşten önce kendime bir sandviç hazırladım.",
+   "Bir topluluk bahçesinde gönüllü olarak çalışarak, resmi eğitimin nadiren sunduğu pratik becerileri kendi kendime öğrendim."
+  ],
+  "col": [
+   "tek başıma",
+   "kendi kendime öğretmek",
+   "eğlenmek",
+   "kendini iyi hissetmemek"
+  ],
+  "tip": "by myself 'tek başına' anlamına gelir. myself, öznenin yerine kullanılamaz; I yerine myself yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "already",
+  "senses": [
+   "çoktan; şimdiden"
+  ],
+  "ex": [
+   "Yarın için çantamı çoktan hazırladım.",
+   "Birçok şehir, trafik sıkışıklığını azaltmak ve halk sağlığını iyileştirmek için bisiklet programlarını çoktan hayata geçirdi."
+  ],
+  "col": [
+   "çoktan yapmış olmak",
+   "zaten mevcut",
+   "zaten yürürlükte"
+  ],
+  "tip": "Genellikle yardımcı fiilden sonra, asıl fiilden önce gelir. 'Çoktan/şimdiden' ya da beklenenden erken anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "medicine",
+  "senses": [
+   "ilaç",
+   "tıp; hekimlik"
+  ],
+  "ex": [
+   "Eczacı ilacın ne sıklıkla alınacağını açıkladı.",
+   "Tıptaki gelişmeler yaşam beklentisini artırdı, ancak etkili tedaviye erişim bölgeler arasında hâlâ eşit değil."
+  ],
+  "col": [
+   "ilaç kullanmak",
+   "tıp okumak",
+   "koruyucu hekimlik",
+   "ilaç yazmak"
+  ],
+  "tip": "İlaç almak için take medicine denir. Tıp bilimi anlamında medicine sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "closed",
+  "senses": [
+   "kapalı",
+   "hizmete kapalı",
+   "dar görüşlü"
+  ],
+  "ex": [
+   "Isıtma açıkken pencereyi kapalı tut.",
+   "Yerel kütüphaneler hafta sonları kapalı kaldığında, çalışan aileler eğitim kaynaklarına erişim fırsatını daha az bulur."
+  ],
+  "col": [
+   "bir şeyi kapalı tutmak",
+   "onarım nedeniyle kapalı",
+   "kapalı bir zihin"
+  ],
+  "tip": "Sıfat olarak 'kapalı' anlamındadır; close fiilinin geçmiş zaman ve ortaç biçimi de closed'dır. Cümledeki görevine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "learning",
+  "senses": [
+   "öğrenme; öğrenim",
+   "bilgi; birikim"
+  ],
+  "ex": [
+   "Her gün biraz pratik yaptığımda öğrenmek daha kolaylaşıyor.",
+   "Okullar, öğrencilere standart müfredatın ötesindeki soruları araştırma fırsatı vererek bağımsız öğrenmeyi teşvik edebilir."
+  ],
+  "col": [
+   "yaşam boyu öğrenme",
+   "bağımsız öğrenme",
+   "öğrenme ortamı",
+   "dik bir öğrenme eğrisi"
+  ],
+  "tip": "Genellikle sayılamaz ve öğrenme sürecini vurgular. Edinilen bilgiyi vurgulamak için knowledge kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fishing",
+  "senses": [
+   "balık tutma; balıkçılık"
+  ],
+  "ex": [
+   "Kahvaltıdan önce gölün kenarında balık tutmaya gittik.",
+   "Ticari balıkçılığa getirilen sıkı sınırlamalar, deniz ekosistemlerinin toparlanmasına ve kıyı topluluklarının uzun vadede desteklenmesine yardımcı olabilir."
+  ],
+  "col": [
+   "balık tutmaya gitmek",
+   "olta kamışı",
+   "ticari balıkçılık",
+   "balıkçı köyü"
+  ],
+  "tip": "'Balık tutmaya gitmek' go fishing ile ifade edilir; go to fishing kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "kick",
+  "senses": [
+   "tekmelemek",
+   "tekme; tekmeleme"
+  ],
+  "ex": [
+   "Kız, küçük kardeşine topu nazikçe tekmeledi.",
+   "Çocuklar, koordinasyonu geliştiren ve takım çalışmasını teşvik eden etkinliklerle topu tekmelemeyi ve atmayı öğrenir."
+  ],
+  "col": [
+   "topu tekmelemek",
+   "bir alışkanlığı bırakmak",
+   "serbest vuruş"
+  ],
+  "tip": "kick ayakla vurmayı anlatır; hit ise her türlü vuruşu, hangi araçla yapıldığını belirtmeden ifade eder.",
+  "note": ""
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "id": "oval",
+  "senses": [
+   "oval; elips biçimli",
+   "elips; oval"
+  ],
+  "ex": [
+   "Kızartılmış sebzeleri oval bir tabakta servis etti.",
+   "Önerilen parkta, yerel yaban hayatına yaşam alanı sağlamak için yerli bitkilerle çevrili oval bir gölet yer alıyor."
+  ],
+  "col": [
+   "oval yüz",
+   "oval masa",
+   "şekil olarak oval"
+  ],
+  "tip": "Hem sıfat hem isim olarak kullanılır. 'an oval' tek bir elips şeklini anlatır; sıfat olarak kullanıldığında a/an sıfatın önüne gelir (an oval table).",
+  "note": ""
+ },
+ {
+  "id": "cure",
+  "senses": [
+   "iyileştirmek; şifa vermek",
+   "tedavi; çare"
+  ],
+  "ex": [
+   "Doktor, bu tabletlerin enfeksiyonu iyileştirebileceğini söyledi.",
+   "Tıbbi araştırmalar önemli ölçüde ilerlemiş olsa da bilim insanları henüz her hastalık için bir tedavi bulabilmiş değil."
+  ],
+  "col": [
+   "bir hastalığı iyileştirmek",
+   "bir şey için çare",
+   "birini ...den iyileştirmek"
+  ],
+  "tip": "cure, hastalığın tamamen geçmesi anlamı taşır. treat ise yalnızca tedavi etmeyi anlatır ve iyileşme garantisi vermez.",
+  "note": ""
+ },
+ {
+  "id": "pistol",
+  "senses": [
+   "tabanca"
+  ],
+  "ex": [
+   "Eski tabanca, kalın müze camının arkasında sergileniyordu.",
+   "Silahların katı biçimde saklanmasına ilişkin kurallar, kazaları azaltabilir ve yerel topluluklarda güvenliği artırabilir."
+  ],
+  "col": [
+   "tabanca taşımak",
+   "start tabancası",
+   "antika tabanca"
+  ],
+  "tip": "pistol el silahı olan tabancayı anlatır. rifle ise genellikle uzun namlulu tüfeği ifade eder; bu iki kelimeyi karıştırmamak gerekir.",
+  "note": ""
+ },
+ {
+  "id": "jobless",
+  "senses": [
+   "işsiz"
+  ],
+  "ex": [
+   "Fabrika kapandıktan sonra aylarca işsiz kaldı.",
+   "Hükümetler, işsiz çalışanların iş piyasasındaki değişimlere uyum sağlamasına yardımcı olmak için uygun fiyatlı yeniden eğitim programları sunmalıdır."
+  ],
+  "col": [
+   "işsiz çalışanlar",
+   "işsizler",
+   "işsizlik oranı"
+  ],
+  "tip": "'the jobless' işsizler grubunu anlatır. Özne olduğunda fiil çoğul kullanılır: 'The jobless are...'.",
+  "note": ""
+ },
+ {
+  "id": "accounting",
+  "senses": [
+   "muhasebe; muhasebecilik"
+  ],
+  "ex": [
+   "Kız kardeşim muhasebe okuyor ve dükkânımızın mali işlerinde yardımcı oluyor.",
+   "Doğru muhasebe kaydı, işletmelerin maliyetleri izlemesini, yasal gereklilikleri karşılamasını ve bilinçli mali kararlar almasını sağlar."
+  ],
+  "col": [
+   "muhasebe yazılımı",
+   "muhasebe standartları",
+   "finansal muhasebe"
+  ],
+  "tip": "Muhasebe işini ya da dalını anlatırken sayılamaz isim olarak kullanılır. Meslek sahibi kişi accountant'tır.",
+  "note": ""
+ },
+ {
+  "id": "extraordinary",
+  "senses": [
+   "olağanüstü; üstün",
+   "olağandışı; tuhaf"
+  ],
+  "ex": [
+   "Büyükannemin insanların doğum günlerini hatırlama yeteneği olağanüstü.",
+   "Tıp teknolojisindeki son gelişmeler, bilim insanları ile mühendisler arasındaki iş birliğinin olağanüstü potansiyelini gösteriyor."
+  ],
+  "col": [
+   "olağanüstü başarı",
+   "olağanüstü yetenek",
+   "olağandışı koşullar"
+  ],
+  "tip": "very good'dan daha güçlü bir övgü anlatır. Aynı zamanda olağandışı, şaşırtıcı anlamına da gelebilir; bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "overtake",
+  "senses": [
+   "geçmek; yetişip geçmek",
+   "geride bırakmak",
+   "ansızın bastırmak; sarsmak"
+  ],
+  "ex": [
+   "Traktörü geçmek için güvenli bir boşluk bekledik.",
+   "Yenilenebilir enerji, bazı ülkelerde elektriğin başlıca kaynağı olarak fosil yakıtların önüne geçebilir."
+  ],
+  "col": [
+   "bir aracı geçmek",
+   "bir rakibi geride bırakmak",
+   "olayların gerisinde kalmak"
+  ],
+  "tip": "Düzensiz fiildir: overtake – overtook – overtaken. Edilgen yapılarda ve be overtaken by events gibi kalıplarda 'overtaken' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "somewhat",
+  "senses": [
+   "biraz; bir dereceye kadar"
+  ],
+  "ex": [
+   "İlk direksiyon dersimden önce biraz gergin hissettim.",
+   "Çevrimiçi öğrenme esneklik sunsa da etkililiği, öğrencilerin motivasyonuna ve teknolojiye erişimine hâlâ bir ölçüde bağlı."
+  ],
+  "col": [
+   "biraz farklı",
+   "biraz sınırlı",
+   "biraz endişeli"
+  ],
+  "tip": "a bit'ten daha resmî bir kelimedir. Bir görüşü yumuşatmak ya da ifadeyi ölçülü kılmak için akademik yazıda sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dominant",
+  "senses": [
+   "baskın; egemen",
+   "baskın (genetik)"
+  ],
+  "ex": [
+   "Oturma odamızdaki baskın renk mavi.",
+   "Kamu yatırımının sınırlı olduğu şehirlerde özel otomobiller hâlâ baskın ulaşım biçimi olmayı sürdürüyor."
+  ],
+  "col": [
+   "baskın rol",
+   "egemen konum",
+   "baskın kültür",
+   "baskın gen"
+  ],
+  "tip": "dominant bir sıfattır; fiili dominate'tir (dominate the market gibi). Sıfatı dominate ile karıştırmamak gerekir.",
+  "note": ""
+ },
+ {
+  "id": "moonlight",
+  "senses": [
+   "ay ışığı",
+   "ek iş yapmak; gizlice çalışmak"
+  ],
+  "ex": [
+   "Ay ışığı perdelerin arasından yastığıma süzülüyordu.",
+   "Yapay aydınlatma, doğal ay ışığını gizleyerek geceleri aktif olan hayvanların davranışlarını etkileyebilir."
+  ],
+  "col": [
+   "ay ışığında",
+   "solgun ay ışığı",
+   "garson olarak ek iş yapmak"
+  ],
+  "tip": "Ay ışığı sayılamayan bir isimdir. Fiil olarak as + meslek yapısıyla kullanılır: moonlight as a waiter.",
+  "note": ""
+ },
+ {
+  "id": "entitle",
+  "senses": [
+   "hak vermek; yetki tanımak",
+   "ad vermek; adlandırmak"
+  ],
+  "ex": [
+   "Bu bilet size ücretsiz bir öğle yemeği hakkı veriyor.",
+   "İş kanunları, kuruluşun büyüklüğü ne olursa olsun tüm çalışanlara ücretli izin hakkı tanımalıdır."
+  ],
+  "col": [
+   "birine yardım hakkı tanımak",
+   "tazminat hakkına sahip olmak",
+   "oy kullanma hakkına sahip olmak"
+  ],
+  "tip": "entitle sb to sth ya da entitle sb to do sth kalıbıyla kullanılır. Edilgen hâli be entitled to çok sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "slip",
+  "senses": [
+   "kayarak düşmek; kaymak",
+   "sessizce koymak; sokuşturmak",
+   "küçük kâğıt; küçük hata"
+  ],
+  "ex": [
+   "Islak zeminde kaydım ama dengemi koruyabildim.",
+   "Hastaneler, hastaların kayıp yaralanma riskini azaltmak için zeminleri kuru tutmalıdır."
+  ],
+  "col": [
+   "buzda kaymak",
+   "bir odaya sessizce girmek",
+   "bir kâğıt parçası",
+   "dil sürçmesi"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi slipped'tir; p harfi ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "deepen",
+  "senses": [
+   "derinleştirmek; artırmak",
+   "derinleşmek; derinleştirmek",
+   "pesleşmek; alçalmak"
+  ],
+  "ex": [
+   "Birlikte hikâye paylaşmak, biriyle arkadaşlığınızı derinleştirebilir.",
+   "Uluslararası değişim programları, öğrencilerin diğer kültürleri anlamasını derinleştirebilir ve farklı bakış açılarına daha fazla saygı duymalarını teşvik edebilir."
+  ],
+  "col": [
+   "anlayışı derinleştirmek",
+   "krizi derinleştirmek",
+   "kanalı derinleştirmek",
+   "ses pesleşiyor"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: deepen trust (güveni derinleştirmek), a crisis deepens (kriz derinleşir).",
+  "note": ""
+ },
+ {
+  "id": "infinite",
+  "senses": [
+   "sonsuz; sınırsız",
+   "sınırsız; çok büyük"
+  ],
+  "ex": [
+   "Büyükannem çocuklara karşı sonsuz bir sabra sahip gibi görünüyor.",
+   "Ekonomi politikaları, gezegenin doğal kaynakları sonsuz bir biçimde sağladığını varsaymamalıdır."
+  ],
+  "col": [
+   "sonsuz olasılıklar",
+   "sonsuz sabır",
+   "sınırsız arz"
+  ],
+  "tip": "Genellikle sıfat olarak kullanılır. 'Sonsuzluk' anlamındaki isim biçimi infinity'dir.",
+  "note": ""
+ },
+ {
+  "id": "edition",
+  "senses": [
+   "baskı; sürüm",
+   "sayı; nüsha"
+  ],
+  "ex": [
+   "Bu bahçecilik rehberinin en son baskısını aldım.",
+   "Ders kitabının gözden geçirilmiş baskısı, yenilenebilir enerji ve sürdürülebilir kentsel gelişim üzerine güncel araştırmaları içeriyor."
+  ],
+  "col": [
+   "ilk baskı",
+   "gözden geçirilmiş baskı",
+   "sınırlı sayıda baskı",
+   "akşam baskısı"
+  ],
+  "tip": "edition yayının sürümünü ya da baskısını anlatır. Tek bir fiziksel kitaptan söz ederken genellikle a copy denir.",
+  "note": ""
+ }
+]

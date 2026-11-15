@@ -1,0 +1,271 @@
+[
+ {
+  "id": "rouse",
+  "senses": [
+   "uyandırmak",
+   "harekete geçirmek; coşturmak"
+  ],
+  "ex": [
+   "Kahvaltının kokusu sonunda onu uykusundan uyandırdı.",
+   "Kirli nehirlerin çarpıcı görüntüleri halkın endişesini uyandırabilir ve çevre korumaya daha güçlü destek verilmesini teşvik edebilir."
+  ],
+  "col": [
+   "uykusundan uyandırmak",
+   "ilgi uyandırmak",
+   "birini harekete geçirmek"
+  ],
+  "tip": "Wake'e göre daha resmi ya da edebi bir fiildir. Ayrıca 'ilgi uyandırmak', 'öfke uyandırmak' gibi duygu ve ilgi anlatımlarında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "subsidize",
+  "senses": [
+   "sübvanse etmek; desteklemek"
+  ],
+  "ex": [
+   "İşverenim ofis kafeteryasındaki öğle yemeklerinin bir kısmını karşılıyor.",
+   "Hükümetler, işe gidip gelmeyi daha uygun maliyetli hale getirmek ve kentsel trafiği azaltmak için toplu taşımayı sübvanse edebilir."
+  ],
+  "col": [
+   "toplu taşımayı sübvanse etmek",
+   "büyük ölçüde sübvanse edilmiş",
+   "maliyetinin bir kısmını karşılamak"
+  ],
+  "tip": "Subsidize genellikle maliyetin yalnızca bir kısmını karşılamak anlamına gelir. İngiliz İngilizcesinde subsidise yazımı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "obligate",
+  "senses": [
+   "yükümlü kılmak; zorunlu kılmak",
+   "zorunlu; mecburi"
+  ],
+  "ex": [
+   "Bu anlaşma her ay ödeme yapmamı zorunlu kılıyor mu?",
+   "Çevre düzenlemeleri, üreticileri tehlikeli atıkları yerel topluluklara devretmek yerine güvenli biçimde bertaraf etmekle yükümlü kılıyor."
+  ],
+  "col": [
+   "birini bir şey yapmaya yükümlü kılmak",
+   "yasal olarak yükümlü",
+   "zorunlu parazit"
+  ],
+  "tip": "Yasal veya ahlaki yükümlülük için sıfat olarak genellikle obligated kullanılır (be obligated to do). Biyolojide obligate 'zorunlu' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "chronic",
+  "senses": [
+   "kronik",
+   "sürekli; süregelen"
+  ],
+  "ex": [
+   "Hafif yüzme, kronik sırt ağrısını kontrol altında tutmasına yardımcı oluyor.",
+   "Kronik personel eksikliği, sağlık hizmetlerinin kalitesini düşürebilir ve mevcut sağlık çalışanlarının üzerindeki baskıyı artırabilir."
+  ],
+  "col": [
+   "kronik hastalık",
+   "kronik ağrı",
+   "kronik eksiklik"
+  ],
+  "tip": "Hastalık için chronic (kronik), ani gelişen durumlar için acute kullanılır. Chronic, 'chronic shortage' gibi uzun süreli kötü durumları da anlatır.",
+  "note": ""
+ },
+ {
+  "id": "secluded",
+  "senses": [
+   "ıssız; tenha"
+  ],
+  "ex": [
+   "Kayalıkların arkasında ıssız bir plaj bulduk.",
+   "Kırsaldaki tenha evler mahremiyet sunsa da sakinleri sağlık hizmetlerine ve toplu taşımaya erişmekte zorlanabilir."
+  ],
+  "col": [
+   "ıssız plaj",
+   "tenha bir yer",
+   "tenha bahçe"
+  ],
+  "tip": "Genellikle yerler için kullanılır; kişinin içine kapanık olduğunu anlatmaz. İnsanlar için withdrawn ya da reserved daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "dissatisfy",
+  "senses": [
+   "memnuniyetsiz bırakmak"
+  ],
+  "ex": [
+   "Küçük porsiyonlar ve yavaş servis birkaç misafiri memnuniyetsiz bıraktı.",
+   "Temel standartları sürekli karşılayamayan toplu taşıma hizmetleri, düzenli yolcuları büyük olasılıkla memnuniyetsiz bırakacaktır."
+  ],
+  "col": [
+   "müşterileri memnuniyetsiz bırakmak",
+   "kullanıcıları memnuniyetsiz bırakmak"
+  ],
+  "tip": "Geçişli bir fiildir. Günlük dilde genellikle be dissatisfied with (...dan memnun değil) kalıbı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "deduction",
+  "senses": [
+   "çıkarım; sonuç",
+   "kesinti; düşülen tutar"
+  ],
+  "ex": [
+   "Çıkarımı basitti: çamurlu ayakkabılar birinin geldiği anlamına geliyordu.",
+   "Çalışanlar, son ödemenin doğru olduğundan emin olmak için maaşlarından yapılan her kesintiyi kontrol etmelidir."
+  ],
+  "col": [
+   "mantıksal çıkarım",
+   "vergi indirimi",
+   "maaştan yapılan kesinti"
+  ],
+  "tip": "Akıl yürütmeyle varılan sonuç için deduce, para düşme anlamında deduct fiili kullanılır. Bu kelime 'tahmin' değil, mantıksal çıkarımdır.",
+  "note": ""
+ },
+ {
+  "id": "equilibrium",
+  "senses": [
+   "denge",
+   "ruhsal denge; sakinlik"
+  ],
+  "ex": [
+   "Asılı mobil, bir süs parçasını taşıdığımda yeniden dengesini buldu.",
+   "Büyük bir yırtıcının ortadan kaldırılması, bir ekosistemin dengesini bozabilir ve hayvan popülasyonlarında beklenmedik değişikliklere yol açabilir."
+  ],
+  "col": [
+   "dengeyi korumak",
+   "dengeyi yeniden sağlamak",
+   "piyasa dengesi",
+   "dinamik denge"
+  ],
+  "tip": "Genellikle sayılamaz. Ekonomi, ekoloji ve fizikte sabit bir denge durumunu anlatır. Daha genel anlamda balance kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "monumental",
+  "senses": [
+   "çok büyük; devasa",
+   "anıtsal; anıt niteliğinde"
+  ],
+  "ex": [
+   "Bu kutuların hepsini taşımak çok zorlu bir iş olacak.",
+   "Eskimiş kentsel altyapının yenilenmesi, hem hükümetlerden hem de özel şirketlerden büyük çaba ve sürekli yatırım gerektiriyor."
+  ],
+  "col": [
+   "çok zorlu bir iş",
+   "büyük başarı",
+   "anıtsal mimari"
+  ],
+  "tip": "Task, effort gibi sözcüklerle ölçeğin ya da zorluğun çok büyük olduğunu vurgular; monumental mistake gibi olumsuz da olabilir.",
+  "note": ""
+ },
+ {
+  "id": "ply",
+  "senses": [
+   "düzenli sefer yapmak",
+   "mesleğini icra etmek",
+   "kat; tabaka"
+  ],
+  "ex": [
+   "Küçük feribotlar adayla anakara arasında düzenli sefer yapıyor.",
+   "Kırsal güzergâhlarda çalışan otobüsler, tecrit edilmiş topluluklar için sağlık ve eğitime erişimde temel bir olanak sağlıyor."
+  ],
+  "col": [
+   "bir güzergâhta sefer yapmak",
+   "mesleğini icra etmek",
+   "birini sorularla bombardıman etmek",
+   "üç katlı kontrplak"
+  ],
+  "tip": "ply someone with sth kalıbında bir kişiye bir şeyi sürekli sunmak ya da yağdırmak anlamına gelir. Fiil ve isim anlamları birbirinden farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "fidelity",
+  "senses": [
+   "sadakat; bağlılık",
+   "doğruluk; aslına uygunluk"
+  ],
+  "ex": [
+   "Çift düğünlerinde ömür boyu sadakat sözü verdi.",
+   "Dijital arşivler, araştırmacıların kayıtları doğru biçimde incelemesi için özgün kayıtların aslına uygunluğunu korumalıdır."
+  ],
+  "col": [
+   "ilkelere bağlılık",
+   "evlilik sadakati",
+   "yüksek ses kalitesi",
+   "orijinale sadakat"
+  ],
+  "tip": "Bir kişiye, bir inanca ya da göreve bağlılık için fidelity to kalıbı kullanılır. Genellikle sayılamaz ve daha resmi bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "curt",
+  "senses": [
+   "ters; kaba"
+  ],
+  "ex": [
+   "Kısa ve ters cevabı, bir daha sormaya çekinmemi sağladı.",
+   "Kamu hizmeti personelinin kısa ve ters yanıtları, sakinleri temel topluluk desteği hakkında bilgi almaktan caydırabilir."
+  ],
+  "col": [
+   "kısa ve ters bir cevap",
+   "kısa bir baş hareketi",
+   "sert bir ton"
+  ],
+  "tip": "Yalnızca kısa değil, nezaketsiz bir üslup anlamı da taşır. Sadece kısa olduğunu belirtmek için brief daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "cock",
+  "senses": [
+   "horoz; erkek kuş",
+   "dikmek; yana eğmek"
+  ],
+  "ex": [
+   "Kırmızı bir horoz, ahşap kapının yanında yüksek sesle ötüyordu.",
+   "Tavuklarla birlikte bir horoz tutmak, küçük çiftliklerin yeni kuş almadan tavuk üretmesine olanak tanır."
+  ],
+  "col": [
+   "horoz öter",
+   "başını yana eğmek",
+   "kaşını kaldırmak"
+  ],
+  "tip": "Horoz için rooster daha yaygındır. cock kelimesi kaba bir anlam da taşıyabildiği için dikkatli kullanılmalıdır.",
+  "note": "Başka bir kaba anlamı da vardır (erkek cinsel organı); kullanırken bağlama dikkat edin."
+ },
+ {
+  "id": "repertoire",
+  "senses": [
+   "repertuvar",
+   "beceri ve yöntem birikimi"
+  ],
+  "ex": [
+   "Şarkıcı repertuvarına üç yeni şarkı ekledi.",
+   "Öğretmenlerin, farklı öğrenme tercihlerine sahip öğrencilerin ihtiyaçlarını karşılamak için geniş bir strateji birikimine ihtiyacı var."
+  ],
+  "col": [
+   "repertuvarını genişletmek",
+   "geniş bir repertuvar",
+   "bir dizi beceri"
+  ],
+  "tip": "Yalnızca sanatçının icra ettiği parçaları değil, bir kişinin sahip olduğu tüm becerileri ve yöntemleri de ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "deflection",
+  "senses": [
+   "sapma; yön değiştirme",
+   "dikkat dağıtma; savuşturma"
+  ],
+  "ex": [
+   "Hafif bir sapma, topu kalecinin yanından geçirdi.",
+   "Mühendisler, bir köprünün ağır trafiği güvenle taşıyıp taşıyamayacağını değerlendirmek için yapısal kirişlerin eğilmesini ölçer."
+  ],
+  "col": [
+   "ışığın sapması",
+   "kiriş sapması",
+   "eleştiriyi savuşturma"
+  ],
+  "tip": "Fiziksel anlamda bir kuvvet nedeniyle yön değişimini anlatır. Mecazi kullanımda ise eleştiri ya da soruları başka yöne çekmek anlamına gelir.",
+  "note": ""
+ }
+]

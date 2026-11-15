@@ -1,0 +1,268 @@
+[
+ {
+  "id": "displacement",
+  "senses": [
+   "yerinden edilme; göç",
+   "yerini alma; ikame",
+   "yer değiştirme; deplasman"
+  ],
+  "ex": [
+   "Sel, aileleri geçici barınaklara sığınmak zorunda bırakarak yerinden edilmelerine yol açtı.",
+   "Hükümetler etkili korumaya ve planlı yeniden yerleşime yatırım yapmazsa, kıyı erozyonu geniş çaplı yerinden edilmelere yol açabilir."
+  ],
+  "col": [
+   "nüfusun yerinden edilmesi",
+   "zorunlu yerinden edilme",
+   "iş kaybı",
+   "su deplasmanı"
+  ],
+  "tip": "Bağlama göre anlam değişir: insanlar için zorla yerinden edilme, fizikte ise yer değiştirme ya da hacim anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "emigrant",
+  "senses": [
+   "yurt dışına göç eden kişi"
+  ],
+  "ex": [
+   "Yurt dışına yerleşen biri olarak, memleketinin hareketli pazarlarını çok özlüyordu.",
+   "Yurt dışına göç edenler, aile ziyaretleri ve maddi destekle doğdukları ülkeyle genellikle güçlü bağlarını sürdürür."
+  ],
+  "col": [
+   "göçmen işçiler",
+   "göçmen topluluğu",
+   "göçmen aileler"
+  ],
+  "tip": "Çıkış ülkesi açısından emigrant, varış ülkesi açısından immigrant denir; Türkçede ikisi de göçmen olabilir.",
+  "note": ""
+ },
+ {
+  "id": "precede",
+  "senses": [
+   "önce gelmek; önceden olmak",
+   "öne geçmek; önden gitmek"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce kısa bir hoş geldin konuşması yapılacak.",
+   "Büyük inşaat projelerinden önce, yerel ekosistemler için olası riskleri belirlemek amacıyla kapsamlı çevresel değerlendirmeler yapılmalıdır."
+  ],
+  "col": [
+   "hemen öncesinde gelmek",
+   "tanıtımdan önce gelmek",
+   "şeyden önce gelmek"
+  ],
+  "tip": "precede (önce gelmek) ile proceed (devam etmek, ilerlemek) karıştırılmamalı. Anlamı 'bir şeyden önce olmak' olduğu için genellikle bir nesne alır.",
+  "note": ""
+ },
+ {
+  "id": "soluble",
+  "senses": [
+   "çözünebilen; eriyebilen",
+   "çözülebilir; çözümlenebilir"
+  ],
+  "ex": [
+   "Bu çözünebilir tabletler, bir bardak suda hızla erir.",
+   "Suda çözünebilen kirleticiler nehirler aracılığıyla yayılabilir; su kaynağına karıştıktan sonra kontrol altına almak zorlaşır."
+  ],
+  "col": [
+   "suda çözünebilen",
+   "suda çözünen vitaminler",
+   "çok kolay çözünen"
+  ],
+  "tip": "Genellikle be soluble in (bir sıvıda çözünmek) kalıbıyla kullanılır. Bileşik sıfat olarak water-soluble biçiminde tireyle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "numerate",
+  "senses": [
+   "sayısal becerisi olan"
+  ],
+  "ex": [
+   "Dükkânın, para üstünü hesaplayabilen sayısal beceriye sahip personele ihtiyacı var.",
+   "Okullar, tüm öğrencilerin kişisel finanslarını yönetebilecek ve temel istatistikleri yorumlayabilecek kadar sayısal beceri kazanmasını sağlamalıdır."
+  ],
+  "col": [
+   "sayısal beceriye sahip personel",
+   "çok iyi sayısal becerili",
+   "okuryazar ve sayısal becerili"
+  ],
+  "tip": "Günümüzde çoğunlukla sıfat olarak kullanılır. İsmi numeracy'dir ve literate (okuryazar) ile sıkça birlikte anılır.",
+  "note": ""
+ },
+ {
+  "id": "concerted",
+  "senses": [
+   "ortak; birlikte planlanan",
+   "kararlı; yoğun"
+  ],
+  "ex": [
+   "Ortak çabalarımız sonunda bahçeyi çöplerden temizledi.",
+   "Kentsel hava kirliliğini azaltmak, yerel yönetimlerin, ulaşım şirketlerinin, işletmelerin ve sakinlerin birlikte ve kararlı bir eylem göstermesini gerektiriyor."
+  ],
+  "col": [
+   "ortak çaba",
+   "ortak eylem",
+   "koordineli kampanya"
+  ],
+  "tip": "Genellikle effort, action veya campaign gibi isimlerin önünde kullanılır; 'birlikte yapılan' ve 'kararlı' anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "prairie",
+  "senses": [
+   "bozkır; geniş çayır"
+  ],
+  "ex": [
+   "Açık bozkırın üzerinde uzun otların dalgalandığını izledik.",
+   "Yerli bozkır habitatlarını korumak biyoçeşitliliği sürdürmeye yardımcı olur ve önemli miktarda karbon depolayan çayır ekosistemlerini destekler."
+  ],
+  "col": [
+   "bozkır otu",
+   "yerli bozkır",
+   "bozkır koruması"
+  ],
+  "tip": "Genellikle Kuzey Amerika'daki büyük bozkırları anlatır; genel olarak çayırlıklar için grassland kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mighty",
+  "senses": [
+   "güçlü; muazzam",
+   "çok; epey"
+  ],
+  "ex": [
+   "Tarlanın ortasında muazzam bir meşe ağacı duruyordu.",
+   "Dev nehirler değerli yenilenebilir enerji sağlasa da, büyük barajlar inşa etmek çevredeki ekosistemleri ciddi biçimde bozabilir."
+  ],
+  "col": [
+   "dev nehir",
+   "güçlü imparatorluk",
+   "büyük gayret"
+  ],
+  "tip": "Sıfat olarak edebi bir tonu vardır. Zarf olarak 'çok' anlamı günlük konuşmada görülür; resmi yazıda very tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "opium",
+  "senses": [
+   "afyon"
+  ],
+  "ex": [
+   "Müze rehberi, afyon ticaretinin tarihi nasıl etkilediğini anlattı.",
+   "Tarihi araştırmalar, afyon ticaretinin birkaç ülke için kalıcı ekonomik ve sosyal sonuçlar doğurduğunu gösteriyor."
+  ],
+  "col": [
+   "afyon haşhaşı",
+   "afyon ticareti",
+   "afyon bağımlılığı"
+  ],
+  "tip": "Sayılamayan bir isimdir ve yalnızca afyonu anlatır. Genel olarak uyuşturucuları anlatmak için drug veya narcotic kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "falcon",
+  "senses": [
+   "doğan; şahin"
+  ],
+  "ex": [
+   "Bu sabah uçurumların üzerinde bir doğan daire çizerek uçuyordu.",
+   "Uygun yuvalama alanlarının yok olduğu bölgelerde, uçurum habitatlarını korumak doğan popülasyonlarının toparlanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "şahin",
+   "doğan yuvası",
+   "doğan popülasyonu"
+  ],
+  "tip": "falcon ile hawk farklı kuş gruplarıdır; hawk daha genel bir yırtıcı kuşu anlatır. Çeviride kuşun türüne dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "boycott",
+  "senses": [
+   "boykot etmek",
+   "boykot"
+  ],
+  "ex": [
+   "Yerel alışverişçiler, adaletsiz ücretler yüzünden mağazayı boykot etmeye karar verdi.",
+   "Tüketici boykotu, şirketleri uluslararası tedarik zincirlerinde çalışma koşullarını iyileştirmeye zorlayabilir."
+  ],
+  "col": [
+   "bir ürünü boykot etmek",
+   "tüketici boykotu",
+   "boykot çağrısı yapmak",
+   "bir etkinliği boykot etmek"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: boycott a product. İsim olarak genellikle a boycott of ... kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "equitable",
+  "senses": [
+   "hakkaniyetli; adil"
+  ],
+  "ex": [
+   "Ev işlerini hakkaniyetli bir biçimde paylaşmakta anlaştık.",
+   "Adil bir finansman sistemi, dezavantajlı topluluklara hizmet veren okullara daha fazla kaynak yönlendirirdi."
+  ],
+  "col": [
+   "adil dağılım",
+   "adil erişim",
+   "adil muamele"
+  ],
+  "tip": "equitable, koşulları gözeterek adaleti vurgular; equal ise tam eşitliği anlatır. Bu farkı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "petite",
+  "senses": [
+   "ufak tefek; minyon",
+   "küçük beden için"
+  ],
+  "ex": [
+   "Kız kardeşim ufak tefektir, bu yüzden genellikle daha kısa pantolonlara ihtiyaç duyar.",
+   "Giyim perakendecileri, standart koleksiyonlarının yanında küçük bedenler sunarak daha geniş bir müşteri kitlesine hizmet verebilir."
+  ],
+  "col": [
+   "ufak tefek kadın",
+   "ince yapılı",
+   "küçük bedenler"
+  ],
+  "tip": "Genellikle yetişkin kadınların kısa boylu ve küçük yapılı olduğunu anlatır; tek başına 'zayıf' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "iconic",
+  "senses": [
+   "simgesel; ikonik"
+  ],
+  "ex": [
+   "Şehrin simgesi olan taş köprünün fotoğrafını çekmek için durduk.",
+   "Simgesel binaların korunması kültürel kimliği güçlendirebilir, ancak bakım maliyetleri kamu bütçeleri üzerinde baskı oluşturabilir."
+  ],
+  "col": [
+   "simgesel yapı",
+   "ikonik tasarım",
+   "ikonik görüntü"
+  ],
+  "tip": "Sadece 'ünlü' anlamına gelmez; bir yeri, tarzı ya da fikri temsil eden, kolayca tanınan bir simgeyi vurgular.",
+  "note": ""
+ },
+ {
+  "id": "catalyst",
+  "senses": [
+   "tetikleyici; itici güç",
+   "katalizör"
+  ],
+  "ex": [
+   "Bu konuşma, mahallemizdeki temizlik kampanyasının tetikleyicisi oldu.",
+   "Toplu taşımaya yapılan yatırım, dezavantajlı bölgelerde daha geniş ekonomik büyümeyi tetikleyen bir etken olabilir."
+  ],
+  "col": [
+   "değişimin tetikleyicisi",
+   "tetikleyici olmak",
+   "kimyasal katalizör"
+  ],
+  "tip": "Bir değişimi hızlandıran kişi ya da olay için a catalyst for change kalıbı kullanılır; kimyada ise 'katalizör' anlamına gelir.",
+  "note": ""
+ }
+]

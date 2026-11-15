@@ -1,0 +1,275 @@
+[
+ {
+  "id": "mail",
+  "senses": [
+   "posta; mektup",
+   "postalamak"
+  ],
+  "ex": [
+   "Posta tam kahvaltımızı bitirdiğimizde geldi.",
+   "Dijital iletişim yaygınlaşmış olsa da kırsaldaki birçok kişi önemli belgeler için hâlâ postaya bağımlı."
+  ],
+  "col": [
+   "posta ile göndermek",
+   "postayı kontrol etmek",
+   "bir paketi postalamak"
+  ],
+  "tip": "Mail isim olarak genellikle sayılamaz: some mail, the mail. İngiliz İngilizcesinde günlük dilde post da sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "weak",
+  "senses": [
+   "zayıf; güçsüz",
+   "zayıf; inandırıcı olmayan",
+   "açık; hafif"
+  ],
+  "ex": [
+   "Yukarıdaki alışverişi taşıyamayacak kadar güçsüz hissettim.",
+   "Zayıf kanıtlara dayanan politikalar, işsizliğin altında yatan nedenleri ele almakta yetersiz kalabilir."
+  ],
+  "col": [
+   "güçsüz hissetmek",
+   "zayıf kanıt",
+   "zayıf sinyal",
+   "açık çay"
+  ],
+  "tip": "weak (zayıf) ile week (hafta) sesteştir; yazımına dikkat edin. Zayıflık anlamındaki isim için weakness kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "invent",
+  "senses": [
+   "icat etmek; yaratmak",
+   "uydurmak"
+  ],
+  "ex": [
+   "Kız kardeşim elma toplamak için akıllıca bir alet icat etti.",
+   "Mühendisler, kırsal toplulukların temiz içme suyuna ulaşmasına yardımcı olacak uygun fiyatlı teknolojiler geliştirmek zorunda."
+  ],
+  "col": [
+   "bir cihaz icat etmek",
+   "bahane uydurmak",
+   "bir hikâye uydurmak"
+  ],
+  "tip": "invent yeni bir şey yaratmak, discover ise var olan ama bilinmeyen bir şeyi bulmak anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "discover",
+  "senses": [
+   "keşfetmek; bulmak"
+  ],
+  "ex": [
+   "Uçurumların arkasında sakin bir plaj keşfettik.",
+   "Bilim insanları tropikal ormanlardaki bitkileri inceleyerek hastalıkları tedavi etmenin yeni yollarını keşfedebilir."
+  ],
+  "col": [
+   "bir çare bulmak",
+   "yeni bir tür keşfetmek",
+   "gerçeği ortaya çıkarmak"
+  ],
+  "tip": "discover var olup bilinmeyen bir şeyi ortaya çıkarmaktır; yeni bir şey yaratmak için invent kullanılır. 'discover that...' kalıbı sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "designer",
+  "senses": [
+   "tasarımcı; tasarlayan",
+   "markalı; tasarımcı imzalı"
+  ],
+  "ex": [
+   "Tasarımcı bize mutfağımızın bir maketini gösterdi.",
+   "Yetenekli bir tasarımcı, kamusal alanları hareket kısıtlılığı olan insanlar için daha erişilebilir hâle getirebilir."
+  ],
+  "col": [
+   "moda tasarımcısı",
+   "grafik tasarımcısı",
+   "iç mimar",
+   "markalı giyim"
+  ],
+  "tip": "Sıfat olarak genellikle giysi gibi isimlerin önünde gelir ve pahalı markalı ürünleri anlatır: designer jeans.",
+  "note": ""
+ },
+ {
+  "id": "stadium",
+  "senses": [
+   "stadyum"
+  ],
+  "ex": [
+   "Taraftarlar futbol maçı başlamadan önce stadyumu doldurdu.",
+   "Yeni bir stadyum yapmak ziyaretçi çekebilir; ancak uzun vadeli bakım maliyetleri dikkatle değerlendirilmelidir."
+  ],
+  "col": [
+   "futbol stadyumu",
+   "dolu stadyum",
+   "stadyum kapasitesi"
+  ],
+  "tip": "Çoğulu genellikle stadiums şeklindedir; stadia biçimi daha az kullanılır ve daha çok klasik ya da resmi metinlerde görülür.",
+  "note": ""
+ },
+ {
+  "id": "pupil",
+  "senses": [
+   "öğrenci; ilköğretim öğrencisi",
+   "göz bebeği"
+  ],
+  "ex": [
+   "Her öğrenci fen dersine bir yaprak getirdi.",
+   "Daha küçük sınıflar, öğretmenlerin her öğrenciye daha bireysel destek ve yararlı geri bildirim vermesine olanak tanıyabilir."
+  ],
+  "col": [
+   "ilkokul öğrencisi",
+   "eski öğrenci",
+   "genişlemiş göz bebekleri"
+  ],
+  "tip": "İngiliz İngilizcesinde genellikle ilk ve orta öğretim öğrencisi için kullanılır; üniversite öğrencisi için student tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "lost",
+  "senses": [
+   "kaybolmuş; kayıp",
+   "şaşkın; çaresiz",
+   "kaybetmek; yenilmek"
+  ],
+  "ex": [
+   "Eski kasabada yürürken yolumuzu kaybettik.",
+   "Net bir yönlendirme olmadan, yeni üniversite öğrencileri geleceklerini etkileyecek ders seçimi yaparken çaresiz hissedebilir."
+  ],
+  "col": [
+   "kaybolmak; defolmak",
+   "kayıp eşyalar",
+   "çaresiz hissetmek",
+   "düşüncelere dalmış"
+  ],
+  "tip": "Lose fiilinin past tense ve past participle biçimidir. Get lost hem 'kaybolmak' hem de kaba bir 'defol' anlamına gelebilir; dikkatli kullanın.",
+  "note": ""
+ },
+ {
+  "id": "thousand",
+  "senses": [
+   "bin",
+   "binlerce; çok sayıda"
+  ],
+  "ex": [
+   "Onarım toplamda neredeyse bin dolara mal oldu.",
+   "Birkaç bin sakin, banliyö mahallelerini şehir merkeziyle bağlayan yeni bisiklet yollarından yararlandı."
+  ],
+  "col": [
+   "bin kişi",
+   "iki bin yıl",
+   "binlerce"
+  ],
+  "tip": "Belirli sayıdan sonra thousands kullanılmaz: two thousand. Sayısız anlamında 'thousands of' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "god",
+  "senses": [
+   "Tanrı"
+  ],
+  "ex": [
+   "Büyükannem evde her yemekten önce Tanrı'ya şükreder.",
+   "Tanrı inancı, insanların değerlerini, hayırsever faaliyetlerini ve zor koşullara tepkilerini etkileyebilir."
+  ],
+  "col": [
+   "Tanrı'ya inanmak",
+   "Tanrı'ya dua etmek",
+   "Tanrı'ya iman"
+  ],
+  "tip": "Tek tanrı için God büyük harfle ve genellikle başında the olmadan yazılır; genel anlamda tanrı için god küçük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "part-time",
+  "senses": [
+   "yarı zamanlı; kısmi",
+   "yarı zamanlı olarak"
+  ],
+  "ex": [
+   "Kız kardeşimin bir fırında yarı zamanlı işi var.",
+   "Yarı zamanlı çalışma, üniversite öğrencilerinin derslerine odaklanmaya devam ederken pratik deneyim kazanmasına olanak tanır."
+  ],
+  "col": [
+   "yarı zamanlı iş",
+   "yarı zamanlı çalışmak",
+   "yarı zamanlı kurs"
+  ],
+  "tip": "Sıfat olarak isimden önce (a part-time job), zarf olarak fiilden sonra (work part-time) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "certainly",
+  "senses": [
+   "kesinlikle; kuşkusuz",
+   "tabii ki; elbette"
+  ],
+  "ex": [
+   "Bu sıcak mont dışarıda sizi kesinlikle rahat tutacaktır.",
+   "Gelişmiş toplu taşıma yolcuların yararına olacaktır; ancak başarısı güvenilir hizmet ve uygun fiyatlara bağlı olacaktır."
+  ],
+  "col": [
+   "neredeyse kesin",
+   "kesinlikle hayır",
+   "kesinlikle yardımcı olacak"
+  ],
+  "tip": "Genellikle fiilden önce ya da be fiilinden sonra gelir: will certainly help. Bir isteği kibarca kabul ederken tek başına da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "vocabulary",
+  "senses": [
+   "kelime dağarcığı",
+   "terminoloji; özel terimler"
+  ],
+  "ex": [
+   "Kısa hikâyeler okumak, İngilizce kelime dağarcığımı geliştirmeme yardımcı oluyor.",
+   "Öğrencilerin dersleri anlamak ve karmaşık fikirleri denemelerde açıkça ifade etmek için geniş bir akademik kelime dağarcığına ihtiyacı var."
+  ],
+  "col": [
+   "kelime dağarcığını genişletmek",
+   "sınırlı kelime dağarcığı",
+   "akademik kelime dağarcığı",
+   "teknik terminoloji"
+  ],
+  "tip": "Tek bir kelime için word kullanılır; vocabulary ise bir dilin ya da alanın kelime bütününü ifade eder ve genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "cigarette",
+  "senses": [
+   "sigara"
+  ],
+  "ex": [
+   "Bir sigara teklif ettiğinde reddetti ve bunun yerine yürüyüşe çıktı.",
+   "Sigara vergilerinin artırılması sigara içmeyi caydırabilir; ancak bırakmaya çalışanlar için erişilebilir destek hizmetleri de şarttır."
+  ],
+  "col": [
+   "sigara dumanı",
+   "bir paket sigara",
+   "sigara vergileri"
+  ],
+  "tip": "Sayılabilir isimdir: a cigarette, two cigarettes. Paket için a packet of cigarettes kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "danger",
+  "senses": [
+   "tehlike; risk",
+   "tehdit; tehlike kaynağı"
+  ],
+  "ex": [
+   "Kenardan uzak durun; düşme tehlikesi var.",
+   "Bakımı yapılmamış yollar, özellikle özel bisiklet yolu olmayan bölgelerde bisikletliler için ciddi bir tehlike oluşturuyor."
+  ],
+  "col": [
+   "tehlike altında",
+   "tehlikeden kurtulmuş",
+   "tehlike oluşturmak",
+   "yok olma tehlikesi"
+  ],
+  "tip": "in danger tehlikede olmayı anlatır; dangerous ise tehlikeli olan şeyi belirtir: The bridge is dangerous.",
+  "note": ""
+ }
+]

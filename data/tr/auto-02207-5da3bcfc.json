@@ -1,0 +1,273 @@
+[
+ {
+  "id": "fuel",
+  "senses": [
+   "yakıt",
+   "yakıt doldurmak",
+   "körüklemek; artırmak"
+  ],
+  "ex": [
+   "Dağlara doğru yola çıkmadan önce yakıt almak için durduk.",
+   "Özel araç talebindeki artış, hükümetler daha temiz alternatifleri teşvik etmezse hava kirliliğini körükleyebilir."
+  ],
+  "col": [
+   "fosil yakıtlar",
+   "yakıt tüketimi",
+   "yakıt fiyatları",
+   "yakıt spekülasyonu"
+  ],
+  "tip": "fuel fiilinin 'körüklemek, artırmak' anlamı da vardır; duygu ya da durumu güçlendirmek için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "paste",
+  "senses": [
+   "macun; hamur",
+   "yapıştırmak",
+   "yapıştırmak; kopyalayıp yapıştırmak"
+  ],
+  "ex": [
+   "Un ile suyu karıştırarak macun hazırlayın.",
+   "Öğrenciler, kaynaklarını belirtmeden web sitelerinden materyali ödevlerine olduğu gibi kopyalayıp yapıştırmamalıdır."
+  ],
+  "col": [
+   "domates salçası",
+   "duvar kağıdı tutkalı",
+   "üzerine yapıştırmak",
+   "kopyala ve yapıştır"
+  ],
+  "tip": "Yapıştırıcı anlamındaki paste genellikle sayılamaz. Bilgisayar bağlamında copy and paste kalıbı çok yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "financial",
+  "senses": [
+   "mali; finansal"
+  ],
+  "ex": [
+   "İlk evimizi satın almadan önce mali danışmanlık istedik.",
+   "Dezavantajlı öğrencilere sağlanan mali destek, yükseköğretime erişimi artırabilir ve uzun vadeli eşitsizliği azaltabilir."
+  ],
+  "col": [
+   "mali destek",
+   "mali zorluklar",
+   "mali istikrar",
+   "finansal hizmetler"
+  ],
+  "tip": "financial parayla ve mali yönetimle ilgilidir; economic ise ekonominin genel durumunu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "chin",
+  "senses": [
+   "çene"
+  ],
+  "ex": [
+   "Çenesini eline dayadı ve iç çekti.",
+   "Bisikletçiler yolculuk sırasında kaskın sağlam oturması için kask kayışlarını çenenin altına ayarlamalıdır."
+  ],
+  "col": [
+   "çeneni elinin üzerine dayamak",
+   "sivri çene",
+   "çift çene"
+  ],
+  "tip": "chin yüzün alt ucundaki çeneyi ifade eder; jaw ise alt çene kemiğini ve çene hattını daha geniş anlamda kapsar.",
+  "note": ""
+ },
+ {
+  "id": "partly",
+  "senses": [
+   "kısmen; bir ölçüde"
+  ],
+  "ex": [
+   "Yol kısmen düşmüş yapraklarla kaplıydı.",
+   "Bisiklet kullanımındaki artış kısmen gelişen altyapıya ve hava kalitesine duyulan artan kaygıya bağlıdır."
+  ],
+  "col": [
+   "kısmen çünkü",
+   "kısmen ... nedeniyle",
+   "kısmen sorumlu",
+   "parçalı bulutlu"
+  ],
+  "tip": "Tam olmayan durumları anlatır. partly because gibi kalıplarla kısmen bir neden belirtmek için sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "basically",
+  "senses": [
+   "temelde; esas olarak"
+  ],
+  "ex": [
+   "İki tarif, baharat dışında temelde aynı.",
+   "Teslimat yöntemleri değişmiş olsa da kamu eğitiminin amacı kuşaklar boyunca temelde aynı kalmıştır."
+  ],
+  "col": [
+   "temelde aynı",
+   "esasen sağlam",
+   "temelde ... anlamına gelir"
+  ],
+  "tip": "Ana noktaları özetlemek için kullanılır; 'neredeyse hiç' anlamına gelen barely ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "poisonous",
+  "senses": [
+   "zehirli",
+   "zehir gibi; kin dolu"
+  ],
+  "ex": [
+   "Bazı renkli yemişler zehirlidir, bu yüzden onlara dokunmayın.",
+   "Fabrikalar, yakın toplulukların içme suyunu sağlayan nehirlere zehirli maddelerin karışmasını önlemelidir."
+  ],
+  "col": [
+   "zehirli bitkiler",
+   "zehirli gazlar",
+   "zehirli sözler"
+  ],
+  "tip": "Poisonous yutulunca ya da dokunulunca zarar veren şeyler içindir; venomous ısırarak ya da sokarak zehir veren canlılar içindir.",
+  "note": ""
+ },
+ {
+  "id": "old-fashioned",
+  "senses": [
+   "eski moda; modası geçmiş",
+   "eski kafalı; muhafazakâr"
+  ],
+  "ex": [
+   "Büyükbabam hâlâ sarkaçlı eski model bir saat kullanıyor.",
+   "Bazı öğretim yöntemleri eski görünse de öğrencilerin dikkat ve bağımsız düşünme becerilerini geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "eski moda kıyafetler",
+   "eski değerler",
+   "eski usul görgü kuralları"
+  ],
+  "tip": "Geçmişe ait tarz ve gelenekleri anlatır, çoğu zaman sevgi veya özlem içerir. outdated ise artık geçerli olmadığını vurgular.",
+  "note": ""
+ },
+ {
+  "id": "vanilla",
+  "senses": [
+   "vanilya; vanilya özü",
+   "vanilyalı"
+  ],
+  "ex": [
+   "Hamuru karıştırmadan önce biraz vanilya ekleyin.",
+   "Doğal vanilya talebi çiftçiler için değerli bir gelir sağlayabilir, ancak istikrarsız fiyatlar mali riskler doğurur."
+  ],
+  "col": [
+   "vanilya özü",
+   "vanilyalı dondurma",
+   "vanilya kabuğu",
+   "vanilya aroması"
+  ],
+  "tip": "Gıda bağlamında vanilla bu bitkinin aromasını ifade eder. Günlük dilde 'sade, sıradan' anlamı da vardır (plain gibi).",
+  "note": ""
+ },
+ {
+  "id": "recycled",
+  "senses": [
+   "geri dönüştürülmüş"
+  ],
+  "ex": [
+   "Bu defter tamamen geri dönüştürülmüş kâğıttan yapılmıştır.",
+   "İnşaatta geri dönüştürülmüş malzeme kullanmak doğal kaynak talebini azaltabilir ve çöp depolama alanına giden atığı sınırlayabilir."
+  ],
+  "col": [
+   "geri dönüştürülmüş kâğıt",
+   "geri dönüştürülmüş plastik",
+   "geri dönüştürülmüş malzemeler"
+  ],
+  "tip": "recycled zaten geri dönüştürülmüş malzemeyi anlatır; recyclable ise geri dönüştürülebilir olmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "clue",
+  "senses": [
+   "ipucu; işaret"
+  ],
+  "ex": [
+   "Çamurlu ayak izleri bize ziyaretçi hakkında bir ipucu verdi.",
+   "Antik aletler, ilk toplulukların doğal çevrelerindeki değişimlere nasıl uyum sağladığına dair değerli ipuçları sunar."
+  ],
+  "col": [
+   "...için ipucu",
+   "ipuçları vermek",
+   "hiç fikri olmamak"
+  ],
+  "tip": "a clue to kalıbında to bir edattır ve ardından isim ya da isim tamlaması gelir. not have a clue 'hiç fikrim yok' anlamında sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dime",
+  "senses": [
+   "on sentlik madeni para"
+  ],
+  "ex": [
+   "Ceketimin cebinden parlak bir on sentlik çıkıp yuvarlandı.",
+   "Bir on sentlik paranın satın alma gücü az olsa da küçük nakit bağışlar toplulukların değerli projelerini destekleyebilir."
+  ],
+  "col": [
+   "her yerde bulunan; ucuz",
+   "hiç masrafı olmamak",
+   "tam bir anda"
+  ],
+  "tip": "Bir dolar on dime'a eşittir. Ağırlıklı olarak ABD ve Kanada'da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "truth",
+  "senses": [
+   "hakikat; gerçek",
+   "doğruluk; gerçek"
+  ],
+  "ex": [
+   "Lütfen kırık bardakla ilgili gerçeği söyle.",
+   "Gazeteciler, yalnızca kamuoyunun ilgisini çekmek için haber yapmak yerine gerçeği aramalıdır."
+  ],
+  "col": [
+   "doğruyu söylemek",
+   "gerçeği keşfetmek",
+   "bir şey hakkındaki gerçek"
+  ],
+  "tip": "tell the truth kalıbında the artikeli genellikle atlanmaz. truth bu anlamda sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "fountain",
+  "senses": [
+   "fıskiye; çeşme",
+   "sebil; su sebili"
+  ],
+  "ex": [
+   "Çocuklar öğleden sonra güneş ışığında parlayan fıskiyeyi izlediler.",
+   "Fıskiye bir meydanı daha çekici hale getirebilir, ancak bakımı su ve enerji gerektirir."
+  ],
+  "col": [
+   "içme suyu sebili",
+   "süs fıskiyesi",
+   "dolmakalem"
+  ],
+  "tip": "Sebil içme suyu için kullanılan yapıdır; fıskiye ise süs amaçlı su püskürten yapıdır. fountain pen Türkçede dolmakalemdir.",
+  "note": ""
+ },
+ {
+  "id": "pirate",
+  "senses": [
+   "korsan; deniz haydutu",
+   "izinsiz çoğaltmak",
+   "korsan kopyacı"
+  ],
+  "ex": [
+   "Hikâyedeki korsan tahta bir gemiyle yelken açıyordu.",
+   "Şirketler eğitim yazılımlarını korsanca kopyaladığında, geliştiricilerin ürünlerini geliştirmek için ihtiyaç duyduğu geliri zedelerler."
+  ],
+  "col": [
+   "korsan gemisi",
+   "korsan yazılım",
+   "korsan filmler"
+  ],
+  "tip": "pirated izinsiz kopyalanmış durumu tanımlar; piracy ise bu eylemin adıdır (korsanlık).",
+  "note": ""
+ }
+]

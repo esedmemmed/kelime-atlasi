@@ -1,0 +1,277 @@
+[
+ {
+  "id": "hook",
+  "senses": [
+   "kanca; çengel",
+   "kancayla tutmak; asmak"
+  ],
+  "ex": [
+   "Islak ceketini kapının yanındaki askıya as.",
+   "Her masanın yanına basit bir kanca takmak, okul çantalarının sınıf zeminine konmasını önleyebilir ve kazaları azaltabilir."
+  ],
+  "col": [
+   "palto askısı",
+   "olta iğnesi",
+   "bir şeye takmak; kancalamak"
+  ],
+  "tip": "be hooked on 'bir şeye kapılmak' anlamına gelir; fiziksel olarak asmak anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "rough",
+  "senses": [
+   "pürüzlü; engebeli",
+   "kaba; yaklaşık",
+   "zorlu; çalkantılı"
+  ],
+  "ex": [
+   "Pürüzlü ahşap bank çıplak bacaklarımı çizdi.",
+   "İnşaat maliyetlerinin kabaca bir tahmini, yerel yönetimlerin bir konut projesinin uygun fiyatlı olup olmadığına karar vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "pürüzlü yüzey",
+   "kabaca tahmin",
+   "zor bir dönem",
+   "dalgalı deniz"
+  ],
+  "tip": "'rough' /rʌf/ okunur; 'gh' harfleri sessizdir ve f sesi verir. 'rough estimate' kabaca tahmin demektir.",
+  "note": ""
+ },
+ {
+  "id": "incorrect",
+  "senses": [
+   "yanlış; hatalı"
+  ],
+  "ex": [
+   "Adres bilgilerimiz hatalı olduğu için teslimat başarısız oldu.",
+   "Çevrimiçi paylaşılan yanlış bilgiler, halk sağlığı konularındaki kamusal anlayışı zedeleyebilir ve önemli kişisel kararları etkileyebilir."
+  ],
+  "col": [
+   "yanlış bilgi",
+   "yanlış cevap",
+   "olgusal olarak yanlış"
+  ],
+  "tip": "incorrect, wrong'a göre daha resmîdir; cevap, bilgi ya da veri gibi kavramlar için sık tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "physically",
+  "senses": [
+   "bedensel olarak; fiziksel olarak",
+   "fiilen; bizzat"
+  ],
+  "ex": [
+   "Şu kutuları taşıdıktan sonra bedenen tükenmiş hissettim.",
+   "Fiziksel olarak aktif çocuklar, yetişkinliğe taşınan daha sağlıklı alışkanlıklar geliştirme eğiliminde olur ve kronik hastalık riskleri azalır."
+  ],
+  "col": [
+   "fiziksel olarak aktif",
+   "fiziksel olarak yorucu",
+   "bizzat orada bulunmak"
+  ],
+  "tip": "Vücutla ilgili durumları anlatır ve çoğu zaman mentally ile karşıt kullanılır. 'physical' sıfatıyla karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "meanwhile",
+  "senses": [
+   "bu arada; bu sırada"
+  ],
+  "ex": [
+   "Çorba kaynıyor; bu arada ben tatlı hazırlayacağım.",
+   "Yeni demiryolu hatlarının tamamlanması yıllar alabilir; bu arada şehirler mevcut otobüs hizmetlerini iyileştirmelidir."
+  ],
+  "col": [
+   "bu arada",
+   "başka yerlerde"
+  ],
+  "tip": "İki tam cümleyi bağlarken önce nokta ya da noktalı virgül kullan; sadece virgülle bağlamak yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "altogether",
+  "senses": [
+   "tamamen; bütünüyle",
+   "toplamda; hepsi birlikte",
+   "genel olarak; sonuçta"
+  ],
+  "ex": [
+   "O kalabalık kafeye bir daha hiç gitmemeye karar verdik.",
+   "Çevrimiçi kurslar erişimi artırsa da sınıf öğrenmesinin sosyal faydalarının yerini tamamen tutamaz."
+  ],
+  "col": [
+   "tamamen farklı",
+   "tam olarak açık değil",
+   "tamamen kaybolmak"
+  ],
+  "tip": "altogether 'tamamen' ya da 'toplamda' demektir; all together ise 'hep birlikte' anlamına gelir ve ayrı yazılır.",
+  "note": ""
+ },
+ {
+  "id": "aim",
+  "senses": [
+   "amaç; hedef",
+   "amaçlamak; hedeflemek",
+   "nişan almak; yöneltmek"
+  ],
+  "ex": [
+   "Bugünkü ana hedefim mutfağı toparlamak.",
+   "Program, pratik eğitim ve iş yerinde deneyim fırsatları sunarak genç işsizliğini azaltmayı amaçlıyor."
+  ],
+  "col": [
+   "ana amaç",
+   "bir şeyi yapmayı amaçlamak",
+   "...amacıyla",
+   "bir hedefe nişan almak"
+  ],
+  "tip": "aim to + fiil: bir şeyi yapmayı planlamak; aim at + -ing: bir şeyi gerçekleştirmeye yönelik çaba göstermek.",
+  "note": ""
+ },
+ {
+  "id": "terrific",
+  "senses": [
+   "harika; çok iyi",
+   "çok büyük; şiddetli"
+  ],
+  "ex": [
+   "Eski bisikleti tamir etmekte harika bir iş çıkardın.",
+   "Toplu bahçeler, sakinlere güçlü sosyal bağlar kurarken açık havada egzersiz yapmaları için harika bir fırsat sunar."
+  ],
+  "col": [
+   "harika iş",
+   "harika fırsat",
+   "çok yüksek hız",
+   "müthiş gürültü"
+  ],
+  "tip": "Konuşmada övgü için sık kullanılır; 'berbat, korkunç' anlamındaki terrible ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "mainly",
+  "senses": [
+   "esas olarak; çoğunlukla"
+  ],
+  "ex": [
+   "Bu küçük dükkân çoğunlukla taze ekmek ve kek satıyor.",
+   "Birçok kırsal topluluk esas olarak tarıma bağlı olduğundan, hava koşullarındaki değişikliklere özellikle açıktır."
+  ],
+  "col": [
+   "başlıca nedeniyle",
+   "başlıca ... kaynaklanan",
+   "...den oluşmak",
+   "esas olarak ... bağlı olmak"
+  ],
+  "tip": "'Hepsi' değil, 'başlıca' anlamı taşır. Genellikle asıl fiilden önce gelir: 'It mainly sells'.",
+  "note": ""
+ },
+ {
+  "id": "realise",
+  "senses": [
+   "fark etmek; kavramak",
+   "gerçekleştirmek"
+  ],
+  "ex": [
+   "Anahtarlarımın hâlâ evin içinde olduğunu birden fark ettim.",
+   "Birçok öğrenci, akademik işlerini ücretli bir işle dengelemeye başladıklarında zaman yönetiminin önemini kavrar."
+  ],
+  "col": [
+   "...olduğunu fark etmek",
+   "...öneminin farkına varmak",
+   "bir hedefi gerçekleştirmek",
+   "potansiyelini gerçekleştirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde realise, Amerikan İngilizcesinde realize yazılır. that ile birlikte bir cümle alabilir.",
+  "note": ""
+ },
+ {
+  "id": "staff",
+  "senses": [
+   "çalışanlar; personel",
+   "personel sağlamak; kadro oluşturmak"
+  ],
+  "ex": [
+   "Otel personeli ağır çantalarımızı taşımamıza yardım etti.",
+   "Hastaneler, artan talep dönemlerinde yüksek bakım standartlarını sürdürebilmek için yeterli personele ihtiyaç duyar."
+  ],
+  "col": [
+   "bir personel üyesi",
+   "personel eğitimi",
+   "öğretmen kadrosu",
+   "personel eksikliği"
+  ],
+  "tip": "Tek bir kişi için a member of staff denir; 'a staff' kullanılmaz. Genellikle tekil sayılmayan bir isim gibi davranır.",
+  "note": ""
+ },
+ {
+  "id": "saucer",
+  "senses": [
+   "fincan tabağı; altlık"
+  ],
+  "ex": [
+   "Bisküviyi fincanının yanındaki tabağa koydu.",
+   "Eşleşen fincan ve tabakları da içeren geleneksel çay takımları, yerel işçiliği ve kültürel tercihleri yansıtabilir."
+  ],
+  "col": [
+   "fincan ve tabak",
+   "takım tabağı",
+   "uçan daire"
+  ],
+  "tip": "saucer, fincanın altındaki küçük tabaktır; flying saucer ise 'uçan daire' (UFO) anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "buffet",
+  "senses": [
+   "açık büfe; büfe yemeği",
+   "istasyon büfesi; yemekli vagon"
+  ],
+  "ex": [
+   "Kahvaltı büfesinde taze meyve aldık.",
+   "Oteller, daha küçük porsiyonlar sunarak ve büfe yemeklerini daha sık yenileyerek yemek israfını azaltabilir."
+  ],
+  "col": [
+   "büfe kahvaltısı",
+   "büfe öğle yemeği",
+   "yemekli vagon",
+   "soğuk büfe"
+  ],
+  "tip": "Yemek anlamında 'buffet' /ˈbʊfeɪ/ okunur ve sondaki t sesi duyulmaz; 'sarsmak' anlamındaki fiil farklı okunur.",
+  "note": ""
+ },
+ {
+  "id": "balcony",
+  "senses": [
+   "balkon",
+   "üst kat locası; balkon"
+  ],
+  "ex": [
+   "Otunu balkondaki küçük saksılarda yetiştiriyor.",
+   "Balkonlu daireler sakinlere, özellikle kamusal bahçelerin az olduğu şehirlerde, değerli açık hava alanı sunar."
+  ],
+  "col": [
+   "balkonda",
+   "özel balkon",
+   "balkon koltukları"
+  ],
+  "tip": "Balkonda İngilizcede on the balcony denir, in değil. 'on' burada yüzey üzerindeki konumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "documentary",
+  "senses": [
+   "belgesel; belgesel film",
+   "belgeye dayalı; yazılı"
+  ],
+  "ex": [
+   "Yemekten sonra penguenlerle ilgili bir belgesel izledik.",
+   "İyi araştırılmış bir belgesel, çevresel sorunların nedenlerini basitleştirmeden, kamuoyu farkındalığını artırabilir."
+  ],
+  "col": [
+   "belgesel film",
+   "yazılı delil",
+   "vahşi yaşam belgeseli"
+  ],
+  "tip": "Ad olarak 'belgesel'; documentary evidence ise 'yazılı delil' anlamındadır. Sıfat olarak belge temelli bilgiyi anlatır.",
+  "note": ""
+ }
+]

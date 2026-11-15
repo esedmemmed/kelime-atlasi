@@ -1,0 +1,274 @@
+[
+ {
+  "id": "semblance",
+  "senses": [
+   "görünüş; kılık"
+  ],
+  "ex": [
+   "Düzeni bir nebze sağlamak için minderleri topladım.",
+   "Şiddetli sel felaketinden sonra okulların yeniden açılması, temel altyapı onarılırken toplulukların bir nebze normalliğe kavuşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir nebze normallik",
+   "bir nebze düzen",
+   "bir görünümü korumak"
+  ],
+  "tip": "'a semblance of' kalıbında semblance tekil kullanılır ve başına 'a' ya da 'some' gelir. Gerçek olmayan ama görünen bir durumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "indicative",
+  "senses": [
+   "belirtici; işaret eden",
+   "bildirme kipine ait"
+  ],
+  "ex": [
+   "Bu koyu bulutlar yaklaşan bir fırtınanın habercisi.",
+   "Toplu taşımaya olan talebin artması, kentsel alanlarda araba sahipliğine yönelik tutumların değiştiğine işaret ediyor olabilir."
+  ],
+  "col": [
+   "-in belirtisi olan",
+   "gösterge niteliğindeki rakamlar",
+   "bildirme kipi"
+  ],
+  "tip": "'be indicative of' kalıbında 'of' edatı zorunludur. 'indicative' sıfattır; 'indicate' fiiliyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "barometer",
+  "senses": [
+   "barometre",
+   "gösterge; ölçüt"
+  ],
+  "ex": [
+   "Koyun yelken açmadan önce barometreye baktık.",
+   "Tüketici güveni, bir ülkenin genel ekonomik sağlığının yararlı bir göstergesi olarak sıklıkla kabul edilir."
+  ],
+  "col": [
+   "hava basıncı ölçen barometre",
+   "kamuoyunun göstergesi",
+   "ekonomik gösterge"
+  ],
+  "tip": "Mecazi anlamda kullanıldığında 'a barometer of' kalıbı yaygındır ve bir durumun ölçütü anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "authorize",
+  "senses": [
+   "yetkilendirmek; onaylamak"
+  ],
+  "ex": [
+   "Bu kadar yüksek bir iadeyi yalnızca müdür onaylayabilir.",
+   "Yerel yönetimler, yeni konut projelerini ancak trafik ve kamu hizmetleri üzerindeki olası etkileri değerlendirildikten sonra onaylayabilir."
+  ],
+  "col": [
+   "ödemeyi onaylamak",
+   "birine hareket etme yetkisi vermek",
+   "erişime izin vermek"
+  ],
+  "tip": "'authorize sb to do' kalıbını kullanın. İngiliz İngilizcesinde 'authorise' yazımı da kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "prudent",
+  "senses": [
+   "temkinli; ihtiyatlı"
+  ],
+  "ex": [
+   "Dağ yürüyüşümüzden önce fazladan bir ceket almak akıllıca görünüyordu.",
+   "İhtiyatlı mali planlama, ekonomik belirsizlik dönemlerinde hanelerin beklenmedik giderlerle başa çıkmasına yardımcı olabilir."
+  ],
+  "col": [
+   "ihtiyatlı karar",
+   "ihtiyatlı mali yönetim",
+   "bir şeyi yapmak akıllıca"
+  ],
+  "tip": "Yalnızca korkaklık ya da cimriliği değil, risk ve sonuçları düşünerek hareket etmeyi anlatır. 'It is prudent to do' yapısı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "treble",
+  "senses": [
+   "üç katına çıkmak; çıkarmak",
+   "üç kat; üçlü",
+   "tiz ses; tiz"
+  ],
+  "ex": [
+   "Hava soğuduğunda ısıtma faturalarımız üç katına çıkıyor.",
+   "Hükümetler daha güçlü mali teşvikler getirirse, yenilenebilir enerjiye yapılan yatırımlar önümüzdeki on yılda üç katına çıkabilir."
+  ],
+  "col": [
+   "boyutu üç katına çıkmak",
+   "maliyeti üç katına çıkarmak",
+   "sol anahtarı",
+   "tiz ve bas"
+  ],
+  "tip": "'Treble' artışın iki kat değil, üç kat olduğunu anlatır. İngiliz İngilizcesinde daha sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cunning",
+  "senses": [
+   "kurnaz; hileci",
+   "ustaca; akıllıca",
+   "kurnazlık; hile"
+  ],
+  "ex": [
+   "Kurnaz tilki, köpek uyuyana kadar bekledi.",
+   "Kurnazca reklam taktikleri, tüketicileri ihtiyaç duymadıkları ya da karşılayamayacakları ürünleri satın almaya ikna edebilir."
+  ],
+  "col": [
+   "kurnazca bir plan",
+   "kurnaz bir numara",
+   "kurnaz taktikler"
+  ],
+  "tip": "İnsanlar için kullanıldığında genellikle olumsuz bir anlam taşır. 'Clever' gibi nötr değildir ve 'zeki' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "inlet",
+  "senses": [
+   "koy; küçük körfez",
+   "giriş; giriş ağzı"
+  ],
+  "ex": [
+   "Kayalıklarla korunan sessiz bir koya kürekle girdik.",
+   "Kıyı koyları deniz türleri için korunaklı yaşam alanları sağlar, ancak kirlilik bu kırılgan ekosistemlere ciddi zarar verebilir."
+  ],
+  "col": [
+   "korunaklı bir koy",
+   "dar bir koy",
+   "hava girişi",
+   "su girişi"
+  ],
+  "tip": "Coğrafyada koy, teknik bağlamda giriş anlamına gelir. Zıt sözcük 'outlet' (çıkış) ya da 'exit' tir.",
+  "note": ""
+ },
+ {
+  "id": "flourish",
+  "senses": [
+   "gelişmek; serpilmek",
+   "sallamak; dalgalandırmak",
+   "gösterişli hareket; süs"
+  ],
+  "ex": [
+   "Bu otlar sıcak, güneşli mutfak pencere pervazımızda çok iyi gelişiyor.",
+   "Yerel yönetimler uygun fiyatlı mekânlar ve güvenilir toplu taşıma sunduğunda küçük işletmeler daha kolay gelişir."
+  ],
+  "col": [
+   "...de gelişmek",
+   "gelişen bir işletme",
+   "gösterişle; süslü bir hareketle"
+  ],
+  "tip": "'Gelişmek' anlamında geçişsiz bir fiildir, doğrudan nesne almaz. Bu yüzden 'flourish sth' değil 'flourish in' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "coarse",
+  "senses": [
+   "kaba; pürüzlü",
+   "kaba; terbiyesiz"
+  ],
+  "ex": [
+   "Kaba yün kumaş bütün öğleden sonra boynumu batırdı.",
+   "Kentsel havadaki iri parçacıklar akciğerleri tahriş edebilir ve savunmasız sakinlerde mevcut solunum sorunlarını kötüleştirebilir."
+  ],
+  "col": [
+   "iri kum",
+   "kaba kumaş",
+   "iri parçacıklar",
+   "kaba dil"
+  ],
+  "tip": "'Course' ile sesteştir ama yazımı ve anlamı farklıdır. Kaba doku ya da kaba söz için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inverse",
+  "senses": [
+   "ters; zıt",
+   "tersi; ters işlem"
+  ],
+  "ex": [
+   "Boş zamanımız ile iş yükümüz ters orantılı.",
+   "Araştırma, düzenli fiziksel aktivite ile ofis çalışanlarının bildirdiği stres düzeyleri arasında ters bir ilişki buldu."
+  ],
+  "col": [
+   "ters ilişki",
+   "ters orantı",
+   "...in tersi",
+   "ters işlem"
+  ],
+  "tip": "'Inverse relationship' bir değer arttıkça diğerinin azaldığını anlatır. 'The inverse of' kalıbında 'of' zorunludur.",
+  "note": ""
+ },
+ {
+  "id": "brink",
+  "senses": [
+   "kritik an; eşik",
+   "uçurumun kenarı"
+  ],
+  "ex": [
+   "Küçük dükkânları kapanmanın eşiğindeydi.",
+   "Uzun süren kuraklık, birçok kırsal topluluğu ciddi bir gıda krizinin eşiğine itti."
+  ],
+  "col": [
+   "çöküşün eşiğinde",
+   "felaketten kurtarmak",
+   "sınıra kadar zorlamak"
+  ],
+  "tip": "'On the brink of' kalıbından sonra isim ya da -ing gelir ve genellikle olumsuz bir durum anlatılır.",
+  "note": ""
+ },
+ {
+  "id": "solely",
+  "senses": [
+   "yalnızca; sadece"
+  ],
+  "ex": [
+   "Bu dolap yalnızca temizlik malzemeleri için kullanılıyor.",
+   "Okullar öğrencileri yalnızca sınav sonuçlarına göre değerlendirmemelidir, çünkü pratik beceriler de önemlidir."
+  ],
+  "col": [
+   "tek sorumlu",
+   "yalnızca ...e dayalı",
+   "yalnızca ...e güvenmek"
+  ],
+  "tip": "Yalnızca belirli bir kişi ya da şeyin söz konusu olduğunu vurgular. 'Tek başına' (alone) anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "shun",
+  "senses": [
+   "kaçınmak; uzak durmak"
+  ],
+  "ex": [
+   "Komşularım kalabalık dükkânlardan uzak duruyor ve yiyeceklerini internetten alıyor.",
+   "Bazı mezunlar kurumsal kariyerlerden uzak durur, çünkü yüksek maaştan çok kişisel bağımsızlığa değer verirler."
+  ],
+  "col": [
+   "medyadan kaçınmak",
+   "sorumluluktan kaçmak",
+   "toplumdan uzak durmak"
+  ],
+  "tip": "Geçişli bir fiildir, doğrudan nesne alır. Geçmiş zaman biçimi 'shunned' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "nomination",
+  "senses": [
+   "aday gösterme; öneri"
+  ],
+  "ex": [
+   "Öğretmenlik ödülü için aday gösterilmesi herkesi şaşırttı.",
+   "Şeffaf bir aday gösterme süreci, liderlik adaylarının daha geniş toplumun çıkarlarını temsil etmesini sağlamaya yardımcı olabilir."
+  ],
+  "col": [
+   "aday gösterilmek",
+   "bir ödül için aday gösterme",
+   "aday gösterme süreci",
+   "aday gösterme başvurusu yapmak"
+  ],
+  "tip": "Bir kişiyi aday göstermek için 'nomination' kullanılır. Kesin atama ya da görevlendirme için genellikle 'appointment' tercih edilir.",
+  "note": ""
+ }
+]

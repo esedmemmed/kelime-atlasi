@@ -1,0 +1,281 @@
+[
+ {
+  "id": "monthly",
+  "senses": [
+   "aylık",
+   "ayda bir; her ay",
+   "aylık dergi"
+  ],
+  "ex": [
+   "Aylık otobüs kartım cüzdanıma tam sığıyor.",
+   "Aylık ödemeler temel hizmetleri daha uygun hale getirebilir, ancak hanehalkları toplam harcamalarını dikkatle izlemelidir."
+  ],
+  "col": [
+   "aylık ödemeler",
+   "aylık gelir",
+   "aylık abonelik",
+   "ayda bir buluşmak"
+  ],
+  "tip": "Sıfat, zarf ve isim olarak kullanılabilir; biçimi değişmez. Zarf olarak 'ayda bir' anlamındadır, 'her ay' için every month da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "disappointed",
+  "senses": [
+   "hayal kırıklığına uğramış"
+  ],
+  "ex": [
+   "Yağmur plaj pikniğimizi iptal edince hayal kırıklığına uğradım.",
+   "Mezunlar, ilk işlerinde öğrendikleri becerileri kullanma fırsatı az çıkarsa hayal kırıklığına uğrayabilirler."
+  ],
+  "col": [
+   "-den hayal kırıklığına uğramış",
+   "derinden hayal kırıklığına uğramış",
+   "bunu duyunca üzülmüş"
+  ],
+  "tip": "disappointed insanın hissini anlatır; disappointing ise şeyi tanımlar. 'I am disappointed' doğrudur, 'I am disappointing' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "helmet",
+  "senses": [
+   "kask; baret"
+  ],
+  "ex": [
+   "Bisiklete binmeden önce kaskını tak.",
+   "Kask takmak, kazaya karışan bisikletçilerde ciddi kafa yaralanması riskini azaltabilir."
+  ],
+  "col": [
+   "kask takmak",
+   "bisiklet kaskı",
+   "emniyet kaskı"
+  ],
+  "tip": "Sayılabilir isimdir: a helmet, helmets. Başa takılan koruyucu için wear ya da put on kullanılır, use kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "turtle",
+  "senses": [
+   "kaplumbağa"
+  ],
+  "ex": [
+   "Resifin üzerinde yavaşça yüzen bir kaplumbağa izledik.",
+   "Kıyı sularındaki plastik kirliliğini azaltmak, kaplumbağa popülasyonlarını ve diğer deniz canlılarını korumak için şarttır."
+  ],
+  "col": [
+   "deniz kaplumbağası",
+   "tatlı su kaplumbağası",
+   "kaplumbağa kabuğu"
+  ],
+  "tip": "İngilizcede karasal türler için genellikle tortoise, su ve deniz türleri için turtle kullanılır. Türkçedeki 'kaplumbağa' her ikisini de kapsar.",
+  "note": ""
+ },
+ {
+  "id": "beyond",
+  "senses": [
+   "ötesinde; öte tarafında",
+   "ötesinde; dışında",
+   "daha ötede; uzakta"
+  ],
+  "ex": [
+   "Kumulların ötesindeki plaja dar bir patika çıkıyor.",
+   "Üniversite eğitiminin faydaları iş olanaklarının ötesine geçerek kişisel gelişimi ve daha geniş toplumsal farkındalığı da kapsar."
+  ],
+  "col": [
+   "onarılamaz",
+   "erişilemez",
+   "tanınmayacak derecede",
+   "aşmak"
+  ],
+  "tip": "Hem yer hem sınır anlamında kullanılır: beyond the river (nehrin öte yanı), beyond my control (kontrolümün dışında). 'After' ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "compete",
+  "senses": [
+   "rekabet etmek; yarışmak",
+   "yarışmaya katılmak"
+  ],
+  "ex": [
+   "Caddemizdeki birkaç fırın müşteri için rekabet ediyor.",
+   "Küçük işletmeler, daha düşük fiyat sunabilen büyük şirketlerle rekabet etmekte genellikle zorlanır."
+  ],
+  "col": [
+   "ile rekabet etmek",
+   "için yarışmak",
+   "bir turnuvaya katılmak"
+  ],
+  "tip": "compete with/against rakiple, for ödül ya da pay için, in bir yarışma ya da turnuvaya katılmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "newsletter",
+  "senses": [
+   "bülten; haber mektubu"
+  ],
+  "ex": [
+   "Okul bültenimiz bu sabah e-posta kutuma geldi.",
+   "Aylık bir bülten, hayır kurumlarının bağışçılarıyla ilerlemelerini paylaşmasına ve bağışların nasıl kullanıldığını açıklamasına olanak tanır."
+  ],
+  "col": [
+   "aylık bülten",
+   "e-posta bülteni",
+   "bültene abone olmak"
+  ],
+  "tip": "Basılı ya da elektronik olabilir. Abone olmak için subscribe to kullanılır; subscribe a newsletter demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "reasonable",
+  "senses": [
+   "makul; mantıklı",
+   "makul fiyatlı",
+   "idare eder; orta"
+  ],
+  "ex": [
+   "Önerin mantıklı görünüyor, o zaman yarın deneyelim.",
+   "İşverenler, personeline aşırı baskı yapmadan verimliliği teşvik eden makul hedefler koymalıdır."
+  ],
+  "col": [
+   "makul bir açıklama",
+   "makul bir fiyat",
+   "makul beklentiler",
+   "kabul edilebilir bir standart"
+  ],
+  "tip": "Fiyat için reasonable 'ucuz' değil, 'adil, pahalı olmayan' demektir. Kalite için ise 'iyi değil ama kabul edilebilir' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "occupation",
+  "senses": [
+   "meslek; iş",
+   "askeri işgal",
+   "oturma; kullanım"
+  ],
+  "ex": [
+   "Onun mesleği küçük bir atölyede bisiklet tamir etmeyi içeriyor.",
+   "Bir kişinin mesleği gelirini, sosyal çevresini ve daha fazla eğitim fırsatlarını etkileyebilir."
+  ],
+  "col": [
+   "mevcut meslek",
+   "askeri işgal",
+   "işgal altında",
+   "kullanıma hazır"
+  ],
+  "tip": "Meslek anlamında resmi bir kelimedir ve formlarda sık görülür. Görev ya da pozisyon anlamındaki position ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "independent",
+  "senses": [
+   "bağımsız; özgür",
+   "bağımsız; özerk",
+   "bağlantısız; ilgisiz"
+  ],
+  "ex": [
+   "Yalnız yaşamak beni çok daha bağımsız biri yaptı.",
+   "Bağımsız araştırmalar, hükümetlerin yeni çevre politikalarının hedeflerine ulaşıp ulaşmadığını değerlendirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "mali açıdan bağımsız",
+   "bağımsız araştırma",
+   "-den bağımsız",
+   "bağımsız görüş"
+  ],
+  "tip": "independent of ile 'den etkilenmeyen' anlamı verir: independent of the weather. 'From' ile kurmak sık yapılan bir hatadır.",
+  "note": ""
+ },
+ {
+  "id": "remain",
+  "senses": [
+   "olmaya devam etmek",
+   "kalmak; yerinde durmak",
+   "geriye kalmak"
+  ],
+  "ex": [
+   "Otobüs tamamen durana kadar lütfen oturmaya devam edin.",
+   "Toplu taşımadaki iyileşmelere rağmen, birçok kırsal bölgede özel araçlar hâlâ başlıca ulaşım aracı olmayı sürdürüyor."
+  ],
+  "col": [
+   "sakin kalmak",
+   "değişmeden kalmak",
+   "bir sorun olmaya devam etmek",
+   "henüz belli değil"
+  ],
+  "tip": "Durum bildiren sıfat ya da isimle kullanılır: remain calm. Burada zarf değil sıfat kullanılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "flyer",
+  "senses": [
+   "broşür; el ilanı",
+   "uçakla yolculuk eden"
+  ],
+  "ex": [
+   "Yüzme havuzunun önünde biri bana bir el ilanı uzattı.",
+   "Yerel hayır kurumları, sakinleri toplu geri dönüşüm programlarına katılmaya teşvik etmek için sık sık broşür dağıtır."
+  ],
+  "col": [
+   "broşür dağıtmak",
+   "tanıtım broşürü",
+   "sık uçan yolcu"
+  ],
+  "tip": "Broşür anlamında flier de yazılır. Sık uçan yolcu için frequent flyer kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vest",
+  "senses": [
+   "yelek; atlet",
+   "yetki vermek; devretmek"
+  ],
+  "ex": [
+   "Bugün gömleğimin altına pamuklu bir atlet giydim.",
+   "Anayasa, yürütme yetkisini seçilmiş yetkililere verir ve bunlar düzenli seçimlerle halka karşı sorumlu kalır."
+  ],
+  "col": [
+   "pamuklu atlet",
+   "kurşun geçirmez yelek",
+   "birine yetki vermek"
+  ],
+  "tip": "İngiliz İngilizcesinde vest genellikle iç giyim atletidir; ceket altı yelek için waistcoat sık kullanılır. Yetki anlamında vest power in someone kalıbı vardır.",
+  "note": ""
+ },
+ {
+  "id": "dialogue",
+  "senses": [
+   "diyalog; görüş alışverişi",
+   "diyalog; replik"
+  ],
+  "ex": [
+   "Komşular ortak bahçeleri hakkında samimi bir sohbete başladılar.",
+   "Öğretmenler ve veliler arasındaki açık diyalog, okulların çocukların ihtiyaçlarına daha etkili yanıt vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "açık diyalog",
+   "diyalog kurmak",
+   "topluluklar arası diyalog",
+   "doğal diyalog"
+  ],
+  "tip": "Hem gerçek hayattaki görüşmeleri hem de kitap ya da filmlerdeki karakter konuşmalarını anlatır. Türkçedeki 'diyalog' kullanımıyla büyük ölçüde örtüşür.",
+  "note": ""
+ },
+ {
+  "id": "bush",
+  "senses": [
+   "çalı",
+   "çalılık; ıssız arazi"
+  ],
+  "ex": [
+   "Gül çalısının içinde küçük bir kuş saklanıyordu.",
+   "Kentsel bahçelere yerli çalılar dikmek, yerel yaban hayvanlarına barınak ve besin sağlayabilir."
+  ],
+  "col": [
+   "gül çalısı",
+   "sık çalılar",
+   "ıssız arazide"
+  ],
+  "tip": "Sayılabilir isimdir: a bush, bushes. the bush ifadesi Avustralya gibi yerlerde ağaçsız, ıssız kırsal alanı anlatabilir.",
+  "note": ""
+ }
+]

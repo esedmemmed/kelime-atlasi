@@ -1,0 +1,270 @@
+[
+ {
+  "id": "worthless",
+  "senses": [
+   "değersiz; işe yaramaz"
+  ],
+  "ex": [
+   "Eksik parçaları olmadan bu eski makine hiçbir işe yaramaz.",
+   "Eğitim yalnızca kısa sürede eskiyecek araçlara odaklanırsa dijital beceriler çabucak değerini yitirebilir."
+  ],
+  "col": [
+   "neredeyse değersiz",
+   "değersiz bilgi",
+   "değersiz yatırım"
+  ],
+  "tip": "'worthless' değersiz anlamına gelir; 'priceless' ise tam tersine paha biçilmez demektir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "vaccine",
+  "senses": [
+   "aşı"
+  ],
+  "ex": [
+   "Hemşire, aşının hastalıklara karşı nasıl koruma sağladığını anlattı.",
+   "Savunmasız toplumları korumak ve bulaşıcı hastalıkların yayılmasını azaltmak için aşıya adil erişim sağlanması çok önemlidir."
+  ],
+  "col": [
+   "aşı geliştirmek",
+   "aşı almak",
+   "aşı güvenliği",
+   "aşı geliştirme"
+  ],
+  "tip": "Bir hastalığa karşı aşı için 'a vaccine against + hastalık' kalıbını kullanın: a vaccine against measles.",
+  "note": ""
+ },
+ {
+  "id": "mainland",
+  "senses": [
+   "anakara",
+   "anakaraya ait"
+  ],
+  "ex": [
+   "Sabah feribotuyla anakaraya geri döndük.",
+   "Küçük adalar ile anakara arasında güvenilir ulaşım bağlantıları, sağlık hizmetlerine erişim ve ekonomik kalkınma için şarttır."
+  ],
+  "col": [
+   "anakarada",
+   "Avrupa anakarası",
+   "anakara sakinleri"
+  ],
+  "tip": "İsim olarak genellikle başında the ile 'the mainland' biçiminde kullanılır; 'mainland Europe' gibi sıfat gibi de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "disturbance",
+  "senses": [
+   "rahatsızlık; dikkat dağıtma",
+   "kargaşa; düzensizlik"
+  ],
+  "ex": [
+   "Yukarıdaki matkap sesi akşam yemeğimiz sırasında rahatsızlık yarattı.",
+   "Korunan sulak alanların yakınındaki inşaat, özellikle üreme mevsiminde yuvalayan kuşlar için ciddi bir rahatsızlığa neden olabilir."
+  ],
+  "col": [
+   "rahatsızlık yaratmak",
+   "gürültü rahatsızlığı",
+   "uyku bozukluğu",
+   "kamu düzeni bozukluğu"
+  ],
+  "tip": "'Disturbance' sadece rahatsızlık değil, 'sleep disturbance' gibi uyku bozukluğu anlamında da kullanılır; kalıpları birlikte öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "pat",
+  "senses": [
+   "hafifçe vurmak; okşamak",
+   "hafif dokunuş; okşama"
+  ],
+  "ex": [
+   "Köpek uyuyakalırken kadın onu nazikçe okşadı.",
+   "Omuza hafifçe dokunmak güven verebilir; ancak fiziksel temasa karşı tutumlar kültürden kültüre değişir."
+  ],
+  "col": [
+   "birinin sırtını sıvazlamak",
+   "birine sıvazlama yapmak",
+   "hafifçe kurulamak"
+  ],
+  "tip": "Geçmiş zaman patted, ing hali patting biçimindedir; t harfi ikiye katlanır. 'Pat' hem fiil hem isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "demonstration",
+  "senses": [
+   "gösterim; gösteri",
+   "protesto yürüyüşü",
+   "kanıt; gösterge"
+  ],
+  "ex": [
+   "Şef, ekmek yapımını adım adım gösterdi.",
+   "Uygulamalı gösterim, öğrencilerin bilimsel ilkeleri yalnızca yazılı açıklamayla kıyaslandığında daha etkili biçimde anlamasını sağlayabilir."
+  ],
+  "col": [
+   "gösteri yapmak",
+   "barışçıl gösteri",
+   "destek göstergesi"
+  ],
+  "tip": "Bir işlemi veya beceriyi gösterme anlamında 'demonstration of + beceri' kalıbı kullanılır. Fiil olarak 'demonstrate' karşılığıdır.",
+  "note": ""
+ },
+ {
+  "id": "hive",
+  "senses": [
+   "arı kovanı",
+   "kaynayan yer"
+  ],
+  "ex": [
+   "Arıcı kapağı kaldırıp kovanı inceledi.",
+   "Her topluluk bahçesi, sakinlerin birlikte taze sebze yetiştirmesiyle hareketli bir yere dönüştü."
+  ],
+  "col": [
+   "arı kovanı",
+   "hareketli bir ortam",
+   "kovanı incelemek"
+  ],
+  "tip": "'A hive of activity' kalıbı yoğun ve hareketli bir ortamı anlatır. 'Bee hive' yerine bitişik yazılan 'beehive' de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "receiver",
+  "senses": [
+   "alıcı cihaz",
+   "telefon ahizesi",
+   "alıcı; alan kişi"
+  ],
+  "ex": [
+   "Müzik net duyulana kadar alıcıyı ayarladık.",
+   "Uydu alıcısı, uzak topluluklara eğitim yayınlarına ve acil durum bilgilerine erişim imkânı sağlayabilir."
+  ],
+  "col": [
+   "uydu alıcısı",
+   "radyo alıcısı",
+   "ahizeyi kaldırmak",
+   "ahizeyi yerine koymak"
+  ],
+  "tip": "'Receiver' cihaz ya da kişi için kullanılabilir; gönderilen kişi (muhatap) anlamında resmi metinlerde genellikle 'recipient' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "guardian",
+  "senses": [
+   "vasi; yasal koruyucu",
+   "koruyucu; koruyan"
+  ],
+  "ex": [
+   "Teyzesi onun yasal vasisi oldu ve ona bakıp büyüttü.",
+   "Okullar, çocukların eğitimini ve duygusal iyi oluşunu önemli ölçüde etkileyen kararlara ebeveynleri veya vasileri dahil etmelidir."
+  ],
+  "col": [
+   "yasal vasi",
+   "ebeveyn veya vasi",
+   "geleneğin koruyucusu"
+  ],
+  "tip": "Hukuki bağlamda vasi anlamına gelir ve çocuğun anne babası olmak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "hardship",
+  "senses": [
+   "yoksunluk; sıkıntı"
+  ],
+  "ex": [
+   "İşini kaybetmesi aile için aylarca süren bir sıkıntıya yol açtı.",
+   "Konut maliyetlerindeki artış, temel ihtiyaçları karşılamakta zaten zorlanan aileler için ciddi bir mali sıkıntıya yol açabilir."
+  ],
+  "col": [
+   "mali sıkıntı",
+   "zorluklarla karşılaşmak",
+   "zorluklara katlanmak"
+  ],
+  "tip": "Genel durumu anlatırken 'hardship' çoğul olmadan kullanılır; belirli zorluklar için 'hardships' çoğul biçimi tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "tactic",
+  "senses": [
+   "taktik; yöntem"
+  ],
+  "ex": [
+   "Onun taktiği, herkes gelmeden önce çalışmaktı.",
+   "Ucuz toplu taşıma sunmak, şehirlerin gereksiz araba yolculuklarını azaltmak için kullanabileceği yöntemlerden biridir."
+  ],
+  "col": [
+   "etkili taktik",
+   "pazarlama taktiği",
+   "taktik değiştirmek"
+  ],
+  "tip": "'Strategy' genel planı, 'tactic' ise bu planı uygulamak için kullanılan belirli adım veya yöntemi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "sensational",
+  "senses": [
+   "sansasyonel; çarpıcı",
+   "harika; muhteşem"
+  ],
+  "ex": [
+   "Bu sansasyonel haber kahvaltıda herkesi dili tutulmuş gibi bıraktı.",
+   "Sansasyonel haberler büyük kitleleri çekebilir, ama önemli toplumsal konuların halk tarafından anlaşılmasını çarpıtabilir."
+  ],
+  "col": [
+   "sansasyonel haber",
+   "sansasyonel habercilik",
+   "muhteşem performans"
+  ],
+  "tip": "Haber için genellikle olumsuz ve abartılı bir anlam taşır; performans için ise olumlu anlamda harika demektir.",
+  "note": ""
+ },
+ {
+  "id": "computerize",
+  "senses": [
+   "bilgisayarlaştırmak"
+  ],
+  "ex": [
+   "Yerel kütüphanemiz ödünç alma kayıtlarını bilgisayar ortamına aktarmayı planlıyor.",
+   "Hasta kayıtlarını bilgisayar ortamına taşıyan hastaneler, yeterli gizlilik önlemleri alındığı sürece bilgiye erişimi iyileştirebilir."
+  ],
+  "col": [
+   "kayıtları bilgisayarlaştırmak",
+   "bir sistemi bilgisayarlaştırmak",
+   "bilgisayarlaştırılmış veritabanı"
+  ],
+  "tip": "İngiliz İngilizcesinde 'computerise' yazımı da kullanılır; genellikle records veya system gibi nesnelerle birlikte gelir.",
+  "note": ""
+ },
+ {
+  "id": "nevertheless",
+  "senses": [
+   "yine de; buna rağmen"
+  ],
+  "ex": [
+   "Tırmanış yorucuydu; yine de manzaranın tadını çıkardık.",
+   "Toplu taşımada iyileştirmeler önemli yatırım gerektirir; yine de trafik sıkışıklığını azaltabilir ve kentsel hava kalitesini iyileştirebilir."
+  ],
+  "col": [
+   "ama yine de",
+   "yine de varlığını korumak"
+  ],
+  "tip": "Bir zarf (adverb)tır, bağlaç değildir. Bağımsız cümleleri birleştirirken noktalı virgülle kullanılması yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "shipwreck",
+  "senses": [
+   "gemi kazası",
+   "batık gemi"
+  ],
+  "ex": [
+   "Herkes gemi kazasından sağ kurtuldu ve yakındaki adaya ulaştı.",
+   "Bir batık geminin incelenmesi, tarihi ticaret yollarına ve geleneksel gemi yapım yöntemlerine dair değerli bilgiler ortaya çıkarabilir."
+  ],
+  "col": [
+   "gemi kazasından sağ kurtulmak",
+   "antik bir batık",
+   "batık gemiyi keşfetmek"
+  ],
+  "tip": "Hem kazanın kendisini (olay) hem de batmış geminin kalıntısını anlatabilir; anlamı bağlamdan seçin.",
+  "note": ""
+ }
+]

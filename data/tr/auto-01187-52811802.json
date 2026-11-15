@@ -1,0 +1,284 @@
+[
+ {
+  "id": "dream",
+  "senses": [
+   "rüya; düş",
+   "hayal; ideal",
+   "rüya görmek; hayal etmek"
+  ],
+  "ex": [
+   "Dün gece dağların üzerinde uçtuğum bir rüya gördüm.",
+   "Uygun fiyatlı eğitime erişim, daha fazla genç insanın nitelikli bir mesleğe girme hayalini gerçekleştirmesine olanak tanıyor."
+  ],
+  "col": [
+   "bir hayali olmak",
+   "bir hayalin peşinden gitmek",
+   "olmayı hayal etmek",
+   "gerçek olan hayal"
+  ],
+  "tip": "dream of/about isim veya -ing ile kullanılır. Geçmiş zamanda dreamt ya da dreamed; ikisi de doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "regular",
+  "senses": [
+   "düzenli; periyodik",
+   "düzgün; eşit",
+   "müdavim; sürekli müşteri"
+  ],
+  "ex": [
+   "Köpeğimizin mutlu ve sağlıklı kalması için düzenli yürüyüşlere ihtiyacı var.",
+   "Düzenli egzersiz, yaşlılarda kronik hastalık riskini azaltabilir ve genel iyi oluşu artırabilir."
+  ],
+  "col": [
+   "düzenli egzersiz",
+   "belirli aralıklarla",
+   "sadık müşteri",
+   "düzenli bir örüntü"
+  ],
+  "tip": "regular belli aralıklarla tekrar eden anlamına gelir; sürekli anlamındaki continuous ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "stairs",
+  "senses": [
+   "merdiven"
+  ],
+  "ex": [
+   "Ağır bavulu dar merdivenlerden yukarı taşıdık.",
+   "Kamu binaları, hareket kısıtlılığı olan insanlar için eşit erişim sağlamak amacıyla merdivenlerin yanında asansör bulundurmalıdır."
+  ],
+  "col": [
+   "merdivenleri çıkmak",
+   "bir sıra merdiven",
+   "merdiven kullanmak"
+  ],
+  "tip": "stairs çoğul bir isimdir ve fiili de çoğul olur. Tek bir merdiven bloğu için a flight of stairs denir.",
+  "note": ""
+ },
+ {
+  "id": "accept",
+  "senses": [
+   "kabul etmek",
+   "doğru saymak; kabul etmek",
+   "kabullenmek; üstlenmek"
+  ],
+  "ex": [
+   "Cumartesi günkü akşam yemeği davetini memnuniyetle kabul ettim.",
+   "Hükümetler, tüm çocukların temel eğitime erişebilmesini sağlama sorumluluğunu üstlenmelidir."
+  ],
+  "col": [
+   "bir teklifi kabul etmek",
+   "sorumluluk üstlenmek",
+   "daveti kabul etmek",
+   "...olduğunu kabul etmek"
+  ],
+  "tip": "receive 'almak' anlamına gelir; accept ise teklifi veya daveti kabul etmek, onaylamak anlamı taşır. Bir şeyi sadece almak için accept kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "abroad",
+  "senses": [
+   "yurt dışında; yurt dışına"
+  ],
+  "ex": [
+   "Kız kardeşim yurt dışına taşındı ve şimdi denizin yakınında yaşıyor.",
+   "Yurt dışında okumak, öğrencilerin bağımsızlıklarını geliştirmelerine ve diğer kültürleri daha iyi anlamalarına yardımcı olabilir."
+  ],
+  "col": [
+   "yurt dışında okumak",
+   "yurt dışına gitmek",
+   "yurt dışında yaşamak",
+   "yurt dışına seyahat etmek"
+  ],
+  "tip": "abroad bir zarftır: go abroad denir, go to abroad denmez. Yer belirtmek için önüne to eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "attend",
+  "senses": [
+   "katılmak; devam etmek",
+   "ilgilenmek; bakmak"
+  ],
+  "ex": [
+   "Kız kardeşim her cumartesi sabahı bir dans kursuna gidiyor.",
+   "Derslere düzenli katılan öğrenciler, zor kavramları anlama ve ödevlerini başarıyla tamamlama konusunda daha başarılı olma eğilimindedir."
+  ],
+  "col": [
+   "bir toplantıya katılmak",
+   "okula devam etmek",
+   "bir soruna ilgilenmek"
+  ],
+  "tip": "Bir etkinliğe katılmak anlamında attend doğrudan nesne alır. İlgilenmek, bakmak anlamında ise attend to kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "take-away",
+  "senses": [
+   "paket almak",
+   "kaldırmak; almak"
+  ],
+  "ex": [
+   "Bana bir sebzeli sandviç paket olarak verebilir misiniz?",
+   "Restoranlar, yemeklerini paket olarak alan müşterilere tekrar kullanılabilir kaplar sunmalı; böylece ambalaj atığı azalır."
+  ],
+  "col": [
+   "paket yemek",
+   "tabakları kaldırmak",
+   "birinin haklarını elinden almak"
+  ],
+  "tip": "take away fiil öbeğidir ve ayrı yazılır. takeaway bitişik yazılan bir isimdir ve paket yemeğin kendisini ya da paket servis yapan yeri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "candy",
+  "senses": [
+   "şekerleme; şeker"
+  ],
+  "ex": [
+   "Her misafirine küçük bir şekerleme ikram etti.",
+   "Çocuklara yönelik şekerleme reklamlarını sınırlamak, ailelerin daha sağlıklı beslenme alışkanlıkları geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir parça şeker",
+   "sert şekerleme",
+   "çikolatalı bar",
+   "şekerleme dükkânı"
+  ],
+  "tip": "candy Amerikan İngilizcesinde yaygındır; İngiliz İngilizcesinde sweets kullanılır. Tek bir parça için a piece of kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "basic",
+  "senses": [
+   "temel; esas",
+   "basit; sade"
+  ],
+  "ex": [
+   "Bu kurs, tamamen yeni başlayanlara temel yemek pişirme becerilerini öğretir.",
+   "Hükümetler, gelirlerine bakılmaksızın tüm vatandaşların temel sağlık hizmetlerine erişebilmesini sağlamalıdır."
+  ],
+  "col": [
+   "temel beceriler",
+   "temel ihtiyaçlar",
+   "temel bilgi",
+   "temel ilkeler"
+  ],
+  "tip": "Basic isim olarak 'temel bilgiler' anlamında kullanılırsa çoğul the basics biçiminde olur.",
+  "note": ""
+ },
+ {
+  "id": "public",
+  "senses": [
+   "halka açık; kamuya ait",
+   "devlete ait; kamusal",
+   "halk; kamuoyu"
+  ],
+  "ex": [
+   "Halka açık bahçe her gün gün batımına kadar açık.",
+   "Toplu taşımaya yapılan yatırım, özel araç bağımlılığını azaltırken iş olanaklarına erişimi artırabilir."
+  ],
+  "col": [
+   "toplu taşıma",
+   "kamu hizmetleri",
+   "genel halk",
+   "herkesin önünde"
+  ],
+  "tip": "the public topluluk olarak 'halk' anlamına gelir; in public ise 'herkesin önünde, umuma açık yerde' demektir.",
+  "note": ""
+ },
+ {
+  "id": "rubbish",
+  "senses": [
+   "çöp; atık",
+   "saçmalık; boş laf"
+  ],
+  "ex": [
+   "Lütfen çöpünüzü dışarıdaki çöp kutusuna atın.",
+   "Evsel çöpü azaltmak, hem kolay geri dönüşüm tesisleri hem de gereksiz ambalaja karşı daha fazla kamu farkındalığı gerektirir."
+  ],
+  "col": [
+   "evsel çöp",
+   "çöp kutusu",
+   "çöp toplamak",
+   "saçma sapan konuşmak"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. İngiliz İngilizcesinde yaygındır; Amerikan İngilizcesinde garbage ya da trash denir.",
+  "note": ""
+ },
+ {
+  "id": "restroom",
+  "senses": [
+   "tuvalet; wc"
+  ],
+  "ex": [
+   "Otobüse binmeden önce tuvalete uğradım.",
+   "Yoğun ulaşım merkezlerinin yakınında temiz bir halka açık tuvalet bulunması, hem yolcular hem de turistler için konforu artırır."
+  ],
+  "col": [
+   "halka açık tuvalet",
+   "tuvalet olanakları",
+   "erişilebilir tuvalet"
+  ],
+  "tip": "Amerikan İngilizcesinde restroom genellikle halka açık tuvaleti anlatır; ev tuvaletiyle ya da genel bir dinlenme odasıyla karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "midnight",
+  "senses": [
+   "gece yarısı"
+  ],
+  "ex": [
+   "Kar yağışını izleyerek gece yarısına kadar uyanık kaldık.",
+   "Toplu taşıma hizmetlerinin gece yarısından sonra da sürdürülmesi, pahalı taksi yolculuklarına bağımlı olan vardiyalı çalışanlara fayda sağlardı."
+  ],
+  "col": [
+   "gece yarısında",
+   "gece yarısına kadar",
+   "gece yarısı civarında",
+   "gece yarısı atıştırmalığı"
+  ],
+  "tip": "Saat on ikiyi ifade ederken at midnight kullanılır, in midnight denmez.",
+  "note": ""
+ },
+ {
+  "id": "bar",
+  "senses": [
+   "bar; içki satılan yer",
+   "çubuk; kalıp",
+   "yasaklamak; men etmek"
+  ],
+  "ex": [
+   "Otelin barında taze portakal suyu sipariş ettik.",
+   "Spor merkezleri, sadece üyelik ücretlerini ödeyemedikleri için sakinleri temel tesislerden mahrum bırakmamalıdır."
+  ],
+  "col": [
+   "otel barı",
+   "bir kalıp çikolata",
+   "metal çubuklar",
+   "birini bir şey yapmaktan men etmek"
+  ],
+  "tip": "Birini bir şey yapmaktan men etmek anlamında bar sb from doing kalıbı kullanılır. Geçmiş zaman biçimi barred'dır.",
+  "note": ""
+ },
+ {
+  "id": "choice",
+  "senses": [
+   "seçim; seçme hakkı",
+   "seçenek; seçim yelpazesi",
+   "kaliteli; seçkin"
+  ],
+  "ex": [
+   "Çorba ile salata arasında seçim yapabilirsin.",
+   "Güvenilir toplu taşıma, yolculara daha geniş bir seçenek sunar ve özel araçlara bağımlılığı azaltır."
+  ],
+  "col": [
+   "seçim yapmak",
+   "seçeneği olmamak",
+   "geniş bir seçenek yelpazesi",
+   "seçme özgürlüğü"
+  ],
+  "tip": "choice isimdir, choose ise fiildir. Bir şeyi yapmayı seçmek için choose to do kalıbı kullanılır.",
+  "note": ""
+ }
+]

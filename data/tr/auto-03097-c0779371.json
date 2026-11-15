@@ -1,0 +1,279 @@
+[
+ {
+  "id": "blame",
+  "senses": [
+   "sorumlu tutmak; suçlamak",
+   "suçlama; sorumluluk"
+  ],
+  "ex": [
+   "Kırık mutfak sandalyesi yüzünden beni suçlama.",
+   "Çevre sorunlarının bir kısmı endüstriyel faaliyetlerden kaynaklanırken, bunun bütün sorumluluğunu yalnızca bireylere yüklemek adaletsizlik olur."
+  ],
+  "col": [
+   "birini bir şeyden dolayı suçlamak",
+   "bir şeyi birinin üzerine yıkmak",
+   "suçu üstlenmek",
+   "suçlu olmak; sorumlu olmak"
+  ],
+  "tip": "Kişiyi suçlarken blame sb for, olayı suçlarken blame sth on kalıbını kullanın. For ve on edatlarını karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "surely",
+  "senses": [
+   "kuşkusuz; herhalde",
+   "kesinlikle; mutlaka"
+  ],
+  "ex": [
+   "Yardım etmek için beş dakikanı ayıramazsın herhalde?",
+   "Pahalı spor tesislerine kamu parası harcamadan önce hükümetler mutlaka temiz içme suyuna öncelik vermelidir."
+  ],
+  "col": [
+   "olamaz herhalde",
+   "yavaş ama emin adımlarla",
+   "mutlaka ... yol açacaktır"
+  ],
+  "tip": "Surely yalnızca zarftır. Sıfat olan sure ile karıştırmayın. Soruda karşıdakinin de katılacağını beklediğinizde sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "secondary",
+  "senses": [
+   "ortaöğretim; orta",
+   "ikincil; ikinci derecede"
+  ],
+  "ex": [
+   "Kız kardeşim yaz tatilinden sonra ortaöğretime başlıyor.",
+   "Kaliteli ortaöğretime erişim, kırsal kesimdeki gençlerin iş bulma olanaklarını artırabilir."
+  ],
+  "col": [
+   "ortaöğretim okulu",
+   "ortaöğretim",
+   "ikinci derecede önemli",
+   "...ye göre ikincil"
+  ],
+  "tip": "Bir şeyden daha az önemli anlamında secondary to kullanılır; than ile kurulmaz.",
+  "note": ""
+ },
+ {
+  "id": "underneath",
+  "senses": [
+   "altında; altına",
+   "altta; aşağıda"
+  ],
+  "ex": [
+   "Terliklerin yatağın yanındaki sandalyenin altında.",
+   "Eski evlerde zeminlerin altına yapılan yalıtım, ısı kaybını azaltıp enerji verimliliğini artırabilir."
+  ],
+  "col": [
+   "yatağın altında",
+   "yüzeyin altında",
+   "altında saklı"
+  ],
+  "tip": "Nesne alınca edat (underneath the bed), tek başına kullanılınca zarftır (...is underneath). Bu ayrım cümle kurarken önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "permitted",
+  "senses": [
+   "izin vermek; müsaade etmek"
+  ],
+  "ex": [
+   "Öğlen keçilere yem vermemize izin verildi.",
+   "Dijital araçlar öğrenmeyi gerçekten destekliyorsa, öğrencilerin bunları kullanmasına izin verilmelidir; dikkatlerini dağıtıyorsa değil."
+  ],
+  "col": [
+   "yapmasına izin verilmek",
+   "izin verilmez; yasak",
+   "yasal olarak izin verilen"
+  ],
+  "tip": "Permit fiilinin geçmiş zamanı ve ortacı permitted'dır, t harfi iki kez yazılır. Be permitted to + fiil kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spotted",
+  "senses": [
+   "benekli; puantiyeli"
+  ],
+  "ex": [
+   "Bahçe kapısının yanında benekli bir köpek uyuyordu.",
+   "Bazı benekli hayvanlar çevreleriyle bütünleşir; bu da yırtıcıların onları fark etmesini zorlaştırır."
+  ],
+  "col": [
+   "benekli ceket",
+   "puantiyeli elbise",
+   "benekli desen"
+  ],
+  "tip": "Sıfat olarak benekli anlamındadır. Spot fiilinin geçmiş zamanı ise fark etti anlamına gelir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "monument",
+  "senses": [
+   "anıt; abide",
+   "tarihi yapı; anıt yapı"
+  ],
+  "ex": [
+   "Kasaba meydanındaki anıtın yanına çiçek bıraktık.",
+   "Antik yapıların korunması, turistleri çekerken kültürel kimliği güçlendirebilir ve yerel halkın istihdamını destekleyebilir."
+  ],
+  "col": [
+   "...in anısına dikilen anıt",
+   "antik yapı",
+   "tarihi yapı",
+   "anıt dikmek"
+  ],
+  "tip": "Bir kişiyi ya da olayı anmak için a monument to + isim kalıbı kullanılır. Anıt ve tarihi yapı anlamları bağlamla ayrılır.",
+  "note": ""
+ },
+ {
+  "id": "grill",
+  "senses": [
+   "ızgarada pişirmek",
+   "ızgara; mangal",
+   "sorguya çekmek"
+  ],
+  "ex": [
+   "Biberleri ızgarada pişirip pirinçle yedik.",
+   "Sebzeleri az yağla ızgarada pişirmek, evde daha sağlıklı yemekler hazırlamanın pratik bir yolu olabilir."
+  ],
+  "col": [
+   "ızgara balık",
+   "odun kömürlü ızgara",
+   "ızgaranın altında",
+   "birini bir konuda sorguya çekmek"
+  ],
+  "tip": "Grill hem ızgara cihazı hem de sorguya çekmek anlamına gelir. Mecazi anlam ile yemek anlamını bağlamdan ayırın.",
+  "note": ""
+ },
+ {
+  "id": "ruin",
+  "senses": [
+   "mahvetmek; harap etmek",
+   "harabe; kalıntı",
+   "iflas; mahvolma"
+  ],
+  "ex": [
+   "Şiddetli yağmur planladığımız pikniği mahvetti.",
+   "Kontrolsüz turizm, ziyaretçi sayısı ve inşaat faaliyetleri dikkatle yönetilmezse kırılgan doğal yaşam alanlarını yok edebilir."
+  ],
+  "col": [
+   "birinin planlarını mahvetmek",
+   "antik harabeler",
+   "mali iflas",
+   "harap halde"
+  ],
+  "tip": "Yapı kalıntısı anlamında genellikle çoğul ruins kullanılır. Tekil ruin çoğunlukla mahvolma anlamında geçer.",
+  "note": ""
+ },
+ {
+  "id": "workshop",
+  "senses": [
+   "uygulamalı seminer; atölye",
+   "atölye; imalathane"
+  ],
+  "ex": [
+   "Bir seramik atölyesinde kil bir çanak yaptım.",
+   "Okullar, öğrencilerin iş birliğine dayalı etkinliklerle iletişim becerilerini geliştirmelerine yardımcı olacak uygulamalı atölyeler sunmalıdır."
+  ],
+  "col": [
+   "bir atölyeye katılmak",
+   "atölye yürütmek",
+   "eğitim atölyesi",
+   "tamir atölyesi"
+  ],
+  "tip": "Öğrenme etkinliği olarak workshop katılımı ve uygulamayı vurgular; yalnızca dinlenen bir konferansla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "mate",
+  "senses": [
+   "arkadaş; dost",
+   "eş; çiftleşme partneri",
+   "çiftleşmek"
+  ],
+  "ex": [
+   "İstasyonun yakınında bir arkadaşımla öğle yemeği yiyeceğim.",
+   "Bazı kuş türleri yıllarca aynı eşiyle kalır ve yavrularını büyütmenin sorumluluğunu paylaşır."
+  ],
+  "col": [
+   "yakın arkadaş",
+   "eş bulmak",
+   "ömür boyu eş"
+  ],
+  "tip": "Arkadaş anlamındaki mate gündelik İngiliz İngilizcesine özgüdür; resmi yazıda friend tercih edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "grocery",
+  "senses": [
+   "market ürünleri; erzak",
+   "bakkal; küçük market"
+  ],
+  "ex": [
+   "İki torba market alışverişini mutfağa taşıdım.",
+   "Gıda fiyatlarındaki artış, gelirlerinin büyük kısmını temel ihtiyaçlara harcayan hanehalkları üzerinde ciddi bir baskı yaratıyor."
+  ],
+  "col": [
+   "market alışverişi",
+   "bakkal; market",
+   "market hesabı"
+  ],
+  "tip": "Market ürünleri anlamında groceries çoğul kullanılır. Tekil grocery yalnızca grocery store gibi bileşik isimlerde geçer.",
+  "note": ""
+ },
+ {
+  "id": "amuse",
+  "senses": [
+   "güldürmek; eğlendirmek",
+   "oyalamak; meşgul etmek"
+  ],
+  "ex": [
+   "Komik dansı, beklerken mutfakta bulunan herkesi güldürdü.",
+   "İnteraktif müze sergileri, genç ziyaretçileri eğlendirirken karmaşık bilimsel fikirleri anlamalarına yardımcı olabilir."
+  ],
+  "col": [
+   "izleyicileri güldürmek",
+   "kendini eğlendirmek",
+   "birini meşgul tutmak"
+  ],
+  "tip": "Amused kişinin hissettiğini, amusing ise bir şeyin eğlenceli olduğunu anlatır: I am amused, an amusing film.",
+  "note": ""
+ },
+ {
+  "id": "citizen",
+  "senses": [
+   "vatandaş; yurttaş",
+   "kent sakini; vatandaş"
+  ],
+  "ex": [
+   "Teyzem burada yıllarca yaşadıktan sonra vatandaş oldu.",
+   "Her vatandaş, gelirinden ya da yaşadığı yerden bağımsız olarak güvenilir kamu hizmetlerine erişebilmelidir."
+  ],
+  "col": [
+   "vatandaş olmak",
+   "yaşlı vatandaş",
+   "sorumlu vatandaş"
+  ],
+  "tip": "Citizen hukuki vatandaşlığı, resident ise yalnızca oturulan yeri vurgular. Bu farkı gözetin.",
+  "note": ""
+ },
+ {
+  "id": "recipe",
+  "senses": [
+   "tarif; yemek tarifi",
+   "yol; formül"
+  ],
+  "ex": [
+   "Bu çorba tarifi sadece birkaç basit malzeme gerektiriyor.",
+   "Öğretmen eğitimine ve erişilebilir öğrenme materyallerine yapılan yatırım, eğitimde başarının yolunu açar."
+  ],
+  "col": [
+   "tarifi takip etmek",
+   "başarının reçetesi",
+   "felaketin reçetesi"
+  ],
+  "tip": "Recipe yemek tarifidir; menu menü, prescription ise ilaç reçetesidir. Mecazi olarak bir sonucun yolu anlamında da kullanılır.",
+  "note": ""
+ }
+]

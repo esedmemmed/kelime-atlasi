@@ -1,0 +1,280 @@
+[
+ {
+  "id": "forecast",
+  "senses": [
+   "tahmin; öngörü",
+   "tahmin etmek; öngörmek"
+  ],
+  "ex": [
+   "Hava durumu tahminine göre bu gece kar yağmasını bekleyebiliriz.",
+   "Ekonomistler, enerji maliyetlerinin artmasıyla işletmeler üzerindeki baskının büyümesi nedeniyle gelecek yıl büyümenin yavaşlayacağını öngörüyor."
+  ],
+  "col": [
+   "hava durumu tahmini",
+   "ekonomik tahmin",
+   "büyümeyi öngörmek",
+   "talebi öngörmek"
+  ],
+  "tip": "Geçmiş zaman ve ortaç çoğunlukla forecast biçiminde kullanılır; forecasted da kabul edilir. Weather forecast ifadesi çok yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "puff",
+  "senses": [
+   "üfleme; duman bulutu",
+   "soluk soluğa kalmak",
+   "püskürtmek; şişirmek"
+  ],
+  "ex": [
+   "Çaydanlıktan bir buhar bulutu yükseldi.",
+   "Eski otobüsler koyu renkli duman bulutları saçıyor; bu da şehirlerde daha temiz toplu taşımaya duyulan ihtiyacı açıkça gösteriyor."
+  ],
+  "col": [
+   "bir duman bulutu",
+   "nefes nefese kalmak; boş yere çabalamak",
+   "şişmek; kabarmak",
+   "yanaklarını şişirmek"
+  ],
+  "tip": "Bir duman ya da buhar bulutu için a puff of smoke kalıbı kullanılır. Fiil olarak nefes nefese kalmayı da anlatır.",
+  "note": ""
+ },
+ {
+  "id": "trademark",
+  "senses": [
+   "ticari marka",
+   "ayırt edici özellik; imza",
+   "marka olarak tescil etmek"
+  ],
+  "ex": [
+   "Pastanenin ticari markası küçük altın rengi bir buğday sapıdır.",
+   "Ticari marka tescili, küçük işletmelerin kimliklerini korumasına ve ürünlerini rakiplerinden ayırt etmesine yardımcı olur."
+  ],
+  "col": [
+   "tescilli marka",
+   "marka koruması",
+   "marka hakkının ihlali",
+   "karakteristik gülümseme"
+  ],
+  "tip": "Trademark ticari markadır; telif hakkı copyright ile karıştırılmamalıdır. Fiil olarak register a trademark gibi tescil anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cosmetics",
+  "senses": [
+   "kozmetik; güzellik ürünleri"
+  ],
+  "ex": [
+   "Kozmetik ürünlerini küçük banyo çekmecesinde saklıyor.",
+   "Tüketiciler, kozmetik üreticilerinin içerikleri açıkça belirtmesini ve gereksiz ambalajı azaltmasını giderek daha çok bekliyor."
+  ],
+  "col": [
+   "kozmetik endüstrisi",
+   "kozmetik üreticisi",
+   "kozmetik satın almak"
+  ],
+  "tip": "Genellikle çoğul kullanılır: cosmetics. Sıfat olarak cosmetic yüzeysel, görünüşe yönelik anlamına gelir: cosmetic changes.",
+  "note": ""
+ },
+ {
+  "id": "approachable",
+  "senses": [
+   "samimi; yaklaşılabilir",
+   "anlaşılır; erişilebilir"
+  ],
+  "ex": [
+   "Yeni öğretmenimiz yaklaşılabilir görünüyor, bu yüzden yardım istedim.",
+   "Yaklaşılabilir sağlık çalışanları, hastaları durumları ağırlaşmadan önce hassas kaygılarını konuşmaya teşvik edebilir."
+  ],
+  "col": [
+   "yaklaşılabilir bir öğretmen",
+   "samimi ve yaklaşılabilir",
+   "yaklaşılabilir bir üslup"
+  ],
+  "tip": "Kişiler için sıcak ve kolay konuşulur; bilgi ve üslup için anlaşılır anlamındadır. Kişiye sormaktan çekinmeyeceğini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "release",
+  "senses": [
+   "serbest bırakmak; salıvermek",
+   "yayımlamak; piyasaya sürmek",
+   "salıverme; yayın"
+  ],
+  "ex": [
+   "Kelebeği kanatlarını kontrol ettikten sonra dışarıda serbest bıraktık.",
+   "Hükümetler, vatandaşların iklim politikalarının etkinliğini değerlendirebilmesi için güvenilir çevre verilerini yayımlamalıdır."
+  ],
+  "col": [
+   "bir rapor yayımlamak",
+   "bir mahkûmu serbest bırakmak",
+   "gaz salmak",
+   "basın bülteni"
+  ],
+  "tip": "Release hem serbest bırakmak hem de bir rapor ya da ürünü kamuya sunmak anlamında kullanılır; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "touching",
+  "senses": [
+   "dokunaklı; duygulandırıcı",
+   "dokunmak; temas etmek"
+  ],
+  "ex": [
+   "Onun dokunaklı veda sözleri gözlerimi yaşarttı.",
+   "Belgesel, kentlerde yalnızlıkla mücadele eden yaşlı sakinlere yardım eden gönüllülerin dokunaklı bir öyküsünü anlatıyor."
+  ],
+  "col": [
+   "dokunaklı bir hikâye",
+   "duygulandırıcı bir jest",
+   "dokunaklı bir anma"
+  ],
+  "tip": "Touching bir şeyin duygulandırıcı olduğunu anlatır; insan için touched kullanılır: I was touched by his kindness.",
+  "note": ""
+ },
+ {
+  "id": "novice",
+  "senses": [
+   "acemi; yeni başlayan"
+  ],
+  "ex": [
+   "Bahçıvanlığa yeni başlayan biri olarak fideleri sulamayı sık sık unutuyorum.",
+   "Yapılandırılmış mentorluk, yeni bir öğretmenin sınıfı etkili yönetmek için gereken özgüveni kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "tam bir acemi",
+   "acemi sürücü",
+   "... konusunda acemi"
+  ],
+  "tip": "Bir alanda deneyimi az kişiyi anlatır. Bir konuda acemi olduğunu belirtmek için a novice at/in kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "decent",
+  "senses": [
+   "oldukça iyi; makul",
+   "dürüst; düzgün"
+  ],
+  "ex": [
+   "Sonunda istasyonun yakınında makul bir daire bulduk.",
+   "Her çalışan, uygun konutu karşılayabilecek ve temel ihtiyaçlarını giderebilecek kadar kazanmalıdır."
+  ],
+  "col": [
+   "uygun konut",
+   "makul bir maaş",
+   "düzgün bir insan"
+  ],
+  "tip": "Kalite için kullanıldığında oldukça iyi, idare eder anlamındadır; mükemmel anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "nursery",
+  "senses": [
+   "kreş; anaokulu",
+   "fidanlık",
+   "bebek odası"
+  ],
+  "ex": [
+   "Kızım kreşte parlak sarı bir ördek resmi yaptı.",
+   "Uygun fiyatlı kreş yerleri, daha fazla ebeveynin çocukları profesyonel bakım alırken işe geri dönebilmesini sağlıyor."
+  ],
+  "col": [
+   "anaokulu",
+   "kreş personeli",
+   "fidanlık",
+   "çocuk tekerlemesi"
+  ],
+  "tip": "İngiliz İngilizcesinde at nursery çoğunlukla kreşte anlamına gelir. Bahçıvanlıkta ise nursery fidanlık demektir.",
+  "note": ""
+ },
+ {
+  "id": "scholar",
+  "senses": [
+   "akademisyen; bilgin",
+   "burslu öğrenci"
+  ],
+  "ex": [
+   "Bilgin, kütüphanede eski bir kitabı dikkatle inceledi.",
+   "Akademisyenler, erken eğitime erişimin uzun vadede toplumsal eşitsizliği azaltabileceğini giderek daha çok savunuyor."
+  ],
+  "col": [
+   "önde gelen bir bilgin",
+   "konuk araştırmacı",
+   "seçkin bir bilim insanı"
+  ],
+  "tip": "Scholar genellikle akademik alanda derin bilgi sahibi kişiler için kullanılır; sıradan öğrenci için student tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "rally",
+  "senses": [
+   "miting; kitlesel gösteri",
+   "destek için toplanmak",
+   "toparlanmak; kendine gelmek"
+  ],
+  "ex": [
+   "Kasaba meydanındaki barışçıl mitinge yüzlerce kişi katıldı.",
+   "Toplum liderleri, herkesin bilgiye ücretsiz erişiminden yararlanacağını savunarak halk kütüphanesi için destek topladı."
+  ],
+  "col": [
+   "miting düzenlemek",
+   "destek toplamak",
+   "birinin etrafında toplanmak"
+  ],
+  "tip": "Rally support for kalıbı için destek toplamak anlamına gelir. Fiil olarak iki farklı anlamı vardır: toplanmak ve toparlanmak.",
+  "note": ""
+ },
+ {
+  "id": "consistency",
+  "senses": [
+   "tutarlılık; istikrar",
+   "kıvam; yoğunluk"
+  ],
+  "ex": [
+   "Koçumuz ara sıra gösterilen parlak performanslardan çok tutarlılığa önem veriyor.",
+   "Not verme standartlarında daha fazla tutarlılık, öğrencilerin farklı sınav merkezlerinde adil sonuçlar almasını sağlar."
+  ],
+  "col": [
+   "kalite tutarlılığı",
+   "tutarlılığı korumak",
+   "pürüzsüz bir kıvam"
+  ],
+  "tip": "Bir alandaki tutarlılık için consistency in kalıbı kullanılır: consistency in quality. Consistency sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "reference",
+  "senses": [
+   "değinme; söz etme",
+   "kaynak; atıf",
+   "referans; tavsiye"
+  ],
+  "ex": [
+   "Konuşmasında büyükannesinden sıcak bir sözle değindi.",
+   "Akademik kompozisyonlar, okuyucuların bilginin özgün kaynaklarını bulabilmesi için doğru atıflar içermelidir."
+  ],
+  "col": [
+   "bir şeye değinmek",
+   "ileride başvurmak üzere",
+   "referans sağlamak"
+  ],
+  "tip": "Make reference to bir şeye değinmek anlamındadır; for reference ise bilgi amaçlı, ileride başvurmak için demektir.",
+  "note": ""
+ },
+ {
+  "id": "optimism",
+  "senses": [
+   "iyimserlik; olumlu bakış"
+  ],
+  "ex": [
+   "İyimserliği fırtına sırasında bizi neşeli tutmaya yardımcı oldu.",
+   "Ekonomik belirsizliğe rağmen birçok mezun, anlamlı bir iş bulma şansları konusunda iyimserliğini dile getiriyor."
+  ],
+  "col": [
+   "temkinli iyimserlik",
+   "gelecek hakkında iyimserlik",
+   "iyimserlik için nedenler"
+  ],
+  "tip": "Sayılamayan bir isimdir: optimism. Bir şey hakkında iyimser olmayı anlatmak için optimism about kalıbı kullanılır.",
+  "note": ""
+ }
+]

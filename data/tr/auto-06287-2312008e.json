@@ -1,0 +1,269 @@
+[
+ {
+  "id": "timidity",
+  "senses": [
+   "çekingenlik; ürkeklik"
+  ],
+  "ex": [
+   "Çekingenliği yüzünden ilk başta yardım istemek onun için zordu.",
+   "Destekleyici sınıf ortamları, öğrencilerin çekingenliğini azaltabilir ve tartışmalara daha aktif katılmalarını sağlayabilir."
+  ],
+  "col": [
+   "çekingenliği yenmek",
+   "doğal çekingenlik",
+   "çekingenlik ve tereddüt"
+  ],
+  "tip": "Sayılamayan isimdir, 'a timidity' biçiminde kullanılmaz. Sıfatı timid'dir: 'a timid child' (çekingen bir çocuk).",
+  "note": ""
+ },
+ {
+  "id": "verdict",
+  "senses": [
+   "karar; hüküm",
+   "kanı; değerlendirme"
+  ],
+  "ex": [
+   "Ev yapımı çorbam hakkındaki görüşün nedir?",
+   "Jüri kararını yalnızca duruşma sırasında sunulan delillere dayanarak vermelidir."
+  ],
+  "col": [
+   "karara varmak",
+   "suçlu kararı",
+   "karar vermek",
+   "bir konudaki değerlendirme"
+  ],
+  "tip": "Hukukta verdict, jürinin suçluluk kararıdır. Verilen cezayı ifade etmek için 'sentence' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aero",
+  "senses": [
+   "havacılığa ilişkin; uçak"
+  ],
+  "ex": [
+   "Müzede eski bir uçak motoru gördük.",
+   "Uçak motoru tasarımındaki gelişmeler, ticari uçaklarda yakıt tüketimini ve emisyonları azaltabilir."
+  ],
+  "col": [
+   "uçak motoru",
+   "havacılık sanayisi"
+  ],
+  "tip": "Genellikle isimden önce sıfat gibi kullanılır (aero engine). Gündelik İngilizcede 'aviation' ya da 'aircraft' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "computerization",
+  "senses": [
+   "bilgisayarlaştırma; bilgisayara geçiş"
+  ],
+  "ex": [
+   "Bilgisayarlaştırma sayesinde bu dosyaları artık elle sıralamıyoruz.",
+   "Hastane kayıtlarının bilgisayarlaştırılması verimliliği artırabilir, ancak hasta mahremiyeti için güçlü önlemler gerektirir."
+  ],
+  "col": [
+   "kayıtların bilgisayarlaştırılması",
+   "ofis bilgisayarlaştırması",
+   "geniş çaplı bilgisayarlaştırma"
+  ],
+  "tip": "Genellikle sayılamayan isimdir ve 'the computerization of ...' kalıbıyla kullanılır. İngiliz yazımında 'computerisation' da görülür.",
+  "note": ""
+ },
+ {
+  "id": "provision",
+  "senses": [
+   "temin; sağlama",
+   "hüküm; madde",
+   "önlem; hazırlık"
+  ],
+  "ex": [
+   "Kamp alanı ücretine temiz suyun temini dahildir.",
+   "Uygun fiyatlı çocuk bakımının sağlanmasını iyileştirmek, daha fazla ebeveynin işe dönmesine ve hane gelirinin artmasına yardımcı olabilir."
+  ],
+  "col": [
+   "hizmet temini",
+   "için önlem almak",
+   "yasal hüküm",
+   "sağlık hizmeti sunumu"
+  ],
+  "tip": "'Temin' anlamında sayılamaz; 'madde, hüküm' anlamında sayılabilir. 'provisions' ise erzak anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "verify",
+  "senses": [
+   "doğrulamak; teyit etmek"
+  ],
+  "ex": [
+   "Paketi göndermeden önce lütfen adresinizi doğrulayın.",
+   "Araştırmacılar, bulgularını geniş bilim camiasına sunmadan önce tekrarlanan deneylerle doğrulamak zorundadır."
+  ],
+  "col": [
+   "bilgiyi doğrulamak",
+   "kimliğini doğrulamak",
+   "doğruluğunu teyit etmek"
+  ],
+  "tip": "Bir şeyin doğru ya da gerçek olduğunu kontrol etmek anlamındadır. 'Check'ten daha resmidir; nesne olarak isim ya da that-cümlesi alır.",
+  "note": ""
+ },
+ {
+  "id": "enumerate",
+  "senses": [
+   "tek tek sıralamak; saymak"
+  ],
+  "ex": [
+   "Taşınmadan önce yapılması gereken onarımları tek tek saydı.",
+   "Rapor, harç ücretleri ve güvenilir ulaşıma sınırlı erişim dahil olmak üzere yüksek öğrenimin önündeki birkaç engeli sıralıyor."
+  ],
+  "col": [
+   "nedenleri sıralamak",
+   "faydaları sıralamak",
+   "ana noktaları sıralamak"
+  ],
+  "tip": "Resmi bir kelimedir; gündelik konuşmada 'list' daha yaygındır. Tek tek ifade edilen öğeler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "intimidate",
+  "senses": [
+   "çekindirmek; ürkütmek",
+   "cesaret kırmak; ürkütmek"
+  ],
+  "ex": [
+   "Büyük seyirci kitlesi, ilk gösterisinden önce onu çekindirdi.",
+   "İşverenler, çalışanları güvensiz koşulları kabul etmeye ya da yasal haklarından vazgeçmeye asla gözdağı vererek zorlamamalıdır."
+  ],
+  "col": [
+   "birini gözdağı vererek bir şey yaptırmak",
+   "çekinmek",
+   "tanıkları korkutmak"
+  ],
+  "tip": "'Intimidate someone into doing something' kalıbı, birini gözdağı vererek bir şeyi yapmaya zorlamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "physique",
+  "senses": [
+   "vücut yapısı; beden"
+  ],
+  "ex": [
+   "Düzenli yüzme, Lena'nın güçlü bir vücut yapısı kazanmasına yardımcı oldu.",
+   "Vücut yapısı atletik performansı etkileyebilse de, düzenli antrenman ve zihinsel hazırlık aynı derecede önemlidir."
+  ],
+  "col": [
+   "kaslı vücut yapısı",
+   "ince yapılı vücut",
+   "güçlü vücut yapısı"
+  ],
+  "tip": "Her cinsiyet için kullanılabilir. Genellikle vücut yapısını tanımlayan sıfatlarla birlikte gelir (muscular, slim).",
+  "note": ""
+ },
+ {
+  "id": "deafen",
+  "senses": [
+   "sağır etmek; sağırlaştırmak"
+  ],
+  "ex": [
+   "Kornanın ani gürültüsü beni neredeyse sağır edecekti.",
+   "Etkili kulak koruyucular sürekli sağlanmadıkça, uzun süre yüksek gürültülü endüstriyel makinelere maruz kalmak işçileri sağırlaştırabilir."
+  ],
+  "col": [
+   "sesinden sağır olmak",
+   "neredeyse birini sağır etmek",
+   "sağır edici gürültü"
+  ],
+  "tip": "Birinin duymasını engellemek anlamındadır. Odaları ses yalıtımıyla sessiz kılmak için kullanılmaz; bunun için 'soundproof' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "analogue",
+  "senses": [
+   "karşılık; benzer şey",
+   "analog; sürekli sinyalli"
+  ],
+  "ex": [
+   "Bu ahşap model köprünün bir benzeridir.",
+   "Araştırmacılar, kan akışının hasarlı kapakçıklardan nasıl geçtiğini incelemek için insan kalbinin mekanik bir benzerini kullanıyor."
+  ],
+  "col": [
+   "bir şeyin karşılığı",
+   "analog sinyal",
+   "analog saat"
+  ],
+  "tip": "İsim olarak işlev ya da yapı bakımından benzer şey demektir; sıfat olarak 'digital'in karşıtıdır. İngiliz yazımı 'analogue', Amerikan yazımı 'analog'dur.",
+  "note": ""
+ },
+ {
+  "id": "franchise",
+  "senses": [
+   "bayilik; franchise",
+   "seçme hakkı; oy hakkı",
+   "bayilik vermek"
+  ],
+  "ex": [
+   "Teyzem bir bayilik satın aldı ve bir fırın açtı.",
+   "Bayilik işletmek girişimcilerin köklü bir iş modelinden yararlanmasına olanak tanır, ancak genellikle bağımsızlıklarını sınırlar."
+  ],
+  "col": [
+   "bayilik satın almak",
+   "bayilik sözleşmesi",
+   "bayilik ücreti",
+   "bayilik hakkını uzatmak"
+  ],
+  "tip": "Ticari bağlamda bayilik anlamına gelir; 'the franchise' ise seçme hakkını ifade eder. Fiil olarak birine bayilik vermek demektir.",
+  "note": ""
+ },
+ {
+  "id": "mechanically",
+  "senses": [
+   "makineyle; mekanik olarak",
+   "düşünmeden; otomatik olarak"
+  ],
+  "ex": [
+   "Elmalar, işçiler onları paketlemeden önce makinelerle ayrılır.",
+   "Bilgiyi düşünmeden tekrarlayan öğrenciler, bildiklerini tanımadıkları durumlara uygulamakta zorlanabilir."
+  ],
+  "col": [
+   "makineyle çalıştırılan",
+   "mekanik olarak sağlam",
+   "mekanik olarak tekrarlamak"
+  ],
+  "tip": "Makineyle ya da mekanizma açısından anlamına gelebilir. Ayrıca ilgi ve düşünce olmadan yapılan işler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "innovate",
+  "senses": [
+   "yenilik yapmak; yenilik getirmek"
+  ],
+  "ex": [
+   "Fırınımız alışılmadık ekmek lezzetleriyle yenilik yapmaya devam ediyor.",
+   "Başarıyla yenilik yapan şirketler, değişen tüketici ihtiyaçlarına daha etkili yanıt verirken verimliliklerini artırabilir."
+  ],
+  "col": [
+   "yenilik yapmaya devam etmek",
+   "sağlıkta yenilik yapmak",
+   "yenilik yapma becerisi"
+  ],
+  "tip": "Genellikle nesnesiz kullanılır. Yenilik yapılan alan 'innovate in' ile belirtilir (innovate in healthcare).",
+  "note": ""
+ },
+ {
+  "id": "stimulation",
+  "senses": [
+   "uyarı; uyarıcı etki",
+   "teşvik; destekleme"
+  ],
+  "ex": [
+   "Köpeğimizin her gün yürüyüşe ve bol zihinsel uyarıya ihtiyacı var.",
+   "Erken çocukluk programları, sağlıklı beyin gelişimini ve öğrenmeyi desteklemek için uygun duyusal uyarımlar sağlamalıdır."
+  ],
+  "col": [
+   "zihinsel uyarım",
+   "duyusal uyarım",
+   "elektriksel uyarım",
+   "ekonomik teşvik"
+  ],
+  "tip": "Genellikle sayılamayan isimdir. Belirli bir uyarıcı etkeni belirtmek için 'stimulus' (çoğulu stimuli) kullanılır.",
+  "note": ""
+ }
+]

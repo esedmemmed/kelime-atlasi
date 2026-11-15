@@ -1,0 +1,275 @@
+[
+ {
+  "id": "toward",
+  "senses": [
+   "doğru; yönünde",
+   "karşı; yönelik",
+   "için; katkıda"
+  ],
+  "ex": [
+   "Köpek yavrusu çamurlu bir topla bana doğru koştu.",
+   "Toplu taşımaya yapılan yatırım, trafik sıkışıklığını azaltmak ve kentsel hava kalitesini iyileştirmek yönünde önemli bir adımdır."
+  ],
+  "col": [
+   "-e doğru hareket etmek",
+   "-e karşı tutumlar",
+   "-e doğru atılmış bir adım",
+   "maliyete katkıda bulunmak"
+  ],
+  "tip": "toward ile towards eş anlamlıdır; toward Amerikan İngilizcesinde daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "planet",
+  "senses": [
+   "gezegen"
+  ],
+  "ex": [
+   "Bu gece teleskopla parlak bir gezegen izledik.",
+   "Bilim insanları, Dünya'nın ötesinde yaşam için uygun koşulların olup olmadığını anlamak için uzaktaki gezegenleri inceliyor."
+  ],
+  "col": [
+   "uzak bir gezegen",
+   "bir gezegenin yörüngesinde dönmek",
+   "gezegeni korumak"
+  ],
+  "tip": "planet gezegendir, star ise yıldızdır; the planet genellikle Dünya'yı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "traditional",
+  "senses": [
+   "geleneksel"
+  ],
+  "ex": [
+   "Aile toplantısı için geleneksel bir yemek pişirdik.",
+   "Geleneksel tarım yöntemleri yerel bilgiyi koruyabilir; ancak bazıları iklim değişikliğine uyum sağlamak için uyarlanmaya ihtiyaç duyar."
+  ],
+  "col": [
+   "geleneksel gelenekler",
+   "geleneksel el sanatları",
+   "geleneksel yöntemler"
+  ],
+  "tip": "traditional uzun süre aktarılmış gelenekleri anlatır; geri kalmış anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "software",
+  "senses": [
+   "yazılım"
+  ],
+  "ex": [
+   "Bu yazılım dizüstü bilgisayarımda fotoğraflarımı düzenlememe yardımcı oluyor.",
+   "Okulların dijital öğrenme araçlarını etkili kullanabilmesi için güvenilir yazılıma ve yeterli öğretmen eğitimine ihtiyacı var."
+  ],
+  "col": [
+   "yazılım yüklemek",
+   "yazılım geliştirme",
+   "yazılım güncellemesi",
+   "açık kaynaklı yazılım"
+  ],
+  "tip": "Sayılamaz isimdir: some software denir, a software denmez.",
+  "note": ""
+ },
+ {
+  "id": "shall",
+  "senses": [
+   "yapalım mı; edeyim mi",
+   "yapacağım; yapacağız",
+   "zorunludur; -meli"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra kısa bir yürüyüşe çıkalım mı?",
+   "Önerilen yönetmeliklere göre işverenler, tehlikeli madde kullanan tüm işçilere uygun güvenlik ekipmanı sağlamak zorundadır."
+  ],
+  "col": [
+   "yapalım mı",
+   "yapayım mı",
+   "yapılmamalı"
+  ],
+  "tip": "Modal fiildir; arkasından fiilin yalın hali gelir. Shall we? öneri sunarken kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "basket",
+  "senses": [
+   "sepet; küfe",
+   "pota; sayı"
+  ],
+  "ex": [
+   "Taze elmalarla dolu bir sepeti mutfağa taşıdım.",
+   "Tekrar kullanılabilir alışveriş sepetleri sunmak, müşterileri tek kullanımlık plastik poşetlere bağımlılığı azaltmaya teşvik edebilir."
+  ],
+  "col": [
+   "alışveriş sepeti",
+   "çamaşır sepeti",
+   "bir sepet meyve",
+   "sayı atmak"
+  ],
+  "tip": "a basket of apples bir sepet elma demektir; birden fazla sepet için çoğul baskets kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thief",
+  "senses": [
+   "hırsız"
+  ],
+  "ex": [
+   "Ben alışveriş yaparken hırsız bisikletimi çaldı.",
+   "Güvenli bisiklet park yerleri, hırsızın işe gidip gelen insanlardan çalmasını zorlaştırabilir."
+  ],
+  "col": [
+   "bisiklet hırsızı",
+   "hırsızı yakalamak",
+   "küçük çapta hırsız"
+  ],
+  "tip": "Çoğulu thieves'tir. robber ise genellikle şiddet veya tehditle soygun yapan kişiyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "web",
+  "senses": [
+   "web; internet",
+   "örümcek ağı",
+   "karmaşık ağ; ağ yapısı"
+  ],
+  "ex": [
+   "Web'de basit bir çorba tarifi buldum.",
+   "Web bilgiye kolay erişim sağlasa da öğrenciler çevrimiçi kaynakların güvenilirliğini değerlendirmeyi öğrenmelidir."
+  ],
+  "col": [
+   "web'de gezinmek",
+   "örümcek ağı",
+   "ilişkiler ağı"
+  ],
+  "tip": "Çevrimiçi anlamda the web ya da on the web denir; web, internet üzerinden erişilen sayfaların bütünüdür.",
+  "note": ""
+ },
+ {
+  "id": "employee",
+  "senses": [
+   "çalışan; işçi"
+  ],
+  "ex": [
+   "Yeni bir çalışan fırında bana her yeri gezdirdi.",
+   "İşverenler, güvenli ve verimli bir çalışma ortamını sürdürmek için her çalışana uygun eğitim vermelidir."
+  ],
+  "col": [
+   "tam zamanlı çalışan",
+   "çalışan hakları",
+   "çalışan eğitimi",
+   "çalışan devri"
+  ],
+  "tip": "employee çalışanı, employer ise işvereni anlatır; bu iki kelime karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "railway",
+  "senses": [
+   "demiryolu"
+  ],
+  "ex": [
+   "Evimiz eski köprünün yakınındaki demiryoluna bakıyor.",
+   "Demiryolu ağlarına yapılan yatırım, yol sıkışıklığını azaltırken komşu şehirlerdeki istihdama erişimi artırabilir."
+  ],
+  "col": [
+   "tren istasyonu",
+   "demiryolu hattı",
+   "demiryolu ağı",
+   "demiryolu altyapısı"
+  ],
+  "tip": "İngiliz İngilizcesinde railway, Amerikan İngilizcesinde ise railroad daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "description",
+  "senses": [
+   "tarif; betimleme"
+  ],
+  "ex": [
+   "Tarifin sayesinde o küçük fırını bulabildim.",
+   "Araştırma yöntemlerinin açık biçimde betimlenmesi, diğer bilim insanlarının çalışmanın güvenilirliğini değerlendirmesine olanak tanır."
+  ],
+  "col": [
+   "ayrıntılı betimleme",
+   "bir şeyi tarif etmek",
+   "iş tanımı",
+   "doğru bir betimleme"
+  ],
+  "tip": "Bir şeyin betimlemesi için a description of kalıbı kullanılır; about değil, of tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "pot",
+  "senses": [
+   "tencere",
+   "saksı; kap; demlik",
+   "saksıya dikmek"
+  ],
+  "ex": [
+   "Çorba büyük bir tencerede hafif hafif kaynıyor.",
+   "Sebzeleri saksılarda yetiştirmek, sınırlı açık alanı olan sakinlerin kendi gıdalarının bir kısmını üretmesine olanak tanır."
+  ],
+  "col": [
+   "bir tencere çorba",
+   "bitki saksısı",
+   "bir demlik çay",
+   "saksıda bitkiler"
+  ],
+  "tip": "Tencere, saksı ve kap için pot kullanılır; kızartma tavası için ise pan denir.",
+  "note": ""
+ },
+ {
+  "id": "kilometre",
+  "senses": [
+   "kilometre"
+  ],
+  "ex": [
+   "En yakın otobüs durağı yaklaşık bir kilometre uzakta.",
+   "Okulların bir kilometre yakınında güvenli bisiklet yolları yapmak, daha çok çocuğun her gün bisiklete binmesini teşvik edebilir."
+  ],
+  "col": [
+   "bir kilometre uzakta",
+   "kilometrekare",
+   "saatte kilometre"
+  ],
+  "tip": "İngiliz İngilizcesinde kilometre, Amerikan İngilizcesinde kilometer yazılır.",
+  "note": ""
+ },
+ {
+  "id": "milkman",
+  "senses": [
+   "sütçü"
+  ],
+  "ex": [
+   "Sütçü kapımızın önüne iki cam şişe bırakmış.",
+   "Yerel bir sütçünün düzenli teslimatları, hanehalklarını plastik kaplar yerine cam şişeleri yeniden kullanmaya teşvik edebilir."
+  ],
+  "col": [
+   "yerel sütçü",
+   "sütçünün turu"
+  ],
+  "tip": "Çoğulu milkmen'dir. Süt sağan kişi için milker kullanılır, milkman kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "flight",
+  "senses": [
+   "uçuş; sefer",
+   "uçma; uçuş",
+   "merdiven bölümü"
+  ],
+  "ex": [
+   "Uçağımız erken kalkıyor, bu yüzden bu gece valizi hazırlamalıyız.",
+   "Gerçek bir demiryolu alternatifi zaten varsa, kısa iç hat uçuşlarının sayısını azaltmak emisyonları düşürebilir."
+  ],
+  "col": [
+   "uçuş bileti ayırtmak",
+   "direkt uçuş",
+   "uçuşta",
+   "bir merdiven sırası"
+  ],
+  "tip": "a flight of stairs iki kat ya da platform arasındaki bir merdiven bölümünü anlatır.",
+  "note": ""
+ }
+]

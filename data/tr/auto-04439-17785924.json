@@ -1,0 +1,278 @@
+[
+ {
+  "id": "incident",
+  "senses": [
+   "olay; hadise"
+  ],
+  "ex": [
+   "İstasyonun dışındaki olayda kimse yaralanmadı.",
+   "Her iş yeri kazasını dikkatle incelemek gerekir ki işverenler riskleri belirleyip benzer sorunları önleyebilsin."
+  ],
+  "col": [
+   "bir olayı bildirmek",
+   "ciddi bir olay",
+   "tek seferlik bir olay",
+   "olaysız"
+  ],
+  "tip": "incident belirli bir olayı anlatır. 'incidence' ise bir şeyin görülme sıklığı veya oranı anlamına gelir, karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cod",
+  "senses": [
+   "morina; morina eti"
+  ],
+  "ex": [
+   "Morinayı limon ve taze otlarla fırınladık.",
+   "Sıkı avlanma sınırları, morina stoklarının toparlanmasına yardımcı olurken kıyı topluluklarının uzun vadeli geçimini de korur."
+  ],
+  "col": [
+   "morina filetosu",
+   "morina yağı",
+   "morina stokları"
+  ],
+  "tip": "Balık adı olarak tekil ve çoğul biçimi aynıdır: cod. Yemek olarak söz edildiğinde genellikle sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "cosmetic",
+  "senses": [
+   "güzelleştirici; kozmetik",
+   "yüzeysel; sadece görünüş",
+   "kozmetik; makyaj ürünü"
+  ],
+  "ex": [
+   "Bu dükkân sabun ve şampuanın yanında kozmetik ürünler de satıyor.",
+   "Eleştirmenler, okul binalarında yapılan yüzeysel değişikliklerin kalabalık sınıflar gibi daha derin sorunları çözemediğini savunuyor."
+  ],
+  "col": [
+   "kozmetik ürünler",
+   "estetik cerrahi",
+   "yüzeysel değişiklikler"
+  ],
+  "tip": "Ürün anlamında isim olarak genellikle çoğul 'cosmetics' kullanılır. Sıfat olarak 'yüzeysel, sadece görünüşe yönelik' anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "richness",
+  "senses": [
+   "zenginlik; çeşitlilik",
+   "yoğunluk; zenginlik"
+  ],
+  "ex": [
+   "Yerel yaban hayatının zenginliği yürüyüşümüzde bizi hayrete düşürdü.",
+   "Hızlı toplumsal değişimle karşılaşan toplulukların geleneksel el sanatlarını korumak, kültürel zenginliklerini yaşatmalarına yardımcı oluyor."
+  ],
+  "col": [
+   "kültürel zenginlik",
+   "tür çeşitliliği",
+   "tat zenginliği"
+  ],
+  "tip": "İçerik çeşitliliği ya da lezzet yoğunluğu için uygundur. Kişisel servet için genellikle 'wealth' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "expedition",
+  "senses": [
+   "sefer; keşif gezisi",
+   "keşif heyeti; araştırma ekibi"
+  ],
+  "ex": [
+   "Dağlara yapacağımız keşif gezisi için sıcak giysiler hazırladık.",
+   "Kutup bölgelerine düzenlenen bilimsel bir araştırma seferi, deniz buzundaki değişimlere dair değerli kanıtlar topladı."
+  ],
+  "col": [
+   "bilimsel bir keşif gezisi",
+   "keşfe çıkmak",
+   "bir keşif heyetine öncülük etmek",
+   "Antarktika'ya bir keşif gezisi"
+  ],
+  "tip": "Genellikle önceden planlanmış, belli bir amacı olan ve örgütlü yapılan uzun yolculukları anlatır. Sıradan bir gezi için 'trip' daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "reliability",
+  "senses": [
+   "güvenilirlik; inanılırlık"
+  ],
+  "ex": [
+   "Bu çamaşır makinesini kanıtlanmış güvenilirliği yüzünden seçtik.",
+   "Toplu taşımanın güvenilirliğini artırmak, daha fazla yolcunun arabasını evde bırakmasını sağlayabilir."
+  ],
+  "col": [
+   "güvenilirliği artırmak",
+   "uzun vadeli güvenilirlik",
+   "verilerin güvenilirliği"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; 'a reliability' demeyin. Sıfat biçimi 'reliable' (güvenilir) olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "relate",
+  "senses": [
+   "ilgili olmak; bağlamak",
+   "anlayış göstermek; özdeşleşmek",
+   "anlatmak; aktarmak"
+  ],
+  "ex": [
+   "Uçma korkunuzu gayet iyi anlayabiliyorum.",
+   "Araştırmacılar, işsizliğin nedenleri hakkında sonuca varmadan önce bulgularını mevcut kanıtlarla ilişkilendirmelidir."
+  ],
+  "col": [
+   "ile ilgili olmak",
+   "A'yı B ile ilişkilendirmek",
+   "bir deneyimi anlatmak"
+  ],
+  "tip": "'relate to' hem 'ile ilgili olmak' hem de 'birinin duygularını anlayabilmek' anlamına gelir. Bağlam hangisinin kastedildiğini gösterir.",
+  "note": ""
+ },
+ {
+  "id": "accompany",
+  "senses": [
+   "eşlik etmek; refakat etmek",
+   "beraber olmak; birlikte bulunmak",
+   "eşlik etmek (müzik)"
+  ],
+  "ex": [
+   "Yarın kız kardeşim beni kliniğe kadar eşlik edecek.",
+   "Kentsel genişlemeye, trafik sıkışıklığını önleyip işe erişimi kolaylaştırmak için toplu taşıma yatırımları eşlik etmelidir."
+  ],
+  "col": [
+   "birine eşlik etmek",
+   "ile birlikte gelmek",
+   "piyanoyla eşlik etmek"
+  ],
+  "tip": "Doğrudan nesne alır: 'accompany someone'. 'accompany with someone' yanlıştır. Edilgen 'be accompanied by' ile birlikte gelmek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bulk",
+  "senses": [
+   "çoğunluk; büyük kısım",
+   "hacim; büyüklük"
+  ],
+  "ex": [
+   "Kıyafetlerimin çoğu bu valize sığdı.",
+   "Kamu taşımacılığı finansmanının büyük kısmı, işe erişimi sınırlı olan bölgelerde güvenilir hizmetleri desteklemelidir."
+  ],
+  "col": [
+   "...nın çoğu",
+   "toptan almak",
+   "büyük hacim",
+   "toplu alım"
+  ],
+  "tip": "'the bulk of' sonrasındaki isme göre fiil çekimi yapılır: 'the bulk of the work is' ya da 'the bulk of the costs are' gibi.",
+  "note": ""
+ },
+ {
+  "id": "strictly",
+  "senses": [
+   "katı biçimde; sıkı sıkıya",
+   "yalnızca; sadece",
+   "tam olarak; kesin olarak"
+  ],
+  "ex": [
+   "Yüzme havuzu koşma yasağını sıkı sıkıya uyguluyor.",
+   "Hükümetler nehirleri endüstriyel kirlilikten korumak istiyorsa çevre düzenlemeleri kesinlikle uygulanmalıdır."
+  ],
+  "col": [
+   "kesinlikle yasak",
+   "kesinlikle gizli",
+   "kesin konuşmak gerekirse",
+   "yalnızca ... ile sınırlı"
+  ],
+  "tip": "'strictly speaking' 'kesin konuşursak' anlamında sabit bir kalıptır ve cümlenin başında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "inspector",
+  "senses": [
+   "müfettiş; denetçi",
+   "komiser"
+  ],
+  "ex": [
+   "Restoran açılmadan önce müfettiş mutfağı kontrol etti.",
+   "Yetkin bir bina denetçisi, yapısal sorunları ciddi güvenlik riskine dönüşmeden önce tespit edebilir."
+  ],
+  "col": [
+   "iş güvenliği müfettişi",
+   "bina denetçisi",
+   "polis komiseri"
+  ],
+  "tip": "'inspect' (denetlemek) fiilinden gelir; 'inspector' bu işi yapan kişidir. Polis rütbesi olarak 'komiser' anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "threaten",
+  "senses": [
+   "tehdit etmek; gözdağı vermek",
+   "tehlikeye atmak; tehdit oluşturmak"
+  ],
+  "ex": [
+   "Bugün ödeme yapmazsak rezervasyonumuzu iptal edeceklerini söylediler.",
+   "Yükselen deniz seviyeleri sel sıklığını artırarak ve temel altyapıya zarar vererek kıyı topluluklarını tehlikeye atıyor."
+  ],
+  "col": [
+   "yapmakla tehdit etmek",
+   "birinin güvenliğini tehlikeye atmak",
+   "geçim kaynaklarını tehdit etmek",
+   "kapatılmakla tehdit edilmek"
+  ],
+  "tip": "'threaten to do' 'yapmakla tehdit etmek' anlamına gelir; 'threaten sth' ise bir şeyi tehlikeye atmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "interval",
+  "senses": [
+   "aralık; süre",
+   "ara; mola"
+  ],
+  "ex": [
+   "İki çağrı arasında kısa bir aralık vardı.",
+   "Uzun çalışma dönemlerinde düzenli aralıklarla mola vermek, öğrencilerin konsantrasyonunu korumalarına yardımcı olabilir."
+  ],
+  "col": [
+   "düzenli aralıklarla",
+   "kısa bir aralık",
+   "zaman aralığı",
+   "ara sırasında"
+  ],
+  "tip": "'at intervals' belli aralıklarla anlamına gelir. 'at regular intervals' ise düzenli aralıklarla anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "non-refundable",
+  "senses": [
+   "iade edilemez"
+  ],
+  "ex": [
+   "Daha ucuz biletler aldık ama bunların ücreti iade edilemezdi.",
+   "İade edilemeyen rezervasyon ücretleri, durumları beklenmedik şekilde değişse bile gezginleri planlarını değiştirmekten caydırabilir."
+  ],
+  "col": [
+   "iade edilemez depozito",
+   "iade edilemez bilet",
+   "iade edilemez rezervasyon ücreti"
+  ],
+  "tip": "Ödenen paranın geri alınamayacağını belirtir. Bir ürünün geri verilemeyeceği anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "shiver",
+  "senses": [
+   "titremek; üşümek",
+   "titreme; ürperme"
+  ],
+  "ex": [
+   "İnce ceketimle dışarıda beklerken titredim.",
+   "İnsanlar düşük sıcaklıklara maruz kaldığında titreyebilir; çünkü kas hareketleri vücudun ısı üretmesine yardımcı olur."
+  ],
+  "col": [
+   "soğuktan titremek",
+   "korkudan titremek",
+   "sırtından ürperti geçmek"
+  ],
+  "tip": "Titremenin nedenini belirtmek için 'with' kullanılır: shiver with cold (soğuktan titremek), shiver with fear (korkudan titremek).",
+  "note": ""
+ }
+]

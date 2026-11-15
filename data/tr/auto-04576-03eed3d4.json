@@ -1,0 +1,275 @@
+[
+ {
+  "id": "sincere",
+  "senses": [
+   "samimi; içten"
+  ],
+  "ex": [
+   "Onun içten özrü, yeniden arkadaş olmamıza yardımcı oldu.",
+   "Büyük kentsel gelişme projelerinde yerel sakinlere danışmak için samimi çabalar, halkın güvenini artırabilir."
+  ],
+  "col": [
+   "içten özür",
+   "samimi teşekkür",
+   "samimi arzu"
+  ],
+  "tip": "Sıfattır. Zarf hali sincerely'dir ve mektupların sonunda 'saygılarımla' anlamında sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "overwhelm",
+  "senses": [
+   "bunaltmak; şaşırtmak",
+   "bunaltmak; yüklemek",
+   "ezmek; yenmek"
+  ],
+  "ex": [
+   "Taşındıktan sonra herkesin gösterdiği nezaket beni duygulandırdı.",
+   "Ani ziyaretçi artışı, turizm büyümesi dikkatle yönetilmezse yerel altyapıyı zorlayabilir."
+  ],
+  "col": [
+   "bunalmak",
+   "duygulara kapılmak",
+   "yerel hizmetleri zorlamak"
+  ],
+  "tip": "İnsanlar için overwhelmed (bunalmış), şeyler için overwhelming (bunaltıcı) kullanılır; bu sıfat biçimlerini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cane",
+  "senses": [
+   "baston",
+   "ratan",
+   "şeker kamışı"
+  ],
+  "ex": [
+   "Dedem engebeli yollarda baston kullanıyor.",
+   "Şeker için kamış yetiştirmek kırsalda istihdam sağlayabilir, ama önemli miktarda su kaynağı gerektirir."
+  ],
+  "col": [
+   "bastonla yürümek",
+   "ratan mobilya",
+   "şeker kamışı"
+  ],
+  "tip": "'Baston' anlamında sayılabilir; 'ratan' ve 'şeker kamışı' anlamlarında genellikle sayılamaz. 'Sugar cane' iki kelime olarak yazılır.",
+  "note": ""
+ },
+ {
+  "id": "enrol",
+  "senses": [
+   "kaydolmak; kaydettirmek"
+  ],
+  "ex": [
+   "Gelecek ay bir yemek kursuna kaydolmayı planlıyorum.",
+   "Hükümetler, esnek çalışma saatleri ve mali destek sunarak yetişkinleri mesleki eğitime kaydolmaya teşvik edebilir."
+  ],
+  "col": [
+   "bir kursa kaydolmak",
+   "bir programa kaydolmak",
+   "öğrenci kaydetmek"
+  ],
+  "tip": "İngiliz İngilizcesinde enrol, Amerikan İngilizcesinde enroll yazılır; geçmiş zaman her ikisinde de enrolled'dır.",
+  "note": ""
+ },
+ {
+  "id": "reunion",
+  "senses": [
+   "yeniden bir araya gelme; buluşma"
+  ],
+  "ex": [
+   "Aile buluşmamız bahçeyi kahkahalarla doldurdu.",
+   "Okul buluşmaları, eski öğrencilerin bağlarını canlı tutabilir ve yerel topluluklarını desteklemelerini teşvik edebilir."
+  ],
+  "col": [
+   "aile buluşması",
+   "okul buluşması",
+   "neşeli bir yeniden buluşma"
+  ],
+  "tip": "Uzun süre ayrı kalmış insanların yeniden bir araya gelmesini ifade eder; her sıradan toplantı için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "severely",
+  "senses": [
+   "ağır biçimde; ciddi olarak",
+   "sert biçimde; sertçe"
+  ],
+  "ex": [
+   "Fırtına evimizin çatısına ağır hasar verdi.",
+   "Temiz suya erişimin kısıtlı olması, halk sağlığını ciddi biçimde etkileyebilir ve kırsal topluluklarda ekonomik gelişmeyi sınırlayabilir."
+  ],
+  "col": [
+   "ağır hasar görmüş",
+   "ciddi biçimde etkilenmiş",
+   "ciddi biçimde sınırlı",
+   "sert biçimde eleştirmek"
+  ],
+  "tip": "Hem derecenin ciddiyetini hem de tavrın sertliğini anlatabilir; anlamı hangi fiil ya da sıfatla kullanıldığına bakarak belirleyin.",
+  "note": ""
+ },
+ {
+  "id": "rectangular",
+  "senses": [
+   "dikdörtgen biçimli"
+  ],
+  "ex": [
+   "Yemek odası için dikdörtgen bir masa aldık.",
+   "Dikdörtgen sınıflar sıra sıra masaları verimli biçimde barındırabilir; ancak diğer düzenler grup etkileşimini artırabilir."
+  ],
+  "col": [
+   "dikdörtgen bir masa",
+   "dikdörtgen bir şekil",
+   "dikdörtgen bir arsa"
+  ],
+  "tip": "Rectangle isimdir (dikdörtgen), rectangular ise sıfattır ve isimden önce gelir: a rectangular table.",
+  "note": ""
+ },
+ {
+  "id": "agriculture",
+  "senses": [
+   "tarım; ziraat"
+  ],
+  "ex": [
+   "Buradaki birçok aile geçimini tarımla sağlıyor.",
+   "Sürdürülebilir tarım, toprak kalitesini koruyarak büyüyen dünya nüfusu için yeterli gıda üretmeye yardımcı olabilir."
+  ],
+  "col": [
+   "sürdürülebilir tarım",
+   "yoğun tarım",
+   "organik tarım"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Sıfat biçimi agricultural'dır ve 'tarımsal' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "mass",
+  "senses": [
+   "yığın; kütle",
+   "kütle",
+   "kitlesel; geniş çaplı"
+  ],
+  "ex": [
+   "Arkada karmakarışık bir kablo yığını duruyordu.",
+   "Seri üretim ev eşyalarını daha uygun fiyatlı hale getirdi, ama atık ve kaynak tüketimini de artırabilir."
+  ],
+  "col": [
+   "bir yığın",
+   "vücut kütlesi",
+   "seri üretim",
+   "kitle iletişimi"
+  ],
+  "tip": "Fizikte mass kütleyi, weight ağırlığı ifade eder. Günlük dilde karıştırılsa da bilimsel bağlamda bu ayrım önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "rental",
+  "senses": [
+   "kiralama; kira bedeli",
+   "kiralık; kiraya verilen",
+   "kiralanan ev ya da araç"
+  ],
+  "ex": [
+   "Bisiklet kiralama hizmeti bir kask ve sağlam bir kilit içeriyor.",
+   "Yüksek kira maliyetleri, genç işçileri büyük istihdam merkezlerinden uzakta yaşamaya zorlayabilir."
+  ],
+  "col": [
+   "araba kiralama",
+   "kiralama sözleşmesi",
+   "kira geliri",
+   "kiralık mülk"
+  ],
+  "tip": "Kira bedeli için genellikle rent kullanılır; rental ise kiralama hizmetini, kiralık mülkü ya da sıfat olarak 'kiralık' anlamını verir.",
+  "note": ""
+ },
+ {
+  "id": "privacy",
+  "senses": [
+   "mahremiyet; gizlilik",
+   "özel yaşam; yalnızlık"
+  ],
+  "ex": [
+   "Lütfen içeri girmeden önce kapıyı çal; herkesin biraz mahremiyete ihtiyacı var.",
+   "Hükümetler, araştırmacıların halk sağlığı çalışmalarında anonim veriyi kullanmasına izin verirken bireysel mahremiyeti korumalıdır."
+  ],
+  "col": [
+   "mahremiyeti korumak",
+   "mahremiyet ihlali",
+   "gizlilik ayarları",
+   "evin mahremiyetinde"
+  ],
+  "tip": "Genellikle sayılamaz. 'In the privacy of your home' kalıbı, evde, özel ortamda anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "inject",
+  "senses": [
+   "enjekte etmek; aşılamak",
+   "katmak; kazandırmak"
+  ],
+  "ex": [
+   "Hemşire ilacı kolumun içine enjekte edecek.",
+   "Kamu yatırımları, yerel işletmeleri destekleyip ulaşımı iyileştirerek gerileyen kasabalara yeni bir canlılık kazandırabilir."
+  ],
+  "col": [
+   "ilaç enjekte etmek",
+   "fon aktarmak",
+   "yeni bir can katmak"
+  ],
+  "tip": "Genellikle inject A into B kalıbıyla kullanılır: A'yı B'ye enjekte etmek ya da katmak. Tıbbi olmayan bağlamlarda da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "undergraduate",
+  "senses": [
+   "lisans öğrencisi",
+   "lisans; lisans düzeyinde"
+  ],
+  "ex": [
+   "Kız kardeşim yakınlarda kimya okuyan bir lisans öğrencisi.",
+   "Birçok lisans programı artık öğrencilerin geleceğe hazırlanmasına yardımcı olmak için uygulamalı staj içeriyor."
+  ],
+  "col": [
+   "lisans öğrencisi",
+   "lisans derecesi",
+   "lisans programı"
+  ],
+  "tip": "İlk üniversite derecesi için okuyan öğrenciyi ifade eder, mezun anlamına gelmez. Yüksek lisans için postgraduate kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "consequently",
+  "senses": [
+   "bu yüzden; sonuç olarak"
+  ],
+  "ex": [
+   "Fırın kapalıydı; bu yüzden ekmeksiz eve döndük.",
+   "Konut fiyatları keskin biçimde arttı; bu nedenle birçok genç yetişkin bağımsız yaşama kararını erteliyor."
+  ],
+  "col": [
+   "ve bunun sonucunda",
+   "sonuç olarak yol açmak",
+   "sonucunda gerektirmek"
+  ],
+  "tip": "Zarftır, bağlaç değildir. İki bağımsız cümleyi noktalı virgülle bağlayabilir ya da cümle başında kullanabilirsiniz.",
+  "note": ""
+ },
+ {
+  "id": "gulp",
+  "senses": [
+   "hızla yutmak",
+   "korkuyla yutkunmak",
+   "bir yudum"
+  ],
+  "ex": [
+   "Bisikletle eve döndükten sonra bir bardak suyu hızla içtim.",
+   "Kısa molalarda yemeklerini hızla yutan işçiler sağlıklı beslenme alışkanlıklarını sürdürmekte zorlanabilir."
+  ],
+  "col": [
+   "hızla yutmak",
+   "bir yudum almak",
+   "gergin gergin yutkunmak"
+  ],
+  "tip": "gulp down hızla yutmak anlamına gelir; küçük yudumlarla içmeyi ise sip ifade eder.",
+  "note": ""
+ }
+]

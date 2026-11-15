@@ -1,0 +1,276 @@
+[
+ {
+  "id": "victim",
+  "senses": [
+   "mağdur; kurban"
+  ],
+  "ex": [
+   "Komşular sel mağdurlarına sıcak battaniyeler getirdi.",
+   "Hükümetler, çevrimiçi dolandırıcılık mağdurlarına ücretsiz hukuki danışmanlık dahil pratik destek sağlamalıdır."
+  ],
+  "col": [
+   "suç mağduru",
+   "bir şeyin kurbanı olmak",
+   "sel mağdurları"
+  ],
+  "tip": "Bir şeyin mağduru için victim of kalıbı kullanılır. Fall victim to ise 'bir şeyin kurbanı olmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "damage",
+  "senses": [
+   "zarar; hasar",
+   "zarar vermek; hasar vermek"
+  ],
+  "ex": [
+   "Fırtına bahçedeki kulübemize ciddi zarar verdi.",
+   "Kontrolsüz turizm, kırılgan ekosistemlere zarar verebilir ve yerel halkın yaşam kalitesini düşürebilir."
+  ],
+  "col": [
+   "zarar vermek",
+   "mülke verilen zarar",
+   "çevresel zarar",
+   "birinin itibarını zedelemek"
+  ],
+  "tip": "Zarar anlamında damage sayılamaz, 'a damage' denmez. Damages ise hukukta tazminat anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "sponge",
+  "senses": [
+   "sünger",
+   "deniz süngeri",
+   "süngerle silmek"
+  ],
+  "ex": [
+   "Mutfak masasını silmek için nemli bir sünger kullan.",
+   "Kentsel sulak alanlar bir sünger gibi davranır, fazla yağmur suyunu emer ve sel riskini azaltır."
+  ],
+  "col": [
+   "nemli sünger",
+   "süngeri sıkmak",
+   "bir şeyi süngerle silmek"
+  ],
+  "tip": "'Like a sponge' ifadesi, bilgiyi çabuk emen ya da çok etkilenen biri için mecazi olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "arrest",
+  "senses": [
+   "tutuklamak; gözaltına almak",
+   "tutuklama; gözaltı",
+   "durdurmak; engellemek"
+  ],
+  "ex": [
+   "Polis dün istasyonun dışında şüpheliyi tutukladı.",
+   "Tarihi mahallelerin bakımına erken yatırım yapmak, gerilemelerini durdurabilir ve kendine özgü karakterlerini koruyabilir."
+  ],
+  "col": [
+   "hırsızlıktan tutuklamak",
+   "tutuklu olarak",
+   "tutuklama yapmak",
+   "gerilemeyi durdurmak"
+  ],
+  "tip": "Bir suçtan dolayı tutuklanmak için be arrested for kalıbı kullanılır. Under arrest ise tutukluluk durumunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "living",
+  "senses": [
+   "canlı; yaşayan",
+   "geçim; geçim kaynağı",
+   "yaşam; yaşam tarzı"
+  ],
+  "ex": [
+   "Gölet, minik canlı yaratıklarla doludur.",
+   "Konut fiyatlarındaki artış, genç yetişkinlerin büyük şehirlerde düzgün bir geçim sağlamasını zorlaştırıyor."
+  ],
+  "col": [
+   "canlı organizmalar",
+   "geçimini sağlamak",
+   "yaşam maliyeti",
+   "yaşam standardı"
+  ],
+  "tip": "Living genellikle isimden önce gelir. Alive ise çoğunlukla yüklem olarak kullanılır (be alive).",
+  "note": ""
+ },
+ {
+  "id": "amusing",
+  "senses": [
+   "eğlendirici; komik"
+  ],
+  "ex": [
+   "Kuzenim kedisiyle ilgili eğlenceli bir hikâye anlattı.",
+   "Öğretmenler, zor bilim kavramlarını anlatırken öğrencilerin dikkatini çekmek için eğlendirici örnekler kullanabilir."
+  ],
+  "col": [
+   "eğlenceli hikâye",
+   "bir şeyi komik bulmak",
+   "eğlenceli anekdot"
+  ],
+  "tip": "Amusing şeyleri ya da kişileri komik olarak tanımlar. Amused ise kişinin eğlenmiş olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "carton",
+  "senses": [
+   "karton kutu; kutu"
+  ],
+  "ex": [
+   "Lütfen süt kutusunu buzdolabına geri koy.",
+   "Yerel geri dönüşüm programları, sakinlerin her tür gıda kartonunu nasıl doğru atacaklarını açıklamalı."
+  ],
+  "col": [
+   "bir kutu süt",
+   "yumurta kutusu",
+   "karton kutu"
+  ],
+  "tip": "Carton (kutu) ile cartoon (çizgi film) yazılış olarak benzer ama anlamları farklıdır, karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "grateful",
+  "senses": [
+   "minnettar; müteşekkir"
+  ],
+  "ex": [
+   "Taşınma işindeki yardımın için minnettarım.",
+   "Birçok öğrenci, mali zorluklara rağmen eğitimlerine devam etmelerini sağlayan burslar için minnettar."
+  ],
+  "col": [
+   "birine minnettar olmak",
+   "bir şey için minnettar olmak",
+   "çok minnettar"
+  ],
+  "tip": "Be grateful to someone for something kalıbı kullanılır. Yazımı grateful şeklindedir (greatful yanlıştır).",
+  "note": ""
+ },
+ {
+  "id": "sunrise",
+  "senses": [
+   "gün doğumu"
+  ],
+  "ex": [
+   "Gölün üzerinden doğan güneşi izlemek için erken uyandık.",
+   "Gün doğumu etrafında planlanan açık hava etkinlikleri, turistlerin serin havanın tadını çıkarmasına ve yerel yaban hayatını gözlemlemesine olanak tanır."
+  ],
+  "col": [
+   "gün doğumunda",
+   "gün doğumunu izlemek",
+   "gün doğumundan önce"
+  ],
+  "tip": "Gün doğumunda için at sunrise kullanılır. Gün batımı ise sunset'tir.",
+  "note": ""
+ },
+ {
+  "id": "waist",
+  "senses": [
+   "bel",
+   "elbisenin beli"
+  ],
+  "ex": [
+   "Bu pantolon artık belime tam oturuyor.",
+   "Bel ölçüsü, sağlık uzmanlarının aşırı vücut yağıyla ilişkili bazı riskleri değerlendirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bel ölçüsü",
+   "bel etrafında",
+   "belden yukarı"
+  ],
+  "tip": "Waist (bel) ile waste (israf etmek) telaffuz olarak aynıdır ama anlamları ve yazımları farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "cyclist",
+  "senses": [
+   "bisikletçi; bisiklet sürücüsü"
+  ],
+  "ex": [
+   "Bisikletçi, su içmek için köprünün yanında durdu.",
+   "Korumalı bisiklet yolları, kalabalık şehirlerde bisikletliler ile motorlu araçlar arasındaki çarpışma riskini azaltabilir."
+  ],
+  "col": [
+   "işe bisikletle giden kişi",
+   "profesyonel bisikletçi",
+   "bisikletçi güvenliği"
+  ],
+  "tip": "Cyclist yalnızca bisiklet süren kişiyi anlatır. Motosiklet sürücüsü için motorcyclist kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "subtitle",
+  "senses": [
+   "altyazı",
+   "alt başlık",
+   "altyazı eklemek"
+  ],
+  "ex": [
+   "Diyalog sessiz olduğu için filmi altyazılı izledik.",
+   "Altyazılar, izleyicilerin konuşulan ifadeleri yazılı biçimleriyle eşleştirmesine yardımcı olarak dil öğrenimini destekleyebilir."
+  ],
+  "col": [
+   "İngilizce altyazılar",
+   "altyazıyı açmak",
+   "altyazı eklemek"
+  ],
+  "tip": "Film altyazıları için genellikle çoğul subtitles kullanılır. Tekil subtitle ise bir eserin alt başlığını da anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "recover",
+  "senses": [
+   "iyileşmek; toparlanmak",
+   "geri kazanmak; kurtarmak"
+  ],
+  "ex": [
+   "Gribden iyileşmesi birkaç gün sürdü.",
+   "Hükümetler küçük işletmelere zamanında destek sağlarsa, yerel ekonomiler genellikle daha hızlı toparlanır."
+  ],
+  "col": [
+   "hastalıktan iyileşmek",
+   "tamamen iyileşmek",
+   "kayıp verileri geri almak",
+   "masrafları geri kazanmak"
+  ],
+  "tip": "Bir hastalıktan veya zorluktan toparlanmak için recover from kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nod",
+  "senses": [
+   "başını sallamak; onaylamak",
+   "baş hareketi; baş sallama"
+  ],
+  "ex": [
+   "Ona bir fincan çay daha teklif ettiğimde başını salladı.",
+   "Grup tartışmalarında katılımcılar, konuşmacının görüşlerine mutlaka katılmadan anlayış göstermek için başlarını sallayabilir."
+  ],
+  "col": [
+   "onaylayarak başını sallamak",
+   "başıyla işaret vermek",
+   "birine başıyla selam vermek",
+   "uykuya dalmak"
+  ],
+  "tip": "Geçmiş zaman nodded, ing hali nodding olur. Son harf d iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "trumpet",
+  "senses": [
+   "trompet",
+   "büyük sesle duyurmak; övmek",
+   "fil gibi bağırmak"
+  ],
+  "ex": [
+   "Müzisyen trompetini kaldırdı ve neşeli bir melodi çaldı.",
+   "Okul orkestrasında trompet çalmayı öğrenmek, öğrencilerin konsantrasyonunu ve başkalarıyla iş birliği yapma becerisini geliştirebilir."
+  ],
+  "col": [
+   "trompet çalmak",
+   "trompetçi",
+   "başarıları büyük sesle duyurmak"
+  ],
+  "tip": "Çalgı anlamındaki trumpet isimdir. Fiil olarak ise bir şeyi büyük sesle duyurmak ya da övmek anlamına gelir.",
+  "note": ""
+ }
+]

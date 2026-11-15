@@ -1,0 +1,273 @@
+[
+ {
+  "id": "tiny",
+  "senses": [
+   "çok küçük; minik"
+  ],
+  "ex": [
+   "Küçük bir kurbağa çiçek saksısından fırlayıp çıktı.",
+   "Günlük alışkanlıklardaki en küçük değişiklikler bile zamanla evdeki enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "çok az miktar",
+   "çok küçük bir kesir",
+   "küçük bir köy"
+  ],
+  "tip": "small'a göre daha güçlü bir sözcüktür; şaşırtıcı derecede küçük olduğunu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "backpack",
+  "senses": [
+   "sırt çantası",
+   "sırt çantasıyla seyahat etmek"
+  ],
+  "ex": [
+   "Öğle yemeğimi ve ceketimi sırt çantama koydum.",
+   "Genç yetişkinler kırsal bölgelerde sırt çantasıyla gezip yerel işletmelere destek olur ve yerel gelenekleri öğrenir."
+  ],
+  "col": [
+   "sırt çantası taşımak",
+   "sırt çantasını hazırlamak",
+   "yürüyüş sırt çantası"
+  ],
+  "tip": "İngiliz İngilizcesinde sırt çantası için rucksack da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "quiz",
+  "senses": [
+   "kısa test; bilgi yarışması",
+   "sınamak; ayrıntılı soru sormak"
+  ],
+  "ex": [
+   "Dün akşam yemekten sonra bir müzik bilgi yarışması oynadık.",
+   "Her dersin başında yapılan kısa bir test, öğretmenlerin öğrencilerdeki eksik anlayışı belirlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "test çözmek",
+   "genel kültür yarışması",
+   "birini ... konusunda sınamak"
+  ],
+  "tip": "Çoğulu quizzes, geçmiş zamanı quizzed şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "naughty",
+  "senses": [
+   "yaramaz; uslu olmayan"
+  ],
+  "ex": [
+   "Yaramaz yavru köpek terliklerimi bahçeye sürükledi.",
+   "Yaramaz olarak nitelendirilen çocuklar, tekrarlanan cezalardan çok sabırlı rehberlikten fayda görebilir."
+  ],
+  "col": [
+   "yaramaz çocuk",
+   "yaramaz davranış",
+   "yaramaz olmak"
+  ],
+  "tip": "Genellikle çocuklar ve evcil hayvanlar için kullanılır; ciddi bir kötülüğü ifade etmez.",
+  "note": ""
+ },
+ {
+  "id": "elevator",
+  "senses": [
+   "asansör"
+  ],
+  "ex": [
+   "Çantalarımız ağır olduğu için asansöre bindik.",
+   "Eski apartman binalarına asansör kurulması, yaşlı sakinlerin ve engelli insanların erişilebilirliğini önemli ölçüde artırabilir."
+  ],
+  "col": [
+   "asansöre binmek",
+   "asansör kapıları",
+   "yolcu asansörü"
+  ],
+  "tip": "Amerikan İngilizcesinde elevator, İngiliz İngilizcesinde lift kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "final",
+  "senses": [
+   "son; nihai",
+   "kesin; değiştirilemez",
+   "final maçı; final sınavı"
+  ],
+  "ex": [
+   "Son kutuyu hazırlayıp kapıyı kilitledik.",
+   "Araştırmanın son aşaması, çeşitli konut türlerindeki enerji tüketimini karşılaştırmayı içeriyordu."
+  ],
+  "col": [
+   "kesin karar",
+   "son aşama",
+   "finale kalmak",
+   "final sınavları"
+  ],
+  "tip": "final ile finally karıştırılmamalı; finally zarftır ve 'sonunda' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "melon",
+  "senses": [
+   "kavun"
+  ],
+  "ex": [
+   "Piknik için olgun bir kavunu dilimledi.",
+   "Kurak bölgelerde kavun yetiştiren çiftçiler, su tüketimini azaltmak için verimli sulama sistemleri kullanır."
+  ],
+  "col": [
+   "olgun kavun",
+   "bir dilim kavun",
+   "kavun çekirdekleri"
+  ],
+  "tip": "melon genel olarak kavun türlerini anlatır; karpuz için watermelon kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "well-known",
+  "senses": [
+   "ünlü; tanınmış"
+  ],
+  "ex": [
+   "Yaz tatilimizde ünlü bir kaleyi ziyaret ettik.",
+   "Ünlü turistik yerler genellikle aşırı kalabalıktan muzdariptir; bu da tarihi alanlara zarar verip sakinlerin yaşam kalitesini düşürebilir."
+  ],
+  "col": [
+   "ünlü yazar",
+   "tanınmış simge yapı",
+   "bilinen bir gerçek"
+  ],
+  "tip": "İsim önünde kısa çizgiyle yazılır (well-known author); yüklem olarak well known biçiminde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "chef",
+  "senses": [
+   "aşçıbaşı; profesyonel aşçı"
+  ],
+  "ex": [
+   "Aşçıbaşı buharı tüten çorbaya taze otlar ekledi.",
+   "Yetenekli bir aşçı, sınırlı bir bütçeye sığarken çocukların hoşuna gidecek besleyici okul yemekleri tasarlayabilir."
+  ],
+  "col": [
+   "baş aşçı",
+   "pastacı aşçı",
+   "aşçı olarak yetişmek"
+  ],
+  "tip": "ch harfleri /ʃ/ sesi verir. Restoran veya otelde çalışan profesyonel aşçıyı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "actually",
+  "senses": [
+   "aslında; gerçekten"
+  ],
+  "ex": [
+   "Bu çorbanın acı olduğunu düşündüm ama aslında tatlıymış.",
+   "Çevrimiçi kurslar kullanışlı görünse de bazı öğrenciler aslında yüz yüze etkileşimle daha etkili öğrenir."
+  ],
+  "col": [
+   "gerçekten olmak",
+   "aslında anlamına gelmek",
+   "gerçekten işe yaramak"
+  ],
+  "tip": "'Aslında' ya da 'gerçekte' anlamına gelir; 'şu anda' anlamında kullanılmaz (bunun için currently ya da at the moment).",
+  "note": ""
+ },
+ {
+  "id": "towel",
+  "senses": [
+   "havlu",
+   "havluyla kurulamak"
+  ],
+  "ex": [
+   "Islak omuzlarının etrafına sıcak bir havlu sardı.",
+   "Oteller, misafirleri kalışları boyunca havluları yeniden kullanmaya teşvik ederek su tüketimini azaltabilir."
+  ],
+  "col": [
+   "banyo havlusu",
+   "el havlusu",
+   "kağıt havlu",
+   "havluyla kurulamak"
+  ],
+  "tip": "Sayılabilir bir isimdir; paper towel kumaş havlu değil, kağıt havludur.",
+  "note": ""
+ },
+ {
+  "id": "toe",
+  "senses": [
+   "ayak parmağı",
+   "ayakkabı ucu; çorap ucu"
+  ],
+  "ex": [
+   "Parmaklarımın arasına sıkışmış biraz kum var.",
+   "Parmak hareketini kısıtlayan ayakkabılar dengeyi etkileyebilir ve zamanla ayak sorunlarına yol açabilir."
+  ],
+  "col": [
+   "başparmak",
+   "küçük ayak parmağı",
+   "parmağını çarpmak",
+   "baştan ayağa"
+  ],
+  "tip": "El parmağı finger, ayak parmağı toe'dur; finger'ı ayak için kullanmayın. Başparmak big toe'dur.",
+  "note": ""
+ },
+ {
+  "id": "human",
+  "senses": [
+   "insana ait; insani",
+   "insan; insanoğlu"
+  ],
+  "ex": [
+   "Bu robot tanıdık bir insan sesini tanıyabilir.",
+   "İnsan faaliyetleri doğal yaşam alanlarını önemli ölçüde değiştirdi; bu da hükümetler için yaban hayatını korumayı acil bir öncelik hâline getirdi."
+  ],
+  "col": [
+   "insanlar",
+   "insan hakları",
+   "insan faaliyeti",
+   "insan hatası"
+  ],
+  "tip": "human 'insana ait' anlamına gelir; 'insancıl, merhametli' anlamındaki sözcük humane'dir, karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "peace",
+  "senses": [
+   "barış",
+   "huzur; sükûn"
+  ],
+  "ex": [
+   "Kahvaltıdan önce bu bahçenin huzurunu seviyorum.",
+   "Kalıcı barış, topluluklar arasındaki işbirliğine ve temel kaynaklara adil erişime bağlıdır."
+  ],
+  "col": [
+   "kalıcı barış",
+   "huzur ve sessizlik",
+   "gönül rahatlığı",
+   "barış görüşmeleri"
+  ],
+  "tip": "Genellikle sayılamaz; peace of mind 'içi rahatlık, gönül rahatlığı' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "wave",
+  "senses": [
+   "dalga",
+   "el sallamak",
+   "dalga; akın"
+  ],
+  "ex": [
+   "Kocaman bir dalga küçük kum kalemimizin üzerinden geçti.",
+   "Kıyı sulak alanları dalga enerjisini emerek yakındaki yerleşimleri erozyon ve fırtına hasarından koruyabilir."
+  ],
+  "col": [
+   "el sallayarak veda etmek",
+   "birine el sallamak",
+   "ses dalgaları",
+   "protesto dalgası"
+  ],
+  "tip": "Birine el sallamak için wave at someone ya da wave to someone kalıplarını kullanın.",
+  "note": ""
+ }
+]

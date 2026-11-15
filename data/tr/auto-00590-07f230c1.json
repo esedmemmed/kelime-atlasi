@@ -1,0 +1,287 @@
+[
+ {
+  "id": "toothbrush",
+  "senses": [
+   "diş fırçası"
+  ],
+  "ex": [
+   "Diş fırçamı yan cebe koymuştum.",
+   "Eskiyen diş fırçasını düzenli olarak değiştirmek, dişlerin etkili biçimde temizlenmesini sağlayarak ağız hijyenine yardımcı olur."
+  ],
+  "col": [
+   "elektrikli diş fırçası",
+   "yumuşak kıllı diş fırçası",
+   "diş fırçalığı"
+  ],
+  "tip": "Çoğul biçimi toothbrushes'tır. teethbrushes yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "table",
+  "senses": [
+   "masa",
+   "tablo; çizelge"
+  ],
+  "ex": [
+   "Taze ekmeği birlikte yemek için masanın etrafında toplandık.",
+   "Tablo, üç şehirde on yıllık dönemde hanelerin ulaşım için yaptığı ortalama harcamaları karşılaştırıyor."
+  ],
+  "col": [
+   "yemek masası",
+   "sofra kurmak",
+   "masayı toplamak",
+   "sonuç tablosu"
+  ],
+  "tip": "set the table masaya sofra kurmak anlamına gelir; masanın kendisini 'kurmak' değildir.",
+  "note": ""
+ },
+ {
+  "id": "useful",
+  "senses": [
+   "yararlı; faydalı"
+  ],
+  "ex": [
+   "Elektrikler kesildiğinde bu küçük el feneri çok işe yarıyor.",
+   "İyi donanımlı kütüphanelere erişimi olmayan öğrenciler için güvenilir çevrimiçi kaynaklar faydalı olabilir."
+  ],
+  "col": [
+   "yararlı tavsiye",
+   "faydalı bilgi",
+   "öğrenmek için yararlı",
+   "yararlı bir araç"
+  ],
+  "tip": "Sesli harfle başlamasa da ünsüz /j/ sesiyle başladığı için 'a useful tool' kullanılır, 'an useful' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "like",
+  "senses": [
+   "sevmek; hoşlanmak",
+   "gibi; benzer",
+   "örneğin; mesela"
+  ],
+  "ex": [
+   "Yağmurlu öğleden sonralarda pencere kenarında kitap okumayı severim.",
+   "Birçok sakin, yakında yeşil alanların olmasından hoşlanır; çünkü bu alanlar egzersiz ve dinlenme fırsatı sunar."
+  ],
+  "col": [
+   "bir şey yapmayı sevmek",
+   "-mek istemek",
+   "...gibi görünmek",
+   "bir şey yapmak istemek"
+  ],
+  "tip": "would like to, want to'dan daha nazik bir kalıptır; resmi ya da kibar konuşmalarda tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "note",
+  "senses": [
+   "not; kısa yazı",
+   "fark etmek; not etmek",
+   "nota"
+  ],
+  "ex": [
+   "Kahvaltı kasenin yanına bir not bıraktım.",
+   "Notları kendi cümleleriyle alan öğrenciler, karmaşık konuları daha derinlemesine kavrayabilir."
+  ],
+  "col": [
+   "not almak",
+   "not bırakmak",
+   "-olduğunu not etmek",
+   "müzik notası"
+  ],
+  "tip": "Not almak için take notes kullanılır. note that'ten sonra tam bir cümle gelir.",
+  "note": ""
+ },
+ {
+  "id": "fall",
+  "senses": [
+   "düşmek",
+   "düşüş",
+   "sonbahar (ABD)"
+  ],
+  "ex": [
+   "Altın sarısı yapraklar evimizin önündeki patikaya düşüyor.",
+   "Hükümetler hanelerin daha iyi yalıtım ve verimli ısıtma sistemleri kurmasını teşvik ederse enerji tüketimi azalabilir."
+  ],
+  "col": [
+   "uykuya dalmak",
+   "fiyatlarda düşüş",
+   "keskin biçimde düşmek",
+   "sonbaharda"
+  ],
+  "tip": "Geçmiş zaman fell, ortaç fallen'dir. Amerikan İngilizcesinde mevsim için fall, İngiliz İngilizcesinde autumn kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thirty",
+  "senses": [
+   "otuz"
+  ],
+  "ex": [
+   "Çorbanın ocakta bir süre daha otuz dakikaya ihtiyacı var.",
+   "Ankette sakinlerin yüzde otuzunun kısa yolculuklar için araba yerine bisikleti tercih ettiği görüldü."
+  ],
+  "col": [
+   "otuz dakika",
+   "yüzde otuz",
+   "otuzlarında olmak"
+  ],
+  "tip": "thirty'de vurgu ilk hecededir; thirteen'de ise genellikle son hecededir. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "best",
+  "senses": [
+   "en iyi",
+   "en iyi biçimde; en çok",
+   "en iyi olan; en iyi performans"
+  ],
+  "ex": [
+   "Bu fırın mahallemizdeki en iyi ekmeği yapıyor.",
+   "Erken eğitime yatırım yapmak, zaman içinde eşitsizliği azaltmanın belki de en iyi yoludur."
+  ],
+  "col": [
+   "en iyi seçenek",
+   "elinden geleni yapmak",
+   "en parlak halinde",
+   "bir şeyi en çok sevmek"
+  ],
+  "tip": "best, good ve well'in en üstün derece biçimidir. Sıfat olarak genellikle önüne the getirilir.",
+  "note": ""
+ },
+ {
+  "id": "any",
+  "senses": [
+   "herhangi bir; bazı",
+   "herhangi biri; bazıları",
+   "hiç; biraz bile"
+  ],
+  "ex": [
+   "Bu raftaki herhangi bir kitabı ödünç alabilirsin.",
+   "Hükümetler, tüm çocukların hiçbir mali engelle karşılaşmadan okula gidebilmesini sağlamalıdır."
+  ],
+  "col": [
+   "herhangi bir soru",
+   "istediğin zaman",
+   "bunlardan herhangi biri",
+   "neredeyse hiç"
+  ],
+  "tip": "Soru ve olumsuz cümlelerde 'bazı', olumlu cümlelerde 'herhangi bir' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "computer",
+  "senses": [
+   "bilgisayar"
+  ],
+  "ex": [
+   "Tatil fotoğraflarını düzenlerken bilgisayarım donup kaldı.",
+   "Evde bilgisayara erişim, öğrencilerin ödevlerini tamamlamasına ve temel dijital becerilerini geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bilgisayar yazılımı",
+   "bilgisayar becerileri",
+   "bilgisayar ağı",
+   "bilgisayar bilimi"
+  ],
+  "tip": "Bilgisayarda çalışmak için work on a computer kullanılır; on edatı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "shopping",
+  "senses": [
+   "alışveriş",
+   "alınan ürünler"
+  ],
+  "ex": [
+   "Genellikle cumartesi sabahları alışverişimizi erken yaparız.",
+   "Çevrimiçi alışverişin artması tüketici alışkanlıklarını değiştirdi ve eve teslimat hizmetlerine talebi artırdı."
+  ],
+  "col": [
+   "alışverişe gitmek",
+   "alışveriş yapmak",
+   "çevrimiçi alışveriş",
+   "alışveriş merkezi"
+  ],
+  "tip": "İsim olarak sayılamaz. 'Alışverişe gitmek' için go shopping kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "alphabet",
+  "senses": [
+   "alfabe"
+  ],
+  "ex": [
+   "Küçük kız kardeşim alfabeyi bir şarkı sayesinde öğrendi.",
+   "Alfabeyi öğrenmek okuryazarlığa giden önemli bir ilk adımdır, ancak çocukların düzenli okuma pratiğine de ihtiyacı vardır."
+  ],
+  "col": [
+   "İngiliz alfabesi",
+   "alfabeyi öğrenmek",
+   "alfabe şarkısı"
+  ],
+  "tip": "alphabet tüm harf dizisini anlatır. Tek bir harf için letter kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "address",
+  "senses": [
+   "adres",
+   "ele almak; çözmeye çalışmak",
+   "hitap etmek; konuşmak"
+  ],
+  "ex": [
+   "Paketi postalamadan önce lütfen adresini gönder.",
+   "Hükümetler, uygun fiyatlı konut yapımını destekleyerek ve toplu taşıma bağlantılarını iyileştirerek konut açığını ele almalıdır."
+  ],
+  "col": [
+   "posta adresi",
+   "e-posta adresi",
+   "bir sorunu ele almak",
+   "dinleyicilere hitap etmek"
+  ],
+  "tip": "Amerikan İngilizcesinde fiil /əˈdres/ okunur. address a problem sorunla ilgilenmek demektir, sorunun çözüldüğü anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "win",
+  "senses": [
+   "kazanmak",
+   "elde etmek; kazanmak",
+   "zafer; galibiyet"
+  ],
+  "ex": [
+   "Şiddetli yağmura rağmen takımımız maçı kazandı.",
+   "Kamuoyu desteği kazanmak için hükümetler çevre politikalarının uzun vadede topluma nasıl fayda sağlayacağını açıklamalıdır."
+  ],
+  "col": [
+   "ödül kazanmak",
+   "maç kazanmak",
+   "destek kazanmak",
+   "birinin güvenini kazanmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi won'dur. Maç kazanmak için win, birini yenmek için beat kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "grow",
+  "senses": [
+   "büyümek; gelişmek",
+   "yetiştirmek",
+   "giderek olmak"
+  ],
+  "ex": [
+   "Mutfak penceresinin yanındaki saksılarda taze otlar yetiştiriyoruz.",
+   "Şehirler büyüdükçe yerel yönetimlerin, genişleyen nüfusa hizmet edecek ulaşım sistemlerine yatırım yapması gerekir."
+  ],
+  "col": [
+   "hızla büyümek",
+   "sebze yetiştirmek",
+   "yaşlanmak",
+   "giderek endişelenmek"
+  ],
+  "tip": "Düzensiz çekimi: grew (geçmiş), grown (ortaç). Durum değişimi için sıfat ile kullanılır: grow older, grow concerned.",
+  "note": ""
+ }
+]

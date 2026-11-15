@@ -1,0 +1,277 @@
+[
+ {
+  "id": "imagination",
+  "senses": [
+   "hayal gücü; tasavvur"
+  ],
+  "ex": [
+   "Biraz hayal gücüyle bu kutu bir uzay gemisine dönüşür.",
+   "Yaratıcı etkinlikler çocukları hayal güçlerini kullanmaya ve tanıdık olmayan sorunlara farklı açılardan yaklaşmaya teşvik eder."
+  ],
+  "col": [
+   "hayal gücünü kullanmak",
+   "canlı bir hayal gücü",
+   "ilgisini çekmek",
+   "hayal ürünü"
+  ],
+  "tip": "imaginative hayal gücü geniş ya da yaratıcı insanı, imaginary ise gerçek olmayan, hayali şeyi anlatır. İkisini karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "unfriendly",
+  "senses": [
+   "güler yüzsüz; soğuk",
+   "elverişsiz; zor"
+  ],
+  "ex": [
+   "Yeni komşu güler yüzsüz görünüyordu, ama sadece çekingendi.",
+   "Dostane olmayan bir çalışma ortamı, çalışanları fikir paylaşmaktan ve destek aramaktan caydırabilir."
+  ],
+  "col": [
+   "soğuk bir atmosfer",
+   "soğuk bir tutum",
+   "çevreye zararlı"
+  ],
+  "tip": "-ly ile bitse de unfriendly genellikle sıfattır, zarf değildir. Zarf için 'in an unfriendly way' gibi bir yapı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thunder",
+  "senses": [
+   "gök gürültüsü",
+   "gümbürdemek; gürlemek"
+  ],
+  "ex": [
+   "Ani bir gök gürültüsü pencereleri titretti.",
+   "Fırtına tehlikeli derecede yaklaştığında gök gürlediğinde açık hava spor etkinlikleri durdurulmalıdır."
+  ],
+  "col": [
+   "bir gök gürültüsü patlaması",
+   "gök gürültüsü sesi",
+   "şimşek ve gök gürültüsü"
+  ],
+  "tip": "thunder genellikle sayılamayan bir isimdir ve 'a clap of thunder' gibi kalıplarla kullanılır. Şimşek için lightning kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "challenge",
+  "senses": [
+   "zorluk; meydan okuma",
+   "sorgulamak; itiraz etmek",
+   "meydan okumak; yarışa çağırmak"
+  ],
+  "ex": [
+   "On iki misafir için akşam yemeği pişirmek oldukça zorlu bir işti.",
+   "Hızla büyüyen nüfusa ve yükselen arsa fiyatlarına sahip şehirler için uygun fiyatlı konut sağlamak hâlâ büyük bir sorun."
+  ],
+  "col": [
+   "bir zorlukla karşılaşmak",
+   "bir zorluğun üstesinden gelmek",
+   "bir varsayımı sorgulamak",
+   "birini yarışmaya davet etmek"
+  ],
+  "tip": "Fiil olarak challenge doğrudan nesne alır: challenge the idea. Bu yüzden araya 'on' gibi bir edat koymak yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "teacup",
+  "senses": [
+   "çay fincanı"
+  ],
+  "ex": [
+   "Kurabiye tabağının yanına narin bir çay fincanı koydu.",
+   "Müzedeki süslü çay fincanları, ev içi zevklerin ve üretim tekniklerinin zamanla nasıl değiştiğini gösterebilir."
+  ],
+  "col": [
+   "porselen çay fincanı",
+   "fincan ve tabak",
+   "bardakta fırtına"
+  ],
+  "tip": "teacup bileşik bir isimdir ve çay fincanını anlatır. Bir fincan çay demek için 'a cup of tea' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "upload",
+  "senses": [
+   "yüklemek",
+   "yükleme; yüklenen dosya"
+  ],
+  "ex": [
+   "Piknik fotoğraflarımızı ortak klasöre yükledim.",
+   "Öğrenciler ödevlerini güvenli bir platforma yükleyebilir; böylece öğretmenler zamanında geri bildirim verebilir."
+  ],
+  "col": [
+   "bir dosya yüklemek",
+   "fotoğraf yüklemek",
+   "bir sunucuya yüklemek"
+  ],
+  "tip": "Yükleme için upload, indirme için download kullanılır. Bir yere yüklemek için 'to' edatı gelir: upload to a server.",
+  "note": ""
+ },
+ {
+  "id": "tissue",
+  "senses": [
+   "kâğıt mendil",
+   "doku"
+  ],
+  "ex": [
+   "Aksırdığımda bana bir kâğıt mendil uzattı.",
+   "Bilim insanları, yaralanmadan sonra hasarlı dokunun daha etkili iyileşmesine yardımcı olan yeni tedaviler geliştiriyor."
+  ],
+  "col": [
+   "bir kutu kâğıt mendil",
+   "kas dokusu",
+   "hasarlı doku",
+   "doku onarımı"
+  ],
+  "tip": "Kâğıt mendil için a tissue / tissues sayılabilir. Biyolojik doku anlamında ise genellikle sayılamaz: muscle tissue.",
+  "note": ""
+ },
+ {
+  "id": "statement",
+  "senses": [
+   "ifade; açıklama",
+   "resmi açıklama; bildiri",
+   "hesap özeti; ekstre"
+  ],
+  "ex": [
+   "Kırık pencere hakkındaki sözleri herkesi şaşırttı.",
+   "Belediye, önerilen ulaşım planının hareket kısıtlılığı olan sakinlere nasıl fayda sağlayacağını açıklayan bir bildiri yayımladı."
+  ],
+  "col": [
+   "bir görüş bildirmek",
+   "açıklama yapmak",
+   "banka hesap özeti",
+   "tanık ifadesi"
+  ],
+  "tip": "'Açıklama' ya da 'ifade' anlamında sayılabilir bir isimdir: a statement. Banka hesap özeti için de aynı kelime kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bride",
+  "senses": [
+   "gelin"
+  ],
+  "ex": [
+   "Gelin, bahçeye girerken taze çiçekler tutuyordu.",
+   "Birçok kültürde gelin ve ailesi düğün kutlamasının organizasyonunda sorumluluğu paylaşır."
+  ],
+  "col": [
+   "gelin ve damat",
+   "güzel bir gelin",
+   "gelin adayı"
+  ],
+  "tip": "bride gelin, groom ise damattır. Düğünden önce nişanlı kadın için bride-to-be kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "confused",
+  "senses": [
+   "şaşkın; kafası karışık",
+   "karmaşık; anlaşılmaz"
+  ],
+  "ex": [
+   "İki kapının da dışarıya açılması beni şaşkına çevirdi.",
+   "Öğretmenler tek derste çok fazla tanıdık olmayan kavram sunarsa öğrencilerin kafası karışabilir."
+  ],
+  "col": [
+   "konusunda kafası karışık",
+   "şaşkın görünmek",
+   "karmaşık bir anlatım"
+  ],
+  "tip": "confused kişinin hâlini, confusing ise şeyin insanda yarattığı etkiyi anlatır: a confusing instruction (kafa karıştırıcı talimat).",
+  "note": ""
+ },
+ {
+  "id": "rarely",
+  "senses": [
+   "nadiren; ender"
+  ],
+  "ex": [
+   "Hava soğuduğunda nadiren dışarıda yemek yeriz.",
+   "Uzak köylerde yaşayan insanların uzman tıbbi hizmetlere kolay erişimi nadiren olur."
+  ],
+  "col": [
+   "neredeyse hiç",
+   "nadiren görülen",
+   "nadiren kullanılan"
+  ],
+  "tip": "rarely kendi başına olumsuz anlam taşır. Bu yüzden 'not ... rarely' gibi çift olumsuz yapılar kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "reservation",
+  "senses": [
+   "rezervasyon; ayırtma",
+   "çekince; kuşku"
+  ],
+  "ex": [
+   "Pencere kenarında akşam yemeği için rezervasyon yaptım.",
+   "Bazı sakinler, artan gürültü kirliliği nedeniyle önerilen havalimanı genişlemesine karşı çekincelerini dile getirdi."
+  ],
+  "col": [
+   "rezervasyon yaptırmak",
+   "rezervasyonu iptal etmek",
+   "...konusunda çekinceleri olmak",
+   "çekincesiz"
+  ],
+  "tip": "'Çekince' anlamında genellikle çoğul kullanılır: have reservations about. Tekil halde ise 'rezervasyon' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "minimum",
+  "senses": [
+   "asgari; en az miktar",
+   "asgari; en düşük"
+  ],
+  "ex": [
+   "Lütfen bu gece gürültüyü en aza indirin.",
+   "Daha yüksek asgari ücret, düşük ücretli hizmet işlerinde çalışanların yaşam standartlarını iyileştirebilir."
+  ],
+  "col": [
+   "en az",
+   "bir şeyi en aza indirmek",
+   "asgari ücret",
+   "asgari gereksinimler"
+  ],
+  "tip": "'a minimum of' ardından gelen isim sayılabilir ya da sayılamaz olabilir, 'en az' anlamı verir: a minimum of ten people.",
+  "note": ""
+ },
+ {
+  "id": "announcement",
+  "senses": [
+   "duyuru; anons"
+  ],
+  "ex": [
+   "Trenimizin gecikeceğine dair bir anons duyduk.",
+   "Hükümetin ek eğitim fonu açıklaması öğretmenler ve veliler tarafından memnuniyetle karşılandı."
+  ],
+  "col": [
+   "duyuru yapmak",
+   "resmi açıklama",
+   "kamuya açık duyuru"
+  ],
+  "tip": "Duyuru yapmak için make an announcement denir. Fiil olarak announce kullanılır: announce the news.",
+  "note": ""
+ },
+ {
+  "id": "wing",
+  "senses": [
+   "kanat; uçak kanadı",
+   "bina kanadı",
+   "kanat; grup"
+  ],
+  "ex": [
+   "Kuş, dalı bırakmadan önce kanatlarını gerdi.",
+   "Hastanenin yeni kanadı, bölgenin artan nüfusu için ek yataklar ve uzman olanakları sağlayacak."
+  ],
+  "col": [
+   "kanatlarını açmak",
+   "uçak kanadı",
+   "hastane kanadı",
+   "sol kanat"
+  ],
+  "tip": "Kuş ve uçak kanadı için wing kullanılır. Genellikle iki tane olduğundan çoğul wings sık görülür.",
+  "note": ""
+ }
+]

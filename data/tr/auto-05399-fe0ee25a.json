@@ -1,0 +1,279 @@
+[
+ {
+  "id": "fascination",
+  "senses": [
+   "büyülenme; ilgi"
+  ],
+  "ex": [
+   "Kız saatlerce küçük balığı büyülenmiş gibi izledi.",
+   "Çocukların yaban hayatına duyduğu merak, ilkokullarda çevre eğitimi için değerli bir başlangıç noktası olabilir."
+  ],
+  "col": [
+   "~e karşı ilgi; merak",
+   "büyülenerek izlemek",
+   "birinin ilgisini çekmek"
+  ],
+  "tip": "Genellikle 'with' ile kullanılır (fascination with ...). Sıfat olan fascinating ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "kindergarten",
+  "senses": [
+   "anaokulu; ana sınıfı"
+  ],
+  "ex": [
+   "Kızım anaokulunda parlak sarı bir kuş resmi yaptı.",
+   "Yüksek kaliteli okul öncesi eğitim, çocukların sosyal becerilerini geliştirebilir ve onları daha yapılandırılmış öğrenmeye hazırlayabilir."
+  ],
+  "col": [
+   "anaokulu öğretmeni",
+   "anaokuluna gitmek",
+   "anaokulu sınıfı"
+  ],
+  "tip": "Amerikan İngilizcesinde genellikle ilkokul öncesi bir yıl anlamına gelir; İngiliz İngilizcesinde daha çok nursery kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "phase",
+  "senses": [
+   "aşama; dönem",
+   "ay evresi",
+   "kademeli olarak uygulamak"
+  ],
+  "ex": [
+   "Mutfak tamirleri son aşamasına girdi.",
+   "Kentsel gelişimin ilk aşamasında planlamacılar uygun fiyatlı konutlara ve güvenilir toplu taşımaya öncelik vermelidir."
+  ],
+  "col": [
+   "ilk aşama",
+   "gelişim aşaması",
+   "aşamalı olarak kaldırmak",
+   "aşamalı olarak devreye sokmak"
+  ],
+  "tip": "phase in yeni bir şeyi kademeli olarak getirmek, phase out ise kademeli olarak kaldırmak anlamına gelir; iki kalıbı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "operator",
+  "senses": [
+   "makine operatörü",
+   "işletmeci; operatör",
+   "santral görevlisi"
+  ],
+  "ex": [
+   "Vinç operatörü kirişi dikkatle yerine indirdi.",
+   "Her toplu taşıma işletmecisi, hizmetlerinin sınırlı hareket kabiliyetine sahip yolcular için erişilebilir kalmasını sağlamalıdır."
+  ],
+  "col": [
+   "makine operatörü",
+   "tur operatörü",
+   "mobil ağ operatörü",
+   "telefon santral görevlisi"
+  ],
+  "tip": "Hem makineyi kullanan kişiyi hem de bir hizmeti işleten şirketi ifade edebilir; cümlenin bağlamına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "marvel",
+  "senses": [
+   "harika; mucize",
+   "hayran kalmak"
+  ],
+  "ex": [
+   "Küçük kuşun özenle ördüğü yuvaya hayran kaldık.",
+   "Yeni köprü, izole topluluklari temel hizmetlere bağlayan bir mühendislik harikasıdır."
+  ],
+  "col": [
+   "mühendislik harikası",
+   "teknolojik harika",
+   "~e hayran kalmak",
+   "doğa harikası"
+  ],
+  "tip": "Fiil genellikle at ile kullanılır (marvel at). İngiliz İngilizcesinde marvelled, Amerikan İngilizcesinde marveled yazılır.",
+  "note": ""
+ },
+ {
+  "id": "swear",
+  "senses": [
+   "küfretmek",
+   "yemin etmek"
+  ],
+  "ex": [
+   "Oyun ters gittiğinde lütfen küfretme.",
+   "Birçok hukuk sisteminde tanıklar, ifade vermeden önce doğruyu söyleyeceklerine yemin etmek zorundadır."
+  ],
+  "col": [
+   "birine küfretmek",
+   "bir şey yapacağına yemin etmek",
+   "yemin etmek"
+  ],
+  "tip": "Düzensiz fiil: swear, swore, sworn. swear at küfür anlamında, swear to ise söz verme veya yemin anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "overview",
+  "senses": [
+   "genel bakış; özet"
+  ],
+  "ex": [
+   "Rehberimiz tur hakkında genel bir bilgi verdi.",
+   "Giriş bölümü, yenilenebilir enerji geliştirmesinin karşılaştığı temel zorluklara genel bir bakış sunmaktadır."
+  ],
+  "col": [
+   "genel bir bakış sunmak",
+   "kısa bir özet",
+   "genel bir değerlendirme",
+   "~e genel bakış"
+  ],
+  "tip": "Genellikle sayılabilir isimdir: an overview. Konu of ile belirtilir (an overview of the topic).",
+  "note": ""
+ },
+ {
+  "id": "recruitment",
+  "senses": [
+   "işe alım; personel alımı"
+  ],
+  "ex": [
+   "Kafemiz yoğun yaz sezonundan önce işe alım işlerini yürütüyor.",
+   "Adil işe alım uygulamaları, işverenlerin çok çeşitli sosyal geçmişlerden yetenekli adayları çekmesine yardımcı olur."
+  ],
+  "col": [
+   "işe alım süreci",
+   "işe alım ajansı",
+   "işe alım kampanyası",
+   "personel alımı"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Fiil olan recruit ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "minor",
+  "senses": [
+   "küçük; önemsiz",
+   "reşit olmayan kişi",
+   "minör"
+  ],
+  "ex": [
+   "Bisikletin sadece birkaç küçük tamire ihtiyacı var.",
+   "Günlük seyahat alışkanlıklarında yapılan küçük değişiklikler, yoğun nüfuslu kentsel alanlarda kirliliği birlikte azaltabilir."
+  ],
+  "col": [
+   "hafif yaralanma",
+   "küçük değişiklikler",
+   "küçük bir sorun",
+   "minör ton"
+  ],
+  "tip": "Sıfat olarak küçük veya önemsiz, isim olarak reşit olmayan kişi anlamına gelir. Anlamı bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "investigate",
+  "senses": [
+   "soruşturmak",
+   "araştırmak"
+  ],
+  "ex": [
+   "Üst kattan gelen tuhaf sesi incelemek için bir tesisatçı geldi.",
+   "Araştırmacılar, yeşil alanlara erişimin kentsel sakinlerin ruh sağlığını nasıl etkilediğini inceliyor."
+  ],
+  "col": [
+   "bir şikayeti soruşturmak",
+   "nedenini araştırmak",
+   "bir bağlantıyı incelemek"
+  ],
+  "tip": "Genellikle doğrudan nesne alır: investigate the cause. Sonuna into eklemek yerine nesneyi doğrudan kullanmak daha doğal olur.",
+  "note": ""
+ },
+ {
+  "id": "illustrate",
+  "senses": [
+   "açıklamak; örneklemek",
+   "resimlemek"
+  ],
+  "ex": [
+   "Farkı göstermek için iki kavanoz kullandı.",
+   "Bu bulgular, toplu taşımaya erişimin dezavantajlı topluluklarda istihdam fırsatlarını nasıl artırabileceğini örneklemektedir."
+  ],
+  "col": [
+   "bir noktayı açıklamak",
+   "~ önemini göstermek",
+   "bir kitabı resimlemek"
+  ],
+  "tip": "Örneklerle açıklamak anlamında da kullanılır; her zaman resim çizmek anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "glorious",
+  "senses": [
+   "şanlı; görkemli",
+   "muhteşem; harika"
+  ],
+  "ex": [
+   "Gölde yüzerek harika bir öğleden sonra geçirdik.",
+   "Müzeler, bir ulusun parlak başarılarını kutladıkları kadar zor tarihi olayları da dikkatle incelemelidir."
+  ],
+  "col": [
+   "şanlı zafer",
+   "harika güneş ışığı",
+   "şanlı geçmiş"
+  ],
+  "tip": "Hem onur ve gurur veren olayları hem de hava durumunu veya manzarayı tanımlayabilir; bağlama göre çeviri seçin.",
+  "note": ""
+ },
+ {
+  "id": "checklist",
+  "senses": [
+   "kontrol listesi"
+  ],
+  "ex": [
+   "Seyahate hazırlanırken bir kontrol listesi kullanırım.",
+   "Standart bir güvenlik kontrol listesi, hastane personelinin rutin tıbbi işlemler sırasında önlenebilir hataları azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "güvenlik kontrol listesi",
+   "eşya hazırlık listesi",
+   "kontrol listesini doldurmak"
+  ],
+  "tip": "Sayılabilir bir isimdir: a checklist, checklists. Maddelerin tek tek kontrol edildiği listeyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "straightforward",
+  "senses": [
+   "basit; anlaşılır",
+   "açık sözlü; dürüst"
+  ],
+  "ex": [
+   "Tarif, yeni başlayanlar için bile basit.",
+   "Hükümetler geri dönüşüm prosedürlerini basit tutmalıdır ki daha fazla hane gereksiz karışıklık olmadan katılabilsin."
+  ],
+  "col": [
+   "basit bir süreç",
+   "açık bir cevap",
+   "nispeten basit",
+   "dürüst tavsiye"
+  ],
+  "tip": "Bir işin basit olduğunu ya da kişinin açık sözlü olduğunu anlatabilir; bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "scratch",
+  "senses": [
+   "kaşımak",
+   "çizmek; çizik atmak",
+   "çizik; sıyrık"
+  ],
+  "ex": [
+   "Lütfen o ısırığı kaşıma; daha da kötüleşir.",
+   "Yeniden kullanılabilir bir kabın üzerindeki küçük bir çizik bile etkili temizlemeyi zorlaştırabilir."
+  ],
+  "col": [
+   "kafasını kaşımak",
+   "derin bir çizik",
+   "sıfırdan",
+   "işin yüzeyine dokunmak"
+  ],
+  "tip": "from scratch 'sıfırdan' anlamına gelir ve kaşımakla ilgisi yoktur. scratch the surface ise bir konuyu yüzeysel ele almak demektir.",
+  "note": ""
+ }
+]

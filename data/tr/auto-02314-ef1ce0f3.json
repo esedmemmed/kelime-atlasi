@@ -1,0 +1,282 @@
+[
+ {
+  "id": "sandy",
+  "senses": [
+   "kumlu; kumla kaplı",
+   "kum rengi; açık sarımsı kahverengi"
+  ],
+  "ex": [
+   "Ayakkabılarımızı kumlu patikanın yanına bıraktık.",
+   "Kumlu topraklar kil oranı yüksek topraklara göre suyu daha az tuttuğu için genellikle dikkatli sulama gerektirir."
+  ],
+  "col": [
+   "kumlu sahil",
+   "kumlu toprak",
+   "kum rengi saç"
+  ],
+  "tip": "Saç rengi için kullanıldığında 'kumlu' değil, açık sarımsı kahverengi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tradition",
+  "senses": [
+   "gelenek; görenek"
+  ],
+  "ex": [
+   "Mantıyı birlikte yapmak ailemizde bir gelenektir.",
+   "Okullar, yaşlı sakinleri bilgi ve pratik becerilerini paylaşmaya davet ederek yerel gelenekleri yaşatmaya yardımcı olabilir."
+  ],
+  "col": [
+   "aile geleneği",
+   "geleneği yaşatmak",
+   "gelenekten kopmak",
+   "sözlü gelenek"
+  ],
+  "tip": "Genel anlamda gelenek sayılamaz; belirli bir örf ya da adet anlatıldığında a tradition / traditions biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "atlantic",
+  "senses": [
+   "Atlantik Okyanusu",
+   "Atlantik'e ait; kıyısal"
+  ],
+  "ex": [
+   "Atlantik'ten gelen dev dalgaları izledik.",
+   "Atlantik Okyanusu akıntılarındaki değişiklikler, birkaç kıtada hava koşullarını ve tarımsal üretimi etkileyebilir."
+  ],
+  "col": [
+   "Atlantik Okyanusu",
+   "Atlantik'i geçmek",
+   "Atlantik kıyısı"
+  ],
+  "tip": "Özel ad olduğu için her zaman büyük harfle yazılır; isim olarak genellikle the Atlantic biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "whistle",
+  "senses": [
+   "ıslık çalmak; öttürmek",
+   "düdük",
+   "ıslık sesi; düdük sesi"
+  ],
+  "ex": [
+   "Kardeşim bulaşık yıkarken neşeli melodileri ıslıkla çalar.",
+   "Can kurtarıcılar, kıyıda tehlikeli koşullar oluştuğunda yüzücülerin dikkatini hızla çekmek için düdük kullanır."
+  ],
+  "col": [
+   "düdük çalmak",
+   "bir melodiyi ıslıkla çalmak",
+   "maçın bitiş düdüğü",
+   "yardım için düdük çalmak"
+  ],
+  "tip": "Yazımda t harfi yoktur; wh /w/ gibi okunur. Düdük çalmak için blow a whistle kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "strength",
+  "senses": [
+   "güç; kuvvet",
+   "güçlü yan; üstünlük",
+   "dayanıklılık; sağlamlık"
+  ],
+  "ex": [
+   "Bavulu kaldırmak için bütün gücümü kullanmam gerekti.",
+   "Okullar öğrencilerin güçlü yanlarını belirlemelerine yardımcı olmalı; herkesi yalnızca yazılı sınavlarla değerlendirmemeli."
+  ],
+  "col": [
+   "fiziksel güç",
+   "güçlü ve zayıf yanlar",
+   "çekme dayanımı",
+   "güç kazanmak"
+  ],
+  "tip": "Fiziksel güç anlamında genellikle sayılamaz; güçlü yan anlamında sayılabilir ve strengths biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tear",
+  "senses": [
+   "yırtmak; koparmak",
+   "gözyaşı",
+   "yırtık; yarık"
+  ],
+  "ex": [
+   "Kağıt torbayı yırtmamaya dikkat et.",
+   "İnce plastik torbalar kolay yırtılır; bu yüzden tekrar tekrar kullanıma dayanıklı bezden alternatiflere göre daha az uygundur."
+  ],
+  "col": [
+   "kağıdı yırtmak",
+   "birden ağlamaya başlamak",
+   "paramparça etmek"
+  ],
+  "tip": "Yırtmak fiili /teə/, gözyaşı ise /tɪə/ okunur. Fiilin çekimi tear–tore–torn biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "navy",
+  "senses": [
+   "deniz kuvvetleri; donanma",
+   "lacivert",
+   "lacivert"
+  ],
+  "ex": [
+   "Amcam okuldan ayrıldıktan sonra donanmaya katıldı.",
+   "Deniz kuvvetleri, şiddetli fırtınalar yerel yolları hasara uğrattığında acil yardım malzemelerini ulaştırarak kıyı topluluklarını destekleyebilir."
+  ],
+  "col": [
+   "donanmaya katılmak",
+   "deniz kuvvetlerinde görev yapmak",
+   "lacivert"
+  ],
+  "tip": "navy genel olarak deniz kuvvetlerini anlatır; tek bir savaş gemisi için warship kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "brief",
+  "senses": [
+   "kısa; özlü",
+   "bilgilendirmek; bilgi vermek",
+   "görev tanımı; iş özeti"
+  ],
+  "ex": [
+   "Bulmacayı bitirmeden önce kısa bir mola verdik.",
+   "Öğretmenler, öğrencilerin bağımsız deney yapmasına izin vermeden önce onlara güvenlik prosedürlerini anlatmalıdır."
+  ],
+  "col": [
+   "kısa bir özet",
+   "kısa bir duraklama",
+   "birini bilgilendirmek",
+   "tasarım özeti"
+  ],
+  "tip": "brief kısa ya da öz anlamına gelir, özensiz demek değildir. Bilgi verme anlamında brief someone on something kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pole",
+  "senses": [
+   "direk; sırık",
+   "kutup",
+   "zıt uçlar"
+  ],
+  "ex": [
+   "Çadırı desteklemek için uzun bir sırık kullandık.",
+   "İklim değişikliği her iki kutbu da etkiliyor; ancak iki bölgede çevresel sonuçlar belirgin biçimde farklıdır."
+  ],
+  "col": [
+   "çadır direği",
+   "Kuzey Kutbu",
+   "manyetik kutup",
+   "tamamen zıt"
+  ],
+  "tip": "pole ile poll (oylama) sesteştir ama anlamları farklıdır. Coğrafi adlarda the North Pole biçiminde büyük harf kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "unique",
+  "senses": [
+   "eşsiz; benzersiz",
+   "yalnızca bir yere özgü"
+  ],
+  "ex": [
+   "Her el yapımı kasenin içinde farklı bir desen vardır.",
+   "Yerel zanaatları korumak, topluluklara giderek küreselleşen bir dünyada kendilerine özgü kültürel kimliklerini sürdürme imkânı verir."
+  ],
+  "col": [
+   "eşsiz fırsat",
+   "ayırt edici özellikler",
+   "bölgeye özgü"
+  ],
+  "tip": "Mutlak bir anlam taşıdığı için very unique gibi kullanımlardan kaçınılır. unique to bir yere özgü olanı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "package",
+  "senses": [
+   "paket; koli",
+   "paket; hizmet seti",
+   "paketlemek"
+  ],
+  "ex": [
+   "Bu sabah kapımıza küçük bir paket geldi.",
+   "Hükümet, küçük işletmelerin daha temiz üretim yöntemlerine yatırım yapmasını desteklemek için bir destek paketi açıkladı."
+  ],
+  "col": [
+   "paket teslim etmek",
+   "destek paketi",
+   "tatil paketi"
+  ],
+  "tip": "Posta paketi için İngiliz İngilizcesinde parcel de kullanılır. 'Tatil paketi' anlamında package holiday denir.",
+  "note": ""
+ },
+ {
+  "id": "loan",
+  "senses": [
+   "kredi; borç",
+   "ödünç; geçici kullanım",
+   "ödünç vermek"
+  ],
+  "ex": [
+   "Çatıyı onarmak için kredi çektik.",
+   "Uygun fiyatlı öğrenci kredileri üniversiteye erişimi genişletebilir; ancak geri ödeme, mezuniyetten sonra mali baskı yaratabilir."
+  ],
+  "col": [
+   "kredi çekmek",
+   "krediyi geri ödemek",
+   "öğrenci kredisi",
+   "geçici olarak ödünçte"
+  ],
+  "tip": "loan fiil olarak ödünç vermek anlamına gelir, ödünç almak değil. Ödünç almak için borrow kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "brunch",
+  "senses": [
+   "brunch; geç kahvaltı"
+  ],
+  "ex": [
+   "Bu sabah balkonda brunch yaptık.",
+   "Brunch sunmak, yerel kafelerin geleneksel kahvaltı ve öğle yemeği saatleri dışındaki müşterileri çekmesini sağlar."
+  ],
+  "col": [
+   "brunch yapmak",
+   "hafta sonu brunch'ı",
+   "brunch menüsü"
+  ],
+  "tip": "breakfast ve lunch sözcüklerinin birleşiminden oluşur; sabahın geç saatlerinde yenen, iki öğünün yerini tutan bir öğündür.",
+  "note": ""
+ },
+ {
+  "id": "forbidden",
+  "senses": [
+   "yasak; yasaklanmış"
+  ],
+  "ex": [
+   "Bu küçük müzede içeride fotoğraf çekmek yasaktır.",
+   "Birçok korunan alanda yaban hayatını korumak ve ekolojik dengeyi sürdürmek için avlanmak kesinlikle yasaktır."
+  ],
+  "col": [
+   "kesinlikle yasak",
+   "yasak bölge",
+   "yasa gereği yasak"
+  ],
+  "tip": "forbid fiilinin üçüncü hâlidir (V3). Geçmiş zaman biçimi forbade'dir; sıfat olarak forbidden kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "eventually",
+  "senses": [
+   "sonunda; nihayet"
+  ],
+  "ex": [
+   "Her odayı aradıktan sonra kayıp anahtarları sonunda bulduk.",
+   "Toplu taşımaya yapılan yatırım başlangıçta pahalı olabilir, ama zamanla trafik sıkışıklığını azaltıp kentsel yaşamı iyileştirebilir."
+  ],
+  "col": [
+   "sonunda başarmak",
+   "sonunda yol açmak",
+   "zamanla dönüşmek"
+  ],
+  "tip": "Uzun süre ya da zorluktan sonra ulaşılan sonucu anlatır; 'belki' anlamı taşımaz, perhaps ile karıştırılmamalıdır.",
+  "note": ""
+ }
+]

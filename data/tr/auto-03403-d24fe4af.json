@@ -1,0 +1,280 @@
+[
+ {
+  "id": "inflation",
+  "senses": [
+   "enflasyon; fiyat artışı",
+   "şişirme; hava doldurma"
+  ],
+  "ex": [
+   "Enflasyon yüzünden haftalık alışverişimiz artık daha pahalıya geliyor.",
+   "Yüksek enflasyon, ücretler fiyat artışlarına ayak uyduramadığında hanelerin satın alma gücünü düşürebilir."
+  ],
+  "col": [
+   "enflasyon oranı",
+   "artan enflasyon",
+   "enflasyonu frenlemek",
+   "enflasyona ayak uydurmak"
+  ],
+  "tip": "Ekonomi bağlamında genel fiyat artışını anlatır; tek bir ürünün zamlanması için inflation kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "interpreter",
+  "senses": [
+   "tercüman; sözlü çevirmen",
+   "yorumlayıcı; yorumlayıcı program"
+  ],
+  "ex": [
+   "Bir tercüman, büyükannemin doktorla konuşmasına yardımcı oldu.",
+   "Hastanelerde yetkin bir tercüman bulundurmak iletişimi iyileştirebilir ve tedavi seçenekleriyle ilgili yanlış anlamaları azaltabilir."
+  ],
+  "col": [
+   "yetkin bir tercüman",
+   "konferans tercümanı",
+   "işaret dili tercümanı"
+  ],
+  "tip": "interpreter sözlü (ya da işaretle) çeviri yapan kişidir; yazılı çeviri yapan için translator kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spear",
+  "senses": [
+   "mızrak; kargı",
+   "şişlemek; saplamak"
+  ],
+  "ex": [
+   "Müzede cam vitrinin arkasında antik bir mızrak duruyordu.",
+   "Ahşap bir mızrağın bulunması, erken insan topluluklarının avcılık tekniklerine dair değerli kanıtlar sunuyor."
+  ],
+  "col": [
+   "ahşap mızrak",
+   "mızrak ucu",
+   "bir parça yiyeceği şişlemek"
+  ],
+  "tip": "spear mızrak demektir, ateşli silah değildir; fiil olarak yiyecek parçasını şişleyip almak anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sob",
+  "senses": [
+   "hıçkırmak; hıçkıra ağlamak",
+   "hıçkırık; hıçkırma"
+  ],
+  "ex": [
+   "Oyuncağını kaybedince küçük kız hıçkıra hıçkıra ağlamaya başladı.",
+   "Çocuklar bakıcılarından ayrıldıklarında hıçkırabilir; bu nedenle okullar geçiş dönemlerinde nazik destek sağlamalıdır."
+  ],
+  "col": [
+   "sessizce hıçkırmak",
+   "kontrol edilemeyen hıçkırıklar",
+   "hıçkırıklar arasında"
+  ],
+  "tip": "Çekimi sobbed ve sobbing biçimindedir; b harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "draft",
+  "senses": [
+   "taslak; ön metin",
+   "taslak hazırlamak; kaleme almak"
+  ],
+  "ex": [
+   "Mektubumun ilk taslağını kaydettim.",
+   "Hükümetler, nihai kararlar alınmadan önce vatandaşların yorum yapabilmesi için taslak yasa tasarılarını erken yayımlamalıdır."
+  ],
+  "col": [
+   "ilk taslak",
+   "son taslak",
+   "bir teklif taslağı hazırlamak",
+   "taslak yasa tasarısı"
+  ],
+  "tip": "'Taslak' anlamında draft kullanılır; İngiliz İngilizcesinde hava akımı için ayrı bir sözcük olan draught yazılır.",
+  "note": ""
+ },
+ {
+  "id": "mileage",
+  "senses": [
+   "kilometre; kat edilen yol",
+   "yakıt verimliliği",
+   "fayda; yarar"
+  ],
+  "ex": [
+   "Bu ikinci el arabanın yaşına göre şaşırtıcı derecede az kilometresi var.",
+   "Yakıt verimliliği yüksek araçlar, hanelerin ulaşım giderlerini düşürebilir ve fosil yakıt talebini azaltabilir."
+  ],
+  "col": [
+   "az kilometre",
+   "yıllık kilometre",
+   "yakıt verimliliği",
+   "bir şeyden fayda sağlamak"
+  ],
+  "tip": "low mileage aracın az yol yaptığını; good fuel mileage ise iyi yakıt verimliliğini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "jaw",
+  "senses": [
+   "çene kemiği; çene"
+  ],
+  "ex": [
+   "Sert ekmeği çiğnedikten sonra çenem ağrıdı.",
+   "Koruyucu ekipman, temas sporlarına katılanlarda çene yaralanması riskini azaltabilir."
+  ],
+  "col": [
+   "alt çene",
+   "üst çene",
+   "çenesini sıkmak",
+   "çene yaralanması"
+  ],
+  "tip": "jaw çene kemiğini ve çene bölgesini anlatır; chin ise yalnızca yüzün en alt kısmındaki çeneyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "rear",
+  "senses": [
+   "arka; arka kısım",
+   "arka; arkadaki",
+   "büyütmek; beslemek"
+  ],
+  "ex": [
+   "Çantaları minibüsün arka kısmına yerleştirdik.",
+   "Hayvanlarını açıkta besleyen çiftçiler yeterli barınak sağlamalı ve yüksek hayvan refahı standartlarını korumalıdır."
+  ],
+  "col": [
+   "...nın arkasında",
+   "arka cam",
+   "çocuk büyütmek",
+   "sığır beslemek"
+  ],
+  "tip": "at the rear of bir yerin arkasını belirtir; fiil olarak rear hem çocuk büyütmek hem de hayvan beslemek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "vegan",
+  "senses": [
+   "vegan; katı vejetaryen",
+   "vegan; hayvansal ürünsüz"
+  ],
+  "ex": [
+   "Vegan biri olarak et yerine fasulye ile yemek yapıyorum.",
+   "Dikkatle planlanmış vegan bir beslenme besin ihtiyaçlarını karşılayabilir ve gıda üretiminin bazı çevresel etkilerini azaltabilir."
+  ],
+  "col": [
+   "vegan diyet",
+   "vegan gıda",
+   "vegan olmak",
+   "vegan deri"
+  ],
+  "tip": "vegan süt, yumurta ve bal dahil hiçbir hayvansal ürünü yemez; vejetaryenler ise çoğu zaman süt ve yumurta tüketir.",
+  "note": ""
+ },
+ {
+  "id": "seal",
+  "senses": [
+   "sıkıca kapatmak; mühürlemek",
+   "conta; mühür",
+   "fok balığı"
+  ],
+  "ex": [
+   "Bisküvilerin tazeliğini korumak için kavanozu sıkıca kapatın.",
+   "İnşaatçılar, ısı kaybını azaltmak ve hanenin enerji verimliliğini artırmak için pencerelerin çevresindeki boşlukları kapatmalıdır."
+  ],
+  "col": [
+   "zarfı mühürlemek",
+   "bir boşluğu kapatmak",
+   "hava geçirmez conta",
+   "mührü bozmak"
+  ],
+  "tip": "Fiil olarak 'kapatmak, mühürlemek' anlamına gelir; isim olarak conta, mühür ya da fok balığı olabilir, bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "omit",
+  "senses": [
+   "atlamak; eksik bırakmak"
+  ],
+  "ex": [
+   "Daha hafif bir çorba istiyorsan biberi çıkarabilirsin.",
+   "Önemli kanıtları atlayan raporlar, politika yapıcılara yerel toplulukların karşılaştığı sorunlar hakkında yanlış bir tablo sunabilir."
+  ],
+  "col": [
+   "ayrıntıları atlamak",
+   "bilgiyi çıkarmak",
+   "bir rapordan bir şeyi çıkarmak"
+  ],
+  "tip": "Çekimi omitted ve omitting biçimindedir; t harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "agricultural",
+  "senses": [
+   "tarımsal; zirai"
+  ],
+  "ex": [
+   "Müze, yerel çiftçilerin kullandığı tarım aletlerini sergiliyor.",
+   "Modern tarımsal uygulamalar gıda üretimini artırabilir; ancak aşırı kimyasal kullanımı toprak ve su kalitesine zarar verebilir."
+  ],
+  "col": [
+   "tarım arazisi",
+   "tarımsal üretim",
+   "tarım makineleri",
+   "tarım uygulamaları"
+  ],
+  "tip": "Sıfattır; land, production, machinery gibi isimlerden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "islam",
+  "senses": [
+   "İslam; İslam dini"
+  ],
+  "ex": [
+   "Rehberimiz, İslam'ın caminin tasarımını nasıl etkilediğini anlattı.",
+   "İslam ve diğer büyük dinleri öğrenmek, öğrencilerin farklı toplulukların geleneklerini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "İslam'ın öğretileri",
+   "İslam tarihi",
+   "İslam'a geçmek"
+  ],
+  "tip": "Dinin adıdır ve büyük harfle yazılır; inanan kişi için Muslim (Müslüman) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tow",
+  "senses": [
+   "çekmek; römorkla çekmek",
+   "çekme; çekilme"
+  ],
+  "ex": [
+   "Bir kamyon bozulan arabamızı tamire çekti.",
+   "Yerel yetkililer, kalabalık kentsel alanlarda acil durum yollarını açık tutmak için yasa dışı park edilmiş araçları çekebilir."
+  ],
+  "col": [
+   "bir arabayı çekmek",
+   "çekici",
+   "çekmeye almak",
+   "birine çekme yardımı yapmak"
+  ],
+  "tip": "Araç veya tekne çekmeyi anlatır; yasa dışı park edilmiş araçlar için tow away kalıbı sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "supervisor",
+  "senses": [
+   "amir; yönetici",
+   "tez danışmanı"
+  ],
+  "ex": [
+   "Amirim ekipmanı nasıl kullanacağımı bana gösterdi.",
+   "Destekleyici bir amir, yeni çalışanların özgüven kazanmasına ve alışık olmadıkları iş yeri beklentilerine uyum sağlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "doğrudan amir",
+   "araştırma danışmanı",
+   "vardiya amiri"
+  ],
+  "tip": "İş yerinde amir ya da denetçi anlamına gelir; İngiliz üniversitelerinde ise öğrencinin araştırma danışmanını ifade eder.",
+  "note": ""
+ }
+]

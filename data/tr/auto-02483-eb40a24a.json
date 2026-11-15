@@ -1,0 +1,280 @@
+[
+ {
+  "id": "incredibly",
+  "senses": [
+   "çok; son derece",
+   "inanılmaz derecede; şaşırtıcı biçimde"
+  ],
+  "ex": [
+   "Çorba inanılmaz derecede sıcaktı, bu yüzden bekledim.",
+   "Güvenilir toplu taşıma, artık araç kullanmayan yaşlı sakinler için çok değerli olabilir."
+  ],
+  "col": [
+   "inanılmaz zor",
+   "inanılmaz yararlı",
+   "inanılmaz hızlı"
+  ],
+  "tip": "Genellikle sıfat ya da zarfları güçlendirir (incredibly hot). Cümle başında da kullanılabilir: Incredibly, ...",
+  "note": ""
+ },
+ {
+  "id": "perfume",
+  "senses": [
+   "parfüm; koku suyu",
+   "güzel koku; aroma",
+   "kokulandırmak"
+  ],
+  "ex": [
+   "Bileğine biraz parfüm sıktı.",
+   "Bazı iş yerleri, güçlü kokuların hassas meslektaşlar için rahatsızlık yaratabileceği gerekçesiyle çalışanların parfüm kullanmasını istemez."
+  ],
+  "col": [
+   "parfüm kullanmak",
+   "bir şişe parfüm",
+   "çiçeklerin kokusu"
+  ],
+  "tip": "Üzerinde parfüm olduğunu anlatırken wear perfume kullanılır; put perfume doğal bir kullanım değildir.",
+  "note": ""
+ },
+ {
+  "id": "swing",
+  "senses": [
+   "sallanmak; savrulmak",
+   "salıncak",
+   "ani değişim; dalgalanma"
+  ],
+  "ex": [
+   "Sokakta yürürken çantası hafifçe sallanıyordu.",
+   "Kamuoyundaki keskin bir değişim, hükümetleri daha önce geniş destek gören politikalarını yeniden gözden geçirmeye yöneltebilir."
+  ],
+  "col": [
+   "ileri geri sallanmak",
+   "oyun parkı salıncağı",
+   "ruh hali dalgalanmaları",
+   "kamuoyunda bir değişim"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi swung'dır; swinged yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "invest",
+  "senses": [
+   "yatırım yapmak",
+   "yatırmak; ayırmak"
+  ],
+  "ex": [
+   "Teyzem küçük bir fırın açmak için yatırım yapmayı planlıyor.",
+   "Hükümetler, enerji güvenliğini artırmak ve ithal yakıta bağımlılığı azaltmak için yenilenebilir enerjiye yatırım yapmalıdır."
+  ],
+  "col": [
+   "mülke yatırım yapmak",
+   "büyük miktarda yatırım yapmak",
+   "zaman ayırmak",
+   "akıllıca yatırım yapmak"
+  ],
+  "tip": "Para için genellikle invest in kalıbıyla kullanılır; zaman için invest time in doing yapısı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "engineering",
+  "senses": [
+   "mühendislik"
+  ],
+  "ex": [
+   "Kuzenim mühendislik okuyor ve evde küçük robotlar yapıyor.",
+   "Mühendislikteki gelişmeler, şehirlerin aşırı hava koşullarına dayanan ve daha ağır trafik taşıyan köprüler inşa etmesini mümkün kıldı."
+  ],
+  "col": [
+   "inşaat mühendisliği",
+   "makine mühendisliği",
+   "elektrik mühendisliği",
+   "bir mühendislik projesi"
+  ],
+  "tip": "Bilim dalı ya da alan anlamında sayılamaz; kişi için engineer (mühendis) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "unhealthy",
+  "senses": [
+   "sağlığa zararlı",
+   "hasta; halsiz",
+   "sağlıksız; aşırı"
+  ],
+  "ex": [
+   "Akşam yemeğinde sadece bisküvi yemek sağlıksız bir alışkanlıktır.",
+   "Çocuklara sağlıksız yiyeceklerin reklamını yapmak, kötü beslenme alışkanlıklarına ve daha yüksek obezite oranlarına katkıda bulunabilir."
+  ],
+  "col": [
+   "sağlıksız beslenme",
+   "sağlıksız yaşam tarzı",
+   "sağlıksız rekabet",
+   "sağlıksız bir takıntı"
+  ],
+  "tip": "Zararlı şeyler ve kişinin kötü sağlık durumu için kullanılır; kişiden söz ederken ill ya da unwell daha yumuşak bir ifadedir.",
+  "note": ""
+ },
+ {
+  "id": "scientific",
+  "senses": [
+   "bilimsel"
+  ],
+  "ex": [
+   "Sınıfımız suyu test etmek için bilimsel yöntemler kullandı.",
+   "Hükümetler, halk sağlığını korumaya yönelik politikalar geliştirirken bilimsel kanıtlara dayanmalıdır."
+  ],
+  "col": [
+   "bilimsel araştırma",
+   "bilimsel kanıt",
+   "bilimsel yöntem"
+  ],
+  "tip": "Bilimsel kanıta dayanma anlamını taşır; sadece düzenli ya da sistemli olmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "preparation",
+  "senses": [
+   "hazırlık; hazırlık çalışması"
+  ],
+  "ex": [
+   "Çocuklar yardım ettiğinde akşam yemeği hazırlığı daha uzun sürer.",
+   "İş görüşmeleri için kapsamlı hazırlık yapmak, mezunların becerilerini ve deneyimlerini daha özgüvenle aktarmasına yardımcı olabilir."
+  ],
+  "col": [
+   "...için hazırlık olarak",
+   "hazırlık yapmak",
+   "yemek hazırlığı",
+   "kapsamlı hazırlık"
+  ],
+  "tip": "Genel anlamda sayılamaz; birden fazla hazırlık işi kastediliyorsa preparations (çoğul) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "penguin",
+  "senses": [
+   "penguen"
+  ],
+  "ex": [
+   "Penguen kayaların üzerinden sallanarak denize doğru yürüdü.",
+   "Okyanus sıcaklıklarındaki değişiklikler, balık ve diğer avların bulunabilirliğini etkileyerek penguen popülasyonlarını değiştirebilir."
+  ],
+  "col": [
+   "penguen kolonisi",
+   "penguen yavrusu",
+   "penguen türü"
+  ],
+  "tip": "Penguenler uçamayan kuşlardır; hepsi Antarktika'da yaşamaz, bazı türler başka bölgelerde de bulunur.",
+  "note": ""
+ },
+ {
+  "id": "alarm",
+  "senses": [
+   "alarm; uyarı; çalar saat",
+   "korku; endişe",
+   "korkutmak; endişelendirmek"
+  ],
+  "ex": [
+   "Çalar saatim güneş doğmadan çaldı ve bütün aileyi uyandırdı.",
+   "Her okul, öğrencilerin hemen uyarı alabilmesi için yangın alarmını düzenli olarak test etmelidir."
+  ],
+  "col": [
+   "alarm kurmak",
+   "yangın alarmı",
+   "alarm vermek",
+   "telaş içinde"
+  ],
+  "tip": "Alarm çaldığında go off kullanılır; go on yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "certificate",
+  "senses": [
+   "sertifika; belge"
+  ],
+  "ex": [
+   "Lena yüzme sertifikasını büyük bir gururla büyükanne ve büyükbabasına gösterdi.",
+   "Mesleki sertifika iş bulma olanaklarını artırabilir; ancak işverenler pratik deneyime de değer verir."
+  ],
+  "col": [
+   "doğum belgesi",
+   "sağlık raporu",
+   "mesleki sertifika",
+   "sertifika vermek"
+  ],
+  "tip": "Genel bir belge ya da yeterlilik belgesi anlamına gelir; her zaman diploma ya da derece demek değildir.",
+  "note": ""
+ },
+ {
+  "id": "dull",
+  "senses": [
+   "sıkıcı; ilgi çekmeyen",
+   "kasvetli; donuk",
+   "kör; keskin olmayan"
+  ],
+  "ex": [
+   "Film o kadar sıkıcıydı ki neredeyse uyuyakalıyordum.",
+   "Öğrencilerin soru sorma veya fikirleri bağımsız olarak keşfetme fırsatları az olduğunda dersler sıkıcı gelebilir."
+  ],
+  "col": [
+   "sıkıcı rutin",
+   "kasvetli hava",
+   "kör bıçak",
+   "künt ağrı"
+  ],
+  "tip": "Bıçak için 'kör, keskin değil' anlamında; etkinlik için 'sıkıcı' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "electrical",
+  "senses": [
+   "elektrikli; elektrik"
+  ],
+  "ex": [
+   "Bir elektrik arızası mutfağımızı karanlıkta bıraktı.",
+   "Elektrikli donanımların düzenli denetimi, kalabalık konutlarda ve iş yerlerinde yangın riskini azaltabilir."
+  ],
+  "col": [
+   "elektrikli ekipman",
+   "elektrik mühendisliği",
+   "elektrik arızası",
+   "elektrik tesisatı"
+  ],
+  "tip": "electrical genellikle elektrik alanı ya da sistemleriyle ilgili şeyler için; electric ise elektrikle çalışan nesneler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "explanation",
+  "senses": [
+   "açıklama",
+   "gerekçe; neden"
+  ],
+  "ex": [
+   "Onun basit açıklaması yeni oyunu anlamama yardımcı oldu.",
+   "Azalan araç sahipliğinin olası bir nedeni, güvenilir toplu taşımanın giderek yaygınlaşmasıdır."
+  ],
+  "col": [
+   "açık bir açıklama",
+   "açıklama yapmak",
+   "...için gerekçe",
+   "...hakkında açıklama"
+  ],
+  "tip": "explanation of bir şeyin içeriğini açıklar; explanation for ise nedenini belirtir.",
+  "note": ""
+ },
+ {
+  "id": "in-advance",
+  "senses": [
+   "önceden; baştan"
+  ],
+  "ex": [
+   "Tren biletlerimizi iki hafta önceden ayırttık.",
+   "Danışma tarihlerini önceden duyurmak, daha fazla sakinin yerel planlama kararlarına katılmasını sağlar."
+  ],
+  "col": [
+   "önceden rezervasyon yaptırmak",
+   "peşin ödemek",
+   "çok önceden"
+  ],
+  "tip": "Tek başına kullanılır; bir olaydan önce anlamında in advance of ile de kullanılır (in advance of the meeting).",
+  "note": ""
+ }
+]

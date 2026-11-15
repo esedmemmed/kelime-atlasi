@@ -1,0 +1,266 @@
+[
+ {
+  "id": "mover",
+  "senses": [
+   "nakliyeci; taşıyıcı",
+   "öncü; itici güç"
+  ],
+  "ex": [
+   "Nakliyeciler kanepeyi dikkatle merdivenden indirdi.",
+   "Yerel işletmeler, kamusal alanları iyileştirme ve ziyaretçi çekme kampanyasının başlıca öncüleriydi."
+  ],
+  "col": [
+   "nakliyeci tutmak",
+   "başlıca itici güç",
+   "işin başındaki etkili kişiler"
+  ],
+  "tip": "Britanya İngilizcesinde daha çok removals (removal men) kullanılır; mover ağırlıklı olarak Amerikan kullanımıdır.",
+  "note": ""
+ },
+ {
+  "id": "constituent",
+  "senses": [
+   "seçmen; seçim bölgesi halkı",
+   "bileşen; öğe",
+   "oluşturucu; bileşen olan"
+  ],
+  "ex": [
+   "Bir seçmen, yerel milletvekiline kapanan kütüphaneyi sordu.",
+   "Seçilmiş temsilciler, yerel konut ve toplu taşımayı önemli ölçüde etkileyecek politikaları desteklemeden önce seçmenlerine danışmalıdır."
+  ],
+  "col": [
+   "yerel seçmenler",
+   "bileşen parçalar",
+   "başlıca bileşen"
+  ],
+  "tip": "Seçmen anlamında voter'dan farklıdır; seçim bölgesindeki oy kullanmamış kişileri de kapsayabilir. Bileşen anlamı component ile yakındır.",
+  "note": ""
+ },
+ {
+  "id": "metropolitan",
+  "senses": [
+   "büyükşehire ait; metropol"
+  ],
+  "ex": [
+   "Metropoliten raylı sistem ağımız banliyöleri şehir merkezine bağlıyor.",
+   "Büyükşehir alanlarında etkili toplu taşıma, trafik sıkışıklığını azaltabilir ve istihdam fırsatlarına erişimi artırabilir."
+  ],
+  "col": [
+   "büyükşehir alanı",
+   "büyükşehir bölgesi",
+   "büyükşehir nüfusu"
+  ],
+  "tip": "Yalnızca başkenti değil, şehir merkezi ile çevresindeki ilçe ve kasabaları kapsar; metropolitan area bu geniş alanı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "amidst",
+  "senses": [
+   "arasında; ortasında"
+  ],
+  "ex": [
+   "Çiçek açan ağaçların arasında sessiz bir bank bulduk.",
+   "Hava kalitesine ilişkin kaygıların arttığı bir dönemde birçok şehir, korumalı bisiklet yollarını genişletti."
+  ],
+  "col": [
+   "belirsizlik ortasında",
+   "artan kaygılar arasında",
+   "kaos ortasında"
+  ],
+  "tip": "amid ile aynı anlamdadır ancak daha resmi bir üsluba sahiptir. Genellikle isim ya da isim tamlamasıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "conversant",
+  "senses": [
+   "bilgili; aşina"
+  ],
+  "ex": [
+   "Yeni rehberimiz bölgenin tarihi konusunda bilgilidir.",
+   "Teknoloji sektörüne girecek mezunların gizlilik ve veri koruma konusundaki güncel tartışmalara hâkim olması gerekir."
+  ],
+  "col": [
+   "...hakkında bilgili",
+   "tamamen hâkim",
+   "prosedürlere hâkim"
+  ],
+  "tip": "Genellikle be conversant with kalıbında kullanılır; bir alanı iyi bilmek anlamına gelir, sohbet becerisi anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "phonetics",
+  "senses": [
+   "fonetik; sesbilgisi"
+  ],
+  "ex": [
+   "Konuşma seslerinin nasıl üretildiğini anlamak için fonetik çalıştık.",
+   "Fonetik eğitimi, öğrencilerin duymakta zorlanabileceği telaffuz farklarını dil öğretmenlerinin açıklamasına yardımcı olabilir."
+  ],
+  "col": [
+   "fonetik çalışmak",
+   "artikülatuar fonetik",
+   "akustik fonetik"
+  ],
+  "tip": "-s ile bitmesine rağmen bilim dalı adıdır ve tekil fiille kullanılır. Phonology (fonoloji) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "deliberation",
+  "senses": [
+   "dikkatli düşünme; müzakere",
+   "ağırbaşlılık; temkin"
+  ],
+  "ex": [
+   "Çok düşündükten sonra daha küçük daireyi seçtik.",
+   "Büyük ulaşım projeleri hakkındaki kararlar, etkileri on yıllarca sürebileceği için dikkatli bir değerlendirme gerektirir."
+  ],
+  "col": [
+   "uzun düşünmenin ardından",
+   "dikkatli değerlendirme",
+   "ağırbaşlılıkla"
+  ],
+  "tip": "Tartışma ve istişare süreci için çoğul deliberations da kullanılır. Her bağlamda 'kasıtlı' diye çevirmeyin.",
+  "note": ""
+ },
+ {
+  "id": "constraint",
+  "senses": [
+   "kısıt; sınırlama",
+   "ketleme; baskı"
+  ],
+  "ex": [
+   "Temel kısıtımız mutfağın küçük olması.",
+   "Mali kısıtlar, birçok yerel yönetimin güvenilir toplu taşımaya yeterince yatırım yapmasını engelliyor."
+  ],
+  "col": [
+   "zaman kısıtları",
+   "mali kısıtlar",
+   "büyüme üzerindeki sınırlama",
+   "bütçe kısıtları dahilinde"
+  ],
+  "tip": "Genellikle çoğul kullanılır: constraints. 'Üzerinde bir kısıt' anlamı için on edatı gelir: a constraint on growth.",
+  "note": ""
+ },
+ {
+  "id": "propagation",
+  "senses": [
+   "üreme; çoğalma",
+   "yayılma; yaygınlaştırma",
+   "dalga yayılımı"
+  ],
+  "ex": [
+   "Bitki üretimi, sağlıklı çelikler ve temiz aletlerle daha kolaydır.",
+   "Çevrim içi yanıltıcı bilgilerin hızla yayılması, güvenilir bilimsel kanıtlara duyulan kamu güvenini zedeleyebilir."
+  ],
+  "col": [
+   "bitki üretimi",
+   "çelikle çoğaltma",
+   "dalga yayılımı",
+   "fikirlerin yayılması"
+  ],
+  "tip": "Genellikle sayılamayan isimdir. Bitki üremesi, bilgi yayılması ve dalga yayılımı anlamlarının bağlamdan ayrılmasına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "deter",
+  "senses": [
+   "caydırmak; vazgeçirmek"
+  ],
+  "ex": [
+   "Şiddetli yağmur, kararlı yürüyüşçülerimizi vazgeçirmedi.",
+   "Yüksek park ücretleri, işe gidip gelenleri yoğun saatlerde şehir merkezine araba ile girmekten caydırabilir."
+  ],
+  "col": [
+   "birini bir şeyi yapmaktan caydırmak",
+   "suçu caydırmak",
+   "potansiyel müşterileri uzaklaştırmak"
+  ],
+  "tip": "deter someone from doing something kalıbında from edatı atlanmaz. Geçmiş zaman biçimi deterred'dir.",
+  "note": ""
+ },
+ {
+  "id": "shelve",
+  "senses": [
+   "ertelemek; askıya almak",
+   "rafa koymak"
+  ],
+  "ex": [
+   "Arabamız bozulunca tatil planlarımızı ertelemek zorunda kaldık.",
+   "Konsey, hava kirliliği endişeleri nedeniyle yol genişletme projesini askıya almaya karar verdi."
+  ],
+  "col": [
+   "bir planı ertelemek",
+   "bir öneriyi askıya almak",
+   "kitapları rafa koymak"
+  ],
+  "tip": "Fiil shelve, isim shelf'tir ve çoğulu shelves olur. Fiilin 'ertelemek' anlamını 'raf' anlamından ayırın.",
+  "note": ""
+ },
+ {
+  "id": "infest",
+  "senses": [
+   "istila etmek; musallat olmak"
+  ],
+  "ex": [
+   "Minik böcekler mutfak dolabımızdaki unu istila etti.",
+   "Bakımsız konutlarda fareler çoğalabilir ve yoğun nüfuslu alanlarda sakinler için ciddi sağlık riskleri yaratabilir."
+  ],
+  "col": [
+   "fare istilasına uğramak",
+   "ekinleri istila etmek",
+   "böcek istilalı binalar"
+  ],
+  "tip": "Genellikle be infested with kalıbında kullanılır; öznesi istila edilen yer veya nesnedir, istilacı değil.",
+  "note": ""
+ },
+ {
+  "id": "characterize",
+  "senses": [
+   "özelliği olmak; belirlemek",
+   "nitelemek; tanımlamak"
+  ],
+  "ex": [
+   "Parlak renkler ve cesur desenler, el yapımı çantalarını karakterize ediyor.",
+   "Yüksek konut maliyetleri ve sınırlı kamusal alan birçok büyük şehri belirliyor ve sakinlerin yaşam kalitesini etkiliyor."
+  ],
+  "col": [
+   "ile karakterize edilmek",
+   "...olarak nitelemek"
+  ],
+  "tip": "İngiliz yazımı characterise'dır. Edilgen yapıda genellikle by ile kullanılır: be characterized by.",
+  "note": ""
+ },
+ {
+  "id": "vicinity",
+  "senses": [
+   "yakın çevre; civar"
+  ],
+  "ex": [
+   "Yakınlarda birkaç sessiz kafe var.",
+   "Tren istasyonlarının yakınına yapılacak yeni konutlar, araç bağımlılığını azaltabilir ve günlük ulaşım sürelerini kısaltabilir."
+  ],
+  "col": [
+   "...yakınında",
+   "hemen çevresinde"
+  ],
+  "tip": "in the vicinity of kalıbı near'dan daha resmîdir. Sayılamayan bir isimdir ve 'yakın çevre' anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "scant",
+  "senses": [
+   "az; yetersiz"
+  ],
+  "ex": [
+   "Taksi gelmeden önce toplanmak için çok az vaktimiz vardı.",
+   "Uzun çalışma saatlerinin farklı sektörlerde tutarlı biçimde daha yüksek verimliliğe yol açtığına dair çok az kanıt var."
+  ],
+  "col": [
+   "az kanıt",
+   "çok az ilgi",
+   "...e pek önem vermemek"
+  ],
+  "tip": "Azlığı, yetersizliği vurgular. Genellikle isimden önce gelir: scant evidence, scant attention.",
+  "note": ""
+ }
+]

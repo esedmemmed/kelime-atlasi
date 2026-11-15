@@ -1,0 +1,276 @@
+[
+ {
+  "id": "disease",
+  "senses": [
+   "hastalık"
+  ],
+  "ex": [
+   "Veteriner, tavşanımızda hastalık belirtisi olup olmadığını kontrol etti.",
+   "Temiz içme suyuna erişim, savunmasız topluluklarda bulaşıcı hastalıkların yayılmasını önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "kalp hastalığı",
+   "bulaşıcı hastalıklar",
+   "hastalığı önlemek",
+   "hastalığın yayılması"
+  ],
+  "tip": "Vurgu ikinci hecededir (di-ZEASE). Genel anlamda 'hastalık' kastedildiğinde başına the getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "noticeboard",
+  "senses": [
+   "ilan panosu; duyuru tahtası"
+  ],
+  "ex": [
+   "Biri kayıp kedi ilanını ilan panosuna iğneledi.",
+   "Ortak bir ilan panosu, sakinlerin yerel etkinlikleri keşfetmesine ve toplum yaşamına daha aktif katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "mahalle ilan panosu",
+   "ilan panosunda",
+   "ilan panosu asmak"
+  ],
+  "tip": "İngiliz İngilizcesinde noticeboard, Amerikan İngilizcesinde ise bulletin board kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pick",
+  "senses": [
+   "seçmek",
+   "toplamak; koparmak",
+   "kazma"
+  ],
+  "ex": [
+   "Yeni perdeleriniz için istediğiniz rengi seçebilirsiniz.",
+   "Okullar, öğrencilerin yalnızca gelecekteki kazançlara odaklanmak yerine ilgi alanlarına uygun dersleri seçmelerine yardımcı olmalıdır."
+  ],
+  "col": [
+   "kazanan seçmek",
+   "meyve toplamak",
+   "dikkatle seçmek",
+   "istediğini seç"
+  ],
+  "tip": "Meyve veya çiçek koparmak için pick kullanılır; yerden bir şey almak için ise pick up gerekir.",
+  "note": ""
+ },
+ {
+  "id": "garage",
+  "senses": [
+   "garaj",
+   "oto tamirhanesi; servis"
+  ],
+  "ex": [
+   "Arabamızı ve bisikletlerimizi garajda tutuyoruz.",
+   "Kullanılmayan bir garajı yaşam alanına dönüştürmek, yeni arazi gerektirmeden ek konut imkânı sağlayabilir."
+  ],
+  "col": [
+   "çift garaj",
+   "garaj kapısı",
+   "yerel oto tamirhanesi"
+  ],
+  "tip": "İngiliz İngilizcesinde garage, araç tamiri ve bakımı yapılan işletmeler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "service",
+  "senses": [
+   "hizmet; kamu hizmeti",
+   "bakımını yapmak",
+   "ayin"
+  ],
+  "ex": [
+   "Kafedeki samimi hizmet bizi kendimizi evimizdeymiş gibi hissettirdi.",
+   "Güvenilir otobüs hizmetleri, arabası olmayan sakinlerin hastanelere, okullara ve iş yerlerine ulaşmasını sağlar."
+  ],
+  "col": [
+   "müşteri hizmeti",
+   "kamu hizmetleri",
+   "arabanın bakımını yapmak",
+   "dini ayin"
+  ],
+  "tip": "Hizmet kalitesi anlamında genellikle sayılamaz; farklı hizmet türleri için çoğul (services) kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "classmate",
+  "senses": [
+   "sınıf arkadaşı"
+  ],
+  "ex": [
+   "Dersten önce sınıf arkadaşım bana bir kalem ödünç verdi.",
+   "Grup projelerinde sınıf arkadaşlarıyla birlikte çalışmak, öğrencilerin iletişim ve problem çözme becerilerini geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "eski bir sınıf arkadaşı",
+   "bir sınıf arkadaşına yardım etmek",
+   "yeni bir sınıf arkadaşı"
+  ],
+  "tip": "classmate aynı sınıftaki arkadaşı anlatır; aynı okuldaki arkadaş için schoolmate kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "visitor",
+  "senses": [
+   "ziyaretçi; misafir; turist"
+  ],
+  "ex": [
+   "Bir ziyaretçi, şemsiyesini ön kapımızın yanına unutmuş.",
+   "Müze, yerel tarih ve kültürü ele alan sergileriyle uluslararası ziyaretçileri çekmektedir."
+  ],
+  "col": [
+   "ziyaretçi çekmek",
+   "yurt dışından gelen ziyaretçiler",
+   "ziyaretçi merkezi"
+  ],
+  "tip": "visitor isimdir ve ziyaret eden kişiyi anlatır; 'ziyaret etmek' fiili visit olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "kilometer",
+  "senses": [
+   "kilometre"
+  ],
+  "ex": [
+   "En yakın fırın buradan yaklaşık bir kilometre uzakta.",
+   "Konut bölgelerinin bir kilometre yakınında sunulan güvenilir toplu taşıma, özel araç kullanımını azaltabilir."
+  ],
+  "col": [
+   "bir kilometrekare",
+   "saatte kilometre",
+   "bir kilometre uzakta"
+  ],
+  "tip": "Amerikan yazımı kilometer, İngiliz yazımı kilometre şeklindedir. Kısaltması km olup çoğulda s eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "death",
+  "senses": [
+   "ölüm"
+  ],
+  "ex": [
+   "Yaşlı köpeğin ölümü aileyi derinden üzdü.",
+   "Birçok toplulukta temiz içme suyuna erişimin artması, önlenebilir hastalıklara bağlı ölümleri azaltmıştır."
+  ],
+  "col": [
+   "ölüm nedeni",
+   "erken ölüm",
+   "ölümleri önlemek",
+   "ölüm oranı"
+  ],
+  "tip": "die fiildir (ölmek), dead sıfattır (ölü), death ise isimdir (ölüm). Bu üç kelimeyi karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "pop",
+  "senses": [
+   "pop müzik",
+   "patlamak; şaklamak",
+   "uğramak; çabucak koymak"
+  ],
+  "ex": [
+   "Kız kardeşim yemek pişirirken pop müzik dinliyor.",
+   "Pop müzik, özellikle sanatçılar farklı müzik geleneklerini birleştirdiğinde genç dinleyicilere başka kültürleri tanıtabilir."
+  ],
+  "col": [
+   "pop müzik",
+   "balonu patlatmak",
+   "bir dükkâna uğramak",
+   "ortaya çıkmak"
+  ],
+  "tip": "Kısa süreli uğramak ya da bir şeyi çabucak koymak anlamındaki pop gayriresmî (informal) bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "cupboard",
+  "senses": [
+   "dolap"
+  ],
+  "ex": [
+   "Temiz kaseler lavabonun üstündeki dolapta.",
+   "İyi tasarlanmış dolaplar, küçük dairelerde yaşam alanlarını kalabalık göstermeden depolama alanını en üst düzeye çıkarabilir."
+  ],
+  "col": [
+   "mutfak dolabı",
+   "gömme dolap",
+   "dolap kapağı"
+  ],
+  "tip": "Sözcükteki p harfi okunmaz (/ˈkʌbərd/). Genellikle kapılı ve raflı bir dolabı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "document",
+  "senses": [
+   "belge; evrak",
+   "belgelemek; kayda geçirmek"
+  ],
+  "ex": [
+   "Lütfen dizüstü bilgisayarınızı kapatmadan önce belgeyi kaydedin.",
+   "Araştırmacılar, kentsel gelişimin çevresel etkisini değerlendirmek için yerel yaban hayattaki değişiklikleri belgelemelidir."
+  ],
+  "col": [
+   "resmî belge",
+   "seyahat belgeleri",
+   "belgeyi kaydetmek",
+   "değişiklikleri belgelemek"
+  ],
+  "tip": "İsim ve fiilin yazılışı aynıdır. Telaffuzda isimde son hece /-mənt/ zayıf okunur, fiilde ise /-ment/ belirgindir.",
+  "note": ""
+ },
+ {
+  "id": "cricket",
+  "senses": [
+   "kriket",
+   "cırcır böceği"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra parkta kriket oynadık.",
+   "Kriket gibi takım sporları, genç insanların iş birliği becerilerini geliştirmelerine ve kalıcı dostluklar kurmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "kriket oynamak",
+   "bir kriket maçı",
+   "kriket sopası",
+   "cırcır böceklerinin ötüşü"
+  ],
+  "tip": "Spor anlamında sayılamaz, böcek anlamında ise sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "shark",
+  "senses": [
+   "köpekbalığı",
+   "dolandırıcı; sahtekâr"
+  ],
+  "ex": [
+   "Akvaryum camının arkasında bir köpekbalığının yavaşça yüzdüğünü izledik.",
+   "Köpekbalığı popülasyonlarının korunması, birçok türün diğer hayvanların sayısını düzenlemesi nedeniyle dengeli deniz ekosistemlerini destekler."
+  ],
+  "col": [
+   "köpekbalığı yüzgeci",
+   "balina köpekbalığı",
+   "köpekbalığı koruma",
+   "tefeci"
+  ],
+  "tip": "loan shark, bir balık türü değil, yüksek faizle borç veren kişi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "cancel",
+  "senses": [
+   "iptal etmek",
+   "dengelemek; etkisiz kılmak"
+  ],
+  "ex": [
+   "Şiddetli yağmur yüzünden pikniğimizi iptal etmek zorunda kaldık.",
+   "Enerji verimliliğindeki artış, insanları daha fazla tüketmeye teşvik ederse bazı çevresel kazanımları ortadan kaldırabilir."
+  ],
+  "col": [
+   "rezervasyonu iptal etmek",
+   "uçuşu iptal etmek",
+   "birbirini götürmek"
+  ],
+  "tip": "İngiliz yazımında cancelled, Amerikan yazımında canceled kullanılır. 'Etkisini gidermek' anlamında cancel out gerekir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,274 @@
+[
+ {
+  "id": "taxpayer",
+  "senses": [
+   "vergi mükellefi"
+  ],
+  "ex": [
+   "Bir vergi mükellefi olarak daha temiz sokaklar ve daha güvenli parklar istiyorum.",
+   "Kamu altyapı projeleri, bunları finanse eden vergi mükelleflerine kalıcı faydalar sağlamalıdır."
+  ],
+  "col": [
+   "vergi parası",
+   "halkın hesabına",
+   "vergiyle finanse edilen"
+  ],
+  "tip": "Genellikle vergi ödeyen bireyler için kullanılır, ancak vergi ödeyen kurumlar için de kullanılabilir. Çoğul hali taxpayers'.",
+  "note": ""
+ },
+ {
+  "id": "moral",
+  "senses": [
+   "ahlaki; ahlaka uygun",
+   "kıssadan hisse; ders"
+  ],
+  "ex": [
+   "Kaybolan cüzdanı geri vermek açıkça doğru olan tercihti.",
+   "Şirketlerin, tedarikçilerinin güvenli çalışma koşulları sağlamasını temin etme konusunda ahlaki bir sorumluluğu var."
+  ],
+  "col": [
+   "ahlaki sorumluluk",
+   "ahlaki ikilem",
+   "manevi destek",
+   "hikâyenin dersi"
+  ],
+  "tip": "Türkçede 'moral' motivasyon anlamına gelir; İngilizce moral ise 'ahlaki' ya da 'ders' demektir. Motivasyon için morale yazılır.",
+  "note": ""
+ },
+ {
+  "id": "drill",
+  "senses": [
+   "matkap; delici alet",
+   "tatbikat; alıştırma",
+   "delmek; talim ettirmek"
+  ],
+  "ex": [
+   "Rafı asmak için bir matkap ödünç aldım.",
+   "Düzenli yangın tatbikatları, öğrencilerin acil durumlarda sakin kalmasına ve okul binalarından en güvenli çıkış yollarını belirlemesine yardımcı olur."
+  ],
+  "col": [
+   "elektrikli matkap",
+   "yangın tatbikatı",
+   "delik delmek",
+   "alıştırma yapmak"
+  ],
+  "tip": "fire drill yangın tatbikatıdır, yangın söndürme aleti değildir. Drill hem alet hem de tekrarlı çalışma anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "respectfully",
+  "senses": [
+   "saygıyla; saygılı biçimde"
+  ],
+  "ex": [
+   "Çocuklar, büyükbabaları anılarını anlatırken saygıyla dinledi.",
+   "Öğrenciler, karşıt görüşleri dikkatle düşünmeden reddetmek yerine saygılı bir şekilde itiraz etmeyi öğrenmelidir."
+  ],
+  "col": [
+   "saygıyla itiraz etmek",
+   "saygıyla rica etmek",
+   "birine saygılı davranmak"
+  ],
+  "tip": "respectively (sırasıyla) ile karıştırılmamalıdır. Respectfully 'saygıyla, saygılı bir biçimde' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "clubhouse",
+  "senses": [
+   "kulüp binası"
+  ],
+  "ex": [
+   "Tenis çantalarımızı kulüp binasının dışında bıraktık.",
+   "Ortak bir kulüp binası, yerel spor takımlarına düzenli buluşma yeri sağlayarak topluluk bağlarını güçlendirebilir."
+  ],
+  "col": [
+   "golf kulübü binası",
+   "kulüp binası olanakları",
+   "kulüp binası salonu"
+  ],
+  "tip": "Binanın kendisini ifade eder; kulübün üyelerinden oluşan topluluğu değil.",
+  "note": ""
+ },
+ {
+  "id": "enclose",
+  "senses": [
+   "çevrelemek; çitle kapatmak",
+   "zarfa koymak; ilişikte göndermek"
+  ],
+  "ex": [
+   "Alçak bir taş duvar, güneşli arka bahçemizi çevreliyor.",
+   "Burs başvuru sahipleri, kağıt başvurularını gönderirken niteliklerinin kopyalarını ilişikte göndermelidir."
+  ],
+  "col": [
+   "bahçeyi çevirmek",
+   "bir kopyayı ilişikte göndermek",
+   "tamamen kapalı"
+  ],
+  "tip": "Kağıt bir mektuba ekleme için enclose, e-postadaki ek için attach kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "astronomer",
+  "senses": [
+   "gökbilimci; astronom"
+  ],
+  "ex": [
+   "Gökbilimci, açık gece gökyüzünün altında teleskobunu ayarladı.",
+   "Gökbilimciler, uzak galaksileri incelemek ve evrenin nasıl geliştiğine dair anlayışımızı artırmak için güçlü teleskoplar kullanır."
+  ],
+  "col": [
+   "profesyonel gökbilimci",
+   "amatör gökbilimci"
+  ],
+  "tip": "Astronomer gök cisimlerini inceleyen bilim insanıdır; astrologer ise astrologdur (burç yorumcusu). Bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "changeable",
+  "senses": [
+   "değişken; değişken huylu"
+  ],
+  "ex": [
+   "Hafif bir mont alın, çünkü hava değişken.",
+   "Çiftçilerin, son derece değişken hava koşullarının görüldüğü bölgelerde işlerini etkili planlamak için güvenilir tahminlere ihtiyacı var."
+  ],
+  "col": [
+   "değişken hava",
+   "değişken ruh hali",
+   "son derece değişken"
+  ],
+  "tip": "Change kelimesinin sonundaki e harfi changeable'da korunur. Sık görülen bir yazım hatasıdır.",
+  "note": ""
+ },
+ {
+  "id": "input",
+  "senses": [
+   "girdi; veri",
+   "görüş; katkı",
+   "girmek; veri girmek"
+  ],
+  "ex": [
+   "Teslimat zamanını seçmeden önce lütfen adresinizi girin.",
+   "Topluluğun görüşleri, planlamacıların yerel ihtiyaçları daha iyi yansıtan kamusal alanlar tasarlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "veri girişi",
+   "değerli katkı",
+   "girdi verisi",
+   "işgücü girdisi"
+  ],
+  "tip": "Hem isim hem fiil olarak kullanılır. Fiil olarak geçmiş zamanı genellikle input ya da inputted biçiminde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "commute",
+  "senses": [
+   "işe gidip gelmek",
+   "işe gidip gelme",
+   "cezayı hafifletmek"
+  ],
+  "ex": [
+   "Trenle işe gidip geliyorum ve genellikle kitap okuyorum.",
+   "Uzun mesafelerden işe gidip gelen çalışanlar daha fazla stres yaşayabilir ve ailesiyle geçirebileceği zamanı azalabilir."
+  ],
+  "col": [
+   "işe gidip gelmek",
+   "günlük gidiş geliş",
+   "trenle gidip gelmek",
+   "cezayı hafifletmek"
+  ],
+  "tip": "Günlük hayatta işe gidip gelmeyi, hukukta ise cezayı hafifletmeyi anlatır. Kalıp olarak 'commute to work' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "correlation",
+  "senses": [
+   "korelasyon; ilişki"
+  ],
+  "ex": [
+   "Geç saatlerde uyumakla baş ağrıları arasında bir ilişki fark ettim.",
+   "Gelir ile eğitim başarısı arasındaki güçlü bir korelasyon, zenginliğin doğrudan akademik başarıya neden olduğu anlamına gelmez."
+  ],
+  "col": [
+   "güçlü korelasyon",
+   "pozitif korelasyon",
+   "negatif korelasyon",
+   "arasındaki korelasyon"
+  ],
+  "tip": "Korelasyon nedensellik değildir. İki şeyin birlikte değişmesi, birinin diğerine neden olduğunu kanıtlamaz.",
+  "note": ""
+ },
+ {
+  "id": "filthy",
+  "senses": [
+   "pis; kirli",
+   "müstehcen; edepsiz"
+  ],
+  "ex": [
+   "Tarlalardaki yürüyüşten sonra botların çok pis oldu.",
+   "Pis su kaynakları, özellikle yeterli sanitasyon altyapısı olmayan topluluklarda hastalık riskini artırır."
+  ],
+  "col": [
+   "pis kıyafet",
+   "pis koşullar",
+   "kaba dil"
+  ],
+  "tip": "Dirty'den daha güçlü bir sözcüktür ve çok kirli anlamını taşır. Müstehcen veya kaba sözler için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "fuss",
+  "senses": [
+   "gereksiz telaş; yaygara",
+   "gereksiz yere tasalanmak"
+  ],
+  "ex": [
+   "Bir parça çamur için lütfen yaygara koparmayın.",
+   "Bazı ebeveynler küçük hatalar yüzünden aşırı tasalanır; bu da çocukların tanıdık olmayan etkinlikleri denemesini engelleyebilir."
+  ],
+  "col": [
+   "yaygara koparmak",
+   "hiç telaş olmadan",
+   "birine fazla ilgi göstermek"
+  ],
+  "tip": "Make a fuss yaygara koparmak anlamına gelir. Fuss over ise bir kişiye ya da bir şeye aşırı ilgi göstermek demektir.",
+  "note": ""
+ },
+ {
+  "id": "interpret",
+  "senses": [
+   "yorumlamak; anlamlandırmak",
+   "tercümanlık yapmak"
+  ],
+  "ex": [
+   "Gülümsemesini oturmam için bir izin olarak yorumladım.",
+   "Araştırmacılar anket sonuçlarını dikkatle yorumlamalıdır; çünkü kültürel farklılıklar katılımcıların soruları anlamasını etkileyebilir."
+  ],
+  "col": [
+   "verileri yorumlamak",
+   "bir şey olarak yorumlamak",
+   "birine tercümanlık yapmak"
+  ],
+  "tip": "Sözlü çeviri için interpret, yazılı çeviri için translate kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "literacy",
+  "senses": [
+   "okur yazarlık",
+   "temel bilgi; beceri"
+  ],
+  "ex": [
+   "Kütüphane, yerel yetişkinler için ücretsiz okur yazarlık kursları sunuyor.",
+   "Dijital okuryazarlığın geliştirilmesi, yaşlı yetişkinlerin temel hizmetlere erişmesine ve modern topluma daha tam katılmasına yardımcı olur."
+  ],
+  "col": [
+   "yetişkin okur yazarlığı",
+   "okur yazarlık oranları",
+   "dijital okuryazarlık",
+   "finansal okuryazarlık"
+  ],
+  "tip": "İsim olarak sayılamaz. Digital literacy yalnızca okuma yazmayı değil, dijital becerileri de kapsar.",
+  "note": ""
+ }
+]

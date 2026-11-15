@@ -1,0 +1,276 @@
+[
+ {
+  "id": "coursework",
+  "senses": [
+   "ders ödevi"
+  ],
+  "ex": [
+   "Arkadaşlarımla öğle yemeğine çıkmadan önce ders ödevlerimi bitirdim.",
+   "Öğrencileri yalnızca sınavlarla değil, ders çalışmalarıyla değerlendirmek, yeteneklerine dair daha geniş bir tablo sunabilir."
+  ],
+  "col": [
+   "ders ödevini teslim etmek",
+   "ders ödevini tamamlamak",
+   "ders çalışmasıyla değerlendirme"
+  ],
+  "tip": "İngilizcede coursework sayılamaz; 'a coursework' denmez. Tek bir parça için 'a piece of coursework' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "crucial",
+  "senses": [
+   "çok önemli; kritik"
+  ],
+  "ex": [
+   "Dışarıda kaldığımda yedek anahtarım hayat kurtarıcı oldu.",
+   "İş aramak isteyenler için güvenilir toplu taşımaya erişim, kendi mahallelerinin ötesinde çok kritik bir öneme sahip."
+  ],
+  "col": [
+   "kritik bir rol",
+   "kritik bir etken",
+   "başarı için hayati",
+   "kritik bir karar"
+  ],
+  "tip": "'Important'tan daha güçlü bir vurgu taşır. 'be crucial to' kalıbında edat 'to'dur; 'for' kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "demolish",
+  "senses": [
+   "yıkmak",
+   "çürütmek; boşa çıkarmak"
+  ],
+  "ex": [
+   "İşçiler evimizin arkasındaki eski garajı yıktı.",
+   "Şehirler, yeni yapılaşmaya yer açmak için tarihi binaları yıkmak yerine onları restore etmeyi düşünmelidir."
+  ],
+  "col": [
+   "bir binayı yıkmak",
+   "bir savı çürütmek",
+   "tamamen yıkmak"
+  ],
+  "tip": "Geçişli bir fiildir; nesne doğrudan gelir: 'demolish the building'. Mecaz olarak bir argümanı çürütmek anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "consultant",
+  "senses": [
+   "danışman; uzman",
+   "kıdemli uzman hekim"
+  ],
+  "ex": [
+   "Küçük işletmemizi geliştirmemize yardım etmesi için bir danışman tuttuk.",
+   "Bir çevre danışmanı, şirketlerin atıklarını azaltmalarına ve işlemlerinin ulusal yönetmeliklere uymasına yardımcı olabilir."
+  ],
+  "col": [
+   "yönetim danışmanı",
+   "çevre danışmanı",
+   "danışman tutmak",
+   "kıdemli cerrah"
+  ],
+  "tip": "Tıp bağlamında İngiliz sisteminde consultant, kıdemli uzman hekimi ifade eder; genel anlamda danışmanlık için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "operate",
+  "senses": [
+   "çalıştırmak; kullanmak",
+   "işletmek; yürütmek",
+   "ameliyat etmek"
+  ],
+  "ex": [
+   "Bu yazıcıyı nasıl kullanacağımı bana gösterebilir misin?",
+   "Kırsal alanlarda faaliyet gösteren şirketler, genellikle daha yüksek nakliye maliyetleri ve nitelikli işçilere sınırlı erişimle karşılaşır."
+  ],
+  "col": [
+   "makine kullanmak",
+   "bir işletmeyi yürütmek",
+   "hastaya ameliyat yapmak",
+   "verimli çalışmak"
+  ],
+  "tip": "Makine kullanmak için nesne doğrudan gelir ('operate the machine'); hastaya ameliyat için edat 'on' gerekir: 'operate on a patient'.",
+  "note": ""
+ },
+ {
+  "id": "companion",
+  "senses": [
+   "arkadaş; yoldaş",
+   "rehber kitap; el kitabı"
+  ],
+  "ex": [
+   "Köpeğim yıllardır sadık bir arkadaşım oldu.",
+   "Yalnız yaşayan yaşlılar için bir refakatçi, yalnızlığı azaltabilir ve toplumsal etkinliklere düzenli katılımı teşvik edebilir."
+  ],
+  "col": [
+   "seyahat arkadaşı",
+   "sadık bir dost",
+   "edebiyat rehberi"
+  ],
+  "tip": "Companion birlikte vakit geçiren kişi ya da hayvanı ifade eder; her zaman yakın dost anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "furious",
+  "senses": [
+   "çok öfkeli; kızgın",
+   "şiddetli; sert"
+  ],
+  "ex": [
+   "Yeni bisikletime biri çizik attığında Lena çok öfkelendi.",
+   "Sakinler, toplumla hiçbir danışma yapılmadan bir parkın aniden kapatılmasına çok öfkelendi."
+  ],
+  "col": [
+   "birine çok kızgın olmak",
+   "bir şeye çok kızgın olmak",
+   "şiddetli bir tartışma"
+  ],
+  "tip": "Birine kızgınlık için 'with', bir şeye kızgınlık için 'about' kullanılır: 'furious with him', 'furious about the decision'.",
+  "note": ""
+ },
+ {
+  "id": "pierce",
+  "senses": [
+   "delmek; delik açmak",
+   "yarmak; geçmek"
+  ],
+  "ex": [
+   "Fırında pişirmeden önce patatesi çatalla delin.",
+   "Güçlü yapay ışıklar, kıyı yapılaşmalarının çevresindeki karanlığı yarıyor ve yuva yapan kuşların davranışlarını olumsuz etkileyebiliyor."
+  ],
+  "col": [
+   "delik açmak",
+   "kulağını deldirmek",
+   "karanlığı yarmak"
+  ],
+  "tip": "Kulak deldirmek için 'have/get your ears pierced' kalıbı kullanılır; 'I pierced my ears' demek daha az doğaldır.",
+  "note": ""
+ },
+ {
+  "id": "footstep",
+  "senses": [
+   "ayak sesi; adım"
+  ],
+  "ex": [
+   "Yatak odamın dışında ayak sesleri duydum ve kapıyı açtım.",
+   "Ortak konutlarda üst kattan gelen ayak sesleri sakinleri rahatsız edebilir ve daha iyi ses yalıtımı gerektiğini gösterir."
+  ],
+  "col": [
+   "ayak sesi duymak",
+   "ağır adımlar",
+   "birinin izinden gitmek"
+  ],
+  "tip": "Genellikle çoğul kullanılır (footsteps). 'Footprint' ise yerde bırakılan ayak izi anlamına gelir; karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "clay",
+  "senses": [
+   "kil; çamur"
+  ],
+  "ex": [
+   "Çocuklar ıslak kili küçük kaselere dönüştürdü.",
+   "Geleneksel kil yapılar iyi yalıtım sağlayabilir ve topluluklara daha az enerjiyle konforlu bir iç mekân sıcaklığı sunabilir."
+  ],
+  "col": [
+   "ıslak kil",
+   "killi toprak",
+   "kil saksı",
+   "kili şekillendirmek"
+  ],
+  "tip": "Genellikle sayılamaz; tek bir parça için 'a piece of clay' denir. 'A clay' gibi kullanım yaygın değildir.",
+  "note": ""
+ },
+ {
+  "id": "extend",
+  "senses": [
+   "uzatmak; genişletmek",
+   "uzatmak; uzanmak",
+   "sunmak; göstermek"
+  ],
+  "ex": [
+   "Hava çok güzel olduğu için tatilimizi uzattık.",
+   "Hükümetler, şehrin dış mahallelerinde yaşayanların iş fırsatlarına erişebilmesi için toplu taşıma ağlarını genişletmelidir."
+  ],
+  "col": [
+   "süreyi uzatmak",
+   "ağı genişletmek",
+   "elini uzatmak",
+   "sıcak bir karşılama yapmak"
+  ],
+  "tip": "'Extend by' bir artış miktarıyla, 'extend to' yeni bir son nokta ya da süreyle birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "friction",
+  "senses": [
+   "sürtünme",
+   "sürtüşme; gerginlik"
+  ],
+  "ex": [
+   "Ellerinizi birbirine sürterek sürtünme oluşturursunuz ve onları ısıtırsınız.",
+   "Sınırlı konut için yaşanan rekabet, yerleşik sakinlerle şehre taşınan insanlar arasında gerginlik yaratabilir."
+  ],
+  "col": [
+   "sürtünmeyi azaltmak",
+   "yüzeyler arasında sürtünme",
+   "sürtünmeye neden olmak",
+   "gerginlik kaynağı"
+  ],
+  "tip": "Hem fiziksel hem de kişilerarası anlamda genellikle sayılamaz. 'A friction' yerine 'a source of friction' gibi kalıpları tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "recession",
+  "senses": [
+   "ekonomik durgunluk",
+   "geri çekilme; azalma"
+  ],
+  "ex": [
+   "Ekonomik durgunluk sırasında amcam iş bulmakta zorlandı.",
+   "Hükümetler, işleri korumak ve tüketici talebini artırmak için durgunluk dönemlerinde kamu yatırımlarını artırabilir."
+  ],
+  "col": [
+   "ekonomik durgunluk",
+   "derin bir durgunluk",
+   "durgunluğa girmek",
+   "diş eti çekilmesi"
+  ],
+  "tip": "Tek başına fiyat düşüşünü değil, genel ekonomik daralmayı ifade eder. Ekonomi haberlerinde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "pest",
+  "senses": [
+   "zararlı böcek; zararlı hayvan",
+   "sinir bozucu kişi"
+  ],
+  "ex": [
+   "Bu minik zararlılar lahana yapraklarımda delikler açmış.",
+   "Çiftçiler, kimyasal kullanımını azaltan ve yararlı böcekleri koruyan biyolojik yöntemlerle zararlılarla mücadele edebilir."
+  ],
+  "col": [
+   "zararlılarla mücadele",
+   "ürün zararlıları",
+   "bahçe zararlısı"
+  ],
+  "tip": "Pest yalnızca böcekleri değil, fare gibi zararlı hayvanları da kapsar. İkinci anlamda kişiler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "insure",
+  "senses": [
+   "sigortalamak"
+  ],
+  "ex": [
+   "Bisikletlerimizi yurt dışına götürmeden önce sigortalattık.",
+   "Küçük işletmeler, yangına karşı binalarını sigortalamalı ve olası yıkıcı mali kayıpları önlemelidir."
+  ],
+  "col": [
+   "hırsızlığa karşı sigortalamak",
+   "bir aracı sigortalamak",
+   "tam sigortalı"
+  ],
+  "tip": "Hırsızlık, kaza gibi risklere karşı sigorta yaptırmak anlamında kullanılır. 'Güvence altına almak' için ise 'ensure' kullanılır.",
+  "note": ""
+ }
+]

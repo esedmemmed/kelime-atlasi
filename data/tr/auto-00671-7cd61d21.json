@@ -1,0 +1,289 @@
+[
+ {
+  "id": "wait",
+  "senses": [
+   "beklemek",
+   "ertelenmek; bekletilmek",
+   "bekleyiş; bekleme"
+  ],
+  "ex": [
+   "Anahtarlarımı bulana kadar lütfen burada bekle.",
+   "Kırsal bölgelerdeki hastalar, yerel sağlık hizmetleri sınırlı olduğu için uzman tedavisi için genellikle daha uzun süre bekliyor."
+  ],
+  "col": [
+   "birini beklemek",
+   "sabırla beklemek",
+   "uzun bir bekleyiş",
+   "beklemek ve görmek"
+  ],
+  "tip": "Birini beklemek için wait for someone kullanın; for eksik kalmamalı. Bir şeyi yapmak için beklemek wait to do biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "under",
+  "senses": [
+   "altında; altına",
+   "daha az; altında",
+   "durumunda; denetiminde"
+  ],
+  "ex": [
+   "Kedi mutfak masasının altına kıvrılıp uyudu.",
+   "Yeni politika kapsamında yerel yönetimler, okulların yakınında ve konut bölgelerinde daha güvenli bisiklet yolları sağlamak zorunda."
+  ],
+  "col": [
+   "baskı altında",
+   "kontrol altında",
+   "inşaat halinde",
+   "yaşın altında"
+  ],
+  "tip": "Konum, miktar ya da durum belirtir: under pressure (baskı altında). Yaş sınırı için under 18 ya da under the age of 18 kalıpları kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "italian",
+  "senses": [
+   "İtalyan; İtalyanca'ya ait",
+   "İtalyanca",
+   "İtalyan"
+  ],
+  "ex": [
+   "Domateslı ve taze fesleğenli İtalyan makarnası pişirdik.",
+   "İtalyan mimarisini incelemek, öğrencilerin tarihi binaların çağdaş kentsel tasarımı nasıl etkilediğini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "İtalyan mutfağı",
+   "İtalyanca konuşmak",
+   "İtalyan mimarisi"
+  ],
+  "tip": "Milliyet ve dil adları İngilizcede her zaman büyük harfle yazılır. İtalyan kişilerin çoğulu Italians'tır.",
+  "note": ""
+ },
+ {
+  "id": "on",
+  "senses": [
+   "üzerinde",
+   "-de; hakkında",
+   "açık; çalışan"
+  ],
+  "ex": [
+   "Anahtarların kapının yanındaki masanın üzerinde.",
+   "Kamu binalarının çatısına güneş paneli kurmak, enerji maliyetlerini düşürebilir ve hükümetin sürdürülebilirliğe bağlılığını gösterebilir."
+  ],
+  "col": [
+   "masanın üzerinde",
+   "Pazartesi günü",
+   "eğitim hakkında bir rapor",
+   "açmak"
+  ],
+  "tip": "Belirli günlerde on kullanılır (on Monday). Aylarda in (in May), saatlerde at (at 5 o'clock) tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "personal",
+  "senses": [
+   "kişisel; özel",
+   "özel; mahrem",
+   "kişiye yönelik"
+  ],
+  "ex": [
+   "Trene binerken lütfen kişisel eşyalarınızı yanınızda tutun.",
+   "Çevrimiçi hizmetler kişisel bilgileri korumalı ve müşteri verilerini nasıl topladıklarını ve kullandıklarını açıkça anlatmalıdır."
+  ],
+  "col": [
+   "kişisel eşyalar",
+   "kişisel bilgiler",
+   "kişisel deneyim",
+   "kişiye yönelik saldırı"
+  ],
+  "tip": "personal kişisel anlamına gelir; personnel ise personel (çalışanların bütünü) demektir. Yazımları ve anlamları farklıdır, karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "possible",
+  "senses": [
+   "mümkün; yapılabilir",
+   "olası; akla yatkın"
+  ],
+  "ex": [
+   "Bu gece için masa ayırtmak mümkün mü?",
+   "Yenilenebilir enerjiye yapılan yatırım, ülkelerin ithal yakıta bağımlılığını azaltmasını mümkün kılıyor."
+  ],
+  "col": [
+   "en kısa sürede",
+   "olası bir açıklama",
+   "mümkün kılmak"
+  ],
+  "tip": "It is possible to do... kalıbı yaygındır. Kişi öznesiyle kullanılmaz; 'It is possible for him to' ya da 'He can' tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "describe",
+  "senses": [
+   "betimlemek; anlatmak"
+  ],
+  "ex": [
+   "Otobüste unuttuğun çantayı anlatabilir misin?",
+   "Rapor, kamu parklarına erişimin kalabalık şehirlerdeki sakinlerin fiziksel aktivitesini nasıl etkilediğini açıklıyor."
+  ],
+  "col": [
+   "ayrıntılı anlatmak",
+   "olarak nitelendirmek",
+   "bir süreci anlatmak"
+  ],
+  "tip": "describe something to someone biçimi kullanılır; describe someone something şeklinde kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "say",
+  "senses": [
+   "söylemek",
+   "yazmak; belirtmek",
+   "söz hakkı"
+  ],
+  "ex": [
+   "Adını bir daha söyler misin, aklımda kalsın.",
+   "Sakinlerin, doğrudan mahallelerini ve günlük yaşamlarını etkileyen imar kararlarında söz sahibi olmaları gerekir."
+  ],
+  "col": [
+   "merhaba demek",
+   "birine bir şey söylemek",
+   "bir konuda söz sahibi olmak",
+   "kesin olarak söylemek"
+  ],
+  "tip": "Bir şeyi söylemek için say something; birine bir şey bildirmek için tell someone kullanılır. say ve tell karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "lot",
+  "senses": [
+   "çok; bir sürü",
+   "çok; oldukça",
+   "arsa; alan"
+  ],
+  "ex": [
+   "Bugün çok taze meyve aldık.",
+   "Şehirler, toplu taşımayı iyileştirip sakinleri yürümeye teşvik ederek çok enerji tasarrufu sağlayabilir."
+  ],
+  "col": [
+   "çok zaman",
+   "birçok insan",
+   "çok daha iyi",
+   "otopark"
+  ],
+  "tip": "a lot of sayılabilen çoğul ve sayılamayan isimlerle kullanılır. a lot tek başına fiili de niteleyebilir (I like it a lot).",
+  "note": ""
+ },
+ {
+  "id": "grandfather",
+  "senses": [
+   "dede; büyükbaba"
+  ],
+  "ex": [
+   "Büyükbabam bana domates yetiştirmeyi öğretti.",
+   "Çocuklara düzenli bakan bir büyükbaba, aile bağlarını güçlendirebilir ve çalışan ebeveynlere destek olabilir."
+  ],
+  "col": [
+   "anne tarafından büyükbaba",
+   "baba tarafından büyükbaba"
+  ],
+  "tip": "İngilizcede grandfather hem anne hem baba tarafı için kullanılır. Taraf belirtmek gerekirse maternal ya da paternal eklenir.",
+  "note": ""
+ },
+ {
+  "id": "dear",
+  "senses": [
+   "sevgili; değerli",
+   "pahalı",
+   "aman; eyvah"
+  ],
+  "ex": [
+   "Bu küçük bahçe büyükannem için çok değerli.",
+   "Yerel sakinler için değerli olan yerler, kentsel yenileme planları hazırlanırken dikkate alınmalıdır."
+  ],
+  "col": [
+   "sevgili bir arkadaş",
+   "birine değerli olmak",
+   "aman Tanrım"
+  ],
+  "tip": "dear 'pahalı' anlamında daha çok İngiliz İngilizcesinde ve gündelik konuşmada görülür. Mektup ve e-postalarda Dear ile hitap edilir.",
+  "note": ""
+ },
+ {
+  "id": "sorry",
+  "senses": [
+   "üzgün; pişman",
+   "üzüntülü; üzgün"
+  ],
+  "ex": [
+   "Temiz gömleğinin üzerine meyve suyu döktüğüm için özür dilerim.",
+   "Şirketler çevresel zararlar için üzgün olduklarını söyleyebilir, ancak halkın güvenini yeniden kazanmak için anlamlı eylemler gerekir."
+  ],
+  "col": [
+   "geç kaldığım için özür dilerim",
+   "hata için üzgünüm",
+   "birine acımak",
+   "bunu duyduğuma üzüldüm"
+  ],
+  "tip": "sorry for doing bir şey için özür dilemeyi anlatır (sorry for being late). Bir haberden dolayı üzüntü için sorry to hear that kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ear",
+  "senses": [
+   "kulak",
+   "işitme; ses algısı",
+   "başak"
+  ],
+  "ex": [
+   "Kulaklarım üşüdü, bu yüzden bir şapka taktım.",
+   "Yüksek sesli müziğe sürekli maruz kalmak kulaklara zarar verip kalıcı işitme kaybına yol açabilir."
+  ],
+  "col": [
+   "müzik kulağı",
+   "kulak enfeksiyonu",
+   "buğday başağı",
+   "kulak koruyucusu"
+  ],
+  "tip": "have an ear for müzik veya dil gibi seslere karşı iyi bir algıya sahip olmayı anlatır. ear sözcüğü 'başak' anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "healthy",
+  "senses": [
+   "sağlıklı",
+   "sağlığa faydalı",
+   "sağlıklı; güçlü"
+  ],
+  "ex": [
+   "Kedimiz düzenli egzersiz ve kontrollerle sağlıklı kalıyor.",
+   "Okullar, çocukların fiziksel gelişimini desteklemek için erken yaştan itibaren sağlıklı yemekler sunmalıdır."
+  ],
+  "col": [
+   "sağlıklı beslenme",
+   "sağlıklı yaşam tarzı",
+   "sağlıklı kalmak",
+   "güçlü bir ekonomi"
+  ],
+  "tip": "healthy hem kişinin sağlığını hem de sağlığa yararlı şeyleri (besin, yaşam tarzı) anlatmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "laugh",
+  "senses": [
+   "gülmek",
+   "gülüş; kahkaha"
+  ],
+  "ex": [
+   "Bebeğin komik dansı akşam yemeğinde herkesi güldürdü.",
+   "Düzenli olarak birlikte gülen insanlar daha güçlü sosyal bağlar kurabilir ve günlük stresle daha iyi başa çıkabilir."
+  ],
+  "col": [
+   "yüksek sesle gülmek",
+   "birini güldürmek",
+   "bir şakaya gülmek",
+   "içten bir kahkaha"
+  ],
+  "tip": "laugh at birini ya da bir şeyi alay ederek gülmeyi anlatır; laugh with ise birlikte gülmeyi belirtir. Anlam bağlama göre değişir.",
+  "note": ""
+ }
+]

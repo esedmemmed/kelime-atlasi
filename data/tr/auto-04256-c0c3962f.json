@@ -1,0 +1,287 @@
+[
+ {
+  "id": "depress",
+  "senses": [
+   "üzmek; moralini bozmak",
+   "azaltmak; düşürmek",
+   "bastırmak; itmek"
+  ],
+  "ex": [
+   "Gri gökyüzü ve bitmek bilmeyen yağmur beni üzüyor.",
+   "Yüksek borçlanma maliyetleri tüketici harcamalarını düşürebilir; bu da küçük işletmelerin ayakta kalmasını zorlaştırır."
+  ],
+  "col": [
+   "talebi düşürmek",
+   "fiyatları düşürmek",
+   "bir pedala basmak"
+  ],
+  "tip": "depressed kişinin üzgün olduğunu, depressing ise bir şeyin insanı üzdüğünü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "lobby",
+  "senses": [
+   "lobi; giriş holü",
+   "lobi yapmak; baskı kurmak",
+   "baskı grubu; çıkar grubu"
+  ],
+  "ex": [
+   "Bavulunu alırken ben lobide bekleyeceğim.",
+   "Çevre grupları, sanayi kirliliğine karşı daha sıkı denetimler getirilmesi ve hassas ekosistemlerin korunması için hükümetler üzerinde baskı kuruyor."
+  ],
+  "col": [
+   "otel lobisi",
+   "reform için lobi yapmak",
+   "bir öneriye karşı lobi yapmak",
+   "iş dünyasının baskı grubu"
+  ],
+  "tip": "Destek için lobby for, karşı çıkmak için lobby against kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "processing",
+  "senses": [
+   "işleme; işlem",
+   "veri işleme; bilgi işlem"
+  ],
+  "ex": [
+   "Bu elmalar meyve suyu olarak işlenmeye hazır.",
+   "Modern gıda işleme yöntemleri raf ömrünü uzatabilir, ancak bazı yöntemler taze malzemelerin besin değerini azaltır."
+  ],
+  "col": [
+   "gıda işleme",
+   "veri işleme",
+   "işleme tesisi",
+   "işlem süresi"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; processing plant ise işleme tesisi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "massive",
+  "senses": [
+   "devasa; çok büyük",
+   "çok büyük; aşırı"
+  ],
+  "ex": [
+   "Büyük bir meşe ağacı bütün bahçemize gölge yapıyor.",
+   "Yenilenebilir enerjiye geçiş, altyapıya ve işçilerin eğitimine büyük yatırımlar gerektiriyor."
+  ],
+  "col": [
+   "büyük yatırım",
+   "büyük artış",
+   "devasa taş duvarlar",
+   "büyük etki"
+  ],
+  "tip": "Hem fiziksel büyüklük hem de miktar ya da derece için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "stall",
+  "senses": [
+   "tezgah; standa",
+   "durdurmak; geciktirmek",
+   "stop etmek; motoru durmak"
+  ],
+  "ex": [
+   "Yol kenarındaki küçük bir tezgahtan taze şeftali aldık.",
+   "Hükümetler emisyonları azaltmanın maliyetini nasıl paylaşacaklarına karar veremezse müzakereler tıkanabilir."
+  ],
+  "col": [
+   "pazar tezgahı",
+   "zaman kazanmak için oyalamak",
+   "motoru durdurmak"
+  ],
+  "tip": "Fiil olarak hem motorun durmasını hem de müzakere gibi süreçlerin tıkanmasını anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "breeze",
+  "senses": [
+   "esinti; hafif rüzgar",
+   "çok kolay iş",
+   "kolayca geçmek; rahatça ilerlemek"
+  ],
+  "ex": [
+   "Serin bir esinti yatak odamın yanındaki perdeleri kaldırdı.",
+   "Kıyı parkları, sakinlere temiz deniz esintisinin tadını çıkarırken egzersiz yapabilecekleri güzel alanlar sunuyor."
+  ],
+  "col": [
+   "hafif esinti",
+   "deniz esintisi",
+   "çok kolay olmak",
+   "sınavı rahatça geçmek"
+  ],
+  "tip": "be a breeze konuşma dilinde kullanılır ve “çok kolay olmak” anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "appreciate",
+  "senses": [
+   "minnettar olmak",
+   "takdir etmek; değer vermek",
+   "anlamak; farkında olmak"
+  ],
+  "ex": [
+   "Ben yokken bitkilerime su verdiğin için gerçekten minnettarım.",
+   "Politika yapıcıların kırsal toplulukların sağlık hizmetlerine ulaşırken karşılaştığı zorlukları anlaması gerekiyor."
+  ],
+  "col": [
+   "çok minnettar olmak",
+   "yardımını takdir etmek",
+   "...in önemini anlamak",
+   "sanata değer vermek"
+  ],
+  "tip": "İsim ya da ing'li isimle kullanılır, to + fiil ile kullanılmaz; yardım için teşekkür: appreciate your help.",
+  "note": ""
+ },
+ {
+  "id": "formal",
+  "senses": [
+   "resmi; resmî",
+   "resmi; ciddi",
+   "düzenli; sistemli"
+  ],
+  "ex": [
+   "Törene katılmak için resmi bir davetiyeye ihtiyacın var.",
+   "Örgün eğitim temel bilgiler sağlar; uygulamalı deneyim ise öğrencilerin öğrendiklerini kullanmasına yardımcı olur."
+  ],
+  "col": [
+   "resmi anlaşma",
+   "resmi şikayet",
+   "örgün eğitim",
+   "resmi kıyafet"
+  ],
+  "tip": "formal ile former karıştırılmamalı: formal “resmi”, former “eski, önceki” anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "mitten",
+  "senses": [
+   "parmaklı eldiven; kolsuz eldiven"
+  ],
+  "ex": [
+   "Karlı patikanın kenarına yün bir eldiven düşürdü.",
+   "Soğuk iklimlerde yalıtımlı eldivenler, dış mekânda çalışan işçilerin uzun süre düşük sıcaklıklara maruz kalırken ellerini sıcak tutmasına yardımcı olur."
+  ],
+  "col": [
+   "bir çift eldiven",
+   "yün eldivenler",
+   "yalıtımlı eldivenler"
+  ],
+  "tip": "Dört parmak birlikte, başparmak ayrıdır; parmakları ayrı olan eldivenlerle karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "meditation",
+  "senses": [
+   "meditasyon; zihin egzersizi",
+   "derin düşünce; tefekkür"
+  ],
+  "ex": [
+   "Yatmadan önce on dakika meditasyon yapmak beni rahatlatıyor.",
+   "Bazı okullar, öğrencilerin stresle başa çıkmasına ve odaklanma becerilerini geliştirmesine yardımcı olmak için meditasyon seansları düzenliyor."
+  ],
+  "col": [
+   "meditasyon yapmak",
+   "farkındalık meditasyonu",
+   "meditasyon seansı",
+   "derin düşünce"
+  ],
+  "tip": "Meditasyon pratiği için genellikle sayılamaz; meditation on ise bir konu üzerine düşünmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "plaster",
+  "senses": [
+   "sıva; alçı",
+   "yara bandı",
+   "sıvamak; alçı ile kaplamak"
+  ],
+  "ex": [
+   "Mutfak tavanından küçük sıva parçaları düştü.",
+   "Tarihi binaların restorasyonu, özgün süslemelere zarar vermeden hasarlı sıvayı onarabilecek usta işçiler gerektirir."
+  ],
+  "col": [
+   "bir kat sıva",
+   "alçı alçı",
+   "yara bandı",
+   "duvarı sıvamak"
+  ],
+  "tip": "Sıva anlamında genellikle sayılamaz; İngiliz İngilizcesinde a plaster yara bandı demektir.",
+  "note": ""
+ },
+ {
+  "id": "spotlight",
+  "senses": [
+   "projektör; spot ışığı",
+   "ilgi odağı; dikkat",
+   "gündeme getirmek; ön plana çıkarmak"
+  ],
+  "ex": [
+   "Parlak bir spot ışığı dansçıyı sahnede takip etti.",
+   "Yakın tarihli araştırmalar kentsel hava kirliliğini gündeme taşıdı ve araç düzenlemelerinin sıkılaştırılması çağrılarını artırdı."
+  ],
+  "col": [
+   "ilgi odağında olmak",
+   "dikkati ... üzerine çekmek",
+   "ışığı ... üzerine tutmak"
+  ],
+  "tip": "in the spotlight deyimi, kişinin ya da konunun kamuoyunun dikkatinde olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "dusk",
+  "senses": [
+   "alacakaranlık; akşamüstü"
+  ],
+  "ex": [
+   "Kamp alanına alacakaranlıkta vardık ve bir fener yaktık.",
+   "Daha iyi sokak aydınlatması, gece karanlığı çöktükten sonra eve yürüyerek dönen yayalar için kamusal alanları daha güvenli hale getirebilir."
+  ],
+  "col": [
+   "alacakaranlıkta",
+   "şafaktan alacakaranlığa kadar",
+   "alacakaranlık çökerken"
+  ],
+  "tip": "Alacakaranlık için at dusk kullanılır; dawn ise şafak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "refreshing",
+  "senses": [
+   "ferahlatıcı; serinletici",
+   "ferahlatıcı; yeni ve hoş"
+  ],
+  "ex": [
+   "Açık mutfak penceresinden ferahlatıcı bir esinti girdi.",
+   "Belgesel, yaşlı insanların yerel topluluklara nasıl katkı sağladığına dair ilgi çekici ve yeni bir bakış açısı sunuyor."
+  ],
+  "col": [
+   "ferahlatıcı içecek",
+   "hoş bir değişiklik",
+   "ferahlatıcı esinti"
+  ],
+  "tip": "refreshing şeyleri, refreshed ise insanın kendini dinç hissetmesini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "uneasy",
+  "senses": [
+   "huzursuz; endişeli",
+   "istikrarsız; gergin"
+  ],
+  "ex": [
+   "Boş istasyonda yürürken kendimi huzursuz hissettim.",
+   "Birçok sakin, çevresel etkileri tam olarak değerlendirilmediği için önerilen fabrika konusunda hâlâ endişeli."
+  ],
+  "col": [
+   "huzursuz hissetmek",
+   "bir şey hakkında endişeli olmak",
+   "gergin bir ateşkes",
+   "sorunlu bir ilişki"
+  ],
+  "tip": "uneasy “huzursuz” anlamına gelir, “zor” değil; genellikle about ile kullanılır.",
+  "note": ""
+ }
+]

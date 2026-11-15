@@ -1,0 +1,274 @@
+[
+ {
+  "id": "civic",
+  "senses": [
+   "kentsel; belediyeye ait",
+   "yurttaşlığa ilişkin"
+  ],
+  "ex": [
+   "Belediye başkanı, yeni kent merkezinin dışında ziyaretçileri karşıladı.",
+   "Okullar, öğrencileri yerel topluluklara fayda sağlayan projelere katılmaya teşvik ederek yurttaşlık sorumluluğunu güçlendirebilir."
+  ],
+  "col": [
+   "belediye merkezi",
+   "yurttaşlık sorumluluğu",
+   "kent gururu",
+   "yurttaşlık katılımı"
+  ],
+  "tip": "civic kentle ya da yurttaşlık sorumluluğuyla ilgilidir. Türkçe konuşanlar bunu 'civil' (sivil, medeni, kibar) ile karıştırmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "sampling",
+  "senses": [
+   "örnekleme; numune alma",
+   "tadına bakma; deneme"
+  ],
+  "ex": [
+   "Çorbadan tadına bakmak, öğle yemeğimi seçmeme yardımcı oldu.",
+   "Rastgele örnekleme, araştırmacıların büyük bir nüfusun her bireyiyle görüşmeden temsil edici veriler elde etmesine yardımcı olur."
+  ],
+  "col": [
+   "rastgele örnekleme",
+   "örnekleme yöntemi",
+   "örnekleme hatası",
+   "su numunesi alma"
+  ],
+  "tip": "sampling, örnek almanın sürecini anlatır; alınan parçanın kendisi 'sample' olur.",
+  "note": ""
+ },
+ {
+  "id": "ascend",
+  "senses": [
+   "yükselmek",
+   "tırmanmak"
+  ],
+  "ex": [
+   "Balonun berrak gökyüzüne yavaşça yükselişini izledik.",
+   "Yürüyüşçüler dağa tırmanırken, değişen sıcaklık ve nem düzeylerinin şekillendirdiği farklı bitki kuşaklarıyla karşılaşırlar."
+  ],
+  "col": [
+   "merdivenleri çıkmak",
+   "dağa tırmanmak",
+   "zirveye çıkmak",
+   "tahta çıkmak"
+  ],
+  "tip": "ascend resmi bir fiildir. 'Ascend the stairs' ifadesinde 'up' eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "degradation",
+  "senses": [
+   "bozulma; kötüleşme",
+   "ayrışma; parçalanma",
+   "onur kırılması; aşağılanma"
+  ],
+  "ex": [
+   "Çiftçi, kurak tarlalarında toprak bozulmasını fark etti.",
+   "Çevresel bozulma, çoğunlukla yerel doğal kaynaklara doğrudan bağımlı olan yoksul toplulukları en ağır biçimde etkiler."
+  ],
+  "col": [
+   "çevresel bozulma",
+   "toprak bozulması",
+   "mikrobiyal ayrışma"
+  ],
+  "tip": "Çevre konularında 'bozulma' anlamı yaygındır; kimya ve biyolojide ise maddelerin 'ayrışması' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "integrity",
+  "senses": [
+   "dürüstlük; doğruluk",
+   "bütünlük; sağlamlık"
+  ],
+  "ex": [
+   "Bulduğu parayı geri vererek dürüstlüğünü gösterdi.",
+   "Bağımsız denetimler, köprülerin yapısal bütünlüğünü korumaya yardımcı olur ve halkı önlenebilir kazalardan korur."
+  ],
+  "col": [
+   "kişisel dürüstlük",
+   "mesleki dürüstlük",
+   "yapısal bütünlük"
+  ],
+  "tip": "Sayılamayan bir isimdir. Hem kişinin ahlaki dürüstlüğünü hem de bir yapının fiziksel bütünlüğünü anlatabilir. 'Integration' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "hamper",
+  "senses": [
+   "engellemek; zorlaştırmak",
+   "büyük sepet; hamper"
+  ],
+  "ex": [
+   "Şiddetli yağmur, çit onarma çabalarımızı zorlaştırdı.",
+   "Güvenilir internet hizmetlerine sınırlı erişim, uzak kırsal topluluklarda ekonomik gelişmeyi engelleyebilir."
+  ],
+  "col": [
+   "ilerlemeyi engellemek",
+   "çabaları zorlaştırmak",
+   "piknik sepeti",
+   "çamaşır sepeti"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır (hamper progress). İsim olarak ise yiyecek ya da çamaşır sepeti anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "stipulate",
+  "senses": [
+   "açıkça belirtmek; şart koşmak"
+  ],
+  "ex": [
+   "Kira kuralları, evcil hayvanların alt katta kalması gerektiğini açıkça belirtiyor.",
+   "İş sözleşmeleri, işverenler ile çalışanlar arasındaki anlaşmazlıkları önlemek için çalışma saatlerini net biçimde belirtmelidir."
+  ],
+  "col": [
+   "...olduğunu belirtmek",
+   "koşullar belirlemek",
+   "son tarih belirlemek"
+  ],
+  "tip": "Sözleşme ve resmi metinlerde kullanılan bir fiildir. İsim alabilir ya da 'that' ile başlayan bir cümle alabilir.",
+  "note": ""
+ },
+ {
+  "id": "bonded",
+  "senses": [
+   "gümrük denetimli",
+   "birbirine bağlı; kenetli"
+  ],
+  "ex": [
+   "İthal kahve, yakındaki bir antrepoda bekliyor.",
+   "Antrepolar, ithalatçıların malları yerli piyasaya sokana kadar gümrük vergilerini ödemeyi erteleyebilmesini sağlar."
+  ],
+  "col": [
+   "antrepo",
+   "gümrüklü mallar",
+   "borçlu işçilik"
+  ],
+  "tip": "'Bonded' gümrük vergisinin geçici olarak ertelenmesi anlamına gelir; kalıcı bir muafiyet değildir.",
+  "note": ""
+ },
+ {
+  "id": "pragmatic",
+  "senses": [
+   "pratik; gerçekçi"
+  ],
+  "ex": [
+   "Pratik bir yaklaşım benimseyip eski koltuğu tamir ettik.",
+   "Pratik bir konut politikası, çevre hedefleriyle yerel sakinlerin acil ihtiyaçlarını dengelemelidir."
+  ],
+  "col": [
+   "pratik yaklaşım",
+   "pratik çözüm",
+   "pratik karar"
+  ],
+  "tip": "İdealler yerine uygulamada işe yarayanı vurgular. Bu yönüyle 'practical' ile yakındır ama daha çok ilkelere karşı gerçekçi tutumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "materialize",
+  "senses": [
+   "gerçekleşmek",
+   "ortaya çıkmak; belirmek"
+  ],
+  "ex": [
+   "Hafta sonu gezimiz, herkes çok meşgul olduğu için hiç gerçekleşmedi.",
+   "Vaat edilen ekonomik faydalar, hükümetler eğitim ve ulaşıma da yatırım yapmadıkça gerçekleşmeyebilir."
+  ],
+  "col": [
+   "gerçekleşmemek",
+   "hiçbir zaman gerçekleşmemek",
+   "faydaların gerçekleşmesi"
+  ],
+  "tip": "Genellikle planlanan ya da beklenen bir şeyin gerçekleşmemesi için kullanılır. İngiliz İngilizcesinde 'materialise' yazılır.",
+  "note": ""
+ },
+ {
+  "id": "cartridge",
+  "senses": [
+   "kartuş; yedek kutu",
+   "fişek; mermi kovanı"
+  ],
+  "ex": [
+   "Ödevimi yazdırmadan önce boş kartuşu değiştirdim.",
+   "Yazıcı kartuşlarını geri dönüştürmek, plastik atığı azaltabilir ve aksi halde çöp sahalarına gidecek malzemeleri geri kazandırabilir."
+  ],
+  "col": [
+   "mürekkep kartuşu",
+   "toner kartuşu",
+   "kartuşu değiştirmek",
+   "kullanılmış kartuş"
+  ],
+  "tip": "Temel anlam, bir makineye takılan malzeme kutusudur. Yazıcı bağlamında genellikle mürekkep kartuşu anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "industrialize",
+  "senses": [
+   "sanayileşmek; sanayileştirmek"
+  ],
+  "ex": [
+   "Demiryolu açıldıktan sonra kasaba hızla sanayileşti.",
+   "Ülkeler sanayileştikçe hükümetler, ekonomik büyüme ile çevre koruma ve işçi refahını dengelemek zorundadır."
+  ],
+  "col": [
+   "hızla sanayileşmek",
+   "çok sanayileşmiş bir ülke",
+   "yeni sanayileşen ekonomiler"
+  ],
+  "tip": "Hem nesne alarak hem de nesnesiz kullanılabilir. İngiliz İngilizcesinde 'industrialise' yazılır.",
+  "note": ""
+ },
+ {
+  "id": "rotary",
+  "senses": [
+   "dönel; döner",
+   "döner kavşak"
+  ],
+  "ex": [
+   "Babam çimleri biçmek için döner bıçaklı bir çim biçme makinesi kullanıyor.",
+   "Dönme hareketi, sürekli ve verimli çalışmaya olanak tanıdığı için endüstriyel makinelerde yaygın olarak kullanılır."
+  ],
+  "col": [
+   "dönme hareketi",
+   "döner motor",
+   "döner çim biçme makinesi"
+  ],
+  "tip": "Çoğunlukla dönen mekanik parçaları anlatır. 'Rotating' ise sırayla ya da etrafında dönme anlamında daha geniş kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "coincide",
+  "senses": [
+   "aynı anda olmak; denk gelmek",
+   "uymak; örtüşmek"
+  ],
+  "ex": [
+   "İzin günlerim nadiren kız kardeşiminkilerle denk geliyor.",
+   "Kamu yatırımları, kamu fonlarının gerçek topluluk ihtiyaçlarını karşılamasını sağlamak için yerel önceliklerle örtüşmelidir."
+  ],
+  "col": [
+   "...ile denk gelmek",
+   "tamamen örtüşmek",
+   "görüşler örtüşmek"
+  ],
+  "tip": "Geçişsiz bir fiildir ve nesne almaz. Bir şeyle eşzamanlı olduğunu belirtmek için 'with' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inattention",
+  "senses": [
+   "dikkatsizlik; ilgisizlik"
+  ],
+  "ex": [
+   "Bir an dikkatsizlik yüzünden tost fena halde yandı.",
+   "Sürücü dikkatsizliği, özellikle mobil cihazlar giderek yaygınlaştıkça, önemli bir trafik güvenliği sorunu olmaya devam ediyor."
+  ],
+  "col": [
+   "bir an dikkatsizlik",
+   "sürücü dikkatsizliği",
+   "ayrıntıya dikkatsizlik"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'an inattention' yerine 'a moment of inattention' gibi kalıplar kullanılır. 'Inattention to' bir şeye dikkat edilmemesini belirtir.",
+  "note": ""
+ }
+]

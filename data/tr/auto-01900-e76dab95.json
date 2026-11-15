@@ -1,0 +1,277 @@
+[
+ {
+  "id": "scream",
+  "senses": [
+   "çığlık atmak; bağırmak",
+   "çığlık"
+  ],
+  "ex": [
+   "Çocuklar lunapark turu başlar başlamaz heyecandan çığlık attı.",
+   "Sakinler, ziyaretçilerin gece geç saatlerde bağırıp uykuyu bölmesinden ve mahallenin yaşam kalitesinin düşmesinden şikayet ediyor."
+  ],
+  "col": [
+   "heyecanla çığlık atmak",
+   "yardım için çığlık atmak",
+   "çığlık koparmak"
+  ],
+  "tip": "scream sesin tiz ve korku, acı ya da heyecanla dolu olduğunu vurgular; shout ise yalnızca yüksek sesle bağırmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "powerful",
+  "senses": [
+   "güçlü; kuvvetli",
+   "nüfuzlu; etkili"
+  ],
+  "ex": [
+   "Şiddetli rüzgâr bahçe sandalyelerimizi çimenlerin üzerine savurdu.",
+   "Güçlü şirketler, faaliyetlerinin neden olduğu çevre zararını azaltmak için daha fazla sorumluluk almalıdır."
+  ],
+  "col": [
+   "güçlü motor",
+   "güçlü etki",
+   "ikna edici argüman"
+  ],
+  "tip": "Zarf hali powerfully'dir; zarf yerine powerful kullanılmaz. Ayrıca 'powerful' sıfattır ve isimden önce ya da be ile birlikte gelir.",
+  "note": ""
+ },
+ {
+  "id": "poetry",
+  "senses": [
+   "şiir; şiir sanatı",
+   "şiirsellik"
+  ],
+  "ex": [
+   "Çayı soğurken sesli olarak şiir okuyor.",
+   "Şiir incelemek, öğrencileri karmaşık duyguları keşfetmeye ve dilin anlatım olanaklarını takdir etmeye teşvik eder."
+  ],
+  "col": [
+   "şiir yazmak",
+   "şiir kitabı",
+   "şiir okuma etkinliği",
+   "modern şiir"
+  ],
+  "tip": "poetry sayılamayan bir isimdir; tek bir şiir için a poem denir, 'a poetry' demek yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "foolish",
+  "senses": [
+   "aptalca; akılsızca"
+  ],
+  "ex": [
+   "Şemsiyemi evde unutmam aptalcaydı.",
+   "Uzun vadeli hava kalitesi etkilerini düşünmeden yol ağlarını genişletmek akılsızca olur."
+  ],
+  "col": [
+   "aptalca bir hata",
+   "kendini aptal hissetmek",
+   "aptalca varsaymak"
+  ],
+  "tip": "It is foolish to + fiil kalıbı, bir davranışın mantıksız olduğunu söylemek için sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "measure",
+  "senses": [
+   "ölçmek",
+   "önlem; tedbir",
+   "ölçüt; ölçü"
+  ],
+  "ex": [
+   "Yeni perdeler almadan önce pencereyi ölçtük.",
+   "Hükümetler, düşük gelirli hanelere aşırı maliyet yüklemeden hava kirliliğini azaltmak için etkili önlemler almalıdır."
+  ],
+  "col": [
+   "ilerlemeyi ölçmek",
+   "önlem almak",
+   "başarının bir ölçüsü"
+  ],
+  "tip": "Önlem almak anlamında take measures kalıbı kullanılır; 'do measures' demek doğal değildir.",
+  "note": ""
+ },
+ {
+  "id": "hanger",
+  "senses": [
+   "askı; elbise askısı"
+  ],
+  "ex": [
+   "Ceketini ahşap bir askıya astı.",
+   "Perakendeciler kullanılmış askıları toplayıp hasarlı olanları geri dönüştürülebilir alternatiflerle değiştirerek plastik atığı azaltabilir."
+  ],
+  "col": [
+   "palto askısı",
+   "ahşap askı",
+   "tel askı"
+  ],
+  "tip": "hanger 'askı' anlamına gelir; 'hangar' (uçak hangarı) ayrı bir kelimedir, yazımına dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "jewel",
+  "senses": [
+   "değerli taş; mücevher",
+   "hazine; değerli varlık"
+  ],
+  "ex": [
+   "Gümüş kolyesinde mavi bir mücevher parlıyordu.",
+   "Restore edilen tiyatro, ziyaretçileri çeken ve yerel işletmeleri destekleyen kültürel bir hazine niteliğindedir."
+  ],
+  "col": [
+   "değerli mücevher",
+   "tacın en değerli taşı"
+  ],
+  "tip": "jewel sayılabilir bir isimdir; takı ve mücevher koleksiyonu için genel anlamda jewellery kullanılır ve sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "image",
+  "senses": [
+   "görüntü; resim",
+   "kamuoyu imajı",
+   "zihinde canlanan imge"
+  ],
+  "ex": [
+   "Kamera kuşun keskin bir görüntüsünü yakaladı.",
+   "Şirketler, kamuoyundaki imajlarını geliştirmek ve müşterilerle daha güçlü ilişkiler kurmak için giderek daha çok sosyal medyayı kullanıyor."
+  ],
+  "col": [
+   "dijital görüntü",
+   "kamusal imaj",
+   "zihinsel imge",
+   "yüksek çözünürlüklü görüntü"
+  ],
+  "tip": "image hem somut bir görüntüyü hem de bir kişi ya da kurumun kamuoyundaki algısını anlatabilir; anlamı bağlamdan seçilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "monster",
+  "senses": [
+   "canavar; ucube",
+   "zalim kişi; canavar",
+   "dev gibi; çok büyük"
+  ],
+  "ex": [
+   "Çizgi filmdeki sevimli canavarın mor ayakları var.",
+   "Canavar hikâyeleri, çocukların korkularını güvenli ve hayal gücüne dayalı bir ortamda keşfetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "deniz canavarı",
+   "canavar kamyon",
+   "kurgusal bir canavar"
+  ],
+  "tip": "Sıfat olarak monster konuşma dilinde kullanılır; akademik yazıda huge, enormous ya da vast tercih edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "target",
+  "senses": [
+   "hedef; hedef değer",
+   "hedef; hedef kişi",
+   "hedeflemek; yöneltmek"
+  ],
+  "ex": [
+   "Birikim hedefim yeni bir bisiklet almaya yetiyor.",
+   "Hükümetler emisyonları azaltmak için gerçekçi hedefler belirlemeli ve bu hedeflere ulaşma ilerlemesini düzenli olarak değerlendirmelidir."
+  ],
+  "col": [
+   "bir hedefe ulaşmak",
+   "hedef belirlemek",
+   "hedef kitle",
+   "savunmasız grupları hedeflemek"
+  ],
+  "tip": "Bir hedefe ulaşmak için meet ya da reach a target kalıpları yaygındır; target fiil olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fluent",
+  "senses": [
+   "akıcı"
+  ],
+  "ex": [
+   "Yurt dışında yaşadıktan sonra İspanyolcayı akıcı biçimde konuşmaya başladı.",
+   "Akıcı konuşanlar yine de dilbilgisi hataları yapabilir; bu yüzden dil değerlendirmelerinde iletişim becerisi ile doğruluk birlikte dikkate alınmalıdır."
+  ],
+  "col": [
+   "İngilizcede akıcı",
+   "akıcı konuşan kişi",
+   "akıcı konuşma"
+  ],
+  "tip": "Bir dilde akıcı olmak be fluent in + dil kalıbıyla kurulur: 'fluent in English'. Akıcılık, hatasız konuşmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "rub",
+  "senses": [
+   "ovmak; sürtmek",
+   "ovma; sürtme"
+  ],
+  "ex": [
+   "Soğuk ellerini sobanın yanında birbirine ovuşturdu.",
+   "Koruyucu eldivenler, işçilerin ağır malzemeleri taşırken derilerini kaba yüzeylere sürtmesini önler."
+  ],
+  "col": [
+   "gözlerini ovmak",
+   "ellerini birbirine ovmak",
+   "sürtünmek",
+   "bir kez ovma"
+  ],
+  "tip": "rubbed ve rubbing yazılışlarında b harfi iki kez yazılır; rub hem fiil hem isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lighthouse",
+  "senses": [
+   "deniz feneri"
+  ],
+  "ex": [
+   "Deniz fenerinin ışık hüzmesi karanlık denizi taradı.",
+   "Modern seyrüsefer uydulara dayansa da deniz fenerleri, tehlikeli kıyı şeritlerinde değerli işaret noktaları olmayı sürdürmektedir."
+  ],
+  "col": [
+   "deniz feneri bekçisi",
+   "deniz feneri ışık hüzmesi",
+   "tarihi deniz feneri"
+  ],
+  "tip": "lighthouse sayılabilir bir isimdir; çoğulu doğrudan s eki alarak lighthouses olur.",
+  "note": ""
+ },
+ {
+  "id": "response",
+  "senses": [
+   "yanıt; cevap",
+   "tepki; karşılık"
+  ],
+  "ex": [
+   "Bir davetiye gönderdim ama henüz yanıt almadım.",
+   "Salgın patlamalarına hızlı müdahale, savunmasız toplulukları koruyabilir ve yerel hastaneler üzerindeki baskıyı azaltabilir."
+  ],
+  "col": [
+   "...e verilen yanıt",
+   "...e karşılık olarak",
+   "hızlı müdahale",
+   "yanıt almak"
+  ],
+  "tip": "response'tan sonra genellikle to gelir: response to something. Of ile kullanımı doğal değildir.",
+  "note": ""
+ },
+ {
+  "id": "solar",
+  "senses": [
+   "güneşle ilgili",
+   "güneş enerjisiyle çalışan"
+  ],
+  "ex": [
+   "Güneş tutulmasını izlemek için özel koruyucu gözlükler taktık.",
+   "Güneş enerjisine yapılan yatırım, fosil yakıtlara bağımlılığı azaltabilir ve kırsal topluluklarda iş imkânları yaratabilir."
+  ],
+  "col": [
+   "güneş enerjisi",
+   "güneş panelleri",
+   "güneş sistemi",
+   "güneş tutulması"
+  ],
+  "tip": "solar bir sıfattır; güneşin kendisi için isim olarak sun kullanılır. 'the solar system' ve 'solar energy' gibi kalıplar sabittir.",
+  "note": ""
+ }
+]

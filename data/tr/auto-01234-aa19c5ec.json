@@ -1,0 +1,279 @@
+[
+ {
+  "id": "storm",
+  "senses": [
+   "fırtına",
+   "öfkeyle gitmek; hışımla çıkmak",
+   "büyük tepki; fırtına"
+  ],
+  "ex": [
+   "Fırtına pencereleri sallarken evde kaldık.",
+   "Kıyı bölgelerinin, şiddetli fırtınalar sırasında evleri ve temel hizmetleri korumak için daha güçlü sel önlemlerine ihtiyacı var."
+  ],
+  "col": [
+   "şiddetli fırtına",
+   "protesto dalgası",
+   "odadan öfkeyle çıkmak"
+  ],
+  "tip": "storm out, 'fırtına gibi dışarı çıkmak' değil, öfkeyle odadan çıkıp gitmek anlamına gelir. storm out of kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "neighbourhood",
+  "senses": [
+   "semt; mahalle",
+   "mahalle sakinleri; komşular"
+  ],
+  "ex": [
+   "Bizim mahallemizde az önce küçük bir fırın açıldı.",
+   "Mahalle parklarına yatırım yapmak, sakinlerin sağlığını iyileştirirken insanların bir araya gelmesi ve sosyalleşmesi için fırsatlar yaratabilir."
+  ],
+  "col": [
+   "sakin bir mahalle",
+   "yakınlarda; mahallede",
+   "konut bölgesi"
+  ],
+  "tip": "İngiliz İngilizcesinde neighbourhood, Amerikan İngilizcesinde neighborhood yazılır. Yazımda tutarlı olmaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "thin",
+  "senses": [
+   "ince",
+   "zayıf; ince yapılı",
+   "seyreltmek; incelmek"
+  ],
+  "ex": [
+   "Dışarıda ince bir ceket giymiştim ve üşüdüm.",
+   "İnce yalıtım katmanları, binaların kullanılabilir iç alanını önemli ölçüde azaltmadan enerji verimliliğini artırabilir."
+  ],
+  "col": [
+   "ince bir tabaka",
+   "ince dilimler",
+   "seyrek hava",
+   "azalmak; seyrekleşmek"
+  ],
+  "tip": "İnsan vücudu için thin, zayıf anlamına gelebilir ve her zaman olumlu değildir; slim genellikle daha olumlu bir ifadedir.",
+  "note": ""
+ },
+ {
+  "id": "print",
+  "senses": [
+   "basmak; yazdırmak",
+   "basılı yazı; yazı karakteri",
+   "iz; baskı"
+  ],
+  "ex": [
+   "Bu tariften iki kopya yazdırabilir misin?",
+   "Okullar, öğrencileri ödevlerini yalnızca gerçekten gerekli olduğunda yazdırmaya teşvik ederek kağıt israfını azaltabilir."
+  ],
+  "col": [
+   "bir belgeyi yazdırmak",
+   "küçük puntolu yazı",
+   "basılı olarak; yayımda",
+   "basımı tükenmiş"
+  ],
+  "tip": "print out bir belgeyi kağıda yazdırmak anlamına gelir; out of print ise bir kitabın basımının tükendiğini belirtir.",
+  "note": ""
+ },
+ {
+  "id": "permission",
+  "senses": [
+   "izin; onay"
+  ],
+  "ex": [
+   "Kız kardeşinin bisikletini ödünç almak için izin almalısın.",
+   "Araştırmacılar, bilimsel bir çalışma için kişisel bilgi toplamadan önce katılımcılardan izin almak zorundadır."
+  ],
+  "col": [
+   "izin istemek",
+   "izin vermek",
+   "izinsiz",
+   "bir şey yapma izni"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; give permission kalıbında başına a getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "sleepy",
+  "senses": [
+   "uykulu; uykusu gelmiş",
+   "sakin; durgun"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra uykum geldi ve kısa bir şekerleme yaptım.",
+   "Derste uykusu gelen öğrenciler konsantre olmakta zorlanabilir ve yeni bilgileri etkili biçimde hatırlayamayabilir."
+  ],
+  "col": [
+   "uykusu gelmek",
+   "sakin bir köy",
+   "uykulu gözler"
+  ],
+  "tip": "sleepy uykusu gelmiş olmayı anlatır; asleep ise uyumuş olmayı belirtir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "sick",
+  "senses": [
+   "hasta",
+   "midesi bulanmış",
+   "bıkmış; usanmış"
+  ],
+  "ex": [
+   "Bu sabah kendini hasta hissettiği için yatakta kaldı.",
+   "Ücretli hastalık izni, çalışanların evde iyileşmesine olanak tanır ve iş yerlerinde enfeksiyonların yayılmasını azaltır."
+  ],
+  "col": [
+   "hastalık izni",
+   "mide bulantısı hissetmek",
+   "...den bıkmak",
+   "hastalandığını bildirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde be sick genellikle kusmak anlamına gelir; feel sick ise mide bulantısı hissetmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "straight",
+  "senses": [
+   "düz",
+   "doğrudan; dosdoğru",
+   "açık sözlü; dürüst"
+  ],
+  "ex": [
+   "Düz bir çizgi çizmek için cetvel kullan.",
+   "Dağlık bölgelerde düz yollar inşa etmek pahalı olabilir ve doğal yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "düz çizgi",
+   "doğrudan ileri gitmek",
+   "açık ve net bir cevap"
+  ],
+  "tip": "straight zarf olarak da kullanılır ve -ly eklenmez; 'straightly' yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "housework",
+  "senses": [
+   "ev işi"
+  ],
+  "ex": [
+   "Pazar günü kimse tek başına temizlik yapmasın diye ev işlerini paylaşıyoruz.",
+   "Ev işlerini adil biçimde paylaşmak, aile bireylerinin ücretli işle evdeki sorumlulukları daha etkili dengelemesini sağlar."
+  ],
+  "col": [
+   "ev işlerini yapmak",
+   "ev işlerini paylaşmak",
+   "ev işleri"
+  ],
+  "tip": "Sayılamayan bir isimdir; a housework denmez. Ev işi yapmak için do kullanılır: do the housework.",
+  "note": ""
+ },
+ {
+  "id": "noun",
+  "senses": [
+   "isim"
+  ],
+  "ex": [
+   "Öğretmenimiz bize her ismi daire içine almamızı söyledi.",
+   "Bir ismin sayılabilir olup olmadığını anlamak, dil öğrenenlerin akademik yazıda uygun artikel seçmesine ve miktarları doğru ifade etmesine yardımcı olur."
+  ],
+  "col": [
+   "sayılabilir isim",
+   "sayılamayan isim",
+   "özel isim",
+   "isim tamlaması"
+  ],
+  "tip": "İsimler yalnızca somut nesneleri değil, advice gibi soyut kavramları da adlandırır.",
+  "note": ""
+ },
+ {
+  "id": "tablet",
+  "senses": [
+   "tablet bilgisayar",
+   "hap; ilaç tableti",
+   "kitabe; taş levha"
+  ],
+  "ex": [
+   "Yemek videoları izlemek için tabletimi kullanıyorum.",
+   "Her öğrenciye bir tablet vermek kaynaklara erişimi artırabilir, ancak öğretmenlerin yine de uygun eğitim alması gerekir."
+  ],
+  "col": [
+   "tablet bilgisayar",
+   "bir hap almak",
+   "vitamin tableti"
+  ],
+  "tip": "tablet hem tablet bilgisayarı hem de ilaç tabletini anlatabilir; anlam cümleye göre belirlenir.",
+  "note": ""
+ },
+ {
+  "id": "toothache",
+  "senses": [
+   "diş ağrısı"
+  ],
+  "ex": [
+   "Diş ağrım gecenin çoğunda uyumamı engelledi.",
+   "Uygun fiyatlı diş hizmetleri, diş ağrısı çeken insanların daha ciddi sorunlar gelişmeden tedavi aramasına olanak tanır."
+  ],
+  "col": [
+   "diş ağrısı çekmek",
+   "şiddetli diş ağrısı",
+   "diş ağrısını dindirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde genellikle have toothache denir; başına a getirilmez. Amerikan İngilizcesinde a toothache de yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "temperature",
+  "senses": [
+   "sıcaklık; ısı",
+   "ateş"
+  ],
+  "ex": [
+   "Güneş battıktan sonra sıcaklık keskin biçimde düştü.",
+   "Okyanus sıcaklıklarının yükselmesi mercan resiflerine zarar verebilir ve birçok deniz türünün hayatta kalmasını tehdit edebilir."
+  ],
+  "col": [
+   "oda sıcaklığı",
+   "vücut ısısı",
+   "birinin ateşini ölçmek",
+   "ateşi olmak"
+  ],
+  "tip": "have a temperature genellikle ateşi olmak anlamına gelir; sadece vücut ısısının bulunduğunu belirtmez.",
+  "note": ""
+ },
+ {
+  "id": "enemy",
+  "senses": [
+   "düşman",
+   "tehlike; yıkıcı etken"
+  ],
+  "ex": [
+   "Hikâyede prens, düşmanıyla arkadaş olur.",
+   "Kamuoyunun güvensizliği, özellikle hükümetler kararlarını açıklamakta başarısız olduğunda, etkili çevre politikalarının düşmanı haline gelebilir."
+  ],
+  "col": [
+   "amansız düşman",
+   "ortak düşman",
+   "düşman kuvvetleri"
+  ],
+  "tip": "enemy düşmanı ya da zarar veren şeyi anlatır; spor rakibi için genellikle opponent kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "snowboarding",
+  "senses": [
+   "snowboard kayağı"
+  ],
+  "ex": [
+   "Dün snowboard denedim ve yumuşak karın üzerine düştüm.",
+   "Snowboard dersleri, yeni başlayanların dağ pistlerini sorumlu bir şekilde paylaşabilmesi için güvenlik eğitimi içermelidir."
+  ],
+  "col": [
+   "snowboard yapmaya gitmek",
+   "snowboard dersleri",
+   "snowboard ekipmanı"
+  ],
+  "tip": "Snowboard'da iki ayak tek bir tahtaya sabitlenir; bu, iki ayrı tahta kullanılan kayaktan farklıdır.",
+  "note": ""
+ }
+]

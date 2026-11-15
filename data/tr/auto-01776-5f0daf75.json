@@ -1,0 +1,282 @@
+[
+ {
+  "id": "spoon",
+  "senses": [
+   "kaşık",
+   "kaşıkla almak; servis etmek"
+  ],
+  "ex": [
+   "Tahta kaşıkla çorbasını karıştırdı.",
+   "Çocuklara kaşığı tek başına kullanmayı öğretmek, koordinasyonlarını ve özgüvenlerini geliştirmeye yardımcı olabilir."
+  ],
+  "col": [
+   "tahta kaşık",
+   "çorba kaşığı",
+   "kaşıkla kaseye koymak"
+  ],
+  "tip": "Bir kaşık dolusu miktar için a spoonful of kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "zipcode",
+  "senses": [
+   "ABD posta kodu"
+  ],
+  "ex": [
+   "Adresinizi girerken lütfen ZIP kodunuzu da ekleyin.",
+   "Araştırmacılar, sağlık hizmetlerine erişimdeki coğrafi farklılıkları incelemek için hanehalklarını ZIP koduna göre gruplandırdı."
+  ],
+  "col": [
+   "ZIP kodu girmek",
+   "ZIP kodu sorgulama",
+   "ZIP kodu bölgesi"
+  ],
+  "tip": "Yalnızca ABD'de kullanılır; İngiltere'de postcode, genel olarak postal code denir.",
+  "note": "Standart dışı bitişik yazım zipcode, ZIP code olarak düzeltildi."
+ },
+ {
+  "id": "author",
+  "senses": [
+   "yazar",
+   "yazmak; kaleme almak"
+  ],
+  "ex": [
+   "Yazar, yeni macera romanıyla ilgili soruları yanıtladı.",
+   "Bir yazar, tanıdık sorunları tanımadık karakterlerin deneyimleriyle sunarak toplumsal tutumlara meydan okuyabilir."
+  ],
+  "col": [
+   "romanın yazarı",
+   "çok satan yazar",
+   "rapor kaleme almak"
+  ],
+  "tip": "“...in yazarı” anlamında the author of kalıbı kullanılır; fiil olarak da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "soap",
+  "senses": [
+   "sabun",
+   "pembe dizi",
+   "sabunlamak; sabunla yıkamak"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce lütfen ellerinizi sabunla yıkayın.",
+   "Okullarda temiz su ve sabun sağlamak, enfeksiyonların önlenmesine ve çocukların genel sağlığının iyileşmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir parça sabun",
+   "sıvı sabun",
+   "sabun ve su",
+   "pembe dizi"
+  ],
+  "tip": "Temizlik maddesi olarak genellikle sayılamaz; bir parça için a bar of soap denir.",
+  "note": ""
+ },
+ {
+  "id": "pea",
+  "senses": [
+   "bezelye"
+  ],
+  "ex": [
+   "Sebze çorbasına dondurulmuş bezelye ekledi.",
+   "Okulda bezelye ve diğer sebzeleri yetiştirmek, çocukların yiyeceklerinin nereden geldiğini anlamalarına yardımcı olabilir."
+  ],
+  "col": [
+   "dondurulmuş bezelye",
+   "bezelye çorbası",
+   "bezelye kılıfı"
+  ],
+  "tip": "Sayılabilir isimdir; yenilebilir bezelyeyi genel olarak çoğul peas ile anlatmak yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "colourful",
+  "senses": [
+   "canlı renkli; rengârenk",
+   "ilgi çekici; renkli"
+  ],
+  "ex": [
+   "Partide masaların üzerinde rengârenk balonlar uçuşuyordu.",
+   "Renkli kamusal duvar resimleri, ihmal edilmiş kentsel alanları dönüştürebilir ve sakinleri mahallelerine sahip çıkmaya teşvik edebilir."
+  ],
+  "col": [
+   "renkli çiçekler",
+   "renkli bir sergi",
+   "renkli bir karakter",
+   "renkli bir geçmiş"
+  ],
+  "tip": "İngiliz İngilizcesinde colourful, Amerikan İngilizcesinde colorful yazılır.",
+  "note": ""
+ },
+ {
+  "id": "according-to",
+  "senses": [
+   "-e göre; -den alınan bilgiye göre",
+   "-e uygun olarak; -e göre"
+  ],
+  "ex": [
+   "Tahmine göre bu öğleden sonra yağmur başlayacak.",
+   "Son araştırmalara göre, düzenli fiziksel aktivite üniversite öğrencilerinde konsantrasyonu artırabilir ve stresi azaltabilir."
+  ],
+  "col": [
+   "araştırmaya göre",
+   "plana göre",
+   "kurallara göre"
+  ],
+  "tip": "Başkasının görüşünü aktarırken according to kullanılır; kendi görüşünüz için in my opinion tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "throw",
+  "senses": [
+   "atmak; fırlatmak",
+   "parti vermek; düzenlemek",
+   "atış; fırlatma"
+  ],
+  "ex": [
+   "Köpek kapmadan önce topu bana at.",
+   "Okullar, koordinasyon ve takım çalışmasını geliştiren oyunlarla çocuklara güvenli şekilde atmayı ve yakalamayı öğretebilir."
+  ],
+  "col": [
+   "top atmak",
+   "parti vermek",
+   "çöpü atmak"
+  ],
+  "tip": "Düzensiz fiil: throw–threw–thrown. Parti anlamında da throw kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nasty",
+  "senses": [
+   "iğrenç; hoş olmayan",
+   "kötü niyetli; kırıcı",
+   "ağır; acı verici"
+  ],
+  "ex": [
+   "Mutfak çöp kutusundan iğrenç bir koku geliyordu.",
+   "Sosyal medyadaki kırıcı yorumlar, genç insanları değerli çevrimiçi tartışmalara katılmaktan caydırabilir."
+  ],
+  "col": [
+   "iğrenç koku",
+   "kırıcı yorum",
+   "ağır yaralanma",
+   "kötü sürpriz"
+  ],
+  "tip": "bad'den daha güçlü bir tiksinti bildirir; kişiler için kötü niyetli, acımasız anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "explain",
+  "senses": [
+   "açıklamak",
+   "nedenini açıklamak"
+  ],
+  "ex": [
+   "Bu kahve makinesinin nasıl çalıştığını açıklar mısınız?",
+   "Sağlık hizmetlerine erişimdeki farklılıklar, yaşam beklentisinin bölgeler arasında neden önemli ölçüde değiştiğini kısmen açıklayabilir."
+  ],
+  "col": [
+   "birine bir şeyi açıklamak",
+   "nedenini açıklamak",
+   "ayrıntılı açıklamak",
+   "farkı açıklamak"
+  ],
+  "tip": "explain something to someone kalıbı kullanılır; explain someone demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "possibly",
+  "senses": [
+   "belki; olabilir",
+   "bir türlü; hiçbir şekilde"
+  ],
+  "ex": [
+   "Yağmur dinerse belki piknik yapabiliriz.",
+   "Kentsel yeşil alanları genişletmek, yaz sıcaklıklarını düşürebilir ve sakinlerin fiziksel ve zihinsel sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "belki yapabilir",
+   "büyük ihtimalle",
+   "hiçbir şekilde yapamam"
+  ],
+  "tip": "can't possibly 'kesinlikle imkânsız' anlamında güçlü bir ifadedir.",
+  "note": ""
+ },
+ {
+  "id": "silver",
+  "senses": [
+   "gümüş",
+   "gümüş rengi; gümüşten yapılmış",
+   "gümüş madalya"
+  ],
+  "ex": [
+   "Bu küçük kaşık saf gümüşten yapılmış.",
+   "Gümüş, elektriği çok iyi ilettiği için elektronik cihazlarda yaygın olarak kullanılır."
+  ],
+  "col": [
+   "saf gümüş",
+   "gümüş madalya",
+   "gümüş takı"
+  ],
+  "tip": "Metal olarak sayılamaz; a silver ise bir gümüş madalyayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "copy",
+  "senses": [
+   "kopya; nüsha",
+   "kopyalamak; taklit etmek",
+   "reklam metni; basılacak yazı"
+  ],
+  "ex": [
+   "Fişin bir kopyasını evde saklayın.",
+   "Öğrenciler, bilgileri web sitelerinden ödevlerine olduğu gibi kopyalamak yerine kaynakları değerlendirmeyi öğrenmelidir."
+  ],
+  "col": [
+   "...nin bir kopyası",
+   "dijital kopya",
+   "kopyala ve yapıştır",
+   "reklam metni"
+  ],
+  "tip": "Çoğulu copies'tir; reklam metni anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "travelling",
+  "senses": [
+   "seyahat; yolculuk",
+   "gezici; yer değiştiren",
+   "seyahat etmek; yol almak"
+  ],
+  "ex": [
+   "Trenle seyahat etmek manzarayı keyifle izlememe zaman tanıyor.",
+   "Yurt dışına seyahat etmek, öğrencilerin farklı gelenek ve yaşam biçimleriyle tanışarak bakış açılarını genişletebilir."
+  ],
+  "col": [
+   "gezmeye çıkmak",
+   "yurt dışı seyahati",
+   "seyahat masrafları",
+   "gezici sergi"
+  ],
+  "tip": "İngiliz İngilizcesinde l harfi çift yazılır; Amerikan İngilizcesinde genellikle traveling yazılır.",
+  "note": ""
+ },
+ {
+  "id": "differently",
+  "senses": [
+   "farklı şekilde; başka türlü"
+  ],
+  "ex": [
+   "Kız kardeşim ve ben masalarımızı farklı şekilde düzenliyoruz.",
+   "Öğrenciler farklı öğrenir; bu yüzden öğretmenler tek bir yönteme bağlı kalmak yerine çeşitli etkinlikler sunmalıdır."
+  ],
+  "col": [
+   "farklı düşünmek",
+   "birine farklı davranmak",
+   "farklı tepki vermek",
+   "işleri farklı yapmak"
+  ],
+  "tip": "Fiili niteler; bir kişinin ya da şeyin farklı olduğunu belirtmek için different kullanılır.",
+  "note": ""
+ }
+]

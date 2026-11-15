@@ -1,0 +1,271 @@
+[
+ {
+  "id": "sermon",
+  "senses": [
+   "vaaz; hutbe",
+   "nasihat; öğüt"
+  ],
+  "ex": [
+   "Vaaz, herkesi komşularına yardım etmeye teşvik etti.",
+   "Vaaz, dezavantajlı insanları desteklemeye ve yerel projelere katılmaya teşvik ederek toplum bağlarını güçlendirebilir."
+  ],
+  "col": [
+   "vaaz vermek",
+   "nezaket üzerine bir vaaz",
+   "vaaz okumak"
+  ],
+  "tip": "Dini bir konuşmayı anlatır. 'Uzun uzun öğüt verme' anlamında kullanıldığında genellikle hoşnutsuzluk ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "whereby",
+  "senses": [
+   "bu sayede; sayesinde"
+  ],
+  "ex": [
+   "Yemekleri paylaştığımız bir düzenleme var.",
+   "Okullar, dersler sonrasında büyük öğrencilerin küçüklere akademik destek verdiği bir sistem uygulayabilir."
+  ],
+  "col": [
+   "bir sistem ki bu sayede",
+   "bir süreç ki bu sayede",
+   "bir düzenleme ki bu sayede"
+  ],
+  "tip": "Resmi bir bağlaç niteliğindeki ilgi zamiri-zarfıdır; genellikle system, process gibi isimlerden sonra gelir. 'by which' karşılığıdır.",
+  "note": ""
+ },
+ {
+  "id": "curb",
+  "senses": [
+   "kontrol etmek; frenlemek",
+   "sınırlama; kısıtlama",
+   "kaldırım kenarı; bordür"
+  ],
+  "ex": [
+   "Harcamalarımı evde yemek pişirerek kontrol altına almaya çalışıyorum.",
+   "Şehirler, toplu taşımayı iyileştirip sakinleri bisiklet kullanmaya teşvik ederek hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "harcamaları kısmak",
+   "enflasyonu frenlemek",
+   "emisyonlara getirilen sınırlama"
+  ],
+  "tip": "Fiil olarak 'kontrol altına almak' anlamındadır. 'Kaldırım kenarı' anlamı Amerikan İngilizcesindedir; İngiliz İngilizcesinde kerb yazılır.",
+  "note": ""
+ },
+ {
+  "id": "infinity",
+  "senses": [
+   "sonsuzluk",
+   "sonsuz; sınırsız büyüklük"
+  ],
+  "ex": [
+   "Çöl, sonsuzluğa doğru uzanıyor gibiydi.",
+   "Sonsuzluk kavramı, matematikçilerin sıradan ölçümlerin sınırlarının ötesindeki büyüklükleri incelemesine olanak tanır."
+  ],
+  "col": [
+   "sonsuza kadar uzanmak",
+   "sonsuza yaklaşmak",
+   "sonsuz olasılık"
+  ],
+  "tip": "Sadece 'çok fazla' anlamında değildir; matematikte sonlu hiçbir değerden büyük bir kavramı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "infer",
+  "senses": [
+   "çıkarsamak; sonuç çıkarmak"
+  ],
+  "ex": [
+   "Çamurlu ayakkabılarından bahçıvanlık yaptığını çıkardım.",
+   "Öğrenci performansını etkileyen diğer faktörleri incelemeden, daha küçük sınıfların öğrenmeyi artırdığı sonucuna varamayız."
+  ],
+  "col": [
+   "kanıtlardan çıkarsamak",
+   "...olduğu sonucuna varmak",
+   "makul bir çıkarım yapmak"
+  ],
+  "tip": "Dinleyenin/okuyanın sonuç çıkarmasını anlatır; söyleyenin ima etmesi için imply kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "elated",
+  "senses": [
+   "çok sevinçli; coşkulu"
+  ],
+  "ex": [
+   "Lina sonunda ehliyet sınavını geçtiğinde çok sevinçliydi.",
+   "Mezunlar ilk işlerini aldıktan sonra çok mutlu hissedebilir, ancak iş yeri beklentilerine uyum sağlamak zor olabilir."
+  ],
+  "col": [
+   "çok sevinçli hissetmek",
+   "haber karşısında coşkulu",
+   "başarıyla coşkulu"
+  ],
+  "tip": "Happy'den daha güçlü bir duygudur; genellikle bir başarı ya da iyi bir haber sonrasında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "solvency",
+  "senses": [
+   "borç ödeme gücü; ödeme gücü"
+  ],
+  "ex": [
+   "Muhasebeci, satın almayı onaylamadan önce firmanın borç ödeme gücünü kontrol etti.",
+   "Daha sıkı finansal düzenlemeler, banka ödeme gücünü koruyabilir ve daha geniş bir ekonomik krize karşı riski azaltabilir."
+  ],
+  "col": [
+   "ödeme gücünü korumak",
+   "mali ödeme gücü",
+   "ödeme gücü şartları"
+  ],
+  "tip": "Borçlarını ödeyebilme gücünü anlatır; kârlılıkla aynı şey değildir.",
+  "note": ""
+ },
+ {
+  "id": "alpine",
+  "senses": [
+   "yüksek dağlara ait; dağlık"
+  ],
+  "ex": [
+   "Patikanın kenarındaki kayaların arasında minik dağ çiçekleri yetişiyordu.",
+   "Artan sıcaklıklar, kar örtüsünü azaltarak ve dağ türlerini daha yükseğe göç etmeye zorlayarak alpin ekosistemleri tehdit ediyor."
+  ],
+  "col": [
+   "alpin bitkiler",
+   "dağ çayırları",
+   "alpin kayak",
+   "alpin ekosistem"
+  ],
+  "tip": "Genel olarak yüksek dağ ortamlarını anlatırken küçük harfle yazılır; Alpler'i kastediyorsa büyük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "consignment",
+  "senses": [
+   "bir parti mal; sevk edilen mal",
+   "komisyonla satış; konsinye"
+  ],
+  "ex": [
+   "Dükkâna taze portakallardan oluşan bir parti mal geldi.",
+   "Uzak topluluklarda, tıbbi ekipmanlardan oluşan bir partinin kontrolündeki gecikmeler temel hizmetleri aksatabilir."
+  ],
+  "col": [
+   "bir parti mal",
+   "bir parti mal almak",
+   "konsinye olarak"
+  ],
+  "tip": "'On consignment' konsinye (komisyonla satış) anlamına gelir; mal satılınca tedarikçiye ödeme yapılır.",
+  "note": ""
+ },
+ {
+  "id": "primate",
+  "senses": [
+   "primat; memeli"
+  ],
+  "ex": [
+   "Rehber, dallar arasında sallanan bir primatı gösterdi.",
+   "Tropik ormanların korunması, yaşam alanı kaybıyla tehdit edilen birçok primat türünün hayatta kalması için çok önemlidir."
+  ],
+  "col": [
+   "primat türü",
+   "primat davranışı",
+   "insan dışı primatlar"
+  ],
+  "tip": "İnsan, maymun ve şempanze gibi canlıları kapsar; sadece maymunları değil.",
+  "note": ""
+ },
+ {
+  "id": "reminiscent",
+  "senses": [
+   "hatırlatan; benzeyen"
+  ],
+  "ex": [
+   "Çorbanın lezzeti, büyükannemin yemeklerini hatırlattı.",
+   "Önerilen istasyon tasarımı geleneksel mimariyi andırıyor; bu da binanın tarihi çevreye uyum sağlamasına yardımcı oluyor."
+  ],
+  "col": [
+   "çocukluğu hatırlatan",
+   "çok andıran",
+   "hafifçe andıran"
+  ],
+  "tip": "be reminiscent of kalıbıyla kullanılır; of'dan sonra about değil, doğrudan isim gelir.",
+  "note": ""
+ },
+ {
+  "id": "profound",
+  "senses": [
+   "derin; köklü; büyük etkili",
+   "derin; düşünceli; anlayışlı"
+  ],
+  "ex": [
+   "Çocukluk öğretmenimle karşılaşmak içimde derin bir minnettarlık uyandırdı.",
+   "Güvenilir internete erişim, uzak topluluklarda eğitim imkânları üzerinde köklü bir etki yarattı."
+  ],
+  "col": [
+   "derin bir etki",
+   "köklü değişiklikler",
+   "derin anlayış",
+   "derin üzüntü"
+  ],
+  "tip": "Genellikle impact, change, understanding gibi sözcüklerle kullanılır; fiziksel derinlik için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "delinquent",
+  "senses": [
+   "suça yönelik; asi",
+   "ödenmemiş; gecikmiş",
+   "suçlu; asi genç"
+  ],
+  "ex": [
+   "Gençlik merkezi, genç yaşta asi davranışlar sergileyen gençlerin davranışlarını değiştirmelerine yardımcı oluyor.",
+   "Savunmasız aileler için erken destek, yalnızca sert cezalara kıyasla suç davranışını daha etkili biçimde azaltabilir."
+  ],
+  "col": [
+   "suç davranışı",
+   "suçlu genç",
+   "gecikmiş ödemeler",
+   "borcunu ödemeyen kredi alan"
+  ],
+  "tip": "Finans bağlamında ödemelerin gecikmesini, günlük kullanımda ise genellikle gençlerin yasa dışı davranışlarını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "stride",
+  "senses": [
+   "uzun adımlarla yürümek",
+   "uzun adım; adım",
+   "önemli ilerleme"
+  ],
+  "ex": [
+   "Leila, treni yakalamak için kendinden emin adımlarla peronu geçti.",
+   "Birçok ülke son on yılda ilkokula erişimi iyileştirmede önemli ilerlemeler kaydetti."
+  ],
+  "col": [
+   "bir odayı geçmek",
+   "büyük ilerleme kaydetmek",
+   "bir şeyi kolayca karşılamak"
+  ],
+  "tip": "Geçmiş zamanı strode, üçüncü hali stridden'dir; 'ilerleme' anlamında genellikle çoğul strides kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "exclusivity",
+  "senses": [
+   "münhasırlık; özel hak",
+   "seçkinlik; ayrıcalıklılık"
+  ],
+  "ex": [
+   "Fırın, festivalde ekmek satma konusunda münhasır hak elde etti.",
+   "Münhasırlık anlaşmaları yatırımı teşvik edebilse de rekabeti sınırlayabilir ve tüketiciler için fiyatları yükseltebilir."
+  ],
+  "col": [
+   "münhasırlık anlaşması",
+   "münhasır hak tanımak",
+   "seçkinlik duygusu"
+  ],
+  "tip": "Ticari bir münhasır hakkı da, yalnızca seçkin bir kesime açık olma özelliğini de anlatabilir.",
+  "note": ""
+ }
+]

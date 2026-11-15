@@ -1,0 +1,272 @@
+[
+ {
+  "id": "modified",
+  "senses": [
+   "değiştirilmiş; uyarlanmış"
+  ],
+  "ex": [
+   "Arkasında fazladan bir koltuk bulunan değiştirilmiş bir bisiklete biniyor.",
+   "Uyarlanmış öğretim materyalleri, farklı öğrenme ihtiyaçları olan öğrencilerin normal sınıf etkinliklerine daha tam katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "genetiği değiştirilmiş ürünler",
+   "değiştirilmiş sürüm",
+   "değiştirilmiş ekipman",
+   "hafifçe değiştirilmiş"
+  ],
+  "tip": "Bir şeyin değiştirildiğini belirtir; bu değişikliğin mutlaka kaliteyi artırdığı anlamına gelmediğine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "clockwise",
+  "senses": [
+   "saat yönünde",
+   "saat yönündeki"
+  ],
+  "ex": [
+   "Kavanoz mühürlenene kadar kapağı saat yönünde çevirin.",
+   "Ziyaretçiler, müzenin kalabalığı yönetmesine ve sıkışıklığı önlemesine olanak tanıyacak şekilde sergi salonunda saat yönünde ilerliyor."
+  ],
+  "col": [
+   "saat yönünde çevirmek",
+   "saat yönünde döndürmek",
+   "saat yönünde bir yön"
+  ],
+  "tip": "Karşıt anlamlısı İngiliz İngilizcesinde anticlockwise, Amerikan İngilizcesinde counterclockwise'dır.",
+  "note": ""
+ },
+ {
+  "id": "practically",
+  "senses": [
+   "neredeyse; hemen hemen",
+   "pratikte; uygulamada"
+  ],
+  "ex": [
+   "Eve döndüğümüzde buzdolabı neredeyse boştu.",
+   "Güvenilir internet erişimi olmadan, uzak bölgelerdeki öğrenciler için çevrim içi eğitime katılmak pratikte imkânsızdır."
+  ],
+  "col": [
+   "neredeyse imkânsız",
+   "neredeyse herkes",
+   "pratik açıdan konuşursak"
+  ],
+  "tip": "Çoğunlukla 'neredeyse' anlamında kullanılır; 'pratik' sıfatıyla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "airliner",
+  "senses": [
+   "yolcu uçağı; jet yolcu uçağı"
+  ],
+  "ex": [
+   "Yağmurda inen dev bir yolcu uçağını izledik.",
+   "Modern yolcu uçakları daha fazla yolcuyu verimli şekilde taşıyabiliyor; yine de havacılık, sera gazı emisyonlarının önemli bir kaynağı olmayı sürdürüyor."
+  ],
+  "col": [
+   "yolcu uçağı",
+   "ticari yolcu uçağı",
+   "jet yolcu uçağı"
+  ],
+  "tip": "Airliner uçağı, airline ise havayolu şirketini ifade eder; uçuşu değil.",
+  "note": ""
+ },
+ {
+  "id": "stab",
+  "senses": [
+   "bıçaklamak; saplamak; batırmak",
+   "keskin ağrı; ani sancı",
+   "deneme; girişim"
+  ],
+  "ex": [
+   "Patatesin pişip pişmediğini anlamak için çatalıyla ona batırdı.",
+   "Birçok mezun, belirsiz bir ekonomide iş beklentilerini düşünürken ani bir kaygı sancısı hisseder."
+  ],
+  "col": [
+   "bir şeyi denemek",
+   "ani bir acı sancısı",
+   "denemek"
+  ],
+  "tip": "'have a stab at doing sth' bir şeyi denemek anlamında, konuşma dilinde kullanılan bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "autobiography",
+  "senses": [
+   "otobiyografi; özyaşam öyküsü"
+  ],
+  "ex": [
+   "Büyükannem mutfak masasında otobiyografisini yazıyor.",
+   "Bir otobiyografi kişisel deneyimlere dair içgörüler sunar; ancak tarihî olaylara ilişkin anlatımı seçici olabilir."
+  ],
+  "col": [
+   "otobiyografi yazmak",
+   "otobiyografi yayımlamak",
+   "çok satan bir otobiyografi"
+  ],
+  "tip": "Autobiography kişinin kendi yazdığı yaşam öyküsüdür; biography ise başkası tarafından yazılan biyografidir.",
+  "note": ""
+ },
+ {
+  "id": "moist",
+  "senses": [
+   "nemli; hafif ıslak"
+  ],
+  "ex": [
+   "İlk yapraklar çıkana kadar toprağı nemli tutun.",
+   "Düşmüş yaprakların oluşturduğu bir tabaka toprağın nemli kalmasına yardımcı olur ve sık sulama ihtiyacını azaltır."
+  ],
+  "col": [
+   "nemli toprak",
+   "bir şeyi nemli tutmak",
+   "nemli kek"
+  ],
+  "tip": "Moist genellikle uygun ölçüde nemli anlamında olumlu kullanılır; damp ise rahatsız edici bir nem hissi verir.",
+  "note": ""
+ },
+ {
+  "id": "grasp",
+  "senses": [
+   "kavramak; anlamak",
+   "sıkıca tutmak; kavramak",
+   "kavrayış; sıkı tutuş"
+  ],
+  "ex": [
+   "Bir turu izledikten sonra kuralları sonunda kavradım.",
+   "Öğretmenler karmaşık bilimsel kavramları bildik günlük deneyimlerle ilişkilendirdiklerinde öğrenciler bunları daha kolay kavrar."
+  ],
+  "col": [
+   "bir kavramı kavramak",
+   "sağlam bir kavrayış",
+   "bir fırsatı değerlendirmek",
+   "ulaşılabilir durumda"
+  ],
+  "tip": "Anlamak anlamında fiil olarak kullanılır; isim olarak genellikle 'a grasp of' kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spite",
+  "senses": [
+   "kötü niyet; kin",
+   "kasten üzmek; inat etmek"
+  ],
+  "ex": [
+   "Kız kardeşinin en sevdiği oyuncağını kin yüzünden sakladı.",
+   "Sınırlı fona rağmen toplum merkezi, yerel aileler için değerli desteğini sunmaya devam ediyor."
+  ],
+  "col": [
+   "kin yüzünden",
+   "-e rağmen",
+   "saf kötü niyet"
+  ],
+  "tip": "'In spite of' yalnızca isim veya -ing yapısından önce gelir; tam cümle alamaz. 'Despite' de aynı şekilde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "incentive",
+  "senses": [
+   "teşvik; özendirici unsur"
+  ],
+  "ex": [
+   "Bedava öğle yemeği bizi orada kalmaya teşvik etti.",
+   "Hükümetler, hanelerin güneş panelleri kurmasını ve enerji tüketimini azaltmasını teşvik etmek için mali teşvikler sunabilir."
+  ],
+  "col": [
+   "mali teşvik",
+   "teşvik sağlamak",
+   "çalışma teşviki"
+  ],
+  "tip": "Genellikle 'incentive to do sth' kalıbıyla, bir şeyi yapmak için güdü anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "voter",
+  "senses": [
+   "seçmen; oy veren kişi"
+  ],
+  "ex": [
+   "Her seçmen katlanmış oy pusulasını mühürlü kutuya koydu.",
+   "Kamu politikaları hakkında açık bilgi, her seçmenin seçimlerde daha bilinçli bir tercih yapmasını sağlar."
+  ],
+  "col": [
+   "kayıtlı seçmen",
+   "seçme hakkı olan seçmen",
+   "seçmen katılımı",
+   "seçmen kaydı"
+  ],
+  "tip": "Voter kişiyi, vote ise oy verme eylemini ya da oyu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "ditch",
+  "senses": [
+   "hendek; kanal",
+   "elden çıkarmak; vazgeçmek"
+  ],
+  "ex": [
+   "Yağmur suyu sebze bahçemizin yanındaki hendekten akıyordu.",
+   "Şehirler, araç bağımlılığını teşvik eden eski planlama politikalarından vazgeçmeli ve bunun yerine güvenilir toplu taşımaya yatırım yapmalı."
+  ],
+  "col": [
+   "drenaj hendeği",
+   "hendek kazmak",
+   "bir planı bırakmak"
+  ],
+  "tip": "Fiil olarak 'vazgeçmek' anlamı genellikle konuşma dilinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rival",
+  "senses": [
+   "rakip",
+   "boy ölçüşmek; eşit olmak",
+   "rakip; çekişmeli"
+  ],
+  "ex": [
+   "Yarıştan önce rakibiyle el sıkıştı.",
+   "Daha küçük şirketler, kişiselleştirilmiş hizmetler sunarak ve müşteri ihtiyaçlarına hızla yanıt vererek büyük firmalarla boy ölçüşebilir."
+  ],
+  "col": [
+   "önemli bir rakip",
+   "rakip şirket",
+   "rakip takımlar",
+   "kalitede birine denk olmak"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır; 'rival with' yerine 'rival someone' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rural",
+  "senses": [
+   "kırsal; taşraya ait"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam sakin bir köyde yaşıyor.",
+   "Güvenilir internet erişimi, uzak kırsal bölgelerde yaşayan çocukların eğitim fırsatlarını artırabilir."
+  ],
+  "col": [
+   "kırsal alanlar",
+   "kırsal topluluklar",
+   "kırsal kalkınma",
+   "kırsal nüfus"
+  ],
+  "tip": "Rural kırsal yerleşimle ilgili şeyleri niteler; urban ise kentsel olanı niteler.",
+  "note": ""
+ },
+ {
+  "id": "knowledgeable",
+  "senses": [
+   "bilgili; bilgi sahibi"
+  ],
+  "ex": [
+   "Bilgili rehberimiz, her bahçe bitkisinin nasıl büyüdüğünü anlattı.",
+   "Bilgili öğretmenler, öğrencilerin karşılaştıkları her iddiayı kabul etmek yerine çevrim içi bilgileri değerlendirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "-konusunda bilgili",
+   "bilgili personel",
+   "bilgili bir rehber"
+  ],
+  "tip": "Genellikle 'knowledgeable about' kalıbıyla kullanılır; bir konuda çok şey bilen kişiyi anlatır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "fatty",
+  "senses": [
+   "yağlı; yağ içeren"
+  ],
+  "ex": [
+   "Et yağlı olduğu için bu çorbanın tadı zengin.",
+   "Bazı yağlı yiyecekler temel besin öğeleri sağlasa da doymuş yağın aşırı tüketimi kalp ve damar sağlığı risklerini artırabilir."
+  ],
+  "col": [
+   "yağlı yiyecekler",
+   "yağlı doku",
+   "yağ asitleri",
+   "yağlı balık"
+  ],
+  "tip": "İsim olarak kullanıldığında (ör. bir kişiyi \"fatty\" diye çağırmak) aşağılayıcı olur; bundan kaçının.",
+  "note": "İsim olarak kilolu biri için kullanıldığında aşağılayıcıdır."
+ },
+ {
+  "id": "jury",
+  "senses": [
+   "jüri; heyet",
+   "jüri; seçici kurul"
+  ],
+  "ex": [
+   "Jüri, tanığın kazayı anlatışını dikkatle dinledi.",
+   "Jüri üyeliği yapmak, sıradan vatandaşların adalet sürecine doğrudan katılmasını sağlar."
+  ],
+  "col": [
+   "jüri üyeliği yapmak",
+   "jüri kararı",
+   "jüri üyesi"
+  ],
+  "tip": "jury tüm jüriyi ifade eder; tek bir jüri üyesi için juror kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "challenging",
+  "senses": [
+   "zorlayıcı; güç",
+   "meydan okuyan; kışkırtıcı"
+  ],
+  "ex": [
+   "Bu zorlayıcı bulmaca bütün öğleden sonra bizi meşgul etti.",
+   "Uygun fiyatlı sağlık hizmeti sunmak, uzak topluluklarda hâlâ zordur; çünkü eğitimli sağlık personeli ve gerekli ekipman çoğu zaman yetersizdir."
+  ],
+  "col": [
+   "zorlayıcı görev",
+   "zorlu ortam",
+   "zihinsel olarak zorlayıcı"
+  ],
+  "tip": "Bir işin zor olduğunu anlatmak için challenging kullanılır; challenged ise farklı ve genellikle olumsuz bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "sparkle",
+  "senses": [
+   "parıldamak; ışıldamak",
+   "parıltı; canlılık"
+  ],
+  "ex": [
+   "Güneş ışığı odaya girdiğinde minik kristaller parıldar.",
+   "Nehir güneş ışığında parıldasa da su kalitesini değerlendirmek için düzenli test yapmak gerekir."
+  ],
+  "col": [
+   "güneş ışığında parıldamak",
+   "gözleri parlamak",
+   "-e canlılık katmak"
+  ],
+  "tip": "sparkle küçük, parlak parıltıları anlatır; shine ise genel olarak ışık yaymayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "beware",
+  "senses": [
+   "sakınmak; dikkat etmek"
+  ],
+  "ex": [
+   "Dereyi geçerken kaygan kayalara dikkat et.",
+   "Tüketiciler, olağandışı derecede düşük fiyatla pahalı ürün vaat eden internet tekliflerine karşı dikkatli olmalıdır."
+  ],
+  "col": [
+   "dolandırıcılıklara karşı dikkatli olmak",
+   "taklitlere karşı dikkatli olmak",
+   "alıcı dikkatli olsun"
+  ],
+  "tip": "Genellikle beware of + isim biçiminde uyarı için kullanılır; sıradan geçmiş zaman fiili değildir.",
+  "note": ""
+ },
+ {
+  "id": "venus",
+  "senses": [
+   "Venüs; Zühre",
+   "Venüs; aşk ve güzellik tanrıçası"
+  ],
+  "ex": [
+   "Gün batımından hemen sonra Venüs'ün parlak ışıldadığını fark ettik.",
+   "Venüs'ün kalın atmosferini incelemek, bilim insanlarının sera gazlarının gezegen sıcaklıklarını nasıl etkilediğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "Venüs'ün atmosferi",
+   "Venüs'ün yüzeyi",
+   "Venüs'e bir görev"
+  ],
+  "tip": "Özel isim olduğu için büyük harfle yazılır; gezegen adının başında genellikle belirli artikel (the) kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "embrace",
+  "senses": [
+   "benimsemek; kabullenmek",
+   "sarılmak; kucaklamak",
+   "kucaklama; sarılma"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam birbirleriyle bağlantıda kalmak için görüntülü görüşmeleri benimsediler.",
+   "Yeni teknolojiyi benimseyen okullar, tüm öğrencilerin dijital kaynaklara eşit erişimini de sağlamalıdır."
+  ],
+  "col": [
+   "değişimi benimsemek",
+   "bir fırsatı kucaklamak",
+   "sıcak bir kucaklama"
+  ],
+  "tip": "Bir fikri veya değişimi kabul etmek anlamında change, idea gibi soyut isimlerle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "furthermore",
+  "senses": [
+   "ayrıca; üstelik"
+  ],
+  "ex": [
+   "Daire geniş; üstelik balkonu da var.",
+   "Toplu taşıma trafik sıkışıklığını azaltır; ayrıca şehirleri arabası olmayan sakinler için daha erişilebilir hâle getirebilir."
+  ],
+  "col": [
+   "ayrıca önemlidir",
+   "ayrıca kanıtlar bunu gösteriyor"
+  ],
+  "tip": "Resmi bir bağlaç niteliğindeki zarftır; tam cümleleri bağlarken önceki cümle noktalı virgül veya nokta ile bitmelidir.",
+  "note": ""
+ },
+ {
+  "id": "briefing",
+  "senses": [
+   "bilgilendirme; brifing"
+  ],
+  "ex": [
+   "Rehberimiz yürüyüşten önce bizi bilgilendirdi.",
+   "Net bir güvenlik bilgilendirmesi, inşaat işçilerinin alışık olmadıkları görevlere başlamadan önce olası tehlikeleri anlamalarına yardımcı olur."
+  ],
+  "col": [
+   "güvenlik bilgilendirmesi",
+   "basın brifingi",
+   "bilgilendirmeye katılmak",
+   "brifing belgesi"
+  ],
+  "tip": "Sadece yazılı rapor değil, sözlü açıklama veya brifing toplantısı için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dense",
+  "senses": [
+   "yoğun; sık",
+   "anlaşılması zor; yoğun",
+   "kavrayışı yavaş; kalın kafalı"
+  ],
+  "ex": [
+   "Yoğun sis mutfak penceremizden köprüyü gizledi.",
+   "Yoğun kentsel gelişim seyahat mesafelerini azaltabilir; ancak yeşil alanları korumak için dikkatli planlama gerektirir."
+  ],
+  "col": [
+   "yoğun sis",
+   "yoğun orman",
+   "yoğun nüfus",
+   "ağır yazılmış metin"
+  ],
+  "tip": "Bir kişiyi kavrayışı yavaş diye tanımlamak kaba olabilir; \"yoğun\" anlamında densely zarf biçimidir.",
+  "note": ""
+ },
+ {
+  "id": "desirable",
+  "senses": [
+   "arzu edilen; istenilen"
+  ],
+  "ex": [
+   "Balkon, bu küçük daireyi çok daha cazip hâle getiriyor.",
+   "Ekonomik büyüme arzu edilir olsa da hükümetler bunun halk sağlığı ve çevre üzerindeki etkilerini de değerlendirmelidir."
+  ],
+  "col": [
+   "son derece arzu edilen",
+   "istenen sonuç",
+   "arzu edilen nitelikler"
+  ],
+  "tip": "desirable değerli ve istenen şeyi anlatır; arzulu anlamındaki kelime desirous'tur.",
+  "note": ""
+ },
+ {
+  "id": "helpless",
+  "senses": [
+   "çaresiz; güçsüz"
+  ],
+  "ex": [
+   "Asansör aniden durduğunda kendimi çaresiz hissettim.",
+   "Erişilebilir destek hizmetleri olmadan yaşlı insanlar, giderek karmaşıklaşan dijital sistemleri yönetmeye çalışırken kendilerini çaresiz hissedebilir."
+  ],
+  "col": [
+   "çaresiz hissetmek",
+   "çaresiz bir kurban",
+   "-e karşı güçsüz"
+  ],
+  "tip": "helpless çaresiz olmayı; unhelpful ise yardımcı olmayan ya da işe yaramayan anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "inevitable",
+  "senses": [
+   "kaçınılmaz; zorunlu"
+  ],
+  "ex": [
+   "Trafik bu kadar yoğunken gecikme kaçınılmaz görünüyor.",
+   "Fabrikalar rutin işleri daha verimli yapan makineleri kullandıkça bazı iş kayıpları kaçınılmaz olabilir."
+  ],
+  "col": [
+   "kaçınılmaz sonuçlar",
+   "kaçınılmaz değişim",
+   "neredeyse kaçınılmaz"
+  ],
+  "tip": "it is inevitable that… kalıbıyla \"…olması kaçınılmazdır\" anlamı verilir.",
+  "note": ""
+ },
+ {
+  "id": "brighten",
+  "senses": [
+   "aydınlatmak; aydınlanmak",
+   "neşelendirmek; sevinmek"
+  ],
+  "ex": [
+   "Bu sarı perdeler küçük mutfağımızı gerçekten aydınlatıyor.",
+   "Renkli çiçekler dikmek, ihmal edilmiş kamusal alanları güzelleştirebilir ve sakinleri mahallelerine daha fazla sahip çıkmaya teşvik edebilir."
+  ],
+  "col": [
+   "odayı aydınlatmak",
+   "birinin gününü aydınlatmak",
+   "neşelenmek"
+  ],
+  "tip": "Hem nesneyi hem de kişiyi konu alan bir fiildir; brighten up ise ruh hali için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tribe",
+  "senses": [
+   "kabile; boy"
+  ],
+  "ex": [
+   "Rehber bu vadideki bir kabileye mensup.",
+   "Kalkınma projeleri, yerel kabilelerin arazi haklarına ve kültürel geleneklerine saygı göstermelidir."
+  ],
+  "col": [
+   "kabile gelenekleri",
+   "göçebe bir kabile",
+   "kabilenin üyeleri"
+  ],
+  "tip": "Belirli bir topluluktan söz ederken, o topluluğun kendi adlandırmasına saygı göstermek ve genel bir ifade kullanmaktan kaçınmak uygundur.",
+  "note": ""
+ }
+]

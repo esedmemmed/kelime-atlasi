@@ -1,0 +1,278 @@
+[
+ {
+  "id": "pharmacy",
+  "senses": [
+   "eczane",
+   "eczacılık"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra ilacımı eczaneden aldım.",
+   "Toplum eczaneleri, insanların evlerine yakın yerlerde profesyonel tavsiye sunarak sağlık hizmetlerine erişimi artırabilir."
+  ],
+  "col": [
+   "toplum eczanesi",
+   "hastane eczanesi",
+   "eczacılık bilimi"
+  ],
+  "tip": "Yer için pharmacy, kişi için pharmacist kullanılır. Bilim anlamında sayılamaz; yer anlamında a pharmacy diyebilirsiniz.",
+  "note": ""
+ },
+ {
+  "id": "headmaster",
+  "senses": [
+   "erkek okul müdürü"
+  ],
+  "ex": [
+   "Okul müdürü, okul kapısında yeni öğrencileri karşıladı.",
+   "Okul müdürü, küçük öğrencilerin özgüven kazanması ve okul hayatına uyum sağlaması için bir mentorluk programı başlattı."
+  ],
+  "col": [
+   "okul müdürü",
+   "müdür yardımcısı",
+   "müdürün odası"
+  ],
+  "tip": "Yalnızca erkekler için kullanılır. Cinsiyet belirtmeyen durumlarda İngilizcede headteacher, ABD'de principal tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "multiplication",
+  "senses": [
+   "çarpma işlemi",
+   "çoğalma; artış"
+  ],
+  "ex": [
+   "Düğmeleri eşit sıralar halinde dizerek çarpma işlemi çalıştık.",
+   "Çarpma işlemini güçlü kavramak, çocukların bilim ve finansal okuryazarlık için gereken matematik becerilerini geliştirmesine yardımcı olur."
+  ],
+  "col": [
+   "çarpım tablosu",
+   "çarpma işareti",
+   "hızlı çoğalma"
+  ],
+  "tip": "'... ile çarpıldı' anlamında multiplied by kalıbı kullanılır. Çarpma işlemi için multiplication isim olarak tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "dislike",
+  "senses": [
+   "hoşlanmamak",
+   "hoşlanmama; antipati"
+  ],
+  "ex": [
+   "Yağmur yağarken dışarıda beklemekten hoşlanmıyorum.",
+   "Bazı öğrenciler grup ödevlerinden hoşlanmaz, çünkü bireysel katkılarının adil biçimde değerlendirilmediğini düşünürler."
+  ],
+  "col": [
+   "bir şeyi yapmaktan hoşlanmamak",
+   "güçlü bir antipati",
+   "birinden soğumak"
+  ],
+  "tip": "dislike fiilinden sonra isim ya da -ing gelir: dislike waiting. Fiil 'hoşlanmamak', isim 'hoşlanmama' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "lecture",
+  "senses": [
+   "konferans; ders",
+   "ders vermek",
+   "azarlamak; öğüt vermek"
+  ],
+  "ex": [
+   "Dersten sonra bir soru sormak için kaldım.",
+   "Üniversiteler geleneksel dersleri, öğrencileri bilgilerini uygulamaya teşvik eden pratik etkinliklerle birleştirmelidir."
+  ],
+  "col": [
+   "bir konferansa katılmak",
+   "konferans vermek",
+   "biyoloji üzerine ders vermek",
+   "birini bir konuda azarlamak"
+  ],
+  "tip": "lecture on + konu, bir konuda ders anlamına gelir. lecture someone ise birini azarlamak anlamına da gelebilir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "filling",
+  "senses": [
+   "iç; harç",
+   "diş dolgusu",
+   "doyurucu"
+  ],
+  "ex": [
+   "Bu turtanın sıcak elmalı ve tarçınlı iç harcı var.",
+   "Okul öğle yemekleri, çocukların büyümesini ve konsantrasyonunu destekleyecek yeterli besin öğeleri sağlayan doyurucu yemekler sunmalıdır."
+  ],
+  "col": [
+   "sandviç içi",
+   "diş dolgusu",
+   "doyurucu yemek"
+  ],
+  "tip": "Sıfat olarak yemeğin doyurucu olduğunu anlatır. Kişinin doyduğunu söylemek için full ya da 'tok' ifadeleri kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "admire",
+  "senses": [
+   "hayran olmak; takdir etmek",
+   "beğenmek"
+  ],
+  "ex": [
+   "Stres altında sakin kalabildiği için kız kardeşime hayranım.",
+   "İnsanlar genellikle başarılı sporcuların kararlılığına hayran olur, ancak düzenli antrenman da en az o kadar önemlidir."
+  ],
+  "col": [
+   "birine bir şeyi için hayran olmak",
+   "büyük ölçüde takdir etmek",
+   "manzarayı beğenmek"
+  ],
+  "tip": "admire sb for sth: birini bir nedeniyle takdir etmek. Kişi için 'hayran olmak', nesne için 'beğenmek' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "condition",
+  "senses": [
+   "durum; hal",
+   "koşul; şart",
+   "rahatsızlık; hastalık"
+  ],
+  "ex": [
+   "Yaşına rağmen bu bisiklet mükemmel durumda.",
+   "Çalışma koşullarını iyileştirmek, çalışan memnuniyetini artırabilir ve işini bırakan insan sayısını azaltabilir."
+  ],
+  "col": [
+   "iyi durumda",
+   "çalışma koşulları",
+   "şartıyla",
+   "tıbbi rahatsızlık"
+  ],
+  "tip": "Durum anlamında genelde tekil, çevre ve koşullar anlamında çoğul kullanılır. 'on condition that' kalıbı 'şartıyla' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "separate",
+  "senses": [
+   "ayrı; ayrılmış",
+   "ayırmak; ayrılmak"
+  ],
+  "ex": [
+   "Temiz havluları ayrı bir dolapta saklıyoruz.",
+   "Yerel yönetimler, evsel atıkların ayrıştırılmasını kolaylaştırmak için geri dönüştürülebilir malzemeler için ayrı kutular sağlamalıdır."
+  ],
+  "col": [
+   "ayrı odalar",
+   "...den ayrılmak",
+   "ayrı hesaplar",
+   "atıkları ayırmak"
+  ],
+  "tip": "Sıfat olarak /ˈsepərət/, fiil olarak /ˈsepəreɪt/ okunur. Yazımı aynıdır, telaffuza dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "pure",
+  "senses": [
+   "saf; katkısız",
+   "tamamen; salt",
+   "saf; teorik"
+  ],
+  "ex": [
+   "Bu yumuşak atkı saf yünden yapılmış.",
+   "Saf bilime yapılan yatırım, on yıllar sonra önemli pratik uygulamalarla birlikte beklenmedik keşiflere yol açabilir."
+  ],
+  "col": [
+   "saf su",
+   "saf yün",
+   "salt şans",
+   "saf matematik"
+  ],
+  "tip": "pure yalnızca 'saf' değil, pure luck örneğinde olduğu gibi 'tamamen, salt' anlamıyla vurgu katmak için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "yawn",
+  "senses": [
+   "esnemek",
+   "esneme"
+  ],
+  "ex": [
+   "Su kaynarken iki kez esnedim.",
+   "Sabah derslerinde sık sık esneyen öğrenciler gece yeterince uyumuyor olabilir."
+  ],
+  "col": [
+   "esneme",
+   "esnemesini bastırmak",
+   "geniş geniş esnemek"
+  ],
+  "tip": "yawn hem fiil hem isim olarak kullanılır. 'Gerinmek' anlamı için stretch kelimesini kullanın, yawn sadece esnemeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "chilli",
+  "senses": [
+   "acı biber",
+   "acılı fasulye yemeği"
+  ],
+  "ex": [
+   "Acı yemekleri seviyorsan doğranmış bir acı biber ekle.",
+   "Acı biber yetiştiren çiftçiler, artan sıcaklıklar su talebini yükseltirken güvenilir sulama sistemlerine ihtiyaç duyabilir."
+  ],
+  "col": [
+   "taze acı biber",
+   "acı biber tozu",
+   "acı biber sosu"
+  ],
+  "tip": "İngiliz yazımı chilli, Amerikan yazımı chili'dir. Çoğulu chillies ya da chilies olabilir.",
+  "note": ""
+ },
+ {
+  "id": "ripe",
+  "senses": [
+   "olgun",
+   "hazır; uygun"
+  ],
+  "ex": [
+   "Bu olgun şeftaliler çok güzel kokuyor ve çok tatlı.",
+   "Kamuoyu desteği arttıkça, hükümetlerin yenilenebilir enerjiye daha fazla yatırım yapması için zaman olgunlaşmış durumda."
+  ],
+  "col": [
+   "olgun meyve",
+   "tam olgun",
+   "değişim için hazır",
+   "zaman olgun"
+  ],
+  "tip": "Meyve için ripe kullanılır; insan olgunluğu için mature tercih edilir. Türkçede 'olgun' her ikisi için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "stinky",
+  "senses": [
+   "kokuşmuş; pis kokan"
+  ],
+  "ex": [
+   "Lütfen o kokuşmuş ayakkabıları ön kapının dışında bırak.",
+   "Sakinler, ihmal edilmiş çöp kutularını genellikle pis kokan olarak tanımlıyor; bu da zayıf atık toplamanın günlük hayatı nasıl etkilediğini gösteriyor."
+  ],
+  "col": [
+   "kokuşmuş çoraplar",
+   "kokuşmuş ayakkabılar",
+   "pis kokan çöp"
+  ],
+  "tip": "Gayriresmi bir kelimedir. Resmi yazıda foul-smelling ya da smelly tercih edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "talented",
+  "senses": [
+   "yetenekli"
+  ],
+  "ex": [
+   "Yetenekli kuzenim bahçemizin bu güzel resmini yaptı.",
+   "Okullar, yetenekli öğrencilerin standart müfredatın ötesinde yeteneklerini geliştirebilecekleri fırsatlar sunmalıdır."
+  ],
+  "col": [
+   "yetenekli bir müzisyen",
+   "yetenekli bir sanatçı",
+   "son derece yetenekli"
+  ],
+  "tip": "talented doğal yeteneği vurgular; skilled ise pratikle kazanılmış becerileri anlatır.",
+  "note": ""
+ }
+]

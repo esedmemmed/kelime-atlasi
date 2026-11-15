@@ -1,0 +1,280 @@
+[
+ {
+  "id": "lesson",
+  "senses": [
+   "ders",
+   "ders; ibret"
+  ],
+  "ex": [
+   "Yüzme dersimiz perşembe günü okuldan sonra başlıyor.",
+   "Önceki çevre politikalarından çıkan temel ders, etkili düzenlemenin tutarlı izleme ve kamu desteği gerektirdiğidir."
+  ],
+  "col": [
+   "ders almak",
+   "piyano dersi",
+   "ibret almak; ders çıkarmak",
+   "değerli bir ders"
+  ],
+  "tip": "learn a lesson bir hatadan ders çıkarmak anlamına gelir; ders almak için take lessons kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "garden",
+  "senses": [
+   "bahçe",
+   "bahçecilik yapmak"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce bahçeden taze fasulye topladık.",
+   "Topluluk bahçeleri, kentli sakinlere taze sebze ve yeşil alan sunarken komşuluk ilişkilerini güçlendirebilir."
+  ],
+  "col": [
+   "sebze bahçesi",
+   "topluluk bahçesi",
+   "botanik bahçesi",
+   "bahçe aletleri"
+  ],
+  "tip": "İngiliz kullanımında garden genellikle ev bahçesini anlatır; Amerikan İngilizcesinde aynı anlam için yard tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "geography",
+  "senses": [
+   "coğrafya",
+   "arazi yapısı; topografya"
+  ],
+  "ex": [
+   "Bugün coğrafya dersinde nehirlerin vadileri nasıl şekillendirdiğini öğrendik.",
+   "Kıyı bölgelerinin coğrafi yapısı yerleşim biçimlerini etkiler ve toplulukların deniz seviyesi yükselmesine tepkisini belirler."
+  ],
+  "col": [
+   "fiziki coğrafya",
+   "beşeri coğrafya",
+   "coğrafya çalışmak"
+  ],
+  "tip": "geography coğrafya bilimini, geology ise jeoloji bilimini anlatır; ikisi birbirine karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "salt",
+  "senses": [
+   "tuz",
+   "tuzlamak; tuzlayıp saklamak"
+  ],
+  "ex": [
+   "Çorba soğumadan tuzu uzatır mısın?",
+   "Tuz tüketimini azaltmak, yüksek tansiyon riskini düşürmenin etkili bir yoludur."
+  ],
+  "col": [
+   "bir tutam tuz",
+   "tuz tüketimi",
+   "deniz tuzu",
+   "tuz eklemek"
+  ],
+  "tip": "Tuz genellikle sayılamayan bir isimdir; bir miktar için a pinch of salt kullanılır, a salt denmez.",
+  "note": ""
+ },
+ {
+  "id": "until",
+  "senses": [
+   "-e kadar; -e dek",
+   "-ana kadar"
+  ],
+  "ex": [
+   "Yağmur sonunda dinene kadar dışarıda bekledik.",
+   "Hükümetler, temiz teknolojiler çoğu hane için uygun fiyatlı hale gelene kadar yenilenebilir enerjiyi desteklemeyi sürdürmelidir."
+  ],
+  "col": [
+   "yakın zamana kadar",
+   "bir sonraki duyuruya kadar",
+   "ancak ... sonra"
+  ],
+  "tip": "until bir eylemin belirli bir zamana kadar sürdüğünü anlatır; en geç anlamındaki by ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "each",
+  "senses": [
+   "her; her bir",
+   "her biri",
+   "kişi başına"
+  ],
+  "ex": [
+   "Her çocuk bahçeye küçük bir sepet taşıdı.",
+   "Her hane, su tasarrufu yaparak ve daha az ambalajlı ürünleri tercih ederek çevresel etkisini azaltabilir."
+  ],
+  "col": [
+   "her öğrenci",
+   "hepimizin her biri",
+   "her seferinde",
+   "birbirini"
+  ],
+  "tip": "each tekil isim ve tekil fiille kullanılır. each of sonrasında çoğul isim gelse de fiil genellikle tekil çekimde kalır.",
+  "note": ""
+ },
+ {
+  "id": "women",
+  "senses": [
+   "kadınlar"
+  ],
+  "ex": [
+   "Üç kadın, paylaşılan bahçede çiçek dikiyordu.",
+   "Eğitime eşit erişim, daha fazla kadının bilim ve teknoloji alanında kariyer yapmasını sağlıyor."
+  ],
+  "col": [
+   "kadın sağlığı",
+   "kadın hakları",
+   "liderlik yapan kadınlar"
+  ],
+  "tip": "woman sözcüğünün çoğuludur. İlk hece /wɪ/ okunur, /wʊ/ değil; tekil ve çoğul biçimleri karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "feeling",
+  "senses": [
+   "duygu; his",
+   "duyu; his",
+   "sezgi; kanaat"
+  ],
+  "ex": [
+   "Sınavdan sonra içimi bir rahatlama hissi kapladı.",
+   "Güçlü bir aidiyet duygusu, öğrencilerin özgüvenini artırabilir ve okul etkinliklerine katılımı teşvik edebilir."
+  ],
+  "col": [
+   "rahatlama hissi",
+   "birinin duygularını incitmek",
+   "hissini kaybetmek",
+   "karışık duygular"
+  ],
+  "tip": "feelings çoğulu genellikle duygusal durumları anlatır; have a feeling that ise bir sezgiyi ifade eder ve bir his var anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "bath",
+  "senses": [
+   "banyo; banyo yapma",
+   "küvet"
+  ],
+  "ex": [
+   "Yürüyüşten sonra sıcak bir banyo beni rahatlattı.",
+   "Günlük banyo yerine daha kısa duş almak, evdeki su tüketimini önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "banyo yapmak",
+   "banyo yapmak",
+   "küvete su doldurmak",
+   "sıcak banyo"
+  ],
+  "tip": "İngiliz kullanımında have a bath, Amerikan kullanımında take a bath tercih edilir; ikisi de banyo yapmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "twelve",
+  "senses": [
+   "on iki"
+  ],
+  "ex": [
+   "Bu kutuda on iki taze yumurta var.",
+   "Eğitim programı, genç yetişkinler için pratik deneyimi sınıf içi öğretimle birleştirerek on iki hafta sürüyor."
+  ],
+  "col": [
+   "on iki ay",
+   "saat on iki",
+   "on iki yaşında"
+  ],
+  "tip": "twelve temel sayıdır; sıra sayısı twelfth şeklindedir ve f harfiyle yazılır, twelveth denmez.",
+  "note": ""
+ },
+ {
+  "id": "moment",
+  "senses": [
+   "an; kısa süre",
+   "an; dönüm noktası"
+  ],
+  "ex": [
+   "Ayakkabılarımı giyerken bir dakika bekle.",
+   "Yeni demiryolunun açılışı, bölgenin ekonomik gelişiminde önemli bir dönüm noktası oldu."
+  ],
+  "col": [
+   "şu anda",
+   "birazdan",
+   "kısa bir an",
+   "dönüm noktası"
+  ],
+  "tip": "at the moment şu an, in a moment ise birazdan anlamına gelir; bu iki kalıp birbirine karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "want",
+  "senses": [
+   "istemek; arzulamak",
+   "yoksulluk; eksiklik"
+  ],
+  "ex": [
+   "Balkonumuzda domates yetiştirmek istiyorum.",
+   "Birçok genç yetişkin, hükümetlerin pahalı kentsel yenileme projeleri yerine uygun fiyatlı konuta daha fazla yatırım yapmasını istiyor."
+  ],
+  "col": [
+   "bir şey yapmak istemek",
+   "birinin bir şey yapmasını istemek",
+   "eksikliğinden dolayı"
+  ],
+  "tip": "want to do ya da want sb to do kalıplarını kullanın; want doing biçimi bu anlamda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "england",
+  "senses": [
+   "İngiltere"
+  ],
+  "ex": [
+   "Kuzenim İngiltere'de sakin bir köyde yaşıyor.",
+   "İngiltere'deki tarihi kasabalar uluslararası ziyaretçileri çekerek iş imkânı yaratıyor, ama yerel altyapı üzerindeki baskıyı da artırıyor."
+  ],
+  "col": [
+   "güney İngiltere",
+   "İngiltere'nin kuzeyi",
+   "İngiltere'ye seyahat etmek"
+  ],
+  "tip": "England yalnızca Birleşik Krallık'ı oluşturan ülkelerden biridir; Birleşik Krallık'ın tamamı için United Kingdom veya UK kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "think",
+  "senses": [
+   "düşünmek; sanmak",
+   "düşünmek; akıl yürütmek"
+  ],
+  "ex": [
+   "Bu çorbaya biraz daha tuz gerektiğini düşünüyorum.",
+   "Bazı insanlar, okulların sınav hazırlığı yerine pratik becerilere daha fazla zaman ayırması gerektiğini düşünüyor."
+  ],
+  "col": [
+   "hakkında düşünmek",
+   "aklına gelmek; düşünmek",
+   "dikkatli düşünmek",
+   "eleştirel düşünmek"
+  ],
+  "tip": "think düzensiz bir fiildir: think, thought, thought. Görüş bildirirken genellikle am thinking yerine basit zaman kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "another",
+  "senses": [
+   "bir tane daha; başka",
+   "bir başkası; bir tane daha"
+  ],
+  "ex": [
+   "Bu fincan çatlamış, lütfen bir tane daha getir.",
+   "Toplu taşımaya yatırım yapmanın bir başka nedeni, kentsel hava kirliliğini azaltma potansiyelidir."
+  ],
+  "col": [
+   "bir şans daha",
+   "başka bir seçenek",
+   "birer birer",
+   "iki gün daha"
+  ],
+  "tip": "another tekil sayılabilir isimle kullanılır; another two days ifadesi sayıyla birlikte iki gün daha anlamı verir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "southeast",
+  "senses": [
+   "güneydoğu; güneydoğu kısmı",
+   "güneydoğudaki; güneydoğudan gelen",
+   "güneydoğuya; güneydoğuda"
+  ],
+  "ex": [
+   "Mutfağımızın penceresi güneydoğuya bakıyor ve sabah güneşini alıyor.",
+   "Güneydoğudaki nüfus artışı, uygun fiyatlı konut ve güvenilir toplu taşıma talebini artırdı."
+  ],
+  "col": [
+   "güneydoğuda",
+   "...nın güneydoğusunda",
+   "güneydoğuya doğru gitmek",
+   "güneydoğu kıyısı"
+  ],
+  "tip": "İsim önünde genellikle 'the' kullanılır (the southeast). Zarf olarak 'head southeast' gibi kullanımda 'the' eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "programme",
+  "senses": [
+   "program; plan; kurs",
+   "program; yayın",
+   "programlamak; ayarlamak"
+  ],
+  "ex": [
+   "Yerel spor salonundaki bir fitness programına katıldım.",
+   "İyi tasarlanmış bir eğitim programı, işsiz yetişkinlerin yeni kariyerleri için gereken becerileri kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "eğitim programı",
+   "televizyon programı",
+   "lisans programı",
+   "bir programı başlatmak"
+  ],
+  "tip": "İngiliz İngilizcesinde genellikle 'programme' kullanılır; bilgisayar programı için 'program' yazılır. ABD İngilizcesinde ikisi için de 'program' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shorts",
+  "senses": [
+   "şort"
+  ],
+  "ex": [
+   "Plaj tatilimiz için şort ve sandalet koydum.",
+   "Sıcak havada hafif bir şort, insanların açık hava egzersizi yaparken rahat etmelerini sağlayabilir."
+  ],
+  "col": [
+   "bir çift şort",
+   "şort giymek",
+   "kot şort",
+   "koşu şortu"
+  ],
+  "tip": "'Shorts' çoğul bir kelimedir. Tek bir şortu belirtmek için 'a pair of shorts' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bracelet",
+  "senses": [
+   "bilezik"
+  ],
+  "ex": [
+   "Büyükannesinin ona verdiği gümüş bir bilezik takıyor.",
+   "El yapımı bir bilezik, yerel sanat geleneklerini yansıtırken kırsal topluluklardaki zanaatkârlara gelir sağlayabilir."
+  ],
+  "col": [
+   "gümüş bilezik",
+   "madalyonlu bilezik",
+   "bilezik takmak"
+  ],
+  "tip": "'Bracelet' bilekte takılan takıdır. Ayak bileğinde takılan takı için 'anklet' kullanılır; karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "board",
+  "senses": [
+   "tahta; levha",
+   "yönetim kurulu; kurul",
+   "binmek"
+  ],
+  "ex": [
+   "Kadın, çamurlu patikanın üzerine ahşap bir tahta yerleştirdi.",
+   "Yönetim kurulu, işçileri işten çıkarmadan ve ücretleri düşürmeden fabrika emisyonlarını azaltma planını onayladı."
+  ],
+  "col": [
+   "ahşap tahta",
+   "yönetim kurulu",
+   "uçağa binmek",
+   "gemide; uçakta"
+  ],
+  "tip": "Fiil olarak 'board' doğrudan nesne alır: board a train. Araya 'into' veya 'on' eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "speaker",
+  "senses": [
+   "konuşmacı; sunucu",
+   "anadil konuşucusu; konuşan",
+   "hoparlör; ses kutusu"
+  ],
+  "ex": [
+   "Konuşmacı açılış hikâyesiyle herkesi güldürdü.",
+   "Bilim dünyasından konuk bir konuşmacı davet etmek, öğrencilerin sınıf bilgisinin gerçek sorunlara nasıl uygulandığını anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "konuk konuşmacı",
+   "anadil konuşucusu",
+   "akıcı konuşan",
+   "kablosuz hoparlör"
+  ],
+  "tip": "Dil belirtmek için 'a native speaker of English' gibi 'of' kalıbı kullanılır. 'Speaker' ayrıca hoparlör anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "niece",
+  "senses": [
+   "kız yeğen"
+  ],
+  "ex": [
+   "Yeğenim yeni köpek yavrusunu piknik için getirdi.",
+   "Esnek çalışma saatleri, genç bir yeğen ya da erkek yeğen dahil akrabalarına bakan yetişkinlere yardımcı olabilir."
+  ],
+  "col": [
+   "genç kız yeğen",
+   "yeğenler"
+  ],
+  "tip": "Türkçede 'yeğen' hem kız hem erkek için kullanılır. 'Niece' kız yeğen, 'nephew' erkek yeğen anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "make-up",
+  "senses": [
+   "makyaj; makyaj malzemesi",
+   "bileşim; yapı"
+  ],
+  "ex": [
+   "Makyaj malzemelerini küçük mavi bir çantada saklıyor.",
+   "Yeni konutlar farklı sakinleri çektikçe bir mahallenin sosyal yapısı önemli ölçüde değişebilir."
+  ],
+  "col": [
+   "makyaj yapmak",
+   "makyaj uygulamak",
+   "makyajı temizlemek",
+   "genetik yapı"
+  ],
+  "tip": "İsim olarak 'makeup' bitişik yazılabilir; fiil öbeği 'make up' ise ayrı yazılır. Bu yazım farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "concert",
+  "senses": [
+   "konser"
+  ],
+  "ex": [
+   "Dün parkta açık hava konserinin keyfini çıkardık.",
+   "Ücretsiz halk konserleri kültürel etkinlikleri daha erişilebilir kılabilir ve sakinleri ortak kentsel alanları kullanmaya teşvik edebilir."
+  ],
+  "col": [
+   "konsere katılmak",
+   "konser vermek",
+   "konser salonu",
+   "canlı konser"
+  ],
+  "tip": "Konsere gitmek için 'go to a concert' kalıbı kullanılır. 'Attend' daha resmi bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "joining",
+  "senses": [
+   "katılmak; üye olmak",
+   "birleştirmek; bağlamak"
+  ],
+  "ex": [
+   "Evimin yakınındaki bir yüzme kulübüne üye oluyorum.",
+   "Yerel gönüllü gruplarına katılmak, genç insanların topluluklarına katkıda bulunurken pratik deneyim kazanmasını sağlar."
+  ],
+  "col": [
+   "kulübe üye olmak",
+   "güçleri birleştirmek",
+   "iki parçayı birleştirmek"
+  ],
+  "tip": "'Join' doğrudan nesne alır: join a club. 'Join in' ise yalnızca var olan bir etkinliğe katılmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "greeting",
+  "senses": [
+   "selamlama; karşılama",
+   "tebrik; kutlama mesajı"
+  ],
+  "ex": [
+   "Kapıda bize neşeli bir karşılama yaptı.",
+   "Yerel selamlaşma geleneklerini öğrenmek, uluslararası öğrencilerin ilişki kurmasına ve yeni ortamlarında yanlış anlaşılmalardan kaçınmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sıcak bir karşılama",
+   "selamlaşmak",
+   "tebrik kartı",
+   "doğum günü tebrikleri"
+  ],
+  "tip": "Bayram ya da kutlama mesajlarında 'greetings' çoğul kullanılır, örneğin 'birthday greetings'.",
+  "note": ""
+ },
+ {
+  "id": "half-price",
+  "senses": [
+   "yarı fiyatlı",
+   "yarı fiyatına"
+  ],
+  "ex": [
+   "Öğleden sonraki tekne turu için yarı fiyatlı biletler aldık.",
+   "Öğrencilere yarı fiyatına toplu taşıma sunmak, eğitime erişimi artırabilir ve araba kullanımını azaltabilir."
+  ],
+  "col": [
+   "yarı fiyatlı biletler",
+   "yarı fiyatına indirim",
+   "bir şeyi yarı fiyatına almak"
+  ],
+  "tip": "İsimden önce sıfat olarak 'half-price' tireli yazılır. Zarf olarak kullanıldığında 'at half price' tiresiz yazılır.",
+  "note": ""
+ },
+ {
+  "id": "sadly",
+  "senses": [
+   "üzgün bir şekilde; hüzünle",
+   "maalesef; ne yazık ki"
+  ],
+  "ex": [
+   "En iyi arkadaşının treni kalkarken üzgünce el salladı.",
+   "Maalesef, birçok tarihi bina yollar ve ticari projeler için yıkıldı."
+  ],
+  "col": [
+   "üzgünce gülümsemek",
+   "maalesef yetersiz",
+   "çok özlenen"
+  ],
+  "tip": "Cümle başında 'Sadly' kullanıldığında tüm cümleye yönelik bir pişmanlık ifadesidir ('maalesef'). Fiili değil, tüm cümleyi niteler.",
+  "note": ""
+ },
+ {
+  "id": "report",
+  "senses": [
+   "rapor; haber",
+   "bildirmek; haber vermek",
+   "göreve başlamak; bildirmek"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce raporumu bitirdim ve e-postayla gönderdim.",
+   "Rapor, yeşil alanlara daha iyi erişimin sakinlerin fiziksel ve zihinsel sağlığına fayda sağlayabileceğini gösteriyor."
+  ],
+  "col": [
+   "rapor yazmak",
+   "haber",
+   "bir sorunu bildirmek",
+   "göreve bildirmek"
+  ],
+  "tip": "Bir konuyu konu alan haber için 'report on' kullanılır. 'Report for duty' ise görevine başlamak için kendini bildirmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "crossing",
+  "senses": [
+   "yaya geçidi; geçiş yeri",
+   "geçiş; karşıya geçme"
+  ],
+  "ex": [
+   "Arabalar durana kadar geçitte bekledik.",
+   "Her okulun yakınına yaya geçidi yapmak çocukları korumaya yardımcı olabilir ve daha çok ailenin yürümesini teşvik edebilir."
+  ],
+  "col": [
+   "yaya geçidi",
+   "seviye geçidi",
+   "sınır kapısı",
+   "feribot yolculuğu"
+  ],
+  "tip": "Yol üzerindeki yaya geçidi için 'crossing' kullanılır; kavşak için ise 'junction' tercih edilir. Deniz geçişi için de 'crossing' kullanılabilir.",
+  "note": ""
+ }
+]

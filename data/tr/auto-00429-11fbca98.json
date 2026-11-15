@@ -1,0 +1,284 @@
+[
+ {
+  "id": "picnic",
+  "senses": [
+   "piknik",
+   "piknik yapmak"
+  ],
+  "ex": [
+   "Ağacın gölgesinde bir piknik yaptık.",
+   "Halk parkları, ailelerin piknik yapıp birlikte kaliteli zaman geçirebileceği uygun fiyatlı alanlar sunar."
+  ],
+  "col": [
+   "piknik yapmak",
+   "pikniğe gitmek",
+   "piknik sepeti"
+  ],
+  "tip": "c harfi k'ya dönüşerek fiil çekimlenir: picnicked (geçmiş), picnicking (-ing hali).",
+  "note": ""
+ },
+ {
+  "id": "begin",
+  "senses": [
+   "başlamak"
+  ],
+  "ex": [
+   "Herkes masaya oturduğunda akşam yemeğine başlarız.",
+   "Okullar, çocukların internet kullanırken sorumlu alışkanlıklar geliştirmesi için dijital güvenliği erken yaşta öğretmeye başlamalıdır."
+  ],
+  "col": [
+   "...ile başlamak",
+   "anlamaya başlamak",
+   "bir tartışmayı başlatmak",
+   "başlangıçta; her şeyden önce"
+  ],
+  "tip": "Geçmiş zaman began, ortaç biçimi begun'dır. Hem to hem -ing ile kullanılabilir: begin to / begin doing.",
+  "note": ""
+ },
+ {
+  "id": "enough",
+  "senses": [
+   "yeterli",
+   "yeterince",
+   "yeterli miktar"
+  ],
+  "ex": [
+   "Bu gece herkesi doyuracak kadar pirincimiz var.",
+   "Birçok kırsal okul, öğrencilere geniş bir ders yelpazesi sunacak kadar kaynaktan yoksundur."
+  ],
+  "col": [
+   "yeterli zaman",
+   "idare eder; yeterince iyi",
+   "doyacak kadar yiyecek"
+  ],
+  "tip": "İsimden önce gelirse enough + isim: enough time. Sıfat veya zarftan sonra gelir: good enough.",
+  "note": ""
+ },
+ {
+  "id": "class",
+  "senses": [
+   "sınıf; ders",
+   "sınıf; kategori",
+   "sınıflandırmak"
+  ],
+  "ex": [
+   "Sınıfımız sebze yetiştirmeyi öğreniyor.",
+   "Daha küçük sınıf mevcudu, öğretmenlerin öğrenme güçlüğü yaşayan öğrencilere daha fazla bireysel ilgi göstermesine olanak tanıyabilir."
+  ],
+  "col": [
+   "derse girmek",
+   "sınıf mevcudu",
+   "toplumsal sınıf",
+   "...olarak sınıflandırılmak"
+  ],
+  "tip": "in class 'derste' anlamına gelir; in the class ise o sınıftaki (konum) anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "few",
+  "senses": [
+   "az; az sayıda",
+   "az sayıda kişi"
+  ],
+  "ex": [
+   "Bu sabah dükkânda çok az müşteri vardı.",
+   "Kırsal toplulukların çok azı, büyük şehirlerde bulunan uzman tıbbi hizmetlere erişebilmektedir."
+  ],
+  "col": [
+   "birkaç gün",
+   "çok az insan",
+   "seyrek; nadir"
+  ],
+  "tip": "few neredeyse hiç yok, a few ise birkaç tane var anlamındadır. İkisi de sayılabilir isimlerle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "country",
+  "senses": [
+   "ülke",
+   "kır; taşra",
+   "kantri müziği"
+  ],
+  "ex": [
+   "Gelecek yaz başka bir ülkeyi ziyaret etmeyi umuyor.",
+   "Her ülke, doğal kaynaklarını ve uzun vadeli çevresel hedeflerini yansıtan enerji politikaları geliştirmelidir."
+  ],
+  "col": [
+   "gelişmekte olan ülke",
+   "komşu ülke",
+   "kırda yaşamak",
+   "kantri müziği"
+  ],
+  "tip": "'Taşra' anlamında the country kullanılır; başında the olmayan country ise 'ülke' demektir.",
+  "note": ""
+ },
+ {
+  "id": "die",
+  "senses": [
+   "ölmek",
+   "durmak; sönmek",
+   "zar"
+  ],
+  "ex": [
+   "Unutursak sulamayı, bu bitkiler ölür.",
+   "Birçok deniz canlısı plastik atıkları yuttuktan sonra ölür; bu durum okyanus kirliliğini azaltma ihtiyacının acil olduğunu gösterir."
+  ],
+  "col": [
+   "kanserden ölmek",
+   "yok olmak; tükenmek",
+   "dinmek; yatışmak",
+   "yaralanmalarından ölmek"
+  ],
+  "tip": "die fiildir, dead sıfattır, death isimdir. 'He is die' değil, 'He is dead' denir.",
+  "note": ""
+ },
+ {
+  "id": "april",
+  "senses": [
+   "Nisan"
+  ],
+  "ex": [
+   "Yeni dairemize Nisan ayında taşınıyoruz.",
+   "Topluluk bahçesi Nisan ayında açılacak ve yerel sakinlere kendi sebzelerini yetiştirme fırsatı verecek."
+  ],
+  "col": [
+   "Nisan ayında",
+   "Nisan ayının başında",
+   "Nisan ayının sonunda"
+  ],
+  "tip": "Ay adları büyük harfle yazılır. Aylardan önce in, belirli tarihlerden önce on kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "with",
+  "senses": [
+   "ile; birlikte",
+   "sahip; ile",
+   "ile; kullanarak"
+  ],
+  "ex": [
+   "Dün gece kız kardeşimle akşam yemeği yaptım.",
+   "Okullar, çocuklara dış mekân etkinlikleri için güvenli alanlar sunmak amacıyla yerel topluluklarla çalışmalıdır."
+  ],
+  "col": [
+   "biriyle çalışmak",
+   "özenle",
+   "biriyle aynı fikirde olmak",
+   "...yardımıyla"
+  ],
+  "tip": "with'ten sonra isim veya nesne zamiri gelir: with me, with him. Özne zamiri kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "plate",
+  "senses": [
+   "tabak",
+   "levha; plaka",
+   "kaplamak"
+  ],
+  "ex": [
+   "Sıcak bir krepi tabağıma koydu.",
+   "Restoranlar daha küçük tabaklar sunup müşterilerin fazladan porsiyon istemesine izin vererek gıda israfını azaltabilir."
+  ],
+  "col": [
+   "yemek tabağı",
+   "bir tabak pirinç",
+   "çelik levha",
+   "altın kaplama takı"
+  ],
+  "tip": "plate genellikle sığ tabağı, bowl ise derin kaseyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "together",
+  "senses": [
+   "birlikte; beraber",
+   "bir araya; birleşik"
+  ],
+  "ex": [
+   "Akşam yemeğini birlikte pişirdik ve günümüz hakkında hikâyelerimizi paylaştık.",
+   "Okullar ve aileler, çocukların erken yaşta sağlıklı alışkanlıklar geliştirmesine yardımcı olmak için birlikte çalışmalıdır."
+  ],
+  "col": [
+   "birlikte çalışmak",
+   "bir araya gelmek",
+   "bir araya getirmek",
+   "birlikte yaşamak"
+  ],
+  "tip": "together genellikle zarftır ve fiilden sonra gelir: work together, live together.",
+  "note": ""
+ },
+ {
+  "id": "saturday",
+  "senses": [
+   "Cumartesi"
+  ],
+  "ex": [
+   "Sebzeleri genellikle Cumartesi günü pazardan alırız.",
+   "Halk kütüphanelerinin Cumartesi günü açık olması, çalışan birçok ebeveynin çocuklarıyla eğitim etkinliklerine katılmasını sağlar."
+  ],
+  "col": [
+   "Cumartesi günü",
+   "Cumartesi sabahı",
+   "her Cumartesi",
+   "bu Cumartesi"
+  ],
+  "tip": "Gün adları büyük harfle yazılır. on Saturday denir, ama this Saturday'den önce on kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "brown",
+  "senses": [
+   "kahverengi",
+   "kahverengi",
+   "kahverengileşmek"
+  ],
+  "ex": [
+   "Kapının yanında küçük kahverengi bir köpek uyuyordu.",
+   "Kurak dönemlerde bitkiler suyu korumak için büyümelerini azalttığından çimenler genellikle kahverengiye döner."
+  ],
+  "col": [
+   "koyu kahverengi",
+   "kahverengi gözler",
+   "kepekli pirinç",
+   "altın rengi kızarmış"
+  ],
+  "tip": "Mutfakta fiil olarak brown, yemeği kızartıp üzerinde kahverengi renk oluşturmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "spend",
+  "senses": [
+   "harcamak",
+   "geçirmek"
+  ],
+  "ex": [
+   "Bütün paramızı taze meyveye harcadık.",
+   "Hükümetler, kronik hastalıkların tedavisinin gelecekteki maliyetlerini azaltmak için koruyucu sağlığa daha fazla harcamalıdır."
+  ],
+  "col": [
+   "...e para harcamak",
+   "...yapmaya zaman harcamak",
+   "geceyi geçirmek"
+  ],
+  "tip": "Zaman için spend time doing, para için spend money on kalıbı kullanılır. Geçmiş zaman spent'tir.",
+  "note": ""
+ },
+ {
+  "id": "autumn",
+  "senses": [
+   "sonbahar"
+  ],
+  "ex": [
+   "Her sonbahar parkta dökülen yaprakları topluyoruz.",
+   "Daha sıcak sonbahar sıcaklıkları, yaprak dökülmesini geciktirebilir ve yerel yaban hayatının mevsimsel davranışlarını etkileyebilir."
+  ],
+  "col": [
+   "sonbaharda",
+   "sonbahar yaprakları",
+   "sonbaharın başında"
+  ],
+  "tip": "n harfi sessizdir. ABD İngilizcesinde mevsim için genellikle fall kullanılır.",
+  "note": ""
+ }
+]

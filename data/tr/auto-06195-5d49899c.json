@@ -1,0 +1,275 @@
+[
+ {
+  "id": "plantation",
+  "senses": [
+   "plantasyon; çiftlik",
+   "ağaçlandırılmış alan"
+  ],
+  "ex": [
+   "Tepenin yamacındaki bir çay plantasyonunun yanından geçtik.",
+   "Doğal ormanlar tarım alanı açmak için kesildiğinde, palmiye yağı plantasyonlarının genişlemesi biyolojik çeşitliliği tehdit edebilir."
+  ],
+  "col": [
+   "çay plantasyonu",
+   "kahve plantasyonu",
+   "plantasyon işçileri",
+   "orman plantasyonu"
+  ],
+  "tip": "Genellikle tek tür ürünün geniş alanda yetiştirildiği tarımsal işletmeleri anlatır; sıradan bir bahçe için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "screech",
+  "senses": [
+   "çığlık atmak; cıyaklamak",
+   "tiz çığlık; cızırtı"
+  ],
+  "ex": [
+   "Eski kapı ben itince tiz bir gıcırtı çıkardı.",
+   "Sıkı virajlarda tiz sesler çıkararak dönen trenler, yakındaki konut bölgelerinde gürültü kirliliğine önemli ölçüde katkıda bulunabilir."
+  ],
+  "col": [
+   "birden durmak",
+   "tiz bir çığlık",
+   "cıyaklayan frenler"
+  ],
+  "tip": "Hem insan ve hayvan çığlığı hem de fren veya lastik gibi cisimlerin çıkardığı keskin sesler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mimic",
+  "senses": [
+   "taklit etmek; öykünmek",
+   "taklitçi"
+  ],
+  "ex": [
+   "Papağanımız kapı zilinin sesini mükemmel biçimde taklit ediyor.",
+   "Mühendisler, üretimi daha az enerji gerektiren hafif malzemeler geliştirmek için giderek daha fazla doğal yapıyı taklit ediyor."
+  ],
+  "col": [
+   "birinin sesini taklit etmek",
+   "doğal süreçleri taklit etmek",
+   "yetenekli bir taklitçi"
+  ],
+  "tip": "Geçmiş zaman mimicked, ing hali mimicking biçimindedir; son harf k eklenir.",
+  "note": ""
+ },
+ {
+  "id": "elaborate",
+  "senses": [
+   "ayrıntılı; karmaşık",
+   "ayrıntılandırmak; açıklamak"
+  ],
+  "ex": [
+   "Pastanın üzerinde tamamen şekerden yapılmış ayrıntılı çiçekler vardı.",
+   "Hükümetler, bazen uygulayacak öğretmenlere danışmadan karmaşık eğitim reformu planları geliştirebiliyor."
+  ],
+  "col": [
+   "ayrıntılı bir tasarım",
+   "karmaşık bir plan",
+   "bir noktayı ayrıntılandırmak"
+  ],
+  "tip": "Fiil olarak sonundaki ses /eɪt/ okunur; elaborate on kalıbı bir konuyu ayrıntılı açıklamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "mechanics",
+  "senses": [
+   "mekanik (bilim dalı)",
+   "işleyiş; uygulama yöntemi"
+  ],
+  "ex": [
+   "Küçük bir ahşap mancınık yaparak mekanik ilkelerini keşfettik.",
+   "Çevrim içi öğrenmenin işleyişini anlamak, öğretmenlerin öğrencilerin kolayca izleyebileceği dersler tasarlamasına yardımcı olur."
+  ],
+  "col": [
+   "klasik mekanik",
+   "akışkanlar mekaniği",
+   "oylamanın işleyişi"
+  ],
+  "tip": "Bilim dalı anlamında tekil fiille (Mechanics is), işleyiş anlamında çoğul fiille (The mechanics are) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tradesman",
+  "senses": [
+   "usta; zanaatkâr",
+   "tüccar; dükkân sahibi"
+  ],
+  "ex": [
+   "Yerel bir usta, öğle yemeğinden önce kırık pencereyi onardı.",
+   "Elektrik onarımları için yetkili bir usta tutmak, güvenlik risklerini azaltabilir ve mülke pahalıya mal olabilecek hasarları önleyebilir."
+  ],
+  "col": [
+   "deneyimli bir usta",
+   "yetkili bir usta",
+   "yerel bir usta"
+  ],
+  "tip": "Çoğulu tradesmen'dır; cinsiyet belirtmeyen karşılığı tradesperson kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "heroic",
+  "senses": [
+   "kahramanca; cesur",
+   "olağanüstü; çetin"
+  ],
+  "ex": [
+   "İtfaiyeci, su basan evden kahramanca bir kurtarma yaptı.",
+   "Kahraman bireyler takdiri hak etse de etkili afet yönetimi iyi eğitilmiş ekiplere ve güvenilir altyapıya dayanır."
+  ],
+  "col": [
+   "kahramanca bir eylem",
+   "kahramanca bir kurtarma",
+   "olağanüstü bir çaba"
+  ],
+  "tip": "Heroic effort tehlike içermese de büyük ve zorlu bir çabayı anlatabilir; yalnızca cesaret gerektiren durumlarla sınırlı değildir.",
+  "note": ""
+ },
+ {
+  "id": "fiddle",
+  "senses": [
+   "keman",
+   "kurcalamak; oynamak",
+   "tahrif etmek; hile yapmak"
+  ],
+  "ex": [
+   "Amcam aile toplantılarında keman çalar.",
+   "Keman gibi geleneksel çalgılar, genç kuşakların kültürel mirasıyla bağ kurmasına yardımcı olabilir."
+  ],
+  "col": [
+   "keman çalmak",
+   "kalemi kurcalamak",
+   "hesapları tahrif etmek"
+  ],
+  "tip": "Keman anlamı gayriresmîdir; resmi metinlerde violin tercih edilir. fiddle with bir şeyi kurcalamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "utilise",
+  "senses": [
+   "değerlendirmek; yararlanmak"
+  ],
+  "ex": [
+   "Boş odayı küçük bir ofis olarak kullanıyoruz.",
+   "Şehirler, boş binaları uygun fiyatlı konut sağlamak ve çevredeki tarım arazileri üzerindeki baskıyı azaltmak için değerlendirebilir."
+  ],
+  "col": [
+   "kaynakları değerlendirmek",
+   "tamamen değerlendirmek",
+   "teknolojiden yararlanmak"
+  ],
+  "tip": "İngiliz yazımıdır; Amerikan yazımı utilize şeklindedir. Günlük dilde çoğunlukla use tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "deplete",
+  "senses": [
+   "tüketmek; azaltmak"
+  ],
+  "ex": [
+   "Aynı anda birkaç uygulama çalıştırmak pilinizi hızla tüketebilir.",
+   "Yoğun tarım, toprağın besin maddelerini tüketebilir; bu da gelecekteki gıda üretimini daha zor ve pahalı hale getirir."
+  ],
+  "col": [
+   "kaynakları tüketmek",
+   "enerji rezervlerini tüketmek",
+   "stokları azaltmak"
+  ],
+  "tip": "Miktarın büyük ölçüde azalmasını anlatır; her zaman tamamen bitmesi anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "strategic",
+  "senses": [
+   "stratejik; planlı",
+   "stratejik öneme sahip"
+  ],
+  "ex": [
+   "Taşınmadan önce tasarruf yapmak için stratejik bir karar aldık.",
+   "Toplu taşımaya yapılacak stratejik yatırımlar, uzun vadede trafik sıkışıklığını azaltabilir ve ekonomik büyümeyi destekleyebilir."
+  ],
+  "col": [
+   "stratejik planlama",
+   "stratejik karar",
+   "stratejik konum",
+   "stratejik yatırım"
+  ],
+  "tip": "Strategic uzun vadeli genel planı, tactical ise kısa vadeli ve somut taktikleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "repel",
+  "senses": [
+   "uzaklaştırmak; püskürtmek",
+   "itmek; geçirmez olmak",
+   "iğrendirmek"
+  ],
+  "ex": [
+   "Bu sprey, dışarıda yemek yerken sivrisinekleri uzaklaştırmaya yardımcı oluyor.",
+   "Modern dış mekân giysileri, nemin dışarı çıkmasına izin verirken suyu geçirmeyen özel işlem görmüş kumaşlar kullanır."
+  ],
+  "col": [
+   "böcekleri uzaklaştırmak",
+   "bir saldırıyı püskürtmek",
+   "suyu geçirmemek",
+   "birbirini itmek"
+  ],
+  "tip": "Geçmiş zaman repelled, ing hali repelling biçimindedir; son harf l ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "flare",
+  "senses": [
+   "alevlenmek; şiddetlenmek",
+   "parlak alev; işaret fişeği",
+   "dışa doğru açılmak"
+  ],
+  "ex": [
+   "Adam bir kuru dal daha ekleyince alevler birden parladı.",
+   "Yerel sakinlerin kaygılarını dikkate almayan kentsel gelişim projeleri, gerilimleri hızla alevlendirebilir."
+  ],
+  "col": [
+   "alevlenmek; patlak vermek",
+   "tehlike işareti fişeği",
+   "dışa doğru açılmak"
+  ],
+  "tip": "flare up hem yangının birden büyümesi hem de çatışma veya hastalığın nüksetmesi için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "proprietor",
+  "senses": [
+   "işletme sahibi; malik"
+  ],
+  "ex": [
+   "Fırının sahibi her müşteriyi gülümseyerek karşıladı.",
+   "Bağımsız bir dükkân sahibi, toptan fiyatlarda pazarlık yapabilen büyük perakendecilerle rekabet etmekte zorlanabilir."
+  ],
+  "col": [
+   "tek sahipli işletmeci",
+   "dükkân sahibi",
+   "otel sahibi"
+  ],
+  "tip": "Resmi bir sözcüktür; genellikle dükkân, otel gibi işletmelerin sahibi için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "assimilate",
+  "senses": [
+   "özümsemek",
+   "uyum sağlamak; kaynaştırmak"
+  ],
+  "ex": [
+   "Bugün öğrendiklerimizin hepsini tamamen özümsemek için zamana ihtiyacım var.",
+   "Öğretmenler yeni kavramları günlük hayattan örneklerle ilişkilendirdiğinde öğrenciler yeni bilgileri daha etkili biçimde özümser."
+  ],
+  "col": [
+   "bilgiyi özümsemek",
+   "yeni fikirleri benimsemek",
+   "topluma uyum sağlamak"
+  ],
+  "tip": "Bilgi ve fikirler doğrudan nesne alır; bir gruba uyum sağlamak anlamında into ile kullanılır.",
+  "note": ""
+ }
+]

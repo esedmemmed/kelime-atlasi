@@ -1,0 +1,279 @@
+[
+ {
+  "id": "alike",
+  "senses": [
+   "benzer",
+   "aynı biçimde; eşit olarak"
+  ],
+  "ex": [
+   "Bu iki ceket birbirine benziyor, ama biri daha sıcak tutuyor.",
+   "Kamusal parklar, erişilebilir egzersiz ve dinlenme alanları sunarak hem çocuklara hem yetişkinlere fayda sağlar."
+  ],
+  "col": [
+   "birbirine benzemek",
+   "aynı düşünmek",
+   "herkese eşit davranmak"
+  ],
+  "tip": "Sıfat olarak genellikle isimden önce değil, look, seem gibi fiillerden sonra kullanılır. Örneğin: 'two alike jackets' yerine 'jackets that look alike'.",
+  "note": ""
+ },
+ {
+  "id": "triangle",
+  "senses": [
+   "üçgen",
+   "üçgen (vurmalı çalgı)"
+  ],
+  "ex": [
+   "Kesmeden önce kağıdı üçgen şeklinde katlayın.",
+   "Mühendisler, köprü tasarımlarında fazla malzeme gerektirmeden dayanıklılık sağladığı için sık sık üçgen şekillerden yararlanır."
+  ],
+  "col": [
+   "dik üçgen",
+   "eşkenar üçgen",
+   "aşk üçgeni"
+  ],
+  "tip": "Sayılabilir isimdir: a triangle, two triangles. Müzik anlamında bağlamdan ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "vinegar",
+  "senses": [
+   "sirke"
+  ],
+  "ex": [
+   "Salata sosuna biraz sirke ekleyin.",
+   "Geleneksel gıda saklama yöntemleri, sebzelerin saklama süresini uzatmak için bakteri gelişimini yavaşlatmada genellikle sirkeden yararlanır."
+  ],
+  "col": [
+   "pirinç sirkesi",
+   "şarap sirkesi",
+   "bir sıçrama sirke",
+   "sirkede turşulanmış"
+  ],
+  "tip": "Genellikle sayılamaz. Miktar belirtmek için a bottle of vinegar gibi kalıplar kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "chart",
+  "senses": [
+   "grafik; çizelge",
+   "kaydetmek; izlemek",
+   "seyir haritası; harita"
+  ],
+  "ex": [
+   "Bu renkli grafik, paramızı nasıl harcadığımızı gösteriyor.",
+   "Grafik, üç farklı şehirde toplu taşımayla işe gidip gelenlerin oranını karşılaştırıyor."
+  ],
+  "col": [
+   "çubuk grafik",
+   "pasta grafiği",
+   "ilerlemeyi takip etmek",
+   "seyir haritası"
+  ],
+  "tip": "Grafik için chart, genel amaçlı harita için map kullanılır. Denizcilik ve havacılıkta harita için de chart denir.",
+  "note": ""
+ },
+ {
+  "id": "chilly",
+  "senses": [
+   "serin; üşütücü",
+   "soğuk; mesafeli"
+  ],
+  "ex": [
+   "Dışarısı biraz serindi, bu yüzden ceketimi aldım.",
+   "Serin havalarda sıcak kamusal alanlar sağlamak, yaşlı sakinleri soğuğa bağlı hastalıklardan koruyabilir."
+  ],
+  "col": [
+   "serin bir sabah",
+   "üşümek",
+   "soğuk karşılama"
+  ],
+  "tip": "Freezing'den daha hafif bir soğukluğu anlatır. İnsanlar için kullanıldığında soğuk ve mesafeli davranışı belirtir.",
+  "note": ""
+ },
+ {
+  "id": "talent",
+  "senses": [
+   "yetenek; kabiliyet",
+   "yetenekli insanlar"
+  ],
+  "ex": [
+   "Kuzenimin hayvan çizmekte gerçek bir yeteneği var.",
+   "Okullar, öğrencilerin daha geniş bir beceri yelpazesi geliştirmesine yardımcı olmak için akademik başarının yanında yaratıcı yeteneği de desteklemeli."
+  ],
+  "col": [
+   "bir konuda yetenek",
+   "doğal yetenek",
+   "yeteneği geliştirmek",
+   "yetenekli insanları çekmek"
+  ],
+  "tip": "Belirli bir alandaki yetenek için a talent for + isim veya -ing kullanılır. 'Talent' kelimesi sayılabilir kişi anlamında da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "bounce",
+  "senses": [
+   "zıplamak; sekmek",
+   "sekme; zıplama",
+   "karşılıksız çıkmak"
+  ],
+  "ex": [
+   "Top çitin üzerinden komşumuzun bahçesine sekti.",
+   "Yerel işletmeler, zamanında finansal destek alırlarsa ekonomik şoklardan sonra toparlanabilir."
+  ],
+  "col": [
+   "topu zıplatmak",
+   "toparlanmak",
+   "çekin karşılıksız çıkması",
+   "birine fikir danışmak"
+  ],
+  "tip": "bounce back hem fiziksel olarak geri sekmeyi hem de zor bir durumdan sonra toparlanmayı anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "relaxation",
+  "senses": [
+   "dinlenme; rahatlama",
+   "kas gevşemesi",
+   "gevşetme; hafifletme"
+  ],
+  "ex": [
+   "İş çıkışında rahatlamak için sıcak bir banyo yapmayı severim.",
+   "Okullar, öğrencilerin önemli sınavlardan önce kaygılarını yönetmesine yardımcı olmak için gevşeme tekniklerini öğretmeli."
+  ],
+  "col": [
+   "gevşeme teknikleri",
+   "kas gevşemesi",
+   "kısıtlamaların hafifletilmesi"
+  ],
+  "tip": "Dinlenme anlamında genellikle sayılamaz ve for relaxation şeklinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tuna",
+  "senses": [
+   "ton balığı"
+  ],
+  "ex": [
+   "Bugün öğle yemeği için ton balıklı bir sandviç hazırladım.",
+   "Aşırı avlanmayı önlemek ve ton balığı stoklarının gelecek nesiller için sağlıklı kalmasını sağlamak için uluslararası işbirliği şarttır."
+  ],
+  "col": [
+   "ton balıklı sandviç",
+   "konserve ton balığı",
+   "mavi yüzgeçli ton balığı",
+   "ton balığı stokları"
+  ],
+  "tip": "Hem balık hem et için aynı kelime kullanılır. Balık türü olarak çoğul hâli genellikle yine tuna kalır.",
+  "note": ""
+ },
+ {
+  "id": "landing",
+  "senses": [
+   "iniş; konma",
+   "merdiven sahanlığı"
+  ],
+  "ex": [
+   "Rüzgara rağmen uçak sorunsuz bir iniş yaptı.",
+   "Gelişmiş hava tahminleri, hızla değişen koşullarda pilotların güvenli iniş için hazırlanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "acil iniş",
+   "yumuşak iniş",
+   "iniş takımı",
+   "üst kat sahanlığı"
+  ],
+  "tip": "Uçak için iniş, merdiven için sahanlık anlamına gelir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "stylish",
+  "senses": [
+   "şık; modaya uygun"
+  ],
+  "ex": [
+   "Yeşil şık ceketi, sade pantolonla çok yakışmıştı.",
+   "Uygun fiyatlı ve şık mobilyalar, genç tüketicileri evlerinde geri dönüştürülmüş malzemeleri seçmeye teşvik edebilir."
+  ],
+  "col": [
+   "şık giysiler",
+   "şık bir tasarım",
+   "şık bir iç mekân"
+  ],
+  "tip": "Görünüşün ve tasarımın çekiciliğini anlatır; pahalı ya da lüks anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "national",
+  "senses": [
+   "ulusal; milli",
+   "vatandaş; uyruklu"
+  ],
+  "ex": [
+   "Kız kardeşim milli yüzme takımına katılmayı umuyor.",
+   "Ulusal politikalar, bölgeler arasındaki sağlık ve eğitime erişim farklarını azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "ulusal kimlik",
+   "milli park",
+   "merkezi hükümet",
+   "yabancı uyruklu kişi"
+  ],
+  "tip": "National bir ülkenin bütününü anlatır; international ise ülkeler arası anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "flute",
+  "senses": [
+   "flüt"
+  ],
+  "ex": [
+   "Her öğleden sonra yatak odasının penceresi önünde flüt çalışır.",
+   "Flüt çalmayı öğrenmek konsantrasyonu geliştirebilir ve çocukları müzik topluluklarına katılmaya teşvik edebilir."
+  ],
+  "col": [
+   "flüt çalmak",
+   "flüt solosu",
+   "flüt dersleri"
+  ],
+  "tip": "Çalgı çalmak için play the flute kalıbı kullanılır. Çalgıyı çalan kişi için İngilizce'de flautist, Amerikan'da flutist denir.",
+  "note": ""
+ },
+ {
+  "id": "ceiling",
+  "senses": [
+   "tavan",
+   "üst sınır"
+  ],
+  "ex": [
+   "Tavanda küçük bir örümcek dolaşıyordu.",
+   "Yıllık kira artışlarına getirilecek bir üst sınır kiracıları koruyabilir, ancak konut yatırımlarını caydırabilir."
+  ],
+  "col": [
+   "yüksek tavan",
+   "tavan vantilatörü",
+   "fiyat tavanı",
+   "üst sınır koymak"
+  ],
+  "tip": "Ceiling odanın iç tavanını anlatır; roof ise binanın dış çatısını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "peaceful",
+  "senses": [
+   "huzurlu; sakin",
+   "barışçıl; şiddet içermeyen"
+  ],
+  "ex": [
+   "Göl sabahın erken saatlerindeki ışıkta huzurlu görünüyor.",
+   "Huzurlu kamusal alanlar oluşturmak, sakinlerin refahını artırabilir ve insanları dışarıda daha fazla vakit geçirmeye teşvik edebilir."
+  ],
+  "col": [
+   "huzurlu bir çevre",
+   "barışçıl protesto",
+   "barışçıl çözüm"
+  ],
+  "tip": "Bir ortam için sakin, bir eylem için şiddet içermeyen anlamında kullanılır. İsimden önce de kullanılabilir.",
+  "note": ""
+ }
+]

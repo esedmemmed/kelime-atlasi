@@ -1,0 +1,269 @@
+[
+ {
+  "id": "crumble",
+  "senses": [
+   "ufalanmak; parçalanmak",
+   "çökmek; yıkılmak"
+  ],
+  "ex": [
+   "Kuru bisküvi elime alınca ufalandı.",
+   "Düzenli bakım yapılmazsa tarihi binalar yıkılabilir ve topluluklar mirasının önemli bir parçasını kaybedebilir."
+  ],
+  "col": [
+   "parçalara ayrılmak",
+   "baskı altında çökmek",
+   "yavaş yavaş ufalanmak"
+  ],
+  "tip": "Somut bir şeyin ufalanmasını da, bir düzenin ya da inancın zamanla çökmesini de anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "radish",
+  "senses": [
+   "turp"
+  ],
+  "ex": [
+   "Dilimlediğim çıtır turpu öğle yemeği salatamıza ekledim.",
+   "Okul bahçelerinde turp yetiştirmek, çocukların bitki gelişimini gözlemlemesine ve sağlıklı beslenme hakkında bilgi edinmesine olanak tanır."
+  ],
+  "col": [
+   "dilimlenmiş turp",
+   "turp tohumu",
+   "turşulanmış turp"
+  ],
+  "tip": "Sayılabilir isimdir: a radish, radishes. Büyük beyaz turp için genellikle daikon denir.",
+  "note": ""
+ },
+ {
+  "id": "enquire",
+  "senses": [
+   "bilgi istemek; sormak"
+  ],
+  "ex": [
+   "Müsait odalar olup olmadığını öğrenmek için otele telefon ettim.",
+   "Hangi üniversite bölümünün ihtiyaçlarına en uygun olduğuna karar vermeden önce, öğrenciler mali destek hakkında bilgi almalıdır."
+  ],
+  "col": [
+   "fiyatları sormak",
+   "...olup olmadığını sormak",
+   "bir konuyu araştırmak"
+  ],
+  "tip": "İngiliz İngilizcesinde yaygındır; Amerikan İngilizcesinde genellikle inquire tercih edilir. Çoğunlukla enquire about kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "masterpiece",
+  "senses": [
+   "şaheser"
+  ],
+  "ex": [
+   "Herkes şömine üstündeki şaheseri hayranlıkla izlemek için durdu.",
+   "Bir şaheseri halka açık bir müzede sergilemek, farklı geçmişlerden insanların sanatsal başarıyı takdir etmesini sağlar."
+  ],
+  "col": [
+   "edebi bir şaheser",
+   "sanatsal bir şaheser",
+   "şaheser yaratmak"
+  ],
+  "tip": "Genellikle sanat eseri, edebi bir eser ya da teknik bir ürün için kullanılır; yetenekli bir kişiye bu sözcükle hitap edilmez.",
+  "note": ""
+ },
+ {
+  "id": "orphan",
+  "senses": [
+   "yetim",
+   "yetim bırakmak"
+  ],
+  "ex": [
+   "Hikâye, teyzesiyle yaşayan yetim bir kızı konu alıyor.",
+   "Doğal afetler nedeniyle yetim kalan çocuklar, istikrarlı bakıma, duygusal desteğe ve eğitime kesintisiz erişime ihtiyaç duyar."
+  ],
+  "col": [
+   "küçük yaşta yetim kalmak",
+   "yetimlere bakmak",
+   "yetim kalmış çocuk"
+  ],
+  "tip": "Yalnızca her iki ebeveynini de kaybeden çocuk için kullanılır. Tek ebeveynini kaybeden çocuk için bu sözcük uygun değildir.",
+  "note": ""
+ },
+ {
+  "id": "imaginary",
+  "senses": [
+   "hayali; uydurma"
+  ],
+  "ex": [
+   "Çocuk hayali bir arkadaşına çay koyuyordu.",
+   "Hikâye anlatımıyla hayali dünyalar yaratmak, çocukların yaratıcılıklarını geliştirmesine ve tanıdık olmayan sosyal durumları güvenle keşfetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "hayali arkadaş",
+   "hayali dünya",
+   "hayali durum"
+  ],
+  "tip": "Gerçekte var olmayan, yalnızca zihinde bulunan şeyleri anlatır. Yaratıcı, hayal gücü geniş anlamındaki imaginative ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "suffering",
+  "senses": [
+   "acı; ıstırap"
+  ],
+  "ex": [
+   "İlaç, onun acısını hafifletti ve uyumasına yardımcı oldu.",
+   "Uzun süren kuraklıktan etkilenen topluluklarda temiz suya erişimi artırmak, insani acıyı azaltabilir."
+  ],
+  "col": [
+   "acıyı hafifletmek",
+   "insani acı",
+   "gereksiz acı"
+  ],
+  "tip": "Genel anlamda acı için sayılamayan isimdir; sufferings ise çeşitli acılar ya da sıkıntılar anlamında çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "disposable",
+  "senses": [
+   "tek kullanımlık",
+   "net; vergi sonrası"
+  ],
+  "ex": [
+   "Göl kenarındaki piknik için tek kullanımlık tabaklar hazırladık.",
+   "Tek kullanımlık ambalaj kullanımını azaltmak, çöp depolama alanlarına giden atık miktarını önemli ölçüde düşürebilir."
+  ],
+  "col": [
+   "net gelir",
+   "tek kullanımlık eldiven",
+   "tek kullanımlık ambalaj",
+   "tek kullanımlık bardak"
+  ],
+  "tip": "disposable income vergi sonrası net geliri anlatır; yaşam giderleri düşüldükten sonra kalan para anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "bronze",
+  "senses": [
+   "tunç; bronz",
+   "bronz madalya",
+   "tunçtan; bronz renkli"
+  ],
+  "ex": [
+   "Küçük heykel tamamen masif tunçtan yapılmış.",
+   "Tunçtan yapılmış antik aletler, metal işçiliğindeki gelişmelerin erken toplumlarda tarımı ve ticareti nasıl dönüştürdüğünü gösteriyor."
+  ],
+  "col": [
+   "tunç heykel",
+   "bronz madalya",
+   "tunçtan dökmek"
+  ],
+  "tip": "bronze tunçtur; brass pirinç, copper ise bakırdır. Üçüncülük madalyası için bronze medal denir.",
+  "note": ""
+ },
+ {
+  "id": "seek",
+  "senses": [
+   "aramak; bulmaya çalışmak",
+   "çabalamak; çalışmak"
+  ],
+  "ex": [
+   "Kullanılmış bir araba almadan önce mutlaka uzman görüşü almalısın.",
+   "Birçok mezun, mesleki deneyim kazanmak ve dil becerilerini geliştirmek için yurt dışında iş arıyor."
+  ],
+  "col": [
+   "tavsiye aramak",
+   "iş aramak",
+   "gelişmeye çalışmak",
+   "yardım aramak"
+  ],
+  "tip": "Düzensiz fiildir: seek, sought, sought. Nesnesini doğrudan alır; 'seek for' yerine yalnızca seek kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "triumph",
+  "senses": [
+   "büyük başarı; zafer",
+   "zafer sevinci",
+   "zafer kazanmak"
+  ],
+  "ex": [
+   "Amir için yerel satranç turnuvasını kazanmak büyük bir zaferdi.",
+   "Sulak alanın başarıyla restore edilmesi, koruma gruplarının ve yerel sakinlerin elde ettiği bir zafer niteliği taşıyor."
+  ],
+  "col": [
+   "büyük bir zafer",
+   "zafer duygusu",
+   "zorluklara karşı kazanılan zafer"
+  ],
+  "tip": "Fiil olarak genellikle triumph over kalıbıyla, bir zorluğu ya da rakibi yenmek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "effectively",
+  "senses": [
+   "etkili biçimde",
+   "fiilen; aslında"
+  ],
+  "ex": [
+   "Bu basit fırça, çamurlu ayakkabıları şaşırtıcı derecede etkili biçimde temizliyor.",
+   "Okullar, öğrencileri sınıf etkinliklerinde materyalleri yeniden kullanmaya teşvik ederek atığı etkili biçimde azaltabilir."
+  ],
+  "col": [
+   "etkili iletişim kurmak",
+   "etkili çalışmak",
+   "fiilen imkânsız"
+  ],
+  "tip": "effectively sonucun etkili olmasını, efficiently ise az zaman ve kaynakla verimli olmayı anlatır. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "enlarge",
+  "senses": [
+   "büyütmek; genişletmek"
+  ],
+  "ex": [
+   "Bu fotoğrafı çerçeveletmek için büyütebilir misin?",
+   "Belediye, artan sessiz çalışma alanı talebini karşılamak için halk kütüphanesini genişletmeyi planlıyor."
+  ],
+  "col": [
+   "fotoğrafı büyütmek",
+   "görüntüyü büyütmek",
+   "bir konuyu ayrıntılandırmak"
+  ],
+  "tip": "enlarge on bir konuyu daha ayrıntılı açıklamak anlamına gelir; fiziksel büyütmeyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "skull",
+  "senses": [
+   "kafatası"
+  ],
+  "ex": [
+   "Müze, büyük bir dinozorun kafatasını sergiledi.",
+   "İyi oturan bir kask, bisiklet kazalarında kafatasını ve beyni korumaya yardımcı olur."
+  ],
+  "col": [
+   "kafatası kırığı",
+   "kafatasının tabanı",
+   "insan kafatası"
+  ],
+  "tip": "skull başı koruyan kemik yapıyı, brain ise içindeki beyni anlatır. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "opener",
+  "senses": [
+   "açacak",
+   "açılış programı; ilk maç"
+  ],
+  "ex": [
+   "Şişe açacağını mutfak çekmecesinde tutuyorum.",
+   "Festivalin açılış programı, yerel kültürel etkinliklerin artan popülerliğini gösterircesine çeşitli bir izleyici kitlesi çekti."
+  ],
+  "col": [
+   "şişe açacağı",
+   "konserve açacağı",
+   "sezon açılış maçı"
+  ],
+  "tip": "Araç adları genellikle açılan kabın adıyla birlikte kullanılır: bottle opener, can opener. Sayılabilir bir isimdir.",
+  "note": ""
+ }
+]

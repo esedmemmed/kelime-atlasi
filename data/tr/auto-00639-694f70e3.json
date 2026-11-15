@@ -1,0 +1,280 @@
+[
+ {
+  "id": "right",
+  "senses": [
+   "doğru; uygun",
+   "hak",
+   "sağ; sağdaki"
+  ],
+  "ex": [
+   "Kapıyı açmak için doğru anahtarı seçtin.",
+   "Her çocuğun, ailesinin maddi durumu ne olursa olsun eğitim alma hakkı vardır."
+  ],
+  "col": [
+   "doğru cevap",
+   "eğitim hakkı",
+   "sağda",
+   "doğru karar vermek"
+  ],
+  "tip": "Hak anlamında a right to + isim kalıbı kullanılır. Yön için on the right; 'sağ' anlamında sıfat olarak da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "difficult",
+  "senses": [
+   "zor; güç",
+   "geçimsiz; zor"
+  ],
+  "ex": [
+   "Bu ağır bavulu merdivenlerden yukarı taşımak zor.",
+   "Birçok mezun, seçtikleri alanda önceki deneyim olmadan istikrarlı bir iş bulmakta zorlanıyor."
+  ],
+  "col": [
+   "zor bir karar",
+   "anlaşılması zor",
+   "geçimsiz bir müşteri"
+  ],
+  "tip": "find it difficult to do kalıbını kullanın. 'Difficulty' isimdir; sıfat yerine kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "pencil",
+  "senses": [
+   "kurşun kalem",
+   "kurşun kalemle yazmak; çizmek"
+  ],
+  "ex": [
+   "Uyuyan kediyi çizmeden önce kurşun kalemini açtı.",
+   "Kurşun kalem kullanmak, öğrencilerin bilimsel kavramları anladıkça şemalarını kolayca düzeltmesine olanak tanır."
+  ],
+  "col": [
+   "kalemi açmak",
+   "kurşun kalemle",
+   "renkli kalem",
+   "kalemlik"
+  ],
+  "tip": "Kurşun kalemle yazmak in pencil; pencil in ise bir şeyi geçici olarak planlamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "somebody",
+  "senses": [
+   "birisi; biri"
+  ],
+  "ex": [
+   "Ön kapının yanına biri mavi bir şemsiye bırakmış.",
+   "Öğrenciler, kendilerini yargılamadan dinleyecek birinin olduğunu bildiklerinde yardım istemeye daha yatkın oluyor."
+  ],
+  "col": [
+   "başka biri",
+   "konuşacak biri",
+   "özel biri"
+  ],
+  "tip": "Özne olduğunda fiil tekil olur: Somebody is waiting. Sonraki göndermelerde they kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "person",
+  "senses": [
+   "kişi; insan",
+   "şahıs; kişi"
+  ],
+  "ex": [
+   "Fırının önünde bekleyen tek bir kişi vardı.",
+   "Her insanın gelirine ya da istihdam durumuna bakılmaksızın uygun fiyatlı sağlık hizmetine erişebilmesi gerekir."
+  ],
+  "col": [
+   "bizzat; şahsen",
+   "genç bir kişi",
+   "ortalama insan",
+   "birinci şahıs"
+  ],
+  "tip": "Çoğulu people'dır. Persons yalnızca resmi ve hukuki metinlerde kullanılır; günlük dilde tercih edilmez.",
+  "note": ""
+ },
+ {
+  "id": "street",
+  "senses": [
+   "sokak; cadde"
+  ],
+  "ex": [
+   "Fırına ulaşmak için caddeyi geçtik.",
+   "Kalabalık caddelere ağaç dikmek hava kalitesini artırabilir ve kentsel mahalleleri yayalar için daha hoş hale getirebilir."
+  ],
+  "col": [
+   "caddeyi geçmek",
+   "kalabalık cadde",
+   "yerleşim caddesi",
+   "cadde aydınlatması"
+  ],
+  "tip": "Street, iki yanı binalarla çevrili kentsel yolu anlatır; kırsal yollar için road daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "include",
+  "senses": [
+   "içermek; kapsamak",
+   "dahil etmek; katmak"
+  ],
+  "ex": [
+   "Fiyata kahvaltı ve temiz havlu dahil mi?",
+   "Kentsel gelişim planları, düşük gelirli sakinleri desteklemek için uygun fiyatlı konutları ve güvenilir toplu taşımayı içermelidir."
+  ],
+  "col": [
+   "birini dahil etmek",
+   "geniş bir yelpazeyi kapsamak",
+   "fiyata dahil"
+  ],
+  "tip": "Include, listedeki bazı öğeleri belirtir, tam listeyi değil. Tamamını anlatmak için consist of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "radio",
+  "senses": [
+   "radyo",
+   "radyo yayıncılığı; telsiz",
+   "telsizle haber vermek"
+  ],
+  "ex": [
+   "Babam mutfak rafında küçük bir radyo tutar.",
+   "Güvenilir internet erişiminin sınırlı olduğu uzak topluluklarda radyo hâlâ önemli bir bilgi kaynağıdır."
+  ],
+  "col": [
+   "radyo dinlemek",
+   "radyo istasyonu",
+   "radyo programı",
+   "radyo sinyali"
+  ],
+  "tip": "Radyo dinlemek listen to the radio; radyoda yayınlanmak on the radio kalıbıdır. Cihaz ve yayın için aynı sözcük kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "post-office",
+  "senses": [
+   "postane"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce paketi postaneye götürdüm.",
+   "Yerel bir postane, güvenilir internete sahip olmayan kırsal sakinlere temel hizmetler sunabilir."
+  ],
+  "col": [
+   "yerel postane",
+   "postane gişesi",
+   "postane şubesi"
+  ],
+  "tip": "Doğru yazım post office olup iki sözcük arasında tire kullanılmaz.",
+  "note": "Standart olmayan kısa çizgili yazım post office olarak düzeltildi."
+ },
+ {
+  "id": "ice",
+  "senses": [
+   "buz",
+   "şekerle kaplamak"
+  ],
+  "ex": [
+   "İçeceğine birkaç küp buz attı.",
+   "Kutup buzlarının kaybı yaban hayatı yaşam alanlarını tehdit eder ve güneş ışığının yansımasını azaltarak ısınmayı hızlandırabilir."
+  ],
+  "col": [
+   "buz küpü",
+   "deniz buzu",
+   "buzu eritmek",
+   "pastayı şekerle kaplamak"
+  ],
+  "tip": "Buz genel anlamda sayılamaz (some ice). Bir parça buz için an ice cube ya da a piece of ice denir.",
+  "note": ""
+ },
+ {
+  "id": "everything",
+  "senses": [
+   "her şey; bütün şeyler",
+   "en önemli şey"
+  ],
+  "ex": [
+   "Fırtına sırasında çantamdaki her şey ıslandı.",
+   "Dijital kaynaklar değerli olsa da öğrenciler internette okudukları her şeyin doğru olduğunu varsaymamalıdır."
+  ],
+  "col": [
+   "diğer her şey",
+   "mümkün olan her şey",
+   "birinin her şeyi olmak"
+  ],
+  "tip": "Özne olduğunda tekil fiil kullanılır: Everything is ready. Tek sözcük olarak yazılır.",
+  "note": ""
+ },
+ {
+  "id": "west",
+  "senses": [
+   "batı; batı bölgesi",
+   "batıdaki; batıya bakan",
+   "batıya doğru"
+  ],
+  "ex": [
+   "Mutfak penceremiz batıya bakar ve akşam güneşini alır.",
+   "Ülkenin batısına yapılacak yatırımlar bölgesel eşitsizlikleri azaltabilir ve istihdam fırsatları yaratabilir."
+  ],
+  "col": [
+   "batıda",
+   "batıya gitmek",
+   "batı kıyısı",
+   "tam batı"
+  ],
+  "tip": "Yön adları küçük harfle yazılır. the West ise Batı ülkeleri ya da Batı dünyası anlamında büyük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "brother",
+  "senses": [
+   "ağabey; erkek kardeş"
+  ],
+  "ex": [
+   "Küçük erkek kardeşim bu sabah bisikletimi ödünç aldı.",
+   "Büyük kardeşler, evde çocuklarla düzenli kitap okuyarak küçük kardeşlerinin öğrenmesine destek olabilir."
+  ],
+  "col": [
+   "büyük erkek kardeş",
+   "küçük erkek kardeş",
+   "ikiz erkek kardeş"
+  ],
+  "tip": "Brother hem ağabey hem erkek kardeşi kapsar. Yaş farkını belirtmek için older ya da younger ekleyin.",
+  "note": ""
+ },
+ {
+  "id": "mountain",
+  "senses": [
+   "dağ",
+   "yığın; bir sürü"
+  ],
+  "ex": [
+   "Yazın ortasında bile kar dağı kaplamıştı.",
+   "Dağlık topluluklar, sarp arazi yol yapımını zorlaştırdığı için genellikle daha yüksek ulaşım maliyetleriyle karşılaşır."
+  ],
+  "col": [
+   "dağ sırası",
+   "dağ zirvesi",
+   "dağa tırmanmak",
+   "bir sürü iş"
+  ],
+  "tip": "Tek bir dağ mountain, dağ sırası mountain range denir. Çok miktar için a mountain of work gibi mecazi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "than",
+  "senses": [
+   "-den; -dan",
+   "-den daha"
+  ],
+  "ex": [
+   "Yeni sırt çantam eskisinden daha hafif.",
+   "Kalabalık şehirlerde ek yollar inşa etmek yerine toplu taşımaya yatırım yapmak daha etkili olabilir."
+  ],
+  "col": [
+   "-den fazla",
+   "-den az",
+   "-mek yerine",
+   "-den başka"
+  ],
+  "tip": "Than karşılaştırmada kullanılır (lighter than). Then ise 'sonra' anlamına gelir; yazımı karıştırılmamalıdır.",
+  "note": ""
+ }
+]

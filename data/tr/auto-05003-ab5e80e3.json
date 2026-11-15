@@ -1,0 +1,281 @@
+[
+ {
+  "id": "reef",
+  "senses": [
+   "resif; kayalık"
+  ],
+  "ex": [
+   "Renkli balıkların mercan resifinin çevresinde yüzdüğünü izledik.",
+   "Mercan resifleri deniz biyoçeşitliliğini desteklediği ve kıyıları güçlü dalgalara karşı koruduğu için korunması çok önemlidir."
+  ],
+  "col": [
+   "mercan resifi",
+   "set resifi",
+   "resif ekosistemi"
+  ],
+  "tip": "reef, deniz yüzeyine yakın kaya ya da mercan sırtını anlatır; kıyıdaki yüksek kayalık için cliff kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "giggle",
+  "senses": [
+   "kıkırdamak",
+   "kıkırtı; kıkırdama"
+  ],
+  "ex": [
+   "Köpek yavrusu kendi kuyruğunun peşinden koşunca çocuklar kıkır kıkır güldü.",
+   "Tanımadıkları etkinliklerde genç öğrenciler kıkırdayabilir; bu tepki mutlaka ilgisizlik anlamına gelmez."
+  ],
+  "col": [
+   "bir şakaya kıkırdamak",
+   "sinirli kıkırtı",
+   "kıkırtıyı bastırmak"
+  ],
+  "tip": "giggle genellikle hafif, neşeli ya da sinirli bir gülüşü anlatır; birine ya da bir şeye gülmek için at ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dispute",
+  "senses": [
+   "anlaşmazlık; ihtilaf",
+   "itiraz etmek",
+   "tartışmak; çekişmek"
+  ],
+  "ex": [
+   "Komşularımız bahçe çiti yüzünden olan anlaşmazlıklarını çözdü.",
+   "Bağımsız uzmanlar, yeni yol yapmanın trafik sıkışıklığını kalıcı olarak azaltacağı iddiasına itiraz ediyor."
+  ],
+  "col": [
+   "anlaşmazlığı çözmek",
+   "ücret konusunda anlaşmazlık",
+   "bir iddiaya itiraz etmek",
+   "tartışmalı"
+  ],
+  "tip": "dispute a claim, bir iddiaya itiraz edip doğruluğunu sorgulamak demektir; sadece tartışmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "confusion",
+  "senses": [
+   "kafa karışıklığı; şaşkınlık",
+   "karmaşa; karışıklık"
+  ],
+  "ex": [
+   "Tanıdık olmayan kumandalara şaşkınlıkla baktı.",
+   "Açık talimatlar, hastaların kafa karışıklığını azaltır ve ilaçlarını güvenle almalarına yardımcı olabilir."
+  ],
+  "col": [
+   "karışıklığa yol açmak",
+   "karışıklıktan kaçınmak",
+   "karışıklığı gidermek",
+   "...konusunda karışıklık"
+  ],
+  "tip": "İnsan için confused, bir şey için confusing kullanılır. confusion isim olarak kafa karışıklığı ya da karmaşa anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "lightly",
+  "senses": [
+   "hafifçe; yumuşakça",
+   "az miktarda; hafifçe",
+   "önemsemeden; hafife alarak"
+  ],
+  "ex": [
+   "İçeri girmeden önce kapıya hafifçe vurdu.",
+   "Kırsal okulların kapatılmasına ilişkin kararlar hafife alınmamalıdır; çünkü bütün topluluklar etkilenebilir."
+  ],
+  "col": [
+   "hafifçe vurmak",
+   "az tuzlu",
+   "bir şeyi hafife almak",
+   "hafif silahlı"
+  ],
+  "tip": "take something lightly bir şeyi ciddiye almamak demektir. lightly zarftır; sıfat olan light ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "secure",
+  "senses": [
+   "güvenli; sağlam",
+   "elde etmek; sağlamak",
+   "sabitlemek; emniyete almak"
+  ],
+  "ex": [
+   "Merdivene çıkmadan önce sağlam olduğundan emin ol.",
+   "Hükümetler, kuraklık dönemlerinde vatandaşların temiz suya güvenli erişimini sağlamalıdır."
+  ],
+  "col": [
+   "iş garantilemek",
+   "finansman sağlamak",
+   "güvende hissetmek",
+   "sıkıca sabitlemek"
+  ],
+  "tip": "secure hem sıfat hem geçişli fiil olabilir; fiil olarak 'elde etmek' ya da 'sabitlemek' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "industrial",
+  "senses": [
+   "sanayi; endüstriyel"
+  ],
+  "ex": [
+   "Amcam yakındaki bir fabrikada endüstriyel makineleri onarıyor.",
+   "Endüstriyel atıklara daha sıkı denetim getirilmesi nehirleri koruyabilir ve yakındaki toplulukların sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "endüstriyel üretim",
+   "endüstriyel atık",
+   "sanayi bölgesi",
+   "endüstriyel kalkınma"
+  ],
+  "tip": "industrial sanayiye ait anlamına gelir; industrious ise çalışkan demektir, bu iki kelime karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "procedure",
+  "senses": [
+   "prosedür; işlem sırası",
+   "tıbbi işlem; ameliyat"
+  ],
+  "ex": [
+   "Resepsiyon görevlisi spora üye olma prosedürünü açıkladı.",
+   "Her laboratuvar, kimyasalların güvenli kullanımı ve atıkların sorumlu biçimde bertarafı için net bir prosedür belirlemelidir."
+  ],
+  "col": [
+   "bir prosedürü izlemek",
+   "standart prosedür",
+   "cerrahi müdahale"
+  ],
+  "tip": "procedure belirlenmiş, resmi adım dizisini vurgular; process ise daha genel süreci anlatır.",
+  "note": ""
+ },
+ {
+  "id": "cope",
+  "senses": [
+   "başa çıkmak; üstesinden gelmek"
+  ],
+  "ex": [
+   "Yoğun sabahlarla, kahvaltıyı önceden hazırlayarak başa çıkıyorum.",
+   "Okullar, öğrencilerin sınav stresiyle başa çıkmasına ve ruh sağlıklarını korumasına yardımcı olacak pratik stratejiler öğretmelidir."
+  ],
+  "col": [
+   "stresle başa çıkmak",
+   "değişime uyum sağlamak",
+   "iyi idare etmek"
+  ],
+  "tip": "cope geçişsiz fiildir; zorluk ya da stres için genellikle with ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "recommendation",
+  "senses": [
+   "öneri; tavsiye",
+   "referans; tavsiye mektubu"
+  ],
+  "ex": [
+   "Senin tavsiyen üzerine akşamları kısa yürüyüşlere çıkmaya başladım.",
+   "Komitenin başlıca önerisi, şehir merkezinde daha yüksek park ücretleri uygulanmadan önce toplu taşımanın iyileştirilmesiydi."
+  ],
+  "col": [
+   "öneride bulunmak",
+   "bir öneriyi izlemek",
+   "birinin tavsiyesi üzerine",
+   "tavsiye mektubu"
+  ],
+  "tip": "recommendation sonrasındaki that cümleciğinde should ya da fiilin yalın hali kullanılır: recommendation that he go.",
+  "note": ""
+ },
+ {
+  "id": "cleverness",
+  "senses": [
+   "zekâ; beceriklilik; ustalık"
+  ],
+  "ex": [
+   "Zekâsı sayesinde çadırı gün batmadan onarmayı başardık.",
+   "Bir tasarımın ustalığı, gereksiz karmaşıklık yaratmadan pratik sorunları çözmesinde yatar."
+  ],
+  "col": [
+   "olağanüstü zekâ",
+   "bir tasarımın ustalığı",
+   "zekâ göstermek"
+  ],
+  "tip": "Sayılamayan bir isimdir; hem kişinin zekâsını hem de bir tasarımın becerikli çözümünü anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "gear",
+  "senses": [
+   "donanım; techizat",
+   "dişli; vites",
+   "uyarlamak; yöneltmek"
+  ],
+  "ex": [
+   "Kamp malzemelerimizi arabaya yükledik.",
+   "Okullar, kariyer rehberliğini öğrencilerin değişen ihtiyaçlarına ve geniş iş piyasasına göre yönlendirmelidir."
+  ],
+  "col": [
+   "kamp malzemeleri",
+   "koruyucu donanım",
+   "vites değiştirmek",
+   "...e yönelik olmak"
+  ],
+  "tip": "Donanım anlamında sayılamaz; dişli ya da vites anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "continuous",
+  "senses": [
+   "sürekli; kesintisiz"
+  ],
+  "ex": [
+   "Durmadan yağan yağmur bütün hafta sonu bizi evde tuttu.",
+   "Hava kalitesinin sürekli izlenmesi, yerel yönetimlerin kirlilik kaynaklarını belirlemesine ve halk sağlığını korumasına yardımcı olur."
+  ],
+  "col": [
+   "sürekli iyileşme",
+   "sürekli izleme",
+   "kesintisiz akış"
+  ],
+  "tip": "continuous kesintisiz sürmeyi, continual ise tekrar tekrar olmayı anlatır; ikisini karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "tangle",
+  "senses": [
+   "düğüm; dolaşık yumak",
+   "dolaşmak; karışmak",
+   "karmaşık durum; çıkmaz"
+  ],
+  "ex": [
+   "Kulaklığım bir sürü kablonun arasında dolaşıp kalmıştı.",
+   "Küçük işletmeler, genişlemeyi pahalı ve zaman alıcı kılan karmaşık bir yönetmelik ağıyla sık sık karşılaşır."
+  ],
+  "col": [
+   "bir yumak tel",
+   "dolaşmak",
+   "karmaşık yönetmelikler"
+  ],
+  "tip": "a tangle of hem fiziksel bir dolaşıklığı hem de karmaşık bir durumu anlatabilir; anlam bağlama göre değişir.",
+  "note": ""
+ },
+ {
+  "id": "trace",
+  "senses": [
+   "izini sürmek; kaynağını bulmak",
+   "iz; eser; az miktar",
+   "izini çizerek kopyalamak"
+  ],
+  "ex": [
+   "Tesisatçı sızıntının kaynağını çatlak bir boruya kadar izledi.",
+   "Araştırmacılar, antik yerleşimlerdeki yemek kalıntılarını inceleyerek bölgesel beslenme alışkanlıklarındaki değişiklikleri izleyebilir."
+  ],
+  "col": [
+   "kaynağını izlemek",
+   "...e kadar izini sürmek",
+   "hiçbir iz bırakmadan",
+   "...izleri"
+  ],
+  "tip": "trace A back to B, A'nın kökenini B'ye kadar izlemek anlamına gelir; back to kalıbını birlikte öğren.",
+  "note": ""
+ }
+]

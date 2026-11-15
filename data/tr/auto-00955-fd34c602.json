@@ -1,0 +1,281 @@
+[
+ {
+  "id": "church",
+  "senses": [
+   "kilise",
+   "ibadet; ayin",
+   "kilise; mezhep"
+  ],
+  "ex": [
+   "Eski kilisenin güzel vitrayları ve taş bir kulesi var.",
+   "Tarihi bir kilisenin korunması, eğitim ve turizm fırsatları sunarken yerel mirası da koruyabilir."
+  ],
+  "col": [
+   "kiliseye gitmek",
+   "ibadete devam etmek",
+   "kilise ayini",
+   "tarihi kilise"
+  ],
+  "tip": "go to church ibadet için kiliseye gitmek; go to the church ise binaya gitmek demektir. Bu fark önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "firefighter",
+  "senses": [
+   "itfaiyeci"
+  ],
+  "ex": [
+   "İtfaiyeci bize hortumu nasıl kullanacağımızı gösterdi.",
+   "Giderek karmaşıklaşan kentsel ortamlarda acil durumlara güvenli ve etkili biçimde müdahale edebilmek için her itfaiyecinin düzenli eğitim alması gerekir."
+  ],
+  "col": [
+   "eğitimli itfaiyeci",
+   "gönüllü itfaiyeci",
+   "itfaiyeci eğitimi"
+  ],
+  "tip": "Cinsiyet ayrımı yapmayan firefighter, fireman yerine tercih edilen genel bir meslek adıdır.",
+  "note": ""
+ },
+ {
+  "id": "palace",
+  "senses": [
+   "saray"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce saray bahçelerinde yürüdük.",
+   "Tarihi bir sarayın ziyaretçilere açılması, koruma çalışmalarına gelir sağlayabilir ve yerel turizmi destekleyebilir."
+  ],
+  "col": [
+   "kraliyet sarayı",
+   "cumhurbaşkanlığı sarayı",
+   "saray arazisi"
+  ],
+  "tip": "palace genellikle kral, hükümdar veya üst düzey bir liderin resmi konutudur; sıradan bir ev için house kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bridge",
+  "senses": [
+   "köprü",
+   "bağlamak; kapatmak",
+   "briç"
+  ],
+  "ex": [
+   "Tahta köprüden geçip köye girdik.",
+   "Toplum dil programları kültürel farkları kapatabilir ve yeni gelenlerin yerel hayata daha tam katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "köprüden geçmek",
+   "asma köprü",
+   "farkı kapatmak",
+   "briç oynamak"
+  ],
+  "tip": "bridge the gap, iki grup ya da durum arasındaki farkı azaltmak anlamında sık kullanılır; gap 'boşluk, fark' demektir.",
+  "note": ""
+ },
+ {
+  "id": "eating",
+  "senses": [
+   "yeme; beslenme",
+   "yemek"
+  ],
+  "ex": [
+   "Sağlıklı beslenme, öğünlerde küçük değişikliklerle başlar.",
+   "Okullar dengeli öğle yemekleri sunarak ve çocuklara basit yemeklerin nasıl hazırlanacağını öğreterek sağlıklı beslenmeyi teşvik edebilir."
+  ],
+  "col": [
+   "sağlıklı beslenme",
+   "yeme alışkanlıkları",
+   "dışarıda yemek yemek"
+  ],
+  "tip": "eating isim olarak 'beslenme' anlamına da gelir; eat out ise dışarıda yemek yemek demektir.",
+  "note": ""
+ },
+ {
+  "id": "tip",
+  "senses": [
+   "pratik öneri; ipucu",
+   "uç; ucu",
+   "bahşiş"
+  ],
+  "ex": [
+   "Komşum domates yetiştirmek için yararlı bir ipucu verdi.",
+   "Okullar, genç insanların sorumlu harcama alışkanlıkları geliştirmesine yardımcı olmak için paranın yönetimi konusunda pratik öneriler sunabilir."
+  ],
+  "col": [
+   "yararlı bir öneri",
+   "dilimin ucunda",
+   "bahşiş bırakmak"
+  ],
+  "tip": "advice sayılamaz, ancak tip sayılabilir: 'a tip' ya da 'some advice' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "technology",
+  "senses": [
+   "teknoloji"
+  ],
+  "ex": [
+   "Yeni teknoloji, ışıkları telefonlarımızdan kontrol etmemizi sağlıyor.",
+   "Temiz teknolojiye yapılan yatırımlar endüstriyel kirliliği azaltırken gelişmekte olan sektörlerde nitelikli iş imkânları yaratabilir."
+  ],
+  "col": [
+   "dijital teknoloji",
+   "ileri teknoloji",
+   "bilgi teknolojisi",
+   "yeni teknolojiler geliştirmek"
+  ],
+  "tip": "Genel anlamda teknoloji sayılamaz; birden fazla farklı teknoloji söz konusuysa technologies kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "path",
+  "senses": [
+   "patika; yaya yolu",
+   "güzergâh; rota",
+   "yol; yöntem"
+  ],
+  "ex": [
+   "Dar bir patikayı izleyerek sahile indik.",
+   "Uygun fiyatlı eğitim, dezavantajlı topluluklar için yoksulluktan çıkış yolu sağlayabilir."
+  ],
+  "col": [
+   "bir yolu izlemek",
+   "kariyer yolu",
+   "uçuş rotası",
+   "başarıya giden yol"
+  ],
+  "tip": "a path to + isim kalıbında to'dan sonra isim gelir: 'a path to success' (başarıya giden yol).",
+  "note": ""
+ },
+ {
+  "id": "system",
+  "senses": [
+   "sistem",
+   "düzen; yapı",
+   "yöntem; düzen"
+  ],
+  "ex": [
+   "Isıtma sistemi soğuk bir gecede çalışmayı durdurdu.",
+   "Etkili bir eğitim sistemi, farklı yeteneklere sahip öğrencileri desteklemeli ve onları gelecekteki iş hayatına hazırlamalıdır."
+  ],
+  "col": [
+   "ısıtma sistemi",
+   "eğitim sistemi",
+   "toplu taşıma sistemi",
+   "bağışıklık sistemi"
+  ],
+  "tip": "systematic 'düzenli, sistemli'; systemic ise bir bütün sisteme yayılan anlamına gelir. İkisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "northeast",
+  "senses": [
+   "kuzeydoğu; kuzeydoğu bölgesi",
+   "kuzeydoğudaki",
+   "kuzeydoğuya"
+  ],
+  "ex": [
+   "Fırtına kıyı köylerine doğru kuzeydoğuya ilerliyor.",
+   "Demiryolu bağlantılarına yapılacak yatırımlar, ülkenin kuzeydoğusundaki topluluklar için istihdama erişimi artırabilir."
+  ],
+  "col": [
+   "kuzeydoğuda",
+   "kuzeydoğuya doğru gitmek",
+   "kuzeydoğu kıyısı"
+  ],
+  "tip": "northeast of 'nin kuzeydoğusunda' anlamına gelir. İngilizce'de north-east yazımı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "centimetre",
+  "senses": [
+   "santimetre"
+  ],
+  "ex": [
+   "Bu küçük bitki bir haftada bir santimetre büyüdü.",
+   "Deniz seviyesindeki küçük bir yükselme bile santimetre cinsinden ölçülse de kıyı topluluklarında sel riskini artırabilir."
+  ],
+  "col": [
+   "bir santimetre uzunluğunda",
+   "santimetre kare",
+   "santimetre küp"
+  ],
+  "tip": "İngiliz yazımı centimetre, Amerikan yazımı centimeter; kısaltması cm'dir. Çoğulu centimetres olur.",
+  "note": ""
+ },
+ {
+  "id": "biology",
+  "senses": [
+   "biyoloji",
+   "biyolojik süreç; yapı"
+  ],
+  "ex": [
+   "Bugün biyoloji dersinde soğan hücrelerini mikroskopla inceledik.",
+   "Temel biyoloji bilgisi, insanların sağlık bilgilerini değerlendirmesine ve yaşam tarzları hakkında bilinçli kararlar almasına yardımcı olur."
+  ],
+  "col": [
+   "biyoloji çalışmak",
+   "deniz biyolojisi",
+   "insan biyolojisi",
+   "moleküler biyoloji"
+  ],
+  "tip": "Ders ya da bilim dalı adı olarak genellikle sayılamaz; biyolog anlamındaki kişi biologist olarak ifade edilir.",
+  "note": ""
+ },
+ {
+  "id": "painter",
+  "senses": [
+   "ressam",
+   "boyacı"
+  ],
+  "ex": [
+   "Ressam paletinde mavi ve yeşili karıştırdı.",
+   "Yerel ressamlar kültürel gelenekleri koruyabilir ve genç izleyicilere yeni sanatsal akımları tanıtabilir."
+  ],
+  "col": [
+   "manzara ressamı",
+   "portre ressamı",
+   "ev boyacısı"
+  ],
+  "tip": "painter hem sanat ressamını hem de duvar ya da yapı boyayan işçiyi ifade eder; anlam bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "balloon",
+  "senses": [
+   "balon",
+   "sıcak hava balonu"
+  ],
+  "ex": [
+   "Doğum günü pastasının üzerinde sarı bir balon süzülüyordu.",
+   "Açık havada balon bırakmak, kauçuk parçaları nehirlere ve okyanuslara düştüğünde yaban hayatına zarar verebilir."
+  ],
+  "col": [
+   "balonu şişirmek",
+   "sıcak hava balonu",
+   "balon bırakmak"
+  ],
+  "tip": "blow up a balloon balonu şişirmek demektir, patlatmak değil. Patlatmak için burst ya da pop kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "successful",
+  "senses": [
+   "başarılı; sonuç veren",
+   "başarılı; saygın"
+  ],
+  "ex": [
+   "Ekmek pişirme konusundaki ilk denemesi şaşırtıcı derecede başarılı oldu.",
+   "Başarılı geri dönüşüm programları, hanehalkları ve işletmeler için uygun toplama tesisleri ve açık yönlendirmeye bağlıdır."
+  ],
+  "col": [
+   "başarılı kariyer",
+   "başarılı sonuç",
+   "çok başarılı",
+   "bir şeyi yapmakta başarılı olmak"
+  ],
+  "tip": "be successful in doing something kalıbında in'den sonra -ing gelir. Bu sıfatın fiili succeed'dir.",
+  "note": ""
+ }
+]

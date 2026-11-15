@@ -1,0 +1,271 @@
+[
+ {
+  "id": "studious",
+  "senses": [
+   "çalışkan; ders meraklısı",
+   "özenli; dikkatli"
+  ],
+  "ex": [
+   "Çalışkan oda arkadaşım akşamların çoğunu kütüphanede geçiriyor.",
+   "Çalışkan öğrenciler sessiz öğrenme ortamlarından yararlanır, ama fiziksel etkinliğe de ihtiyaç duyarlar."
+  ],
+  "col": [
+   "çalışkan bir öğrenci",
+   "özenli bir dikkat",
+   "kasıtlı kaçınma"
+  ],
+  "tip": "Kişi için çoğunlukla 'çalışkan, ders meraklısı' anlamındadır. 'Studious avoidance' gibi kullanımda 'kasıtlı, özenle yapılan' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "forfeit",
+  "senses": [
+   "kaybetmek; yitirmek",
+   "ceza; ceza bedeli",
+   "el konulan; kaybedilen"
+  ],
+  "ex": [
+   "Şimdi iptal ederseniz depozitonuzu kaybedersiniz.",
+   "Çevre yönetmeliklerini defalarca ihlal eden şirketler, gerekli standartları karşılayana kadar faaliyet hakkını kaybetmelidir."
+  ],
+  "col": [
+   "depozitoyu kaybetmek",
+   "hakkını kaybetmek",
+   "cezai bedel ödemek",
+   "maçı hükmen kaybetmek"
+  ],
+  "tip": "Genellikle kaybeden kişi ya da kurum özne olur. 'Forfeit the right to' kalıbı bir hakkın yitirilmesini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "coil",
+  "senses": [
+   "sarmak; kıvrılmak",
+   "bobin; sarmal"
+  ],
+  "ex": [
+   "Halatı kaldırmadan önce lütfen sarın.",
+   "Mühendisler, ısının zeminden verimli biçimde aktarılması için uzun boruları binaların altında kıvrımlar hâlinde döşer."
+  ],
+  "col": [
+   "halatı sarmak",
+   "bir kangal tel",
+   "ısıtıcı boru bobini",
+   "etrafına dolanmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılabilir. 'Coil around' kalıbı bir şeyin etrafına dolanmasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "derivation",
+  "senses": [
+   "köken; etimoloji",
+   "türetme; çıkarım"
+  ],
+  "ex": [
+   "Öğretmenimiz bu alışılmadık sözcüğün kökenini açıkladı.",
+   "Bilimsel terimlerin kökenini anlamak, öğrencilerin farklı derslerdeki kavramlar arasındaki bağlantıları fark etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir sözcüğün kökeni",
+   "sözcük türetme",
+   "bir formülün türetilmesi"
+  ],
+  "tip": "Dilbilimde 'köken', matematikte 'türetme' anlamına gelir. 'Derive A from B' kalıbı A'nın B'den kaynaklandığını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "disloyalty",
+  "senses": [
+   "sadakatsizlik; ihanet"
+  ],
+  "ex": [
+   "Arkadaşının özel mesajlarını paylaşması bir sadakatsizlik örneğiydi.",
+   "Çalışanlar, yöneticileri tarafından sadakatsizlikle suçlanmadan meşru kaygılarını dile getirebilmelidir."
+  ],
+  "col": [
+   "bir sadakatsizlik",
+   "birine karşı sadakatsizlik",
+   "birini sadakatsizlikle suçlamak"
+  ],
+  "tip": "Bir isimdir; sıfatı 'disloyal' olup genellikle 'to' ile kullanılır: disloyal to someone.",
+  "note": ""
+ },
+ {
+  "id": "worthy",
+  "senses": [
+   "değer; layık",
+   "saygın; değerli"
+  ],
+  "ex": [
+   "Düşünceli öneriniz ciddi bir değerlendirmeyi hak ediyor.",
+   "Eğitime erişimi artıran toplumsal projeler, sürekli kamu yatırımını hak etmektedir."
+  ],
+  "col": [
+   "dikkate değer",
+   "değerli bir amaç",
+   "saygıyı hak eden"
+  ],
+  "tip": "Genellikle 'worthy of + isim/-ing' biçiminde kullanılır. 'Worth' ise doğrudan isim ya da -ing alır.",
+  "note": ""
+ },
+ {
+  "id": "recipient",
+  "senses": [
+   "alıcı; alan kişi"
+  ],
+  "ex": [
+   "Beklenmedik hediyeyi açarken alıcı gülümsedi.",
+   "Burs alanlar, aksi takdirde mali imkânlarının ötesinde kalacak eğitim fırsatlarına sıklıkla erişebilir."
+  ],
+  "col": [
+   "amaçlanan alıcı",
+   "burs alan",
+   "yardım alan",
+   "bir ödülün sahibi"
+  ],
+  "tip": "Genellikle 'recipient of' kalıbıyla kullanılır. Kişi ya da kuruluş için geçerlidir, kap ya da alıcı nesne için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "recitation",
+  "senses": [
+   "şiir okuma; ezber okuma"
+  ],
+  "ex": [
+   "Şiiri ezberden okuyuşu odadaki herkesi etkiledi.",
+   "Düzenli ezber okuma, dil öğrenenlerin telaffuzunu geliştirmeye yardımcı olabilir; ancak bu, doğaçlama konuşmayla birleştirilmelidir."
+  ],
+  "col": [
+   "şiir okuma",
+   "ezberden okuma",
+   "bir okuma sunmak"
+  ],
+  "tip": "Ezberden yapılan sesli okuma etkinliğini anlatır; fiili 'recite'tır. 'Reading' (okuma) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "oblige",
+  "senses": [
+   "zorunlu kılmak; mecbur bırakmak",
+   "iyilik etmek; rica yerine getirmek"
+  ],
+  "ex": [
+   "Ani fırtına bizi evde kalmaya mecbur etti.",
+   "Çevre düzenlemeleri üreticileri zararlı emisyonları azaltmaya ve ilerlemelerini kamu otoritelerine bildirmeye zorunlu kılar."
+  ],
+  "col": [
+   "yapmak zorunda olmak",
+   "memnuniyetle yardım etmek",
+   "çok teşekkür ederim"
+  ],
+  "tip": "'Be obliged to do' kalıbı 'yapmak zorunda olmak' anlamına gelir. 'Obliged' sıfat olarak 'minnettar' da anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "adornment",
+  "senses": [
+   "süs; süs eşyası",
+   "süsleme; süsleme işi"
+  ],
+  "ex": [
+   "Gümüş broş, elbisesinin tek süsüydü.",
+   "Geleneksel takılar çoğu zaman kişisel süs olarak kullanılırken aynı zamanda kültürel kimliği ve toplumsal aidiyeti de ifade eder."
+  ],
+  "col": [
+   "kişisel süs",
+   "sade bir süs",
+   "süssüz"
+  ],
+  "tip": "Somut süs eşyası için sayılabilir, süsleme eylemi veya genel süsleme için sayılamaz kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shrewd",
+  "senses": [
+   "kurnaz; ferasetli"
+  ],
+  "ex": [
+   "Bu akıllıca alışveriş ısınma giderimizde bize para kazandırdı.",
+   "Yenilenebilir enerjiye yapılan akıllı yatırımlar, hükümetlerin gelecekteki maliyetleri azaltmasına ve ulusal enerji güvenliğini güçlendirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "ferasetli bir yatırımcı",
+   "isabetli bir değerlendirme",
+   "akıllı bir yatırım"
+  ],
+  "tip": "Yargıların sağduyulu ve menfaat sağlayıcı olmasını vurgular; yalnızca 'zeki' anlamına gelmez. Olumlu bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "avalanche",
+  "senses": [
+   "çığ",
+   "ani yığılma; sel"
+  ],
+  "ex": [
+   "Dağ yolu, gece boyunca yaşanan bir çığdan sonra kapatıldı.",
+   "Dağ topluluklarının, çığların sakinler ve ziyaretçiler için oluşturduğu riskleri azaltmak için güvenilir uyarı sistemlerine ihtiyacı var."
+  ],
+  "col": [
+   "çığ tetiklemek",
+   "çığ riski",
+   "şikâyet seli"
+  ],
+  "tip": "'An avalanche of' kalıbından sonra gelen isim çoğul ya da sayılamaz olur. Mecazi kullanımda 'sel' gibi bir yığılma anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "migratory",
+  "senses": [
+   "göçmen; göç eden"
+  ],
+  "ex": [
+   "Göçmen kuşlar her ilkbahar gölün kenarında toplanır.",
+   "Göç yolları boyunca sulak alanların korunması çok önemlidir; çünkü birçok kuş türü beslenme ve dinlenme için bu yaşam alanlarına bağlıdır."
+  ],
+  "col": [
+   "göçmen kuşlar",
+   "göçmen türler",
+   "göç yolları",
+   "göç düzenleri"
+  ],
+  "tip": "Genellikle mevsimsel ve düzenli göçü anlatan kuşlar ya da hayvanlar için kullanılır; rastgele dolaşmayı anlatmaz.",
+  "note": ""
+ },
+ {
+  "id": "nourish",
+  "senses": [
+   "beslemek; besin sağlamak",
+   "beslemek; teşvik etmek"
+  ],
+  "ex": [
+   "Bu basit yemekler, uzun çalışma günlerinin ardından bizi besliyor.",
+   "Okullar, soru sormayı teşvik ederek ve bağımsız keşfe fırsat vererek çocukların merakını besleyebilir."
+  ],
+  "col": [
+   "bedeni beslemek",
+   "cildi beslemek",
+   "merakı beslemek"
+  ],
+  "tip": "Hem fiziksel beslenmeyi hem de merak, umut gibi duyguların gelişmesini anlatabilir. Mecazi kullanım da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "ailment",
+  "senses": [
+   "rahatsızlık; hafif hastalık"
+  ],
+  "ex": [
+   "Eczacı, mide rahatsızlığım için bir çare önerdi.",
+   "Küçük rahatsızlıkların yerel kliniklerde tedavi edilmesi, hastanelerin üzerindeki baskıyı azaltabilir ve sağlık hizmetlerine erişimi iyileştirebilir."
+  ],
+  "col": [
+   "hafif rahatsızlık",
+   "yaygın rahatsızlıklar",
+   "bir rahatsızlığı tedavi etmek"
+  ],
+  "tip": "Sayılabilir bir isimdir; genellikle ciddi olmayan hastalıkları anlatır ve çoğunlukla 'minor' sıfatıyla kullanılır.",
+  "note": ""
+ }
+]

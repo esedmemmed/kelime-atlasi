@@ -1,0 +1,276 @@
+[
+ {
+  "id": "own",
+  "senses": [
+   "kendine ait",
+   "sahip olmak"
+  ],
+  "ex": [
+   "Nihayet yeni dairemizde kendi odam var.",
+   "Evlerinin sahibi olan insanlar, bakım masrafları önemli olsa da kendilerini maddi açıdan daha güvende hissedebilir."
+  ],
+  "col": [
+   "kendi odam",
+   "ev sahibi olmak",
+   "tek başına",
+   "kendine ait"
+  ],
+  "tip": "Sıfat olarak own genellikle my, her gibi sahiplik sözcüğünden sonra gelir: my own room. Fiil olarak yasal mülkiyete sahip olmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "wooden",
+  "senses": [
+   "ahşap; tahta",
+   "donuk; katı"
+  ],
+  "ex": [
+   "Çorbayı yavaşça tahta bir kaşıkla karıştırdı.",
+   "Malzemeleri sorumlu şekilde yönetilen ormanlardan geldiğinde, ahşap binalar çevresel açıdan yarar sağlayabilir."
+  ],
+  "col": [
+   "ahşap zemin",
+   "ahşap mobilya",
+   "tahta kaşık",
+   "donuk performans"
+  ],
+  "tip": "wooden 'ahşaptan yapılmış' anlamına gelir; woody ise lifli yapıda olan ya da odun gibi görünen şeyleri anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "necessary",
+  "senses": [
+   "gerekli; zorunlu"
+  ],
+  "ex": [
+   "Gerekli görürsen sıcak bir mont al.",
+   "Trafik sıkışıklığını azaltmak ve kentsel hava kalitesini iyileştirmek için toplu taşımaya yatırım yapmak gereklidir."
+  ],
+  "col": [
+   "gerekirse",
+   "gerekli önlemler",
+   "için gerekli",
+   "kesinlikle gerekli"
+  ],
+  "tip": "It is necessary to do yapısı sık kullanılır. necessarily ise 'mutlaka, zorunlu olarak' anlamına gelen ayrı bir zarftır.",
+  "note": ""
+ },
+ {
+  "id": "suggest",
+  "senses": [
+   "önermek; teklif etmek",
+   "ima etmek; göstermek"
+  ],
+  "ex": [
+   "Bulutlar çok karanlık göründüğü için şemsiye almanı öneririm.",
+   "Son araştırmalar, yeşil alanlara erişimin kentlilerin ruh sağlığını iyileştirebileceğini gösteriyor."
+  ],
+  "col": [
+   "çözüm önermek",
+   "bir şey yapmayı önermek",
+   "güçlü biçimde önermek",
+   "kanıtlar ... olduğunu gösteriyor"
+  ],
+  "tip": "suggest'ten sonra to + fiil gelmez; suggest doing ya da suggest that + cümle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "air-conditioning",
+  "senses": [
+   "klima; klima sistemi"
+  ],
+  "ex": [
+   "Misafirler gelmeden önce lütfen klimayı açın.",
+   "Sıcak dalgaları sırasında klimaya daha fazla bağımlılık, kentsel elektrik arzını ciddi biçimde zorlayabilir."
+  ],
+  "col": [
+   "klima sistemi",
+   "merkezi klima",
+   "klimayı açmak"
+  ],
+  "tip": "Genel kavram olarak sayılamaz; tek bir cihaz için an air conditioner denir.",
+  "note": ""
+ },
+ {
+  "id": "messy",
+  "senses": [
+   "dağınık; kirli",
+   "karmaşık; çetrefilli"
+  ],
+  "ex": [
+   "Bir öğleden sonra resim yaptıktan sonra masası dağınıktı.",
+   "Net sorumluluklar olmadığında kamu kurumları arasındaki iş birliği karmaşıklaşabilir ve temel hizmetlerin gecikmesine yol açabilir."
+  ],
+  "col": [
+   "dağınık oda",
+   "dağınık el yazısı",
+   "karmaşık durum"
+  ],
+  "tip": "messy hem eşyaların dağınık ya da kirli olmasını hem de bir durumun zor ve karışık olmasını anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "recently",
+  "senses": [
+   "yakın zamanda; son zamanlarda"
+  ],
+  "ex": [
+   "Geçenlerde nehir kenarındaki bir daireye taşındık.",
+   "Araştırmacılar, yeşil alanlara erişimin kentlilerin ruh sağlığını nasıl etkilediğini yakın zamanda incelediler."
+  ],
+  "col": [
+   "son zamanlara kadar",
+   "ancak yakın zamanda",
+   "yakın zamanda yayımlanmış"
+  ],
+  "tip": "recently yalnızca present perfect ile değil, past simple ile de kullanılır: I recently moved.",
+  "note": ""
+ },
+ {
+  "id": "mostly",
+  "senses": [
+   "çoğunlukla; büyük ölçüde"
+  ],
+  "ex": [
+   "Hafta sonum çoğunlukla yemek pişirerek ve kitap okuyarak geçti.",
+   "Birçok kırsal bölgede toplu taşıma sınırlı olduğu için sakinler çoğunlukla özel araçlara güvenir."
+  ],
+  "col": [
+   "çoğunlukla güneşli",
+   "çoğunlukla ... yapılmış",
+   "çoğunlukla ... yüzünden"
+  ],
+  "tip": "mostly 'çoğunlukla, büyük ölçüde' anlamındadır; almost ise 'neredeyse, hemen hemen' demektir. Karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "musical",
+  "senses": [
+   "müzikle ilgili; müzikal",
+   "müzikal; müzik oyunu",
+   "ahenkli; melodik"
+  ],
+  "ex": [
+   "Müzik aletlerini kanepenin yanında tutuyor.",
+   "Müzik eğitimi sunan okullar, çocuklara yaratıcılık geliştirme ve takım çalışması becerisi kazanma fırsatı verir."
+  ],
+  "col": [
+   "müzik aleti",
+   "müzikal yetenek",
+   "müzikal performans",
+   "sahne müzikali"
+  ],
+  "tip": "Sıfat olarak 'müzikle ilgili' anlamına gelir; isim olarak (a musical) müzikal oyun ya da film demektir ve sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "shake",
+  "senses": [
+   "sallamak; titremek",
+   "sarsmak; güvenini sarsmak",
+   "sallama; sarsıntı"
+  ],
+  "ex": [
+   "Meyve suyunu bardağa dökmeden önce şişeyi iyice çalkalayın.",
+   "Toplu taşımadaki tekrarlanan aksaklıklar, yolcuların kentsel hizmetlerin güvenilirliğine olan inancını sarsabilir."
+  ],
+  "col": [
+   "el sıkışmak",
+   "başını sallamak",
+   "korkudan titremek",
+   "güveni sarsmak"
+  ],
+  "tip": "Düzensiz fiildir: shake, shook, shaken. shake hands kalıbında 'el sıkışmak' anlamını korur.",
+  "note": ""
+ },
+ {
+  "id": "litre",
+  "senses": [
+   "litre; lt"
+  ],
+  "ex": [
+   "Bu muhallebi için bir litre süte ihtiyacımız var.",
+   "Evdeki su kullanımını litre cinsinden ölçmek, sakinlerin tüketimi anlamasına ve israfı azaltma fırsatlarını görmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir litre süt",
+   "yarım litre",
+   "dakikada litre"
+  ],
+  "tip": "İngiliz yazımı litre, Amerikan yazımı liter'dır. Sayıdan sonra birim çoğul olarak s alır: two litres.",
+  "note": ""
+ },
+ {
+  "id": "haircut",
+  "senses": [
+   "saç kesimi; saç modeli"
+  ],
+  "ex": [
+   "Kuzenimin düğününden önce saçımı kestirmem gerekiyor.",
+   "Toplum merkezlerinde uygun fiyatlı saç kesimi hizmetleri sunmak, stajyer kuaförlerin yerel sakinlere hizmet ederken pratik deneyim kazanmasını sağlayabilir."
+  ],
+  "col": [
+   "saç kestirmek",
+   "kısa saç kesimi",
+   "saç kestirmem gerekiyor"
+  ],
+  "tip": "get a haircut ya da have a haircut denir; cut a haircut kalıbı doğal değildir.",
+  "note": ""
+ },
+ {
+  "id": "expect",
+  "senses": [
+   "öngörmek; tahmin etmek",
+   "beklemek; talep etmek",
+   "beklemek; gelmesini beklemek"
+  ],
+  "ex": [
+   "Yağmur bekliyoruz, o yüzden yanına şemsiye al.",
+   "İşverenler, mezunlardan konularına dair güçlü bir bilgiye ek olarak pratik becerilerini de göstermelerini giderek daha çok bekliyor."
+  ],
+  "col": [
+   "bir şey yapmasını beklemek",
+   "birinin bir şey yapmasını beklemek",
+   "kesinlikle beklemek",
+   "beklendiği gibi"
+  ],
+  "tip": "expect bir şeyin olacağını düşünmeyi anlatır; hope ise arzu edilen bir şeyi ifade eder. İkisi farklı durumlarda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pineapple",
+  "senses": [
+   "ananas"
+  ],
+  "ex": [
+   "Piknik için taze bir ananası dilimledi.",
+   "Ananas ihracatı için yetiştiricilik kırsal gelirleri destekleyebilir, ancak yoğun tarım yerel toprakları zarar görebilir."
+  ],
+  "col": [
+   "taze ananas",
+   "ananas suyu",
+   "ananas parçaları"
+  ],
+  "tip": "Bütün meyve sayılabilir (a pineapple); yenen meyve etinden söz ederken genellikle sayılamaz: some pineapple.",
+  "note": ""
+ },
+ {
+  "id": "bone",
+  "senses": [
+   "kemik",
+   "kemiklerini ayıklamak"
+  ],
+  "ex": [
+   "Paten kayarken bileğindeki bir kemiği kırdı.",
+   "Düzenli ağırlık taşıma egzersizleri kemik gücünü korumaya yardımcı olur ve yaşlı yetişkinlerde kırık riskini azaltabilir."
+  ],
+  "col": [
+   "kemik kırmak",
+   "kemik gücü",
+   "kemik iliği",
+   "kemik yoğunluğu"
+  ],
+  "tip": "Fiil olarak bone 'kemiklerini ayıklamak' demektir; boneless ise 'kemiksiz' anlamına gelir.",
+  "note": ""
+ }
+]

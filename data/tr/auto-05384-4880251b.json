@@ -1,0 +1,276 @@
+[
+ {
+  "id": "capture",
+  "senses": [
+   "yakalamak; esir almak",
+   "kaydetmek; görüntülemek",
+   "yakalama; ele geçirme"
+  ],
+  "ex": [
+   "Kurtarma ekibi yaralı kuşu yakaladı ve kanadını nazikçe inceledi.",
+   "Vahşi yaşam araştırmacıları, doğal yaşam alanlarını rahatsız etmeden hayvan davranışlarını kaydetmek için uzaktan kumandalı kameralar kullanıyor."
+  ],
+  "col": [
+   "bir görüntüyü kaydetmek",
+   "dikkati çekmek",
+   "atmosferi yansıtmak",
+   "bir şüpheliyi yakalamak"
+  ],
+  "tip": "Fotoğraf ve video için kullanılabilir; 'capture attention' ise dikkat çekmek anlamına gelir. Yalnızca 'yakalamak' olarak düşünmek sınırlayıcı olabilir.",
+  "note": ""
+ },
+ {
+  "id": "module",
+  "senses": [
+   "ders ünitesi; modül",
+   "bileşen; modül"
+  ],
+  "ex": [
+   "Fotoğrafçılık modülünü açık hava projesiyle tamamladık.",
+   "Üniversiteler, öğrencileri değişen iş gücü taleplerine hazırlamak için dijital beceriler üzerine zorunlu bir modül sunmaya giderek daha fazla yer veriyor."
+  ],
+  "col": [
+   "zorunlu modül",
+   "seçmeli modül",
+   "yazılım modülü",
+   "bir modülü tamamlamak"
+  ],
+  "tip": "Eğitimde module, dersin içindeki bağımsız bir bölümdür; Türkçedeki 'ders' ile birebir karşılamayın. Bileşen anlamında makine ve yazılım için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "temper",
+  "senses": [
+   "öfke; huysuzluk",
+   "yumuşatmak; ılımlılaştırmak",
+   "menevişlemek"
+  ],
+  "ex": [
+   "Çekmece yine sıkışınca sinirlenip kendini kaybetti.",
+   "Hükümetler, yeni teknolojilere duyulan coşkuyu olası toplumsal sonuçlarına dair dikkatli bir değerlendirmeyle dengelemelidir."
+  ],
+  "col": [
+   "sabrını yitirmek",
+   "öfkesini kontrol etmek",
+   "kısa tabiatlı olmak",
+   "coşkuyu ihtiyatla dengelemek"
+  ],
+  "tip": "'Lose your temper' öfkelenmek demektir. Fiil olarak 'temper A with B' kalıbıyla 'A'yı B ile dengelemek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "bilingual",
+  "senses": [
+   "iki dilli",
+   "iki dilli kişi"
+  ],
+  "ex": [
+   "İki dilli komşumuz hem İngilizceyi hem Çinceyi akıcı konuşuyor.",
+   "İki dilli eğitim, çocukların kültürel kimliklerini korumalarına ve giderek bağlanan bir dünyada beceri kazanmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "iki dilli eğitim",
+   "iki dilli sözlük",
+   "iki dilli konuşan kişi"
+  ],
+  "tip": "Hangi dilleri bildiğini belirtmek için 'bilingual in English and Turkish' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "interference",
+  "senses": [
+   "müdahale; karışma",
+   "engelleme; aksatma",
+   "parazit; girişim"
+  ],
+  "ex": [
+   "Kıyafetlerimi kimsenin karışmasına gerek kalmadan seçmek istedim.",
+   "Üniversitelerin araştırma bulgularının bağımsız ve güvenilir kalmasını sağlamak için siyasi müdahaleye karşı korunmaya ihtiyacı var."
+  ],
+  "col": [
+   "iç işlere müdahale",
+   "siyasi müdahale",
+   "uykuyu bölme",
+   "radyo parazitleri"
+  ],
+  "tip": "'Interference in' bir alana karışmayı, 'interference with' bir faaliyeti aksatmayı anlatır; iki kalıp farklı anlamlar taşır.",
+  "note": ""
+ },
+ {
+  "id": "weaken",
+  "senses": [
+   "zayıflatmak; zayıflamak"
+  ],
+  "ex": [
+   "Yeterince uyumamak, konsantre olma yeteneğini zayıflatabilir.",
+   "Kalıcı işsizlik, hanehalkı harcamalarını azaltıp iş yatırımlarını caydırarak yerel ekonomileri zayıflatabilir."
+  ],
+  "col": [
+   "bağışıklık sistemini zayıflatmak",
+   "bir argümanı zayıflatmak",
+   "talebi azaltmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: hem bir şeyi zayıflatmak hem de kendiliğinden zayıflamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "avenue",
+  "senses": [
+   "bulvar; cadde",
+   "yol; olanak"
+  ],
+  "ex": [
+   "Ağaçların gölgelediği sessiz bir bulvarda yürüdük.",
+   "Çevrimiçi öğrenme, tam zamanlı çalışmaya devam ederken yeni beceriler arayan yetişkinler için önemli bir olanak sunuyor."
+  ],
+  "col": [
+   "ağaçlı bulvar",
+   "araştırma yolu",
+   "her olanağı denemek"
+  ],
+  "tip": "Mecaz anlamda 'avenue for/of' kalıbıyla bir hedefe ulaşma yolu anlamında kullanılır; 'way' ile benzer ama daha resmîdir.",
+  "note": ""
+ },
+ {
+  "id": "typically",
+  "senses": [
+   "genellikle; çoğunlukla",
+   "tipik olarak"
+  ],
+  "ex": [
+   "Komşularımız genellikle kahvaltıdan önce köpeklerini gezdirir.",
+   "Güvenilir toplu taşımaya sahip şehirler, özel araçlara bağımlı olanlara göre genellikle daha az trafik sıkışıklığı yaşar."
+  ],
+  "col": [
+   "genellikle gerektirir",
+   "genellikle içerir",
+   "genellikle bulunur"
+  ],
+  "tip": "Cümlede genellikle fiilden önce, be fiilinden sonra gelir; cümle başında da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "grace",
+  "senses": [
+   "zarafet; incelik",
+   "süre tanıma; lütuf",
+   "süslemek; onurlandırmak"
+  ],
+  "ex": [
+   "Dansçı sahnede çaba göstermeden bir zarafetle hareket etti.",
+   "Kısa bir ek süre, hanelerin beklenmedik gecikmelerle gelen gelirlerini yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "zarafetle",
+   "ödeme erteleme süresi",
+   "etkinliği onurlandırmak"
+  ],
+  "tip": "'Zarafet' anlamında genellikle sayılamayan bir isimdir; 'grace period' bir ödeme ya da yükümlülük için tanınan ek süredir.",
+  "note": ""
+ },
+ {
+  "id": "unstable",
+  "senses": [
+   "sağlam olmayan",
+   "değişken; istikrarsız"
+  ],
+  "ex": [
+   "Bu sağlam olmayan sandalye, üzerine her oturduğumda sallanıyor.",
+   "İstikrarsız bir ekonomi yatırımları caydırabilir ve küçük işletmeler için uzun vadeli planlamayı zorlaştırabilir."
+  ],
+  "col": [
+   "istikrarsız ekonomi",
+   "siyasi olarak istikrarsız",
+   "sağlam olmayan yapı"
+  ],
+  "tip": "Fiziksel nesneler için 'sağlam değil', ekonomi ve durumlar için 'istikrarsız' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "influential",
+  "senses": [
+   "etkili; nüfuzlu"
+  ],
+  "ex": [
+   "Büyükbabası köylerindeki etkili bir öğretmendi.",
+   "Bilim danışmanları, halk sağlığı ve çevre koruma politikalarının şekillenmesinde etkili olabilir."
+  ],
+  "col": [
+   "etkili kişi",
+   "son derece etkili",
+   "politikayı şekillendirmede etkili"
+  ],
+  "tip": "Genellikle 'be influential in + -ing' kalıbıyla kullanılır; 'influence' fiiliyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "generosity",
+  "senses": [
+   "cömertlik; eli açıklık",
+   "hoşgörü; bağışlayıcılık"
+  ],
+  "ex": [
+   "Senin cömertliğin sayesinde herkesin sıcak bir paltosu var.",
+   "Topluluk projeleri çoğu zaman hem para hem de değerli pratik becerilere katkıda bulunan sakinlerin cömertliğine bağlıdır."
+  ],
+  "col": [
+   "cömertlik göstermek",
+   "bir cömertlik örneği",
+   "başkalarına karşı hoşgörü"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; tek bir cömert davranış için 'an act of generosity' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lily",
+  "senses": [
+   "zambak"
+  ],
+  "ex": [
+   "Bu sabah mutfak penceremizin yanında beyaz bir zambak açtı.",
+   "Zambak ve diğer çiçekli türlerle ekilen kentsel bahçeler, yerel sakinler için çekici alanlar sunabilir."
+  ],
+  "col": [
+   "beyaz zambak",
+   "zambak soğanı",
+   "nilüfer"
+  ],
+  "tip": "Çoğul hali 'lilies'tir. 'Water lily' Türkçede nilüfer olarak bilinir, zambak ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "muscular",
+  "senses": [
+   "kaslı; güçlü",
+   "kasla ilgili"
+  ],
+  "ex": [
+   "Kaslı yüzücü ağır kutuyu kolayca kaldırdı.",
+   "Düzenli direnç antrenmanı, kas gücünü artırabilir ve yaşlı yetişkinlerin bağımsızlıklarını sürdürmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "kas gücü",
+   "kas ağrısı",
+   "kaslı yapı"
+  ],
+  "tip": "Sıfat olarak 'kaslı' anlamına gelebildiği gibi yalnızca 'kasla ilgili' anlamında da kullanılır; 'muscular pain' kas ağrısıdır.",
+  "note": ""
+ },
+ {
+  "id": "youngster",
+  "senses": [
+   "genç; çocuk"
+  ],
+  "ex": [
+   "Neşeli bir genç elmaları toplamama yardım etti.",
+   "Topluluk spor programları, gençlere okul dışında ekip çalışması becerileri geliştirme ve arkadaşlık kurma fırsatı veriyor."
+  ],
+  "col": [
+   "yerel gençler",
+   "yetenekli gençler",
+   "bir grup genç"
+  ],
+  "tip": "Erkek ve kız çocukları için kullanılabilir, gayriresmîdir; resmî yazıda 'young people' tercih edilir.",
+  "note": ""
+ }
+]

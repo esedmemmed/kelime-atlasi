@@ -1,0 +1,274 @@
+[
+ {
+  "id": "sufficiently",
+  "senses": [
+   "yeterince"
+  ],
+  "ex": [
+   "Çorba, yemek yiyebilmemiz için yeterince soğumuştu.",
+   "Toplu taşıma, işe gidip gelenleri arabalarını evde bırakmaya ikna edecek kadar güvenilir olmalı."
+  ],
+  "col": [
+   "yeterince açık",
+   "yeterince hazırlıklı",
+   "yeterince büyük"
+  ],
+  "tip": "Sufficiently sıfatın önüne gelir: sufficiently clear. Enough ise sıfattan sonra gelir: clear enough. Bu sıra farkını unutmamak önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "vibrate",
+  "senses": [
+   "titremek; titreştirmek"
+  ],
+  "ex": [
+   "Telefonum cebimdeki anahtarlara karşı titredi.",
+   "Yoğun trafik, yakındaki binaların titremesine yol açabilir; bu da sakinlerin konforunu etkileyebilir ve eski yapılara zarar verebilir."
+  ],
+  "col": [
+   "hafifçe titremek",
+   "hızla titremek",
+   "titreşim modu"
+  ],
+  "tip": "Vibrate hızlı ve küçük hareketleri anlatır. Büyük sallanmalar için shake ya da sway daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "almond",
+  "senses": [
+   "badem; badem ağacı"
+  ],
+  "ex": [
+   "Kâsesindeki yulafın üzerine doğranmış bademler serpti.",
+   "Badem üretimi bazı bölgelerde ciddi miktarda sulama gerektirir; bu da yerel su kaynaklarının sürdürülebilirliğine ilişkin endişeleri artırır."
+  ],
+  "col": [
+   "kavrulmuş badem",
+   "badem sütü",
+   "öğütülmüş badem",
+   "badem çiçeği"
+  ],
+  "tip": "Almond isimdir ve çoğulu almonds olur. Yenilebilir bir çekirdeği anlatır; kayısı çekirdeğinin içi için ayrı bir sözcük kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lad",
+  "senses": [
+   "delikanlı; çocuk"
+  ],
+  "ex": [
+   "Dostça bir delikanlı çantaları taşımamıza yardım etti.",
+   "Genç bir çocukken romancı kırsal yoksulluk yaşadı; bu, daha sonra eserinin merkezi bir teması hâline geldi."
+  ],
+  "col": [
+   "genç bir delikanlı",
+   "yerel bir genç",
+   "genç erkek"
+  ],
+  "tip": "Lad özellikle İngiliz gayriresmi dilinde kullanılır. Yazılı ve resmi metinlerde boy ya da young man tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "disorder",
+  "senses": [
+   "rahatsızlık; hastalık",
+   "düzensizlik; karmaşa",
+   "kargaşa; huzursuzluk"
+  ],
+  "ex": [
+   "Bir uyku bozukluğu, geceleri çoğu zaman onu uyanık tutuyordu.",
+   "Anksiyete bozukluklarının erken tedavisi, öğrencilerin iyi oluşunu artırabilir ve eğitime daha tam katılmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "uyku bozukluğu",
+   "yeme bozukluğu",
+   "dağınık durumda",
+   "toplumsal huzursuzluk"
+  ],
+  "tip": "Hastalık anlamında sayılabilir (a disorder, disorders). Karmaşa ya da huzursuzluk anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "migrate",
+  "senses": [
+   "göç etmek; yer değiştirmek",
+   "aktarmak"
+  ],
+  "ex": [
+   "Bu kuşlar hava soğuyunca güneye göç eder.",
+   "Birçok genç yetişkin, kırsal topluluklarda iş imkânları genellikle sınırlı olduğu için kentlere göç eder."
+  ],
+  "col": [
+   "güneye göç etmek",
+   "kentlere göç etmek",
+   "verileri aktarmak"
+  ],
+  "tip": "Migrate yer değiştirmeyi anlatır. Immigrate bir ülkeye girişi, emigrate ise ülkeden çıkışı anlatır. Yönü belirtmek için to ya da from kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "socialist",
+  "senses": [
+   "sosyalist",
+   "sosyalist; sosyalizmci"
+  ],
+  "ex": [
+   "Okuma grubumuz çay eşliğinde sosyalist fikirleri tartıştı.",
+   "Sosyalist politikalar genellikle kamu mülkiyeti ve servetin yeniden dağıtımı yoluyla ekonomik eşitsizliği azaltmayı hedefler."
+  ],
+  "col": [
+   "sosyalist politikalar",
+   "sosyalist hareket",
+   "sosyalist ekonomi"
+  ],
+  "tip": "Socialist 'sosyalist' anlamına gelir; social ise 'toplumsal' ya da 'sosyal' demektir. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "lobster",
+  "senses": [
+   "istakoz"
+  ],
+  "ex": [
+   "Kayalık deniz tabanında bir istakozun emekleyerek ilerleyişini izledik.",
+   "İstakoz avcılığına getirilen kısıtlamalar, deniz ekosistemlerini korurken kıyı topluluklarının uzun vadeli geçimini de destekleyebilir."
+  ],
+  "col": [
+   "istakoz avcılığı",
+   "istakoz kuyruğu",
+   "istakoz sepeti"
+  ],
+  "tip": "Hayvan için sayılabilir (a lobster, lobsters). Yemek olarak etinden söz edilirken genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "sector",
+  "senses": [
+   "sektör; alan",
+   "bölge; kesim",
+   "daire dilimi"
+  ],
+  "ex": [
+   "Kız kardeşim şimdi bankacılık sektöründe çalışıyor.",
+   "Yenilenebilir enerji sektörüne yapılacak yatırımlar, ithal fosil yakıtlara bağımlılığı azaltırken iş imkânları yaratabilir."
+  ],
+  "col": [
+   "kamu sektörü",
+   "özel sektör",
+   "imalat sektörü",
+   "hizmet sektörü"
+  ],
+  "tip": "Sector çoğunlukla ekonomideki bir alanı anlatır. Bir şirketin iç bölümü için genellikle department daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "warmth",
+  "senses": [
+   "sıcaklık; ılıklık",
+   "sıcak ilgi; samimiyet"
+  ],
+  "ex": [
+   "Yürüyüşten sonra şöminenin sıcaklığının tadını çıkardık.",
+   "Topluluk ilişkilerinin sıcaklığı, yaşlı sakinlerin kendilerini desteklenmiş hissetmelerine ve yalnızlık duygusunun azalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "ısınmak için",
+   "güneşin sıcaklığı",
+   "insani sıcaklık",
+   "sıcaklık ve nezaket"
+  ],
+  "tip": "Warmth genellikle sayılamaz; 'a warmth' yerine doğrudan warmth kullanılır. Hem fiziksel sıcaklığı hem de samimi ilgiyi anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "watt",
+  "senses": [
+   "vat"
+  ],
+  "ex": [
+   "Bu küçük lamba yalnızca beş vat güç kullanır.",
+   "Farklı cihazların ihtiyaç duyduğu vat değerlerini karşılaştırmak, tüketicilerin daha az elektrik kullanan modelleri seçmesine yardımcı olur."
+  ],
+  "col": [
+   "vat cinsinden güç",
+   "on vatlık ampul",
+   "elli vat olarak derecelendirilmiş"
+  ],
+  "tip": "Watt güç birimidir. Elektrik tüketimi ölçülürken kilowatt-hour (kWh) kullanılır. Sayıdan sonra çoğul watts olur.",
+  "note": ""
+ },
+ {
+  "id": "restricted",
+  "senses": [
+   "sınırlı; kısıtlı",
+   "yalnızca izinli kişilere açık"
+  ],
+  "ex": [
+   "Yoğun sabah saatlerinde burada park etmek kısıtlıdır.",
+   "Uygun fiyatlı sağlık hizmetine erişimin kısıtlı olması, zengin topluluklar ile dezavantajlı kırsal nüfuslar arasındaki mevcut eşitsizlikleri kötüleştirebilir."
+  ],
+  "col": [
+   "sınırlı erişim",
+   "kısıtlı bölge",
+   "kısıtlı hareket",
+   "yalnızca üyelere özel"
+  ],
+  "tip": "Restricted to 'yalnızca ... ile sınırlı' anlamına gelir. Ayrıca restrict fiilinin ortaçlı hâlidir ve sıfat olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "distraction",
+  "senses": [
+   "dikkat dağıtıcı şey",
+   "dikkat dağınıklığı",
+   "eğlence; oyalanma"
+  ],
+  "ex": [
+   "Ödev yaparken televizyon dikkatimi dağıtıyor.",
+   "Sınıflardaki dijital dikkat dağıtıcıların azaltılması, öğrencilerin zorlu materyale daha iyi odaklanmasına ve derinlemesine katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "dikkat dağıtıcılardan kaçınmak",
+   "hoş bir eğlence",
+   "büyük bir dikkat dağıtıcı"
+  ],
+  "tip": "Dikkat dağıtan somut bir şey sayılabilir (a distraction). Dikkatin dağılmış hâli anlatılırken genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "adjustment",
+  "senses": [
+   "ayar; düzeltme",
+   "uyum; alışma"
+  ],
+  "ex": [
+   "Koltukta yapılan küçük bir ayar, bisiklet sürmeyi kolaylaştırdı.",
+   "Yeni bir ülkeye taşınmak, alışılmadık sosyal görgü kurallarına ve günlük rutinlere önemli ölçüde uyum sağlamayı gerektirir."
+  ],
+  "col": [
+   "ayar yapmak",
+   "küçük ayar",
+   "uyum süreci"
+  ],
+  "tip": "Yeni bir duruma uyum anlamında adjustment to kalıbı kullanılır: adjustment to a new job. Ayar anlamında ise çoğunlukla to gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "robbery",
+  "senses": [
+   "soygun; silahlı soygun"
+  ],
+  "ex": [
+   "Dün yaşanan bir soygun yüzünden dükkân erken kapandı.",
+   "Daha iyi sokak aydınlatması, gece soygun riskini azaltabilir ve sakinlerin karanlıkta kendilerini daha güvende hissetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "soygun yapmak",
+   "silahlı soygun",
+   "banka soygunu",
+   "soygun girişimi"
+  ],
+  "tip": "Robbery güç kullanarak ya da tehdit ederek yapılan hırsızlıktır. Genel hırsızlık için theft kullanılır. Robbery sayılabilir: a robbery.",
+  "note": ""
+ }
+]

@@ -1,0 +1,279 @@
+[
+ {
+  "id": "otherwise",
+  "senses": [
+   "aksi halde; yoksa",
+   "diğer açılardan",
+   "başka türlü; farklı biçimde"
+  ],
+  "ex": [
+   "Şemsiye al; yoksa ıslanırsın.",
+   "Şehirlerin güvenilir toplu taşımaya yatırım yapması gerekiyor; aksi halde daha fazla sakin araba kullanmayı tercih edebilir."
+  ],
+  "col": [
+   "aksi belirtilmedikçe",
+   "aksini düşünmek",
+   "diğer açılardan sağlıklı"
+  ],
+  "tip": "Yazılı dilde 'aksi halde' anlamında otherwise genellikle önceki cümleden noktalı virgülle ayrılır.",
+  "note": ""
+ },
+ {
+  "id": "encourage",
+  "senses": [
+   "cesaretlendirmek; teşvik etmek",
+   "desteklemek; özendirmek"
+  ],
+  "ex": [
+   "Kız kardeşim beni yüzme kulübüne katılmaya teşvik etti.",
+   "Yerel yönetimler, iş yerlerine yakın daha güvenli yollar ve güvenli bisiklet park alanları sağlayarak bisiklet kullanımını artırabilir."
+  ],
+  "col": [
+   "birini bir şey yapmaya teşvik etmek",
+   "güçlü biçimde teşvik etmek",
+   "katılımı teşvik etmek"
+  ],
+  "tip": "encourage sb to do sth kalıbını kullanın; 'to' ardından fiil yalın hâlde gelir.",
+  "note": ""
+ },
+ {
+  "id": "unbelievable",
+  "senses": [
+   "inanılmaz; olağanüstü",
+   "çok iyi; çok kötü"
+  ],
+  "ex": [
+   "Gün doğarken dağdan görülen manzara inanılmazdı.",
+   "Bazı çevrim içi reklamlar inanılmaz sonuçlar vaat ediyor; bu da tüketicilerin kanıtı abartıdan ayırt etmesini zorlaştırıyor."
+  ],
+  "col": [
+   "inanılmaz bir hikâye",
+   "inanılmaz sonuçlar",
+   "inanılmaz şans"
+  ],
+  "tip": "Hem 'inanılmaz' hem de gündelik dilde 'çok iyi / çok kötü' anlamında kullanılır; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "slim",
+  "senses": [
+   "ince; narin",
+   "zayıf; çok az",
+   "zayıflamak; incelmek"
+  ],
+  "ex": [
+   "Bu ince lamba küçük çalışma masama tam sığıyor.",
+   "Güvenilir toplu taşıma olmadan, yolcuların araba kullanmayı bırakma ihtimali çok düşük."
+  ],
+  "col": [
+   "ince bir figür",
+   "zayıf bir ihtimal",
+   "küçük bir çoğunluk",
+   "zayıflamak"
+  ],
+  "tip": "Vücut için slim olumlu bir anlam taşır; slim chance ise 'zayıf ihtimal' demektir. Thin ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "millimetre",
+  "senses": [
+   "milimetre"
+  ],
+  "ex": [
+   "Raf sığmak için bir milimetre fazla genişti.",
+   "Deniz seviyesindeki birkaç milimetrelik artış bile zamanla savunmasız kıyı topluluklarında sel riskini artırabilir."
+  ],
+  "col": [
+   "bir milimetre kalınlığında",
+   "birkaç milimetre",
+   "milimetre cinsinden ölçülmüş"
+  ],
+  "tip": "Kısaltması mm'dir. Amerikan yazımı millimeter'dir. Sayıdan sonra çoğul kullanılır: a few millimetres.",
+  "note": ""
+ },
+ {
+  "id": "planned",
+  "senses": [
+   "planlanmış; önceden düzenlenmiş",
+   "planlamak; tasarlamak"
+  ],
+  "ex": [
+   "Planlanan piknik yoğun yağmur yüzünden iptal edildi.",
+   "Demiryolu ağının planlanan genişlemesi trafik sıkışıklığını azaltabilir ve istihdama erişimi iyileştirebilir."
+  ],
+  "col": [
+   "planlanan genişleme",
+   "planlı bakım",
+   "planlandığı gibi",
+   "özenle planlanmış"
+  ],
+  "tip": "plan → planned yazarken son n harfi ikilenir. as planned 'planlandığı gibi' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "consist",
+  "senses": [
+   "oluşmak; meydana gelmek",
+   "özünde yatmak"
+  ],
+  "ex": [
+   "Piknik öğle yemeğimiz sandviç, meyve ve meyve suyundan oluşuyor.",
+   "Etkili bir geri dönüşüm programı, kolay toplama hizmetleri ve yerel sakinler için açık yönergelerden oluşur."
+  ],
+  "col": [
+   "...den oluşmak",
+   "çoğunlukla ...den oluşmak",
+   "...de yatmak"
+  ],
+  "tip": "consist of kalıbıdır, 'consist from' yanlıştır. Edilgen kullanılmaz. consist in ise 'özünde ... yatmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "annual",
+  "senses": [
+   "yıllık; her yıl olan",
+   "yıllık yayın; yıllık",
+   "bir yıllık bitki"
+  ],
+  "ex": [
+   "Yıllık aile pikniğimiz göl kenarında yapıldı.",
+   "Yıllık rapor, kamu finansmanının yerel ulaşım hizmetlerini nasıl iyileştirdiğine dair yararlı kanıtlar sunuyor."
+  ],
+  "col": [
+   "yıllık rapor",
+   "yıllık gelir",
+   "yıllık izin",
+   "yıllık etkinlik"
+  ],
+  "tip": "annual sıfattır (yıllık); annually zarftır (her yıl). Zarf yerine annual kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "symbol",
+  "senses": [
+   "sembol; simge",
+   "işaret; sembol"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam için bu eski ev umudun simgesidir.",
+   "Kamu parkları, bir şehrin çevre korumasına ve sakinlerin yaşam kalitesine verdiği önemin simgesi haline gelebilir."
+  ],
+  "col": [
+   "barışın sembolü",
+   "statü sembolü",
+   "matematiksel sembol"
+  ],
+  "tip": "'...nin simgesi' için a symbol of kullanın; symbol for demeyin.",
+  "note": ""
+ },
+ {
+  "id": "painkiller",
+  "senses": [
+   "ağrı kesici"
+  ],
+  "ex": [
+   "Eczacı, ağrı kesiciyi ne zaman almam gerektiğini açıkladı.",
+   "Hastalar, olası yan etkilerle ilgili bilgiler de dahil olmak üzere ağrı kesicileri güvenli kullanma konusunda net yönlendirme almalıdır."
+  ],
+  "col": [
+   "ağrı kesici almak",
+   "ağrı kesici reçete etmek",
+   "reçetesiz ağrı kesiciler"
+  ],
+  "tip": "Sayılabilir isimdir: a painkiller, painkillers. 'Take a painkiller' ağrı kesici almak anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "select",
+  "senses": [
+   "seçmek; belirlemek",
+   "seçkin; özenle seçilmiş"
+  ],
+  "ex": [
+   "Lütfen sepetten taze bir elma seçin.",
+   "Üniversiteler, adayları yalnızca sınav sonuçlarına bağlı kalmak yerine çeşitli ölçütlerle seçmelidir."
+  ],
+  "col": [
+   "bir adayı seçmek",
+   "listeden seçmek",
+   "birini bir rol için seçmek",
+   "seçkin bir grup"
+  ],
+  "tip": "select, choose'a göre daha resmidir ve genellikle dikkatli seçimi vurgular.",
+  "note": ""
+ },
+ {
+  "id": "connection",
+  "senses": [
+   "bağlantı; ilişki",
+   "bağlantı; bağlanma",
+   "aktarma"
+  ],
+  "ex": [
+   "Fırtına sırasında internet bağlantımız çalışmaz oldu.",
+   "Araştırmacılar, düzenli fiziksel aktivite ile genç yetişkinlerin ruh sağlığı arasında güçlü bir bağlantı buldu."
+  ],
+  "col": [
+   "...arasındaki bağlantı",
+   "internet bağlantısı",
+   "aktarmayı kaçırmak",
+   "...ile bağlantılı olarak"
+  ],
+  "tip": "İki şey arasındaki ilişki için connection between A and B kullanın. in connection with resmi bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "neighboring",
+  "senses": [
+   "komşu; bitişik"
+  ],
+  "ex": [
+   "Merdiveni komşu çiftlikten ödünç aldık.",
+   "Komşu ülkeler, nehir yönetimini koordine ederek ve endüstriyel kirlilik hakkında bilgi paylaşarak çevresel zararı azaltabilir."
+  ],
+  "col": [
+   "komşu ülkeler",
+   "komşu köyler",
+   "komşu bölgeler"
+  ],
+  "tip": "Bu Amerikan yazımıdır; İngiliz yazımı neighbouring'dir. Genellikle isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "combine",
+  "senses": [
+   "birleştirmek; bir araya getirmek",
+   "biçerdöver"
+  ],
+  "ex": [
+   "Unu ve tereyağını büyük bir kapta karıştırın.",
+   "Şehirler, özel araçlara bağımlılığı azaltmak için gelişmiş toplu taşımayı daha güvenli bisiklet yollarıyla birleştirebilir."
+  ],
+  "col": [
+   "A'yı B ile birleştirmek",
+   "güçlerini birleştirmek",
+   "teoriyi ve pratiği birleştirmek"
+  ],
+  "tip": "Fiil olarak vurgu ikinci hecededir (kəm-BAYN); 'biçerdöver' anlamındaki isimde vurgu ilk hecededir (KOM-bayn).",
+  "note": ""
+ },
+ {
+  "id": "ideal",
+  "senses": [
+   "ideal; en uygun",
+   "ülkü; ideal"
+  ],
+  "ex": [
+   "Bu sessiz köşe öğle yemeğinden sonra okumak için ideal.",
+   "İdeal bir toplu taşıma sistemi uygun fiyatlı, güvenilir ve her yaştan sakinin erişebileceği nitelikte olurdu."
+  ],
+  "col": [
+   "...için ideal",
+   "ideal koşullar",
+   "ideal bir çözüm",
+   "bir ideale uymak"
+  ],
+  "tip": "ideal for, isim veya -ing ile kullanılır (ideal for reading). 'ideal to' yerine 'ideal for' kullanın.",
+  "note": ""
+ }
+]

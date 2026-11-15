@@ -1,0 +1,277 @@
+[
+ {
+  "id": "compromise",
+  "senses": [
+   "uzlaşma; orta yol",
+   "uzlaşmak; taviz vermek",
+   "tehlikeye atmak; zedelemek"
+  ],
+  "ex": [
+   "Son bisküviyi paylaşmak üzere bir uzlaşmaya vardık.",
+   "Hükümetler, yoğun nüfuslu şehirlerde konut arzını artırmak ile yeşil alanları korumak arasında bir orta yol bulmalı."
+  ],
+  "col": [
+   "uzlaşmaya varmak",
+   "bir konuda taviz vermek",
+   "güvenliği tehlikeye atmak",
+   "makul bir uzlaşma"
+  ],
+  "tip": "'compromise on' bir konuda taviz vermek anlamına gelir. Doğrudan nesne alınca 'tehlikeye atmak, zedelemek' anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "maximize",
+  "senses": [
+   "en üst düzeye çıkarmak"
+  ],
+  "ex": [
+   "Çok küçük mutfağımızda alanı en iyi kullanmak için raflar ekledik.",
+   "Şehirler, özel araç kullanımını azaltırken istihdama erişimi en üst düzeye çıkarmak için toplu taşımayı geliştirmeli."
+  ],
+  "col": [
+   "kârı en üst düzeye çıkarmak",
+   "verimliliği en üst düzeye çıkarmak",
+   "alanı en iyi kullanmak",
+   "potansiyeli en üst düzeye çıkarmak"
+  ],
+  "tip": "Geçişli bir fiildir, nesnesiz kullanılmaz. İngiliz İngilizcesinde 'maximise' yazımı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tuition",
+  "senses": [
+   "öğrenim ücreti; harç",
+   "özel ders; öğretim"
+  ],
+  "ex": [
+   "Okul ücretini ödemeye yardımcı olmak için hafta sonları çalışıyor.",
+   "Üniversite harçlarındaki artış, dezavantajlı geçmişe sahip öğrencileri yükseköğrenime devam etmekten caydırabilir."
+  ],
+  "col": [
+   "öğrenim ücretleri",
+   "özel ders",
+   "öğrenim ücreti ödemek"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a tuition' ya da 'tuitions' demeyin. İngiliz İngilizcesinde ücret için genellikle 'tuition fees' denir.",
+  "note": ""
+ },
+ {
+  "id": "tile",
+  "senses": [
+   "fayans; karo; kiremit",
+   "karo döşemek"
+  ],
+  "ex": [
+   "Mutfak lavabosunun yanındaki mavi karolardan biri çatlamış.",
+   "Yerel üretim kiremit kullanmak, kırsal bölgelerdeki taşıma emisyonlarını azaltabilir ve geleneksel sanayileri destekleyebilir."
+  ],
+  "col": [
+   "seramik karolar",
+   "çatı kiremitleri",
+   "karo döşemek",
+   "banyoyu karolarla kaplamak"
+  ],
+  "tip": "Fiil olarak doğrudan kaplanacak yüzeyi nesne alır: 'tile a bathroom'. Yüzey için araya 'on' koymaya gerek yoktur.",
+  "note": ""
+ },
+ {
+  "id": "pinch",
+  "senses": [
+   "çimdiklemek; sıkmak",
+   "bir tutam",
+   "çimdik"
+  ],
+  "ex": [
+   "Turtayı kapatmak için hamurun kenarlarını birbirine çimdikleyin.",
+   "Gıda fiyatları yükseldikçe düşük gelirli aileler giderek daha fazla sıkıntı çekiyor ve gereksiz harcamalarını azaltıyor."
+  ],
+  "col": [
+   "bir tutam tuz",
+   "sıkıntı çekmek",
+   "birbirine çimdiklemek"
+  ],
+  "tip": "'feel the pinch' gerçek bir çimdik değil, maddi sıkıntı çekmek anlamına gelir. 'a pinch of' ise az miktarı belirtir.",
+  "note": ""
+ },
+ {
+  "id": "satisfactorily",
+  "senses": [
+   "tatmin edici biçimde; yeterince"
+  ],
+  "ex": [
+   "Tamirden sonra çamaşır makinesi sorunsuz çalıştı.",
+   "Yerel yönetimler düzenli bakım ve personel eğitimine yatırım yapmadıkça toplu taşıma yeterince iyi işleyemez."
+  ],
+  "col": [
+   "tatmin edici performans göstermek",
+   "sorunu tatmin edici biçimde çözmek",
+   "yeterince iyi işlemek"
+  ],
+  "tip": "Kabul edilebilir, gereksinimleri karşılayan düzeyi anlatır; mükemmel anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "catching",
+  "senses": [
+   "bulaşıcı; sirayet eden"
+  ],
+  "ex": [
+   "Kahkahası bulaşıcıydı; kısa sürede herkes gülümsemeye başladı.",
+   "Coşku bulaşıcı olabilse de halk sağlığı kampanyalarının kalıcı davranış değişikliği için net kanıtlara ihtiyacı var."
+  ],
+  "col": [
+   "bulaşıcı bir hastalık",
+   "bulaşıcı bir coşku",
+   "bulaşıcı kahkaha"
+  ],
+  "tip": "Çoğunlukla yüklem olarak kullanılır. Akılda kalıcı melodi için 'catchy' kullanılır, 'catching' değil.",
+  "note": ""
+ },
+ {
+  "id": "undergo",
+  "senses": [
+   "geçirmek; uygulanmak"
+  ],
+  "ex": [
+   "Amcam önümüzdeki hafta başında diz ameliyatı geçirecek.",
+   "Deniz seviyesi yükseldikçe hükümetler kentsel planlamayı yeniden gözden geçirmek zorunda kalacağından, birçok kıyı kenti önemli değişimler geçirecek."
+  ],
+  "col": [
+   "ameliyat geçirmek",
+   "eğitimden geçmek",
+   "önemli değişimler geçirmek",
+   "testlerden geçmek"
+  ],
+  "tip": "Düzensiz fiildir: undergo, underwent, undergone. Doğrudan nesne alır; 'undergo from' gibi edatlı kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "tanker",
+  "senses": [
+   "tanker gemisi",
+   "tanker kamyon"
+  ],
+  "ex": [
+   "Dev bir tankerin limana doğru ilerleyişini izledik.",
+   "Bir petrol tankerinin karıştığı kaza, kıyı ekosistemlerine kalıcı zarar verebilir."
+  ],
+  "col": [
+   "petrol tankeri",
+   "yakıt tankeri",
+   "tanker kamyon"
+  ],
+  "tip": "'tank' depo anlamına gelir; 'tanker' ise sıvı ya da gaz taşıyan büyük gemi veya araçtır.",
+  "note": ""
+ },
+ {
+  "id": "cramp",
+  "senses": [
+   "kramp; kasılma",
+   "kısıtlamak; engellemek"
+  ],
+  "ex": [
+   "Baldırımda ani bir kramp girdi ve yüzmeyi bıraktım.",
+   "Aşırı katı sınıf kuralları öğrencilerin yaratıcılığını kısıtlayabilir ve onları alışılmadık fikirleri keşfetmekten caydırabilir."
+  ],
+  "col": [
+   "kas krampı",
+   "mide krampları",
+   "adet krampları",
+   "birinin tarzını baltalamak"
+  ],
+  "tip": "Dar, sıkışık anlamındaki sıfat 'cramped'tir. 'cramp' fiil olarak da kullanılır ve 'cramp someone's style' deyiminde görülür.",
+  "note": ""
+ },
+ {
+  "id": "motive",
+  "senses": [
+   "güdü; saik; neden"
+  ],
+  "ex": [
+   "Katılmasının tek nedeni arkadaş edinmekti.",
+   "Maddi güvence, yerleşik şirketlerde kariyer yapmayı seçen birçok mezun için önemli bir güdüdür."
+  ],
+  "col": [
+   "bir şey yapmak için neden",
+   "altta yatan güdü",
+   "kâr güdüsü"
+  ],
+  "tip": "Bir eylemin arkasındaki nedeni anlatır, genellikle 'motive for' ile kullanılır. Türkçedeki 'motif' (desen) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "satisfy",
+  "senses": [
+   "memnun etmek; doyurmak",
+   "karşılamak; uygun olmak",
+   "ikna etmek"
+  ],
+  "ex": [
+   "Açlığımı gidermek için bir kase çorba yeterliydi.",
+   "Yerel yönetimler inşaata izin vermeden önce yeni konut projeleri katı çevre standartlarını karşılamalıdır."
+  ],
+  "col": [
+   "bir ihtiyacı karşılamak",
+   "gereksinimleri karşılamak",
+   "merakını gidermek",
+   "kendini ikna etmek ki"
+  ],
+  "tip": "İnsanlar için 'satisfied' (memnun), şeyler için 'satisfying' (memnuniyet verici) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "correction",
+  "senses": [
+   "düzeltme"
+  ],
+  "ex": [
+   "E-postayı göndermeden önce bir düzeltme yaptım.",
+   "Yanlış bilgilerin zamanında düzeltilmesi, haber kuruluşlarının halkın güvenini korumasına ve yanlışların yayılmasını önlemesine yardımcı olur."
+  ],
+  "col": [
+   "düzeltme yapmak",
+   "hata düzeltme",
+   "küçük bir düzeltme",
+   "hataların düzeltilmesi"
+  ],
+  "tip": "Tek bir düzeltme sayılabilir ('a correction'); genel süreci anlatırken sayılamayan olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "navigate",
+  "senses": [
+   "yol bulmak; yönlendirmek",
+   "gezinmek; dolaşmak",
+   "üstesinden gelmek"
+  ],
+  "ex": [
+   "Dar sokaklarda yolumuzu bulmak için bir harita kullandık.",
+   "Açık web sitesi tasarımı, kullanıcıların gereksiz gecikmeler olmadan kamu hizmetlerinde gezinmesine ve temel bilgilere erişmesine yardımcı olur."
+  ],
+  "col": [
+   "bir web sitesinde gezinmek",
+   "trafikte ilerlemek",
+   "bilinmeyen araziyi aşmak",
+   "bir krizin üstesinden gelmek"
+  ],
+  "tip": "Doğrudan yer ya da site nesnesi alabilir ('navigate a website'); 'navigate through' kalıbı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "assessed",
+  "senses": [
+   "değerlendirmek"
+  ],
+  "ex": [
+   "Tamirci bisikletimi onarmadan önce hasarı değerlendirdi.",
+   "Öğrenciler yalnızca final sınavındaki performanslarıyla değil, çeşitli görevlerle değerlendirilmelidir."
+  ],
+  "col": [
+   "hasarı değerlendirmek",
+   "riski değerlendirmek",
+   "...e göre değerlendirilmek"
+  ],
+  "tip": "'assess' fiilinin geçmiş zaman ve ortaç biçimidir. Edilgen kullanımda 'be assessed on/by' kalıbı görülür.",
+  "note": ""
+ }
+]

@@ -1,0 +1,261 @@
+[
+ {
+  "id": "abrogate",
+  "senses": [
+   "yürürlükten kaldırmak; feshetmek"
+  ],
+  "ex": [
+   "Konsey, güncelliğini yitirmiş park düzenlemesini kaldırmak için oy kullandı.",
+   "Hükümetler, bölgesel istikrar ve kamu güveni üzerindeki sonuçları dikkatle düşünmeden uluslararası anlaşmaları feshetmemelidir."
+  ],
+  "col": [
+   "bir antlaşmayı feshetmek",
+   "bir anlaşmayı feshetmek",
+   "bir yasayı kaldırmak"
+  ],
+  "tip": "Resmi bir dildir; genellikle yasa, antlaşma veya anlaşma gibi nesnelerle kullanılır. Günlük konuşmada 'cancel' ya da 'end' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "rescind",
+  "senses": [
+   "geri çekmek; iptal etmek"
+  ],
+  "ex": [
+   "Kulüp, havuzu kapatma kararını geri aldı.",
+   "Konsey, sakinlerin yerel dükkanlara erişim konusundaki endişelerini dile getirmesinin ardından park kısıtlamalarını kaldırmayı kabul etti."
+  ],
+  "col": [
+   "bir kararı geri almak",
+   "bir teklifi geri çekmek",
+   "bir sözleşmeyi iptal etmek"
+  ],
+  "tip": "Resmi bir fiildir; karar, teklif veya sözleşmeyi geri almak ya da iptal etmek anlamına gelir, genellikle para iadesi anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "fastidious",
+  "senses": [
+   "titiz; çok seçici"
+  ],
+  "ex": [
+   "Kardeşim ayakkabılarının lekesiz olması konusunda çok titizdir.",
+   "Yiyecek hazırlamada hijyene gösterilen titiz özen, kontaminasyon risklerini azaltabilir ve restoranlara olan kamu güvenini korumaya yardımcı olabilir."
+  ],
+  "col": [
+   "temizlik konusunda titiz",
+   "ayrıntılara titiz özen",
+   "çok seçici bir yiyici"
+  ],
+  "tip": "Hem olumlu (titiz) hem olumsuz (aşırı seçici) anlamda kullanılabilir; cümlenin bağlamına dikkat etmek gerekir.",
+  "note": ""
+ },
+ {
+  "id": "hinterland",
+  "senses": [
+   "iç bölge; ardbölge"
+  ],
+  "ex": [
+   "Arazide sürdük ve sessiz köyler bulduk.",
+   "Limanlar ile onların iç bölgeleri arasındaki ulaşım bağlantılarının iyileştirilmesi, bölgesel ticareti ve tarımsal gelişmeyi destekleyebilir."
+  ],
+  "col": [
+   "kırsal iç bölge",
+   "kıyı ardbölgesi",
+   "geniş iç bölge"
+  ],
+  "tip": "Genellikle liman, kıyı veya büyük kentin ardındaki iç kesimleri anlatır; yalnızca 'kır' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "continuance",
+  "senses": [
+   "süreklilik; devam",
+   "davanın ertelenmesi"
+  ],
+  "ex": [
+   "Kulübün devamı, yerel gönüllülerin desteğine bağlı.",
+   "Kırsal kütüphanelerin açık kalabilmesi için kamu fonlarının sürmesi şarttır."
+  ],
+  "col": [
+   "desteğin sürmesi",
+   "sürekli varlık ve devamlılık",
+   "duruşmanın ertelenmesine karar vermek"
+  ],
+  "tip": "Resmi bir sözcüktür. 'Dava erteleme' anlamı ağırlıklı olarak Amerikan İngilizcesinde kullanılır; İngiliz hukukunda genelde 'adjournment' denir.",
+  "note": ""
+ },
+ {
+  "id": "actuality",
+  "senses": [
+   "gerçeklik; gerçek durum"
+  ],
+  "ex": [
+   "Daire geniş görünüyordu, ama aslında çok küçüktü.",
+   "Çevrimiçi hizmetler her yerde erişilebilir görünse de, gerçekte birçok kırsal topluluk hâlâ güvenilir internet bağlantısından yoksun."
+  ],
+  "col": [
+   "aslında; gerçekte",
+   "gerçeğe dönüşmek"
+  ],
+  "tip": "'In actuality' resmi bir ifadedir; günlük konuşmada 'actually' daha yaygındır. 'Actuality' ile 'actually' karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "subliminal",
+  "senses": [
+   "bilinçaltı; bilinç dışı"
+  ],
+  "ex": [
+   "Film, izleyicilerin neredeyse fark etmediği bilinçaltı görüntüler kullanıyordu.",
+   "Araştırmacılar, bilinçaltı ipuçlarının sıradan alışveriş koşullarında tüketici tercihlerini etkileyip etkilemediğini incelemeye devam ediyor."
+  ],
+  "col": [
+   "bilinçaltı mesaj",
+   "bilinçaltı reklamcılık",
+   "bilinçaltı algı"
+  ],
+  "tip": "Bilinç eşiğinin altında kalan, fark edilmeyen uyaranları anlatır; genel olarak dikkatsiz ya da istemsiz davranışlar için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "excrement",
+  "senses": [
+   "dışkı; gaita"
+  ],
+  "ex": [
+   "Bahçe banklarında kuş dışkısı bulduk.",
+   "Arıtılmamış hayvan dışkısı yerel su kaynaklarını kirletebilir ve halk sağlığı için ciddi riskler oluşturabilir."
+  ],
+  "col": [
+   "hayvan dışkısı",
+   "insan dışkısı",
+   "kuş dışkısı"
+  ],
+  "tip": "Sayılamayan bir isimdir ve resmi bir sözcüktür; günlük konuşmada 'poo' gibi sözcükler kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ruinous",
+  "senses": [
+   "yıkıcı; ağır zarar veren",
+   "harap; yıkık"
+  ],
+  "ex": [
+   "Onarımlar o kadar pahalıydı ki evi satmak zorunda kaldık.",
+   "Uzun süren kuraklık, yalnızca mevsimlik yağmura bağlı olan çiftçi topluluklarında yıkıcı sonuçlar doğurabilir."
+  ],
+  "col": [
+   "yıkıcı maliyetler",
+   "yıkıcı sonuçlar",
+   "ekonomik açıdan yıkıcı"
+  ],
+  "tip": "Özellikle ekonomik kayıp için güçlü bir sözcüktür; yalnızca 'pahalı' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "sneer",
+  "senses": [
+   "alay etmek; küçümsemek",
+   "alaycı ifade; küçümseme"
+  ],
+  "ex": [
+   "Basit bir soru sorduğu için kimseyle alay etmeyin.",
+   "Meslektaşlar alışılmadık fikirlerle alay ettiğinde, çalışanlar yenilikçi çözümler önermeye daha az istekli olabilir."
+  ],
+  "col": [
+   "biriyle alay etmek",
+   "küçümseyici bir alay",
+   "alaycı bir ifadeyle"
+  ],
+  "tip": "Genellikle 'sneer at' kalıbıyla kullanılır; sadece gülümseme değil, küçümseme ve aşağılama içeren bir tavrı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "epoch-making",
+  "senses": [
+   "çağ açan; devrim niteliğinde"
+  ],
+  "ex": [
+   "Çığır açan o bilimsel keşfi anlatan bir belgesel izledik.",
+   "Matbaanın gelişimi, eğitimi dönüştüren ve bilgiye erişimi genişleten çağ açıcı bir ilerlemeydi."
+  ],
+  "col": [
+   "çığır açan bir keşif",
+   "çığır açan bir buluş",
+   "çağ açan bir olay"
+  ],
+  "tip": "Çok güçlü bir ifadedir; yeni bir tarihsel dönem başlatan şeyler için kullanılır, sıradan 'önemli' için değil.",
+  "note": ""
+ },
+ {
+  "id": "pliable",
+  "senses": [
+   "esnek; kolay bükülen",
+   "uysal; kolay yönlendirilen"
+  ],
+  "ex": [
+   "Kili yumuşayıp şekil alabilecek kadar ısıtın.",
+   "Esnek malzemeler, tasarımcıların daha kolay saklanıp taşınabilen hafif ürünler yapmasına olanak tanır."
+  ],
+  "col": [
+   "yumuşak ve esnek",
+   "esnek malzemeler",
+   "bir şeyi esnek tutmak"
+  ],
+  "tip": "Malzeme için 'esnek', insan için genellikle 'kolay yönlendirilebilir' anlamına gelir; insanlar için kullanıldığında olumsuz bir çağrışım taşıyabilir.",
+  "note": ""
+ },
+ {
+  "id": "pathos",
+  "senses": [
+   "acıma duygusu; hüzün"
+  ],
+  "ex": [
+   "Terk edilmiş oyuncak, fotoğrafa sessiz bir hüzün katıyordu.",
+   "Kişisel hikâyelerin yarattığı acıma duygusu, toplumsal eşitsizlik üzerine belgeselleri duygusal olarak daha etkili kılabilir."
+  ],
+  "col": [
+   "hüzünle dolu",
+   "acıma duygusu",
+   "mizah ve hüzün"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; insanı acındıran ya da hüzünlendiren niteliği anlatır, bir olayı değil.",
+  "note": ""
+ },
+ {
+  "id": "meteoric",
+  "senses": [
+   "çok hızlı; çarpıcı",
+   "meteor ile ilgili; göktaşı"
+  ],
+  "ex": [
+   "Ani yükselişi küçük tiyatroda herkesi şaşırttı.",
+   "Çevrim içi alışverişin hızlı büyümesi tüketici alışkanlıklarını dönüştürdü ve teslimat hizmetlerine olan talebi artırdı."
+  ],
+  "col": [
+   "ani yükseliş",
+   "hızlı büyüme",
+   "çarpıcı başarı"
+  ],
+  "tip": "Genellikle 'rise' ile kullanılır ve hızı vurgular; ancak yükselişin kalıcı olup olmadığı hakkında bir şey söylemez.",
+  "note": ""
+ },
+ {
+  "id": "fatuous",
+  "senses": [
+   "aptalca; saçma"
+  ],
+  "ex": [
+   "Onun aptalca önerisi, bitkileri limonata ile sulamaktı.",
+   "Teknolojinin tek başına yoksulluğu çözebileceği yönündeki saçma varsayım, eğitim ve etkili yönetişimin önemini göz ardı ediyor."
+  ],
+  "col": [
+   "aptalca bir söz",
+   "saçma bir tartışma",
+   "saçma bir varsayım"
+  ],
+  "tip": "Resmi ve olumsuz bir sözcüktür; yalnızca 'aptal' değil, kendini beğenmişlikle birleşen saçmalığı eleştirmek için kullanılır.",
+  "note": ""
+ }
+]

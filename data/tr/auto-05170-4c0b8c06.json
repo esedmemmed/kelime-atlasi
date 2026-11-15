@@ -1,0 +1,281 @@
+[
+ {
+  "id": "supposing",
+  "senses": [
+   "varsayalım ki; diyelim ki"
+  ],
+  "ex": [
+   "Otobüs geç kalırsa, bunun yerine yürüyebilir miyiz?",
+   "Üniversite eğitimi ücretsiz olsaydı, hükümetler diğer temel hizmetleri aksatmadan ek maliyetleri nasıl karşılardı?"
+  ],
+  "col": [
+   "varsayalım ki",
+   "yapabildiğimizi varsayalım",
+   "sen olsaydın"
+  ],
+  "tip": "if ile benzer işlevde, varsayımsal bir durum sunar. that ile de kullanılabilir (supposing that). Genellikle cümle başında görülür.",
+  "note": ""
+ },
+ {
+  "id": "guarantee",
+  "senses": [
+   "garanti etmek; güvence vermek",
+   "güvence; garanti",
+   "garanti belgesi; garanti"
+  ],
+  "ex": [
+   "Mağaza, çaydanlık bozulursa yenisiyle değiştireceğini garanti ediyor.",
+   "Yüksek öğrenim iş bulmayı garanti etmez, ancak bir kişinin uzun vadeli kariyer beklentilerini önemli ölçüde iyileştirebilir."
+  ],
+  "col": [
+   "olduğunu garanti etmek",
+   "erişimi garanti etmek",
+   "garanti kapsamında",
+   "para iade garantisi"
+  ],
+  "tip": "Fiil olarak guarantee to do ya da guarantee that kalıplarıyla kullanılır. Ürün garantisi için under guarantee kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "coincidence",
+  "senses": [
+   "tesadüf; rastlantı"
+  ],
+  "ex": [
+   "Tesadüf eseri ikimiz de öğle yemeğine yeşil ceketlerle geldik.",
+   "Araştırmacılar, halk sağlığı verilerindeki değişimleri yorumlarken tesadüf ile gerçek nedensel ilişkiyi ayırt etmek zorundadır."
+  ],
+  "col": [
+   "tesadüfen",
+   "tamamen tesadüf",
+   "dikkat çekici bir tesadüf",
+   "garip bir tesadüf"
+  ],
+  "tip": "incident (olay) ile karıştırılmamalı. by coincidence kalıbı 'tesadüfen' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "timber",
+  "senses": [
+   "kereste; ağaç malzeme",
+   "kereste ormanı; kerestelik orman"
+  ],
+  "ex": [
+   "Marangoz keresteyi atölyenin yanına istiflemişti.",
+   "İnşaatta sorumlu kaynaklardan elde edilen kereste kullanmak, sürdürülebilir orman yönetimini desteklerken çevresel zararı azaltabilir."
+  ],
+  "col": [
+   "kereste endüstrisi",
+   "ahşap çerçeve",
+   "sürdürülebilir kaynaklardan kereste"
+  ],
+  "tip": "Malzeme anlamında genellikle sayılamaz; a timber yerine some timber denir. Amerikan İngilizcesinde işlenmiş kereste için lumber kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "unfit",
+  "senses": [
+   "uygun olmayan; elverişsiz",
+   "formsuz; sağlıksız"
+  ],
+  "ex": [
+   "Paslı bisiklet uzun yolculuk için uygun değildi.",
+   "Yetersiz bakım, kamu konutlarını oturmaya elverişsiz hale getirebilir ve yerel yönetimler üzerindeki baskıyı artırabilir."
+  ],
+  "col": [
+   "amaca uygun olmayan",
+   "insan tüketimine uygun olmayan",
+   "fiziksel olarak formsuz",
+   "araç kullanmaya elverişsiz"
+  ],
+  "tip": "unfit for sth ya da unfit to do sth kalıplarını kullanın. 'Unfit' sağlık için kullanıldığında genellikle formsuz anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "flush",
+  "senses": [
+   "sifon çekmek; su akıtmak",
+   "kızarmak",
+   "aynı hizada; düz"
+  ],
+  "ex": [
+   "Lütfen banyodan çıkmadan önce sifonu çekin.",
+   "Modern binalar, içme suyu yerine toplanan yağmur suyunu tuvalet sifonlarında kullanarak su tüketimini azaltabilir."
+  ],
+  "col": [
+   "sifonu çekmek",
+   "utançtan kızarmak",
+   "duvarla aynı hizada",
+   "renk kızarıklığı"
+  ],
+  "tip": "flush with bağlama göre 'aynı hizada' ya da 'bol paralı' anlamına gelebilir. Tuvalet için flush the toilet kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "vitamin",
+  "senses": [
+   "vitamin"
+  ],
+  "ex": [
+   "Bu taze portakallar C vitamininin iyi bir kaynağıdır.",
+   "Çeşitli bir beslenme, genellikle insanların takviye almasına gerek kalmadan ihtiyaç duyduğu vitaminleri sağlar."
+  ],
+  "col": [
+   "vitamin eksikliği",
+   "vitamin takviyeleri",
+   "vitaminlerce zengin"
+  ],
+  "tip": "İngiliz İngilizcesinde ilk hece /ˈvɪt-/, Amerikan İngilizcesinde /ˈvaɪt-/ okunur. Her iki telaffuz da kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "altitude",
+  "senses": [
+   "rakım; yükseklik"
+  ],
+  "ex": [
+   "Yüksek rakım yüzünden nefessiz kaldık.",
+   "Daha yüksek rakımlarda azalan oksijen seviyesi fiziksel performansı etkileyebilir ve bir uyum süreci gerektirebilir."
+  ],
+  "col": [
+   "yüksek rakımda",
+   "yükseklik kazanmak",
+   "seyir irtifası"
+  ],
+  "tip": "altitude ile attitude karıştırılmamalı; attitude 'tutum' anlamına gelir. Deniz seviyesinden yükseklik için altitude kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "extract",
+  "senses": [
+   "çıkarmak; elde etmek",
+   "alıntı; pasaj",
+   "öz; ekstre"
+  ],
+  "ex": [
+   "Dişçi bu sabah hasarlı dişi dikkatlice çekti.",
+   "Araştırmacılar, hanehalkı enerji tüketimindeki örüntüleri belirlemek için büyük veri kümelerinden yararlı bilgiler çıkarır."
+  ],
+  "col": [
+   "...den bilgi çıkarmak",
+   "diş çekmek",
+   "bir romandan alıntı",
+   "vanilya özü"
+  ],
+  "tip": "Fiil olarak vurgu ikinci hecededir /ɪkˈstrækt/; isim olarak vurgu birinci hecededir /ˈekstrækt/.",
+  "note": ""
+ },
+ {
+  "id": "feminine",
+  "senses": [
+   "kadınsı; zarif",
+   "dişil (dilbilgisi)"
+  ],
+  "ex": [
+   "Dantelli kolları olan kadınsı bir bluz seçti.",
+   "Reklamlar genellikle kadınsı görünüme dair dar fikirleri pekiştirir; bu da genç insanların kendilerini algılayışını etkileyebilir."
+  ],
+  "col": [
+   "kadınsı tarz",
+   "kadınsı görünüm",
+   "dişil isim"
+  ],
+  "tip": "feminine kadınsı tarzı ya da dilbilgisel dişil cinsiyeti anlatır; female ise biyolojik cinsiyeti belirtir.",
+  "note": ""
+ },
+ {
+  "id": "debt",
+  "senses": [
+   "borç; alacak-verecek",
+   "minnet borcu"
+  ],
+  "ex": [
+   "Borcunu ödemek için fazladan bir vardiya çalıştı.",
+   "Hanehalkı borçlarının yüksek olması tüketici harcamalarını azaltabilir ve ekonomiyi resesyona karşı daha savunmasız hale getirebilir."
+  ],
+  "col": [
+   "borcu ödemek",
+   "borçlu olmak",
+   "devlet borcu",
+   "minnet borcu"
+  ],
+  "tip": "b harfi sessizdir: /det/. be in debt borçlu olmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "diplomat",
+  "senses": [
+   "diplomat",
+   "diplomatik davranan kişi"
+  ],
+  "ex": [
+   "Diplomat bu sabah büyükelçilikte ziyaretçileri karşıladı.",
+   "Deneyimli diplomatlar, gerginliklerin tırmanmasına izin vermek yerine müzakere yoluyla ülkelerin anlaşmazlıklarını çözmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "kıdemli diplomat",
+   "kariyer diplomatı",
+   "yabancı diplomat"
+  ],
+  "tip": "diplomatic hem dış ilişkilerle ilgili hem de incelikli, yumuşak davranan anlamına gelir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "lever",
+  "senses": [
+   "kaldıraç; manivela",
+   "kaldıraçla oynatmak",
+   "etki aracı; kaldıraç"
+  ],
+  "ex": [
+   "Koltuğu biraz yükseltmek için bu kolu çek.",
+   "Vergi politikası, işletmeleri daha temiz teknolojilere yatırım yapmaya teşvik etmek için güçlü bir kaldıraç olarak kullanılabilir."
+  ],
+  "col": [
+   "kolu çekmek",
+   "bir şeyi kaldıraçla açmak",
+   "değişim için bir kaldıraç"
+  ],
+  "tip": "İngiliz İngilizcesinde /ˈliːvə/, Amerikan İngilizcesinde /ˈlevər/ okunur. Mecazi kullanımda a lever for change gibi kalıplar yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "crust",
+  "senses": [
+   "ekmek kabuğu; kabuk",
+   "yer kabuğu",
+   "sert tabaka; kabuk"
+  ],
+  "ex": [
+   "Bu taze ekmeğin harika gevrek bir kabuğu var.",
+   "Yer kabuğundaki hareketler, binalara ve ulaşım ağlarına ciddi zarar verebilen depremlere yol açabilir."
+  ],
+  "col": [
+   "ekmek kabuğu",
+   "yer kabuğu",
+   "ince bir kabuk"
+  ],
+  "tip": "Ekmek kabuğu ve yer kabuğu için aynı kelime kullanılır. the Earth's crust kalıbında the artikeli unutulmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "outline",
+  "senses": [
+   "ana hatlar; taslak",
+   "ana hatlarıyla anlatmak",
+   "dış hat; kontur"
+  ],
+  "ex": [
+   "Denememe başlamadan önce kısa bir taslak yazdım.",
+   "Rapor, okulların öğrenme güçlüğü yaşayan öğrencilere destek olmak için benimseyebileceği birkaç pratik önlemi ana hatlarıyla anlatıyor."
+  ],
+  "col": [
+   "deneme taslağı",
+   "bir planı ana hatlarıyla anlatmak",
+   "kısa bir özet",
+   "...nin dış hatları"
+  ],
+  "tip": "Ayrıntıya girmeden ana noktaları veren kısa özet anlamındadır. Hem isim hem fiil olarak kullanılır; the outline of kalıbında of'tan sonra şekil gelir.",
+  "note": ""
+ }
+]

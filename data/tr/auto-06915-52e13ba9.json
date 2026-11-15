@@ -1,0 +1,270 @@
+[
+ {
+  "id": "bedsit",
+  "senses": [
+   "garsonyer; tek odalı daire"
+  ],
+  "ex": [
+   "Tren istasyonunun yakınında küçük bir garsonyer kiraladı.",
+   "Bütçesi kısıtlı öğrenciler için, bir üniversite kampüsünün yakınında uygun fiyatlı bir garsonyer iyi bir seçenek olabilir."
+  ],
+  "col": [
+   "bir garsonyer kiralamak",
+   "eşyalı bir garsonyer",
+   "dar bir garsonyer"
+  ],
+  "tip": "İngiliz İngilizcesine özgü bir kelimedir. Amerikan İngilizcesinde genellikle 'studio apartment' denir.",
+  "note": ""
+ },
+ {
+  "id": "rampant",
+  "senses": [
+   "kontrolsüz; yaygın",
+   "hızla yayılan"
+  ],
+  "ex": [
+   "Kontrolsüz yabani otlar sebze bahçemizi ele geçirdi.",
+   "Gözetimin zayıf olduğu yerlerde yaygın yolsuzluk, kamu güvenini zedeleyebilir ve kaynakları temel hizmetlerden uzaklaştırabilir."
+  ],
+  "col": [
+   "yaygın yolsuzluk",
+   "kontrolden çıkıp yayılmak",
+   "yaygın enflasyon",
+   "hızlı ve kontrolsüz büyüme"
+  ],
+  "tip": "Genellikle olumsuz durumlar için kullanılır: yolsuzluk, hastalık, enflasyon. 'run rampant' kalıbı 'kontrolden çıkıp yayılmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "refine",
+  "senses": [
+   "geliştirmek; iyileştirmek",
+   "arıtmak; rafine etmek"
+  ],
+  "ex": [
+   "Tarifimi daha az şeker koyarak geliştirdim.",
+   "Okullar, farklı öğrenme ihtiyaçları olan öğrencilerden düzenli geri bildirim toplayarak öğretim yöntemlerini geliştirebilir."
+  ],
+  "col": [
+   "bir tekniği geliştirmek",
+   "bir öneriyi düzenlemek",
+   "ham petrolü arıtmak"
+  ],
+  "tip": "Küçük ve dikkatli değişikliklerle bir şeyi daha iyi hale getirmek anlamına gelir. Ham madde için 'arıtmak' anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "obsess",
+  "senses": [
+   "aklını kurcalamak; saplanmak",
+   "kafaya takmak"
+  ],
+  "ex": [
+   "Ayakkabındaki her küçük lekeye kafayı takma.",
+   "Bazı öğrenciler sınav sonuçlarına takılıp, eğitimin geliştirmesi gereken daha geniş becerileri ihmal ediyor."
+  ],
+  "col": [
+   "ayrıntılara takılmak",
+   "başarıya takıntılı olmak",
+   "görünüşe kafayı takmak"
+  ],
+  "tip": "'be obsessed with' kalıbı edilgen yapıda kullanılır. Etken fiilde genellikle 'over' ya da 'about' edatı gelir.",
+  "note": ""
+ },
+ {
+  "id": "practitioner",
+  "senses": [
+   "hekim; uzman",
+   "uygulayıcı"
+  ],
+  "ex": [
+   "Hemşire, yetkili bir doktorla konuşmamı önerdi.",
+   "Deneyimli uzmanlar, mezunların mesleklerine uygun beceriler kazanması için eğitim programlarının tasarlanmasına yardımcı olmalı."
+  ],
+  "col": [
+   "pratisyen hekim",
+   "tıp doktoru",
+   "deneyimli uzman"
+  ],
+  "tip": "'general practitioner' (GP) İngiltere'de aile hekimi anlamına gelir. Türkçedeki 'pratisyen hekim' ifadesine yakın bir karşılıktır.",
+  "note": ""
+ },
+ {
+  "id": "ferocious",
+  "senses": [
+   "vahşi; azgın",
+   "amansız; şiddetli"
+  ],
+  "ex": [
+   "Kilitli kapının arkasından vahşi köpek hırladı.",
+   "Teknoloji sektöründeki amansız rekabet inovasyonu teşvik edebilir, ancak küçük firmaların varlığını da tehdit edebilir."
+  ],
+  "col": [
+   "vahşi bir hayvan",
+   "amansız rekabet",
+   "şiddetli bir fırtına"
+  ],
+  "tip": "Hayvanlar için 'vahşi', durumlar için 'amansız' ya da 'şiddetli' gibi çevrilebilir. 'Fierce' kelimesine göre daha güçlü bir ton taşır.",
+  "note": ""
+ },
+ {
+  "id": "turbulent",
+  "senses": [
+   "çalkantılı; istikrarsız",
+   "girdaplı; düzensiz"
+  ],
+  "ex": [
+   "Çalkantılı bir haftanın ardından ailemiz sakin bir akşama ihtiyaç duydu.",
+   "Ekonomik çalkantı dönemlerinde hükümetler, işleri korumak ve savunmasız hanehalklarını desteklemek için kamu harcamalarını artırabilir."
+  ],
+  "col": [
+   "çalkantılı zamanlar",
+   "çalkantılı sular",
+   "düzensiz hava akımı"
+  ],
+  "tip": "Toplumsal durumlar için de, su ya da hava hareketi için de kullanılır. 'Turbulent times' sık karşılaşılan bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "negate",
+  "senses": [
+   "yok etmek; etkisiz kılmak",
+   "yalanlamak; çürütmek"
+  ],
+  "ex": [
+   "Teslimat ücreti, market alışverişimizdeki tasarrufu yok etti.",
+   "Daha verimli modellerle eski cihazların değiştirilmesi, artan enerji tüketimi nedeniyle çevresel faydaları ortadan kaldırabilir."
+  ],
+  "col": [
+   "faydaları yok etmek",
+   "etkileri ortadan kaldırmak",
+   "bir argümanı çürütmek"
+  ],
+  "tip": "Resmi bir kelimedir. Çoğunlukla bir şeyin etkisini ya da değerini sıfırlamak anlamında kullanılır, sadece 'inkar etmek' değildir.",
+  "note": ""
+ },
+ {
+  "id": "unanimous",
+  "senses": [
+   "tamamen hemfikir; oybirlikli"
+  ],
+  "ex": [
+   "Ailemiz küçük kediyi evlat edinme konusunda tamamen hemfikirdi.",
+   "Komite, mevcut yol ağını genişletmek yerine toplu taşımayı geliştirme konusunda oybirliğiyle karar aldı."
+  ],
+  "col": [
+   "oybirliğiyle alınan karar",
+   "tam destek",
+   "tam mutabakat",
+   "oybirliğiyle oylama"
+  ],
+  "tip": "Grubun tamamının aynı fikirde olduğunu belirtir; sadece çoğunluğun onayını anlatmaz. 'Majority' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "token",
+  "senses": [
+   "jeton",
+   "simge; küçük hediye",
+   "sembolik; yüzeysel"
+  ],
+  "ex": [
+   "Makineye bir jeton attım ve oynadım.",
+   "Eleştirmenler, sembolik çevre önlemlerinin hızla büyüyen şehirlerdeki kirliliğin boyutunu ele alamayacağını savunuyor."
+  ],
+  "col": [
+   "bir takdir ifadesi",
+   "sembolik bir jest",
+   "sembolik bir ödeme"
+  ],
+  "tip": "'A token of' kalıbı, duygu ifade eden isimlerle 'bir ... işareti' anlamında kullanılır. Sıfat olarak 'sembolik, yüzeysel' anlamı vardır.",
+  "note": ""
+ },
+ {
+  "id": "hiss",
+  "senses": [
+   "tıslamak",
+   "tıslama sesi"
+  ],
+  "ex": [
+   "Yavru köpek fazla yaklaşınca kedi tıslamıştı.",
+   "Mühendisler, olası kaçakları belirlemek ve enerji kaybını önlemek için ısıtma sistemindeki sürekli tıslama sesini inceledi."
+  ],
+  "col": [
+   "birine yuhalamak",
+   "hafif bir tıslama",
+   "buharın tıslaması"
+  ],
+  "tip": "'Hiss at' kalıbı 'birine yuhalamak' anlamına da gelir. Kedi, yılan ya da buhar için 'tıslamak' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "attribution",
+  "senses": [
+   "nedene atfetme; saptama",
+   "kaynak gösterme; atıf"
+  ],
+  "ex": [
+   "Fotoğrafımı paylaşırken lütfen kaynak gösterin.",
+   "Çevresel zararların belirli sektörlere doğru şekilde atfedilmesi, adil ve etkili düzenlemeler geliştirmek için şarttır."
+  ],
+  "col": [
+   "sorumluluğun atfedilmesi",
+   "nedensel atıf",
+   "kaynak gösterme"
+  ],
+  "tip": "Genel anlamda 'ait olma' değildir; neden, yaratıcı ya da kaynak belirlemek anlamına gelir. Akademik yazımda kaynak göstermeyle ilgilidir.",
+  "note": ""
+ },
+ {
+  "id": "cocaine",
+  "senses": [
+   "kokain"
+  ],
+  "ex": [
+   "Hemşire, kokainin kalbe neden ciddi zarar verebileceğini açıkladı.",
+   "Halk sağlığı programları, kokain hakkındaki eğitimi bağımlılık yaşayan insanlar için erişilebilir tedavilerle birleştirmelidir."
+  ],
+  "col": [
+   "kokain bağımlılığı",
+   "kokain kullanımı",
+   "kokaine bağımlılık"
+  ],
+  "tip": "Genellikle sayılamayan isim olarak kullanılır; 'a cocaine' şeklinde kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "clam",
+  "senses": [
+   "midye; deniz kabuklusu"
+  ],
+  "ex": [
+   "Islak kumun içinde gömülü bir deniz kabuklusu bulduk.",
+   "Midye yetiştiriciliği kıyı ekonomilerini destekleyebilir; ancak düşük su kalitesi hem kabuklu hayvanları hem de tüketicileri tehdit edebilir."
+  ],
+  "col": [
+   "midye kabuğu",
+   "midye çorbası",
+   "midye yetiştiriciliği"
+  ],
+  "tip": "'Clam' ile 'calm' (sakin) kelimeleri birbirine benzer ama anlamları farklıdır; karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "maniac",
+  "senses": [
+   "çılgın; aşırı",
+   "fanatik; tutkun"
+  ],
+  "ex": [
+   "Her virajda hız yapan o sürücü tam bir çılgın.",
+   "Tehlikeli sürücüye çılgın demek öfkeyi ifade eder, ancak tehlikeli sürüşün nedenlerini açıklamaya pek yardımcı olmaz."
+  ],
+  "col": [
+   "çılgınlar gibi sürmek",
+   "bir fitness fanatiği"
+  ],
+  "tip": "Gayriresmi bir ifadedir ve incitici olabilir. Zihinsel rahatsızlığı olan kişileri tarif etmek için kullanmaktan kaçının.",
+  "note": "Gayriresmi bir ifade; aşağılayıcı olabilir. Ruhsal hastalığı olan kişileri tarif etmek için kullanılmamalıdır."
+ }
+]

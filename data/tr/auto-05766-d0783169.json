@@ -1,0 +1,267 @@
+[
+ {
+  "id": "hectare",
+  "senses": [
+   "hektar"
+  ],
+  "ex": [
+   "Sebze çiftlikleri bir hektarın biraz üzerinde bir alanı kaplıyor.",
+   "Sulak alanın her hektarını yeniden canlandırmak, değerli yaşam alanları sağlayabilir ve yerel taşkın riskini azaltabilir."
+  ],
+  "col": [
+   "bir hektar arazi",
+   "hektar başına",
+   "birkaç hektarlık alanı kaplamak"
+  ],
+  "tip": "Hektar bir alan birimidir; bir hektar on bin metrekareye eşittir. Ölçü birimi olarak sayının arkasında tekil kullanılır: \"five hectares\" → beş hektar.",
+  "note": ""
+ },
+ {
+  "id": "cram",
+  "senses": [
+   "tıkmak; sıkıştırmak",
+   "sınava son anda çalışmak"
+  ],
+  "ex": [
+   "Küçücük gece çantasına üç kazak tıktı.",
+   "Sınavlara son anda çalışan öğrenciler bilgileri kısa süreliğine hatırlayabilir ancak derin bir kavrayış geliştirmekte zorlanır."
+  ],
+  "col": [
+   "çantaya tıkıştırmak",
+   "odayı insanla doldurmak",
+   "sınav için son anda çalışmak"
+  ],
+  "tip": "Geçmiş zamanı crammed'dır. Sınava hazırlanmak için \"cram for an exam\" kalıbını kullanın; \"cram the exam\" demeyin.",
+  "note": ""
+ },
+ {
+  "id": "lofty",
+  "senses": [
+   "yüce; yüksek amaçlı",
+   "çok yüksek; uzun boylu",
+   "kibirli; küstah"
+  ],
+  "ex": [
+   "Çok büyük hedefleri var ama her gün çok çalışıyor.",
+   "Hükümetler eşitsizliği azaltmak için çoğu zaman yüksek hedefler açıklar; ancak anlamlı bir ilerleme sürdürülebilir yatırım ve pratik politikalar gerektirir."
+  ],
+  "col": [
+   "yüce idealler",
+   "yüksek hedefler",
+   "yüksek hedefler",
+   "yüksek tavan"
+  ],
+  "tip": "Ideals gibi sözlerle kullanıldığında olumlu anlam taşır; ancak hedefler için kullanıldığında gerçekçi olmadığını ima edebilir.",
+  "note": ""
+ },
+ {
+  "id": "render",
+  "senses": [
+   "bir duruma sokmak; etkisiz kılmak",
+   "yardım ya da hizmet sunmak",
+   "resmetmek; betimlemek"
+  ],
+  "ex": [
+   "Çatlak ekran eski telefonumu kullanılamaz hale getirdi.",
+   "Yükselen deniz seviyeleri, hükümetler etkili sel koruması yatırımı yapmazsa bazı kıyı yerleşimlerini yaşanamaz hale getirebilir."
+  ],
+  "col": [
+   "bir şeyi işe yaramaz kılmak",
+   "yardımda bulunmak",
+   "hizmet vermek",
+   "bir görüntüyü resmetmek"
+  ],
+  "tip": "\"Render + nesne + sıfat\" yapısı (make ile benzer) resmî bir dil kullanımıdır; günlük konuşmada make tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "ragged",
+  "senses": [
+   "yırtık pırtık; eskimiş",
+   "düzensiz; tırtıklı"
+  ],
+  "ex": [
+   "Eski ceketinin yırtık kollarını yamadı.",
+   "Yırtık giysiler de dahil olmak üzere atılan kıyafetler, çöp sahasına gönderilmek yerine yalıtım malzemesine dönüştürülebilir."
+  ],
+  "col": [
+   "yırtık pırtık giysiler",
+   "tırtıklı kenarlar",
+   "düzensiz nefes alma"
+  ],
+  "tip": "İki hecelidir ve son ses /ɪd/ olarak okunur. Yazımında \"ragged\" biçimi doğrudur; \"ragid\" gibi yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "notorious",
+  "senses": [
+   "kötü şöhretli; bilinen"
+  ],
+  "ex": [
+   "O yol derin çukurlarıyla kötü şöhretlidir.",
+   "Ağır hava kirliliğiyle bilinen şehirler, çoğu zaman nitelikli işgücü çekmekte ve sürdürülebilir turizm geliştirmekte zorlanır."
+  ],
+  "col": [
+   "...ile kötü şöhretli",
+   "...olarak tanınan",
+   "kötü bir ün"
+  ],
+  "tip": "Genellikle olumsuz anlam taşır; sadece ünlü olmak için famous kullanılmalıdır, notorious değil.",
+  "note": ""
+ },
+ {
+  "id": "aimless",
+  "senses": [
+   "amaçsız; hedefsiz"
+  ],
+  "ex": [
+   "Öğleden sonrayı amaçsız bir yürüyüşle geçirdik.",
+   "Net öğrenme hedefleri olmadan öğrenciler, faydalı araştırma becerileri geliştirmek yerine amaçsız internet gezintisine dalabilir."
+  ],
+  "col": [
+   "amaçsız dolaşma",
+   "amaçsız gezinti",
+   "amaçsız bir yaşam"
+  ],
+  "tip": "Sıfattır; fiili nitelerken aimlessly kullanılır: \"wander aimlessly\" (amaçsızca dolaşmak).",
+  "note": ""
+ },
+ {
+  "id": "lethal",
+  "senses": [
+   "öldürücü; ölümcül"
+  ],
+  "ex": [
+   "Bazı yabani mantarlar ölümcül olabilecek toksinler içerir.",
+   "Hava kirleticilerinin öldürücü derişimlerine maruz kalmak, sıkı endüstriyel güvenlik düzenlemelerinin önemini ortaya koyar."
+  ],
+  "col": [
+   "öldürücü doz",
+   "öldürücü silah",
+   "potansiyel olarak ölümcül",
+   "öldürücü derişim"
+  ],
+  "tip": "Genellikle sıfat olarak kullanılır; öldürme gücü olduğunu vurgular. \"Deadly\" ile yakın anlamlıdır ancak lethal daha teknik ve resmîdir.",
+  "note": ""
+ },
+ {
+  "id": "counterpart",
+  "senses": [
+   "karşılık; eş değer"
+  ],
+  "ex": [
+   "Ekip liderimiz başka bir şubedeki muadiliyle görüştü.",
+   "Kentsel okullar, kırsal okullara göre uzman öğretmenlere daha kolay erişebilir; bu da eğitimdeki eşitsizliği pekiştirir."
+  ],
+  "col": [
+   "yabancı muadil",
+   "kırsaldaki karşılığı",
+   "dijital karşılık"
+  ],
+  "tip": "Farklı bir yerde veya kurumda benzer role sahip kişi ya da şeyi anlatır; rakip anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "impede",
+  "senses": [
+   "engellemek; geciktirmek"
+  ],
+  "ex": [
+   "Düşen dallar, dar patika boyunca ilerlememizi zorlaştırdı.",
+   "Güvenilir internet hizmetlerine sınırlı erişim, kırsal topluluklarda eğitimsel ilerlemeyi engelleyebilir ve mevcut eşitsizlikleri derinleştirebilir."
+  ],
+  "col": [
+   "ilerlemeyi engellemek",
+   "gelişimi engellemek",
+   "hareketi zorlaştırmak"
+  ],
+  "tip": "İlerlemeyi zorlaştırmak ya da yavaşlatmak anlamını taşır; her zaman tamamen durdurmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "pompous",
+  "senses": [
+   "kendini beğenmiş; gösterişli"
+  ],
+  "ex": [
+   "Onun gösterişli konuşması basit bir akşam yemeğini acı verici derecede resmî hale getirdi.",
+   "Gösterişli bir dil kullanan kamu görevlileri, önemli politikaları açık ve etkili biçimde iletmek yerine vatandaşları uzaklaştırabilir."
+  ],
+  "col": [
+   "gösterişli konuşma",
+   "kendini beğenmiş tavır",
+   "kibirli görünmek"
+  ],
+  "tip": "Olumsuz bir anlam taşır; odak noktası kendini diğerlerinden üstün görmesidir, yalnızca süslü olması değildir.",
+  "note": ""
+ },
+ {
+  "id": "proposition",
+  "senses": [
+   "teklif; öneri",
+   "önerme; savunulan görüş"
+  ],
+  "ex": [
+   "Teklifiniz mantıklı görünüyor, ama biraz daha zamana ihtiyacımız var.",
+   "Daha küçük sınıfların her zaman öğrenme sonuçlarını iyileştirdiği önermesi, farklı eğitim ortamlarında dikkatle değerlendirilmelidir."
+  ],
+  "col": [
+   "iş teklifi",
+   "cazip bir teklif",
+   "bir önermeyi savunmak"
+  ],
+  "tip": "\"Görüş\" anlamında that yan cümlesi alır. Resmî bir teklif için genellikle proposal daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "quartz",
+  "senses": [
+   "kuvars; kristal"
+  ],
+  "ex": [
+   "Dere kenarında bir parça kuvars buldu.",
+   "Kuvars kristalleri, düzenli titreşimleri sayesinde çok hassas zaman ölçümü sağladığı için elektronik cihazlarda kullanılır."
+  ],
+  "col": [
+   "kuvars kristali",
+   "kuvars saat",
+   "gül kuvarsı"
+  ],
+  "tip": "Genellikle sayılamayan bir madde adıdır; tek bir parçası için \"a piece of quartz\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "wharf",
+  "senses": [
+   "iskele; rıhtım"
+  ],
+  "ex": [
+   "Balıkçıların avlarını rıhtımda boşaltmasını izledik.",
+   "Eski iskele, ziyaretçileri çeken ve yerel işletmeleri destekleyen bir kamusal alana dönüştürüldü."
+  ],
+  "col": [
+   "rıhtımda",
+   "balık iskelesi",
+   "rıhtıma bağlanmak"
+  ],
+  "tip": "Çoğul biçimi wharves veya wharfs olabilir; wharves daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "uncalled-for",
+  "senses": [
+   "yersiz; haksız"
+  ],
+  "ex": [
+   "Yersiz açıklamanız masadaki herkesi üzdü.",
+   "Öğretmenlerin yersiz eleştirileri, öğrencilerin sınıf tartışmalarına aktif katılımını azaltabilir."
+  ],
+  "col": [
+   "yersiz bir söz",
+   "yersiz eleştiri",
+   "yersiz müdahale"
+  ],
+  "tip": "Genellikle eleştiri ya da sözler için kullanılır; haksız ya da yersiz olduğunu belirtir, sadece fazla olduğunu değil.",
+  "note": ""
+ }
+]

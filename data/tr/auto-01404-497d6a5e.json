@@ -1,0 +1,281 @@
+[
+ {
+  "id": "imagine",
+  "senses": [
+   "hayal etmek; tasavvur etmek",
+   "sanmak; tahmin etmek"
+  ],
+  "ex": [
+   "Küçük bir evde, denizin kenarında yaşadığını bir hayal et.",
+   "Kentsel planlamacılar, yeni mahalleleri tasarlamadan önce gelecekteki sakinlerin ortak alanları nasıl kullanacağını tahmin etmek zorundadır."
+  ],
+  "col": [
+   "bir şey yapmayı hayal etmek",
+   "hayal etmesi zor",
+   "geleceği hayal etmek"
+  ],
+  "tip": "imagine'den sonra to + fiil değil, -ing almaya dikkat et; imagine to do yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "file",
+  "senses": [
+   "dosya; belge",
+   "arşivlemek; sunmak",
+   "törpü"
+  ],
+  "ex": [
+   "Dizüstü bilgisayarımı kapatmadan önce dosyayı kaydettim.",
+   "Kamu kurumları, yetkisiz erişimi önlemek ve vatandaşların kişisel bilgilerini korumak için gizli dosyaları güvenli biçimde saklamalıdır."
+  ],
+  "col": [
+   "dosyayı kaydetmek",
+   "dosya eklemek",
+   "şikâyette bulunmak",
+   "belgeleri dosyalamak; belge sunmak"
+  ],
+  "tip": "file a complaint resmi bir şikâyette bulunmak anlamına gelir; 'şikâyeti dosyalamak' değildir.",
+  "note": ""
+ },
+ {
+  "id": "airline",
+  "senses": [
+   "havayolu şirketi"
+  ],
+  "ex": [
+   "Uçuşumuzu iptal ettikten sonra havayolu şirketi bize yeni biletler gönderdi.",
+   "Havayolu şirketleri, daha verimli uçaklara yatırım yaparak ve gereksiz uçuşları azaltarak çevresel etkilerini düşürebilir."
+  ],
+  "col": [
+   "düşük maliyetli havayolu",
+   "uçak bileti",
+   "havayolu sektörü"
+  ],
+  "tip": "airline bir şirketi ifade eder; tek bir uçuşu belirtmek için flight kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "suggestion",
+  "senses": [
+   "öneri; teklif",
+   "ima; hafif iz"
+  ],
+  "ex": [
+   "Piknik getirme önerin gerçekten işe yaradı.",
+   "Bisiklet yollarının genişletilmesi önerisi, trafik güvenliğinden endişe eden sakinlerden güçlü destek aldı."
+  ],
+  "col": [
+   "öneride bulunmak",
+   "yararlı bir öneri",
+   "bir belirti; bir iz"
+  ],
+  "tip": "suggestion sayılabilir bir isimdir (a suggestion, suggestions); advice ise genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "seaside",
+  "senses": [
+   "deniz kenarı; sahil",
+   "deniz kenarındaki; sahil"
+  ],
+  "ex": [
+   "Öğleden sonrayı sahilde kum kalesi yaparak geçirdik.",
+   "Deniz kenarı kasabaları genellikle yaz turizmine bağlıdır; bu da yerel sakinler için istikrarsız istihdam yaratabilir."
+  ],
+  "col": [
+   "sahilde",
+   "deniz kenarı tatil beldesi",
+   "sahil kasabası",
+   "deniz kenarı tatili"
+  ],
+  "tip": "Yer belirtirken genellikle at the seaside kullanılır; the seaside ifadesindeki 'the' artikelini unutma.",
+  "note": ""
+ },
+ {
+  "id": "ourselves",
+  "senses": [
+   "kendimiz",
+   "bizzat kendimiz"
+  ],
+  "ex": [
+   "Gölün berrak suyunda kendimizi yansımış olarak gördük.",
+   "Toplum projelerine katılarak pratik beceriler geliştirebilir ve yerel ilişkilerimizi güçlendirebiliriz."
+  ],
+  "col": [
+   "tek başımıza; kendi başımıza",
+   "eğlenmek",
+   "bununla övünmek",
+   "kendimiz için"
+  ],
+  "tip": "by ourselves hem 'yalnız' hem de 'yardım almadan' anlamına gelebilir; cümlenin bağlamına dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "fried",
+  "senses": [
+   "yağda kızartılmış; kızarmış"
+  ],
+  "ex": [
+   "Kahvaltıda sahanda yumurta ve tost yedik.",
+   "Kızarmış yiyecekleri çok sık tüketmek kalori alımını artırabilir ve sağlıklı kilo korumayı zorlaştırabilir."
+  ],
+  "col": [
+   "kızarmış pilav",
+   "sahanda yumurta",
+   "derin yağda kızartılmış yiyecek"
+  ],
+  "tip": "fried, fry fiilinin ortaç biçimidir ve sıfat olarak kullanılır; ızgarada pişen yiyecekler için grilled kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sort",
+  "senses": [
+   "tür; çeşit",
+   "ayırmak; düzenlemek",
+   "halletmek; çözmek"
+  ],
+  "ex": [
+   "Evde ne tür müzik dinlersin?",
+   "Geri dönüştürülebilir maddelerin daha verimli işlenebilmesi için hanelerin atıklarını dikkatle ayırması gerekir."
+  ],
+  "col": [
+   "her türlü",
+   "boyuta göre sıralamak",
+   "bir sorunu çözmek",
+   "bir bakıma; biraz"
+  ],
+  "tip": "sort of hem 'bir çeşit' hem de konuşma dilinde 'biraz, bir bakıma' anlamında kullanılır; bağlama dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "project",
+  "senses": [
+   "proje; çalışma",
+   "öngörmek; tahmin etmek",
+   "yansıtmak; göstermek"
+  ],
+  "ex": [
+   "Bahçe projemiz üç saksı otla başladı.",
+   "Araştırmacılar, daha fazla hane elektrikli araca geçtikçe elektrik talebinin artacağını öngörüyor."
+  ],
+  "col": [
+   "bir araştırma projesi",
+   "bir proje yürütmek",
+   "yükselmesi öngörülmek",
+   "bir görüntüyü yansıtmak"
+  ],
+  "tip": "İsim olarak ilk hecede, fiil olarak ikinci hecede vurgulanır; fiil 'tahmin etmek' anlamında sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "actress",
+  "senses": [
+   "kadın oyuncu; aktris"
+  ],
+  "ex": [
+   "Oyuncu, tiyatronun dışındaki kalabalığa el salladı.",
+   "Başarılı bir kadın oyuncu, genç insanları sahne sanatlarında kariyer yapmaya teşvik edebilir."
+  ],
+  "col": [
+   "başrol kadın oyuncu",
+   "yardımcı kadın oyuncu",
+   "ödüllü kadın oyuncu"
+  ],
+  "tip": "Günlük dilde actor kadın oyuncular için de kullanılır; actress ise yalnızca kadın oyuncuyu açıkça belirtir.",
+  "note": ""
+ },
+ {
+  "id": "arrange",
+  "senses": [
+   "ayarlamak; planlamak",
+   "düzenlemek; yerleştirmek"
+  ],
+  "ex": [
+   "Kuzenimle sinemanın önünde buluşmayı ayarladım.",
+   "Okullar, öğrencilerin farklı mesleklerin pratik gereksinimlerini anlamalarına yardımcı olmak için yerel işletmelere ziyaretler düzenleyebilir."
+  ],
+  "col": [
+   "toplantı ayarlamak",
+   "buluşmayı ayarlamak",
+   "birinin bir şey yapmasını ayarlamak",
+   "çiçek düzenlemek"
+  ],
+  "tip": "Birinin bir şey yapmasını ayarlamak için arrange for someone to do yapısı kullanılır; to ile karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "popular",
+  "senses": [
+   "popüler; sevilen",
+   "halka yönelik; herkes için"
+  ],
+  "ex": [
+   "Bu küçük kafe yerel öğrenciler arasında popüler.",
+   "Popüler bilim kitapları, keşifleri anlaşılır bir dille açıklayarak halkın araştırmalara ilgisini artırabilir."
+  ],
+  "col": [
+   "öğrenciler arasında popüler",
+   "giderek popüler",
+   "popüler kültür",
+   "popüler bilim"
+  ],
+  "tip": "Bir grup tarafından sevildiğini belirtmek için popular with ya da popular among kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fix",
+  "senses": [
+   "onarmak; çözmek",
+   "sabitlemek; takmak",
+   "kararlaştırmak; belirlemek"
+  ],
+  "ex": [
+   "Komşum kırık mutfak musluğunu tamir etmeme yardım etti.",
+   "Hükümetler, pahalı yeni altyapıya yatırım yapmadan önce mevcut ulaşım ağlarındaki eksiklikleri gidermelidir."
+  ],
+  "col": [
+   "bir sorunu çözmek",
+   "bir tarihi kararlaştırmak",
+   "bir şeyi duvara sabitlemek",
+   "bir sızıntıyı onarmak"
+  ],
+  "tip": "fix hem bir eşyayı onarmak hem de bir sorunu çözmek ya da bir tarihi belirlemek anlamında kullanılır; bağlama göre çeviriyi seç.",
+  "note": ""
+ },
+ {
+  "id": "bin",
+  "senses": [
+   "çöp kutusu",
+   "atmak; çöpe atmak"
+  ],
+  "ex": [
+   "Lütfen muz kabuğunu mutfaktaki çöp kutusuna at.",
+   "Yiyecek atıkları için ayrı bir kutu sağlamak, hanelerin daha etkili geri dönüşüm yapmasına ve çöp depolamanın azalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "çöp kutusu",
+   "geri dönüşüm kutusu",
+   "depolama kutusu",
+   "çöp kutusunu boşaltmak"
+  ],
+  "tip": "İngiliz İngilizcesinde 'çöp kutusu' için bin, Amerikan İngilizcesinde trash can daha yaygındır; ikisini de tanımak faydalıdır.",
+  "note": ""
+ },
+ {
+  "id": "grilled",
+  "senses": [
+   "ızgarada pişmiş; izgara"
+  ],
+  "ex": [
+   "Öğle yemeğinde ızgara sebze ve sıcak ekmek paylaştık.",
+   "Okul yemekhanelerinin bitki bazlı yemeklerin yanında ızgara balık sunması, öğrencilere daha geniş bir besleyici öğün çeşitliliği sağlayabilir."
+  ],
+  "col": [
+   "ızgara tavuk",
+   "ızgara balık",
+   "ızgara sebze"
+  ],
+  "tip": "grilled yüksek ateşte doğrudan pişirmeyi belirtir; 'parmaklıklı, kafesli' anlamına gelmez.",
+  "note": ""
+ }
+]

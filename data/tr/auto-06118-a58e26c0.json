@@ -1,0 +1,267 @@
+[
+ {
+  "id": "acquaint",
+  "senses": [
+   "tanıştırmak; bilgi vermek"
+  ],
+  "ex": [
+   "Mutfağa başlamadan önce lütfen mutfağı iyice tanı.",
+   "Üniversiteler, yeni öğrencilerin kampüs yaşamına uyum sağlamaları için mevcut destek hizmetleri hakkında onları bilgilendirmelidir."
+  ],
+  "col": [
+   "kendini ... ile tanıştırmak",
+   "birini ... ile tanıştırmak",
+   "...ile tanışık olmak"
+  ],
+  "tip": "Resmi bir fiildir; genellikle acquaint sb/oneself with sth kalıbıyla kullanılır. be acquainted with tanışık olmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "weld",
+  "senses": [
+   "kaynaklamak; birleştirmek",
+   "kaynak dikişi; kaynak yeri"
+  ],
+  "ex": [
+   "Koruyucu maske takarak metal çerçeveyi kaynakladı.",
+   "Çelik yapıları kaynaklayan işçilerin, iş kazalarını azaltmak için uygun eğitim ve koruyucu ekipmana ihtiyacı vardır."
+  ],
+  "col": [
+   "kaynak metali",
+   "birlikte kaynaklamak",
+   "sağlam bir kaynak dikişi"
+  ],
+  "tip": "Fiil olarak weld A to B kalıbı A'yı B'ye kaynaklamak anlamına gelir. Bu kalıbı kullanırken 'to' edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "serenity",
+  "senses": [
+   "huzur; dinginlik"
+  ],
+  "ex": [
+   "Şafakta bahçenin dinginliğini çok seviyorum.",
+   "Sakin yeşil alanlara erişim, kentliler için günlük baskılar arasında huzur duygusu sağlayabilir."
+  ],
+  "col": [
+   "huzur duygusu",
+   "içsel huzur",
+   "dinginlik havası"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Hem bir ortamın sakinliğini hem de kişinin iç huzurunu anlatmak için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "colloquial",
+  "senses": [
+   "konuşma diline ait; gayriresmi"
+  ],
+  "ex": [
+   "Bu podcast, arkadaşlarımın kullandığı günlük konuşma ifadelerini öğrenmeme yardımcı oluyor.",
+   "Konuşma dili kişisel bloglara uygun olsa da akademik denemeler genellikle daha resmi bir üslup gerektirir."
+  ],
+  "col": [
+   "konuşma dili",
+   "günlük konuşma ifadesi",
+   "konuşma dilinde söylenen"
+  ],
+  "tip": "Günlük konuşma dilini anlatır. Argo (slang) ile aynı şey değildir; yazılı resmi metinlerde genellikle kaçınılması gereken bir üsluptur.",
+  "note": ""
+ },
+ {
+  "id": "transcend",
+  "senses": [
+   "aşmak; sınırların ötesine geçmek"
+  ],
+  "ex": [
+   "Dostlukları, evlerinin arasındaki mesafeyi aşmıştı.",
+   "İklim değişikliğiyle ilgili uluslararası iş birliği, gelecek nesiller için gezegeni korumak adına ulusal çıkarların ötesine geçmelidir."
+  ],
+  "col": [
+   "sınırları aşmak",
+   "kültürel farklılıkları aşmak",
+   "ulusal çıkarların ötesine geçmek"
+  ],
+  "tip": "Geçişli bir fiildir ve doğrudan nesne alır. Fiilden sonra beyond eklenmez; transcend beyond yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "pry",
+  "senses": [
+   "burnunu sokmak; karışmak",
+   "kaldırmak; zorla açmak"
+  ],
+  "ex": [
+   "Lütfen kız kardeşimin özel hayatına burnunu sokma.",
+   "İşverenler, çalışanın mesleki sorumluluklarıyla ilgisi olmayan konulara burnunu sokmak yerine kişisel sınırlara saygı göstermelidir."
+  ],
+  "col": [
+   "birinin işlerine burnunu sokmak",
+   "kapağı zorla açmak",
+   "meraklı bakışlar"
+  ],
+  "tip": "Gözetleme anlamında pry into, zorla açma anlamında ise pry open kullanılır. İngiliz İngilizcesinde açma için prise de yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "outset",
+  "senses": [
+   "başlangıç"
+  ],
+  "ex": [
+   "Bütçe konusunda en başta anlaştık.",
+   "Yerel yönetimler büyük konut projeleri planladığında topluluk üyeleri baştan itibaren sürece dahil edilmelidir."
+  ],
+  "col": [
+   "en başta",
+   "başlangıçtan itibaren",
+   "...in başında"
+  ],
+  "tip": "Genellikle at the outset ya da from the outset kalıplarıyla kullanılır. the outset of ile bir sürecin başlangıcı belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "offhand",
+  "senses": [
+   "kafadan; hemen",
+   "umursamaz; soğuk"
+  ],
+  "ex": [
+   "Adresi kafamdan hemen hatırlayamıyorum ama kontrol edeceğim.",
+   "Hastanın endişelerine umursamaz bir yanıt vermek, tıbbi tavsiye doğru olsa bile güveni zedeleyebilir."
+  ],
+  "col": [
+   "kafadan bilmek",
+   "kafadan hatırlamak",
+   "umursamaz bir söz",
+   "umursamaz bir tavır"
+  ],
+  "tip": "Zarf olarak genellikle bilgiyi kontrol etmeden söylemeyi anlatır ve olumsuz ya da soru cümlelerinde sık görülür. Sıfat olarak ilgisiz tavrı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "potluck",
+  "senses": [
+   "herkesin yemek getirdiği ortak yemek",
+   "elde ne varsa; şans eseri yemek"
+  ],
+  "ex": [
+   "Mahallemizin ortak yemeğine sebzeli bir turta götürdüm.",
+   "Topluluk ortak yemekleri, sakinleri yiyecek ve kültürel gelenekleri paylaşmaya teşvik ederek sosyal bağları güçlendirebilir."
+  ],
+  "col": [
+   "ortak yemek",
+   "ortak yemeğe bir şey getirmek",
+   "elde olanla yetinmek"
+  ],
+  "tip": "Herkesin bir yemek getirdiği ortak yemeği anlatır; sıradan bir ev yemeği değildir. take potluck, elde olanla yetinmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "exemplify",
+  "senses": [
+   "örnek teşkil etmek; temsil etmek",
+   "örnekleyerek açıklamak"
+  ],
+  "ex": [
+   "El yapımı kaseler, sade tasarımın güzelliğini örnekliyor.",
+   "Bu topluluk bahçeleri, kentli sakinlerin taze gıda üretirken yerel biyoçeşitliliği nasıl artırabileceklerini açıkça gösteriyor."
+  ],
+  "col": [
+   "bir eğilimi temsil etmek",
+   "bir ilkeyi somutlaştırmak",
+   "...nın faydalarını göstermek"
+  ],
+  "tip": "Geçişli bir fiildir ve doğrudan nesne alır. Bir şeyi örneklerle açıklarken be exemplified by kalıbı da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "paramount",
+  "senses": [
+   "en önemli; öncelikli"
+  ],
+  "ex": [
+   "Çocukları yüzmeye götürürken güvenlik en önemli şeydir.",
+   "Sağlık personeli dijital sistemlerle tıbbi kayıt tutmaya başlarken hasta mahremiyetinin korunması öncelikli olmalıdır."
+  ],
+  "col": [
+   "son derece önemli",
+   "öncelikli kaygı",
+   "öncelikli değerlendirme"
+  ],
+  "tip": "Genellikle be paramount veya of paramount importance kalıplarında kullanılır. 'Çok önemli' için very ile pekiştirmekten kaçının.",
+  "note": ""
+ },
+ {
+  "id": "chamber",
+  "senses": [
+   "salon; meclis odası",
+   "bölme; boşluk"
+  ],
+  "ex": [
+   "Meclis toplanırken biz salonun dışında bekledik.",
+   "Parlamentonun üst meclisi, önerilen yasaları son onaydan önce inceler."
+  ],
+  "col": [
+   "meclis salonu",
+   "kalp odacığı",
+   "ticaret odası"
+  ],
+  "tip": "Chamber genellikle resmi ya da özel amaçlı bir oda veya kapalı bir boşluk için kullanılır. Sıradan yatak odası için bedroom kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cellular",
+  "senses": [
+   "hücresel; hücreye ait",
+   "hücresel; mobil şebekeye ait"
+  ],
+  "ex": [
+   "Öğretmenimiz bize mikroskopla hücresel yapıları gösterdi.",
+   "Hücresel hasar üzerine yapılan araştırmalar, yaşlanmayla ilişkili hastalıklar için tedaviler geliştirilmesine yardımcı olabilir."
+  ],
+  "col": [
+   "hücre yapısı",
+   "hücresel solunum",
+   "hücresel hasar",
+   "hücresel ağ; mobil şebeke"
+  ],
+  "tip": "Biyolojide hücreye ait, iletişimde ise mobil şebekeyle ilgili anlamına gelir. Anlamı bağlama göre belirlemek gerekir.",
+  "note": ""
+ },
+ {
+  "id": "extravagant",
+  "senses": [
+   "savurgan; müsrif",
+   "abartılı; aşırı"
+  ],
+  "ex": [
+   "Bütçesi için bir ipek ceket daha almak israf gibi görünüyordu.",
+   "Uluslararası etkinliklere yapılan gösterişli harcamalar, kamu kaynaklarını temel sağlık ve eğitim hizmetlerinden saptırabilir."
+  ],
+  "col": [
+   "savurgan harcama",
+   "gösterişli yaşam tarzı",
+   "abartılı iddialar"
+  ],
+  "tip": "Harcamanın gereğinden fazla olduğunu ya da iddia ve taleplerin makul sınırları aştığını anlatır. Sadece pahalı anlamına gelmez; israf çağrışımı taşır.",
+  "note": ""
+ },
+ {
+  "id": "hepatitis",
+  "senses": [
+   "hepatit; karaciğer iltihabı"
+  ],
+  "ex": [
+   "Hemşire, bazı hepatit enfeksiyonlarının aşıyla nasıl önlenebileceğini açıkladı.",
+   "Halk sağlığı programları aşılama, tarama ve güvenli tıbbi bakıma erişimin artırılmasıyla hepatit bulaşını azaltabilir."
+  ],
+  "col": [
+   "viral hepatit",
+   "hepatit B",
+   "hepatit taraması"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Her karaciğer iltihabı virüsten kaynaklanmaz; bu yüzden hepatitis ile viral hepatitis ayrı kullanılır.",
+  "note": ""
+ }
+]

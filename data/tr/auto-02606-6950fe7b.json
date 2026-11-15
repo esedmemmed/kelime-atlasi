@@ -1,0 +1,279 @@
+[
+ {
+  "id": "softly",
+  "senses": [
+   "alçak sesle",
+   "yumuşak biçimde; nazikçe"
+  ],
+  "ex": [
+   "Bebek uyanmasın diye kadın alçak sesle konuştu.",
+   "Hastanelerde personel, hastaların dinlenip iyileşmesine yardımcı olmak için geceleri alçak sesle konuşmalıdır."
+  ],
+  "col": [
+   "alçak sesle konuşmak",
+   "fısıldayarak",
+   "yumuşak ışıkla aydınlatılmış"
+  ],
+  "tip": "softly sesin alçak ya da yumuşak olmasını anlatır; “yavaşça” anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "permanent",
+  "senses": [
+   "kalıcı; sürekli",
+   "süresiz; kadrolu"
+  ],
+  "ex": [
+   "Sıcak tavanın bıraktığı kalıcı bir iz masada kaldı.",
+   "Sel önleme yatırımları, evlere ve kamu altyapısına kalıcı zarar verme riskini azaltabilir."
+  ],
+  "col": [
+   "kalıcı hasar",
+   "daimi ikamet eden",
+   "kadrolu iş",
+   "daimi adres"
+  ],
+  "tip": "permanent job, bitiş tarihi belirlenmemiş iş demektir; ömür boyu sürecek iş anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "contest",
+  "senses": [
+   "yarışma; mücadele",
+   "itiraz etmek; karşı çıkmak",
+   "yarışmak; aday olmak"
+  ],
+  "ex": [
+   "Kuzenim limonlu kekiyle bir pasta yarışmasını kazandı.",
+   "Vatandaşlar resmi bir kararına itiraz etmek istediklerinde uygun fiyatlı hukuki danışmanlığa ulaşabilmelidir."
+  ],
+  "col": [
+   "yarışmaya katılmak",
+   "çekişmeli yarış",
+   "bir kararına itiraz etmek",
+   "seçimde yarışmak"
+  ],
+  "tip": "İsimde vurgu ilk hecededir (CONtest); fiilde vurgu ikinci hecededir (conTEST).",
+  "note": ""
+ },
+ {
+  "id": "host",
+  "senses": [
+   "ev sahibi; sunucu",
+   "ev sahipliği yapmak; sunmak",
+   "çok sayıda"
+  ],
+  "ex": [
+   "Ev sahibimiz bizi sıcak ekmek ve çayla karşıladı.",
+   "Uluslararası spor etkinliklerine ev sahipliği yapan şehirler genellikle ulaşım altyapısına ve konaklama imkânlarına büyük yatırım yapar."
+  ],
+  "col": [
+   "ev sahibi ülke",
+   "bir etkinliğe ev sahipliği yapmak",
+   "bir sürü sorun",
+   "televizyon sunucusu"
+  ],
+  "tip": "a host of çoğul bir isimle kullanılır ve “çok sayıda” anlamına gelir; ardından gelen isim çoğul olmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "agreed",
+  "senses": [
+   "kararlaştırılmış; üzerinde anlaşılmış"
+  ],
+  "ex": [
+   "Istasyonun önünde kararlaştırılan saatte buluştuk.",
+   "Katılan tüm ülkeler, ortak çabanın karbon salınımını azaltmasını sağlamak için üzerinde anlaşılan hedeflere uymalıdır."
+  ],
+  "col": [
+   "kararlaştırılan saat",
+   "üzerinde anlaşılan koşullar",
+   "üzerinde anlaşılan fiyat",
+   "üzerinde anlaşmaya varılmak"
+  ],
+  "tip": "agreed sıfat olarak isimden önce gelir; “Agreed!” ise günlük dilde “Anlaştık!” anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spare",
+  "senses": [
+   "yedek; boş",
+   "ayırmak; vakit bulmak",
+   "kurtarmak; esirgemek"
+  ],
+  "ex": [
+   "Arabamda yedek bir şemsiye bulunduruyorum.",
+   "Her hafta birkaç saatini ayırabilen insanlar, düzenli gönüllülükle yerel hayır kurumlarını destekleyebilir."
+  ],
+  "col": [
+   "boş zaman",
+   "yedek anahtar",
+   "yedek parçalar",
+   "bir an ayırmak"
+  ],
+  "tip": "spare time boş zaman demektir; fiil olarak spare bir zaman ya da kaynağı ayırmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "diagram",
+  "senses": [
+   "şema; diyagram",
+   "şemayla göstermek"
+  ],
+  "ex": [
+   "Şema, rafların nasıl birleştirileceğini gösteriyor.",
+   "Açık bir şema, öğrencilerin karmaşık biyolojik süreçleri uzun bir açıklamadan daha etkili biçimde anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "şema çizmek",
+   "etiketli şema",
+   "akış şeması"
+  ],
+  "tip": "Yapıyı ya da işleyişi gösteren çizimler için kullanılır; sayısal verileri gösteren grafikler için genellikle chart ya da graph tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "sunblock",
+  "senses": [
+   "güneş kremi"
+  ],
+  "ex": [
+   "Yüzmeden önce omuzlarına biraz güneş kremi sür.",
+   "Koruyucu giysilerle birlikte güneş kremi kullanmak, uzun süre güneş ışığına maruz kalınan durumlarda cilt hasarını azaltabilir."
+  ],
+  "col": [
+   "güneş kremi sürmek",
+   "güneş kremi kullanmak",
+   "suya dayanıklı güneş kremi"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Adında “block” geçmesine rağmen UV ışınlarını tamamen engellediği anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "kayak",
+  "senses": [
+   "kayak",
+   "kayakla gezmek"
+  ],
+  "ex": [
+   "Kürekle sessiz gölün üzerinde kayağını yavaşça ilerletti.",
+   "Kıyı bölgelerini kayakla keşfetmek, turistlerin motor gürültüsü çıkarmadan doğal manzaranın tadını çıkarmasını sağlar."
+  ],
+  "col": [
+   "deniz kayağı",
+   "kayakla kürek çekmek",
+   "kayakla gezmeye gitmek"
+  ],
+  "tip": "Kayak genellikle çift kanatlı kürekle kullanılır; tek kanatlı kürekle kullanılan tekne ise canoe olarak adlandırılır. go kayaking kalıbına dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "outfit",
+  "senses": [
+   "kıyafet takımı; kombin",
+   "donatmak; teçhiz etmek",
+   "ekip; firma"
+  ],
+  "ex": [
+   "Doğum günü partisi için parlak renkli bir kombin seçti.",
+   "Okullar, öğrencilerin pratik araştırma becerileri geliştirebilmesi için fen laboratuvarlarını modern ekipmanlarla donatmalıdır."
+  ],
+  "col": [
+   "günlük kombin",
+   "uyumlu kombin",
+   "bir şeyi ekipmanla donatmak"
+  ],
+  "tip": "Bir giysi takımı için an outfit denir; fiil olarak genellikle with ile kullanılır: outfit something with equipment.",
+  "note": ""
+ },
+ {
+  "id": "closet",
+  "senses": [
+   "gömme dolap; kiler",
+   "gizli; saklı"
+  ],
+  "ex": [
+   "Kışlık mantomu koridordaki dolaba astım.",
+   "Küçük dairelerde sakinler eşyalarını verimli biçimde düzenleyip dolap alanını daha iyi kullandığında mekân daha ferah görünebilir."
+  ],
+  "col": [
+   "gömme dolap",
+   "girilebilir dolap",
+   "dolap alanı"
+  ],
+  "tip": "Giysi saklama alanı için Amerikan İngilizcesinde yaygındır; İngiliz İngilizcesinde genellikle wardrobe kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "heading",
+  "senses": [
+   "başlık",
+   "seyir yönü; rota"
+  ],
+  "ex": [
+   "Sayfanızın en üstüne açık bir başlık yazın.",
+   "Açık başlıklar okuyucuların ilgili bilgiyi hızla bulmasına yardımcı olur ve uzun akademik raporların takibini kolaylaştırır."
+  ],
+  "col": [
+   "bölüm başlığı",
+   "ana başlık",
+   "başlığı altında"
+  ],
+  "tip": "heading çoğunlukla bölüm ya da belge başlığı için kullanılır; haber başlığı için genellikle headline tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "basis",
+  "senses": [
+   "temel; dayanak",
+   "düzen; sıklık"
+  ],
+  "ex": [
+   "Bu taze sebzeler çorbamızın temelini oluşturur.",
+   "Güvenilir kanıtlar, hükümetin halk sağlığı ve çevre koruma konularındaki kararlarına dayanak oluşturmalıdır."
+  ],
+  "col": [
+   "her gün",
+   "...esasına dayanarak",
+   "temelini oluşturmak",
+   "sağlam bir temel"
+  ],
+  "tip": "Çoğulu bases’tir. on a daily basis ifadesi “her gün” anlamına gelir ve bir şeyin ne sıklıkta olduğunu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "biologist",
+  "senses": [
+   "biyolog"
+  ],
+  "ex": [
+   "Biyolog, gölcüğün kenarındaki kurbağayı dikkatle inceledi.",
+   "Deniz biyoloğu, kıyı topluluklarının kirliliğin yerel balık popülasyonlarını nasıl etkilediğini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "deniz biyoloğu",
+   "yaban hayatı biyoloğu",
+   "evrim biyoloğu"
+  ],
+  "tip": "biology (biyoloji) ile biologist (biyolog) arasındaki farka dikkat et; kişiyi belirten isim -ist ekiyle yapılır.",
+  "note": ""
+ },
+ {
+  "id": "employ",
+  "senses": [
+   "çalıştırmak; istihdam etmek",
+   "uygulamak; kullanmak"
+  ],
+  "ex": [
+   "Fırın, mahallemizden üç kişiyi çalıştırıyor.",
+   "Öğretmenler, öğrencilerin karmaşık bilimsel kavramları anlamasına yardımcı olmak için çeşitli uygulamalı etkinlikler kullanabilir."
+  ],
+  "col": [
+   "personel çalıştırmak",
+   "birini ... olarak çalıştırmak",
+   "bir strateji uygulamak"
+  ],
+  "tip": "employ hem işe almak hem de resmî bir dille bir yöntemi kullanmak anlamında kullanılır; ikinci anlamda use kelimesinden daha resmîdir.",
+  "note": ""
+ }
+]

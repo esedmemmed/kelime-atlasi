@@ -1,0 +1,269 @@
+[
+ {
+  "id": "commissioner",
+  "senses": [
+   "komiser; yetkili"
+  ],
+  "ex": [
+   "Komiser, trafik güvenliğini görüşmek üzere mahallemizi ziyaret etti.",
+   "Bağımsız bir komiser, halkın şikayetlerini incelemeli ve kamu kurumlarının vatandaşlara adil davranmasını sağlamalıdır."
+  ],
+  "col": [
+   "polis komiseri",
+   "yüksek komiser",
+   "komiser atamak"
+  ],
+  "tip": "Belirli bir kamu hizmetinden sorumlu yetkilidir; her komisyon üyesi için kullanılmaz. Türkçedeki 'komiser' rütbesiyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "inauguration",
+  "senses": [
+   "göreve başlama töreni",
+   "resmi açılış; açılış töreni"
+  ],
+  "ex": [
+   "Yeni cumhurbaşkanının yemin törenini izlemek için dışarıda toplandık.",
+   "Yeni demiryolunun açılışı, kırsal topluluklar arasındaki ulaşımı iyileştirmede önemli bir adım oldu."
+  ],
+  "col": [
+   "cumhurbaşkanlığı yemin töreni",
+   "açılış töreni",
+   "yeni müzenin açılışı"
+  ],
+  "tip": "Liderin göreve başlamasını ve bir tesisin resmi açılışını anlatır. 'Opening' daha genel bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "citrus",
+  "senses": [
+   "narenciye; turunçgil",
+   "narenciye cinsinden"
+  ],
+  "ex": [
+   "Salataya taze narenciye suyu sıktık.",
+   "Artan sıcaklıklar su talebini artırarak ve bahçeleri yeni zararlılara maruz bırakarak narenciye üretimini etkileyebilir."
+  ],
+  "col": [
+   "narenciye meyvesi",
+   "narenciye ağaçları",
+   "narenciye kabuğu",
+   "narenciye suyu"
+  ],
+  "tip": "Portakal, limon, greyfurt gibi meyvelerin genel adıdır; tek bir meyveyi belirtmek için kullanılmaz. Sıfat olarak da kullanılır: citrus fruit.",
+  "note": ""
+ },
+ {
+  "id": "ovation",
+  "senses": [
+   "uzun alkış; coşkulu alkış"
+  ],
+  "ex": [
+   "Genç piyanist performansının ardından uzun uzun alkışlandı.",
+   "Orkestra ayakta alkışlandı; bu da canlı performansların güçlü bir topluluk duygusu yaratabileceğini gösteriyor."
+  ],
+  "col": [
+   "ayakta alkış",
+   "alkış almak",
+   "gök gürültüsü gibi alkış"
+  ],
+  "tip": "Sayılabilir isimdir ve genellikle receive/get an ovation kalıplarıyla kullanılır. Sıradan alkış değil, coşkulu ve uzun süren alkış için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vulnerability",
+  "senses": [
+   "kırılganlık; savunmasızlık",
+   "zafiyet; güvenlik açığı"
+  ],
+  "ex": [
+   "Fırtına eski çatımızın ne kadar savunmasız olduğunu ortaya çıkardı.",
+   "Sel önlemlerine yatırım yapmak, kıyı topluluklarının giderek şiddetlenen fırtınalara karşı kırılganlığını azaltabilir."
+  ],
+  "col": [
+   "sel riskine karşı savunmasızlık",
+   "güvenlik açığı",
+   "kırılganlığı azaltmak"
+  ],
+  "tip": "Genel anlamda sayılamaz; belirli bir açık ya da zayıf nokta anlatılırken sayılabilir olur.",
+  "note": ""
+ },
+ {
+  "id": "instructive",
+  "senses": [
+   "öğretici; aydınlatıcı"
+  ],
+  "ex": [
+   "Büyükbabamın saati tamir edişini izlemek şaşırtıcı derecede öğreticiydi.",
+   "Farklı ülkelerin geri dönüşüm sistemlerini karşılaştırmak, ev atıklarını azaltmak isteyen politika yapıcılar için öğretici olabilir."
+  ],
+  "col": [
+   "öğretici bir örnek",
+   "öğretici bir deneyim",
+   "bir şeyi öğretici bulmak"
+  ],
+  "tip": "Bir şeyden bilgi edinilmesini ya da ders çıkarılmasını anlatır; 'talimat veren' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "dwelling",
+  "senses": [
+   "konut; ev"
+  ],
+  "ex": [
+   "Küçük evleri sakin bir nehir kıyısına bakıyor.",
+   "Her yeni konut, hane halkı maliyetlerini ve çevresel zararı azaltmak için enerji verimliliği standartlarına uymalıdır."
+  ],
+  "col": [
+   "özel konut",
+   "kalıcı konut",
+   "ikamet yeri"
+  ],
+  "tip": "Resmi üslupta kullanılan bir kelimedir. Günlük dilde kendi evinizden söz ederken home tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "asterisk",
+  "senses": [
+   "yıldız işareti"
+  ],
+  "ex": [
+   "Fiyatın yanındaki yıldız işareti, ek teslimat ücretlerine dikkat çekiyor.",
+   "Araştırmacılar, belirli bir istatistiksel eşiği karşılayan sonuçları göstermek için tablolarda sıklıkla yıldız işareti kullanır."
+  ],
+  "col": [
+   "yıldız işaretiyle işaretlemek",
+   "yanında yıldız işareti olan",
+   "yıldız işareti eklemek"
+  ],
+  "tip": "Telaffuzu [ˈæstərɪsk] olup sonu 'risk' gibi biter, 'riks' diye okunmaz.",
+  "note": ""
+ },
+ {
+  "id": "merge",
+  "senses": [
+   "birleşmek; birleştirmek"
+  ],
+  "ex": [
+   "İki dar patika köprünün hemen ötesinde birleşiyor.",
+   "Küçük işletmeler, işletme maliyetlerini düşürmek ve büyük şirketlerle daha etkili rekabet etmek için birleşebilir."
+  ],
+  "col": [
+   "başka bir şirketle birleşmek",
+   "tek bir şeye birleşmek",
+   "iki departmanı birleştirmek"
+  ],
+  "tip": "merge with bir şeyle birleşmek; merge into ise bir şeye katılıp onun içinde erimek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "notoriety",
+  "senses": [
+   "kötü ün; rezillik"
+  ],
+  "ex": [
+   "Restoran, kirli mutfağıyla kötü bir üne kavuştu.",
+   "Bazı şirketler çevreye verdikleri zararlar yüzünden kötü ün kazanır; bu da nitelikli işçi bulmalarını zorlaştırır."
+  ],
+  "col": [
+   "kötü ün kazanmak",
+   "yolsuzlukla ilgili kötü ün",
+   "kötü ün elde etmek"
+  ],
+  "tip": "Genellikle olumsuz bir bağlamda kullanılır ve sayılamaz. Nötr 'ün, şöhret' anlamı için fame kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "glimmer",
+  "senses": [
+   "soluk ışık; titrek ışık",
+   "belirti; ufak umut",
+   "hafifçe parlamak"
+  ],
+  "ex": [
+   "Kapalı perdelerin arasından mumun soluk ışığı süzülüyordu.",
+   "Son dönemdeki su kalitesi iyileşmeleri, endüstriyel kirlilikten etkilenen topluluklar için bir umut ışığı sunuyor."
+  ],
+  "col": [
+   "soluk bir ışık",
+   "bir umut ışığı",
+   "bir anlayış kırıntısı"
+  ],
+  "tip": "a glimmer of hope 'bir umut ışığı' anlamında yaygın bir kalıptır. Fiil olarak da kullanılır: glimmer in the dark.",
+  "note": ""
+ },
+ {
+  "id": "bureaucracy",
+  "senses": [
+   "bürokrasi; idari düzen",
+   "kırtasiyecilik; bürokratik işlemler"
+  ],
+  "ex": [
+   "Teyzem şehrin büyük bürokrasisi içinde çalışıyor.",
+   "Gereksiz bürokrasiyi azaltmak, temel güvenlik standartlarını zayıflatmadan küçük işletmelerin izinleri daha hızlı almasını sağlayabilir."
+  ],
+  "col": [
+   "devlet bürokrasisi",
+   "bürokrasiyi azaltmak",
+   "aşırı bürokrasi"
+  ],
+  "tip": "Sistemi ya da karmaşık işlemleri anlatır. Kişiyi belirtmek için bureaucrat kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reconcile",
+  "senses": [
+   "uzlaştırmak; bağdaştırmak",
+   "barıştırmak; barışmak",
+   "gerçeği kabullenmek"
+  ],
+  "ex": [
+   "Farklı zevklerimizi bir açık büfe seçerek uzlaştırdık.",
+   "Hükümetler, uygun fiyatlı konut talebiyle değerli yeşil alanları koruma ihtiyacını bağdaştırmalıdır."
+  ],
+  "col": [
+   "A'yı B ile bağdaştırmak",
+   "farklılıkları gidermek",
+   "biriyle barışmak",
+   "kendini bir duruma alıştırmak"
+  ],
+  "tip": "İki şeyi bağdaştırmak için reconcile A with B; kendini bir duruma alıştırmak için reconcile oneself to kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "plasma",
+  "senses": [
+   "kan plazması",
+   "plazma"
+  ],
+  "ex": [
+   "Kuzenim yerel kliniğe kan plazması bağışlıyor.",
+   "Bağışlanan plazma, bazı bağışıklık sistemi bozuklukları için tedavi üretiminde kullanılabilen proteinler içerir."
+  ],
+  "col": [
+   "kan plazması",
+   "plazma bağışlamak",
+   "plazma proteinleri",
+   "plazma fiziği"
+  ],
+  "tip": "Genellikle sayılamaz. Tıpta kanın sıvı kısmını, fizikte ise iyonlaşmış gazı anlatır; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "needless",
+  "senses": [
+   "gereksiz; lüzumsuz"
+  ],
+  "ex": [
+   "Önceden aramamız, şehrin öbür ucuna gereksiz bir yolculuktan bizi kurtardı.",
+   "Kamu hizmetleri hakkında net bilgilendirme, gereksiz karışıklığı önleyebilir ve sakinlerin temel desteğe erişmesine yardımcı olabilir."
+  ],
+  "col": [
+   "gereksiz endişe",
+   "gereksiz harcama",
+   "söylemeye gerek yok"
+  ],
+  "tip": "needless to say 'söylemeye gerek yok' anlamında bir kalıptır ve genellikle cümlenin başında ya da arasında kullanılır.",
+  "note": ""
+ }
+]

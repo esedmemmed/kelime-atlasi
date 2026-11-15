@@ -1,0 +1,275 @@
+[
+ {
+  "id": "principle",
+  "senses": [
+   "ilke; prensip",
+   "temel ilke; yasa"
+  ],
+  "ex": [
+   "Bunu bir ilke meselesi olarak ek parayı reddettim.",
+   "Eşit fırsat ilkesi, yükseköğretime erişimi artırmayı amaçlayan politikalara yön vermelidir."
+  ],
+  "col": [
+   "temel ilke",
+   "prensipte; ilke olarak",
+   "ilke gereği",
+   "yol gösterici ilke"
+  ],
+  "tip": "principal ile karıştırmayın: principal 'başlıca' ya da 'okul müdürü' anlamına gelir. Bu iki kelimenin anlamı ve yazılışı farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "bouquet",
+  "senses": [
+   "buket; demet",
+   "buket; koku"
+  ],
+  "ex": [
+   "Büyükannesinin doğum günü yemeğine parlak renkli bir buket getirdi.",
+   "Yerel olarak yetiştirilen çiçeklerden buket seçmek, uzun mesafeli taşımacılığın çevreye etkisini azaltabilir."
+  ],
+  "col": [
+   "bir demet çiçek",
+   "gelin buketi",
+   "bir demet gül"
+  ],
+  "tip": "Sondaki t sessizdir. Çiçek demeti için a bouquet of flowers kalıbı yaygın olarak kullanılır; şarapta ise aroma anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "implement",
+  "senses": [
+   "uygulamak; hayata geçirmek",
+   "alet; araç"
+  ],
+  "ex": [
+   "Ekibimiz yeni programı gelecek hafta uygulamaya koyacak.",
+   "Hükümetler, düşük gelirli insanlar için toplu taşımayı daha uygun fiyatlı hale getiren politikaları uygulamalıdır."
+  ],
+  "col": [
+   "bir politikayı uygulamak",
+   "bir planı uygulamak",
+   "tarımsal aletler"
+  ],
+  "tip": "Fiil olarak plan ve kararları hayata geçirmek, isim olarak alet anlamına gelir. Resmi metinlerde plan ve politikalar için sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ensure",
+  "senses": [
+   "garanti etmek; sağlamak"
+  ],
+  "ex": [
+   "Lütfen ayrılmadan önce tüm pencerelerin kapalı olduğundan emin olun.",
+   "Hükümetler, hem kentsel hem kırsal bölgelerdeki sakinlerin uygun fiyatlı toplu taşımaya erişebilmesini sağlamalıdır."
+  ],
+  "col": [
+   "güvenliği sağlamak",
+   "erişimi sağlamak",
+   "olduğundan emin olmak"
+  ],
+  "tip": "ensure, bir şeyin gerçekleşmesini sağlamak anlamına gelir; sigortalamak anlamında insure kullanılır. Bir isim ya da that cümlesi alır.",
+  "note": ""
+ },
+ {
+  "id": "species",
+  "senses": [
+   "tür; cins"
+  ],
+  "ex": [
+   "Yazın bahçemize birkaç tür kelebek uğruyor.",
+   "İnsan faaliyetlerinden tehdit altındaki türlerin yok olmasını önlemek için doğal yaşam alanlarının korunması şarttır."
+  ],
+  "col": [
+   "tehlike altındaki tür",
+   "yerli tür",
+   "istilacı tür",
+   "tür çeşitliliği"
+  ],
+  "tip": "Tekil ve çoğul aynı biçimdedir: one species, many species. Çoğul için specieses yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "extent",
+  "senses": [
+   "derece; kapsam"
+  ],
+  "ex": [
+   "Sızıntının boyutunu ancak dün öğrendik.",
+   "Toplu taşımanın kirliliği ne ölçüde azalttığı, yolcu sayısına ve enerji kaynaklarına bağlıdır."
+  ],
+  "col": [
+   "bir dereceye kadar",
+   "tam kapsamıyla",
+   "büyük ölçüde"
+  ],
+  "tip": "Bir ölçüde anlamı için to some extent, büyük ölçüde için to a large extent kalıplarını kullanın. extend fiiliyle karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "claw",
+  "senses": [
+   "pençe; tırnak",
+   "kıskaç; makas",
+   "tırmalamak; pençelemek"
+  ],
+  "ex": [
+   "Kedi keskin pençesiyle kolumu yakaladı.",
+   "Keskin pençeler birçok yırtıcının avını yakalamasına yardımcı olurken, bazı hayvanlar bunları tırmanmak veya kazmak için kullanır."
+  ],
+  "col": [
+   "keskin pençeler",
+   "yengeç kıskaçları",
+   "bir şeyi tırmalamak"
+  ],
+  "tip": "claw sivri pençeyi, paw ise kedi ve köpeğin ayağını anlatır. Fiil olarak claw at kalıbında 'tırmalamak' anlamı kazanır.",
+  "note": ""
+ },
+ {
+  "id": "dawn",
+  "senses": [
+   "şafak; tan",
+   "başlangıç; doğuş",
+   "aklına gelmek; ağarmak"
+  ],
+  "ex": [
+   "Yoğun trafikten kaçınmak için şafakta yola çıktık.",
+   "Dijital iletişimin doğuşu, insanların ulusal sınırlar ötesindeki ilişkilerini sürdürme biçimini köklü biçimde değiştirdi."
+  ],
+  "col": [
+   "şafakta",
+   "sabahtan akşama kadar",
+   "yeni bir çağın başlangıcı",
+   "aklına gelmek"
+  ],
+  "tip": "It dawned on me that... kalıbı 'farkına vardım ki' anlamına gelir. dawn on someone yapısını bir bütün olarak öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "transparent",
+  "senses": [
+   "şeffaf; saydam",
+   "açık; şeffaf",
+   "bariz; belli"
+  ],
+  "ex": [
+   "Düğmelerini şeffaf bir plastik kutuda saklıyor.",
+   "Kamu kurumlarının adaleti sağlamak ve yerel toplulukların güvenini korumak için şeffaf işe alım süreçlerine ihtiyacı vardır."
+  ],
+  "col": [
+   "şeffaf cam",
+   "şeffaf süreç",
+   "bariz bahane"
+  ],
+  "tip": "transparent ışığı geçirip net görülmeyi anlatır; translucent ise ışığı geçirip net görülmemeyi anlatır. Mecazi kullanımda da 'açık' anlamı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "upbringing",
+  "senses": [
+   "yetiştirilme; terbiye"
+  ],
+  "ex": [
+   "Onun yetiştirilme tarzı başkalarıyla paylaşmayı öğretti.",
+   "Destekleyici bir aile ortamı, çocukların özgüven kazanmasına ve okuldaki zorluklarla daha etkili baş etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "katı bir terbiye",
+   "korumacı bir yetiştirilme",
+   "ayrıcalıklı bir yetiştirilme"
+  ],
+  "tip": "Çocukluk dönemindeki aile bakımını ve terbiyeyi anlatır. Okul eğitimi için education kelimesini kullanın.",
+  "note": ""
+ },
+ {
+  "id": "calory",
+  "senses": [
+   "kalori; ısı birimi"
+  ],
+  "ex": [
+   "Öğle yemeğimdeki her kaloriyi saymıyorum.",
+   "Kalori alımı önemli olsa da halk sağlığı önerileri besin kalitesini ve taze gıdaya erişimi de dikkate almalıdır."
+  ],
+  "col": [
+   "kalori alımı",
+   "kalori içeriği"
+  ],
+  "tip": "calory nadir bir yazımdır; yazılı metinlerde calorie tercih edilir. Her iki biçimde de anlam aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "subheading",
+  "senses": [
+   "alt başlık"
+  ],
+  "ex": [
+   "Bu alt başlık, tarif bölümünde pişirme talimatlarını bulmama yardımcı oluyor.",
+   "Bilimsel bir raporda her alt başlık, izleyen bölümün odağını açıkça belirtmelidir."
+  ],
+  "col": [
+   "açık bir alt başlık",
+   "açıklayıcı bir alt başlık",
+   "alt başlık eklemek"
+  ],
+  "tip": "Bir metnin içindeki bölüm başlığıdır. Film altyazısı anlamında kullanılmaz; o anlam için subtitle kelimesi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "handful",
+  "senses": [
+   "bir avuç",
+   "birkaç kişi; az sayı",
+   "baş belası"
+  ],
+  "ex": [
+   "Kahvaltısının üzerine bir avuç fındık serpti.",
+   "Güvenilir toplu taşımaya sahip yalnızca birkaç kırsal topluluk var; bu da sakinlerin işe ve sağlık hizmetlerine erişimini kısıtlıyor."
+  ],
+  "col": [
+   "bir avuç pirinç",
+   "birkaç kişi",
+   "başa bela olmak"
+  ],
+  "tip": "a handful of hem sayılabilir çoğul isimlerle hem de sayılamayan isimlerle kullanılabilir. Bu kalıbı 'birkaç' anlamında öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "derive",
+  "senses": [
+   "elde etmek; almak",
+   "türemek; kaynaklanmak"
+  ],
+  "ex": [
+   "Balkonumda sebze yetiştirmekten büyük zevk alıyorum.",
+   "Birçok kıyı topluluğu gelirinin önemli bir kısmını turizmden ve balıkçılıktan elde ediyor."
+  ],
+  "col": [
+   "zevk almak",
+   "gelir elde etmek",
+   "kaynaklanmak",
+   "türetilmiş olmak"
+  ],
+  "tip": "derive A from B: A'yı B'den elde etmek; derive from: B'den kaynaklanmak anlamına gelir. Edilgen yapıda be derived from kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fellow",
+  "senses": [
+   "aynı durumdaki; ortak",
+   "adam; herif",
+   "üye; araştırmacı"
+  ],
+  "ex": [
+   "Şemsiyemi yanımdaki bir yolcuyla paylaştım.",
+   "Sınıf arkadaşlarıyla düzenli olarak fikir alışverişi yapan öğrenciler genellikle daha fazla özgüven ve daha güçlü iletişim becerisi geliştirir."
+  ],
+  "col": [
+   "sınıf arkadaşları",
+   "yolcu arkadaşları",
+   "araştırma görevlisi",
+   "sevimli bir herif"
+  ],
+  "tip": "Sıfat olarak yalnızca isimden önce gelir: my fellow students. 'Adam' anlamındaki isim kullanımı gündelik konuşmaya özgüdür; resmi yazıda kaçının.",
+  "note": ""
+ }
+]

@@ -1,0 +1,269 @@
+[
+ {
+  "id": "ignorant",
+  "senses": [
+   "bilgisiz; habersiz",
+   "cahil; görgüsüz"
+  ],
+  "ex": [
+   "Kuralları biri bana açıklayana kadar onlardan habersizdim.",
+   "Çevrim içi gizlilik risklerinin farkında olmayan tüketiciler, hassas bilgilerini sonuçlarını düşünmeden paylaşabilir."
+  ],
+  "col": [
+   "gerçekler konusunda habersiz",
+   "habersiz kalmak",
+   "cahilce bir söz"
+  ],
+  "tip": "be ignorant of kalıbını kullanın. Kişiyi doğrudan tanımlarken aşağılayıcı algılanabilir, bu yüzden dikkatli kullanın.",
+  "note": ""
+ },
+ {
+  "id": "acquaintance",
+  "senses": [
+   "tanıdık",
+   "bilgi; aşinalık"
+  ],
+  "ex": [
+   "Yoga dersimden bir tanıdığım bana el salladı.",
+   "Yerel âdetlere dair temel bir bilgi bile uluslararası öğrencilerin yurt dışındaki hayata daha kolay uyum sağlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "yüzeysel bir tanıdık",
+   "biriyle tanışmak",
+   "ile ilgili aşinalık"
+  ],
+  "tip": "Kişi anlamında sayılabilir bir isimdir. 'Bilgi' anlamında genellikle with ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "apparent",
+  "senses": [
+   "belli; açık",
+   "görünürdeki; sözde"
+  ],
+  "ex": [
+   "Heyecanı büyük gülümsemesinden belliydi.",
+   "Uzaktan eğitimin görünürdeki faydalarına rağmen bazı öğrenciler öğretmenlerin doğrudan desteği olmadan zorlanıyor."
+  ],
+  "col": [
+   "belli olmak",
+   "hiçbir belirgin neden olmadan",
+   "görünürdeki çelişki"
+  ],
+  "tip": "Hem 'belli' hem 'görünürdeki' anlamı taşır. Doğru anlamı cümlenin bağlamından belirleyin.",
+  "note": ""
+ },
+ {
+  "id": "frustration",
+  "senses": [
+   "hayal kırıklığı; sinir"
+  ],
+  "ex": [
+   "Yazıcı yine sıkışınca iç çekerek hayal kırıklığını dile getirdi.",
+   "Toplu taşımadaki tekrarlayan gecikmeler, yolcuların hayal kırıklığını artırabilir ve yerel hizmetlere olan güvenlerini azaltabilir."
+  ],
+  "col": [
+   "hayal kırıklığıyla",
+   "hayal kırıklığı duygusu",
+   "hayal kırıklığını dile getirmek",
+   "artan hayal kırıklığı"
+  ],
+  "tip": "Kişi frustrated (hayal kırıklığına uğramış), şey frustrating (sinir bozucu) olur. Bu sıfatları karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "proverb",
+  "senses": [
+   "atasözü"
+  ],
+  "ex": [
+   "Büyükannem sabırla ilgili bir atasözünü sık sık alıntılar.",
+   "Geleneksel bir atasözü, bir topluluğun nesilden nesile aktardığı değerleri ortaya koyabilir."
+  ],
+  "col": [
+   "geleneksel atasözü",
+   "atasözü alıntılamak",
+   "atasözünün dediği gibi"
+  ],
+  "tip": "Proverb, öğüt veya genel bir doğruyu ifade eden tam cümlelik bir sözdür. Idiom ise anlamı kelimelerden çıkmayan sabit bir deyimdir.",
+  "note": ""
+ },
+ {
+  "id": "transition",
+  "senses": [
+   "geçiş; değişim",
+   "geçiş yapmak"
+  ],
+  "ex": [
+   "Sevdiği bir oyuncak, anaokuluna uyumunu kolaylaştırdı.",
+   "Fosil yakıtlardan yenilenebilir enerjiye geçiş, sürekli yatırım ve dikkatli bir hükümet planlaması gerektirir."
+  ],
+  "col": [
+   "sorunsuz bir geçiş",
+   "A'dan B'ye geçiş",
+   "geçiş dönemi"
+  ],
+  "tip": "Transition from A to B kalıbı, iki durum arasındaki değişimi anlatmak için sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "yacht",
+  "senses": [
+   "yat; yelkenli"
+  ],
+  "ex": [
+   "Beyaz bir yatın koyun üzerinden yelken açtığını izledik.",
+   "Yat turizminin artan popülaritesi kıyı topluluklarına gelir sağlayabilir, ancak deniz yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "yelkenli yat",
+   "lüks yat",
+   "yat yarışı"
+  ],
+  "tip": "'ch' harfleri okunmaz; kelime /jɒt/ gibi telaffuz edilir. Genellikle eğlence veya yarış amaçlı teknelere denir.",
+  "note": ""
+ },
+ {
+  "id": "lantern",
+  "senses": [
+   "fener; lamba"
+  ],
+  "ex": [
+   "Karanlık bahçe patikasında bir fener taşıyordu.",
+   "Güneş enerjili fenerler, güvenilir elektriğe erişimin sınırlı olduğu uzak topluluklarda uygun fiyatlı aydınlatma sağlar."
+  ],
+  "col": [
+   "kâğıt fener",
+   "güneş enerjili fener",
+   "feneri yakmak"
+  ],
+  "tip": "Koruyucu bir kılıfı olan, çoğu zaman taşınabilen bir ışık kaynağıdır. El feneri anlamına gelen flashlight ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "apparently",
+  "senses": [
+   "görünüşe göre; anlaşılan"
+  ],
+  "ex": [
+   "Anlaşılan, fırın yağmurlu günlerde erken kapanıyor.",
+   "Anlaşıldığına göre birçok sakin önerilen parkı destekliyor, ancak resmi bir anket henüz yapılmadı."
+  ],
+  "col": [
+   "görünüşte zararsız",
+   "görünüşte habersiz",
+   "görünüşte basit"
+  ],
+  "tip": "Mevcut bilgilere dayanarak bir çıkarım bildirir, ama kesin bir gerçeği garanti etmez. Genellikle cümle başında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pimple",
+  "senses": [
+   "sivilce"
+  ],
+  "ex": [
+   "Dün gece çenemde küçük bir sivilce çıktı.",
+   "Sivilce çıkaran gençler, sert sabunla sık yıkanmak yerine nazik cilt bakımından yarar görebilir."
+  ],
+  "col": [
+   "sivilce çıkmak",
+   "sivilce sıkmak",
+   "çenedeki sivilce"
+  ],
+  "tip": "Tek bir sivilce için pimple, cilt hastalığı olan akne için acne kullanılır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "starve",
+  "senses": [
+   "açlıktan ölmek; aç kalmak",
+   "yoksun bırakmak"
+  ],
+  "ex": [
+   "Düzenli beslenmeden bu kurtarılan hayvanlar açlıktan ölebilir.",
+   "Kuraklık ürünleri yok ettiğinde, acil gıda desteği hızla ulaşmazsa kırsal aileler aç kalabilir."
+  ],
+  "col": [
+   "açlıktan ölmek",
+   "çok aç olmak",
+   "kaynaklardan yoksun olmak"
+  ],
+  "tip": "Günlük dilde I'm starving 'çok açım' anlamında kullanılır; gerçekte açlıktan ölmek anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "envy",
+  "senses": [
+   "kıskançlık; imrenme",
+   "kıskanmak; imrenmek",
+   "gıpta edilen şey"
+  ],
+  "ex": [
+   "Gürültülü trenlerde uyuyabilmene imreniyorum.",
+   "Sosyal medya, kullanıcıları başkalarının başarı ve yaşam tarzlarına dair özenle seçilmiş görsellere maruz bırakarak kıskançlığı körükleyebilir."
+  ],
+  "col": [
+   "birinin bir şeyini kıskanmak",
+   "kıskançlıkla",
+   "...nin gıpta ettiği şey",
+   "kıskançlıktan çatlamak"
+  ],
+  "tip": "Fiil doğrudan nesne alır: envy someone. Arada of kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "assumption",
+  "senses": [
+   "varsayım; önkabul",
+   "üstlenme; devralma"
+  ],
+  "ex": [
+   "Dükkânın erken açıldığı yönündeki varsayımım yanlıştı.",
+   "Tüm gençlerin ileri dijital becerilere sahip olduğu varsayımı, okullarda yetersiz desteğe yol açabilir."
+  ],
+  "col": [
+   "varsayımda bulunmak",
+   "altta yatan varsayım",
+   "varsayımı sorgulamak",
+   "sorumluluğu üstlenme"
+  ],
+  "tip": "Genellikle assumption that ile bir cümle takip eder. Kanıtlanmamış bir kabulü ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "crisis",
+  "senses": [
+   "kriz; buhran"
+  ],
+  "ex": [
+   "Kırılan su borusu evde bir kriz yarattı.",
+   "Konut krizi, birçok genç yetişkini kendi evlerine taşınmayı ertelemeye zorladı."
+  ],
+  "col": [
+   "bir krizle karşılaşmak",
+   "konut krizi",
+   "kriz yönetimi",
+   "kriz zamanlarında"
+  ],
+  "tip": "Çoğulu crises /ˈkraɪsiːz/ biçimindedir; sondaki 'es' /iːz/ olarak okunur.",
+  "note": ""
+ },
+ {
+  "id": "logo",
+  "senses": [
+   "logo; amblem"
+  ],
+  "ex": [
+   "Fırın, logosu olarak bir buğday sapı kullanıyor.",
+   "Ayırt edici bir logo tüketicilerin bir şirketi tanımasına yardımcı olur, ancak kalıcı güven için ürün kalitesi şarttır."
+  ],
+  "col": [
+   "şirket logosu",
+   "logo tasarlamak",
+   "ayırt edici logo"
+  ],
+  "tip": "Logo görsel bir simgeyi, slogan ise reklam sözünü ifade eder. Birbirinin yerine kullanılmazlar.",
+  "note": ""
+ }
+]

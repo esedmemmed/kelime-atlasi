@@ -1,0 +1,277 @@
+[
+ {
+  "id": "wrist",
+  "senses": [
+   "bilek"
+  ],
+  "ex": [
+   "Bileğinin etrafına gümüş bir bilezik takmıştı.",
+   "Ofis çalışanları, uzun süre bilgisayar kullanırken bileklerindeki baskıyı azaltmak için klavyelerini ayarlamalıdır."
+  ],
+  "col": [
+   "bilek yaralanması",
+   "bileğini burkmak",
+   "bilek desteği"
+  ],
+  "tip": "Başındaki w sessizdir. Ayak bileği ise ankle'dır; wrist ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "adverb",
+  "senses": [
+   "zarf"
+  ],
+  "ex": [
+   "Öğretmenimiz bize her zarfın etrafına daire çizmemizi istedi.",
+   "Bir zarfın vurguyu nasıl değiştirdiğini anlamak, dil öğrenenlerin görüşlerini daha kesin ifade etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "sıklık zarfı",
+   "tarz zarfı",
+   "zarfın yerleşimi"
+  ],
+  "tip": "adverb isimdir. 'Zarfa ait' anlamında sıfat olarak adverbial kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "owe",
+  "senses": [
+   "borçlu olmak",
+   "yükümlü olmak",
+   "borçlu olmak; sayesinde olmak"
+  ],
+  "ex": [
+   "Biletler için hâlâ kız kardeşime borcum var.",
+   "Birçok başarılı öğrenci ilerlemelerini olağanüstü doğal yeteneğe değil, tutarlı çalışmaya borçludur."
+  ],
+  "col": [
+   "birine para borcu olmak",
+   "özür borcu olmak",
+   "büyük minnet borcu olmak",
+   "başarıyı ...e borçlu olmak"
+  ],
+  "tip": "owe A to B hem B'ye A borcu olduğunu hem de A'nın B sayesinde olduğunu söyleyebilir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "whisky",
+  "senses": [
+   "viski"
+  ],
+  "ex": [
+   "Rehber, viski yaşlandırmak için kullanılan fıçıları bize gösterdi.",
+   "Geleneksel viski üretimi turistleri kırsal bölgelere çeker ve tarım, imalat ve konaklama sektörlerinde istihdamı destekler."
+  ],
+  "col": [
+   "İskoç viskisi",
+   "malt viski",
+   "viski damıtımevi"
+  ],
+  "tip": "İskoç viskisi için whisky, İrlanda ve Amerikan viskisi için whiskey yazımı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "nation",
+  "senses": [
+   "ülke; millet",
+   "ulus; halk"
+  ],
+  "ex": [
+   "Ülke genelindeki taraftarlar takımın zaferini kutladı.",
+   "Daha zengin ülkeler, yoksul bölgelerde temiz suya erişimi iyileştirmeye yönelik uluslararası çabaları desteklemelidir."
+  ],
+  "col": [
+   "gelişmekte olan ülke",
+   "bütün ulus",
+   "ev sahibi ülke",
+   "ulus inşası"
+  ],
+  "tip": "nation halkı ve kültürü vurgular; state ise çoğunlukla siyasi yapıyı ya da devleti ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "perform",
+  "senses": [
+   "sahnelemek; oynamak",
+   "yerine getirmek; uygulamak",
+   "performans göstermek"
+  ],
+  "ex": [
+   "Korumuz bu akşam toplum merkezinde sahne alacak.",
+   "Okullar düzenli geri bildirim ve bireysel destek sağladığında öğrenciler genellikle akademik olarak daha iyi performans gösterir."
+  ],
+  "col": [
+   "sahnede performans göstermek",
+   "bir görevi yerine getirmek",
+   "iyi performans göstermek",
+   "ameliyat yapmak"
+  ],
+  "tip": "Sahne performansı için de, görev ya da yükümlülük yerine getirmek için de kullanılır. Bu iki anlamı bağlamdan ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "lounge",
+  "senses": [
+   "bekleme salonu",
+   "oturma odası",
+   "keyifle uzanmak"
+  ],
+  "ex": [
+   "Odamız hazır olana kadar salonda bekledik.",
+   "Rahat havalimanı salonları, küçük çocuklarla seyahat eden yolcular için uzun yolculukları daha az yorucu hale getirebilir."
+  ],
+  "col": [
+   "kalkış salonu",
+   "otel salonu",
+   "etrafta tembelce oturmak"
+  ],
+  "tip": "İngiliz İngilizcesinde evdeki oturma odası anlamına da gelir. Fiil olarak genellikle around ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "deer",
+  "senses": [
+   "geyik"
+  ],
+  "ex": [
+   "Bir geyik sessizce orman patikasının yanında duruyordu.",
+   "Ormanlık habitatların korunması sağlıklı geyik popülasyonlarını sürdürmeye yardımcı olur, ancak aşırı otlamayı önlemek için dikkatli yönetim gerekir."
+  ],
+  "col": [
+   "bir sürü geyik",
+   "geyik boynuzları",
+   "vahşi geyikler"
+  ],
+  "tip": "deer tekil ve çoğulda aynı biçimdedir: one deer, several deer. 'Deers' şeklinde yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "importance",
+  "senses": [
+   "önem"
+  ],
+  "ex": [
+   "Anahtarlarımı kaybetmek bana yedek anahtarın önemini öğretti.",
+   "Okullar yalnızca sınav sonuçlarına odaklanmak yerine eleştirel düşünmenin önemini vurgulamalıdır."
+  ],
+  "col": [
+   "önem vermek",
+   "büyük önem taşıyan",
+   "önemini kavramak"
+  ],
+  "tip": "importance sayılamaz, bu yüzden 'an importance' gibi kullanılmaz. Önem vermek için attach importance to kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "intend",
+  "senses": [
+   "niyet etmek; planlamak",
+   "amaçlamak; tasarlamak"
+  ],
+  "ex": [
+   "Bu hafta sonu mutfağı boyamayı bitirmeyi planlıyorum.",
+   "Belediye, özel araç kullanımına bağımlılığı azaltmak için toplu taşıma hizmetlerini genişletmeyi planlıyor."
+  ],
+  "col": [
+   "bir şeyi yapmayı planlamak",
+   "...için tasarlanmış olmak",
+   "...olmayı amaçlamak"
+  ],
+  "tip": "intend to + fiil 'yapmayı planlamak' anlamındadır. be intended for ise bir şeyin belirli bir kişi ya da amaç için hazırlandığını söyler.",
+  "note": ""
+ },
+ {
+  "id": "squash",
+  "senses": [
+   "ezmek; sıkıştırmak",
+   "skuaş",
+   "kabak"
+  ],
+  "ex": [
+   "Ağır alışveriş torbalarının altında ekmeği ezme.",
+   "Düzenli skuaş oynamak kardiyovasküler dayanıklılığı artırabilir; ancak yeni başlayanlar egzersiz yoğunluğunu kademeli olarak artırmalıdır."
+  ],
+  "col": [
+   "düzleştirerek ezmek",
+   "sıkıştırarak sokmak",
+   "skuaş oynamak",
+   "tereyağı kabağı"
+  ],
+  "tip": "İngiliz İngilizcesinde squash, su ile seyreltilerek içilen meyve konsantresi anlamına da gelir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "sore",
+  "senses": [
+   "ağrılı; sızlayan",
+   "yara; çıban",
+   "gücenik; kırgın"
+  ],
+  "ex": [
+   "Dünkü uzun yürüyüşten sonra bacaklarım ağrıyor.",
+   "Ofis çalışanları düzenli ara vermeden uzun süre otururlarsa kas ağrısı yaşayabilir."
+  ],
+  "col": [
+   "boğaz ağrısı",
+   "kas ağrısı",
+   "ağrı hissetmek"
+  ],
+  "tip": "sore çoğunlukla vücut bölümünün önünde sıfat olarak kullanılır: a sore throat. Bu kalıbı birlikte öğrenmek faydalıdır.",
+  "note": ""
+ },
+ {
+  "id": "push-up",
+  "senses": [
+   "şınav"
+  ],
+  "ex": [
+   "Kollarım titremeye başlamadan önce bir şınav çekebildim.",
+   "Şınav gibi basit egzersizler, pahalı spor salonu üyeliklerine para vermeden güç kazanmayı mümkün kılar."
+  ],
+  "col": [
+   "şınav çekmek",
+   "bir set şınav",
+   "duvar şınavı"
+  ],
+  "tip": "Sayılabilir bir isimdir; çoğulu push-ups'tır. İngiliz İngilizcesinde press-up da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "prediction",
+  "senses": [
+   "tahmin; kehanet"
+  ],
+  "ex": [
+   "Tahminin doğruydu: bütün öğleden sonra yağmur yağdı.",
+   "Gelecekteki enerji talebine ilişkin doğru tahminler, güvenilir ve sürdürülebilir elektrik arzını planlamak için çok önemlidir."
+  ],
+  "col": [
+   "tahminde bulunmak",
+   "doğru tahmin",
+   "tahmin modeli",
+   "tahminin gerçekleşmesi"
+  ],
+  "tip": "Tahminde bulunmak için make a prediction kullanılır; do ile kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "figure",
+  "senses": [
+   "rakam; sayı",
+   "kişi; figür",
+   "sanmak; tahmin etmek"
+  ],
+  "ex": [
+   "Faturadaki son rakamı kontrol etti.",
+   "Son işgücü istatistikleri, toplu taşımaya yapılan yatırımın yerel çalışanlar için önemli fırsatlar yaratabileceğini gösteriyor."
+  ],
+  "col": [
+   "satış rakamları",
+   "önde gelen bir isim",
+   "anlamak; çözmek",
+   "kaba bir rakam"
+  ],
+  "tip": "Resmi verilerde genellikle çoğul figures kullanılır. figure out ise bir şeyi anlamak ya da çözmek demektir.",
+  "note": ""
+ }
+]

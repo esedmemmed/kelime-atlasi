@@ -1,0 +1,275 @@
+[
+ {
+  "id": "struggle",
+  "senses": [
+   "çabalamak; uğraşmak",
+   "debelenmek; direnmek",
+   "çaba; mücadele"
+  ],
+  "ex": [
+   "Ağır torbaları merdivenlerden çıkarmak için epey uğraştım.",
+   "Kiralar ücretlerin çok üzerinde olan şehirlerde birçok genç yetişkin uygun fiyatlı konut bulmakta zorlanıyor."
+  ],
+  "col": [
+   "bir şeyi yapmakta zorlanmak",
+   "bir şeyle boğuşmak",
+   "hayatta kalma mücadelesi",
+   "zorlu bir mücadele"
+  ],
+  "tip": "struggle to + fiil bir şeyi yapmakta zorlanmak anlamına gelir; başarıyı garanti etmez. Sorunla uğraşmak için struggle with kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "regional",
+  "senses": [
+   "bölgesel"
+  ],
+  "ex": [
+   "Pazarda yakındaki köylerde üretilen yöresel peynirler satılıyor.",
+   "İstihdam olanaklarındaki bölgesel farklılıklar, genç yetişkinleri kırsal topluluklardan büyük şehirlere taşınmaya sık sık yöneltiyor."
+  ],
+  "col": [
+   "bölgesel kalkınma",
+   "bölgesel farklılıklar",
+   "bölgesel ekonomi",
+   "bölgesel işbirliği"
+  ],
+  "tip": "regional, local (yerel) ile national (ulusal) arasında bir ölçeği anlatır; bir bölgenin ya da coğrafi alanın genel özelliklerini belirtir.",
+  "note": ""
+ },
+ {
+  "id": "dependable",
+  "senses": [
+   "güvenilir"
+  ],
+  "ex": [
+   "Eski bisikletim yağmurlu havalarda hâlâ güvenilir.",
+   "Güvenilir toplu taşıma, çalışanların işyerlerine düzenli ulaşmasını sağlar ve özel araba kullanımına olan bağımlılığı azaltır."
+  ],
+  "col": [
+   "güvenilir hizmet",
+   "güvenilir meslektaş",
+   "güvenilir kaynak"
+  ],
+  "tip": "dependable güvenilir anlamına gelir; dependent ise bağımlı demektir. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "inaccurate",
+  "senses": [
+   "hatalı; yanlış"
+  ],
+  "ex": [
+   "Harita hatalıydı, bu yüzden dönüşü kaçırdık.",
+   "İnternetteki hatalı bilgiler kamuoyunun güvenini zedeleyebilir ve insanların yeterince bilgi sahibi olmadan karar vermesine yol açabilir."
+  ],
+  "col": [
+   "hatalı bilgi",
+   "hatalı tahmin",
+   "olgusal olarak yanlış"
+  ],
+  "tip": "inaccurate, bilgi ya da ölçümün tam doğru olmadığını anlatır; kasıtlı yalanı değil, hata payını vurgular.",
+  "note": ""
+ },
+ {
+  "id": "fabric",
+  "senses": [
+   "kumaş; dokuma",
+   "toplumsal doku; yapı"
+  ],
+  "ex": [
+   "Bu yumuşak kumaş yaz için rahat bir elbise yapar.",
+   "Toplum merkezleri farklı kültürel ve ekonomik geçmişlerden gelen sakinleri bir araya getirerek toplumsal dokuyu güçlendirir."
+  ],
+  "col": [
+   "pamuklu kumaş",
+   "sentetik kumaş",
+   "toplumsal doku"
+  ],
+  "tip": "Genel anlamda kumaş maddesi sayılamaz; farklı türlerden söz edilirken fabrics kullanılabilir. Mecazi anlamda toplumsal yapıyı da ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "oral",
+  "senses": [
+   "sözlü; şifahi",
+   "ağıza ait; ağızdan"
+  ],
+  "ex": [
+   "Öğretmenimiz her sunumdan sonra bize sözlü geri bildirim verdi.",
+   "Tarihi olayların nadiren yazıya geçirildiği topluluklarda sözlü gelenekler kültürel bilgiyi yaşatır."
+  ],
+  "col": [
+   "sözlü sınav",
+   "sözlü gelenek",
+   "ağız ve diş sağlığı",
+   "ağızdan alınan ilaç"
+  ],
+  "tip": "oral hem sözlü hem de ağızla ilgili anlamına gelir. Bağlama bakarak hangi anlamın kastedildiğini belirleyin.",
+  "note": ""
+ },
+ {
+  "id": "delightful",
+  "senses": [
+   "çok hoş; keyifli"
+  ],
+  "ex": [
+   "Nehrin kenarında çok hoş küçük bir kafe bulduk.",
+   "İyi tasarlanmış kamusal bahçeler, sakinlerin dinlenebileceği ve mahalleleriyle daha güçlü bağlar kurabileceği keyifli alanlar sunar."
+  ],
+  "col": [
+   "keyifli bir deneyim",
+   "hoş bir sürpriz",
+   "hoş bir yer"
+  ],
+  "tip": "delightful bir şeyin keyifli olduğunu anlatır; delighted ise kişinin sevindiğini belirtir (I'm delighted gibi).",
+  "note": ""
+ },
+ {
+  "id": "strip",
+  "senses": [
+   "şerit; ince parça",
+   "soymak; sıyırmak",
+   "elinden almak; yoksun bırakmak"
+  ],
+  "ex": [
+   "Kağıdı el işi projemiz için şeritler hâlinde kesin.",
+   "Tarım arazilerinin kenarlarına kır çiçeklerinden şeritler ekmek, böceklere yaşam alanı sağlayabilir ve yerel biyolojik çeşitliliği destekleyebilir."
+  ],
+  "col": [
+   "bir kağıt şeridi",
+   "boyayı sıyırmak",
+   "birinin haklarını elinden almak"
+  ],
+  "tip": "strip sözcüğünün geçmiş zamanı stripped'dır. Birinden bir şeyi almak için strip sb of sth kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "subjective",
+  "senses": [
+   "öznel"
+  ],
+  "ex": [
+   "Lezzet öznel bir şeydir, bu yüzden hangi rengi seviyorsan onu seç.",
+   "Öğrenci geri bildirimleri değerli olsa da öğretim kalitesini değerlendirmede tek dayanak öznel görüşler olmamalıdır."
+  ],
+  "col": [
+   "öznel yargı",
+   "öznel deneyim",
+   "son derece öznel"
+  ],
+  "tip": "subjective kişisel duygu ve görüşlere dayanır; objective ise bağımsız olgulara dayanır. İkisi zıt anlamlıdır.",
+  "note": ""
+ },
+ {
+  "id": "impossibility",
+  "senses": [
+   "imkânsızlık; olanaksızlık"
+  ],
+  "ex": [
+   "Bu kanepeyi tek başına yukarı taşımak imkânsız bir iştir.",
+   "Her doğal afeti önceden tahmin etmenin imkânsızlığı, dayanıklı altyapı ve acil durum planlamasının önemini gösteriyor."
+  ],
+  "col": [
+   "pratik açıdan imkânsızlık",
+   "fiziksel imkânsızlık",
+   "bir şeyi yapmanın imkânsızlığı"
+  ],
+  "tip": "Genel durum olarak sayılamaz; 'imkânsız bir şey' anlamında an impossibility biçiminde sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "idle",
+  "senses": [
+   "boş; kullanılmayan",
+   "tembel; boş boş",
+   "rölantide çalışmak"
+  ],
+  "ex": [
+   "Dikiş makinesi geçen kıştan beri boşta duruyor.",
+   "Teslimat araçlarının okulların önünde rölantide bekletilmesi hava kirliliğine yol açar ve çocukları gereksiz sağlık risklerine maruz bırakır."
+  ],
+  "col": [
+   "boş durmak",
+   "boşta duran makine",
+   "rölantide çalışan motor",
+   "boş dedikodu"
+  ],
+  "tip": "idle hem kullanılmayan eşyalar hem de motorun rölantide çalışması için kullanılır. İnsanlar için 'tembel' anlamı daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "institution",
+  "senses": [
+   "kurum; kuruluş",
+   "toplumsal kurum; gelenek"
+  ],
+  "ex": [
+   "Ablam evimize yakın saygın bir kurumda çalışıyor.",
+   "Her eğitim kurumu, engelli öğrenciler için erişilebilir olanaklar ve uygun destek sağlamalıdır."
+  ],
+  "col": [
+   "eğitim kurumu",
+   "finans kuruluşu",
+   "evlilik kurumu"
+  ],
+  "tip": "Hem okul ya da banka gibi somut kuruluşları hem de evlilik gibi toplumsal kurumları ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "basin",
+  "senses": [
+   "leğen; lavabo",
+   "havza",
+   "çanak; çöküntü arazi"
+  ],
+  "ex": [
+   "Yüzünü yıkamak için leğeni suyla doldurdu.",
+   "Nehir havzası boyunca yapılan tarımsal genişleme, tatlı su kaynakları üzerindeki baskıyı artırdı ve doğal yaşam alanlarına zarar verdi."
+  ],
+  "col": [
+   "lavabo",
+   "nehir havzası",
+   "drenaj havzası"
+  ],
+  "tip": "river basin yalnızca nehir yatağını değil, nehrin ve kollarının suyunu topladığı tüm alanı kapsar.",
+  "note": ""
+ },
+ {
+  "id": "vertical",
+  "senses": [
+   "dikey; dik",
+   "dikey çizgi; dikey konum"
+  ],
+  "ex": [
+   "Perdelerin dikey çizgileri odayı daha uzun gösteriyor.",
+   "Dikey tarım, şehirlerin geleneksel yöntemlere göre daha az arazi kullanarak taze sebzeleri yerel olarak üretmesine yardımcı olabilir."
+  ],
+  "col": [
+   "dikey çizgi",
+   "dikey çizgiler",
+   "dikey tarım",
+   "dikey eksen"
+  ],
+  "tip": "vertical dikey yönü, horizontal ise yatay yönü anlatır. İkisini zıt kavramlar olarak aklınızda tutun.",
+  "note": ""
+ },
+ {
+  "id": "eastward",
+  "senses": [
+   "doğuya doğru",
+   "doğuya yönelik; doğuya doğru"
+  ],
+  "ex": [
+   "Sabah güneşi yüzlerimizi ısıtana kadar doğuya doğru sürdük.",
+   "Şehrin doğuya doğru genişlemesi toplu taşıma talebini artırdı ve çevredeki tarım arazileri üzerinde baskı oluşturdu."
+  ],
+  "col": [
+   "doğuya doğru hareket etmek",
+   "doğuya doğru seyahat etmek",
+   "doğuya doğru genişleme"
+  ],
+  "tip": "eastward hem zarf hem sıfat olarak kullanılır; eastwards ise yalnızca zarf olarak kullanılır.",
+  "note": ""
+ }
+]

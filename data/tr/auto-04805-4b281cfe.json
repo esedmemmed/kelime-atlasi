@@ -1,0 +1,281 @@
+[
+ {
+  "id": "stack",
+  "senses": [
+   "yığın; istif",
+   "istiflemek; üst üste koymak",
+   "yığın; çok miktar"
+  ],
+  "ex": [
+   "Temiz tabakların bir yığını lavabonun yanında duruyordu.",
+   "Kütüphaneler, ortak öğrenme için daha fazla alan açmak amacıyla eski dergi ciltlerini giderek daha çok şube dışında saklıyor."
+  ],
+  "col": [
+   "bir yığın kitap",
+   "birikmek; üst üste yığılmak",
+   "yığın yığın iş"
+  ],
+  "tip": "stacks of 'çok miktarda' anlamında gayriresmî bir kullanımdır; resmî yazıda 'a large amount of' tercih edilebilir.",
+  "note": ""
+ },
+ {
+  "id": "sophisticated",
+  "senses": [
+   "gelişmiş; karmaşık",
+   "görgülü; bilgili"
+  ],
+  "ex": [
+   "Bu gelişmiş kamera, az ışıkta ayarlarını otomatik olarak değiştirir.",
+   "Gelişmiş izleme sistemleri, araştırmacıların yoğun nüfuslu şehirlerdeki hava kalitesindeki küçük değişiklikleri fark etmesine olanak tanır."
+  ],
+  "col": [
+   "gelişmiş teknoloji",
+   "karmaşık ekipman",
+   "ayrıntılı analiz"
+  ],
+  "tip": "Cihaz ve sistemler için gelişmiş, karmaşık anlamına gelir; insanlar için ise görgülü, kültürlü anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "herbal",
+  "senses": [
+   "bitkisel"
+  ],
+  "ex": [
+   "Genellikle yatmadan önce bitki çayı içerim.",
+   "Bitkisel tedaviler yaygın olarak kullanılsa da güvenlikleri ve etkinlikleri güvenilir bilimsel araştırmalarla değerlendirilmelidir."
+  ],
+  "col": [
+   "bitki çayı",
+   "bitkisel tıp",
+   "bitkisel ilaç"
+  ],
+  "tip": "İngiliz İngilizcesinde başındaki h sesi okunur; Amerikan İngilizcesinde genellikle okunmaz. Telaffuzdaki bu farka dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "tenant",
+  "senses": [
+   "kiracı"
+  ],
+  "ex": [
+   "Yeni kiracı balkon için bitkiler getirdi.",
+   "Açık kira sözleşmeleri, sorumlulukları belirleyerek hem kiracıyı hem de ev sahibini korur."
+  ],
+  "col": [
+   "yeni kiracı",
+   "olası kiracı",
+   "kiracı hakları"
+  ],
+  "tip": "tenant kiracıdır, landlord ise ev sahibidir. Bu iki kelime birbirinin karşılığıdır ve birlikte öğrenilmesi faydalıdır.",
+  "note": ""
+ },
+ {
+  "id": "manual",
+  "senses": [
+   "elle yapılan; manuel",
+   "bedensel; fiziksel",
+   "kılavuz; el kitabı"
+  ],
+  "ex": [
+   "Bu manuel kahve değirmenini çevirmek biraz çaba gerektirir.",
+   "Otomasyon üretkenliği artırsa da birçok sektör karmaşık işler için hâlâ elle yapılan emeğe dayanır."
+  ],
+  "col": [
+   "el emeği",
+   "manuel kontrol",
+   "kullanım kılavuzu",
+   "kullanıcı kılavuzu"
+  ],
+  "tip": "Sıfat olarak elle yapılan veya bedensel, isim olarak ise kılavuz anlamına gelir. Bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "expertise",
+  "senses": [
+   "uzmanlık; ihtisas"
+  ],
+  "ex": [
+   "Bu eski saatı tamir etmek için uzmanlığınıza ihtiyacımız var.",
+   "Üniversiteler, yenilenebilir enerji ve sürdürülebilir üretim alanındaki uzmanlıklarını paylaşarak yerel işletmelere destek olabilir."
+  ],
+  "col": [
+   "teknik uzmanlık",
+   "...alanında uzmanlık",
+   "uzmanlık geliştirmek",
+   "uzmanlıktan yararlanmak"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'bir uzmanlık' veya 'uzmanlıklar' gibi çoğul kullanılmaz. Alan belirtmek için expertise in kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "competitive",
+  "senses": [
+   "rekabetçi; rekabet dolu",
+   "hırslı; yarışçı",
+   "rekabet edebilir"
+  ],
+  "ex": [
+   "Hafta sonu futbol ligimiz şaşırtıcı derecede rekabetçi hale geldi.",
+   "Rekabetin yoğun olduğu iş piyasasında mezunların güçlü akademik niteliklerin yanında pratik deneyime de ihtiyacı var."
+  ],
+  "col": [
+   "rekabetçi bir pazar",
+   "rekabetçi fiyatlar",
+   "rekabet avantajı",
+   "son derece rekabetçi"
+  ],
+  "tip": "İnsanlar için 'hırslı, yarışmacı'; fiyat ve pazar için 'rekabetçi' anlamında kullanılır. Anlamı bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "summit",
+  "senses": [
+   "zirve; doruk",
+   "zirve toplantısı; üst düzey görüşme"
+  ],
+  "ex": [
+   "Güneş doğmadan hemen önce karlı zirveye ulaştık.",
+   "İklim zirvesinde ulusal liderler, emisyonları azaltmaya ve savunmasız toplulukları desteklemeye yönelik somut önlemleri görüştü."
+  ],
+  "col": [
+   "zirveye ulaşmak",
+   "iklim zirvesi",
+   "zirve düzenlemek",
+   "zirve görüşmeleri"
+  ],
+  "tip": "Dağ zirvesi için genellikle the summit of, liderler toplantısı için ise a summit kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spirit",
+  "senses": [
+   "azim; cesaret; moral",
+   "ruh; hayalet",
+   "sert içki; alkol"
+  ],
+  "ex": [
+   "Kaybetmemize rağmen takımımız büyük bir azim gösterdi.",
+   "Mahalle projeleri iş birliği ruhunu güçlendirebilir ve sakinleri yaşadıkları semtlerle gurur duymaya teşvik edebilir."
+  ],
+  "col": [
+   "takım ruhu",
+   "savaş azmi",
+   "keyfi yerinde",
+   "iş birliği ruhu"
+  ],
+  "tip": "'Ruh hali' anlamında ve 'alkollü içki' anlamında genellikle çoğul spirits kullanılır. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "wealth",
+  "senses": [
+   "servet; zenginlik",
+   "bolluk; bol miktar"
+  ],
+  "ex": [
+   "Serveti, geniş bir ev satın almasına olanak sağladı.",
+   "Servetin daha adil dağıtılması, eğitime erişimi artırabilir ve toplumdaki eşitsizliği azaltabilir."
+  ],
+  "col": [
+   "servet biriktirmek",
+   "servetin dağılımı",
+   "bol deneyim"
+  ],
+  "tip": "Genellikle sayılamaz; a wealth of ile 'çok miktarda değerli' anlamı verilir. 'Wealths' gibi çoğul kullanımdan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "reduction",
+  "senses": [
+   "azalma; düşüş; indirim"
+  ],
+  "ex": [
+   "Mağaza kış montlarında cömert bir indirim sundu.",
+   "Gıda israfında önemli bir azalma, hane halkı giderlerini düşürebilir ve çöp depolama alanları üzerindeki baskıyı azaltabilir."
+  ],
+  "col": [
+   "maliyetlerde azalma",
+   "önemli bir azalma",
+   "emisyon azaltımları",
+   "fiyat indirimi"
+  ],
+  "tip": "reduction in azalan şeyi, of ise azalmanın miktarını belirtir. Fiil olan reduce ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "vary",
+  "senses": [
+   "değişmek; farklılık göstermek",
+   "çeşitlendirmek; değiştirmek"
+  ],
+  "ex": [
+   "Otobüs ücretleri ne kadar uzağa gittiğinize bağlı olarak değişir.",
+   "Uygun fiyatlı konuta erişim bölgeler arasında önemli ölçüde farklılık gösterebilir ve genç profesyonellerin nerede yaşamayı seçtiğini etkileyebilir."
+  ],
+  "col": [
+   "önemli ölçüde farklılık göstermek",
+   "yerden yere değişmek",
+   "...e göre değişmek",
+   "beslenmeni çeşitlendirmek"
+  ],
+  "tip": "vary from A to B bir aralığı, vary in ise belirli bir yönden farklılığı anlatır. Fiil ile varied sıfatını karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "mid-term",
+  "senses": [
+   "dönem ortasındaki; ara",
+   "ara sınav; vize"
+  ],
+  "ex": [
+   "Vize sınavlarımız bahar tatilinden sonra başlıyor.",
+   "Vize değerlendirmeleri, öğretmenlerin öğrenciler final sınavına girmeden önce öğrenme güçlüklerini belirlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "vize sınavı",
+   "ara değerlendirme",
+   "ara seçimler"
+  ],
+  "tip": "Sıfat olarak dönem ortasındaki, isim olarak ara sınav anlamına gelir. Bu kelime midterm biçiminde de yazılabilir; Amerikan İngilizcesinde daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "obligation",
+  "senses": [
+   "yükümlülük; sorumluluk"
+  ],
+  "ex": [
+   "Burada bir şey satın almak zorunda değilsiniz.",
+   "İşverenlerin, güvenli çalışma koşulları sağlamak ve çalışanları önlenebilir zararlardan korumak için yasal bir yükümlülüğü vardır."
+  ],
+  "col": [
+   "yasal yükümlülük",
+   "ahlaki sorumluluk",
+   "yükümlülüğü yerine getirmek",
+   "hiçbir yükümlülüğü olmamak"
+  ],
+  "tip": "Genellikle have an obligation to do biçiminde, 'yapmak zorunda olmak' anlamında kullanılır. Bu kalıbı öğrenmek yararlıdır.",
+  "note": ""
+ },
+ {
+  "id": "regard",
+  "senses": [
+   "saymak; görmek",
+   "saygı; ilgi",
+   "selam; selamlar"
+  ],
+  "ex": [
+   "Bu küçük kafeyi ikinci evim olarak görüyorum.",
+   "Politika yapıcılar, modern eğitime eşit katılım için güvenilir internet hizmetlerine erişimi giderek daha çok temel bir gereklilik olarak görüyor."
+  ],
+  "col": [
+   "olarak görmek",
+   "yüksek saygı",
+   "...ile ilgili olarak",
+   "selamlarımı iletmek"
+  ],
+  "tip": "'A'yı B olarak görmek' için regard A as B kullanılır; as'den sonra to be eklenmez. Çoğul regards selam anlamında kullanılır.",
+  "note": ""
+ }
+]

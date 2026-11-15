@@ -1,0 +1,262 @@
+[
+ {
+  "id": "preoperative",
+  "senses": [
+   "ameliyat öncesi"
+  ],
+  "ex": [
+   "Yarın yapılacak ameliyattan önce hemşire bana ameliyat öncesi kontrollerimi anlattı.",
+   "Kapsamlı bir ameliyat öncesi değerlendirme, tıp ekiplerinin olası riskleri belirlemesine ve her hasta için uygun bakımı planlamasına yardımcı olur."
+  ],
+  "col": [
+   "ameliyat öncesi değerlendirme",
+   "ameliyat öncesi bakım",
+   "ameliyat öncesi hazırlık"
+  ],
+  "tip": "pre- eki 'önce' anlamı taşır; postoperative ise 'ameliyat sonrası' demektir. Tıbbi metinlerde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "inherent",
+  "senses": [
+   "doğal; içsel"
+  ],
+  "ex": [
+   "Basit ev onarımları bile bazı doğal riskler içerir.",
+   "Politika yapıcılar, ekonomik büyümenin toplumsal ilerleme ve refahın bir ölçüsü olarak taşıdığı içsel sınırlılıkları kabul etmelidir."
+  ],
+  "col": [
+   "doğal riskler",
+   "içsel sınırlılıklar",
+   "...e özgü",
+   "içsel değer"
+  ],
+  "tip": "Genellikle inherent in kalıbıyla 'X'in doğasında olan' anlamında kullanılır. Sonradan kazanılan özellikler için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "empirical",
+  "senses": [
+   "deneysel; ampirik"
+  ],
+  "ex": [
+   "Bahçe denememiz, kompostun bitkilere yardımcı olduğuna dair deneysel kanıt sağladı.",
+   "Eğitim politikaları, çocukların nasıl öğrendiğine dair varsayımlar yerine ampirik araştırmalara dayanmalıdır."
+  ],
+  "col": [
+   "deneysel kanıt",
+   "ampirik araştırma",
+   "deneysel veri"
+  ],
+  "tip": "Teoriye değil gözleme ve deneye dayalı kanıta işaret eder; kişisel deneyim anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "waterfront",
+  "senses": [
+   "su kıyısı; sahil şeridi"
+  ],
+  "ex": [
+   "Erken akşam yemeğinden sonra sahil boyunca yürüdük.",
+   "Kıyı şeridinin yeniden geliştirilmesi, mevcut sakinler zorla yerinden edilmediği sürece çekici kamusal alanlar yaratabilir."
+  ],
+  "col": [
+   "sahil boyunca",
+   "kıyı bölgesi geliştirmesi",
+   "deniz kenarında restoran"
+  ],
+  "tip": "Şehirlerde su kenarındaki bölgeyi anlatır; mutlaka plaj ya da açık deniz anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "redistribute",
+  "senses": [
+   "yeniden dağıtmak"
+  ],
+  "ex": [
+   "Battaniyeleri herkes birer tane alsın diye yeniden dağıttık.",
+   "Artan vergilendirme, serveti yeniden dağıtmaya ve hükümetlerin dezavantajlı topluluklara yönelik temel hizmetleri finanse etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "serveti yeniden dağıtmak",
+   "geliri yeniden dağıtmak",
+   "kaynakları yeniden dağıtmak"
+  ],
+  "tip": "Mevcut dağılımı değiştirmek anlamına gelir; her zaman eşit biçimde paylaştırmak demek değildir.",
+  "note": ""
+ },
+ {
+  "id": "compliance",
+  "senses": [
+   "uyum; uyma"
+  ],
+  "ex": [
+   "Müfettiş, mutfağımızı hijyen kurallarına uyup uymadığı açısından kontrol etti.",
+   "Düzenli denetimler, çevre yönetmeliklerine uyumu artırabilir ve endüstriyel tesislerden kaynaklanan kirliliği azaltabilir."
+  ],
+  "col": [
+   "yönetmeliklere uyum",
+   "uyumu sağlamak",
+   "...ile uyum içinde"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir ve compliance with + kural kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "phony",
+  "senses": [
+   "sahte; yapmacık",
+   "sahtekâr; yalancı"
+  ],
+  "ex": [
+   "Biz ayrılır ayrılmaz onun yapmacık gülümsemesi kayboldu.",
+   "Tüketiciler, sağlık ürünlerinin faydalarını abartan sahte çevrimiçi yorumlara karşı dikkatli olmalıdır."
+  ],
+  "col": [
+   "yapmacık gülümseme",
+   "sahte bahane",
+   "sahte iddialar"
+  ],
+  "tip": "Gayriresmi, konuşma dilinde kullanılan bir kelimedir. İngiliz İngilizcesinde phoney şeklinde de yazılır.",
+  "note": ""
+ },
+ {
+  "id": "meticulously",
+  "senses": [
+   "titizlikle; itinayla"
+  ],
+  "ex": [
+   "Saatin her küçük parçasını titizlikle temizledi.",
+   "Araştırmacılar, diğer ekiplerin sonuçları tekrarlayıp doğrulayabilmesi için işlemlerini titizlikle kaydetmelidir."
+  ],
+  "col": [
+   "titizlikle planlanmış",
+   "titizlikle belgelenmiş",
+   "titizlikle incelemek"
+  ],
+  "tip": "Her ayrıntıya gösterilen büyük özeni anlatır. Korkaklık ya da çekingenlik anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "spherical",
+  "senses": [
+   "küresel; küre biçiminde"
+  ],
+  "ex": [
+   "Yemek masasının üzerinde küre biçiminde bir lamba asılıydı.",
+   "Araştırmacılar, kirleticilerin su filtreleme sistemlerinde nasıl hareket ettiğini incelemek için farklı boyutlarda küresel parçacıklar kullanır."
+  ],
+  "col": [
+   "küresel şekil",
+   "küresel parçacıklar",
+   "küresel yüzey"
+  ],
+  "tip": "Üç boyutlu top biçimini anlatır; düz daire için circular kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "specification",
+  "senses": [
+   "teknik özellik; şartname"
+  ],
+  "ex": [
+   "Yeni dizüstü bilgisayar almadan önce teknik özelliklerine bakın.",
+   "Açık bina şartnameleri, yeni konutların güvenlik standartlarına uymasını ve enerjiyi verimli kullanmasını sağlamaya yardımcı olur."
+  ],
+  "col": [
+   "teknik özellikler",
+   "şartnameye uygun olmak",
+   "tasarım şartnamesi",
+   "şartnameye göre"
+  ],
+  "tip": "Ürün parametreleri için genellikle çoğul biçimi kullanılır. Konuşmada specs kısaltması da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "acute",
+  "senses": [
+   "şiddetli; ciddi",
+   "akut; ani başlayan",
+   "keskin; çabuk fark eden"
+  ],
+  "ex": [
+   "Köy geçen yaz ciddi bir su kıtlığıyla karşılaştı.",
+   "Uygun fiyatlı konut eksikliği, birçok genç işçiyi işyerlerinden uzakta yaşamaya zorluyor."
+  ],
+  "col": [
+   "ciddi kıtlık",
+   "şiddetli ağrı",
+   "akut hastalık",
+   "keskin farkındalık"
+  ],
+  "tip": "Hastalıklarda chronic (kronik) ile karşıtlık oluşturur; ani başlayan ve kısa süren durumları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "microcosm",
+  "senses": [
+   "minyatür; küçük evren"
+  ],
+  "ex": [
+   "Yoğun mutfağımız, aile hayatının bir minyatürü.",
+   "Çeşitli bir kentsel mahalle, toplumun daha geniş fırsat ve zorluklarının bir yansıması olabilir."
+  ],
+  "col": [
+   "toplumun bir minyatürü",
+   "küçük ölçekte",
+   "bir minyatür olmak"
+  ],
+  "tip": "a microcosm of kalıbıyla bir şeyin özünü küçük ölçekte gösteren örneği anlatır; sadece küçük şey demek değildir.",
+  "note": ""
+ },
+ {
+  "id": "retrospect",
+  "senses": [
+   "geriye dönüp bakma"
+  ],
+  "ex": [
+   "Geriye dönüp bakınca, fazladan çorap almak harika bir fikirmiş.",
+   "Geriye dönüp bakıldığında, toplu taşımaya daha önce yatırım yapılsaydı şehrin bugünkü trafik sorunlarının birçoğu önlenebilirdi."
+  ],
+  "col": [
+   "geriye dönüp bakınca",
+   "yalnızca sonradan"
+  ],
+  "tip": "Neredeyse her zaman in retrospect kalıbıyla kullanılır ve sonradan düşünüldüğünde anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "facilitate",
+  "senses": [
+   "kolaylaştırmak"
+  ],
+  "ex": [
+   "Bu kayar kapılar, tekerlekli sandalye kullananların erişimini kolaylaştırır.",
+   "Dijital platformlar, farklı ülkelerdeki öğrenciler arasında iş birliğini kolaylaştırabilir; böylece fikirlerini daha rahat paylaşabilirler."
+  ],
+  "col": [
+   "iletişimi kolaylaştırmak",
+   "öğrenmeyi kolaylaştırmak",
+   "erişimi kolaylaştırmak"
+  ],
+  "tip": "Isim ya da -ing biçimiyle kullanılır. facilitate someone to do yapısı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "recur",
+  "senses": [
+   "yinelenmek; tekrarlanmak"
+  ],
+  "ex": [
+   "Bu baş ağrıları tekrarlarsa lütfen doktorunuza başvurun.",
+   "Kentlerin aşırı araba kullanımının altındaki nedenleri ele almaması hâlinde trafik sıkışıklığı tekrar etmeye devam edecek."
+  ],
+  "col": [
+   "tekrarlayan sorun",
+   "yinelenen tema",
+   "belirtilerin tekrarlanması"
+  ],
+  "tip": "Nesne almayan bir fiildir. Geçmiş zamanı recurred, sıfat olarak kullanımı recurring biçimindedir.",
+  "note": ""
+ }
+]

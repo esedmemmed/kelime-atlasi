@@ -1,0 +1,281 @@
+[
+ {
+  "id": "protein",
+  "senses": [
+   "protein; besin öğesi"
+  ],
+  "ex": [
+   "Bu fasulyeler sebze çorbamıza protein katıyor.",
+   "Bitki temelli dengeli bir beslenme, fasulye ve kuruyemiş gibi çeşitli kaynaklar içerdiğinde yeterli protein sağlayabilir."
+  ],
+  "col": [
+   "protein bakımından zengin",
+   "protein kaynağı",
+   "bitkisel protein",
+   "protein alımı"
+  ],
+  "tip": "Besin maddesi olarak genelde sayılamaz (a protein demeyin). Farklı türler kastedildiğinde proteins olarak sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "logic",
+  "senses": [
+   "mantık; akıl yürütme",
+   "mantık bilimi"
+  ],
+  "ex": [
+   "Para biriktirme planının arkasındaki mantığı anlıyorum.",
+   "Toplu taşımaya yatırım yapmanın mantığı, daha az araba ile kentteki trafik sıkışıklığını azaltabilmektir."
+  ],
+  "col": [
+   "bir şeyin arkasındaki mantık",
+   "sağlam mantık",
+   "tutarsız mantık",
+   "biçimsel mantık"
+  ],
+  "tip": "Genellikle sayılamaz. \"the logic behind\" kalıbı bir şeyin arkasındaki gerekçeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "radiation",
+  "senses": [
+   "ışınım; radyasyon",
+   "radyoterapi; ışın tedavisi"
+  ],
+  "ex": [
+   "Bu özel cam, güneşin morötesi ışınımının büyük bölümünü engelliyor.",
+   "Nükleer tesislerde çalışanlar, radyasyona maruziyetlerini sınırlamak için koruyucu ekipman ve düzenli izleme gerektirir."
+  ],
+  "col": [
+   "morötesi ışınım",
+   "radyasyona maruziyet",
+   "radyoterapi",
+   "güneş ışınımı"
+  ],
+  "tip": "Genel anlamda sayılamaz. Radiation yalnızca nükleer radyasyonu değil, güneş ışığı gibi enerji türlerini de kapsar.",
+  "note": ""
+ },
+ {
+  "id": "specialised",
+  "senses": [
+   "uzmanlaşmış; özel amaçlı"
+  ],
+  "ex": [
+   "Tamirci, bisikletimi onarmak için özel aletler kullandı.",
+   "Karmaşık rahatsızlıkları olan hastalara etkili tedavi sunabilmek için hastanelerin özel ekipmana ve eğitimli personele ihtiyacı var."
+  ],
+  "col": [
+   "özel ekipman",
+   "uzmanlık bilgisi",
+   "özel eğitim",
+   "son derece uzmanlaşmış"
+  ],
+  "tip": "İngiliz İngilizcesinde specialised, Amerikan İngilizcesinde specialized yazılır. Anlam aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "pine",
+  "senses": [
+   "çam; çam ağacı",
+   "özlemek; hasret çekmek"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra uzun bir çamın gölgesinde dinlendik.",
+   "Çam ağacı dikmek kereste üretimini destekleyebilir, ancak çeşitli yerli ormanlar genellikle daha zengin bir yaban hayatı ortamı sunar."
+  ],
+  "col": [
+   "çam ormanı",
+   "çam kozalağı",
+   "birini özlemek",
+   "üzüntüden solmak"
+  ],
+  "tip": "pine for: birine ya da bir şeye hasret çekmek. pine away: üzüntüden zayıflayıp solmak. İkisi farklı kalıplardır.",
+  "note": ""
+ },
+ {
+  "id": "folk",
+  "senses": [
+   "halk; insanlar",
+   "geleneksel; halk",
+   "halk müziği; folk"
+  ],
+  "ex": [
+   "Yerel halk her akşam burada toplanıp sohbet ediyor.",
+   "Geleneksel halk müziği, genç kuşakların toplulukların kültürel mirasını anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "yerel halk",
+   "halk müziği",
+   "halk masalı",
+   "halk dansı"
+  ],
+  "tip": "Folk, insanlar anlamında çoğul fiille kullanılır. \"my folks\" konuşma dilinde ailem ya da anne babam anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "discipline",
+  "senses": [
+   "disiplin; özdenetim",
+   "bilim dalı; alan",
+   "disipline etmek; cezalandırmak"
+  ],
+  "ex": [
+   "Her sabah piyano çalışmak sabır ve özdisiplin gerektirir.",
+   "Üniversiteler, karmaşık çevre sorunlarını çözmek için farklı alanlardan araştırmacılar arasındaki iş birliğini giderek daha fazla teşvik ediyor."
+  ],
+  "col": [
+   "öz disiplin",
+   "disiplini sağlamak",
+   "akademik disiplin",
+   "kendini bir şeyi yapmaya zorlamak"
+  ],
+  "tip": "Disiplin anlamında genelde sayılamaz; bilim dalı anlamında sayılabilir (disciplines). \"discipline yourself to\" kendini zorlamak demektir.",
+  "note": ""
+ },
+ {
+  "id": "terrace",
+  "senses": [
+   "teras",
+   "basamaklı tarla",
+   "sıra ev; bitişik evler"
+  ],
+  "ex": [
+   "Kahvaltıyı bahçeye bakan teraslı alanda yaptık.",
+   "Çiftçiler, dik dağ yamaçlarında ürün yetiştirirken toprak erozyonunu azaltmak için her basamağın bakımını özenle yapar."
+  ],
+  "col": [
+   "çatı terası",
+   "güneşli bir teras",
+   "pirinç terasları",
+   "bitişik evler sırası"
+  ],
+  "tip": "Teras genellikle bina yanındaki geniş açık alandır; balkonla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "forefinger",
+  "senses": [
+   "işaret parmağı"
+  ],
+  "ex": [
+   "Kapı zilini nazikçe işaret parmağıyla çaldı.",
+   "Katılımcılar ekranda bir değişiklik fark ettiklerinde bir düğmeye basmak için işaret parmaklarını kullandılar."
+  ],
+  "col": [
+   "baş parmak ve işaret parmağı",
+   "sağ işaret parmağı",
+   "işaret parmağının ucu"
+  ],
+  "tip": "index finger ile aynı anlamdadır; ikisi de baş parmağın yanındaki parmaktır.",
+  "note": ""
+ },
+ {
+  "id": "anxiously",
+  "senses": [
+   "endişeyle; kaygıyla",
+   "sabırsızlıkla; can atarak"
+  ],
+  "ex": [
+   "Veteriner kedisini muayene ederken dışarıda endişeyle bekledi.",
+   "Giriş seviyesi pozisyonlar için rekabet artmaya devam ettikçe birçok mezun iş tekliflerini dört gözle bekliyor."
+  ],
+  "col": [
+   "endişeyle beklemek",
+   "endişeyle bakmak",
+   "dört gözle beklemek"
+  ],
+  "tip": "Genellikle kaygı içerir. Sadece sevinçli bir heyecanla beklemek için eagerly tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "boundary",
+  "senses": [
+   "sınır; hudut",
+   "sınır; sınırlama"
+  ],
+  "ex": [
+   "Alçak taş duvar bahçemizin sınırını belirliyor.",
+   "İş ve özel yaşam arasında net sınırlar koymak, çalışanların ruh sağlığını koruyabilir ve uzun vadeli stresi azaltabilir."
+  ],
+  "col": [
+   "ulusal sınır",
+   "sınır koymak",
+   "sınırı aşmak",
+   "sınırları zorlamak"
+  ],
+  "tip": "Boundary genel ayrım çizgisini vurgular; border ise çoğunlukla ülke sınırı için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rebuild",
+  "senses": [
+   "yeniden inşa etmek",
+   "yeniden kurmak; onarmak"
+  ],
+  "ex": [
+   "Bu hafta sonu bahçe duvarını yeniden yapmayı planlıyoruz.",
+   "Şiddetli sel sonrası yerel yönetimler temel altyapıyı yeniden inşa etmeli ve etkilenen toplulukların toparlanmasına yardım etmelidir."
+  ],
+  "col": [
+   "evi yeniden inşa etmek",
+   "güveni yeniden tesis etmek",
+   "ekonomiyi yeniden canlandırmak"
+  ],
+  "tip": "Düzensiz fiildir: rebuild, rebuilt, rebuilt. Geçmiş zaman ve ortaç için rebuilt kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "detergent",
+  "senses": [
+   "deterjan"
+  ],
+  "ex": [
+   "Çamaşır makinesini çalıştırmadan önce deterjan ekledim.",
+   "Aşırı deterjan kullanmak para israfıdır ve yerel su yollarına karışan kimyasal miktarını artırabilir."
+  ],
+  "col": [
+   "çamaşır deterjanı",
+   "sıvı deterjan",
+   "hafif deterjan"
+  ],
+  "tip": "Genel anlamda sayılamaz; farklı türlerden söz edildiğinde sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "freelance",
+  "senses": [
+   "serbest; bağımsız",
+   "serbest olarak",
+   "serbest çalışmak"
+  ],
+  "ex": [
+   "Kız kardeşim evden çalışan serbest bir tasarımcı.",
+   "Serbest çalışma esneklik sunar, ancak düzenli sözleşmeler olmadan çalışanlar istikrarlı bir gelir sağlamakta zorlanabilir."
+  ],
+  "col": [
+   "serbest yazar",
+   "serbest çalışmak",
+   "serbest iş"
+  ],
+  "tip": "Work freelance'de zarf görevinde kullanılır; freelancer ise serbest çalışan kişidir. Sıfat olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "horizon",
+  "senses": [
+   "ufuk",
+   "görüş ufku; bilgi sınırı"
+  ],
+  "ex": [
+   "Küçük bir teknenin ufkun ötesinde kaybolmasını izledik.",
+   "Yabancı bir ülkede okumak, öğrencileri tanıdık olmayan gelenekler ve farklı öğrenme yaklaşımlarıyla tanıştırarak ufuklarını genişletebilir."
+  ],
+  "col": [
+   "yakında; ufukta",
+   "ufkunu genişletmek",
+   "ufkun ötesinde"
+  ],
+  "tip": "Görüş ufku anlamında genellikle çoğul kullanılır: broaden your horizons. Tekil hâli çoğunlukla fiziksel ufku anlatır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,273 @@
+[
+ {
+  "id": "inward",
+  "senses": [
+   "içe doğru; içe yönelik",
+   "içsel; gizli",
+   "içe doğru; içeri"
+  ],
+  "ex": [
+   "İçeri doğru yapılan bir itme, kapıyı açmaya yetti.",
+   "Ülkeye yönelik yabancı yatırım akışı, gelişmekte olan ekonomilerin altyapısını iyileştirmesine ve yeni iş fırsatları yaratmasına yardımcı olabilir."
+  ],
+  "col": [
+   "yabancı yatırım",
+   "içe doğru hareket",
+   "içsel duygular",
+   "içine kapanmak"
+  ],
+  "tip": "inward sıfat olarak kullanılır; zarf olarak inwards da özellikle İngiliz İngilizcesinde yaygındır. inward investment ülkeye yapılan yatırımı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "hinder",
+  "senses": [
+   "engellemek; zorlaştırmak"
+  ],
+  "ex": [
+   "Yoğun kar, dağlar boyunca yolculuğumuzu zorlaştırdı.",
+   "Güvenilir internete sınırlı erişim, kırsal kesimde yaşayan öğrencilerin eğitimdeki ilerlemesini engelleyebilir."
+  ],
+  "col": [
+   "ilerlemeyi engellemek",
+   "gelişmeyi engellemek",
+   "çabaları engellemek"
+  ],
+  "tip": "hinder bir şeyi zorlaştırmak anlamına gelir, tamamen önlemek anlamına gelmez. Bu yüzden prevent ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "quest",
+  "senses": [
+   "arayış; macera",
+   "aramak; peşinde koşmak"
+  ],
+  "ex": [
+   "Taze ekmek arayışımız bizi kasabanın bir ucundan diğer ucuna götürdü.",
+   "Daha temiz enerji arayışı, hükümetleri yeni depolama teknolojilerine yoğun yatırım yapmaya teşvik etti."
+  ],
+  "col": [
+   "bilgi arayışı",
+   "arayışa girişmek",
+   "peşinde olmak"
+  ],
+  "tip": "Genellikle a quest for kalıbıyla isim olarak kullanılır. Fiil kullanımı daha çok edebi bir tondadır.",
+  "note": ""
+ },
+ {
+  "id": "stagger",
+  "senses": [
+   "sendelemek; yalpalamak",
+   "dönüşümlü planlamak",
+   "şaşırtmak; sarsmak"
+  ],
+  "ex": [
+   "Ağır bavul ona doğru savrulunca geriye doğru sendeledi.",
+   "İşverenler, trafik sıkışıklığını azaltmak ve toplu taşıma üzerindeki baskıyı hafifletmek için çalışma saatlerini kaydırabilir."
+  ],
+  "col": [
+   "geriye doğru sendelemek",
+   "zorlanarak ayağa kalkmak",
+   "çalışma saatlerini kaydırmak",
+   "şaşkına dönmek"
+  ],
+  "tip": "Fiil olarak sendelemek, kaydırmak ve şaşırtmak anlamlarına gelir. staggering sıfatı çoğunlukla inanılmaz derecede büyük anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sheepish",
+  "senses": [
+   "utangaç; mahcup"
+  ],
+  "ex": [
+   "Meyve suyunu döktükten sonra mahcup bir gülümseme takındı.",
+   "Öğrenciler yanlış cevap verdikten sonra mahcup görünebilir; bu yüzden öğretmenler sabırla karşılık vermelidir."
+  ],
+  "col": [
+   "mahcup bir gülümseme",
+   "mahcup bir sırıtış",
+   "mahcup görünmek"
+  ],
+  "tip": "Genellikle bir hata yapmanın verdiği mahcubiyeti anlatır; sadece çekingen ya da utangaç olmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "mythical",
+  "senses": [
+   "efsanevi; mitolojik",
+   "uydurma; var olmayan"
+  ],
+  "ex": [
+   "Müze, efsanevi bir ejderhanın resmini sergiliyordu.",
+   "Geleneksel hikâyelerdeki efsanevi yaratıklar, eski toplumların doğayı ve insan davranışını nasıl anladığını gösterebilir."
+  ],
+  "col": [
+   "efsanevi yaratık",
+   "efsanevi kahraman",
+   "efsanevi krallık"
+  ],
+  "tip": "mythical mitolojiye ait şeyleri anlatır; gerçekte var olmayan ama inanılan şeyler için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "nucleus",
+  "senses": [
+   "hücre çekirdeği",
+   "atom çekirdeği",
+   "merkez; çekirdek"
+  ],
+  "ex": [
+   "Sınıfımızdaki mikroskopta hücrenin çekirdeği mor görünüyordu.",
+   "Çekirdekteki genetik materyalde meydana gelen hasar, bir hücrenin işleyişini ve bölünmesini etkileyebilir."
+  ],
+  "col": [
+   "hücre çekirdeği",
+   "atom çekirdeği",
+   "bir şeyin çekirdeğini oluşturmak"
+  ],
+  "tip": "Çoğul şekli nuclei'dir. Hem hücre hem atom için kullanılır; anlam bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "regularity",
+  "senses": [
+   "düzenlilik; tutarlılık"
+  ],
+  "ex": [
+   "Sabah yürüyüşlerini düzenli yapması, daha iyi uyumasına yardımcı oluyor.",
+   "Toplu taşıma hizmetlerinin düzenliliği, yolcuların otobüsü mü yoksa özel arabayı mı tercih edeceğini güçlü biçimde etkiliyor."
+  ],
+  "col": [
+   "dikkat çekici bir düzenlilikle",
+   "giderek artan bir sıklıkla",
+   "yağmurun düzenliliği"
+  ],
+  "tip": "with regularity kalıbı düzenli olarak ya da sık sık anlamında kullanılır. Düzenlilik kelimesi, bir olayın tekrarlanma biçimini de anlatır.",
+  "note": ""
+ },
+ {
+  "id": "glide",
+  "senses": [
+   "süzülmek; kayarcasına ilerlemek",
+   "süzülerek uçmak"
+  ],
+  "ex": [
+   "Kuğu, kamışlara doğru göletin üzerinde süzüldü.",
+   "Büyük kuşlar, sürekli kanat çırpmak yerine yükselen hava akıntıları üzerinde süzülerek enerjilerini korur."
+  ],
+  "col": [
+   "kayarcasına geçmek",
+   "pürüzsüzce kaymak",
+   "havada süzülmek"
+  ],
+  "tip": "Hareketin sakin, akıcı ve sessiz olduğunu vurgular. Motorsuz uçuş ve havada süzülme için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vow",
+  "senses": [
+   "yemin; söz",
+   "yemin etmek; söz vermek"
+  ],
+  "ex": [
+   "Her hafta büyükannesini ziyaret edeceğine dair söz verdi.",
+   "Yerel yöneticiler, konut geliştirme baskısı artmasına rağmen kamu parklarını koruyacaklarına söz verdi."
+  ],
+  "col": [
+   "yemin etmek",
+   "sözünde durmak",
+   "sözünü bozmak",
+   "yapacağına söz vermek"
+  ],
+  "tip": "Fiil olarak vow to do ya da vow that yapısı kullanılır. Ciddi bir söz ya da yemin anlamına gelir; sıradan söz için promise daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "indifferent",
+  "senses": [
+   "ilgisiz; kayıtsız",
+   "vasat; sıradan"
+  ],
+  "ex": [
+   "Kedimiz pahalı yeni oyuncağına karşı ilgisiz kaldı.",
+   "İnsanlar, bireysel eylemlerinin fark yaratamayacağını düşündüklerinde çevre sorunlarına karşı kayıtsız görünebilir."
+  ],
+  "col": [
+   "...e karşı ilgisiz",
+   "ilgisiz kalmak",
+   "vasat performans"
+  ],
+  "tip": "Genellikle be indifferent to kalıbıyla kullanılır ve to edatı gereklidir. Kalite için kullanıldığında da sıradan anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "remnant",
+  "senses": [
+   "kalıntı; artık",
+   "kumaş artığı"
+  ],
+  "ex": [
+   "Eski duvardan sadece bir kalıntı hâlâ ayakta duruyor.",
+   "Eski ormanların kalıntılarını korumak, nadir türleri destekleyen yaşam alanlarını koruyabilir ve yerel biyoçeşitliliği sürdürebilir."
+  ],
+  "col": [
+   "geçmişin bir kalıntısı",
+   "orman kalıntıları",
+   "kumaş artıkları"
+  ],
+  "tip": "a remnant of kalıbıyla sıkça kullanılır. Çoğul remnants, birbirinden kalan parçaların tamamını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "eradication",
+  "senses": [
+   "yok etme; tamamen kaldırma"
+  ],
+  "ex": [
+   "Bu yabani otların tamamen yok edilmesi sabır gerektirecek.",
+   "Bulaşıcı hastalıkların ortadan kaldırılması, aşılama programlarına ve halk sağlığı altyapısına sürekli yatırım gerektirir."
+  ],
+  "col": [
+   "hastalığın yok edilmesi",
+   "yoksulluğun ortadan kaldırılması",
+   "yok etme programı"
+  ],
+  "tip": "eradication of kalıbıyla kullanılır. Eradicate fiilinin isim biçimidir ve tamamen yok etme vurgusu taşır.",
+  "note": ""
+ },
+ {
+  "id": "temperament",
+  "senses": [
+   "mizaç; huy"
+  ],
+  "ex": [
+   "Yeni yavrumuz nazik bir mizaca sahip ve nadiren havlar.",
+   "Sakin bir mizaç, yoğun hastanelerde stresli durumlarda sağlık çalışanlarının hastalarla etkili iletişim kurmasına yardımcı olur."
+  ],
+  "col": [
+   "sakin bir mizaç",
+   "sanatçı mizacı",
+   "yapısı gereği"
+  ],
+  "tip": "temperament kişinin genel ve alışılmış duygusal yapısını anlatır. temper ise çoğunlukla öfke ve hiddet anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dub",
+  "senses": [
+   "dublaj yapmak",
+   "lakap takmak; ad koymak"
+  ],
+  "ex": [
+   "Çizgi filmi, küçük izleyiciler için İspanyolcaya dublajla çevirdiler.",
+   "Gazeteciler, daha önce büyük istihdam merkezlerinden kopuk olan kırsal topluluklar için yeni demiryolunu bir can simidi olarak nitelendirdi."
+  ],
+  "col": [
+   "filmi dublajlamak",
+   "İngilizceye dublajlamak",
+   "dublajlı sürüm"
+  ],
+  "tip": "Geçmiş zamanı dubbed'dir. dub A B yapısı A'yı B olarak adlandırmak anlamına gelir.",
+  "note": ""
+ }
+]

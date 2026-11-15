@@ -1,0 +1,278 @@
+[
+ {
+  "id": "rejection",
+  "senses": [
+   "reddetme; geri çevirme",
+   "doku reddi; organ reddi"
+  ],
+  "ex": [
+   "Bir red daha aldıktan sonra iş başvuru mektubunu yeniden düzenledi.",
+   "İş piyasasında tekrarlanan reddedilmeler gençlerin özgüvenine zarar verebilir ve yeni başvuruları azaltabilir."
+  ],
+  "col": [
+   "reddedilme korkusu",
+   "bir teklifin reddi",
+   "reddedilmeyle karşılaşmak",
+   "organ reddi"
+  ],
+  "tip": "rejection of ifadesinden sonra reddedilen kişi, teklif veya şey gelir. Bu kalıpta of'tan sonra gelen şeyi doğru seçmek önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "craft",
+  "senses": [
+   "el sanatı; zanaat",
+   "özenle yapmak; işlemek",
+   "tekne; uçak; uzay aracı"
+  ],
+  "ex": [
+   "Komşum söğüt sepet örme el sanatını öğretiyor.",
+   "Geleneksel el sanatı atölyeleri, kırsal topluluklarda istihdam yaratırken kültürel bilgiyi de koruyabilir."
+  ],
+  "col": [
+   "geleneksel el sanatları",
+   "bir el sanatı öğrenmek",
+   "bir teklifi özenle hazırlamak",
+   "çıkarma gemisi"
+  ],
+  "tip": "Tekne, uçak veya uzay aracı anlamında craft'ın tekil ve çoğul biçimi aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "scent",
+  "senses": [
+   "koku; güzel koku",
+   "iz kokusu",
+   "koklayarak fark etmek"
+  ],
+  "ex": [
+   "Taze ekmeğin kokusu mutfağı doldurdu.",
+   "Çiçeklerin kokusu tozlayıcıları çekerek birçok bitki türünün üremesine ve sağlıklı ekosistemlerin sürmesine yardımcı olabilir."
+  ],
+  "col": [
+   "hafif bir koku",
+   "çiçeklerin kokusu",
+   "bir kokunun izini sürmek"
+  ],
+  "tip": "scent çoğunlukla hoş kokuyu anlatır, hayvanların izlediği kokuyu da kapsar. c harfi okunmaz.",
+  "note": ""
+ },
+ {
+  "id": "noble",
+  "senses": [
+   "asil; yüce",
+   "soylu; asil",
+   "asilzade; soylu"
+  ],
+  "ex": [
+   "Karşılık beklemeden yabancılara yardım etmek asil bir davranıştır.",
+   "Yoksulluğu azaltmak asil bir hedef olsa da etkili politikalar sürekli finansman ve dikkatli değerlendirme gerektirir."
+  ],
+  "col": [
+   "asil amaç",
+   "asil bir jest",
+   "soylu aile"
+  ],
+  "tip": "Ahlaki anlamda 'asil' karakter ve erdemi vurgular. Sosyal soyluluk için aynı kelime kullanılır ama bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "discrimination",
+  "senses": [
+   "ayrımcılık",
+   "ayırt etme; ayrım gücü"
+  ],
+  "ex": [
+   "Bir iş fırsatını kaybettikten sonra yaş ayrımcılığına uğradığını bildirdi.",
+   "Ayrımcılığa karşı daha güçlü yasalar, tüm vatandaşların istihdama eşit erişimini sağlamaya yardımcı olabilir."
+  ],
+  "col": [
+   "ırk ayrımcılığı",
+   "yaş ayrımcılığı",
+   "...e karşı ayrımcılık",
+   "görsel ayırt etme"
+  ],
+  "tip": "Bir gruba karşı ayrımcılık için discrimination against kalıbı kullanılır. Genellikle sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "knight",
+  "senses": [
+   "şövalye",
+   "sör; şövalye unvanı",
+   "at (satranç taşı)"
+  ],
+  "ex": [
+   "Tabloda bir kaleye doğru giden bir şövalye görülüyor.",
+   "Ortaçağ şövalyesiyle ilgili müze sergileri, öğrencilerin savaşın Avrupa toplumunu nasıl şekillendirdiğini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "Ortaçağ şövalyesi",
+   "zırhlı şövalye",
+   "şövalyelik unvanı vermek"
+  ],
+  "tip": "k harfi okunmaz, night ile aynı telaffuz edilir. Şövalye unvanı taşıyan kişiye hitapta genellikle Sir kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "oceania",
+  "senses": [
+   "Okyanusya"
+  ],
+  "ex": [
+   "Komşumuz küçük bir sırt çantasıyla Okyanusya'yı gezdi.",
+   "Okyanusya'daki birçok ada topluluğu, yükselen deniz seviyelerinden ve giderek şiddetlenen fırtınalardan kaynaklanan artan risklerle karşı karşıya."
+  ],
+  "col": [
+   "Okyanusya'daki ada ülkeleri",
+   "Okyanusya genelinde",
+   "Okyanusya halkları"
+  ],
+  "tip": "Özel isimdir, büyük harfle başlar. Genellikle önüne the getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "packaging",
+  "senses": [
+   "ambalaj malzemesi; ambalaj"
+  ],
+  "ex": [
+   "Bu oyuncakla birlikte çok fazla plastik ambalaj geliyor.",
+   "Üreticiler kaynakları korumak ve evsel atık miktarını sınırlamak için gereksiz ambalajı azaltmalıdır."
+  ],
+  "col": [
+   "geri dönüştürülebilir ambalaj",
+   "aşırı ambalaj",
+   "ambalaj malzemeleri"
+  ],
+  "tip": "Ambalaj malzemesi anlamında genellikle sayılamaz. Tek bir paket için package kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "imply",
+  "senses": [
+   "ima etmek; dolaylı anlatmak",
+   "gerektirmek; anlamına gelmek"
+  ],
+  "ex": [
+   "Yemeğimin kötü olduğunu mu ima etmeye çalışıyorsun?",
+   "Eğitime yapılan daha yüksek harcama, kaynaklar etkin biçimde dağıtılmadıkça otomatik olarak daha iyi sonuçlar anlamına gelmez."
+  ],
+  "col": [
+   "...olduğunu ima etmek",
+   "mutlaka anlamına gelmemek",
+   "güçlü biçimde ima etmek"
+  ],
+  "tip": "imply, söyleyenin dolaylı anlatımını; infer ise dinleyenin çıkarım yapmasını anlatır. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "yeast",
+  "senses": [
+   "maya; maya mantarı"
+  ],
+  "ex": [
+   "Suyun hafifçe ılındığını hissettiğinde mayayı ekleyin.",
+   "Bilim insanları, kontrollü laboratuvar koşullarında hızlı büyüdüğü için maya mantarını temel hücre süreçlerini incelemede kullanır."
+  ],
+  "col": [
+   "kuru maya",
+   "taze maya",
+   "mayalanma",
+   "maya hücreleri"
+  ],
+  "tip": "Fırıncılıkta genellikle sayılamayan bir isimdir. Kabartma tozu (baking powder) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "interruption",
+  "senses": [
+   "kesinti; bölünme"
+  ],
+  "ex": [
+   "Rahatsız ettiğim için özür dilerim ama taksin geldi.",
+   "Açık ofislerde sık kesintiler konsantrasyonu azaltabilir ve karmaşık işlerin tamamlanmasını uzatabilir."
+  ],
+  "col": [
+   "kesintisiz",
+   "sürekli kesintiler",
+   "hizmetlerde kesinti"
+  ],
+  "tip": "Tek bir kesinti sayılabilir. without interruption ifadesi 'kesintisiz' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "linguist",
+  "senses": [
+   "dilbilimci",
+   "çok dil bilen kişi"
+  ],
+  "ex": [
+   "Dilbilimci, büyükannemin eski bir hikâyeyi anlatışını kaydetti.",
+   "Dilbilimciler, yerel konuşmaları belgeleyip topluluklara öğretim materyali geliştirmede yardımcı olarak tehlike altındaki dilleri destekleyebilir."
+  ],
+  "col": [
+   "uygulamalı dilbilimci",
+   "eğitimli dilbilimci",
+   "yetenekli dil uzmanı"
+  ],
+  "tip": "linguist kişiyi, linguistics ise dilbilim bilim dalını anlatır. Bilim dalı adı tekil kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "arctic",
+  "senses": [
+   "Arktik; kuzey kutbuna ait",
+   "çok soğuk; buz gibi",
+   "Arktik bölge; kuzey kutbu"
+  ],
+  "ex": [
+   "Karlı bir kayanın yanında bir kutup tilkisi kıvrılmış yatıyordu.",
+   "Yükselen sıcaklıklar, birçok türün bağımlı olduğu deniz buzunu azaltarak kutup yaban hayatını tehdit ediyor."
+  ],
+  "col": [
+   "kutup tilkisi",
+   "kutup koşulları",
+   "Arktik"
+  ],
+  "tip": "Kuzey kutbu bölgesi için the Arctic, güney kutbu için the Antarctic denir. Bu bölge adlarında the kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "marked",
+  "senses": [
+   "belirgin; dikkat çekici",
+   "işaretli; belirtilmiş"
+  ],
+  "ex": [
+   "Bu iki kek arasında belirgin bir fark var.",
+   "Özel bisiklet yollarının açılması, kent içi yolcular arasında bisiklet kullanımında belirgin bir artışa yol açtı."
+  ],
+  "col": [
+   "belirgin bir artış",
+   "belirgin bir iyileşme",
+   "belirgin bir karşıtlık",
+   "açıkça işaretli"
+  ],
+  "tip": "Akademik yazıda 'belirgin' anlamında sık kullanılır. Sonundaki t sesi /t/ olarak okunur.",
+  "note": ""
+ },
+ {
+  "id": "milestone",
+  "senses": [
+   "önemli dönüm noktası",
+   "yol kilometre taşı"
+  ],
+  "ex": [
+   "İlk işine girmesi Sara için bir dönüm noktasıydı.",
+   "Demiryolunun açılması, bölgenin ekonomik gelişiminde önemli bir dönüm noktası oldu."
+  ],
+  "col": [
+   "bir dönüm noktasına ulaşmak",
+   "bir dönüm noktası oluşturmak",
+   "önemli bir dönüm noktası"
+  ],
+  "tip": "Gelişimdeki önemli aşamalar için kullanılır. Genellikle milestone in + alan (milestone in medicine) kalıbında görülür.",
+  "note": ""
+ }
+]

@@ -1,0 +1,280 @@
+[
+ {
+  "id": "favor",
+  "senses": [
+   "iyilik; yardım",
+   "destek; onay; beğeni",
+   "tercih etmek; kayırmak"
+  ],
+  "ex": [
+   "Bana bir iyilik yapıp bitkilerimi sular mısın?",
+   "Birçok sakin, trafik sıkışıklığını azaltabileceği ve işe erişimi iyileştirebileceği için toplu taşımaya yapılan yatırımı destekliyor."
+  ],
+  "col": [
+   "birine iyilik yapmak",
+   "lehine; yanında",
+   "bir seçeneği diğerine tercih etmek",
+   "beğeni kazanmak"
+  ],
+  "tip": "Amerikan yazımı favor; İngiliz yazımı favour. İyilik yapmak anlamında do a favor kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "wolf",
+  "senses": [
+   "kurt",
+   "hızlı hızlı yemek; tıkınmak"
+  ],
+  "ex": [
+   "Ormanın kenarında gri bir kurt sessizce duruyordu.",
+   "Kurt popülasyonunu korumak, orman yaşam alanlarında geyik sayısını kontrol ederek ekolojik dengeyi yeniden sağlamaya yardımcı olabilir."
+  ],
+  "col": [
+   "bir sürü kurt",
+   "yalnız kurt",
+   "bir yemeği hızla yutmak"
+  ],
+  "tip": "Çoğulu wolves'tur. Fiil olarak genellikle wolf down kalıbıyla, hızla yemek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "waterskiing",
+  "senses": [
+   "su kayağı"
+  ],
+  "ex": [
+   "Geçen yaz gölde su kayağı yapmayı denedik.",
+   "Su kayağı, göl kenarındaki yerleşimlere turist çekebilir; ancak motorlu tekneler yaban hayatını rahatsız edebilir ve su kirliliğini artırabilir."
+  ],
+  "col": [
+   "su kayağına gitmek",
+   "su kayağı dersleri",
+   "su kayağı ekipmanı"
+  ],
+  "tip": "Spor adı olarak sayılamayan isimdir. Su kayağına gitmek için go waterskiing kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reward",
+  "senses": [
+   "ödül; karşılık",
+   "ödüllendirmek; karşılık vermek"
+  ],
+  "ex": [
+   "Köpek yavrusunu bir ödül olarak ödüllendirdik.",
+   "Okullar, yalnızca en yüksek notları alan öğrencilere odaklanmak yerine tutarlı çabayı ödüllendirmelidir."
+  ],
+  "col": [
+   "maddi ödül",
+   "birini bir şey için ödüllendirmek",
+   "emeğinin karşılığını almak"
+  ],
+  "tip": "Reward, emeğin ya da davranışın karşılığını vurgular; award ise genellikle resmi bir ödül törenini çağrıştırır.",
+  "note": ""
+ },
+ {
+  "id": "crew",
+  "senses": [
+   "mürettebat; ekip",
+   "ekip; grup",
+   "mürettebat olarak çalışmak"
+  ],
+  "ex": [
+   "Mürettebat bizi sıcak gülümsemelerle gemiye davet etti.",
+   "Havayolu şirketleri, acil durumlarda yolcuları korumak için her ekip üyesinin düzenli güvenlik eğitimi almasını sağlamalıdır."
+  ],
+  "col": [
+   "kabin ekibi",
+   "ekip üyesi",
+   "film ekibi",
+   "kurtarma ekibi"
+  ],
+  "tip": "Crew topluluk ismidir. Tek bir kişiye a crew member denir.",
+  "note": ""
+ },
+ {
+  "id": "defend",
+  "senses": [
+   "korumak; savunmak",
+   "savunmak; haklı çıkarmak",
+   "savunmada oynamak; gol yemesini önlemek"
+  ],
+  "ex": [
+   "Anne ördek yavrularını korumak için kanatlarını açtı.",
+   "Hükümetler, kamu güvenliği önlemlerinin adil ve orantılı kalmasını sağlarken vatandaşların haklarını savunmalıdır."
+  ],
+  "col": [
+   "saldırıya karşı korumak",
+   "insan haklarını savunmak",
+   "bir kararı savunmak",
+   "bir unvanı korumak"
+  ],
+  "tip": "defend ... against/from ... kalıbı, birini bir şeye karşı korumak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "audience",
+  "senses": [
+   "seyirci; dinleyici",
+   "okuyucu kitlesi; hedef kitle"
+  ],
+  "ex": [
+   "Dansçılar bitirdiğinde seyirciler yüksek sesle alkışladı.",
+   "Çevrimiçi platformlar müzelerin, koleksiyonlarını bizzat ziyaret edemeyenler de dahil olmak üzere daha geniş bir kitleye ulaşmasını sağlıyor."
+  ],
+  "col": [
+   "geniş bir seyirci kitlesi",
+   "hedef kitle",
+   "daha geniş bir kitleye ulaşmak",
+   "seyircinin katılımı"
+  ],
+  "tip": "Büyük seyirci kitlesi için large audience denir; many audiences yerine bu kalıp tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "emergency",
+  "senses": [
+   "acil durum; afet"
+  ],
+  "ex": [
+   "Olası bir acil durum için yakınınızda bir el feneri bulundurun.",
+   "Hükümetler, doğal afetler sırasında toplulukların hızlı yardım almasını sağlamak için acil hizmetlere yatırım yapmalıdır."
+  ],
+  "col": [
+   "acil durumda",
+   "acil servisler",
+   "acil tahliye",
+   "olağanüstü hal"
+  ],
+  "tip": "Sayılabilir isimdir. Emergency exit gibi kullanımlarda emergency isim olarak başka bir ismi niteler.",
+  "note": ""
+ },
+ {
+  "id": "sportswear",
+  "senses": [
+   "spor giyim; spor tarzı giyim"
+  ],
+  "ex": [
+   "Akşam koşusundan önce rahat spor kıyafetlerine geçti.",
+   "Daha fazla insan düzenli egzersiz yaptıkça ve topluluk sporlarına katıldıkça uygun fiyatlı spor giyime olan talep artabilir."
+  ],
+  "col": [
+   "rahat spor giyim",
+   "spor giyim satıcısı",
+   "bir dizi spor giyim"
+  ],
+  "tip": "Sayılamayan isimdir. Tek bir parça için an item of sportswear kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "revise",
+  "senses": [
+   "çalışmak; tekrar etmek",
+   "gözden geçirmek; düzeltmek"
+  ],
+  "ex": [
+   "Bu gece biyoloji sınavım için çalışmam gerekiyor.",
+   "Hükümetler, uygun fiyatlı konutların genç aileler için erişilebilir kalmasını sağlamak amacıyla modası geçmiş konut politikalarını gözden geçirmelidir."
+  ],
+  "col": [
+   "sınava çalışmak",
+   "taslağı gözden geçirmek",
+   "tahmini revize etmek",
+   "politikayı gözden geçirmek"
+  ],
+  "tip": "Sınava çalışmak anlamı daha çok İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde genellikle review tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "lid",
+  "senses": [
+   "kapak; kapak",
+   "göz kapağı"
+  ],
+  "ex": [
+   "Kavanozu çalkalamadan önce kapağını kapat.",
+   "Sıkı oturan bir kapak, hanelerin yiyecekleri taze tutmasına ve gereksiz israfı azaltmasına yardımcı olur."
+  ],
+  "col": [
+   "sıkı oturan kapak",
+   "kapağı kapatmak",
+   "kapağı açmak; gizliliği ortaya çıkarmak",
+   "maliyetleri kontrol altında tutmak"
+  ],
+  "tip": "Kap kapağı için lid kullanılır; şişenin vidalı kapağı için ise çoğunlukla cap tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "graduation",
+  "senses": [
+   "mezuniyet; mezuniyet töreni"
+  ],
+  "ex": [
+   "Kız kardeşim mezuniyetinde mavi bir cüppe giydi.",
+   "Üniversiteler, öğrencilerin işe başarılı bir geçiş yapmalarına yardımcı olmak için mezuniyetten önce kariyer rehberliği sunmalıdır."
+  ],
+  "col": [
+   "mezuniyet töreni",
+   "mezuniyetten sonra",
+   "mezuniyet cüppesi"
+  ],
+  "tip": "Bir okuldan mezun olmak için fiil olarak graduate from kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cashier",
+  "senses": [
+   "kasiyer; veznedar"
+  ],
+  "ex": [
+   "Kasiyer gülümsedi ve bozuğumu bana verdi.",
+   "Otomatik kasalar kasiyerlere olan talebi azaltabilir, ancak birçok müşteri hâlâ bir insandan yardım almayı tercih ediyor."
+  ],
+  "col": [
+   "kasiyer olarak çalışmak",
+   "market kasiyeri",
+   "kasiyere ödeme yapmak"
+  ],
+  "tip": "Cashier ödemeleri tahsil eden kişidir; accountant ise muhasebe işlemlerini yürüten kişidir.",
+  "note": ""
+ },
+ {
+  "id": "bargain",
+  "senses": [
+   "ucuz alışveriş; fırsat",
+   "pazarlık etmek",
+   "anlaşma; sözleşme"
+  ],
+  "ex": [
+   "Bu sıcak kış montu gerçekten çok uygun fiyatlıydı.",
+   "Tüketiciler yerel satıcılarla genellikle pazarlık yapabilir, ancak büyük mağazalarda sabit fiyatlar daha yaygındır."
+  ],
+  "col": [
+   "gerçek bir fırsat",
+   "biriyle pazarlık etmek",
+   "anlaşmaya varmak",
+   "anlaşmanın kendi payını yerine getirmek"
+  ],
+  "tip": "Ucuz alınan ürün için sayılabilen isim kullanılır. Biriyle pazarlık etmek için bargain with someone kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "emotional",
+  "senses": [
+   "duygusal; duygularla ilgili",
+   "duygusal; duygulu"
+  ],
+  "ex": [
+   "Arkadaşları taşınma sürecinde ona duygusal destek verdi.",
+   "Okullar, çocukların uzun vadeli iyi oluşunu desteklemek için akademik ilerlemenin yanında duygusal gelişimlerini de desteklemelidir."
+  ],
+  "col": [
+   "duygusal destek",
+   "duygusal iyi oluş",
+   "duygusal gelişim",
+   "duygulanmak"
+  ],
+  "tip": "Emotional her zaman üzüntü anlamına gelmez; sevinç gibi güçlü duyguları da ifade edebilir.",
+  "note": ""
+ }
+]

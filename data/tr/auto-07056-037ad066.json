@@ -1,0 +1,259 @@
+[
+ {
+  "id": "reactionary",
+  "senses": [
+   "gerici; tepkici",
+   "gerici kişi; tutucu"
+  ],
+  "ex": [
+   "Amcam teklifi gerici ve adaletsiz olarak nitelendirdi.",
+   "Eleştirmenler, gerici politikaların bireysel özgürlükler üzerindeki eski kısıtlamaları geri getirerek toplumsal ilerlemeyi tersine çevirebileceğini savunuyor."
+  ],
+  "col": [
+   "gerici politikalar",
+   "gerici görüşler",
+   "gerici güçler"
+  ],
+  "tip": "Genellikle olumsuz anlamda kullanılır ve eski düzenin geri getirilmesini ima eder. Reactive (tepkisel) ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "madden",
+  "senses": [
+   "çileden çıkarmak; delirtmek"
+  ],
+  "ex": [
+   "Bozuk fanın sürekli vızıltısı beni çileden çıkarıyor.",
+   "Tekrarlanan gecikmeler ve belirsiz açıklamalar, güvenilir toplu taşımaya bağımlı yolcuları çıldırtabilir."
+  ],
+  "col": [
+   "birini çileden çıkarmak",
+   "gecikmelerden çıldırmak"
+  ],
+  "tip": "Genellikle geçişli fiildir; madden someone yapısıyla birinin öfkelenmesini ya da bunalmasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "vanquish",
+  "senses": [
+   "yenilgiye uğratmak; alt etmek",
+   "yenmek; üstesinden gelmek"
+  ],
+  "ex": [
+   "Satranç kulübümüz dün nihayet en güçlü rakibini yendi.",
+   "Halk sağlığı kampanyaları, eğitimciler, araştırmacılar ve yerel topluluklar arasında sürekli iş birliği olmadan yaygın yanlış bilgilendirmeyi ortadan kaldıramaz."
+  ],
+  "col": [
+   "bir düşmanı alt etmek",
+   "bir rakibi yenmek",
+   "korkularının üstesinden gelmek"
+  ],
+  "tip": "Anlamı güçlü ve edebi bir tondadır; sıradan maç sonuçlarında defeat daha doğal olur.",
+  "note": ""
+ },
+ {
+  "id": "lexicographer",
+  "senses": [
+   "sözlükbilimci; sözlük yazarı"
+  ],
+  "ex": [
+   "Teyzem küçük bir yayınevinde sözlük yazarı olarak çalışıyor.",
+   "Bir sözlük yazarı, sözlük tanımlarının çağdaş anlamları doğru yansıtmasını sağlamak için gerçek dil kullanımını inceler."
+  ],
+  "col": [
+   "sözlük yazarı olarak çalışmak",
+   "sözlük yazarları ekibi",
+   "iki dilli bir sözlükbilimci"
+  ],
+  "tip": "Sözlük hazırlayan veya güncelleyen kişiyi anlatır; genel olarak dil bilimciler için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "insolent",
+  "senses": [
+   "küstah; saygısız"
+  ],
+  "ex": [
+   "Garson, müşterinin küstah tavrına rağmen sakin kaldı.",
+   "Okullar, öğrencilere saygılı biçimde görüş bildirmeyi öğretirken küstah davranışlara kararlılıkla müdahale etmelidir."
+  ],
+  "col": [
+   "küstah davranış",
+   "küstah bir ses tonu",
+   "küstah bir yanıt"
+  ],
+  "tip": "Bugün genellikle sıfat olarak kullanılır; karşılık gelen isim biçimi insolence'tır.",
+  "note": ""
+ },
+ {
+  "id": "jeer",
+  "senses": [
+   "alay etmek; dalga geçmek",
+   "alaycı bağırış; hakaret"
+  ],
+  "ex": [
+   "Oyuncu yine kaçırınca birkaç seyirci ona alay etti.",
+   "Seyirciler acemi oyunculara alay ettiğinde, topluluk sporuna katılımı caydıran bir ortam oluşur."
+  ],
+  "col": [
+   "birine alay etmek",
+   "kalabalıktan gelen hakaretler",
+   "bir yağmur gibi hakaretler"
+  ],
+  "tip": "Fiil genellikle jeer at someone biçiminde kullanılır; isim çoğunlukla çoğul hâlde görülür.",
+  "note": ""
+ },
+ {
+  "id": "loth",
+  "senses": [
+   "isteksiz; gönülsüz"
+  ],
+  "ex": [
+   "Sıcak mutfaktan ayrılmaya gönlüm razı olmadı.",
+   "Bazı sakinler, mahallelerinin ayırt edici karakterini kaybetmekten korktukları için yeniden imara destek olmaya isteksizdir."
+  ],
+  "col": [
+   "kabul etmekte isteksiz",
+   "ayrılmak istemeyen",
+   "kabul etmeye gönülsüz"
+  ],
+  "tip": "Loath'un daha az görülen yazımıdır; be loth to do kalıbında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "noxious",
+  "senses": [
+   "zehirli; zararlı"
+  ],
+  "ex": [
+   "Dökülen maddeden çıkan zehirli dumanlar herkesi oradan uzaklaşmaya zorladı.",
+   "Yakındaki toplulukları zehirli gazlara maruz kalmaktan korumak için endüstriyel emisyonlara daha sıkı denetimler gerekiyor."
+  ],
+  "col": [
+   "zehirli dumanlar",
+   "zehirli gazlar",
+   "zararlı maddeler"
+  ],
+  "tip": "Genellikle gaz ya da madde için kullanılır; yalnızca kötü koku anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "telefax",
+  "senses": [
+   "faks; faks makinesi",
+   "faks çekmek"
+  ],
+  "ex": [
+   "Ofisteki yazıcının yanında hâlâ eski bir faks makinesi duruyor.",
+   "E-postanın yaygınlaşmasından önce şirketler, ulusal sınırlar ötesinde belgeleri hızla iletmek için faksa güveniyordu."
+  ],
+  "col": [
+   "faksla göndermek",
+   "faks makinesi",
+   "faks numarası"
+  ],
+  "tip": "Eski bir kullanımdır; günümüz İngilizcesinde genellikle fax kelimesi tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "magnanimous",
+  "senses": [
+   "cömert; affedici; yüce gönüllü"
+  ],
+  "ex": [
+   "Rakibine karşı yüce gönüllü davrandı ve onu içtenlikle tebrik etti.",
+   "Eleştirilere gösterilen yüce gönüllü bir tavır, liderlerin güven kazanmasına ve yapıcı bir kamuoyu tartışmasına yardımcı olabilir."
+  ],
+  "col": [
+   "zaferde cömert davranmak",
+   "yüce gönüllü bir jest",
+   "yüce gönüllü bir tepki"
+  ],
+  "tip": "Resmi bir kelimedir; genellikle rakibine ya da kendisine haksızlık etmiş kişiye karşı hoşgörülü davranmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "transgress",
+  "senses": [
+   "ihlal etmek; sınırları aşmak"
+  ],
+  "ex": [
+   "Kuralları çiğneyen oyuncular oyundan çıkarılabilir.",
+   "Çevre yasalarını ihlal eden şirketler, verdikleri zarar oranında cezalandırılmalıdır."
+  ],
+  "col": [
+   "yasayı çiğnemek",
+   "ahlaki sınırları aşmak",
+   "toplumsal normları ihlal etmek"
+  ],
+  "tip": "Resmi bir fiildir; law, rules gibi nesneleri doğrudan alabilir.",
+  "note": ""
+ },
+ {
+  "id": "ramify",
+  "senses": [
+   "dallanmak; ayrılmak; dallara ayrılmak"
+  ],
+  "ex": [
+   "Ağacın kökleri eski bahçe duvarının altında dallanıp yayılıyor.",
+   "Ulaşım ağları kırsal bölgelere dallanarak yayıldıkça, daha önce izole olan topluluklar temel hizmetlere daha iyi erişiyor."
+  ],
+  "col": [
+   "köklerin dallanması",
+   "dallara ayrılmak"
+  ],
+  "tip": "Resmi ve az kullanılan bir fiildir; kök, damar veya ağ gibi yapıların ayrılıp yayılmasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "hitherto",
+  "senses": [
+   "şimdiye kadar; bugüne dek"
+  ],
+  "ex": [
+   "Onarım sırasında üst kattaki, şimdiye kadar gizli kalmış bir dolap ortaya çıktı.",
+   "Son arkeolojik keşifler, antik kıyı toplulukları arasındaki ticaret hakkında şimdiye kadar bilinmeyen ayrıntılar ortaya koydu."
+  ],
+  "col": [
+   "şimdiye kadar bilinmeyen",
+   "şimdiye dek görülmemiş",
+   "bugüne kadar ihmal edilmiş"
+  ],
+  "tip": "Resmi bir zarf olup hitherto unknown gibi kalıplarda sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "foregoing",
+  "senses": [
+   "önceki; yukarıda belirtilen"
+  ],
+  "ex": [
+   "Yukarıdaki öneriler bisikletimi tamir etmeme yardımcı oldu.",
+   "Yukarıdaki analiz, erken eğitime yapılan yatırımın zamanla toplumsal eşitsizliği azaltabileceğini düşündürmektedir."
+  ],
+  "col": [
+   "yukarıdaki tartışma",
+   "yukarıda belirtilen analiz",
+   "önceki açıklamalar"
+  ],
+  "tip": "Resmi yazılı dilde kullanılır; genellikle the foregoing biçiminde isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "disburse",
+  "senses": [
+   "ödemek; dağıtmak; ayırmak"
+  ],
+  "ex": [
+   "Hayır kurumu fonları önümüzdeki hafta başında ödeyecek.",
+   "Hükümetler, toplulukların doğal afetlerden toparlanmasına yardımcı olmak için acil fonları hızlıca dağıtmalıdır."
+  ],
+  "col": [
+   "fon ödemek",
+   "para ödemek",
+   "kredi ödemek"
+  ],
+  "tip": "Resmi bir kelimedir; genellikle funds ya da money gibi para nesneleriyle kullanılır.",
+  "note": ""
+ }
+]

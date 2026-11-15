@@ -1,0 +1,280 @@
+[
+ {
+  "id": "upgrade",
+  "senses": [
+   "yükseltmek; geliştirmek",
+   "yükseltme; yeni sürüm"
+  ],
+  "ex": [
+   "Eski bilgisayarımızı daha hızlı bir işlemciyle yükselttik.",
+   "Hükümetler, israfı azaltmak ve büyüyen kentsel nüfus için güvenilir su sağlamak amacıyla eskimiş su sistemlerini yenilemelidir."
+  ],
+  "col": [
+   "yazılımı güncellemek",
+   "...e yükseltmek",
+   "sistem yükseltmesi"
+  ],
+  "tip": "Fiilde vurgu sonda, isimde (UPgrade) önde okunur. Fiil ve isim olarak aynı yazılır, sadece vurgu değişir.",
+  "note": ""
+ },
+ {
+  "id": "hesitant",
+  "senses": [
+   "tereddütlü; kararsız"
+  ],
+  "ex": [
+   "Dar köprüye adım atmadan önce tereddütlü görünüyordu.",
+   "Bazı yaşlı tüketiciler finansal güvenlik konusunda endişelendikleri için internet bankacılığını kullanmaktan hâlâ çekiniyor."
+  ],
+  "col": [
+   "kabul etmekte tereddütlü",
+   "değişim konusunda kararsız",
+   "çekingen bir gülümseme"
+  ],
+  "tip": "Genellikle hesitant to do (yapmaya çekinmek) ya da hesitant about sth (bir şey konusunda kararsız) kalıplarıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "incidentally",
+  "senses": [
+   "bu arada; aklıma gelmişken",
+   "dolaylı olarak; tesadüfen"
+  ],
+  "ex": [
+   "Bu arada, eşarbın hâlâ kapımızın yanında asılı duruyor.",
+   "Çocuklar eğitici programları izlerken, dil öğrenmek asıl amaçları olmasa bile yeni kelimeleri dolaylı olarak öğrenebilir."
+  ],
+  "col": [
+   "dolaylı olarak edinilen",
+   "dolaylı yoldan öğrenmek",
+   "bir konuyu gelişigüzel belirtmek"
+  ],
+  "tip": "Cümle başında \"bu arada\" anlamına gelir. Her bağlamda \"tesadüfen\" demek değildir; asıl amacın yan ürünü olduğunu da anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "bulb",
+  "senses": [
+   "ampul",
+   "soğan; yumru"
+  ],
+  "ex": [
+   "Mutfaktaki ampul ben bulaşık yıkarken yandı.",
+   "Geleneksel ampulleri enerji tasarruflu alternatiflerle değiştirmek, evlerdeki elektrik tüketimini azaltabilir ve uzun vadeli maliyetleri düşürebilir."
+  ],
+  "col": [
+   "ampul",
+   "ampulü değiştirmek",
+   "enerji tasarruflu ampul",
+   "soğanlı bitkiler"
+  ],
+  "tip": "Sözcük hem elektrik ampulünü hem de soğan, sarımsak veya zambak gibi bitkilerin yer altı soğanını ifade eder. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "thicken",
+  "senses": [
+   "koyulaşmak; koyulaştırmak",
+   "kalınlaşmak; yoğunlaşmak"
+  ],
+  "ex": [
+   "Mantar sosunu koyulaştırmak için biraz un ekleyin.",
+   "Kıyı sisi yoğunlaştıkça, yolcu güvenliğini sağlamak için taşımacılar hizmetleri azaltmak zorunda kalabilir."
+  ],
+  "col": [
+   "sosu koyulaştırmak",
+   "sis yoğunlaşıyor",
+   "olaylar karmaşıklaşıyor"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: thicken soup (çorbayı koyulaştırmak); soup thickens (çorba koyulaşır).",
+  "note": ""
+ },
+ {
+  "id": "capacity",
+  "senses": [
+   "kapasite; hacim",
+   "kapasite; üretim gücü",
+   "sıfat; görev; sıfat"
+  ],
+  "ex": [
+   "Bu küçük asansörün kapasitesi altı kişidir.",
+   "Yenilenebilir enerjiye yapılan yatırımlar, ithal fosil yakıtlara bağımlılığı azaltırken elektrik üretim kapasitesini artırabilir."
+  ],
+  "col": [
+   "oturma kapasitesi",
+   "üretim kapasitesi",
+   "öğrenme yeteneği",
+   "profesyonel sıfatıyla"
+  ],
+  "tip": "\"Yetenek\" için capacity to do, \"sıfat/görev\" için in one's capacity as kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "query",
+  "senses": [
+   "soru; sorgu",
+   "sormak; sorgulamak"
+  ],
+  "ex": [
+   "Resepsiyonist, yüzme havuzuyla ilgili sorumu yanıtladı.",
+   "Tüketiciler, otomatik ödeme sistemlerinin her zaman doğru olduğunu varsaymak yerine faturalarındaki beklenmedik ücretleri sorgulamalıdır."
+  ],
+  "col": [
+   "bir soruyu yanıtlamak",
+   "soru yöneltmek",
+   "bir ücreti sorgulamak",
+   "veritabanı sorgusu"
+  ],
+  "tip": "Fiil olarak doğrudan sorgulanan ücret ya da karar nesne alabilir; query about yerine query a charge gibi kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "gaze",
+  "senses": [
+   "dikkatle bakmak; gözlemek",
+   "bakış; dikkatli bakış"
+  ],
+  "ex": [
+   "Lina yatak odasının penceresinden aya uzun uzun baktı.",
+   "Ziyaretçiler tarihi binalara sıkça hayranlıkla bakar, ancak bu kültürel hazineleri korumak için gereken bakım çalışmalarını fark etmez."
+  ],
+  "col": [
+   "...e bakmak",
+   "pencereden dışarı bakmak",
+   "bakışlarıyla karşılaşmak",
+   "bakışını kaçırmak"
+  ],
+  "tip": "Genellikle gaze at biçiminde kullanılır. glance'ten daha uzun, stare'den daha yumuşak bir bakışı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "sin",
+  "senses": [
+   "günah",
+   "günah işlemek"
+  ],
+  "ex": [
+   "Arkadaşlarına yalan söylemenin bir günah olduğuna inanıyordu.",
+   "Günah anlayışı, dini katılımın azaldığı toplumlarda bile sosyal tutumları etkileyebilir."
+  ],
+  "col": [
+   "günah işlemek",
+   "günahlarını itiraf etmek",
+   "...e karşı günah işlemek"
+  ],
+  "tip": "Dini ya da ahlaki bir kuralın ihlalini anlatır; hukuken suç anlamına gelen crime ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "resist",
+  "senses": [
+   "karşı koymak; direnmek",
+   "kendini tutmak; direnmek",
+   "dayanıklı olmak; etkilenmemek"
+  ],
+  "ex": [
+   "Sıcak tarçınlı bir çörek daha almamaya kendimi tutamadım.",
+   "Çalışanlar, yeni sistemlerin iş güvencelerini tehdit edeceğine inanırlarsa teknolojik değişime direnebilirler."
+  ],
+  "col": [
+   "değişime direnmek",
+   "baştan çıkarıcılığa direnmek",
+   "baskıya karşı koymak",
+   "korozyona dayanıklı olmak"
+  ],
+  "tip": "Bir şeyi yapmamak için kendini tutmak anlamında resist doing kullanılır; resist to do kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "deck",
+  "senses": [
+   "güverte; kat",
+   "ahşap teras",
+   "deste; iskambil destesi"
+  ],
+  "ex": [
+   "Yunusların yüzerek geçişini izlemek için güvertede durduk.",
+   "Turistik otobüslerin üst katındaki yolcular, tarihi binaların net manzarasının keyfini çıkarabilir."
+  ],
+  "col": [
+   "güvertede",
+   "üst güverte",
+   "ahşap teras",
+   "bir deste kâğıt"
+  ],
+  "tip": "Gemi güvertesi, otobüs katı, ahşap teras ve kağıt destesi anlamlarına gelir; bağlama göre çevirin.",
+  "note": ""
+ },
+ {
+  "id": "drought",
+  "senses": [
+   "kuraklık"
+  ],
+  "ex": [
+   "Uzun kuraklık sırasında nehir kurudu.",
+   "Uzun süren kuraklık tarımsal verimi düşürebilir ve kırsal toplulukları ithal gıdaya bağımlı hâle getirebilir."
+  ],
+  "col": [
+   "şiddetli kuraklık",
+   "uzun süreli kuraklık",
+   "kuraklık koşulları",
+   "kuraklık yardımı"
+  ],
+  "tip": "Telaffuzu \"draft\" değil, out ile kafiyeli \"draut\" gibidir. draught (taslak; hava akımı) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "engage",
+  "senses": [
+   "ilgisini çekmek; katmak",
+   "katılmak; uğraşmak",
+   "tutmak; işe almak"
+  ],
+  "ex": [
+   "Kukla gösterisi en küçük çocukların bile ilgisini çekti.",
+   "Okullar, öğrencileri iş birliğini ve sorumluluk duygusunu geliştiren toplumsal etkinliklere katılmaya teşvik etmelidir."
+  ],
+  "col": [
+   "tartışmaya katılmak",
+   "izleyiciyle ilgi kurmak",
+   "birinin dikkatini çekmek",
+   "bir danışman tutmak"
+  ],
+  "tip": "Bir etkinliğe katılmak için engage in, biriyle etkileşim kurmak için engage with kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "parliament",
+  "senses": [
+   "meclis; parlamento"
+  ],
+  "ex": [
+   "Sınıfımız parlamentoyu ziyaret etti ve canlı bir tartışmayı izledi.",
+   "Parlamento, kamu finansmanını onaylamadan önce büyük altyapı projelerinin uzun vadeli çevresel sonuçlarını incelemelidir."
+  ],
+  "col": [
+   "milletvekili",
+   "parlamento tartışması",
+   "meclisi feshetmek"
+  ],
+  "tip": "Belirli bir ülkenin meclisini anlatırken genellikle büyük harfle yazılır. İngiltere'de milletvekili kısaca MP'dir.",
+  "note": ""
+ },
+ {
+  "id": "ridiculous",
+  "senses": [
+   "gülünç; saçma"
+  ],
+  "ex": [
+   "Bu minik sandviç gülünç derecede pahalıya satılıyor.",
+   "Mevcut hizmetlerin güvenilirliğini artırmadan toplu taşıma kullanımının yükselmesini beklemek saçmadır."
+  ],
+  "col": [
+   "saçma bir fikir",
+   "gülünç görünmek",
+   "tamamen saçma"
+  ],
+  "tip": "Sadece komik değil, mantıksız ve saçma olduğunu vurgular; güçlü bir eleştiri tonu taşır.",
+  "note": ""
+ }
+]

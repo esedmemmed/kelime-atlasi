@@ -1,0 +1,278 @@
+[
+ {
+  "id": "deceive",
+  "senses": [
+   "aldatmak; kandırmak"
+  ],
+  "ex": [
+   "Satıcı bisikletin durumu hakkında beni kandırdı.",
+   "Yanıltıcı reklamlar, sağlığa pek faydası olmayan ürünleri satın almaya tüketicileri aldatabilir."
+  ],
+  "col": [
+   "birini bir şeyi yapmaya kandırmak",
+   "kendini aldatmak",
+   "bilerek aldatmak"
+  ],
+  "tip": "Kalıp: deceive someone into doing something. into'dan sonra fiil -ing hâlinde gelir.",
+  "note": ""
+ },
+ {
+  "id": "limitation",
+  "senses": [
+   "sınırlılık; kusur",
+   "sınırlama; kısıtlama"
+  ],
+  "ex": [
+   "Bu kameranın başlıca eksikliği pil ömrüdür.",
+   "Araştırmacılar, daha geniş bir nüfus hakkında sonuç çıkarmadan önce küçük örneklemlerin sınırlılıklarını kabul etmelidir."
+  ],
+  "col": [
+   "bir çalışmanın sınırlılıkları",
+   "üzerine kısıtlama getirmek",
+   "bütçe kısıtlamaları",
+   "kendi sınırlarını kabul etmek"
+  ],
+  "tip": "“Sınırlılık, eksiklik” anlamında çoğul sıkça kullanılır. “Üzerindeki sınırlama” için limitation on kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "conflict",
+  "senses": [
+   "çatışma; anlaşmazlık",
+   "çelişki; uyuşmazlık",
+   "çatışmak; ters düşmek"
+  ],
+  "ex": [
+   "Aynı odayı paylaşmak bazen kardeşler arasında kavgaya yol açıyor.",
+   "Ekonomik büyüme, sanayi fosil yakıtlara ağır biçimde bağımlıysa çevre korumayla çatışabilir."
+  ],
+  "col": [
+   "bir anlaşmazlığı çözmek",
+   "ile çelişmek",
+   "çıkar çatışması"
+  ],
+  "tip": "İsimde vurgu ilk hecededir (CONflict), fiilde ikinci hecededir (conFLICT). Vurguya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "punctual",
+  "senses": [
+   "dakik; zamanında"
+  ],
+  "ex": [
+   "Lütfen dakik olun; otobüs herkesi bekleyemez.",
+   "Dakik çalışanlar, toplantıların ve günlük işlerin zamanında başlamasını sağlayarak kuruluşların verimli çalışmasına yardımcı olur."
+  ],
+  "col": [
+   "toplantıya zamanında olmak",
+   "zamanında varış",
+   "dakik hizmet"
+  ],
+  "tip": "Sıfattır; zarf hâli punctually'dir. Toplantı için be punctual for a meeting kalıbında for kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "peg",
+  "senses": [
+   "askı; tutturma çivisi",
+   "mandal",
+   "bağlamak; endekslemek"
+  ],
+  "ex": [
+   "Islak paltonuzu kapının yanındaki askıya asın.",
+   "Bazı hükümetler, döviz kuru belirsizliğini azaltmak için para birimlerini büyük bir yabancı para birimine bağlıyor."
+  ],
+  "col": [
+   "çadır kazığı",
+   "çamaşır mandalı",
+   "bir para birimini bağlamak"
+  ],
+  "tip": "Fiil kalıbı: peg A to B (A'yı B'ye bağlamak). Amerikan İngilizcesinde çamaşır mandalı clothespin olarak da geçer.",
+  "note": ""
+ },
+ {
+  "id": "concrete",
+  "senses": [
+   "beton",
+   "somut; belirli",
+   "betondan yapılmış"
+  ],
+  "ex": [
+   "İşçiler ıslak betonu ahşap kalıbın içine döktü.",
+   "Hükümetler, çevre sorunlarına yönelik pahalı çözümlere kamu parası yatırmadan önce somut kanıta ihtiyaç duyar."
+  ],
+  "col": [
+   "betonarme",
+   "somut kanıt",
+   "somut adımlar",
+   "somut bir örnek"
+  ],
+  "tip": "Sıfat olarak “somut” anlamı önemlidir; soyut (abstract) kavramın karşıtıdır. Yapı malzemesi olarak “beton” anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "joyful",
+  "senses": [
+   "neşeli; sevinçli"
+  ],
+  "ex": [
+   "Mutfaktan neşeli kahkahalar geliyordu.",
+   "Toplum festivalleri, farklı geçmişlerden gelen sakinler arasındaki sosyal bağları güçlendirebilecek neşeli ortak deneyimler yaratır."
+  ],
+  "col": [
+   "sevinçli bir olay",
+   "neşeli kahkaha",
+   "sevinçli bir buluşma"
+  ],
+  "tip": "Happy'den daha güçlü bir sevinci anlatır. Genellikle olaylar, sesler ve buluşmalar için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "virtual",
+  "senses": [
+   "sanal; çevrimiçi",
+   "fiilen; neredeyse"
+  ],
+  "ex": [
+   "Dün müzeyi sanal olarak gezdik.",
+   "Sanal sınıflar eğitime erişimi genişletebilir; ancak etkili katılım için güvenilir internet bağlantısı hâlâ şarttır."
+  ],
+  "col": [
+   "sanal gerçeklik",
+   "sanal sınıf",
+   "sanal tur",
+   "fiilen bir tekel"
+  ],
+  "tip": "Bilgisayarla ilgili “sanal” anlamının yanında “fiilen, neredeyse” anlamı da vardır. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "handling",
+  "senses": [
+   "ele alış; yönetim",
+   "elleme; taşıma",
+   "yol tutuşu; sürüş"
+  ],
+  "ex": [
+   "Şikâyeti sakin bir şekilde ele alışı herkesi etkiledi.",
+   "Ev atıklarının etkili bir şekilde yönetilmesi, yerel yönetimler, geri dönüşüm şirketleri ve sakinler arasında iş birliği gerektirir."
+  ],
+  "col": [
+   "şikâyetlerin ele alınması",
+   "güvenli taşıma",
+   "elle taşıma",
+   "işlem ücretleri"
+  ],
+  "tip": "Nasıl ele alındığını anlatırken handling of + işin adı kalıbı kullanılır: handling of complaints.",
+  "note": ""
+ },
+ {
+  "id": "hence",
+  "senses": [
+   "bu yüzden; dolayısıyla",
+   "şimdiden itibaren; sonra"
+  ],
+  "ex": [
+   "Fırın bozuldu, bu yüzden bu akşam soğuk yemek yiyeceğiz.",
+   "Kentsel nüfus hızla artıyor; dolayısıyla hükümetlerin güvenilir toplu taşımaya daha fazla yatırım yapması gerekiyor."
+  ],
+  "col": [
+   "bu yüzden ... gerekliliği",
+   "bunun için ... önemi",
+   "yıllar sonra"
+  ],
+  "tip": "Resmî bir kelimedir; therefore gibi kullanılır. years hence gibi kalıplarda “şimdiden sonra” anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "adore",
+  "senses": [
+   "çok sevmek; tapmak"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam sessiz öğleden sonraları bahçelerinde geçirmeyi çok severler.",
+   "Birçok ziyaretçi tarihi mahalleleri çok sevse de aşırı turizm sakinlerin günlük yaşamını bozabilir."
+  ],
+  "col": [
+   "kesinlikle bayılmak",
+   "bir şeyi yapmayı çok sevmek",
+   "birini çok sevmek"
+  ],
+  "tip": "like'tan daha güçlü bir sevgi ifade eder. Doğrudan isim veya -ing yapısıyla kullanılır; to + fiil kalıbı nadirdir.",
+  "note": ""
+ },
+ {
+  "id": "frustrate",
+  "senses": [
+   "sinirlendirmek; bezdirmek",
+   "engellemek; boşa çıkarmak"
+  ],
+  "ex": [
+   "Bu sürekli gecikmeler otobüs bekleyen herkesi sinirlendiriyor.",
+   "Karmaşık başvuru süreçleri, işlerini genişletmek için finansal desteğe ihtiyaç duyan küçük işletme sahiplerini engelleyebilir."
+  ],
+  "col": [
+   "çabaları boşa çıkarmak",
+   "bir planı bozmak",
+   "çok bezgin"
+  ],
+  "tip": "İnsan için frustrated (sinirli, bezgin), şey için frustrating (sinir bozucu) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "infection",
+  "senses": [
+   "enfeksiyon; mikrop bulaşması"
+  ],
+  "ex": [
+   "Doktor, boğazımdaki ağrının enfeksiyon belirtisi olup olmadığına baktı.",
+   "Gelişmiş sanitasyon, özellikle temiz suya erişimi sınırlı topluluklarda enfeksiyon riskini azaltabilir."
+  ],
+  "col": [
+   "enfeksiyonu önlemek",
+   "enfeksiyon riski",
+   "bakteriyel enfeksiyon",
+   "enfeksiyonun yayılması"
+  ],
+  "tip": "Hem enfeksiyon sürecini hem de belirli bir enfeksiyonu (an infection) ifade eder; sayılabilir kullanımına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "cooperate",
+  "senses": [
+   "iş birliği yapmak",
+   "uyum sağlamak; yardım etmek"
+  ],
+  "ex": [
+   "Ortak bahçeyi temizlemek için komşularımızla iş birliği yaptık.",
+   "Ülkeler iklim politikası konusunda iş birliği yapmak zorunda; çünkü kirlilik sınırları aşar ve kaynağından uzaktaki topluluklara da zarar verir."
+  ],
+  "col": [
+   "ile iş birliği yapmak",
+   "bir proje üzerinde birlikte çalışmak",
+   "yakından iş birliği yapmak"
+  ],
+  "tip": "Kişiyle iş birliği için with, belirli bir konuda birlikte çalışmak için on kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "strike",
+  "senses": [
+   "grev",
+   "vurmak; çarpmak",
+   "aklına gelmek; etkilemek"
+  ],
+  "ex": [
+   "Şoförler grevde, bu yüzden eve yürüyerek döndük.",
+   "Ücret ve çalışma koşulları konusundaki görüşmeler başarısız olursa işçiler greve gidebilir."
+  ],
+  "col": [
+   "greve gitmek",
+   "grevde olmak",
+   "bir denge kurmak",
+   "birine tuhaf gelmek"
+  ],
+  "tip": "Düzensiz fiildir: strike – struck – struck. strike a balance kalıbı “bir denge kurmak” anlamındadır.",
+  "note": ""
+ }
+]

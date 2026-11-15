@@ -1,0 +1,284 @@
+[
+ {
+  "id": "hit",
+  "senses": [
+   "vurmak; çarpmak",
+   "ağır etkilemek; vurmak",
+   "büyük başarı; hit"
+  ],
+  "ex": [
+   "Top çite çarptı ve bana doğru sekti.",
+   "Artan enerji fiyatları küçük işletmeleri özellikle ağır biçimde vurdu; birçok sahibi çalışma saatlerini kısaltmak zorunda kaldı."
+  ],
+  "col": [
+   "topa vurmak",
+   "ağır darbe almak",
+   "büyük başarı",
+   "bir hedefi vurmak"
+  ],
+  "tip": "Üç hâlinde de (hit, hit, hit) aynı biçimde kalır; -ing hâli hitting olur. Geçmiş zaman için hitted yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "lift",
+  "senses": [
+   "kaldırmak; yükseltmek",
+   "asansör",
+   "bindirme; yol verme"
+  ],
+  "ex": [
+   "Bu kutuyu rafa kaldırmama yardım eder misin?",
+   "Eski kamu binalarına asansör yerleştirmek, tekerlekli sandalye kullanıcıları ve hareket kısıtlılığı olan kişiler için erişimi iyileştirebilir."
+  ],
+  "col": [
+   "ağırlık kaldırmak",
+   "asansöre binmek",
+   "birini arabayla bırakmak",
+   "bir yasağı kaldırmak"
+  ],
+  "tip": "Fiil olarak 'kaldırmak', isim olarak 'asansör' anlamındadır. Amerikan İngilizcesinde asansör için genellikle elevator kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "appointment",
+  "senses": [
+   "randevu",
+   "atama; görevlendirme"
+  ],
+  "ex": [
+   "Yarın sabah erkenden bir diş randevum var.",
+   "Esnek çalışma saatleri, çalışanların tüm bir günü izin almadan tıbbi randevularına katılmasına olanak tanır."
+  ],
+  "col": [
+   "randevu almak",
+   "randevuyu iptal etmek",
+   "yalnızca randevuyla",
+   "bir müdürün atanması"
+  ],
+  "tip": "Biriyle görüşme ayarlamak için appointment with, bir göreve atama için appointment as/of kalıpları kullanılır. 'Randevu' ve 'atama' anlamlarını karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "penny",
+  "senses": [
+   "peni",
+   "bir sentlik madeni para"
+  ],
+  "ex": [
+   "Bu sabah kanepenin altında bir peni buldum.",
+   "Düşük gelirli aileler için enerji faturalarında tasarruf edilen her kuruş fark yaratabilir."
+  ],
+  "col": [
+   "her kuruşu",
+   "bir kuruş bile",
+   "her kuruşuna değer"
+  ],
+  "tip": "İngiliz parasında tutar için pence, birden fazla madeni para için pennies kullanılır. Penny tekil bir madeni parayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "jam",
+  "senses": [
+   "reçel",
+   "trafik sıkışıklığı; tıkanma",
+   "sıkışmak; tıkanmak; tıkıştırmak"
+  ],
+  "ex": [
+   "Bu sabah tostuma çilekli reçel sürdüm.",
+   "Sık görülen trafik sıkışıklıkları hava kirliliğini artırır ve kent sakinlerinin günlük yolculuklarını daha stresli hâle getirir."
+  ],
+  "col": [
+   "çilek reçeli",
+   "trafik sıkışıklığı",
+   "sıkışıp kalmak",
+   "bir şeyi içine tıkıştırmak"
+  ],
+  "tip": "Reçel anlamında genellikle sayılamayan isim, trafik sıkışıklığı anlamında sayılabilir isimdir: a traffic jam.",
+  "note": ""
+ },
+ {
+  "id": "normally",
+  "senses": [
+   "genellikle; normalde",
+   "normal şekilde; düzgün"
+  ],
+  "ex": [
+   "Çok yağmur yağmadıkça genellikle işe yürüyerek giderim.",
+   "Öğrenciler, öğretmenler çalışmalarını nasıl geliştirecekleri konusunda net yönlendirme sunduğunda düzenli geri bildirimden genellikle yararlanır."
+  ],
+  "col": [
+   "genellikle beklemek",
+   "normal çalışmak",
+   "normal nefes almak"
+  ],
+  "tip": "'Genellikle' (sıklık) ve 'normal şekilde' (durum) anlamlarında kullanılır. Sıklık anlamında genellikle fiilden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "pound",
+  "senses": [
+   "İngiliz lirası; sterlin",
+   "libre; pound",
+   "art arda vurmak; küt küt atmak"
+  ],
+  "ex": [
+   "Bu elma torbası için bir sterlin ödedim.",
+   "Zayıf sterlin uluslararası turistleri çekebilir, ancak ithal mal maliyetlerini de artırır."
+  ],
+  "col": [
+   "İngiliz lirası",
+   "bir libre tereyağı",
+   "kapıya art arda vurmak",
+   "kalbi küt küt atmak"
+  ],
+  "tip": "Para birimi ve ağırlık birimi aynı kelimedir; bağlamdan anlaşılır. Çoğul biçimi pounds'tur.",
+  "note": ""
+ },
+ {
+  "id": "goal",
+  "senses": [
+   "hedef; amaç",
+   "gol",
+   "kale; file"
+  ],
+  "ex": [
+   "Amacım havuzu yardımsız yüzerek geçmek.",
+   "Gerçekçi hedefler koymak, üniversite öğrencilerinin zamanlarını yönetmesine ve zorlu derslerde motivasyonlarını korumasına yardımcı olabilir."
+  ],
+  "col": [
+   "hedef koymak",
+   "bir hedefe ulaşmak",
+   "uzun vadeli hedef",
+   "gol atmak"
+  ],
+  "tip": "'Hedef' anlamında set veya achieve ile, spor için score a goal kalıbıyla kullanılır. Ayrıca 'hedef' için target da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "disappear",
+  "senses": [
+   "gözden kaybolmak; ortadan kaybolmak",
+   "yok olmak; ortadan kalkmak"
+  ],
+  "ex": [
+   "Botun kalın sisin içinde kaybolmasını izledik.",
+   "Hükümetler ustaca el işi yapan işçileri desteklemez ve genç kuşakları bunları öğrenmeye teşvik etmezse birçok geleneksel zanaat yok olabilir."
+  ],
+  "col": [
+   "gözden kaybolmak",
+   "izsiz kaybolmak",
+   "tamamen yok olmak"
+  ],
+  "tip": "Genellikle geçişsiz bir fiildir; nesne almaz ve be disappeared biçiminde edilgen kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "push",
+  "senses": [
+   "itmek; basmak",
+   "zorlamak; itelemek",
+   "itme; güçlü çaba"
+  ],
+  "ex": [
+   "Ben çantaları taşırken sepeti itebilir misin?",
+   "Okullar, öğrencileri sürekli sınıf arkadaşlarıyla yarışmaya zorlamadan akademik ilerlemeyi teşvik etmelidir."
+  ],
+  "col": [
+   "bir düğmeye basmak",
+   "birini bir şey yapmaya zorlamak",
+   "reform için bastırmak",
+   "fiyatları yükseltmek"
+  ],
+  "tip": "push 'itmek', pull 'çekmek' anlamına gelir. push for ise 'için ısrarla çalışmak' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "theatre",
+  "senses": [
+   "tiyatro; tiyatro binası",
+   "tiyatro sanatı",
+   "ameliyathane"
+  ],
+  "ex": [
+   "Oyun başlamadan hemen önce tiyatroya vardık.",
+   "Tiyatroya kamu desteği sağlanırsa, pahalı biletleri karşılayamayan seyirciler de canlı gösterilere ulaşabilir."
+  ],
+  "col": [
+   "tiyatroya gitmek",
+   "tiyatro topluluğu",
+   "müzikal tiyatro",
+   "ameliyathane"
+  ],
+  "tip": "İngiliz yazımı theatre, Amerikan yazımı theater'dır. Sinema salonu için İngilizcede cinema kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "scientist",
+  "senses": [
+   "bilim insanı"
+  ],
+  "ex": [
+   "Bilim insanı bir damla suyu mikroskop altında inceledi.",
+   "Bilim insanları, fosil yakıtlardan yenilenebilir enerjiye geçişi desteklemek için daha verimli piller geliştiriyor."
+  ],
+  "col": [
+   "araştırma bilim insanı",
+   "önde gelen bilim insanı",
+   "çevre bilimci"
+  ],
+  "tip": "scientist insanı, science bilimi, scientific ise sıfat olarak 'bilimsel' anlamına gelir. Bu üç kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "denmark",
+  "senses": [
+   "Danimarka"
+  ],
+  "ex": [
+   "Kuzenim mimarlık okumak için Danimarka'ya taşındı.",
+   "Danimarka, bisiklet altyapısının daha sağlıklı ve sürdürülebilir kentsel ulaşımı nasıl destekleyebileceğine dair yararlı örnekler sunuyor."
+  ],
+  "col": [
+   "Danimarka'yı ziyaret etmek",
+   "Danimarka'da yaşamak",
+   "Danimarka'nın başkenti"
+  ],
+  "tip": "Ülke adlarının başında genellikle the kullanılmaz. Danimarkalı kişi için Dane kelimesi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "eighth",
+  "senses": [
+   "sekizinci",
+   "sekizde bir"
+  ],
+  "ex": [
+   "Dairemiz bu binanın sekizinci katında.",
+   "Anket, genç profesyonellerin nerede yaşamayı seçtiklerini etkileyen faktörler arasında toplu taşımayı sekizinci sırada gösterdi."
+  ],
+  "col": [
+   "sekizinci kat",
+   "sekizinci sıra",
+   "sekizde biri"
+  ],
+  "tip": "Sıra sayılarında genellikle the kullanılır. Sondaki th sesi /θ/ şeklinde okunur, /t/ gibi okunmaz.",
+  "note": ""
+ },
+ {
+  "id": "luckily",
+  "senses": [
+   "neyse ki; şans eseri"
+  ],
+  "ex": [
+   "Çantam açıldı ama neyse ki içinden hiçbir şey düşmedi.",
+   "Fırtına birkaç sınıfa zarar verdi, ancak neyse ki okul öğrencilerini çoktan daha güvenli bir binaya taşımıştı."
+  ],
+  "col": [
+   "bizim için neyse ki",
+   "iyi ki yeterince",
+   "neyse ki kimse yaralanmadı"
+  ],
+  "tip": "Genellikle tüm cümleyi niteler. Cümle başında kullanıldığında virgülle ayrılır. Anlam olarak fortunately ile yakındır.",
+  "note": ""
+ }
+]

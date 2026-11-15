@@ -1,0 +1,283 @@
+[
+ {
+  "id": "ignore",
+  "senses": [
+   "görmezden gelmek; aldırmamak"
+  ],
+  "ex": [
+   "Lütfen motordan gelen o garip sesi görmezden gelme.",
+   "Hükümetler, hava kirliliğinin çocukların sağlığı ve gelişimi üzerindeki uzun vadeli etkilerini göz ardı edemez."
+  ],
+  "col": [
+   "bir uyarıyı görmezden gelmek",
+   "kanıtları yok saymak",
+   "tamamen görmezden gelmek"
+  ],
+  "tip": "Doğrudan nesne alır: ignore + isim veya kişi. Hukukta 'davayı reddetmek' anlamına gelmez, yalnızca dikkate almamak demektir.",
+  "note": ""
+ },
+ {
+  "id": "regularly",
+  "senses": [
+   "sık sık; düzenli olarak",
+   "düzenli aralıklarla; düzgünce"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra düzenli olarak nehir kenarında yürüyoruz.",
+   "Düzenli egzersiz yapan insanların yaşlandıkça iyi fiziksel sağlıklarını koruma olasılığı daha yüksektir."
+  ],
+  "col": [
+   "düzenli egzersiz yapmak",
+   "düzenli olarak kontrol etmek",
+   "düzenli olarak güncellenen",
+   "eşit aralıklarla yerleştirilmiş"
+  ],
+  "tip": "Her gün anlamına gelmez; 'sık sık' ya da 'belirli aralıklarla' anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "babysitter",
+  "senses": [
+   "bakıcı; çocuk bakıcısı"
+  ],
+  "ex": [
+   "Çocuklar yemek yerken bakıcı onlara bir hikâye okudu.",
+   "Güvenilir bir bakıcı bulmak, ebeveynlerin ara sıra yaptıkları akşam işlerini çocuk bakım sorumluluklarıyla dengelemelerine yardımcı olabilir."
+  ],
+  "col": [
+   "bakıcı tutmak",
+   "güvenilir bakıcı",
+   "bakıcı bulmak"
+  ],
+  "tip": "Yalnızca bebek bakıcısı değil, ebeveynler evde yokken her yaştaki çocuğa geçici olarak bakan kişi için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "urgent",
+  "senses": [
+   "acil; ivedi"
+  ],
+  "ex": [
+   "Tesisatçı hemen geldi çünkü sızıntı acildi.",
+   "Kentsel nüfus artmaya devam ettikçe uygun fiyatlı konutlara acil bir ihtiyaç doğmaktadır."
+  ],
+  "col": [
+   "acil eylem",
+   "acil bir ihtiyaç",
+   "acil tıbbi müdahale"
+  ],
+  "tip": "Sadece 'önemli' değil, hemen ilgilenilmesi gerektiği anlamını taşır; important ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "fasten",
+  "senses": [
+   "sıkıca bağlamak; takmak"
+  ],
+  "ex": [
+   "Ayrılmadan önce lütfen emniyet kemerini tak.",
+   "Yolcular, yaralanma riskini azaltmak için kalkış ve iniş sırasında emniyet kemerlerini takmak zorundadır."
+  ],
+  "col": [
+   "emniyet kemerini takmak",
+   "düğmeyi iliklemek",
+   "sıkıca bağlamak"
+  ],
+  "tip": "'t' harfi okunmaz (/ˈfɑːsn/). Zıt anlamlısı unfasten, çözmek veya açmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "role",
+  "senses": [
+   "görev; işlev",
+   "rol"
+  ],
+  "ex": [
+   "Benim görevim misafirleri kapıda karşılamak.",
+   "Halk kütüphaneleri, bilgi ve eğitim kaynaklarına eşit erişim sağlamada önemli bir rol oynar."
+  ],
+  "col": [
+   "rol oynamak",
+   "önemli rol",
+   "bir rol üstlenmek",
+   "başrol"
+  ],
+  "tip": "'…da rol oynamak' anlamında play a role in kalıbı kullanılır; in'den sonra isim veya -ing biçimi gelir.",
+  "note": ""
+ },
+ {
+  "id": "survive",
+  "senses": [
+   "hayatta kalmak",
+   "ayakta kalmak; varlığını sürdürmek",
+   "birinden uzun yaşamak"
+  ],
+  "ex": [
+   "Küçük kaktüsümüz üç hafta susuz hayatta kaldı.",
+   "Yerel müşterilerle güçlü ilişkiler sürdürdüklerinde küçük işletmeler ekonomik durgunluklardan ayakta kalabilme olasılığı daha yüksektir."
+  ],
+  "col": [
+   "bir kazadan sağ kurtulmak",
+   "bir şeyle geçinmek",
+   "bir krizi atlatmak"
+  ],
+  "tip": "Kazadan sağ kurtulmak için doğrudan survive an accident denir; survive on ise 'bir şeyle geçinmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "balance",
+  "senses": [
+   "denge; ölçü",
+   "dengelemek; gözetmek",
+   "bakiye; kalan tutar"
+  ],
+  "ex": [
+   "Otobüsten inerken dengesini kaybetti.",
+   "Hükümetler, uygun fiyatlı konut talebiyle yeşil alanları koruma ihtiyacını dengelemek zorundadır."
+  ],
+  "col": [
+   "dengeyi korumak",
+   "denge kurmak",
+   "iş-yaşam dengesi",
+   "banka bakiyesi"
+  ],
+  "tip": "İki şeyi birlikte gözetmek için balance A with B kalıbı kullanılır; 'dengeli beslenme' gibi sıfat için balanced kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cheat",
+  "senses": [
+   "kopya çekmek; hile yapmak",
+   "aldatmak; dolandırmak",
+   "hileci; dolandırıcı"
+  ],
+  "ex": [
+   "Kuzenim kartları masanın altına saklayarak hile yaptı.",
+   "Okullar, öğrencileri ezbere değil özgün düşünceye ödül veren değerlendirmeler tasarlayarak kopya çekmekten caydırabilir."
+  ],
+  "col": [
+   "sınavda kopya çekmek",
+   "kağıt oyununda hile yapmak",
+   "birinin parasını dolandırarak almak"
+  ],
+  "tip": "Birinden bir şeyi dolandırarak almak için cheat someone out of something kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "departure",
+  "senses": [
+   "ayrılış; kalkış; hareket",
+   "sapma; değişiklik"
+  ],
+  "ex": [
+   "Yola çıkmadan bir gece önce valizlerimizi hazırladık.",
+   "Yeni konut politikası, kentsel gelişime yönelik önceki yaklaşımlardan önemli bir sapmayı temsil ediyor."
+  ],
+  "col": [
+   "kalkış saati",
+   "kalkış salonu",
+   "gelenekten sapma"
+  ],
+  "tip": "departure from, bağlama göre '…den ayrılış' ya da '…den sapma' anlamına gelebilir; çeviri cümleye göre seçilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "economy",
+  "senses": [
+   "ekonomi; ekonomik yapı",
+   "tasarruf; idareli kullanım"
+  ],
+  "ex": [
+   "Turistler burada alışveriş yaparak yerel ekonomiyi destekliyor.",
+   "Yenilenebilir enerjiye yapılan yatırım, ithal yakıta bağımlılığı azaltırken ekonomiyi güçlendirebilir."
+  ],
+  "col": [
+   "yerel ekonomi",
+   "küresel ekonomi",
+   "ekonomiyi canlandırmak",
+   "yakıt tasarrufu"
+  ],
+  "tip": "economic 'ekonomiye ilişkin', economical ise 'tutumlu, az harcamalı' anlamına gelir; birbirinin yerine kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "security",
+  "senses": [
+   "güvenlik; emniyet",
+   "güvenlik personeli; koruma",
+   "istikrar; güvence"
+  ],
+  "ex": [
+   "Evimizin güvenliğini artırmak için daha sağlam kilitler taktırdık.",
+   "Hizmetler çevrimiçi ortama taşındıkça kuruluşlar kişisel bilgileri korumak için veri güvenliğini güçlendirmelidir."
+  ],
+  "col": [
+   "güvenlik önlemleri",
+   "veri güvenliği",
+   "iş güvencesi",
+   "güvenlik görevlisi"
+  ],
+  "tip": "security tehditlere karşı korumaya odaklanır; safety ise daha genel olarak tehlikelerden korunmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "culture",
+  "senses": [
+   "kültür; gelenek görenek",
+   "kültürel etkinlik; sanat",
+   "üreme ortamı; kültür"
+  ],
+  "ex": [
+   "Geleneksel yemekleri birlikte yemek, çocukların kendi kültürlerini öğrenmelerine yardımcı olur.",
+   "Yerel kültürün korunması, topluluk kimliğini güçlendirirken sakinlerin uluslararası etkileşimden yararlanmasına da olanak tanıyabilir."
+  ],
+  "col": [
+   "yerel kültür",
+   "kültürler arası alışveriş",
+   "popüler kültür",
+   "bakteri kültürü"
+  ],
+  "tip": "Genel anlamda kültür sayılamaz; farklı kültürlerden söz edilirken cultures kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "personality",
+  "senses": [
+   "kişilik; mizaç",
+   "çekicilik; karizma",
+   "ünlü kişi; şöhret"
+  ],
+  "ex": [
+   "Neşeli kişiliği, akşam yemeğinde herkesin kendini hoş karşılanmış hissetmesini sağlıyor.",
+   "Okullar, kişilik farklılıklarının öğrencilerin grup etkinliklerine katılımını etkileyebileceğini kabul etmelidir."
+  ],
+  "col": [
+   "dışa dönük kişilik",
+   "kişilik özellikleri",
+   "güçlü kişilik",
+   "televizyon yüzü"
+  ],
+  "tip": "Kişilik anlamında sayılabilir; have personality ise 'çekici ve karizmatik olmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "defeat",
+  "senses": [
+   "yenmek; mağlup etmek",
+   "yenilgi; başarısızlık",
+   "boşa çıkarmak; engellemek"
+  ],
+  "ex": [
+   "Takımımız heyecanlı bir finalde şampiyonu yendi.",
+   "Seçim yenilgisi bir siyasi partiyi zedeleyebilse de gerekli liderlik ve politika değişikliklerini teşvik edebilir."
+  ],
+  "col": [
+   "bir rakibi yenmek",
+   "yenilgiye uğramak",
+   "yenilgiyi kabul etmek",
+   "amacı boşa çıkarmak"
+  ],
+  "tip": "Rakibi yenmek için defeat, kazanılan şey için ise win kullanılır (win a match, win a prize).",
+  "note": ""
+ }
+]

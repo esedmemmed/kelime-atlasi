@@ -1,0 +1,286 @@
+[
+ {
+  "id": "greatly",
+  "senses": [
+   "büyük ölçüde; çok"
+  ],
+  "ex": [
+   "Net yönergeleriniz kulübeyi bulmamıza büyük ölçüde yardımcı oldu.",
+   "Uygun fiyatlı çocuk bakımına erişim, ebeveynlerin çalışmaya devam etme ve daha ileri eğitim alma becerilerini büyük ölçüde artırabilir."
+  ],
+  "col": [
+   "büyük ölçüde geliştirmek",
+   "büyük ölçüde azaltmak",
+   "çok takdir etmek",
+   "büyük farklılık göstermek"
+  ],
+  "tip": "Genellikle fiilleri değiştirir (greatly improve). 'greatly good' gibi sıfatlarla kullanmayın; bunun yerine 'very' veya 'really' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "dictate",
+  "senses": [
+   "yazdırmak; diktə etmek",
+   "buyurmak; emretmek",
+   "belirlemek; şekillendirmek"
+  ],
+  "ex": [
+   "Ben yazarken mesajınızı yavaşça yazdırın lütfen.",
+   "Mali baskılar, üniversitelerin hangi dersleri açacağını çoğu zaman belirler; bu da daha az kârlı alanlarda fırsatları sınırlayabilir."
+  ],
+  "col": [
+   "mektubu yazdırmak",
+   "koşulları dayatmak",
+   "politika belirlemek"
+  ],
+  "tip": "Dictate, birine yazdırmak anlamına gelir. 'Dikte yazmak' anlamında ise 'take dictation' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "combat",
+  "senses": [
+   "mücadele etmek; önlemek",
+   "savaş; çatışma"
+  ],
+  "ex": [
+   "Öğleden sonraki sıcakla mücadele etmek için pencereleri açtık.",
+   "Hükümetler, toplu taşımayı iyileştirerek ve endüstriyel emisyonlara daha sıkı sınırlar getirerek hava kirliliğiyle mücadele edebilir."
+  ],
+  "col": [
+   "iklim değişikliğiyle mücadele etmek",
+   "yoksullukla mücadele etmek",
+   "hastalıkla mücadele etmek",
+   "silahlı çatışma"
+  ],
+  "tip": "Fiil olarak doğrudan sorun veya tehlike ile kullanılır; 'against' eklemeye gerek yoktur.",
+  "note": ""
+ },
+ {
+  "id": "reform",
+  "senses": [
+   "reform yapmak; iyileştirmek",
+   "reform; ıslahat",
+   "ıslah etmek; düzelmek"
+  ],
+  "ex": [
+   "Veliler okulun kabul sürecini yeniden düzenlemesini istiyor.",
+   "Sağlık reformu, temel hizmetlere eşit erişimi sağlarken bekleme sürelerini azaltmaya odaklanmalıdır."
+  ],
+  "col": [
+   "eğitim sistemini reform etmek",
+   "ekonomik reform",
+   "reformlar yapmak",
+   "köklü reformlar"
+  ],
+  "tip": "Reform, mevcut bir sistemi iyileştirmek anlamına gelir; her zaman tamamen değiştirmek anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "prescription",
+  "senses": [
+   "reçete; ilaç reçetesi",
+   "çözüm önerisi",
+   "reçeteli"
+  ],
+  "ex": [
+   "Doktor bana göz damlası için bir reçete yazdı.",
+   "Belirli ilaçlar için reçete zorunluluğu getirmek, kötüye kullanımı azaltabilir ve halk sağlığını koruyabilir."
+  ],
+  "col": [
+   "reçete yazmak",
+   "reçeteyi karşılamak",
+   "reçeteli ilaç",
+   "başarı için bir reçete"
+  ],
+  "tip": "Reçete yazılan ilaç için 'for' ile kullanılır (a prescription for eye drops). 'On prescription' ise 'reçeteyle' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "ownership",
+  "senses": [
+   "mülkiyet; sahiplik",
+   "sorumluluk; sahiplenme"
+  ],
+  "ex": [
+   "Sonunda küçük dairesinin mülkiyetini elde etti.",
+   "Temel hizmetlerin kamu mülkiyetinde olması, düşük gelirli insanlar için eşit erişimi sağlamaya yardımcı olabilir."
+  ],
+  "col": [
+   "özel mülkiyet",
+   "mülkiyeti devretmek",
+   "ev sahipliği",
+   "bir işi üstlenmek"
+  ],
+  "tip": "Genellikle sayılmayan bir isimdir. 'Take ownership of' hem mülk almak hem de bir işin sorumluluğunu üstlenmek anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "calculation",
+  "senses": [
+   "hesaplama; hesap",
+   "tahmin; değerlendirme"
+  ],
+  "ex": [
+   "Hesabıma göre akşam yemeği için yeterli paramız vardı.",
+   "Enerji maliyetlerinin doğru hesaplanması, hanelerin ısıtma sistemlerini karşılaştırmasına ve uzun vadeli yatırımlar hakkında bilinçli kararlar almasına yardımcı olur."
+  ],
+  "col": [
+   "hesaplama yapmak",
+   "doğru hesaplama",
+   "hesaplama hatası",
+   "hesaplamalarıma göre"
+  ],
+  "tip": "Belirli bir hesaplama sonucu sayılabilir; hesaplama süreci genel olarak anlatılırken sayılamaz olarak kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "carriage",
+  "senses": [
+   "vagon; yolcu vagonu",
+   "at arabası",
+   "nakliye; navlun"
+  ],
+  "ex": [
+   "Son vagonda iki boş koltuk bulduk.",
+   "Her trene ek bir vagon eklemek, aşırı kalabalığı azaltabilir ve işe gidip gelen yolcuların günlük deneyimini iyileştirebilir."
+  ],
+  "col": [
+   "demiryolu vagonu",
+   "at arabası",
+   "nakliye ücretleri"
+  ],
+  "tip": "İngiliz İngilizcesinde tren vagonu için 'carriage', Amerikan İngilizcesinde ise genellikle 'car' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ecosystem",
+  "senses": [
+   "ekosistem"
+  ],
+  "ex": [
+   "Bu küçük gölet şaşırtıcı derecede zengin bir ekosistemi barındırıyor.",
+   "Tek bir türün ortadan kaldırılması, organizmalar hayatta kalmak için birbirine bağlı olduğundan tüm ekosistemi bozabilir."
+  ],
+  "col": [
+   "deniz ekosistemi",
+   "kırılgan ekosistem",
+   "ekosistemleri korumak",
+   "bir ekosistemi bozmak"
+  ],
+  "tip": "Yalnızca canlı türlerin topluluğu değil, canlıların çevreleriyle birlikte oluşturduğu sistemi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "declare",
+  "senses": [
+   "ilan etmek; açıklamak",
+   "beyan etmek"
+  ],
+  "ex": [
+   "Yarışmanın kazananı olarak onu jüri ilan etti.",
+   "Yerel yönetimler, önemli bir toplumsal kutlamaya katılımı teşvik etmek için resmi tatil ilan edebilir."
+  ],
+  "col": [
+   "kazananı ilan etmek",
+   "acil durum ilan etmek",
+   "malı beyan etmek",
+   "geliri beyan etmek"
+  ],
+  "tip": "'Declare' kamuya veya resmen duyurmayı vurgular; gümrükte beyan etmek için de aynı fiil kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vivid",
+  "senses": [
+   "canlı; parlak",
+   "canlı; akılda kalıcı"
+  ],
+  "ex": [
+   "Canlı turuncu eşarpı karın üzerinde dikkat çekiyordu.",
+   "Kişisel anlatımlar tarihi olayları canlı ayrıntılarla anlatır ve öğrencilerin bu olayların insanlar üzerindeki etkisini anlamalarına yardımcı olur."
+  ],
+  "col": [
+   "canlı renkler",
+   "canlı bir anı",
+   "canlı bir betimleme",
+   "canlı bir hayal gücü"
+  ],
+  "tip": "Renkler için de, zihinde canlanan anılar veya betimlemeler için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "fraud",
+  "senses": [
+   "dolandırıcılık; sahtekârlık",
+   "sahtekâr; sahte şey"
+  ],
+  "ex": [
+   "Banka, hesabımda olası bir dolandırıcılık fark edince beni aradı.",
+   "Daha güçlü tüketici koruma yasaları, çevrimiçi dolandırıcılığın önlenmesine yardımcı olabilir ve dijital ödemelere olan kamu güvenini artırabilir."
+  ],
+  "col": [
+   "dolandırıcılık yapmak",
+   "kimlik hırsızlığı",
+   "sigorta dolandırıcılığı",
+   "tam bir sahtekârlık"
+  ],
+  "tip": "Dolandırıcılık eylemi genellikle sayılamaz; bir kişiyi sahtekâr olarak tanımlarken 'a fraud' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "faulty",
+  "senses": [
+   "arızalı; bozuk",
+   "hatalı; yanlış"
+  ],
+  "ex": [
+   "Elektrikçi mutfağımızdaki arızalı anahtarı değiştirdi.",
+   "Yanlış varsayımlara dayanan politikalar, kentsel yoksulluğun altında yatan nedenleri ele almakta başarısız olabilir."
+  ],
+  "col": [
+   "arızalı ekipman",
+   "arızalı kablolama",
+   "hatalı akıl yürütme",
+   "yanlış varsayımlar"
+  ],
+  "tip": "Hem cihaz arızası hem de yanlış mantık veya bilgi için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "burrow",
+  "senses": [
+   "yuva; in",
+   "kazmak; girmek"
+  ],
+  "ex": [
+   "Bir tavşan çalının altındaki inine kayboldu.",
+   "Yeraltında kazan hayvanlar, hava ve suyun daha derin katmanlara ulaşmasını sağlayarak toprak kalitesini artırabilir."
+  ],
+  "col": [
+   "tavşan inı",
+   "toprağı kazmak",
+   "battaniyenin altına girmek"
+  ],
+  "tip": "Burrow, hayvanların kazdığı yuva veya kazmak anlamına gelir; 'borrow' (ödünç almak) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "protective",
+  "senses": [
+   "koruyucu",
+   "koruyucu; kollayıcı"
+  ],
+  "ex": [
+   "Bu keskin metal parçalarına dokunmadan önce koruyucu eldiven takın.",
+   "İşverenler, tehlikeli iş yerlerinde yaralanmaları azaltmak için koruyucu ekipman ve düzenli eğitim sağlamalıdır."
+  ],
+  "col": [
+   "koruyucu giysi",
+   "koruyucu ekipman",
+   "koruyucu önlemler",
+   "birini kollamak"
+  ],
+  "tip": "Birine karşı koruyucu tutum göstermeyi anlatırken 'be protective of' kalıbı kullanılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "reliant",
+  "senses": [
+   "bağımlı; muhtaç"
+  ],
+  "ex": [
+   "Arabamız olmadığı için yerel otobüslere bağımlıyız.",
+   "İthal yakıta büyük ölçüde bağımlı olan ülkeler, küresel enerji fiyatlarındaki ani değişikliklere karşı özellikle savunmasızdır."
+  ],
+  "col": [
+   "...e bağımlı",
+   "büyük ölçüde bağımlı",
+   "giderek daha fazla bağımlı"
+  ],
+  "tip": "Genellikle reliant on kalıbıyla kullanılır. 'self-reliant' ise bağımsız, kendi kendine yeten anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "disregard",
+  "senses": [
+   "görmezden gelmek; önemsememek",
+   "umursamazlık; ilgisizlik"
+  ],
+  "ex": [
+   "Lütfen önceki mesajımı görmezden gelin; piknik hâlâ yapılacak.",
+   "Çevre yönetmeliklerini hiçe sayan şirketler kısa vadede maliyet düşürebilir, ama yerel ekosistemlerde kalıcı zarar yaratır."
+  ],
+  "col": [
+   "tavsiyeyi dikkate almamak",
+   "kuralları hiçe saymak",
+   "...e karşı tam bir ilgisizlik",
+   "güvenliğe karşı ilgisizlik"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır (disregard the rules). İsim olarak genellikle disregard for kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "discourse",
+  "senses": [
+   "tartışma; söylev",
+   "söylem; metin"
+  ],
+  "ex": [
+   "Konuşması, yerel tarih üzerine düşündürücü bir tartışmayı teşvik etti.",
+   "İklim değişikliği üzerine kamusal tartışma, giderek uzak tahminler yerine pratik çözümlere odaklanıyor."
+  ],
+  "col": [
+   "kamusal tartışma",
+   "siyasi söylem",
+   "söylem analizi"
+  ],
+  "tip": "Resmi bir kelimedir. Dilbilimde discourse metin ya da söylem anlamına gelir; sıradan 'konuşma' için talk daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "adjoin",
+  "senses": [
+   "bitişik olmak; komşu olmak"
+  ],
+  "ex": [
+   "Bahçemiz, yüksek meşe ağaçlarıyla dolu sessiz bir parka bitişik.",
+   "Endüstriyel alanlara bitişik yerleşim bölgelerinde, sakinleri gürültü ve kirlilikten korumak için ek önlemler gerekebilir."
+  ],
+  "col": [
+   "parka bitişik olmak",
+   "bitişik odalar",
+   "bitişik mülkler"
+  ],
+  "tip": "Fiilden sonra doğrudan yer adı gelir, to kullanılmaz (adjoin a park). Doğrudan komşuluğu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "pinnacle",
+  "senses": [
+   "zirve; doruk",
+   "sivri kaya; sivri çatı süsü"
+  ],
+  "ex": [
+   "Turnuvayı kazanmak, kariyerinin zirvesiydi.",
+   "Birçok araştırmacı için uluslararası tanınma, bilimsel keşfe adanmış bir kariyerin doruk noktasıdır."
+  ],
+  "col": [
+   "başarının zirvesi",
+   "zirveye ulaşmak",
+   "sivri bir kaya"
+  ],
+  "tip": "Mecazi anlamda the pinnacle of ... kalıbı sık kullanılır ve bir başarının en yüksek noktasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "dissipate",
+  "senses": [
+   "dağılmak; dağıtmak",
+   "israf etmek; savurmak"
+  ],
+  "ex": [
+   "Güneş vadiyi ısıtırken sabah sisi dağılmaya başladı.",
+   "Kentsel yeşil alanlar ısıyı dağıtmaya yardımcı olur; böylece yoğun nüfuslu bölgelerde yüksek sıcaklıkların yarattığı rahatsızlık azalır."
+  ],
+  "col": [
+   "ısıyı dağıtmak",
+   "gerginlik dağılıyor",
+   "enerjiyi boşa harcamak"
+  ],
+  "tip": "Hem geçişsiz (sis dağılır) hem geçişli (bir şeyi dağıtır) kullanılabilir. Ayrıca 'boşa harcamak' anlamı vardır.",
+  "note": ""
+ },
+ {
+  "id": "peril",
+  "senses": [
+   "tehlike; tehlikeli durum"
+  ],
+  "ex": [
+   "Ani fırtına küçük tekneyi tehlikeye attı.",
+   "Yükselen deniz seviyeleri evlerini ve temel altyapılarını tehdit ettikçe kıyı toplulukları giderek daha büyük bir tehlikeyle karşı karşıya kalıyor."
+  ],
+  "col": [
+   "tehlike içinde",
+   "birini tehlikeye atmak",
+   "...in tehlikeleri"
+  ],
+  "tip": "Danger'dan daha resmi ve edebi bir sözcüktür. in peril kalıbı, tehlike altında olmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "aesthetic",
+  "senses": [
+   "estetik; güzelliksel",
+   "estetik anlayış; üslup"
+  ],
+  "ex": [
+   "Ahşap raflar bu odaya daha fazla estetik çekicilik katıyor.",
+   "Kentsel planlamacılar, kamusal alanların hem pratik işlevini hem de estetik niteliğini göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "estetik çekicilik",
+   "estetik değer",
+   "estetik kaygılar"
+  ],
+  "tip": "Sıfat olarak 'estetik' anlamındadır. aesthetics ise genellikle estetik bilimi ya da felsefesi için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "commencement",
+  "senses": [
+   "başlangıç; açılış",
+   "mezuniyet töreni"
+  ],
+  "ex": [
+   "Oyun başlarken bir düdük sesi duyduk.",
+   "İnşaat başlamadan önce, olası zararı en aza indirmek için çevresel değerlendirmelerin tamamlanması gerekir."
+  ],
+  "col": [
+   "işin başlaması",
+   "başlangıç tarihi",
+   "mezuniyet töreni"
+  ],
+  "tip": "Resmi bir sözcüktür; start'tan daha yüksek bir dile aittir. ABD İngilizcesinde mezuniyet töreni anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "first-rate",
+  "senses": [
+   "birinci sınıf; mükemmel"
+  ],
+  "ex": [
+   "Bu küçük restoran, makul fiyatlara birinci sınıf yemekler sunuyor.",
+   "Birinci sınıf eğitime erişim, genç çalışanların işverenlerin giderek daha çok değer verdiği becerileri geliştirmesini sağlar."
+  ],
+  "col": [
+   "birinci sınıf hizmet",
+   "birinci sınıf eğitim",
+   "birinci sınıf performans"
+  ],
+  "tip": "Kalitenin üstün olduğunu anlatır, 'ilk kez' anlamına gelmez. Genellikle isimden önce sıfat olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hind",
+  "senses": [
+   "arka; arkadaki",
+   "dişi geyik"
+  ],
+  "ex": [
+   "Tavşan güçlü arka bacaklarıyla sıçradı.",
+   "Kanguru, geniş alanlarda yiyecek ararken verimli biçimde ilerleyebilmek için güçlü arka bacaklarına güvenir."
+  ],
+  "col": [
+   "arka bacaklar",
+   "arka ayaklar",
+   "arka uzuvlar"
+  ],
+  "tip": "Sıfat olarak genellikle hayvanların arka bacaklarını anlatır. Genel olarak 'arkadaki' için rear ya da back kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "optimum",
+  "senses": [
+   "en uygun; optimum",
+   "en uygun düzey; optimum"
+  ],
+  "ex": [
+   "Bu güneşli pencere pervazı, bitkilerim için en uygun koşulları sağlıyor.",
+   "Sınıftaki optimum sıcaklığı korumak, öğrencilerin dikkatini toplamasına yardımcı olabilir ve ısıtma için gereken enerjiyi azaltabilir."
+  ],
+  "col": [
+   "en uygun koşullar",
+   "optimum sıcaklık",
+   "en iyi performans"
+  ],
+  "tip": "En uygun sonucu anlatır, 'daha fazla' anlamına gelmez. Bu yüzden most optimum gibi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "ambivalent",
+  "senses": [
+   "ikircikli; kararsız"
+  ],
+  "ex": [
+   "Ailemden uzaklaşmak konusunda ikilem yaşıyorum.",
+   "Birçok tüketici, kolaylığın gizlilik kaygılarıyla dengelenmesi gerektiğini düşündüğü için çevrimiçi alışverişe karşı hâlâ ikircikli."
+  ],
+  "col": [
+   "...konusunda ikilem yaşamak",
+   "ikircikli tutum",
+   "ikircikli kalmak"
+  ],
+  "tip": "Genellikle about ile kullanılır. İlgisiz olmak değil, hem olumlu hem olumsuz duyguların bir arada olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "competitiveness",
+  "senses": [
+   "rekabet gücü",
+   "rekabetçilik; çekişmecilik"
+  ],
+  "ex": [
+   "Taze malzemeler, fırınımızın yerel düzeyde rekabet gücünü korumasına yardımcı oluyor.",
+   "Çalışan eğitimine yapılan yatırım, verimliliği artırarak ve sektörler genelinde yeniliği teşvik ederek ulusal rekabet gücünü yükseltebilir."
+  ],
+  "col": [
+   "uluslararası rekabet gücü",
+   "rekabet gücünü artırmak",
+   "fiyat rekabet gücü",
+   "ekonomik rekabet gücü"
+  ],
+  "tip": "Sayılamayan bir isimdir. competition'la karıştırılmamalı; competitiveness bir gücü ya da niteliği anlatır.",
+  "note": ""
+ },
+ {
+  "id": "intact",
+  "senses": [
+   "sağlam; bozulmamış"
+  ],
+  "ex": [
+   "Kutu ezilmişti, ama fincanlar sağlam kaldı.",
+   "Dikkatli restorasyon, tarihi binaların modern kentsel yaşamın güvenlik gereksinimlerini karşılarken bozulmadan kalmasını sağlar."
+  ],
+  "col": [
+   "bozulmadan kalmak",
+   "olduğu gibi bırakmak",
+   "tamamen sağlam"
+  ],
+  "tip": "Genellikle remain ya da leave gibi fiillerden sonra kullanılır. Hem bütünlüğü hem de hasarsızlığı anlatır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,271 @@
+[
+ {
+  "id": "lash",
+  "senses": [
+   "kamçılamak; şiddetle vurmak",
+   "sıkıca bağlamak",
+   "kirpik; kamçı darbesi"
+  ],
+  "ex": [
+   "Gece boyunca şiddetli yağmur pencereleri dövdü.",
+   "Fırtınalar kıyı topluluklarını vurdukça, evleri ve temel altyapıyı korumak için daha güçlü deniz savunmaları giderek önem kazanıyor."
+  ],
+  "col": [
+   "pencerelere çarpmak",
+   "birlikte bağlamak",
+   "birine çıkışmak; saldırmak"
+  ],
+  "tip": "lash out at, birine ani ve sert biçimde saldırmak ya da çıkışmak anlamına gelir; sözlü saldırı için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "depletion",
+  "senses": [
+   "tükenme; azalma"
+  ],
+  "ex": [
+   "Bahçedeki zayıf büyüme, toprakta besin maddelerinin tükendiğine işaret ediyordu.",
+   "Yeraltı suyunun hızla azalması, yağışların giderek öngörülemez olduğu bölgelerde tarımsal üretimi tehdit ediyor."
+  ],
+  "col": [
+   "kaynak tükenmesi",
+   "ozon tabakasındaki incelme",
+   "rezervlerin tükenmesi"
+  ],
+  "tip": "Genellikle of ile kullanılır (depletion of reserves). Miktarın azaldığını anlatır; mutlaka tamamen bittiği anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "triumphant",
+  "senses": [
+   "muzaffer; galip"
+  ],
+  "ex": [
+   "Zafer kazanan kaptan kupayı başının üzerine kaldırdı.",
+   "Yıllarca süren kampanyanın ardından, meclis yerel ormanlarını korumayı kabul edince sakinler zafer kazanmış gibi sevindi."
+  ],
+  "col": [
+   "zafer dolu gülümseme",
+   "zaferle dönüş",
+   "büyük zafer"
+  ],
+  "tip": "Hem başarıyı hem de kazanandaki coşkulu ruh halini anlatır. Yüz ifadeleri için de kullanılabilir (triumphant smile).",
+  "note": ""
+ },
+ {
+  "id": "resilient",
+  "senses": [
+   "dirençli; toparlanabilen",
+   "elastik; yaylanabilen"
+  ],
+  "ex": [
+   "Bu dayanıklı bitkiler yaz kuraklığının ardından hızla toparlandı.",
+   "Yerel destek ağlarına yatırım yapmak, toplulukların ekonomik ve çevresel sarsıntılara karşı daha dirençli hale gelmesine yardımcı olabilir."
+  ],
+  "col": [
+   "dirençli topluluklar",
+   "dirençli ekonomi",
+   "sarsıntılara karşı dayanıklı",
+   "esnek malzeme"
+  ],
+  "tip": "Kişi, ekonomi ve malzeme için kullanılabilir. Karşısına gelen şeye karşı dayanıklılığı için to ile kullanılır (resilient to shocks).",
+  "note": ""
+ },
+ {
+  "id": "misuse",
+  "senses": [
+   "yanlış kullanmak; kötüye kullanmak",
+   "yanlış kullanım; kötüye kullanım"
+  ],
+  "ex": [
+   "O bıçağı yanlış kullanırsan zarar verebilirsin.",
+   "Kişisel verileri kötüye kullanan kuruluşlar, kamunun güvenini kaybetme ve ciddi yasal cezalarla karşılaşma riskiyle karşı karşıya."
+  ],
+  "col": [
+   "kişisel verileri kötüye kullanmak",
+   "gücün kötüye kullanılması",
+   "kaynakların kötüye kullanımı"
+  ],
+  "tip": "Fiilde son ses z, isimde s okunur (/mɪsˈjuːz/ fiil, /mɪsˈjuːs/ isim). Vurgu iki durumda da ikinci hecededir.",
+  "note": ""
+ },
+ {
+  "id": "legitimate",
+  "senses": [
+   "yasal; meşru",
+   "haklı; makul"
+  ],
+  "ex": [
+   "Burada evde ekmek satmak meşru bir iştir.",
+   "Sakinlerin havalimanı genişlemesinin yerel hava kalitesine etkisi konusunda haklı endişeleri var."
+  ],
+  "col": [
+   "meşru iş",
+   "haklı endişeler",
+   "geçerli neden",
+   "meşru otorite"
+  ],
+  "tip": "Türkçedeki 'legal' ile karıştırılabilir. Legitimate hem yasal hem de haklı, makul anlamına gelir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "collaborate",
+  "senses": [
+   "işbirliği yapmak",
+   "düşmanla işbirliği yapmak"
+  ],
+  "ex": [
+   "Hafta sonu yemek kulübümüz için tarifler üzerinde birlikte çalışıyoruz.",
+   "Üniversiteler, bölgesel çevre sorunlarına pratik çözümler geliştirmek için yerel işletmelerle işbirliği yapmalı."
+  ],
+  "col": [
+   "meslektaşlarıyla işbirliği yapmak",
+   "bir proje üzerinde birlikte çalışmak",
+   "yakın işbirliği yapmak"
+  ],
+  "tip": "Bir kişiyle birlikte çalışılacaksa with, bir konu ya da projede birlikte çalışılacaksa on kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "eloquent",
+  "senses": [
+   "güzel konuşan; etkileyici",
+   "anlamlı; düşündürücü"
+  ],
+  "ex": [
+   "Onun etkileyici konuşması odadaki herkesi etkiledi.",
+   "Konuşmacı, kamu kütüphanelerini yaşam boyu öğrenmenin vazgeçilmez alanları olarak güçlü biçimde savundu."
+  ],
+  "col": [
+   "belagatli bir konuşmacı",
+   "etkileyici bir savunma",
+   "anlamlı bir sessizlik"
+  ],
+  "tip": "Sadece konuşma becerisi için değil; bakış ya da sessizlik gibi anlamı sözsüz aktaran şeyler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pantry",
+  "senses": [
+   "kiler; erzak dolabı"
+  ],
+  "ex": [
+   "Kilerde bir torba daha pirinç var.",
+   "Düzenli bir kiler tutmak, hanelerin gıda israfını azaltmasına ve market bütçelerini yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "iyi stoklanmış kiler",
+   "kiler rafları",
+   "temel erzaklar"
+  ],
+  "tip": "Esas olarak yiyecek saklanan yerdir. Yemek pişirilen mutfak (kitchen) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "intrigue",
+  "senses": [
+   "merak uyandırmak; ilgi çekmek",
+   "entrika; gizli plan"
+  ],
+  "ex": [
+   "Kilitli ahşap kutu odadaki herkesin merakını uyandırdı.",
+   "Açıklanamayan arkeolojik buluntular, araştırmacıların ilgisini çekmeye ve antik toplulukların yaşamına dair daha fazla incelemeyi teşvik etmeye devam ediyor."
+  ],
+  "col": [
+   "ilgi duymak",
+   "siyasi entrika",
+   "entrika ağı"
+  ],
+  "tip": "Fiil olarak geçişlidir ve genellikle be intrigued by kalıbında pasif kullanılır. İsim olarak gizli planları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "fanatic",
+  "senses": [
+   "tutkun; hayran",
+   "fanatik; bağnaz"
+  ],
+  "ex": [
+   "Kuzenim her gün spor yapan bir fitness tutkunu.",
+   "Siyasi bir fanatik, makul tartışmaları reddedebilir; bu da toplulukların anlaşmazlıkları barışçıl yollarla çözmesini zorlaştırır."
+  ],
+  "col": [
+   "fitness tutkunu",
+   "futbol delisi",
+   "dinsel fanatik"
+  ],
+  "tip": "Hobi bağlamında rahatça kullanılır. İnanç ve görüş bağlamında ise aşırı uçlara işaret eder ve genellikle olumsuz bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "essence",
+  "senses": [
+   "öz; esas",
+   "esans; uçucu yağ"
+  ],
+  "ex": [
+   "Benim için dostluğun özü, orada olmaktır.",
+   "Sürdürülebilir kalkınmanın özü, gelecek nesillerin fırsatlarını kısıtlamadan bugünün ihtiyaçlarını karşılamaktır."
+  ],
+  "col": [
+   "...özü",
+   "esasında; özünde",
+   "vanilya özütü",
+   "özünü yakalamak"
+  ],
+  "tip": "in essence 'esasında, özünde' demektir ve bir konunun temel fikrini özetlerken kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pilgrimage",
+  "senses": [
+   "hac; ziyaret yolculuğu",
+   "gönül ziyareti"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam dağdaki tapınağa bir hac yolculuğu yaptı.",
+   "Dini hac, yerel ekonomileri destekleyebilir; ancak yoğun ziyaretçi sayısı kırılgan tarihi alanlar üzerinde baskı yaratabilir."
+  ],
+  "col": [
+   "hac yolculuğuna çıkmak",
+   "kutsal mekân",
+   "bir yere hac ziyareti yapmak"
+  ],
+  "tip": "make a pilgrimage to kalıbı 'bir yere hac yapmak' anlamına gelir. Kişisel anlamda önemli yerler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tiresome",
+  "senses": [
+   "sıkıcı; bezdirici"
+  ],
+  "ex": [
+   "Bu küçük vidaları ayırmak çok bezdirici bir iş.",
+   "Tekrarlanan idari kontroller öğretmenler için yorucu hale gelebilir ve ders hazırlığına ayrılan zamanı azaltabilir."
+  ],
+  "col": [
+   "bezdirici bir iş",
+   "sıkıcı hale gelmek",
+   "bıktırıcı tekrar"
+  ],
+  "tip": "tiresome 'sıkıcı, bezdirici' demektir; tiring ise 'yorucu' anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "commonsense",
+  "senses": [
+   "sağduyulu; mantıklı"
+  ],
+  "ex": [
+   "Bu havada şemsiye almak sağduyulu bir karardı.",
+   "Sokak aydınlatmasını iyileştirmek gibi basit sağduyulu önlemler, yerleşim alanlarını yayalar için daha güvenli hale getirebilir."
+  ],
+  "col": [
+   "sağduyulu bir yaklaşım",
+   "sağduyuya dayalı tavsiye",
+   "sağduyulu önlemler"
+  ],
+  "tip": "Sıfat olarak commonsense ya da common-sense yazılabilir; isim olarak common sense iki kelime halinde yazılır ('sağduyu').",
+  "note": ""
+ }
+]

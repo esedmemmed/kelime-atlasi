@@ -1,0 +1,281 @@
+[
+ {
+  "id": "jealous",
+  "senses": [
+   "kıskanç; gıpta eden",
+   "kıskanç"
+  ],
+  "ex": [
+   "Kuzenim bisiklet alınca kendimi kıskanmış hissettim.",
+   "Sosyal medya, daha başarılı ya da heyecanlı görünen başkalarının hayatına kullanıcıları gıpta ettirebilir."
+  ],
+  "col": [
+   "birinden kıskanmak",
+   "kıskanmak",
+   "kıskanç bir sevgili"
+  ],
+  "tip": "Genellikle 'be jealous of' kalıbı kullanılır; 'of' edatını unutup 'for' demeyin.",
+  "note": ""
+ },
+ {
+  "id": "peanut",
+  "senses": [
+   "yer fıstığı",
+   "çok az para"
+  ],
+  "ex": [
+   "Kabuğu kırıp içindeki yer fıstığını yedi.",
+   "Okullar, tüm çocukların güvenle yemek yiyebilmesi için yemek planlarken yer fıstığı alerjilerini göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "fıstık ezmesi",
+   "yer fıstığı alerjisi",
+   "kavrulmuş yer fıstığı",
+   "çok az ücretle çalışmak"
+  ],
+  "tip": "Türkçede 'fıstık' genellikle antep fıstığını çağrıştırır; peanut için 'yer fıstığı' deyin. 'Çok az para' anlamında peanuts çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "legal",
+  "senses": [
+   "hukuki; yasal",
+   "yasal; yasalara uygun"
+  ],
+  "ex": [
+   "Kira sözleşmesini imzalamadan önce hukuki görüş aldık.",
+   "Uygun fiyatlı hukuki hizmetlere erişim, dezavantajlı vatandaşların haklarını savunabilmeleri için şarttır."
+  ],
+  "col": [
+   "hukuki görüş",
+   "hukuki işlem",
+   "yasal haklar",
+   "tamamen yasal"
+  ],
+  "tip": "legal her zaman 'yasal' demek değildir; 'hukukla ilgili' anlamında da kullanılır: legal advice = hukuki danışmanlık.",
+  "note": ""
+ },
+ {
+  "id": "kit",
+  "senses": [
+   "set; takım",
+   "yapım seti"
+  ],
+  "ex": [
+   "Arabada bir ilk yardım çantası bulundururuz.",
+   "Okullar, tüm öğrencilerin uygulamalı deneylere katılabilmesi için temel fen setleri sağlamalıdır."
+  ],
+  "col": [
+   "ilk yardım çantası",
+   "alet takımı",
+   "tamir seti",
+   "birini donatmak"
+  ],
+  "tip": "kit genellikle hazır bir set anlamına gelir. 'kit someone out' kalıbı 'birini donatmak' demektir.",
+  "note": ""
+ },
+ {
+  "id": "farther",
+  "senses": [
+   "daha uzağa",
+   "daha uzak"
+  ],
+  "ex": [
+   "Plajda öğle yemeği için durmadan önce kumsalda biraz daha ilerledik.",
+   "Konut maliyetleri arttıkça birçok işçi şehir merkezlerinden daha uzağa taşınıyor ve günlük işe gidiş süreleri uzuyor."
+  ],
+  "col": [
+   "daha uzakta",
+   "daha kuzeyde",
+   "evden daha uzakta"
+  ],
+  "tip": "farther fiziksel mesafe için kullanılır; soyut ilerleme ya da ek bilgi için further tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "landlady",
+  "senses": [
+   "ev sahibesi",
+   "bar sahibesi"
+  ],
+  "ex": [
+   "Ev sahibemiz mutfaktaki musluğu tamir etmek için uğradı.",
+   "Sorumlu bir ev sahibesi, güvenli konut koşullarını sağlamalı ve kiracılar ciddi sorunları bildirdiğinde hızla yanıt vermelidir."
+  ],
+  "col": [
+   "ev sahibesine sormak",
+   "ev sahibesine kira ödemek",
+   "bar sahibesi"
+  ],
+  "tip": "landlady kadın ev sahibini belirtir; cinsiyet belirtmek istemezseniz genel anlamda landlord kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "hostess",
+  "senses": [
+   "ev sahibesi",
+   "restoran hostesi"
+  ],
+  "ex": [
+   "Ev sahibemiz akşam yemeğinden sonra taze meyve getirdi.",
+   "Sıcak karşılayan bir ev sahibesi, uluslararası ziyaretçilerin rahat hissetmesine ve kültürler arası anlamlı sohbetlere yardımcı olabilir."
+  ],
+  "col": [
+   "nazik bir ev sahibesi",
+   "mükemmel bir ev sahibesi",
+   "restoran hostesi"
+  ],
+  "tip": "hostess yalnızca kadınlar için kullanılır; günümüzde host her cinsiyet için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "easy-going",
+  "senses": [
+   "rahat; uyumlu"
+  ],
+  "ex": [
+   "Komşumuz köpeğimiz havladığında hiç şikayet etmez.",
+   "Rahat bir yönetim tarzı iş yerindeki stresi azaltabilse de üretkenliği korumak için açık beklentiler yine de şarttır."
+  ],
+  "col": [
+   "rahat bir kişilik",
+   "rahat bir tutum",
+   "rahat bir tavır"
+  ],
+  "tip": "Kişiliği tanımlar; 'tembel' anlamına gelmez. 'Kolay' anlamındaki easy ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "silent",
+  "senses": [
+   "sessiz; konuşmayan",
+   "sessiz; ses çıkarmayan",
+   "okunmayan"
+  ],
+  "ex": [
+   "Kız kardeşi sorunu anlatırken o sessiz kaldı.",
+   "Çalışanlar işlerini kaybetmekten korkarlarsa iş yerindeki sorunlar hakkında sessiz kalabilirler."
+  ],
+  "col": [
+   "sessiz kalmak",
+   "sessizliğe gömülmek",
+   "sessiz film",
+   "okunmayan harf"
+  ],
+  "tip": "silent sesin tamamen olmadığını vurgular; quiet ise sesin düşük olmasını da anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "enormous",
+  "senses": [
+   "çok büyük; muazzam"
+  ],
+  "ex": [
+   "Mutfak masamızdaki sepeti kocaman bir balkabağı doldurdu.",
+   "Hızlı kentleşme, konut, ulaşım ağları ve diğer temel kamu hizmetleri üzerinde büyük bir baskı yaratıyor."
+  ],
+  "col": [
+   "büyük baskı",
+   "çok büyük miktarda",
+   "büyük potansiyel"
+  ],
+  "tip": "enormous güçlü bir sıfattır; 'very enormous' yerine doğrudan enormous kullanın. Büyüklük, miktar ve derece için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "arrangement",
+  "senses": [
+   "hazırlık; düzenleme",
+   "dizilim; yerleşim",
+   "anlaşma; düzenleme"
+  ],
+  "ex": [
+   "Kedimize bakması için birini ayarladık.",
+   "Esnek çalışma düzenlemeleri, ebeveynlerin mesleki sorumluluklarıyla aile hayatının taleplerini dengelemelerine yardımcı olabilir."
+  ],
+  "col": [
+   "hazırlık yapmak",
+   "seyahat düzenlemeleri",
+   "çiçek düzenlemesi",
+   "bir anlaşmaya varmak"
+  ],
+  "tip": "Somut hazırlıklar için çoğul kullanılır: make arrangements for. Tekil hâli daha çok sistemli düzenleme ya da anlaşma anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "technique",
+  "senses": [
+   "teknik; yöntem",
+   "teknik beceri"
+  ],
+  "ex": [
+   "Antrenör bana yüzmek için daha iyi bir teknik gösterdi.",
+   "Öğretmenler, öğrenciler geride kalmadan öğrenme güçlüklerini belirlemek için çeşitli değerlendirme yöntemleri kullanabilir."
+  ],
+  "col": [
+   "bir şeyi yapma yöntemi",
+   "rahatlama teknikleri",
+   "tekniğini geliştirmek",
+   "öğretim yöntemleri"
+  ],
+  "tip": "technique somut yöntem ya da beceriyi anlatır; technology ise 'teknoloji' demektir, karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "lay",
+  "senses": [
+   "koymak; sermek",
+   "yumurtlamak",
+   "uzman olmayan"
+  ],
+  "ex": [
+   "Lütfen temiz havluları banyo rafına koyun.",
+   "Erken çocukluk eğitimine yapılan yatırım, daha becerikli ve uyumlu bir işgücünün temellerini atabilir."
+  ],
+  "col": [
+   "temel atmak",
+   "yumurtlamak",
+   "sofrayı kurmak",
+   "kablo döşemek"
+  ],
+  "tip": "lay (koymak) lay–laid–laid çekimlenir ve nesne ister; lie (uzanmak) lie–lay–lain ile karışmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "compliment",
+  "senses": [
+   "iltifat; övgü",
+   "övmek; iltifat etmek"
+  ],
+  "ex": [
+   "Yemek pişirmemle ilgili iltifatı beni gülümsetti.",
+   "Öğrencilerin belirli gelişimlerini takdir eden öğretmenler motivasyonu artırabilir ve sürekli çabayı teşvik edebilir."
+  ],
+  "col": [
+   "birine iltifat etmek",
+   "birini bir şeyden dolayı övmek",
+   "iltifatı kabul etmek",
+   "samimi bir iltifat"
+  ],
+  "tip": "compliment iltifat ya da övgüdür; complement ise 'tamamlamak' anlamına gelir. Benzer yazıldıkları için karıştırılabilir.",
+  "note": ""
+ },
+ {
+  "id": "refund",
+  "senses": [
+   "geri ödeme; iade",
+   "geri ödemek; iade etmek"
+  ],
+  "ex": [
+   "Mağaza, bozuk çaydanlığım için bana para iadesi yaptı.",
+   "Uçuşlar makul alternatif olmadan iptal edildiğinde havayolları yolculara tam para iadesi sunmalıdır."
+  ],
+  "col": [
+   "tam iade",
+   "iade talep etmek",
+   "maliyeti geri ödemek"
+  ],
+  "tip": "İsimde vurgu ilk hecededir (REF-und); fiilde vurgu ikinci hecededir (re-FUND).",
+  "note": ""
+ }
+]

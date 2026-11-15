@@ -1,0 +1,270 @@
+[
+ {
+  "id": "exhaustion",
+  "senses": [
+   "bitkinlik; yorgunluk",
+   "tükenme"
+  ],
+  "ex": [
+   "Uzun yürüyüşün ardından bitkinlikten uykuya daldı.",
+   "Sağlık çalışanları arasındaki sürekli tükenmişlik, hasta bakımının kalitesini düşürebilir ve personel devrini artırabilir."
+  ],
+  "col": [
+   "fiziksel bitkinlik",
+   "zihinsel bitkinlik",
+   "kaynakların tükenmesi"
+  ],
+  "tip": "exhaustion 'detaylı' anlamına gelmez; 'detaylı, kapsamlı' için exhaustive kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bulletin",
+  "senses": [
+   "kısa haber; bülten"
+  ],
+  "ex": [
+   "Bugün kahvaltı sırasında hava durumu bültenini dinledik.",
+   "Yerel yetkililer, sakinlerin bilinçli güvenlik kararları verebilmesi için şiddetli hava koşullarında düzenli bülten yayımlamalıdır."
+  ],
+  "col": [
+   "haber bülteni",
+   "hava durumu bülteni",
+   "bülten yayımlamak"
+  ],
+  "tip": "Kısa ve güncel bilgi anlamını taşır; news bulletin çoğunlukla radyo ve televizyon haberlerini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "workload",
+  "senses": [
+   "iş yükü"
+  ],
+  "ex": [
+   "İki meslektaşım tatile çıkınca iş yüküm iki katına çıktı.",
+   "İşverenler, stresi önlemek ve hizmet kalitesini korumak için personelin iş yükünü dikkatle izlemelidir."
+  ],
+  "col": [
+   "yoğun iş yükü",
+   "yönetilebilir iş yükü",
+   "iş yükünü azaltmak",
+   "iş yükünü paylaşmak"
+  ],
+  "tip": "Yoğun iş yükü için heavy workload denir; hard workload kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "characteristic",
+  "senses": [
+   "özellik; nitelik",
+   "tipik; karakteristik"
+  ],
+  "ex": [
+   "Bu kedinin dikkat çekici özelliklerinden biri kıvırcık tüyleridir.",
+   "Değişen bir ekonomide hızlı uyum sağlayabilmek, başarılı işletmelerin önemli bir özelliğidir."
+  ],
+  "col": [
+   "ayırt edici özellik",
+   "fiziksel özellikler",
+   "...e özgü, tipik"
+  ],
+  "tip": "Sıfat olarak genellikle be characteristic of kalıbıyla kullanılır ve '...in tipik özelliğidir' anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "agency",
+  "senses": [
+   "acente; aracı kurum",
+   "kurum; ajans; daire",
+   "özerklik; bağımsız hareket"
+  ],
+  "ex": [
+   "Seyahat acentesi uçuşlarımızı ve otelimizi ayarladı.",
+   "Ulusal bir çevre kurumu endüstriyel kirliliği izlemeli ve fabrikaların güvenlik düzenlemelerine uymasını sağlamalıdır."
+  ],
+  "col": [
+   "seyahat acentesi",
+   "işe alım ajansı",
+   "devlet kurumu",
+   "bireysel özerklik"
+  ],
+  "tip": "Kurum anlamında sayılabilir; 'özerklik' anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "provided",
+  "senses": [
+   "yeter ki; şartıyla",
+   "sağladı; sundu"
+  ],
+  "ex": [
+   "Bisikletimi bu gece geri getirmen şartıyla ödünç alabilirsin.",
+   "Kuruluşlar yeterli teknik destek ve net iletişim kanalları sunduğu sürece uzaktan çalışma çalışan memnuniyetini artırabilir."
+  ],
+  "col": [
+   "şu şartla ki",
+   "sunulan hizmetler",
+   "verilen bilgiler"
+  ],
+  "tip": "Bağlaç olarak koşul bildirir; that genellikle atlanabilir. Fiil olarak geçmiş zaman ve geçmiş ortaç biçimidir.",
+  "note": ""
+ },
+ {
+  "id": "wholesaler",
+  "senses": [
+   "toptancı"
+  ],
+  "ex": [
+   "Yerel toptancımız her sabah mağazalara taze meyve teslim ediyor.",
+   "Küçük perakendeciler, mallara rekabetçi fiyatlarla ulaşabilmek için çoğu zaman bir toptancıya bağımlıdır."
+  ],
+  "col": [
+   "gıda toptancısı",
+   "toptancıdan satın almak",
+   "toptan tedarikçi"
+  ],
+  "tip": "Toptancı ağırlıklı olarak işletmelere toplu satış yapar; doğrudan son tüketiciye satış yapmaz.",
+  "note": ""
+ },
+ {
+  "id": "relatively",
+  "senses": [
+   "nispeten; göreceli olarak"
+  ],
+  "ex": [
+   "Mutfak nispeten küçük, ama ferah hissettiriyor.",
+   "Bisiklet, kalabalık şehirlerde trafik yoğunluğunu azaltabilen, nispeten ucuz bir ulaşım türüdür."
+  ],
+  "col": [
+   "nispeten düşük",
+   "nispeten kolay",
+   "göreceli olarak söylemek gerekirse"
+  ],
+  "tip": "Bir şeyle kıyaslanarak derece belirtir; very gibi mutlak yoğunluk anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "homestay",
+  "senses": [
+   "yerel aile yanında konaklama"
+  ],
+  "ex": [
+   "Yerel bir aile yanında kaldığım süre boyunca ailemle birlikte akşam yemeği pişirdim.",
+   "Yerel aile yanında kalmak, uluslararası öğrencilerin günlük dil becerilerini geliştirmelerine ve yerel âdetleri anlamalarına yardımcı olabilir."
+  ],
+  "col": [
+   "yerel aile konaklaması",
+   "yerel aile yanında konaklama programı",
+   "ev sahibi aile"
+  ],
+  "tip": "Yabancı bir ailenin evinde konaklamayı vurgular; ev sahibi aile için host family denir.",
+  "note": ""
+ },
+ {
+  "id": "flap",
+  "senses": [
+   "çırpmak; sallanmak",
+   "sarkan kapak; kapak",
+   "panik; telaş"
+  ],
+  "ex": [
+   "Ördekler kanatlarını çırparak göletin üzerinden sıçrayarak geçtiler.",
+   "Kuşların kanatlarını nasıl çırptığını gözlemlemek, mühendislerin küçük uçan robotlar için daha verimli tasarımlar geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kanat çırpmak",
+   "cep kapağı",
+   "telaşa kapılmak"
+  ],
+  "tip": "Geçmiş zaman flapped, şimdiki zaman flapping olur; p harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "directory",
+  "senses": [
+   "rehber; telefon defteri",
+   "dizin; klasör"
+  ],
+  "ex": [
+   "Yerel rehberde yakınlardaki bir tesisatçıyı buldum.",
+   "Topluluk hizmetlerinin çevrimiçi bir rehberi, yeni sakinlerin temel desteği daha kolay bulmasını sağlayabilir."
+  ],
+  "col": [
+   "iş rehberi",
+   "telefon rehberi",
+   "çevrimiçi rehber",
+   "kök dizin"
+  ],
+  "tip": "Rehber genellikle iletişim bilgileri içerir; bilgisayarda ise dosyaların düzenlendiği dizini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "pedal",
+  "senses": [
+   "pedal; ayak pedalı",
+   "pedal çevirmek; bisiklet sürmek"
+  ],
+  "ex": [
+   "Yağmurda ayağım pedaldan kaydı.",
+   "Şehirler daha güvenli bisiklet yolları ve güvenli bisiklet park yerleri sunsaydı, daha fazla sakin işe bisikletle giderdi."
+  ],
+  "col": [
+   "fren pedalı",
+   "bisiklet pedalı",
+   "yokuş yukarı pedal çevirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde geçmiş zaman pedalled, Amerikan İngilizcesinde pedaled yazılır.",
+  "note": ""
+ },
+ {
+  "id": "merely",
+  "senses": [
+   "yalnızca; sadece"
+  ],
+  "ex": [
+   "Şikâyet etmiyordum; sadece bir soru soruyordum.",
+   "Hükümetler güvenilir toplu taşımaya da yatırım yapmadıkça, yeni yollar yapmak trafik sorunlarını başka yerlere kaydırmaktan öteye geçmez."
+  ],
+  "col": [
+   "yalnızca bir mesele",
+   "yalnızca değil",
+   "sırf ... diye"
+  ],
+  "tip": "Only'den daha resmi bir tondadır; genellikle fiilin önüne, be fiilinden sonra gelir.",
+  "note": ""
+ },
+ {
+  "id": "resign",
+  "senses": [
+   "istifa etmek",
+   "kabullenmek; razı olmak"
+  ],
+  "ex": [
+   "İstifa edip küçük bir pastane açmaya karar verdi.",
+   "Aşırı iş yükü ve sınırlı kariyer fırsatları pozisyonlarını sürdürmeyi giderek zorlaştırdığında çalışanlar istifa edebilir."
+  ],
+  "col": [
+   "işten istifa etmek",
+   "başkanlıktan istifa etmek",
+   "kendini ... kabullenmek"
+  ],
+  "tip": "resign oneself to kalıbından sonra isim veya -ing'li fiil gelir; 'çaresizce kabullenmek' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "cannon",
+  "senses": [
+   "top; obüs"
+  ],
+  "ex": [
+   "Kalenin girişinde eski bir top duruyordu.",
+   "Topların kullanılması askeri mimariyi değiştirdi; daha kalın surların ve alçak savunma yapılarının inşasını teşvik etti."
+  ],
+  "col": [
+   "top ateşlemek",
+   "top ateşi",
+   "top mermisi"
+  ],
+  "tip": "Çoğul cannon veya cannons olabilir; canon (kural, kanon) ile karıştırılmamalıdır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "foreigner",
+  "senses": [
+   "yabancı"
+  ],
+  "ex": [
+   "Yabancı biri olarak yerel gelenekleri anlamak için yardıma ihtiyacım vardı.",
+   "Dil kursları, yabancıların toplumsal yaşama daha tam katılmasına ve temel kamu hizmetlerine erişmesine yardımcı olabilir."
+  ],
+  "col": [
+   "yabancı olarak",
+   "yurt dışında yaşayan yabancılar",
+   "yabancıları memnuniyetle karşılamak"
+  ],
+  "tip": "Genel anlamda 'yabancı' demektir; yalnızca turist kastediliyorsa visitor kelimesi daha doğal olur.",
+  "note": ""
+ },
+ {
+  "id": "engaged",
+  "senses": [
+   "nişanlı",
+   "meşgul; dahil olan",
+   "meşgul; dolu"
+  ],
+  "ex": [
+   "Kız kardeşim denizdeki tatilinde nişanlandı.",
+   "Sınıf tartışmalarına aktif olarak katılan öğrenciler genellikle daha güçlü iletişim ve eleştirel düşünme becerileri geliştirir."
+  ],
+  "col": [
+   "nişanlanmak",
+   "biriyle nişanlı olmak",
+   "araştırmaya dahil olmak",
+   "hat meşgul"
+  ],
+  "tip": "Nişanlanılan kişi için to, katılınan iş için in kullanılır: engaged to someone, engaged in research.",
+  "note": ""
+ },
+ {
+  "id": "throughout",
+  "senses": [
+   "her yerinde; boyunca",
+   "baştan sona; her yerde"
+  ],
+  "ex": [
+   "Taze ekmeğin kokusu evin her yerine yayıldı.",
+   "Kırsal bölgelerin her yerinde güvenilir internet erişimi, eğitimdeki ve istihdamdaki eşitsizlikleri azaltmak için şarttır."
+  ],
+  "col": [
+   "dünya genelinde",
+   "yıl boyunca",
+   "tarih boyunca",
+   "baştan sona tutarlı kalmak"
+  ],
+  "tip": "Bütün bir alan ya da tüm süre için kullanılır; tek bir noktayı anlatırken at ya da in tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "fool",
+  "senses": [
+   "aptal; budala",
+   "kandırmak; aldatmak"
+  ],
+  "ex": [
+   "Gerçekçi plastik örümcek partideki herkesi kandırdı.",
+   "Yanıltıcı reklamlar, tüketicileri pratik faydası az ürünleri satın almaya kandırabilir."
+  ],
+  "col": [
+   "birini bir şey yapmaya kandırmak",
+   "kendini rezil etmek",
+   "oyalanmak; aptallık etmek"
+  ],
+  "tip": "İsim olarak birine fool demek hakaret sayılır. Kalıpta fool someone into doing: birini kandırarak yaptırmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "suit",
+  "senses": [
+   "uygun gelmek",
+   "yakışmak; uymak",
+   "takım elbise"
+  ],
+  "ex": [
+   "Yarın için daha erken bir randevu sana daha uygun olur mu?",
+   "Esnek çalışma saatleri, mesleki sorumlulukları aile yükümlülükleriyle dengelemek zorunda olan çalışanlara uygun düşer."
+  ],
+  "col": [
+   "ihtiyaçlarına uygun olmak",
+   "herkese uymak",
+   "iş elbisesi"
+  ],
+  "tip": "suit uygunluk ya da yakışma anlamı taşır; beden olarak uyan kıyafet için fit kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "time-off",
+  "senses": [
+   "izin; boş zaman"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabamı ziyaret etmek için biraz izne ihtiyacım var.",
+   "Ücretli izin vermek çalışanların refahını artırabilir ve iş yerindeki stresi azaltabilir."
+  ],
+  "col": [
+   "izin almak",
+   "ücretli izin",
+   "işten izin"
+  ],
+  "tip": "Genellikle sayılamaz. Tek bir gün izin için take a day off kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "transfer",
+  "senses": [
+   "aktarmak; havale etmek",
+   "aktarma yapmak; nakil olmak",
+   "aktarım; nakil"
+  ],
+  "ex": [
+   "Lütfen fotoğrafları kameranızdan dizüstü bilgisayarıma aktarın.",
+   "Hükümetler, hâlâ fosil yakıtlara ağır biçimde bağımlı olan bölgelere temiz teknoloji aktarımını desteklemelidir."
+  ],
+  "col": [
+   "para havale etmek",
+   "veri aktarmak",
+   "başka bir okula nakil olmak",
+   "teknoloji transferi"
+  ],
+  "tip": "Geçmiş zamanı transferred biçimindedir, r harfi iki kez yazılır. İsimde vurgu ilk hecededir: TRANS-fer.",
+  "note": ""
+ },
+ {
+  "id": "romantic",
+  "senses": [
+   "romantik; aşka dair",
+   "gerçek dışı; hayalci",
+   "romantik kişi; hayalperest"
+  ],
+  "ex": [
+   "Sessiz gölün kenarında romantik bir akşam yemeği yediler.",
+   "Reklamlar genellikle kırsal yaşamın romantik bir imajını sunar, sınırlı hizmet ve iş imkânlarını ise görmezden gelir."
+  ],
+  "col": [
+   "romantik ilişki",
+   "romantik akşam yemeği",
+   "romantik komedi",
+   "kırsal yaşama dair hayalci bir bakış"
+  ],
+  "tip": "Yalnızca aşkla ilgili değil, bir şeyi olduğundan daha güzel görme anlamında da kullanılır: a romantic view of.",
+  "note": ""
+ },
+ {
+  "id": "dot",
+  "senses": [
+   "nokta; benek",
+   "serpiştirilmek; dağılmak",
+   "nokta"
+  ],
+  "ex": [
+   "Sarı şemsiyesinin üzerinde mavi noktalardan oluşan bir desen var.",
+   "Sahil boyunca küçük köyler serpiştirilmiş durumda; kalabalık tatil beldeleri yerine daha sakin seçenekler arayan ziyaretçileri çekiyor."
+  ],
+  "col": [
+   "kırmızı nokta",
+   "tam saatinde",
+   "noktalı çizgi",
+   "...ile dolu olmak"
+  ],
+  "tip": "on the dot tam saatinde anlamına gelir ve saatten sonra gelir: at nine on the dot.",
+  "note": ""
+ },
+ {
+  "id": "growth",
+  "senses": [
+   "artış; büyüme",
+   "büyüme; gelişme",
+   "ur; şişlik"
+  ],
+  "ex": [
+   "Kasabamızın hızlı büyümesi büyükanne ve büyükbabamı şaşırttı.",
+   "Hükümetler, artan refahın doğal kaynakları tüketmemesi için ekonomik büyümeyi çevre korumasıyla dengelemelidir."
+  ],
+  "col": [
+   "ekonomik büyüme",
+   "nüfus artışı",
+   "hızlı büyüme",
+   "kişisel gelişim"
+  ],
+  "tip": "Artış anlamında genellikle sayılamaz; a growth ise vücutta bir ur ya da şişlik anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tale",
+  "senses": [
+   "hikâye; masal",
+   "anlatı; öykü"
+  ],
+  "ex": [
+   "Büyükbabam bize akıllı bir tilki hakkında bir masal anlattı.",
+   "Geleneksel masallar, unutulmaz karakterler aracılığıyla çocukların karmaşık duyguları keşfetmesine yardımcı olurken kültürel değerleri de koruyabilir."
+  ],
+  "col": [
+   "peri masalı",
+   "halk hikâyesi",
+   "ibret verici hikâye",
+   "hikâye anlatmak"
+  ],
+  "tip": "tale hikâye demektir; tail ise kuyruk anlamına gelir. İkisi aynı okunur, yazımda karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "previously",
+  "senses": [
+   "daha önce; önceden"
+  ],
+  "ex": [
+   "Komşumuzla daha önce kütüphanede tanışmıştım.",
+   "Çevrimiçi kurslar, daha önce üniversitelere sınırlı erişimi olan insanlara artık eğitim fırsatları sunuyor."
+  ],
+  "col": [
+   "daha önce bilinmeyen",
+   "daha önce belirtilen",
+   "daha önce yayımlanmış"
+  ],
+  "tip": "Anlamı 'daha önce'dir. Bir işi önceden hazırlamak için ise in advance kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stain",
+  "senses": [
+   "leke",
+   "lekelemek; boyamak",
+   "boya; boyar madde"
+  ],
+  "ex": [
+   "Beyaz gömleğinde kahve lekesi var.",
+   "Üreticiler, yıkama için gereken su ve enerjiyi azaltabilecek, lekelere dayanıklı kumaşlar geliştiriyor."
+  ],
+  "col": [
+   "lekeyi çıkarmak",
+   "kahve lekesi",
+   "ahşap boyası",
+   "lekeye dayanıklı kumaş"
+  ],
+  "tip": "Kirli bir leke için stain kullanılır; sıradan bir renk için color tercih edilir. Boyar madde anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "previous",
+  "senses": [
+   "önceki; bir önceki"
+  ],
+  "ex": [
+   "Önceki kiracı balkonda birkaç bitki bırakmış.",
+   "Önceki çalışmalar, düzenli fiziksel aktivitenin okul çocuklarının dikkatini ve akademik başarısını artırabildiğini gösteriyor."
+  ],
+  "col": [
+   "önceki deneyim",
+   "önceki çalışmalar",
+   "bir önceki yıl"
+  ],
+  "tip": "Sıfattır. 'Daha önce' anlamında zarf olarak previously kullanılır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "rat",
+  "senses": [
+   "sıçan"
+  ],
+  "ex": [
+   "Kapının yanındaki çöp konteynerlerinin arkasında bir sıçan kayboldu.",
+   "Doğru atık yönetimi, yoğun nüfuslu mahallelerde sıçan popülasyonunu kontrol etmeye ve sağlık risklerini azaltmaya yardımcı olur."
+  ],
+  "col": [
+   "sıçan popülasyonu",
+   "sıçan tuzağı",
+   "laboratuvar sıçanı"
+  ],
+  "tip": "rat genellikle sıçan, mouse ise fare demektir. Türkçede 'fare' daha küçük kemirgeni ifade eder; karıştırmayın.",
+  "note": ""
+ }
+]

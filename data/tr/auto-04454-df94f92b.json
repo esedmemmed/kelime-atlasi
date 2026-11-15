@@ -1,0 +1,275 @@
+[
+ {
+  "id": "fighter",
+  "senses": [
+   "dövüşçü; savaşçı",
+   "mücadeleci; savaşçı",
+   "savaş uçağı"
+  ],
+  "ex": [
+   "Genç dövüşçü her sabah antrenörüyle ayak çalışması yapıyor.",
+   "Başarılı bir dövüşçünün disiplinli bir antrenman programına, yeterli dinlenmeye ve profesyonel tıbbi desteğe ihtiyacı vardır."
+  ],
+  "col": [
+   "savaş pilotu",
+   "savaş jeti",
+   "adalet mücadelecisi"
+  ],
+  "tip": "Hem 'savaşçı/dövüşçü' hem de 'savaş uçağı' anlamına gelir. Bağlama bakın; sporda genellikle dövüş sporcusu anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "graphics",
+  "senses": [
+   "grafikler; görseller"
+  ],
+  "ex": [
+   "Oyunun renkli grafikleri yeni ekranımızda harika görünüyordu.",
+   "Açık ve net grafikler, uzman olmayan izleyiciler için karmaşık bilimsel bilgileri daha kolay anlaşılır hale getirebilir."
+  ],
+  "col": [
+   "bilgisayar grafikleri",
+   "yüksek kaliteli grafikler",
+   "ekran kartı"
+  ],
+  "tip": "Genellikle çoğul kullanılır ve yüklemi de çoğul olur: the graphics are impressive. Tek bir görsel için 'a graphic' denir.",
+  "note": ""
+ },
+ {
+  "id": "feather",
+  "senses": [
+   "tüy"
+  ],
+  "ex": [
+   "Bahçe yoluna beyaz bir tüy hafifçe süzülerek düştü.",
+   "Tüyler, kuşların vücut ısısını korumasına yardımcı olur ve daha soğuk ortamlarda hayatta kalmalarını sağlar."
+  ],
+  "col": [
+   "bir kuşun tüyleri",
+   "kuyruk tüyleri",
+   "tüy kadar hafif"
+  ],
+  "tip": "'Feather' kuşların tüyünü anlatır. 'Fur' ise genellikle memelilerin kürkü için kullanılır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "pastime",
+  "senses": [
+   "hobi; boş zaman uğraşı"
+  ],
+  "ex": [
+   "Emekli olduktan sonra bahçecilik en sevdiği hobisi oldu.",
+   "Açık hava etkinlikleri, insanların elektronik cihaz kullanımına daha az zaman ayırmasını teşvik ederken ruh sağlığını da iyileştirebilir."
+  ],
+  "col": [
+   "en sevilen hobi",
+   "popüler bir hobi",
+   "boş zaman etkinliği"
+  ],
+  "tip": "Boş zamanda yapılan keyifli etkinliği anlatır. Yazımında tek 's' vardır: pastime (passtime değil).",
+  "note": ""
+ },
+ {
+  "id": "province",
+  "senses": [
+   "il; eyalet",
+   "uzmanlık alanı; görev alanı"
+  ],
+  "ex": [
+   "Teyzem bu ilin sakin bir köyünde yaşıyor.",
+   "Her il, ulaşım politikalarını yerel coğrafyaya, nüfus yoğunluğuna ve ekonomik ihtiyaçlara göre uyarlamalıdır."
+  ],
+  "col": [
+   "kıyı ili",
+   "il merkezi",
+   "uzmanların alanı"
+  ],
+  "tip": "'Görev alanı' anlamında genellikle 'the province of' kalıbıyla kullanılır: that is the province of experts.",
+  "note": ""
+ },
+ {
+  "id": "immune",
+  "senses": [
+   "bağışık; dirençli",
+   "bağışıklıkla ilgili",
+   "etkilenmeyen; muaf"
+  ],
+  "ex": [
+   "Veteriner, aşılamanın köpek yavrumuzu bağışık hale getireceğini açıkladı.",
+   "Teknoloji yeni fırsatlar yaratsa da hiçbir sektör ekonomik değişimin etkilerinden tamamen bağışık değildir."
+  ],
+  "col": [
+   "enfeksiyona karşı bağışık",
+   "bağışıklık sistemi",
+   "bağışıklık tepkisi",
+   "kovuşturmadan muaf"
+  ],
+  "tip": "'Immune to' bir şeyden etkilenmemeyi; 'immune from' ise çoğunlukla yasal bir yükümlülükten muaf olmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "collapse",
+  "senses": [
+   "çökmek; yıkılmak; bayılmak",
+   "çöküş; göçme"
+  ],
+  "ex": [
+   "Eski bahçe kulübesi dünkü fırtınada yıkıldı.",
+   "Yetersiz bakım köprülerin çökmesine neden olabilir; bu yüzden düzenli denetimler kamu güvenliği için şarttır."
+  ],
+  "col": [
+   "bina çöker",
+   "ekonomik çöküş",
+   "bitkinlikten bayılmak",
+   "müzakerelerin çökmesi"
+  ],
+  "tip": "Çoğunlukla geçişsiz fiil olarak kullanılır: the building collapsed. 'Was collapsed' gibi edilgen yapılar genellikle doğal değildir.",
+  "note": ""
+ },
+ {
+  "id": "expressway",
+  "senses": [
+   "otoyol"
+  ],
+  "ex": [
+   "Havalimanına gün doğmadan ulaşmak için otoyolu kullandık.",
+   "Yeni bir otoyol yapmak yolculuk sürelerini kısaltabilir, ancak özel araçlara bağımlılığı da artırabilir."
+  ],
+  "col": [
+   "otoyol çıkışı",
+   "otoyol inşaatı",
+   "otoyolu kullanmak"
+  ],
+  "tip": "Amerikan ve Asya İngilizcesinde yaygındır; İngiltere'de genellikle 'motorway' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "dome",
+  "senses": [
+   "kubbe; yarım küre çatı",
+   "kubbe benzeri yapı"
+  ],
+  "ex": [
+   "Girişin üzerindeki cam kubbeden güneş ışığı süzülüyordu.",
+   "Müzenin merkezi kubbesi binaya doğal ışık alır ve gündüz saatlerinde yapay aydınlatma ihtiyacını azaltır."
+  ],
+  "col": [
+   "cam kubbe",
+   "kubbeli çatı",
+   "kubbenin altında"
+  ],
+  "tip": "'Dome' yarım küre biçimli çatıyı anlatır; 'domed' ise kubbesi olan anlamında sıfattır: a domed roof.",
+  "note": ""
+ },
+ {
+  "id": "shuttle",
+  "senses": [
+   "servis aracı; kısa mesafe taşıma",
+   "uzay mekiği",
+   "gidip gelmek; taşımak"
+  ],
+  "ex": [
+   "Havalimanından otele ücretsiz servisle gittik.",
+   "Tren istasyonları ile iş merkezleri arasında düzenli servis hizmetleri özel araç kullanımına bağımlılığı azaltabilir."
+  ],
+  "col": [
+   "servis otobüsü",
+   "havalimanı servisi",
+   "uzay mekiği",
+   "arasında gidip gelmek"
+  ],
+  "tip": "Ulaşımda iki yer arasında düzenli gidip gelen araç anlamına gelir; çoğunlukla 'between' ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "radar",
+  "senses": [
+   "radar"
+  ],
+  "ex": [
+   "Balıkçı teknesinde sisin içinde yol bulmak için radar var.",
+   "Modern radar sistemleri, görüşün kötü olduğu durumlarda bile havalimanlarının uçak hareketlerini izlemesine olanak tanır."
+  ],
+  "col": [
+   "radar sistemi",
+   "radar ekranı",
+   "hava durumu radarı"
+  ],
+  "tip": "'Under the radar' deyimi 'dikkat çekmeden, fark edilmeden' anlamına gelir: The issue stayed under the radar.",
+  "note": ""
+ },
+ {
+  "id": "overhead",
+  "senses": [
+   "yukarıda; başın üstünde",
+   "başın üstündeki; havai",
+   "genel giderler; işletme giderleri"
+  ],
+  "ex": [
+   "Biz eve yürürken başımızın üstünden bir kaz sürüsü uçtu.",
+   "Küçük işletmeler ofis alanını paylaşarak ve enerjiyi daha verimli kullanarak genel giderlerini düşürebilir."
+  ],
+  "col": [
+   "başın üstünden uçmak",
+   "havai kablolar",
+   "üst bagaj dolabı",
+   "genel işletme giderleri"
+  ],
+  "tip": "İsim olarak vurgu ilk hecededir (OVerhead). İngiliz İngilizcesinde işletme giderleri için genellikle çoğul 'overheads' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "quietness",
+  "senses": [
+   "sessizlik; dinginlik"
+  ],
+  "ex": [
+   "Kahvaltıdan önce bahçenin sessizliğinin tadını çıkardım.",
+   "Kırsal alanların sessizliği, kentsel yaşamın sürekli gürültüsünden uzaklaşmak isteyen sakinleri çeker."
+  ],
+  "col": [
+   "kırsalın sessizliği",
+   "sessizliğin tadını çıkarmak",
+   "huzur ve sessizlik"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a quietness' demeyin. Günlük dilde 'quiet' ismi de aynı anlamda sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "affair",
+  "senses": [
+   "mesele; olay; iş",
+   "evlilik dışı ilişki"
+  ],
+  "ex": [
+   "Yağmura rağmen aile pikniği neşeli bir etkinlik oldu.",
+   "Okullar, düzenli tartışmalar yoluyla gençlerin güncel olaylara ilgi duymasını teşvik edebilir."
+  ],
+  "col": [
+   "güncel olaylar",
+   "dış ilişkiler",
+   "özel bir mesele",
+   "evlilik dışı ilişki yaşamak"
+  ],
+  "tip": "Kamusal konular için genellikle çoğul 'affairs' kullanılır: current affairs. Romantik anlamda 'have an affair' kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "chatty",
+  "senses": [
+   "konuşkan; sohbet seven",
+   "samimi; sohbet havasında"
+  ],
+  "ex": [
+   "Yanımdaki konuşkan yolcu yolculuğu daha kısa hissettirdi.",
+   "Samimi bir yazım üslubu eğitim sitelerini daha davetkar kılabilir; yine de karmaşık fikirler kesin açıklamalar gerektirir."
+  ],
+  "col": [
+   "sohbet havasında bir ruh hali",
+   "samimi bir üslup",
+   "konuşkan bir komşu"
+  ],
+  "tip": "Genellikle samimi ve sohbet seven anlamına gelir; her zaman olumsuz (dedikoducu) değildir. Kişiler için 'konuşkan', yazı için 'samimi' gibi düşünün.",
+  "note": ""
+ }
+]

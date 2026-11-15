@@ -1,0 +1,271 @@
+[
+ {
+  "id": "skyrocket",
+  "senses": [
+   "hızla artmak; fırlamak"
+  ],
+  "ex": [
+   "Kış çok soğuk geçtiğinde ısınma faturalarımız fırladı.",
+   "Nüfus artışı inşaatın önüne geçtiğinde konut maliyetleri hızla yükselebilir ve uygun fiyatlı konut bulmak giderek zorlaşır."
+  ],
+  "col": [
+   "fiyatlar hızla yükselmek",
+   "talep hızla artmak",
+   "hızla artan maliyetler"
+  ],
+  "tip": "Genellikle geçişsiz kullanılır; öznesi çoğunlukla fiyat, maliyet veya talep olur.",
+  "note": ""
+ },
+ {
+  "id": "atmospheric",
+  "senses": [
+   "atmosfere ait; atmosferik",
+   "etkileyici; atmosferli"
+  ],
+  "ex": [
+   "Eski tiyatronun arkasına saklanmış, havası çok hoş bir kafe bulduk.",
+   "Atmosfer koşullarındaki değişiklikler tarımsal üretimi etkileyebilir ve aşırı hava olaylarının sıklığını artırabilir."
+  ],
+  "col": [
+   "atmosfer basıncı",
+   "atmosfer koşulları",
+   "atmosfer kirliliği",
+   "etkileyici bir ortam"
+  ],
+  "tip": "Bilimsel anlamda 'atmosfere ait'; günlük dilde 'etkileyici, havası olan' anlamında da kullanılır. Atmosphere isim, atmospheric sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "establishment",
+  "senses": [
+   "kuruluş; kurma",
+   "kurum; işletme",
+   "egemen çevre; güç odakları"
+  ],
+  "ex": [
+   "Yerel kulübümüzün kurulması komşuları bir araya getirdi.",
+   "Korunan deniz alanlarının oluşturulması balık popülasyonlarını yeniden canlandırmaya ve kıyı topluluklarını desteklemeye yardımcı olabilir."
+  ],
+  "col": [
+   "...nın kurulması",
+   "eğitim kurumu",
+   "iş yeri; işletme",
+   "siyasi egemen çevre"
+  ],
+  "tip": "Kurma anlamında genellikle sayılamaz; kurum anlamında sayılabilir (an establishment).",
+  "note": ""
+ },
+ {
+  "id": "memorandum",
+  "senses": [
+   "iç yazı; dahili not",
+   "mutabakat muhtırası"
+  ],
+  "ex": [
+   "Müdür yeni çalışma saatlerimizle ilgili bir iç yazı gönderdi.",
+   "İki üniversite, yenilenebilir enerji üzerine ortak araştırmayı desteklemek için bir mutabakat muhtırası imzaladı."
+  ],
+  "col": [
+   "dahili yazı",
+   "iç yazı yayımlamak",
+   "mutabakat muhtırası"
+  ],
+  "tip": "Günlük dilde memo olarak kısaltılır; çoğulu memoranda veya memorandums.",
+  "note": ""
+ },
+ {
+  "id": "contractual",
+  "senses": [
+   "sözleşmeye dayalı; sözleşmeye ait"
+  ],
+  "ex": [
+   "Isıtmayı tamir etmek ev sahibinin sözleşmeden doğan sorumluluğudur.",
+   "İşverenler, çalışanların bir işi kabul etmeden önce haklarını anlamaları için sözleşmeden doğan yükümlülükleri açıkça anlatmalıdır."
+  ],
+  "col": [
+   "sözleşmeden doğan yükümlülükler",
+   "sözleşmeden doğan haklar",
+   "sözleşme şartları",
+   "sözleşmeye dayalı anlaşma"
+  ],
+  "tip": "Sözleşmeyle belirlenmiş hak ve yükümlülükleri anlatır; genellikle isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "commend",
+  "senses": [
+   "övmek; takdir etmek",
+   "tavsiye etmek; önermek"
+  ],
+  "ex": [
+   "Antrenör Lina'yı takım arkadaşlarına yardım ettiği için övdü.",
+   "Müfettişler, farklı öğrenme ihtiyaçları olan öğrencilere ek destek sağladığı için okulu takdir etti."
+  ],
+  "col": [
+   "birini bir şeyden dolayı övmek",
+   "büyük takdir toplamak",
+   "bir şeyi birine tavsiye etmek"
+  ],
+  "tip": "Commend 'övmek' anlamındadır; command ise 'emir vermek' demektir. Yazımına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "indifference",
+  "senses": [
+   "ilgisizlik; kayıtsızlık"
+  ],
+  "ex": [
+   "Heyecan verici haberimi paylaştığımda onun ilgisizliği beni şaşırttı.",
+   "Halkın yerel seçimlere ilgisizliği, hesap verebilirliği zayıflatabilir ve demokratik temsilin kalitesini düşürebilir."
+  ],
+  "col": [
+   "acıya karşı duyarsızlık",
+   "halkın ilgisizliği",
+   "ilgisizlik göstermek"
+  ],
+  "tip": "Genellikle sayılamaz; bir şeye karşı ilgisizlik için indifference to kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "contradict",
+  "senses": [
+   "çelişmek; uyuşmamak",
+   "yalanlamak; itiraz etmek"
+  ],
+  "ex": [
+   "Çamurlu ayakkabıların, evde kaldığın yönündeki iddiayla çelişiyor.",
+   "Son bulgular, uzun çalışma saatlerinin mutlaka daha yüksek verimliliğe yol açtığı varsayımıyla çelişiyor."
+  ],
+  "col": [
+   "bir iddiayı yalanlamak",
+   "kanıtlarla çelişmek",
+   "kendi kendisiyle çelişmek"
+  ],
+  "tip": "Geçişli fiildir; with almadan doğrudan nesne alır: contradict the evidence.",
+  "note": ""
+ },
+ {
+  "id": "narrate",
+  "senses": [
+   "anlatmak; aktarmak",
+   "seslendirmek; anlatım yapmak"
+  ],
+  "ex": [
+   "Büyükbabam çocukluğundan hikâyeler anlatmayı çok sever.",
+   "Yerel sakinler belgeselde deneyimlerini anlatıyor ve kentsel değişime dair değerli bakış açıları sunuyor."
+  ],
+  "col": [
+   "bir hikâyeyi anlatmak",
+   "belgeseli seslendirmek",
+   "olayları anlatmak"
+  ],
+  "tip": "Geçişli fiildir; about kullanmadan doğrudan nesne alır: narrate a story. Tell'e göre daha resmi bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "glassware",
+  "senses": [
+   "cam eşya; cam kaplar"
+  ],
+  "ex": [
+   "Kutuya koymadan önce cam eşyaları dikkatlice sarın.",
+   "Uygun temizlik ve güvenlik prosedürlerine uyulduğu sürece, yeniden kullanılabilir cam malzemeler laboratuvarlardaki atığı azaltabilir."
+  ],
+  "col": [
+   "laboratuvar cam malzemeleri",
+   "kırılgan cam eşya",
+   "cam eşyaları yıkamak"
+  ],
+  "tip": "Sayılamaz isimdir; tek bir parça için a piece of glassware kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "provincial",
+  "senses": [
+   "il ile ilgili; eyalet",
+   "taşraya ait; başkent dışı",
+   "dar görüşlü; taşralı"
+  ],
+  "ex": [
+   "Evimize yakın il hastanesinde çalışıyor.",
+   "İl yönetimleri, ulusal eğitim politikalarını yerel toplulukların özel ihtiyaçlarına uyacak şekilde uyarlayabilir."
+  ],
+  "col": [
+   "il yönetimi",
+   "il merkezi; eyalet başkenti",
+   "taşra kasabası"
+  ],
+  "tip": "İdari anlamda nötrdür; insanların düşüncesi için kullanıldığında olumsuz, 'dar görüşlü' anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "envisage",
+  "senses": [
+   "öngörmek; tasavvur etmek"
+  ],
+  "ex": [
+   "Bu boş odayı bir stüdyoya çevirmeyi düşünüyorum.",
+   "Kentsel planlamacılar, sakinlerin çoğunun temel hizmetlere yürüyerek ulaşabildiği bir gelecek öngörüyor."
+  ],
+  "col": [
+   "bir gelecek tasavvur etmek",
+   "bir şey yapmayı düşünmek",
+   "başlangıçta öngörüldüğü gibi"
+  ],
+  "tip": "Nesne olarak isim, -ing biçimi veya that-cümlesi alır; to do kullanılmaz: envisage doing.",
+  "note": ""
+ },
+ {
+  "id": "esteem",
+  "senses": [
+   "saygı; itibar",
+   "saymak; saygı duymak"
+  ],
+  "ex": [
+   "Komşuları, nazikliği yüzünden ona büyük saygı duyuyor.",
+   "Öğrencilere adil davranan öğretmenler genellikle yerel topluluklarının kalıcı saygısını kazanır."
+  ],
+  "col": [
+   "birine çok değer vermek",
+   "birinin saygısını kazanmak",
+   "karşılıklı saygı"
+  ],
+  "tip": "Genellikle hold someone in high esteem kalıbıyla 'birine çok saygı duymak' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "judicial",
+  "senses": [
+   "yargısal; adli"
+  ],
+  "ex": [
+   "Avukat yargılama sürecini ailemize açıkladı.",
+   "Bağımsız bir yargı sistemi bireysel hakları korumaya yardımcı olur ve hükümetlerin hesap verebilir kalmasını sağlar."
+  ],
+  "col": [
+   "yargı sistemi",
+   "yargısal denetim",
+   "yargı bağımsızlığı"
+  ],
+  "tip": "Judicial 'yargıyla ilgili' demektir; judicious ise 'akıllıca, ölçülü' anlamına gelir. Karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "confine",
+  "senses": [
+   "sınırlamak; kısıtlamak",
+   "hapsetmek; alıkoymak"
+  ],
+  "ex": [
+   "Lütfen çamurlu botlarınızı sadece verandada tutun.",
+   "Araştırmacılar toplu taşımaya erişimi incelerken araştırmalarını yalnızca varlıklı mahallelerle sınırlamamalı."
+  ],
+  "col": [
+   "bir şeyi ... ile sınırlamak",
+   "yatağa mahkûm olmak",
+   "kendini ... ile sınırlamak"
+  ],
+  "tip": "Genellikle confine A to B kalıbıyla 'A'yı B ile sınırlamak' anlamında kullanılır.",
+  "note": ""
+ }
+]

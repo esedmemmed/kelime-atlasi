@@ -1,0 +1,279 @@
+[
+ {
+  "id": "drip",
+  "senses": [
+   "damlamak; sızmak",
+   "damla; damlama sesi",
+   "serum; damar içi sıvı"
+  ],
+  "ex": [
+   "Şemsiyemden mutfak zeminine su damlıyordu.",
+   "Sızan borular, yaşlanmış altyapıya sahip şehirlerde sürekli damlayarak önemli miktarda su israfına yol açabilir."
+  ],
+  "col": [
+   "...'den damlamak",
+   "damlayan musluk",
+   "birini serumla tedavi etmek"
+  ],
+  "tip": "'drip from' kalıbında from edatı nereden damladığını gösterir. 'on a drip' ifadesi hastanın serumda olduğunu anlatır (İngiliz İngilizcesi).",
+  "note": ""
+ },
+ {
+  "id": "shallow",
+  "senses": [
+   "sığ",
+   "yüzeysel; kısa görüşlü",
+   "yüzeysel; sığ"
+  ],
+  "ex": [
+   "Çocuklar havuzun sığ tarafında mutlulukla sıçrıyordu.",
+   "Kıyıdaki sığ sular genç balıklar için önemli yaşam alanları sağlar; bu yüzden bunların korunması sürdürülebilir balıkçılık için şarttır."
+  ],
+  "col": [
+   "sığ su",
+   "sığ bir tabak",
+   "yüzeysel nefes alma",
+   "yüzeysel bir anlayış"
+  ],
+  "tip": "Su derinliği ve düşüncenin derinliği için shallow kullanılır. Karşıtı deep'tir.",
+  "note": ""
+ },
+ {
+  "id": "wink",
+  "senses": [
+   "göz kırpmak",
+   "göz kırpma"
+  ],
+  "ex": [
+   "Kız kardeşim akşam yemeği masasının karşısından bana göz kırptı.",
+   "Samimi bir göz kırpma ortak bir anlayışı iletebilir; ancak anlamı kültürler arasında önemli ölçüde değişebilir."
+  ],
+  "col": [
+   "birine göz kırpmak",
+   "birine göz kırpmak",
+   "bir an bile uyuyamamak"
+  ],
+  "tip": "wink, bilinçli bir işaret olarak tek gözle göz kırpmak anlamına gelir. Doğal göz kırpmak için blink kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "graze",
+  "senses": [
+   "otlamak; otlatmak",
+   "sıyırmak; sürtünmek",
+   "sıyrık; çizik"
+  ],
+  "ex": [
+   "Koyunlar her yaz sabahı nehrin kenarında sessizce otluyor.",
+   "Sığırların çok yoğun otlatılmasına izin vermek bitki örtüsüne zarar verebilir ve toprak erozyonu riskini artırabilir."
+  ],
+  "col": [
+   "çimende otlamak",
+   "sığır otlatmak",
+   "dizini sıyırmak"
+  ],
+  "tip": "Fiil hem hayvanların otlamasını hem de deri sıyırmasını anlatır. Anlam, nesneye ve cümle bağlamına göre belirlenir.",
+  "note": ""
+ },
+ {
+  "id": "emerge",
+  "senses": [
+   "ortaya çıkmak; görünmek",
+   "belirmek; öne çıkmak"
+  ],
+  "ex": [
+   "Bahçe kulübesinin altından küçük bir tavşan çıktı.",
+   "Hükümetler yenilenebilir enerji altyapısına daha fazla yatırım yaptıkça yeni iş fırsatları ortaya çıkabilir."
+  ],
+  "col": [
+   "...'den çıkmak",
+   "lider olarak öne çıkmak",
+   "kanıtlar ortaya çıkıyor"
+  ],
+  "tip": "Genellikle nesne almaz. Yerden çıkışı from, bir konuma ya da role ulaşmayı as ile ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "humble",
+  "senses": [
+   "alçakgönüllü; mütevazı",
+   "alçak; sade",
+   "gururunu kırmak"
+  ],
+  "ex": [
+   "Ödülü kazanmasına rağmen alçakgönüllü kaldı ve herkese teşekkür etti.",
+   "Etkili liderler, hataları kabul edebilecek ve farklı geçmişlere sahip meslektaşlarından öğrenebilecek kadar alçakgönüllü kalır."
+  ],
+  "col": [
+   "alçakgönüllü kalmak",
+   "mütevazı kökenler",
+   "sade bir ev",
+   "kanaatimce"
+  ],
+  "tip": "'Alçakgönüllü' anlamındaki humble, 'aşağılamak' anlamındaki humiliate ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "administration",
+  "senses": [
+   "yönetim; idare",
+   "hükümet; yönetim kadrosu",
+   "uygulama; verme"
+  ],
+  "ex": [
+   "Yerel spor kulübümüzün idari işlerini o yürütüyor.",
+   "Etkin yönetim, kamu hastanelerinin kaynakları adil biçimde dağıtmasına ve hastaların ihtiyaçlarına daha hızlı yanıt vermesine olanak tanır."
+  ],
+  "col": [
+   "kamu yönetimi",
+   "işletme yönetimi",
+   "okul yönetimi",
+   "ilaç uygulaması"
+  ],
+  "tip": "İdari iş anlamında genellikle sayılamaz. Bir hükümet dönemi anlamında ise sayılabilir (a new administration).",
+  "note": ""
+ },
+ {
+  "id": "alcoholism",
+  "senses": [
+   "alkol bağımlılığı"
+  ],
+  "ex": [
+   "Klinik, alkol bağımlılığı olan kişilere gizli destek sunuyor.",
+   "Alkol bağımlılığının etkili tedavisi genellikle tıbbi bakım, psikolojik destek ve aile üyelerinin yardımını bir araya getirir."
+  ],
+  "col": [
+   "alkol bağımlılığı tedavisi",
+   "alkol bağımlılığından kurtulmak",
+   "kronik alkol bağımlılığı"
+  ],
+  "tip": "Bu sözcük bir hastalığı ifade eder. Alkol bağımlısı kişi için alcoholic kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hopeful",
+  "senses": [
+   "umutlu",
+   "umut verici",
+   "aday; yarışmacı"
+  ],
+  "ex": [
+   "İlk başarılı direksiyon dersinden sonra kendini umutlu hissetti.",
+   "Bilim insanları, gelişmiş pil teknolojisinin yenilenebilir enerjiyi daha güvenilir ve uygun fiyatlı hale getireceğine dair umutlu olmaya devam ediyor."
+  ],
+  "col": [
+   "gelecek hakkında umutlu",
+   "-eceğine umut etmek",
+   "umut verici bir işaret"
+  ],
+  "tip": "İnsanlar için hopeful kullanılır. Durumlar ya da işler için promising daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "clarinet",
+  "senses": [
+   "klarnet"
+  ],
+  "ex": [
+   "Kız kardeşim akşam yemeğinden sonra klarneti sessizce çalışıyor.",
+   "Klarnet çalmayı öğrenmek, çocukların okul orkestralarına katılmayı teşvik ederken konsantrasyonlarını geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "klarnet çalmak",
+   "klarnet solosu",
+   "klarnetçi"
+  ],
+  "tip": "Müzik aletini çalmak için play the + alet kalıbı kullanılır. Aletin önündeki the unutulmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "dove",
+  "senses": [
+   "güvercin",
+   "barış yanlısı"
+  ],
+  "ex": [
+   "Bahçe duvarımıza beyaz bir güvercin nazikçe kondu.",
+   "Barış yanlısı siyasetçiler, uluslararası anlaşmazlıkların askeri müdahale yerine müzakereyle çözülmesi gerektiğini savunur."
+  ],
+  "col": [
+   "beyaz bir güvercin",
+   "barışın sembolü",
+   "siyasi barış yanlısı"
+  ],
+  "tip": "Barış yanlısı anlamında karşıt kavram hawk'tır (savaş yanlısı, sert görüşlü). Kuş anlamından ayrı düşünülmelidir.",
+  "note": ""
+ },
+ {
+  "id": "rewarding",
+  "senses": [
+   "tatmin edici; doyurucu",
+   "kazançlı; getirisi yüksek"
+  ],
+  "ex": [
+   "Küçük kuzenime yüzmeyi öğretmek şaşırtıcı derecede tatmin ediciydi.",
+   "Gönüllülük, pratik beceriler geliştiren ve yerel topluluklardaki bağları güçlendiren tatmin edici bir deneyim olabilir."
+  ],
+  "col": [
+   "tatmin edici deneyim",
+   "kazançlı kariyer",
+   "maddi açıdan kazançlı"
+  ],
+  "tip": "Çoğunlukla içsel tatmin için kullanılır. Maddi kazancı vurgulamak için financially rewarding biçimi tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "forbid",
+  "senses": [
+   "yasaklamak; men etmek"
+  ],
+  "ex": [
+   "Bina kurallarımız koridorlara bisiklet bırakılmasını yasaklıyor.",
+   "Hükümetler, halk sağlığını ve su ekosistemlerini korumak için şirketlerin arıtılmamış atıkları nehirlere bırakmasını yasaklamalıdır."
+  ],
+  "col": [
+   "birine bir şey yapmayı yasaklamak",
+   "birinin bir şey yapmasını yasaklamak",
+   "kesinlikle yasaktır"
+  ],
+  "tip": "Geçmiş zaman forbade, üçüncü hal forbidden. Kalıp: forbid someone to do ya da forbid someone from doing.",
+  "note": ""
+ },
+ {
+  "id": "superior",
+  "senses": [
+   "daha üstün; daha iyi",
+   "üst; amir",
+   "kendini üstün gören"
+  ],
+  "ex": [
+   "Bu botlar ıslak yollarda daha iyi bir tutuş sağlıyor.",
+   "Sık ve güvenilir seferler olduğunda toplu taşıma, özel araçlara göre daha üstün bir alternatif sunabilir."
+  ],
+  "col": [
+   "üstün kalite",
+   "...'den üstün",
+   "doğrudan amiri",
+   "kendini beğenmiş tavır"
+  ],
+  "tip": "Karşılaştırmada superior to kullanılır. 'Than' ile kullanılmaz (superior than yanlıştır).",
+  "note": ""
+ },
+ {
+  "id": "astonishment",
+  "senses": [
+   "hayret; şaşkınlık"
+  ],
+  "ex": [
+   "Minik fidanın çiçek açtığını hayretle izledi.",
+   "Teknolojik değişimin hızı, özellikle internete erişim yaygınlaşmadan önceki hayatı hatırlayan insanlarda sıklıkla hayret uyandırır."
+  ],
+  "col": [
+   "hayretle",
+   "birinin şaşkınlığına",
+   "hayretini dile getirmek"
+  ],
+  "tip": "Genellikle sayılamaz. to one's astonishment kalıbı 'şaşırtıcı olan', 'şaşırtıcı biçimde' anlamında kullanılır.",
+  "note": ""
+ }
+]

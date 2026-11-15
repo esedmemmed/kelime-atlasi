@@ -1,0 +1,277 @@
+[
+ {
+  "id": "suspicion",
+  "senses": [
+   "şüphe; kuşku",
+   "güvensizlik; şüphe",
+   "az miktar; iz"
+  ],
+  "ex": [
+   "Birinin anahtarlarımın yerini değiştirdiğinden şüpheleniyordum.",
+   "Şeffaflık eksikliği, hükümet ihalelerinin nasıl verildiğine dair halkın şüphesini artırabilir."
+  ],
+  "col": [
+   "şüphe uyandırmak",
+   "şüpheli durumda olmak",
+   "hırsızlık şüphesiyle",
+   "…olduğuna dair bir şüphe"
+  ],
+  "tip": "Suspicion of (+isim/-ing) ve suspicion that (+cümle) kalıplarını öğrenin. Şüphe anlamında sayılamaz; 'a suspicion' tek bir şüphedir.",
+  "note": ""
+ },
+ {
+  "id": "digestion",
+  "senses": [
+   "sindirim; hazım"
+  ],
+  "ex": [
+   "Bol su içmek sindiriminizin iyi çalışmasına yardımcı olur.",
+   "Dengeli bir beslenme, sağlıklı bir sindirimi destekler ve büyüme ile günlük etkinlikler için gereken besinleri sağlar."
+  ],
+  "col": [
+   "sindirime yardımcı olmak",
+   "sağlıklı sindirim",
+   "zayıf sindirim"
+  ],
+  "tip": "Genellikle sayılamaz bir isimdir. Hazımsızlık için ayrı bir kelime olan indigestion kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dissatisfaction",
+  "senses": [
+   "memnuniyetsizlik; hoşnutsuzluk"
+  ],
+  "ex": [
+   "Soğuk yemekten duyduğu memnuniyetsizliği kibarca dile getirdi.",
+   "Toplu taşımaya yönelik artan memnuniyetsizlik, yerel yönetimleri otobüs güzergâhlarını ve ücretlerini gözden geçirmeye yöneltti."
+  ],
+  "col": [
+   "…ile ilgili memnuniyetsizlik",
+   "memnuniyetsizliğini dile getirmek",
+   "yaygın memnuniyetsizlik",
+   "iş tatminsizliği"
+  ],
+  "tip": "Genellikle sayılamaz. Bir şeyden duyulan hoşnutsuzluk için dissatisfaction with kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "simplicity",
+  "senses": [
+   "sadelik; kolaylık",
+   "sadelik; süssüzlük"
+  ],
+  "ex": [
+   "Bu kolay sebzeli çorba tarifinin sadeliğini çok seviyorum.",
+   "Dijital bir hizmetin sadeliği, yaşlı kullanıcıların temel bilgilere kendi başlarına erişirken kendilerini ne kadar rahat hissedeceklerini belirleyebilir."
+  ],
+  "col": [
+   "kolaylık olsun diye",
+   "sade tasarım",
+   "zarif sadelik"
+  ],
+  "tip": "Genellikle sayılamaz. Sıfat olan simple'ın isim biçimidir; \"in simplicity\" yerine \"for simplicity\" kalıbına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "crate",
+  "senses": [
+   "sandık; kasa; yük kutusu",
+   "sandığa koymak; kasaya yerleştirmek"
+  ],
+  "ex": [
+   "Bir kasa elmayı mutfağa taşıdık.",
+   "Yeniden kullanılabilir plastik kasalar, gıda tedarikçileri boş kapları toplamak için güvenilir sistemler kurduğunda ambalaj atığını azaltabilir."
+  ],
+  "col": [
+   "ahşap bir sandık",
+   "bir kasa meyve",
+   "sandıklara koymak"
+  ],
+  "tip": "Ahşap ya da plastik olabilir. \"a crate of\" bir kasa dolusu miktarı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "sprain",
+  "senses": [
+   "burkmak; burkulmak",
+   "burkulma; burkulma yaralanması"
+  ],
+  "ex": [
+   "Otobüse yetişmek için koşarken ayak bileğimi burktum.",
+   "Bir eklemini burkan sporcular, rekabetçi spora dönmeden önce yeterli iyileşme süresi tanımalıdır."
+  ],
+  "col": [
+   "ayak bileğini burkmak",
+   "bileği burkmak",
+   "ağır bir burkulma"
+  ],
+  "tip": "Sprain eklem burkulmasıdır; kas veya tendon zorlanması için genellikle strain kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mint",
+  "senses": [
+   "nane; naneli şeker",
+   "darphane",
+   "para basmak"
+  ],
+  "ex": [
+   "Limonlu suyuma taze nane ekledim.",
+   "Kentsel bahçelerde nane gibi otların yetiştirilmesi taze malzeme sağlayabilir ve gıda üretimine ilgiyi artırabilir."
+  ],
+  "col": [
+   "taze nane",
+   "nane çayı",
+   "madeni paralar",
+   "mükemmel durumda"
+  ],
+  "tip": "Bitki anlamında genellikle sayılamaz; \"a mint\" bir adet naneli şekeri ifade eder. \"in mint condition\" yeni gibi durumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "pail",
+  "senses": [
+   "kova; bir kova dolusu"
+  ],
+  "ex": [
+   "Bahçeye bir kova su taşıdı.",
+   "Güvenilir su tesisatının olmadığı köylerde, sakinler içme suyunu bir kovayla eve taşıyabilir."
+  ],
+  "col": [
+   "bir kova su",
+   "kovayı doldurmak",
+   "süt kovası"
+  ],
+  "tip": "Pale (solgun) ile aynı sesleniyor. Günlük İngilizcede genellikle bucket daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "ministry",
+  "senses": [
+   "bakanlık",
+   "ruhban görevi; din hizmeti"
+  ],
+  "ex": [
+   "Teyzem istasyonun yakınındaki bakanlıkta çalışıyor.",
+   "Eğitim bakanlığı, ulusal müfredatta büyük değişikliklere gitmeden önce öğretmenlere danışmalıdır."
+  ],
+  "col": [
+   "eğitim bakanlığı",
+   "dışişleri bakanlığı",
+   "Sağlık Bakanlığı"
+  ],
+  "tip": "Hükümet bakanlıkları için genellikle Ministry of + alan adı kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "salute",
+  "senses": [
+   "selam vermek; saygı göstermek",
+   "övmek; takdir etmek",
+   "selam; saygı duruşu"
+  ],
+  "ex": [
+   "Subay, kaptanı selamlamak için elini kaldırdı.",
+   "Kamu törenleri, gönüllülerin katkılarını takdir ederken daha fazla vatandaşı topluluk projelerine katılmaya teşvik edebilir."
+  ],
+  "col": [
+   "subayı selamlamak",
+   "selam vermek",
+   "birinin cesaretini takdir etmek"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: salute someone; araya to koymayın.",
+  "note": ""
+ },
+ {
+  "id": "foul",
+  "senses": [
+   "iğrenç; pis kokulu",
+   "faul",
+   "kirletmek; pisletmek"
+  ],
+  "ex": [
+   "Unutulmuş çöp kutusundan iğrenç bir koku yayılıyordu.",
+   "Arıtılmamış endüstriyel atıklar nehirleri kirletebilir; bu da su canlılarını ve yakındaki toplulukların sağlığını tehdit eder."
+  ],
+  "col": [
+   "pis koku",
+   "faul yapmak",
+   "kaba dil",
+   "kötü hava"
+  ],
+  "tip": "Sporda faul için commit a foul kalıbı kullanılır; \"foul\" kötü hava için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "gigantic",
+  "senses": [
+   "devasa; dev gibi"
+  ],
+  "ex": [
+   "Dev bir balkabağı mutfak masasının tamamını kaplamıştı.",
+   "Devasa barajlar yenilenebilir elektrik üretebilir, ama yaşam alanlarını yok edebilir ve yerel toplulukları yerinden edebilir."
+  ],
+  "col": [
+   "devasa bir görev",
+   "dev bir yapı",
+   "dev bir dalga"
+  ],
+  "tip": "big'den daha güçlü bir anlam taşır; hacim, ölçek veya görev için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "tide",
+  "senses": [
+   "gel-git; deniz kabarması",
+   "eğilim; akım"
+  ],
+  "ex": [
+   "Alçak su zamanında kumsalın açığa çıkan kısmında yürüdük.",
+   "Kıyı planlamacıları, yükselen deniz seviyelerinin ve yüksek gelgitlerin evleri ve ulaşım altyapısını nasıl tehdit edebileceğini düşünmelidir."
+  ],
+  "col": [
+   "yüksek su; met",
+   "alçak su; cezir",
+   "durumu değiştirmek",
+   "bir değişim dalgası"
+  ],
+  "tip": "Tide, denizin periyodik yükselip alçalmasıdır; wave ise tek bir dalgadır.",
+  "note": ""
+ },
+ {
+  "id": "vital",
+  "senses": [
+   "hayati; çok önemli",
+   "yaşamsal; hayati"
+  ],
+  "ex": [
+   "Bu dondurucu sabahlarda sıcak bir mont hayati önem taşıyor.",
+   "Güvenilir toplu taşıma, kentsel trafik sıkışıklığını azaltmada ve istihdama erişimi iyileştirmede önemli bir rol oynar."
+  ],
+  "col": [
+   "önemli bir rol oynamak",
+   "hayati önem",
+   "hayati organlar",
+   "hayatta kalmak için şart"
+  ],
+  "tip": "be vital for/to kalıbı, bir şeyin çok önemli olduğunu anlatmak için sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "past-due",
+  "senses": [
+   "vadesi geçmiş; ödenmemiş"
+  ],
+  "ex": [
+   "Bu sabah vadesi geçmiş faturayı sonunda ödedim.",
+   "Mali danışmanlık, hanelerin vadesi geçmiş ödemeleri yönetmesine ve borçlarının daha da artmasını önlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "vadesi geçmiş fatura",
+   "vadesi geçmiş ödeme",
+   "vadesi geçmiş hesap"
+  ],
+  "tip": "İsmin önünde tire ile yazılır; yüklem olarak genellikle past due şeklinde ayrı yazılır.",
+  "note": ""
+ }
+]

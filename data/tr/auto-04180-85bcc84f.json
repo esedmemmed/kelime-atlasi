@@ -1,0 +1,286 @@
+[
+ {
+  "id": "specific",
+  "senses": [
+   "belirli",
+   "açık seçik; ayrıntılı",
+   "özgü; has"
+  ],
+  "ex": [
+   "Tercih ettiğin belirli bir renk var mı?",
+   "Hükümetler, ilerlemenin doğru biçimde ölçülebilmesi için hava kirliliğini azaltmaya yönelik somut hedefler belirlemelidir."
+  ],
+  "col": [
+   "belirli ihtiyaçlar",
+   "ayrıntılı bilgiler",
+   "belirli hedefler",
+   "-e özgü"
+  ],
+  "tip": "Genelden ayrı, belirli bir şeyi vurgular. 'Specific to' kalıbı 'belirli bir şeye özgü' anlamındadır; 'special' (özel) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "assume",
+  "senses": [
+   "varsaymak; sanmak",
+   "üstlenmek",
+   "kazanmak; almak"
+  ],
+  "ex": [
+   "Dükkânın pazar günleri açık olduğunu sakın varsayma.",
+   "Politika yapıcılar, tüm hanelerin güvenilir internet erişimine ya da yeterli dijital becerilere sahip olduğunu varsaymamalıdır."
+  ],
+  "col": [
+   "...olduğunu varsaymak",
+   "sorumluluk üstlenmek",
+   "göreve başlamak"
+  ],
+  "tip": "Genellikle 'assume that + cümle' kalıbıyla kullanılır. Kanıtlanmadan kabul edilen bir durumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "unfortunate",
+  "senses": [
+   "talihsiz; şanssız",
+   "üzücü; sakıncalı"
+  ],
+  "ex": [
+   "Talihsiz bir kaza yüzünden bisikletimin tekerleği fena halde eğildi.",
+   "Kırsal kesimdeki birçok topluluğun hâlâ temel sağlık hizmetlerine güvenilir biçimde ulaşamaması üzücü."
+  ],
+  "col": [
+   "talihsiz bir kaza",
+   "talihsiz koşullar",
+   "talihsiz bir sözcük seçimi"
+  ],
+  "tip": "'It is unfortunate that…' resmi yazıda sık kullanılır. Cümle başında 'ne yazık ki' anlamıyla 'unfortunately' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "bungalow",
+  "senses": [
+   "tek katlı ev; bungalov"
+  ],
+  "ex": [
+   "Küçük ve güneş alan bir bahçesi olan bir bungalov satın aldılar.",
+   "Tek katlı tasarımı merdiven çıkma ihtiyacını ortadan kaldırdığı için bungalovlar yaşlı sakinler için uygun olabilir."
+  ],
+  "col": [
+   "müstakil bungalov",
+   "tek katlı bungalov",
+   "deniz kenarı bungalovu"
+  ],
+  "tip": "Vurgu tek katlı olmasındadır; küçük ya da basit bir ev anlamı taşımaz. Sıfatlarla birlikte sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "adopt",
+  "senses": [
+   "benimsemek; uygulamak",
+   "evlat edinmek",
+   "onaylamak; kabul etmek"
+  ],
+  "ex": [
+   "Alışverişimizi düzenlemek için daha basit bir yol benimsedik.",
+   "Hükümetler, sadece yeni yollar yapmak yerine toplu taşımayı iyileştirecek uzun vadeli stratejileri benimsemelidir."
+  ],
+  "col": [
+   "bir yaklaşımı benimsemek",
+   "bir politikayı benimsemek",
+   "bir çocuğu evlat edinmek",
+   "bir kararı kabul etmek"
+  ],
+  "tip": "'Adopt' (benimsemek, evlat edinmek) ile 'adapt' (uyum sağlamak, uyarlamak) karıştırılmamalı. Adopt geçişli bir fiildir.",
+  "note": ""
+ },
+ {
+  "id": "sole",
+  "senses": [
+   "tek; yalnız",
+   "taban; ayakkabı tabanı",
+   "dil balığı"
+  ],
+  "ex": [
+   "Bu küçük fırının tek sahibi odur.",
+   "Ekonomik büyüme, bir ülkenin ilerlemesinin ya da kamu refahının tek ölçütü olmamalıdır."
+  ],
+  "col": [
+   "tek neden",
+   "tek sorumluluk",
+   "ayakkabının tabanı"
+  ],
+  "tip": "'Sole' (tek, taban) ile 'soul' (ruh) sesteştir; yazımına dikkat edin. Sıfat olarak genellikle isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "annoyance",
+  "senses": [
+   "sinirlilik; rahatsızlık",
+   "can sıkıcı şey"
+  ],
+  "ex": [
+   "Kapı zili yeniden çalınca sinirle iç çekti.",
+   "Trafik gürültüsü küçük bir rahatsızlık gibi görünse de uzun süre maruz kalmak sakinlerin refahını olumsuz etkileyebilir."
+  ],
+  "col": [
+   "canımı sıkacak şekilde",
+   "küçük bir rahatsızlık",
+   "rahatsızlık kaynağı"
+  ],
+  "tip": "Duygu anlamında sayılamaz; somut bir can sıkıcı şey anlamında sayılabilir. 'Annoying' (sıfat) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "concentration",
+  "senses": [
+   "dikkat; odaklanma",
+   "derişim; yoğunluk",
+   "yoğunlaşma; toplanma"
+  ],
+  "ex": [
+   "Dışarıdaki sürekli gürültü benim için odaklanmayı zorlaştırdı.",
+   "Yoğun trafik yollarının yakınında hava kirleticilerinin yüksek derişimi sakinler için ciddi sağlık riskleri doğurabilir."
+  ],
+  "col": [
+   "dikkatini kaybetmek",
+   "dikkatini geliştirmek",
+   "yüksek derişim",
+   "servetin toplanması"
+  ],
+  "tip": "Dikkat anlamında sayılamaz. Bir maddenin derişimi için 'concentration of' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "authority",
+  "senses": [
+   "yetki; otorite",
+   "yetkili makam; kurum",
+   "uzman; yetkili kişi"
+  ],
+  "ex": [
+   "Bu geri ödemeyi onaylama yetkisi yalnızca müdürdedir.",
+   "Yerel yönetimler, kamu hizmetlerine erişimi önemli ölçüde etkileyecek politikaları uygulamadan önce sakinlere danışmalıdır."
+  ],
+  "col": [
+   "bir şeyi yapma yetkisi",
+   "yerel yönetimler",
+   "...konusunda uzman",
+   "yetki kötüye kullanımı"
+  ],
+  "tip": "Yetki anlamında genellikle sayılamaz. 'The authorities' yetkili makamlar anlamına gelir; 'an authority on' bir alanın uzmanı demektir.",
+  "note": ""
+ },
+ {
+  "id": "headquarters",
+  "senses": [
+   "genel merkez; karargâh"
+  ],
+  "ex": [
+   "Nehir kenarındaki şirket genel merkezinde çalışıyor.",
+   "Kurumsal genel merkezlerin daha küçük şehirlere taşınması iş yaratabilir ve büyük kentlerin üzerindeki baskıyı azaltabilir."
+  ],
+  "col": [
+   "kurumsal genel merkez",
+   "bölge merkezi",
+   "genel merkez personeli"
+  ],
+  "tip": "Tekil ve çoğul biçimi aynıdır; sonundaki s harfi her zaman korunur. Tekil ya da çoğul fiille kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "gasp",
+  "senses": [
+   "nefessiz kalmak; soluk almak",
+   "ani soluk alma"
+  ],
+  "ex": [
+   "Balina teknemizin yanında yükselince şaşkınlıkla soluğumuzu tuttuk.",
+   "Koşucular, oksijenin daha az olduğu yüksek rakımlarda egzersiz yaparken nefes nefese kalabilir."
+  ],
+  "col": [
+   "nefes nefese kalmak",
+   "şaşkınlıkla ani soluk almak",
+   "derin bir ah çekmek"
+  ],
+  "tip": "'Gasp' ani nefes alışını vurgular; 'pant' ise art arda hızlı nefes almayı anlatır. 'Gasp for breath' kalıbını da öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "irregular",
+  "senses": [
+   "düzensiz; biçimsiz",
+   "düzensiz; aralıklı",
+   "düzensiz çekimli"
+  ],
+  "ex": [
+   "Yol, düzensiz şekilli taşlardan yapılmıştı.",
+   "Düzensiz saatlerde çalışmak uyku düzenini bozabilir ve çalışanların sağlıklı alışkanlıklar sürdürmesini zorlaştırabilir."
+  ],
+  "col": [
+   "düzensiz şekiller",
+   "düzensiz çalışma saatleri",
+   "düzensiz fiiller",
+   "düzensiz kalp atışı"
+  ],
+  "tip": "Şekil, zaman ve dilbilgisi için kullanılabilir. 'Irregular verbs' düzensiz fiilleri anlatır; 'regular' (düzenli) zıttıdır.",
+  "note": ""
+ },
+ {
+  "id": "loose",
+  "senses": [
+   "gevşek; oynak",
+   "bol; dar olmayan",
+   "sıkı olmayan; gevşek"
+  ],
+  "ex": [
+   "Gevşek bir vida yüzünden tüm sandalye sallanıyordu.",
+   "Endüstriyel atıklara ilişkin gevşek düzenlemeler, zararlı maddelerin nehirlere karışmasına ve yerel ekosistemlerin zarar görmesine yol açabilir."
+  ],
+  "col": [
+   "gevşek vida",
+   "bol giysi",
+   "gevşek bağlantı",
+   "kopup kurtulmak"
+  ],
+  "tip": "'Loose' sıfat olarak /luːs/ okunur; 'lose' fiili /luːz/ okunur. Ayrıca 'loosen' fiili gevşetmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "curve",
+  "senses": [
+   "viraj; eğri",
+   "kıvrılmak; eğmek"
+  ],
+  "ex": [
+   "Keskin bir virajla karşılaşırken sürücü hızını azalttı.",
+   "Mevcut ormanlık alanların etrafında kıvrılan yollar habitat yıkımını azaltabilir, ancak inşaat maliyetlerini artırabilir."
+  ],
+  "col": [
+   "keskin viraj",
+   "yumuşak eğri",
+   "öğrenme eğrisi",
+   "etrafında kıvrılmak"
+  ],
+  "tip": "'Curve' hem isim hem fiil olarak kullanılır. 'Kıvrık, eğri' anlamındaki sıfat biçimi 'curved' olur.",
+  "note": ""
+ },
+ {
+  "id": "union",
+  "senses": [
+   "sendika",
+   "birleşme; birlik"
+  ],
+  "ex": [
+   "Sendika, personelin daha iyi çalışma saatleri konusunda pazarlık yapmasına yardımcı oldu.",
+   "Bir sendikaya üye olmak, çalışanların iş güvenliği ve adil ücret konusundaki kararlarda daha fazla söz sahibi olmasını sağlayabilir."
+  ],
+  "col": [
+   "sendikaya üye olmak",
+   "işçi sendikası",
+   "sendika temsilcisi",
+   "siyasi birlik"
+  ],
+  "tip": "'Union' /j/ sesiyle başladığı için 'a union' denir, 'an union' denmez. Bağlama göre 'sendika' ya da 'birlik' seçilmelidir.",
+  "note": ""
+ }
+]

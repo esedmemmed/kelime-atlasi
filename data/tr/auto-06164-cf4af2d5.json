@@ -1,0 +1,271 @@
+[
+ {
+  "id": "unwarranted",
+  "senses": [
+   "yersiz; haksız"
+  ],
+  "ex": [
+   "Onun haksız eleştirisi, çok çalışan herkesi üzdü.",
+   "Kamunun bilgiye erişimine getirilen gereksiz kısıtlamalar, hükümete duyulan güveni zedeleyebilir ve bilinçli tartışmayı sınırlayabilir."
+  ],
+  "col": [
+   "haksız eleştiri",
+   "yersiz varsayımlar",
+   "haksız müdahale"
+  ],
+  "tip": "Kanıt ya da haklı bir neden olmadığını vurgular; yalnızca 'gerekli değil' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "renowned",
+  "senses": [
+   "ünlü; tanınmış"
+  ],
+  "ex": [
+   "Bu küçük fırın taze ekmeğiyle ünlüdür.",
+   "Bilimsel araştırmalarıyla tanınan üniversiteler, sıklıkla uluslararası öğrencileri çeker ve ulusal sınırlar ötesi iş birliğini teşvik eder."
+  ],
+  "col": [
+   "...ile ünlü",
+   "uluslararası üne sahip",
+   "ünlü bir uzman"
+  ],
+  "tip": "renowned for + başarı ya da özellik; renowned as + kimlik ya da unvan kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "condemn",
+  "senses": [
+   "kınamak",
+   "mahkûm etmek; cezalandırmak",
+   "tehlikeli ilan etmek"
+  ],
+  "ex": [
+   "Komşularımız nehir kenarına çöp dökülmesini şiddetle kınadı.",
+   "Çevre örgütleri kaçak orman kesimini kınıyor; çünkü yaban hayatı yaşam alanlarını yok ediyor ve yerel toplulukların geçimini tehdit ediyor."
+  ],
+  "col": [
+   "şiddetle kınamak",
+   "birini hapse mahkûm etmek",
+   "bir binayı kullanılamaz ilan etmek"
+  ],
+  "tip": "Sondaki n sessizdir, okunmaz; condense (yoğunlaşmak) ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "shipowner",
+  "senses": [
+   "gemi sahibi"
+  ],
+  "ex": [
+   "Gemi sahibi, bir sonraki seferden önce onarımların parasını ödedi.",
+   "Daha sıkı çevre düzenlemeleri, gemi sahiplerinin daha temiz yakıtlara ve daha verimli motorlara yatırım yapmasını gerektiriyor."
+  ],
+  "col": [
+   "özel gemi sahibi",
+   "gemi sahibinin sorumluluğu",
+   "gemi sahipleri derneği"
+  ],
+  "tip": "Geminin sahibini ifade eder; geminin kaptanı ya da işleticisi anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "hail",
+  "senses": [
+   "dolu",
+   "dolu yağmak",
+   "övmek; el sallayıp çağırmak"
+  ],
+  "ex": [
+   "Fırtına sırasında dolu pencerelere çarpıp şıkırdıyordu.",
+   "Bilim insanları yeni sulama sistemini, kuraklık sırasında çiftçilerin suyu korumasına yardımcı olabilecek çığır açıcı bir gelişme olarak övdü."
+  ],
+  "col": [
+   "şiddetli dolu",
+   "taksi çevirmek",
+   "çığır açıcı olarak övülmek"
+  ],
+  "tip": "Hava için it hails (dolu yağıyor); hail A as B kalıbı A'yı B olarak övmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "firearm",
+  "senses": [
+   "ateşli silah"
+  ],
+  "ex": [
+   "Antika ateşli silah, kalın müze camının arkasında sergileniyordu.",
+   "Sıkı ateşli silah saklama düzenlemeleri, evlerde ve topluluklarda kazaları önlemeye ve güvenliği artırmaya yardımcı olabilir."
+  ],
+  "col": [
+   "ateşli silah güvenliği",
+   "ateşli silah sahipliği",
+   "ateşli silah yasaları"
+  ],
+  "tip": "Sayılabilir isimdir, çoğulu firearms. Resmî bir kelimedir; günlük dilde gun daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "zinc",
+  "senses": [
+   "çinko"
+  ],
+  "ex": [
+   "Bu kabak çekirdeklerinde çinko bulunur ve lezzetli bir atıştırmalık olur.",
+   "Çinko kaplamalar çeliği korozyondan korur; böylece yağmura ve neme maruz kalan yapıların ömrünü uzatır."
+  ],
+  "col": [
+   "çinko eksikliği",
+   "çinko takviyesi",
+   "çinko kaplama",
+   "çinko oksit"
+  ],
+  "tip": "Kimyasal element olup sembolü Zn'dir. Madde adı olarak genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "attain",
+  "senses": [
+   "ulaşmak; elde etmek"
+  ],
+  "ex": [
+   "Aylarca süren antrenmanın ardından hedeflediği yüzme hızına ulaştı.",
+   "Dezavantajlı geçmişe sahip öğrencilerin üniversiteye girmek için gereken yeterlilikleri elde edebilmeleri için ek destek gerekebilir."
+  ],
+  "col": [
+   "bir hedefe ulaşmak",
+   "yüksek bir standarda ulaşmak",
+   "bağımsızlığa kavuşmak"
+  ],
+  "tip": "Resmî bir geçişli fiildir; hedefi ya da düzeyi doğrudan alır, araya to almaz.",
+  "note": ""
+ },
+ {
+  "id": "dew",
+  "senses": [
+   "çiy"
+  ],
+  "ex": [
+   "Çimenliği geçerken sabah çiyi ayakkabılarımı ıslattı.",
+   "Bazı kurak ortamlarda bitkiler, toprakta sınırlı olan suyu desteklemek için yapraklarında çiy biriktirir."
+  ],
+  "col": [
+   "sabah çiyi",
+   "yoğun çiy",
+   "çiyle kaplı"
+  ],
+  "tip": "dew genellikle sayılamaz; tek bir damla için a drop of dew kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "suppress",
+  "senses": [
+   "bastırmak; tutmak",
+   "bastırmak; ezmek",
+   "gizlemek; yayımını engellemek"
+  ],
+  "ex": [
+   "Konser sırasında aksırmamak için kendimi zor tuttum.",
+   "Bilimsel bulguları bastırma girişimleri, kamunun güvenini zedeleyebilir ve çevre sorunlarına etkili tepkileri geciktirebilir."
+  ],
+  "col": [
+   "gülümsemeyi bastırmak",
+   "bilgiyi gizlemek",
+   "muhalefeti bastırmak",
+   "iştahı baskılamak"
+  ],
+  "tip": "Geçişli fiildir; duygu, tepki, faaliyet ya da bilgiyi doğrudan nesne olarak alır.",
+  "note": ""
+ },
+ {
+  "id": "dumping",
+  "senses": [
+   "damping; düşük fiyatla satış",
+   "çöp dökme; atık boşaltma"
+  ],
+  "ex": [
+   "Yerel çiftçiler, ucuz ithalatın damping yapıldığının kanıtı olduğunu söylüyor.",
+   "Hükümetler damping ile mücadele için gümrük vergileri uygulayabilir; ancak bu önlemler yerli tüketiciler için fiyatları yükseltebilir."
+  ],
+  "col": [
+   "damping karşıtı önlemler",
+   "damping iddiaları",
+   "yasadışı çöp dökme",
+   "atık boşaltma"
+  ],
+  "tip": "Ticarette normal değerin altında ihracat satışı anlamına gelir; her indirimli satış dumping sayılmaz.",
+  "note": ""
+ },
+ {
+  "id": "ingenious",
+  "senses": [
+   "zekice; becerikli"
+  ],
+  "ex": [
+   "Eski şişelerden zekice bir sulama sistemi kurdu.",
+   "Zekice tasarımlar, mimarların küçük arsalarda doğal ışıktan ödün vermeden konforlu evler yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "zekice bir çözüm",
+   "zekice bir cihaz",
+   "zekice bir tasarım"
+  ],
+  "tip": "ingenious (zekice, yaratıcı) ile ingenuous (saf, açık yürekli) karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "pulp",
+  "senses": [
+   "meyve eti; lapa",
+   "kâğıt hamuru; hamur",
+   "ezmek; püre haline getirmek"
+  ],
+  "ex": [
+   "Bol meyve etli portakal suyunu tercih ederim.",
+   "Geri dönüşüm tesisleri kullanılmış kâğıdı hamura dönüştürerek taze ağaç liflerine olan talebi azaltır."
+  ],
+  "col": [
+   "meyve eti",
+   "odun hamuru",
+   "kâğıt hamuru",
+   "kâğıt ve kâğıt hamuru sanayi"
+  ],
+  "tip": "Meyve eti ya da kâğıt hamuru anlamında pulp genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "liberate",
+  "senses": [
+   "kurtarmak; özgürleştirmek",
+   "kurtarmak; serbest bırakmak"
+  ],
+  "ex": [
+   "Kurtarılan mahkûmlar, askerler kampı kurtardığında sevinç çığlıkları attı.",
+   "Erişilebilir toplu taşıma, yaşlıları akrabalarına bağımlılıktan kurtarabilir ve toplum yaşamına daha fazla katılımlarını sağlayabilir."
+  ],
+  "col": [
+   "bir ülkeyi özgürleştirmek",
+   "birini ...den kurtarmak",
+   "özgürleştirici deneyim"
+  ],
+  "tip": "Geçişli fiildir; liberate A from B kalıbıyla A'yı B'den kurtarmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "morale",
+  "senses": [
+   "moral; manevi güç"
+  ],
+  "ex": [
+   "Antrenörümüzün neşeli konuşması maçtan önce moralleri yükseltti.",
+   "Çalışanların başarılarını takdir etmek, iş yerindeki moral ve farklı birimler arasındaki iş birliğini artırabilir."
+  ],
+  "col": [
+   "moral vermek",
+   "düşük moral",
+   "personel moralı"
+  ],
+  "tip": "Sayılamaz isimdir. İngilizcede moral 'ahlaki' anlamına gelir; morale ise grubun moralini ve motivasyonunu anlatır.",
+  "note": ""
+ }
+]

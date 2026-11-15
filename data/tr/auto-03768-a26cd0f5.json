@@ -1,0 +1,280 @@
+[
+ {
+  "id": "stool",
+  "senses": [
+   "tabure",
+   "dışkı; gaita"
+  ],
+  "ex": [
+   "Mutfak tezgâhının yanından bir tabure çekti.",
+   "Doktorlar, belirtilerle teşhis edilemeyen enfeksiyonları saptamak için dışkı örneğini inceleyebilir."
+  ],
+  "col": [
+   "bar taburesi",
+   "ahşap tabure",
+   "dışkı örneği"
+  ],
+  "tip": "Tıbbi bağlamda 'dışkı' anlamında kullanılır; tekil ve çoğul biçimi kullanılabilir, yalnızca çoğul değildir.",
+  "note": ""
+ },
+ {
+  "id": "patrol",
+  "senses": [
+   "devriye gezmek",
+   "devriye; devriye birliği"
+  ],
+  "ex": [
+   "İki güvenlik görevlisi her akşam karanlık çöktükten sonra parkı devriye geziyor.",
+   "Korunan ormanlarda yasa dışı kereste kesimini önlemek ve nesli tükenmekte olan yabani hayvanlara yönelik tehditleri izlemek için orman korucuları devriye gezer."
+  ],
+  "col": [
+   "devriyede",
+   "sokakları devriye gezmek",
+   "sınır devriyesi",
+   "düzenli devriyeler"
+  ],
+  "tip": "Geçmiş zaman patrolled, şimdiki zaman patrolling biçimindedir; l harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "consonant",
+  "senses": [
+   "ünsüz; ünsüz harf",
+   "uyumlu; tutarlı"
+  ],
+  "ex": [
+   "Son ünsüzü yavaş ve net bir şekilde söylemeyi deneyin.",
+   "Öğrenenler, ana dillerinde bulunmayan ünsüz kümelerini telaffuz etmekte zorlanabilir."
+  ],
+  "col": [
+   "ünsüz sesi",
+   "ünsüz kümesi",
+   "son ünsüz",
+   "ile uyumlu"
+  ],
+  "tip": "Sıfat olarak daha resmi bir kullanımdır; 'uyumlu' anlamında genellikle consonant with kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "banner",
+  "senses": [
+   "afiş; pankart",
+   "web sayfası banner reklamı"
+  ],
+  "ex": [
+   "Bahçe kapısının üstüne renkli bir pankart astık.",
+   "Birçok haber sitesi, makalelerine ücretsiz erişim sağlamak için banner reklamlara güvenir."
+  ],
+  "col": [
+   "pankart asmak",
+   "pankart taşımak",
+   "banner reklamcılığı"
+  ],
+  "tip": "Web sayfalarındaki bu reklam türü için genellikle banner ad denir.",
+  "note": ""
+ },
+ {
+  "id": "confirmation",
+  "senses": [
+   "onay; teyit bildirimi",
+   "doğrulama; kanıt"
+  ],
+  "ex": [
+   "Otel, bu sabah rezervasyonumuzun onayını gönderdi.",
+   "Araştırma bulgularının bağımsız olarak doğrulanması, hükümetler bunları halk sağlığı politikalarına yön vermek için kullanmadan önce şarttır."
+  ],
+  "col": [
+   "rezervasyon onayı",
+   "yazılı onay",
+   "alındı onayı",
+   "bağımsız doğrulama"
+  ],
+  "tip": "'confirmation of sth' kalıbı yaygındır; bir şeyin doğru olduğunu teyit ederken that yan cümlesi de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "logical",
+  "senses": [
+   "mantıklı; akla yatkın",
+   "mantık ile ilgili"
+  ],
+  "ex": [
+   "Park yeri pahalı olduğu için otobüse binmek mantıklı görünüyordu.",
+   "Öğrenciler, sınavlar için yalnızca bilgi ezberlemek yerine mantıklı argümanlar kurmayı öğrenmelidir."
+  ],
+  "col": [
+   "mantıklı sonuç",
+   "mantıksal akıl yürütme",
+   "mantıklı sıra",
+   "mantıklı argüman"
+  ],
+  "tip": "logical, akıl yürütmenin tutarlı olduğunu ifade eder; ancak önermenin gerçekten doğru olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "attempt",
+  "senses": [
+   "girişim; deneme",
+   "denemek; girişmek"
+  ],
+  "ex": [
+   "Ekmek pişirmedeki ilk denemem şaşırtıcı derecede başarılıydı.",
+   "Birçok şehir, toplu taşımayı iyileştirerek ve bisiklet yollarını genişleterek hava kirliliğini azaltmaya çalışıyor."
+  ],
+  "col": [
+   "girişimde bulunmak",
+   "bir şey yapmaya çalışmak",
+   "başarılı bir girişim",
+   "…yapmak amacıyla"
+  ],
+  "tip": "Fiil olarak attempt to do, isim olarak an attempt at doing kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "burner",
+  "senses": [
+   "ocak gözü; brülör"
+  ],
+  "ex": [
+   "Çorba kaynadıktan sonra ocak gözünü kapattı.",
+   "Verimsiz gaz ocaklarını daha temiz pişirme teknolojisiyle değiştirmek, kapalı alan hava kirliliğini azaltabilir ve sağlığı iyileştirebilir."
+  ],
+  "col": [
+   "gaz ocağı",
+   "yağlı brülör",
+   "bir şeyi ertelemek"
+  ],
+  "tip": "on the back burner, bir işi öncelik vermeden erteleme anlamında mecaz olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hillside",
+  "senses": [
+   "yamaç; tepe yamacı"
+  ],
+  "ex": [
+   "Köyün üstündeki yamaçta küçük beyaz evler dağınık halde duruyordu.",
+   "Çıplak bir yamaca yerli ağaçlar dikmek, toprak erozyonunu azaltabilir ve yaban hayatı için yaşam alanları sağlayabilir."
+  ],
+  "col": [
+   "dik yamaç",
+   "ağaçlık yamaç",
+   "yamaçta"
+  ],
+  "tip": "Bir tepenin eğimli yüzeyini anlatır; 'yamaçta' anlamında on the hillside kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "judgement",
+  "senses": [
+   "muhakeme; yargı gücü",
+   "görüş; değerlendirme",
+   "mahkeme kararı; hüküm"
+  ],
+  "ex": [
+   "Güvenilir bir bisiklet seçerken yargınıza güveniyorum.",
+   "Okullar, tanıdık olmayan çevrimiçi kaynaklardan gelen bilgileri değerlendirirken öğrencilere bağımsız muhakeme yürütmeyi öğretmelidir."
+  ],
+  "col": [
+   "sağlam muhakeme",
+   "yargıda bulunmak",
+   "bağımsız muhakeme kullanmak",
+   "mahkeme kararı"
+  ],
+  "tip": "İngiliz İngilizcesinde judgement ya da judgment yazılabilir; Amerikan İngilizcesinde genellikle judgment tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "immoral",
+  "senses": [
+   "ahlaksız; ahlak dışı"
+  ],
+  "ex": [
+   "Kayıp cüzdanı tutmanın ahlaksızlık olacağını düşündü.",
+   "Birçok tüketici, şirketlerin daha yüksek kâr uğruna savunmasız işçileri sömürmesini ahlak dışı buluyor."
+  ],
+  "col": [
+   "ahlak dışı davranış",
+   "ahlak dışı uygulamalar",
+   "bir şeyi ahlak dışı saymak"
+  ],
+  "tip": "immoral ahlaka aykırı davranışı, amoral ise ahlaki bir yargının olmadığını ifade eder; karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cast",
+  "senses": [
+   "oyuncu kadrosu",
+   "atmak; yansıtmak",
+   "rol için seçmek"
+  ],
+  "ex": [
+   "Bütün oyuncu kadrosu izleyicileri karşılamak için dışarı çıktı.",
+   "Farklı geçmişlerden oyuncular seçen yönetmenler, kalıp yargılara meydan okumaya ve izleyicilerin topluma bakışını genişletmeye yardımcı olabilir."
+  ],
+  "col": [
+   "destekleyici kadro",
+   "gölge düşürmek",
+   "şüphe uyandırmak",
+   "birini … rolüne seçmek"
+  ],
+  "tip": "cast'in geçmiş zaman ve ortaç biçimi de cast'tır; 'oyuncu kadrosu' anlamında tekil kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "brake",
+  "senses": [
+   "fren",
+   "frenlemek"
+  ],
+  "ex": [
+   "Bisikletim köşeye gelince frenlere asıldım.",
+   "Sürücüler, kayganımsı yollarda kontrolü kaybetme riskini azaltmak için yavaşça fren yapmalıdır."
+  ],
+  "col": [
+   "frene basmak",
+   "aniden fren yapmak",
+   "fren pedalı",
+   "acil fren"
+  ],
+  "tip": "brake fren anlamına gelir; homofon break ise kırmak ya da mola anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "prescribe",
+  "senses": [
+   "reçete yazmak",
+   "belirlemek; öngörmek"
+  ],
+  "ex": [
+   "Doktor, ağrıyan gözlerim için göz damlası yazdı.",
+   "Doktorlar, bakterilerin direnç geliştirme riskini azaltmak için antibiyotikleri yalnızca gerektiğinde yazmalıdır."
+  ],
+  "col": [
+   "ilaç yazmak",
+   "tedavi önermek",
+   "antibiyotik yazmak",
+   "yasayla belirlenmiş"
+  ],
+  "tip": "prescribe reçete yazmak, describe ise tanımlamak anlamına gelir; yazılışları benzer ama anlamları farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "landlord",
+  "senses": [
+   "ev sahibi; mülk sahibi",
+   "meyhane sahibi"
+  ],
+  "ex": [
+   "Ev sahibimiz akan musluğu tamir etmek için geldi.",
+   "Yerel yönetimler, ev sahiplerinin tüm kiracıları için güvenli yaşam koşullarını sağlamasını zorunlu kılmalıdır."
+  ],
+  "col": [
+   "özel ev sahibi",
+   "ev sahibi ve kiracı",
+   "ev sahibine sormak"
+  ],
+  "tip": "Ev sahibi landlord, kiracı tenant'tır; ikinci anlam (meyhane sahibi) özellikle İngiltere'de kullanılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "id": "microscope",
+  "senses": [
+   "mikroskop"
+  ],
+  "ex": [
+   "Bir damla gölet suyunu mikroskop altında inceledik.",
+   "Mikroskop kullanmak, öğrencilerin çıplak gözle görülemeyen hücre yapılarını gözlemlemesine olanak tanır."
+  ],
+  "col": [
+   "mikroskop altında",
+   "elektron mikroskobu",
+   "ışık mikroskobu"
+  ],
+  "tip": "microscope küçük nesneleri büyütür; telescope ise uzaktaki cisimleri gözlemler. Bu iki kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "relieved",
+  "senses": [
+   "rahatlamış; rahat"
+  ],
+  "ex": [
+   "Sonunda anahtarlarımı bulduğumda içim rahatladı.",
+   "Sakinler, önerilen bütçe kesintilerine rağmen yerel hastanenin açık kalacağını duyunca rahatladı."
+  ],
+  "col": [
+   "rahatlamak",
+   "duyunca rahatlamak",
+   "gözle görülür biçimde rahatlamış"
+  ],
+  "tip": "be relieved to + fiil veya be relieved that + cümle kalıplarında kullanılır. 'Relaxed' (rahat, gergin olmayan) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "introductory",
+  "senses": [
+   "giriş düzeyinde; tanıtıcı",
+   "tanıtım döneminde"
+  ],
+  "ex": [
+   "Geçen hafta bir giriş seviyesi çömlekçilik kursuna katıldım.",
+   "Üniversiteler, tüm akademik alanlardan öğrencilere veri analizi giriş dersleri sunmalıdır."
+  ],
+  "col": [
+   "giriş dersi",
+   "açılış konuşması",
+   "tanıtım indirimi"
+  ],
+  "tip": "introductory bir sıfattır; isim olan 'introduction' (giriş, tanıtım) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "proceed",
+  "senses": [
+   "devam etmek",
+   "ilerlemek; gitmek"
+  ],
+  "ex": [
+   "Herkes geldikten sonra yemeğe geçebiliriz.",
+   "Yerel yönetimler, toplu taşımada büyük değişikliklere gitmeden önce sakinlere danışmalıdır."
+  ],
+  "col": [
+   "bir plana devam etmek",
+   "bir sonraki aşamaya geçmek",
+   "temkinli ilerlemek"
+  ],
+  "tip": "proceed bir fiildir. 'Gelir, kazanç' anlamındaki isim olan proceeds genellikle çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "suspect",
+  "senses": [
+   "şüphelenmek; sanmak",
+   "şüpheli",
+   "şüpheli; güvenilmez"
+  ],
+  "ex": [
+   "Kedinin fincanı masadan düşürdüğünden şüpheleniyorum.",
+   "Araştırmacılar, uzun süreli ekran kullanımının uyku kalitesini etkileyebileceğinden şüpheleniyor; ancak daha fazla kanıta ihtiyaç var."
+  ],
+  "col": [
+   "şüphelenmek ki",
+   "birini bir şeyden şüphelenmek",
+   "başlıca şüpheli",
+   "şüpheli kanıt"
+  ],
+  "tip": "Fiil /səˈspekt/ (sonda vurgu), isim ve sıfat /ˈsʌspekt/ (başta vurgu) okunur. Birini bir şeyle suçlamak için 'suspect someone of' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "principal",
+  "senses": [
+   "başlıca; temel",
+   "okul müdürü",
+   "anapara"
+  ],
+  "ex": [
+   "Taşınmamızın başlıca nedeni gürültülü trafikti.",
+   "Şehir plancılarının karşılaştığı başlıca zorluk, yeşil alanlara erişimi azaltmadan uygun fiyatlı konut sağlamaktır."
+  ],
+  "col": [
+   "başlıca neden",
+   "temel amaç",
+   "okul müdürü",
+   "anaparayı geri ödemek"
+  ],
+  "tip": "principal sıfat olarak 'başlıca', isim olarak 'müdür' veya 'anapara' anlamına gelir. 'Principle' (ilke) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "oppose",
+  "senses": [
+   "karşı çıkmak; itiraz etmek"
+  ],
+  "ex": [
+   "Komşularımız parkın içinden yol yapılmasına karşı çıkıyor.",
+   "Birçok sakin, havalimanı genişlemesinin gürültüyü artıracağı ve yerel yaban hayatına zarar vereceği endişesiyle buna karşı çıkıyor."
+  ],
+  "col": [
+   "şiddetle karşı çıkmak",
+   "bir teklife karşı çıkmak",
+   "bir şeyi yapmaya karşı çıkmak"
+  ],
+  "tip": "oppose'dan sonra doğrudan isim veya -ing biçimi gelir, arasına 'to' konmaz. 'Opposite' (karşıt) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "likewise",
+  "senses": [
+   "aynı şekilde; keza"
+  ],
+  "ex": [
+   "Şemsiyemi katladım, kız kardeşim de aynısını yaptı.",
+   "Kamu kütüphaneleri ücretsiz internet erişimi sağlar; aynı şekilde toplum merkezleri de sakinlerin temel dijital becerileri geliştirmesine yardımcı olur."
+  ],
+  "col": [
+   "aynısını yapmak",
+   "aynı derecede önemli",
+   "aynı şekilde etkilenmek"
+  ],
+  "tip": "Resmi bir bağlaçtır; benzer bir durumu eklerken kullanılır. 'Do likewise' kalıbı 'aynısını yapmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "so-called",
+  "senses": [
+   "sözde; güya",
+   "denilen; adı verilen"
+  ],
+  "ex": [
+   "Bu sözde su geçirmez mont, yağmuru doğrudan içeri geçirdi.",
+   "Tüketiciler, sözde çevre dostu ürünlerin yaşam döngüsü boyunca gerçekten çevresel zararı azaltıp azaltmadığını incelemelidir."
+  ],
+  "col": [
+   "sözde uzmanlar",
+   "sözde faydalar",
+   "sözde çevre dostu ürünler"
+  ],
+  "tip": "Genellikle isimden önce gelir ve kuşku taşır; ancak bir şeyin adını tarafsız biçimde vermek için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "graphic",
+  "senses": [
+   "grafik; görsel",
+   "ayrıntılı; çarpıcı",
+   "grafik; şekil"
+  ],
+  "ex": [
+   "Kuzenim grafik tasarım okuyor ve renkli posterler yapıyor.",
+   "Etkili grafik tasarım, karmaşık sağlık bilgilerinin halk tarafından daha kolay anlaşılmasını sağlayabilir."
+  ],
+  "col": [
+   "grafik tasarım",
+   "grafik tasarımcı",
+   "çarpıcı bir betimleme"
+  ],
+  "tip": "graphic description çoğunlukla rahatsız edici ayrıntılar içeren, çok açık betimlemeler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "satellite",
+  "senses": [
+   "yapay uydu",
+   "doğal uydu"
+  ],
+  "ex": [
+   "Uydu, fırtınanın net fotoğraflarını geri gönderdi.",
+   "Uydu gözlemleri, bilim insanlarının uzak bölgelerdeki orman örtüsündeki değişiklikleri zaman içinde izlemesine olanak tanır."
+  ],
+  "col": [
+   "uydu fırlatmak",
+   "haberleşme uydusu",
+   "uydu görüntüleri",
+   "doğal uydu"
+  ],
+  "tip": "satellite hem yapay hem doğal uydu için kullanılabilir. Ay, Dünya'nın doğal uydusudur.",
+  "note": ""
+ },
+ {
+  "id": "surrender",
+  "senses": [
+   "teslim olmak; boyun eğmek",
+   "bırakmak; teslim etmek",
+   "teslim olma"
+  ],
+  "ex": [
+   "Askerler teslim oldu ve boş elleriyle ileri yürüdü.",
+   "Kullanıcıların, temel çevrimiçi hizmetlere erişebilmek için kişisel bilgilerinin kontrolünü bırakmak zorunda kalmamaları gerekir."
+  ],
+  "col": [
+   "...e teslim olmak",
+   "kontrolü bırakmak",
+   "koşulsuz teslim"
+  ],
+  "tip": "Birine teslim olmak için 'surrender to' kullanılır; bir şeyi teslim etmek ya da bırakmak anlamında doğrudan nesne alır.",
+  "note": ""
+ },
+ {
+  "id": "analysis",
+  "senses": [
+   "analiz; çözümleme"
+  ],
+  "ex": [
+   "Toprak analizi, bitkilerimin neden zorlandığını gösterdi.",
+   "Seyahat düzenlerinin dikkatli analizi, planlamacıların daha verimli toplu taşıma ağları tasarlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "veri analizi",
+   "ayrıntılı analiz",
+   "analiz yapmak",
+   "eleştirel analiz"
+  ],
+  "tip": "Çoğulu analyses'tir. İngiliz İngilizcesinde fiil olarak analyse, Amerikan İngilizcesinde analyze kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "scarcely",
+  "senses": [
+   "neredeyse hiç; zar zor",
+   "az önce; ancak"
+  ],
+  "ex": [
+   "Müziğin içinde birbirimizi zar zor duyabiliyorduk.",
+   "Bazı kırsal topluluklar, büyüyen nüfusları için temel sağlık hizmeti verecek kadar bile sağlık personeline sahip değil."
+  ],
+  "col": [
+   "neredeyse hiç...yok",
+   "zar zor yeterli",
+   "neredeyse hiç...mez"
+  ],
+  "tip": "Scarcely kendi başına olumsuz anlam taşır, yanına ayrıca 'not' eklenmez. 'Scarcely … when' kalıbı 'daha … -mişti ki … oldu' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "evaluate",
+  "senses": [
+   "değerlendirmek"
+  ],
+  "ex": [
+   "Üç kamerayı inceledik ve gezimiz için birini seçtik.",
+   "Hükümetler, büyük inşaat projelerini onaylamadan önce uzun vadeli çevresel etkilerini değerlendirmelidir."
+  ],
+  "col": [
+   "etkiyi değerlendirmek",
+   "etkinliği değerlendirmek",
+   "performansı değerlendirmek",
+   "eleştirel biçimde değerlendirmek"
+  ],
+  "tip": "Bir ölçüte göre yargıda bulunmayı ifade eder; yalnızca bir şeyi betimlemek anlamına gelmez.",
+  "note": ""
+ }
+]

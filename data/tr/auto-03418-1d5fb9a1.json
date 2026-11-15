@@ -1,0 +1,277 @@
+[
+ {
+  "id": "repeatedly",
+  "senses": [
+   "defalarca; tekrar tekrar"
+  ],
+  "ex": [
+   "Kapıyı defalarca çaldı ama kimse gelmedi.",
+   "Bilgiyi hatırlamaya çalışmayı tekrar tekrar uygulayan öğrenciler, notlarını yalnızca yeniden okuyanlara göre daha iyi hatırlar."
+  ],
+  "col": [
+   "defalarca uyarmak",
+   "defalarca sormak",
+   "defalarca başarısız olmak"
+  ],
+  "tip": "Tekrarın çok sayıda olduğunu vurgular; regularly gibi düzenli aralıklarla olduğunu ima etmez.",
+  "note": ""
+ },
+ {
+  "id": "unsuitable",
+  "senses": [
+   "uygunsuz; elverişsiz"
+  ],
+  "ex": [
+   "Bu ince ayakkabılar derin karda yürümek için uygun değil.",
+   "Bazı geleneksel öğretim yöntemleri, bireysel geri bildirim imkânı sınırlı olduğu için kalabalık sınıflara uygun değildir."
+  ],
+  "col": [
+   "çocuklar için uygunsuz",
+   "uygunsuz kıyafet",
+   "tamamen uygunsuz"
+  ],
+  "tip": "Genellikle unsuitable for sb/sth kalıbıyla kullanılır; 'for' ile kime ya da hangi amaca uygun olmadığı belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "positively",
+  "senses": [
+   "olumlu olarak",
+   "kesinlikle; kesin olarak",
+   "gerçekten; resmen"
+  ],
+  "ex": [
+   "Piknik önerdiğimde kardeşim olumlu tepki verdi.",
+   "Öğrenciler, ilerlemelerini fark eden ve pratik rehberlik sunan ayrıntılı geri bildirimlere genellikle olumlu tepki verir."
+  ],
+  "col": [
+   "olumlu tepki vermek",
+   "kesin olarak tanımlamak",
+   "olumlu etkilemek",
+   "çok memnun olmak"
+  ],
+  "tip": "Olumlu tutum, kesinlik ya da vurgu anlamlarında kullanılabilir; cümledeki bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "plot",
+  "senses": [
+   "olay örgüsü; konu",
+   "arazi parçası; parsel",
+   "tezgâhlamak; plan kurmak"
+  ],
+  "ex": [
+   "Filmin basit ama heyecanlı bir olay örgüsü vardı.",
+   "Toplu bahçeler, sakinlerin küçük bir parselde sebze yetiştirmesine olanak tanıyarak taze gıdaya erişimi artırır."
+  ],
+  "col": [
+   "karmaşık bir olay örgüsü",
+   "bir arazi parçası",
+   "bahçe parseli",
+   "birine karşı plan kurmak"
+  ],
+  "tip": "İsim olarak olay örgüsü ya da küçük arazi; fiil olarak gizlice ve kötü niyetle plan kurmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "adoption",
+  "senses": [
+   "benimseme; kabul",
+   "evlat edinme"
+  ],
+  "ex": [
+   "Çevrimiçi randevu sisteminin benimsenmesi, randevu almayı çok kolaylaştırdı.",
+   "Yenilenebilir enerjinin daha geniş çapta benimsenmesi hava kirliliğini azaltabilir ve kırsal topluluklarda istihdam yaratabilir."
+  ],
+  "col": [
+   "teknolojinin benimsenmesi",
+   "yaygın benimseme",
+   "çocuk evlat edinme",
+   "evlat edinme kurumu"
+  ],
+  "tip": "Benimseme ya da evlat edinme anlamına gelir; adaptation (uyum, uyarlama) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "evidence",
+  "senses": [
+   "kanıt; delil",
+   "göstermek; kanıtlamak"
+  ],
+  "ex": [
+   "Çamurlu ayak izleri, birinin içeri girdiğinin kanıtıydı.",
+   "Hükümetler, halk sağlığı sonuçlarını iyileştirmeyi amaçlayan politikaları yürürlüğe koymadan önce bilimsel kanıtları göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "güçlü kanıt",
+   "bilimsel kanıt",
+   "...nın kanıtı",
+   "kanıt sunmak"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz; 'bir kanıt' için a piece of evidence kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stitch",
+  "senses": [
+   "dikiş; ilmek",
+   "dikmek; birleştirmek",
+   "yan ağrısı; sancı"
+  ],
+  "ex": [
+   "Birkaç düzgün dikiş, kolumdaki yırtığı kapattı.",
+   "Öğrencilere yırtık giysileri dikmeyi öğretmek, tekstil atığını azaltabilir ve daha sürdürülebilir tüketim alışkanlıklarını teşvik edebilir."
+  ],
+  "col": [
+   "düzgün dikişler",
+   "yarayı dikmek",
+   "birbirine dikmek",
+   "spor sırasında yan ağrısı girmek"
+  ],
+  "tip": "get a stitch spor sırasında oluşan yan ağrısı demektir; 'bir dikiş almak' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "largely",
+  "senses": [
+   "büyük ölçüde; çoğunlukla"
+  ],
+  "ex": [
+   "Vardığımızda plaj büyük ölçüde boştu.",
+   "Halk sağlığı kampanyalarının başarısı büyük ölçüde açık iletişime ve toplumun yaygın güvenine bağlıdır."
+  ],
+  "col": [
+   "büyük ölçüde ...den kaynaklanan",
+   "büyük ölçüde ...e bağlı olmak",
+   "büyük ölçüde değişmeden kalmak",
+   "büyük ölçüde sorumlu olmak"
+  ],
+  "tip": "Çoğunluk ya da büyük ölçüde anlamı taşır; fiziksel büyüklük için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "faith",
+  "senses": [
+   "güven; inanç",
+   "dini inanç; din"
+  ],
+  "ex": [
+   "Bunu düzeltebileceğine güveniyorum.",
+   "Şeffaf karar alma süreçleri, kurumlara duyulan kamusal güveni güçlendirebilir ve toplumsal işlere katılımı artırabilir."
+  ],
+  "col": [
+   "birine güvenmek",
+   "birine olan güveni kaybetmek",
+   "dini inanç",
+   "iyi niyetle"
+  ],
+  "tip": "Have faith in kalıbında 'in' edatı gerekir; güvenilen kişi ya da şey bu edatla belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "energetic",
+  "senses": [
+   "enerjik; dinç"
+  ],
+  "ex": [
+   "Enerjik köpek yavrumuz bahçede topun peşinden koştu.",
+   "Düzenli fiziksel aktivite, ofis çalışanlarının kendilerini daha dinç hissetmesine ve gün boyunca dikkatlerini sürdürmesine yardımcı olabilir."
+  ],
+  "col": [
+   "enerjik hissetmek",
+   "enerjik çocuklar",
+   "enerjik yaklaşım"
+  ],
+  "tip": "Energetic sıfattır, energy ise isimdir; kişiyi ya da etkinliği tanımlamak için energetic kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "drastic",
+  "senses": [
+   "köklü; sert"
+  ],
+  "ex": [
+   "Acil tedbirler aldık ve ikinci arabamızı sattık.",
+   "Toplu taşıma finansmanında yapılacak sert kesintiler, birçok düşük gelirli hanenin temel hizmetlere uygun fiyatlı erişimini engelleyebilir."
+  ],
+  "col": [
+   "sert önlemler",
+   "köklü eylem",
+   "sert kesintiler",
+   "köklü değişiklikler"
+  ],
+  "tip": "Etkinin büyüklüğünü vurgular; hız anlamı taşımaz. Hız için rapid kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sword",
+  "senses": [
+   "kılıç"
+  ],
+  "ex": [
+   "Eski bir kılıç, müzenin cam vitrininde duruyordu.",
+   "Süslemeli bir kılıcın bulunması, bu antik toplumda ileri düzeyde metal işçiliği becerilerinin kanıtıdır."
+  ],
+  "col": [
+   "kılıç çekmek",
+   "kılıcın bıçağı",
+   "iki yüzü keskin bir kılıç"
+  ],
+  "tip": "W harfi sessizdir. Double-edged sword mecazi olarak hem yararı hem zararı olan şey anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tolerate",
+  "senses": [
+   "hoşgörmek; katlanmak",
+   "dayanmak; kaldırmak"
+  ],
+  "ex": [
+   "Gürültüye katlanabilirim ama ders çalışırken olmaz.",
+   "Okullar zorbalığa göz yummamalıdır, çünkü her öğrenci güvenli ve destekleyici bir öğrenme ortamını hak eder."
+  ],
+  "col": [
+   "gürültüye katlanmak",
+   "belirsizliğe tahammül etmek",
+   "sıcağa dayanmak",
+   "tahammül etmemek"
+  ],
+  "tip": "Ardından isim ya da -ing almaz: tolerate doing biçimi kullanılır, to do kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "imitate",
+  "senses": [
+   "taklit etmek; öykünmek",
+   "sahtesini yapmak; taklit etmek"
+  ],
+  "ex": [
+   "Küçük kardeşimiz hayvan seslerini taklit etmeyi çok sever.",
+   "Küçük çocuklar genellikle yetişkinlerin davranışlarını taklit eder, bu yüzden ebeveynler sağlıklı alışkanlıklar kazandırmada önemli rol oynar."
+  ],
+  "col": [
+   "davranışı taklit etmek",
+   "sesi taklit etmek",
+   "doğayı taklit etmek"
+  ],
+  "tip": "Doğrudan nesne alır, edat kullanılmaz: imitate someone denir, imitate to someone denmez.",
+  "note": ""
+ },
+ {
+  "id": "soundtrack",
+  "senses": [
+   "film müziği; ses kaydı"
+  ],
+  "ex": [
+   "Filmin müziklerini otobüste dinledim.",
+   "Özenle seçilmiş bir müzik, belgeselin ana mesajından dikkat dağıtmadan duygusal etkisini güçlendirebilir."
+  ],
+  "col": [
+   "film müziği",
+   "orijinal film müziği",
+   "müzik bestelemek"
+  ],
+  "tip": "Yalnızca müziği değil, diyalog ve efektlerle birlikte filmin tüm ses kaydını da ifade edebilir.",
+  "note": ""
+ }
+]

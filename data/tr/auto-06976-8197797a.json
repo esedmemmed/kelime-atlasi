@@ -1,0 +1,269 @@
+[
+ {
+  "id": "dilute",
+  "senses": [
+   "seyreltmek; sulandırmak",
+   "zayıflatmak; azaltmak",
+   "seyreltik; sulandırılmış"
+  ],
+  "ex": [
+   "Meyveyi çocuklara vermeden önce suyla sulandırın.",
+   "Ticari unsurların fazlalığı, genç izleyicilere yönelik programların eğitici değerini azaltabilir."
+  ],
+  "col": [
+   "suyla sulandırmak",
+   "seyreltik bir çözelti",
+   "etkisini azaltmak"
+  ],
+  "tip": "dilute A with B kalıbında A, B ile sulandırılır. Sıfat olarak da 'dilute solution' gibi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inmate",
+  "senses": [
+   "mahkûm; tutuklu"
+  ],
+  "ex": [
+   "Her mahkûm cezaevi kütüphanesinden kitap ödünç alabilir.",
+   "Hükümlülere mesleki eğitim vermek, iş bulma olanaklarını artırabilir ve yeniden suç işleme riskini azaltabilir."
+  ],
+  "col": [
+   "cezaevi mahkûmu",
+   "mahkûmların topluma kazandırılması",
+   "eski hükümlü"
+  ],
+  "tip": "Günümüzde yalnızca cezaevindeki kişi için kullanılır; ev arkadaşı ya da sakin anlamında kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "contempt",
+  "senses": [
+   "küçümseme; hor görme",
+   "mahkemeye saygısızlık"
+  ],
+  "ex": [
+   "Gülerek önerime karşı hor görme tavrı sergiledi.",
+   "Yetkililer kamuoyunun kaygılarını hor görerek ele aldığında, demokratik kurumlara duyulan güven önemli ölçüde azalabilir."
+  ],
+  "col": [
+   "-e karşı küçümseme",
+   "birine hor görerek davranmak",
+   "mahkemeye saygısızlık"
+  ],
+  "tip": "contempt for kalıbıyla bir kişiye ya da şeye duyulan küçümsemeyi anlatır; genellikle sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "irresistible",
+  "senses": [
+   "dayanılmaz; çekici",
+   "karşı konulamaz; önlenemez"
+  ],
+  "ex": [
+   "Taze pişmiş ekmeğin kokusu karşı konulamayacak kadar çekiciydi.",
+   "Çevrimiçi satıcılar, kişiselleştirilmiş önerilerle belirli ürünleri potansiyel müşteriler için cazip hâle getirmeye çalışır."
+  ],
+  "col": [
+   "dayanılmaz cazibe",
+   "dayanılmaz dürtü",
+   "koyu bir çekicilik"
+  ],
+  "tip": "Genellikle cazibe, baştan çıkarma ya da dürtü için kullanılır; güçlü ve kendini tutamama duygusu taşır.",
+  "note": ""
+ },
+ {
+  "id": "inefficiency",
+  "senses": [
+   "verimsizlik; etkisizlik"
+  ],
+  "ex": [
+   "Mutfağın verimsizliği yüzünden herkes akşam yemeğini uzun süre bekledi.",
+   "Modern ekipmanlara yapılan yatırım, verimsizliği azaltabilir ve imalat sektöründe üretkenliği artırabilir."
+  ],
+  "col": [
+   "işletme verimsizliği",
+   "verimsizliği azaltmak",
+   "idari verimsizlik"
+  ],
+  "tip": "Zaman, para ya da kaynakların iyi kullanılmaması anlamına gelir; kişinin tamamen yetersiz olduğu anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "correspondence",
+  "senses": [
+   "yazışma; mektuplaşma",
+   "uygunluk; benzerlik"
+  ],
+  "ex": [
+   "Kuzeniyle olan yazışmalarını bir çekmecede saklıyor.",
+   "Tarihsel yazışmalar, sıradan ailelerin toplumsal değişimleri nasıl yaşadığını ortaya koyabilir; resmi kayıtlar bunları yalnızca kısaca anlatır."
+  ],
+  "col": [
+   "birisiyle yazışma",
+   "iş yazışmaları",
+   "arasındaki uyum"
+  ],
+  "tip": "Yazışma anlamında genellikle sayılamaz; birisiyle yazışmak için 'with' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "detest",
+  "senses": [
+   "nefret etmek; tiksinmek"
+  ],
+  "ex": [
+   "Dondurucu yağmurda dışarıda beklemekten nefret ediyorum.",
+   "Birçok yolcu kalabalık trenlerden nefret ediyor; ama işe gitmek için uygun fiyatlı başka seçenekleri çok az."
+  ],
+  "col": [
+   "yapmaktan nefret etmek",
+   "şiddetten nefret etmek",
+   "kesinlikle nefret etmek"
+  ],
+  "tip": "Fiilden sonra isim veya -ing biçimi gelir: detest doing. 'Detest to do' kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "betrayal",
+  "senses": [
+   "ihanet"
+  ],
+  "ex": [
+   "Özel günlüğümü paylaşması çok büyük bir ihanet gibi hissettirdi.",
+   "Birçok seçmen, tutulmayan seçim vaatlerini, siyasi liderlere duyulan güvene karşı bir ihanet olarak görüyor."
+  ],
+  "col": [
+   "güven ihaneti",
+   "ihanet duygusu",
+   "bir ihanet eylemi"
+  ],
+  "tip": "Genellikle güveni ya da sadakati kötüye kullanmayı anlatır; sadece bir şeyi açığa vurmak anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "cradle",
+  "senses": [
+   "beşik",
+   "beşik; doğuş yeri",
+   "kucaklamak; şefkatle tutmak"
+  ],
+  "ex": [
+   "Bebek ahşap bir beşikte huzurla uyudu.",
+   "Bölge, erken dönem tarımsal yerleşimleri nedeniyle sıklıkla tarımın beşiği olarak tanımlanır."
+  ],
+  "col": [
+   "beşiği sallamak",
+   "medeniyetin beşiği",
+   "bebeği kucağında tutmak"
+  ],
+  "tip": "'The cradle of' kalıbı, bir şeyin ilk doğduğu ya da geliştiği yeri mecazi olarak anlatır.",
+  "note": ""
+ },
+ {
+  "id": "squeal",
+  "senses": [
+   "cıyaklamak; tiz ses çıkarmak",
+   "tiz çığlık; cızırtı",
+   "ispiyonlamak"
+  ],
+  "ex": [
+   "Çocuklar yavru köpeği görünce sevinçle çığlık attı.",
+   "Sakinler, keskin virajlarda tren tekerleklerinin sık sık cızırdadığını ve yakındaki evlerde gürültü rahatsızlığı yarattığını bildirdi."
+  ],
+  "col": [
+   "sevinçle çığlık atmak",
+   "heyecan çığlığı",
+   "birini ispiyonlamak"
+  ],
+  "tip": "'Squeal on' (birini ispiyonlamak) gayriresmi bir kullanımdır; resmî yazıda tercih edilmez.",
+  "note": ""
+ },
+ {
+  "id": "patriotic",
+  "senses": [
+   "vatansever"
+  ],
+  "ex": [
+   "Büyükbabam ulusal kutlamalarda vatansever şarkılar söylemeyi sever.",
+   "Vatanseverlik duygusu toplumsal hizmeti teşvik edebilir; ama vatandaşları hükümet politikalarını sorgulamaktan alıkoymamalıdır."
+  ],
+  "col": [
+   "vatansever gurur",
+   "vatansever şarkılar",
+   "vatansever görev"
+  ],
+  "tip": "Vatanseverliği, yani ülkeye sevgi ve gurur duymayı anlatır; başka ülkelere karşı düşmanlık anlamı taşımak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "vulgar",
+  "senses": [
+   "kaba; edepsiz",
+   "bayağı; zevksiz"
+  ],
+  "ex": [
+   "Onun kaba şakası akşam yemeğindeki herkesi rahatsız etti.",
+   "Bazı izleyiciler, televizyondaki kaba mizahın genç izleyiciler arasında saygısız davranışları teşvik edebileceğini savunuyor."
+  ],
+  "col": [
+   "kaba dil",
+   "kaba şaka",
+   "zenginliğin bayağı gösterişi"
+  ],
+  "tip": "Günümüzde genellikle olumsuz anlamda kullanılır; 'sıradan, normal' anlamında kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "illiterate",
+  "senses": [
+   "okuma yazma bilmeyen",
+   "bilgisiz; habersiz"
+  ],
+  "ex": [
+   "Büyükbabam okuma yazma bilmiyordu ama harika uyku masalları anlatırdı.",
+   "Ücretsiz yetişkin eğitimi, okuma yazma bilmeyen vatandaşların temel becerileri geliştirmesine ve topluma daha tam katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "okuma yazma bilmeyen yetişkinler",
+   "bilgisayar bilmeyen",
+   "finansal okuryazarlığı olmayan"
+  ],
+  "tip": "İsim olarak kullanımı aşağılayıcı algılanabilir; tarafsız bir anlatım için sıfat olarak kullanın.",
+  "note": ""
+ },
+ {
+  "id": "obsessive",
+  "senses": [
+   "takıntılı; saplantılı"
+  ],
+  "ex": [
+   "Hava durumunu sürekli kontrol etmesi pikniğimizi geciktirdi.",
+   "Akademik başarıya yönelik aşırı kaygı, öğrencilerin sağlıklı arkadaşlıklar kurmasını ve boş zaman etkinliklerinden keyif almasını engelleyebilir."
+  ],
+  "col": [
+   "takıntılı davranış",
+   "takıntılı kaygı",
+   "ayrıntılara takıntılı"
+  ],
+  "tip": "'Interested'tan çok daha güçlüdür; aşırılık ve kendini durduramama anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "negation",
+  "senses": [
+   "inkâr; reddetme",
+   "olumsuzluk"
+  ],
+  "ex": [
+   "Sert bir kafa sallaması, önerimi açıkça reddettiğinin işaretiydi.",
+   "Dil öğretiminde olumsuzluğu anlamak, öğrencilerin doğru bilgiyi veren ifadelerle inkâr eden ifadeleri ayırt etmesine yardımcı olur."
+  ],
+  "col": [
+   "tam inkâr",
+   "bir iddianın reddi",
+   "çifte olumsuzluk"
+  ],
+  "tip": "Resmî ve biraz akademik bir sözcüktür; günlük dilde reddetme anlamında 'refusal' daha yaygındır.",
+  "note": ""
+ }
+]

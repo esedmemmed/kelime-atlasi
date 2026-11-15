@@ -1,0 +1,276 @@
+[
+ {
+  "id": "suck",
+  "senses": [
+   "emmek; içmek",
+   "çekmek; emmek",
+   "berbat olmak"
+  ],
+  "ex": [
+   "Bebek başparmağını emdi ve yavaş yavaş uykuya daldı.",
+   "Modern havalandırma sistemleri, binalardaki kirli havayı dışarı çekerek daha sağlıklı bir iç ortam oluşturmaya yardımcı olur."
+  ],
+  "col": [
+   "başparmağını emmek",
+   "pipetle emmek",
+   "havayı içine çekmek",
+   "suyu çekmek"
+  ],
+  "tip": "Üçüncü anlamı gayriresmîdir ve akademik yazıda kullanılmamalıdır. Düzenli fiildir: suck, sucked, sucked.",
+  "note": ""
+ },
+ {
+  "id": "treaty",
+  "senses": [
+   "antlaşma"
+  ],
+  "ex": [
+   "Yeni antlaşma hakkında radyoda bir haber duyduk.",
+   "Uluslararası bir antlaşma ortak çevre standartlarını belirleyebilir, ancak başarısı etkili bir uygulamaya bağlıdır."
+  ],
+  "col": [
+   "antlaşma imzalamak",
+   "barış antlaşması",
+   "antlaşmayı onaylamak",
+   "antlaşma yükümlülükleri"
+  ],
+  "tip": "Genellikle devletler arasındaki resmî anlaşmalar için kullanılır. Müzakere sürecini değil, imzalanan belgeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "stable",
+  "senses": [
+   "istikrarlı; dengeli",
+   "ahır"
+  ],
+  "ex": [
+   "Sehpanın bacaklarını sıkıştırdıktan sonra artık sağlam duruyor.",
+   "İstikrarlı bir gelir, ailelerin gelecekteki giderlerini planlamasına olanak tanır ve acil mali yardıma bağımlılıklarını azaltır."
+  ],
+  "col": [
+   "istikrarlı gelir",
+   "istikrarlı kalmak",
+   "istikrarlı bir ortam",
+   "istikrarlı bir durumda"
+  ],
+  "tip": "Sıfat olarak 'istikrarlı', isim olarak 'ahır' anlamına gelir. Yazılışı aynıdır, cümlenin bağlamına bakarak anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "division",
+  "senses": [
+   "bölme; paylaştırma",
+   "bölüm; birim",
+   "ayrılık; bölünme"
+  ],
+  "ex": [
+   "Ev işlerini adil bir şekilde paylaşmak konusunda anlaştık.",
+   "Yerel ve ulusal yetkililer arasında sorumlulukların açıkça bölüştürülmesi, kamu hizmetlerinin sunumunu iyileştirebilir."
+  ],
+  "col": [
+   "işbölümü",
+   "sorumlulukların paylaşımı",
+   "bir araştırma birimi",
+   "toplumsal ayrışma"
+  ],
+  "tip": "Matematikte 'bölme' işlemi anlamına da gelir. İlgili fiil divide'dır; isim olarak anlamı bağlama göre değişir.",
+  "note": ""
+ },
+ {
+  "id": "rooster",
+  "senses": [
+   "horoz"
+  ],
+  "ex": [
+   "Horoz bu sabah güneş doğmadan hemen önce bizi uyandırdı.",
+   "Nüfusu yoğun bir mahallede horoz beslemek, birbiriyle iyi geçinen komşular arasında gürültü anlaşmazlığına yol açabilir."
+  ],
+  "col": [
+   "horoz öter",
+   "horozun ötüşü"
+  ],
+  "tip": "Amerikan İngilizcesinde yaygındır. İngiliz İngilizcesinde genç horoz için 'cockerel' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "competent",
+  "senses": [
+   "yetkin; yeterli"
+  ],
+  "ex": [
+   "Yeni tamircimiz yetkin ve her onarımı açıkça anlatıyor.",
+   "Okullara, farklı öğrenme ihtiyaçlarına göre yöntemlerini uyarlayabilen yetkin öğretmenler gerekir."
+  ],
+  "col": [
+   "yetkin öğretmen",
+   "...konusunda yetkin",
+   "teknik açıdan yetkin"
+  ],
+  "tip": "Genellikle 'be competent at doing' kalıbıyla kullanılır. 'Competitive' (rekabetçi) kelimesiyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "margin",
+  "senses": [
+   "kenar boşluğu; kenar",
+   "fark; pay",
+   "kâr marjı"
+  ],
+  "ex": [
+   "Öğretmeninizin yorumları için geniş bir kenar boşluğu bırakın.",
+   "Küçük perakendeciler genellikle dar bir kâr marjıyla çalıştığından, artan enerji maliyetlerine karşı özellikle savunmasızdır."
+  ],
+  "col": [
+   "geniş kenar boşluğu",
+   "kâr marjı",
+   "hata payı",
+   "güvenlik payı"
+  ],
+  "tip": "'By a narrow margin' çok az farkla anlamına gelir. 'Margin of error' ise hata payını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "virtually",
+  "senses": [
+   "neredeyse; hemen hemen",
+   "sanal olarak; çevrimiçi"
+  ],
+  "ex": [
+   "Eve döndüğümüzde buzdolabı neredeyse boştu.",
+   "Çevrimiçi kurslar, internet bağlantısı olan hemen hemen her yerden eğitim kaynaklarına erişimi mümkün kıldı."
+  ],
+  "col": [
+   "neredeyse imkânsız",
+   "neredeyse aynı",
+   "hemen hemen hepsi"
+  ],
+  "tip": "'Neredeyse' anlamına gelir; Türkçedeki 'aslında' karşılığı değildir. 'Actually' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "coldness",
+  "senses": [
+   "soğukluk; serinlik",
+   "soğukluk; ilgisizlik"
+  ],
+  "ex": [
+   "Suyun soğukluğu beni nefessiz bıraktı.",
+   "Çevrimiçi iletişimin görünürdeki soğukluğu, uzaktan çalışanların güvene dayalı ilişkiler kurmasını zorlaştırabilir."
+  ],
+  "col": [
+   "suyun soğukluğu",
+   "duygusal soğukluk",
+   "soğuk bir tavırla karşılık vermek"
+  ],
+  "tip": "Hem sıcaklığın düşüklüğünü hem de samimiyetsiz tutumu anlatabilir. Genellikle sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "conventional",
+  "senses": [
+   "geleneksel; alışılmış"
+  ],
+  "ex": [
+   "Mikrodalga fırın yerine geleneksel bir fırın seçtik.",
+   "Geleneksel tarım yöntemleri, geniş alanlarda yüksek ürün verimini korumak için çoğunlukla kimyasal gübrelere dayanır."
+  ],
+  "col": [
+   "geleneksel yöntemler",
+   "yaygın kabul gören görüş",
+   "geleneksel tıp",
+   "geleneksel tarım"
+  ],
+  "tip": "Yalnızca 'eski' değil, 'olağan ve kabul görmüş' anlamını da taşır. 'Conventional wisdom' yaygın kabul gören görüş demektir.",
+  "note": ""
+ },
+ {
+  "id": "fortress",
+  "senses": [
+   "kale; hisar"
+  ],
+  "ex": [
+   "Eski kaleyi keşfetmek için tepeye tırmandık.",
+   "Tarihi bir kalenin restore edilmesi, ziyaretçileri çekerken bölgenin askerî geçmişine ait izleri de korur."
+  ],
+  "col": [
+   "ortaçağ kalesi",
+   "çok güçlü tahkim edilmiş kale",
+   "ada kalesi"
+  ],
+  "tip": "'Fortress' savunmaya odaklı sağlam yapıları anlatır; 'castle' ise daha çok kale-saray yapısını vurgular.",
+  "note": ""
+ },
+ {
+  "id": "inadequate",
+  "senses": [
+   "yetersiz; eksik",
+   "kendini yetersiz hisseden"
+  ],
+  "ex": [
+   "Bu küçük ısıtıcı böyle büyük bir oda için yetersiz.",
+   "Yetersiz toplu taşıma, kırsal kesimde yaşayanların iş fırsatlarına ve temel sağlık hizmetlerine erişimini engelleyebilir."
+  ],
+  "col": [
+   "yetersiz finansman",
+   "yetersiz tesisler",
+   "görev için yetersiz",
+   "kendini yetersiz hissetmek"
+  ],
+  "tip": "Genellikle 'inadequate for' kalıbıyla kullanılır. Hem miktar hem de kalite yetersizliği için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "effectiveness",
+  "senses": [
+   "etkililik; etkinlik"
+  ],
+  "ex": [
+   "Bu temizleyicinin etkililiği beni şaşırttı.",
+   "Araştırmacılar, ulusal okul sisteminde benimsenmeden önce eğitim programlarının etkililiğini değerlendirmelidir."
+  ],
+  "col": [
+   "etkililiği değerlendirmek",
+   "etkililiği artırmak",
+   "etkililiğini göstermek",
+   "maliyet etkinliği"
+  ],
+  "tip": "Effectiveness sonucun amaca ulaşma derecesine, efficiency ise zaman ve kaynak verimliliğine odaklanır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "pollutant",
+  "senses": [
+   "kirletici; kirletici madde"
+  ],
+  "ex": [
+   "Bu filtre, içme suyumuzdaki zararlı kirleticileri giderir.",
+   "Endüstriyel kirleticilere yönelik daha sıkı denetimler, kentsel alanlarda hava kalitesini iyileştirebilir ve solunum yolu hastalıklarını azaltabilir."
+  ],
+  "col": [
+   "hava kirleticisi",
+   "zararlı kirleticiler",
+   "endüstriyel kirleticiler"
+  ],
+  "tip": "Pollutant belirli bir kirletici maddeyi anlatır ve sayılabilir. Pollution ise genel kirliliği ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "reflection",
+  "senses": [
+   "yansıma; görüntü",
+   "derin düşünce; tefekkür",
+   "yansıma; belirti"
+  ],
+  "ex": [
+   "Bir ördek, göldeki dağın yansımasını bozdu.",
+   "Sınıf deneyimleri üzerine düzenli düşünmek, öğretmenlerin zayıf yönlerini belirlemesine ve öğretim yöntemlerini geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "aynadaki yansıma",
+   "iyice düşününce",
+   "bir toplumun yansıması"
+  ],
+  "tip": "'On reflection' iyice düşündükten sonra anlamına gelir. 'A reflection of' ise bir şeyin yansıması ya da belirtisi demektir.",
+  "note": ""
+ }
+]

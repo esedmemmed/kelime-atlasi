@@ -1,0 +1,274 @@
+[
+ {
+  "id": "damp",
+  "senses": [
+   "nemli; rutubetli",
+   "rutubet; nem",
+   "hafifçe ıslatmak; dizginlemek"
+  ],
+  "ex": [
+   "Dünkü yürüyüşten çoraplarım hâlâ nemli.",
+   "Rutubetli ortamlarda yaşamak, özellikle çocuklar ve yaşlılar için solunum sorunlarını ağırlaştırabilir."
+  ],
+  "col": [
+   "nemli bir bez",
+   "nemli duvarlar",
+   "yükselen rutubet",
+   "bastırmak; dizginlemek"
+  ],
+  "tip": "damp genellikle hoş olmayan, rahatsız edici bir nemi anlatır. Yiyecekler için olumlu bağlamda moist daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "colony",
+  "senses": [
+   "sömürge",
+   "koloni"
+  ],
+  "ex": [
+   "Ada bir zamanlar uzak bir krallığın sömürgesiydi.",
+   "Tarihi kayıtlar, ticaret politikalarının on yıllar boyunca sömürgenin ekonomisini nasıl şekillendirdiğini ortaya koyuyor."
+  ],
+  "col": [
+   "eski bir sömürge",
+   "bir karınca kolonisi",
+   "üreme kolonisi"
+  ],
+  "tip": "Hem insan topluluğu (sömürge) hem de hayvan veya mikroorganizma topluluğu (koloni) anlamına gelebilir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "concise",
+  "senses": [
+   "özlü; kısa ve öz"
+  ],
+  "ex": [
+   "Onun kısa ve net tarifleri istasyonu kolayca bulmamıza yardımcı oldu.",
+   "Açık ve özlü halk sağlığı tavsiyeleri, insanların riskleri anlamasını ve bilinçli kararları hızlıca vermesini sağlar."
+  ],
+  "col": [
+   "açık ve özlü",
+   "özlü özet",
+   "özlü açıklama"
+  ],
+  "tip": "Sadece kısa olmak değil, bilginin açık sunulup gereksiz ayrıntıdan arındırılması anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "attendance",
+  "senses": [
+   "katılım; bulunma",
+   "katılım sayısı"
+  ],
+  "ex": [
+   "Öğretmenimiz her dersin başında yoklama alır.",
+   "Düzenli okula devam etmek, daha iyi akademik başarı ve sosyal gelişim fırsatlarıyla ilişkilidir."
+  ],
+  "col": [
+   "okula devam",
+   "devam oranı",
+   "düşük katılım",
+   "zorunlu katılım"
+  ],
+  "tip": "attend fiili doğrudan nesne alır (attend a meeting). attendance ismi ise genellikle at ile kullanılır: attendance at the meeting.",
+  "note": ""
+ },
+ {
+  "id": "diverse",
+  "senses": [
+   "çeşitli; farklı"
+  ],
+  "ex": [
+   "Bahçemiz çok renkli ve çeşitli kuşları çekiyor.",
+   "Kültürel açıdan çeşitli bir iş gücü, yeni bakış açıları getirebilir ve kuruluşların sorunları çözme kapasitesini artırabilir."
+  ],
+  "col": [
+   "farklı geçmişler",
+   "çeşitli yelpaze",
+   "kültürel açıdan çeşitli",
+   "farklı ihtiyaçlar"
+  ],
+  "tip": "diverse, çeşitliliği ve farklılığı vurgular; genellikle insanlar, gruplar veya seçenekler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "repetition",
+  "senses": [
+   "tekrar; yineleme"
+  ],
+  "ex": [
+   "Her gün tekrar ederek şarkının tamamını sonunda hatırladım.",
+   "Düzenli tekrar, dil öğrenenlerin yeni kelimeleri hatırlamasına yardımcı olabilir; özellikle anlamlı pratikle birleştirildiğinde."
+  ],
+  "col": [
+   "sürekli tekrar",
+   "tekrardan kaçınmak",
+   "tekrarla öğrenmek"
+  ],
+  "tip": "repetition tekrar eden eylemi anlatır. rehearsal ise sahne veya performans öncesi provayı anlatır, ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "importer",
+  "senses": [
+   "ithalatçı; ithalatçı ülke"
+  ],
+  "ex": [
+   "İthalatçı bize birkaç ülkeden gelen kahve çekirdeklerini gösterdi.",
+   "Büyük bir gıda ithalatçısı haline gelen bir ülke, uluslararası fiyat dalgalanmalarına daha fazla maruz kalabilir."
+  ],
+  "col": [
+   "büyük ithalatçı",
+   "net ithalatçı",
+   "gıda ithalatçısı"
+  ],
+  "tip": "importer hem ithalatçı kişi ya da şirketi hem de ithalat yapan ülkeyi ifade eder. Fiil import ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "presence",
+  "senses": [
+   "bulunma; hazır olma",
+   "varlık; mevcudiyet",
+   "etkileyici duruş; karizma"
+  ],
+  "ex": [
+   "Konserde onun bulunuşu kızını gülümsetti.",
+   "Kentsel mahallelerde yeşil alanların varlığı, sakinlerin fiziksel ve zihinsel sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "birinin huzurunda",
+   "...varlığı",
+   "sahne karizması"
+  ],
+  "tip": "in someone's presence, birinin yanında veya önünde anlamına gelir ve daha çok resmi ya da ciddi durumlarda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "recreation",
+  "senses": [
+   "eğlence; boş zaman etkinliği"
+  ],
+  "ex": [
+   "Yerel spor merkezinde eğlence amacıyla yüzüyorum.",
+   "Yeşil alanlara erişim, açık hava rekreasyonunu teşvik eder ve hem fiziksel sağlığı hem de zihinsel iyi oluşu artırabilir."
+  ],
+  "col": [
+   "açık hava eğlencesi",
+   "rekreasyon merkezi",
+   "eğlence için",
+   "rekreasyon olanakları"
+  ],
+  "tip": "Boş zaman etkinliği anlamında genellikle sayılamaz. re-creation (yeniden yaratma) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "insight",
+  "senses": [
+   "içgörü; derin kavrayış"
+  ],
+  "ex": [
+   "Fırında yardım etmek, bir işi yürütmek hakkında bana değerli bir bakış açısı kazandırdı.",
+   "Yerel sakinlerle yapılan görüşmeler, kentsel dönüşümün toplum ilişkilerini ve günlük rutinleri nasıl etkilediğine dair değerli bilgiler sunuyor."
+  ],
+  "col": [
+   "...hakkında içgörü",
+   "içgörü kazanmak",
+   "içgörü sağlamak",
+   "değerli içgörü"
+  ],
+  "tip": "Genellikle insight into kalıbıyla kullanılır. Kavrayış anlamında sayılamayan bir isimdir; insights çoğul biçimi de yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "cite",
+  "senses": [
+   "alıntılamak; kaynak göstermek",
+   "ileri sürmek; gerekçe göstermek"
+  ],
+  "ex": [
+   "Lütfen proje için kullandığın kitabı kaynak olarak göster.",
+   "Araştırmacılar, yeşil alanlara erişimi kentsel sakinlerin zihinsel sağlığını iyileştirmede önemli bir etken olarak sık sık gösterir."
+  ],
+  "col": [
+   "kanıt göstermek",
+   "kaynak göstermek",
+   "bir örnek vermek",
+   "gerekçe olarak göstermek"
+  ],
+  "tip": "cite (kaynak göstermek) ile site (yer, internet sitesi) ve sight (görme, manzara) sesteştir ama anlamları farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "riverside",
+  "senses": [
+   "nehir kenarı; ırmak kıyısı"
+  ],
+  "ex": [
+   "Geç bir öğle yemeğinden sonra nehir kenarında yürüdük.",
+   "Nehir kıyısına erişimi iyileştirmek, çekici kamusal alanlar yaratabilir ve sakinleri açık havada egzersiz yapmaya teşvik edebilir."
+  ],
+  "col": [
+   "nehir kenarı boyunca",
+   "nehir kenarında yürüyüş",
+   "nehir kenarı parkı"
+  ],
+  "tip": "Genellikle isim olarak kullanılır ve başka bir isimden önce gelerek sıfat gibi işlev görür: a riverside park.",
+  "note": ""
+ },
+ {
+  "id": "crumb",
+  "senses": [
+   "kırıntı",
+   "zerre; az miktar"
+  ],
+  "ex": [
+   "Tostumdan bir kırıntı masanın üzerine düştü.",
+   "Ekmek kırıntısı gibi küçük yiyecek artıkları bile atık kötü yönetildiğinde zararlıları çekebilir."
+  ],
+  "col": [
+   "ekmek kırıntıları",
+   "bisküvi kırıntıları",
+   "küçük bir teselli"
+  ],
+  "tip": "Sayılabilir isimdir. Ekmek kırıntıları anlamında çoğul crumbs sık kullanılır; a crumb of kalıbı ise az miktar anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "steep",
+  "senses": [
+   "dik; sarp",
+   "keskin; aşırı yüksek",
+   "ıslatmak; demlemek"
+  ],
+  "ex": [
+   "Bisikletlerimizi dik tepeye kadar ittik.",
+   "Konut maliyetlerindeki ani artış, genç çalışanları büyük şehirlerden uzaklaşmaya zorlayabilir."
+  ],
+  "col": [
+   "dik yamaç",
+   "keskin artış",
+   "sert düşüş",
+   "aşırı yüksek fiyatlar"
+  ],
+  "tip": "steep hem eğimin dikliğini hem de değişimin ani olmasını ya da fiyatın aşırı yüksekliğini anlatabilir. Çay için kullanımı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "deprive",
+  "senses": [
+   "yoksun bırakmak; mahrum etmek"
+  ],
+  "ex": [
+   "Gürültülü yol çalışması bütün hafta uykumuzdan mahrum bıraktı.",
+   "Teknolojiye eşitsiz erişim, dezavantajlı öğrencileri temel dijital becerileri geliştirme fırsatlarından mahrum bırakabilir."
+  ],
+  "col": [
+   "birini bir şeyden yoksun bırakmak",
+   "birini uykusuz bırakmak",
+   "birini fırsatlardan mahrum bırakmak"
+  ],
+  "tip": "Kalıp deprive sb of sth şeklindedir; of edatı zorunludur.",
+  "note": ""
+ }
+]

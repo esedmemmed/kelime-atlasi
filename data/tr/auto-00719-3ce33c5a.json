@@ -1,0 +1,283 @@
+[
+ {
+  "id": "exercise",
+  "senses": [
+   "egzersiz; alıştırma",
+   "egzersiz yapmak; spor yapmak",
+   "kullanmak; uygulamak"
+  ],
+  "ex": [
+   "Dükkânlara yürüyerek giderek biraz egzersiz yapıyorum.",
+   "Düzenli egzersiz, ruh sağlığını iyileştirebilir ve birçok yaygın kronik hastalığın riskini azaltabilir."
+  ],
+  "col": [
+   "düzenli egzersiz",
+   "alıştırma yapmak",
+   "dikkatli davranmak",
+   "haklarını kullanmak"
+  ],
+  "tip": "Genel anlamda spor yapmak sayılamaz (exercise); tek bir alıştırma ya da görev sayılabilir (an exercise, exercises).",
+  "note": ""
+ },
+ {
+  "id": "some",
+  "senses": [
+   "birkaç; biraz",
+   "bazıları; birkaçı",
+   "yaklaşık; kadar"
+  ],
+  "ex": [
+   "Eve dönerken taze ekmek aldım.",
+   "Bazı sakinler önerilen bisiklet yollarını destekliyor, bazıları ise park yerlerini kaybetmekten endişeli."
+  ],
+  "col": [
+   "bazıları",
+   "bir süre",
+   "biraz tavsiye",
+   "yaklaşık yirmi yıl"
+  ],
+  "tip": "Olumlu cümlelerde some, olumsuz ve soru cümlelerinde genellikle any kullanılır. Teklif ve rica sorularında some tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "interested",
+  "senses": [
+   "ilgili; meraklı",
+   "ilgilenen; çıkarı olan"
+  ],
+  "ex": [
+   "Kız kardeşim sebze yetiştirmeyi öğrenmekle ilgileniyor.",
+   "Bilime ilgi duyan öğrenciler, pratik deneyler yapma fırsatına düzenli olarak sahip olmalıdır."
+  ],
+  "col": [
+   "ile ilgilenmek",
+   "duymak istemek",
+   "ilgili taraflar"
+  ],
+  "tip": "Kişi bir şeye ilgi duyuyorsa interested (I am interested); şey ilgi çekici ise interesting (The film is interesting). Bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "which",
+  "senses": [
+   "hangi",
+   "hangisi; hangileri",
+   "olan; ki"
+  ],
+  "ex": [
+   "Bu akşam yemeğe hangi ceketi giymeliyim?",
+   "Hükümetler, hanehalkına aşırı mali yük bindirmeden hangi politikaların hava kalitesini iyileştireceğine karar vermek zorundadır."
+  ],
+  "col": [
+   "...arasından hangisi",
+   "hangisi",
+   "bu durumda"
+  ],
+  "tip": "Sınırlı seçeneklerde which, geniş anlamda what kullanılır. Virgülle ayrılan which cümlelerinde that kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "way",
+  "senses": [
+   "yol; yöntem",
+   "yol; güzergâh",
+   "çok; oldukça"
+  ],
+  "ex": [
+   "Bu kağıdı katlamanın daha kolay bir yolunu göster.",
+   "Toplu taşımayı iyileştirmek, trafik sıkışıklığını ve kentsel hava kirliliğini azaltmanın etkili bir yoludur."
+  ],
+  "col": [
+   "etkili bir yol",
+   "bir çare bulmak",
+   "yolda",
+   "çok pahalı"
+  ],
+  "tip": "Yöntem anlamında way to do (a way to solve) ya da way of doing (a way of solving) kalıpları kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "arm",
+  "senses": [
+   "kol",
+   "koltuk kolu",
+   "silahlandırmak; donatmak"
+  ],
+  "ex": [
+   "Uyuyan bebeği kollarında nazikçe taşıdı.",
+   "Okullar, öğrencilere hızla değişen iş dünyasına uyum sağlamalarını destekleyen pratik beceriler kazandırmalıdır."
+  ],
+  "col": [
+   "kollarını kavuşturmak",
+   "koltuğun kolu",
+   "birini bilgiyle donatmak"
+  ],
+  "tip": "Silah anlamında her zaman çoğul arms kullanılır. Vücut uzvu için arm tekil olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "woman",
+  "senses": [
+   "kadın; bayan"
+  ],
+  "ex": [
+   "Yan dairedeki kadın balkonunda çok güzel çiçekler yetiştiriyor.",
+   "Her kadının eğitime erişiminin sağlanması, sağlık ve ekonomik fırsatları nesiller boyunca iyileştirebilir."
+  ],
+  "col": [
+   "genç kadın",
+   "çalışan kadın",
+   "kadın hakları"
+  ],
+  "tip": "Çoğulu women'dır ve /ˈwɪmɪn/ okunur. 'womans' yazılmaz; ilk hecenin telaffuzuna dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "next",
+  "senses": [
+   "sonraki; bir sonraki",
+   "sonra; bir dahaki sefer"
+  ],
+  "ex": [
+   "Bir sonraki otobüsümüz yaklaşık on dakika içinde kalkıyor.",
+   "Önümüzdeki on yıl boyunca hükümetler, uygun fiyatlı toplu taşımaya daha fazla yatırım yapmak zorunda kalacak."
+  ],
+  "col": [
+   "gelecek hafta",
+   "bir sonraki adım",
+   "bir dahaki sefer",
+   "yanında"
+  ],
+  "tip": "'Gelecek hafta' next week olarak the olmadan kullanılır. the next week ise geçmiş bir anlatımda 'ertesi hafta' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "bookstore",
+  "senses": [
+   "kitabevi; kitapçı"
+  ],
+  "ex": [
+   "Evimin yakınındaki kitabevi dokuza kadar açık.",
+   "Çevrim içi alışveriş kolaylık sağlasa da fiziksel bir kitabevi, müşterilerin kitapları incelemesine ve kişisel önerilere ulaşmasına imkân tanır."
+  ],
+  "col": [
+   "çevrim içi kitabevi",
+   "kampüs kitabevi",
+   "ikinci el kitapçı"
+  ],
+  "tip": "Bookstore Amerikan İngilizcesinde yaygındır; İngiliz İngilizcesinde bookshop denir. Ödünç kitap verilen yer library (kütüphane) olur.",
+  "note": ""
+ },
+ {
+  "id": "police",
+  "senses": [
+   "polis; emniyet",
+   "güvenliği sağlamak; denetlemek"
+  ],
+  "ex": [
+   "Polis kayıp bisikletimizi bulmamıza yardım etti.",
+   "Polis ile yerel halk arasındaki etkili işbirliği, toplum güvenliğini artırabilir ve topluluklar içinde güveni geliştirebilir."
+  ],
+  "col": [
+   "polis memuru",
+   "polis karakolu",
+   "polisi aramak",
+   "etkinliği denetlemek"
+  ],
+  "tip": "The police, çoğul fiille kullanılır (The police are here). Tek bir polis memuru için a police officer denir.",
+  "note": ""
+ },
+ {
+  "id": "young",
+  "senses": [
+   "genç; küçük",
+   "yavru"
+  ],
+  "ex": [
+   "Küçük bir kedi yavrusu boş ayakkabımın içinde uyuyakaldı.",
+   "Genç insanların büyük şehirlerde bağımsız bir hayat kurabilmeleri için uygun fiyatlı konut ve istikrarlı istihdama ihtiyacı var."
+  ],
+  "col": [
+   "gençler",
+   "küçük çocuklar",
+   "küçük yaştan itibaren",
+   "yavrularını büyütmek"
+  ],
+  "tip": "The young, genç insanları topluca ifade eder ve çoğul fiil alır (The young are...). Hayvanlar için de young yavru anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "photo",
+  "senses": [
+   "fotoğraf"
+  ],
+  "ex": [
+   "Eski köprünün yanında bir fotoğraf çektirdik.",
+   "Tarihi fotoğraflar, kentsel manzaraların ve gündelik yaşam tarzlarının zamanla nasıl değiştiğine dair değerli kanıtlar sunar."
+  ],
+  "col": [
+   "fotoğraf çekmek",
+   "aile fotoğrafı",
+   "fotoğraf albümü",
+   "...nın fotoğrafı"
+  ],
+  "tip": "Photo, photograph kelimesinin kısaltmasıdır ve gündelik dilde yaygındır. Akademik yazıda photograph tercih edilebilir. Çoğulu photos.",
+  "note": ""
+ },
+ {
+  "id": "everybody",
+  "senses": [
+   "herkes; her kişi"
+  ],
+  "ex": [
+   "Herkes kapıların açılmasını dışarıda bekliyor.",
+   "Kamu kütüphaneleri, herkesin yaşam boyu öğrenme fırsatlarından yararlanabilmesi için erişilebilir hizmetler sunmalıdır."
+  ],
+  "col": [
+   "diğer herkes",
+   "neredeyse herkes",
+   "ilgili herkes"
+  ],
+  "tip": "Everybody öznesiyle tekil fiil kullanılır: Everybody is ready. Sonraki zamir olarak resmi yazıda they de kabul görür.",
+  "note": ""
+ },
+ {
+  "id": "orange",
+  "senses": [
+   "portakal",
+   "turuncu",
+   "turuncu"
+  ],
+  "ex": [
+   "Bir portakalı soydum ve kız kardeşimle paylaştım.",
+   "Bir portakal C vitamini sağlar, ancak dengeli beslenme çeşitli gıdaları gerektirir."
+  ],
+  "col": [
+   "portakal suyu",
+   "portakal kabuğu",
+   "parlak turuncu"
+  ],
+  "tip": "Meyve anlamında sayılabilir (an orange, two oranges). Renk anlamında genellikle sayılmaz, sıfat olarak da kullanılır (an orange bag).",
+  "note": ""
+ },
+ {
+  "id": "match",
+  "senses": [
+   "maç; karşılaşma",
+   "uyuşmak; eşleşmek",
+   "kibrit"
+  ],
+  "ex": [
+   "Yerel parkta bir futbol maçı izledik.",
+   "Eğitim programları, kolejlerde öğretilen becerilerle yerel işverenlerin ihtiyaçlarını eşleştirmelidir."
+  ],
+  "col": [
+   "maç kazanmak",
+   "A'yı B ile eşleştirmek",
+   "kibrit çakmak",
+   "mükemmel uyum"
+  ],
+  "tip": "Match, renk ya da özellik uyumu için kullanılır; boyutun uygunluğu için fit daha uygundur.",
+  "note": ""
+ }
+]

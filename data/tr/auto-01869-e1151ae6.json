@@ -1,0 +1,280 @@
+[
+ {
+  "id": "disabled",
+  "senses": [
+   "engelli"
+  ],
+  "ex": [
+   "Havuzda engelli yüzücüler için bir asansör var.",
+   "Üniversiteler, engelli öğrencilerin kampüs yaşamına tam olarak katılabilmesi için erişilebilir olanaklar ve uygun destek sağlamalıdır."
+  ],
+  "col": [
+   "engelli insanlar",
+   "engelli erişimi",
+   "engelli park yeri"
+  ],
+  "tip": "Bazı kişiler 'engelli' yerine 'engeli olan' ya da 'engelli birey' demeyi tercih eder; kişinin tercihine uyun.",
+  "note": ""
+ },
+ {
+  "id": "supply",
+  "senses": [
+   "tedarik etmek; sağlamak",
+   "tedarik; arz",
+   "malzeme; erzak"
+  ],
+  "ex": [
+   "Yakınlardaki bir çiftlik dükkânımıza taze yumurta tedarik ediyor.",
+   "Nüfus artışı ve iklim değişikliği kaynaklar üzerindeki baskıyı artırdıkça, şehirlerin güvenilir bir su temini sağlaması gerekiyor."
+  ],
+  "col": [
+   "birine bir şey sağlamak",
+   "su temini",
+   "arz ve talep",
+   "tıbbi malzemeler"
+  ],
+  "tip": "'A'ya B sağlamak' için supply A with B ya da supply B to A kalıbı kullanılır; malzeme anlamında çoğul supplies yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "full-time",
+  "senses": [
+   "tam zamanlı; tam gün",
+   "tam zamanlı; tam gün"
+  ],
+  "ex": [
+   "Kız kardeşim gelecek hafta ilk tam zamanlı işine başlıyor.",
+   "Uygun fiyatlı çocuk bakımı, daha fazla ebeveynin aile bütçesini aşırı zorlamadan tam zamanlı çalışmaya dönmesini sağlıyor."
+  ],
+  "col": [
+   "tam zamanlı çalışma",
+   "tam zamanlı öğrenci",
+   "tam zamanlı çalışmak"
+  ],
+  "tip": "İsim önünde kullanıldığında tire korunur: a full-time job. Fiil olarak 'work full-time' kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "multiply",
+  "senses": [
+   "çarpmak",
+   "çoğalmak; hızla artmak"
+  ],
+  "ex": [
+   "Toplamı bulmak için fiyatı üçle çarpın.",
+   "Bakteriler sıcak koşullarda hızla çoğalabilir, bu yüzden gıdaların doğru saklanması halk sağlığı açısından önemlidir."
+  ],
+  "col": [
+   "ile çarpmak",
+   "hızla çoğalmak",
+   "on kat artmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi multiplied'dır; 'multiply A by B' kalıbında 'by' edatı zorunludur.",
+  "note": ""
+ },
+ {
+  "id": "request",
+  "senses": [
+   "istek; talep",
+   "istemek; talep etmek"
+  ],
+  "ex": [
+   "Otel, ekstra yastık isteğimi kabul etti.",
+   "Sakinler, yerel yönetimler nihai planlama kararlarını vermeden önce önerilen projeler hakkında ayrıntılı bilgi isteyebilir."
+  ],
+  "col": [
+   "istekte bulunmak",
+   "bilgi talebi",
+   "istek üzerine",
+   "izin istemek"
+  ],
+  "tip": "İsim olarak 'request for' ile kullanılır; fiil olarak doğrudan nesne alır: request information. Fiilden sonra edat gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "recycle",
+  "senses": [
+   "geri dönüştürmek"
+  ],
+  "ex": [
+   "Evimizin yakınındaki merkezde cam şişeleri geri dönüştürüyoruz.",
+   "Şehirler, sakinlerin günlük ambalajları geri dönüştürmesini kolaylaştırarak çöp depolama alanlarındaki atığı azaltabilir."
+  ],
+  "col": [
+   "ev atıklarını geri dönüştürmek",
+   "geri dönüştürülmüş kâğıt",
+   "plastik şişeleri geri dönüştürmek"
+  ],
+  "tip": "recycle atığı işleyip yeniden kullanmaya; reuse ise doğrudan yeniden kullanmaya işaret eder. Bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "conference",
+  "senses": [
+   "konferans; kongre"
+  ],
+  "ex": [
+   "Otelimiz yerel öğretmenler için bir konferans düzenliyor.",
+   "Uluslararası konferansta araştırmacılar, şehirlerin ekonomik büyümeyi sınırlamadan hava kirliliğini nasıl azaltabileceğini tartıştı."
+  ],
+  "col": [
+   "konferansa katılmak",
+   "konferans düzenlemek",
+   "basın toplantısı",
+   "konferans mekânı"
+  ],
+  "tip": "Resmi ve genellikle uzun süren toplantılar için kullanılır; 'katılmak' anlamında attend a conference denir.",
+  "note": ""
+ },
+ {
+  "id": "roast",
+  "senses": [
+   "kavurmak; fırında pişirmek",
+   "fırında pişmiş; kavrulmuş",
+   "fırın etli yemek; rosto"
+  ],
+  "ex": [
+   "Genellikle patatesleri sarımsak ve taze otlarla fırında pişiririz.",
+   "Aileler, aşırı işlenmiş gıdalara bağımlı kalmadan besleyici yemekler hazırlamak için mevsim sebzelerini evde fırında pişirebilir."
+  ],
+  "col": [
+   "fırında sebze",
+   "fırında tavuk",
+   "pazar rosto yemeği"
+  ],
+  "tip": "roast çoğunlukla et ve sebze için kullanılır; ekmek ve kek gibi hamur işleri için bake tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "hero",
+  "senses": [
+   "kahraman",
+   "başkahraman; erkek kahraman"
+  ],
+  "ex": [
+   "İtfaiyeci kurtarma operasyonundan sonra yerel bir kahraman oldu.",
+   "Filmler başkahramanı olağanüstü bir birey olarak gösterir; oysa gerçek toplumsal ilerleme genellikle ortak çaba gerektirir."
+  ],
+  "col": [
+   "ulusal kahraman",
+   "yerel kahraman",
+   "adı duyulmamış kahraman",
+   "aksiyon kahramanı"
+  ],
+  "tip": "Çoğulu heroes'dir. Hikâyelerdeki hero her zaman ahlaken iyi biri değildir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "chop",
+  "senses": [
+   "doğramak; kesmek",
+   "kesici darbe",
+   "pirzola"
+  ],
+  "ex": [
+   "Ben sup ısıtırken lütfen havuçları doğrar mısın?",
+   "Topluluklar yakacak için ağaçları kestiklerinde, farkında olmadan yaşam alanlarına zarar verip toprak erozyonunu artırabilir."
+  ],
+  "col": [
+   "sebze doğramak",
+   "ağaç kesmek",
+   "odun kesmek",
+   "kuzu pirzola"
+  ],
+  "tip": "Geçmiş zaman ve ortaç chopped, ing hali chopping'dir; son harf çift yazılır. 'chop down' ağacı devirmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "olive",
+  "senses": [
+   "zeytin; zeytin ağacı",
+   "zeytin yeşili; esmer"
+  ],
+  "ex": [
+   "Taze salataya birkaç zeytin ekledi.",
+   "Zeytin yetiştiriciliği kurak bölgelerde kırsal geçim kaynaklarını destekler, ancak uzun süren kuraklık hasadı önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "zeytinyağı",
+   "zeytinlik",
+   "esmer ten"
+  ],
+  "tip": "olive meyve, ağaç ve renk için kullanılır; olive oil genellikle sayılamayan isimdir, 'an olive oil' denmez.",
+  "note": ""
+ },
+ {
+  "id": "sadness",
+  "senses": [
+   "hüzün; üzüntü"
+  ],
+  "ex": [
+   "Arkadaşı taşındığında derin bir hüzün hissetti.",
+   "Düzenli sosyal temas, tek başına yaşayan yaşlılar arasında hüzün duygusunu azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "derin hüzün",
+   "hüzün duygusu",
+   "hüzünle dolmak"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; bir duyguyu tanımlamak için a sense of sadness gibi kalıplar kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cab",
+  "senses": [
+   "taksi",
+   "sürücü kabini"
+  ],
+  "ex": [
+   "Konserden sonra eve taksiyle birlikte döndük.",
+   "Uygun fiyatlı gece otobüsleri, vardiyası gece yarısından sonra biten işçilerin taksiye bağımlılığını azaltabilir."
+  ],
+  "col": [
+   "taksi çevirmek",
+   "taksiye binmek",
+   "taksi ücreti",
+   "kamyon kabini"
+  ],
+  "tip": "Taksi anlamında taxi ile eş anlamlıdır; kamyon gibi araçlarda sürücünün oturduğu kabini de belirtir.",
+  "note": ""
+ },
+ {
+  "id": "chapter",
+  "senses": [
+   "bölüm; kısım",
+   "dönem; evre",
+   "yerel şube"
+  ],
+  "ex": [
+   "Işığı kapatmadan önce bir bölüm okudum.",
+   "Son bölüm, hızla büyüyen şehirlerde toplu taşıma yatırımının eşitsizliği nasıl azaltabileceğini inceliyor."
+  ],
+  "col": [
+   "açılış bölümü",
+   "yeni bir dönem",
+   "tarihte bir dönem",
+   "yerel şube"
+  ],
+  "tip": "Kitabın ana bölümü için chapter kullanılır; bölüm içindeki daha küçük kısımlar için section tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "update",
+  "senses": [
+   "güncellemek; haberdar etmek",
+   "güncelleme; yeni bilgi"
+  ],
+  "ex": [
+   "Paketi göndermeden önce lütfen adresinizi güncelleyin.",
+   "Hükümetler, bilimsel keşifleri yansıtmak ve ortaya çıkan riskleri karşılamak için çevre düzenlemelerini düzenli olarak güncellemelidir."
+  ],
+  "col": [
+   "yazılımı güncellemek",
+   "birine bir konuda bilgi vermek",
+   "yazılım güncellemesi",
+   "düzenli güncellemeler"
+  ],
+  "tip": "İsimde vurgu başta (ˈʌpdeɪt), fiilde sonda (ʌpˈdeɪt) okunur. 'update someone on' birine güncel bilgi vermek demektir.",
+  "note": ""
+ }
+]

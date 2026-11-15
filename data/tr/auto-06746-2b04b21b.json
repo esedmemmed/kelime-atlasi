@@ -1,0 +1,269 @@
+[
+ {
+  "id": "heed",
+  "senses": [
+   "dikkate almak; uymak",
+   "dikkat; itina"
+  ],
+  "ex": [
+   "Rehberin uyarısını dikkate alıp plajdan ayrıldık.",
+   "Hükümetler, aşırı hava olaylarına karşı toplulukları korumaya yönelik politikaları geliştirirken bilimsel tavsiyeye kulak vermelidir."
+  ],
+  "col": [
+   "uyarıyı dikkate almak",
+   "tavsiyeye uymak",
+   "üzerinde durmak",
+   "dikkate almak"
+  ],
+  "tip": "Fiil doğrudan nesne alır (heed a warning). İsim hâli genellikle pay heed to / take heed of kalıplarında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "overrule",
+  "senses": [
+   "reddetmek; geçersiz kılmak"
+  ],
+  "ex": [
+   "Müdür, erken kapatma isteğimi reddetti.",
+   "Büyük altyapı projeleri daha geniş kamu yararına hizmet ettiğinde, ulusal makamlar yerel planlama kararlarını geçersiz kılabilir."
+  ],
+  "col": [
+   "itirazı reddetmek",
+   "kararı geçersiz kılmak",
+   "tarafından reddedilmek"
+  ],
+  "tip": "Sadece karşı çıkmak değil, daha üst bir yetkiyle kararı reddetmek veya bozmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "entail",
+  "senses": [
+   "gerektirmek; beraberinde getirmek"
+  ],
+  "ex": [
+   "Bu yeni iş, bazı akşamlar ve hafta sonları çalışmayı gerektiriyor.",
+   "Toplu taşımanın genişletilmesi önemli başlangıç maliyetleri doğuracak; yine de çevresel ve sosyal faydalar bu yatırımı haklı çıkarabilir."
+  ],
+  "col": [
+   "masraf gerektirmek",
+   "riskler içermek",
+   "yapmayı gerektirmek"
+  ],
+  "tip": "Ardından isim ya da -ing'li yapı gelir (entail doing). to + fiil kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "hallmark",
+  "senses": [
+   "ayırt edici özellik; işaret",
+   "değerli metal damgası"
+  ],
+  "ex": [
+   "Taze malzemeler, büyükannemin yemeklerinin ayırt edici özelliğidir.",
+   "Şeffaf karar alma süreci, vatandaşların kamu görevlilerini hesap vermeye zorlamasına imkân verdiği için etkili yönetimin ayırt edici bir özelliğidir."
+  ],
+  "col": [
+   "kalite işareti",
+   "...ın izlerini taşımak",
+   "ayırt edici bir işaret"
+  ],
+  "tip": "Sık kullanılan kalıp: a hallmark of, yani \"...in tipik özelliği\".",
+  "note": ""
+ },
+ {
+  "id": "cog",
+  "senses": [
+   "dişli; çark dişi",
+   "büyük kurumda küçük rol"
+  ],
+  "ex": [
+   "Kırılan bir dişli, eski saatin çalışmasını durdurdu.",
+   "Çalışanlar kendilerini değerli katkıda bulunanlar yerine makinedeki bir dişli gibi hissederlerse motivasyonlarını kaybedebilirler."
+  ],
+  "col": [
+   "dişli çark",
+   "makinenin küçük bir parçası",
+   "kırık dişli"
+  ],
+  "tip": "Mecazi anlamda a cog in the machine kalıbı, büyük bir kurumdaki önemsiz rolü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "predisposition",
+  "senses": [
+   "hastalığa yatkınlık",
+   "eğilim; meyil"
+  ],
+  "ex": [
+   "Doktorum, bir yatkınlığın hastalık olacağı anlamına gelmediğini açıkladı.",
+   "Genetik yatkınlık diyabet riskini etkilemekle birlikte, düzenli egzersiz ve dengeli beslenme koruma sağlayabilir."
+  ],
+  "col": [
+   "genetik yatkınlık",
+   "diyabete yatkınlık",
+   "kaygıya eğilim"
+  ],
+  "tip": "Genellikle to veya towards ile kullanılır. Bir şeyin daha olası olduğunu gösterir, kesin olduğunu değil.",
+  "note": ""
+ },
+ {
+  "id": "lament",
+  "senses": [
+   "yakınmak; üzülmek",
+   "ağıt; sitem"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam sık sık yerel dükkânların kapanmasına üzülürler.",
+   "Birçok sakin tarihi binaların yıkılmasına üzülüyor; onlara göre yeniden geliştirme kentin kültürel kimliğini zayıflatıyor."
+  ],
+  "col": [
+   "...kaybına yanmak",
+   "derinden üzülmek",
+   "...için ağıt"
+  ],
+  "tip": "Resmî bir fiildir. Doğrudan nesne alabilir ya da that yan cümlesi ile kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "decided",
+  "senses": [
+   "belirgin; açık"
+  ],
+  "ex": [
+   "Bu gece havada belirgin bir soğukluk var.",
+   "Güvenilir internet erişimi, kırsaldaki işletmelere yerel bölgenin ötesindeki müşterilerle rekabet ederken belirgin bir avantaj sağlar."
+  ],
+  "col": [
+   "belirgin bir avantaj",
+   "belirgin bir gelişme",
+   "açık bir tercih"
+  ],
+  "tip": "Sıfat olarak \"belirgin, kesin\" anlamına gelir. \"Kararlı, azimli\" anlamında ise decisive kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "disprove",
+  "senses": [
+   "yanlışlığını kanıtlamak; çürütmek"
+  ],
+  "ex": [
+   "Net fotoğraf, hasarla ilgili iddiasını çürüttü.",
+   "Araştırmacıların, küçük sınıfların her zaman daha iyi akademik sonuç getirdiği varsayımını çürütmek için güvenilir kanıtlara ihtiyacı var."
+  ],
+  "col": [
+   "kuramı çürütmek",
+   "iddiayı çürütmek",
+   "hipotezi çürütmek"
+  ],
+  "tip": "Sadece karşı çıkmak değil, kanıtla bir şeyin yanlış olduğunu göstermek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "obstruction",
+  "senses": [
+   "engel; tıkanıklık",
+   "engelleme; mâni olma"
+  ],
+  "ex": [
+   "Devrilen bir dal, dar patikada tıkanıklığa yol açtı.",
+   "Gereksiz idari prosedürlerin kaldırılması, kırsal kesimde küçük işletmelerin gelişmesine yönelik engelleri azaltabilir."
+  ],
+  "col": [
+   "engel oluşturmak",
+   "engeli kaldırmak",
+   "adaletin engellenmesi"
+  ],
+  "tip": "Somut engel sayılabilir; engelleme eylemi ise genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "excavate",
+  "senses": [
+   "kazmak; oyup çıkarmak",
+   "kazı yapmak; ortaya çıkarmak"
+  ],
+  "ex": [
+   "İşçiler yeni havuzumuz için derin bir çukur kazdı.",
+   "Arkeologlar, eski yerleşimleri kazarak önceki toplulukların çevresel değişimlere nasıl uyum sağladığını ve tarım tekniklerini nasıl geliştirdiğini araştırıyor."
+  ],
+  "col": [
+   "alanı kazmak",
+   "hendek kazmak",
+   "eski kalıntıları çıkarmak"
+  ],
+  "tip": "Hem inşaat kazısı hem de arkeolojik kazı için kullanılır. Bağlama göre anlam belirlenir.",
+  "note": ""
+ },
+ {
+  "id": "ultimatum",
+  "senses": [
+   "son uyarı; son çağrı"
+  ],
+  "ex": [
+   "Antrenör bize bir son uyarı verdi: ya antrenmana katılın ya da takımdan ayrılın.",
+   "Belediye, fabrikanın atık arıtımını iyileştirmesini ya da kapatılmayı kabul etmesini isteyen bir son uyarı yayımladı."
+  ],
+  "col": [
+   "son uyarı vermek",
+   "birine son uyarı yapmak",
+   "son uyarıyı reddetmek"
+  ],
+  "tip": "Genellikle give someone an ultimatum kalıbıyla kullanılır. Çoğul hâli ultimatums'tır.",
+  "note": ""
+ },
+ {
+  "id": "resilience",
+  "senses": [
+   "dayanıklılık; toparlanma gücü",
+   "esneklik; geri esneme"
+  ],
+  "ex": [
+   "Onun dayanıklılığı, sel felaketinden sonra hayatını yeniden kurmasına yardımcı oldu.",
+   "Güçlü toplum ağları, ekonomik krizler sırasında pratik ve duygusal destek sağlayarak toparlanma gücünü artırabilir."
+  ],
+  "col": [
+   "dayanıklılık geliştirmek",
+   "duygusal dayanıklılık",
+   "toplumsal dayanıklılık",
+   "olağanüstü dayanıklılık göstermek"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Zorluklardan sonra toparlanma ve uyum gücünü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "warfare",
+  "senses": [
+   "savaş; savaşma"
+  ],
+  "ex": [
+   "Müze, savaşın yüzyıllar içinde nasıl değiştiğini gösteriyor.",
+   "Modern savaş, temel altyapıyı zarara uğratabilir ve toplulukları güvenilir su ve elektrik erişiminden yoksun bırakabilir."
+  ],
+  "col": [
+   "modern savaş",
+   "kimyasal savaş",
+   "gerilla savaşı"
+  ],
+  "tip": "Sayılamaz; savaş faaliyetini ve yöntemlerini anlatır. Belirli bir savaş için war kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "acclaim",
+  "senses": [
+   "alkış; övgü",
+   "övmek; alkışlamak"
+  ],
+  "ex": [
+   "İlk filmi yerel festivalde beğeni topladı.",
+   "Yeni halk kütüphanesi, erişilebilir tasarımı ve sürdürülebilir yapımı nedeniyle geniş çapta takdir gördü."
+  ],
+  "col": [
+   "eleştirmenlerce beğeni",
+   "geniş çapta takdir",
+   "beğeni toplamak",
+   "...olarak övülmek"
+  ],
+  "tip": "İsim genellikle sayılamaz. be acclaimed as kalıbı \"...olarak övülmek, ilan edilmek\" anlamına gelir.",
+  "note": ""
+ }
+]

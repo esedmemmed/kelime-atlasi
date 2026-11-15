@@ -1,0 +1,280 @@
+[
+ {
+  "id": "conscience",
+  "senses": [
+   "vicdan",
+   "vicdan azabı"
+  ],
+  "ex": [
+   "Vicdanım, kaybolan cüzdanı geri vermem gerektiğini söyledi.",
+   "Tüketiciler, kötü çalışma koşullarında üretilen ucuz ürünleri alırken vicdanlarıyla bocalayabilir."
+  ],
+  "col": [
+   "temiz bir vicdan",
+   "suçlu bir vicdan",
+   "vicdan meselesi"
+  ],
+  "tip": "conscience (vicdan) ile conscious (bilinçli, farkında) kelimelerini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "suspicious",
+  "senses": [
+   "şüpheli",
+   "şüpheci; güvenmeyen"
+  ],
+  "ex": [
+   "Banka ekstremde şüpheli bir ücret fark ettim.",
+   "Tüketiciler, şirketlerin kanıt sunmadan yaptığı çevresel iddialara giderek daha fazla şüpheyle bakıyor."
+  ],
+  "col": [
+   "şüpheli davranış",
+   "şüpheli koşullar",
+   "birinden şüphelenmek",
+   "son derece şüpheli"
+  ],
+  "tip": "Olay ya da nesne için suspicious; kişiden şüphelenmek için suspicious of kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "calorie",
+  "senses": [
+   "kalori"
+  ],
+  "ex": [
+   "Bu yürüyüş uygulaması yaktığım kalori miktarını tahmin ediyor.",
+   "Kalori bilgisi yiyecek seçimlerine yol gösterebilir, ancak dengeli beslenme besin kalitesine de bağlıdır."
+  ],
+  "col": [
+   "kalori yakmak",
+   "kalori alımı",
+   "az kalorili",
+   "kalori içeriği"
+  ],
+  "tip": "Yiyeceklerde calorie genellikle kilokaloriyi (kcal) anlatır. Sayılabilir isimdir, çoğulu calories olur.",
+  "note": ""
+ },
+ {
+  "id": "sequence",
+  "senses": [
+   "sıra; dizi",
+   "sıralamak"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce bu resimleri doğru sıraya dizin.",
+   "Olayların sırasını anlamak, araştırmacıların çevresel felakete yol açan etkenleri belirlemesine yardımcı olur."
+  ],
+  "col": [
+   "sırayla",
+   "bir dizi olay",
+   "doğru sıra"
+  ],
+  "tip": "a sequence of ardından çoğul isim gelir: a sequence of events (bir dizi olay). Fiil olarak 'sıraya koymak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "extinct",
+  "senses": [
+   "soyu tükenmiş",
+   "sönmüş"
+  ],
+  "ex": [
+   "Küçük kuzenim dinozorların neden soyunun tükendiğini sordu.",
+   "Habitatları daha sıkı korunmazsa, birçok nesli tehlikedeki tür önümüzdeki birkaç on yılda yok olabilir."
+  ],
+  "col": [
+   "soyu tükenmek",
+   "soyu tükenmiş tür",
+   "sönmüş yanardağ"
+  ],
+  "tip": "extinct artık hiç canlı kalmadığını, endangered ise yok olma tehlikesi altında olduğunu anlatır. Karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "inferior",
+  "senses": [
+   "daha düşük; aşağı",
+   "alt düzeyde",
+   "ast"
+  ],
+  "ex": [
+   "Ucuz çanta, deri olana kıyasla daha kalitesiz hissettirdi.",
+   "Dezavantajlı bölgelerdeki okullara, yerel finansman sınırlı diye düşük kaliteli ekipman verilmemelidir."
+  ],
+  "col": [
+   "-den aşağı",
+   "düşük kalite",
+   "kendini aşağıda hissetmek"
+  ],
+  "tip": "Karşılaştırmada than yerine to kullanılır: inferior to. feel inferior ise kendini yetersiz hissetmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "anyhow",
+  "senses": [
+   "yine de",
+   "neyse; her neyse",
+   "gelişigüzel; dağınık"
+  ],
+  "ex": [
+   "Yağmur yağıyordu ama yine de yüzmeye gittik.",
+   "Toplu taşıma iyileştirmelerinin önemli bir finansman gerektirmesine rağmen, şehirler trafik sıkışıklığını azaltmak için yine de bu yatırımları yapmalıdır."
+  ],
+  "col": [
+   "bunu yine de yapmak",
+   "yine de gitmek",
+   "işleri gelişigüzel bırakmak"
+  ],
+  "tip": "Gündelik dilde 'yine de, neyse' anlamına gelir. 'Bir şekilde' anlamındaki somehow ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "guideline",
+  "senses": [
+   "yönerge; kılavuz"
+  ],
+  "ex": [
+   "Bu yönergeler yiyeceklerin güvenli biçimde nasıl saklanacağını açıklıyor.",
+   "Veri toplamaya ilişkin açık yönergeler, araştırmacıların çalışmalarının kalitesini korurken katılımcıları korumalarına yardımcı olabilir."
+  ],
+  "col": [
+   "yönergeleri izlemek",
+   "yönerge yayımlamak",
+   "güvenlik yönergeleri",
+   "açık yönergeler"
+  ],
+  "tip": "Genellikle çoğul guidelines olarak kullanılır. Zorunlu yasal kuralları değil, rehber niteliğindeki ilkeleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "walnut",
+  "senses": [
+   "ceviz",
+   "ceviz ağacı; ceviz kerestesi"
+  ],
+  "ex": [
+   "Bir ceviz kırdı ve içini benimle paylaştı.",
+   "Ceviz ağacı yetiştirmek, çiftçilere ek gelir sağlarken kırsal alanlardaki ağaç örtüsünü de artırabilir."
+  ],
+  "col": [
+   "ceviz kabuğu",
+   "ceviz ağacı",
+   "ceviz yağı",
+   "ceviz mobilya"
+  ],
+  "tip": "Meyve ve ağaç anlamında sayılabilir (a walnut, a walnut tree); ahşap anlamında genellikle sayılamaz (walnut wood).",
+  "note": ""
+ },
+ {
+  "id": "airy",
+  "senses": [
+   "ferah; havadar",
+   "hafif; narin",
+   "umursamaz; rahat"
+  ],
+  "ex": [
+   "Her iki pencere de ardına kadar açıkken yatak odası ferah hissettiriyor.",
+   "Özellikle sıcak iklimlerdeki okullarda aydınlık ve ferah sınıflar daha rahat bir öğrenme ortamı yaratabilir."
+  ],
+  "col": [
+   "hafif ve ferah",
+   "ferah bir oda",
+   "hafif dalga"
+  ],
+  "tip": "Oda için 'ferah, havadar' anlamındadır. Kumaş veya görünüm için 'hafif, narin' demektir; 'havayla dolu' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "recruit",
+  "senses": [
+   "işe almak; katmak",
+   "yeni üye; acemi er"
+  ],
+  "ex": [
+   "Hayvan barınağı hafta sonu vardiyaları için gönüllü arıyor.",
+   "Hastaneler, artan sağlık hizmeti talebini karşılamak için daha fazla hemşire almak zorunda."
+  ],
+  "col": [
+   "personel almak",
+   "gönüllü toplamak",
+   "yeni bir üye",
+   "işe alım ajansı"
+  ],
+  "tip": "recruit hem fiil hem sayılabilir isim olarak kullanılır. İşe alım faaliyetinin adı recruitment'tır.",
+  "note": ""
+ },
+ {
+  "id": "luxurious",
+  "senses": [
+   "lüks; konforlu"
+  ],
+  "ex": [
+   "Otel odamızda denize bakan lüks bir banyo vardı.",
+   "Lüks tatil köyleri zengin ziyaretçileri çekse de yüksek su tüketimleri yerel kaynaklar üzerinde baskı yaratabilir."
+  ],
+  "col": [
+   "lüks otel",
+   "lüks yaşam tarzı",
+   "lüks konaklama"
+  ],
+  "tip": "luxurious konfor ve pahalılığı anlatır. luxuriant ise bitki örtüsünün gür ve bereketli olmasını anlatır; karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "ease",
+  "senses": [
+   "hafifletmek; dindirmek",
+   "rahatlık; huzur",
+   "usulca yerleştirmek"
+  ],
+  "ex": [
+   "Sıcak bir banyo omuzlarımdaki ağrıyı hafifletmeye yardımcı oldu.",
+   "Toplu taşımanın iyileştirilmesi trafik sıkışıklığını azaltabilir ve banliyö sakinleri için iş imkânlarını daha erişilebilir kılabilir."
+  ],
+  "col": [
+   "ağrıyı hafifletmek",
+   "sıkışıklığı azaltmak",
+   "kolaylıkla",
+   "rahat, huzurlu"
+  ],
+  "tip": "with ease 'zahmetsizce, kolaylıkla' anlamına; at ease ise 'rahat, kaygısız' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tackle",
+  "senses": [
+   "ele almak; çözmeye girişmek",
+   "top kapmak; müdahale etmek",
+   "ekipman; takım"
+  ],
+  "ex": [
+   "Misafirlerimiz gelmeden önce şu dağınık mutfağı toparlayalım.",
+   "Hükümetler, uygun fiyatlı inşaatı destekleyerek ve toplu taşımaya erişimi iyileştirerek konut sıkıntısını ele almalıdır."
+  ],
+  "col": [
+   "bir sorunu ele almak",
+   "eşitsizlikle mücadele etmek",
+   "olta takımı",
+   "rakibe müdahale etmek"
+  ],
+  "tip": "tackle doğrudan nesne alır: tackle the problem. Araya with eklemeyin. Kararlı ve doğrudan bir girişimi vurgular.",
+  "note": ""
+ },
+ {
+  "id": "compartment",
+  "senses": [
+   "bölme; göz"
+  ],
+  "ex": [
+   "Anahtarlarını çantanın içindeki küçük bölmede tut.",
+   "Trenlerdeki ayrı kompartımanlar, uzun yolculuklarda yolculara daha fazla mahremiyet sağlayabilir."
+  ],
+  "col": [
+   "saklama bölmesi",
+   "torpido gözü",
+   "tren kompartımanı"
+  ],
+  "tip": "Büyük bir alan içinde ayrılmış bölümü anlatır (çanta, araç, tren gibi). department (bölüm, daire) ile karıştırmayın.",
+  "note": ""
+ }
+]

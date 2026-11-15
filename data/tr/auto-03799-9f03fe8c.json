@@ -1,0 +1,278 @@
+[
+ {
+  "id": "circular",
+  "senses": [
+   "dairesel; yuvarlak",
+   "döngüsel; kapalı devre",
+   "bildiri; genelge"
+  ],
+  "ex": [
+   "Oturma odamızdaki kahve masasının altına yuvarlak bir halı serdik.",
+   "Dairesel ekonomi, malzemeleri mümkün olduğunca uzun süre kullanımda tutarak atığı azaltmayı amaçlar."
+  ],
+  "col": [
+   "yuvarlak masa",
+   "dairesel güzergâh",
+   "dairesel ekonomi",
+   "döngüsel mantık"
+  ],
+  "tip": "Circular argument, sonucu kanıt olarak kullanan döngüsel mantık hatasıdır; zayıf akıl yürütmeyi eleştirirken işe yarar.",
+  "note": ""
+ },
+ {
+  "id": "toll",
+  "senses": [
+   "geçiş ücreti; köprü/yol parası",
+   "kayıp; zarar",
+   "tok tok çalmak; yavaşça çan çalmak"
+  ],
+  "ex": [
+   "Köprüden geçmeden önce geçiş ücreti ödedik.",
+   "Uzun çalışma saatleri çalışanların fiziksel sağlığı ve aile ilişkileri üzerinde ağır bir tahribat yaratabilir."
+  ],
+  "col": [
+   "geçiş ücreti ödemek",
+   "ölü sayısı",
+   "üzerinde tahribat yaratmak",
+   "çan çalmak"
+  ],
+  "tip": "'take a toll on' kalıbı 'zarar vermek, yıpratmak' anlamındadır. 'toll' fiil olarak yalnızca çan çalmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sexual",
+  "senses": [
+   "cinsel; cinsellikle ilgili",
+   "eşeyli; cinsiyetli üreme ile ilgili"
+  ],
+  "ex": [
+   "Klinik, cinsel sağlık konusunda gizli danışmanlık hizmeti sunuyor.",
+   "Okullar, gençlerin bilinçli kararlar almasına yardımcı olmak için yaşa uygun cinsel sağlık eğitimi verebilir."
+  ],
+  "col": [
+   "cinsel sağlık",
+   "eşeyli üreme",
+   "cinsel çekim"
+  ],
+  "tip": "'sexual' 'cinsellikle ilgili' anlamına gelir; 'sexy' (seksi, çekici) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "participation",
+  "senses": [
+   "katılım; iştirak"
+  ],
+  "ex": [
+   "Katılımınız, mahalle temizlik etkinliğini çok daha keyifli hale getirdi.",
+   "Toplumsal projelere aktif katılım, sosyal bağları güçlendirebilir ve sakinlere daha fazla aidiyet duygusu verebilir."
+  ],
+  "col": [
+   "-e katılım",
+   "aktif katılım",
+   "halkın katılımı",
+   "katılımı teşvik etmek"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; bir etkinliğe katılım için 'participation in' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fascinate",
+  "senses": [
+   "büyülemek; hayran bırakmak"
+  ],
+  "ex": [
+   "Akvaryumdaki renkli balıklar çocukları büyüledi.",
+   "Antik uygarlıklar, karmaşık pratik sorunlara sergiledikleri olağanüstü çözümlerle araştırmacıları büyülemeye devam ediyor."
+  ],
+  "col": [
+   "izleyicileri büyülemek",
+   "-e hayran olmak",
+   "hep büyülemek"
+  ],
+  "tip": "Şeyler için 'fascinating' (büyüleyici), kişiler için 'fascinated' (büyülenmiş) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "axis",
+  "senses": [
+   "eksen; dönme ekseni",
+   "koordinat ekseni"
+  ],
+  "ex": [
+   "Küre, eğik ekseni etrafında pürüzsüzce döner.",
+   "Yatay eksen zamanı gösterirken dikey eksen ortalama hane enerji tüketimindeki değişimleri gösterir."
+  ],
+  "col": [
+   "ekseni etrafında dönmek",
+   "yatay eksen",
+   "dikey eksen",
+   "dönme ekseni"
+  ],
+  "tip": "Çoğulu 'axes' /ˈæksiːz/ biçimindedir; 'axe' (balta) kelimesinin çoğulu 'axes' ile karışabilir, bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "statistics",
+  "senses": [
+   "istatistik; veriler",
+   "istatistik bilimi"
+  ],
+  "ex": [
+   "Bu veriler, evimizin ne kadar su kullandığını gösteriyor.",
+   "Resmî istatistikler, kırsal alanlarda yükseköğretime erişimin önemli ölçüde arttığını gösteriyor."
+  ],
+  "col": [
+   "resmî istatistikler",
+   "istatistik derlemek",
+   "istatistikler gösteriyor ki",
+   "istatistik okumak"
+  ],
+  "tip": "Veri anlamında kullanıldığında yüklem çoğul, bilim dalı anlamında kullanıldığında tekil olur.",
+  "note": ""
+ },
+ {
+  "id": "storage",
+  "senses": [
+   "saklama; depolama",
+   "veri depolama; depolama alanı"
+  ],
+  "ex": [
+   "Bu kutular, tüm kış kıyafetlerim için kullanışlı bir saklama alanı sağlıyor.",
+   "Gelişmiş enerji depolaması, güneş ve rüzgâr olmadığında yenilenebilir elektriği daha güvenilir hale getirebilir."
+  ],
+  "col": [
+   "depolama alanı",
+   "enerji depolama",
+   "bulut depolama",
+   "depoda"
+  ],
+  "tip": "'storage' genellikle sayılamaz. Bir depo odası için 'storeroom' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "conjunction",
+  "senses": [
+   "bağlaç",
+   "birleşim; eşzamanlılık"
+  ],
+  "ex": [
+   "Öğretmenimiz bağlaçları açıklamak için renkli kartlar kullandı.",
+   "Toplu taşıma iyileştirmeleri, gereksiz araba yolculuklarını caydıran politikalarla birlikte uygulandığında en iyi sonucu veriyor."
+  ],
+  "col": [
+   "-ile birlikte",
+   "bağlaç",
+   "bağlaç (bağlayıcı)"
+  ],
+  "tip": "'in conjunction with' kalıbı 'birlikte, -ile bağlantılı olarak' anlamına gelir ve resmi metinlerde sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "meditate",
+  "senses": [
+   "meditasyon yapmak; nefes almak",
+   "düşünmek; derin düşünmek"
+  ],
+  "ex": [
+   "Her sabah kahvaltıdan önce on dakika meditasyon yapıyorum.",
+   "Bazı işverenler, iş yerindeki stresle başa çıkmanın bir yolu olarak personeli molalarda meditasyon yapmaya teşvik ediyor."
+  ],
+  "col": [
+   "her gün meditasyon yapmak",
+   "bir şey üzerine düşünmek",
+   "meditasyon yapmayı öğrenmek"
+  ],
+  "tip": "Bir konu üzerine derinlemesine düşünmek için 'meditate on' veya 'meditate upon' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "anxious",
+  "senses": [
+   "endişeli; kaygılı",
+   "hevesli; can atan"
+  ],
+  "ex": [
+   "Sınav sonuçlarımı beklerken kaygılandım.",
+   "Okulda kariyer rehberliği olmadığında öğrenciler geleceklerine dair endişelenebilirler."
+  ],
+  "col": [
+   "-den endişelenmek",
+   "hevesle memnun etmeye çalışan",
+   "endişe duymak"
+  ],
+  "tip": "'anxious about' endişeyi, 'anxious to do' ise yapmaya hevesli olmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "justify",
+  "senses": [
+   "haklı çıkarmak; gerekçelendirmek"
+  ],
+  "ex": [
+   "Bu kış bir mont daha almayı haklı çıkaramıyorum.",
+   "Hükümetler, büyük altyapı harcamalarını geniş topluluk için açık faydalar göstererek gerekçelendirmek zorundadır."
+  ],
+  "col": [
+   "bir kararı haklı çıkarmak",
+   "maliyeti haklı çıkarmak",
+   "bir şey yapmayı haklı çıkarmak"
+  ],
+  "tip": "'justify' fiilinden sonra isim ya da -ing biçimi gelir; to-infinitive kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "fragrance",
+  "senses": [
+   "güzel koku; aroma",
+   "parfüm; koku verici madde"
+  ],
+  "ex": [
+   "Taze güllerin kokusu küçük mutfağı doldurdu.",
+   "Bazı tüketiciler, kokulu bileşenlerin hassas cildi tahriş edebilmesi nedeniyle katkı maddesi içermeyen ürünleri tercih ediyor."
+  ],
+  "col": [
+   "narin koku",
+   "çiçeksi koku",
+   "eklenmiş koku",
+   "kokusuz ürünler"
+  ],
+  "tip": "'fragrance' genellikle hoş kokuları anlatır; 'smell' ise hem olumlu hem olumsuz kokular için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "genius",
+  "senses": [
+   "dahi; üstün zekâlı kişi",
+   "olağanüstü yetenek; deha"
+  ],
+  "ex": [
+   "Kız kardeşim kırık oyuncakları tamir etmede bir dahi.",
+   "Yaratıcı deha, okullar öğrencilerin sadece bilgileri ezberlemek yerine denemelerine izin verdiğinde sıklıkla gelişir."
+  ],
+  "col": [
+   "matematik dahisi",
+   "yaratıcı deha",
+   "-de usta olmak",
+   "dahice bir fikir"
+  ],
+  "tip": "Kişiler için sayılabilir (a genius), özel bir yetenek için genellikle sayılamaz kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bibliography",
+  "senses": [
+   "kaynakça; bibliyografya"
+  ],
+  "ex": [
+   "Ödevimin kaynakçasına eksik olan kitabı ekledim.",
+   "Dikkatle hazırlanmış bir kaynakça, okuyucuların kaynakları bulmasına ve akademik bir tezi destekleyen kanıtları incelemesine olanak tanır."
+  ],
+  "col": [
+   "kaynakça hazırlamak",
+   "açıklamalı kaynakça",
+   "kapsamlı kaynakça"
+  ],
+  "tip": "'bibliography' kaynak listesidir; 'biography' ise bir kişinin yaşam öyküsüdür. İkisi karıştırılmamalıdır.",
+  "note": ""
+ }
+]

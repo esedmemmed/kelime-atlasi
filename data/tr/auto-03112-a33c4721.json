@@ -1,0 +1,277 @@
+[
+ {
+  "id": "hunger",
+  "senses": [
+   "açlık; yiyecek yokluğu",
+   "özlem; istek",
+   "özlemek; çok istemek"
+  ],
+  "ex": [
+   "Sıcak bir kase çorba açlığımı hemen giderdi.",
+   "Dünyadaki açlığı azaltmak, güvenilir gıda kaynaklarının yanı sıra eğitime ve istihdama daha iyi erişim gerektirir."
+  ],
+  "col": [
+   "açlığını gidermek",
+   "açlıkla mücadele etmek",
+   "bilgi açlığı",
+   "başarıya duyulan susamışlık"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz. Bir şeye duyulan özlemi anlatırken hunger for kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fever",
+  "senses": [
+   "ateş; yüksek ateş",
+   "çılgınlık; coşku"
+  ],
+  "ex": [
+   "Ateşi olduğu için yatakta kaldı.",
+   "Süregelen ateş bir enfeksiyonun işareti olabilir ve nitelikli bir sağlık uzmanı tarafından değerlendirilmelidir."
+  ],
+  "col": [
+   "ateşi olmak",
+   "yüksek ateş",
+   "hafif ateş",
+   "futbol çılgınlığı"
+  ],
+  "tip": "Ateşi olmak için have a fever ya da have a temperature kalıpları kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "locker",
+  "senses": [
+   "kilitli dolap; emanet dolabı"
+  ],
+  "ex": [
+   "Spor salonunda ayakkabılarımı bir dolapta bırakmıştım.",
+   "Her öğrenciye bir dolap verilmesi, okulda taşınan çantaların ağırlığını azaltabilir."
+  ],
+  "col": [
+   "soyunma odası",
+   "okul dolabı",
+   "dolap anahtarı"
+  ],
+  "tip": "Locker, kişisel eşyaları koymak için kullanılan küçük dolaptır; kilitleyen kişi anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "worldwide",
+  "senses": [
+   "dünya çapında; küresel",
+   "dünya genelinde; her yerde"
+  ],
+  "ex": [
+   "Grubun yeni şarkısı dünya çapında bir hit oldu.",
+   "Karbon emisyonlarını azaltmak ve toplulukları iklim değişikliğinin etkilerinden korumak için küresel iş birliği şarttır."
+  ],
+  "col": [
+   "dünya çapında talep",
+   "dünya çapında tanınma",
+   "dünya genelinde mevcut",
+   "dünya çapında dağıtım"
+  ],
+  "tip": "Hem sıfat hem zarf olarak kullanılır: sell worldwide (dünya genelinde satmak) gibi.",
+  "note": ""
+ },
+ {
+  "id": "lately",
+  "senses": [
+   "son zamanlarda; yakınlarda"
+  ],
+  "ex": [
+   "Son zamanlarda iyi uyuyor musun, yoksa yorgun hissediyor musun?",
+   "Son zamanlarda araştırmacılar, yeşil alanlara erişim ile ruh sağlığı arasındaki ilişkiye daha fazla dikkat ediyor."
+  ],
+  "col": [
+   "son zamanlarda olmak",
+   "son zamanlara kadar",
+   "son zamanlarda daha sık"
+  ],
+  "tip": "Genellikle present perfect ile kullanılır. Late (geç) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "clip",
+  "senses": [
+   "klips; ataç",
+   "kısa film parçası",
+   "klipslemek; kırpmak"
+  ],
+  "ex": [
+   "Saçını geride tutmak için bir klips kullandı.",
+   "Öğretmenler, sınıf tartışmasından önce karmaşık bilimsel kavramları tanıtmak için kısa bir video klip kullanabilir."
+  ],
+  "col": [
+   "kağıt klipsi",
+   "video klip",
+   "tırnaklarını kesmek",
+   "bir şeyi üzerine klipslemek"
+  ],
+  "tip": "Bir şeyi başka bir şeyin üzerine takmak için clip onto kullanılır. Kısa video parçası için de clip denir.",
+  "note": ""
+ },
+ {
+  "id": "primary",
+  "senses": [
+   "birincil; başlıca",
+   "ilkokul; ilköğretim",
+   "özgün; doğrudan"
+  ],
+  "ex": [
+   "Asıl kaygımız çocukları güvende tutmak.",
+   "İlkokul eğitimine yapılan yatırım, çocuklara gelecekteki öğrenme için daha sağlam bir temel vererek eşitsizliği azaltabilir."
+  ],
+  "col": [
+   "birincil kaygı",
+   "ilkokul",
+   "birincil kaynak",
+   "temel amaç"
+  ],
+  "tip": "Primary school ilkokul demektir. Primarily ise 'esas olarak' anlamında bir zarftır.",
+  "note": ""
+ },
+ {
+  "id": "obvious",
+  "senses": [
+   "belli; açık"
+  ],
+  "ex": [
+   "Çamurlu ayak izleri, köpeğin saklandığı yeri belli etti.",
+   "Bisiklet sürmenin çevresel faydaları açık, ancak daha fazla insanı bisiklete teşvik etmek için daha güvenli yollar gerekiyor."
+  ],
+  "col": [
+   "belirgin bir avantaj",
+   "açık nedenlerden dolayı",
+   "herkes için açık"
+  ],
+  "tip": "It is obvious that… kalıbı 'açıktır ki…' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mop",
+  "senses": [
+   "paspas",
+   "paspaslamak; silmek"
+  ],
+  "ex": [
+   "Mutfağın çamurlu zeminini temizlemek için paspas kullandım.",
+   "Personel, okullarda ve diğer kamu binalarında hijyeni korumak için ortak zeminleri düzenli olarak paspaslamalıdır."
+  ],
+  "col": [
+   "yeri paspaslamak",
+   "dökülen sıvıyı silmek",
+   "paspas ve kova"
+  ],
+  "tip": "Fiilin çekimlerinde son harf iki kez yazılır: mopped, mopping.",
+  "note": ""
+ },
+ {
+  "id": "baby-sitter",
+  "senses": [
+   "geçici çocuk bakıcısı"
+  ],
+  "ex": [
+   "Bakıcı, kızımıza yatmadan önce bir hikâye okudu.",
+   "Güvenilir bir bakıcı tutmak, ebeveynlerin ara sıra yaptıkları akşam işleriyle aile sorumluluklarını dengelemesine yardımcı olabilir."
+  ],
+  "col": [
+   "bakıcı tutmak",
+   "güvenilir bakıcı",
+   "deneyimli bakıcı"
+  ],
+  "tip": "Modern yazımda genellikle babysitter biçimi kullanılır. Anlamı, geçici olarak çocuklara bakan kişidir.",
+  "note": ""
+ },
+ {
+  "id": "approve",
+  "senses": [
+   "onaylamak; kabul etmek",
+   "uygun görmek; onaylamak"
+  ],
+  "ex": [
+   "Müdürüm, bir gün izin talebimi onayladı.",
+   "Yerel yönetimler konut projelerini yalnızca yeterli ulaşım ve temel hizmetler mevcut olduğunda onaylamalıdır."
+  ],
+  "col": [
+   "bir öneriyi onaylamak",
+   "bir şeyi uygun görmek",
+   "başvuruyu onaylamak"
+  ],
+  "tip": "Resmi olarak onaylamak için approve, bir şeyi uygun bulmak için approve of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "presentation",
+  "senses": [
+   "sunum; anlatım",
+   "sunuş; görünüm",
+   "takdim; ödül töreni"
+  ],
+  "ex": [
+   "Kız kardeşimin önünde sunumumu prova ettim.",
+   "Grup sunumu yapmak, öğrencilerin iletişim becerilerini geliştirmelerine ve sorumlulukları nasıl paylaşacaklarını öğrenmelerine olanak tanır."
+  ],
+  "col": [
+   "sunum yapmak",
+   "sözlü sunum",
+   "yemeğin sunumu",
+   "ödül töreni"
+  ],
+  "tip": "Sunum yapmak için give a presentation kalıbı kullanılır. Fiil olan present ile isim olan presentation arasında vurgu farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "limit",
+  "senses": [
+   "sınır; limit",
+   "sınırlamak; kısıtlamak"
+  ],
+  "ex": [
+   "Bu çantanın taşıyabileceği bir sınır var.",
+   "Hükümetler, temiz üretim yöntemlerini benimseyen işletmelere mali destek sağlarken endüstriyel emisyonları sınırlamalıdır."
+  ],
+  "col": [
+   "hız sınırı",
+   "zaman sınırı",
+   "sınır koymak",
+   "bir şeyi ile sınırlamak"
+  ],
+  "tip": "Limit A to B kalıbı 'A'yı B ile sınırlamak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "striped",
+  "senses": [
+   "çizgili; çizgili desenli"
+  ],
+  "ex": [
+   "Kız çizgili bir gömlek ve koyu mavi bir kot giymişti.",
+   "Bazı hayvanların çizgili tüyleri, doğal yaşam alanlarında fark edilmemelerine yardımcı olabilir."
+  ],
+  "col": [
+   "çizgili gömlek",
+   "çizgili kumaş",
+   "çizgili desen"
+  ],
+  "tip": "Striped 'çizgili' anlamına gelir. Strip fiilinin geçmiş zamanı ise stripped biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "brick",
+  "senses": [
+   "tuğla"
+  ],
+  "ex": [
+   "Bahçe duvarındaki gevşek bir tuğla düştü.",
+   "Yıkılan binalardan çıkan tuğlaların yeniden kullanılması, inşaat atıklarını azaltabilir ve eski mahallelerin karakterini koruyabilir."
+  ],
+  "col": [
+   "tuğla duvar",
+   "tuğla örmek",
+   "kırmızı tuğla"
+  ],
+  "tip": "Tek bir tuğla sayılabilir. Yapı malzemesi olarak genel anlamda kullanıldığında ise sayılamaz.",
+  "note": ""
+ }
+]

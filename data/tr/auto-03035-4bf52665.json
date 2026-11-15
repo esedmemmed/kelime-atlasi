@@ -1,0 +1,277 @@
+[
+ {
+  "id": "worm",
+  "senses": [
+   "solucan",
+   "solucan; virüs"
+  ],
+  "ex": [
+   "Bahçedeki ıslak toprağın içinden bir solucan çıkıp kıvrandı.",
+   "Solucanlar organik maddeleri parçalayıp toprağın havalanmasını sağlayarak toprak kalitesini artırır."
+  ],
+  "col": [
+   "yer solucanları ve diğer solucanlar",
+   "bilgisayar solucanı",
+   "çözümü zor karmaşık bir durum"
+  ],
+  "tip": "worm genel olarak solucan anlamındadır; özellikle toprak solucanı için earthworm kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "drunk",
+  "senses": [
+   "sarhoş",
+   "kendinden geçmiş",
+   "ayyaş; sarhoş"
+  ],
+  "ex": [
+   "Yürüyerek eve güvenle dönemeyecek kadar sarhoştu.",
+   "Farkındalık kampanyaları, özellikle genç yetişkinler arasında sarhoş sürücülerin neden olduğu kazaları azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "sarhoş olmak",
+   "alkollü araç kullanma",
+   "güçten sarhoş olmak"
+  ],
+  "tip": "Genellikle yüklem olarak kullanılır (He was drunk). İsimden önce de kullanılabilir; drunken ise çoğunlukla isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "brother-in-law",
+  "senses": [
+   "enişte; kayınbirader"
+  ],
+  "ex": [
+   "Enişte, kız kardeşime yeni koltuklarını merdivenlerden çıkarmasında yardım etti.",
+   "Çocuk bakımını enişte gibi akrabalarla paylaşmak, çalışan ebeveynlerin günlük sorumluluklarını yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kayınbiraderim / eniştem",
+   "gelecekteki kayınbirader"
+  ],
+  "tip": "Çoğulu brothers-in-law olur. Kuzenler ya da amca çocukları için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "miserable",
+  "senses": [
+   "mutsuz; üzgün",
+   "berbat; sefil"
+  ],
+  "ex": [
+   "Yağmur piknik planlarımızı mahvedince kendimi çok mutsuz hissettim.",
+   "Aşırı kalabalık konutlar, sakinlerin fiziksel ve ruhsal sağlığını olumsuz etkileyen sefil yaşam koşulları yaratabilir."
+  ],
+  "col": [
+   "kendini mutsuz hissetmek",
+   "berbat hava",
+   "sefil koşullar"
+  ],
+  "tip": "Hem kişinin ruh halini hem de hava durumunu ya da yaşam koşullarını tanımlayabilir.",
+  "note": ""
+ },
+ {
+  "id": "shame",
+  "senses": [
+   "utanç",
+   "yazık; üzücü durum",
+   "utandırmak"
+  ],
+  "ex": [
+   "En yakın arkadaşına yalan söyledikten sonra utanç duydu.",
+   "Okullar zorbalıkla mücadele ederken öğrencilerin yardım istemesini engelleyecek bir utanç kültürü yaratmamalıdır."
+  ],
+  "col": [
+   "utanç duymak",
+   "utanç duygusu",
+   "gerçekten yazık",
+   "birini utandırarak bir şey yaptırmak"
+  ],
+  "tip": "Utanç anlamında genellikle sayılamaz isimdir. It's a shame kalıbı ise 'ne yazık' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "willing",
+  "senses": [
+   "istekli; razı",
+   "hevesli; istekli"
+  ],
+  "ex": [
+   "Bu hafta sonu eşyalarını taşımana yardım etmeye razıyım.",
+   "Fiyatlar uygun kaldığı ve bilgiler net olduğunda tüketiciler sürdürülebilir ürünleri satın almaya daha istekli olabilir."
+  ],
+  "col": [
+   "bir şeyi yapmaya istekli olmak",
+   "istekli gönüllü",
+   "istekli yardımcı"
+  ],
+  "tip": "be willing to do kalıbı 'yapmaya razı/istekli olmak' anlamındadır; gelecek zamanla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "nightlife",
+  "senses": [
+   "gece hayatı; gece eğlenceleri"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra nehir kenarında şehrin gece hayatının tadını çıkardık.",
+   "Canlı bir gece hayatı turistleri çekip iş imkânları yaratabilir, ancak gürültü yerel sakinleri rahatsız edebilir."
+  ],
+  "col": [
+   "canlı gece hayatı",
+   "gece hayatının tadını çıkarmak",
+   "gece hayatı ortamı"
+  ],
+  "tip": "Sayılamaz isimdir; çoğul biçimi (nightlives) kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "icy",
+  "senses": [
+   "buzlu; buz tutmuş",
+   "buz gibi; çok soğuk",
+   "soğuk; mesafeli"
+  ],
+  "ex": [
+   "Bu sabah buzlu patikada yavaşça yürüdük.",
+   "Yerel yönetimler, kazaları azaltmak ve güvenilir toplu taşımayı sürdürmek için buzlu yollara zamanında müdahale etmelidir."
+  ],
+  "col": [
+   "buzlu yollar",
+   "buz gibi su",
+   "buz gibi bakış"
+  ],
+  "tip": "Hava veya yüzey için 'buzlu/buz gibi', kişi için 'soğuk, mesafeli' anlamına gelir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "layer",
+  "senses": [
+   "kat; tabaka",
+   "katman katman koymak"
+  ],
+  "ex": [
+   "İnce bir toz tabakası rafı kaplamıştı.",
+   "Eski evlerde ek bir yalıtım katmanı eklemek enerji tüketimini önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "ince bir tabaka",
+   "bir toz tabakası",
+   "koruyucu katman",
+   "dış katman"
+  ],
+  "tip": "'Bir kat/tabaka' anlamında a layer of kalıbı kullanılır. Fiil olarak da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "rare",
+  "senses": [
+   "nadir; seyrek",
+   "az pişmiş"
+  ],
+  "ex": [
+   "Dün gölün kenarında nadir bir kuş gördük.",
+   "Nadir türleri korumak, habitat restorasyonuna uzun vadeli yatırım ve yasa dışı ticarete karşı etkili önlemler gerektirir."
+  ],
+  "col": [
+   "nadir türler",
+   "nadir fırsat",
+   "az pişmiş biftek"
+  ],
+  "tip": "Et için rare, medium'dan daha az pişmiş demektir; Türkçede 'az pişmiş' karşılığı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dough",
+  "senses": [
+   "hamur",
+   "para (argo)"
+  ],
+  "ex": [
+   "Mina un serpili mutfak masasında hamuru yoğurdu.",
+   "Ekmek hamurunun yavaş yavaş kabarmasına izin vermek, yapay katkı maddelerine gerek kalmadan ekmek kalitesini artırabilir."
+  ],
+  "col": [
+   "hamuru yoğurmak",
+   "hamuru açmak",
+   "ekmek hamuru",
+   "hamurun kabarmasını beklemek"
+  ],
+  "tip": "Sayılamaz isimdir. Sulu hamur için batter kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "porter",
+  "senses": [
+   "hamal; bagaj taşıyıcı",
+   "kapıcı; kapı görevlisi"
+  ],
+  "ex": [
+   "Hamal ağır bavullarımızı asansöre kadar taşıdı.",
+   "Oteller, her hamalı sınırlı hareket kabiliyetine sahip misafirlere yardım edecek şekilde eğiterek erişilebilirliği artırabilir."
+  ],
+  "col": [
+   "otel hamalı",
+   "bagaj hamalı",
+   "gece kapıcısı"
+  ],
+  "tip": "Her türlü görevliyi değil, bagaj taşıyan ya da bina girişini denetleyen kişiyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "lack",
+  "senses": [
+   "eksiklik; yokluk",
+   "yoksun olmak"
+  ],
+  "ex": [
+   "Uyku eksikliği bütün sabah beni yorgun hissettirdi.",
+   "Birçok kırsal okulda öğrencilere pratik fen dersleri verebilmek için gereken kaynaklar yoktur."
+  ],
+  "col": [
+   "kaynak eksikliği",
+   "özgüvenden yoksun olmak",
+   "fon yetersizliği nedeniyle",
+   "uyku eksikliği"
+  ],
+  "tip": "İsim olarak a lack of kalıbı kullanılır; fiil olarak doğrudan nesne alır, lack of denmez.",
+  "note": ""
+ },
+ {
+  "id": "failure",
+  "senses": [
+   "başarısızlık; başarısız olan şey",
+   "arıza; yetmezlik",
+   "yerine getirmeme; ihmal"
+  ],
+  "ex": [
+   "İlk başarısızlığına rağmen ekmek pişirmeyi yeniden denedi.",
+   "Okullar, başarısızlığı öğrencinin sınırlı yeteneğinin kanıtı olarak değil, öğrenme fırsatı olarak görmelidir."
+  ],
+  "col": [
+   "başarısızlıkla sonuçlanmak",
+   "elektrik kesintisi",
+   "kalp yetmezliği",
+   "yükümlülüğü yerine getirmeme"
+  ],
+  "tip": "Genel anlamda 'başarısızlık' sayılamaz; belirli bir başarısız durum veya arıza için a failure denir.",
+  "note": ""
+ },
+ {
+  "id": "deaf",
+  "senses": [
+   "sağır; işitme engelli"
+  ],
+  "ex": [
+   "Sağır kuzenim bana günlük hayatta işe yarayan bazı işaretleri öğretti.",
+   "Altyazı ve işaret dili çevirisi sağlamak, kamuya açık bilgilerin sağır insanlar için daha erişilebilir olmasını sağlayabilir."
+  ],
+  "col": [
+   "sağır insanlar",
+   "sağır doğmak",
+   "sağırlaşmak"
+  ],
+  "tip": "Nezaket için 'işitme engelli' tercih edilebilir. Büyük harfle Deaf, kültürel kimliği vurgular.",
+  "note": ""
+ }
+]

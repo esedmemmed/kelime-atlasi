@@ -1,0 +1,266 @@
+[
+ {
+  "id": "insofar",
+  "senses": [
+   "-dığı ölçüde; -dığı kadarıyla"
+  ],
+  "ex": [
+   "Yoğun programım izin verdiği ölçüde yardım edeceğim.",
+   "Çevrim içi öğrenme, öğrencilerin güvenilir internete erişimi olduğu ve öğretmenlerden yeterli destek aldığı ölçüde etkilidir."
+  ],
+  "col": [
+   "mümkün olduğu kadarıyla",
+   "etkilediği ölçüde",
+   "bildiğimiz kadarıyla"
+  ],
+  "tip": "Resmi bir ifadedir ve genellikle arkasından bir yan cümle gelir. 'As far as' ile eş anlamlıdır ama daha resmi bir tercihtir.",
+  "note": ""
+ },
+ {
+  "id": "molest",
+  "senses": [
+   "tacize uğratmak; cinsel taciz",
+   "rahatsız etmek; musallat olmak"
+  ],
+  "ex": [
+   "Kulüp, konuklara taciz etmeye çalışan herkesi yasaklıyor.",
+   "Toplu taşıma yetkilileri, başkalarını taciz eden kişilerin hedef aldığı yolcular için açık bildirim prosedürleri sunmalıdır."
+  ],
+  "col": [
+   "birini taciz etmek",
+   "cinsel olarak taciz etmek"
+  ],
+  "tip": "Modern İngilizcede neredeyse her zaman cinsel taciz anlamında kullanılır. Sıradan rahatsız etme için 'bother' ya da 'disturb' tercih edin.",
+  "note": "Cinsel saldırı içeren hassas bir kelime; sıradan “rahatsız etme” anlamında değil."
+ },
+ {
+  "id": "subdivide",
+  "senses": [
+   "alt bölümlere ayırmak"
+  ],
+  "ex": [
+   "Çekmeceyi küçük ahşap bölmelerle alt bölümlere ayırdık.",
+   "Araştırmacılar, toplu taşımaya yönelik tutumlardaki farklılıkları belirlemek için anket katılımcılarını sık sık yaş gruplarına ayırır."
+  ],
+  "col": [
+   "gruplara ayırmak",
+   "araziyi parsellemek",
+   "bir kategoriyi bölmek"
+  ],
+  "tip": "Genellikle 'subdivide A into B' kalıbıyla kullanılır: A'yı B'ye ayırmak. Bölünen parçalar orijinalinden daha küçüktür.",
+  "note": ""
+ },
+ {
+  "id": "mutation",
+  "senses": [
+   "mutasyon; genetik değişim"
+  ],
+  "ex": [
+   "Bir mutasyon, bu çiçeğe alışılmadık beyaz taçyaprakları kazandırdı.",
+   "Genetik bir mutasyon hastalık riskini artırabilir; ancak çevresel etkenler de semptomların sonunda ortaya çıkıp çıkmayacağını etkiler."
+  ],
+  "col": [
+   "genetik mutasyon",
+   "kendiliğinden mutasyon",
+   "mutasyon oranı"
+  ],
+  "tip": "Çoğu zaman olumsuz sanılır, ama mutasyonlar zararsız ya da yararlı da olabilir. Biyolojik bağlamda kullanın, genel bir 'değişim' anlamında değil.",
+  "note": ""
+ },
+ {
+  "id": "disentangle",
+  "senses": [
+   "çözmek; açmak",
+   "ayrıştırmak; kurtarmak"
+  ],
+  "ex": [
+   "Kulaklığımın kablosuna dolanmış kolyeyi dikkatle çözdüm.",
+   "Araştırmacılar, halk sağlığındaki farklılıkları incelerken gelir ve eğitimin etkilerini birbirinden ayırmalıdır."
+  ],
+  "col": [
+   "kabloları çözmek",
+   "etkilerini ayırt etmek",
+   "kendini ...den kurtarmak"
+  ],
+  "tip": "'Disentangle A from B' kalıbıyla kullanılır: A'yı B'den ayırmak ya da kurtarmak. Mecazi anlamda da sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "indignant",
+  "senses": [
+   "öfkeli; gücenmiş"
+  ],
+  "ex": [
+   "Biri sıraya girip önüne geçtiğinde çok öfkelendi.",
+   "Sakinler, meclisin tek halka açık yüzme havuzunu kapatma kararına çok kızgındı."
+  ],
+  "col": [
+   "bir şeye kızgın olmak",
+   "öfkeli bir tepki",
+   "öneriye öfkelenmiş"
+  ],
+  "tip": "Haksızlık ya da aşağılanma karşısındaki öfkeyi anlatır. Genel 'angry' yerine kullanmayın; genellikle 'about' ya da 'at' ile gelir.",
+  "note": ""
+ },
+ {
+  "id": "finicky",
+  "senses": [
+   "titiz; çok seçici",
+   "hassas; özen gerektiren"
+  ],
+  "ex": [
+   "Huysuz kedimiz, sıcak olmadıkça yemeğe dokunmuyor.",
+   "Tüketiciler görünüşe karşı çok titiz olabilir; bu yüzden marketler küçük kusurları olan ama yenilebilir meyveleri reddediyor."
+  ],
+  "col": [
+   "seçici yiyici",
+   "yiyecek konusunda titiz",
+   "hassas ekipman"
+  ],
+  "tip": "Gündelik ve çoğunlukla olumsuz bir sözcüktür. 'Be finicky about something' kalıbında 'about' ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "flick",
+  "senses": [
+   "silkelemek; hızla çevirmek",
+   "hafif hamle; silkeleme",
+   "film"
+  ],
+  "ex": [
+   "Gitmeden önce kolundaki bir kırıntıyı hafifçe silkeledi.",
+   "Dijital arayüzler okuyucuların makaleleri hızla gözden geçirmesine olanak tanıyor; ancak bu kolaylık yüzeysel okuma alışkanlıklarını teşvik edebilir."
+  ],
+  "col": [
+   "dergiyi hızla karıştırmak",
+   "bir anahtarı çevirmek",
+   "bileğin hafif hareketi",
+   "komedi filmi"
+  ],
+  "tip": "'Flick through' hızlıca göz atmak demektir, dikkatle okumak değildir. Dikkatli okumak için 'read carefully' kullanın.",
+  "note": ""
+ },
+ {
+  "id": "literate",
+  "senses": [
+   "okur yazar",
+   "konusunda bilgili; aşina"
+  ],
+  "ex": [
+   "Yetişkinler için akşam kurslarına katıldıktan sonra okuma yazma öğrendi.",
+   "Okullar, öğrencilerin çevrim içi bilgileri eleştirel biçimde değerlendirebilmesi için dijital okuryazar olmalarını sağlamalıdır."
+  ],
+  "col": [
+   "tam okuryazar",
+   "bilgisayar okuryazarı",
+   "dijital okuryazar",
+   "finansal okuryazar"
+  ],
+  "tip": "Çoğunlukla sıfat olarak kullanılır. İsim karşılığı 'literacy' okuryazarlık anlamına gelir. 'Educated' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "watertight",
+  "senses": [
+   "su geçirmez",
+   "çürütülemez; sağlam"
+  ],
+  "ex": [
+   "Bu su geçirmez kutu, tekne gezilerinde fotoğraf makinemi kuru tutuyor.",
+   "Hükümetler, şirketlerin faaliyetlerinin neden olduğu çevre zararlarından sorumluluktan kaçmasını önlemek için sıkı düzenlemelere ihtiyaç duyar."
+  ],
+  "col": [
+   "su geçirmez kap",
+   "çürütülemez bir argüman",
+   "sağlam bir anlaşma"
+  ],
+  "tip": "Fiziksel olarak tam su geçirmezliği, mantıksal olarak ise açık boşluğu olmayan argümanı anlatır. 'Water-resistant' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "embryo",
+  "senses": [
+   "embriyo; döl"
+  ],
+  "ex": [
+   "İçinde civciv embriyosunu yumurtanın içinde görebiliyorduk.",
+   "Araştırmacılar, çevre koşullarının embriyo gelişimini nasıl etkilediğini inceleyerek nesli tükenmekte olan türlerin üremesini iyileştirmeyi amaçlıyor."
+  ],
+  "col": [
+   "embriyo gelişimi",
+   "insan embriyosu",
+   "bitki embriyosu",
+   "başlangıç aşamasında"
+  ],
+  "tip": "İsim sözcüğüdür; sıfatı 'embryonic'tir. 'In embryo' deyimi, bir fikrin ya da projenin henüz başlangıç aşamasında olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "misrepresent",
+  "senses": [
+   "yanlış tanıtmak; çarpıtmak"
+  ],
+  "ex": [
+   "Bu fotoğraf, küçük mutfağımızın boyutunu olduğundan farklı gösteriyor.",
+   "Reklamlar, ürünlerin çevresel faydalarını çarpıtabilir; bu da tüketicilerin bilinçli karar vermesini zorlaştırır."
+  ],
+  "col": [
+   "gerçekleri çarpıtmak",
+   "birinin görüşlerini yanlış aktarmak",
+   "bir şeyi ...olarak yanlış sunmak"
+  ],
+  "tip": "Geçişli bir fiildir ve doğrudan nesne alır. 'Misrepresent something as' kalıbında 'olarak' anlamı eklenir.",
+  "note": ""
+ },
+ {
+  "id": "miser",
+  "senses": [
+   "cimri"
+  ],
+  "ex": [
+   "Bu cimri adam, kırılan mutfak sandalyesini değiştirmeye yanaşmıyor.",
+   "Edebiyat, cimriyi çoğu zaman servete olan bağlılığının ilişkilere ve kişisel mutluluğa zarar verdiği biri olarak betimler."
+  ],
+  "col": [
+   "varlıklı bir cimri",
+   "yaşlı bir cimri",
+   "ünlü bir cimri"
+  ],
+  "tip": "Olumsuz bir sözcüktür; parasını harcamaktan kaçınan kişiyi anlatır. Tutumlu ve ekonomik insan için 'thrifty' daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "oxidize",
+  "senses": [
+   "oksitlemek; oksitlenmek"
+  ],
+  "ex": [
+   "Kesilen elma kararmaya ve kahverengileşmeye başladı.",
+   "Hava ve nemle temas ettiğinde demir oksitlenebilir; koruyucu kaplama uygulanmazsa yapıları zayıflatır."
+  ],
+  "col": [
+   "hızla oksitlenmek",
+   "havada oksitlenmek",
+   "kolayca oksitlenmek"
+  ],
+  "tip": "İngiliz İngilizcesinde 'oxidise' biçimiyle de yazılır. Oksidasyon her zaman oksijenle olmaz; elektron kaybı da bu kapsamdadır.",
+  "note": ""
+ },
+ {
+  "id": "compute",
+  "senses": [
+   "hesaplamak"
+  ],
+  "ex": [
+   "Bu uygulama haftalık alışverişimizin maliyetini hesaplıyor.",
+   "Araştırmacılar, küresel iklimdeki uzun vadeli değişimleri değerlendirmek için uydu verilerinden ortalama sıcaklıkları hesaplıyor."
+  ],
+  "col": [
+   "maliyeti hesaplamak",
+   "ortalamayı hesaplamak",
+   "bir değeri hesaplamak"
+  ],
+  "tip": "'Calculate'ten daha resmidir ve çoğunlukla bilgisayar ya da matematik bağlamında kullanılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "honour",
+  "senses": [
+   "onur; şeref",
+   "saygı göstermek; onurlandırmak",
+   "yerine getirmek; tutmak"
+  ],
+  "ex": [
+   "Yerel takımımı temsil etmek benim için bir onurdu.",
+   "Şirketler, güveni korumak ve personel devrini azaltmak istiyorlarsa çalışanlara verdikleri taahhütleri yerine getirmek zorundadır."
+  ],
+  "col": [
+   "büyük bir onur",
+   "onuruna",
+   "bir taahhüdü yerine getirmek",
+   "onur konuğu"
+  ],
+  "tip": "İngiliz yazımı honour, Amerikan yazımı honor'dır. h sessizdir, bu yüzden 'a honour' değil 'an honour' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "deny",
+  "senses": [
+   "inkar etmek; yalanlamak",
+   "reddetmek; esirgemek"
+  ],
+  "ex": [
+   "Son parça pastayı yediğini inkar etti.",
+   "Ailesi okul ücretlerini ödeyemediği için hiçbir çocuk eğitime erişimden mahrum bırakılmamalıdır."
+  ],
+  "col": [
+   "bir şeyi yaptığını inkar etmek",
+   "bir iddiayı yalanlamak",
+   "erişimi engellemek"
+  ],
+  "tip": "Bir şeyi yaptığını inkar etmek için 'deny doing' kullanılır; 'deny to do' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "bond",
+  "senses": [
+   "bağ; ilişki",
+   "tahvil; borç senedi",
+   "bağ kurmak; birleşmek"
+  ],
+  "ex": [
+   "Yavru köpeğe bakmak kardeşler arasındaki bağı güçlendirdi.",
+   "Hükümetler, büyük altyapı projelerini finanse etmek için hane halkının vergilerini hemen artırmadan sık sık tahvil ihraç eder."
+  ],
+  "col": [
+   "güçlü bir bağ",
+   "bağ oluşturmak",
+   "devlet tahvilleri",
+   "biriyle bağ kurmak"
+  ],
+  "tip": "'Bond with sb' birisiyle yakınlaşmak anlamına gelir; finans bağlamında 'issue bonds' tahvil ihraç etmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "globe",
+  "senses": [
+   "dünya küresi",
+   "dünya; yeryüzü",
+   "küre; yuvarlak nesne"
+  ],
+  "ex": [
+   "Dünya küresini çevirdi ve küçük bir adayı gösterdi.",
+   "Dünyanın dört bir yanındaki araştırmacılar, aşırı hava olaylarının tahminlerini iyileştirmek için iklim verilerini paylaşıyor."
+  ],
+  "col": [
+   "dünyanın dört bir yanında",
+   "dünyanın her yerinde",
+   "cam küre"
+  ],
+  "tip": "'The globe' genellikle tüm dünyayı, 'a globe' ise dünya maketini ya da yuvarlak bir nesneyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "constantly",
+  "senses": [
+   "sürekli; durmadan"
+  ],
+  "ex": [
+   "Yemek pişirirken telefonum sürekli titriyor.",
+   "Hızla değişen iş piyasasında rekabetçi kalmak için çalışanlar becerilerini sürekli güncellemek zorundadır."
+  ],
+  "col": [
+   "sürekli değişen",
+   "sürekli izlemek",
+   "sürekli hatırlatmak"
+  ],
+  "tip": "'Often'dan daha güçlü bir anlam taşır; kesintisiz ya da sürekli tekrarlanan durumları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "habitat",
+  "senses": [
+   "yaşam alanı; habitat"
+  ],
+  "ex": [
+   "Bu gölet kurbağalar için mükemmel bir yaşam alanı sağlıyor.",
+   "Kentleşme doğal yaşam alanlarını yok ederek yerli türlerin yiyecek ve barınak bulmasını zorlaştırıyor."
+  ],
+  "col": [
+   "doğal yaşam alanı",
+   "yaşam alanı kaybı",
+   "yaşam alanlarının yok edilmesi",
+   "yaşam alanlarını korumak"
+  ],
+  "tip": "'Habit' (alışkanlık) ile karıştırılmamalıdır. 'Habitat', hayvan ve bitkilerin doğal yaşam ortamını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "assessment",
+  "senses": [
+   "değerlendirme",
+   "ölçme değerlendirme; sınav"
+  ],
+  "ex": [
+   "Tamircinin değerlendirmesine göre frenlerin değiştirilmesi gerekiyordu.",
+   "Sürekli değerlendirme, tek bir final sınavına kıyasla öğrenci ilerlemesine dair daha geniş bir tablo sunabilir."
+  ],
+  "col": [
+   "risk değerlendirmesi",
+   "sürekli değerlendirme",
+   "değerlendirme yapmak"
+  ],
+  "tip": "Bir şeyin değerlendirmesi için 'assessment of' kullanılır. Fiil biçimi 'assess'tir.",
+  "note": ""
+ },
+ {
+  "id": "loop",
+  "senses": [
+   "halka; ilmek; döngü",
+   "halka oluşturmak",
+   "döngü; çevrim"
+  ],
+  "ex": [
+   "Bitkileri asmak için halatta bir ilmek yaptı.",
+   "Yerleşim alanlarını okullara ve sağlık merkezlerine bağlayan döngüsel bir otobüs hattı işe yarayabilir."
+  ],
+  "col": [
+   "bir halat ilmeği",
+   "sürekli tekrar eden",
+   "geri bildirim döngüsü",
+   "etrafında dolanmak"
+  ],
+  "tip": "'On a loop' sürekli tekrar eden anlamına gelir, örneğin bir şarkının durmadan çalınması gibi.",
+  "note": ""
+ },
+ {
+  "id": "disgrace",
+  "senses": [
+   "utanç; rezalet",
+   "utanç kaynağı; rezil şey",
+   "rezil etmek; utandırmak"
+  ],
+  "ex": [
+   "Kaptan maç sırasında hile yaptığı için utanç içinde ayrıldı.",
+   "Kamu fonlarını kötüye kullanan yetkililer kurumlarına utanç getirir ve hükümete olan kamu güvenini zayıflatır."
+  ],
+  "col": [
+   "utanç içinde",
+   "utanç getirmek",
+   "...için utanç kaynağı",
+   "kendini rezil etmek"
+  ],
+  "tip": "Genel anlamda 'utanç' sayılamaz. 'A disgrace' ise utanç verici bir kişi ya da durumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "sue",
+  "senses": [
+   "dava açmak; dava etmek"
+  ],
+  "ex": [
+   "Komşumuz hatalı tamirat yüzünden inşaatçıyı dava etmeyi planlıyor.",
+   "Tüketicilerin, bilerek tehlikeli ürün satan ya da ciddi kusurları gizleyen şirketleri dava etme hakkı olmalıdır."
+  ],
+  "col": [
+   "tazminat davası açmak",
+   "bir şirketi dava etmek",
+   "ihmal nedeniyle dava açmak"
+  ],
+  "tip": "'Sue someone for something' kalıbı kullanılır: birini bir şey nedeniyle dava etmek.",
+  "note": ""
+ },
+ {
+  "id": "electronics",
+  "senses": [
+   "elektronik; elektronik bilimi",
+   "elektronik cihazlar"
+  ],
+  "ex": [
+   "Kız kardeşim elektronik okuyor ve evde radyo tamir ediyor.",
+   "Elektronikteki gelişmeler, hastanelerin hastaları daha doğru izlemesini ve daha hızlı tedavi sunmasını sağladı."
+  ],
+  "col": [
+   "tüketici elektroniği",
+   "elektronik sektörü",
+   "elektronik okumak"
+  ],
+  "tip": "Bilim anlamında sonundaki -s ekine rağmen fiil tekil kullanılır: 'Electronics is...'.",
+  "note": ""
+ },
+ {
+  "id": "conduct",
+  "senses": [
+   "yürütmek; düzenlemek",
+   "iletmek",
+   "davranış; tutum"
+  ],
+  "ex": [
+   "Öğretmenimiz en sevilen atıştırmalıklar hakkında kısa bir anket yaptı.",
+   "Araştırmacılar, yeni tedavileri kamu hastanelerinde yaygın kullanım için önermeden önce kapsamlı denemeler yapmalıdır."
+  ],
+  "col": [
+   "araştırma yürütmek",
+   "anket yapmak",
+   "elektrik iletmek",
+   "davranış kuralları"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir (kənˈdʌkt), isimde ise ilk hecededir (ˈkɒndʌkt). Anlamı da değişir.",
+  "note": ""
+ },
+ {
+  "id": "newly",
+  "senses": [
+   "yeni; yakın zamanda"
+  ],
+  "ex": [
+   "Yeni açılan köşe kafede öğle yemeği yedik.",
+   "Yeni mezun öğretmenler, ilk yıllarında çeşitli sınıfları etkili biçimde yönetmek için genellikle ek desteğe ihtiyaç duyar."
+  ],
+  "col": [
+   "yeni yapılmış",
+   "yeni mezun",
+   "yeni seçilmiş",
+   "yeni keşfedilmiş"
+  ],
+  "tip": "Genellikle geçmiş zaman ortacından (V3) önce gelir, örneğin 'newly built' gibi.",
+  "note": ""
+ },
+ {
+  "id": "certainty",
+  "senses": [
+   "kesinlik; emin olma",
+   "kesin olan şey"
+  ],
+  "ex": [
+   "Anahtarlarımı nereye bıraktığımı kesin olarak söyleyemem.",
+   "İklim modelleri gelişmeye devam etse de bilim insanları her bölgesel değişikliği mutlak bir kesinlikle tahmin edemez."
+  ],
+  "col": [
+   "kesin olarak",
+   "mutlak kesinlik",
+   "bir ölçüde kesinlik"
+  ],
+  "tip": "'Emin olma' anlamında genellikle sayılamaz. 'A certainty' ise kesin olan, gerçekleşeceği belli olan şeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "damn",
+  "senses": [
+   "sert eleştirmek; yermek",
+   "kahretsin; lanet olsun",
+   "kahrolası; lanet olası"
+  ],
+  "ex": [
+   "Eleştirmenler oyunu zayıf sonu yüzünden sert biçimde yerdi.",
+   "Kampanyacılar, öneriyi yaban hayatına çok az koruma sağladığı için yerdi."
+  ],
+  "col": [
+   "soğuk övgüyle yermek",
+   "kahretsin",
+   "kahrolası bir baş belası"
+  ],
+  "tip": "Hafif kaba bir kelimedir. Resmi yazıda 'condemn' (kınamak) kullanmak daha uygundur.",
+  "note": "Ünlem ve pekiştirme kullanımları hafif hakaret içerir; resmi ortamlarda kaçının."
+ }
+]

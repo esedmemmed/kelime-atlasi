@@ -1,0 +1,265 @@
+[
+ {
+  "id": "papercut",
+  "senses": [
+   "kâğıt kesme; kâğıt oyma"
+  ],
+  "ex": [
+   "Kuşlar ve çiçeklerden oluşan narin bir kâğıt kesme işini çerçeveletti.",
+   "Geleneksel kâğıt kesme çalışmalarının yerel müzelerde sergilenmesi, genç kuşakların yerel zanaat becerilerini ve kültürel mirası takdir etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "geleneksel bir kâğıt kesme çalışması",
+   "ince işçilikli kâğıt kesme",
+   "kâğıt kesme sanatı"
+  ],
+  "tip": "Sanat anlamında papercutting kullanılır; paper cut ise kâğıt kenarında oluşan kesik anlamına gelir. Bu iki kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "homogeneous",
+  "senses": [
+   "türdeş; homojen"
+  ],
+  "ex": [
+   "Karışım tamamen homojen hale gelene kadar sosu karıştırın.",
+   "Kentsel nüfusu türdeş kabul etmek, planlamacıların sakinlerin ihtiyaçlarındaki önemli farklılıkları gözden kaçırmasına yol açabilir."
+  ],
+  "col": [
+   "homojen karışım",
+   "türdeş grup",
+   "nispeten homojen"
+  ],
+  "tip": "Yalnızca 'benzer' değil, parçaların birbirine benzediğini vurgular. Zıt anlamlısı heterogeneous (türdeş olmayan) sözcüğüdür.",
+  "note": ""
+ },
+ {
+  "id": "morality",
+  "senses": [
+   "ahlak; ahlaki ilkeler",
+   "ahlakilik; ahlaka uygunluk"
+  ],
+  "ex": [
+   "Ailemiz kayıp bir cüzdan bulduktan sonra ahlak üzerine konuştu.",
+   "Hayvanlar üzerinde yapılan deneylerin ahlakiliği, olası tıbbi faydalar hayvan refahı kaygılarıyla çeliştiğinde tartışmalı olmaya devam ediyor."
+  ],
+  "col": [
+   "toplumsal ahlak",
+   "kişisel ahlak",
+   "bir eylemin ahlakiliği"
+  ],
+  "tip": "Moral sıfattır (ahlaki); morality isimdir ve çoğunlukla sayılamaz. Bu iki sözcüğü karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "uncap",
+  "senses": [
+   "kapağını açmak"
+  ],
+  "ex": [
+   "Şişenin kapağını açtı ve herkese biraz meyve suyu koydu.",
+   "Laboratuvar personeli, kirlenmeyi önlemek ve güvenilir araştırma sonuçlarını korumak için numune kaplarının kapaklarını dikkatle açmalıdır."
+  ],
+  "col": [
+   "şişenin kapağını açmak",
+   "kalemin kapağını açmak",
+   "kabın kapağını açmak"
+  ],
+  "tip": "Yalnızca kapağı çıkarmak anlamında kullanılır. Çekimleri: uncapped (geçmiş), uncapping (devam eden eylem).",
+  "note": ""
+ },
+ {
+  "id": "consensus",
+  "senses": [
+   "uzlaşı; ortak görüş"
+  ],
+  "ex": [
+   "Nereye yemeğe gideceğimiz konusunda sonunda uzlaştık.",
+   "Araştırmacılar arasında, erken çocukluk eğitiminin çocukların gelecekteki öğrenme sonuçlarını iyileştirebileceği konusunda geniş bir görüş birliği var."
+  ],
+  "col": [
+   "uzlaşmaya varmak",
+   "geniş çaplı görüş birliği",
+   "üzerinde görüş birliği",
+   "uzlaşı oluşturmak"
+  ],
+  "tip": "Genellikle reach a consensus on biçiminde kullanılır. Tam oybirliği anlamına gelmek zorunda değildir, genel bir eğilimi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "mistress",
+  "senses": [
+   "metres; gayri meşru eş",
+   "ev hanımı; kadın efendi",
+   "usta kadın; kadın uzman"
+  ],
+  "ex": [
+   "Romanda erkek, metresine bir kolye alır.",
+   "Tarihi romanlar genellikle zengin bir erkeğin metresini ekonomik olarak bağımlı biri olarak tasvir eder; bu da kadınlar için eşitsiz fırsatları yansıtır."
+  ],
+  "col": [
+   "metresi olmak",
+   "evin hanımı",
+   "zanaatında usta"
+  ],
+  "tip": "Metres, evli bir erkeğin ilişkide olduğu kadın demektir; karı ya da sıradan kız arkadaş anlamında değildir. 'Ev hanımı' anlamı eski kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "hideous",
+  "senses": [
+   "çirkin; iğrenç",
+   "korkunç; dehşet verici"
+  ],
+  "ex": [
+   "Şu çirkin halı odadaki her şeyle uyumsuz.",
+   "Özensiz planlanmış projeler, tarihi mahallelerin görsel karakterine zarar veren çirkin binalar yaratabilir."
+  ],
+  "col": [
+   "çirkin bir bina",
+   "korkunç bir hata",
+   "korkunç bir gürültü"
+  ],
+  "tip": "Çok güçlü bir sıfattır; sıradan 'çirkin' yerine rahatça kullanılmaz. Abartılı bir olumsuzluk ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "ammonia",
+  "senses": [
+   "amonyak; amonyak çözeltisi"
+  ],
+  "ex": [
+   "Bu temizlik sıvısı amonyak içeriyor, bu yüzden pencereyi açık tutun.",
+   "Tarımdan kaynaklanan amonyak emisyonları hava kirliliğine katkıda bulunabilir ve hassas doğal yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "amonyak çözeltisi",
+   "amonyak emisyonları",
+   "amonyak üretimi"
+  ],
+  "tip": "Sayılamayan bir isimdir; hem gaz hem de suda çözünmüş hali için kullanılır. 'Amonyum' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "allegiance",
+  "senses": [
+   "bağlılık; sadakat"
+  ],
+  "ex": [
+   "Yurt dışına taşınmasına rağmen memleketindeki kulübe olan bağlılığını sürdürdü.",
+   "Siyasi bağlılık, seçmenlerin ekonomi politikalarını nasıl yorumladığını ve seçilmiş yetkililerin performansını nasıl değerlendirdiğini etkileyebilir."
+  ],
+  "col": [
+   "bağlılık yemini etmek",
+   "siyasi bağlılık",
+   "bağlılığını değiştirmek"
+  ],
+  "tip": "Bağlılık gösterilen şey to ile belirtilir: allegiance to a country. Pledge allegiance to ifadesi bağlılık yemini etmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "fatigue",
+  "senses": [
+   "yorgunluk; bitkinlik",
+   "malzeme yorgunluğu"
+  ],
+  "ex": [
+   "Uzun yürüyüşten sonra yorgunluk bacaklarımın titremesine neden oldu.",
+   "Süregelen yorgunluk çalışanların konsantrasyonunu azaltabilir ve iş yerinde kaza olasılığını artırabilir."
+  ],
+  "col": [
+   "kronik yorgunluk",
+   "zihinsel yorgunluk",
+   "kas yorgunluğu",
+   "metal yorgunluğu"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir ve tiredness'tan daha resmîdir. Mühendislikte malzemenin tekrarlı gerilim altında zayıflaması için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "outlandish",
+  "senses": [
+   "tuhaf; alışılmadık"
+  ],
+  "ex": [
+   "Ananas şeklinde garip bir şapka takarak geldi.",
+   "Bazı çevresel öneriler ilk bakışta tuhaf görünse de sonunda kentsel kirliliğe yönelik pratik çözümlere ilham verebilir."
+  ],
+  "col": [
+   "tuhaf bir fikir",
+   "tuhaf kıyafetler",
+   "saçma bir iddia"
+  ],
+  "tip": "Olağandışılığı ve çoğu zaman makul olmadığını vurgular. Genellikle şaşkınlık ya da onaylamama tonu taşır.",
+  "note": ""
+ },
+ {
+  "id": "explanatory",
+  "senses": [
+   "açıklayıcı; izah edici"
+  ],
+  "ex": [
+   "Tarifte, zor her adım için açıklayıcı resimler yer alıyor.",
+   "Halk sağlığı kampanyaları, insanların tıbbi taramanın hem faydalarını hem de sınırlılıklarını anlamalarına yardımcı olacak açıklayıcı materyaller sunmalıdır."
+  ],
+  "col": [
+   "açıklayıcı notlar",
+   "açıklayıcı materyal",
+   "açıklayıcı güç"
+  ],
+  "tip": "Genellikle notes, material gibi isimlerle birlikte kullanılır. 'Kendiliğinden anlaşılır' anlamındaki self-explanatory ayrı bir sözcüktür.",
+  "note": ""
+ },
+ {
+  "id": "commence",
+  "senses": [
+   "başlamak"
+  ],
+  "ex": [
+   "Akşam konseri kısa bir karşılama konuşmasından sonra başlayacak.",
+   "Yeni demiryolunun inşaatı, çevresel değerlendirme tamamlandıktan sonra başlayacak."
+  ],
+  "col": [
+   "işe başlamak",
+   "işlemleri başlatmak",
+   "bir şeyle başlamak"
+  ],
+  "tip": "Start'tan daha resmî bir sözcüktür; isim ya da -ing biçimindeki fiil alabilir. Commence with, bir şeyle başlamak anlamını verir.",
+  "note": ""
+ },
+ {
+  "id": "rhetoric",
+  "senses": [
+   "içi boş laf; süslü söz",
+   "retorik; hitabet"
+  ],
+  "ex": [
+   "Takım çalışması hakkında daha fazla laf değil, gerçek yardıma ihtiyacımız var.",
+   "Hükümetler çevre konusundaki içi boş söylemlerin ötesine geçmeli ve endüstriyel kirliliği azaltmak için ölçülebilir politikalar uygulamalıdır."
+  ],
+  "col": [
+   "içi boş laf",
+   "siyasi söylem",
+   "retorik sanatı"
+  ],
+  "tip": "Bir isimdir; sıfatı rhetorical'dır ve çoğunlukla içi boş, gösterişli bir söylemi tanımlar.",
+  "note": ""
+ },
+ {
+  "id": "pretext",
+  "senses": [
+   "bahane; kılıf"
+  ],
+  "ex": [
+   "Baş ağrısını bahane ederek ayrıldı.",
+   "Şirketler, çevresel taahhütlerinden vazgeçmek için ekonomik belirsizliği bir bahane olarak kullanmamalıdır."
+  ],
+  "col": [
+   "bir bahane altında",
+   "bir şey yapmak için bahane",
+   "bir bahaneyle"
+  ],
+  "tip": "Gerçek amacı gizleyen bahaneyi anlatır; for veya of ile kullanılır. Basit excuse'tan çok, bir maske anlamı taşır.",
+  "note": ""
+ }
+]

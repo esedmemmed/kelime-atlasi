@@ -1,0 +1,271 @@
+[
+ {
+  "id": "afford",
+  "senses": [
+   "karşılamak; gücü yetmek",
+   "sağlamak; sunmak"
+  ],
+  "ex": [
+   "Bu ay yeni bir kanepe almaya gücümüz yetmiyor.",
+   "Mali destek olmadan, güçlü akademik potansiyeline rağmen birçok öğrenci üniversiteye devam edemiyor."
+  ],
+  "col": [
+   "yapmaya gücü yetmek",
+   "kaybetmeye tahammülü olmamak",
+   "koruma sağlamak"
+  ],
+  "tip": "Genellikle can afford sth ya da can afford to do kalıbında kullanılır; afford'dan sonra doing gelmez.",
+  "note": ""
+ },
+ {
+  "id": "object",
+  "senses": [
+   "nesne; cisim",
+   "itiraz etmek",
+   "amaç; hedef"
+  ],
+  "ex": [
+   "Kanepenin altında parlak bir nesne duruyordu.",
+   "Birçok sakin, planlanan havalimanı genişletmesinin gürültü kirliliğini artırabileceği için buna itiraz ediyor."
+  ],
+  "col": [
+   "fiziksel bir nesne",
+   "bir öneriye itiraz etmek",
+   "işin asıl amacı"
+  ],
+  "tip": "İsimde vurgu ilk hecededir (OB-ject), fiilde ikinci hecededir (ob-JECT). object to'dan sonra isim ya da -ing eki almış fiil gelir.",
+  "note": ""
+ },
+ {
+  "id": "dizzy",
+  "senses": [
+   "baş dönen"
+  ],
+  "ex": [
+   "Kuzenimle etrafında dönüp durduktan sonra başım döndü.",
+   "Egzersiz sırasında baş dönmesi hisseden kişiler, belirtiler sürerse hemen durmalı ve doktora danışmalıdır."
+  ],
+  "col": [
+   "baş dönmesi hissetmek",
+   "baş dönmesi nöbeti",
+   "birinin başını döndürmek"
+  ],
+  "tip": "Kişi özne olduğunda feel dizzy; nesne ya da durum özne olduğunda make someone dizzy kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cheating",
+  "senses": [
+   "hile; kopya"
+  ],
+  "ex": [
+   "Arkadaşlar arasında bile olsa, başkasının kartlarına bakmak hiledir.",
+   "Okullar, gerçekleri ezbere tekrar etmek yerine bağımsız düşünmeyi ödüllendiren değerlendirmeler tasarlayarak kopyayı azaltabilir."
+  ],
+  "col": [
+   "sınavda kopya çekme",
+   "kopyayı önlemek",
+   "birini hileyle suçlamak"
+  ],
+  "tip": "Davranış anlamında cheating genellikle sayılamaz; hileyi yapan kişi için cheat kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stress",
+  "senses": [
+   "stres; gerilim",
+   "vurgulamak",
+   "vurgu"
+  ],
+  "ex": [
+   "Kısa bir yürüyüş iş stresiyle başa çıkmama yardımcı oluyor.",
+   "Okullar, öğrencilere sınav ve benzeri zorlu dönemlerde stresi yönetmek için pratik stratejiler öğretmelidir."
+  ],
+  "col": [
+   "stres altında",
+   "stresi azaltmak",
+   "-in önemini vurgulamak",
+   "kelime vurgusu"
+  ],
+  "tip": "İnsanın hissettiği durum için stressed, durumun yarattığı etki için stressful kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "absent",
+  "senses": [
+   "devamsız",
+   "yok; eksik"
+  ],
+  "ex": [
+   "Lina kendini hasta hissettiği için derse gelmedi.",
+   "Sık sık okula gelmeyen öğrenciler, sınıf arkadaşlarına ayak uydurmak için ek destek almaya ihtiyaç duyabilir."
+  ],
+  "col": [
+   "okuldan devamsız",
+   "işe gelmeyen",
+   "göze çarpan biçimde yok"
+  ],
+  "tip": "Bir yerde bulunmamayı belirtmek için absent from kullanılır; absent in kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "poet",
+  "senses": [
+   "şair"
+  ],
+  "ex": [
+   "Şair, son eserini şöminenin yanında okudu.",
+   "Şair, tanıdık deneyimleri beklenmedik ve duygusal açıdan güçlü biçimlerde anlatarak toplumsal tutumları sorgulayabilir."
+  ],
+  "col": [
+   "ünlü bir şair",
+   "çağdaş bir şair",
+   "bir şairin eseri"
+  ],
+  "tip": "poet şairi, poem tek bir şiiri, poetry ise şiir sanatını ya da şiirleri topluca ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "essential",
+  "senses": [
+   "gerekli; zorunlu",
+   "temel; öz",
+   "temel ihtiyaç"
+  ],
+  "ex": [
+   "Bu kış yürüyüşü için sıcak bir mont şart.",
+   "Temiz içme suyuna erişim, hastalıkların önlenmesi ve halk sağlığının iyileştirilmesi için şarttır."
+  ],
+  "col": [
+   "hayatta kalmak için şart",
+   "temel hizmetler",
+   "gerekli ekipman",
+   "günlük temel ihtiyaçlar"
+  ],
+  "tip": "Genellikle çoğul essentials biçiminde kullanılır; zorunlu ihtiyaçlar ya da temel noktalar anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "whale",
+  "senses": [
+   "balina"
+  ],
+  "ex": [
+   "Bir balina teknemizin yanında suyun yüzeyine çıkıp su püskürttü.",
+   "Balina popülasyonlarını korumak uluslararası iş birliği gerektirir, çünkü bu deniz memelileri geniş okyanus alanlarında göç eder."
+  ],
+  "col": [
+   "mavi balina",
+   "balina gözlemciliği",
+   "balina koruma"
+  ],
+  "tip": "Balina bir deniz memelisidir, balık değildir; çoğulu whales şeklinde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "economics",
+  "senses": [
+   "ekonomi bilimi; iktisat",
+   "ekonomik boyut; karlılık"
+  ],
+  "ex": [
+   "Kız kardeşim ekonomi okuyor ve yiyecek fiyatlarını tartışmayı seviyor.",
+   "Ekonomi eğitimi, öğrencilerin hükümet politikalarının istihdamı, enflasyonu ve servet dağılımını nasıl etkilediğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "ekonomi okumak",
+   "davranışsal ekonomi",
+   "geri dönüşümün ekonomik boyutu"
+  ],
+  "tip": "Bilim dalı anlamında s ile bitse de tekil fiille kullanılır: Economics is interesting.",
+  "note": ""
+ },
+ {
+  "id": "pond",
+  "senses": [
+   "gölet; küçük gölcük"
+  ],
+  "ex": [
+   "Evimizin yanındaki göletin içine yeşil bir kurbağa atladı.",
+   "Kentsel parklarda göletler oluşturmak, amfibi türleri için değerli yaşam alanları sağlayabilir ve yerel biyoçeşitliliği artırabilir."
+  ],
+  "col": [
+   "bahçe göleti",
+   "balık göleti",
+   "gölet yaşamı"
+  ],
+  "tip": "pond genellikle lake'den daha küçük ve sığ suyu ifade eder; doğal ya da yapay olabilir.",
+  "note": ""
+ },
+ {
+  "id": "delighted",
+  "senses": [
+   "çok memnun; sevinçli"
+  ],
+  "ex": [
+   "Lina kayıp bileziğini bulunca çok sevindi.",
+   "Sakinler, ücretsiz internet erişimi ve çalışmak için davetkâr bir alan sunan yeni kütüphaneden çok memnun kaldı."
+  ],
+  "col": [
+   "sonuçtan çok memnun",
+   "duymaktan memnuniyet duymak",
+   "tamamen memnun"
+  ],
+  "tip": "Kişinin duyduğu sevinç için delighted, bir şeyin verdiği hoşnutluk için delightful kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "microphone",
+  "senses": [
+   "mikrofon"
+  ],
+  "ex": [
+   "Herkesin duyabilmesi için lütfen mikrofona doğru konuşun.",
+   "Derslerde mikrofon kullanmak, özellikle akustiği zayıf büyük sınıflarda öğrencilerin net duymasına yardımcı olabilir."
+  ],
+  "col": [
+   "mikrofona konuşmak",
+   "kablosuz mikrofon",
+   "mikrofon standı"
+  ],
+  "tip": "microphone sesi almak ya da yükseltmek için kullanılan cihazdır; speaker ise sesi çalar. İkisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "drum",
+  "senses": [
+   "davul",
+   "varil; fıçı",
+   "davul çalmak; tıklatmak"
+  ],
+  "ex": [
+   "Küçük çocuk davulu iki eliyle çaldı.",
+   "Davul çalmayı öğrenmek, çocukların koordinasyon becerilerini geliştirmesine ve grup gösterilerine katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "davul çalmak",
+   "davul vurmak",
+   "petrol varili"
+  ],
+  "tip": "play the drums genellikle davul çalmayı anlatır; drum ayrıca büyük silindirik kapları da ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "magician",
+  "senses": [
+   "sihirbaz",
+   "büyücü; sihirbaz"
+  ],
+  "ex": [
+   "Sihirbaz boş bir bardaktan ipek bir eşarp çıkardı.",
+   "Usta bir sihirbaz, insan dikkatinin önemli görsel ayrıntılardan ne kadar kolay uzaklaştırılabileceğini gösterebilir."
+  ],
+  "col": [
+   "gösteri yapan sihirbaz",
+   "sahne sihirbazı",
+   "yetenekli sihirbaz"
+  ],
+  "tip": "Gerçek hayatta sahnede numara yapan kişiyi, masallarda ise büyü gücüne sahip kişiyi anlatır.",
+  "note": ""
+ }
+]

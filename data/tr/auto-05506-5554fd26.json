@@ -1,0 +1,270 @@
+[
+ {
+  "id": "zoology",
+  "senses": [
+   "hayvanbilim; zooloji"
+  ],
+  "ex": [
+   "Kuzenim zooloji okuyor ve hafta sonlarını kuş gözlemleyerek geçiriyor.",
+   "Zoolojideki araştırmalar, bilim insanlarının hayvan davranışlarını anlamasına ve nesli tükenmekte olan türleri korumak için daha etkili stratejiler geliştirmesine yardımcı oluyor."
+  ],
+  "col": [
+   "zooloji okumak",
+   "zooloji derecesi",
+   "zooloji bölümü"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; 'bir zooloji' gibi kullanılmaz. Bitkileri inceleyen bilim dalı botany (botanik) adını alır.",
+  "note": ""
+ },
+ {
+  "id": "variant",
+  "senses": [
+   "varyant; çeşit",
+   "farklı; değişik"
+  ],
+  "ex": [
+   "Çorbanın bu yerel çeşidinde taze fasulye var.",
+   "Bir genetik varyant, bazı bireylerin belirli ilaçlara verdiği tepkiyi etkileyebilir; bu da kişiye özel tedavinin giderek önemli hale gelmesine yol açıyor."
+  ],
+  "col": [
+   "...nın bir çeşidi",
+   "genetik varyant",
+   "bölgesel çeşit",
+   "farklı yazım biçimi"
+  ],
+  "tip": "İsim olarak a variant of kalıbıyla 'bir ... çeşidi' anlamında kullanılır. Sıfat olarak isimden önce gelir: variant spelling.",
+  "note": ""
+ },
+ {
+  "id": "commune",
+  "senses": [
+   "komün; ortak yaşam grubu"
+  ],
+  "ex": [
+   "Bir komünde yaşıyorlar ve birlikte sebze yetiştiriyorlar.",
+   "Komünde yaşamak bireysel giderleri azaltabilir, ancak ortak karar almak sabır ve etkili iletişim gerektirir."
+  ],
+  "col": [
+   "komünde yaşamak",
+   "tarımsal komün",
+   "komün kurmak"
+  ],
+  "tip": "İsim olarak ortak yaşayan topluluğu anlatır. Fiil olarak commune with, doğayla ya da kendi duygularıyla baş başa kalıp derin bir bağ kurmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "fume",
+  "senses": [
+   "çok öfkelenmek; köpürmek",
+   "zehirli duman; gaz"
+  ],
+  "ex": [
+   "Yere bulaşan çamurlu ayakkabılar temiz halıyı lekeleyince öfkeden köpürdü.",
+   "Egzoz dumanlarına maruz kalmak, özellikle işlek yolların yakınında yaşayan çocuklarda solunum rahatsızlıklarını ağırlaştırabilir."
+  ],
+  "col": [
+   "bir şeye öfkelenmek",
+   "egzoz gazları",
+   "zehirli gazlar"
+  ],
+  "tip": "Duman anlamındaki isim genellikle çoğul kullanılır (fumes). Fiil olarak öfkelenmek anlamına gelir; iki anlamı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "henceforth",
+  "senses": [
+   "bundan böyle; bundan sonra"
+  ],
+  "ex": [
+   "Bundan böyle yedek anahtarları bu çekmecede saklayacağız.",
+   "Üniversite, yeni yapıların bundan böyle daha sıkı çevre standartlarını karşılayacağını duyurdu."
+  ],
+  "col": [
+   "bundan böyle olacak",
+   "bundan sonra ... olarak tanınmak"
+  ],
+  "tip": "Resmî bir kelimedir. Günlük konuşmada from now on ifadesi daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "laden",
+  "senses": [
+   "yüklü; yüklenmiş",
+   "dolu; yüklü"
+  ],
+  "ex": [
+   "Piknik yerine yiyecek torbalarıyla yüklü olarak geldi.",
+   "İnşaat malzemesiyle yüklü kamyonlar, hızla genişleyen şehirlerde trafik sıkışıklığına katkıda bulunuyor ve yol bakım maliyetlerini artırıyor."
+  ],
+  "col": [
+   "...ile yüklü",
+   "ağır yüklü",
+   "yüklü bir kamyon"
+  ],
+  "tip": "Genellikle with ile kullanılır (laden with). Sugar-laden gibi bileşik sıfatlar da yapar: şekerle yüklü.",
+  "note": ""
+ },
+ {
+  "id": "utmost",
+  "senses": [
+   "en büyük; en yüksek",
+   "azami çaba; elden gelen"
+  ],
+  "ex": [
+   "Lütfen bu narin cam kaseyi en büyük dikkatle tutun.",
+   "Hastaneler dijital sistemlere geçerken hasta mahremiyetini korumak en üst düzeyde önemlidir."
+  ],
+  "col": [
+   "son derece önemli",
+   "en büyük özenle",
+   "elinden gelenin en iyisini yapmak",
+   "en yüksek saygı"
+  ],
+  "tip": "do one's utmost kalıbı 'elinden gelenin en iyisini yapmak' anlamına gelir ve to + fiil ile kullanılır: do my utmost to help.",
+  "note": ""
+ },
+ {
+  "id": "auxiliary",
+  "senses": [
+   "yardımcı; yedek",
+   "yardımcı fiil"
+  ],
+  "ex": [
+   "Teknede acil durumlar için yedek bir motor var.",
+   "Hastaneler, beklenmedik elektrik kesintilerinde temel tıbbi hizmetleri sürdürmek için yedek güç sistemlerine ihtiyaç duyar."
+  ],
+  "col": [
+   "yedek güç",
+   "yedek motor",
+   "yardımcı fiil"
+  ],
+  "tip": "Dilbilgisinde auxiliary verb; be, have ve do gibi, tek başına anlam taşımadan başka fiillerle birlikte kullanılan fiilleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "orientate",
+  "senses": [
+   "yönünü bulmak; yerini belirlemek",
+   "yöneltmek; odaklamak"
+  ],
+  "ex": [
+   "Kasabada yerimi bulmak için nehri referans aldım.",
+   "Üniversiteler, evden uzakta yaşamaya uyum sağlayan öğrencilerin ihtiyaçlarına göre destek hizmetlerini yönlendirmelidir."
+  ],
+  "col": [
+   "kendini yeni ortama alıştırmak",
+   "bir şeyi ... yöneltmek"
+  ],
+  "tip": "Özellikle İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde orient yaygındır. Orientate oneself: yeni ortama alışmak.",
+  "note": ""
+ },
+ {
+  "id": "craftsmanship",
+  "senses": [
+   "işçilik; ustalık"
+  ],
+  "ex": [
+   "Elde yapılmış sandalye her birleşiminde güzel bir işçilik gösteriyor.",
+   "Geleneksel el sanatlarını korumak, yerel ekonomileri desteklerken nesiller boyunca aktarılan kültürel bilgiyi de koruyabilir."
+  ],
+  "col": [
+   "ince işçilik",
+   "geleneksel el sanatları",
+   "kaliteli işçilik"
+  ],
+  "tip": "Sayılamayan isimdir; 'bir işçilik' gibi kullanılmaz. Ustalığı ve işin kalitesini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "chisel",
+  "senses": [
+   "keski",
+   "keskiyle oymak; yontmak"
+  ],
+  "ex": [
+   "Ahşap kaseye şekil vermek için keski kullandı.",
+   "Geleneksel zanaatkârlar, yerel sanat geleneklerini yaşatan ayrıntılı desenler oluşturmak için keski kullanır."
+  ],
+  "col": [
+   "ahşap keski",
+   "çekiç ve keski",
+   "keskiyle yontmak"
+  ],
+  "tip": "Fiilin geçmiş zamanı İngiliz İngilizcesinde chiselled, Amerikan İngilizcesinde chiseled biçiminde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "slack",
+  "senses": [
+   "gevşek; sarkık",
+   "durgun; ihmalkâr",
+   "gevşeklik; boş kapasite"
+  ],
+  "ex": [
+   "Yağmurdan sonra çadır ipi gevşemişti.",
+   "Talep durgun olduğunda üreticiler, deneyimli çalışanları hemen işten çıkarmak yerine çalışma saatlerini azaltabilir."
+  ],
+  "col": [
+   "gevşek ip",
+   "durgun talep",
+   "boşluğu doldurmak",
+   "işi savsaklamak"
+  ],
+  "tip": "slack gevşek ya da durgun anlamına gelir; slacks ise bol pantolon anlamında çoğul bir isimdir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "occupant",
+  "senses": [
+   "sakin; kullanıcı; yolcu"
+  ],
+  "ex": [
+   "Önceki sakin dairede bazı perdeler bırakmış.",
+   "Bina yönetmelikleri, yangın durumunda her sakinin güvenle çıkabilmesini sağlamalıdır."
+  ],
+  "col": [
+   "önceki sakin",
+   "bina sakinleri",
+   "araçtaki yolcular"
+  ],
+  "tip": "Gerçekte yaşayan ya da kullanan kişiyi anlatır; mülk sahibi (owner) olması gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "descendant",
+  "senses": [
+   "soyundan gelen; torun",
+   "türemiş; ardıl"
+  ],
+  "ex": [
+   "Soyundan gelenler hâlâ eski aile çiftliğinde yaşıyor.",
+   "Geleneksel el sanatlarını yaşatmak, yerel toplulukların soyundan gelenlerin kültürel mirasla anlamlı bağlarını sürdürmesine olanak tanır."
+  ],
+  "col": [
+   "doğrudan soyundan gelen",
+   "...in soyundan gelen",
+   "göçmenlerin torunları"
+  ],
+  "tip": "descendant 'torun, soyundan gelen' demektir; ancestor ise ata anlamına gelir ve tam tersini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "contend",
+  "senses": [
+   "iddia etmek; savunmak",
+   "başa çıkmak; mücadele etmek",
+   "yarışmak; rekabet etmek"
+  ],
+  "ex": [
+   "Mutfağımızın daha büyük bir masaya ihtiyacı olduğunu savunuyorum.",
+   "Bazı araştırmacılar, uygun fiyatlı toplu taşımanın yol genişletmekten daha etkili olduğunu savunuyor."
+  ],
+  "col": [
+   "...olduğunu savunmak",
+   "zorluklarla başa çıkmak",
+   "unvan için yarışmak"
+  ],
+  "tip": "contend that bir şeyin doğru olduğunu savunmak; contend with zorlukla mücadele etmek; contend for bir hedef için rekabet etmek anlamına gelir.",
+  "note": ""
+ }
+]

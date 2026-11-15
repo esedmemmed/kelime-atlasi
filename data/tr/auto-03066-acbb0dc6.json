@@ -1,0 +1,283 @@
+[
+ {
+  "id": "realize",
+  "senses": [
+   "fark etmek; anlamak",
+   "gerçekleştirmek"
+  ],
+  "ex": [
+   "Anahtarlarımı evde unuttuğumu fark ettim.",
+   "Uygun fiyatlı eğitimler, genç insanların potansiyellerini gerçekleştirmelerine ve daha ödüllendirici kariyerlere ulaşmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "-diğini fark etmek",
+   "bir hayali gerçekleştirmek",
+   "potansiyelini gerçekleştirmek",
+   "tamamen fark etmek"
+  ],
+  "tip": "İngiliz yazımında realise da kullanılır. Bir durumun farkına varmak anlamında that yan cümlesiyle kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "cheer",
+  "senses": [
+   "alkışlamak; tezahürat yapmak",
+   "tezahürat; alkış",
+   "neşelendirmek; moral vermek"
+  ],
+  "ex": [
+   "Komşumuz bitiş çizgisini geçerken biz alkışladık.",
+   "Seyirciler her katılımcıyı alkışladığında, yerel spor etkinlikleri daha güçlü bir aidiyet duygusu yaratabilir."
+  ],
+  "col": [
+   "birini desteklemek",
+   "birini neşelendirmek",
+   "yüksek sesli tezahürat",
+   "bir takımı desteklemek"
+  ],
+  "tip": "cheer on: birini destekleyerek teşvik etmek; cheer up: neşelenmek ya da birini neşelendirmek. İkisi farklı anlamdadır.",
+  "note": ""
+ },
+ {
+  "id": "nowadays",
+  "senses": [
+   "günümüzde; bugünlerde"
+  ],
+  "ex": [
+   "Bu günlerde market alışverişimi genellikle telefonumla ödüyorum.",
+   "Günümüzde birçok çalışan, mesleki ve ailevi sorumluluklarını dengelemesine olanak tanıyan esnek çalışma düzenleri bekliyor."
+  ],
+  "col": [
+   "günümüzde birçok insan",
+   "bugünlerde daha yaygın",
+   "bugünlerde pek kullanılmayan"
+  ],
+  "tip": "Genellikle basit şimdiki zamanla kullanılır. Cümle başında geldiğinde virgülle ayrılır. these days ile benzer anlamdadır.",
+  "note": ""
+ },
+ {
+  "id": "gum",
+  "senses": [
+   "sakız",
+   "diş eti",
+   "reçine; zamk"
+  ],
+  "ex": [
+   "Bana bir parça naneli sakız uzattı.",
+   "Düzenli diş muayeneleri, diş eti hastalığını ciddi zarar vermeden önce tespit etmeye yardımcı olabilir."
+  ],
+  "col": [
+   "çiğneme sakızı",
+   "bir parça sakız",
+   "diş eti hastalığı",
+   "doğal reçine"
+  ],
+  "tip": "Sakız sayılamayan bir isimdir. Diş eti anlamında genellikle çoğul gums kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "population",
+  "senses": [
+   "nüfus; halk",
+   "popülasyon; tür nüfusu"
+  ],
+  "ex": [
+   "Aileler buraya taşındıkça köyün nüfusu artıyor.",
+   "Yaşlanan nüfus, sağlık sistemleri üzerinde ek bir baskı oluşturabilir ve erişilebilir toplu taşıma talebini artırabilir."
+  ],
+  "col": [
+   "nüfus artışı",
+   "yaşlanan nüfus",
+   "nüfus yoğunluğu",
+   "kuş popülasyonu"
+  ],
+  "tip": "Nüfus büyüklüğünü anlatırken many ya da few değil, large ya da small kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "charity",
+  "senses": [
+   "hayır kurumu; yardım kuruluşu",
+   "yardım; hayırseverlik"
+  ],
+  "ex": [
+   "Kız kardeşim köpekleri kurtaran bir hayır kurumunda gönüllü çalışıyor.",
+   "Yerel hayır kurumları önemli destek sağlayabilir, ancak temel hizmetlere erişimi güvence altına almak hâlâ hükümetlerin sorumluluğundadır."
+  ],
+  "col": [
+   "bağış yapmak",
+   "hayır için para toplamak",
+   "hayır etkinliği"
+  ],
+  "tip": "Kuruluş anlamında sayılabilir, yardım veya hayırseverlik anlamında sayılamaz bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "cushion",
+  "senses": [
+   "minder; yastık",
+   "yumuşatmak; hafifletmek",
+   "tampon; güvence"
+  ],
+  "ex": [
+   "Sırtının arkasına yumuşak bir yastık koydu.",
+   "Acil durum birikimleri işsizliğin mali etkisini hafifletebilir ve ailelerin yaşam standartlarını korumasına yardımcı olabilir."
+  ],
+  "col": [
+   "yumuşak minder",
+   "darbeyi hafifletmek",
+   "mali güvence"
+  ],
+  "tip": "Fiil olarak genellikle impact (etki) ya da blow (darbe) ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "remove",
+  "senses": [
+   "çıkarmak; kaldırmak",
+   "gidermek; ortadan kaldırmak",
+   "görevden almak"
+  ],
+  "ex": [
+   "Yeni halıya basmadan önce lütfen ayakkabılarınızı çıkarın.",
+   "Hükümetler, nitelikli işçilerin iş gücü piyasasına girmesini engelleyen gereksiz engelleri kaldırmalıdır."
+  ],
+  "col": [
+   "lekeleri çıkarmak",
+   "engelleri kaldırmak",
+   "atığı kaldırmak",
+   "birini görevden almak"
+  ],
+  "tip": "remove A from B kalıbında kullanılır ve A'yı B'den çıkarmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "theme",
+  "senses": [
+   "tema; ana konu",
+   "tema müziği; ana melodi"
+  ],
+  "ex": [
+   "Doğum günü partisi için deniz kenarı temasını seçtik.",
+   "Ekonomik büyüme ile çevre koruma arasındaki ilişki, çağdaş kamuoyu tartışmalarında merkezi bir konudur."
+  ],
+  "col": [
+   "ana tema",
+   "tekrarlayan tema",
+   "tema müziği",
+   "tema parkı"
+  ],
+  "tip": "theme bir eserde tekrar eden ana fikri anlatır; topic ise tartışılan konuyu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "refer",
+  "senses": [
+   "değinmek; kastetmek",
+   "başvurmak; danışmak",
+   "yönlendirmek; havale etmek"
+  ],
+  "ex": [
+   "Lütfen rehberinizin içindeki haritaya bakın.",
+   "Doktorlar, belirtiler daha ayrıntılı inceleme veya tedavi gerektirdiğinde hastaları uzmanlara yönlendirebilir."
+  ],
+  "col": [
+   "bir rapora başvurmak",
+   "bir şeyi ... diye anmak",
+   "birini uzmana yönlendirmek"
+  ],
+  "tip": "Genellikle to ile kullanılır. Geçmiş zaman referred, -ing hâli referring biçimindedir (r harfi çift yazılır).",
+  "note": ""
+ },
+ {
+  "id": "separately",
+  "senses": [
+   "ayrı ayrı; ayrıca"
+  ],
+  "ex": [
+   "Ayrı ayrı ödedik, sonra öğle yemeğinden sonra birlikte yürüyerek eve döndük.",
+   "Hane halkları, yerel yönetimlerin onu daha verimli bir şekilde kompost haline getirebilmesi için yiyecek atıklarını ayrı toplamalıdır."
+  ],
+  "col": [
+   "ayrı satılan",
+   "ayrı ödemek",
+   "...den ayrı olarak"
+  ],
+  "tip": "Bir şeyden ayrı anlamında separately from kullanılır; with ile kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "temporary",
+  "senses": [
+   "geçici"
+  ],
+  "ex": [
+   "Yeni masa gelene kadar bu geçici masa idare eder.",
+   "Geçici konaklama, aileler uygun kalıcı konutların hazır olmasını beklerken temel barınma imkânı sağlar."
+  ],
+  "col": [
+   "geçici konaklama",
+   "geçici iş",
+   "geçici çözüm",
+   "geçici kapanma"
+  ],
+  "tip": "Sürenin sınırlı olduğunu vurgular. Zıt anlamlısı permanent (kalıcı) sözcüğüdür.",
+  "note": ""
+ },
+ {
+  "id": "criminal",
+  "senses": [
+   "suçla ilgili; cezai",
+   "suçlu"
+  ],
+  "ex": [
+   "Polis, depoda suç faaliyetine dair kanıtlar buldu.",
+   "Eğitim ve istihdam programları, gençlere daha iyi fırsatlar sunarak suç davranışını azaltabilir."
+  ],
+  "col": [
+   "cezai suç",
+   "sabıka kaydı",
+   "ceza adalet sistemi",
+   "suç davranışı"
+  ],
+  "tip": "criminal hem sıfat hem isim olarak kullanılır. crime ise isim olup 'suç' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "dinosaur",
+  "senses": [
+   "dinozor",
+   "geri kafalı kimse; modası geçmiş şey"
+  ],
+  "ex": [
+   "Müzede devasa bir dinozor iskeleti gördük.",
+   "Dinozor fosillerini incelemek, araştırmacıların antik çevrelerin bugünküyle nasıl farklı olduğunu anlamasına yardımcı olur."
+  ],
+  "col": [
+   "dinozor fosilleri",
+   "dinozor iskeleti",
+   "dinozorların yok oluşu"
+  ],
+  "tip": "Kişi ya da kurumlar için mecaz olarak kullanıldığında olumsuz bir anlam taşır; resmi yazıda dikkatli kullanılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "attract",
+  "senses": [
+   "ilgisini çekmek; cezbetmek",
+   "çekmek"
+  ],
+  "ex": [
+   "Parlak çiçekler küçük balkonumuza kelebekleri çekiyor.",
+   "Güvenilir toplu taşımaya yatırım yapan şehirler, işletmeleri ve nitelikli işçileri çekme olasılığı daha yüksek olan şehirlerdir."
+  ],
+  "col": [
+   "dikkat çekmek",
+   "turist çekmek",
+   "yatırım çekmek",
+   "müşteri çekmek"
+  ],
+  "tip": "Geçişli bir fiildir ve nesnesini doğrudan alır. Fiilden sonra to kullanılmaz (attract to yanlıştır).",
+  "note": ""
+ }
+]

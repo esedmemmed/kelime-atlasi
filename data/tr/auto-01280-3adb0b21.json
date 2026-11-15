@@ -1,0 +1,273 @@
+[
+ {
+  "id": "pc",
+  "senses": [
+   "kişisel bilgisayar"
+  ],
+  "ex": [
+   "Soğuk sabahlarda bilgisayarımın açılması çok uzun sürüyor.",
+   "Her öğrenciye bir kişisel bilgisayar sağlamak dijital kaynaklara erişimi artırabilir, ancak ciddi bir finansman gerektirir."
+  ],
+  "col": [
+   "masaüstü bilgisayar",
+   "bilgisayar kullanmak",
+   "bilgisayar yazılımı"
+  ],
+  "tip": "PC, personal computer'ın kısaltmasıdır; çoğulu PCs biçiminde yazılır. Türkçede de kısaltma olarak aynı şekilde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "degree",
+  "senses": [
+   "diploma; derece",
+   "derece; düzey",
+   "derece"
+  ],
+  "ex": [
+   "Kuzenim geçen yaz mühendislik alanında lisans derecesi aldı.",
+   "Üniversite diploması iş bulma olanaklarını artırabilse de birçok sektörde pratik deneyim hâlâ çok değerlidir."
+  ],
+  "col": [
+   "ekonomi alanında diploma",
+   "lisans derecesi",
+   "bir dereceye kadar",
+   "santigrat derece"
+  ],
+  "tip": "Bir alanda diploma anlamında a degree in + alan adı kullanılır. \"To some degree\" ifadesi \"bir dereceye kadar\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "textbook",
+  "senses": [
+   "ders kitabı",
+   "tipik; standart"
+  ],
+  "ex": [
+   "Fen bilgisi ders kitabımı mutfak masasında unuttum.",
+   "Dijital ders kitapları okul masraflarını azaltabilir, ancak bazı öğrenciler basılı materyallerle çalışmayı daha kolay bulur."
+  ],
+  "col": [
+   "okul ders kitabı",
+   "tipik bir örnek",
+   "ders kitabı yayıncısı"
+  ],
+  "tip": "Sıfat olarak kullanıldığında \"tipik, standart\" anlamına gelir; textbook example gibi isimden önce kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "leather",
+  "senses": [
+   "deri"
+  ],
+  "ex": [
+   "Eski deri çantası hâlâ yumuşak ve pürüzsüz.",
+   "Bazı tüketiciler hayvan refahı ve üretimin çevresel etkisi nedeniyle deri ürünlerden kaçınır."
+  ],
+  "col": [
+   "deri ceket",
+   "gerçek deri",
+   "deri ürünler",
+   "suni deri"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; leather jacket örneğinde isim, başka bir ismi niteleyerek kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "truck",
+  "senses": [
+   "kamyon",
+   "kamyonla taşımak"
+  ],
+  "ex": [
+   "Bu sabah bir kamyon pazara taze sebze teslim etti.",
+   "Malların kamyonla taşınması esneklik sağlar, ancak uzun mesafelerde demiryolu taşımacılığı emisyonları azaltabilir."
+  ],
+  "col": [
+   "teslimat kamyonu",
+   "kamyon şoförü",
+   "malları kamyonla taşımak"
+  ],
+  "tip": "Truck Amerikan İngilizcesinde yaygındır; İngiliz İngilizcesinde genellikle lorry kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "toaster",
+  "senses": [
+   "ekmek kızartma makinesi"
+  ],
+  "ex": [
+   "Makineden iki dilim ekmek fırladı.",
+   "Ekmek kızartma makineleri gibi küçük cihazlar sık sık değiştirilmek yerine kolay onarılabilecek şekilde tasarlanmalıdır."
+  ],
+  "col": [
+   "ekmeği makineye koymak",
+   "iki dilimlik ekmek kızartma makinesi",
+   "fırın tost makinesi"
+  ],
+  "tip": "Toaster bir alet adıdır; toast ise yiyeceğin kendisi anlamında, genellikle sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "yogurt",
+  "senses": [
+   "yoğurt"
+  ],
+  "ex": [
+   "Her sabah yoğurdumun içine taze yaban mersini karıştırırım.",
+   "Katkısız yoğurt, şeker eklemeden protein ve kalsiyum sağlayarak dengeli beslenmeye katkıda bulunabilir."
+  ],
+  "col": [
+   "katkısız yoğurt",
+   "yağı azaltılmış yoğurt",
+   "bir kap yoğurt"
+  ],
+  "tip": "İngilizcede yoghurt olarak da yazılır. Genellikle sayılamaz; bir kap için a pot of yogurt kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "recent",
+  "senses": [
+   "son; yakın zamanki"
+  ],
+  "ex": [
+   "Köpek yavrumuzun yeni fotoğraflarını gördün mü?",
+   "Tıp teknolojisindeki son gelişmeler, uzak topluluklarda yaşayan hastalar için tedavi seçeneklerini iyileştirdi."
+  ],
+  "col": [
+   "son araştırmalar",
+   "son gelişmeler",
+   "son yıllarda"
+  ],
+  "tip": "Recent bir sıfattır; bir eylemi niteleyen zarf olarak recently kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nearest",
+  "senses": [
+   "en yakın",
+   "en yakına"
+  ],
+  "ex": [
+   "Bana en yakın eczaneye giden yolu gösterebilir misiniz?",
+   "Kırsal kesimde yaşayan birçok kişi için en yakın hastane birkaç saat uzaklıktadır ve acil bakıma erişimi zorlaştırmaktadır."
+  ],
+  "col": [
+   "en yakın hastane",
+   "en yakın komşu",
+   "en yakın uygun",
+   "en yakın kilometreye"
+  ],
+  "tip": "Near sözcüğünün en üstünlük biçimidir; isimden önce kullanıldığında genellikle the nearest şeklinde olur.",
+  "note": ""
+ },
+ {
+  "id": "candle",
+  "senses": [
+   "mum"
+  ],
+  "ex": [
+   "Elektrikler kesilince bir mum yaktı.",
+   "Mumlar hoş bir atmosfer yaratsa da evlerde ve kamusal alanlarda gözetimsiz bırakılmamalıdır."
+  ],
+  "col": [
+   "mum yakmak",
+   "mumu üflemek",
+   "kokulu mum"
+  ],
+  "tip": "Mum yakmak için light, mumu söndürmek için blow out kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "behavior",
+  "senses": [
+   "davranış; tavır",
+   "işleyiş; tepki biçimi"
+  ],
+  "ex": [
+   "Köpek yavrusunun sakin davranışı parktaki herkesi şaşırttı.",
+   "Okullar, öğrencilere topluluklarını etkileyen kararlara katılma fırsatı vererek sorumlu davranışı teşvik edebilir."
+  ],
+  "col": [
+   "iyi davranış",
+   "tüketici davranışı",
+   "hayvan davranışı",
+   "davranış kalıpları"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımında behaviour biçimi kullanılır. Genellikle sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "factory",
+  "senses": [
+   "fabrika"
+  ],
+  "ex": [
+   "Teyzem bisiklet üreten bir fabrikada çalışıyor.",
+   "Hükümetler, fabrika sahiplerinin çalışanlarının güvenliğini ve geçimini tehlikeye atmadan zararlı emisyonları azaltmasını zorunlu kılmalıdır."
+  ],
+  "col": [
+   "fabrika işçisi",
+   "fabrika sahibi",
+   "fabrika üretimi"
+  ],
+  "tip": "Çoğulu factories biçimindedir (y, ies olur); ürün üreten yapının adıdır.",
+  "note": ""
+ },
+ {
+  "id": "available",
+  "senses": [
+   "mevcut; erişilebilir",
+   "boş; müsait"
+  ],
+  "ex": [
+   "Öğleden sonraki gösteri için hâlâ bilet var.",
+   "Uygun fiyatlı konutlar, gelir ya da istihdam durumlarından bağımsız olarak tüm sakinlere sunulmalıdır."
+  ],
+  "col": [
+   "kolayca bulunabilir",
+   "herkes için erişilebilir",
+   "kullanıma hazır",
+   "bir şeyi erişilebilir kılmak"
+  ],
+  "tip": "Available to kullanıcıyı, available for ise kullanım amacını belirtir.",
+  "note": ""
+ },
+ {
+  "id": "wish",
+  "senses": [
+   "keşke; -se ne iyi olurdu",
+   "dilek; arzu",
+   "dilemek; temenni etmek"
+  ],
+  "ex": [
+   "Keşke dairemizin mutfağı daha büyük olsaydı.",
+   "Birçok sakin, çocukların güvenle oynayabileceği ve ailelerin dinlenebileceği daha fazla yeşil alan olmasını diliyor."
+  ],
+  "col": [
+   "dilek tutmak",
+   "birine şans dilemek",
+   "en iyi dilekler",
+   "bir şey yapmayı arzulamak"
+  ],
+  "tip": "Wish'ten sonra geçmiş zaman, şimdiki durumla ilgili pişmanlığı; geçmiş zamanın hikâyesi için past perfect kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "furniture",
+  "senses": [
+   "mobilya"
+  ],
+  "ex": [
+   "Dans etmek için yer açmak amacıyla eşyaları taşıdık.",
+   "İkinci el mobilya almak, ham madde talebini azaltırken hane halkı giderlerini düşürebilir ve atığı sınırlayabilir."
+  ],
+  "col": [
+   "bir parça mobilya",
+   "ahşap mobilya",
+   "ikinci el mobilya",
+   "ofis mobilyası"
+  ],
+  "tip": "Sayılamayan bir isimdir; tek bir eşya için a piece of furniture denir, furnitures diye çoğul kullanılmaz.",
+  "note": ""
+ }
+]

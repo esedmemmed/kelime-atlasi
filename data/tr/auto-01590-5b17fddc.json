@@ -1,0 +1,291 @@
+[
+ {
+  "id": "worst",
+  "senses": [
+   "en kötü; en berbat",
+   "en kötü şekilde",
+   "en kötü durum; en kötüsü"
+  ],
+  "ex": [
+   "Şimdiye kadar pişirdiğim en kötü yemek buydu.",
+   "Hava kirliliğinin en ağır etkilerini çoğunlukla yoğun nüfuslu şehirlerdeki çocuklar ve yaşlılar yaşıyor."
+  ],
+  "col": [
+   "en kötü olası sonuç",
+   "en kötü ihtimalle",
+   "en kötüsüne hazırlanmak",
+   "en çok etkilenen"
+  ],
+  "tip": "bad ve badly sözcüklerinin en üstünlük derecesidir; karşılaştırması worse'tür. Genellikle the ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "quietly",
+  "senses": [
+   "sessizce; yavaşça",
+   "sessiz sedasız; gizlice"
+  ],
+  "ex": [
+   "Lütfen kapıyı sessizce kapat; bebek uyuyor.",
+   "Ortak çalışma alanlarında sessizce çalışan öğrenciler, konsantrasyonu destekleyen bir ortam yaratmaya yardımcı olur."
+  ],
+  "col": [
+   "alçak sesle konuşmak",
+   "sessizce oturmak",
+   "sakin bir özgüven"
+  ],
+  "tip": "Sıfat quiet, zarf quietly'dir. Quite (oldukça) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "cute",
+  "senses": [
+   "şirin; sevimli"
+  ],
+  "ex": [
+   "Şu sevimli kedi yavrusu terliğimin içinde uyuyor.",
+   "Reklamlar, dikkat çekmek ve ürüne karşı olumlu duygular yaratmak için sıklıkla sevimli hayvanlara yer verir."
+  ],
+  "col": [
+   "şirin bir bebek",
+   "sevimli bir gülümseme",
+   "sevimli görünmek"
+  ],
+  "tip": "Genellikle bebekler, hayvanlar ya da sevimli görünüşlü şeyler için kullanılır. Gündelik ve samimi bir sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "coach",
+  "senses": [
+   "antrenör; koç",
+   "uzun yol otobüsü",
+   "eğitmek; çalıştırmak"
+  ],
+  "ex": [
+   "Antrenörümüz raketi nasıl tutacağımızı gösterdi.",
+   "Yetenekli bir antrenör, genç sporcuların rekabete karşı sağlıklı tutumlar geliştirirken özgüven kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "spor antrenörü",
+   "otobüsle seyahat etmek",
+   "bir takımı çalıştırmak",
+   "birini sınava hazırlamak"
+  ],
+  "tip": "İngiliz İngilizcesinde coach uzun yol otobüsü anlamına da gelir. Amerikan İngilizcesinde bu anlamda genellikle bus kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "law",
+  "senses": [
+   "kanun; yasa",
+   "hukuk; hukuk bilimi",
+   "yasa; kural"
+  ],
+  "ex": [
+   "Kanun, sürücülerin kırmızı ışıkta durmasını zorunlu kılar.",
+   "Hükümetler, işletmelerin zararlı uygulamalarla avantaj elde etmesini önlemek için çevre yasalarını tutarlı biçimde uygulamalıdır."
+  ],
+  "col": [
+   "kanunu çiğnemek",
+   "kanunu uygulamak",
+   "hukuk okumak",
+   "fizik yasaları"
+  ],
+  "tip": "Belirli bir kanun sayılabilir (a law). Hukuk alanı anlamında ise sayılamaz: study law.",
+  "note": ""
+ },
+ {
+  "id": "bill",
+  "senses": [
+   "fatura; hesap",
+   "kanun tasarısı",
+   "banknot; kağıt para"
+  ],
+  "ex": [
+   "Öğle yemeğimizi bitirdikten sonra hesabı istedik.",
+   "Önerilen kanun tasarısı, şirketleri çevre üzerindeki etkileri hakkında daha fazla bilgi açıklamaya zorunlu kılacaktı."
+  ],
+  "col": [
+   "faturayı ödemek",
+   "elektrik faturası",
+   "kanun tasarısını kabul etmek",
+   "bir dolarlık banknot"
+  ],
+  "tip": "Meclis'te görüşülen bir tasarıdır. Kabul edilip yürürlüğe girdiğinde law (kanun) olur.",
+  "note": ""
+ },
+ {
+  "id": "should",
+  "senses": [
+   "-meli; -malı",
+   "-mesi beklenir; -malı",
+   "-malıydı; -meliydi"
+  ],
+  "ex": [
+   "Bulutlu göründüğü için yanına şemsiye almalısın.",
+   "Hükümetler, trafik sıkışıklığını azaltmak ve kentsel hava kalitesini iyileştirmek için uygun fiyatlı toplu taşımaya yatırım yapmalıdır."
+  ],
+  "col": [
+   "yapmalı",
+   "yapmış olmalıydı",
+   "yapabilmeli"
+  ],
+  "tip": "Yardımcı fiildir; fiilin yalın hali gelir ve özne için -s eklenmez. Olumsuzu should not ya da shouldn't'tir.",
+  "note": ""
+ },
+ {
+  "id": "environment",
+  "senses": [
+   "doğal çevre; çevre",
+   "ortam; çevre"
+  ],
+  "ex": [
+   "Çevrenin korunmasına yardımcı olmak için okula bisikletle gidiyoruz.",
+   "Destekleyici bir öğrenme ortamı, öğrencilerin özgüvenini artırabilir ve daha aktif katılmalarını teşvik edebilir."
+  ],
+  "col": [
+   "çevreyi korumak",
+   "doğal çevre",
+   "çalışma ortamı",
+   "öğrenme ortamı"
+  ],
+  "tip": "Genel anlamda doğal çevreden söz ederken the environment denir. Belirli bir ortam için sayılabilir: a working environment.",
+  "note": ""
+ },
+ {
+  "id": "perfect",
+  "senses": [
+   "mükemmel; kusursuz",
+   "mükemmelleştirmek; geliştirmek",
+   "-mış; tamamlanmış"
+  ],
+  "ex": [
+   "Bu sessiz köşe, öğle yemeğinden sonra okumak için mükemmel.",
+   "Hiçbir ulaşım sistemi kusursuz olmasa da güvenilir kamu hizmetleri, şehrin araçlara bağımlılığını önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "mükemmel zamanlama",
+   "... için mükemmel",
+   "bir tekniği mükemmelleştirmek",
+   "present perfect (şimdiki zamanın belirli hali)"
+  ],
+  "tip": "Sıfat olarak ilk heceye vurgu alır (PER-fect); fiil olarak ikinci heceye (per-FECT). Fiilin telaffuzu /pəˈfekt/'tir.",
+  "note": ""
+ },
+ {
+  "id": "southwest",
+  "senses": [
+   "güneybatı",
+   "güneybatıdaki; güneybatılı",
+   "güneybatıya; güneybatıda"
+  ],
+  "ex": [
+   "Köyümüz en yakın kasabanın güneybatısında yer alıyor.",
+   "Ülkenin güneybatısı, ılıman iklimi ve çeşitli kıyı manzaraları nedeniyle ziyaretçi çekiyor."
+  ],
+  "col": [
+   "güneybatıda",
+   "... in güneybatısında",
+   "güneybatıya doğru yönelmek",
+   "güneybatı kıyısı"
+  ],
+  "tip": "İngiliz İngilizcesinde south-west biçiminde de yazılır. Yön belirtirken in the southwest ya da southwest of kalıpları kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "weekly",
+  "senses": [
+   "haftalık",
+   "haftada bir",
+   "haftalık dergi"
+  ],
+  "ex": [
+   "Haftalık alışveriş gezimiz genellikle fırında biter.",
+   "Toplum merkezlerindeki haftalık egzersiz dersleri, yaşlı sakinlerin aktif kalmasına ve sosyal bağlar kurmasına yardımcı olabilir."
+  ],
+  "col": [
+   "haftalık toplantı",
+   "haftalık kazanç",
+   "haftada bir yayımlanan"
+  ],
+  "tip": "Hem sıfat hem zarf olabilir: a weekly meeting (sıfat), meet weekly (zarf). Sıfat olarak isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "kill",
+  "senses": [
+   "öldürmek",
+   "sona erdirmek; yok etmek"
+  ],
+  "ex": [
+   "Bu sabun ellerindeki mikropları öldürmeye yardımcı olur.",
+   "Pestisitlerin aşırı kullanımı yararlı böcekleri öldürebilir ve tarımsal ekosistemlerin doğal dengesini bozabilir."
+  ],
+  "col": [
+   "mikropları öldürmek",
+   "zaman öldürmek",
+   "ortadan kaldırmak",
+   "hevesi kırmak"
+  ],
+  "tip": "kill bir nesneye etki eden bir fiildir ve nesne alır. die ise kendiliğinden ölmek anlamına gelir ve nesne almaz.",
+  "note": ""
+ },
+ {
+  "id": "curtain",
+  "senses": [
+   "perde",
+   "sahne perdesi"
+  ],
+  "ex": [
+   "Yağmuru izlemek için perdeyi bir kenara çekti.",
+   "Eski evlerde her pencerenin üzerine kalın bir perde takmak, ısı kaybını azaltabilir ve konforu artırabilir."
+  ],
+  "col": [
+   "perdeleri çekmek",
+   "duş perdesi",
+   "sahne perdesi",
+   "perde rayı"
+  ],
+  "tip": "draw the curtains hem perdeleri açmak hem de kapatmak anlamına gelebilir; anlamı bağlamdan anlaşılır. Açmak için open, kapatmak için close da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pull",
+  "senses": [
+   "çekmek",
+   "çekiş; çekme kuvveti",
+   "kas incitmek"
+  ],
+  "ex": [
+   "Lütfen kapıyı itmek yerine nazikçe çek.",
+   "Atlar bir zamanlar şehirlerde ağır yükleri çekerdi; ancak motorlu araçlar zamanla çoğu taşıma görevinde onların yerini aldı."
+  ],
+  "col": [
+   "kası incitmek",
+   "kapıyı çekerek açmak",
+   "dişi çekmek",
+   "yerçekimi kuvveti"
+  ],
+  "tip": "pull bir şeyi kendine doğru çekmek, push ise itmek anlamına gelir. Kapılardaki PULL ve PUSH tabelalarında bu fark önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "traffic",
+  "senses": [
+   "trafik; araç trafiği",
+   "veri trafiği; ağ trafiği"
+  ],
+  "ex": [
+   "Yoğun trafik yine akşam yemeğine geç kalmamıza neden oldu.",
+   "Güvenilir toplu taşımaya yatırım yapmak, trafik sıkışıklığını azaltabilir ve kentsel hava kalitesini iyileştirebilir."
+  ],
+  "col": [
+   "yoğun trafik",
+   "trafik sıkışıklığı",
+   "trafik ışıkları",
+   "internet trafiği"
+  ],
+  "tip": "Araç trafiği anlamında sayılamaz; 'a traffic' denmez. Sayılabilir bir ifade gerekirse traffic jam (trafik sıkışıklığı) kullanılır.",
+  "note": ""
+ }
+]

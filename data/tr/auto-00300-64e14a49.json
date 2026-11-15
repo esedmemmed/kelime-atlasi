@@ -1,0 +1,285 @@
+[
+ {
+  "id": "hill",
+  "senses": [
+   "tepe; yamaç"
+  ],
+  "ex": [
+   "Gün batımını izlemek için tepeye tırmandık.",
+   "Dik yamaçlara ev yapmak inşaat maliyetlerini artırabilir ve sakinleri heyelan riskiyle karşı karşıya bırakabilir."
+  ],
+  "col": [
+   "bir tepeye tırmanmak",
+   "engebeli tepeler",
+   "dik bir yamaç"
+  ],
+  "tip": "hill ile mountain arasında kesin bir yükseklik sınırı yoktur; hill genellikle daha alçak yer şekillerini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "late",
+  "senses": [
+   "geç; geç kalmış",
+   "geç; geç vakit",
+   "rahmetli; merhum"
+  ],
+  "ex": [
+   "Bisikletimin lastiği patladığı için geç kaldım.",
+   "Sabahları düzenli olarak geç saate kadar uyanık kalan öğrenciler, sabah derslerinde dikkatini toplamakta zorlanabilir."
+  ],
+  "col": [
+   "...e geç kalmak",
+   "geç yatmak",
+   "gece geç saatte",
+   "son aşamalarda"
+  ],
+  "tip": "late zarf olarak 'geç' anlamına gelir; lately ise 'son zamanlarda' demektir, birbirinin yerine kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "age",
+  "senses": [
+   "yaş; yaşam süresi",
+   "dönem; çağ",
+   "yaşlanmak; ihtiyarlamak"
+  ],
+  "ex": [
+   "Büyükannem yetmiş yaşında yüzmeyi öğrendi.",
+   "Nüfus yaşlandıkça hükümetler erişilebilir konutlara ve topluluk sağlık hizmetlerine daha fazla yatırım yapmak zorunda kalıyor."
+  ],
+  "col": [
+   "...yaşında",
+   "dijital çağ",
+   "her yaştan insan",
+   "zarafetle yaşlanmak"
+  ],
+  "tip": "Bir yaşta olduğunu anlatırken at the age of kullanılır; in the age of ise 'çağında' gibi farklı bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "cake",
+  "senses": [
+   "kek; pasta",
+   "kaplamak; kabuk bağlamak"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra limonlu keklerden bir dilim paylaştık.",
+   "Okullar, kutlamalarda kek yerine taze meyve sunarak daha sağlıklı beslenmeyi teşvik edebilir."
+  ],
+  "col": [
+   "bir dilim kek",
+   "kek pişirmek",
+   "doğum günü pastası",
+   "çamura bulanmış olmak"
+  ],
+  "tip": "Bütün bir kek için a cake denir; yiyecek maddesi olarak genel anlamda ise sayılamaz (cake).",
+  "note": ""
+ },
+ {
+  "id": "photograph",
+  "senses": [
+   "fotoğraf; resim",
+   "fotoğrafını çekmek"
+  ],
+  "ex": [
+   "Bu fotoğrafta büyükannem ve büyükbabam ilk evlerinin yanında duruyor.",
+   "Tarihi fotoğraflar, kentsel manzaraların ve günlük yaşam tarzlarının zamanla nasıl değiştiğine dair değerli kanıtlar sunar."
+  ],
+  "col": [
+   "fotoğraf çekmek",
+   "aile fotoğrafı",
+   "siyah beyaz fotoğraf"
+  ],
+  "tip": "Fotoğraf çekmek için take a photograph denir; make kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "sound",
+  "senses": [
+   "ses; sada",
+   "kulağa gelmek; ses çıkarmak",
+   "sağlam; mantıklı"
+  ],
+  "ex": [
+   "Gün doğmadan önce yağmur sesi beni uyandırdı.",
+   "Çevre politikaları, halkın davranışlarına dair varsayımlar yerine sağlam bilimsel kanıtlara dayanmalıdır."
+  ],
+  "col": [
+   "akıllıca tavsiye",
+   "sağlam kanıt",
+   "...gibi gelmek",
+   "alarm vermek"
+  ],
+  "tip": "sound sıfatla birlikte kullanılır (sounds good); sound like ise ardından isim gelir (sounds like a plan).",
+  "note": ""
+ },
+ {
+  "id": "nationality",
+  "senses": [
+   "uyruk; tabiiyet",
+   "ulus; millet"
+  ],
+  "ex": [
+   "Başvuru formu benden uyruğumu ve adresimi istiyor.",
+   "Temel sağlık hizmetlerine erişim, kişinin uyruğuna veya gelirine değil tıbbi ihtiyacına bağlı olmalıdır."
+  ],
+  "col": [
+   "çifte vatandaşlık",
+   "uyruk kazanmak",
+   "farklı uluslardan insanlar"
+  ],
+  "tip": "nationality hukuki bağı, yani uyruğu anlatır; doğum yerini ya da etnik kökeni tek başına ifade etmez.",
+  "note": ""
+ },
+ {
+  "id": "open",
+  "senses": [
+   "açık; hizmete açık",
+   "açmak; işletmeye açmak",
+   "açık fikirli; yeniliğe açık"
+  ],
+  "ex": [
+   "Taze havanın içeri girmesi için pencereyi açık bırak.",
+   "Hükümetler, temel hizmetlere erişimi etkileyen politikaları geliştirirken halkın geri bildirimlerine açık kalmalıdır."
+  ],
+  "col": [
+   "kapıyı açmak",
+   "halka açık",
+   "önerilere açık olmak",
+   "açık fikirli kalmak"
+  ],
+  "tip": "be open açık durumu anlatır; open fiil olarak 'açmak' eylemini belirtir. Sıfat ve fiil kullanımını karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "singer",
+  "senses": [
+   "şarkıcı; sanatçı"
+  ],
+  "ex": [
+   "Kalabalık alkışlamaya başlayınca şarkıcı gülümsedi.",
+   "Yerel festivaller, genç şarkıcılara halka açık sahne alma ve yeteneklerine güven kazanma fırsatı sunar."
+  ],
+  "col": [
+   "baş vokal",
+   "profesyonel şarkıcı",
+   "opera şarkıcısı"
+  ],
+  "tip": "sing fiilinin geçmiş zamanı sang, geçmiş ortacı sung şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "true",
+  "senses": [
+   "doğru; gerçek",
+   "gerçek; hakiki",
+   "sadık; bağlı"
+  ],
+  "ex": [
+   "Kedinin kapıları açabildiği doğru mu?",
+   "Öğrenciler, akademik makalelerde kanıt olarak kullanmadan önce çevrimiçi iddiaların doğru olup olmadığını değerlendirmelidir."
+  ],
+  "col": [
+   "gerçek hikâye",
+   "gerçek olmak",
+   "geçerli olmak",
+   "sözünün eri olmak"
+  ],
+  "tip": "true gerçeğe uygunluğu, real ise gerçekte var olmayı vurgular.",
+  "note": ""
+ },
+ {
+  "id": "television",
+  "senses": [
+   "televizyon; yayın",
+   "televizyon cihazı",
+   "televizyon sektörü"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra televizyonda bir doğa belgeseli izledik.",
+   "Eğitici televizyon, sınıfta göstermesi zor olan bilimsel fikirleri çocuklara tanıtabilir."
+  ],
+  "col": [
+   "televizyon izlemek",
+   "televizyonda",
+   "televizyon programı",
+   "televizyon sektörü"
+  ],
+  "tip": "watch television yapısında artikel kullanılmaz; ancak bir cihazı kastediyorsan a television denir.",
+  "note": ""
+ },
+ {
+  "id": "back",
+  "senses": [
+   "sırt; arka taraf",
+   "geriye; eski yerine",
+   "desteklemek; arka çıkmak"
+  ],
+  "ex": [
+   "Bütün sabah oturduktan sonra sırtım tutuldu.",
+   "Yerel sakinler, trafik sıkışıklığını azaltan ve işe erişimi iyileştiren ulaşım projelerini büyük olasılıkla destekleyecektir."
+  ],
+  "col": [
+   "sırt ağrısı",
+   "geri dönmek",
+   "bir öneriyi desteklemek",
+   "...nin arkasında"
+  ],
+  "tip": "go back geri dönmek anlamına gelir; back fiil olarak da 'desteklemek, arkasında durmak' anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "gray",
+  "senses": [
+   "gri",
+   "gri renk",
+   "kasvetli; donuk"
+  ],
+  "ex": [
+   "Büyükbabam her kış gri bir palto giyer.",
+   "Gri beton yüzeyleri yeşil alanlarla değiştirmek, kentsel mahalleleri daha çekici ve davetkâr hâle getirebilir."
+  ],
+  "col": [
+   "gri saç",
+   "kasvetli gökyüzü",
+   "belirsiz durum"
+  ],
+  "tip": "gray Amerikan İngilizcesindeki yazımdır; İngiliz İngilizcesinde genellikle grey yazılır.",
+  "note": ""
+ },
+ {
+  "id": "anyone",
+  "senses": [
+   "herhangi biri; herkes",
+   "birisi; kimse"
+  ],
+  "ex": [
+   "Nehir kenarındaki hafta sonu yürüyüşümüze herkes katılabilir.",
+   "Kamu kütüphaneleri, geliri ne olursa olsun ihtiyacı olan herkese ücretsiz internet erişimi sağlamalıdır."
+  ],
+  "col": [
+   "başka herhangi biri",
+   "hemen hemen herkes",
+   "...olan herkes"
+  ],
+  "tip": "anyone tekil fiille kullanılır (Anyone is welcome); any one ise 'herhangi bir tanesi' anlamında ayrı yazılır.",
+  "note": ""
+ },
+ {
+  "id": "beautiful",
+  "senses": [
+   "güzel; hoş"
+  ],
+  "ex": [
+   "Bahar yağmurundan sonra bahçe çok güzel görünüyor.",
+   "Güzel doğal manzaraları korumak, değerli yaşam alanlarını gelecek nesiller için saklarken ziyaretçileri de çekebilir."
+  ],
+  "col": [
+   "güzel manzara",
+   "güzel bir ses",
+   "güzel bir görünüm"
+  ],
+  "tip": "Sadece görsel değil, ses ve deneyimler için de kullanılabilir; karşılaştırma more beautiful ile yapılır.",
+  "note": ""
+ }
+]

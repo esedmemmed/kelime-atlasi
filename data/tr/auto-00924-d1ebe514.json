@@ -1,0 +1,278 @@
+[
+ {
+  "id": "assistant",
+  "senses": [
+   "yardımcı; asistan",
+   "yardımcı"
+  ],
+  "ex": [
+   "Asistan, tedavi odasına taze havlular getirdi.",
+   "Öğretmen asistanları, kalabalık sınıflarda daha fazla bireysel ilgiye ihtiyaç duyan çocuklara ek destek sağlayabilir."
+  ],
+  "col": [
+   "öğretmen asistanı",
+   "kişisel asistan",
+   "mağaza görevlisi",
+   "asistan müdür"
+  ],
+  "tip": "Assistant insanı anlatır; 'yardım' anlamındaki assistance ise genellikle sayılamayan isimdir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "clearly",
+  "senses": [
+   "açıkça; net bir şekilde",
+   "açıkça; belli ki"
+  ],
+  "ex": [
+   "Herkesin duyabilmesi için lütfen net konuşun.",
+   "Halk sağlığı bilgileri, önerilen her tedavinin faydalarını ve olası risklerini açıkça anlatmalıdır."
+  ],
+  "col": [
+   "net konuşmak",
+   "açıkça açıklamak",
+   "açıkça görünür"
+  ],
+  "tip": "Cümle başında Clearly, 'belli ki' anlamına gelir. Yalnızca 'net biçimde' anlamıyla sınırlı değildir.",
+  "note": ""
+ },
+ {
+  "id": "swedish",
+  "senses": [
+   "İsveç'e ait; İsveççe ile ilgili",
+   "İsveççe"
+  ],
+  "ex": [
+   "İsveçli komşumuz bize tarçınlı çörek yapmayı öğretti.",
+   "İsveç şehirleri, kentsel planlamanın bisiklet kullanımını nasıl destekleyebileceğine ve araba bağımlılığını nasıl azaltabileceğine dair iyi örnekler sunuyor."
+  ],
+  "col": [
+   "İsveç kültürü",
+   "İsveççe öğrenmek",
+   "İsveç tasarımı"
+  ],
+  "tip": "Büyük harfle yazılır. Bir İsveçli erkek veya kadın için a Swede kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "curry",
+  "senses": [
+   "köri; körili yemek",
+   "köri ile pişirmek"
+  ],
+  "ex": [
+   "Bu sebzeli köri, pirinç ve sıcak ekmekle harika gidiyor.",
+   "Okul yemekhaneleri, et içermeyen bir seçenek olarak uygun fiyatlı sebzeli köri sunabilir."
+  ],
+  "col": [
+   "tavuklu köri",
+   "sebzeli köri",
+   "köri tozu",
+   "köri salçası"
+  ],
+  "tip": "Curry genellikle yemeği anlatır. Köri tozu için curry powder denir.",
+  "note": ""
+ },
+ {
+  "id": "nurse",
+  "senses": [
+   "hemşire",
+   "bakmak; bakım yapmak"
+  ],
+  "ex": [
+   "Hemşire bileğime özenle bandaj sardı.",
+   "Daha fazla toplum hemşiresi istihdam etmek, kırsalda yaşayan yaşlıların sağlık hizmetine erişimini artırabilir."
+  ],
+  "col": [
+   "diplomalı hemşire",
+   "toplum hemşiresi",
+   "birini iyileştirmek"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: nurse a patient (hastaya bakmak). Araya 'for' koymaya gerek yoktur.",
+  "note": ""
+ },
+ {
+  "id": "fan",
+  "senses": [
+   "hayran; meraklı",
+   "vantilatör; yelpaze",
+   "serinletmek; körüklemek"
+  ],
+  "ex": [
+   "Bir futbol hayranı olarak maçların hemen hepsini izlerim.",
+   "Spor severler, mahalle takımlarını destekleyerek ve ortak etkinliklere katılarak yerel toplulukları güçlendirebilir."
+  ],
+  "col": [
+   "-in hayranı",
+   "futbol hayranı",
+   "elektrikli vantilatör",
+   "ateşi körüklemek"
+  ],
+  "tip": "'...in hayranı' anlamında a fan of kullanılır. Doğru kalıp 'fan of'tur; 'fan for' demeyin.",
+  "note": ""
+ },
+ {
+  "id": "vase",
+  "senses": [
+   "vazo"
+  ],
+  "ex": [
+   "Pencerenin yanındaki vazoya taze çiçekler koydum.",
+   "Dekoratif vazolar da dahil olmak üzere geleneksel seramikler, geçmiş toplumların sanatsal uygulamaları hakkında değerli bilgiler verebilir."
+  ],
+  "col": [
+   "bir vazo çiçek",
+   "cam vazo",
+   "seramik vazo"
+  ],
+  "tip": "Telaffuz bölgeye göre değişir: İngiliz İngilizcesinde /vɑːz/, Amerikan İngilizcesinde /veɪs/ okunur.",
+  "note": ""
+ },
+ {
+  "id": "saw",
+  "senses": [
+   "testere",
+   "testere ile kesmek",
+   "gördü; fark etti"
+  ],
+  "ex": [
+   "Ahşap rafı kesmek için bir testere kullandı.",
+   "Son on yılda, özellikle hızla büyüyen kentsel alanlarda toplu taşımada önemli iyileşmeler görüldü."
+  ],
+  "col": [
+   "el testeresi",
+   "tahtayı testereyle kesmek",
+   "bir şeyi ikiye biçmek"
+  ],
+  "tip": "'Testere ile kesmek' fiili düzenlidir: sawed. 'Gördü' anlamındaki saw, see fiilinin geçmiş zamanıdır.",
+  "note": ""
+ },
+ {
+  "id": "trainer",
+  "senses": [
+   "eğitmen; antrenör",
+   "spor ayakkabısı"
+  ],
+  "ex": [
+   "Antrenörüm ağırlık kaldırmayı güvenli şekilde nasıl yapacağımı gösterdi.",
+   "Yetkin bir eğitmen, çalışanların iş performanslarını artıracak pratik becerileri geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "kişisel antrenör",
+   "fitness eğitmeni",
+   "bir çift spor ayakkabı"
+  ],
+  "tip": "Spor ayakkabısı İngiliz İngilizcesinde trainers, Amerikan İngilizcesinde sneakers olarak adlandırılır.",
+  "note": ""
+ },
+ {
+  "id": "till",
+  "senses": [
+   "-e kadar",
+   "-ene kadar",
+   "kasa"
+  ],
+  "ex": [
+   "Küçük fırın her akşam altıya kadar açık kalır.",
+   "Bazı ebeveynler akşam geç saatlere kadar çalışır; bu yüzden kentlerdeki aileler için uygun fiyatlı çocuk bakımı çok önemlidir."
+  ],
+  "col": [
+   "geç saate kadar",
+   "beklemek; bekle ki",
+   "kasada"
+  ],
+  "tip": "Till, until ile aynı anlama gelir. Zaman bağlacı olarak gelecekten söz ederken genellikle geniş zaman kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "divorced",
+  "senses": [
+   "boşanmış",
+   "kopuk; uzak"
+  ],
+  "ex": [
+   "Boşanmış amcam çocuklarının yakınında mutlu bir hayat sürüyor.",
+   "Konut politikaları, çocuk yetiştirmeyi paylaşan boşanmış ebeveynlerin ihtiyaçlarını dikkate almalıdır."
+  ],
+  "col": [
+   "boşanmak",
+   "boşanmış ebeveynler",
+   "gerçeklerden kopuk"
+  ],
+  "tip": "Boşanmak için get divorced kullanılır. 'Bir şeyden kopuk' anlamında divorced from kalıbı vardır.",
+  "note": ""
+ },
+ {
+  "id": "meaning",
+  "senses": [
+   "anlam",
+   "önem; anlam"
+  ],
+  "ex": [
+   "Bu alışılmadık kelimenin anlamını açıklayabilir misiniz?",
+   "Gönüllülük, insanlara yaşamlarında bir anlam duygusu verirken yerel topluluk bağlarını da güçlendirebilir."
+  ],
+  "col": [
+   "bir kelimenin anlamı",
+   "gerçek anlam",
+   "anlam iletmek",
+   "hayata anlam katmak"
+  ],
+  "tip": "Bir kelimenin anlamını sorarken the meaning of kullanılır. 'Görüş' anlamındaki opinion ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "spaghetti",
+  "senses": [
+   "spagetti"
+  ],
+  "ex": [
+   "Çatalına sardığı spagettiyi bir ısırık almadan önce döndürdü.",
+   "Sebzelerle yapılan spagetti gibi basit yemekler, öğrencilerin dengeli beslenmesine ve uygun maliyetle yemek yemesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir tabak spagetti",
+   "spagetti sosu",
+   "spagetti pişirmek"
+  ],
+  "tip": "Sayılamayan bir isimdir; çoğul yapılmaz. Bir porsiyon için a plate of spaghetti kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "garlic",
+  "senses": [
+   "sarımsak"
+  ],
+  "ex": [
+   "Çorbaya eklemeden önce sarımsağı ezin.",
+   "Sarımsak ve otlar kullanmak, yemeklere tuz eklemeden lezzet katabilir."
+  ],
+  "col": [
+   "bir diş sarımsak",
+   "ezilmiş sarımsak",
+   "sarımsaklı ekmek"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Bir diş sarımsak için a clove of garlic denir.",
+  "note": ""
+ },
+ {
+  "id": "control",
+  "senses": [
+   "kontrol; denetim",
+   "kontrol etmek; denetlemek",
+   "kumanda; kontrol düğmesi"
+  ],
+  "ex": [
+   "Uçurtmayı ipinden sıkıca tutarak kontrol altında tutun.",
+   "Endüstriyel emisyonların daha sıkı denetlenmesi, yoğun nüfuslu kentlerde hava kalitesini artırabilir ve sağlık risklerini azaltabilir."
+  ],
+  "col": [
+   "kontrolü ele almak",
+   "kontrol altında",
+   "kontrolü kaybetmek",
+   "kirliliği kontrol etmek"
+  ],
+  "tip": "Geçmiş zaman controlled, ing hâli controlling biçimindedir; son l harfi iki kez yazılır.",
+  "note": ""
+ }
+]

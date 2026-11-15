@@ -1,0 +1,271 @@
+[
+ {
+  "id": "degrade",
+  "senses": [
+   "bozmak; kalitesini düşürmek",
+   "parçalamak; ayrıştırmak",
+   "aşağılamak; onursuzlaştırmak"
+  ],
+  "ex": [
+   "Güçlü güneş ışığı, dış mekân sandalyelerinin kumaşını bozabilir.",
+   "Yoğun tarım, toprağın kalitesini düşürebilir ve gelecekte sağlıklı ürün yetiştirmeyi zorlaştırabilir."
+  ],
+  "col": [
+   "toprağın kalitesini düşürmek",
+   "çevreyi bozmak",
+   "zamanla bozulmak"
+  ],
+  "tip": "Kalite düşüşü anlamında geçişli; kimyasal parçalanma anlamında geçişsiz de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "hoist",
+  "senses": [
+   "kaldırmak; çekmek",
+   "vinç; asansör"
+  ],
+  "ex": [
+   "Ağır bavulu büyük güçlükle bagaj rafına kaldırdık.",
+   "İnşaat işçileri, fiziksel yükü ve iş kazalarını azaltmak için ağır malzemeleri özel ekipmanla güvenli biçimde kaldırır."
+  ],
+  "col": [
+   "bayrak çekmek",
+   "yelken çekmek",
+   "yerine kaldırmak",
+   "elektrikli vinç"
+  ],
+  "tip": "Genellikle zorlanarak ya da halat ve makineyle bir şeyi yukarı çekmek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "seizure",
+  "senses": [
+   "nöbet; kriz",
+   "el koyma; müsadere"
+  ],
+  "ex": [
+   "Kardeşi nöbet geçirdiğinde hemen ambulans çağırdı.",
+   "Halk sağlığı kampanyaları, birisi nöbet geçirdiğinde insanlara güvenli şekilde nasıl davranacaklarını öğretebilir."
+  ],
+  "col": [
+   "nöbet geçirmek",
+   "epilepsi nöbeti",
+   "varlıklara el koyma",
+   "iktidarın ele geçirilmesi"
+  ],
+  "tip": "Tıbbi anlamda genellikle have ile kullanılır; mal varlığına el koymak için seizure of kalıbı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "asymmetric",
+  "senses": [
+   "asimetrik; simetrik olmayan",
+   "dengesiz; eşit olmayan"
+  ],
+  "ex": [
+   "Ceketin yaka tasarımı asimetrik, ama cepleri derin.",
+   "Pazar bilgisine eşit olmayan erişim, küçük işletmeleri büyük firmalarla pazarlık yaparken dezavantajlı duruma düşürebilir."
+  ],
+  "col": [
+   "asimetrik tasarım",
+   "asimetrik bilgi",
+   "asimetrik dağılım"
+  ],
+  "tip": "Şekil ya da parçaların uyumsuzluğu için de, bilgi ya da güç dengesizliği için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "permissible",
+  "senses": [
+   "izin verilebilir; kabul edilebilir"
+  ],
+  "ex": [
+   "Bu müzede fotoğraf çekmek serbest mi?",
+   "Hükümetler, endüstri bölgelerinde halk sağlığını korumak için izin verilen emisyonlara açık sınırlar koymalıdır."
+  ],
+  "col": [
+   "izin verilen sınırlar",
+   "yasal olarak izin verilen",
+   "izin verilen düzeyler"
+  ],
+  "tip": "It is permissible to do sth. kalıbı resmî bir ifadedir; allowed'a göre daha resmî bir dil tonu taşır.",
+  "note": ""
+ },
+ {
+  "id": "revive",
+  "senses": [
+   "yeniden canlandırmak",
+   "kendine gelmek; canlanmak"
+  ],
+  "ex": [
+   "Komşularımız her yıl yapılan sokak şenliğini yeniden canlandırmayı umuyor.",
+   "Toplu taşımaya yapılan yatırım, yerel işletmeleri daha erişilebilir kılarak gerileyen şehir merkezlerini canlandırabilir."
+  ],
+  "col": [
+   "ekonomiyi canlandırmak",
+   "ilgiyi yeniden canlandırmak",
+   "bir geleneği yaşatmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: revive a tradition (geçişli); hopes revive (geçişsiz).",
+  "note": ""
+ },
+ {
+  "id": "cubism",
+  "senses": [
+   "kübizm"
+  ],
+  "ex": [
+   "Yüzleri üst üste binen geometrik şekillerle resmederek kübizmi inceledik.",
+   "Kübizm, doğal görünümleri taklit etmek yerine tek bir resimde birden fazla bakış açısını sunarak geleneksel sanat anlayışına meydan okudu."
+  ],
+  "col": [
+   "kübizmin gelişimi",
+   "analitik kübizm",
+   "sentetik kübizm"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; sanatçı için cubist, sıfat olarak da aynı sözcük kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "senator",
+  "senses": [
+   "senatör"
+  ],
+  "ex": [
+   "Senatör, topluluk toplantımızda endişeleri dikkatle dinledi.",
+   "Bir senatör sağlık hizmetlerine erişimi iyileştirmek için yasa önerisinde bulunabilir, ancak onay için diğer yasama üyelerinin desteği gerekir."
+  ],
+  "col": [
+   "senatör seçmek",
+   "senatör olarak görev yapmak",
+   "kıdemli bir senatör"
+  ],
+  "tip": "senator bir kişiyi, senate ise yasama organını ifade eder; ikisini karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "drench",
+  "senses": [
+   "sırılsıklam etmek; ıslatmak"
+  ],
+  "ex": [
+   "Eve dönerken ani bir sağanak bizi sırılsıklam etti.",
+   "Şiddetli fırtınalar tarım arazilerini dakikalar içinde sular altında bırakabilir; bu da yüzey akışını artırıp değerli üst toprağı yakındaki nehirlere sürükler."
+  ],
+  "col": [
+   "sırılsıklam olmak",
+   "terden sırılsıklam",
+   "birini suyla ıslatmak"
+  ],
+  "tip": "Tamamen ıslanma vurgulanır; genellikle be drenched biçiminde edilgen olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fir",
+  "senses": [
+   "köknar; köknar ağacı"
+  ],
+  "ex": [
+   "Uzun bir köknar ağacı, kulübemizin arkasındaki patikaya gölge yapıyordu.",
+   "Köknar ormanları yaban hayatına yaşam alanı sağlar ve şiddetli yağışlar sırasında dağ yamaçlarını erozyona karşı korur."
+  ],
+  "col": [
+   "köknar ağacı",
+   "köknar ormanı",
+   "köknar iğne yaprakları"
+  ],
+  "tip": "fir (köknar) ile fur (kürk) sesteştir ama anlamları farklıdır; fur kürk demektir.",
+  "note": ""
+ },
+ {
+  "id": "living-quarter",
+  "senses": [
+   "yaşam alanı; konaklama yeri"
+  ],
+  "ex": [
+   "Yaşam alanlarımız küçüktü ama sıcak ve rahattı.",
+   "İşverenler, özellikle konut imkânı kısıtlı uzak tarım bölgelerinde, mevsimlik işçiler için güvenli barınma yerleri sağlamalıdır."
+  ],
+  "col": [
+   "dar yaşam alanları",
+   "personel barınma yerleri",
+   "paylaşılan yaşam alanları"
+  ],
+  "tip": "Yer anlamında her zaman çoğul kullanılır: living quarters; ona uyan fiil de çoğul olmalıdır.",
+  "note": "“living quarter” ifadesi, yerleşik kullanımdaki çoğul “living quarters” biçimine değiştirildi."
+ },
+ {
+  "id": "redeem",
+  "senses": [
+   "değiştirmek; takas etmek",
+   "telafi etmek; kurtarmak",
+   "geri almak; rehinden çıkarmak"
+  ],
+  "ex": [
+   "Bu kuponu ücretsiz öğle yemeği için kullanabilirsin.",
+   "Perakendeciler, müşterilerin sadakat puanlarını geri dönüştürülmüş malzemelerden üretilen ürünlerle takas etmesine giderek daha fazla izin veriyor."
+  ],
+  "col": [
+   "kuponu kullanmak",
+   "puanları harcamak",
+   "kendini telafi etmek",
+   "telafi edici özellik"
+  ],
+  "tip": "redeem A for B: A'yı B ile değiştirmek anlamına gelir. Bağlama göre 'telafi etmek' ya da 'geri almak' anlamı da olabilir.",
+  "note": ""
+ },
+ {
+  "id": "allude",
+  "senses": [
+   "dolaylı değinmek; ima etmek"
+  ],
+  "ex": [
+   "Bir sürprizden bahsetti ama ayrıntı vermedi.",
+   "Rapor finansman sorunlarına dolaylı olarak değiniyor, ancak bunların önerilen ulaşım iyileştirmelerini nasıl etkileyebileceğini açıklamıyor."
+  ],
+  "col": [
+   "bir soruna değinmek",
+   "geçmişe değinmek"
+  ],
+  "tip": "Her zaman allude to kalıbında, to'dan sonra isim ya da isim tamlaması ile kullanılır; elude (kaçmak) ile karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "ballot",
+  "senses": [
+   "gizli oylama; oylama",
+   "oy pusulası",
+   "oylamaya başvurmak"
+  ],
+  "ex": [
+   "Kulübümüz yeni başkanını gizli oylamayla seçti.",
+   "Gizli oylama, vatandaşların başkalarının baskısından çekinmeden siyasi tercihlerini ifade etmesine olanak tanır."
+  ],
+  "col": [
+   "gizli oylama",
+   "oy pusulası",
+   "oy sandığı",
+   "oylama yapmak"
+  ],
+  "tip": "Hem isim hem fiil olarak kullanılır; by secret ballot ifadesi 'gizli oyla' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "torpedo",
+  "senses": [
+   "torpido",
+   "boşa çıkarmak; sabote etmek"
+  ],
+  "ex": [
+   "Deniz müzesinde eski bir torpidoyu gördük.",
+   "Beklenmedik finansman kesintileri, hızla büyüyen kentsel bölgelerde toplu taşımayı genişletme planlarını sekteye uğratabilir."
+  ],
+  "col": [
+   "torpido fırlatmak",
+   "torpido tüpü",
+   "bir planı sabote etmek"
+  ],
+  "tip": "Çoğulu torpedoes'dur. Mayın anlamında mine kullanılır; ikisini karıştırma.",
+  "note": ""
+ }
+]

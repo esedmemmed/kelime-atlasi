@@ -1,0 +1,287 @@
+[
+ {
+  "id": "soccer",
+  "senses": [
+   "futbol"
+  ],
+  "ex": [
+   "Her cumartesi sabahı parkta futbol oynuyoruz.",
+   "Topluluk futbol kulüpleri, öğrencilere sınıf dışında uygun fiyatlı spor imkânı sunar ve takım çalışması becerilerini geliştirmelerine yardımcı olur."
+  ],
+  "col": [
+   "futbol oynamak",
+   "futbol takımı",
+   "futbol sahası",
+   "futbol maçı"
+  ],
+  "tip": "İngiliz İngilizcesinde football, Amerikan İngilizcesinde soccer denir. Türkçedeki 'futbol' her iki anlama da karşılık gelir.",
+  "note": ""
+ },
+ {
+  "id": "boot",
+  "senses": [
+   "bot; çizme",
+   "bagaj",
+   "başlatmak"
+  ],
+  "ex": [
+   "Yağmurda botlarım ayaklarımı kuru tuttu.",
+   "İnşaat işçileri için koruyucu botlar, ciddi ayak yaralanmalarının riskini azalttığı için vazgeçilmezdir."
+  ],
+  "col": [
+   "bir çift bot",
+   "yürüyüş botları",
+   "araba bagajı",
+   "bilgisayarı başlatmak"
+  ],
+  "tip": "Araba bagajı anlamında İngiliz İngilizcesi boot, Amerikan İngilizcesi trunk kullanır. Fiil olarak bilgisayarı açmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "ring",
+  "senses": [
+   "yüzük; halka",
+   "çalmak",
+   "aramak"
+  ],
+  "ex": [
+   "Gümüş yüzüğü parmağına kaydırdı.",
+   "Yolcular, toplu taşımada tekrar tekrar çalan cihazların diğerlerini rahatsız edebileceğini düşünerek telefonlarını sessize almalıdır."
+  ],
+  "col": [
+   "düğün yüzüğü",
+   "kapı zilini çalmak",
+   "birini aramak",
+   "ağaçlardan oluşan halka"
+  ],
+  "tip": "Düzensiz fiil: ring – rang – rung. 'Give someone a ring' kalıbı telefonla birini aramak anlamında günlük konuşmada yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "heating",
+  "senses": [
+   "ısıtma sistemi; kalorifer",
+   "ısıtma"
+  ],
+  "ex": [
+   "Akşam hava serinleyince kaloriferi açtık.",
+   "Evin yalıtımını iyileştirmek, ısınma giderlerini azaltabilir ve hanelerin enerji tüketiminin çevreye etkisini düşürebilir."
+  ],
+  "col": [
+   "merkezi ısıtma",
+   "yerden ısıtma",
+   "ısınma faturaları",
+   "ısıtma sistemi"
+  ],
+  "tip": "Genellikle sayılamaz ve başına the getirilir: turn on the heating (ısıtmayı açmak).",
+  "note": ""
+ },
+ {
+  "id": "smoke",
+  "senses": [
+   "duman",
+   "sigara içmek",
+   "tütmek"
+  ],
+  "ex": [
+   "Mutfakta tostun üzerinden koyu renkli duman yükseldi.",
+   "Orman yangınlarının dumanı, yüzlerce kilometre uzaktaki şehirlerde hava kalitesini düşürebilir."
+  ],
+  "col": [
+   "yoğun duman",
+   "duman dedektörü",
+   "sigara içmek",
+   "duman çıkarmak"
+  ],
+  "tip": "'Duman' anlamında genellikle sayılamaz. Sıfat olarak smoky (dumanlı, tüten) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "recording",
+  "senses": [
+   "kayıt; ses/görüntü kaydı",
+   "kaydetme; kayıt yapma"
+  ],
+  "ex": [
+   "Kahvaltı sırasında kuşların sesinin kaydını dinledik.",
+   "Ders kaydına erişim, öğrencilerin zor kavramları kendi hızlarında gözden geçirmesini sağlar."
+  ],
+  "col": [
+   "kayıt yapmak",
+   "kayıt stüdyosu",
+   "ses kaydı",
+   "doğru kayıt"
+  ],
+  "tip": "Kaydedilmiş bir parça sayılabilir (a recording); kaydetme işlemi anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "non-smoking",
+  "senses": [
+   "sigara içilmeyen; sigarasız",
+   "sigara içmeyen"
+  ],
+  "ex": [
+   "Resepsiyonda sigara içilmeyen bir oda istedik.",
+   "Kamu binalarındaki sigara içilmeyen alanlar, ziyaretçileri ve çalışanları tütün dumanına maruz kalmaktan korumaya yardımcı olur."
+  ],
+  "col": [
+   "sigara içilmeyen oda",
+   "sigara içilmeyen alan",
+   "sigara içmeyen hane"
+  ],
+  "tip": "Hem yerler hem de kişiler için kullanılabilir. Kişi için non-smoker da yaygın bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "postcode",
+  "senses": [
+   "posta kodu"
+  ],
+  "ex": [
+   "Formu doldururken lütfen posta kodunuzu da yazın.",
+   "Araştırmacılar, farklı yerleşim alanlarında toplu taşımaya erişimi karşılaştırmak için posta kodu verilerini kullandı."
+  ],
+  "col": [
+   "posta kodu girmek",
+   "posta kodu bölgesi",
+   "posta kodu araması"
+  ],
+  "tip": "İngiliz İngilizcesinde postcode, Amerikan İngilizcesinde ZIP code kullanılır. Anlamı Türkçedeki posta koduyla aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "blonde",
+  "senses": [
+   "sarışın; sarı",
+   "sarışın kadın"
+  ],
+  "ex": [
+   "Sarı saçları öğleden sonra güneşte parlıyordu.",
+   "Sarışın saçı sürekli belirli kişilik özellikleriyle ilişkilendiren filmler, görünüşle ilgili haksız klişeleri pekiştirebilir."
+  ],
+  "col": [
+   "sarı saç",
+   "doğal sarışın",
+   "platin sarısı"
+  ],
+  "tip": "Genellikle kadın ve kız çocukları için kullanılır; erkekler için blond tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "lend",
+  "senses": [
+   "ödünç vermek",
+   "destek vermek; katmak"
+  ],
+  "ex": [
+   "Yarına kadar şemsiyeni bana ödünç verebilir misin?",
+   "Yerel bankalar, küçük işletmelere daha temiz üretim yöntemlerine yatırım yapmaları için para ödünç verebilir."
+  ],
+  "col": [
+   "birine bir şey ödünç vermek",
+   "birine borç para vermek",
+   "birine destek olmak",
+   "birine yardım etmek"
+  ],
+  "tip": "Lend ödünç vermek, borrow ödünç almak anlamına gelir. Geçmiş zaman biçimi lent'tir.",
+  "note": ""
+ },
+ {
+  "id": "sandal",
+  "senses": [
+   "sandalet"
+  ],
+  "ex": [
+   "Sandaletimin içine küçük bir taş girdi.",
+   "Sıcak iklimlerde sandaletler yaygındır, çünkü açık tasarımları ayakların çevresinde havanın dolaşmasını sağlar."
+  ],
+  "col": [
+   "bir çift sandalet",
+   "deri sandalet",
+   "düz tabanlı sandalet"
+  ],
+  "tip": "Tek bir sandalet için sandal, bir çift için a pair of sandals denir. Çoğul sandals da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "interest",
+  "senses": [
+   "ilgi",
+   "faiz",
+   "ilgisini çekmek"
+  ],
+  "ex": [
+   "Yemek pişirmeye olan ilgim büyükannemin mutfağında başladı.",
+   "Okullar, öğrencilere deney yapma ve pratik sorunları keşfetme fırsatı vererek bilime olan ilgiyi artırabilir."
+  ],
+  "col": [
+   "ile ilgilenmek",
+   "ilgi uyandırmak",
+   "faiz oranı",
+   "faiz ödemek"
+  ],
+  "tip": "Genel ilgi için sayılamaz; belirli bir ilgi alanı için interests çoğul kullanılır. 'Interest in' kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "dead",
+  "senses": [
+   "ölü",
+   "boşalmış; çalışmayan",
+   "tamamen; tam olarak"
+  ],
+  "ex": [
+   "Balkondaki saksılardan ölü çiçekleri çıkardık.",
+   "Ormanlarda ölü ağaçları bırakmak, böcekler ve küçük hayvanlar için yaşam alanı sağlayarak biyolojik çeşitliliği destekleyebilir."
+  ],
+  "col": [
+   "ölü yapraklar",
+   "bitmiş pil",
+   "mutlak sessizlik",
+   "tam merkez"
+  ],
+  "tip": "Dead sıfattır ve durumu anlatır; die fiildir (ölmek), death isimdir (ölüm).",
+  "note": ""
+ },
+ {
+  "id": "duck",
+  "senses": [
+   "ördek; ördek eti",
+   "eğilmek; kaçınmak",
+   "kaçınmak; sıyrılmak"
+  ],
+  "ex": [
+   "Bir ördek, birkaç minik yavrusuyla yanımızdan yüzerek geçti.",
+   "Sağlıklı göletleri olan kentsel parklar, yıl boyunca ördekler ve diğer yabani hayvanlar için değerli yaşam alanları sağlar."
+  ],
+  "col": [
+   "yabani ördek",
+   "kızarmış ördek",
+   "başını eğmek",
+   "bir soruya kaçamak yapmak"
+  ],
+  "tip": "Hayvan için sayılabilir, et için sayılamaz. Fiil olarak hem 'eğilmek' hem de 'bir durumdan kaçınmak' anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "mean",
+  "senses": [
+   "kastetmek; anlam taşımak",
+   "cimri; kaba",
+   "ortalama"
+  ],
+  "ex": [
+   "Seni dışarıda beklettiğim için üzgünüm, bilerek yapmadım.",
+   "Enerji fiyatlarının yükselmesi, düşük gelirli hanelerin diğer temel ihtiyaçlar için daha az parası olduğu anlamına gelebilir."
+  ],
+  "col": [
+   "bir şey yapmayı kastetmek",
+   "bir şeye yol açmak",
+   "ortalama değer",
+   "birine kaba davranmak"
+  ],
+  "tip": "mean to do: bir şeyi yapmayı niyetlemek; mean doing: bir şeye yol açmak. Bu iki kalıbı karıştırmamaya dikkat edin.",
+  "note": ""
+ }
+]

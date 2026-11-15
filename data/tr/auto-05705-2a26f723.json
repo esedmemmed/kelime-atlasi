@@ -1,0 +1,275 @@
+[
+ {
+  "id": "fulfillment",
+  "senses": [
+   "tatmin; doyum",
+   "yerine getirme; gerçekleştirme"
+  ],
+  "ex": [
+   "Çocuklara yüzmeyi öğretmekte tatmin buluyor.",
+   "Birçok çalışan için kariyer seçerken kişisel doyum, maddi güvenlik kadar önemlidir."
+  ],
+  "col": [
+   "kişisel tatmin",
+   "başarı hissi; tatmin duygusu",
+   "yükümlülüklerin yerine getirilmesi",
+   "sipariş karşılama"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz İngilizcesinde fulfilment biçimi kullanılır. Sınavda iki yazımdan birini tutarlı biçimde seçin.",
+  "note": ""
+ },
+ {
+  "id": "stationer",
+  "senses": [
+   "kırtasiyeci"
+  ],
+  "ex": [
+   "Kırtasiyeci okul için bir defter seçmeme yardımcı oldu.",
+   "Yerel bir kırtasiye, internetteki daha ucuz ofis malzemesi satan perakendecilerle rekabet etmekte zorlanabilir."
+  ],
+  "col": [
+   "yerel kırtasiyeci",
+   "caddedeki kırtasiye",
+   "kırtasiyede"
+  ],
+  "tip": "Dükkân için stationer's kullanılır. stationery (kırtasiye malzemesi) ile stationary (hareketsiz) sözcüklerini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "microbe",
+  "senses": [
+   "mikroorganizma; mikrop"
+  ],
+  "ex": [
+   "Bazı mikroplar taze sütün kalın yoğurda dönüşmesine yardımcı olur.",
+   "Toprakta yaşayan mikroorganizmalar, besin maddelerinin geri dönüşümünde ve tarım arazilerinin verimliliğinin korunmasında önemli rol oynar."
+  ],
+  "col": [
+   "toprak mikropları",
+   "zararlı mikroplar",
+   "yararlı mikroplar"
+  ],
+  "tip": "Her zaman zararlı değildir. Hastalık yapan mikroplar için genellikle germ kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "steamer",
+  "senses": [
+   "buharlık; buharlı pişirici",
+   "buharlı gemi; vapur"
+  ],
+  "ex": [
+   "Mantıları on dakika boyunca buharlıkta pişirin.",
+   "Buharlı gemilerin ortaya çıkışı, malların uzun mesafelere daha güvenilir biçimde taşınmasını sağlayarak nehir ticaretini dönüştürdü."
+  ],
+  "col": [
+   "bambu buharlık",
+   "sebze buharlığı",
+   "çarklı vapur"
+  ],
+  "tip": "Bağlama göre ya yemek pişirme aracı ya da buharlı gemi anlamına gelir. Cümlenin konusuna dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "twilight",
+  "senses": [
+   "alacakaranlık; loş ışık",
+   "son dönem; alacakaranlık"
+  ],
+  "ex": [
+   "Parkın içinden alacakaranlıkta eve doğru yürüdük.",
+   "Kariyerlerinin son döneminde deneyimli sporcular, koçluk ve mentorluk yaparak genç rakiplerini destekleyebilir."
+  ],
+  "col": [
+   "alacakaranlıkta",
+   "alacakaranlık içinde",
+   "kariyerin son dönemi"
+  ],
+  "tip": "Genellikle günbatımından sonraki loş ışığı anlatır; şafak öncesi için de kullanılabilir. Mecaz anlamı bir sürecin sonunu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "entrant",
+  "senses": [
+   "yarışmacı; katılımcı",
+   "yeni katılan; yeni giren"
+  ],
+  "ex": [
+   "Her yarışmacı yarışmaya ev yapımı bir kek getirdi.",
+   "Yenilenebilir enerji piyasasına yeni girenler, yerleşik şirketlerle yatırım için rekabet etmekte genellikle zorlanır."
+  ],
+  "col": [
+   "yarışmacı",
+   "yeni giren",
+   "piyasaya yeni giren"
+  ],
+  "tip": "Yeni bir alana girenleri anlatırken entrant to kalıbı kullanılır. entrance ise giriş ya da kapı anlamına gelir, karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cardinal",
+  "senses": [
+   "temel; en önemli",
+   "kardinal; kilise ileri geleni",
+   "kardinal kuşu"
+  ],
+  "ex": [
+   "Temel kuralımız kimseyi geride bırakmamaktır.",
+   "Hastaneler yeni dijital kayıt sistemleri tanıtırken hasta gizliliğinin korunması temel bir ilke olmalıdır."
+  ],
+  "col": [
+   "temel kural",
+   "temel ilke",
+   "temel hata",
+   "temel sayı"
+  ],
+  "tip": "cardinal number temel sayıdır (1, 2, 3); ordinal number ise sıra sayısıdır (1., 2., 3.). Bu iki terimi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "fallacy",
+  "senses": [
+   "yanılgı; yanlış inanış",
+   "mantık hatası; safsata"
+  ],
+  "ex": [
+   "Pahalı ayakkabıların her zaman daha uzun ömürlü olduğu bir yanılgıdır.",
+   "Ekonomik büyümenin her vatandaşa otomatik fayda sağladığı iddiası, servetin nasıl dağıtıldığına dair bir yanılgıya dayanır."
+  ],
+  "col": [
+   "yaygın bir yanılgı",
+   "mantık hatası",
+   "bir yanılgıyı ortaya çıkarmak"
+  ],
+  "tip": "Sadece yanlış inancı değil, akıl yürütmedeki hatayı da anlatır. Tartışma yazılarında argümanın zayıflığını belirtmek için uygundur.",
+  "note": ""
+ },
+ {
+  "id": "funnel",
+  "senses": [
+   "huni",
+   "yönlendirmek; akıtmak",
+   "gemi bacası"
+  ],
+  "ex": [
+   "Yağı şişeye dökmek için huni kullanın.",
+   "İyi tasarlanmış drenaj sistemleri yağmur suyunu depolama tanklarına yönlendirir ve kentsel sel riskini azaltır."
+  ],
+  "col": [
+   "plastik huni",
+   "suyu ... içine akıtmak",
+   "geminin bacası"
+  ],
+  "tip": "Fiil olarak funnel A into B kalıbıyla kullanılır: A'yı B'ye yönlendirmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "cutting",
+  "senses": [
+   "keskin; incitici",
+   "gazete kupürü",
+   "yarma; kazı"
+  ],
+  "ex": [
+   "Onun yemekleri hakkındaki iğneleyici sözü akşam yemeğini mahvetti.",
+   "Öğretmenlerin incitici yorumları, öğrencileri soru sormaktan ve derse aktif katılmaktan caydırabilir."
+  ],
+  "col": [
+   "iğneleyici söz",
+   "gazete kupürü",
+   "demiryolu yarması"
+  ],
+  "tip": "Gazete kupürü anlamında Amerikan İngilizcesinde genellikle clipping kullanılır. Sıfat olarak cutting, kişiyi incitici bir sözü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "procure",
+  "senses": [
+   "temin etmek; tedarik etmek"
+  ],
+  "ex": [
+   "Sonunda fırın için yedek bir parça temin ettik.",
+   "Yerel yönetimler, acil durumlarda içme suyunun güvenli kalmasını sağlamak için güvenilir ekipman temin etmelidir."
+  ],
+  "col": [
+   "ekipman temin etmek",
+   "malzeme tedarik etmek",
+   "fon sağlamak"
+  ],
+  "tip": "Resmi ve daha az kullanılan bir fiildir; doğrudan nesne alır. Yazıda get yerine kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "posture",
+  "senses": [
+   "duruş; vücut duruşu",
+   "tutum; yaklaşım",
+   "gösteriş yapmak; poz vermek"
+  ],
+  "ex": [
+   "Çalışırken sandalyenizi ayarlamak duruşunuzu iyileştirebilir.",
+   "Okullar, çocuklara uzun süreli ders çalışmada iyi duruşun ve düzenli hareketin rahatsızlığı nasıl azaltabileceğini öğretmelidir."
+  ],
+  "col": [
+   "iyi duruş",
+   "duruşunu düzeltmek",
+   "savunma tutumu takınmak"
+  ],
+  "tip": "İsim olarak fiziksel duruşu anlatır. Fiil olarak ise çoğunlukla başkalarını etkilemek için yapmacık davranmayı belirtir ve olumsuz bir çağrışımı vardır.",
+  "note": ""
+ },
+ {
+  "id": "feeble",
+  "senses": [
+   "güçsüz; zayıf",
+   "etkisiz; inandırıcı olmayan"
+  ],
+  "ex": [
+   "Hastalıktan sonra yemek pişirecek kadar güçsüz hissetti.",
+   "Çevre yönetmeliklerinin zayıf uygulanması, bazı fabrikaların anlamlı bir yaptırımla karşılaşmadan nehirleri kirletmeye devam etmesine olanak tanır."
+  ],
+  "col": [
+   "zayıf bir ses",
+   "zayıf bir bahane",
+   "zayıf bir girişim"
+  ],
+  "tip": "Beden, ses için olduğu gibi bahane ya da girişimler için de kullanılır. Eleştirel bir ton taşıdığı için yazıda dikkatli kullanın.",
+  "note": ""
+ },
+ {
+  "id": "deadlock",
+  "senses": [
+   "çıkmaz; tıkanma"
+  ],
+  "ex": [
+   "Tartışmamız kimin ödeyeceği konusunda çıkmaza girdi.",
+   "İşverenler ile işçiler arasındaki müzakereler başarısız olduğunda, bağımsız bir arabulucu çıkmazı aşmaya yardımcı olabilir."
+  ],
+  "col": [
+   "çıkmaza girmek",
+   "çıkmazı aşmak",
+   "çıkmazla sonuçlanmak"
+  ],
+  "tip": "Genellikle reach a deadlock (çıkmaza girmek) ve break the deadlock (çıkmazı aşmak) kalıplarıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "capillary",
+  "senses": [
+   "kılcal damar; kapiler",
+   "kılcal; kapiler"
+  ],
+  "ex": [
+   "Diyagramda birkaç deri hücresinin yanında bir kılcal damar gösteriliyor.",
+   "Kılcal etki, suyun topraktaki dar boşluklardan geçerek nemin bitki köklerine ulaşmasını sağlar."
+  ],
+  "col": [
+   "kılcal etki",
+   "kılcal kan",
+   "kılcal boru",
+   "kılcal ağ"
+  ],
+  "tip": "Çoğul biçimi capillaries'tir. Sıfat olarak capillary action (kılcal etki) gibi kalıplarda kullanılır.",
+  "note": ""
+ }
+]

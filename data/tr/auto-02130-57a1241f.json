@@ -1,0 +1,275 @@
+[
+ {
+  "id": "vegetarian",
+  "senses": [
+   "vejetaryen",
+   "vejetaryen; etsiz"
+  ],
+  "ex": [
+   "Kız kardeşim yemek pişirmeyi öğrendikten sonra vejetaryen oldu.",
+   "Okul kantinlerinde vejetaryen yemekler sunmak, farklı beslenme tercihlerini karşılayabilir ve çevresel etkileri azaltabilir."
+  ],
+  "col": [
+   "vejetaryen beslenme",
+   "vejetaryen seçenek",
+   "vejetaryen olmak"
+  ],
+  "tip": "Vegetarian yumurta ve süt ürünlerini yiyebilir; vegan bunları da yemez. Sıfat olarak da isim olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tan",
+  "senses": [
+   "bronzluk",
+   "bronzlaşmak; güneş almak",
+   "açık kahverengi"
+  ],
+  "ex": [
+   "Yaz bronzluğu kış ortasına gelindiğinde solmuştu.",
+   "Bronzlaşma bazen çekici bulunsa da uzun süre güneşe maruz kalmak cilt hasarı riskini artırır."
+  ],
+  "col": [
+   "bronzlaşmak",
+   "koyu bronzluk",
+   "açık kahverengi deri"
+  ],
+  "tip": "Tan isim olarak bronzluk, fiil olarak bronzlaşmak anlamına gelir. Sıfat olarak ayakkabı ve çantalar için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "diving",
+  "senses": [
+   "dalış; sualtına dalma",
+   "atlayış; atlama sporu"
+  ],
+  "ex": [
+   "Sualtına dalıp kıyıdaki resifin yakınında renkli balıklar gördük.",
+   "Dalış turizmi, işletmeciler deniz yaşam alanlarını koruduğu ve ziyaretçilere sorumlu davranışı öğrettiği sürece kıyı ekonomilerini destekleyebilir."
+  ],
+  "col": [
+   "tüplü dalış",
+   "dalış tahtası",
+   "dalış ekipmanı",
+   "dalış eğitmeni"
+  ],
+  "tip": "Go diving sualtına dalmaya gitmek anlamında yaygındır. Atlama sporu için de diving kullanılır, bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "greet",
+  "senses": [
+   "karşılamak; selamlamak",
+   "göze çarpmak"
+  ],
+  "ex": [
+   "Taşındığımızda komşularımız bizi sıcak bir şekilde karşıladı.",
+   "Ziyaretçileri, müzenin koleksiyonunu anlatan ve yollarını bulmalarına yardım eden eğitimli gönüllüler karşılar."
+  ],
+  "col": [
+   "birini sıcakkanlılıkla karşılamak",
+   "birini gülümseyerek karşılamak",
+   "tarafından karşılanmak"
+  ],
+  "tip": "Greet doğrudan nesne alır. Greet to demeyin, greet someone şeklinde kullanın.",
+  "note": ""
+ },
+ {
+  "id": "brochure",
+  "senses": [
+   "broşür; tanıtım kitapçığı"
+  ],
+  "ex": [
+   "İstasyonda bir seyahat broşürü aldım.",
+   "Üniversite broşürleri, öğrenci adaylarının dersleri, konaklama seçeneklerini ve kampüsteki olanakları karşılaştırmasına yardımcı olabilir."
+  ],
+  "col": [
+   "seyahat broşürü",
+   "üniversite broşürü",
+   "tanıtım broşürü"
+  ],
+  "tip": "Sayılabilir isimdir; tek ise a brochure, çoğul ise brochures kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ladybird",
+  "senses": [
+   "uğur böceği"
+  ],
+  "ex": [
+   "Kolumun kenarına minicik bir uğur böceği kondu.",
+   "Uğur böcekleri, çiftçilerin bazı ürün zararlılarını kontrol etmesine yardımcı olabilir ve kimyasal pestisit ihtiyacını azaltabilir."
+  ],
+  "col": [
+   "kırmızı uğur böceği",
+   "uğur böceği larvası",
+   "yedi noktalı uğur böceği"
+  ],
+  "tip": "İngiliz İngilizcesinde ladybird, Amerikan İngilizcesinde ladybug tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "sleeve",
+  "senses": [
+   "kol",
+   "koruyucu kılıf"
+  ],
+  "ex": [
+   "Kolum mutfak kapısının koluna takıldı.",
+   "İşçiler, iş kazası riskini azaltmak için bol kolları hareketli makinelerden uzak tutmalıdır."
+  ],
+  "col": [
+   "uzun kollar",
+   "kollarını sıvamak",
+   "koruyucu kılıf"
+  ],
+  "tip": "Sleeve giysinin kolunu anlatır. Vücudun kolu için arm kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "signal",
+  "senses": [
+   "işaret; sinyal",
+   "sinyal",
+   "işaret etmek; belirtmek"
+  ],
+  "ex": [
+   "Antrenör bir işaret verdi ve koşmaya başladık.",
+   "Yenilenebilir enerjiye yapılan yatırımların artması, bir hükümetin fosil yakıta bağımlılığını azaltma kararlılığının göstergesi olabilir."
+  ],
+  "col": [
+   "işaret vermek",
+   "zayıf sinyal",
+   "bir değişikliğe işaret etmek"
+  ],
+  "tip": "Geçmiş zaman İngiliz İngilizcesinde signalled, Amerikan İngilizcesinde signaled şeklinde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "examination",
+  "senses": [
+   "sınav; imtihan",
+   "inceleme; muayene"
+  ],
+  "ex": [
+   "Son sınavı bittiğinde rahatlamıştı.",
+   "Yerel konut koşullarının ayrıntılı incelenmesi, hükümetlerin acil destek gereken toplulukları belirlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "sınava girmek",
+   "sınavı geçmek",
+   "tıbbi muayene",
+   "dikkatli inceleme"
+  ],
+  "tip": "Konuşmada exam kısaltması yaygındır. İnceleme anlamında genellikle of ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cardboard",
+  "senses": [
+   "karton; mukavva"
+  ],
+  "ex": [
+   "Bir maket ev için kartonu çeşitli şekillerde kestik.",
+   "Plastik ambalajların geri dönüştürülmüş kartonla değiştirilmesi, atıkları azaltabilir ve daha sürdürülebilir tüketimi teşvik edebilir."
+  ],
+  "col": [
+   "karton kutu",
+   "geri dönüştürülmüş karton",
+   "bir levha karton"
+  ],
+  "tip": "Genellikle sayılamaz. Tek bir parça için a sheet of cardboard denir.",
+  "note": ""
+ },
+ {
+  "id": "responsible",
+  "senses": [
+   "sorumlu",
+   "sorumlu; suçlu",
+   "güvenilir; sorumluluk sahibi"
+  ],
+  "ex": [
+   "Her sabah kedimizi beslemekten ben sorumluyum.",
+   "Hükümetler, tüm çocukların güvenli ve uygun fiyatlı eğitime erişmesini sağlamakla yükümlüdür."
+  ],
+  "col": [
+   "...den sorumlu",
+   "sorumlu davranış",
+   "birini sorumlu tutmak"
+  ],
+  "tip": "Responsible for bir isim ya da -ing ile kullanılır. Üst makam için responsible to tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "electronic",
+  "senses": [
+   "elektronik",
+   "elektronik ortamda; dijital"
+  ],
+  "ex": [
+   "Lütfen gösteri sırasında elektronik cihazlarınızı kapatın.",
+   "Elektronik sağlık kayıtları doktorların bilgi paylaşımını verimli hale getirebilir, ancak hasta mahremiyetini korumak için güçlü önlemler gerekir."
+  ],
+  "col": [
+   "elektronik cihazlar",
+   "elektronik kayıtlar",
+   "elektronik ödeme",
+   "elektronik atık"
+  ],
+  "tip": "Electronic elektronik devrelerle ilgilidir; electric ise elektrikle çalışan ya da elektrik üreten şeyler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fahrenheit",
+  "senses": [
+   "Fahrenheit ölçekli",
+   "Fahrenheit ölçeği"
+  ],
+  "ex": [
+   "Tarife göre fırın üç yüz derece Fahrenheit'a ayarlanmalı.",
+   "Uluslararası hava durumu raporları, farklı kitleleri karşılamak için sıcaklıkları hem Fahrenheit hem Santigrat olarak verebilir."
+  ],
+  "col": [
+   "Fahrenheit derecesi",
+   "Fahrenheit ölçeği",
+   "Fahrenheit'ı Santigrat'a çevirmek"
+  ],
+  "tip": "Bu bir sıcaklık ölçeğidir, termometrenin adı değildir. Her zaman büyük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "approximately",
+  "senses": [
+   "yaklaşık olarak; takriben"
+  ],
+  "ex": [
+   "Göle yürüyüş yaklaşık yirmi dakika sürüyor.",
+   "Anketi yapılan hanelerin yaklaşık yarısı, haftada en az bir kez toplu taşıma kullandığını bildirdi."
+  ],
+  "col": [
+   "yaklaşık eşit",
+   "yaklaşık yarısı",
+   "yaklaşık iki katı"
+  ],
+  "tip": "Genellikle sayıdan önce gelir. About'a göre daha resmi bir tonda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "corridor",
+  "senses": [
+   "koridor; geçit",
+   "koridor; geçit"
+  ],
+  "ex": [
+   "Ders bittikten sonra adımları boş koridorda yankılandı.",
+   "Yaban hayatı koridorları, yollar ve kentsel gelişimin ayırdığı yaşam alanları arasında hayvanların güvenle hareket etmesini sağlar."
+  ],
+  "col": [
+   "dar koridor",
+   "koridorda",
+   "yaban hayatı koridoru",
+   "ulaşım koridoru"
+  ],
+  "tip": "Hem bina içindeki koridor hem de bölgeler arasındaki dar ulaşım şeridi için kullanılır.",
+  "note": ""
+ }
+]

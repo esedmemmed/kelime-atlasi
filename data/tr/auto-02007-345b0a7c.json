@@ -1,0 +1,274 @@
+[
+ {
+  "id": "lifestyle",
+  "senses": [
+   "yaşam tarzı"
+  ],
+  "ex": [
+   "Bisikletle işe gitmek, sağlıklı yaşam tarzının bir parçası onun için.",
+   "Hareketsiz bir yaşam tarzı, özellikle uzun saatlerini masa başında geçiren kişilerde sağlık risklerini artırabilir."
+  ],
+  "col": [
+   "sağlıklı yaşam tarzı",
+   "hareketsiz yaşam tarzı",
+   "yaşam tarzı değişiklikleri"
+  ],
+  "tip": "Sayılabilir isimdir. 'lead a healthy lifestyle' (sağlıklı bir yaşam sürmek) kalıbı yaygın olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "weigh",
+  "senses": [
+   "tartmak",
+   "ağırlığında olmak",
+   "tartmak; göz önünde bulundurmak"
+  ],
+  "ex": [
+   "Torbaya koymadan önce lütfen bu elmaları tartın.",
+   "Hükümetler, turizmin ekonomik faydalarını yerel ekosistemlere verebileceği olası zararla dikkatle karşılaştırmalıdır."
+  ],
+  "col": [
+   "kendini tartmak",
+   "seçenekleri tartmak",
+   "kanıtları değerlendirmek",
+   "faydaları maliyetlere karşı tartmak"
+  ],
+  "tip": "'weigh' fiildir, 'weight' isimdir; ikisi karıştırılmamalıdır. Ağırlık sorulduğunda 'How much do you weigh?' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "limited",
+  "senses": [
+   "sınırlı; kısıtlı"
+  ],
+  "ex": [
+   "Yerimiz sınırlı, bu yüzden daha küçük bir kanepe seçin.",
+   "Güvenilir internete sınırlı erişimi olan öğrenciler, çevrim içi öğrenmeye tam olarak katılmakta zorlanabilir."
+  ],
+  "col": [
+   "sınırlı kaynaklar",
+   "sınırlı erişim",
+   "sınırlı bir yelpaze",
+   "…ile sınırlı olmak"
+  ],
+  "tip": "'be limited to' kalıbının 'to' sonrası isim ya da -ing alır, fiil almaz: limited to students.",
+  "note": ""
+ },
+ {
+  "id": "footbridge",
+  "senses": [
+   "yaya köprüsü"
+  ],
+  "ex": [
+   "Derenin üzerindeki ahşap yaya köprüsünden geçtik.",
+   "İstasyonun yakınına yaya köprüsü yapılması, yayaların yoğun yolu güvenle geçmesini sağlayabilir."
+  ],
+  "col": [
+   "yaya köprüsünden geçmek",
+   "yaya köprüsü",
+   "ahşap yaya köprüsü"
+  ],
+  "tip": "Footbridge yalnızca yayalar için kullanılır; araçların geçtiği köprü için 'bridge' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "temple",
+  "senses": [
+   "tapınak; mabet",
+   "şakak"
+  ],
+  "ex": [
+   "Tapınağa girmeden önce ayakkabılarımızı çıkardık.",
+   "Antik bir tapınağın restorasyonu, tarihe ilgi duyan ziyaretçileri çekerken yerel mirası koruyabilir."
+  ],
+  "col": [
+   "antik tapınak",
+   "Budist tapınağı",
+   "tapınak kalıntıları",
+   "şakaklarını ovmak"
+  ],
+  "tip": "Şakak anlamında genellikle çoğul 'temples' kullanılır; alnın iki yanını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "sunlight",
+  "senses": [
+   "güneş ışığı; gün ışığı"
+  ],
+  "ex": [
+   "Pencereden içeri sıcak güneş ışığı süzülüp masama vurdu.",
+   "Sınıfların daha fazla doğal güneş ışığı alacak şekilde tasarlanması öğrencilerin konforunu artırabilir ve elektrik kullanımını azaltabilir."
+  ],
+  "col": [
+   "doğrudan güneş ışığı",
+   "parlak güneş ışığı",
+   "güneş ışığına maruz kalma"
+  ],
+  "tip": "Sayılamayan isimdir, 'a sunlight' denmez. 'in direct sunlight' (doğrudan güneş ışığında) kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "swan",
+  "senses": [
+   "kuğu"
+  ],
+  "ex": [
+   "Beyaz bir kuğu gölün üzerinde sessizce süzüldü.",
+   "Sulak alanların korunması kuğu popülasyonlarına fayda sağlarken birçok türün bağlı olduğu daha geniş ekosistemi de korur."
+  ],
+  "col": [
+   "bir çift kuğu",
+   "bir kuğunun yuvası",
+   "kara kuğu"
+  ],
+  "tip": "Sayılabilir isimdir, çoğulu 'swans' olur. Yavru kuğuya 'cygnet' denir.",
+  "note": ""
+ },
+ {
+  "id": "trophy",
+  "senses": [
+   "kupa; ödül",
+   "başarı hatırası; ganimet"
+  ],
+  "ex": [
+   "Seyirciler alkışlarken takımımız kupayı kaldırdı.",
+   "Bir ödül kazanmak genç sporcuları motive edebilse de katılım, takım çalışmasını ve kişisel dayanıklılığı da geliştirmelidir."
+  ],
+  "col": [
+   "kupa kazanmak",
+   "kupayı kaldırmak",
+   "kupa dolabı"
+  ],
+  "tip": "Çoğulu 'trophies' olur; sonu y ile biten isimlerde y, ies'e döner.",
+  "note": ""
+ },
+ {
+  "id": "treat",
+  "senses": [
+   "davranmak; muamele etmek",
+   "tedavi etmek; iyileştirmek",
+   "keyifli şey; özel ikram"
+  ],
+  "ex": [
+   "Komşularımız kurtardıkları köpeğe büyük bir şefkatle davranıyor.",
+   "İşverenler tüm başvuru sahiplerine adil davranmalı ve uygunluklarını kişisel geçmişe değil ilgili becerilere göre değerlendirmelidir."
+  ],
+  "col": [
+   "birine saygıyla davranmak",
+   "bir şeyi … olarak görmek",
+   "bir hastalığı tedavi etmek",
+   "özel bir keyif"
+  ],
+  "tip": "'treat someone to a meal' birine yemek ısmarlamak anlamındadır; burada 'treat' 'ikram etmek' demektir.",
+  "note": ""
+ },
+ {
+  "id": "silk",
+  "senses": [
+   "ipek"
+  ],
+  "ex": [
+   "Boynuna yumuşak bir ipek fular sardı.",
+   "Geleneksel ipek üretimi, kırsal topluluklara iş imkânı sağlarken nesiller boyunca aktarılan becerileri de yaşatır."
+  ],
+  "col": [
+   "ipek fular",
+   "saf ipek",
+   "ipek üretimi"
+  ],
+  "tip": "Genellikle sayılamayan isimdir. 'silky' yumuşak ve kaygan anlamındadır; mutlaka ipekten yapılmış olmasını gerektirmez.",
+  "note": ""
+ },
+ {
+  "id": "deserve",
+  "senses": [
+   "hak etmek"
+  ],
+  "ex": [
+   "Ağır kutuları taşıdıktan sonra bir dinlenmeyi hak ediyorsun.",
+   "Sağlık çalışanları, adanmışlıkları toplumun refahına doğrudan katkı sağladığı için daha fazla takdiri hak ediyor."
+  ],
+  "col": [
+   "övgüyü hak etmek",
+   "ilgiyi hak etmek",
+   "kazanmayı hak etmek"
+  ],
+  "tip": "'deserve to do' kalıbı kullanılır; 'deserve doing' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "mental",
+  "senses": [
+   "zihinsel; ruhsal",
+   "zihinsel; kafadan yapılan"
+  ],
+  "ex": [
+   "Sakin bir yürüyüş, ruh sağlığımı korumama yardımcı oluyor.",
+   "İşverenler iş yeri politikalarını tasarlarken zihinsel iyi oluşa fiziksel güvenlikle aynı önceliği vermelidir."
+  ],
+  "col": [
+   "ruh sağlığı",
+   "zihinsel iyi oluş",
+   "zihinsel aritmetik",
+   "zihinsel çaba"
+  ],
+  "tip": "Konuşma dilinde 'mental' birini 'deli' anlamında tanımlamak için kullanıldığında kaba olabilir; dikkatli kullanın.",
+  "note": ""
+ },
+ {
+  "id": "screwdriver",
+  "senses": [
+   "tornavida"
+  ],
+  "ex": [
+   "Bu kolu sıkıştırabilmem için tornavidayı uzatır mısın?",
+   "Öğrencilere tornavida gibi temel aletleri kullanmayı öğretmek pratik becerileri ve bağımsızlığı geliştirebilir."
+  ],
+  "col": [
+   "düz başlı tornavida",
+   "yıldız başlı tornavida",
+   "tornavida takımı"
+  ],
+  "tip": "'screw' vida, 'screwdriver' ise vidayı çeviren alettir; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "recommend",
+  "senses": [
+   "önermek",
+   "tavsiye etmek"
+  ],
+  "ex": [
+   "İstasyonun yakınında sakin bir kafe önerebilir misin?",
+   "Sağlık uzmanları, stresi azaltmak ve genel fiziksel ile zihinsel iyi oluşu geliştirmek için düzenli egzersizi tavsiye ediyor."
+  ],
+  "col": [
+   "çok tavsiye etmek",
+   "bir kitap önermek",
+   "bir şey yapmayı tavsiye etmek",
+   "birini bir iş için önermek"
+  ],
+  "tip": "'recommend doing' ya da 'recommend that + özne + fiil' kalıpları kullanılır: 'recommend that he see a doctor'.",
+  "note": ""
+ },
+ {
+  "id": "deposit",
+  "senses": [
+   "kapora; depozito; mevduat",
+   "yatırmak; bırakmak",
+   "tortu; maden yatağı"
+  ],
+  "ex": [
+   "Daireye taşınmadan önce kapora ödedik.",
+   "İçecek kaplarına iade edilebilir depozito uygulamak, geri dönüşümü teşvik edip kamusal alanlardaki atığı azaltabilir."
+  ],
+  "col": [
+   "kapora ödemek",
+   "iade edilebilir depozito",
+   "para yatırmak",
+   "maden yatakları"
+  ],
+  "tip": "Kapora, depozito ve banka mevduatı aynı kelimedir; anlam bağlama göre belirlenir. Ödeme yapılan para bağlamına dikkat edin.",
+  "note": ""
+ }
+]

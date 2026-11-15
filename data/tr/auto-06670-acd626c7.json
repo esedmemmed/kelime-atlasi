@@ -1,0 +1,271 @@
+[
+ {
+  "id": "kernel",
+  "senses": [
+   "çekirdek; tane",
+   "öz; esas nokta",
+   "çekirdek"
+  ],
+  "ex": [
+   "Cevizi kırdı ve içindeki yenilebilir kısmı dikkatle çıkardı.",
+   "Abartılı medya haberleri bile, bağımsız araştırmacıların daha ayrıntılı incelemesini gerektiren bir doğruluk payı taşıyabilir."
+  ],
+  "col": [
+   "mısır tanesi",
+   "ceviz içi",
+   "bir gerçek payı",
+   "işletim sistemi çekirdeği"
+  ],
+  "tip": "Kabuk içindeki yenilebilir öz ya da tahıl tanesi anlamındadır; şeftali çekirdeği için kullanılmaz. 'a kernel of truth' kalıbı sık geçer.",
+  "note": ""
+ },
+ {
+  "id": "synopsis",
+  "senses": [
+   "özet; konu özeti"
+  ],
+  "ex": [
+   "Romanı ödünç almadan önce konu özetini okudum.",
+   "Öğrenciler, kullanmayı planladıkları yöntemleri tartışmadan önce önerdikleri araştırmanın kısa bir özetini sunmalıdır."
+  ],
+  "col": [
+   "kısa özet",
+   "olay örgüsü özeti",
+   "raporun özeti"
+  ],
+  "tip": "Çoğulu synopses'tir. 'a synopsis of' kalıbıyla bir eserin ya da raporun özeti anlatılır.",
+  "note": ""
+ },
+ {
+  "id": "suppression",
+  "senses": [
+   "bastırma; baskı",
+   "gizleme; sansür",
+   "baskılama; kontrol"
+  ],
+  "ex": [
+   "Kahkahasını bastırmaya çalıştı ama yavru köpek hapşırınca başaramadı.",
+   "Kamusal tartışmanın bastırılması, kurumlara duyulan güveni zayıflatabilir ve toplulukların ciddi sorunlarla yüzleşmesini engelleyebilir."
+  ],
+  "col": [
+   "muhalefetin bastırılması",
+   "delillerin gizlenmesi",
+   "bağışıklık baskılanması"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Fiili suppress'tir; 'pp' ve 'ss' harfleri çift yazılır.",
+  "note": ""
+ },
+ {
+  "id": "revival",
+  "senses": [
+   "canlanma; yeniden ilgi",
+   "yeniden sahneleme"
+  ],
+  "ex": [
+   "Yerel pazarımız bu bahar yeniden canlanma dönemi yaşıyor.",
+   "Geleneksel el sanatlarının canlandırılması, yok olma tehlikesi olan becerileri korurken istihdam da yaratabilir."
+  ],
+  "col": [
+   "ekonomik canlanma",
+   "ilginin yeniden canlanması",
+   "yeniden sahneye koymak"
+  ],
+  "tip": "Bir şeyin zayıfladıktan veya unutulduktan sonra yeniden canlanmasını anlatır. 'revival of' kalıbı en sık kullanılan biçimdir.",
+  "note": ""
+ },
+ {
+  "id": "abound",
+  "senses": [
+   "bol olmak; çok bulunmak"
+  ],
+  "ex": [
+   "Her bahar evimizin arkasındaki tarlalarda kır çiçekleri bolca açar.",
+   "Düzenli güneş ve güçlü kıyı rüzgârları olan bölgelerde yenilenebilir enerji yatırımı için pek çok fırsat bulunur."
+  ],
+  "col": [
+   "fırsatlar bol",
+   "söylentiler yaygın",
+   "yaban hayatı bakımından zengin olmak"
+  ],
+  "tip": "Yalnızca fiil olarak kullanılır ve edilgen yapıya girmez. Bir yerin bir şeyle dolu olduğunu anlatmak için abound in/with kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ponder",
+  "senses": [
+   "düşünmek; üzerinde durmak"
+  ],
+  "ex": [
+   "Menüyü uzun uzun düşündü, sonunda sebzeli çorba sipariş etti.",
+   "Politika yapıcılar, toplu taşıma hizmetlerinin özel işletmelere devredilmesinin uzun vadeli sonuçlarını dikkatle değerlendirmelidir."
+  ],
+  "col": [
+   "bir soruyu düşünmek",
+   "sonuçları değerlendirmek",
+   "bir konu üzerinde durmak"
+  ],
+  "tip": "Doğrudan nesne alabilir; ponder over ya da on biçimleri de kullanılır. Yazılı ve ağır bir üslup taşır, günlük konuşmada think about daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "destine",
+  "senses": [
+   "kaderinde olmak"
+  ],
+  "ex": [
+   "Herkes yetenekli genç dansçının kaderinde başarı olduğunu düşünüyordu.",
+   "Dezavantajlı geçmişe sahip çocukların, uygun eğitim desteği ve fırsatları aldıklarında başarısız olmaya mahkûm olmaları gerekmez."
+  ],
+  "col": [
+   "kaderinde ... olmak",
+   "başarıya mahkûm olmak",
+   "ihracatı planlanan mallar"
+  ],
+  "tip": "Neredeyse her zaman edilgen yapıda kullanılır: be destined for ya da be destined to do biçiminde.",
+  "note": ""
+ },
+ {
+  "id": "surpass",
+  "senses": [
+   "geçmek; aşmak"
+  ],
+  "ex": [
+   "Evde yaptığın kekler yerel pastanemizde satılan her şeyi geçiyor.",
+   "Hükümetler daha sıkı önlemler uyguladıkça yenilenebilir enerjiye olan talep mevcut tahminleri aşabilir."
+  ],
+  "col": [
+   "beklentileri aşmak",
+   "rekoru geçmek",
+   "önceki düzeyleri aşmak"
+  ],
+  "tip": "Geçişli bir fiildir; doğrudan nesne alır ve arasına than konmaz. Örneğin: surpass expectations.",
+  "note": ""
+ },
+ {
+  "id": "mount",
+  "senses": [
+   "artmak; yükselmek",
+   "takmak; yerleştirmek",
+   "düzenlemek; başlatmak"
+  ],
+  "ex": [
+   "Bulaşık makinemiz bozuk olduğu için kirli tabaklar birikti.",
+   "Emisyonları azaltma baskısı arttıkça hükümetler yenilenebilir enerji üretimini genişletmeli ve enerji verimliliğini artırmalıdır."
+  ],
+  "col": [
+   "artan baskı",
+   "kampanya başlatmak",
+   "duvara asmak"
+  ],
+  "tip": "Artmak, takmak ve başlatmak gibi birbirinden farklı anlamları vardır. mount a campaign kalıbı kampanya başlatmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "utilize",
+  "senses": [
+   "kullanmak; yararlanmak"
+  ],
+  "ex": [
+   "Merdivenlerin altındaki boşluğu depo olarak kullanıyoruz.",
+   "Okullar, dersler bittikten sonra tesislerini yerel topluluklarla paylaşarak mevcut binaları daha verimli kullanabilir."
+  ],
+  "col": [
+   "kaynakları kullanmak",
+   "tamamen değerlendirmek",
+   "mevcut alanı kullanmak"
+  ],
+  "tip": "Use'dan daha resmi bir kelimedir; günlük konuşmada genellikle use tercih edilir. İngiliz İngilizcesinde utilise yazımı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "transistor",
+  "senses": [
+   "transistör"
+  ],
+  "ex": [
+   "Eski radyonun içindeki hasarlı transistörü dikkatle değiştirdi.",
+   "Daha küçük transistörlerin geliştirilmesi, bilgisayarların daha az enerji harcayarak bilgiyi daha hızlı işlemesini sağladı."
+  ],
+  "col": [
+   "transistörlü radyo",
+   "silikon transistör",
+   "transistör devresi"
+  ],
+  "tip": "Elektronik bir bileşenin adıdır. Transistör radyo ise transistörlü radyo anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "exquisite",
+  "senses": [
+   "nefis; zarif",
+   "çok şiddetli; ince"
+  ],
+  "ex": [
+   "Rafta özenle yapılmış nefis bir porselen kase duruyor.",
+   "Müzeler geleneksel el sanatlarının nefis örneklerini koruyarak gelecek kuşakların bunların kültürel ve sanatsal değerini takdir etmesine olanak tanır."
+  ],
+  "col": [
+   "nefis işçilik",
+   "eşsiz güzellik",
+   "ince ayrıntı",
+   "çok şiddetli acı"
+  ],
+  "tip": "Genellikle el işi ürünleri anlatır. pain gibi bir sözcükle kullanıldığında 'çok şiddetli' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "embankment",
+  "senses": [
+   "set; dolgu"
+  ],
+  "ex": [
+   "Taşan nehrin kenarındaki set boyunca yürüdük.",
+   "Nehir setinin güçlendirilmesi, aşırı yağışlar sıklaştıkça yakındaki evleri sel baskınından koruyabilir."
+  ],
+  "col": [
+   "nehir seti",
+   "demiryolu dolgusu",
+   "set inşa etmek"
+  ],
+  "tip": "Hem su tutan bir set hem de yol ya da demiryolu taşıyan bir dolguyu anlatabilir. Anlam bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "incompatible",
+  "senses": [
+   "uyumsuz; bağdaşmaz",
+   "uyuşmayan; geçinemeyen"
+  ],
+  "ex": [
+   "Bu kulaklıklar eski telefonumla uyumlu değil.",
+   "Hızlı sanayileşme, etkili düzenleme olmadan kırılgan ekosistemleri koruma çabalarıyla çoğu zaman bağdaşmaz."
+  ],
+  "col": [
+   "ile uyumsuz",
+   "birbirleriyle bağdaşmayan",
+   "bağdaşmayan hedefler"
+  ],
+  "tip": "Sabit kalıp incompatible with'tir. incompatible to biçimi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "refined",
+  "senses": [
+   "rafine; arıtılmış",
+   "incelikli; kibar",
+   "geliştirilmiş; ince"
+  ],
+  "ex": [
+   "Bu tarif beyaz rafine şeker yerine bal kullanıyor.",
+   "Halk sağlığı kampanyaları, insanları yüksek miktarda rafine şeker içeren gıdaları tüketmeyi azaltmaya sık sık teşvik eder."
+  ],
+  "col": [
+   "rafine şeker",
+   "rafine yağ",
+   "incelikli davranışlar",
+   "gelişmiş bir teknik"
+  ],
+  "tip": "Maddeler için arıtılmış, kişi ve davranışlar için ise incelikli anlamı taşır. Bağlama dikkat etmek gerekir.",
+  "note": ""
+ }
+]

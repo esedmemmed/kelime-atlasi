@@ -1,0 +1,288 @@
+[
+ {
+  "id": "thanks",
+  "senses": [
+   "teşekkürler",
+   "teşekkür; minnettarlık"
+  ],
+  "ex": [
+   "Bu ağır torbaları üst kata taşımama yardım ettiğin için teşekkürler.",
+   "Kamuya açık teşekkür ifadeleri, gönüllülerin değerli hissetmesine ve topluluk projelerine katılımlarını sürdürmesine yardımcı olabilir."
+  ],
+  "col": [
+   "yardımın için teşekkürler",
+   "çok teşekkürler",
+   "teşekkürlerini ifade etmek",
+   "sayesinde"
+  ],
+  "tip": "'thanks for' ardından isim ya da -ing biçimi gelir (thanks for helping). 'thanks to' ise olumlu bir sonucun nedenini belirtir: 'sayesinde'.",
+  "note": ""
+ },
+ {
+  "id": "message",
+  "senses": [
+   "mesaj; haber",
+   "ana fikir; mesaj",
+   "mesaj göndermek"
+  ],
+  "ex": [
+   "Beni ararsanız ve açamazsam lütfen bir mesaj bırakın.",
+   "Halk sağlığı kampanyalarının, farklı geçmişlerden gelen insanların kolayca anlayabileceği açık bir mesaja ihtiyacı var."
+  ],
+  "col": [
+   "mesaj bırakmak",
+   "mesaj göndermek",
+   "mesajı iletmek",
+   "kısa mesaj"
+  ],
+  "tip": "'message' sayılabilir bir isimdir: 'a message', 'messages' kullanılır. Bilgi anlamındaki 'information' ise genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "sea",
+  "senses": [
+   "deniz; okyanus",
+   "yığın; sel"
+  ],
+  "ex": [
+   "Çocuklar küçük teknelerin denizde yelken açışını izliyordu.",
+   "Denize karışan plastik atıklar deniz canlılarını tehdit ediyor ve zamanla insanların besin kaynaklarını da etkileyebiliyor."
+  ],
+  "col": [
+   "deniz kenarında",
+   "denizde; açıkta",
+   "deniz seviyesi",
+   "bir yığın yüz"
+  ],
+  "tip": "'at sea' denizde, açıkta (gemide) anlamına gelir; 'by the sea' ise deniz kıyısında demektir. İkisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "bread",
+  "senses": [
+   "ekmek"
+  ],
+  "ex": [
+   "Taze ekmek mutfak penceresinin yanında soğuyordu.",
+   "Rafine çeşitler yerine tam tahıllı ekmek seçmek lif alımını artırabilir ve dengeli beslenmeyi destekleyebilir."
+  ],
+  "col": [
+   "bir somun ekmek",
+   "bir dilim ekmek",
+   "tam buğdaylı ekmek",
+   "ekmek pişirmek"
+  ],
+  "tip": "'bread' genellikle sayılamaz. Parça sayarken 'a slice of bread' (bir dilim ekmek) kullanılır; 'a bread' demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "between",
+  "senses": [
+   "arasında",
+   "taraflar arasında; ortak",
+   "aralarında; ortada"
+  ],
+  "ex": [
+   "Kedi, kanepe ile duvar arasına sıkışıp girdi.",
+   "Okullar ile yerel işletmeler arasındaki iş birliği, öğrencilerin işe girmeden önce pratik beceriler geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "öğünler arasında",
+   "arasındaki bağlantı",
+   "arasında seçim yapmak",
+   "aralarında"
+  ],
+  "tip": "'between' yalnızca iki kişi veya nesne için değil, birden fazla belirli kişi veya şey için de kullanılabilir. 'among' ise genelde belirsiz bir grup içindir.",
+  "note": ""
+ },
+ {
+  "id": "far",
+  "senses": [
+   "uzağa; uzakta",
+   "çok; epey",
+   "uzak; uzaktaki"
+  ],
+  "ex": [
+   "O kadar uzun yürüdük ki ayaklarımız ağrımaya başladı.",
+   "Güvenilir toplu taşıma, büyük şehir merkezlerinin dışında yaşayan insanlar için işe gidip gelmeyi çok daha uygun hale getirebilir."
+  ],
+  "col": [
+   "çok uzakta",
+   "...den uzakta",
+   "çok daha",
+   "şimdiye kadar"
+  ],
+  "tip": "'far' karşılaştırmalı sıfatları pekiştirir: 'far better', 'far more'. 'very better' yerine 'far better' denir; 'very' bu kullanımda yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "eighteen",
+  "senses": [
+   "on sekiz"
+  ],
+  "ex": [
+   "Bu sabah piknik için on sekiz muffin pişirdik.",
+   "Birçok ülkede vatandaşlar on sekiz yaşına geldiklerinde oy kullanma hakkı kazanır."
+  ],
+  "col": [
+   "on sekiz yaşında",
+   "on sekiz yaşındayken",
+   "on sekizin altında"
+  ],
+  "tip": "'eighteen' ile 'eighty' (seksen) karıştırılmamalı. 'eighteen' ikinci hecede vurgulanır (eigh-TEEN), 'eighty' ise ilk hecede (EIGH-ty).",
+  "note": ""
+ },
+ {
+  "id": "time",
+  "senses": [
+   "zaman; vakit",
+   "kez; defa",
+   "zamanlamak; ayarlamak"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce hâlâ yürüyüş için vaktimiz var.",
+   "Okullar, öğrencilere resmi sınavlara hazırlanmalarının yanında yaratıcı etkinlikleri keşfetmeleri için yeterli zaman tanımalı."
+  ],
+  "col": [
+   "bir şey yapmaya zaman harcamak",
+   "vaktinde; zamanında",
+   "zamanında; yetişerek",
+   "zaman yönetimi"
+  ],
+  "tip": "'time' zaman anlamında genellikle sayılamaz. 'Kez' anlamında ise sayılabilir: 'three times' (üç kez).",
+  "note": ""
+ },
+ {
+  "id": "company",
+  "senses": [
+   "şirket; firma",
+   "eşlik; arkadaşlık"
+  ],
+  "ex": [
+   "Kız kardeşim bisiklet üreten bir şirkette çalışıyor.",
+   "Personel eğitimine yatırım yapan bir şirket, zamanla yetenekli çalışanlarını elinde tutma konusunda daha başarılı olur."
+  ],
+  "col": [
+   "bir şirkette çalışmak",
+   "şirket kurmak",
+   "birine eşlik etmek",
+   "birinin arkadaşlığından keyif almak"
+  ],
+  "tip": "'company' 'şirket' anlamında sayılabilir, 'eşlik' anlamında sayılamaz. 'keep someone company' ifadesinde başına 'a' getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "bathroom",
+  "senses": [
+   "banyo",
+   "tuvalet"
+  ],
+  "ex": [
+   "Temiz bir havluyu banyo lavabosunun yanına astı.",
+   "Banyoya su tasarruflu armatürler takmak, hanelerin günlük alışkanlıklarını değiştirmeden tüketimi azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "özel banyo",
+   "ortak banyo",
+   "banyo lavabosu",
+   "tuvalete gitmek"
+  ],
+  "tip": "'bathroom' genellikle banyo odası demektir. Amerikan İngilizcesinde ayrı bir tuvalet odası için de kullanılır; İngiliz İngilizcesinde 'toilet' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "dance",
+  "senses": [
+   "dans etmek",
+   "dans; dans gecesi"
+  ],
+  "ex": [
+   "Akşam yemeği pişerken mutfakta dans ettik.",
+   "Geleneksel dans, topluluk kimliğini güçlendirirken genç kuşaklara kültürel mirasları ile bağ kurma imkânı sunabilir."
+  ],
+  "col": [
+   "müziğe dans etmek",
+   "geleneksel dans",
+   "dans dersi",
+   "dans etmeye gitmek"
+  ],
+  "tip": "Müzik eşliğinde dans etmek için 'dance to music' kullanılır; 'to' edatı unutulmamalı. 'dance with music' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "favorite",
+  "senses": [
+   "en sevilen; en sevdiği",
+   "en sevilen şey ya da kişi",
+   "favori"
+  ],
+  "ex": [
+   "Bu mavi kazak en sevdiğim kış giysisi.",
+   "Çocukların en sevdikleri boş zaman etkinliklerine dair anketler, yerel yönetimlerin daha çekici kamusal alanlar tasarlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "en sevilen uğraş",
+   "kesin favori",
+   "kazanmanın açık favorisi"
+  ],
+  "tip": "'favorite' Amerikan yazımıdır; İngiliz yazımı 'favourite'. 'most favorite' demek yanlıştır, sadece 'favorite' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tea",
+  "senses": [
+   "çay",
+   "çay yaprağı",
+   "çay vakti; akşam yemeği"
+  ],
+  "ex": [
+   "Sen dinlenirken bir demlik çay yaptım.",
+   "Birçok kültürde çay paylaşmak sohbet için bir fırsat sunar ve kuşaklar arasındaki ilişkileri güçlendirir."
+  ],
+  "col": [
+   "bir fincan çay",
+   "çay demlemek",
+   "çay yaprakları",
+   "öğleden sonra çayı"
+  ],
+  "tip": "'tea' içecek olarak genellikle sayılamaz. Sipariş verirken 'two teas' iki fincan çay anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "change",
+  "senses": [
+   "değiştirmek; bozdurmak",
+   "değişim; değişiklik",
+   "bozuk para; üst"
+  ],
+  "ex": [
+   "Yağmur yağmaya başlayınca planlarımızı değiştirdik.",
+   "Hükümetler, şehirlerde bisiklet kullanımını teşvik etmek ve özel araç bağımlılığını azaltmak için ulaşım politikalarını değiştirmeli."
+  ],
+  "col": [
+   "fikrini değiştirmek",
+   "iklim değişikliği",
+   "toplumsal değişim",
+   "bozuk para"
+  ],
+  "tip": "'Bozuk para' ya da 'üst para' anlamında 'change' sayılamaz; 'a change' demek yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "australia",
+  "senses": [
+   "Avustralya"
+  ],
+  "ex": [
+   "Kuzenim deniz biyolojisi okumak için Avustralya'ya taşındı.",
+   "Avustralya, üniversiteleri, çeşitli şehirleri ve İngilizce eğitim fırsatlarıyla uluslararası öğrencileri çekiyor."
+  ],
+  "col": [
+   "Avustralya'ya seyahat etmek",
+   "Avustralya'da okumak",
+   "Avustralya anakarası"
+  ],
+  "tip": "'Australia' Avustralya'dır; 'Austria' ise Avusturya'dır. Yazımları yakın olduğu için karıştırılmamalıdır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,276 @@
+[
+ {
+  "id": "alongside",
+  "senses": [
+   "yanında; birlikte",
+   "yan yana"
+  ],
+  "ex": [
+   "Bisikletle nehir kenarında kız kardeşimin yanında sürdüm.",
+   "Okullar, öğrencileri yetişkin hayatına hazırlamak için akademik derslerin yanı sıra pratik beceriler de öğretmelidir."
+  ],
+  "col": [
+   "birlikte çalışmak",
+   "nehir boyunca",
+   "diğer önlemlerle birlikte"
+  ],
+  "tip": "Edat olarak kullanıldığında ardından isim gelir. 'along with' ile benzer anlamda kullanılır, ama 'alongside' ayrıca 'yan yana' anlamı da taşır.",
+  "note": ""
+ },
+ {
+  "id": "substance",
+  "senses": [
+   "madde",
+   "öz; esas",
+   "esas; temel"
+  ],
+  "ex": [
+   "Mutfak zeminine yapışkan bir madde dökülmüştü.",
+   "Fabrikalar, kirlenmiş suyun hem yaban hayatını hem insan sağlığını tehdit ettiği için zararlı maddelerin nehirlere karışmasını önlemek zorundadır."
+  ],
+  "col": [
+   "zararlı maddeler",
+   "kimyasal madde",
+   "...in özü",
+   "içerikten yoksun olmak"
+  ],
+  "tip": "'Madde' anlamında sayılabilir (substances); 'öz' ya da 'içerik' anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "fortunate",
+  "senses": [
+   "şanslı; talihli"
+  ],
+  "ex": [
+   "Fırtınadan önce barınak bulmak bizim için şanstı.",
+   "Güvenilir internet erişimine sahip öğrenciler şanslıdır; çünkü birçok kırsal topluluk hâlâ yeterli dijital altyapıdan yoksundur."
+  ],
+  "col": [
+   "yeterince şanslı olmak",
+   "...e sahip olmak şansı",
+   "şanslı bir kurtuluş"
+  ],
+  "tip": "'be fortunate to do' kalıbında 'to' ile fiil gelir. 'lucky' ile eş anlamlıdır ama daha resmi bir tondadır.",
+  "note": ""
+ },
+ {
+  "id": "mineral",
+  "senses": [
+   "mineral; mineral madde",
+   "madensel; maden"
+  ],
+  "ex": [
+   "Müze, parlak mor kristalleri olan bir minerali sergiliyordu.",
+   "Bol maden kaynağına sahip ülkeler, madencilik kaynaklı çevre zararını sınırlamak için etkili düzenlemelere ihtiyaç duyar."
+  ],
+  "col": [
+   "maden kaynakları",
+   "maden yatakları",
+   "temel mineraller",
+   "mineralli su"
+  ],
+  "tip": "Beslenme bağlamında 'minerals' mineral madde (besin öğesi) anlamındadır; vitaminlerle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "purely",
+  "senses": [
+   "yalnızca; sadece"
+  ],
+  "ex": [
+   "Bu küçük fotoğraf makinesini tamamen eğlence için satın aldım.",
+   "Üniversite eğitimi yalnızca mezunların maaşlarına göre değerlendirilmemelidir; çünkü daha geniş toplumsal faydaları da vardır."
+  ],
+  "col": [
+   "tamamen tesadüfen",
+   "salt zevk için",
+   "tamamen kişisel",
+   "tamamen teorik"
+  ],
+  "tip": "Genellikle 'for', 'by' ya da bir sıfatın önünde gelir. Bir nedenin tek olduğunu ve başka hiçbir etkenin bulunmadığını vurgular.",
+  "note": ""
+ },
+ {
+  "id": "significance",
+  "senses": [
+   "önem; ehemmiyet",
+   "anlam; mana"
+  ],
+  "ex": [
+   "Sonunda onun sessiz gülümsemesinin anlamını anladım.",
+   "Bu keşif, daha temiz ve uygun fiyatlı enerji kaynakları arayan bilim insanları için büyük önem taşıyor."
+  ],
+  "col": [
+   "büyük önem",
+   "tarihsel önem",
+   "...in önemi",
+   "...e anlam yüklemek"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a significance' denmez. 'be of great significance' kalıbı akademik ve resmi yazıda sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "willingness",
+  "senses": [
+   "istekli olma; gönüllülük"
+  ],
+  "ex": [
+   "Yardım etme istekliliği taşınmayı çok daha kolay hale getirdi.",
+   "Öğretmenler destekleyici bir sınıf ortamı yarattığında, öğrencilerin soru sorma istekliliği genellikle artar."
+  ],
+  "col": [
+   "öğrenme isteği",
+   "istek göstermek",
+   "iş birliği yapma isteği"
+  ],
+  "tip": "'to' ile fiil gelerek kullanılır: willingness to help. 'willing' sıfatıyla karıştırılmamalı; burada isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "technician",
+  "senses": [
+   "teknisyen"
+  ],
+  "ex": [
+   "Teknisyen çamaşır makinemizdeki bozuk parçayı değiştirdi.",
+   "Laboratuvar teknisyenleri, numuneleri hazırlayarak ve uzmanlık gerektiren cihazları bakımda tutarak tıbbi araştırmalarda önemli rol oynar."
+  ],
+  "col": [
+   "laboratuvar teknisyeni",
+   "bakım teknisyeni",
+   "yetkin teknisyen"
+  ],
+  "tip": "Cihazların kullanımı, bakımı ve onarımıyla ilgilenir. 'engineer' (mühendis) ile aynı şey değildir.",
+  "note": ""
+ },
+ {
+  "id": "possess",
+  "senses": [
+   "sahip olmak; elinde tutmak",
+   "nitelik taşımak; haiz olmak"
+  ],
+  "ex": [
+   "Amcam antika saatlerden oluşan olağanüstü bir koleksiyona sahip.",
+   "Güçlü iletişim becerilerine sahip mezunlar, değişen iş gücü taleplerine uyum sağlamaya genellikle daha hazırlıklıdır."
+  ],
+  "col": [
+   "beceriye sahip olmak",
+   "bilgiye sahip olmak",
+   "mülke sahip olmak"
+  ],
+  "tip": "'have'den daha resmi bir kelimedir; genellikle sürekli zamanlarda kullanılır. Yazımında dört 's' harfi vardır: possess.",
+  "note": ""
+ },
+ {
+  "id": "soy",
+  "senses": [
+   "soya; soya ürünü",
+   "soya sosu"
+  ],
+  "ex": [
+   "Genellikle kahvaltı gevreğimin üzerine soya sütü dökerim.",
+   "Soya bitkisel protein sağlar; ancak arazi sorumsuzca açıldığında ekimi ormanları tehdit edebilir."
+  ],
+  "col": [
+   "soya sütü",
+   "soya sosu",
+   "soya proteini",
+   "soya ürünleri"
+  ],
+  "tip": "Bitki ve ürün için 'soy' kullanılır; İngiliz İngilizcesinde 'soya' biçimi de yaygındır. 'Sos' için 'soy sauce' denir.",
+  "note": ""
+ },
+ {
+  "id": "decline",
+  "senses": [
+   "azalmak; gerilemek",
+   "düşüş; gerileme",
+   "nazikçe reddetmek"
+  ],
+  "ex": [
+   "Yemek için ona teşekkür ettim ama davetini nazikçe reddettim.",
+   "Toplu taşıma iyileştikçe özel araç kullanımı azalabilir; bu da kentsel alanlarda trafik sıkışıklığını ve hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "keskin bir düşüş",
+   "satışlarda düşüş",
+   "daveti reddetmek",
+   "yorum yapmayı reddetmek"
+  ],
+  "tip": "Düşüş anlamında 'decline in', nazikçe reddetmek anlamında 'decline to do' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "puncture",
+  "senses": [
+   "patlak; delik",
+   "delmek; patlatmak"
+  ],
+  "ex": [
+   "Bisiklet lastiğimdeki patlak yüzünden geç kaldım.",
+   "Kötü bakımlı bisiklet yollarındaki keskin cisimler lastikleri delebilir ve sakinleri işe bisikletle gitmekten vazgeçirebilir."
+  ],
+  "col": [
+   "patlak tamir etmek",
+   "lastik patlamak",
+   "lastiği delmek"
+  ],
+  "tip": "İngiliz İngilizcesinde 'get a puncture' kullanılır; Amerikan İngilizcesinde aynı anlam için 'get a flat' denir.",
+  "note": ""
+ },
+ {
+  "id": "unconscious",
+  "senses": [
+   "baygın; bilinçsiz",
+   "bilinçdışı; farkında olmayan"
+  ],
+  "ex": [
+   "Baygın hasta battaniyenin altında düzenli nefes alıyordu.",
+   "Bilinçdışı önyargı, işverenler tüm başvuru sahiplerine adil davranmayı amaçlasa bile işe alım kararlarını etkileyebilir."
+  ],
+  "col": [
+   "bayılmak; bilinci kapanmak",
+   "baygın kalmak",
+   "bilinçdışı önyargı",
+   "farkında olmamak"
+  ],
+  "tip": "'unconscious of' farkında olmamak anlamına gelir. Baygınlık, normal uykudan farklı bir durumdur; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "inevitably",
+  "senses": [
+   "kaçınılmaz olarak; mutlaka"
+  ],
+  "ex": [
+   "Düzenli sulanmazsa bu çiçekler kaçınılmaz olarak ölecek.",
+   "Hane halkı büyüklüğü önemli ölçüde değişmezse, artan nüfus konut talebini kaçınılmaz olarak artıracaktır."
+  ],
+  "col": [
+   "kaçınılmaz olarak yol açmak",
+   "kaçınılmaz olarak içermek",
+   "neredeyse kaçınılmaz olarak"
+  ],
+  "tip": "'probably'den daha güçlü bir zarftır; sonucun önlenemez olduğunu belirtir. Cümle sonuçlarını vurgulamak için uygundur.",
+  "note": ""
+ },
+ {
+  "id": "shovel",
+  "senses": [
+   "kürek",
+   "kürekle kaldırmak"
+  ],
+  "ex": [
+   "Karla kaplı yolu temizlemek için kürek kullandım.",
+   "Gönüllüler, kullanılmayan kentsel arazide bahçe oluşturmak için toprağı yükseltilmiş yataklara kürekle taşıdı."
+  ],
+  "col": [
+   "kar küreği",
+   "karı küremek",
+   "toprağı kürekle taşımak"
+  ],
+  "tip": "İngiliz İngilizcesinde geçmiş zaman 'shovelled', Amerikan İngilizcesinde 'shoveled' biçimindedir.",
+  "note": ""
+ }
+]

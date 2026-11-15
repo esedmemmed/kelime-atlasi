@@ -1,0 +1,270 @@
+[
+ {
+  "id": "actual",
+  "senses": [
+   "gerçek; fiili"
+  ],
+  "ex": [
+   "Asıl fatura, beklediğimizden çok daha düşüktü.",
+   "Hükümetler, yalnızca öngörülen faydalara güvenmek yerine ulaşım politikalarının gerçek etkisini ölçmelidir."
+  ],
+  "col": [
+   "gerçek maliyet",
+   "gerçek sonuçlar",
+   "gerçek boyut"
+  ],
+  "tip": "actual 'gerçek, fiili' anlamındadır; 'şu anki' anlamında kullanılmaz. Bu anlam için current kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "occasional",
+  "senses": [
+   "ara sıra olan; arada sırada"
+  ],
+  "ex": [
+   "Nehir kenarında ara sıra piknik yapmaktan keyif alıyoruz.",
+   "Kalabalık şehirlerde yaşayanlar için yeşil alanlara arada sırada bile erişim, yaşam kalitelerini artırabilir."
+  ],
+  "col": [
+   "ara sıra ziyaretler",
+   "arada sırada yaşanan sorunlar",
+   "ara sıra kullanıcı"
+  ],
+  "tip": "occasional isim önünde sıfat olarak kullanılır. 'Ara sıra' anlamındaki zarf biçimi occasionally'dir.",
+  "note": ""
+ },
+ {
+  "id": "bitterly",
+  "senses": [
+   "acı içinde; kırgınca",
+   "son derece; çok"
+  ],
+  "ex": [
+   "Bisikleti yine çalındığında acı acı yakınmıştı.",
+   "Aşırı soğuk kışlarda yalıtımı zayıf evler enerji maliyetlerini artırır ve savunmasız sakinlerin sağlığını riske atar."
+  ],
+  "col": [
+   "çok hayal kırıklığına uğramış",
+   "dondurucu soğuk",
+   "acı acı yakınmak",
+   "acı acı ağlamak"
+  ],
+  "tip": "Genellikle olumsuz duygular veya cold gibi olumsuz anlamlı sözcüklerle kullanılır. Olumlu sıfatlarla kullanmaktan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "fragment",
+  "senses": [
+   "parça; kırık parça",
+   "parçalanmak; bölünmek"
+  ],
+  "ex": [
+   "Kapının yanında mavi bir cam parçası buldum.",
+   "Plastik atıklar, besin zincirine girip deniz canlılarını tehdit eden minik parçacıklara ayrışabilir."
+  ],
+  "col": [
+   "bir cam parçası",
+   "kemik parçaları",
+   "parçalara ayrılmak",
+   "eksik cümle"
+  ],
+  "tip": "İsimde vurgu ilk hecededir (FRAgment), fiilde son hecededir (fragMENT). Anlamları da bu vurguya göre ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "abolish",
+  "senses": [
+   "kaldırmak; yürürlükten kaldırmak"
+  ],
+  "ex": [
+   "Kütüphanemiz, kitapları geç iade edenlere uyguladığı cezaları kaldırdı.",
+   "Bazı ekonomistler, hükümetlerin fosil yakıtların aşırı tüketimini teşvik eden sübvansiyonları kaldırması gerektiğini savunuyor."
+  ],
+  "col": [
+   "bir yasayı kaldırmak",
+   "bir vergiyi kaldırmak",
+   "köleliği kaldırmak"
+  ],
+  "tip": "Yasa, sistem veya köklü uygulamalar için kullanılır. Günlük bir randevuyu iptal etmek için cancel kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bamboo",
+  "senses": [
+   "bambu"
+  ],
+  "ex": [
+   "Biraz mahremiyet için çitin yanına bambu diktı.",
+   "Bambu hızlı büyür ve sorumlu yönetilen plantasyonlarda yenilenebilir bir yapı malzemesi sağlayabilir."
+  ],
+  "col": [
+   "bambu ormanı",
+   "bambu filizi",
+   "bambu mobilya"
+  ],
+  "tip": "Genel anlamda (bambu malzemesi) sayılamaz. Tek bir bitkiden söz ederken 'a bamboo' diyebilirsiniz.",
+  "note": ""
+ },
+ {
+  "id": "rap",
+  "senses": [
+   "rap; rap müziği",
+   "rap yapmak",
+   "sert vurmak; tıklatmak"
+  ],
+  "ex": [
+   "Kardeşim yemek pişirirken rap dinler.",
+   "Rap, gençlere deneyimlerini ifade etmek ve toplumsal sorunları tartışmak için yaratıcı bir yol sunabilir."
+  ],
+  "col": [
+   "rap müziği",
+   "rap sanatçısı",
+   "kapıyı tıklatmak"
+  ],
+  "tip": "Kısa ünlü ile biten tek heceli fiillerde son ünsüz ikileşir: rapped, rapping. Yazımda p'yi ikilemeyi unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "shepherd",
+  "senses": [
+   "çoban",
+   "yol göstermek; kılavuzluk etmek"
+  ],
+  "ex": [
+   "Çoban, gün batmadan koyunları eve götürdü.",
+   "Müze personeli, herkesin sergiler arasında güvenle dolaşabilmesi için kalabalık galerilerde ziyaretçilere yol gösterir."
+  ],
+  "col": [
+   "bir sürü koyun",
+   "çoban kulübesi",
+   "ziyaretçilere yol göstermek"
+  ],
+  "tip": "Fiil olarak genellikle nesne alır: shepherd sb into/through bir yere yönlendirmek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "striking",
+  "senses": [
+   "çarpıcı; dikkat çekici"
+  ],
+  "ex": [
+   "Parlak eşarbı, mantosuyla çarpıcı bir zıtlık oluşturuyor.",
+   "Anket, kentsel ve kırsal topluluklar arasında toplu taşımaya erişimde çarpıcı farklılıklar ortaya koydu."
+  ],
+  "col": [
+   "çarpıcı bir zıtlık",
+   "çarpıcı bir benzerlik",
+   "çarpıcı bir fark"
+  ],
+  "tip": "Belirgin ya da dikkat çekici anlamına gelir. Her zaman 'şaşırtıcı, şok edici' anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "copyright",
+  "senses": [
+   "telif hakkı; kopyalama hakkı",
+   "telif hakkı almak"
+  ],
+  "ex": [
+   "Fotoğrafı web sitenizde kullanmadan önce telif hakkını kontrol edin.",
+   "Telif hakkı yasaları, yaratıcıları korurken eğitim ve araştırma amacıyla bazı kullanımlara izin vermeyi amaçlar."
+  ],
+  "col": [
+   "telif hakkı koruması",
+   "telif hakkı sahibi",
+   "telif hakkı ihlali",
+   "telif hakkı kapsamında"
+  ],
+  "tip": "Telif hakkı copyright'tır; patent ise buluşlara ilişkin patent hakkıdır. İkisini birbirine karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "disgust",
+  "senses": [
+   "iğrenme; tiksinme",
+   "iğrendirmek; tiksindirmek"
+  ],
+  "ex": [
+   "Çürük meyveye bakınca burnunu kırıştırdı.",
+   "Sakinler, evsel atıkların yerel nehrin kenarına kaçak olarak dökülmesinden duydukları tiksintiyi dile getirdi."
+  ],
+  "col": [
+   "tiksinerek",
+   "tiksintisini dile getirmek",
+   "...e karşı tiksinti"
+  ],
+  "tip": "disgusted hissi yaşayan kişiyi, disgusting ise iğrenç olan şeyi anlatır. Sıfatları karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "accomplish",
+  "senses": [
+   "başarmak; gerçekleştirmek"
+  ],
+  "ex": [
+   "Misafirler yemeğe gelmeden önce her şeyi bitirdik.",
+   "Öğretmenler açık hedefler ve düzenli geri bildirim verdiğinde öğrenciler daha fazlasını başarabilir."
+  ],
+  "col": [
+   "bir görevi tamamlamak",
+   "bir hedefe ulaşmak",
+   "çok şey başarmak"
+  ],
+  "tip": "Geçişli bir fiildir; doğrudan bir görev ya da hedef alır. Bir to-infinitive ile kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "hostile",
+  "senses": [
+   "düşmanca; karşı",
+   "elverişsiz; zorlu",
+   "düşman; karşıt"
+  ],
+  "ex": [
+   "Onun düşmanca cevabı masadaki herkesi rahatsız etti.",
+   "Sakinler planlama sürecinden dışlandıklarını hissederlerse topluluklar yeni projelere karşı düşmanca tavır alabilir."
+  ],
+  "col": [
+   "değişime karşı",
+   "düşmanca karşılanma",
+   "zorlu ortam",
+   "düşman güçler"
+  ],
+  "tip": "hostile to ile isim ya da -ing biçimi alır ve 'karşı olmak, düşmanca davranmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "typhoon",
+  "senses": [
+   "tayfun"
+  ],
+  "ex": [
+   "Tayfun pencereleri sallarken içeride kaldık.",
+   "Kıyı toplulukları, tayfunların verdiği hasarı azaltmak için daha sağlam binalara ve güvenilir uyarı sistemlerine ihtiyaç duyar."
+  ],
+  "col": [
+   "güçlü bir tayfun",
+   "tayfun vurur",
+   "tayfun uyarısı"
+  ],
+  "tip": "hurricane ile aynı tür tropikal fırtınadır; adı oluştuğu bölgeye göre değişir. Batı Pasifik'te typhoon denir.",
+  "note": ""
+ },
+ {
+  "id": "county",
+  "senses": [
+   "ilçe; idari bölge"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam bu ilçenin sakin bir köyünde yaşıyor.",
+   "İlçe meclisi, kırsal topluluklar ile en yakın şehir arasındaki toplu taşımayı iyileştirmeyi planlıyor."
+  ],
+  "col": [
+   "ilçe meclisi",
+   "ilçe merkezi",
+   "ilçe sınırı"
+  ],
+  "tip": "Anlamı ülkeye göre değişir. İngiltere'de bölge (shire benzeri), ABD'de ilçe anlamına gelir. Metindeki ülkeye bakın.",
+  "note": ""
+ }
+]

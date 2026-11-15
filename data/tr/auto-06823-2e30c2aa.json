@@ -1,0 +1,269 @@
+[
+ {
+  "id": "panoramic",
+  "senses": [
+   "panoramik; geniş görüşlü"
+  ],
+  "ex": [
+   "Balkonumuzdan limanın panoramik manzarası görülüyor.",
+   "Panoramik kıyı manzaralı oteller turistleri çekebilir, ancak hassas deniz ortamları üzerindeki baskıyı artırabilir."
+  ],
+  "col": [
+   "panoramik manzara",
+   "panoramik fotoğraf",
+   "panoramik pencereler"
+  ],
+  "tip": "Genellikle view ile kullanılır ve çevredeki geniş bir alanın görüntüsünü vurgular.",
+  "note": ""
+ },
+ {
+  "id": "martial",
+  "senses": [
+   "askeri; savaşla ilgili"
+  ],
+  "ex": [
+   "Askerler geçerken orkestra askeri marşlar çalıyordu.",
+   "Dövüş sanatları savaş teknikleri olarak doğmuş olsa da bugün birçok insan onları fizik formu ve öz disiplin için yapıyor."
+  ],
+  "col": [
+   "dövüş sanatları",
+   "sıkıyönetim",
+   "askeri müzik"
+  ],
+  "tip": "martial (askeri) ile marital (evlilikle ilgili) sözcüklerini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "navigable",
+  "senses": [
+   "seyredilebilir; gemiyle geçilebilir",
+   "kolay gezilebilir; anlaşılır"
+  ],
+  "ex": [
+   "Nehir yalnızca yağışlı mevsimde gemilere elverişlidir.",
+   "Düzenli ve kolay gezilebilir bir web sitesi, temel kamu hizmetlerine erişimi artırabilir."
+  ],
+  "col": [
+   "seyredilebilir nehir",
+   "seyredilebilir su yolları",
+   "kolay gezilebilir web sitesi"
+  ],
+  "tip": "Genellikle nehir ve su yolları için kullanılır. Bir geminin denizde elverişli olmasını ise seaworthy ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "reap",
+  "senses": [
+   "elde etmek; kazanmak",
+   "biçmek; hasat etmek"
+  ],
+  "ex": [
+   "Aylarca süren pratiğin ardından sonunda emeğinin karşılığını aldı.",
+   "Erken eğitime sürekli yatırım yapan ülkeler genellikle uzun vadede ekonomik ve sosyal kazanımlar elde eder."
+  ],
+  "col": [
+   "faydasını görmek",
+   "ödülünü almak",
+   "hasat toplamak"
+  ],
+  "tip": "Soyut anlamda genellikle benefits veya rewards ile kullanılır; önce yapılan emeği, ardından gelen sonucu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "ore",
+  "senses": [
+   "cevher; maden cevheri"
+  ],
+  "ex": [
+   "Kamyon, tozlu yolda demir cevheri taşıyordu.",
+   "Cevherden metal çıkarmak büyük miktarda enerji gerektirir ve çevredeki ekosistemlere ciddi zarar verebilir."
+  ],
+  "col": [
+   "demir cevheri",
+   "bakır cevheri",
+   "cevher yatakları",
+   "cevherden metal çıkarmak"
+  ],
+  "tip": "Ore, içinden değerli madde çıkarılabilen kayaçtır; metal ile aynı şey değildir.",
+  "note": ""
+ },
+ {
+  "id": "colonial",
+  "senses": [
+   "sömürge; sömürgeye ait"
+  ],
+  "ex": [
+   "Rehberimiz bize sömürge dönemine ait birkaç binayı gösterdi.",
+   "Sömürge yönetimi, tarımsal üretimi uzak pazarların ihtiyaçlarına göre yönlendirerek yerel ekonomileri sıklıkla yeniden şekillendirdi."
+  ],
+  "col": [
+   "sömürge yönetimi",
+   "sömürge dönemi",
+   "sömürgeci güçler",
+   "sömürge mirası"
+  ],
+  "tip": "colony isim olarak 'sömürge' anlamına gelir; colonial ise bu isimden türeyen sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "encircle",
+  "senses": [
+   "çevrelemek; kuşatmak"
+  ],
+  "ex": [
+   "Evimizin arkasındaki küçük göleti uzun ağaçlar çevreliyor.",
+   "Kentsel alanları çevreleyen yeşil kuşaklar yaban hayatı yaşam alanlarını koruyabilir ve kontrolsüz yapılaşmayı sınırlayabilir."
+  ],
+  "col": [
+   "dağlarla çevrili olmak",
+   "şehri çevrelemek",
+   "çitle çevrelemek"
+  ],
+  "tip": "Geçişli bir fiildir. Edilgen kullanımda be encircled by (ile çevrili olmak) yapısı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "pending",
+  "senses": [
+   "beklemedeki; askıdaki",
+   "beklerken; -e kadar"
+  ],
+  "ex": [
+   "Başvurumuz hâlâ beklemede, bu yüzden uçuş rezervasyonu yapamıyoruz.",
+   "Çevre üzerindeki olası etkisine dair kapsamlı bir değerlendirme yapılana kadar inşaat askıda kalmalıdır."
+  ],
+  "col": [
+   "onay bekleyen",
+   "bekleyen başvuru",
+   "sürmekte olan soruşturma"
+  ],
+  "tip": "Anlamı 'henüz karara bağlanmamış' demektir; 'acil' anlamına gelmez, urgent ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "console",
+  "senses": [
+   "teselli etmek; avutmak",
+   "kumanda; konsol; oyun konsolu"
+  ],
+  "ex": [
+   "Lena, takımı kaybettikten sonra kardeşini teselli etmeye çalıştı.",
+   "Öğretmenler, hayal kırıklığına uğrayan öğrencileri teselli ederken onlara akademik başarılarını artıracak pratik stratejiler geliştirmelerinde yardımcı olmalıdır."
+  ],
+  "col": [
+   "birini teselli etmek",
+   "kendini ... ile avutmak",
+   "oyun konsolu",
+   "kontrol konsolu"
+  ],
+  "tip": "Fiil olarak 'teselli etmek', isim olarak 'oyun konsolu' anlamına gelir. Fiilde vurgu sonda, isimde başta düşer.",
+  "note": ""
+ },
+ {
+  "id": "terminate",
+  "senses": [
+   "sona erdirmek; feshetmek",
+   "son durağa varmak"
+  ],
+  "ex": [
+   "Geçen ay spor salonu üyeliğimizi sonlandırmaya karar verdik.",
+   "İşverenler, çalışanlara yeterli açıklama ve yanıt süresi vermeden sözleşmeleri feshetmemelidir."
+  ],
+  "col": [
+   "sözleşmeyi feshetmek",
+   "iş ilişkisini sonlandırmak",
+   "bir istasyonda son bulmak"
+  ],
+  "tip": "Resmi bir fiildir. Tren gibi taşıtlar için at ile kullanılır: terminate at a station.",
+  "note": ""
+ },
+ {
+  "id": "specimen",
+  "senses": [
+   "numune; bilimsel örnek",
+   "tahlil numunesi"
+  ],
+  "ex": [
+   "Müze bu kelebek örneğini camın arkasında saklıyor.",
+   "Araştırmacılar, uzun süren kuraklığın bitki büyümesini nasıl etkilediğini anlamak için her bitki örneğini inceledi."
+  ],
+  "col": [
+   "numune toplamak",
+   "bir bitki örneği",
+   "bir idrar numunesi"
+  ],
+  "tip": "Bilimsel inceleme veya tıbbi test için alınan örneği ifade eder; genel anlamda 'örnek' yerine kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "ruthless",
+  "senses": [
+   "acımasız; merhametsiz"
+  ],
+  "ex": [
+   "Acımasız ev sahibi, aileyi hiçbir uyarı yapmadan evden çıkardı.",
+   "Acımasız rekabet, şirketleri çalışan refahı pahasına işgücü maliyetlerini kesmeye yöneltebilir."
+  ],
+  "col": [
+   "acımasız rekabet",
+   "acımasız hırs",
+   "acımasız bir lider"
+  ],
+  "tip": "strict sözcüğünden daha güçlüdür; hedefe ulaşmak için başkalarının zararını umursamamayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "taxation",
+  "senses": [
+   "vergilendirme; vergi sistemi"
+  ],
+  "ex": [
+   "Vergiler, yerel okulların ve yolların finansmanına yardımcı olur.",
+   "Artan oranlı vergilendirme, zengin vatandaşların gelirlerinin daha büyük bir kısmını katkı olarak vermesini sağlayarak gelir eşitsizliğini azaltabilir."
+  ],
+  "col": [
+   "artan oranlı vergi",
+   "doğrudan vergilendirme",
+   "çifte vergilendirme",
+   "vergi politikası"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir ve vergi sistemini ya da vergi toplama sürecini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "turbine",
+  "senses": [
+   "türbin; kanatlı makine"
+  ],
+  "ex": [
+   "Tarlaların üzerinde rüzgâr türbininin yavaşça döndüğünü izledik.",
+   "Denizde rüzgâr türbinleri kurmak yenilenebilir elektrik üretimini artırabilir, ancak deniz ekosistemleri üzerindeki olası etkilerin dikkatle değerlendirilmesi gerekir."
+  ],
+  "col": [
+   "rüzgâr türbini",
+   "buhar türbini",
+   "gaz türbini",
+   "türbin kanadı"
+  ],
+  "tip": "Vurgu ilk hecededir. wind turbine ifadesi rüzgâr türbini anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "deficit",
+  "senses": [
+   "açık; eksi bakiye",
+   "eksik; yetersizlik"
+  ],
+  "ex": [
+   "Yeni ekipman satın aldıktan sonra kulübümüz bir açıkla karşı karşıya.",
+   "Hükümetler vergileri artırarak bütçe açığını azaltabilir, ancak bu ekonomik büyümeyi yavaşlatabilir."
+  ],
+  "col": [
+   "bütçe açığı",
+   "dış ticaret açığı",
+   "açığı azaltmak"
+  ],
+  "tip": "Harcamanın gelirden fazla olmasını ifade eder; borç anlamındaki debt ile karıştırılmamalıdır.",
+  "note": ""
+ }
+]

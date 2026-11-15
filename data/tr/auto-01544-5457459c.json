@@ -1,0 +1,276 @@
+[
+ {
+  "id": "bakery",
+  "senses": [
+   "fırın; pastane"
+  ],
+  "ex": [
+   "Evimizin yakınındaki fırın her sabah sıcak ekmek satıyor.",
+   "Fırın gibi küçük işletmeler yerel istihdam sağlar ve canlı mahalle alışveriş bölgelerinin devamına katkıda bulunur."
+  ],
+  "col": [
+   "yerel fırın",
+   "fırın sahibi",
+   "fırın ürünleri"
+  ],
+  "tip": "bakery, ekmek ve pasta üretilen ya da satılan yeri anlatır. Fırın ürünleri için baked goods kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "serve",
+  "senses": [
+   "servis etmek; sunmak",
+   "hizmet etmek",
+   "kullanılmak; işlev görmek"
+  ],
+  "ex": [
+   "Bu küçük kafe taze çorbayı sıcak ekmekle servis ediyor.",
+   "Halk kütüphaneleri, sakinlerin bilgiye ulaşabildiği, atölyelere katılabildiği ve diğer öğrenenlerle buluşabildiği topluluk alanı olarak hizmet verir."
+  ],
+  "col": [
+   "yemek servis etmek",
+   "müşterilere hizmet etmek",
+   "topluma hizmet etmek",
+   "olarak hizmet etmek"
+  ],
+  "tip": "serve as'ten sonra rol ya da işlev gelir. serve for bu anlamda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "neighbour",
+  "senses": [
+   "komşu"
+  ],
+  "ex": [
+   "Komşumuz biz uzaktayken bitkileri suladı.",
+   "Ortak bahçeler komşular arasındaki ilişkileri güçlendirebilir ve kentsel topluluklarda aidiyet duygusunu artırabilir."
+  ],
+  "col": [
+   "bitişik komşu",
+   "yakın komşular",
+   "komşu ülkeler"
+  ],
+  "tip": "İngiliz İngilizcesinde neighbour, Amerikan İngilizcesinde neighbor yazılır. Sıfat hali neighbouring'dir.",
+  "note": ""
+ },
+ {
+  "id": "click",
+  "senses": [
+   "tıklamak",
+   "tık sesi; tıklama",
+   "birden anlaşılmak; kafasına dank etmek"
+  ],
+  "ex": [
+   "Daha büyük sürümünü görmek için resme tıklayın.",
+   "Öğrenciler bağlantılara tıklamadan ya da kişisel bilgilerini paylaşmadan önce bir web sitesinin güvenilir olup olmadığını kontrol etmelidir."
+  ],
+  "col": [
+   "bir bağlantıya tıklamak",
+   "fare tıklaması",
+   "keskin bir tık sesi"
+  ],
+  "tip": "Ekrandaki bir öğeye tıklamak için click on kullanılır. it clicked ifadesi birden anlaşılmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "jog",
+  "senses": [
+   "hafif koşmak",
+   "hafif koşu",
+   "hafifçe çarpmak; dürtmek"
+  ],
+  "ex": [
+   "Her sabah kahvaltıdan önce parkın etrafında hafif koşu yaparız.",
+   "Düzenli olarak hafif koşu yapan kişiler, pahalı ekipmana ya da spor salonu üyeliğine ihtiyaç duymadan kalp ve dolaşım sağlıklarını geliştirebilir."
+  ],
+  "col": [
+   "hafif koşuya çıkmak",
+   "yavaşça ilerlemek",
+   "birinin hafızasını canlandırmak"
+  ],
+  "tip": "jog someone's memory birinin hafızasını tazelemek anlamına gelir. Koşu için go for a jog kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "least",
+  "senses": [
+   "en az",
+   "en az",
+   "en az miktar"
+  ],
+  "ex": [
+   "Bu çorbaya hepsinin en az tuzu gerekiyor.",
+   "Toplu taşıma, özel araçla seyahatle karşılaştırıldığında genellikle yolcu başına en az kirliliğe yol açar."
+  ],
+  "col": [
+   "en azından",
+   "en az pahalı olan",
+   "özellikle de"
+  ],
+  "tip": "least, little'ın en üstünlü halidir. Sayılabilir isimlerle genellikle fewest kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "microwave",
+  "senses": [
+   "mikrodalga fırın",
+   "mikrodalgada ısıtmak",
+   "mikrodalga"
+  ],
+  "ex": [
+   "Öğle yemeği için dünkü çorbayı mikrodalga fırında ısıttım.",
+   "Küçük porsiyonları yeniden ısıtmak için mikrodalga kullanmak, geleneksel fırına göre daha az enerji tüketebilir."
+  ],
+  "col": [
+   "mikrodalga fırın",
+   "mikrodalgada pişmiş yiyecek",
+   "mikrodalga ışınımı"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: microwave the soup. Cihazı belirtmek için in the microwave kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "butterfly",
+  "senses": [
+   "kelebek",
+   "kelebek yüzme stili"
+  ],
+  "ex": [
+   "Sarı bir kelebek kolumun üzerine hafifçe kondu.",
+   "Kentsel bahçelerde yerel çiçekler dikmek kelebek popülasyonlarını destekleyebilir ve yerel biyoçeşitliliğe katkı sağlayabilir."
+  ],
+  "col": [
+   "kelebek kanatları",
+   "kelebek türleri",
+   "kelebek stili yüzmek"
+  ],
+  "tip": "Çoğulu butterflies'tır. Yüzme stili anlamında isim genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "canadian",
+  "senses": [
+   "Kanada'ya ait; Kanadalı",
+   "Kanadalı"
+  ],
+  "ex": [
+   "Kanadalı komşumuz dün bizi akşam yemeğine davet etti.",
+   "Kanada şehirleri, nüfus artışına uyum sağlarken uygun fiyatlı konut sunmak ve yeşil alanları korumak konusunda zorluklarla karşılaşıyor."
+  ],
+  "col": [
+   "Kanada kültürü",
+   "Kanada vatandaşları",
+   "Kanada doları"
+  ],
+  "tip": "Milliyet sıfatları büyük harfle yazılır. İsim olarak çoğulu Canadians'tır.",
+  "note": ""
+ },
+ {
+  "id": "congratulations",
+  "senses": [
+   "tebrik; kutlama",
+   "Tebrikler!"
+  ],
+  "ex": [
+   "Bu sabah ehliyet sınavını geçtiğin için tebrikler!",
+   "Araştırma ekibi, çevre inovasyonu alanında uluslararası bir ödül kazandıktan sonra meslektaşlarından tebrik aldı."
+  ],
+  "col": [
+   "başarın için tebrikler",
+   "tebrik etmek",
+   "içten tebrikler"
+  ],
+  "tip": "Tebrik genellikle çoğul kullanılır. congratulations on'dan sonra isim ya da -ing biçimi gelir.",
+  "note": ""
+ },
+ {
+  "id": "reach",
+  "senses": [
+   "ulaşmak; erişmek",
+   "uzanmak; elini uzatmak",
+   "erişim alanı; menzil"
+  ],
+  "ex": [
+   "İstasyona yağmur başlamadan hemen önce ulaştık.",
+   "Hükümetler kentsel emisyonları azaltma hedeflerine ulaşmak istiyorsa toplu taşımaya yatırım yapmalıdır."
+  ],
+  "col": [
+   "varış noktasına ulaşmak",
+   "anlaşmaya varmak",
+   "bir şeye uzanmak",
+   "erişilemez"
+  ],
+  "tip": "Yer belirtirken doğrudan nesne alır: reach the station. Araya at koymaya gerek yoktur.",
+  "note": ""
+ },
+ {
+  "id": "neck",
+  "senses": [
+   "boyun",
+   "boyun; dar kısım"
+  ],
+  "ex": [
+   "Boynuna sıcak bir atkı sarmıştı.",
+   "Bilgisayar ekranları uygun olmayan bir yükseklikte konumlandırılmışsa ofis çalışanları boyun ağrısı yaşayabilir."
+  ],
+  "col": [
+   "boyun ağrısı",
+   "tutulmuş boyun",
+   "şişenin boğazı"
+  ],
+  "tip": "neck boyunu anlatır; throat ise boğaz anlamına gelir, birbirinin yerine kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "car-park",
+  "senses": [
+   "otopark"
+  ],
+  "ex": [
+   "İstasyondaki otoparkta boş bir yer bulduk.",
+   "Az kullanılan bir otoparkın yeşil alana dönüştürülmesi, yakındaki sakinlerin yaşam kalitesini artırabilir."
+  ],
+  "col": [
+   "çok katlı otopark",
+   "yeraltı otoparkı",
+   "otopark girişi"
+  ],
+  "tip": "İngiliz İngilizcesinde car park, Amerikan İngilizcesinde genellikle parking lot kullanılır.",
+  "note": "Ad olarak genellikle car park yazılır, ara çizgi kullanılmaz."
+ },
+ {
+  "id": "lamp",
+  "senses": [
+   "lamba"
+  ],
+  "ex": [
+   "Yatağının yanındaki lambayı açtı.",
+   "Ayarlanabilir masa lambası, az aydınlatılmış odalarda çalışan öğrenciler için konforu artırabilir."
+  ],
+  "col": [
+   "masa lambası",
+   "komodin lambası",
+   "ayaklı lamba",
+   "lambayı açmak"
+  ],
+  "tip": "lamp aydınlatma cihazını anlatır. light ise ışığın kendisini ya da ışık kaynağını da ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "grape",
+  "senses": [
+   "üzüm"
+  ],
+  "ex": [
+   "Öğle yemeği kutuma birkaç üzüm koymuş.",
+   "Yazlar daha sıcak ve kurak geçtikçe üzüm yetiştiren çiftçilerin daha verimli sulama sistemlerine ihtiyacı olabilir."
+  ],
+  "col": [
+   "bir salkım üzüm",
+   "çekirdeksiz üzüm",
+   "üzüm suyu"
+  ],
+  "tip": "Tek bir üzüm için a grape, bir salkım için a bunch of grapes kullanılır.",
+  "note": ""
+ }
+]

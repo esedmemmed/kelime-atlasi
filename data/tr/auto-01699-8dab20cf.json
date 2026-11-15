@@ -1,0 +1,279 @@
+[
+ {
+  "id": "narrow",
+  "senses": [
+   "dar",
+   "sınırlı; kıl payı",
+   "daraltmak; daralmak"
+  ],
+  "ex": [
+   "Dar patika bizi yalnızca tek sıra halinde yürümeye izin veriyor.",
+   "Hükümetler, kentsel ve uzak bölgeler arasındaki eğitim farkını kapatmak için kırsal okullara yatırım yapmalıdır."
+  ],
+  "col": [
+   "dar bir sokak",
+   "kıl payı zafer",
+   "farkı kapatmak",
+   "seçenekleri daraltmak"
+  ],
+  "tip": "narrow down, 'seçenekleri daraltmak' anlamına gelir; yol daralması anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "anymore",
+  "senses": [
+   "artık; bir daha"
+  ],
+  "ex": [
+   "Artık okula otobüsle gitmiyorum.",
+   "Birçok çalışan artık her gün işe gidip gelmiyor, çünkü işverenler artık esnek çalışma düzenleri sunuyor."
+  ],
+  "col": [
+   "artık burada yaşamamak",
+   "artık buna ihtiyacı olmamak"
+  ],
+  "tip": "Olumsuz cümlelerde 'artık' anlamını verir. İngilizce 'any more' (ayrı yazılmış) ise 'daha fazla' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "ill",
+  "senses": [
+   "hasta; rahatsız",
+   "kötü; kötü bir biçimde"
+  ],
+  "ex": [
+   "Uzun otobüs yolculuğundan sonra kendimi hasta hissettim.",
+   "Hasta olan çalışanlar hemen işe dönmek yerine dinlenmeye teşvik edilmelidir."
+  ],
+  "col": [
+   "ağır hasta",
+   "hastalanmak",
+   "hakkında kötü konuşmak"
+  ],
+  "tip": "Hastalık anlamında genellikle yüklem olarak kullanılır: 'be ill'. Sıfat olarak isimden önce kullanımı daha sınırlıdır.",
+  "note": ""
+ },
+ {
+  "id": "stone",
+  "senses": [
+   "taş; kaya",
+   "böbrek taşı",
+   "çekirdek"
+  ],
+  "ex": [
+   "Gölün kenarında düz bir taş aldı.",
+   "Yerel taştan inşa edilen binalar bölgesel karakteri koruyabilir ve malzeme taşıma maliyetlerini azaltabilir."
+  ],
+  "col": [
+   "taştan yapılmış",
+   "değerli taş",
+   "böbrek taşı",
+   "taş duvar"
+  ],
+  "tip": "Malzeme anlamında 'stone' sayılamaz; tek bir taş için 'a stone' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bristol",
+  "senses": [
+   "Bristol (İngiltere'de bir şehir)"
+  ],
+  "ex": [
+   "Dün Bristol'deki liman çevresinde yürüdük.",
+   "Bristol, tarihi kıyı alanlarının modern kentsel yaşama nasıl uyarlanabileceğine ilginç bir örnektir."
+  ],
+  "col": [
+   "Bristol Limanı",
+   "Bristol merkezi",
+   "Bristol şehri"
+  ],
+  "tip": "Vurgu ilk heecededir. Şehir, İngiltere'nin güneybatısında yer alır.",
+  "note": ""
+ },
+ {
+  "id": "birth",
+  "senses": [
+   "doğum",
+   "doğuş; başlangıç"
+  ],
+  "ex": [
+   "Bütün aile kızımızın doğumunu kutladı.",
+   "Doğum sırasında nitelikli tıbbi bakıma erişim, hem anneler hem de yeni doğanlar için sağlık sonuçlarını önemli ölçüde iyileştirir."
+  ],
+  "col": [
+   "doğurmak",
+   "doğum tarihi",
+   "doğum oranı",
+   "bir hareketin doğuşu"
+  ],
+  "tip": "'give birth to' 'doğurmak' anlamına gelir; 'be born' ise 'doğmak' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tenth",
+  "senses": [
+   "onuncu",
+   "onda bir"
+  ],
+  "ex": [
+   "Dairemiz bu binanın onuncu katında.",
+   "Anket katılımcılarının yalnızca onda biri düzenli olarak işe bisikletle gidiyordu; bu, bisiklet altyapısını geliştirmek için önemli bir alan olduğunu gösteriyor."
+  ],
+  "col": [
+   "onuncu kat",
+   "onda biri",
+   "onuncu sıra"
+  ],
+  "tip": "'Onuncu' için 'the tenth', 'onda bir' için 'a tenth' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "calendar",
+  "senses": [
+   "takvim; ajanda",
+   "takvim sistemi"
+  ],
+  "ex": [
+   "Mutfaktaki takvime kamp hafta sonumuzu işaretledim.",
+   "Okullar, aileler önemli eğitim etkinliklerine göre tatil planlayabilsin diye yıllık bir takvim yayımlamalıdır."
+  ],
+  "col": [
+   "akademik takvim",
+   "takvim yılı",
+   "ay takvimi"
+  ],
+  "tip": "'Calendar year' Ocak'tan Aralık'a kadar olan yılı ifade eder; okul yılıyla aynı değildir.",
+  "note": ""
+ },
+ {
+  "id": "comb",
+  "senses": [
+   "tarak",
+   "taramak; dikkatlice aramak"
+  ],
+  "ex": [
+   "Çantasından bir tarak çıkarıp saçlarını düzeltti.",
+   "Gönüllüler, yaz turizm sezonu başlamadan önce plajı plastik atıklara karşı dikkatle taradı."
+  ],
+  "col": [
+   "saçını taramak",
+   "ince dişli tarak; titiz inceleme",
+   "dikkatlice aramak"
+  ],
+  "tip": "Sonundaki b harfi okunmaz. 'comb through' bir alanı ayrıntılı biçimde aramak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "golf",
+  "senses": [
+   "golf"
+  ],
+  "ex": [
+   "Büyükbabam her pazar arkadaşlarıyla golf oynar.",
+   "Golf sahaları turistleri çekebilir, ancak çimlerinin bakımı önemli miktarda su gerektirebilir."
+  ],
+  "col": [
+   "golf oynamak",
+   "golf sahası",
+   "golf kulübü",
+   "bir tur golf"
+  ],
+  "tip": "Spor dalları için 'play' fiili ile kullanılır ve başına genellikle artikel gelmez: 'play golf'.",
+  "note": ""
+ },
+ {
+  "id": "noisy",
+  "senses": [
+   "gürültülü; gürültücü"
+  ],
+  "ex": [
+   "Gürültülü çamaşır makinemiz bu sabah herkesi uyandırdı.",
+   "Gürültülü yolların yakınında yaşamak uyku kalitesini etkileyebilir ve kentli sakinlerde stresi artırabilir."
+  ],
+  "col": [
+   "gürültücü komşu",
+   "gürültülü bir ortam",
+   "gürültülü bir kalabalık"
+  ],
+  "tip": "'noisy' sıfattır, 'noise' isimdir. 'nosy' (meraklı) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "bench",
+  "senses": [
+   "bank",
+   "tezgâh; iş masası",
+   "yedek bırakmak"
+  ],
+  "ex": [
+   "Parkta bir bankı paylaştık ve ördekleri izledik.",
+   "Yaya güzergâhları boyunca bank yerleştirmek, kentsel merkezleri yaşlı sakinler ve hareket kısıtlılığı olan insanlar için daha erişilebilir hale getirebilir."
+  ],
+  "col": [
+   "park bankı",
+   "ahşap bank",
+   "çalışma tezgâhı",
+   "yedekler kulübesi"
+  ],
+  "tip": "Bank genellikle arkalıksız olabilir ama her zaman öyle değildir. Atölye tezgâhı için de 'bench' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "secret",
+  "senses": [
+   "gizli",
+   "sır",
+   "sır; püf noktası"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabamız için gizli bir piknik planladık.",
+   "Hükümetler, bilgileri gizli tutma ihtiyacı ile kamunun bilgi alma hakkını dengelemek zorundadır."
+  ],
+  "col": [
+   "bir sırrı saklamak",
+   "gizlice",
+   "gizli bilgi",
+   "başarının sırrı"
+  ],
+  "tip": "'The secret to' kalıbında 'to'dan sonra isim ya da ing'li fiil gelir: 'the secret to success'.",
+  "note": ""
+ },
+ {
+  "id": "rise",
+  "senses": [
+   "yükselmek; artmak",
+   "ayağa kalkmak",
+   "artış; yükseliş"
+  ],
+  "ex": [
+   "Sıcak hava, masamın yanındaki sobanın üzerine doğru yükselir.",
+   "Konut maliyetlerindeki keskin artış, birçok genç yetişkini kendi evlerine taşınmayı ertelemeye zorladı."
+  ],
+  "col": [
+   "keskin bir artış",
+   "istikrarlı şekilde yükselmek",
+   "ayağa kalkmak",
+   "fiyat artışı"
+  ],
+  "tip": "'rise' geçişsiz bir fiildir; geçmiş zamanı 'rose', ortacı 'risen' şeklindedir. Geçişli 'raise' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "sir",
+  "senses": [
+   "bey; efendi",
+   "sir (şövalye unvanı)"
+  ],
+  "ex": [
+   "Affedersiniz efendim, şemsiyenizi unutmuşsunuz.",
+   "Bazı okullarda öğrenciler derslerde saygı göstermek için erkek öğretmenlere 'hocam' ya da 'sir' diye hitap eder."
+  ],
+  "col": [
+   "evet efendim",
+   "affedersiniz efendim",
+   "Sayın Bay"
+  ],
+  "tip": "Şövalye unvanı olarak 'Sir' ad ve soyadla birlikte kullanılır, yalnızca soyadla kullanılmaz.",
+  "note": ""
+ }
+]

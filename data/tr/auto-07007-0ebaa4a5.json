@@ -1,0 +1,273 @@
+[
+ {
+  "id": "initiate",
+  "senses": [
+   "başlatmak; girişmek",
+   "tanıtmak; kabul etmek"
+  ],
+  "ex": [
+   "Gürültü hakkında birinin konuşmayı başlatması gerekiyor.",
+   "Yerel yönetimler, sakinleri evsel atıkları daha etkili geri dönüştürmeye teşvik eden programlar başlatmalı."
+  ],
+  "col": [
+   "müzakere başlatmak",
+   "bir projeyi başlatmak",
+   "birini ... içine almak"
+  ],
+  "tip": "Resmi bir fiildir; günlük dilde start veya begin daha yaygındır. initiate sb into sth, birini bir etkinliğe veya gruba dahil etmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "dissertation",
+  "senses": [
+   "tez; bitirme tezi"
+  ],
+  "ex": [
+   "Kız kardeşim kütüphanede tezini yazıyor.",
+   "Tez yazmak, öğrencilerin mevcut araştırmaları değerlendirmesini ve kanıtlarla desteklenen net bir argüman geliştirmesini gerektirir."
+  ],
+  "col": [
+   "tez yazmak",
+   "tez sunmak",
+   "doktora tezi",
+   "eğitim üzerine bir tez"
+  ],
+  "tip": "Konu on ile belirtilir: a dissertation on education. Amerikan İngilizcesinde genellikle doktora tezini, İngilizcede ise daha geniş bir kapsamı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "mourn",
+  "senses": [
+   "yas tutmak; matem tutmak"
+  ],
+  "ex": [
+   "Komşular, çok sevilen arkadaşlarına yas tutmak için sessizce bir araya geldi.",
+   "Halka açık anıtlar, toplulukların kaybettikleri insanlar için yas tutabileceği ve ortak tarihi düşünebileceği alanlar sunar."
+  ],
+  "col": [
+   "birinin ölümüne yas tutmak",
+   "kaybın acısını çekmek",
+   "birinin ardından yas tutmak"
+  ],
+  "tip": "Doğrudan ölen kişi veya kayıp nesnesiyle kullanılabilir (mourn someone); mourn for someone kalıbı da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "bureau",
+  "senses": [
+   "büro; müdürlük",
+   "çekmeceli yazı masası; şifonyer"
+  ],
+  "ex": [
+   "Turist danışma bürosu bize şehrin ücretsiz haritasını verdi.",
+   "Ulusal istatistik kurumu, hükümetlerin kamu hizmetlerini planlamak için kullandığı güvenilir verileri toplar."
+  ],
+  "col": [
+   "turist danışma bürosu",
+   "istatistik kurumu",
+   "haber bürosu"
+  ],
+  "tip": "Çoğul biçimi bureaux veya bureaus olabilir. Mobilya anlamında İngiliz ve Amerikan kullanımı farklılık gösterir.",
+  "note": ""
+ },
+ {
+  "id": "aviation",
+  "senses": [
+   "havacılık"
+  ],
+  "ex": [
+   "Havacılığa olan ilgisi bir uçuş dersiyle başladı.",
+   "Havacılık sektörü, artan uluslararası seyahat talebini karşılarken emisyonları azaltma baskısıyla karşı karşıya."
+  ],
+  "col": [
+   "sivil havacılık",
+   "havacılık sektörü",
+   "havacılık güvenliği"
+  ],
+  "tip": "Sayılamayan bir isimdir; a aviation şeklinde kullanılmaz. Uçuş faaliyetini ya da tüm havacılık sektörünü ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "rebate",
+  "senses": [
+   "geri ödeme; iade"
+  ],
+  "ex": [
+   "Yeni buzdolabımızı aldıktan sonra bir geri ödeme aldık.",
+   "Hükümetler, hanehalklarını yalıtım yaptırmaya ve enerji tüketimini azaltmaya teşvik etmek için vergi iadesi sunabilir."
+  ],
+  "col": [
+   "vergi iadesi",
+   "iade talep etmek",
+   "iade almak",
+   "iade sunmak"
+  ],
+  "tip": "Rebate genellikle ödemeden sonra geri verilen tutardır; discount ise ödeme anında uygulanan indirimdir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "valve",
+  "senses": [
+   "vana; valf",
+   "kapakçık"
+  ],
+  "ex": [
+   "Tanka su girmesini durdurmak için bu vanayı çevir.",
+   "Hasarlı kalp kapakçıklarının değiştirilmesi, hastaların yaşam kalitesini artırabilir ve ciddi komplikasyon riskini azaltabilir."
+  ],
+  "col": [
+   "vanayı açmak",
+   "emniyet vanası",
+   "kalp kapakçığı",
+   "basınç tahliye vanası"
+  ],
+  "tip": "Mühendislikte valve vana, tıpta ise kalpteki kapakçık anlamına gelir; anlamı bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "hinge",
+  "senses": [
+   "menteşe",
+   "bağlı olmak"
+  ],
+  "ex": [
+   "Dolabı her açtığımda paslı menteşe gıcırdıyor.",
+   "Toplu taşıma reformlarının başarısı, güvenilir finansmana ve yerel halkın sürekli desteğine bağlı olabilir."
+  ],
+  "col": [
+   "kapı menteşesi",
+   "paslı menteşe",
+   "...e bağlı olmak"
+  ],
+  "tip": "hinge on, bir şeye tamamen bağlı olmak anlamında kullanılır; on'dan sonra isim veya cümle gelir.",
+  "note": ""
+ },
+ {
+  "id": "flutter",
+  "senses": [
+   "dalgalanmak; çırpınmak",
+   "hafif titreme; çarpıntı"
+  ],
+  "ex": [
+   "Açık mutfak penceresinin yanında perdeler hafifçe dalgalandı.",
+   "Kentsel bahçelerde kelebekler yerli çiçekler arasında uçuşuyor; bu da küçük yeşil alanların biyoçeşitliliği nasıl destekleyebileceğini gösteriyor."
+  ],
+  "col": [
+   "esintide dalgalanmak",
+   "kanatlarını çırpmak",
+   "heyecan dalgası"
+  ],
+  "tip": "Hafif, hızlı ve tekrarlayan hareketi anlatır; kuş kanatları, kumaş veya kalp atışı için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "hierarchy",
+  "senses": [
+   "hiyerarşi; kademelenme",
+   "üst yönetim; yönetici kadro"
+  ],
+  "ex": [
+   "Restoran personeli arasında açık bir hiyerarşi var.",
+   "Katı bir iş yeri hiyerarşisi, genç çalışanları örgütsel performansı artırabilecek fikirlerini paylaşmaktan caydırabilir."
+  ],
+  "col": [
+   "katı bir hiyerarşi",
+   "örgütsel hiyerarşi",
+   "ihtiyaçlar hiyerarşisi",
+   "hiyerarşinin en tepesi"
+  ],
+  "tip": "Hem bir sıralama sistemini hem de bir örgütün en üst yönetim kadrosunu ifade edebilir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "radial",
+  "senses": [
+   "ışınsal; radyal"
+  ],
+  "ex": [
+   "Tekerleğin ışınsal telleri öğleden sonra güneşinde parlıyordu.",
+   "Radyal yol ağı, dış mahalleleri doğrudan şehir merkezine bağlar."
+  ],
+  "col": [
+   "radyal desen",
+   "radyal simetri",
+   "radyal yol ağı"
+  ],
+  "tip": "Merkezden dışa doğru uzanan çizgileri anlatır; ışıkla ilgili genel bir anlamı yoktur.",
+  "note": ""
+ },
+ {
+  "id": "amplify",
+  "senses": [
+   "sesi yükseltmek",
+   "artırmak; büyütmek",
+   "ayrıntı vermek"
+  ],
+  "ex": [
+   "Bu küçük hoparlör telefonumdaki müziği yükseltiyor.",
+   "Sosyal medya, kamuoyunun kirlilik kaygısını büyütebilir ve yerel yönetimleri daha hızlı harekete geçmeye teşvik edebilir."
+  ],
+  "col": [
+   "sesi yükseltmek",
+   "sinyali güçlendirmek",
+   "etkiyi artırmak"
+  ],
+  "tip": "Hem gerçek bir ses veya sinyali, hem de etki ve duyguları artırmak için kullanılır; ayrıntı eklemek anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "backlog",
+  "senses": [
+   "birikmiş iş; bekleyen işler"
+  ],
+  "ex": [
+   "E-postalarımın birikmişini temizlemek için geç saate kadar kaldım.",
+   "Ek personel alımı, hastanelerin rutin ameliyat bekleyen hasta birikimini azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "birikmiş işleri bitirmek",
+   "birikmiş siparişler",
+   "birikimi azaltmak",
+   "artan bir birikim"
+  ],
+  "tip": "Genellikle a backlog of kalıbıyla kullanılır ve yapılması gerekirken gecikmiş işleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "clearance",
+  "senses": [
+   "temizleme; boşaltma",
+   "izin; onay",
+   "stok tasfiyesi; indirim"
+  ],
+  "ex": [
+   "Bahçe temizliği cumartesi günümüzün çoğunu aldı.",
+   "Büyük ölçekli orman açma, yaban hayatı yaşam alanlarını yok edebilir ve toprak erozyonu riskini artırabilir."
+  ],
+  "col": [
+   "orman açma",
+   "güvenlik onayı",
+   "gümrük onayı",
+   "stok tasfiye satışı"
+  ],
+  "tip": "clearance sale tasfiye satışı, customs clearance ise gümrük işlemi anlamına gelir; bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "uprising",
+  "senses": [
+   "ayaklanma; isyan"
+  ],
+  "ex": [
+   "Müze, yerel bir ayaklanmadan kalma eserleri sergiliyor.",
+   "Tarihçiler, gıda kıtlığı ve siyasi dışlanmanın yönetici otoritelere karşı ayaklanmaya katkıda bulunduğunu savunuyor."
+  ],
+  "col": [
+   "halk ayaklanması",
+   "silahlı ayaklanma",
+   "bir ayaklanmayı bastırmak"
+  ],
+  "tip": "İktidara karşı örgütlü bir başkaldırıyı anlatır; günlük dilde 'kalkma' gibi genel bir anlamda kullanılmaz.",
+  "note": ""
+ }
+]

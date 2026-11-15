@@ -1,0 +1,275 @@
+[
+ {
+  "id": "surroundings",
+  "senses": [
+   "çevre; ortam"
+  ],
+  "ex": [
+   "Bahçenin huzurlu ortamında öğle yemeği yedik.",
+   "Öğrenciler, özellikle sınıflarında doğal ışık ve yeşillik manzarası varsa, hoş ortamlarda daha iyi odaklanabilir."
+  ],
+  "col": [
+   "huzurlu çevre",
+   "doğal çevre",
+   "tanıdık olmayan ortam",
+   "hoş ortam"
+  ],
+  "tip": "Her zaman çoğul kullanılır. Özne olduğunda yüklem de çoğul çekimlenir: The surroundings are quiet.",
+  "note": ""
+ },
+ {
+  "id": "unbearable",
+  "senses": [
+   "dayanılmaz"
+  ],
+  "ex": [
+   "Hava öyle sıcaklaştı ki dayanılmaz oldu, bu yüzden gölgede dinlendik.",
+   "Yeterli havalandırma olmazsa, kalabalık konutlarda yaz sıcakları özellikle yaşlı sakinler için dayanılmaz hale gelebilir."
+  ],
+  "col": [
+   "dayanılmaz acı",
+   "dayanılmaz sıcak",
+   "dayanılmaz gürültü"
+  ],
+  "tip": "bear 'katlanmak' anlamındadır. unbearable çok güçlü bir ifadedir, yalnızca gerçekten aşırı durumlar için kullanılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "filter",
+  "senses": [
+   "filtre; süzgeç",
+   "süzmek; ayıklamak",
+   "yavaş yavaş sızmak"
+  ],
+  "ex": [
+   "Su filtresini yola çıkmadan önce değiştirmemiz gerekiyor.",
+   "Modern arıtma tesisleri, zararlı maddeleri yerel nehirlere bırakmadan önce atık suyu süzer."
+  ],
+  "col": [
+   "hava filtresi",
+   "kirleticileri ayıklamak",
+   "arama sonuçlarını filtrelemek",
+   "ışık süzülerek giriyor"
+  ],
+  "tip": "filter out, çıkarılan şeyi belirtir. Tutulan şeyler için filter out kullanılmaz: filter out impurities (safsızlıkları ayıklamak).",
+  "note": ""
+ },
+ {
+  "id": "consume",
+  "senses": [
+   "tüketmek; harcamak",
+   "yemek; içmek",
+   "içini kaplamak; yok etmek"
+  ],
+  "ex": [
+   "Eski sobamız kışın çok fazla elektrik tüketiyor.",
+   "Hanehalkı, daha az kaynak tüketerek ve daha uzun ömürlü ürünleri seçerek çevresel etkisini azaltabilir."
+  ],
+  "col": [
+   "enerji tüketmek",
+   "yiyecek tüketmek",
+   "korkuyla kaplanmak"
+  ],
+  "tip": "Yemek ve içmek için eat ve drink'ten daha resmîdir. İsim hali consumption'dır.",
+  "note": ""
+ },
+ {
+  "id": "numerous",
+  "senses": [
+   "çok sayıda; birçok"
+  ],
+  "ex": [
+   "Balkonumuzdaki kırıntıların etrafında çok sayıda kuş toplandı.",
+   "Birçok araştırma, kentsel alanlardaki yeşil alanlara erişimin sakinlerin ruh sağlığını iyileştirebileceğini gösteriyor."
+  ],
+  "col": [
+   "çok sayıda çalışma",
+   "pek çok defa",
+   "birçok yarar"
+  ],
+  "tip": "Sayılabilir isimlerin çoğul hâlini niteler. Sayılamayan isimlerle doğrudan kullanılmaz; onlar için many yerine much veya a lot of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pace",
+  "senses": [
+   "hız; tempo",
+   "adım",
+   "volta atmak"
+  ],
+  "ex": [
+   "Büyükannemin yetişebilmesi için hızımızı yavaşlattık.",
+   "Teknolojik değişimin hızlı temposu, çalışanların kariyerleri boyunca becerilerini güncellemesini gerektiriyor."
+  ],
+  "col": [
+   "kendi temposunda",
+   "yetişmek; ayak uydurmak",
+   "değişimin hızı",
+   "bir aşağı bir yukarı volta atmak"
+  ],
+  "tip": "Kendi hızında için at your own pace kullanılır. Bir şeye ayak uydurmak anlamında keep pace with kalıbı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "dread",
+  "senses": [
+   "korkmak; endişelenmek",
+   "dehşet; kaygı"
+  ],
+  "ex": [
+   "Gece buzlu yollarda araba kullanmaktan korkuyorum.",
+   "Birçok çalışan, iş yerinde tanıdık görevlerin yerini yeni teknolojiler almaya başladığında işini kaybetmekten korkuyor."
+  ],
+  "col": [
+   "yapmaktan korkmak",
+   "bir korku duygusu",
+   "birini korkuyla doldurmak"
+  ],
+  "tip": "Bir eylemden korkmak için dread + -ing kalıbı kullanılır: I dread driving. Burada to edatı yerine -ing biçimi tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "narrative",
+  "senses": [
+   "anlatı; öykü",
+   "yorum; bakış açısı",
+   "anlatısal"
+  ],
+  "ex": [
+   "Seyahat günlüğü yolculuğun canlı bir anlatısını içeriyor.",
+   "Müzeler, kişisel anlatılar kullanarak ziyaretçilerin tarihi olayların sıradan insanların hayatını nasıl etkilediğini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "kişisel anlatı",
+   "baskın anlatı",
+   "anlatı yapısı"
+  ],
+  "tip": "İsim olarak hikâye ya da anlatı anlamına gelir. Sıfat olarak genellikle bir yapıyı veya tekniği niteler: narrative structure.",
+  "note": ""
+ },
+ {
+  "id": "eruption",
+  "senses": [
+   "patlama; püskürme",
+   "ani patlama"
+  ],
+  "ex": [
+   "Volkanın püskürmesini güvenli bir mesafeden izledik.",
+   "Büyük bir volkanik patlama hava yolculuğunu aksatabilir ve bölgenin çok ötesinde iklimi etkileyebilir."
+  ],
+  "col": [
+   "volkanik patlama",
+   "öfke patlaması",
+   "patlamayı öngörmek"
+  ],
+  "tip": "Çoğunlukla volcanic ile birlikte geçer. Duygular için de kullanılır: an eruption of anger (öfke patlaması).",
+  "note": ""
+ },
+ {
+  "id": "clause",
+  "senses": [
+   "madde; hüküm",
+   "cümlecik; yan cümle"
+  ],
+  "ex": [
+   "Kiralama sözleşmemizdeki bir madde evcil hayvan beslememize izin veriyor.",
+   "İş sözleşmeleri, çalışanların ücretli izin ve esnek çalışma haklarını açıkça tanımlayan bir madde içermelidir."
+  ],
+  "col": [
+   "sözleşmede bir madde",
+   "madde eklemek",
+   "esas cümlecik",
+   "sıfat cümleciği"
+  ],
+  "tip": "Dilbilgisinde clause özne ve yüklem içerir. phrase (öbek) ise genellikle özne-yüklem yapısı içermez.",
+  "note": ""
+ },
+ {
+  "id": "subscribe",
+  "senses": [
+   "abone olmak",
+   "onaylamak; benimsemek"
+  ],
+  "ex": [
+   "Kolay tariflerle dolu bir dergiye abone olduk.",
+   "Birçok eğitimci, yükseköğretimde pratik deneyimin kuramsal öğrenmeyi tamamlaması gerektiği görüşünü benimsiyor."
+  ],
+  "col": [
+   "bir dergiye abone olmak",
+   "bir kanala abone olmak",
+   "şu görüşü benimsemek"
+  ],
+  "tip": "Hem abone olmak hem de bir görüşü benimsemek için subscribe to kullanılır. to burada edattır, sonrasında isim veya -ing gelir.",
+  "note": ""
+ },
+ {
+  "id": "beak",
+  "senses": [
+   "gaga"
+  ],
+  "ex": [
+   "Serçe gagasında küçük bir tohum taşıyordu.",
+   "Kuşun gagasının şekli, beslenme alışkanlığını ve belirli çevre koşullarına uyumunu yansıtır."
+  ],
+  "col": [
+   "keskin gaga",
+   "kıvrık gaga",
+   "gagasında"
+  ],
+  "tip": "Kuşların ağzı için beak (ya da bill) kullanılır. İnsanın ağzı için ise mouth kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "chorus",
+  "senses": [
+   "nakarat",
+   "koro; birlikte ses",
+   "birlikte söylemek"
+  ],
+  "ex": [
+   "Şarkı nakaratına geldiğinde herkes eşlik etti.",
+   "Akılda kalıcı bir nakarat, çevre kampanya şarkılarının daha geniş kitlelere ulaşmasına ve topluluk etkinliklerine katılımı teşvik etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "nakarat söylemek",
+   "nakarata katılmak",
+   "ortak onay sesleri"
+  ],
+  "tip": "Şarkıdaki chorus tekrar eden nakarattır. Ona karşılık gelen verse ise kıta bölümüdür.",
+  "note": ""
+ },
+ {
+  "id": "supportive",
+  "senses": [
+   "destekleyici; yardımsever"
+  ],
+  "ex": [
+   "Destekleyici kız kardeşim mülakattan önce pratik yapmama yardım etti.",
+   "Destekleyici bir sınıf ortamı, öğrencilerin hata yapmaktan çekinmeden soru sormasını teşvik eder."
+  ],
+  "col": [
+   "destekleyici bir aile",
+   "destekleyici bir ortam",
+   "destekleyici olmak"
+  ],
+  "tip": "Birini ya da bir şeyi desteklediğini belirtmek için be supportive of kalıbı kullanılır. Edat of unutulmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "utterly",
+  "senses": [
+   "tamamen; tümüyle"
+  ],
+  "ex": [
+   "Ağır kutuları taşıdıktan sonra tamamen bitkin düştüm.",
+   "Güvenilir internet erişimi olmayan bazı kırsal öğrenciler, çevrim içi eğitimin sunduğu fırsatların tamamen dışında kaldıklarını hissediyor."
+  ],
+  "col": [
+   "tamamen bitkin",
+   "tamamen imkânsız",
+   "tamamen saçma"
+  ],
+  "tip": "Güçlü ya da olumsuz sıfatları pekiştirmek için kullanılır. impossible ve ridiculous gibi sözcüklerle sık görülür.",
+  "note": ""
+ }
+]

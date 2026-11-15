@@ -1,0 +1,279 @@
+[
+ {
+  "id": "curiosity",
+  "senses": [
+   "merak; öğrenme isteği",
+   "nadide şey; kuriozite"
+  ],
+  "ex": [
+   "Merakım, tozlu ahşap kutuyu açmama neden oldu.",
+   "Okullar, çocuklara pratik deneylerle sorularını araştırma fırsatı vererek onların merakını teşvik etmelidir."
+  ],
+  "col": [
+   "merak uyandırmak",
+   "merakını gidermek",
+   "meraktan; merakla"
+  ],
+  "tip": "Öğrenme isteği anlamında sayılamaz; nesne anlamında sayılabilir (a curiosity, curiosities). Sıfatı 'curious' (meraklı) olduğunu unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "steel",
+  "senses": [
+   "çelik",
+   "kendini hazırlamak"
+  ],
+  "ex": [
+   "Yeni köprünün çerçevesi çelikten yapılmıştır.",
+   "İnşaat sektöründe çeliğin geri dönüştürülmesi, ham madde talebini azaltabilir ve enerji tüketimini düşürebilir."
+  ],
+  "col": [
+   "paslanmaz çelik",
+   "çelik üretimi",
+   "kendini ... için hazırlamak"
+  ],
+  "tip": "steel (çelik) ile steal (çalmak) telaffuzca aynıdır ama anlamları farklıdır; yazımına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "abandon",
+  "senses": [
+   "terk etmek; bırakmak",
+   "vazgeçmek; yarıda bırakmak",
+   "serbestlik; coşku"
+  ],
+  "ex": [
+   "Karda arabamızı terk etmek zorunda kaldık.",
+   "Şehirler, ilk katılım oranları beklenenden düşük diye iddialı geri dönüşüm programlarından vazgeçmemelidir."
+  ],
+  "col": [
+   "aracı terk etmek",
+   "planından vazgeçmek",
+   "umudunu yitirmek",
+   "çekinmeden; serbestçe"
+  ],
+  "tip": "Geçişli fiildir; nesneyi doğrudan alır, araya edat konmaz. 'with abandon' kalıbı 'çekinmeden, kendini bırakarak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "emperor",
+  "senses": [
+   "imparator"
+  ],
+  "ex": [
+   "Müze, bir zamanlar bir imparatorun giydiği cüppeyi sergiliyor.",
+   "İmparator ticaret yollarını genişleterek malların ve kültürel uygulamaların imparatorluk genelinde yayılmasını sağladı."
+  ],
+  "col": [
+   "bir Roma imparatoru",
+   "tahtaki imparator",
+   "birini imparator ilan etmek"
+  ],
+  "tip": "Kadın karşılığı empress'tir (imparatoriçe). Imparatorluk anlamındaki empire ile birlikte aklınızda tutun.",
+  "note": ""
+ },
+ {
+  "id": "sibling",
+  "senses": [
+   "kardeş"
+  ],
+  "ex": [
+   "Küçük kardeşim her zaman en sevdiğim mavi ceketi ödünç alır.",
+   "Kardeşi olan çocuklar, oyuncaklarını paylaşıp evdeki anlaşmazlıkları çözerek erken yaşta pazarlık becerileri geliştirebilir."
+  ],
+  "col": [
+   "büyük kardeş",
+   "küçük kardeş",
+   "kardeş rekabeti"
+  ],
+  "tip": "Cinsiyet belirtmez; erkek ya da kız kardeşi kapsar. Cinsiyeti belirtmek için brother ya da sister kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "alien",
+  "senses": [
+   "yabancı; alışılmadık",
+   "uzaylı",
+   "yabancı; yerli olmayan"
+  ],
+  "ex": [
+   "Şehrin sürekli gürültüsü, sessiz köyümüzden sonra bize yabancı geldi.",
+   "Uluslararası öğrencilere yabancı gelebilen öğretim yöntemleri, üniversite personelinden dikkatli açıklama ve ek destek gerektirebilir."
+  ],
+  "col": [
+   "...e yabancı",
+   "yabancı türler",
+   "yabancı ortam",
+   "uzaylı yaşam"
+  ],
+  "tip": "İnsanlar için alien kullanmak mesafeli ve hoş olmayan bir ton taşır; yabancı kişiler için foreigner ya da foreign national tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "blend",
+  "senses": [
+   "karıştırmak; harmanlamak",
+   "karışım; harman"
+  ],
+  "ex": [
+   "Muzları ve sütü, karışım pürüzsüz olana kadar karıştırın.",
+   "Başarılı kentsel projeler, modern olanakları geleneksel mimariyle birleştirerek şehrin ayırt edici karakterini korur."
+  ],
+  "col": [
+   "malzemeleri karıştırmak",
+   "ile karışmak",
+   "bir karışım",
+   "uyum sağlamak"
+  ],
+  "tip": "blend A with B, A'yı B ile birleştirmek demektir. blend in ise bir ortama uyum sağlamak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shortage",
+  "senses": [
+   "kıtlık; yetersizlik"
+  ],
+  "ex": [
+   "Su kıtlığı yüzünden duşlarımızı kısa tutmak zorunda kaldık.",
+   "Uygun fiyatlı konut yetersizliği, temel çalışanları işyerlerinden uzakta yaşamaya zorlayabilir."
+  ],
+  "col": [
+   "...kıtlığı",
+   "işgücü açığı",
+   "ciddi kıtlık",
+   "konut kıtlığı"
+  ],
+  "tip": "Çoğunlukla 'a shortage of' kalıbıyla kullanılır. 'Eksik olmak' anlamında be short of da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "wasp",
+  "senses": [
+   "yaban arısı"
+  ],
+  "ex": [
+   "Bir yaban arısı bardağımın kenarına kondu.",
+   "Yaban arıları çoğu zaman zararlı sayılsa da bazı türler tarımsal ürünlere zarar veren böcekleri kontrol etmeye yardımcı olur."
+  ],
+  "col": [
+   "yaban arısı sokması",
+   "yaban arısı yuvası"
+  ],
+  "tip": "wasp (yaban arısı) ile bee (arı) farklı böceklerdir; bee'yi wasp olarak çevirmeyin.",
+  "note": ""
+ },
+ {
+  "id": "stroke",
+  "senses": [
+   "felç; inme",
+   "hareket; vuruş; fırça darbesi",
+   "okşamak"
+  ],
+  "ex": [
+   "Kedi yumuşak tüylerini okşadığımda mırıldandı.",
+   "Felç belirtilerini erken fark etmek, ciddi beyin hasarı oluşmadan önce hastaların tedavi görmesini sağlayabilir."
+  ],
+  "col": [
+   "felç geçirmek",
+   "fırça darbesi",
+   "bir yüzme kulaçı",
+   "bir kediyi okşamak"
+  ],
+  "tip": "Tıbbi anlamda have a stroke 'felç geçirmek' demektir; heart attack (kalp krizi) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "bow",
+  "senses": [
+   "yay",
+   "fiyonk",
+   "eğilmek; selam vermek"
+  ],
+  "ex": [
+   "Hediye kutusunun etrafına güzel bir fiyonk bağladı.",
+   "Bazı kültürlerde insanlar selamlaşırken eğilir; başka yerlerde ise el sıkışmak daha yaygındır."
+  ],
+  "col": [
+   "yay ve ok",
+   "fiyonk bağlamak",
+   "başını eğmek",
+   "baskıya boyun eğmek"
+  ],
+  "tip": "Yay ve fiyonk /bəʊ/ okunur, selam verme anlamındaki bow ise /baʊ/ okunur. Telaffuz ve anlam farkını birlikte öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "unwelcome",
+  "senses": [
+   "istenmeyen; hoş karşılanmayan"
+  ],
+  "ex": [
+   "Akşam yemeği sırasında çalan yüksek müzik hoş olmayan bir kesinti oldu.",
+   "Birçok sakin için hızlı kentleşmenin istenmeyen bir sonucu kira artışlarıdır."
+  ],
+  "col": [
+   "istenmeyen ilgi",
+   "istenmeyen misafir",
+   "kötü haber"
+  ],
+  "tip": "Kişi, haber ya da durum için kullanılabilir. feel unwelcome, kendini istenmeyen biri gibi hissetmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "oyster",
+  "senses": [
+   "istiridye"
+  ],
+  "ex": [
+   "İstiridye kabuğu parmaklarıma pürüzlü geldi.",
+   "İstiridye popülasyonlarını yeniden canlandırmak kıyı su kalitesini artırabilir, çünkü bu kabuklular çevredeki sudan parçacıkları süzer."
+  ],
+  "col": [
+   "istiridye kabuğu",
+   "istiridye çiftliği",
+   "istiridye resifi"
+  ],
+  "tip": "the world is your oyster deyimi 'dünya senin elinde, sınırsız fırsatların var' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "facility",
+  "senses": [
+   "tesis; donanım",
+   "imkan; hizmet",
+   "yetenek; kolaylık"
+  ],
+  "ex": [
+   "Yeni spor tesisinin parlak bir kapalı havuzu var.",
+   "Yerel sağlık tesislerine yatırım yapmak, kırsal topluluklardaki insanların temel hizmetlere erişimini iyileştirebilir."
+  ],
+  "col": [
+   "spor tesisleri",
+   "sağlık tesisleri",
+   "bir araştırma tesisi",
+   "dil öğrenme imkanı"
+  ],
+  "tip": "Genel olarak 'tesisler' anlamında çoğul facilities kullanılır; tekil facility belirli bir yer ya da donanımı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "pedestrian",
+  "senses": [
+   "yaya",
+   "yayalara ait; yaya",
+   "sıradan; sıkıcı"
+  ],
+  "ex": [
+   "Sürücü bir yayanın geçmesine izin vermek için durdu.",
+   "Daha geniş kaldırımlar ve daha güvenli geçitler yayaları koruyabilir ve sakinleri araba yerine yürümeye teşvik edebilir."
+  ],
+  "col": [
+   "yaya geçidi",
+   "yaya güvenliği",
+   "yaya bölgesi",
+   "yaya erişimi"
+  ],
+  "tip": "Sıfat olarak 'sıradan, sıkıcı' anlamı da vardır ama yaygın değildir; bu anlam genellikle yazılı ve eleştirel bağlamlarda görülür.",
+  "note": ""
+ }
+]

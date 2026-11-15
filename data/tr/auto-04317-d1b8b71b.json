@@ -1,0 +1,277 @@
+[
+ {
+  "id": "vomit",
+  "senses": [
+   "kusmak",
+   "kusmuk"
+  ],
+  "ex": [
+   "Sert deniz yolculuğu birkaç yolcuyu kustursun.",
+   " Tekrar tekrar kusan hastalar susuzlaşabilir; belirtiler sürerse bir hekime başvurmalıdır."
+  ],
+  "col": [
+   "kusmaya başlamak",
+   "tekrar tekrar kusmak",
+   "bulantı ve kusma"
+  ],
+  "tip": "Fiil olarak 'kusmak', isim olarak 'kusmuk' (kusulan şey) anlamına gelir. Kusma eylemine genel olarak 'vomiting' denir.",
+  "note": ""
+ },
+ {
+  "id": "revolution",
+  "senses": [
+   "devrim; ihtilal",
+   "köklü değişim",
+   "tam tur; devir"
+  ],
+  "ex": [
+   "Müzede bu devrime ayrılmış bir bölüm var.",
+   "Dijital devrim, öğrencilerin öğrenme materyallerine neredeyse her yerden erişmesini sağlayarak eğitimi dönüştürdü."
+  ],
+  "col": [
+   "siyasi devrim",
+   "sanayi devrimi",
+   "dijital devrim",
+   "tam bir devrim"
+  ],
+  "tip": "'Revolution' köklü, ani değişimi anlatır; kademeli iyileştirmeler için 'reform' kullanılır. İki kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "consumption",
+  "senses": [
+   "tüketim",
+   "yeme; içme"
+  ],
+  "ex": [
+   "Isıtıcıyı kullandığımızda elektrik tüketimimiz artar.",
+   "Hükümetler, güvenilir toplu taşımaya ve yenilenebilir enerjiye yatırım yaparak fosil yakıt tüketimini azaltabilir."
+  ],
+  "col": [
+   "enerji tüketimi",
+   "su tüketimi",
+   "hane halkı tüketimi",
+   "insan tüketimine uygun"
+  ],
+  "tip": "Genellikle sayılamaz. Tüketen kişi 'consumer' (tüketici) olarak adlandırılır, 'consumption' değil.",
+  "note": ""
+ },
+ {
+  "id": "long-term",
+  "senses": [
+   "uzun vadeli"
+  ],
+  "ex": [
+   "Bahçemiz için uzun vadeli bir plana ihtiyacımız var.",
+   "Toplu taşımaya yapılan yatırım hem yerel ekonomilere hem de çevreye uzun vadeli faydalar sağlayabilir."
+  ],
+  "col": [
+   "uzun vadeli hedef",
+   "uzun vadeli etki",
+   "uzun vadeli yatırım"
+  ],
+  "tip": "İsmin önünde sıfat olarak kullanıldığında kısa çizgiyle yazılır. 'In the long term' ifadesinde kısa çizgi yoktur.",
+  "note": ""
+ },
+ {
+  "id": "restless",
+  "senses": [
+   "huzursuz; rahatsız",
+   "huzursuz; hoşnutsuz"
+  ],
+  "ex": [
+   "Huzursuz çocuk masanın altında bacaklarını sallamaya devam etti.",
+   "Öğrenciler, aktif katılım fırsatı az olduğunda uzun dersler boyunca huzursuzlaşabilir."
+  ],
+  "col": [
+   "huzursuz uyku",
+   "huzursuz hissetmek",
+   "huzursuzlaşmak",
+   "huzursuz bir ruh"
+  ],
+  "tip": "'Restless' huzursuzluğu, rahat duramamayı anlatır; 'restful' ise rahatlatıcı, dinlendirici anlamındadır. Karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "upon",
+  "senses": [
+   "üzerinde; üstünde",
+   "-ınca; -ince"
+  ],
+  "ex": [
+   "Kedi pencerenin yanındaki bir minderin üzerinde dinleniyordu.",
+   "Eğitimini tamamlayan yeni öğretmenler, okuldaki deneyimli meslektaşlarından sürekli destek almalıdır."
+  ],
+  "col": [
+   "varışta; vardığında",
+   "tamamlandığında",
+   "bir zamanlar"
+  ],
+  "tip": "'On'dan daha resmi bir kelimedir. 'Upon doing' kalıbı 'yapar yapmaz' anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "mathematical",
+  "senses": [
+   "matematiksel"
+  ],
+  "ex": [
+   "Bu bulmaca gerçekten matematik becerilerini kullanmanı gerektiriyor.",
+   "Matematiksel modeller, araştırmacıların yükselen sıcaklıkların kıyı topluluklarını zamanla nasıl etkileyebileceğini tahmin etmesine yardımcı olur."
+  ],
+  "col": [
+   "matematiksel model",
+   "matematik becerileri",
+   "matematiksel hesaplama"
+  ],
+  "tip": "'Mathematics' 's' ile bitse de bir bilim dalının adı olduğu için tekil fiille kullanılır: 'Mathematics is...'.",
+  "note": ""
+ },
+ {
+  "id": "injustice",
+  "senses": [
+   "haksızlık; adaletsizlik"
+  ],
+  "ex": [
+   "Onu takımdan dışlamanın haksızlığına karşı çıktık.",
+   "Uygun fiyatlı hukuki danışmanlığa erişim, insanların iş yerindeki haksızlığa karşı mücadele etmesi için çok önemlidir."
+  ],
+  "col": [
+   "toplumsal adaletsizlik",
+   "adaletsizlik duygusu",
+   "bir haksızlığa uğramak",
+   "haksızlığa karşı çıkmak"
+  ],
+  "tip": "Genel kavram olarak sayılamaz. Belirli bir haksızlık olayından söz ediliyorsa 'an injustice' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bestseller",
+  "senses": [
+   "çok satan kitap; ürün"
+  ],
+  "ex": [
+   "İlk romanı birkaç hafta içinde çok satan oldu.",
+   "Çok satan bir kitap, akademik yayınları nadiren okuyan okuyuculara karmaşık bilimsel fikirleri tanıtabilir."
+  ],
+  "col": [
+   "uluslararası çok satan",
+   "çok satan olmak",
+   "çok satanlar listesi"
+  ],
+  "tip": "Kitap veya ürün için kullanılır, yazarın kendisi için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "renovation",
+  "senses": [
+   "tadilat; yenileme"
+  ],
+  "ex": [
+   "Mutfağımızın tadilatı sırasında arkadaşlarımızda kaldık.",
+   "Tarihi binaların restorasyonu, modern işletmeler için uygun alanlar sunarken yerel kimliği de koruyabilir."
+  ],
+  "col": [
+   "tadilat geçirmek",
+   "kapsamlı tadilat",
+   "tadilat işi",
+   "tadilat masrafları"
+  ],
+  "tip": "Ağırlıklı olarak binalar ve odalar için kullanılır; kurumsal ya da sosyal değişimler için pek kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "acre",
+  "senses": [
+   "akre"
+  ],
+  "ex": [
+   "Sebze bahçeleri evin arkasında neredeyse bir akre alan kaplıyor.",
+   "Her bir akre sulak alanı korumak, yaban hayatı yaşam alanlarını korur ve yerel sel riskini azaltır."
+  ],
+  "col": [
+   "bir akre arazi",
+   "akre başına",
+   "yüzlerce akre"
+  ],
+  "tip": "1 akre yaklaşık 4047 m² eder; bir hektar (10.000 m²) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "formation",
+  "senses": [
+   "oluşum; kuruluş",
+   "oluşum; yapı",
+   "dizilim; formasyon"
+  ],
+  "ex": [
+   "Soğuk geceler, birikintilerin üzerinde buz oluşumunu teşvik eder.",
+   "Bilim insanları, hava tahminlerini geliştirmek ve küresel iklim değişikliklerini anlamak için bulut oluşumunu inceliyor."
+  ],
+  "col": [
+   "bulut oluşumu",
+   "kaya oluşumları",
+   "bir hükümetin kuruluşu",
+   "dizilim halinde uçmak"
+  ],
+  "tip": "Hem bir şeyin oluşma sürecini hem de oluşan yapıyı ya da insanların, araçların düzenli dizilişini anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "intensive",
+  "senses": [
+   "yoğun; yoğunlaştırılmış",
+   "yoğun girdili; yoğun"
+  ],
+  "ex": [
+   "Tatilde yoğun bir yüzme kursuna katıldım.",
+   "Yoğun tarım gıda üretimini artırabilir, ancak toprak kalitesine zarar verebilir ve biyoçeşitliliği azaltabilir."
+  ],
+  "col": [
+   "yoğun kurs",
+   "yoğun bakım",
+   "yoğun tarım",
+   "emek yoğun üretim"
+  ],
+  "tip": "'Intensive' kısa sürede yoğun çaba ya da kaynak kullanımını anlatır; 'intense' ise duygu veya şiddet yoğunluğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "frost",
+  "senses": [
+   "don; kırağı",
+   "kırağı kaplamak; donmak",
+   "krema ile kaplamak"
+  ],
+  "ex": [
+   "İnce bir kırağı, mutfak penceremizin dışındaki çimenleri kaplamıştı.",
+   "Beklenmedik bahar donu genç ürünlere zarar verebilir, verimi düşürür ve çiftçileri mali açıdan zorlar."
+  ],
+  "col": [
+   "sert don",
+   "yerde don",
+   "don zararı",
+   "pastayı kremayla kaplamak"
+  ],
+  "tip": "'Frost' kırağı ya da donu anlatır, kar için 'snow' kullanılır. Pastayı kaplama anlamı daha çok Amerikan İngilizcesinde görülür.",
+  "note": ""
+ },
+ {
+  "id": "precisely",
+  "senses": [
+   "tam olarak; kesin olarak",
+   "tam da; tam olarak"
+  ],
+  "ex": [
+   "Marangoz her rafı dolaba tam olarak sığacak şekilde kesti.",
+   "Araştırmacılar, uzun vadeli iklim değişikliği etkilerini değerlendirmek için deniz seviyesindeki değişimleri kesin olarak ölçmelidir."
+  ],
+  "col": [
+   "kesin olarak ölçmek",
+   "kesin olarak tanımlamak",
+   "tam da bu yüzden"
+  ],
+  "tip": "'Precisely because' 'tam da bu yüzden' anlamına gelir ve nedeni vurgular.",
+  "note": ""
+ }
+]

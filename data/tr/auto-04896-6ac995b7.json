@@ -1,0 +1,277 @@
+[
+ {
+  "id": "cement",
+  "senses": [
+   "çimento",
+   "pekiştirmek; sağlamlaştırmak"
+  ],
+  "ex": [
+   "İnşaatçı bir kovaya çimento ile su karıştırdı.",
+   "Ortak araştırma projeleri üniversiteler arasındaki ilişkileri pekiştirebilir ve bilimsel bilgi alışverişini teşvik edebilir."
+  ],
+  "col": [
+   "bir torba çimento",
+   "çimento karıştırmak",
+   "bir ilişkiyi pekiştirmek"
+  ],
+  "tip": "Cement toz halde bağlayıcı malzemedir; concrete ise çimento, kum ve çakıldan oluşan betondur. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "severe",
+  "senses": [
+   "şiddetli; ağır",
+   "sert; acımasız"
+  ],
+  "ex": [
+   "Şiddetli fırtınalar evimizin yakınındaki birkaç ağacı devirdi.",
+   "Ciddi su kıtlığı tarımsal üretimi zayıflatabilir ve hükümetleri daha verimli sulama sistemlerine yatırım yapmaya zorlayabilir."
+  ],
+  "col": [
+   "şiddetli ağrı",
+   "sert hava koşulları",
+   "ciddi bir kıtlık",
+   "ağır ceza"
+  ],
+  "tip": "Genellikle olumsuz ve yoğun durumlar için kullanılır. 'Serious' ile yer değiştirebilir ama 'severe' daha güçlü bir ifadedir.",
+  "note": ""
+ },
+ {
+  "id": "function",
+  "senses": [
+   "işlev; görev",
+   "işlemek; çalışmak",
+   "fonksiyon"
+  ],
+  "ex": [
+   "Bu küçük kırmızı düğmenin işlevi nedir?",
+   "Kentsel parklar egzersiz, dinlenme ve sosyal etkileşim için alan sağlayarak önemli bir görev üstlenir."
+  ],
+  "col": [
+   "bir görevi yerine getirmek",
+   "düzgün çalışmak",
+   "... olarak işlev görmek",
+   "temel işlev"
+  ],
+  "tip": "'Function as' + isim, bir şeyin hangi rolde kullanıldığını anlatır: 'The sofa functions as a bed' (kanepe yatak olarak işlev görür).",
+  "note": ""
+ },
+ {
+  "id": "presumably",
+  "senses": [
+   "muhtemelen; sanırım"
+  ],
+  "ex": [
+   "Mantosu yok, o halde muhtemelen gitmiş.",
+   "Daha sık otobüs seferleri, işe gidip gelenleri arabalarını evde bırakmaya muhtemelen teşvik ederek kentsel trafiği azaltır."
+  ],
+  "col": [
+   "muhtemelen ... nedeniyle",
+   "muhtemelen ... amaçlanmış",
+   "büyük ihtimalle doğru"
+  ],
+  "tip": "Mantıklı bir tahmini belirtir; 'certainly' gibi kesinlik bildirmez. Genellikle cümle başında ya da fiilden önce kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "coordination",
+  "senses": [
+   "koordinasyon; eşgüdüm",
+   "beden koordinasyonu"
+  ],
+  "ex": [
+   "Bu kanepeyi üst kata çıkarmak biraz koordinasyon gerektirecek.",
+   "Okullar ile sağlık hizmetleri arasında etkili koordinasyon, ek ihtiyacı olan çocuklara verilen desteği iyileştirebilir."
+  ],
+  "col": [
+   "yakın koordinasyon",
+   "bölümler arasında koordinasyon",
+   "el-göz koordinasyonu"
+  ],
+  "tip": "Genellikle sayılamaz bir isimdir; 'a coordination' demeyin. 'Between' ile koordinasyonun yapıldığı taraflar belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "infect",
+  "senses": [
+   "enfekte etmek; bulaştırmak",
+   "sirayet etmek; etkilemek"
+  ],
+  "ex": [
+   "Hasta bir tavşan kafesindeki diğerlerine bulaştırabilir.",
+   "Hastanelerde etkili hijyen önlemleri ve yeterli havalandırma yoksa, virüsler savunmasız hastalara daha kolay bulaşabilir."
+  ],
+  "col": [
+   "birine virüs bulaştırmak",
+   "enfekte olmak",
+   "yarayı enfekte etmek"
+  ],
+  "tip": "Yaygın kalıp 'infect someone with a virus'tür. Kişi ya da yara 'infected' olur; 'infected with' ile hastalık belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "thread",
+  "senses": [
+   "iplik; ip",
+   "konu akışı; yorum zinciri",
+   "iplik geçirmek; geçirmek"
+  ],
+  "ex": [
+   "Bu gömleği onarmak için mavi bir ipliğe ihtiyacım var.",
+   "Net geçişler, okuyucuların karmaşık bir akademik makalenin mantık akışını takip etmesine yardımcı olur."
+  ],
+  "col": [
+   "dikiş ipliği",
+   "iğneye iplik geçirmek",
+   "konunun akışını kaybetmek",
+   "tartışma zinciri"
+  ],
+  "tip": "'Lose the thread' konuşmanın ya da yazının akışını kaybetmek anlamına gelir. 'Thread' fiil olarak iplik geçirmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "beloved",
+  "senses": [
+   "sevilen; çok sevilen",
+   "sevgili; sevilen kişi"
+  ],
+  "ex": [
+   "Babası, kızının çok sevdiği ahşap oyuncağını özenle onardı.",
+   "Halk kütüphaneleri, öğrenme ve sosyal bağlantı fırsatları sunduğu için hâlâ sevilen toplumsal alanlardır."
+  ],
+  "col": [
+   "sevgili bir arkadaş",
+   "sevilen bir evcil hayvan",
+   "çok sevilen bir kurum"
+  ],
+  "tip": "Genellikle sıfat olarak kullanılır. İsim olarak kullanıldığında 'sevgili' anlamını taşır ve daha edebi bir tonu vardır.",
+  "note": ""
+ },
+ {
+  "id": "carpentry",
+  "senses": [
+   "marangozluk; doğramacılık"
+  ],
+  "ex": [
+   "Küçük bir kitaplık yaparak temel marangozluğu öğrendim.",
+   "Marangozluk kursları veren okullar, öğrencilerin pratik beceriler geliştirmesine ve inşaat alanında kariyer keşfetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "marangozluk becerileri",
+   "marangozluk atölyesi",
+   "temel marangozluk",
+   "marangozluk aletleri"
+  ],
+  "tip": "Carpentry bu işin becerisini ya da işin kendisini anlatır. Marangozun kendisi için 'carpenter' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "impractical",
+  "senses": [
+   "pratik olmayan; uygulanamaz",
+   "pratik işlerde beceriksiz"
+  ],
+  "ex": [
+   "Bu beyaz ayakkabılar çamurlu bir yürüyüş için pratik değil.",
+   "Yeraltı demiryolları inşa etmek, inşaat maliyetleri genellikle mevcut bütçeyi aştığı için daha küçük şehirlerde uygulanamaz olabilir."
+  ],
+  "col": [
+   "pratik olmayan bir çözüm",
+   "son derece pratik olmayan",
+   "günlük kullanım için pratik olmayan"
+  ],
+  "tip": "Bu bir sıfattır, fiil değildir. 'Pratik değil' her zaman 'imkânsız' demek değildir; 'may be impractical' gibi kalıplarla ihtimal de bildirilebilir.",
+  "note": ""
+ },
+ {
+  "id": "mechanical",
+  "senses": [
+   "mekanik; makineyle ilgili",
+   "makinevari; düşüncesiz"
+  ],
+  "ex": [
+   "Köye giderken arabamız mekanik bir arıza yüzünden durdu.",
+   "Düzenli kontroller, ciddi aksamalara yol açmadan önce mekanik sorunları belirleyebilir."
+  ],
+  "col": [
+   "makine mühendisliği",
+   "mekanik arıza",
+   "mekanik parçalar",
+   "makinevari bir tepki"
+  ],
+  "tip": "'Mechanical' makineyle ilgili demektir; 'mechanic' ise tamirci anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "compound",
+  "senses": [
+   "bileşik",
+   "yerleşke; kompleks",
+   "ağırlaştırmak; kötüleştirmek"
+  ],
+  "ex": [
+   "Su, hidrojen ve oksijenden oluşan bir bileşiktir.",
+   "Kötü toplu taşıma, kırsal bölgelerde iş arayan insanların karşılaştığı güçlükleri daha da ağırlaştırabilir."
+  ],
+  "col": [
+   "kimyasal bileşik",
+   "bir sorunu ağırlaştırmak",
+   "konut yerleşkesi",
+   "bileşik faiz"
+  ],
+  "tip": "İsim olarak vurgu ilk hecede, fiil olarak ikinci hecededir. Fiil olarak 'bir durumu daha da kötüleştirmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "kidnap",
+  "senses": [
+   "kaçırmak; alıkoymak"
+  ],
+  "ex": [
+   "Filmde suçlular zengin bir iş insanını kaçırıyor.",
+   "Uluslararası iş birliği, polisin insanları kaçırıp serbest bırakılması için para isteyen suç örgütlerini araştırmasına yardımcı olur."
+  ],
+  "col": [
+   "fidye için kaçırmak",
+   "kaçırma kurbanı",
+   "kaçırma girişimi"
+  ],
+  "tip": "Yalnızca çocuklar için kullanılmaz. Geçmiş zaman 'kidnapped' ve ing biçimi 'kidnapping' olarak p harfi ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "courtyard",
+  "senses": [
+   "avlu; iç bahçe"
+  ],
+  "ex": [
+   "Kahvaltıyı çeşmenin yanındaki avluda yaptık.",
+   "Ortasında avlusu olan geleneksel evler, doğal havalandırma sağlarken sakinlere özel bir açık alan da sunabilir."
+  ],
+  "col": [
+   "merkezi avlu",
+   "kapalı avlu",
+   "avlu bahçesi"
+  ],
+  "tip": "Binalar ya da duvarlarla çevrili açık alanı anlatır; 'garden' (bahçe) ile aynı şey değildir.",
+  "note": ""
+ },
+ {
+  "id": "grammatical",
+  "senses": [
+   "dilbilgisel; gramer ile ilgili",
+   "dilbilgisi kurallarına uygun"
+  ],
+  "ex": [
+   "Öğretmenimiz dilbilgisi kurallarını basit örneklerle açıkladı.",
+   "Dil öğreniminde dilbilgisel doğruluk önemli olsa da öğrencilerin konuşma yoluyla özgüven geliştirmeye ihtiyacı vardır."
+  ],
+  "col": [
+   "dilbilgisel doğruluk",
+   "dilbilgisi hataları",
+   "dilbilgisel yapı"
+  ],
+  "tip": "Hem 'dilbilgisiyle ilgili' hem de cümlenin 'dilbilgisi kurallarına uygun' olduğunu belirtebilir. 'Grammar' isimle karıştırılmamalıdır.",
+  "note": ""
+ }
+]

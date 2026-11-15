@@ -1,0 +1,273 @@
+[
+ {
+  "id": "hopeless",
+  "senses": [
+   "umutsuz; çaresiz",
+   "çok beceriksiz; berbat"
+  ],
+  "ex": [
+   "Komşularımız yardım teklif edene kadar durum umutsuz görünüyordu.",
+   "Akademik ilerlemeleri konusunda umutsuzluk hisseden öğrenciler, bireysel rehberlikten ve ulaşılabilir öğrenme hedeflerinden yararlanabilir."
+  ],
+  "col": [
+   "çaresiz bir durum",
+   "umutsuzluk hissetmek",
+   "yemek yapmada çok beceriksiz",
+   "çaresiz bir vaka"
+  ],
+  "tip": "Bir konuda kötü olmayı hopeless at + -ing kalıbıyla anlatın: hopeless at cooking. Olumsuz anlam taşıyan bir sözcüktür.",
+  "note": ""
+ },
+ {
+  "id": "anonymous",
+  "senses": [
+   "anonim; isimsiz",
+   "belirsiz; sıradan"
+  ],
+  "ex": [
+   "Adı açıklanmayan bir bağışçı çocukların yeni oyun alanını finanse etti.",
+   "Anonim anketler, çalışanların iş yerlerindeki koşullar hakkında dürüst görüşlerini ifade etmesini teşvik edebilir."
+  ],
+  "col": [
+   "adını gizli tutmak",
+   "anonim bağışçı",
+   "anonim anket",
+   "adı açıklanmayan kaynak"
+  ],
+  "tip": "anonymous adının bilinmediğini anlatır. Gizli tutulan bilgi için confidential kullanılır; iki sözcüğü karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "ally",
+  "senses": [
+   "müttefik; destekçi",
+   "ittifak kurmak; birleşmek"
+  ],
+  "ex": [
+   "Komşum parkı kurtarma çabasında bana destek olan bir müttefik oldu.",
+   "Yerel hayır kurumları, yoksulluğu azaltmak ve sosyal kapsayıcılığı artırmak isteyen hükümetler için değerli destekçiler olabilir."
+  ],
+  "col": [
+   "yakın müttefik",
+   "güçlü bir müttefik",
+   "kendini ... ile birleştirmek"
+  ],
+  "tip": "İsim /ˈæl.aɪ/ diye ön hecede vurgulanır; fiil /əˈlaɪ/ diye ikinci hecede. Fiilden sonra with gelir: ally yourself with.",
+  "note": ""
+ },
+ {
+  "id": "civilian",
+  "senses": [
+   "sivil; asker olmayan kişi",
+   "sivil; askeri olmayan"
+  ],
+  "ex": [
+   "Kurtarma botu hem askerleri hem sivilleri taşıyordu.",
+   "Başlangıçta askeri amaçlarla geliştirilen uydu teknolojisi bugün hava durumu tahmini ve navigasyon gibi birçok sivil uygulamayı destekliyor."
+  ],
+  "col": [
+   "sivil nüfus",
+   "sivil hayat",
+   "sivil uçak",
+   "sivilleri korumak"
+  ],
+  "tip": "civilian asker olmayan kişiyi anlatır. Devlet memuru için civil servant kullanılır; iki kavramı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "truthful",
+  "senses": [
+   "dürüst; gerçeğe uygun"
+  ],
+  "ex": [
+   "Lütfen vazonun nasıl kırıldığı konusunda dürüst ol.",
+   "Gerçeğe uygun habercilik, vatandaşların kamusal meseleleri anlamasına ve topluluklarıyla ilgili bilinçli kararlar almasına yardımcı olur."
+  ],
+  "col": [
+   "bir konuda dürüst olmak",
+   "gerçeğe uygun bir anlatım",
+   "dürüst bir cevap"
+  ],
+  "tip": "truthful sözün doğruluğunu anlatır; true ise bir şeyin gerçek olduğunu belirtir. 'Gerçek dost' İngilizcede true friend olur.",
+  "note": ""
+ },
+ {
+  "id": "boarding-school",
+  "senses": [
+   "yatılı okul"
+  ],
+  "ex": [
+   "Amir yatılı okulda iki arkadaşıyla aynı odayı paylaşıyor.",
+   "Yatılı okula gitmek bağımsızlığı geliştirebilir; ancak bazı çocuklar ailelerinden uzun süre ayrı kalmayı zor bulabilir."
+  ],
+  "col": [
+   "yatılı okula gitmek",
+   "bir çocuğu yatılı okula göndermek"
+  ],
+  "tip": "Boarding, yatılılık ve konaklama anlamına gelir. Bu okul hem eğitim hem de barınma sunar, bu yüzden iki kelimeyi birlikte öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "low-risk",
+  "senses": [
+   "düşük riskli"
+  ],
+  "ex": [
+   "Birikimlerimiz için düşük riskli bir yatırım seçtik.",
+   "Düşük riskli finansal ürünler, daha yüksek ama belirsiz getiri yerine istikrarı önemseyen hanehalkları için cazip olabilir."
+  ],
+  "col": [
+   "düşük riskli yatırım",
+   "düşük riskli faaliyet",
+   "düşük riskli strateji"
+  ],
+  "tip": "low-risk riskin az olduğunu anlatır; riskin tamamen olmadığı anlamına gelmez. Sıfat olarak isimden önce kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "accelerate",
+  "senses": [
+   "hızlanmak; hızlandırmak"
+  ],
+  "ex": [
+   "Otobüs köyden çıkarken hızlandı.",
+   "Toplu taşımaya yapılan yatırımlar, kentsel ulaşımda daha temiz ve verimli bir geçişi hızlandırabilir."
+  ],
+  "col": [
+   "büyümeyi hızlandırmak",
+   "süreci hızlandırmak",
+   "hızla hızlanmak"
+  ],
+  "tip": "Hem geçişsiz (araç hızlanır) hem geçişli (bir şeyi hızlandırmak) kullanılabilir. Sürecin hızlanmasında nesne alabilir.",
+  "note": ""
+ },
+ {
+  "id": "ineffective",
+  "senses": [
+   "etkisiz; işe yaramaz"
+  ],
+  "ex": [
+   "Bu küçük vantilatör bu kadar büyük bir odada etkisiz kalıyor.",
+   "Farkındalık kampanyaları, hükümetler çevreye zararlı ürünlerin uygun fiyatlı alternatiflerini de sunmadıkça etkisiz kalabilir."
+  ],
+  "col": [
+   "etkisiz tedavi",
+   "etkisiz politika",
+   "etkisiz olduğunu kanıtlamak"
+  ],
+  "tip": "ineffective sonuç vermemeyi anlatır; inefficient ise enerji ya da zaman israfı gibi verimsizliği anlatır. Bunları karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "bunk",
+  "senses": [
+   "ranza; yatak"
+  ],
+  "ex": [
+   "Üst ranzaya tırmanıp uyuyakaldım.",
+   "Her yolcuya rahat bir ranza sağlamak, gece trenlerini kısa uçuşlara göre daha cazip kılabilir."
+  ],
+  "col": [
+   "üst ranza",
+   "alt ranza",
+   "iki katlı yatak"
+  ],
+  "tip": "bunk tek bir yatak katını anlatır; bunk bed ise iki katlı karyolanın tamamını anlatır. Yani bunk bed bir mobilya adıdır.",
+  "note": ""
+ },
+ {
+  "id": "labor",
+  "senses": [
+   "emek; işgücü",
+   "çalışmak; emek vermek",
+   "doğum sancısı; doğum"
+  ],
+  "ex": [
+   "Eski çiti onarmak tam bir günlük emek gerektirdi.",
+   "Otomasyona yapılan yatırımlar işçilik maliyetlerini düşürebilir; ancak hükümetler işten çıkarılan çalışanların yeni beceriler kazanmasına yardımcı olmalıdır."
+  ],
+  "col": [
+   "el emeği",
+   "işgücü piyasası",
+   "işçilik maliyetleri",
+   "doğum sancıları başlamak"
+  ],
+  "tip": "labor Amerikan yazımıdır; İngiliz yazımı labour'dur. Doğum anlamında da kullanılır, bu yüzden bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "naive",
+  "senses": [
+   "saf; deneyimsiz; kolay inanan"
+  ],
+  "ex": [
+   "Onarımın hiç masrafa mal olmayacağına inanmak saflık oldu.",
+   "Ekonomik büyümenin tek başına her toplumsal sorunu çözeceğini varsaymak saflık olur."
+  ],
+  "col": [
+   "saf bir varsayım",
+   "saf iyimserlik",
+   "siyaseten deneyimsiz"
+  ],
+  "tip": "Çoğunlukla olumsuz anlam taşır: deneyimsizlik yüzünden kolay inanma. Masumiyet ve saflık için innocent daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "expand",
+  "senses": [
+   "genişlemek; büyümek",
+   "ayrıntılandırmak; açmak"
+  ],
+  "ex": [
+   "Hamur sıcak mutfakta dinlenirken kabardı.",
+   "Üniversiteler, dezavantajlı öğrencilerin yeterli donanım ve internet bağlantısına sahip olmasını sağlarken çevrimiçi kurslara erişimi genişletmelidir."
+  ],
+  "col": [
+   "hızla genişlemek",
+   "erişimi genişletmek",
+   "işi büyütmek",
+   "bir fikri açmak"
+  ],
+  "tip": "Bir fikri açıklamak için expand on/upon kullanılır. Bir şeyi büyütmek için ise doğrudan nesne alır: expand a business.",
+  "note": ""
+ },
+ {
+  "id": "troop",
+  "senses": [
+   "asker birliği; askerler",
+   "grup; sürü",
+   "gruplar halinde yürümek"
+  ],
+  "ex": [
+   "Askerler sel sonrası yerel aileleri nehri geçmede destekledi.",
+   "Doğal afetler sivil ulaşım sistemlerini kullanılamaz hale getirdiğinde hükümetler acil yardım malzemelerini ulaştırmak için bazen asker birlikleri görevlendirir."
+  ],
+  "col": [
+   "asker birliği göndermek",
+   "birlikleri geri çekmek",
+   "bir maymun sürüsü"
+  ],
+  "tip": "Askerler için genellikle çoğul troops kullanılır. Tiyatro topluluğu anlamında ise troupe yazılır; iki sözcüğü karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "steady",
+  "senses": [
+   "istikrarlı; düzenli",
+   "sağlam; dengeli; sakin",
+   "dengelemek; sabitlemek"
+  ],
+  "ex": [
+   "Tepeye çıkarken sabit bir tempo tut.",
+   "Kamu ulaşımına yapılan istikrarlı yatırım, zamanla kentsel hareketliliği artırabilir ve trafik sıkışıklığını azaltabilir."
+  ],
+  "col": [
+   "istikrarlı büyüme",
+   "sabit tempo",
+   "düzenli gelir",
+   "kendini dengelemek"
+  ],
+  "tip": "steady sıfat olarak kullanılır; fiili niteleyen zarf hali steadily'dir: steadily grew. Zarf yerine sıfat kullanmayın.",
+  "note": ""
+ }
+]

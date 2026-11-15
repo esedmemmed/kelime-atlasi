@@ -1,0 +1,271 @@
+[
+ {
+  "id": "suicide",
+  "senses": [
+   "intihar"
+  ],
+  "ex": [
+   "Yerel merkezimiz intihar önleme konusunda ücretsiz atölye çalışmaları düzenliyor.",
+   "İntiharı önlemek; erişilebilir ruh sağlığı hizmetleri, destekleyici topluluklar ve medyada sorumlu haberciliği gerektirir."
+  ],
+  "col": [
+   "intihar önleme",
+   "intihar riski",
+   "intihar ederek ölmek"
+  ],
+  "tip": "İsim olarak kullanılır; fiil olarak 'commit suicide' veya 'die by suicide' denir. Tarafsız dilde 'die by suicide' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "investigation",
+  "senses": [
+   "soruşturma; inceleme",
+   "araştırma; inceleme"
+  ],
+  "ex": [
+   "Mutfak tavanının neden su sızdırdığı bir inceleme sonucunda anlaşıldı.",
+   "Nehir kirliliği hakkında bağımsız bir araştırma, yetkililerin nedenleri belirlemesine ve çevrenin daha fazla zarar görmesini önlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "soruşturma yürütmek",
+   "soruşturma başlatmak",
+   "...hakkında soruşturma/araştırma",
+   "soruşturulmakta olan"
+  ],
+  "tip": "Bir konu hakkında soruşturma veya araştırma için genellikle 'an investigation into' kalıbı kullanılır. 'under investigation' ise 'soruşturulmakta' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "agreeable",
+  "senses": [
+   "hoş; keyifli",
+   "istekli; razı"
+  ],
+  "ex": [
+   "Bahçede sohbet ederek hoş bir öğleden sonra geçirdik.",
+   "Yöneticiler faydaları açıkladığında ve endişeleri giderdiğinde çalışanlar örgütsel değişikliklere daha istekli olabilir."
+  ],
+  "col": [
+   "hoş hava",
+   "keyifli arkadaş",
+   "bir teklife razı"
+  ],
+  "tip": "Kişiler için 'hoş, sevimli' anlamında da kullanılır. 'be agreeable to sth' kalıbı resmi bir dil taşır ve 'razı olmak' anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "encyclopaedia",
+  "senses": [
+   "ansiklopedi"
+  ],
+  "ex": [
+   "Ansiklopedide bir dinozor resmi bulduk.",
+   "Çevrimiçi bir ansiklopedi araştırma için iyi bir başlangıç noktası sunar, ancak öğrenciler bilgileri güvenilir kaynaklardan doğrulamalıdır."
+  ],
+  "col": [
+   "çevrimiçi ansiklopedi",
+   "ansiklopedi maddesi",
+   "ansiklopedive başvurmak"
+  ],
+  "tip": "İngiliz İngilizcesinde 'encyclopaedia', Amerikan İngilizcesinde 'encyclopedia' yazılır. İkisi de aynı anlamdadır.",
+  "note": ""
+ },
+ {
+  "id": "paraphrase",
+  "senses": [
+   "kendi sözleriyle anlatmak",
+   "parafraz; yeniden anlatım"
+  ],
+  "ex": [
+   "Bu açıklamayı anlayabilmem için başka sözcüklerle anlatır mısın?",
+   "Öğrenciler akademik yazılarında kaynakların özgün yazarlarını belirtirken, kaynakları doğru biçimde yeniden ifade etmeyi öğrenmelidir."
+  ],
+  "col": [
+   "bir pasajı yeniden ifade etmek",
+   "doğru bir parafraz",
+   "kendi sözlerinle anlatmak"
+  ],
+  "tip": "Parafrazda fikir korunur, sözcükler değiştirilir. Kaynağa atıf yapılmalıdır. Kısa özet için 'summarize' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "alliance",
+  "senses": [
+   "ittifak; birlik"
+  ],
+  "ex": [
+   "İki kulüp havuzu kurtarmak için bir birlik kurdu.",
+   "Uluslararası bir ittifak, ülkelerin sınır aşan çevre tehditlerine karşı müdahalelerini koordine etmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "ittifak kurmak",
+   "stratejik ittifak",
+   "askeri ittifak"
+  ],
+  "tip": "'form an alliance with' kalıbında 'with' ile birlikte kullanılır ve 'ile ittifak kurmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "ecology",
+  "senses": [
+   "ekoloji",
+   "ekolojik ilişki; doğal denge"
+  ],
+  "ex": [
+   "Kız kardeşim ekoloji okuyor ve sık sık yerel sulak alanları ziyaret ediyor.",
+   "Orman ekolojisini anlamak, hükûmetlerin doğal kaynakları daha etkili yönetirken yaban hayatını korumasına yardımcı olabilir."
+  ],
+  "col": [
+   "deniz ekolojisi",
+   "orman ekolojisi",
+   "ekoloji okumak"
+  ],
+  "tip": "'Ecology' canlılar ile çevre arasındaki ilişkiyi ifade eder; tek başına 'çevre' (environment) anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "fin",
+  "senses": [
+   "yüzgeç",
+   "palet; dalış paleti"
+  ],
+  "ex": [
+   "Suyun hemen üstünde bir köpekbalığı yüzgeci gördük.",
+   "Yüzgeç şeklindeki değişiklikler, balıkların farklı su ortamlarında ne kadar verimli hareket ettiğini etkileyebilir."
+  ],
+  "col": [
+   "sırt yüzgeci",
+   "kuyruk yüzgeci",
+   "köpekbalığı yüzgeci",
+   "dalış paletleri"
+  ],
+  "tip": "Dalış paletinden söz ederken genellikle çoğul 'fins' kullanılır, çünkü bir çift olarak satılır ve takılır.",
+  "note": ""
+ },
+ {
+  "id": "postal",
+  "senses": [
+   "posta ile ilgili; postai"
+  ],
+  "ex": [
+   "Posta görevlisi kapımızın önüne bir koli bırakmış.",
+   "İnternete erişimin sınırlı ya da hiç olmadığı kırsal topluluklar için güvenilir posta hizmetleri hâlâ çok önemlidir."
+  ],
+  "col": [
+   "posta hizmetleri",
+   "posta görevlisi",
+   "posta adresi",
+   "posta kodu"
+  ],
+  "tip": "Sıfattır. Posta ücreti anlamındaki isim 'postage' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "aside",
+  "senses": [
+   "bir kenara; yana",
+   "bir yana; bir tarafa",
+   "kenar yorum; fısıltı"
+  ],
+  "ex": [
+   "Bisikletçinin geçmesi için bir kenara çekildi.",
+   "Hükûmetler yalnızca yeni inşaata odaklanmak yerine, kamu parklarının bakımı için yeterli fon ayırmalıdır."
+  ],
+  "col": [
+   "bir kenara çekilmek",
+   "fon ayırmak",
+   "görüş ayrılıklarını bir yana bırakmak",
+   "...dışında"
+  ],
+  "tip": "Genellikle zarf olarak kullanılır. 'aside from' 'dışında, bir yana' anlamına gelir; 'set aside' ise 'ayırmak' demektir.",
+  "note": ""
+ },
+ {
+  "id": "unsatisfactory",
+  "senses": [
+   "tatmin edici olmayan; yetersiz"
+  ],
+  "ex": [
+   "Tamir işi yetersizdi, bu yüzden tamirciyi yeniden aradım.",
+   "Yetersiz konut koşulları çocukların sağlığını ve okulda dikkatini olumsuz etkileyebilir."
+  ],
+  "col": [
+   "yetersiz sonuçlar",
+   "tatmin edici olmayan performans",
+   "yetersiz koşullar"
+  ],
+  "tip": "Şey ya da durum için kullanılır. İnsanın hoşnutsuzluğunu anlatmak için 'dissatisfied' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "equip",
+  "senses": [
+   "donatmak; teçhiz etmek",
+   "donatmak; hazırlamak"
+  ],
+  "ex": [
+   "Eve dönmeden önce bisikletlerimizi farlarla donattık.",
+   "Okullar, öğrencileri yetişkinlikte paralarını güvenle yönetebilmeleri için pratik finansal becerilerle donatmalıdır."
+  ],
+  "col": [
+   "bir şeyi ... ile donatmak",
+   "öğrencilere beceri kazandırmak",
+   "tam donanımlı mutfak"
+  ],
+  "tip": "'equip A with B' kalıbı 'A'yı B ile donatmak' anlamına gelir. Geçmiş zaman 'equipped' yazımında son harf ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "slum",
+  "senses": [
+   "gecekondu; yoksul mahalle"
+  ],
+  "ex": [
+   "Ailesi kalabalık bir gecekondu bölgesinde küçük bir odayı paylaşıyordu.",
+   "Sanitasyonun ve temiz suya erişimin iyileştirilmesi, yoğun nüfuslu gecekondularda hastalıkları önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "gecekondu konutları",
+   "gecekondu sakinleri",
+   "gecekondu temizleme"
+  ],
+  "tip": "Yalnızca konut koşulları çok kötü olan kentsel bölgeler için kullanılır; her düşük gelirli mahalle için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "outdated",
+  "senses": [
+   "eskimiş; güncelliğini yitirmiş"
+  ],
+  "ex": [
+   "Bu eski harita yeni tren istasyonunu göstermiyor.",
+   "Hastanelerin, eskimiş ekipmanı değiştirmek ve hastalara daha güvenli, etkili tedavi sunmak için yeterli fona ihtiyacı var."
+  ],
+  "col": [
+   "eskimiş ekipman",
+   "güncel olmayan bilgi",
+   "eskimiş tutumlar"
+  ],
+  "tip": "Yalnızca eski olmayı değil, değişen koşullar nedeniyle artık uygun olmamayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "blossom",
+  "senses": [
+   "çiçek; çiçek kümesi",
+   "çiçek açmak",
+   "gelişmek; serpilmek"
+  ],
+  "ex": [
+   "Mutfak penceremizin dışındaki kiraz ağacı pembe çiçeklerle kaplandı.",
+   "Öğretmenler destekleyici bir öğretim ve düzenli sanatsal ifade fırsatları sağladığında yaratıcı yetenek gelişebilir."
+  ],
+  "col": [
+   "kiraz çiçeği",
+   "çiçek açmış durumda",
+   "...e dönüşerek gelişmek"
+  ],
+  "tip": "Çoğunlukla ağaç ve çalı çiçekleri için kullanılır. Mecazi olarak 'blossom into' kalıbı bir şeye dönüşüp gelişmek anlamına gelir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,274 @@
+[
+ {
+  "id": "concentrate",
+  "senses": [
+   "dikkat etmek; odaklanmak",
+   "toplamak; yoğunlaştırmak",
+   "konsantre; yoğun özüt"
+  ],
+  "ex": [
+   "Televizyon bu kadar yüksek sesle açıkken odaklanamıyorum.",
+   "Hükümetler, uzun vadede hastaneler üzerindeki baskıyı azaltmak için kaynaklarını koruyucu sağlık hizmetlerine yoğunlaştırmalıdır."
+  ],
+  "col": [
+   "bir göreve odaklanmak",
+   "kaynakları ... yoğunlaştırmak",
+   "meyve suyu konsantresi"
+  ],
+  "tip": "concentrate on'dan sonra isim ya da -ing formu gelir (concentrate on studying). 'Concentrate to' kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "gorgeous",
+  "senses": [
+   "çok güzel; göz alıcı",
+   "harika; çok hoş"
+  ],
+  "ex": [
+   "Bahçe sabahın erken saatlerindeki güneş ışığında çok güzel görünüyor.",
+   "Kıyı tatil yerleri göz kamaştırıcı manzaralar sunsa da kontrolsüz turizm, ziyaretçileri çeken doğal çevreye zarar verebilir."
+  ],
+  "col": [
+   "göz alıcı manzara",
+   "harika hava",
+   "çok güzel görünmek"
+  ],
+  "tip": "Beautiful'a göre daha güçlü bir sıfattır ve çoğunlukla konuşma dilinde övgü için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "glance",
+  "senses": [
+   "göz atmak; bakmak",
+   "bakış; göz atma"
+  ],
+  "ex": [
+   "Kapıyı açmadan önce pencereden dışarı göz attı.",
+   "Yürürken sık sık telefonlarına göz atan yayalar, yakındaki trafiğin farkında olmalarını azaltabilir."
+  ],
+  "col": [
+   "göz atmak",
+   "bir göz atmak",
+   "ilk bakışta",
+   "bakışmak"
+  ],
+  "tip": "glance at kısa bir bakışı anlatır; stare at ise uzun ve sabit bakmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "embarrass",
+  "senses": [
+   "utandırmak; mahcup etmek"
+  ],
+  "ex": [
+   "Çocukluk fotoğrafımızı paylaşarak beni utandırma, lütfen.",
+   "Her hatayı herkesin önünde düzeltmek, dil öğrenenleri utandırabilir ve sınıf tartışmalarına katılmalarını engelleyebilir."
+  ],
+  "col": [
+   "birini utandırmak",
+   "çok mahcup olmak",
+   "utanç verici bir an"
+  ],
+  "tip": "İnsan utandığında embarrassed, durum utandırıcıysa embarrassing kullanılır. 'I am embarrassing' hatalıdır.",
+  "note": ""
+ },
+ {
+  "id": "tube",
+  "senses": [
+   "boru; tüp",
+   "tüp; sıkılabilir kap",
+   "Londra metrosu"
+  ],
+  "ex": [
+   "Su, berrak bir borudan tanka aktı.",
+   "Araba kullanmak yerine metroyu tercih etmek, yolcuların Londra merkezindeki trafik sıkışıklığından kaçınmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir tüp diş macunu",
+   "plastik boru",
+   "metroya binmek"
+  ],
+  "tip": "'The tube' yalnızca Londra metrosunu anlatır. Bir tüp macun için 'a tube of' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vehicle",
+  "senses": [
+   "araç; taşıt",
+   "araç; aracılık eden şey"
+  ],
+  "ex": [
+   "Aracımızı küçük dağ otelinin dışında bıraktık.",
+   "Elektrikli araçlar, elektriği yenilenebilir kaynaklardan geldiğinde kentsel hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "elektrikli araç",
+   "ticari araç",
+   "değişim için bir araç"
+  ],
+  "tip": "Taşıt anlamında sayılabilir isimdir ve sadece otomobil değil, her türlü araç için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "starfish",
+  "senses": [
+   "denizyıldızı"
+  ],
+  "ex": [
+   "Sığ bir kayalık havuzda turuncu bir denizyıldızı gördük.",
+   "Okyanus sıcaklığındaki değişimler denizyıldızı popülasyonlarını etkileyebilir ve kıyı ekosistemlerinin dengesini bozabilir."
+  ],
+  "col": [
+   "kayalık havuzdaki denizyıldızı",
+   "denizyıldızı popülasyonları",
+   "denizyıldızının kolu"
+  ],
+  "tip": "Tekil ve çoğul hali genellikle aynıdır. Denizyıldızı balık değil, omurgasız bir deniz hayvanıdır.",
+  "note": ""
+ },
+ {
+  "id": "incredible",
+  "senses": [
+   "inanılmaz; akıl almaz",
+   "harika; muazzam"
+  ],
+  "ex": [
+   "Bu küçücük tohumun bir ağaca dönüşmesi inanılmaz görünüyor.",
+   "Tıbbi teknolojideki gelişmeler, birçok hastanın yaşam kalitesinde inanılmaz iyileşmeler sağladı."
+  ],
+  "col": [
+   "inanılmaz bir başarı",
+   "inanılmaz miktarda",
+   "bunu inanılmaz bulmak"
+  ],
+  "tip": "Hem şaşırtıcı ve inanılmaz anlamında hem de konuşmada 'harika' anlamında kullanılır; bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "ladder",
+  "senses": [
+   "merdiven",
+   "kariyer basamağı; hiyerarşi"
+  ],
+  "ex": [
+   "Ağaçtan elma toplamak için merdivene tırmandı.",
+   "Profesyonel eğitime erişim, genç çalışanların kariyer basamaklarında daha hızlı ilerlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "merdiven tırmanmak",
+   "kariyer basamakları",
+   "konut sahibi olma basamakları"
+  ],
+  "tip": "Ladder taşınabilir merdiven içindir; bina içindeki sabit merdiven için stairs kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "responsibility",
+  "senses": [
+   "sorumluluk",
+   "görev; yükümlülük"
+  ],
+  "ex": [
+   "Bu hafta sonu köpeğe bakmak senin sorumluluğunda.",
+   "Hükümetler ve işletmeler atık azaltımında ortak sorumluluk taşır, ancak bireylerin de önemli bir rolü vardır."
+  ],
+  "col": [
+   "...için sorumluluk almak",
+   "sorumluluk duygusu",
+   "sorumluluk kabul etmek",
+   "sorumluluğu paylaşmak"
+  ],
+  "tip": "Genel anlamda sayılamaz ('a responsibility' demeyin); somut görev anlamında sayılabilir. Genellikle responsibility for kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "electrician",
+  "senses": [
+   "elektrikçi"
+  ],
+  "ex": [
+   "Elektrikçi, mutfağımızdaki bozuk lambayı tamir etti.",
+   "Evlerde güneş panelleri ve elektrikli araç şarj ekipmanları yaygınlaştıkça, daha fazla nitelikli elektrikçi yetiştirmek çok önemli."
+  ],
+  "col": [
+   "nitelikli elektrikçi",
+   "çırak elektrikçi",
+   "elektrikçi çağırmak"
+  ],
+  "tip": "Electrician elektrikçidir; elektrik mühendisi ise electrical engineer'dır. Bu iki kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "destination",
+  "senses": [
+   "varış noktası; hedef"
+  ],
+  "ex": [
+   "Sonunda gün batımından hemen önce varış noktamıza ulaştık.",
+   "Popüler turistik yerler, ekonomik faydalarla yerel toplulukların ve doğal çevrenin korunması ihtiyacını dengelemek zorundadır."
+  ],
+  "col": [
+   "varış noktasına ulaşmak",
+   "turistik destinasyon",
+   "nihai varış noktası"
+  ],
+  "tip": "Reach'ten sonra to eklenmez (reach a destination). Arrive ise at veya in ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shiny",
+  "senses": [
+   "parlak; parıltılı"
+  ],
+  "ex": [
+   "Ayakkabılarını parlayana kadar cilaladı.",
+   "Parlak ambalajlar tüketicileri çekebilir, ancak çoğu zaman geri dönüştürülmesi zor atık yaratır."
+  ],
+  "col": [
+   "parlak ayakkabı",
+   "parlak yüzey",
+   "parlak saç"
+  ],
+  "tip": "Yüzeyin ışığı yansıttığını anlatır; nesnenin kendisinin ışık yaydığı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "giant",
+  "senses": [
+   "dev gibi; çok büyük",
+   "dev; masal devi",
+   "dev şirket; önemli kişi"
+  ],
+  "ex": [
+   "Dev bir balkabağı bahçe arabasının neredeyse tamamını doldurdu.",
+   "Teknoloji devleri, insanların bilgiye erişme ve birbirleriyle iletişim kurma biçimi üzerinde büyük etkiye sahip."
+  ],
+  "col": [
+   "dev bir adım",
+   "dev bir ekran",
+   "bir teknoloji devi"
+  ],
+  "tip": "Sıfat olarak genellikle isimden önce gelir (a giant pumpkin). İsim olarak masal devini ya da dev şirketi anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "unit",
+  "senses": [
+   "birim; ölçü birimi",
+   "ünite; bölüm",
+   "birim; ekip; kadro"
+  ],
+  "ex": [
+   "Öğle arasından önce ilk üniteyi bitirdik.",
+   "Kursun her ünitesi, öğrencilerin iş yerinde uygulayabileceği pratik becerileri tanıtır."
+  ],
+  "col": [
+   "bir ölçü birimi",
+   "aile birimi",
+   "klima ünitesi",
+   "yoğun bakım ünitesi"
+  ],
+  "tip": "Ölçü birimi anlamında 'a unit of' + ölçülen şey kalıbı kullanılır (a unit of measurement).",
+  "note": ""
+ }
+]

@@ -1,0 +1,281 @@
+[
+ {
+  "id": "detective",
+  "senses": [
+   "dedektif"
+  ],
+  "ex": [
+   "Dedektif, pencerenin yanında çamurlu bir ayak izi buldu.",
+   "Modern dedektifler giderek dijital delillere dayanıyor; bu da mahremiyet ve veri koruma konusunda önemli sorular doğuruyor."
+  ],
+  "col": [
+   "özel dedektif",
+   "dedektiflik çalışması",
+   "polisiye roman"
+  ],
+  "tip": "Sayılabilir isimdir: a detective, two detectives. Detective novel gibi birleşiklerde detective sıfat gibi işlev görür ve çoğul almaz.",
+  "note": ""
+ },
+ {
+  "id": "hundredth",
+  "senses": [
+   "yüzüncü",
+   "yüzde bir"
+  ],
+  "ex": [
+   "Köyümüz yüzüncü yılını piknikle kutladı.",
+   "Sporcu, nitelik süresini sadece saniyenin yüzde biri kadar kaçırdı; bu da gereken hassasiyeti gösteriyor."
+  ],
+  "col": [
+   "yüzüncü yıl dönümü",
+   "saniyenin yüzde biri",
+   "yüzüncü kez"
+  ],
+  "tip": "Sıra sayısı (the hundredth) ile kesir (a hundredth) farklıdır. Sıra sayısında the, kesirde a veya one kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sweep",
+  "senses": [
+   "süpürmek",
+   "hızla yayılmak; sarmak"
+  ],
+  "ex": [
+   "Misafirlerimiz gelmeden önce mutfak zeminini lütfen süpür.",
+   "Şiddetli fırtınalar kıyı bölgelerini kasıp kavurabilir; bu da evlere zarar verir ve temel ulaşım hizmetlerini aksatır."
+  ],
+  "col": [
+   "zemini süpürmek",
+   "süpürüp götürmek",
+   "...boyunca yayılmak"
+  ],
+  "tip": "Düzensiz fiildir: sweep - swept - swept. Sweep away ve sweep across gibi edatlı kalıplar farklı anlamlar taşır.",
+  "note": ""
+ },
+ {
+  "id": "proof",
+  "senses": [
+   "kanıt; delil",
+   "düzelti baskısı",
+   "geçirmez; dayanıklı"
+  ],
+  "ex": [
+   "Ödediğinizi kanıtlamak için fişinizi saklayın.",
+   "Hükümetler, bir tedavinin etkililiğine dair açık kanıt olmadan onun geniş çapta pazarlanmasına izin vermemelidir."
+  ],
+  "col": [
+   "kimlik kanıtı",
+   "kesin kanıt",
+   "ispat yükü",
+   "-e karşı dayanıklı"
+  ],
+  "tip": "Kanıt anlamında genellikle sayılamaz (some proof). Matematiksel ispat için a proof kullanılır. Proof of ve proof against kalıplarını ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "rocket",
+  "senses": [
+   "roket",
+   "hızla yükselmek; fırlamak"
+  ],
+  "ex": [
+   "Roketin bulutların üzerine yükselişini izledik.",
+   "Konut talebi artmaya devam ettikçe, yeni gelişim için alanı sınırlı şehirlerde kiralar fırlayabilir."
+  ],
+  "col": [
+   "roket fırlatmak",
+   "roket motoru",
+   "fiyatlar fırlamak"
+  ],
+  "tip": "Fiil olarak genellikle fiyat ve maliyetler için kullanılır. Increase'den daha güçlü ve ani bir artışı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "pause",
+  "senses": [
+   "duraksamak; ara vermek",
+   "ara; duraklama"
+  ],
+  "ex": [
+   "Çantasını kontrol etmek için kapıda bir an durdu.",
+   "Öğretmenler, öğrencilerine cevaplarını geliştirmek için yeterli zaman tanımak amacıyla sorular sorduktan sonra duraklamalıdır."
+  ],
+  "col": [
+   "bir an durmak",
+   "kısa bir ara",
+   "videoyu duraklatmak"
+  ],
+  "tip": "Pause geçici bir durmayı ve genellikle devam edileceğini ima eder. Kalıcı bitişler için stop veya end kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "literature",
+  "senses": [
+   "edebiyat",
+   "literatür; kaynak"
+  ],
+  "ex": [
+   "Kız kardeşim edebiyat okuyor ve her zaman harika romanlar öneriyor.",
+   "Bilimsel literatürün bir incelemesi, düzenli egzersizin zihinsel sağlığı geliştirebileceğini gösteriyor."
+  ],
+  "col": [
+   "İngiliz edebiyatı",
+   "bilimsel literatür",
+   "literatür taraması",
+   "çocuk edebiyatı"
+  ],
+  "tip": "Genellikle sayılamaz ve çoğul almaz. Akademik bağlamda 'bir konudaki yazılı kaynaklar' anlamı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "translation",
+  "senses": [
+   "çeviri",
+   "çeviri metin; tercüme"
+  ],
+  "ex": [
+   "Hikayenin bu çevirisi anlaşılması kolay.",
+   "Doğru çeviri, farklı ülkelerden araştırmacıların bulguları paylaşmasını ve daha etkili iş birliği yapmasını sağlar."
+  ],
+  "col": [
+   "doğru çeviri",
+   "makine çevirisi",
+   "harfi harfine çeviri",
+   "İngilizceye çeviri"
+  ],
+  "tip": "Bir dile çevirmek için into, bir dilden çevirmek için from kullanılır: translation into English, translation from Turkish.",
+  "note": ""
+ },
+ {
+  "id": "unlikely",
+  "senses": [
+   "olası olmayan",
+   "beklenmedik; alışılmadık"
+  ],
+  "ex": [
+   "Bu kadar koyu bulutla bu öğleden sonra güneşin açması pek olası görünmüyor.",
+   "Toplu taşıma kullanımı, hizmetler daha güvenilir ve uygun fiyatlı hale gelmedikçe muhtemelen artmayacak."
+  ],
+  "col": [
+   "gerçekleşmesi olası olmayan",
+   "çok olası değil",
+   "beklenmedik bir dostluk"
+  ],
+  "tip": "Be unlikely to do ya da It is unlikely that... kalıplarıyla kullanılır. Kesin bir olumsuzluk değil, düşük olasılık bildirir.",
+  "note": ""
+ },
+ {
+  "id": "windscreen",
+  "senses": [
+   "ön cam"
+  ],
+  "ex": [
+   "Yolculuğumuz boyunca ağır yağmur ön cama çarpıp durdu.",
+   "Hasarlı bir ön cam görüşü azaltabileceğinden, düzenli araç muayeneleri yol güvenliği için şarttır."
+  ],
+  "col": [
+   "silecekler",
+   "çatlak ön cam",
+   "ısıtmalı ön cam"
+  ],
+  "tip": "İngiliz İngilizcesinde windscreen, Amerikan İngilizcesinde windshield kullanılır. Her iki kullanım da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "voucher",
+  "senses": [
+   "kupon; hediye çeki",
+   "muhasebe fişi; belge"
+  ],
+  "ex": [
+   "Yeni ayakkabı almak için hediye çekimi kullandım.",
+   "Hükümetler, işsiz yetişkinlerin yerel işverenlerin aradığı becerileri kazanmasına yardımcı olmak için eğitim kuponları sağlayabilir."
+  ],
+  "col": [
+   "hediye çeki",
+   "seyahat kuponu",
+   "kuponu kullanmak",
+   "ödeme belgesi"
+  ],
+  "tip": "A voucher for something kalıbı yaygındır. Kuponu kullanmak için redeem a voucher denir.",
+  "note": ""
+ },
+ {
+  "id": "wrap",
+  "senses": [
+   "sarmak; paketlemek",
+   "şal; atkı",
+   "dürüm"
+  ],
+  "ex": [
+   "Kız, doğum günü hediyesini parlak sarı kağıda sardı.",
+   "Perakendeciler, müşterileri hediyeleri yeniden kullanılabilir kumaşa sarmaya teşvik ederek ambalaj atığını azaltabilir."
+  ],
+  "col": [
+   "hediyeyi paketlemek",
+   "bir şeyi kağıda sarmak",
+   "iyice sarınmak"
+  ],
+  "tip": "Wrap A in B kalıbıyla A'yı B ile sarmak anlatılır: wrap the gift in paper. Yiyecek anlamında wrap, sarılmış ekmek türünü ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "character",
+  "senses": [
+   "karakter; kişilik",
+   "karakter; kişi",
+   "karakter; işaret"
+  ],
+  "ex": [
+   "Neşeli karakteri, yağmurlu sabahları bile daha aydınlık hissettiriyor.",
+   "Tarihi binaları korumak, şehirlerin modern ekonomik taleplere uyum sağlarken kendine özgü karakterlerini sürdürmesine yardımcı olur."
+  ],
+  "col": [
+   "ana karakter",
+   "güçlü karakter",
+   "ayırt edici özellik",
+   "Çince karakterler"
+  ],
+  "tip": "Kişilik anlamında genellikle sayılamaz. 'Kişi' ya da 'harf/işaret' anlamında sayılabilir: a character, two characters.",
+  "note": ""
+ },
+ {
+  "id": "possibility",
+  "senses": [
+   "olasılık; ihtimal",
+   "seçenek; olası durum"
+  ],
+  "ex": [
+   "Bu gece daha sonra kar yağma ihtimali var.",
+   "Gelişmiş toplu taşıma, işe gidip gelenlerin arabalarını evde bırakma olasılığını artırıyor."
+  ],
+  "col": [
+   "gerçek bir ihtimal",
+   "...olasılığı",
+   "olanakları keşfetmek",
+   "olasılığı göz ardı etmek"
+  ],
+  "tip": "Possibility of doing ya da possibility that + cümle kalıpları kullanılır: possibility of rain, possibility that it rains.",
+  "note": ""
+ },
+ {
+  "id": "neither",
+  "senses": [
+   "ikisinden hiçbiri",
+   "ikisi de değil",
+   "de değil; ne de"
+  ],
+  "ex": [
+   "İki ceketin de bana uymuyor, bu yüzden aramaya devam edeceğim.",
+   "Hiçbir yaklaşım tek başına trafik sıkışıklığını çözemez; bu yüzden şehirlerin yatırım ve düzenlemeyi birlikte yapması gerekir."
+  ],
+  "col": [
+   "ikisinden hiçbiri",
+   "iki seçeneğin de değili",
+   "ne ... ne de ...",
+   "ben de yapmıyorum"
+  ],
+  "tip": "Neither yalnızca iki kişi ya da şey için kullanılır; ikiden fazla için none gerekir. Tekil isimle ve fiille tekil biçimde kullanılır.",
+  "note": ""
+ }
+]

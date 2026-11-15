@@ -1,0 +1,271 @@
+[
+ {
+  "id": "seed",
+  "senses": [
+   "tohum",
+   "tohum ekmek"
+  ],
+  "ex": [
+   "Her tohumu küçük bir kil saksıya ekti.",
+   "Tohum çeşitliliğinin korunması, çiftçilerin değişen iklimlere uyum sağlamasına yardımcı olur ve yaygın ürün kayıplarının riskini azaltır."
+  ],
+  "col": [
+   "tohum ekmek",
+   "bir tohum dikmek",
+   "ayçiçeği tohumları",
+   "tohum bankası"
+  ],
+  "tip": "sow seeds tohum ekmek anlamına gelir. seedling ise toprağa çıkmış genç bitki, yani fidedir.",
+  "note": ""
+ },
+ {
+  "id": "anniversary",
+  "senses": [
+   "yıldönümü"
+  ],
+  "ex": [
+   "Evlilik yıldönümümüz için özel bir yemek hazırladık.",
+   "Müze, daha fazla sakini yerel tarihi keşfetmeye teşvik etmek amacıyla ücretsiz giriş sunarak kuruluş yıldönümünü kutladı."
+  ],
+  "col": [
+   "evlilik yıldönümü",
+   "yıldönümünü kutlamak",
+   "bir yıldönümünü anmak"
+  ],
+  "tip": "Yalnızca evlilik için değil, önemli her olayın yıl dönümü için kullanılır, örneğin kuruluş yıldönümü gibi.",
+  "note": ""
+ },
+ {
+  "id": "backward",
+  "senses": [
+   "geriye dönük; geri",
+   "geriye doğru; ters yönde",
+   "geri kalmış; gelişmemiş"
+  ],
+  "ex": [
+   "Bir su birikintisinden kaçınmak için geriye doğru bir adım attı.",
+   "Toplu taşımaya yapılan yatırımı azaltmak, emisyonları düşürmek isteyen şehirler için geriye doğru atılmış bir adım olurdu."
+  ],
+  "col": [
+   "geri adım",
+   "geriye bakış",
+   "geriye doğru hareket etmek"
+  ],
+  "tip": "İngiliz İngilizcesinde zarf olarak backwards da yaygındır. İnsanlar için 'backward' sözü aşağılayıcı algılanabilir.",
+  "note": ""
+ },
+ {
+  "id": "ceremony",
+  "senses": [
+   "tören; merasim",
+   "resmiyet; protokol"
+  ],
+  "ex": [
+   "Gölün kenarında küçük bir düğün töreninde bulunduk.",
+   "Mezuniyet töreni, öğrencilerin ve ailelerin eğitim başarılarını bir topluluk olarak birlikte kutlamasına olanak tanır."
+  ],
+  "col": [
+   "açılış töreni",
+   "mezuniyet töreni",
+   "resmiyete gerek duymadan"
+  ],
+  "tip": "Somut bir tören için sayılabilir. without ceremony ise 'gösterişsiz, resmiyet olmadan' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "breathing",
+  "senses": [
+   "solunum; nefes alma"
+  ],
+  "ex": [
+   "Dik bir yokuşun ardından nefesim yavaşça normale döndü.",
+   "Düzenli nefes egzersizleri, öğrencilerin yoğun çalışma dönemlerinde stresi yönetmelerine ve konsantrasyonlarını artırmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "derin nefes",
+   "nefes egzersizleri",
+   "solunum güçlüğü",
+   "ağır ağır nefes alma"
+  ],
+  "tip": "Ad olarak 'solunum, nefes alma' anlamındadır. Ayrıca breathe fiilinin -ing biçimidir, iki kullanımı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "celebrity",
+  "senses": [
+   "ünlü; meşhur kişi",
+   "ün; şöhret"
+  ],
+  "ex": [
+   "Bir ünlü, hayranlarını selamlamak için tiyatronun önünde durdu.",
+   "Ünlü kişilerin onaylarının genç tüketicileri etkileyebileceği için reklamlar kişisel görüşleri ücretli tanıtımdan açıkça ayırmalıdır."
+  ],
+  "col": [
+   "ünlü onayı",
+   "ünlü kültürü",
+   "şöhrete ulaşmak"
+  ],
+  "tip": "Kişi anlamında sayılabilir (a celebrity). Ün ya da şöhret anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "related",
+  "senses": [
+   "ilgili; bağlantılı",
+   "akraba"
+  ],
+  "ex": [
+   "Bu iki sorun aynı kırık borudan kaynaklanıyor.",
+   "Birçok sağlık sorunu, kötü konut koşulları ve besleyici gıdaya sınırlı erişimle yakından ilişkilidir."
+  ],
+  "col": [
+   "ile ilgili",
+   "yakından ilişkili",
+   "ilgili sorunlar",
+   "evlilik yoluyla akraba"
+  ],
+  "tip": "be related to kalıbında to edat olup arkasına isim ya da -ing almaz; doğrudan isim veya -ing alır. 'related to' ile birlikte kullanın.",
+  "note": ""
+ },
+ {
+  "id": "useless",
+  "senses": [
+   "işe yaramaz; faydasız"
+  ],
+  "ex": [
+   "Bu kırık şemsiye şiddetli yağmurda işe yaramaz.",
+   "Hükümetler bulguları etkili politikalara yön vermek için kullanmadıkça çevresel veri toplamak faydasızdır."
+  ],
+  "col": [
+   "tamamen işe yaramaz",
+   "bir konuda beceriksiz",
+   "bir şeyi işe yaramaz hale getirmek"
+  ],
+  "tip": "useless at + isim ya da -ing 'bir konuda beceriksiz' anlamına gelir: He is useless at maths.",
+  "note": ""
+ },
+ {
+  "id": "carnival",
+  "senses": [
+   "karnaval; şenlik",
+   "lunapark; eğlence şenliği"
+  ],
+  "ex": [
+   "Renkli maskeler takıp karnavalda dans ettik.",
+   "Yıllık bir karnaval, yerel dükkânları ve restoranları destekleyen ziyaretçileri çekerken topluluk bağlarını da güçlendirebilir."
+  ],
+  "col": [
+   "karnaval geçit töreni",
+   "karnaval havası",
+   "yıllık karnaval"
+  ],
+  "tip": "Amerikan İngilizcesinde oyun ve atraksiyonların bulunduğu panayır anlamına da gelir; bağlama göre karşılığı seçin.",
+  "note": ""
+ },
+ {
+  "id": "average",
+  "senses": [
+   "ortalama; sıradan",
+   "ortalama; ortalama değer",
+   "ortalama olmak"
+  ],
+  "ex": [
+   "Bu ceketlerin ortalama fiyatı oldukça makul.",
+   "Daha iyi yalıtım ısıtma ihtiyacını azaltacağından, hanehalkının enerjiye yaptığı ortalama harcama düşebilir."
+  ],
+  "col": [
+   "ortalama olarak",
+   "ortalamanın üstünde",
+   "ortalama gelir",
+   "ortalama sıcaklık"
+  ],
+  "tip": "on average 'ortalama olarak' demektir. 'in average' yerine on average kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "upside-down",
+  "senses": [
+   "baş aşağı; ters"
+  ],
+  "ex": [
+   "Ters çevrilmiş bir kase, pastanın son dilimini örtüyordu.",
+   "Bir sınıf deneyinde öğrenciler, hava basıncının etkilerini incelemek için ters çevrilmiş bir bardak su kullandı."
+  ],
+  "col": [
+   "ters bir görüntü",
+   "ters çevrilmiş kase",
+   "bir şeyi alt üst etmek"
+  ],
+  "tip": "İsimden önce kısa çizgiyle (upside-down) yazılır. Yüklem ya da zarf olarak genelde upside down biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "librarian",
+  "senses": [
+   "kütüphaneci"
+  ],
+  "ex": [
+   "Kütüphaneci, kuşlarla ilgili bir kitap bulmama yardım etti.",
+   "Okul kütüphaneciler, öğrencilere güvenilir kaynakları bulmayı ve bilgiyi değerlendirmeyi öğreterek bağımsız öğrenmeyi destekler."
+  ],
+  "col": [
+   "okul kütüphanecisi",
+   "baş kütüphaneci",
+   "bir kütüphaneciye sormak"
+  ],
+  "tip": "library kütüphanenin kendisi, librarian ise orada çalışan kişidir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "gasoline",
+  "senses": [
+   "benzin"
+  ],
+  "ex": [
+   "Çölü geçmeden önce benzin almak için durduk.",
+   "Yüksek benzin fiyatları, işe gidip gelenleri araba paylaşmaya ya da toplu taşımaya yönlendirebilir."
+  ],
+  "col": [
+   "benzin fiyatları",
+   "benzinli motor",
+   "kurşunsuz benzin"
+  ],
+  "tip": "Amerikan İngilizcesinde kullanılır; İngiliz İngilizcesinde petrol denir. Konuşmada gas kısaltması da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "creature",
+  "senses": [
+   "canlı; yaratık",
+   "hayali yaratık; canavar"
+  ],
+  "ex": [
+   "Yaprağın altından küçücük bir canlı sürünerek çıktı.",
+   "En küçük deniz canlısı bile sağlıklı bir okyanus ekosisteminin korunmasında önemli bir rol oynayabilir."
+  ],
+  "col": [
+   "deniz canlısı",
+   "canlı varlık",
+   "efsanevi yaratık"
+  ],
+  "tip": "creature çoğunlukla hayvanlar için, bazen de hayali yaratıklar için kullanılır. Genel olarak 'canlı' anlamında da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "delete",
+  "senses": [
+   "silmek"
+  ],
+  "ex": [
+   "Lütfen telefonumdaki bulanık fotoğrafları sil.",
+   "Çevrimiçi hizmetler, kullanıcıların artık ihtiyaç duymadıklarında kişisel verilerini silebilmelerine izin vermelidir."
+  ],
+  "col": [
+   "dosyayı silmek",
+   "hesabı silmek",
+   "kalıcı olarak silmek"
+  ],
+  "tip": "delete something from... kalıbı 'bir yerden silmek' anlamına gelir: delete the file from the folder.",
+  "note": ""
+ }
+]

@@ -1,0 +1,277 @@
+[
+ {
+  "id": "undersea",
+  "senses": [
+   "deniz altındaki; denizaltı"
+  ],
+  "ex": [
+   "Belgesel, denizin altındaki bir mağaranın çevresindeki renkli balıkları gösteriyordu.",
+   "Denizaltı kablolar kıtaları birbirine bağlıyor ve küresel iletişim ile uluslararası ticaret için temel altyapı sağlıyor."
+  ],
+  "col": [
+   "denizaltı kablosu",
+   "deniz altı keşfi",
+   "deniz altı tüneli"
+  ],
+  "tip": "Genellikle isimden önce kullanılır. Deniz yüzeyinin altını anlatır; her türlü su altı ortamı için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "blizzard",
+  "senses": [
+   "kar fırtınası; tipi"
+  ],
+  "ex": [
+   "Kar tipisi pencerelerimizi sallarken evde kaldık.",
+   "Şiddetli bir kar fırtınası toplu taşımayı aksatabilir ve kırsal topluluklarda birkaç gün elektriksiz kalmalarına yol açabilir."
+  ],
+  "col": [
+   "şiddetli kar fırtınası",
+   "kar fırtınası koşulları"
+  ],
+  "tip": "Sıradan kar yağışından farklı olarak güçlü rüzgârla birlikte gelen sert hava koşullarını vurgular. 'snowstorm' ile yakındır.",
+  "note": ""
+ },
+ {
+  "id": "household",
+  "senses": [
+   "hane; aile fertleri",
+   "ev ile ilgili; evde kullanılan"
+  ],
+  "ex": [
+   "Evimizdeki herkes bulaşıkları sırayla yıkar.",
+   "Enerji fiyatlarındaki artış, özellikle düşük gelirli ailelerin bütçesi üzerinde ciddi baskı oluşturuyor."
+  ],
+  "col": [
+   "hane geliri",
+   "ev aletleri",
+   "ev işleri",
+   "tek kişilik hane"
+  ],
+  "tip": "Aynı evde yaşayan kişileri anlatır; aralarında akrabalık olması şart değildir. 'family' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "correspond",
+  "senses": [
+   "uyuşmak; karşılık gelmek",
+   "yazışmak; mektuplaşmak"
+  ],
+  "ex": [
+   "Bu kapaklardaki renkler kaplara karşılık gelir.",
+   "Üniversite dersleri, değişen ekonomide işverenlerin ihtiyaç duyduğu becerilerle daha yakından örtüşmelidir."
+  ],
+  "col": [
+   "bir şeye karşılık gelmek",
+   "biriyle yazışmak",
+   "yakından uyuşmak"
+  ],
+  "tip": "Bir şeyin başka bir şeyle karşılık gelmesi için 'correspond to', bir kişiyle yazışmak için 'correspond with' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vast",
+  "senses": [
+   "geniş; muazzam; devasa"
+  ],
+  "ex": [
+   "Küçük köyün ötesinde uzanan geniş bir çöl vardı.",
+   "Dijital kütüphaneler öğrencilere çok büyük miktarda bilgiye erişim imkânı sağlıyor; yine de bu bilginin güvenilirliğini değerlendirmek çok önemli."
+  ],
+  "col": [
+   "büyük çoğunluk",
+   "çok büyük miktarda",
+   "geniş bir alan",
+   "geniş kaynaklar"
+  ],
+  "tip": "'the vast majority of' kalıbı 'çoğunluğun büyük kısmı' anlamına gelir ve resmi yazıda çok kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "segment",
+  "senses": [
+   "bölüm; parça; dilim",
+   "bölmek; ayırmak"
+  ],
+  "ex": [
+   "Bana portakalın sulu bir dilimini uzattı.",
+   "Şirketler, daha etkili reklam stratejileri geliştirmek için müşterilerini sık sık yaşa göre bölümlere ayırır."
+  ],
+  "col": [
+   "pazar segmenti",
+   "portakal dilimi",
+   "müşterileri bölümlere ayırmak"
+  ],
+  "tip": "İsimde ilk hece vurgulu (SEG-ment), fiilde ikinci hece vurgulu (seg-MENT). Vurgu değişikliği kelime türünü ayırt etmeye yarar.",
+  "note": ""
+ },
+ {
+  "id": "scout",
+  "senses": [
+   "yetenek avcısı; gözlemci",
+   "araştırmak; keşfetmek",
+   "izci"
+  ],
+  "ex": [
+   "Okuldan sonra takımımızın antrenmanını bir gözlemci izledi.",
+   "Spor kulüpleri, profesyonel antrenman olanaklarından yoksun topluluklarda yetenekli genç oyuncuları aramak için sık sık gözlemci gönderir."
+  ],
+  "col": [
+   "yetenek avcısı",
+   "futbol gözlemcisi",
+   "yetenek aramak",
+   "bir yeri keşfetmek"
+  ],
+  "tip": "'scout for' kalıbından sonra aranan şey gelir: scout for talent. Çocuk örgütü üyesi için genellikle büyük harfle Scout yazılır.",
+  "note": ""
+ },
+ {
+  "id": "substitute",
+  "senses": [
+   "yedek; ikame",
+   "yerine koymak; ikame etmek"
+  ],
+  "ex": [
+   "Bu çorbada krema yerine yoğurt iyi bir alternatif olur.",
+   "Çevrim içi dersler bağımsız öğrenmeyi destekleyebilir, ama sınıf içi etkileşimin yerini her zaman yeterince tutamaz."
+  ],
+  "col": [
+   "bir şeyin yerine ikame",
+   "A'yı B yerine koymak",
+   "uygun bir ikame",
+   "vekil öğretmen"
+  ],
+  "tip": "'substitute A for B' yapısında yeni gelen A, yerine konulan B'dir. Sıra karıştırılmamalı: substitute margarine for butter.",
+  "note": ""
+ },
+ {
+  "id": "sprinkle",
+  "senses": [
+   "serpmek; saçmak",
+   "az miktar; serpinti"
+  ],
+  "ex": [
+   "Yulafınızın üzerine yemekten önce biraz tarçın serpin.",
+   "Aşırı tuz eklemek yerine tüketiciler, lezzeti daha sağlıklı biçimde artırmak için yemeklerin üzerine otlar serpebilir."
+  ],
+  "col": [
+   "üzerine şeker serpmek",
+   "otla serpiştirmek",
+   "bir tutam tuz"
+  ],
+  "tip": "sprinkle A over B (A'yı B'nin üzerine serpmek) ve sprinkle B with A (B'yi A ile serpiştirmek) kalıplarının ikisi de doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "loneliness",
+  "senses": [
+   "yalnızlık"
+  ],
+  "ex": [
+   "Eski bir arkadaşımı arayınca yalnızlığım biraz hafifledi.",
+   "Topluluk etkinlikleri, yaşlı yetişkinler için düzenli ve anlamlı sosyal temas fırsatları yaratarak yalnızlığı azaltabilir."
+  ],
+  "col": [
+   "yalnızlık duyguları",
+   "yalnızlığı hafifletmek",
+   "sosyal izolasyon ve yalnızlık"
+  ],
+  "tip": "loneliness, insanın yalnız hissetmesinden doğan üzüntüyü anlatır. 'solitude' ise bilerek seçilmiş, olumlu bir yalnız kalmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "infectious",
+  "senses": [
+   "bulaşıcı",
+   "etkileyici; yayılan"
+  ],
+  "ex": [
+   "Onun bulaşıcı kahkahası masadaki herkesi kısa sürede gülümsetti.",
+   "Sağlık koşullarının iyileştirilmesi ve temiz suya erişim, yoğun nüfuslu topluluklarda bulaşıcı hastalıkların önlenmesi için çok önemlidir."
+  ],
+  "col": [
+   "bulaşıcı hastalık",
+   "çok bulaşıcı",
+   "bulaşıcı coşku",
+   "bulaşıcı kahkaha"
+  ],
+  "tip": "infectious bulaşıcı olanı, infected ise hastalığa yakalanmış olanı anlatır: infected patients (hastalığa yakalanmış hastalar).",
+  "note": ""
+ },
+ {
+  "id": "hazard",
+  "senses": [
+   "tehlike; risk",
+   "tahmin yürütmek"
+  ],
+  "ex": [
+   "Merdivenin yanındaki gevşek kablo bir tehlike.",
+   "Düzgün depolanmamış endüstriyel kimyasallar, yakındaki yerleşim alanlarında çalışanlar ve sakinler için ciddi bir sağlık tehlikesi oluşturuyor."
+  ],
+  "col": [
+   "sağlık tehlikesi",
+   "yangın riski",
+   "tehlike oluşturmak",
+   "tahmin yürütmek"
+  ],
+  "tip": "İsim olarak 'tehlike kaynağı' anlamına gelir ve 'danger' ile yakındır. 'hazard a guess' kalıbında fiil 'tahminde bulunmak' demektir.",
+  "note": ""
+ },
+ {
+  "id": "glow",
+  "senses": [
+   "yumuşak ışık vermek",
+   "yumuşak ışık; parıltı",
+   "ışıl ışıl olmak"
+  ],
+  "ex": [
+   "Şöminedeki son közler yumuşakça parlıyordu.",
+   "Sokak aydınlatmalarının sıcak ışıltısı, gece olduğunda kamusal alanları daha güvenli hissettirebilir."
+  ],
+  "col": [
+   "sıcak bir parıltı",
+   "gurur içinde ışıldamak",
+   "sağlıklı bir ışıltı"
+  ],
+  "tip": "glow yumuşak ve sürekli ışığı anlatır; kısa süreli parlamalar için flash kullanılır. 'glow with pride' mecaz olarak sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "novelty",
+  "senses": [
+   "yenilik; özgünlük",
+   "yeni şey; ilgi çeken şey",
+   "hediyelik eşya; oyuncak"
+  ],
+  "ex": [
+   "Çadırda uyumanın heyecanı kısa sürede geçti.",
+   "Yeni teknolojinin cazibesi tüketicileri çekse de uzun vadeli benimsenme, pratik faydalara ve uygun fiyata bağlıdır."
+  ],
+  "col": [
+   "yenilik değeri",
+   "yeniliğin etkisi geçmek",
+   "hediyelik eşya"
+  ],
+  "tip": "Yeni olma niteliği anlamında isim sayılamaz (the novelty of...). Yeni ilgi çeken şey veya küçük eşya anlamında sayılabilir (novelties).",
+  "note": ""
+ },
+ {
+  "id": "dip",
+  "senses": [
+   "suya batırmak; daldırmak",
+   "hafifçe düşmek; azalmak",
+   "kısa yüzüş; düşüş"
+  ],
+  "ex": [
+   "Çilekleri tabaklara koymadan önce çikolataya batırın.",
+   "Gece sıcaklıklar düşebilir; bu da yalıtımı yetersiz evlerde ısıtma talebini artırır."
+  ],
+  "col": [
+   "suya batırmak",
+   "satışlarda düşüş",
+   "kısa bir yüzüş yapmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç 'dipped', ing hâli 'dipping' olur. 'dip in sales' satışlardaki kısa süreli düşüşü anlatır.",
+  "note": ""
+ }
+]

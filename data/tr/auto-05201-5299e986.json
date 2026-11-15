@@ -1,0 +1,281 @@
+[
+ {
+  "id": "mode",
+  "senses": [
+   "yöntem; tarz",
+   "mod; çalışma modu"
+  ],
+  "ex": [
+   "Telefonumu yemekten önce sessiz moda aldım.",
+   "Bisiklet, kentlerde halk sağlığını da iyileştirebilen, çevre dostu bir ulaşım yöntemidir."
+  ],
+  "col": [
+   "ulaşım yöntemi",
+   "iletişim yöntemi",
+   "sessiz mod",
+   "uyku modu"
+  ],
+  "tip": "Bir cihazın içinde bulunduğu durum için \"in ... mode\" kalıbı kullanılır; \"mode of\" ise yöntemi belirtir.",
+  "note": ""
+ },
+ {
+  "id": "summarize",
+  "senses": [
+   "özetlemek"
+  ],
+  "ex": [
+   "Tartışmadan önce hikâyeyi bir özetleyebilir misin?",
+   "Öğrenciler, kaynaklarındaki her ayrıntıyı tekrarlamak yerine araştırma bulgularını doğru biçimde özetlemeyi öğrenmelidir."
+  ],
+  "col": [
+   "bulguları özetlemek",
+   "ana noktaları özetlemek",
+   "bir savı özetlemek"
+  ],
+  "tip": "İngiliz İngilizcesinde \"summarise\" da yazılır. Özet, ana noktaları kısaca aktarmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "neutral",
+  "senses": [
+   "tarafsız",
+   "nötr; sade",
+   "boş vites"
+  ],
+  "ex": [
+   "Arkadaşlarım kurallar hakkında tartışırken ben tarafsız kaldım.",
+   "Gazeteciler, izleyicilerin kendi görüşlerini oluşturabilmesi için siyasi tartışmaları haberleştirirken tarafsız kalmalıdır."
+  ],
+  "col": [
+   "tarafsız kalmak",
+   "tarafsız bir gözlemci",
+   "nötr renkler",
+   "boşta; boş vitese takılı"
+  ],
+  "tip": "\"Remain neutral\" tarafsız kalmak demektir. Araç için \"in neutral\" boş vites anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "primarily",
+  "senses": [
+   "esas olarak; başlıca"
+  ],
+  "ex": [
+   "Tabletimi esas olarak kitap okumak için kullanıyorum.",
+   "Toplu taşıma politikaları, yalnızca bilet fiyatlarını düşürmek yerine öncelikle güvenilirliği artırmaya odaklanmalıdır."
+  ],
+  "col": [
+   "öncelikle sorumlu",
+   "esas olarak ilgilenen",
+   "esas olarak ... nedeniyle"
+  ],
+  "tip": "\"Primarily\" \"başlıca, esas olarak\" anlamına gelir; \"ilk olarak\" sıralamasını göstermez.",
+  "note": ""
+ },
+ {
+  "id": "anthem",
+  "senses": [
+   "milli marş",
+   "ilahi; koro şarkısı"
+  ],
+  "ex": [
+   "Milli marş çalmaya başladığında kalabalık gururla ayağa kalktı.",
+   "Uluslararası spor etkinliklerinde milli marş söylemek ortak kimlik duygusunu güçlendirebilir."
+  ],
+  "col": [
+   "milli marş",
+   "marş söylemek",
+   "milli marş çalar"
+  ],
+  "tip": "\"National anthem\" milli marşı anlatır. Dini bağlamda ise koro tarafından söylenen ilahi anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "crow",
+  "senses": [
+   "karga",
+   "ötmek (horoz)",
+   "böbürlenmek"
+  ],
+  "ex": [
+   "Bir karga bahçemizin yanındaki çite kondu.",
+   "Karga davranışları üzerine yapılan çalışmalar, bazı kuşların karmaşık sorunları çözebildiğini ve basit aletler kullanabildiğini gösteriyor."
+  ],
+  "col": [
+   "bir sürü karga",
+   "horoz öter",
+   "bir zaferle böbürlenmek"
+  ],
+  "tip": "İsim olarak \"karga\", fiil olarak ise horozun ötmesi anlamına gelebilir. Mecazi olarak kendini övmek de anlatır.",
+  "note": ""
+ },
+ {
+  "id": "appendix",
+  "senses": [
+   "ek; ek bölüm",
+   "apandisit; körbağırsak"
+  ],
+  "ex": [
+   "Tam tarifi ekte bulabilirsin.",
+   "Rapor, araştırmacıların anket verilerini nasıl topladıklarını ve analiz ettiklerini açıklayan bir ek bölüm içeriyor."
+  ],
+  "col": [
+   "ekte",
+   "bir rapora ek",
+   "patlamış apandisit"
+  ],
+  "tip": "Kitap ekleri için \"appendix\" çoğulu \"appendices\", tıbbi anlamda \"appendixes\" kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "counselor",
+  "senses": [
+   "psikolojik danışman; rehber",
+   "danışman",
+   "avukat (ABD)"
+  ],
+  "ex": [
+   "Okul rehber öğretmenim sınav kaygılarımı yönetmeme yardımcı oldu.",
+   "Eğitimli bir psikolojik danışman görevlendirmek, okulların duygusal zorluk yaşayan veya zor aile koşullarıyla karşılaşan öğrencilere destek olmasını sağlayabilir."
+  ],
+  "col": [
+   "okul psikolojik danışmanı",
+   "ruh sağlığı danışmanı",
+   "kariyer danışmanı"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımında \"counsellor\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "being",
+  "senses": [
+   "varlık; canlı",
+   "varoluş; öz"
+  ],
+  "ex": [
+   "Bu havuzdaki her canlının temiz suya ihtiyacı var.",
+   "Her insana saygı, kamu hizmetlerinin ve sosyal refah politikalarının gelişimine yön vermelidir."
+  ],
+  "col": [
+   "insan",
+   "canlı varlık",
+   "var olmak"
+  ],
+  "tip": "Canlı anlamında sayılabilir; \"varoluş\" anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "westward",
+  "senses": [
+   "batıya doğru",
+   "batıya doğru olan"
+  ],
+  "ex": [
+   "Güneş batmaya başlarken batıya doğru sürdük.",
+   "Şehrin batıya doğru genişlemesi tarım arazileri üzerindeki baskıyı artırdı ve yeni altyapı ihtiyacı doğurdu."
+  ],
+  "col": [
+   "batıya doğru seyahat etmek",
+   "batıya doğru genişleme",
+   "batıya doğru göç"
+  ],
+  "tip": "\"Westward\" hem zarf hem sıfat olarak kullanılır; \"westwards\" yalnızca zarftır.",
+  "note": ""
+ },
+ {
+  "id": "preserve",
+  "senses": [
+   "korumak; saklamak",
+   "konserve etmek; saklamak",
+   "koruma alanı"
+  ],
+  "ex": [
+   "Eski aile fotoğraflarını özel bir albümde saklıyoruz.",
+   "Yerel yönetimler, tarihi binaları modern toplulukların ihtiyaçlarına uyarlarken korumalıdır."
+  ],
+  "col": [
+   "kültürel mirası korumak",
+   "biyolojik çeşitliliği korumak",
+   "yiyeceği saklamak"
+  ],
+  "tip": "\"Preserve\" özgün hâli koruma anlamını vurgular; gıdaları uzun süre bozulmadan tutmak için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "assess",
+  "senses": [
+   "değerlendirmek",
+   "değer biçmek; tahakkuk ettirmek"
+  ],
+  "ex": [
+   "Tamirci bisikletimi onarmadan önce hasarı değerlendirdi.",
+   "Okullar öğrencileri yalnızca final sınavlarına dayanarak değil, çeşitli görevlerle değerlendirmelidir."
+  ],
+  "col": [
+   "etkiyi değerlendirmek",
+   "riski değerlendirmek",
+   "performansı değerlendirmek",
+   "hasarı tespit etmek"
+  ],
+  "tip": "\"Assess\" nesnesini doğrudan alır; isim hâli \"assessment\" olur.",
+  "note": ""
+ },
+ {
+  "id": "cork",
+  "senses": [
+   "mantar (kabuk)",
+   "mantar tıpa",
+   "mantar tıpayla kapatmak"
+  ],
+  "ex": [
+   "Mantar tıpa patlayarak masanın altına yuvarlandı.",
+   "Mantar, tüm ağacı kesmeden hasat edilebilen yenilenebilir bir malzemedir."
+  ],
+  "col": [
+   "mantar tıpa",
+   "mantar zemin",
+   "mantarı çıkarmak"
+  ],
+  "tip": "Malzeme anlamında sayılamaz; tıpa anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "composition",
+  "senses": [
+   "bileşim; yapı",
+   "kompozisyon; beste",
+   "besteleme; yazma"
+  ],
+  "ex": [
+   "Bahçemizdeki toprağın bileşimini test ettik.",
+   "Evsel atıkların bileşimindeki değişimler, tüketici alışkanlıklarının zamanla nasıl geliştiğini ortaya koyabilir."
+  ],
+  "col": [
+   "kimyasal bileşim",
+   "toprak bileşimi",
+   "müzik eseri",
+   "kompozisyon yazmak"
+  ],
+  "tip": "Yapı ve üretim süreci genellikle sayılamaz; yazılmış veya bestelenmiş eser sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "extensive",
+  "senses": [
+   "kapsamlı; geniş",
+   "geniş alana yayılmış"
+  ],
+  "ex": [
+   "Fırtına çatımızda kapsamlı hasara yol açtı.",
+   "Hükümetler ulusal eğitim sisteminde büyük değişiklikler yapmadan önce kapsamlı araştırmalara ihtiyaç duyar."
+  ],
+  "col": [
+   "kapsamlı araştırma",
+   "büyük hasar",
+   "geniş deneyim",
+   "geniş ağ"
+  ],
+  "tip": "Kapsam ya da miktarın geniş olduğunu vurgular; \"intensive\" ise yoğunluk ve şiddeti anlatır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,281 @@
+[
+ {
+  "id": "proportion",
+  "senses": [
+   "oran; pay",
+   "orantı; uygunluk"
+  ],
+  "ex": [
+   "Kiramın büyük bir kısmı kiraya gidiyor.",
+   "Şehir daha ucuz aylık kartlar çıkardıktan sonra toplu taşımayı kullanan sakinlerin oranı arttı."
+  ],
+  "col": [
+   "büyük bir kısmı",
+   "ile orantılı olarak",
+   "orantısız; abartılı"
+  ],
+  "tip": "'a proportion of' kalıbında fiil, 'of'dan sonraki isme göre tekil ya da çoğul olur. Bu ismin öznesi 'proportion' değil, 'of'dan sonraki isimdir.",
+  "note": ""
+ },
+ {
+  "id": "sniff",
+  "senses": [
+   "koklamak; burnunu çekmek",
+   "burun çekme; koklama",
+   "burun kıvırmak; küçümsemek"
+  ],
+  "ex": [
+   "Köpek yavrusu, beni içeri almadan önce ayakkabılarımı kokladı.",
+   "Eğitilmiş köpekler belirli maddeleri koklayarak bulabilir; bu da onları yaban hayatını koruma projelerinde değerli yardımcılar yapar."
+  ],
+  "col": [
+   "havayı koklamak",
+   "koklayarak bulmak",
+   "burun kıvırmak; hor görmek"
+  ],
+  "tip": "'sniff at' olumsuz bir tutumu, 'sniff out' ise koklayarak bir şeyi bulmayı anlatır. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "faithfully",
+  "senses": [
+   "sadakatle; bağlılıkla",
+   "olduğu gibi; doğru biçimde"
+  ],
+  "ex": [
+   "Köpeğimiz her akşam kapının yanında sadakatle bizi bekledi.",
+   "Müze restoratörleri, mümkün olduğunca özgün malzemeyi koruyarak tarihi renkleri olabildiğince doğru biçimde yeniden üretmeyi hedefler."
+  ],
+  "col": [
+   "sadakatle hizmet etmek",
+   "doğru biçimde yeniden üretmek",
+   "Saygılarımla"
+  ],
+  "tip": "'Yours faithfully' İngiliz resmî mektuplarında alıcının adı bilinmediğinde kullanılır. Adı biliniyorsa 'Yours sincerely' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "furnish",
+  "senses": [
+   "döşemek; eşya koymak",
+   "sağlamak; temin etmek"
+  ],
+  "ex": [
+   "Dairemizi ikinci el masa ve sandalyelerle döşedik.",
+   "Başvuranlar, başvurularının değerlendirilebilmesi için niteliklerine dair kanıtları üniversiteye sunmalıdır."
+  ],
+  "col": [
+   "dairesini döşemek",
+   "birine kanıt sağlamak",
+   "eşyalı; donanımlı"
+  ],
+  "tip": "'furnish A with B' kalıbında B, A'ya sağlanan şeydir. Bu anlam resmî bir kullanımdır; günlük dilde 'provide' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "farewell",
+  "senses": [
+   "veda; ayrılık",
+   "hoşça kal; güle güle",
+   "veda niteliğinde; uğurlama"
+  ],
+  "ex": [
+   "Son bir veda için istasyonda bir araya geldik.",
+   "Veda töreni, mezun öğrencilerin başarılarını gözden geçirmelerine ve gelecekteki zorluklara hazırlanmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "veda partisi",
+   "birine veda etmek",
+   "içten bir veda"
+  ],
+  "tip": "'goodbye'a göre daha resmî ve duygusaldır. Uzun süreli ayrılıklarda veya ciddi vedalarda kullanılır; günlük konuşmada 'bye' yeterlidir.",
+  "note": ""
+ },
+ {
+  "id": "glitter",
+  "senses": [
+   "parıldamak; ışıldamak",
+   "simli süs; pul",
+   "parıltı; görkem"
+  ],
+  "ex": [
+   "Dışarıdaki yapraklarda küçük su damlaları parıldıyor.",
+   "Şehir silüetleri geceleri ışıl ışıl görünse de aşırı yapay aydınlatma yaban hayatını bozabilir ve enerji israfına yol açabilir."
+  ],
+  "col": [
+   "güneş ışığında parıldamak",
+   "altın rengi simler",
+   "şöhretin parıltısı"
+  ],
+  "tip": "Fiil olarak 'parıldamak' anlamındadır. 'Simli süs' anlamında genellikle sayılamayan bir isimdir, bu yüzden önüne 'a' getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "flock",
+  "senses": [
+   "sürü; küme",
+   "akın etmek; toplanmak"
+  ],
+  "ex": [
+   "Sessiz gölün kenarına bir kaz sürüsü kondu.",
+   "Ziyaretçiler yaz aylarında kıyı kasabalarına akın eder; bu gelir getirse de yerel altyapı üzerinde baskı oluşturur."
+  ],
+  "col": [
+   "bir koyun sürüsü",
+   "bir kuş sürüsü",
+   "akın etmek",
+   "bir araya toplanmak"
+  ],
+  "tip": "Kuş ve koyun sürüsü için 'flock', sığır sürüsü için genellikle 'herd' kullanılır. Yer belirten 'to' ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "generator",
+  "senses": [
+   "jeneratör; elektrik üreteci",
+   "üreteç; oluşturucu"
+  ],
+  "ex": [
+   "Fırtına sırasında jeneratör ışıklarımızı açık tuttu.",
+   "Uzak topluluklar genellikle dizel jeneratörlere bağlıdır; ancak yenilenebilir enerji sistemleri yakıt maliyetlerini düşürebilir."
+  ],
+  "col": [
+   "yedek jeneratör",
+   "dizel jeneratör",
+   "rastgele sayı üreteci"
+  ],
+  "tip": "'generate' fiilinden -or eki ile türemiştir. Hem bir makineyi hem de bir şey üreten yazılım veya düzeneği ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "pesticide",
+  "senses": [
+   "zirai ilaç; pestisit"
+  ],
+  "ex": [
+   "Çiftçi, ürünlere ilaç püskürtürken koruyucu giysi giydi.",
+   "Aşırı pestisit kullanımı yararlı böceklere zarar verebilir ve tarım arazilerinin yakınındaki su kaynaklarını kirletebilir."
+  ],
+  "col": [
+   "pestisit kullanımı",
+   "pestisit kalıntıları",
+   "ilaç püskürtmek",
+   "pestisit kullanımını azaltmak"
+  ],
+  "tip": "'pesticide' zararlılara karşı kullanılan ilaçların genel adıdır. 'Insecticide' ise yalnızca böcek öldürücüler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hose",
+  "senses": [
+   "hortum; esnek boru",
+   "hortumla yıkamak; sulamak"
+  ],
+  "ex": [
+   "Çamurlu botlarımı yıkamak için hortumu kullandım.",
+   "Kuraklık dönemlerinde bahçe hortumu kullanımını kısıtlamak, hanelerin değerli su kaynaklarını korumasına yardımcı olabilir."
+  ],
+  "col": [
+   "bahçe hortumu",
+   "yangın hortumu",
+   "bir şeyi hortumla yıkamak"
+  ],
+  "tip": "'hose' esnek ve kıvrılabilen boruyu anlatır. 'Pipe' ise genellikle daha sert olan boru veya boru hattını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "cling",
+  "senses": [
+   "sıkıca tutunmak; sarılmak",
+   "yapışmak; sıkıca bağlanmak",
+   "bırakmamak; sarılıp kalmak"
+  ],
+  "ex": [
+   "Küçük çocuk babasının koluna sarıldı.",
+   "Bazı kuruluşlar, yeni yaklaşımlar verimliliği ve çalışan memnuniyetini artırabilecekken bile modası geçmiş uygulamalara tutunur."
+  ],
+  "col": [
+   "birine sarılmak",
+   "iktidara tutunmak",
+   "…umuduna tutunmak"
+  ],
+  "tip": "Düzensiz bir fiildir: cling – clung – clung. Genellikle 'to' edatı ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "clash",
+  "senses": [
+   "çatışma; çakışma",
+   "çakışmak; uyuşmamak",
+   "şangırtı; tokuşma sesi"
+  ],
+  "ex": [
+   "Diş randevum haftalık ekip toplantımızla çakışıyor.",
+   "Ekonomik öncelikler ile çevresel hedefler arasındaki çatışma, büyük altyapı projelerine ilişkin kararları geciktirebilir."
+  ],
+  "col": [
+   "çıkar çatışması",
+   "ile çatışmak; uyuşmamak",
+   "zamanlama çakışması",
+   "zil şakırtısı"
+  ],
+  "tip": "'clash with' zaman çakışması, görüş ayrılığı veya renk uyumsuzluğu için kullanılabilir. Bağlama göre anlamı değişir.",
+  "note": ""
+ },
+ {
+  "id": "counter",
+  "senses": [
+   "tezgâh; masa",
+   "karşı koymak; etkisini azaltmak",
+   "ters yönde; karşıt olarak"
+  ],
+  "ex": [
+   "Alışveriş çantamı mutfak tezgâhının üstünde bıraktım.",
+   "Okullar, öğrencilere çevrimiçi kaynakları eleştirel biçimde değerlendirmeyi öğreterek yanlış bilginin yayılmasına karşı koyabilir."
+  ],
+  "col": [
+   "mutfak tezgâhı",
+   "reçetesiz; tezgâhtan satılan",
+   "bir iddiaya karşı çıkmak",
+   "ile çelişmek; ters düşmek"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: 'counter an argument' ('to' kullanılmaz). 'Run counter to' ise 'ile çelişmek' anlamında sabit bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "decimal",
+  "senses": [
+   "ondalık sayı",
+   "ondalıklı; onluk sistemle ilgili"
+  ],
+  "ex": [
+   "Öğretmenimiz iki ondalık sayının nasıl çarpılacağını gösterdi.",
+   "Öğrenciler, fen ve ekonomi derslerinde istatistiksel verileri yorumlamadan önce ondalık gösterimi anlamalıdır."
+  ],
+  "col": [
+   "ondalık nokta",
+   "ondalık basamak",
+   "onluk sayı sistemi"
+  ],
+  "tip": "Bir sayıyı iki ondalık basamağa yuvarlamak için 'to two decimal places' kalıbı kullanılır. 'Decimal' isim ve sıfat olarak kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "liver",
+  "senses": [
+   "karaciğer",
+   "ciğer"
+  ],
+  "ex": [
+   "Doktor, karaciğerin bizi sağlıklı tutmadaki rolünü açıkladı.",
+   "Halk sağlığı kampanyaları, dengeli beslenmenin karaciğeri nasıl destekleyebileceğini ve hastalık riskini nasıl azaltabileceğini anlatmalıdır."
+  ],
+  "col": [
+   "karaciğer hastalığı",
+   "karaciğer işlevi",
+   "karaciğer nakli"
+  ],
+  "tip": "Organ anlamında 'the liver' biçiminde kullanılır. Yiyecek olarak ise genellikle sayılamaz; Türkçede bu anlam için 'ciğer' kullanılır.",
+  "note": ""
+ }
+]

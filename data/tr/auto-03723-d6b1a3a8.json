@@ -1,0 +1,273 @@
+[
+ {
+  "id": "horizontal",
+  "senses": [
+   "yatay; düz"
+  ],
+  "ex": [
+   "Rafı vidaları sıkarken yatay tutun.",
+   "Yatay eksen zamanı gösterir; okuyucular bu dönem boyunca istihdamdaki değişimleri karşılaştırabilir."
+  ],
+  "col": [
+   "yatay eksen",
+   "yatay çizgi",
+   "yatay konum"
+  ],
+  "tip": "horizontal (yatay) ile vertical (dikey) karşıt anlamlıdır. Yazımda 'horizantal' yanlıştır, doğrusu 'horizontal'dır.",
+  "note": ""
+ },
+ {
+  "id": "strategy",
+  "senses": [
+   "strateji; plan"
+  ],
+  "ex": [
+   "Stratejimiz her hafta biraz para biriktirmekti.",
+   "Etkili bir ulaşım stratejisi, özel araç bağımlılığını azaltırken kamu hizmetlerini iyileştirmelidir."
+  ],
+  "col": [
+   "strateji geliştirmek",
+   "bir stratejiyi uygulamak",
+   "uzun vadeli strateji",
+   "büyüme stratejisi"
+  ],
+  "tip": "'Ne için strateji' anlamında a strategy for + -ing kalıbı kullanılır: a strategy for saving money.",
+  "note": ""
+ },
+ {
+  "id": "motor",
+  "senses": [
+   "motor",
+   "motorlu",
+   "motorik"
+  ],
+  "ex": [
+   "Vantilatörün motoru çok ısındığı için durdu.",
+   "Çizim yapmak ve blokla inşa etmek gibi etkinlikler küçük çocukların ince motor becerilerini geliştirmesine yardımcı olur."
+  ],
+  "col": [
+   "elektrik motoru",
+   "motorlu araçlar",
+   "motorlu taşıt sektörü",
+   "ince motor becerileri"
+  ],
+  "tip": "fine motor skills 'ince motor beceriler' anlamındadır; vücut hareketleriyle ilgilidir, araçla bir ilgisi yoktur.",
+  "note": ""
+ },
+ {
+  "id": "wander",
+  "senses": [
+   "dolaşmak; gezinmek",
+   "dalmak; konudan sapmak"
+  ],
+  "ex": [
+   "Pazarda dolaştık ve biraz şeftali aldık.",
+   "Popüler turistik bölgelerin dışına çıkıp dolaşan ziyaretçiler, ek harcamalardan yararlanan yerel işletmeleri sıklıkla keşfeder."
+  ],
+  "col": [
+   "etrafta dolaşmak",
+   "uzaklaşmak; ayrılmak",
+   "aklını dağıtmak",
+   "konudan sapmak"
+  ],
+  "tip": "wander (dolaşmak) ile wonder (merak etmek) harf benzerliği nedeniyle karıştırılabilir; yazımına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "splash",
+  "senses": [
+   "sıçratmak; dökülmek",
+   "su sıçraması; sıçrama sesi",
+   "bir damla; renk lekesi"
+  ],
+  "ex": [
+   "Köpek pantolonuma her yerden su sıçrattı.",
+   "Su baskını olan sokaklardan geçen araçlar, yayaların üzerine kirli su sıçratabilir ve yakındaki dükkân vitrinlerine zarar verebilir."
+  ],
+  "col": [
+   "üzerine su sıçratmak",
+   "bir renk lekesi",
+   "dikkat çekmek",
+   "bolca para harcamak"
+  ],
+  "tip": "splash out on gündelik İngiliz İngilizcesinde kullanılır ve bir şeye bolca para harcamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "extinction",
+  "senses": [
+   "yok olma; soyu tükenme"
+  ],
+  "ex": [
+   "Ormanları yok olursa bu nadir kuşlar soyu tükenme tehlikesiyle karşı karşıya kalır.",
+   "Yoğun tarım ve kentsel genişleme yüzünden tehdit altındaki türlerin yok olmasını önlemek için doğal yaşam alanlarını korumak şarttır."
+  ],
+  "col": [
+   "yok olma tehlikesiyle karşılaşmak",
+   "yok olmanın eşiğinde",
+   "kitlesel yok oluş",
+   "yok olmayı önlemek"
+  ],
+  "tip": "extinct sıfattır (soyu tükenmiş); extinction isimdir ve genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "baggy",
+  "senses": [
+   "bol; salaş"
+  ],
+  "ex": [
+   "Bu bol pantolon uzun tren yolculuklarında çok rahat.",
+   "Bazı genç insanlar geleneksel beklentilere uymak yerine kimliklerini ifade etmek için bol kıyafetleri tercih ediyor."
+  ],
+  "col": [
+   "bol pantolon",
+   "bol kot pantolon",
+   "bol kazak"
+  ],
+  "tip": "baggy genellikle vücuda oturmayan, bol ve sarkan giysiler için kullanılır; çanta anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "violent",
+  "senses": [
+   "şiddet içeren; saldırgan",
+   "şiddetli; sert"
+  ],
+  "ex": [
+   "Şiddetli bir fırtına gece boyunca pencereleri sarstı.",
+   "Çocukların şiddet içeren içeriklere maruz kalmasını azaltmak, ebeveynler ve eğitimciler arasında yaygın bir kaygıdır."
+  ],
+  "col": [
+   "şiddet içeren davranış",
+   "şiddet suçu",
+   "şiddetli fırtına"
+  ],
+  "tip": "violent hem insan davranışı hem de doğa olayları için kullanılabilir. İsim hali violence'tır.",
+  "note": ""
+ },
+ {
+  "id": "confidential",
+  "senses": [
+   "gizli; özel"
+  ],
+  "ex": [
+   "Ailemle konuşana kadar bunu lütfen gizli tut.",
+   "Hastaneler, sağlık sistemine duyulan kamu güveni için hasta bilgilerini gizli tutmak zorundadır."
+  ],
+  "col": [
+   "gizli bilgi",
+   "bir şeyi gizli tutmak",
+   "kesinlikle gizli"
+  ],
+  "tip": "confidential (gizli) ile confident (kendine güvenen) karıştırılmamalı; ikisinin anlamı çok farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "priority",
+  "senses": [
+   "öncelik; öncelikli şey",
+   "öncelik hakkı; ayrıcalık"
+  ],
+  "ex": [
+   "Şu anda sıcak bir ev bulmak en önemli önceliğimiz.",
+   "Hükümetler, mevcut hastalıkları tedavi etmeye odaklanmak yerine koruyucu sağlık hizmetlerine öncelik vermelidir."
+  ],
+  "col": [
+   "en önemli öncelik",
+   "öncelik vermek",
+   "öncelikli olmak",
+   "öncelikleri belirlemek"
+  ],
+  "tip": "give priority to kalıbında to'dan sonra isim ya da -ing gelir: give priority to planning.",
+  "note": ""
+ },
+ {
+  "id": "marble",
+  "senses": [
+   "mermer",
+   "bilye"
+  ],
+  "ex": [
+   "Serin mermer zemin ayaklarımın altında pürüzsüz hissettirdi.",
+   "Mermer kamu binalarının görünümünü güzelleştirse de çıkarılması çevredeki manzaraya ve yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "mermer zemin",
+   "mermer heykel",
+   "bilye oynamak"
+  ],
+  "tip": "Mermer (taş) anlamında sayılamaz; bilye anlamında sayılabilir: a marble, two marbles.",
+  "note": ""
+ },
+ {
+  "id": "bravery",
+  "senses": [
+   "cesaret; yiğitlik"
+  ],
+  "ex": [
+   "Küçük kız ilk iğnesi sırasında cesaret gösterdi.",
+   "Acil durum çalışanları, doğal afetlerden sonra insanları kurtarmak için tehlikeli bölgelere girerken dikkat çekici bir cesaret gösterir."
+  ],
+  "col": [
+   "cesaret göstermek",
+   "dikkat çekici cesaret",
+   "cesur bir eylem"
+  ],
+  "tip": "bravery sayılamaz; tek bir cesur davranış için an act of bravery kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "component",
+  "senses": [
+   "parça; bileşen",
+   "bileşen olan"
+  ],
+  "ex": [
+   "Teknisyen dizüstü bilgisayarımın içindeki bozuk parçayı değiştirdi.",
+   "Güvenilir toplu taşıma, trafik sıkışıklığını azaltmayı hedefleyen kentsel planlamanın önemli bir bileşenidir."
+  ],
+  "col": [
+   "önemli bir bileşen",
+   "elektronik parçalar",
+   "yedek parçalar"
+  ],
+  "tip": "a component of kalıbı '...in bir parçası/bileşeni' anlamına gelir: a component of the system.",
+  "note": ""
+ },
+ {
+  "id": "eve",
+  "senses": [
+   "arife; önceki gün",
+   "Havva"
+  ],
+  "ex": [
+   "Yılbaşı gecesinde birlikte özel bir akşam yemeği hazırladık.",
+   "Yılbaşı gecesinde şehirler, kalabalıkların güvenle eve dönebilmesi için genellikle toplu taşıma hizmetlerini uzatır."
+  ],
+  "col": [
+   "Yılbaşı gecesi",
+   "Noel arifesi",
+   "bir şeyin arifesinde"
+  ],
+  "tip": "Türkçedeki 'eve' (eve doğru) ile karışmamalı. Arife anlamında eve küçük harfle, bayram adlarında Eve/Christmas Eve gibi büyük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "formerly",
+  "senses": [
+   "eskiden; önceden"
+  ],
+  "ex": [
+   "Bu aydınlık kafe eskiden küçük bir bisiklet dükkânıydı.",
+   "Eskiden imalat için kullanılan binalar, ayırt edici mimari özellikleri korunarak uygun fiyatlı konutlara dönüştürülebilir."
+  ],
+  "col": [
+   "eskiden ... olarak bilinen",
+   "eskiden ... e ait olan",
+   "eskiden ... için kullanılan"
+  ],
+  "tip": "formerly 'eskiden' anlamına gelir; formally ise 'resmi olarak' demektir, bu ikisi karıştırılmamalı.",
+  "note": ""
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "id": "statistical",
+  "senses": [
+   "istatistiksel"
+  ],
+  "ex": [
+   "Anket sonuçlarını karşılaştırmak için istatistiksel bir yazılım kullandı.",
+   "Güvenilir istatistiksel kanıtlar, hükümetlerin daha iyi sağlık hizmetine ihtiyacı olan toplulukları belirlemesine yardımcı olur."
+  ],
+  "col": [
+   "istatistiksel analiz",
+   "istatistiksel veri",
+   "istatistiksel anlamlılık"
+  ],
+  "tip": "Bu kelime 'önemli, dikkate değer' anlamına gelmez; yalnızca sayısal verilerle ilgilidir. 'Önemli' anlamı için significant kullanın.",
+  "note": ""
+ },
+ {
+  "id": "capable",
+  "senses": [
+   "muktedir; yapabilen",
+   "yetenekli; becerikli"
+  ],
+  "ex": [
+   "Bu küçük yazıcı mükemmel renkli fotoğraflar basabiliyor.",
+   "Uygun eğitim ve destekle genç çalışanlar, bir kurum içinde önemli sorumlulukları üstlenebilecek niteliktedir."
+  ],
+  "col": [
+   "bir şeyi yapabilmek",
+   "son derece yetenekli",
+   "yetenekli bir lider"
+  ],
+  "tip": "'-ebilmek' anlamında capable of doing kalıbı kullanılır; 'capable to do' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "corresponding",
+  "senses": [
+   "karşılık gelen; uygun"
+  ],
+  "ex": [
+   "Her renkli kapağı kendi karşılık gelen kabının üzerine koyun.",
+   "Kentsel nüfustaki artış çoğu zaman toplu taşıma talebinde buna karşılık gelen bir artışa yol açar."
+  ],
+  "col": [
+   "karşılık gelen artış",
+   "ilgili dönem",
+   "karşılık gelen rakamlar"
+  ],
+  "tip": "Vurgu birbiriyle eşleşen ya da uyumlu olan öğeler üzerinedir; 'correspond to' bir şeye karşılık gelmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "commentary",
+  "senses": [
+   "canlı anlatım; spiker yorumu",
+   "yorum; değerlendirme"
+  ],
+  "ex": [
+   "Yemek pişirirken futbol maçının canlı yorumunu dinledik.",
+   "Siyasi yorumlar, vatandaşların karmaşık politikaları anlamasına yardımcı olabilir; ancak bunlar olgusal haberlerden açıkça ayrılmalıdır."
+  ],
+  "col": [
+   "canlı yorum",
+   "kesintisiz yorum",
+   "siyasi yorum",
+   "üzerine yorum"
+  ],
+  "tip": "Tek bir görüşten çok sürekli anlatım ya da ayrıntılı değerlendirmeyi ifade eder; tek bir yorum için comment daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "eager",
+  "senses": [
+   "hevesli; istekli"
+  ],
+  "ex": [
+   "Çocuklar hediyelerini açmak için sabırsızlanıyordu.",
+   "Birçok mezun, belirli bir kariyer yoluna bağlanmadan önce pratik deneyim kazanmaya hevesli."
+  ],
+  "col": [
+   "öğrenmeye hevesli",
+   "başarı için can atan",
+   "heyecanlı beklenti"
+  ],
+  "tip": "eager to do (bir şeyi yapmaya hevesli) ya da eager for + isim kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "garment",
+  "senses": [
+   "giysi; kıyafet"
+  ],
+  "ex": [
+   "Bu narin giysinin elde yıkanması gerekiyor.",
+   "Konfeksiyon sektöründe çalışma koşullarını iyileştirmek; üreticiler, perakendeciler ve ulusal hükümetler arasında iş birliği gerektiriyor."
+  ],
+  "col": [
+   "yün bir giysi",
+   "konfeksiyon sektörü",
+   "konfeksiyon işçileri"
+  ],
+  "tip": "Tek bir giysi parçası için kullanılan sayılabilir bir isimdir; genel 'giyim' için clothing tercih edilir ve genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "delicate",
+  "senses": [
+   "kırılgan; narin",
+   "hassas; incelikli",
+   "hafif; zarif"
+  ],
+  "ex": [
+   "Lütfen bu narin cam kaseleri yumuşak kağıda sarın.",
+   "Kıyı bölgelerindeki turizm, hassas ekosistemleri kalıcı zarardan korumak için dikkatle yönetilmelidir."
+  ],
+  "col": [
+   "hassas denge",
+   "narin kumaş",
+   "ince bir tat",
+   "hassas görüşmeler"
+  ],
+  "tip": "Eşyalar için kırılgan, durumlar için hassas anlamına gelir; aynı sıfat her iki bağlamda da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "hell",
+  "senses": [
+   "cehennem",
+   "çekilmez durum; cehennem"
+  ],
+  "ex": [
+   "Eski tabloda cehennemden yükselen alevler gösteriliyordu.",
+   "Sürekli inşaat gürültüsüne maruz kalan sakinler için etkili düzenlemeler uygulanmazsa günlük hayat çekilmez bir hâle gelebilir."
+  ],
+  "col": [
+   "çok zor bir dönem yaşamak",
+   "birinin hayatını cehenneme çevirmek",
+   "yaşayan cehennem"
+  ],
+  "tip": "Mecaz anlamda çok sert bir ifadedir; küfür ya da vurgu olarak kullanıldığında dinleyenleri rahatsız edebilir.",
+  "note": ""
+ },
+ {
+  "id": "modernize",
+  "senses": [
+   "modernleştirmek; yenilemek"
+  ],
+  "ex": [
+   "Mutfağımızı yeni ev aletleriyle modernleştirmeyi planlıyoruz.",
+   "Hükümetler, güvenilirliği artırmak ve özel araçlara bağımlılığı azaltmak için demiryolu altyapısını modernize etmelidir."
+  ],
+  "col": [
+   "altyapıyı modernleştirmek",
+   "ekonomiyi modernleştirmek",
+   "üretimi modernleştirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde modernise biçimi de kullanılır. Geçişli bir fiildir; modernize the economy gibi bir nesneyle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "declaration",
+  "senses": [
+   "bildiri; açıklama",
+   "beyan; beyanname"
+  ],
+  "ex": [
+   "Ailesinin tamamı, istifa edeceğine dair açıklamasıyla şaşırdı.",
+   "Hükümetin iklim acil durumu ilan etmesinin ardından net politikalar ve ölçülebilir çevre hedefleri gelmelidir."
+  ],
+  "col": [
+   "ortak bildiri",
+   "bağımsızlık bildirgesi",
+   "gümrük beyannamesi",
+   "açıklama yapmak"
+  ],
+  "tip": "Fiili declare'dir. Gümrük beyanı için customs declaration kullanılır; declaration ile declare karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "diversity",
+  "senses": [
+   "çeşitlilik; farklılık"
+  ],
+  "ex": [
+   "Bahçemiz şaşırtıcı derecede çok çeşitli renkli kuşları çekiyor.",
+   "Kültürel çeşitlilik, sakinlere farklı gelenekleri, dilleri ve bakış açılarını tanıtarak kentsel yaşamı zenginleştirebilir."
+  ],
+  "col": [
+   "kültürel çeşitlilik",
+   "biyolojik çeşitlilik",
+   "çeşitliliği teşvik etmek"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. 'a diversity of' kalıbı 'çok çeşitli' anlamında kullanılır: a diversity of birds.",
+  "note": ""
+ },
+ {
+  "id": "innovation",
+  "senses": [
+   "inovasyon; yenilikçilik",
+   "yenilik; yeni buluş"
+  ],
+  "ex": [
+   "Mutfağımız yeniliğe açıktır, bu yüzden sık sık alışılmadık tarifler deneriz.",
+   "Araştırmaya yapılan kamu yatırımları inovasyonu teşvik edebilir ve işletmelerin daha sürdürülebilir üretim yöntemleri geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "teknolojik inovasyon",
+   "inovasyonu teşvik etmek",
+   "ürün yeniliği",
+   "önemli bir yenilik"
+  ],
+  "tip": "Süreç anlamında sayılamaz; somut bir yeni ürün ya da buluş için sayılabilir: a major innovation.",
+  "note": ""
+ },
+ {
+  "id": "bid",
+  "senses": [
+   "teklif vermek; ihaleye girmek",
+   "teklif; ihale başvurusu",
+   "girişim; çaba"
+  ],
+  "ex": [
+   "Eski ahşap sandalyeye yirmi sterlin teklif ettim.",
+   "Birkaç yerel şirket, şehrin ana tren istasyonu yakınına uygun fiyatlı konut yapmak için ihaleye teklif sundu."
+  ],
+  "col": [
+   "ihale için teklif vermek",
+   "teklif sunmak",
+   "en yüksek teklif",
+   "-mek amacıyla"
+  ],
+  "tip": "Fiil olarak ve isim olarak 'teklif' anlamında geçmiş zaman ve ortaç dahil üç biçim de bid'dir; 'bidded' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "doubtful",
+  "senses": [
+   "kuşkulu; emin olmayan",
+   "pek olası değil",
+   "güvenilmez; şüpheli"
+  ],
+  "ex": [
+   "İnternetten ikinci el bisiklet almak konusunda kararsızdım.",
+   "Hızla büyüyen şehirlerde trafik sıkışıklığını yalnızca yol genişletmenin çözüp çözemeyeceği şüphelidir."
+  ],
+  "col": [
+   "...konusunda kuşkulu",
+   "...olup olmadığı şüpheli",
+   "değeri şüpheli"
+  ],
+  "tip": "Kişi öznesiyle genellikle doubtful about kalıbı kullanılır; 'olup olmadığı' anlamında doubtful whether ile bir cümle gelir.",
+  "note": ""
+ },
+ {
+  "id": "distinguish",
+  "senses": [
+   "ayırt etmek",
+   "ayırmak; seçkin kılmak",
+   "seçebilmek; duyabilmek"
+  ],
+  "ex": [
+   "İkizleri seslerinden ayırt edebiliyorum.",
+   "Öğrenciler, internette bilgi değerlendirirken güvenilir kanıtı kişisel görüşten ayırt etmeyi öğrenmelidir."
+  ],
+  "col": [
+   "arasında ayırt etmek",
+   "A'yı B'den ayırmak",
+   "kendini öne çıkarmak"
+  ],
+  "tip": "Sık kullanılan kalıplar distinguish A from B ya da distinguish between A and B şeklindedir.",
+  "note": ""
+ }
+]

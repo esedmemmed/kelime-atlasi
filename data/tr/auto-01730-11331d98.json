@@ -1,0 +1,286 @@
+[
+ {
+  "id": "certain",
+  "senses": [
+   "emin",
+   "kesin; kaçınılmaz",
+   "belirli; bazı"
+  ],
+  "ex": [
+   "Anahtarlarımı mutfak masasında bıraktığıma eminim.",
+   "Belirli toplu taşıma türleri, kırsal alanlara kıyasla yoğun nüfuslu şehirlere daha uygundur."
+  ],
+  "col": [
+   "-den emin olmak",
+   "kesinlikle olacak",
+   "emin olmak; garantilemek",
+   "belirli türde"
+  ],
+  "tip": "certain of (bir şeyden emin olmak) ile certain to (kesinlikle olacak) kalıplarını karıştırmayın. Kalıptan sonra farklı yapılar gelir.",
+  "note": ""
+ },
+ {
+  "id": "department",
+  "senses": [
+   "bölüm; daire",
+   "mağaza bölümü"
+  ],
+  "ex": [
+   "Teslimat tarihi hakkında lütfen satış bölümümüze danışın.",
+   "Her üniversite bölümü, ilgili alandaki gelişmeleri yansıtması için derslerini düzenli olarak gözden geçirmelidir."
+  ],
+  "col": [
+   "satış bölümü",
+   "devlet dairesi",
+   "bölüm başkanı",
+   "büyük mağaza"
+  ],
+  "tip": "Üniversitedeki 'bölüm' için department kullanılır; fakülte için genellikle faculty ya da school tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "necklace",
+  "senses": [
+   "kolye"
+  ],
+  "ex": [
+   "Gümüş renkli, küçük bir kuşlu kolye takmıştı.",
+   "El yapımı bir kolye, yerel gelenekleri yansıtırken kırsal topluluklardaki zanaatkârlara gelir de sağlayabilir."
+  ],
+  "col": [
+   "kolye takmak",
+   "inci kolye",
+   "gümüş kolye"
+  ],
+  "tip": "Son ekteki -lace sesi /ləs/ okunur. Aynı yazılışlı lace (dantel) kelimesinin okunuşu /leɪs/ olduğu için karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "corner",
+  "senses": [
+   "köşe; dönemeç",
+   "köşeye sıkıştırmak"
+  ],
+  "ex": [
+   "Lambayı odanın köşesine koyduk.",
+   "Sokak köşelerindeki dükkânlar, günlük hizmetleri yerel sakinler için daha erişilebilir kılarak yürümeyi teşvik edebilir."
+  ],
+  "col": [
+   "sokak köşesi",
+   "yakınlarda; köşe başında",
+   "odanın köşesinde",
+   "piyasayı ele geçirmek"
+  ],
+  "tip": "Oda içindeki köşe için in the corner; sokak köşesi için genellikle at the corner ya da on the corner kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "soft",
+  "senses": [
+   "yumuşak",
+   "hafif; yumuşak",
+   "müsamahakâr; yumuşak"
+  ],
+  "ex": [
+   "Bu yumuşak battaniye soğuk akşamlarda beni sıcak tutuyor.",
+   "Yumuşak aydınlatma ve rahat mobilyalar, hastane bekleme alanlarını hastalar için daha az stresli hissettirebilir."
+  ],
+  "col": [
+   "yumuşak cilt",
+   "yumuşak ses",
+   "yumuşak aydınlatma",
+   "-e karşı müsamahakâr olmak"
+  ],
+  "tip": "soft bir sıfattır. Bir eylemi, örneğin konuşmayı nitelerken softly zarfı kullanılır: 'yumuşak yumuşak konuşmak' yerine softly speak.",
+  "note": ""
+ },
+ {
+  "id": "ordinary",
+  "senses": [
+   "sıradan; olağan"
+  ],
+  "ex": [
+   "Açana kadar sıradan bir kutu gibi görünüyordu.",
+   "Kentsel planlama, yalnızca zengin yatırımcıları çekmeye odaklanmak yerine sıradan sakinlerin ihtiyaçlarını yansıtmalıdır."
+  ],
+  "col": [
+   "sıradan insanlar",
+   "sıradan hayat",
+   "sıradan bir gün",
+   "olağanüstü; alışılmadık"
+  ],
+  "tip": "ordinary, özel bir yanı olmadığını anlatır. Ortalama anlamına gelen average ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "gun",
+  "senses": [
+   "silah; tabanca",
+   "tabanca biçiminde alet"
+  ],
+  "ex": [
+   "Eski silah, müzede cam arkasında sergileniyordu.",
+   "Sıkı silah saklama düzenlemeleri kazaları önlemeye ve yerel topluluklarda güvenliği artırmaya yardımcı olabilir."
+  ],
+  "col": [
+   "silah kontrolü",
+   "dolu silah",
+   "tutkal tabancası",
+   "boya tabancası"
+  ],
+  "tip": "gun genel olarak ateşli silahı anlatır. Tabanca biçimindeki aletler için de kullanılır, örneğin glue gun (tutkal tabancası).",
+  "note": ""
+ },
+ {
+  "id": "care",
+  "senses": [
+   "bakım; ilgi",
+   "önemsemek; umursamak",
+   "dikkat; özen"
+  ],
+  "ex": [
+   "Büyükannem yerel kliniğde mükemmel bakım görüyor.",
+   "Uygun fiyatlı çocuk bakımı, ebeveynlerin çalışmaya devam etmesini sağlarken küçük çocukların uygun ilgi görmesini de güvence altına alır."
+  ],
+  "col": [
+   "tıbbi bakım",
+   "ilgilenmek",
+   "önemsemek",
+   "dikkatle"
+  ],
+  "tip": "care about 'önemsemek, umursamak' anlamındadır; care for ise 'bakmak' ya da 'hoşlanmak' demektir. I don't care: umrumda değil.",
+  "note": ""
+ },
+ {
+  "id": "finger",
+  "senses": [
+   "parmak",
+   "parmaklamak; dokunmak"
+  ],
+  "ex": [
+   "Orta parmağında gümüş bir yüzük vardı.",
+   "Hassas parmak hareketleri gerektiren etkinlikler, küçük çocukların yazmayı öğrenmeden önce koordinasyonlarını geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "işaret parmağı",
+   "orta parmak",
+   "birini suçlamak"
+  ],
+  "tip": "finger genellikle başparmağı kapsamaz. Başparmak için thumb kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "worry",
+  "senses": [
+   "endişelenmek; kaygılanmak",
+   "endişe; kaygı"
+  ],
+  "ex": [
+   "Dışarıda kaldığında kedim için endişeleniyorum.",
+   "Birçok ebeveyn, aşırı ekran süresinin çocuklarının uykusunu ve dikkatini etkileyebileceğinden endişe duyuyor."
+  ],
+  "col": [
+   "hakkında endişelenmek",
+   "büyük bir endişe",
+   "endişeye yol açmak",
+   "mali sorunlar"
+  ],
+  "tip": "worry about bir şey hakkında kaygılanmak demektir. Kişinin durumunu anlatırken worried sıfatı kullanılır: I am worried.",
+  "note": ""
+ },
+ {
+  "id": "fashion",
+  "senses": [
+   "moda; modaya uygun",
+   "tarz; biçim",
+   "şekillendirmek; yapmak"
+  ],
+  "ex": [
+   "Kız kardeşim modayı takip eder ama pahalı kıyafetleri nadiren alır.",
+   "Moda endüstrisi, dayanıklı giysiler üreterek ve geri dönüştürülmüş malzemeler kullanarak çevresel etkisini azaltabilir."
+  ],
+  "col": [
+   "moda olan",
+   "modası geçmiş",
+   "moda endüstrisi",
+   "benzer bir şekilde"
+  ],
+  "tip": "Yöntem anlamında in a ... fashion kalıbı daha resmi bir dildir. in a similar fashion: benzer bir biçimde.",
+  "note": ""
+ },
+ {
+  "id": "ship",
+  "senses": [
+   "gemi",
+   "göndermek; taşımak"
+  ],
+  "ex": [
+   "Sakin limana doğru süzülen dev bir gemi izledik.",
+   "Birçok ülke tarımsal ürünlerini yurt dışına gönderiyor; bu yüzden güvenilir ulaşım ağları ekonomik büyüme için şarttır."
+  ],
+  "col": [
+   "yük gemisi",
+   "yolcu gemisi",
+   "malları göndermek",
+   "gemide"
+  ],
+  "tip": "ship fiili yalnızca deniz yoluyla taşımayı değil, kara ya da hava yoluyla taşımayı da anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "slipper",
+  "senses": [
+   "terlik"
+  ],
+  "ex": [
+   "Kayıp terliğimi kanepenin altında buldum.",
+   "Ortak konaklama yerlerinde terlik sağlamak konforu artırabilir; yine de iyi hijyen için düzenli temizlik şarttır."
+  ],
+  "col": [
+   "bir çift terlik",
+   "terliğini giy",
+   "ev terliği"
+  ],
+  "tip": "Genellikle çoğul slippers kullanılır ve 'bir çift' ifadesiyle a pair of slippers olarak söylenir. Plaj terliği için flip-flops denir.",
+  "note": ""
+ },
+ {
+  "id": "badly",
+  "senses": [
+   "kötü; beceriksizce",
+   "ağır; ciddi şekilde",
+   "çok; şiddetle"
+  ],
+  "ex": [
+   "Oda çok sıcak olduğu için kötü uyudum.",
+   "Bakımsız yollar, okullara, hastanelere ve pazarlara erişimi sınırlayarak kırsal toplulukları ciddi biçimde etkileyebilir."
+  ],
+  "col": [
+   "kötü performans göstermek",
+   "ağır hasar görmüş",
+   "çok ihtiyaç duyulan"
+  ],
+  "tip": "Sıfat bad, zarf badly'dir. 'Kötü hissediyorum' için I feel bad denir; I feel badly ise standart dışı sayılır.",
+  "note": ""
+ },
+ {
+  "id": "count",
+  "senses": [
+   "saymak",
+   "önemli olmak",
+   "sayım; toplam"
+  ],
+  "ex": [
+   "Misafirlerimiz gelmeden önce lütfen tabakları say.",
+   "Eğitimsel başarı değerlendirilirken öğrencilerin özgüveni ve yaratıcılığı sınav sonuçları kadar önemli sayılmalıdır."
+  ],
+  "col": [
+   "sayıp toplamak",
+   "saymayı unutmak",
+   "birine güvenmek",
+   "her dakika önemlidir"
+  ],
+  "tip": "count on birine güvenmek, ona bel bağlamak demektir. 'Önemli olmak' anlamında count genellikle nesne almaz.",
+  "note": ""
+ }
+]

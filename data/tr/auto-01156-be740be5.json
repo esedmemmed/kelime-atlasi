@@ -1,0 +1,276 @@
+[
+ {
+  "id": "left-hand",
+  "senses": [
+   "sol taraftaki"
+  ],
+  "ex": [
+   "Biletini ceketinin sol cebinde sakla.",
+   "Bisikletlileri sol şeritteki araçlardan ayırmak, bu yoğun yolu herkes için daha güvenli hâle getirebilir."
+  ],
+  "col": [
+   "sol taraf",
+   "sol köşe",
+   "sol şerit"
+  ],
+  "tip": "left-hand sol tarafı anlatır; solak kişi için left-handed kullanılır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "pocket",
+  "senses": [
+   "cep",
+   "cebe koymak; çalmak",
+   "cep boyutunda"
+  ],
+  "ex": [
+   "Kayıp anahtarımı mont cebimde buldum.",
+   "Cep sözlükleri, internete erişim olmadığında ya da güvenilmez olduğunda dil öğrenenler için hâlâ yararlıdır."
+  ],
+  "col": [
+   "mont cebi",
+   "harçlık",
+   "cepten ödemek; zararda",
+   "cep sözlüğü"
+  ],
+  "tip": "pocket isim olarak cep, fiil olarak cebe koymak demektir. Sıfat olarak küçük boyutlu eşyaları tarif eder.",
+  "note": ""
+ },
+ {
+  "id": "total",
+  "senses": [
+   "toplam; tam",
+   "toplam",
+   "toplam tutmak; toplamak"
+  ],
+  "ex": [
+   "Toplam maliyete kahvaltı ve otobüs bileti dahildir.",
+   "Evlerin yalıtımını iyileştirmek, konutları yıl boyunca daha konforlu kılarken toplam enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "toplam maliyet",
+   "toplamda",
+   "toplam tutarında",
+   "toplam enerji tüketimi"
+  ],
+  "tip": "in total toplamda anlamına gelir; totally ise tamamen demektir. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "soldier",
+  "senses": [
+   "asker"
+  ],
+  "ex": [
+   "Asker, sel basmış yoldan malzemeleri taşımaya yardım etti.",
+   "Büyük doğal afetlerden sonra askerler gıda dağıtarak ve sakinleri kurtararak acil durum ekiplerine destek olabilir."
+  ],
+  "col": [
+   "asker olarak görev yapmak",
+   "profesyonel asker",
+   "askerleri eğitmek"
+  ],
+  "tip": "soldier genellikle kara kuvvetlerindeki askeri anlatır. Denizci ve pilot için farklı kelimeler kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "biscuit",
+  "senses": [
+   "bisküvi; kurabiye",
+   "mayasız küçük ekmek"
+  ],
+  "ex": [
+   "Kadın sıcak çayına bir bisküvi batırdı.",
+   "Şekerli bisküvileri taze meyveyle değiştirmek, çocukların zamanla daha sağlıklı beslenme alışkanlıkları edinmesine yardımcı olabilir."
+  ],
+  "col": [
+   "çikolatalı bisküvi",
+   "bir paket bisküvi",
+   "bisküvi kutusu"
+  ],
+  "tip": "İngiliz İngilizcesinde biscuit gevrek bisküvidir. Amerikan İngilizcesinde bu anlam cookie ile karşılanır, biscuit ise yumuşak ekmektir.",
+  "note": ""
+ },
+ {
+  "id": "african",
+  "senses": [
+   "Afrika'ya ait; Afrikalı",
+   "Afrikalı"
+  ],
+  "ex": [
+   "Çamurlu bir su birikintisinin yanında birkaç Afrika filine rastladık.",
+   "Birçok Afrika ülkesi, uzak kırsal topluluklarda elektriğe erişimi artırmak için güneş enerjisine yatırım yapıyor."
+  ],
+  "col": [
+   "Afrika ülkeleri",
+   "Afrika yaban hayatı",
+   "Afrika dilleri"
+  ],
+  "tip": "Özel isim olduğu için her zaman büyük harfle yazılır. Kişinin kökenini belirtir, ten rengiyle ilgili değildir.",
+  "note": ""
+ },
+ {
+  "id": "gallery",
+  "senses": [
+   "sanat galerisi",
+   "galeri; üst kat locası",
+   "görsel arşivi; galeri"
+  ],
+  "ex": [
+   "Yağmurlu bir öğleden sonrayı yerel sanat galerisini gezerek geçirdik.",
+   "Kamusal bir galeriye ücretsiz girişler, görsel sanatı farklı ekonomik geçmişlerden insanlar için erişilebilir kılabilir."
+  ],
+  "col": [
+   "sanat galerisi",
+   "halka açık galeri",
+   "fotoğraf galerisi"
+  ],
+  "tip": "gallery çoğunlukla sanat eseri sergilenen yeri anlatır. Geniş ve çeşitli koleksiyonlar için museum kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fat",
+  "senses": [
+   "yağ",
+   "şişman; obez"
+  ],
+  "ex": [
+   "Çorbanın soğumasını bekleyin, sonra yağını alın.",
+   "Vücudun bir miktar yağa ihtiyacı olsa da aşırı tüketim belirli sağlık sorunlarının riskini artırabilir."
+  ],
+  "col": [
+   "vücut yağı",
+   "doymuş yağ",
+   "yağ oranı düşük"
+  ],
+  "tip": "İnsanları fat ile tarif etmek kaba ve incitici olabilir. Sağlık konusunda konuşurken overweight tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "sale",
+  "senses": [
+   "satış",
+   "indirimli satış",
+   "satış tutarı; satış geliri"
+  ],
+  "ex": [
+   "Bu botları kış indiriminde aldım.",
+   "Yerel üretim gıdaların satışı, çiftçileri desteklerken uzun mesafeli taşımacılıkla ilişkili emisyonları azaltabilir."
+  ],
+  "col": [
+   "satılık",
+   "indirimde",
+   "satış rakamları",
+   "stok tasfiye satışı"
+  ],
+  "tip": "for sale satılık, on sale indirimde anlamına gelir. Satış miktarı için genellikle çoğul sales kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "skiing",
+  "senses": [
+   "kayak sporu; kayak"
+  ],
+  "ex": [
+   "Kış tatilimizde birlikte kayağa gittik.",
+   "Kayak sporu kış turistlerini dağlık bölgelere çeker; bu mevsimlik iş imkânı yaratır ama su talebini artırır."
+  ],
+  "col": [
+   "kayağa gitmek",
+   "kros kayağı",
+   "alpin kayak",
+   "kayak dersleri"
+  ],
+  "tip": "Kayağa gitmek için go skiing denir. Su kayağı water skiing olarak söylenir; skiing tek başına kar kayağını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "postbox",
+  "senses": [
+   "posta kutusu; mektup kutusu"
+  ],
+  "ex": [
+   "Doğum günü kartını dışarıdaki posta kutusuna attım.",
+   "Posta kutusunun yürünebilir mesafede olması, internete erişimi olmayan sakinlerin temel hizmetlerle iletişimini sürdürmesine yardımcı olur."
+  ],
+  "col": [
+   "en yakın posta kutusu",
+   "bir şeyi posta kutusuna atmak"
+  ],
+  "tip": "İngiliz İngilizcesinde sokaktaki kamusal mektup kutusu postbox'tır. Amerikan İngilizcesinde mailbox kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ending",
+  "senses": [
+   "son; sonuç",
+   "sonek; ek"
+  ],
+  "ex": [
+   "Film herkes için şaşırtıcı derecede neşeli bir sonla bitti.",
+   "Belirsiz bir son, okuyucuları varsayımlarını sorgulamaya ve romanın alternatif yorumlarını düşünmeye teşvik edebilir."
+  ],
+  "col": [
+   "mutlu son",
+   "sürpriz son",
+   "fiil eki"
+  ],
+  "tip": "Hikâye veya olayın sonu için ending kullanılır. at the end ise sonunda ya da sonda anlamında zaman veya konum belirtir.",
+  "note": ""
+ },
+ {
+  "id": "support",
+  "senses": [
+   "desteklemek; yardım etmek",
+   "taşımak; ayakta tutmak",
+   "destek; yardım"
+  ],
+  "ex": [
+   "Yeni bir şey denediğimde kız kardeşim her zaman bana destek olur.",
+   "Hükümetler, dezavantajlı topluluklarda iş yaratan küçük işletmelere mali destek sağlamalıdır."
+  ],
+  "col": [
+   "mali destek",
+   "ailesini geçindirmek",
+   "bir iddiayı desteklemek",
+   "duygusal destek"
+  ],
+  "tip": "support geçişli bir fiildir, doğrudan nesne alır. İsim olarak genellikle support for kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "helicopter",
+  "senses": [
+   "helikopter"
+  ],
+  "ex": [
+   "Evimizin arkasındaki tarlaya bir helikopter indi.",
+   "Sel nedeniyle yollar acil durum araçları için güvensiz hâle geldiğinde kurtarma helikopteri izole topluluklara ulaşabilir."
+  ],
+  "col": [
+   "kurtarma helikopteri",
+   "helikopter pilotu",
+   "helikopterle"
+  ],
+  "tip": "Helikopterle seyahat için by helicopter denir. Bu kalıpta helicopter'dan önce a ya da the gelmez.",
+  "note": ""
+ },
+ {
+  "id": "untidy",
+  "senses": [
+   "dağınık; düzensiz",
+   "düzeni önemsemeyen"
+  ],
+  "ex": [
+   "Bardaklar ve defterlerle dolu dağınık bir masası vardı.",
+   "Ortak çalışma alanları, çalışanlar ortak alanları temiz ve düzenli tutma sorumluluğunu almadıkça hızla dağınık hâle gelebilir."
+  ],
+  "col": [
+   "dağınık bir oda",
+   "dağınık bir masa",
+   "düzensiz el yazısı"
+  ],
+  "tip": "untidy düzensiz ya da toplanmamış olmayı anlatır. Kirli anlamına gelmez; kir için dirty kullanılır.",
+  "note": ""
+ }
+]

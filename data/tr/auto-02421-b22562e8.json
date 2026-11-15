@@ -1,0 +1,277 @@
+[
+ {
+  "id": "blueberry",
+  "senses": [
+   "yaban mersini; mavi yaban mersini"
+  ],
+  "ex": [
+   "Olgunlaşmış bir yaban mersini kaşığımdan masaya yuvarlandı.",
+   "Yaban mersini yetiştiriciliği çiftlik gelirini çeşitlendirebilir, ancak başarılı üretim için uygun toprak koşulları şarttır."
+  ],
+  "col": [
+   "taze yaban mersinleri",
+   "yaban mersinli muffin",
+   "yaban mersini reçeli"
+  ],
+  "tip": "Sayılabilir isimdir; çoğul yapılırken y, ies olur: blueberries.",
+  "note": ""
+ },
+ {
+  "id": "kindness",
+  "senses": [
+   "iyilik; nezaket",
+   "iyilik; lütuf"
+  ],
+  "ex": [
+   "Onun nazik davranışı yeni komşumuzun kendini evinde hissetmesini sağladı.",
+   "Okullar, öğrencilere zor durumdaki sınıf arkadaşlarını destekleme fırsatları vererek iyiliksever davranışları teşvik edebilir."
+  ],
+  "col": [
+   "nezaket göstermek",
+   "bir iyilik",
+   "başkalarına karşı nezaket"
+  ],
+  "tip": "Karakter özelliği anlamında sayılamaz; belirli bir iyilik anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "spicy",
+  "senses": [
+   "baharatlı; acılı"
+  ],
+  "ex": [
+   "Erişteler çok baharatlıydı, bu yüzden pilav sipariş ettim.",
+   "Geleneksel baharatlı yemekler, bölgenin kendine özgü lezzetlerini deneyimlemek isteyen ziyaretçileri çekebilir."
+  ],
+  "col": [
+   "baharatlı yemek",
+   "baharatlı sos",
+   "hafif baharatlı"
+  ],
+  "tip": "spicy çoğunlukla baharat tadının yoğunluğunu anlatır; sıcaklık için hot kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "visa",
+  "senses": [
+   "vize"
+  ],
+  "ex": [
+   "Öğrenci vizem uçuştan hemen önce geldi.",
+   "Daha basit vize prosedürleri, uluslararası öğrencileri yurt dışında okumaya teşvik edebilir ve yerel ekonomilere katkı sağlayabilir."
+  ],
+  "col": [
+   "vize başvurusu yapmak",
+   "öğrenci vizesi",
+   "vize başvurusu",
+   "vize şartları"
+  ],
+  "tip": "visa vizedir, passport pasaporttur; vize genellikle pasaportla başvurulur.",
+  "note": ""
+ },
+ {
+  "id": "rugby",
+  "senses": [
+   "ragbi"
+  ],
+  "ex": [
+   "Kardeşim her cumartesi arkadaşlarıyla ragbi oynuyor.",
+   "Ragbi eğitimi veren okullar, sakatlanma riskini azaltmak için uygun antrenörlük ve güvenlik ekipmanı sağlamalıdır."
+  ],
+  "col": [
+   "ragbi oynamak",
+   "ragbi maçı",
+   "ragbi birliği",
+   "ragbi ligi"
+  ],
+  "tip": "Genellikle İngiliz ragbisini ifade eder; Amerikan futbolu ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "plug",
+  "senses": [
+   "fiş",
+   "tıkaç; tapa",
+   "tıkamak; doldurmak"
+  ],
+  "ex": [
+   "Tostu makinesini temizlemeden önce fişini çekin.",
+   "Hanelerin, cihazlar kullanılmadığında prizlerden fişleri çekerek gereksiz elektrik tüketimini azaltması mümkündür."
+  ],
+  "col": [
+   "fişi çekmek",
+   "bir şeyi prize takmak",
+   "banyo tıkacı",
+   "bir boşluğu tıkamak"
+  ],
+  "tip": "Fiş plug, priz socket'tir; plug in elektriğe takmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "float",
+  "senses": [
+   "yüzmek; süzülmek",
+   "öne sürmek",
+   "geçit alegorik arabası; şamandıra"
+  ],
+  "ex": [
+   "Sarı bir yaprak bahçedeki göletin üzerinde yavaşça süzüldü.",
+   "Araştırmacılar, kalabalık kıyı şehirlerinde ek konut sağlamak için yapay adalar kullanma fikrini öne sürdü."
+  ],
+  "col": [
+   "suyun üzerinde yüzmek",
+   "bir fikri öne sürmek",
+   "akıntıyla sürüklenmek",
+   "geçit alegorik arabası"
+  ],
+  "tip": "float an idea, fikrin tartışılmak üzere ortaya atılması demektir; uygulandığı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "bug",
+  "senses": [
+   "böcek; küçük canlı",
+   "yazılım hatası",
+   "rahatsız etmek; sinirlendirmek"
+  ],
+  "ex": [
+   "Kolumun üzerine küçük yeşil bir böcek kondu.",
+   "Bir yazılım hatası temel hizmetleri aksatabilir; bu da yayımlamadan önce kapsamlı test yapmanın önemini gösterir."
+  ],
+  "col": [
+   "bir yazılım hatası",
+   "bir hatayı düzeltmek",
+   "küçük bir böcek"
+  ],
+  "tip": "Günlük dilde bug her türlü küçük böceği anlatabilir; teknik bağlamda çoğunlukla program hatası demektir.",
+  "note": ""
+ },
+ {
+  "id": "sex",
+  "senses": [
+   "biyolojik cinsiyet",
+   "cinsel ilişki",
+   "cinsiyetini belirlemek"
+  ],
+  "ex": [
+   "Veteriner yeni yavru kedimizin cinsiyetini kontrol etti.",
+   "Araştırmacılar, biyolojik cinsiyetin klinik çalışmadaki katılımcıların tedaviye verdiği yanıtları etkileyip etkilemediğini inceledi."
+  ],
+  "col": [
+   "biyolojik cinsiyet",
+   "cinsiyet farklılıkları",
+   "cinsel eğitim",
+   "cinsiyeti belirlemek"
+  ],
+  "tip": "sex çoğunlukla biyolojik cinsiyeti; gender ise daha çok toplumsal cinsiyeti anlatır.",
+  "note": ""
+ },
+ {
+  "id": "virus",
+  "senses": [
+   "virüs; mikrop",
+   "bilgisayar virüsü"
+  ],
+  "ex": [
+   "Doktor öksürüğümün bir virüsten kaynaklandığını söyledi.",
+   "Halk sağlığı kampanyaları, aşılanma ve düzenli el yıkamayı teşvik ederek virüsün yayılmasını sınırlayabilir."
+  ],
+  "col": [
+   "virüs yaymak",
+   "bilgisayar virüsü",
+   "virüs enfeksiyonu"
+  ],
+  "tip": "virus virüstür, bacterium bakteridir; ikisi birbirinin yerine kullanılamaz.",
+  "note": ""
+ },
+ {
+  "id": "plain",
+  "senses": [
+   "sade; süssüz",
+   "açık; anlaşılır",
+   "ova; düzlük"
+  ],
+  "ex": [
+   "Mülakat için sade beyaz bir gömlek seçti.",
+   "Halk sağlığı tavsiyeleri, herkesin temel bilgileri anlayabilmesi için açık bir dil kullanmalıdır."
+  ],
+  "col": [
+   "sivil kıyafet",
+   "sade dil",
+   "kıyı ovası"
+  ],
+  "tip": "plain, süssüz anlamında sıfattır; ova anlamında isimdir.",
+  "note": ""
+ },
+ {
+  "id": "effect",
+  "senses": [
+   "etki; sonuç",
+   "etkilemek; gerçekleştirmek"
+  ],
+  "ex": [
+   "Yeni perdeler odada sakinleştirici bir etki yarattı.",
+   "Güvenilir toplu taşıma da olmadıkça, daha yüksek park ücretleri trafik üzerinde çok az etkili olabilir."
+  ],
+  "col": [
+   "üzerinde etkisi olmak",
+   "yan etki",
+   "yürürlüğe girmek",
+   "değişiklik gerçekleştirmek"
+  ],
+  "tip": "effect çoğunlukla isimdir; affect ise fiil olarak etkilemek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "despite",
+  "senses": [
+   "rağmen; karşın"
+  ],
+  "ex": [
+   "Soğuk rüzgara rağmen yürüyüşümüzden keyif aldık.",
+   "Toplu taşımaya yapılan önemli yatırıma rağmen, hizmetler hâlâ güvenilmez olduğu için birçok yolcu hâlâ araba kullanmayı tercih ediyor."
+  ],
+  "col": [
+   "şu gerçeğe rağmen",
+   "zorluklara rağmen",
+   "çabalarına rağmen"
+  ],
+  "tip": "İsim veya ing'li fiille kullanılır, arkasına of gelmez; cümle takip ederse the fact that kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spaceship",
+  "senses": [
+   "uzay gemisi"
+  ],
+  "ex": [
+   "Çocuklar karton kutulardan bir uzay gemisi yaptı.",
+   "Uzun yolculuklar için uzay gemisi tasarlamak, astronotları radyasyon ve yalnızlıktan korumak için dikkatli planlama gerektirir."
+  ],
+  "col": [
+   "uzay gemisine binmek",
+   "uzay gemisi fırlatmak",
+   "uzay gemisinde"
+  ],
+  "tip": "spaceship sayılabilir bir isimdir; spacecraft ise tekil ve çoğul biçimde aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "interrupt",
+  "senses": [
+   "sözünü kesmek; bölmek",
+   "kesintiye uğratmak; durdurmak"
+  ],
+  "ex": [
+   "Ben kuralları açıklarken lütfen sözümü kesmeyin.",
+   "Sık gelen telefon bildirimleri öğrencilerin dikkatini dağıtabilir ve bağımsız çalışmada öğrenme miktarını azaltabilir."
+  ],
+  "col": [
+   "bir konuşmayı bölmek",
+   "birinin sözünü kesmek",
+   "akışı kesmek"
+  ],
+  "tip": "interrupt ortadan bir şeyi kesmek anlamına gelir; disrupt ise normal işleyişi bozmayı vurgular.",
+  "note": ""
+ }
+]

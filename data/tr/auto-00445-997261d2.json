@@ -1,0 +1,285 @@
+[
+ {
+  "id": "help",
+  "senses": [
+   "yardım etmek",
+   "yardım"
+  ],
+  "ex": [
+   "Bu poşetleri üst kata çıkarmama yardım eder misin?",
+   "Uygun fiyatlı toplu taşıma, sakinlerin işlere ulaşmasına yardımcı olabilir ve araba bağımlılıklarını azaltabilir."
+  ],
+  "col": [
+   "birinin bir şeyde yardım etmesi",
+   "yardım istemek",
+   "azaltmaya yardım etmek"
+  ],
+  "tip": "help'ten sonra hem to'suz hem to'lu fiil gelebilir: help me carry ya da help me to carry. İkisi de doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "high",
+  "senses": [
+   "yüksek",
+   "yüksek; üst düzey",
+   "yukarıda; yükseğe"
+  ],
+  "ex": [
+   "Raf bana ulaşamayacak kadar yüksek.",
+   "Özellikle büyük kentlerde yüksek konut maliyetleri, genç yetişkinlerin bağımsız yaşamasını engelleyebilir."
+  ],
+  "col": [
+   "yüksek standartlar",
+   "yüksek fiyatlar",
+   "yüksek rakım",
+   "tam yukarıda"
+  ],
+  "tip": "High genellikle konum ya da düzey için kullanılır. İnsanın boyu için ise tall kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "soup",
+  "senses": [
+   "çorba"
+  ],
+  "ex": [
+   "Bir kase çorbanın etrafına ellerini koyup ısındı.",
+   "Toplu mutfaklar, zor ekonomik dönemlerde sakinlerin besleyici yemeklere ulaşabilmesi için uygun fiyatlı sebze çorbası sunabilir."
+  ],
+  "col": [
+   "bir kase çorba",
+   "sebze çorbası",
+   "çorba yapmak",
+   "tavuk çorbası"
+  ],
+  "tip": "Genellikle sayılamaz. Bir porsiyon için a bowl of soup ya da a cup of soup gibi kaplar kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "choose",
+  "senses": [
+   "seçmek",
+   "karar vermek; tercih etmek"
+  ],
+  "ex": [
+   "Pencere kenarında bir koltuk seçebilirsiniz.",
+   "Pek çok öğrenci farklı kültürleri ve öğretim yöntemlerini deneyimlemek istediği için yurt dışında okumayı seçiyor."
+  ],
+  "col": [
+   "arasında seçim yapmak",
+   "arasından seçmek",
+   "yapmaya karar vermek",
+   "dikkatli seçmek"
+  ],
+  "tip": "Düzensiz fiil: choose–chose–chosen. Geçmiş zamanda chose, bitmiş hâlde chosen kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "believe",
+  "senses": [
+   "inanmak",
+   "sanmak; düşünmek",
+   "güvenmek"
+  ],
+  "ex": [
+   "Sana inanıyorum, ama hikâyen oldukça alışılmadık geliyor.",
+   "Bazı eğitimciler, öğrencileri istihdam için hazırlamada pratik deneyimin akademik bilgi kadar değerli olduğunu düşünüyor."
+  ],
+  "col": [
+   "olduğuna inanmak",
+   "kendine inanmak",
+   "yaygın olarak inanılan",
+   "inanması zor"
+  ],
+  "tip": "believe someone birinin sözüne inanmak; believe in someone ise birinin yeteneğine güvenmek anlamına gelir. İkisini karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "train",
+  "senses": [
+   "tren",
+   "eğitmek; antrenman yapmak"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra eve giden son trene yetiştik.",
+   "Hükümetler, yaşlanan nüfusun ihtiyaçlarını karşılamak için daha fazla sağlık çalışanını yetiştirmelidir."
+  ],
+  "col": [
+   "trene yetişmek",
+   "tren istasyonu",
+   "personeli eğitmek",
+   "maraton için antrenman yapmak"
+  ],
+  "tip": "Ulaşım aracı olarak by train kullanılır. Belirli bir trende ise on the train denir.",
+  "note": ""
+ },
+ {
+  "id": "paper",
+  "senses": [
+   "kâğıt",
+   "gazete",
+   "makale; sınav kâğıdı"
+  ],
+  "ex": [
+   "Küçük hediyeyi parlak sarı bir kâğıda sardı.",
+   "Üniversite, öğrencileri ödevlerini elektronik olarak teslim etmeye teşvik ederek bölümlerindeki kâğıt tüketimini azaltmayı hedefliyor."
+  ],
+  "col": [
+   "bir kâğıt parçası",
+   "geri dönüştürülmüş kâğıt",
+   "araştırma makalesi",
+   "sınav kâğıdı"
+  ],
+  "tip": "Madde olarak kâğıt sayılamaz; sayılabilir kullanımda a sheet of paper ya da a piece of paper denir. Gazete ve makale sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "if",
+  "senses": [
+   "eğer",
+   "olup olmadığını"
+  ],
+  "ex": [
+   "Yağmur yağarsa bunun yerine evde oynayabiliriz.",
+   "Şehirler güvenli bisiklet yollarına yatırım yaparsa, sakinler günlük yolculukları için bisikleti daha sık tercih edebilir."
+  ],
+  "col": [
+   "olsa bile",
+   "yalnızca eğer",
+   "sanki",
+   "gerekirse"
+  ],
+  "tip": "Gelecekle ilgili koşullarda if cümlesinde will kullanılmaz: 'if it will rain' yerine 'if it rains' denir.",
+  "note": ""
+ },
+ {
+  "id": "big",
+  "senses": [
+   "büyük",
+   "önemli; etkili"
+  ],
+  "ex": [
+   "Bütün bu havlular için büyük bir çantaya ihtiyacımız var.",
+   "Hızla büyüyen şehirlerde toplu taşıma, hava kalitesinde büyük bir fark yaratabilir."
+  ],
+  "col": [
+   "büyük fark",
+   "büyük karar",
+   "büyük hata"
+  ],
+  "tip": "big günlük dilde çok kullanılır. Akademik yazıda duruma göre large ya da major tercih edilebilir.",
+  "note": ""
+ },
+ {
+  "id": "hand",
+  "senses": [
+   "el",
+   "yardım",
+   "uzatmak; vermek"
+  ],
+  "ex": [
+   "Sıcak fincanı sol eliyle tuttu.",
+   "Uygulamalı atölyeler, öğrencilerin kendi elleriyle nesneler yaparak beceri geliştirmesine olanak tanır."
+  ],
+  "col": [
+   "el ele tutuşmak",
+   "birine yardım etmek",
+   "ödevi teslim etmek",
+   "elle yapılmış"
+  ],
+  "tip": "give someone a hand 'yardım etmek' anlamına gelir. by hand ise 'elle yapılmış' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "yellow",
+  "senses": [
+   "sarı",
+   "sarı",
+   "sararmak; sarartmak"
+  ],
+  "ex": [
+   "Yağmurlu yürüyüş için sarı bir şemsiye seçti.",
+   "Sararmış yapraklar, kent ağaçlarının su sıkıntısı ya da zayıf toprak koşulları yüzünden zarar gördüğüne işaret edebilir."
+  ],
+  "col": [
+   "parlak sarı",
+   "soluk sarı",
+   "sararmak"
+  ],
+  "tip": "En yaygın kullanımı sıfat olarak renk belirtmektir: a yellow umbrella. Fiil olarak da sararma anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rich",
+  "senses": [
+   "zengin",
+   "zengin; bakımından zengin",
+   "yağlı; kremalı"
+  ],
+  "ex": [
+   "Zengin amcaları denizin kıyısında büyük bir evde yaşıyor.",
+   "Zengin ülkeler, daha yoksul bölgelerdeki temiz enerji projelerine yatırım yaparak küresel kalkınmayı destekleyebilir."
+  ],
+  "col": [
+   "zengin ülkeler",
+   "besin öğelerince zengin",
+   "zengin kültürel miras",
+   "yağlı yemek"
+  ],
+  "tip": "'Bakımından zengin' anlamında rich in kalıbı kullanılır: rich in nutrients. rich of yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "know",
+  "senses": [
+   "bilmek",
+   "tanımak"
+  ],
+  "ex": [
+   "Bu bisikleti nasıl tamir edeceğini biliyor musun?",
+   "Tüketiciler, çevrim içi bilinçli seçimler yapabilmek için kişisel bilgilerinin nasıl toplandığını bilmek zorunda."
+  ],
+  "col": [
+   "nasıl yapılacağını bilmek",
+   "cevabı bilmek",
+   "birini iyi tanımak",
+   "kesin olarak bilmek"
+  ],
+  "tip": "Düzensiz fiil: know–knew–known. Genellikle sürekli zamanlarda kullanılmaz: 'I am knowing' yerine 'I know' denir.",
+  "note": ""
+ },
+ {
+  "id": "cousin",
+  "senses": [
+   "kuzen"
+  ],
+  "ex": [
+   "Kuzenim dün bana bisiklete binmeyi öğretti.",
+   "Akrabalarıyla düzenli zaman geçiren çocuklar, ev halkının ötesinde güçlü aile bağları geliştirebilir."
+  ],
+  "col": [
+   "birinci derece kuzen",
+   "uzak kuzen",
+   "küçük kuzen"
+  ],
+  "tip": "İngilizcede cousin cinsiyet belirtmez. Erkek ya da kadın olduğunu belirtmek gerekirse male cousin ya da female cousin denir.",
+  "note": ""
+ },
+ {
+  "id": "november",
+  "senses": [
+   "Kasım"
+  ],
+  "ex": [
+   "Yeni dairemize kasım ayında taşınıyoruz.",
+   "Üniversite, kasım ayında yeni burs programını başlatmayı planlıyor; böylece daha fazla uluslararası öğrenci başvurabilecek."
+  ],
+  "col": [
+   "kasım ayında",
+   "kasımın başında",
+   "kasımın sonunda"
+  ],
+  "tip": "Ay adları büyük harfle yazılır. Ay için in, belirli bir gün için on kullanılır: in November, on 5 November.",
+  "note": ""
+ }
+]

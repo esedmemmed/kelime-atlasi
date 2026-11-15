@@ -1,0 +1,283 @@
+[
+ {
+  "id": "diagnose",
+  "senses": [
+   "teşhis etmek",
+   "tespit etmek"
+  ],
+  "ex": [
+   "Doktor, nefesimi kontrol ettikten sonra astım teşhisi koydu.",
+   "Yeni tarama teknolojileri, ciddi belirtiler ortaya çıkmadan önce doktorların bazı hastalıkları teşhis etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir hastalığı teşhis etmek",
+   "...ile teşhis edilmek",
+   "bir arızayı tespit etmek"
+  ],
+  "tip": "Birine hastalık teşhisi konduğunu söylerken be diagnosed with kalıbı kullanılır; diagnose someone with da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "combination",
+  "senses": [
+   "birleşim; kombinasyon",
+   "şifre; kod"
+  ],
+  "ex": [
+   "Bu çorbada otlar ve sebzelerin lezzetli bir karışımı var.",
+   "Uygun fiyatlı konut ile güvenilir toplu taşımanın birleşimi, büyüyen şehirlerde yaşam standartlarını artırabilir."
+  ],
+  "col": [
+   "...nin bir birleşimi",
+   "...ile birlikte",
+   "kazandıran kombinasyon",
+   "şifreli kilit"
+  ],
+  "tip": "a combination of A and B kalıbı iki şeyin birleşimini anlatır. Combination sayılabilir isimdir, başına a veya the gelir.",
+  "note": ""
+ },
+ {
+  "id": "immense",
+  "senses": [
+   "çok büyük; devasa"
+  ],
+  "ex": [
+   "Büyük bir gemi limanın manzarasını kapatıyordu.",
+   "Yenilenebilir enerjiye geçiş büyük yatırım gerektirir, ancak önemli çevresel ve ekonomik faydalar sağlayabilir."
+  ],
+  "col": [
+   "büyük baskı",
+   "büyük potansiyel",
+   "büyük memnuniyet",
+   "büyük katkı"
+  ],
+  "tip": "Sadece fiziksel büyüklük için değil, miktar ve derece için de kullanılır. Immense zaten çok büyük anlamındadır, başına very koymayın.",
+  "note": ""
+ },
+ {
+  "id": "fade",
+  "senses": [
+   "solmak; soldurmak",
+   "silinmek; zayıflamak"
+  ],
+  "ex": [
+   "Perdeler yıllarca güneş altında kaldıkça soldu.",
+   "Çevre kampanyalarına olan kamuoyu ilgisi, kuruluşlar düzenli bilgi ve katılım fırsatları sunmazsa azalabilir."
+  ],
+  "col": [
+   "yavaş yavaş kaybolmak",
+   "güneşte solmak",
+   "anılar silinmek",
+   "arka plana çekilmek"
+  ],
+  "tip": "Fade away, bir şeyin zamanla yavaş yavaş zayıflayıp kaybolmasını anlatır; ani değişimler için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "sharpen",
+  "senses": [
+   "bilemek; sivriltmek",
+   "geliştirmek; keskinleştirmek"
+  ],
+  "ex": [
+   "Kedinin uyuduğu resmi çizmeden önce kalemimi açtım.",
+   "Sınıf tartışmaları, öğrencileri karşıt argümanları incelemeye teşvik ederek eleştirel düşünme becerilerini geliştirebilir."
+  ],
+  "col": [
+   "kalemi açmak",
+   "bıçağı bilemek",
+   "becerileri geliştirmek",
+   "dikkati keskinleştirmek"
+  ],
+  "tip": "Sharp sıfatına -en eki getirilerek fiil yapılmıştır. Mecazi olarak beceri, dikkat ve odaklanma için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ozone",
+  "senses": [
+   "ozon"
+  ],
+  "ex": [
+   "Yüksek ozon seviyeleri bugün dışarıda koşmamı engelledi.",
+   "Atmosferin üst katmanlarındaki ozon yaşamı korurken, yer seviyesindeki ozon insan sağlığına ve ürünlere zarar verebilir."
+  ],
+  "col": [
+   "ozon tabakası",
+   "yer seviyesindeki ozon",
+   "ozon tabakasının incelmesi",
+   "ozon seviyeleri"
+  ],
+  "tip": "Ozon genellikle sayılamayan isimdir. Bu yüzden an ozone ya da ozones demek yerine doğrudan ozone kullanın.",
+  "note": ""
+ },
+ {
+  "id": "placement",
+  "senses": [
+   "staj; uygulama",
+   "yerleştirme; konumlandırma",
+   "yerleştirme; barındırma"
+  ],
+  "ex": [
+   "Hastanedeki stajım sırasında pratik beceriler öğrendim.",
+   "Üniversiteler, öğrencilerin sınıf bilgilerini profesyonel ortamlarda uygulayabilmeleri için iş stajı imkânı sunmalıdır."
+  ],
+  "col": [
+   "iş stajı",
+   "iş yerleştirme",
+   "ürün yerleştirme"
+  ],
+  "tip": "İngiliz İngilizcesinde work placement genellikle ders kapsamındaki stajı ifade eder. Staj için internship da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "format",
+  "senses": [
+   "biçim; format",
+   "biçimlendirmek",
+   "formatlamak"
+  ],
+  "ex": [
+   "Lütfen fotoğrafları farklı bir dosya formatında gönderin.",
+   "Ders materyallerini dijital biçimde sunmak, uzak bölgelerdeki öğrenciler için eğitimi daha erişilebilir kılabilir."
+  ],
+  "col": [
+   "dosya formatı",
+   "dijital biçim",
+   "belgeyi biçimlendirmek",
+   "standart format"
+  ],
+  "tip": "Fiil çekiminde formatted (geçmiş zaman) ve formatting (-ing) biçimleri kullanılır. Bilgisayar terimi olarak hem isim hem fiildir.",
+  "note": ""
+ },
+ {
+  "id": "soviet",
+  "senses": [
+   "Sovyet; Sovyetlere ait",
+   "Sovyet vatandaşı"
+  ],
+  "ex": [
+   "Dedem bu çekmecede bir Sovyet yapımı fotoğraf makinesi saklardı.",
+   "Araştırmacılar, merkezi planlamanın kentsel gelişimi ve günlük yaşamı nasıl etkilediğini anlamak için Sovyet konut politikalarını inceliyor."
+  ],
+  "col": [
+   "Sovyetler Birliği",
+   "Sovyet dönemi",
+   "Sovyet mimarisi"
+  ],
+  "tip": "Soviet genellikle büyük harfle yazılır. Küçük harfli soviet ise Sovyet meclisi anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "urge",
+  "senses": [
+   "çağrıda bulunmak; teşvik etmek",
+   "dürtü; güçlü istek"
+  ],
+  "ex": [
+   "Bir bisküvi daha yeme isteğime direndim.",
+   "Sağlık uzmanları, hükümetleri yalnızca hastalıkları tedavi etmeye odaklanmak yerine koruyucu sağlık hizmetlerine yatırım yapmaya çağırıyor."
+  ],
+  "col": [
+   "birinin bir şey yapmasını istemek",
+   "yapma yönünde güçlü istek",
+   "isteğe direnmek",
+   "dikkatli olunmasını önermek"
+  ],
+  "tip": "Fiil olarak urge sb to do kalıbı kullanılır. İsim olarak an urge to do biçimindedir. Urge doing yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "organizational",
+  "senses": [
+   "örgütsel; kurumsal",
+   "düzenlemeye ilişkin"
+  ],
+  "ex": [
+   "Yeni müdür bu sabah birkaç örgütsel değişikliği duyurdu.",
+   "Açık bir örgüt yapısı, birimler arasındaki iletişimi güçlendirebilir ve çalışanların sorumluluklarını anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "örgüt yapısı",
+   "örgütsel değişiklik",
+   "organizasyon becerileri",
+   "örgüt kültürü"
+  ],
+  "tip": "İngiliz İngilizcesinde organisational yazılışı da kullanılır. Anlamı organization ile ilgilidir.",
+  "note": ""
+ },
+ {
+  "id": "chunk",
+  "senses": [
+   "parça; büyük parça",
+   "önemli bir kısım"
+  ],
+  "ex": [
+   "Çorbaya bir parça peynir attı.",
+   "Konut giderleri hane gelirinin büyük bir kısmını tüketir; bu da eğitim ve boş zaman için daha az para bırakır."
+  ],
+  "col": [
+   "bir parça ekmek",
+   "büyük bir kısmı",
+   "yönetilebilir parçalar"
+  ],
+  "tip": "Somut nesneler için büyük parça, zaman ya da para için bir önemli kısım anlamında kullanılır. A large chunk of kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "moderate",
+  "senses": [
+   "orta; makul",
+   "ılımlı; aşırı olmayan",
+   "azaltmak; yumuşatmak"
+  ],
+  "ex": [
+   "Orta düzeyde egzersiz uyku kalitemi artırıyor.",
+   "Konut yoğunluğunda ölçülü artışlar, yerel altyapıya aşırı yük bindirmeden kentsel büyümeyi karşılayabilir."
+  ],
+  "col": [
+   "orta düzeyde egzersiz",
+   "ılımlı büyüme",
+   "ılımlı görüşler",
+   "beklentileri makul düzeyde tutmak"
+  ],
+  "tip": "Sıfat /ˈmɒdərət/ (sonu -ət), fiil /ˈmɒdəreɪt/ (sonu -eyt) okunur. Vurgu ve sondaki ses farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "cooperative",
+  "senses": [
+   "işbirliğine açık",
+   "kooperatif"
+  ],
+  "ex": [
+   "Ortak mutfağı yeniden düzenlediğimizde herkes işbirliğine açıktı.",
+   "İşbirlikçi öğrenme, öğrencilerin bir görevi tamamlarken ortak sorumluluk alarak iletişim becerilerini geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "işbirlikçi yaklaşım",
+   "işbirlikçi öğrenme",
+   "tarımsal kooperatif"
+  ],
+  "tip": "Sıfat olarak işbirliğine açık, isim olarak kooperatif anlamına gelir. Aynı yazılışla iki farklı sözcük türü olduğuna dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "voluntary",
+  "senses": [
+   "isteğe bağlı; zorunlu olmayan",
+   "gönüllü; ücretsiz"
+  ],
+  "ex": [
+   "Hafta sonu yürüyüş grubuna katılmak tamamen isteğe bağlı.",
+   "Gönüllü çalışmalar, genç insanların yerel topluluklara katkıda bulunurken pratik beceriler geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "gönüllü çalışma",
+   "isteğe bağlı katılım",
+   "gönüllü kuruluş",
+   "gönüllü bağışlar"
+  ],
+  "tip": "Voluntary bir sıfattır. Gönüllü kişi için ise volunteer isim olarak kullanılır; ikisini karıştırmayın.",
+  "note": ""
+ }
+]

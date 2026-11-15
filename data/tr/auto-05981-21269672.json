@@ -1,0 +1,270 @@
+[
+ {
+  "id": "tacit",
+  "senses": [
+   "üstü kapalı; örtük"
+  ],
+  "ex": [
+   "Gülümsemesi, devam etmem için bana örtük bir izin verdi.",
+   "Halkın sessizliği, temel hizmetlere erişimi kısıtlayan politikalara örtük bir onay olarak yorumlanmamalıdır."
+  ],
+  "col": [
+   "örtük onay",
+   "örtük anlaşma",
+   "örtük anlayış",
+   "örtük rıza"
+  ],
+  "tip": "Genellikle 'tacit approval' ve 'tacit agreement' gibi kalıplarla kullanılır. Sözle ya da yazıyla açıkça belirtilmeyen ama anlaşılan şeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "solidify",
+  "senses": [
+   "katılaşmak",
+   "pekiştirmek; güçlendirmek"
+  ],
+  "ex": [
+   "Süslemeleri eklemeden önce eritilmiş çikolatanın katılaşmasını bekleyin.",
+   "Ortak araştırma projeleri üniversiteler arasındaki ortaklıkları pekiştirebilir ve uzman bilgisinin paylaşılmasını teşvik edebilir."
+  ],
+  "col": [
+   "bir kütle halinde katılaşmak",
+   "bir ittifakı pekiştirmek",
+   "desteği pekiştirmek"
+  ],
+  "tip": "Sıvının katılaşmasını da, ilişki ya da konumun sağlamlaşmasını da anlatır. İkinci anlamı soyut durumlar için kullanın.",
+  "note": ""
+ },
+ {
+  "id": "crave",
+  "senses": [
+   "özlemek; çok istemek"
+  ],
+  "ex": [
+   "Uzun yürüyüşün ardından sıcak bir yemek özlemiştim.",
+   "Birçok kentli doğayla temas kurmayı özlüyor; bu durum erişilebilir park ve yeşil alanların önemini ortaya koyuyor."
+  ],
+  "col": [
+   "ilgi görmeyi özlemek",
+   "onay görmeyi çok istemek",
+   "tatlı yiyecekleri çok istemek"
+  ],
+  "tip": "Doğrudan nesne alır: crave something. 'Crave for' yazılmaz, bu yaygın bir hatadır.",
+  "note": ""
+ },
+ {
+  "id": "shriek",
+  "senses": [
+   "çığlık atmak; tiz sesle bağırmak",
+   "tiz çığlık"
+  ],
+  "ex": [
+   "Fışkırtıcı çalışmaya başlayınca çocuklar sevinçle çığlık attı.",
+   "Ziyaretçilerin ani çığlıkları hassas yaban hayatını rahatsız edebilir; bu nedenle rehberler korunan doğal alanlarda sessiz davranışı teşvik etmelidir."
+  ],
+  "col": [
+   "sevinçle çığlık atmak",
+   "çığlık koparmak",
+   "delici bir çığlık"
+  ],
+  "tip": "Sesin tiz ve keskin olduğunu vurgular; korku veya heyecan için kullanılabilir. 'Scream' daha genel bir sözcüktür.",
+  "note": ""
+ },
+ {
+  "id": "cripple",
+  "senses": [
+   "felç etmek; sekteye uğratmak",
+   "sakat bırakmak"
+  ],
+  "ex": [
+   "Elektrik kesintisi akşam boyunca ısıtma sistemimizi işlemez hale getirdi.",
+   "Uzun süren kuraklık tarımsal üretimi ciddi biçimde sekteye uğratabilir; bu da kırsal gelirleri azaltıp ülke genelinde gıda fiyatlarını yükseltebilir."
+  ],
+  "col": [
+   "ekonomiyi felç etmek",
+   "üretimi sekteye uğratmak",
+   "ağır maliyetler"
+  ],
+  "tip": "İsim olarak insanlar için kullanılması incitici olur. Mecazi anlamda ekonomi veya sistemler için kullanın.",
+  "note": "Ad olarak engelli insanlar için kullanıldığında incitici olur; bu kullanımdan kaçınılmalıdır."
+ },
+ {
+  "id": "ultraviolet",
+  "senses": [
+   "morötesi",
+   "morötesi ışın; ultraviyole"
+  ],
+  "ex": [
+   "Bu güneş gözlükleri gözlerinizi zararlı morötesi ışınlardan korur.",
+   "Aşırı morötesi ışınlara maruz kalmak cilt hasarı riskini artırır; bu yüzden güneşten korunmak çok önemlidir."
+  ],
+  "col": [
+   "morötesi radyasyon",
+   "morötesi ışınlar",
+   "morötesi ışık"
+  ],
+  "tip": "Sıklıkla UV olarak kısaltılır. Morötesi ışınlar insan gözüyle görülemez.",
+  "note": ""
+ },
+ {
+  "id": "everlasting",
+  "senses": [
+   "sonsuz; ebedi"
+  ],
+  "ex": [
+   "Eski ağacın altında birbirlerine ebedi bir dostluk sözü verdiler.",
+   "Dijital depolama sonsuz erişim sağlıyormuş gibi görünse de teknoloji değiştikçe dosyalar okunamaz hale gelebilir."
+  ],
+  "col": [
+   "sonsuz aşk",
+   "ebedi dostluk",
+   "ebedi hayat"
+  ],
+  "tip": "'Long-lasting'den daha güçlü bir anlam taşır ve genellikle aşk, dostluk gibi soyut kavramlarla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "asylum",
+  "senses": [
+   "iltica; sığınma",
+   "eski akıl hastanesi"
+  ],
+  "ex": [
+   "Ailesi ülkesinden kaçtıktan sonra iltica talebinde bulundu.",
+   "Hükümetler iltica başvurularını adil biçimde değerlendirmeli ve savunmasız başvuru sahiplerinin hukuki danışmanlığa erişimini sağlamalıdır."
+  ],
+  "col": [
+   "iltica talep etmek",
+   "iltica vermek",
+   "sığınmacı",
+   "siyasi iltica"
+  ],
+  "tip": "Sığınma anlamında genellikle sayılamayan bir isimdir; 'an asylum' demek doğru değildir. Akıl hastanesi anlamı eskidir.",
+  "note": ""
+ },
+ {
+  "id": "parasite",
+  "senses": [
+   "parazit; asalak",
+   "asalak; başkasının sırtından geçinen"
+  ],
+  "ex": [
+   "Veteriner köpeğimizin tüylerinde bir parazit buldu.",
+   "Artan sıcaklıklar, bazı parazitlerin daha önce yaşayamadıkları bölgelere yayılmasına neden olabilir."
+  ],
+  "col": [
+   "bağırsak paraziti",
+   "konak organizma",
+   "parazitik enfeksiyon"
+  ],
+  "tip": "İnsanlar için kullanıldığında güçlü bir aşağılama içerir. Biyolojide parazitin yaşadığı canlıya 'host' denir.",
+  "note": ""
+ },
+ {
+  "id": "decompose",
+  "senses": [
+   "çürümek; bozulmak",
+   "ayrışmak; parçalanmak"
+  ],
+  "ex": [
+   "Dökülen yapraklar nemli bahçe toprağında yavaş yavaş çürür.",
+   "Organik atıklar değerli besin maddelerine ayrışabilir; bu da tarımda yapay gübre ihtiyacını azaltır."
+  ],
+  "col": [
+   "doğal yollarla çürümek",
+   "...e ayrışmak",
+   "organik maddeyi ayrıştırmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır. Bir şeye dönüştüğünü belirtmek için 'into' ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "colonialism",
+  "senses": [
+   "sömürgecilik"
+  ],
+  "ex": [
+   "Müze, sömürgeciliğin adadaki yaşamı nasıl değiştirdiğini inceliyor.",
+   "Sömürgeciliğin mirası, birçok ülkede dil, ekonomik yapılar ve siyasi kurumlar üzerinde etkisini sürdürüyor."
+  ],
+  "col": [
+   "sömürgeciliğin mirası",
+   "sömürgeciliğe direniş",
+   "sömürgeciliğin sonu"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. 'Colony' sömürge bölgesini anlatır, sömürgecilik ideolojisini değil.",
+  "note": ""
+ },
+ {
+  "id": "meteorologist",
+  "senses": [
+   "meteorolog; hava durumu uzmanı"
+  ],
+  "ex": [
+   "Meteorolog, şiddetli kar yağışının yaklaştığı konusunda bizi uyardı.",
+   "Meteorologlar atmosfer verilerini analiz ederek aşırı hava olaylarını tahmin eder ve toplulukların tehlikeli koşullara hazırlanmasına yardımcı olur."
+  ],
+  "col": [
+   "eğitimli bir meteorolog",
+   "meteorologlardan oluşan bir ekip",
+   "meteorologlar tahmin eder"
+  ],
+  "tip": "Hava durumunu ve atmosferi inceler. Gök taşlarını inceleyen astronomla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "theatrical",
+  "senses": [
+   "tiyatroya ait; sahneye özgü",
+   "abartılı; gösterişli"
+  ],
+  "ex": [
+   "Dün parkta tiyatro gösterisi izledik.",
+   "Tiyatro yapımlarına kamu desteği verilmesi, sınırlı kültürel kaynaklara sahip topluluklar için canlı performansları erişilebilir kılabilir."
+  ],
+  "col": [
+   "tiyatro yapımı",
+   "tiyatro gösterisi",
+   "abartılı bir hareket"
+  ],
+  "tip": "Hem tiyatroyla ilgili olduğunu hem de davranışların abartılı, yapmacık olduğunu anlatabilir. Olumsuz bağlamda 'gösterişli' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "agitation",
+  "senses": [
+   "huzursuzluk; telaş",
+   "kışkırtma; örgütlü eylem",
+   "karıştırma; çalkalama"
+  ],
+  "ex": [
+   "Kayıp anahtarlarını ararken huzursuzluğu giderek arttı.",
+   "Trafik gürültüsüne uzun süre maruz kalmak huzursuzluğu artırabilir ve sakinlerin evde konsantre olma becerisini azaltabilir."
+  ],
+  "col": [
+   "huzursuzluk içinde",
+   "siyasi kışkırtma",
+   "hafif çalkalama"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Duygusal huzursuzluk, toplumsal kışkırtma ve fiziksel karıştırma anlamlarını ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "accrued",
+  "senses": [
+   "tahakkuk eden; birikmiş"
+  ],
+  "ex": [
+   "Banka ekstresinde tasarruf hesabımdaki birikmiş faizi görüyorum.",
+   "Şirketler, yıl sonundaki mali durumlarının doğru bir resmini vermek için tahakkuk etmiş giderleri hesaba katmak zorundadır."
+  ],
+  "col": [
+   "tahakkuk eden faiz",
+   "tahakkuk eden giderler",
+   "tahakkuk eden gelir",
+   "birikmiş yan haklar"
+  ],
+  "tip": "'Accrue' fiilinin geçmiş zaman ve sıfat hâlidir. Birikmiş olması, ödendiği anlamına gelmez.",
+  "note": ""
+ }
+]

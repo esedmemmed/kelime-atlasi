@@ -1,0 +1,279 @@
+[
+ {
+  "id": "edge",
+  "senses": [
+   "kenar; uç",
+   "üstünlük; avantaj",
+   "yavaşça ilerlemek"
+  ],
+  "ex": [
+   "Bardağı masanın kenarından uzak tut.",
+   "Pratik deneyim, rekabetçi iş piyasasında mezunlara diğer adaylara karşı bir üstünlük sağlayabilir."
+  ],
+  "col": [
+   "...in kenarında",
+   "rekabet avantajı",
+   "...den üstün olmak",
+   "...doğru yavaşça ilerlemek"
+  ],
+  "tip": "Bir kişiye karşı üstünlük için “an edge over someone” kalıbı kullanılır; edge sayılabilir isimdir, başına a/an gelir.",
+  "note": ""
+ },
+ {
+  "id": "transportation",
+  "senses": [
+   "ulaşım; taşımacılık"
+  ],
+  "ex": [
+   "Havalimanından otelimize ulaşım ayarladık.",
+   "Güvenilir toplu taşıma, trafik sıkışıklığını azaltabilir ve arabası olmayanlar için iş fırsatlarına erişimi kolaylaştırabilir."
+  ],
+  "col": [
+   "toplu taşıma",
+   "ulaşım maliyetleri",
+   "ulaşım ağı",
+   "malların taşınması"
+  ],
+  "tip": "Amerikan İngilizcesinde transportation, İngiliz İngilizcesinde genellikle transport tercih edilir. Sayılamayan isimdir, “a transportation” denmez.",
+  "note": ""
+ },
+ {
+  "id": "via",
+  "senses": [
+   "üzerinden; uğrayarak",
+   "aracılığıyla; yoluyla"
+  ],
+  "ex": [
+   "Sahile küçük bir dağ köyü üzerinden gittik.",
+   "Görüntülü görüşmeler aracılığıyla tıbbi danışmanlık sunmak, uzak topluluklardaki insanların sağlık hizmetine erişimini iyileştirebilir."
+  ],
+  "col": [
+   "...üzerinden seyahat etmek",
+   "e-posta yoluyla",
+   "uydu aracılığıyla"
+  ],
+  "tip": "via’dan sonra doğrudan yer ya da yöntem adı gelir; “via of” gibi bir kullanım yoktur.",
+  "note": ""
+ },
+ {
+  "id": "improvement",
+  "senses": [
+   "gelişme; iyileşme",
+   "iyileştirme; düzeltme"
+  ],
+  "ex": [
+   "En son çiziminde gölgelendirmede gerçek bir gelişme görülüyor.",
+   "Toplu taşımaya yapılan yatırım, kentsel sakinler için hava kalitesinde önemli iyileşmeler sağlayabilir ve seyahat sürelerini kısaltabilir."
+  ],
+  "col": [
+   "önemli gelişme",
+   "gelişme alanı",
+   "...e kıyasla bir iyileştirme",
+   "iyileştirmeler yapmak"
+  ],
+  "tip": "Bir alandaki gelişme için “improvement in”, bir şeyin öncekine göre iyileşmesi için “an improvement on” kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "define",
+  "senses": [
+   "tanımlamak; anlamını açıklamak",
+   "sınırlarını belirlemek",
+   "belirlemek; nitelemek"
+  ],
+  "ex": [
+   "Bu kelimeyi sözlük kullanmadan tanımlayabilir misin?",
+   "Hükümetler, işletmeleri ve yerel toplulukları etkileyecek politikaları uygulamadan önce çevresel hedeflerini açıkça belirlemelidir."
+  ],
+  "col": [
+   "bir terimi tanımlamak",
+   "açıkça belirtmek",
+   "kapsamını belirlemek",
+   "...olarak tanımlamak"
+  ],
+  "tip": "“define A as B” kalıbı “A’yı B olarak tanımlamak” anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "rail",
+  "senses": [
+   "demiryolu; raylı ulaşım",
+   "parmaklık; korkuluk",
+   "sert biçimde eleştirmek"
+  ],
+  "ex": [
+   "Karlı dağların arasından trenle yolculuk yaptık.",
+   "Demiryolu altyapısına yapılan yatırım, karayolu trafiğini azaltabilir ve iç hat uçuşlarına daha temiz bir alternatif sunabilir."
+  ],
+  "col": [
+   "trenle seyahat etmek",
+   "demiryolu ağı",
+   "korkuluğa tutunmak",
+   "...e karşı sert çıkmak"
+  ],
+  "tip": "“by rail” trenle anlamına gelir ve başına the gelmez. Fiil olarak genellikle “against” ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "idiot",
+  "senses": [
+   "aptal; salak"
+  ],
+  "ex": [
+   "Anahtarlarımı yine kaybettikten sonra kendimi aptal gibi hissettim.",
+   "Bir sınıf arkadaşına “aptal” demek, onun özgüvenine zarar verebilir ve destekleyici bir öğrenme ortamı yaratma çabalarını baltalayabilir."
+  ],
+  "col": [
+   "kendini aptal gibi hissetmek",
+   "tam bir salak"
+  ],
+  "tip": "Aşağılayıcı bir hakaret sözcüğüdür; kişilere doğrudan söylenmemelidir.",
+  "note": "Aşağılayıcı bir hitap; dikkatli kullanın."
+ },
+ {
+  "id": "courage",
+  "senses": [
+   "cesaret; yüreklilik"
+  ],
+  "ex": [
+   "Sınıfta hatamı kabul etmek cesaret istedi.",
+   "Genç insanların, özellikle görüşleri başkalarınınkinden farklı olduğunda, adaletsiz uygulamalara meydan okuyabilmesi için cesarete ihtiyacı var."
+  ],
+  "col": [
+   "bir şeyi yapma cesaretine sahip olmak",
+   "cesaret göstermek",
+   "cesaret toplamak"
+  ],
+  "tip": "Genellikle sayılamayan isimdir, “a courage” denmez. “Yapma cesareti” için “the courage to do” kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "canoeing",
+  "senses": [
+   "kano sporu"
+  ],
+  "ex": [
+   "Öğleden önce gölde kano yaptık.",
+   "Kano gibi açık hava etkinlikleri fiziksel dayanıklılığı artırabilir ve gençlerin doğal çevreye değer vermesini sağlayabilir."
+  ],
+  "col": [
+   "kano yapmaya gitmek",
+   "kano gezisi",
+   "kano ekipmanı"
+  ],
+  "tip": "Genellikle “go canoeing” kalıbı kullanılır. Canoe’ya -ing eklenirken sondaki e harfi korunur.",
+  "note": ""
+ },
+ {
+  "id": "handle",
+  "senses": [
+   "başa çıkmak; ele almak",
+   "elle tutmak; kullanmak",
+   "kulp; tutamak"
+  ],
+  "ex": [
+   "Ben çocukları alırken akşam yemeğiyle sen ilgilenebilir misin?",
+   "Sağlık çalışanlarının, yüksek bakım standardını korurken stresli durumlarla başa çıkabilmeleri için etkili eğitime ihtiyacı var."
+  ],
+  "col": [
+   "şikâyetlerle ilgilenmek",
+   "dikkatle taşımak",
+   "kapı kulpu",
+   "baskıyla başa çıkmak"
+  ],
+  "tip": "Bir durumu ya da kişiyi ele almak anlamında “handle” doğrudan nesne alır; arasına “with” konmaz.",
+  "note": ""
+ },
+ {
+  "id": "exchange",
+  "senses": [
+   "değiştirmek; takas etmek",
+   "değiş tokuş; paylaşım",
+   "borsa; döviz pazarı"
+  ],
+  "ex": [
+   "Bu gömleği daha küçük bir bedenle değiştirebilir miyim?",
+   "Uluslararası değişim programları, öğrencilerin farklı kültürleri deneyimlemelerine ve iletişim kurma konusunda daha fazla özgüven geliştirmelerine olanak tanır."
+  ],
+  "col": [
+   "fikir alışverişinde bulunmak",
+   "döviz kuru",
+   "...karşılığında",
+   "menkul kıymet borsası"
+  ],
+  "tip": "“exchange A for B” kalıbı A’yı B ile değiştirmek anlamına gelir; edat olarak for kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "satisfied",
+  "senses": [
+   "memnun; hoşnut",
+   "ikna olmuş; emin"
+  ],
+  "ex": [
+   "Bu ayakkabılardan memnunum; tam ayağıma oturdu.",
+   "Çalışma koşullarından memnun olan çalışanlar, aynı kurumda kalma eğiliminde daha fazladır."
+  ],
+  "col": [
+   "...den memnun",
+   "tamamen memnun",
+   "...olduğuna ikna olmuş"
+  ],
+  "tip": "İnsan duygusu için satisfied, bir şeyin niteliği için satisfying kullanılır: “I am satisfied” / “The result is satisfying”.",
+  "note": ""
+ },
+ {
+  "id": "stormy",
+  "senses": [
+   "fırtınalı",
+   "kavgalı; çalkantılı"
+  ],
+  "ex": [
+   "Hava çok fırtınalı olduğu için içeride kaldık.",
+   "Giderek fırtınalı hale gelen koşullar, deniz taşımacılığı rotalarını aksatabilir ve kıyı topluluklarının geçim kaynaklarını tehdit edebilir."
+  ],
+  "col": [
+   "fırtınalı hava",
+   "fırtınalı denizler",
+   "çalkantılı bir ilişki",
+   "gergin bir tartışma"
+  ],
+  "tip": "Hem hava durumu hem de ilişki ya da tartışma için kullanılır. Sıfat olan stormy ile isim olan storm karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "handout",
+  "senses": [
+   "föy; dağıtılan belge",
+   "yardım; sadaka"
+  ],
+  "ex": [
+   "Öğretmenimiz bize sağlıklı beslenme hakkında bir föy verdi.",
+   "İyi tasarlanmış bir ders notu, öğrencilerin ders bittikten sonra temel kavramları bağımsız olarak tekrar etmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "kurs föyü",
+   "föy dağıtmak",
+   "devlet yardımı"
+  ],
+  "tip": "handout isimdir; hand out ise “dağıtmak” anlamında fiil öbeğidir: “They handed out the handouts.”",
+  "note": ""
+ },
+ {
+  "id": "sociable",
+  "senses": [
+   "sosyal; arkadaş canlısı"
+  ],
+  "ex": [
+   "Sosyal komşum herkesi çaya davet ediyor.",
+   "Ortak alanlar, sakinlerin daha sosyal olmasını ve komşularıyla daha güçlü ilişkiler kurmasını teşvik edebilir."
+  ],
+  "col": [
+   "sosyal biri",
+   "samimi bir ortam",
+   "sosyal etkinlikler"
+  ],
+  "tip": "sociable, birlikte olmayı seven insanı anlatır; social ise toplumla ya da toplumsal ilişkilerle ilgilidir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,286 @@
+[
+ {
+  "id": "shot",
+  "senses": [
+   "atış; şut",
+   "fotoğraf; çekim",
+   "deneme; girişim"
+  ],
+  "ex": [
+   "Son şutu top doğruca fileye gitti.",
+   "Dikkatle seçilmiş bir çekim, çevre tahribatının etkilerini istatistiklerden çok daha güçlü biçimde aktarabilir."
+  ],
+  "col": [
+   "bir deneme yapmak",
+   "yakın plan çekim",
+   "bir deneyip görmek",
+   "başarıya ulaşma şansı"
+  ],
+  "tip": "give it a shot 'bir deneyip görmek' anlamında gündelik konuşmada sık kullanılır. Ayrıca shot, shoot fiilinin geçmiş zamanı ve ortaç biçimidir.",
+  "note": ""
+ },
+ {
+  "id": "junior",
+  "senses": [
+   "alt düzey; kıdemsiz",
+   "gençlere yönelik",
+   "alt sınıf öğrencisi; genç"
+  ],
+  "ex": [
+   "Genç aşçımız, restoran açılmadan önce sebzeleri hazırlıyor.",
+   "Şirketler, genç çalışanlara yapılandırılmış eğitim ve deneyimli meslektaşlarından öğrenme fırsatları sunmalıdır."
+  ],
+  "col": [
+   "alt kademe personel",
+   "alt düzey pozisyon",
+   "gençler şampiyonası"
+  ],
+  "tip": "Kıdem ya da yaş karşılaştırmasında junior to kullanılır (ör. 'X'ten alt düzey'). 'junior than' kalıbı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "global",
+  "senses": [
+   "küresel; dünya çapında",
+   "bütüncül; genel"
+  ],
+  "ex": [
+   "Öğretmenimiz bize küresel sıcaklıkları gösteren bir harita gösterdi.",
+   "Çevresel zararlar nadiren ulusal sınırları tanıdığından, iklim değişikliğiyle mücadele için küresel işbirliği şarttır."
+  ],
+  "col": [
+   "küresel ısınma",
+   "küresel ekonomi",
+   "küresel işbirliği",
+   "küresel bakış açısı"
+  ],
+  "tip": "global dünya genelindeki yaygınlığı vurgular; international ise ülkeler arasındaki ilişkiyi anlatır. İkisi birbirinin yerine rahatça kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "complaint",
+  "senses": [
+   "şikayet; itiraz",
+   "rahatsızlık; hastalık"
+  ],
+  "ex": [
+   "Soğuk çorba hakkında şikayette bulundu.",
+   "Yerel yönetimler, yerleşim alanlarında yeni eğlence mekânlarına izin vermeden önce sakinlerin gürültü şikayetlerini incelemelidir."
+  ],
+  "col": [
+   "şikayette bulunmak",
+   "resmi şikayet",
+   "şikayetleri ele almak",
+   "yaygın şikayet"
+  ],
+  "tip": "complaint isimdir, complain fiildir. Bir şeyden şikayet etmek için 'complain about' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "increasing",
+  "senses": [
+   "artan; giderek büyüyen"
+  ],
+  "ex": [
+   "Dışarıdaki artan gürültü uyumayı zorlaştırdı.",
+   "Temiz enerjiye yönelik artan talep, hükümetleri yenilenebilir teknolojilere ve altyapıya daha fazla yatırım yapmaya teşvik ediyor."
+  ],
+  "col": [
+   "artan talep",
+   "artan baskı",
+   "giderek artan sayıda",
+   "artan endişe"
+  ],
+  "tip": "increasing isim önünde sıfat olarak kullanılır. Fiilleri ya da sıfatları değiştiren increasingly ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "dig",
+  "senses": [
+   "kazmak; eşelemek",
+   "araştırmak; incelemek",
+   "arkeolojik kazı"
+  ],
+  "ex": [
+   "Genç elma ağacı için derin bir çukur kazdık.",
+   "Araştırmacılar, eski toplumların hızlı çevresel değişimlere nasıl tepki verdiğini anlamak için tarihî kayıtları inceliyor."
+  ],
+  "col": [
+   "çukur kazmak",
+   "kazıp çıkarmak",
+   "derinlemesine incelemek",
+   "arkeolojik kazı"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi dug'dır; 'digged' yanlıştır. dig into bilgiyi derinlemesine araştırmak anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "production",
+  "senses": [
+   "üretim; imalat",
+   "yapım; prodüksiyon"
+  ],
+  "ex": [
+   "Fabrika, yaz talebini karşılamak için üretimi artırdı.",
+   "Daha temiz enerji üretimi, modern bir ekonominin gelişimini desteklerken hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "seri üretim",
+   "gıda üretimi",
+   "üretim maliyetleri",
+   "film yapımı"
+  ],
+  "tip": "production genellikle sayılamayan bir isimdir. Bir tiyatro ya da film yapımından söz edildiğinde sayılabilir olarak kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "position",
+  "senses": [
+   "konum; yer",
+   "görev; mevki; görüş",
+   "yerleştirmek; konumlandırmak"
+  ],
+  "ex": [
+   "Lambayı daha iyi bir yere taşıyabilir misin?",
+   "Rapor, hükümetin genç aileler için uygun fiyatlı konut sağlanmasına ilişkin tutumunu açıklıyor."
+  ],
+  "col": [
+   "oturma pozisyonu",
+   "bir göreve başvurmak",
+   "bir konuda tavır almak",
+   "dikkatle yerleştirmek"
+  ],
+  "tip": "Bir konudaki tutumu belirtmek için position on kalıbı kullanılır. Görev anlamında position sayılabilir bir isimdir (a position).",
+  "note": ""
+ },
+ {
+  "id": "cafeteria",
+  "senses": [
+   "kafeterya; yemekhane"
+  ],
+  "ex": [
+   "Öğle yemeği tepsilerimizi kafeterya penceresine taşıdık.",
+   "Okul yemekhaneleri, taze sebze ve meyve içeren uygun fiyatlı yemekler sunarak daha sağlıklı beslenme alışkanlıklarını teşvik edebilir."
+  ],
+  "col": [
+   "okul yemekhanesi",
+   "hastane kafeteryası",
+   "kafeterya tepsisi"
+  ],
+  "tip": "cafeteria, yemeği müşterinin kendisinin alıp masaya taşıdığı yerdir; her zaman sınırsız büfe anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "mushroom",
+  "senses": [
+   "mantar",
+   "hızla yayılmak; çoğalmak"
+  ],
+  "ex": [
+   "Öğle yemeğindeki çorbaya dilimlenmiş mantar ekledim.",
+   "Esnek ve uygun fiyatlı eğitime olan talep dünya genelinde arttıkça çevrimiçi öğrenme platformları hızla çoğaldı."
+  ],
+  "col": [
+   "mantar çorbası",
+   "yabani mantarlar",
+   "hızla büyük bir işletmeye dönüşmek"
+  ],
+  "tip": "Fiil olarak 'hızla artmak' anlamındadır ve nesne almaz. 'mushroom into' kalıbı bir şeyin hızla başka bir şeye dönüşmesini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "pattern",
+  "senses": [
+   "düzenlilik; örüntü",
+   "desen; motif"
+  ],
+  "ex": [
+   "Kedim her gün aynı uyku düzenini izliyor.",
+   "Araştırmacılar, evlerde enerji tasarrufu fırsatlarını belirlemek için enerji tüketim örüntülerini analiz ediyor."
+  ],
+  "col": [
+   "davranış kalıbı",
+   "uyku düzeni",
+   "çiçek desenli",
+   "bir düzeni izlemek"
+  ],
+  "tip": "Düzenlilik anlamında a pattern of + isim kalıbı sık kullanılır (a pattern of behaviour gibi).",
+  "note": ""
+ },
+ {
+  "id": "servant",
+  "senses": [
+   "hizmetçi; uşak"
+  ],
+  "ex": [
+   "Hizmetçi, misafir yatak odasına taze havlular taşıdı.",
+   "Geçmişin zengin hanelerinde hizmetçiler, çoğu zaman yasal koruma olmadan uzun saatler çalışırdı."
+  ],
+  "col": [
+   "ev hizmetçisi",
+   "devlet memuru",
+   "kamu görevlisi"
+  ],
+  "tip": "Devlet memuru için yalnızca servant değil, civil servant ya da public servant kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "liquid",
+  "senses": [
+   "sıvı",
+   "sıvı hâlde",
+   "nakit; likit"
+  ],
+  "ex": [
+   "Sıcak sıvıyı dikkatle bir bardağa döktü.",
+   "Bilim insanları, kirleticileri belirlemek ve halk sağlığına yönelik olası riskleri değerlendirmek için nehirlerden alınan sıvı örneklerini analiz ediyor."
+  ],
+  "col": [
+   "berrak sıvı",
+   "sıvı su",
+   "sıvı sabun",
+   "likit varlıklar"
+  ],
+  "tip": "liquid isim olarak 'sıvı', sıfat olarak 'sıvı hâldeki' anlamına gelir. liquid assets ise nakit ya da kolayca nakde çevrilebilen varlıklardır.",
+  "note": ""
+ },
+ {
+  "id": "tune",
+  "senses": [
+   "melodi; ezgi",
+   "akort etmek",
+   "ayarlamak; frekansa almak"
+  ],
+  "ex": [
+   "Kardeşim bulaşık yıkarken neşeli bir melodi ıslık çalıyordu.",
+   "Akılda kalıcı bir melodi, genç öğrencilerin yeni kelimeleri hatırlamasına ve konuşmada daha fazla özgüven kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "akılda kalıcı melodi",
+   "akortlu; doğru perdede",
+   "akortsuz; perde dışı",
+   "piyanoyu akort etmek"
+  ],
+  "tip": "in tune doğru perdede, out of tune ise akort dışı anlamına gelir. Müzikle ilgili bu kalıplar sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "butcher",
+  "senses": [
+   "kasap",
+   "kesmek; parçalamak",
+   "mahvetmek; berbat etmek"
+  ],
+  "ex": [
+   "Kasap tavukları paketledi ve bize basit bir tarif önerdi.",
+   "Yerel bir kasap, uygun parçaları ve porsiyon büyüklüklerini önererek müşterilerin gıda israfını azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "yerel kasap",
+   "kasap dükkânı",
+   "bir şarkıyı mahvetmek"
+  ],
+  "tip": "Kasap dükkânı için 'the butcher's' kullanılır. Fiil olarak 'berbat etmek' anlamı da vardır: butcher a song bir şarkıyı mahvetmek.",
+  "note": ""
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "sleepiness",
+  "senses": [
+   "uykululuk; uyku hali"
+  ],
+  "ex": [
+   "Kısa bir yürüyüş uykululuğumu üzerimden attı.",
+   "Gün içinde süregelen uykululuk, öğrencilerin konsantrasyonunu etkileyebilir ve yeni bilgileri öğrenme becerisini azaltabilir."
+  ],
+  "col": [
+   "gündüz uykululuğu",
+   "aşırı uykululuk",
+   "uykululuğu üzerinden atmak"
+  ],
+  "tip": "Sayılamayan bir isimdir. Uyku hâlini değil, uykulu hissetme duygusunu anlatır; uyuyakalmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "thrill",
+  "senses": [
+   "heyecan; coşku",
+   "heyecanlandırmak"
+  ],
+  "ex": [
+   "Uçurtma sonunda uçtuğunda gerçek bir heyecan duydum.",
+   "Keşfetmenin heyecanı, öğrencileri sınıf dışında bilimsel sorular üzerinde araştırma yapmaya motive edebilir."
+  ],
+  "col": [
+   "keşfetmenin heyecanı",
+   "heyecan dalgası",
+   "izleyicileri coşturmak"
+  ],
+  "tip": "thrilled kişinin heyecanlı olduğunu, thrilling ise bir şeyin heyecan verici olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "blush",
+  "senses": [
+   "kızarmak",
+   "kızarıklık"
+  ],
+  "ex": [
+   "Herkes şarkısını övmeye başlayınca yüzü kızarmaya başladı.",
+   "Sunum sırasında yüzü kızaran öğrenciler, destekleyici geri bildirimlerden ve konuşma pratiği fırsatlarından yararlanabilir."
+  ],
+  "col": [
+   "utançtan kızarmak",
+   "birini utandırmak",
+   "koyu kızarıklık"
+  ],
+  "tip": "Fiil genellikle nesnesiz kullanılır. 'Birinin yüzünü kızartmak' için make someone blush kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "contestant",
+  "senses": [
+   "yarışmacı"
+  ],
+  "ex": [
+   "Her yarışmacı jüri üyeleri için evde yapılmış bir kek getirdi.",
+   "Televizyonda yayımlanan her yarışmanın yarışmacılarına, değerlendirme ölçütleri hakkında önceden açık bilgi verilmelidir."
+  ],
+  "col": [
+   "bir yarışmanın yarışmacısı",
+   "bilgi yarışması yarışmacısı",
+   "kazanan yarışmacı"
+  ],
+  "tip": "contestant rekabetçi bir yarışmaya katılanı anlatır; participant ise daha geniş anlamda etkinliğe katılan herkesi kapsar.",
+  "note": ""
+ },
+ {
+  "id": "restrict",
+  "senses": [
+   "sınırlamak; kısıtlamak"
+  ],
+  "ex": [
+   "Bu dar ayakkabılar dans ederken hareketlerimi kısıtlıyor.",
+   "Yerel yönetimler, hava kirliliğini azaltmak amacıyla özel araçların şehir merkezlerine erişimini sınırlayabilir."
+  ],
+  "col": [
+   "erişimi kısıtlamak",
+   "hareketi kısıtlamak",
+   "bir şeyle sınırlamak"
+  ],
+  "tip": "restrict A to B kalıbı 'A'yı B ile sınırlamak' anlamına gelir: restrict access to members only.",
+  "note": ""
+ },
+ {
+  "id": "decorator",
+  "senses": [
+   "boyacı; dekoratör"
+  ],
+  "ex": [
+   "Dekoratör, tavanı boyamadan önce koltuğumuzu örttü.",
+   "Profesyonel bir dekoratör tutmak, ev sahiplerinin büyük yapısal değişikliklere girişmeden yaşam alanlarını iyileştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "boyacı ve dekoratör",
+   "iç mekân dekoratörü",
+   "dekoratör tutmak"
+  ],
+  "tip": "İngiliz İngilizcesinde genellikle duvar boyayan ya da kâğıt kaplayan işçiyi anlatır; sadece iç mekân tasarımcısını değil.",
+  "note": ""
+ },
+ {
+  "id": "inhabitant",
+  "senses": [
+   "sakin; yerleşik"
+  ],
+  "ex": [
+   "Köyün her sakini köprünün onarılmasına yardım etti.",
+   "Hızlı kentleşme, konut üzerinde baskı yaratabilir ve yerel sakinlerin yeşil alanlara erişimini azaltabilir."
+  ],
+  "col": [
+   "yerel halk",
+   "bir şehrin sakinleri",
+   "yerli halk"
+  ],
+  "tip": "inhabitants of + yer adı kalıbıyla kullanılır. Vatandaşlık anlamı taşımaz; citizen ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "liking",
+  "senses": [
+   "beğeni; sevgi"
+  ],
+  "ex": [
+   "Bu kış acılı çorbaya karşı bir beğeni geliştirdim.",
+   "Dış mekân etkinliklerine ilgi duyan çocuklar, ilerleyen yaşlarda sağlıklı alışkanlıklar edinmeye daha istekli olabilir."
+  ],
+  "col": [
+   "bir şeye karşı beğeni",
+   "hoşlanmaya başlamak",
+   "zevkinize uygun",
+   "beğeni geliştirmek"
+  ],
+  "tip": "a liking for bir şeyi sevmeyi, to your liking ise bir şeyin zevkinize uygun olmasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "paradise",
+  "senses": [
+   "cennet gibi yer",
+   "cennet"
+  ],
+  "ex": [
+   "Bu sessiz plaj yüzücüler için bir cennet.",
+   "Turizm ıssız adaları tatil cennetlerine dönüştürebilse de kontrolsüz gelişme, ziyaretçileri çeken ekosistemlere zarar verebilir."
+  ],
+  "col": [
+   "tropikal bir cennet",
+   "yaban hayatı cenneti",
+   "ada cenneti"
+  ],
+  "tip": "a paradise for + kişi veya hayvan, onlar için ideal yeri anlatır: a paradise for birdwatchers.",
+  "note": ""
+ },
+ {
+  "id": "heap",
+  "senses": [
+   "yığın",
+   "yığmak"
+  ],
+  "ex": [
+   "Giysilerini yatağın yanına yığın halinde bıraktı.",
+   "Atılan büyük giysi yığınları, moda endüstrisindeki hızlı tüketimin çevresel sonuçlarını gözler önüne seriyor."
+  ],
+  "col": [
+   "bir yığın giysi",
+   "kompost yığını",
+   "övgü yağdırmak"
+  ],
+  "tip": "a heap of tek bir yığını, heaps of ise gayriresmi bir dille çok miktarı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "glimpse",
+  "senses": [
+   "kısa bakış; görüntü",
+   "kısaca görmek"
+  ],
+  "ex": [
+   "Çitin arkasında bir tilkinin kısa görüntüsünü yakaladık.",
+   "Müze sergileri ziyaretçilere binlerce yıl önce var olmuş toplumların günlük hayatına dair bir bakış sunar."
+  ],
+  "col": [
+   "bir an görmek",
+   "kısa bir bakış",
+   "içine bir bakış sunmak"
+  ],
+  "tip": "glimpse kısa ve kısmi görmeyi anlatır; glance ise bilerek ve hızlıca bakmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "conscious",
+  "senses": [
+   "farkında olan",
+   "bilinci yerinde",
+   "bilerek yapılan"
+  ],
+  "ex": [
+   "Arkamda birinin durduğunun farkına vardım.",
+   "Tüketiciler satın aldıkları ürünlerin çevresel etkisinin farkına giderek daha fazla varıyor ve daha sürdürülebilir ürünleri tercih ediyor."
+  ],
+  "col": [
+   "-in farkında olmak",
+   "bilinci yerinde kalmak",
+   "bilinçli bir çaba",
+   "bilinçli bir karar"
+  ],
+  "tip": "Bir şeyin farkında olmayı be conscious of ile ifade edin. Vicdan anlamındaki conscience ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "homeless",
+  "senses": [
+   "evsiz"
+  ],
+  "ex": [
+   "Sel, kasabamızda birkaç aileyi evsiz bıraktı.",
+   "Uygun fiyatlı konutlar ve erişilebilir destek hizmetleri, evsiz insanların istikrarlı bir hayat kurmasında hayati önem taşır."
+  ],
+  "col": [
+   "evsiz insanlar",
+   "evsiz kalmak",
+   "birini evsiz bırakmak",
+   "evsizler barınağı"
+  ],
+  "tip": "Sıfat olarak isimden önce gelir: a homeless person. 'A homeless' şeklinde isim gibi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "feedback",
+  "senses": [
+   "geri bildirim; görüş"
+  ],
+  "ex": [
+   "Öğretmenim kompozisyonum hakkında faydalı geri bildirimler verdi.",
+   "Düzenli geri bildirim, öğrencilerin zayıf yönlerini belirlemelerini ve bağımsız öğrenme için daha etkili stratejiler geliştirmelerini sağlar."
+  ],
+  "col": [
+   "yapıcı geri bildirim",
+   "hakkında geri bildirim vermek",
+   "müşteri geri bildirimi",
+   "geri bildirim istemek"
+  ],
+  "tip": "Sayılamayan bir isimdir. a feedback veya feedbacks denmez; some feedback ya da a piece of feedback kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "startle",
+  "senses": [
+   "irkiltmek; ürkütmek"
+  ],
+  "ex": [
+   "Mutfakta yemek yaparken ani kapı vuruşu beni irkiltti.",
+   "Yüksek sesli inşaat gürültüleri, üreme mevsiminde yakındaki yaban hayatını ürkütebilir ve beslenme düzenlerini bozabilir."
+  ],
+  "col": [
+   "birini irkiltmek",
+   "bir şeyden irkilmek",
+   "kolayca irkilmek"
+  ],
+  "tip": "Ani bir şokla irkiltmeyi anlatır; uzun süre korkmayı değil. Genellikle be startled by kalıbında edilgen kullanılır.",
+  "note": ""
+ }
+]

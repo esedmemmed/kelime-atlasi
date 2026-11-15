@@ -1,0 +1,282 @@
+[
+ {
+  "id": "excited",
+  "senses": [
+   "heyecanlı; coşkulu"
+  ],
+  "ex": [
+   "Çocuklar ilk kamp gezileri için çok heyecanlıydı.",
+   "Dersler pratik deneyler ve keşif fırsatları içerdiğinde öğrenciler genellikle öğrenmeye daha hevesli oluyor."
+  ],
+  "col": [
+   "…hakkında heyecanlı",
+   "haber almaktan heyecanlanmak",
+   "heyecanlanmak"
+  ],
+  "tip": "İnsanlar için excited, şeyler için exciting kullanılır. Örneğin: 'The film is exciting' (film heyecan verici), 'I am excited' (ben heyecanlıyım).",
+  "note": ""
+ },
+ {
+  "id": "invite",
+  "senses": [
+   "davet etmek",
+   "istemek; çağırmak"
+  ],
+  "ex": [
+   "Yeni komşularımızı akşam yemeğine davet edelim.",
+   "Yerel yönetimler, kamusal alanlarla ilgili kararlar almadan önce önerilen değişiklikleri görüşmek üzere sakinleri davet etmelidir."
+  ],
+  "col": [
+   "akşam yemeğine davet etmek",
+   "birini bir şey yapmaya davet etmek",
+   "geri bildirim istemek",
+   "eleştiri çağırmak"
+  ],
+  "tip": "invite sb to + isim (invite someone to dinner) ya da invite sb to do + eylem (invite someone to speak) kalıplarını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "phone",
+  "senses": [
+   "telefon",
+   "telefon etmek; aramak"
+  ],
+  "ex": [
+   "Bulaşık yıkarken telefonum çaldı.",
+   "Sınıflarda telefon kullanımını sınırlamak, öğrencilerin derslere ve grup etkinliklerine daha etkili odaklanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "telefona cevap vermek",
+   "telefonda",
+   "cep telefonu",
+   "birini geri aramak"
+  ],
+  "tip": "Fiil olarak phone doğrudan nesne alır: phone someone. Araya to koymayın.",
+  "note": ""
+ },
+ {
+  "id": "miss",
+  "senses": [
+   "kaçırmak; yetişememek",
+   "özlemek",
+   "ıskalamak; fark etmemek"
+  ],
+  "ex": [
+   "Acele et, yoksa son otobüsü kaçıracağız.",
+   "Birkaç dersi kaçıran öğrencilerin sınıf arkadaşlarına ayak uydurabilmeleri için ek destek almaları gerekebilir."
+  ],
+  "col": [
+   "otobüsü kaçırmak",
+   "fırsatı kaçırmak",
+   "birini özlemek",
+   "asıl noktayı kaçırmak"
+  ],
+  "tip": "miss'den sonra isim veya -ing alır (miss the bus, miss going). 'miss to do' kalıbı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "travel",
+  "senses": [
+   "seyahat etmek; gitmek",
+   "seyahat; yolculuk",
+   "yayılmak; iletilmek"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabamızı ziyarete genellikle trenle gideriz.",
+   "Uygun fiyatlı toplu taşıma, sakinlerin daha sürdürülebilir biçimde seyahat etmesini sağlar ve özel araçlara bağımlılığı azaltır."
+  ],
+  "col": [
+   "yurt dışına seyahat etmek",
+   "trenle seyahat etmek",
+   "havayolu seyahati",
+   "seyahat sigortası"
+  ],
+  "tip": "Genel anlamda 'seyahat' sayılamaz isimdir (travel). Tek bir gezi için a trip kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "follow",
+  "senses": [
+   "takip etmek; izlemek",
+   "uymak; riayet etmek",
+   "anlamak; takip edebilmek"
+  ],
+  "ex": [
+   "Kenardaki ahşap köprüye varana kadar bu yolu takip edin.",
+   "Okullar, çocuklara dijital cihazları ve çevrim içi hizmetleri kullanırken güvenlik yönergelerine nasıl uyacaklarını öğretmelidir."
+  ],
+  "col": [
+   "talimatlara uymak",
+   "tavsiyeye uymak",
+   "bir yolu izlemek",
+   "bir tartışmayı takip etmek"
+  ],
+  "tip": "follow doğrudan nesne alır: follow me. 'follow with' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "american",
+  "senses": [
+   "Amerikan; Amerika'ya ait",
+   "Amerikalı"
+  ],
+  "ex": [
+   "Amerikalı komşumuz bizi balkabaklı turta için davet etti.",
+   "Amerikan üniversiteleri çeşitli dersleri, araştırma olanaklarını ve mesleki gelişim fırsatlarıyla uluslararası öğrencileri çeker."
+  ],
+  "col": [
+   "Amerikan İngilizcesi",
+   "Amerikan kültürü",
+   "Amerikan vatandaşı"
+  ],
+  "tip": "Her zaman büyük harfle yazılır. Genellikle ABD'yi kasteder, tüm Amerika kıtasını değil.",
+  "note": ""
+ },
+ {
+  "id": "russian",
+  "senses": [
+   "Rus; Rusya'ya ait",
+   "Rus",
+   "Rusça"
+  ],
+  "ex": [
+   "Dün akşam yemeğe Rus mantısı pişirdik.",
+   "Rus edebiyatını incelemek, öğrencilerin tarihsel olayların kültürel kimliği ve sanatsal ifadeyi nasıl etkilediğini keşfetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "Rus edebiyatı",
+   "Rusça konuşan",
+   "Rusça öğrenmek"
+  ],
+  "tip": "Büyük harfle yazılır. Dil adı olarak kullanıldığında (learn Russian) genellikle başına the gelmez.",
+  "note": ""
+ },
+ {
+  "id": "weather",
+  "senses": [
+   "hava (durumu)",
+   "atlatmak; üstesinden gelmek",
+   "aşınmak; yıpranmak"
+  ],
+  "ex": [
+   "Piknikten hemen önce hava güneşli oldu.",
+   "Aşırı hava koşulları gıda üretimini aksatabilir ve dezavantajlı topluluklar için temel ürünlerin maliyetini artırabilir."
+  ],
+  "col": [
+   "hava tahmini",
+   "aşırı hava koşulları",
+   "hava koşulları",
+   "bir fırtınayı atlatmak"
+  ],
+  "tip": "Hava durumu anlamında weather sayılamaz. Uzun vadeli iklim için climate kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "twice",
+  "senses": [
+   "iki kez",
+   "iki katı"
+  ],
+  "ex": [
+   "Çantamı iki kez kontrol ettim ama anahtarlarımı bulamadım.",
+   "Haftada en az iki kez egzersiz yapan sakinler fiziksel ve zihinsel sağlıklarında iyileşme yaşayabilir."
+  ],
+  "col": [
+   "haftada iki kez",
+   "iki kat fazla",
+   "iki kez düşünmek",
+   "iki kat büyük"
+  ],
+  "tip": "İki katı anlatmak için twice as + sıfat + as ya da twice the + isim kalıpları kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sing",
+  "senses": [
+   "şarkı söylemek",
+   "ötmek"
+  ],
+  "ex": [
+   "Bulaşık yıkarken en sevdiğimiz şarkıları söyleriz.",
+   "Düzenli olarak birlikte şarkı söyleyen çocuklar, sınıf arkadaşlarıyla daha güçlü ilişkiler ve daha fazla özgüven geliştirebilir."
+  ],
+  "col": [
+   "bir şarkı söylemek",
+   "eşlik ederek söylemek",
+   "koroda şarkı söylemek"
+  ],
+  "tip": "Düzensiz fiil: sing – sang – sung. 'Sung' geçmiş zaman ortacı olarak kullanılır (have sung).",
+  "note": ""
+ },
+ {
+  "id": "give",
+  "senses": [
+   "vermek",
+   "sağlamak; yaşatmak",
+   "düzenlemek; yapmak"
+  ],
+  "ex": [
+   "Lütfen yüzdükten sonra kız kardeşine temiz bir havlu ver.",
+   "Okullar, öğrencilere gerçek toplumsal ihtiyaçlara yönelik projelerle pratik becerilerini geliştirme fırsatları sunmalıdır."
+  ],
+  "col": [
+   "tavsiye vermek",
+   "sunum yapmak",
+   "birine şans vermek",
+   "izin vermek"
+  ],
+  "tip": "give sb sth ile give sth to sb aynı anlamdadır. Geçmiş zamanı gave'dir.",
+  "note": ""
+ },
+ {
+  "id": "shirt",
+  "senses": [
+   "gömlek"
+  ],
+  "ex": [
+   "Mülakattan önce mavi gömleğini ütüledi.",
+   "Bazı işverenler personelden resmi gömlek giymesini isterken, bazıları daha rahat kıyafetlere izin verir."
+  ],
+  "col": [
+   "pamuklu gömlek",
+   "kısa kollu gömlek",
+   "gömleğin düğmelerini iliklemek"
+  ],
+  "tip": "shirt gömleği, T-shirt ise tişörtü anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "britain",
+  "senses": [
+   "Birleşik Krallık; Büyük Britanya"
+  ],
+  "ex": [
+   "Kuzenim hemşirelik okumak için İngiltere'ye taşındı.",
+   "Britanya, elektrik üretiminde fosil yakıtlara bağımlılığını azaltmak için denizüstü rüzgâr çiftliklerine yatırım yaptı."
+  ],
+  "col": [
+   "Britanya genelinde",
+   "modern Britanya",
+   "Büyük Britanya"
+  ],
+  "tip": "Britain genellikle Birleşik Krallık'ı anlatır. Great Britain ise Kuzey İrlanda hariç İngiltere, İskoçya ve Galler'i kapsar.",
+  "note": ""
+ },
+ {
+  "id": "giraffe",
+  "senses": [
+   "zürafa"
+  ],
+  "ex": [
+   "Zürafa, en yüksek yapraklara ulaşmak için boynunu uzattı.",
+   "Doğal yaşam alanlarını korumak, Afrika otlaklarında sağlıklı zürafa popülasyonlarını ve biyoçeşitliliği sürdürmek için şarttır."
+  ],
+  "col": [
+   "bir sürü zürafa",
+   "zürafa yavrusu",
+   "zürafa koruma"
+  ],
+  "tip": "Vurgu ikinci hecededir (gi-RAFFE). Çoğulu -s ekiyle yapılır: giraffes.",
+  "note": ""
+ }
+]

@@ -1,0 +1,278 @@
+[
+ {
+  "id": "occupy",
+  "senses": [
+   "yer kaplamak; kullanmak",
+   "ele geçirmek; işgal etmek",
+   "meşgul etmek"
+  ],
+  "ex": [
+   "Bu eski kutular boş odamızın büyük kısmını kaplıyor.",
+   "Özel arabalar; parklar, bisiklet yolları ya da daha geniş kaldırımlar için kullanılabilecek değerli kentsel alanı kaplıyor."
+  ],
+  "col": [
+   "yer kaplamak",
+   "bir pozisyonda bulunmak",
+   "kendini bir şeyle meşgul etmek"
+  ],
+  "tip": "Meşgul olmak anlamında be occupied with ya da be occupied in doing kalıpları kullanılır. occupy yourself with ise kendini bir işle meşgul etmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "pebble",
+  "senses": [
+   "çakıl taşı; yuvarlak taş"
+  ],
+  "ex": [
+   "Yüzeyi pürüzsüz gri bir çakıl taşı ıslak ayakkabılarımın yanında duruyordu.",
+   "Plajlardan çakıl taşı toplamak, kıyı yaşam alanlarını bozabilir ve doğal erozyona karşı korumayı azaltabilir."
+  ],
+  "col": [
+   "pürüzsüz bir çakıl",
+   "çakıllı plaj",
+   "çakıl taşı toplamak"
+  ],
+  "tip": "pebble küçük ve pürüzsüz taşları anlatır. stone ise daha genel bir ifadedir ve her türlü taşı kapsayabilir.",
+  "note": ""
+ },
+ {
+  "id": "pitch",
+  "senses": [
+   "saha; oyun alanı",
+   "perde; ses yüksekliği",
+   "tanıtmak; sunmak"
+  ],
+  "ex": [
+   "Oyuncular yağmura rağmen sahaya koştu.",
+   "Genç girişimciler, finansman ve pratik rehberlik sağlayabilecek yatırımcılara iş fikirlerini sık sık sunar."
+  ],
+  "col": [
+   "futbol sahası",
+   "tiz ses",
+   "bir fikri sunmak",
+   "çadır kurmak"
+  ],
+  "tip": "Spor sahası anlamı İngiliz İngilizcesinde daha yaygındır. pitch a tent ise çadır kurmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "minimal",
+  "senses": [
+   "çok az; asgari"
+  ],
+  "ex": [
+   "Bu bitkiler sıcak havalarda bile çok az bakım gerektirir.",
+   "İyi tasarlanmış binalar, maliyetleri ve emisyonları azaltarak en az enerji kullanımıyla rahat iç sıcaklıkları koruyabilir."
+  ],
+  "col": [
+   "minimum etki",
+   "en az çaba",
+   "minimum risk",
+   "asgari gözetim"
+  ],
+  "tip": "minimal, en az düzeyi anlatır ama her zaman tamamen sıfır anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "disappearance",
+  "senses": [
+   "kayboluş; ortadan kaybolma",
+   "yok olma; ortadan kalkma"
+  ],
+  "ex": [
+   "Anahtarlarımın kaybolması yine geç kalmama neden oldu.",
+   "Geleneksel el sanatlarının yavaş yavaş yok olması, değişen yaşam tarzlarını ve el yapımı ürünlere olan azalan talebi yansıtıyor."
+  ],
+  "col": [
+   "ani kayboluş",
+   "gizemli kayboluş",
+   "yavaş yavaş yok oluş"
+  ],
+  "tip": "Genellikle of ile kullanılarak kaybolan kişi ya da nesne belirtilir. Fiili disappear'dır.",
+  "note": ""
+ },
+ {
+  "id": "potter",
+  "senses": [
+   "çömlekçi; testici",
+   "oyalanmak; vakit geçirmek"
+  ],
+  "ex": [
+   "Çömlekçi kadın ıslak elleriyle bir kase şekillendirdi.",
+   "Yerel çömlekçiler, bölgenin kültürel mirasına ilgi duyan ziyaretçileri çekerken geleneksel becerilerini koruyabilir."
+  ],
+  "col": [
+   "usta bir çömlekçi",
+   "çömlekçi çarkı",
+   "bahçede oyalanmak"
+  ],
+  "tip": "Fiil olarak genellikle potter about ya da potter around biçiminde kullanılır ve acele etmeden küçük işlerle uğraşmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "color-blind",
+  "senses": [
+   "renk körü"
+  ],
+  "ex": [
+   "Renk körü amcam bazen kırmızı elmaları yeşillerle karıştırıyor.",
+   "Tasarımcılar, kamuya açık bilgileri renk körü kullanıcılar için erişilebilir kılmak amacıyla renklerin yanında belirgin şekiller kullanmalı."
+  ],
+  "col": [
+   "kırmızı-yeşil renk körü",
+   "renk körü kullanıcılar"
+  ],
+  "tip": "İngiliz yazımı colour-blind'dır. Kişinin renkleri hiç görmediği anlamına gelmez; yalnızca bazı renkleri ayırt edemez.",
+  "note": ""
+ },
+ {
+  "id": "faculty",
+  "senses": [
+   "fakülte",
+   "öğretim kadrosu",
+   "yeti; yetenek"
+  ],
+  "ex": [
+   "Fen fakültesi yeni bir binaya taşındı.",
+   "Mühendislik fakültesi ile yerel sanayi arasındaki iş birliği, öğrencilerin istihdama uygun beceriler geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "fen fakültesi",
+   "öğretim üyeleri",
+   "zihinsel yetiler"
+  ],
+  "tip": "İngiliz İngilizcesinde genellikle üniversitenin bir bölümünü, Amerikan İngilizcesinde ise öğretim kadrosunu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "ripen",
+  "senses": [
+   "olgunlaşmak; olgunlaştırmak"
+  ],
+  "ex": [
+   "Yeşil domatesleri olgunlaşsın diye pencere kenarında bırakın.",
+   "Daha sıcak hava, meyvelerin daha erken olgunlaşmasına neden olabilir ve çiftçileri hasat planlarını değiştirmeye zorlayabilir."
+  ],
+  "col": [
+   "doğal olarak olgunlaşmak",
+   "dalında olgunlaşmak",
+   "güneşte olgunlaşmak"
+  ],
+  "tip": "ripe sıfattır, ripen ise fiildir. ripen hem geçişli hem de geçişsiz kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "huddle",
+  "senses": [
+   "birbirine sokulmak; kümelenmek",
+   "kalabalık küme",
+   "kısa gizli görüşme"
+  ],
+  "ex": [
+   "Yağmur dinene kadar tek bir şemsiyenin altında birbirimize sokulduk.",
+   "Yeterli barınak olmadığında yerinden edilmiş aileler dışarıda bir araya toplanabilir ve bu da onları soğuğa ve hastalığa daha açık hale getirir."
+  ],
+  "col": [
+   "birbirine sokulmak",
+   "ısınmak için sokulmak",
+   "ateş etrafında toplanmak",
+   "ekibin kısa toplantısı"
+  ],
+  "tip": "huddle genellikle ısınmak, korunmak ya da gizlice danışmak için yakın durmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "cater",
+  "senses": [
+   "ihtiyacını karşılamak",
+   "ikram hizmeti vermek"
+  ],
+  "ex": [
+   "Bu hafta sonu kursları her yaştan çocuğun ihtiyacına uygun.",
+   "Toplu taşıma sistemleri, erişilebilir araçlar ve istasyonlar sağlayarak sınırlı hareket kabiliyetine sahip yolcuların ihtiyaçlarını gözetmeli."
+  ],
+  "col": [
+   "farklı ihtiyaçları karşılamak",
+   "bireysel zevklere hitap etmek",
+   "bir düğüne yemek hizmeti vermek"
+  ],
+  "tip": "cater for ihtiyacı karşılamak ya da yemek sağlamak, cater to ise çoğunlukla zevke hitap etmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "exception",
+  "senses": [
+   "istisna",
+   "itiraz; karşı çıkma"
+  ],
+  "ex": [
+   "Kardeşim dışında herkes çorbayı beğendi.",
+   "Toplu taşıma genellikle uygun fiyatlı olsa da kırsal topluluklar, hizmetlerin sınırlı olması nedeniyle sık sık bir istisna oluşturur."
+  ],
+  "col": [
+   "kurala istisna",
+   "...dışında",
+   "istisna yapmak",
+   "itiraz etmek"
+  ],
+  "tip": "Bir kuralın istisnasını anlatmak için exception to kalıbı kullanılır. Kalıp olarak exception of yerine exception to tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "profile",
+  "senses": [
+   "yan görünüş; profil",
+   "kısa tanıtım; özgeçmiş",
+   "kamuoyu ilgisi"
+  ],
+  "ex": [
+   "Büyükbabamın yan profilini yumuşak bir kurşun kalemle çizdi.",
+   "Halka açık sergiler, yerel sanatçıların görünürlüğünü artırabilir ve küçük kasabalara ziyaretçi çekebilir."
+  ],
+  "col": [
+   "yandan görünüşte",
+   "ayrıntılı bir tanıtım",
+   "görünürlüğünü artırmak",
+   "dikkat çekmekten kaçınmak"
+  ],
+  "tip": "in profile yandan görünüş anlamına gelir. a high profile ise yüksek kamuoyu ilgisi demektir.",
+  "note": ""
+ },
+ {
+  "id": "exotic",
+  "senses": [
+   "egzotik; alışılmadık",
+   "yabancı kökenli"
+  ],
+  "ex": [
+   "Pazarda daha önce hiç tatmadığım egzotik meyveler satılıyor.",
+   "Egzotik bitkilerin yerel bahçelere dikilmesi, yayılımı kontrol altına alınmazsa yerli türleri tehdit edebilir."
+  ],
+  "col": [
+   "egzotik meyve",
+   "egzotik bir tatil yeri",
+   "yabancı tür"
+  ],
+  "tip": "Ekoloji bağlamında exotic, yerli olmayan anlamına gelir. Bu, mutlaka istilacı olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "erode",
+  "senses": [
+   "aşındırmak; erozyona uğratmak",
+   "zayıflatmak; zedelemek"
+  ],
+  "ex": [
+   "Güçlü dalgalar köyümüzün yakınındaki uçurumları aşındırdı.",
+   "Kalıcı enflasyon hane halkı tasarruflarını eritebilir ve ailelerin temel ihtiyaç maddelerini karşılamasını zorlaştırabilir."
+  ],
+  "col": [
+   "toprağı aşındırmak",
+   "kamu güvenini zedelemek",
+   "satın alma gücünü azaltmak",
+   "kıyı erozyonu"
+  ],
+  "tip": "Hem doğal aşınma hem de güven ya da değer gibi soyut şeylerin zamanla zayıflaması için kullanılabilir.",
+  "note": ""
+ }
+]

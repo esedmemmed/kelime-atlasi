@@ -1,0 +1,271 @@
+[
+ {
+  "id": "passenger",
+  "senses": [
+   "yolcu"
+  ],
+  "ex": [
+   "Bir yolcu otobüste mavi bir şemsiye unutmuş.",
+   "Daha iyi demiryolu hizmetleri, yolcu sayısını artırabilir ve özel araçlara olan bağımlılığı azaltabilir."
+  ],
+  "col": [
+   "yolcu treni",
+   "yolcu koltuğu",
+   "yolcu sayısı"
+  ],
+  "tip": "Yalnızca araçta seyahat eden kişiyi anlatır; sürücü ya da mürettebat için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "article",
+  "senses": [
+   "makale; yazı",
+   "eşya; madde",
+   "tanımlık"
+  ],
+  "ex": [
+   "Evde domates yetiştirmeyle ilgili ilginç bir makale okudum.",
+   "Makale, yoğun nüfuslu şehirlerde yeşil alanlara erişimin ruh sağlığını nasıl etkilediğini inceliyor."
+  ],
+  "col": [
+   "gazete makalesi",
+   "makale yazmak",
+   "bir giysi parçası",
+   "belirli tanımlık"
+  ],
+  "tip": "Bir giysi parçası için 'an article of clothing' denir. Dilbilgisindeki a, an, the için de 'article' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "homepage",
+  "senses": [
+   "ana sayfa"
+  ],
+  "ex": [
+   "Kütüphanenin ana sayfasında yeni okuma salonunun bir fotoğrafı var.",
+   "Bir üniversitenin ana sayfası, kurs bilgilerine, başvuru rehberine ve uluslararası öğrencilere yönelik destek hizmetlerine açık erişim sağlamalıdır."
+  ],
+  "col": [
+   "web sitesi ana sayfası",
+   "ana sayfa tasarımı",
+   "ana sayfayı ziyaret etmek"
+  ],
+  "tip": "'Home page' olarak da yazılır. Web sitesindeki herhangi bir sayfayı değil, giriş sayfasını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "percent",
+  "senses": [
+   "yüzde"
+  ],
+  "ex": [
+   "Yeni kış montumda yüzde yirmi indirim kazandım.",
+   "Anketine katılan sakinlerin neredeyse yüzde kırkı, bisiklet altyapısına daha fazla kamu parası ayrılmasını destekledi."
+  ],
+  "col": [
+   "yüzde on",
+   "yüzde beşlik artış",
+   "yüzde yüz"
+  ],
+  "tip": "Oran belirtirken sayının yanında tekil 'percent' kullanılır: five percent. İngiliz İngilizcesinde 'per cent' da yazılır.",
+  "note": ""
+ },
+ {
+  "id": "teenager",
+  "senses": [
+   "genç; ergen"
+  ],
+  "ex": [
+   "Genç yaşımda her gün bisikletle okula giderdim.",
+   "Okullar, gençlerin kaygılarını dile getirebilecekleri ve eğitimli personelden destek alabilecekleri alanlar sağlamalıdır."
+  ],
+  "col": [
+   "genç bir ergen",
+   "ergenlik döneminde",
+   "gençlerin ihtiyaçları"
+  ],
+  "tip": "Yalnızca 13-19 yaş arasındaki kişiler için kullanılır; reşit olmayan herkes için genel bir karşılık değildir.",
+  "note": ""
+ },
+ {
+  "id": "direction",
+  "senses": [
+   "yön; istikamet",
+   "yol tarifi; talimat",
+   "yönetim; yönlendirme"
+  ],
+  "ex": [
+   "Köpek aniden ters yöne koştu.",
+   "Hükümet yatırımları, temiz enerji kaynaklarına yönelik araştırmaları destekleyerek teknolojik gelişmenin yönünü etkileyebilir."
+  ],
+  "col": [
+   "ters yönde",
+   "yol tarifi istemek",
+   "talimatları izlemek",
+   "...nin yönetiminde"
+  ],
+  "tip": "Yol tarifi ya da kullanım talimatı anlamında genellikle çoğul 'directions' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "instead",
+  "senses": [
+   "yerine; bunun yerine"
+  ],
+  "ex": [
+   "Kafe kapalıydı, bunun yerine eve döndük.",
+   "Şehirler, yolları genişletmek yerine trafik sıkışıklığını ve kirliliği azaltmak için toplu taşımaya yatırım yapmalıdır."
+  ],
+  "col": [
+   "...nin yerine",
+   "yerine gitmek",
+   "bir şeyi yerine kullanmak"
+  ],
+  "tip": "'Instead' tek başına zarf olarak kullanılabilir; 'instead of'tan sonra isim ya da -ing biçimi gelir.",
+  "note": ""
+ },
+ {
+  "id": "amazing",
+  "senses": [
+   "şaşırtıcı; harika"
+  ],
+  "ex": [
+   "Dağdan görünen manzara gerçekten inanılmazdı.",
+   "Son tıbbi araştırmalar, daha önce tedavi edilemeyen hastalıkları olan insanlara yeni umut veren şaşırtıcı sonuçlar ortaya koydu."
+  ],
+  "col": [
+   "tamamen harika",
+   "şaşırtıcı sonuçlar",
+   "harika bir deneyim"
+  ],
+  "tip": "'Amazing' şeyleri anlatır; insanın duygusunu belirtmek için 'amazed' kullanılır: I was amazed.",
+  "note": ""
+ },
+ {
+  "id": "housewife",
+  "senses": [
+   "ev kadını; ev hanımı"
+  ],
+  "ex": [
+   "Ev hanımı olarak yoğun bir haneyi yönetiyor.",
+   "Bir ev hanımının ücretsiz emeği aileye katkı sağlar, ancak çoğu zaman ekonomik istatistiklerin dışında bırakılır."
+  ],
+  "col": [
+   "tam zamanlı ev hanımı",
+   "ev hanımı olarak çalışmak"
+  ],
+  "tip": "Çoğulu 'housewives' olur. Cinsiyet belirtmeyen karşılığı 'homemaker'dır.",
+  "note": ""
+ },
+ {
+  "id": "owner",
+  "senses": [
+   "sahip; mal sahibi"
+  ],
+  "ex": [
+   "Fırının sahibi her sabah bizi karşılar.",
+   "Mülk sahipleri, kiracıların ve yakındaki sakinlerin güvenliğini sağlamak için binalarını bakımlı tutmalıdır."
+  ],
+  "col": [
+   "işletme sahibi",
+   "mülk sahibi",
+   "gerçek sahibi"
+  ],
+  "tip": "Bir şeyin sahibini belirtmek için 'the owner of' + isim kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dish",
+  "senses": [
+   "tabak; kap",
+   "yemek; yemek çeşidi",
+   "sofra takımı; tabaklar"
+  ],
+  "ex": [
+   "Lütfen çilekleri şu mavi tabağa koy.",
+   "Geleneksel yemekler, yerel toplulukların kendine özgü yemek kültürünü korumasına yardımcı olurken uluslararası turistleri çekebilir."
+  ],
+  "col": [
+   "servis tabağı",
+   "geleneksel yemek",
+   "bulaşık yıkamak",
+   "ana yemek"
+  ],
+  "tip": "'A dish' bir yemek çeşidini, 'dishes' ise bulaşıkları ya da sofra takımını anlatır. 'Do the dishes' bulaşık yıkamak demektir.",
+  "note": ""
+ },
+ {
+  "id": "quite",
+  "senses": [
+   "oldukça; epey",
+   "tamamen; tam olarak"
+  ],
+  "ex": [
+   "Çorba oldukça baharatlı, ama seviyorum.",
+   "Bisiklet öğrenciler arasında oldukça popüler olsa da yetersiz altyapı, işe gidip gelen birçok kişinin bu sürdürülebilir seçeneği tercih etmesini engelliyor."
+  ],
+  "col": [
+   "oldukça iyi",
+   "epeyce birkaç",
+   "oldukça farklı",
+   "tam değil"
+  ],
+  "tip": "'Quite good' genellikle 'oldukça iyi' anlamına gelir; 'quite impossible' ise 'tamamen imkânsız' demektir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "gram",
+  "senses": [
+   "gram"
+  ],
+  "ex": [
+   "Çorbaya bir gram tuz ekleyip karıştır.",
+   "Gram başına sunulan besin öğelerini karşılaştırmak, tüketicilerin paketli gıdalar hakkında daha bilinçli seçimler yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir gram tuz",
+   "gram başına",
+   "gram cinsinden tartmak"
+  ],
+  "tip": "Kısaltması g'dir. Bir kilogram 1000 gramdır. İngilizcede çoğulu 'grams' olur.",
+  "note": ""
+ },
+ {
+  "id": "cookie",
+  "senses": [
+   "kurabiye; kraker",
+   "çerez"
+  ],
+  "ex": [
+   "Kavanozda bir çikolatalı kurabiye kaldı.",
+   "Web siteleri kullanıcı tercihlerini hatırlamak için çerezleri sıklıkla kullanır, ancak bazıları tarama davranışlarını da izler."
+  ],
+  "col": [
+   "çikolatalı kurabiye",
+   "kurabiye kavanozu",
+   "çerezleri kabul etmek",
+   "çerezleri silmek"
+  ],
+  "tip": "Amerikan İngilizcesinde küçük tatlı bisküvi için kullanılır; İngiliz İngilizcesinde bu anlamda 'biscuit' denir. Web çerezi, önbellek dosyasıyla aynı değildir.",
+  "note": ""
+ },
+ {
+  "id": "missing",
+  "senses": [
+   "kayıp; bulunamayan",
+   "eksik"
+  ],
+  "ex": [
+   "Kayıp yavru kediyi kanepenin arkasında uyurken bulduk.",
+   "Eksik veriler, araştırma bulgularının güvenilirliğini zayıflatabilir ve politika yapıcıların yanlış sonuçlara varmasına neden olabilir."
+  ],
+  "col": [
+   "kaybolmak",
+   "kayıp kişi",
+   "eksik veriler",
+   "eksik parça"
+  ],
+  "tip": "'Missing' bulunamayan ya da eksik anlamında sıfat olarak kullanılır. 'Be missing from' bir yerde bulunmamak demektir.",
+  "note": ""
+ }
+]

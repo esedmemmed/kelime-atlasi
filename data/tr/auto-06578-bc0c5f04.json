@@ -1,0 +1,274 @@
+[
+ {
+  "id": "whaling",
+  "senses": [
+   "balina avcılığı"
+  ],
+  "ex": [
+   "Liman müzesinde balina avcılığıyla ilgili bir sergi var.",
+   "Ticari balina avcılığı, balina popülasyonlarının azalmasına yol açtı ve bu deniz memelilerini korumak için uluslararası çabaları tetikledi."
+  ],
+  "col": [
+   "ticari balina avcılığı",
+   "balina avcı gemisi",
+   "balina avcılığı endüstrisi",
+   "balina avcılığı yasağı"
+  ],
+  "tip": "Sayılamayan isimdir, 'a whaling' demeyin. Yasak anlamında 'ban on whaling' kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "auditorium",
+  "senses": [
+   "büyük salon; konferans salonu",
+   "seyirci bölümü"
+  ],
+  "ex": [
+   "Okulun konseri için salon aileleriyle doldu.",
+   "Modern bir konferans salonu, üniversitenin halka açık dersler düzenlemesine ve yerel toplulukla bağlarını güçlendirmesine olanak tanıyor."
+  ],
+  "col": [
+   "okul salonu",
+   "ana salon",
+   "tıka basa dolu salon"
+  ],
+  "tip": "Hem tüm salonu hem de tiyatroda izleyicinin oturduğu bölümü anlatabilir; bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "seniority",
+  "senses": [
+   "kıdem; hizmet süresi",
+   "üst rütbe; üst düzey konum"
+  ],
+  "ex": [
+   "Kıdemi sayesinde tatil tarihlerini ilk o seçebiliyor.",
+   "Yalnızca kıdeme dayalı terfi, sürekli olağanüstü beceri ve bağlılık gösteren genç çalışanları cesaretten düşürebilir."
+  ],
+  "col": [
+   "kıdemine göre",
+   "yıllık kıdem",
+   "kıdem sistemi"
+  ],
+  "tip": "Sayılamayan isimdir. Yaşı değil, işte geçirilen süreyi ya da rütbeyi anlatır; 'age' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "substantiate",
+  "senses": [
+   "doğrulamak; kanıtlamak"
+  ],
+  "ex": [
+   "Sigorta talebini kanıtlamak için fişleri sakladı.",
+   "Araştırmacılar, yeni tedaviler hakkındaki iddiaları dikkatle tasarlanmış klinik çalışmalardan elde edilen güvenilir kanıtlarla desteklemek zorundadır."
+  ],
+  "col": [
+   "bir iddiayı doğrulamak",
+   "bir suçlamayı kanıtlamak",
+   "kanıtla desteklemek"
+  ],
+  "tip": "Resmi bir fiildir; genellikle claim, allegation gibi iddialarla kullanılır. Sadece 'söylemek' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "monologue",
+  "senses": [
+   "monolog; tek kişilik konuşma",
+   "uzun ve tek taraflı konuşma"
+  ],
+  "ex": [
+   "Oyuncu monologunu mutfakta tek başına çalıştı.",
+   "Dramatik bir monolog, karakterin iç çatışmalarını birkaç konuşmacı arasındaki diyaloglardan daha doğrudan ortaya koyabilir."
+  ],
+  "col": [
+   "monolog sunmak",
+   "dramatik monolog",
+   "iç monolog"
+  ],
+  "tip": "Monolog, bir karakterin seyirciye ya da kendi kendine söylediği uzun konuşmadır. 'Dialogue' (diyalog) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "plateau",
+  "senses": [
+   "yayla; plato",
+   "durgunluk dönemi; sabit düzey",
+   "durağanlaşmak; sabitlenmek"
+  ],
+  "ex": [
+   "Vadinin üstündeki çimenli bir yaylada kamp kurduk.",
+   "Dil öğrenenler sık sık bir durgunluk dönemine girer ve daha ileri gitmek için farklı çalışma yöntemlerine ihtiyaç duyabilir."
+  ],
+  "col": [
+   "yüksek yayla",
+   "bir durgunluk dönemine girmek",
+   "öğrenme durgunluğu"
+  ],
+  "tip": "Artışın durup sabit kalmasını anlatır; düşüş anlamına gelmez. Bu yüzden 'azalmak' diye çevirmeyin.",
+  "note": ""
+ },
+ {
+  "id": "acknowledgment",
+  "senses": [
+   "kabul; takdir",
+   "teşekkür; minnet ifadesi",
+   "alındı bildirimi"
+  ],
+  "ex": [
+   "Kız kardeşinin yardımsever önerisini kabul ederek başını salladı.",
+   "Kurumların geçmiş hatalarını herkese açık biçimde kabul etmeleri, güveni yeniden inşa etmelerine ve yerel topluluklarla ilişkilerini güçlendirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "...nın kabulü olarak",
+   "alındı bildirimi",
+   "kamuya açık takdir",
+   "destek için teşekkür"
+  ],
+  "tip": "Amerikan yazımı acknowledgment, İngiliz yazımı acknowledgement'tır; ikisi de kabul edilir. Genellikle 'of' ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "traverse",
+  "senses": [
+   "geçmek; katetmek"
+  ],
+  "ex": [
+   "Karlı vadiyi geçtikten sonra dağ kulübesine ulaştık.",
+   "Yeni demiryolu hatları ıssız bölgelerden geçerek izole toplulukları temel hizmetlere ve daha büyük pazarlara bağlıyor."
+  ],
+  "col": [
+   "bir vadiyi geçmek",
+   "engebeli araziyi aşmak",
+   "bir kıtayı katetmek"
+  ],
+  "tip": "Doğrudan nesne alan resmi bir fiildir: 'traverse the desert'. 'Traverse across' gibi edat eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "parameter",
+  "senses": [
+   "parametre; değişken",
+   "sınır; koşul"
+  ],
+  "ex": [
+   "Görüntüyü keskinleştirmek için bu parametreyi ayarlayabilirsiniz.",
+   "Araştırmacılar, kentsel talebi güvenilir biçimde modellemeden önce enerji tüketimini etkileyen temel parametreleri belirlemelidir."
+  ],
+  "col": [
+   "temel parametre",
+   "parametreleri belirlemek",
+   "belirlenen sınırlar içinde"
+  ],
+  "tip": "Sınır ya da koşul anlamında genellikle çoğul kullanılır. 'Perimeter' (çevre) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "macroeconomics",
+  "senses": [
+   "makroekonomi"
+  ],
+  "ex": [
+   "Kız kardeşim her salı günü kolejde makroekonomi okuyor.",
+   "Makroekonomiyi anlamak, politika yapıcıların faiz oranı değişikliklerinin ulusal istihdamı nasıl etkileyebileceğini değerlendirmesine yardımcı olur."
+  ],
+  "col": [
+   "makroekonomi çalışmak",
+   "makroekonomi dersi",
+   "makroekonominin ilkeleri"
+  ],
+  "tip": "Sonu -s ile bitse de bir bilim dalı olarak tekil fiille kullanılır. Mikroekonomi ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "inconsistency",
+  "senses": [
+   "tutarsızlık; çelişki",
+   "değişkenlik; istikrarsızlık"
+  ],
+  "ex": [
+   "Senin anlatınla onunki arasındaki bir çelişkiyi fark ettim.",
+   "Düzenlemelerin uygulanmasındaki tutarsızlık, kamu güvenini zedeleyebilir ve bazı işletmelere haksız avantaj sağlayabilir."
+  ],
+  "col": [
+   "anlatılar arasındaki tutarsızlık",
+   "iç tutarsızlık",
+   "performanstaki istikrarsızlık"
+  ],
+  "tip": "Sayılabilir kullanıldığında tek bir çelişkiyi, sayılamaz kullanıldığında tutarsız olma durumunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "articulate",
+  "senses": [
+   "net ifade eden; açık konuşan",
+   "açıkça ifade etmek"
+  ],
+  "ex": [
+   "Çok iyi konuşan komşumuz sorunu akşam yemeğinde açıkça anlattı.",
+   "Okullar, öğrencilerin görüşlerini açıkça ifade etmelerine yardımcı olmalı; aynı zamanda alternatif bakış açılarını düşünmeleri için onları teşvik etmelidir."
+  ],
+  "col": [
+   "iyi konuşan biri",
+   "fikirleri açıkça ifade etmek",
+   "endişeleri dile getirmek"
+  ],
+  "tip": "Sıfat ve fiil aynı yazılır ama telaffuzu farklıdır: sondaki hece sıfatta /ɪt/ ya da /ət/, fiilde /eɪt/ olarak okunur.",
+  "note": ""
+ },
+ {
+  "id": "freight",
+  "senses": [
+   "yük; kargo",
+   "navlun; taşıma ücreti",
+   "navlunla taşımak"
+  ],
+  "ex": [
+   "Tren geceleyin vadiden yük taşıdı.",
+   "Daha fazla yükü demiryoluyla taşımak, karayolu sıkışıklığını azaltabilir ve ağır araçlardan kaynaklanan emisyonları düşürebilir."
+  ],
+  "col": [
+   "hava yükü",
+   "yük treni",
+   "navlun ücretleri",
+   "demiryolu yük taşımacılığı"
+  ],
+  "tip": "Genellikle sayılamayan isimdir. 'Cargo' ağırlıklı olarak malın kendisini anlatırken 'freight' taşıma ve ücret boyutunu da kapsar.",
+  "note": ""
+ },
+ {
+  "id": "engulf",
+  "senses": [
+   "yutmak; kaplamak",
+   "kasıp kavurmak; sarmak"
+  ],
+  "ex": [
+   "Ani bir dalga plajdaki kum kalemizi yuttu.",
+   "Yükselen deniz seviyeleri, hükümetler etkili sel koruması yatırımı yapmazsa alçak kıyı yerleşimlerini yutabilir."
+  ],
+  "col": [
+   "alevlere bürünmek",
+   "sel suyuna gömülmek",
+   "bir ülkeyi kasıp kavuran kriz"
+  ],
+  "tip": "Çoğunlukla be engulfed in/by biçiminde edilgen kullanılır ve tamamen kaplama ya da sarma anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "starvation",
+  "senses": [
+   "ağır açlık; açlıktan ölme"
+  ],
+  "ex": [
+   "Gönüllüler, açlık tehlikesi altındaki hayvanlara yiyecek getirdi.",
+   "Uzun süren kuraklık, toplulukların güvenilir gıda rezervlerinden ve acil destekten yoksun kalması durumunda yaygın açlık ölümlerine yol açabilir."
+  ],
+  "col": [
+   "açlık tehlikesiyle karşı karşıya olmak",
+   "açlıktan ölmek",
+   "kitlesel açlık",
+   "açlığın eşiğinde"
+  ],
+  "tip": "Hunger'dan daha ağırdır; uzun süreli yetersiz beslenmeden doğan aşırı açlığı ya da ölümü anlatır.",
+  "note": ""
+ }
+]

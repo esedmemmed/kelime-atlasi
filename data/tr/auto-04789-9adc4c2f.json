@@ -1,0 +1,267 @@
+[
+ {
+  "id": "construct",
+  "senses": [
+   "inşa etmek; kurmak",
+   "oluşturmak; kurgulamak"
+  ],
+  "ex": [
+   "İşçiler dereye ahşap bir köprü inşa ediyorlar.",
+   "Öğrenciler, kişisel varsayımlar yerine güvenilir kanıtlarla desteklenen net argümanlar kurmayı öğrenmelidir."
+  ],
+  "col": [
+   "köprü inşa etmek",
+   "bir argüman kurmak",
+   "bir model oluşturmak"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir (kənˈstrʌkt); isim olarak ise ilk hecededir (ˈkɒnstrʌkt). Akademik yazıda 'construct an argument' kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "gender",
+  "senses": [
+   "cinsiyet",
+   "gramer cinsiyeti"
+  ],
+  "ex": [
+   "Kulüp, yaşına ve cinsiyetine bakılmaksızın herkesi memnuniyetle karşılıyor.",
+   "Cinsiyet eşitliğini destekleyen politikalar, eğitime erişimi iyileştirebilir ve toplum genelinde istihdam fırsatlarını artırabilir."
+  ],
+  "col": [
+   "cinsiyet eşitliği",
+   "cinsiyet rolleri",
+   "cinsiyet kimliği",
+   "cinsiyet uçurumu"
+  ],
+  "tip": "Gender çoğunlukla sosyal ve kültürel cinsiyeti, sex ise biyolojik cinsiyeti anlatır. Bu ayrıma özellikle akademik metinlerde dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "bungee",
+  "senses": [
+   "elastik halat; bungee ipi"
+  ],
+  "ex": [
+   "Uyku tulumlarını güçlü bir elastik iple sabitledik.",
+   "Macera turizmi işletmecileri, temel güvenlik standartlarının korunması için her bungee ipini düzenli olarak incelemek zorundadır."
+  ],
+  "col": [
+   "bungee ipi",
+   "bungee atlayışı",
+   "bir bungee atlayışı"
+  ],
+  "tip": "Bungee tek başına genellikle elastik ipi anlatır. Sporun adı bungee jumping'dir; sadece 'bungee' demek etkinliği tam anlatmaz.",
+  "note": ""
+ },
+ {
+  "id": "shrink",
+  "senses": [
+   "küçülmek; daralmak",
+   "geri çekilmek; çekinmek"
+  ],
+  "ex": [
+   "Yün kazağım kötü yıkandığım için küçüldü.",
+   "Kırsal nüfus azaldıkça, sınırlı bütçelere sahip yerel yönetimler için uygun fiyatlı toplu taşımayı sürdürmek giderek zorlaşıyor."
+  ],
+  "col": [
+   "boyutça küçülmek",
+   "küçülen nüfus",
+   "sorumluluktan kaçınmak"
+  ],
+  "tip": "Düzensiz fiildir: shrink – shrank – shrunk. 'Shrink from' kalıbı bir şeyden çekinmek ya da kaçınmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "spacecraft",
+  "senses": [
+   "uzay aracı; uzay gemisi"
+  ],
+  "ex": [
+   "Bahçemizden uzay aracının fırlatılışını izledik.",
+   "İnsansız uzay araçları, bilim insanlarının insan hayatını riske atmadan uzaktaki gezegenleri keşfetmesini sağlar."
+  ],
+  "col": [
+   "uzay aracı fırlatmak",
+   "insansız uzay aracı",
+   "yeniden kullanılabilir uzay aracı"
+  ],
+  "tip": "Tekil ve çoğul biçimi aynıdır: one spacecraft, two spacecraft. 'Spacecrafts' yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "shady",
+  "senses": [
+   "gölgeli; serin",
+   "şüpheli; kuşkulu"
+  ],
+  "ex": [
+   "Eski meşe ağacının altında gölgeli bir yer bulduk.",
+   "Kalabalık caddelere ağaç dikmek, sıcak havalarda yürümeyi teşvik eden gölgeli alanlar yaratır."
+  ],
+  "col": [
+   "gölgeli yer",
+   "şüpheli işler",
+   "şüpheli biri"
+  ],
+  "tip": "Shady hem 'gölgeli' hem de 'şüpheli' anlamına gelebilir. Shadowy ise daha çok loş ve belirsiz görünen şeyler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bachelor",
+  "senses": [
+   "lisans derecesi sahibi; lisans",
+   "bekâr erkek"
+  ],
+  "ex": [
+   "Kuzenim mühendislik alanında lisans derecesi aldı.",
+   "Lisans derecesi iş bulma şansını artırabilir; yine de birçok sektörde pratik deneyim hâlâ önemlidir."
+  ],
+  "col": [
+   "lisans derecesi",
+   "Sanat Lisansı",
+   "Fen Lisansı",
+   "evlenmeye uygun bekâr"
+  ],
+  "tip": "Lisans derecesi bachelor's degree olarak yazılır. Kesme işaretini ve -'s ekini unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "vaccination",
+  "senses": [
+   "aşılama"
+  ],
+  "ex": [
+   "Hemşire, aşı olmadan önce rahatlamamı söyledi.",
+   "Erişilebilir aşılama programları bulaşıcı hastalıkların önlenmesine yardımcı olur ve kamu sağlık hizmetleri üzerindeki baskıyı azaltır."
+  ],
+  "col": [
+   "aşılama programı",
+   "gribe karşı aşılama",
+   "aşılama oranı"
+  ],
+  "tip": "Bir hastalığa karşı korunmayı anlatırken 'against' kullanılır: vaccination against flu. 'For' edatını kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "self-defence",
+  "senses": [
+   "kendini savunma; meşru müdafaa"
+  ],
+  "ex": [
+   "Kız kardeşim her cumartesi kendini savunma dersine gidiyor.",
+   "Kendini savunma kursları özgüven kazandırabilir; ancak kişisel güvenlikte asıl odak tehlikeli durumlardan kaçınmak olmalıdır."
+  ],
+  "col": [
+   "meşru müdafaa kapsamında",
+   "kendini savunma dersi",
+   "kendini savunma teknikleri"
+  ],
+  "tip": "Genellikle belirtisiz kullanılır. İngiliz yazımı self-defence, Amerikan yazımı self-defense şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "cruise",
+  "senses": [
+   "gemi turu; deniz yolculuğu",
+   "rahatça ilerlemek; seyretmek"
+  ],
+  "ex": [
+   "Geçen yaz adalarda bir gemi turuna katıldık.",
+   "Gemi tatillerinin giderek popüler hale gelmesi, kıyı şehirlerindeki hava kirliliği konusunda endişelere yol açtı."
+  ],
+  "col": [
+   "gemi turuna çıkmak",
+   "yolcu gemisi",
+   "boyunca ilerlemek"
+  ],
+  "tip": "İsim olarak sayılabilir kullanılır: a cruise. Bu yüzden tekil halde önüne 'a' getirilir.",
+  "note": ""
+ },
+ {
+  "id": "apiece",
+  "senses": [
+   "her biri; kişi başına"
+  ],
+  "ex": [
+   "Taze şeftalileri adet başına elli sent'e aldık.",
+   "Yeniden kullanılabilir kaplar başlangıçta tek tek daha pahalı olabilir, ama uzun vadede ambalaj giderlerini azaltabilir."
+  ],
+  "col": [
+   "her biri on dolar",
+   "ikişer tane",
+   "birer tane"
+  ],
+  "tip": "Genellikle fiyattan ya da sayıdan sonra gelir. İsimden önce sıfat gibi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "considerably",
+  "senses": [
+   "önemli ölçüde; epey"
+  ],
+  "ex": [
+   "Yeni dairemiz eskisinden epey daha sıcak.",
+   "İyileştirilmiş toplu taşıma, büyük şehirlerdeki trafik sıkışıklığını ve hava kirliliğini önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "epey yüksek",
+   "önemli ölçüde değişmek",
+   "önemli ölçüde azaltmak"
+  ],
+  "tip": "Genellikle karşılaştırma ya da değişim fiillerini güçlendirir. Sıfat olan 'considerable' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "note-taking",
+  "senses": [
+   "not alma"
+  ],
+  "ex": [
+   "Not alma, toplantılarda neler olduğunu hatırlamama yardımcı oluyor.",
+   "Etkili not alma, öğrencilerin ders sonrasında temel argümanları belirlemesine ve karmaşık konuları daha verimli tekrar etmesine olanak tanır."
+  ],
+  "col": [
+   "not alma becerileri",
+   "etkili not alma",
+   "not alma stratejileri"
+  ],
+  "tip": "Genellikle sayılamaz. Fiil olarak 'take notes' kullanılır; 'do note-taking' demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "democracy",
+  "senses": [
+   "demokrasi",
+   "demokratik ülke"
+  ],
+  "ex": [
+   "Öğretmenimiz demokrasiyi sınıf oylamasıyla anlattı.",
+   "Sağlıklı bir demokrasi, güvenilir bilgiye erişebilen ve kamusal tartışmalara özgürce katılabilen bilinçli vatandaşlara dayanır."
+  ],
+  "col": [
+   "parlamenter demokrasi",
+   "temsili demokrasi",
+   "demokrasiyi güçlendirmek"
+  ],
+  "tip": "Bir yönetim sistemi olarak sayılamaz. Demokratik ülkeler anlamında ise çoğul olabilir: democracies.",
+  "note": ""
+ },
+ {
+  "id": "magnet",
+  "senses": [
+   "mıknatıs",
+   "çekim merkezi; cazibe"
+  ],
+  "ex": [
+   "Küçük bir mıknatıs alışveriş listemizi buzdolabında tutuyor.",
+   "İyi finanse edilen üniversiteler yetenekli araştırmacılar için bir çekim merkezi olabilir ve daha geniş ekonomide yeniliği destekleyebilir."
+  ],
+  "col": [
+   "buzdolabı mıknatısı",
+   "güçlü bir mıknatıs",
+   "turistler için çekim merkezi"
+  ],
+  "tip": "Bir grubu ya da kişiyi çeken yeri anlatırken 'a magnet for' kalıbı kullanılır: a magnet for tourists.",
+  "note": ""
+ }
+]

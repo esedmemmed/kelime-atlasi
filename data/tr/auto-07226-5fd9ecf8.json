@@ -1,0 +1,256 @@
+[
+ {
+  "id": "loll",
+  "senses": [
+   "tembelce uzanmak; keyif yapmak",
+   "sarkmak; gevşekçe sarkık durmak"
+  ],
+  "ex": [
+   "Uzun yürüyüşten sonra kanepede keyifle uzandık.",
+   "Sıcak havalarda rahat oturma alanları ziyaretçileri parkları terk etmek yerine gölgede dinlenmeye teşvik ediyor."
+  ],
+  "col": [
+   "boş boş uzanmak",
+   "kanepede keyifle uzanmak",
+   "sarkan dil"
+  ],
+  "tip": "Genellikle about veya around ile kullanılır ve rahat, gevşek bir duruşu anlatır. Ayrıca nesne almadan 'sarkmak' anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rapture",
+  "senses": [
+   "büyük coşku; kendinden geçme"
+  ],
+  "ex": [
+   "Çocuklar dans eden yunusları büyük bir coşkuyla izledi.",
+   "Canlı performanslarda yaşanan coşku, insanların ortak kültürel etkinliklere neden hâlâ değer verdiğini açıklamaya yardımcı oluyor."
+  ],
+  "col": [
+   "coşku içinde",
+   "bir şeye bayılmak",
+   "saf mutluluk"
+  ],
+  "tip": "Happiness'tan çok daha güçlü bir duygu anlatır ve çoğunlukla edebi bir üslupta kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "delusive",
+  "senses": [
+   "yanıltıcı; aldatıcı"
+  ],
+  "ex": [
+   "Ayna, odaya olduğundan daha geniş bir izlenim veren yanıltıcı bir görüntü yarattı.",
+   "Hükümetler temel mali zayıflıkları göz ardı ederse, ilk ekonomik kazançlar yanıltıcı bir güvenlik hissi yaratabilir."
+  ],
+  "col": [
+   "yanıltıcı umutlar",
+   "aldatıcı görünüm",
+   "yanıltıcı güvenlik hissi"
+  ],
+  "tip": "Resmi ve nadir kullanılan bir sözcüktür; günlük konuşmada misleading veya deceptive tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "flabby",
+  "senses": [
+   "gevşek; sarkık (kas)",
+   "zayıf; dağınık; güçsüz"
+  ],
+  "ex": [
+   "İyileşme sürecinde kaslarının gevşediğini hissetti.",
+   "Argümanları zayıf olan bir deneme, konusu önemli olsa bile okuyucuyu ikna edemeyebilir."
+  ],
+  "col": [
+   "gevşek kaslar",
+   "sarkık kollar",
+   "dağınık üslup"
+  ],
+  "tip": "Kas için gevşek ve sarkık, yazı için zayıf ve dağınık anlamında kullanılır; genellikle olumsuz bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "odometer",
+  "senses": [
+   "kilometre sayacı"
+  ],
+  "ex": [
+   "Kilometre sayacı, ne kadar yol gittiğimizi gösteriyordu.",
+   "İkinci el bir araç alırken tüketiciler, bakım kayıtlarının yanında kilometre sayacındaki değeri de kontrol etmelidir."
+  ],
+  "col": [
+   "kilometre göstergesi",
+   "kilometre sayacını kontrol etmek"
+  ],
+  "tip": "Aracın toplam kat ettiği mesafeyi gösterir; anlık hızı gösteren speedometer ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "exhort",
+  "senses": [
+   "ısrarla teşvik etmek; öğütlemek"
+  ],
+  "ex": [
+   "Koçumuz sonuna kadar denememiz için bizi cesaretlendirdi.",
+   "Halk sağlığı kampanyaları vatandaşları düzenli spor yapmaya çağırıyor; ancak kalıcı bir değişim için uygun fiyatlı tesislere de ihtiyaç var."
+  ],
+  "col": [
+   "birini harekete geçmeye çağırmak",
+   "vatandaşları oy kullanmaya çağırmak"
+  ],
+  "tip": "Resmi bir fiildir ve exhort sb to do kalıbıyla kullanılır; sadece tavsiye değil, güçlü bir çağrı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "lexicography",
+  "senses": [
+   "sözlük yazımı; sözlükbilim"
+  ],
+  "ex": [
+   "Teyzem sözlük yazımı alanında çalışıyor ve kelimeler hakkında konuşmayı çok seviyor.",
+   "Dijital sözlükbilim, sözlük editörlerinin büyük otantik örnek koleksiyonları aracılığıyla dildeki değişimleri izlemesine olanak tanıyor."
+  ],
+  "col": [
+   "dijital sözlükbilim",
+   "uygulamalı sözlükbilim",
+   "sözlükbilim alanında kariyer"
+  ],
+  "tip": "Genellikle sayılamayan isim olarak kullanılır; sözlük hazırlama işini ya da bu alandaki bilimsel çalışmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "illusive",
+  "senses": [
+   "yanıltıcı; hayali; aldatıcı"
+  ],
+  "ex": [
+   "Çöl, gerçek olmayan su birikintileriyle titreşiyordu.",
+   "Reklamlar, kişisel tatmini yalnızca maddi sahiplikle ilişkilendirerek yanıltıcı bir mutluluk hissi yaratabilir."
+  ],
+  "col": [
+   "aldatıcı görünüm",
+   "yanıltıcı mutluluk"
+  ],
+  "tip": "Az kullanılır; illusory daha yaygındır. Elusive ile karıştırılmamalıdır; elusive 'yakalanması zor' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "toddle",
+  "senses": [
+   "tökezleyerek yürümek",
+   "keyifle yürümek; dolaşmak"
+  ],
+  "ex": [
+   "Bebek halının üzerinde babasına doğru tökezleyerek yürüdü.",
+   "Çocuklar yürümeye başladıkça, güvenli alanlar dengelerini geliştirmelerine ve çevrelerini bağımsız keşfetmelerine yardımcı olur."
+  ],
+  "col": [
+   "odayı tökezleyerek geçmek",
+   "birine doğru tökezlemek",
+   "yavaşça uzaklaşmak"
+  ],
+  "tip": "Esas olarak nesne almayan bir fiildir ve yeni yürümeye başlayan küçük çocuklar için kullanılır. Yürümeye başlayan çocuğa toddler denir.",
+  "note": ""
+ },
+ {
+  "id": "repent",
+  "senses": [
+   "pişman olmak; tövbe etmek"
+  ],
+  "ex": [
+   "Yakın arkadaşına yalan söylediği için pişmanlık duymaya başladı.",
+   "Bazıları, suçluların eğitim ve toplum hizmeti yoluyla pişman olup hayatlarını yeniden kurabilmesi gerektiğini savunuyor."
+  ],
+  "col": [
+   "yanlışından pişman olmak",
+   "içtenlikle pişman olmak"
+  ],
+  "tip": "Genellikle repent of sth kalıbıyla kullanılır; regret'e göre daha çok ahlaki bir hatadan dönmeyi ve tövbeyi vurgular.",
+  "note": ""
+ },
+ {
+  "id": "glycerin",
+  "senses": [
+   "gliserin"
+  ],
+  "ex": [
+   "Bu el kremi, cildi yumuşak tutmak için gliserin içeriyor.",
+   "Üreticiler, cilt bakım ürünlerine nem tutmayı ve kuruluğu önlemeyi sağladığı için sıklıkla gliserin ekler."
+  ],
+  "col": [
+   "bitkisel gliserin",
+   "saf gliserin",
+   "gliserinli sabun"
+  ],
+  "tip": "Sayılamayan bir isimdir. İngilizcede glycerine yazımı da geçer; kimyasal adı glycerol'dür.",
+  "note": ""
+ },
+ {
+  "id": "drowse",
+  "senses": [
+   "uyuklamak; yarı uykuda olmak",
+   "uyuklama; yarı uyku hali"
+  ],
+  "ex": [
+   "Büyükbaba, güneşli pencerenin yanındaki koltukta uyukluyordu.",
+   "Yolcular uzun yolculuklar boyunca uyuklayabilir; bu yüzden rahat koltuklar ulaşım sağlayıcıları için önemli bir konudur."
+  ],
+  "col": [
+   "koltukta uyuklamak",
+   "uyuklayarak dalmak",
+   "yarı uykuda"
+  ],
+  "tip": "Biraz resmi bir sözcüktür; günlük konuşmada doze daha yaygındır. Tam uyku değil, hafif uyku halini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "lest",
+  "senses": [
+   "-mesin diye; -meyeyim diye"
+  ],
+  "ex": [
+   "Uyuyan bebeği uyandırmamak için fısıldayarak konuştu.",
+   "Politika yapıcılar, kısa vadeli ekonomik kazançların uzun vadeli çevre sorunlarına yol açmaması için yeni teknolojileri dikkatle değerlendirmelidir."
+  ],
+  "col": [
+   "unutmayalım diye",
+   "birinin ...mesi ihtimaline karşı"
+  ],
+  "tip": "Resmi bir bağlaçtır; lest'ten sonra genellikle yalın fiil veya should + yalın fiil gelir. Günlük konuşmada nadir kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "wring",
+  "senses": [
+   "sıkıp suyunu çıkarmak"
+  ],
+  "ex": [
+   "Asmadan önce ıslak havluyu iyice sıkıp suyunu çıkar.",
+   "Çamaşır makinesinin olmadığı yerlerde sakinler, yıkamadan sonra ağır kıyafetleri elle sıkmak zorundadır."
+  ],
+  "col": [
+   "havluyu sıkmak",
+   "ellerini ovuşturmak",
+   "kıyafetin suyunu sıkmak"
+  ],
+  "tip": "Düzensiz bir fiildir: wring, wrung, wrung. Suyunu sıkmak anlamında genellikle wring out kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "misappropriate",
+  "senses": [
+   "zimmetine geçirmek"
+  ],
+  "ex": [
+   "Veznedar, kişisel faturalarını ödemek için kulübün paralarını zimmetine geçirdi.",
+   "Bağımsız denetimler, sağlık ve eğitim gibi temel hizmetler için ayrılmış kamu fonlarının yetkililer tarafından zimmetlere geçirilmesini önlemeye yardımcı olur."
+  ],
+  "col": [
+   "fonları zimmetine geçirmek",
+   "kamu parasını zimmetine geçirmek",
+   "varlıkları zimmetine geçirmek"
+  ],
+  "tip": "Resmi bir kelimedir; funds gibi para ve mal isimleriyle kullanılır. Güvenilen parayı kişisel çıkar için kötüye kullanmak anlamındadır.",
+  "note": ""
+ }
+]

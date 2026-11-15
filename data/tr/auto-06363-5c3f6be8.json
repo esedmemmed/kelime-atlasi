@@ -1,0 +1,269 @@
+[
+ {
+  "id": "redundancy",
+  "senses": [
+   "işten çıkarma; fazlalık",
+   "gereksiz tekrar; fazlalık",
+   "yedeklilik"
+  ],
+  "ex": [
+   "Fabrika kapandıktan sonra Elena işten çıkarılma ve mali belirsizlikle karşı karşıya kaldı.",
+   "Otomasyon verimliliği artırabilir, ancak işverenler işten çıkarılma riski taşıyan çalışanlara yeniden eğitim sunmalıdır."
+  ],
+  "col": [
+   "işten çıkarma tazminatı",
+   "zorunlu işten çıkarma",
+   "gönüllü işten ayrılma",
+   "yerleşik yedeklilik"
+  ],
+  "tip": "İşten çıkarma anlamında 'made redundant' kalıbı sık kullanılır (işine son verilmek). Teknik bağlamda ise yedek sistem anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "recapture",
+  "senses": [
+   "yeniden yakalamak; geri almak",
+   "yeniden yaşamak; canlandırmak",
+   "yeniden yakalama; geri alma"
+  ],
+  "ex": [
+   "Çiftçi, bahçe kapımızın yanındaki keçiyi yeniden yakaladı.",
+   "Tarihi binaların restore edilmesi, şehirlerin ayırt edici karakterini yeniden canlandırmasına ve turizm için yeni fırsatlar yaratmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kaçan hayvanı yeniden yakalamak",
+   "heyecanı yeniden yaşamak",
+   "atmosferi yeniden yakalamak",
+   "pazar payını geri kazanmak"
+  ],
+  "tip": "Üç anlamı da vardır: yeniden yakalamak, yeniden yaşamak ve geri almak. Anlamı cümlenin bağlamından seçin.",
+  "note": ""
+ },
+ {
+  "id": "hydraulic",
+  "senses": [
+   "hidrolik"
+  ],
+  "ex": [
+   "Tamirci, arabamızı kaldırmak için hidrolik bir kaldırıcı kullandı.",
+   "Hidrolik sistemler, inşaat ekipmanlarının ağır yükleri daha fazla hassasiyetle ve daha az manuel çabayla kaldırmasını sağlar."
+  ],
+  "col": [
+   "hidrolik basınç",
+   "hidrolik fren",
+   "hidrolik kaldırıcı",
+   "hidrolik sistem"
+  ],
+  "tip": "Hidrolik sıvı basıncıyla, pnömatik ise hava basıncıyla güç iletir. Bu iki kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "gratis",
+  "senses": [
+   "ücretsiz",
+   "ücretsiz; bedava"
+  ],
+  "ex": [
+   "Otel, öğleden sonra için bize iki bisikleti ücretsiz ödünç verdi.",
+   "Müze girişini ücretsiz sağlamak, halkın kültürel ve eğitsel etkinliklere daha geniş katılımını teşvik edebilir."
+  ],
+  "col": [
+   "ücretsiz sağlanmak",
+   "ücretsiz dağıtılmak",
+   "ücretsiz giriş"
+  ],
+  "tip": "Resmi bir kelimedir; günlük konuşmada genellikle 'free' tercih edilir. Hem zarf hem sıfat olarak kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "slowdown",
+  "senses": [
+   "yavaşlama; durgunlaşma"
+  ],
+  "ex": [
+   "Yol onarımları, eve dönüş yolculuğumda yavaşlamaya neden oldu.",
+   "Ekonomik yavaşlama, özellikle iş gücü piyasasına yeni giren gençler için iş fırsatlarını azaltabilir."
+  ],
+  "col": [
+   "ekonomik yavaşlama",
+   "büyümedeki yavaşlama",
+   "keskin bir yavaşlama"
+  ],
+  "tip": "İsimdir. Fiil olarak iki kelime halinde yazılır: slow down (yavaşlamak). Bitişik yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "despatch",
+  "senses": [
+   "göndermek; sevk etmek",
+   "sevk; gönderme",
+   "muhabir raporu; resmi yazı"
+  ],
+  "ex": [
+   "Mağaza paketinizi yarın sabah gönderecek.",
+   "Şiddetli sel topluluklарı temel malzemelerden kopardığında, acil durum ekipleri kurtarma ekiplerini hızla sevk etmelidir."
+  ],
+  "col": [
+   "malları sevk etmek",
+   "kurtarma ekibi göndermek",
+   "sevke hazır"
+  ],
+  "tip": "Dispatch'in İngiliz yazımıdır. Aynı anlamdadır ancak dispatch daha yaygındır. Bir metinde tutarlı yazın.",
+  "note": ""
+ },
+ {
+  "id": "panther",
+  "senses": [
+   "siyah leopar; kara panter",
+   "puma; dağ aslanı"
+  ],
+  "ex": [
+   "Kara panter, kalın bir dalın üzerinde sessizce dinleniyordu.",
+   "Orman koridorlarının korunması, panter gibi hayvanların parçalanmış yaşam alanları arasında güvenle hareket etmesine olanak tanır."
+  ],
+  "col": [
+   "kara panter",
+   "Florida panteri"
+  ],
+  "tip": "Kara panter, genellikle siyah renkli bir leopar ya da jaguardır; ayrı bir tür değildir. Kuzey Amerika'da puma anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "paradox",
+  "senses": [
+   "çelişki; paradoks"
+  ],
+  "ex": [
+   "Dinlenmenin daha fazla iş çıkarmama yardımcı olması bana çelişkili görünüyor.",
+   "Modern teknoloji bir çelişki yaratıyor: insanlar anında iletişim kurabiliyor, ama yine de derin bir sosyal yalnızlık yaşayabiliyor."
+  ],
+  "col": [
+   "görünürdeki çelişki",
+   "bir paradoksu çözmek",
+   "bir paradoks ortaya koymak"
+  ],
+  "tip": "Görünüşte çelişkili olup doğru olabilen durumları anlatır. Sıradan bir hata ya da yanlışla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "reexport",
+  "senses": [
+   "yeniden ihraç etmek"
+  ],
+  "ex": [
+   "Çayı ithal ediyorlar, yerelde paketliyorlar ve sonra yeniden ihraç ediyorlar.",
+   "Bazı limanlar, ithal edilen malları komşu ülkelere yeniden ihraç ederek depolama, taşımacılık ve ilgili hizmetlerde iş yaratır."
+  ],
+  "col": [
+   "malları yeniden ihraç etmek",
+   "ithal ürünleri yeniden ihraç etmek",
+   "komşu pazarlara yeniden ihraç etmek"
+  ],
+  "tip": "İthal edilen malın tekrar ihraç edilmesini anlatır. 'reexport' ve 're-export' biçimleri kullanılır; metinde birini seçip tutarlı olun.",
+  "note": ""
+ },
+ {
+  "id": "restrictive",
+  "senses": [
+   "kısıtlayıcı; sınırlayıcı"
+  ],
+  "ex": [
+   "Kulübün kısıtlayıcı kuralları, misafir getirmemizi engelliyor.",
+   "Aşırı kısıtlayıcı planlama düzenlemeleri yatırımı caydırabilir ve uygun fiyatlı konut inşasını geciktirebilir."
+  ],
+  "col": [
+   "kısıtlayıcı düzenlemeler",
+   "kısıtlayıcı önlemler",
+   "aşırı kısıtlayıcı"
+  ],
+  "tip": "Sıfattır. 'restrict' fiilinden gelir ve bir şeye sınır koymayı vurgular. Genellikle kuralları ve düzenlemeleri tanımlar.",
+  "note": ""
+ },
+ {
+  "id": "lubricate",
+  "senses": [
+   "yağlamak; kaygan kılmak"
+  ],
+  "ex": [
+   "Bu can sıkıcı gıcırtıyı önlemek için kapı menteşelerini yağladım.",
+   "Endüstriyel makinelerin düzenli yağlanması sürtünmeyi azaltır, enerji verimliliğini artırır ve temel ekipmanın ömrünü uzatır."
+  ],
+  "col": [
+   "hareketli parçaları yağlamak",
+   "makineleri yağlamak",
+   "yağ ile yağlamak"
+  ],
+  "tip": "Geçişli bir fiildir; yağlanan parçayı doğrudan nesne olarak alır. Yağlayıcıyı 'with' ile bağlayın: lubricate with oil.",
+  "note": ""
+ },
+ {
+  "id": "magnate",
+  "senses": [
+   "magnat; dev patron"
+  ],
+  "ex": [
+   "Otel magnatı, şaşırtıcı derecede küçük bir arabayla geldi.",
+   "Bir medya magnatı, birkaç büyük haber kuruluşunun sahipliği aracılığıyla kamuoyu tartışmasını etkileyebilir."
+  ],
+  "col": [
+   "medya magnatı",
+   "denizcilik magnatı",
+   "iş dünyası magnatı"
+  ],
+  "tip": "Belirli bir sektörde zengin ve güçlü kişiyi anlatır; genellikle sektör adıyla birlikte kullanılır. 'magnet' (mıknatıs) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "accrue",
+  "senses": [
+   "birikmek; tahakkuk etmek"
+  ],
+  "ex": [
+   "Bu hesaptaki para üzerinden faiz her ay birikir.",
+   "Erken eğitimin faydaları yıllar içinde birikir; bu da bireysel fırsatları ve toplumsal sonuçları iyileştirir."
+  ],
+  "col": [
+   "faiz birikmek",
+   "fayda biriktirmek",
+   "birine geçmek",
+   "tahakkuk eden gelir"
+  ],
+  "tip": "Genellikle faiz ve gelir gibi zamanla biriken şeyler için kullanılır. 'accrue to' kalıbı bir şeyin birine ait olmasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "eradicate",
+  "senses": [
+   "kökünü kazımak; yok etmek"
+  ],
+  "ex": [
+   "Bahçedeki yabani otları tamamen yok etmek için her kökü çıkardık.",
+   "Uluslararası aşılama programları, savunmasız nüfusların yeterli korunma almasını sağlayarak bulaşıcı hastalıkları ortadan kaldırmayı hedefler."
+  ],
+  "col": [
+   "hastalığı ortadan kaldırmak",
+   "yoksulluğu ortadan kaldırmak",
+   "okuma yazmazlığını ortadan kaldırmak"
+  ],
+  "tip": "Tamamen yok etme anlamı taşır; 'reduce' (azaltmak) kadar hafif değildir. Hastalık ve yoksulluk gibi kavramlarla sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aggregation",
+  "senses": [
+   "birleştirme; toplama",
+   "küme; yığın"
+  ],
+  "ex": [
+   "Otomatik birleştirme, tüm harcamalarımı tek bir aylık raporda toplar.",
+   "Bölgesel iklim verilerinin birleştirilmesi, araştırmacıların tek tek gözlemlerin kaçırabileceği daha geniş örüntüleri belirlemesini sağlar."
+  ],
+  "col": [
+   "veri birleştirme",
+   "sonuçların birleştirilmesi",
+   "içerik toplama"
+  ],
+  "tip": "Dağınık öğeleri tek bir bütünde toplamayı anlatır; veri işleme bağlamında sık geçer. Aynı kökten gelen 'aggregate' fiilini de bilin.",
+  "note": ""
+ }
+]

@@ -1,0 +1,271 @@
+[
+ {
+  "id": "schooling",
+  "senses": [
+   "okul eğitimi; öğrenim"
+  ],
+  "ex": [
+   "Büyükannem küçük bir köyde okul eğitimini tamamladı.",
+   "Ücretsiz okul eğitimi sağlamak, dezavantajlı kesimden gelen çocuklara daha iyi fırsatlar vererek eşitsizliği azaltabilir."
+  ],
+  "col": [
+   "resmi okul eğitimi",
+   "zorunlu eğitim",
+   "eğitim yılları",
+   "öğrenimini tamamlamak"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; okulda alınan eğitimi ifade eder. \"Education\" ile karıştırmayın, o daha geniş bir kavramdır.",
+  "note": ""
+ },
+ {
+  "id": "inaccessible",
+  "senses": [
+   "ulaşılmaz; erişilemez",
+   "erişilemez; anlaşılması güç"
+  ],
+  "ex": [
+   "Ağır kar yağışı dağdaki kulübeyi hafta sonu boyunca ulaşılmaz hale getirdi.",
+   "Güvenilir ulaşım ve internet bağlantısının olmaması nedeniyle kamu hizmetleri birçok kırsal sakin için hâlâ erişilemez durumda."
+  ],
+  "col": [
+   "ziyaretçilere kapalı",
+   "ulaşılmaz bir bölge",
+   "büyük ölçüde erişilemez"
+  ],
+  "tip": "Sıklıkla \"inaccessible to sb\" kalıbıyla kullanılır ve bir kişinin ulaşamayacağını ya da kullanamayacağını belirtir.",
+  "note": ""
+ },
+ {
+  "id": "imminent",
+  "senses": [
+   "yakında olacak; yaklaşan"
+  ],
+  "ex": [
+   "Kara bulutlar şiddetli bir sağanağın yakın olduğunu gösteriyordu.",
+   "Ciddi bir sel tehlikesi yaklaşırken sahil topluluklarının, sakinlerin tahliye için yeterli zamanı olacak güvenilir uyarı sistemlerine ihtiyacı var."
+  ],
+  "col": [
+   "yakın tehlike",
+   "yaklaşan tehdit",
+   "yakın çöküş"
+  ],
+  "tip": "Bir şeyin çok yakında olacağını vurgular; \"urgent\" (acil, hemen ilgilenilmesi gereken) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "payable",
+  "senses": [
+   "ödenmesi gereken; vadesi gelen",
+   "ödenecek; alacaklıya ait"
+  ],
+  "ex": [
+   "Kiranın tamamı taşınmadan önce ödenmelidir.",
+   "Üniversite harçları çoğu zaman taksitler halinde ödenebilir; bu da öğrencilerin masraflarını akademik yıla yaymasına olanak tanır."
+  ],
+  "col": [
+   "peşin ödenecek",
+   "talep üzerine ödenecek",
+   "…a ödenecek",
+   "taksitle ödenecek"
+  ],
+  "tip": "\"payable to\" alıcıyı, \"payable in\" ise para birimi ya da ödeme şeklini belirtir.",
+  "note": ""
+ },
+ {
+  "id": "grove",
+  "senses": [
+   "küçük koru; meyve bahçesi"
+  ],
+  "ex": [
+   "Piknik örtümüzü gölgeli bir korunun içine serdik.",
+   "Geleneksel zeytinlikler kırsal geçimi desteklerken kuşlar ve diğer yaban hayvanları için değerli yaşam alanları sağlar."
+  ],
+  "col": [
+   "zeytinlik",
+   "portakal bahçesi",
+   "bir ağaç kümesi"
+  ],
+  "tip": "Birlikte dikilmiş küçük bir ağaç grubudur; \"olive grove\" gibi meyve ağaçlarının bulunduğu bahçeler için sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "diligent",
+  "senses": [
+   "çalışkan; özenli"
+  ],
+  "ex": [
+   "Titiz komşumuz her sabah sebze bitkilerini kontrol ediyor.",
+   "Özenli araştırma, öğrencilerin akademik makalelerinde daha güçlü argümanlar geliştirmesine ve yanlış bilgilere dayanmamasına yardımcı olur."
+  ],
+  "col": [
+   "çalışkan öğrenci",
+   "özenli araştırma",
+   "işinde titiz"
+  ],
+  "tip": "Sadece çok çalışmayı değil, dikkatli, düzenli ve sürekli emek vermeyi de ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "propagate",
+  "senses": [
+   "yaymak; yayılmasını sağlamak",
+   "üretmek; çoğaltmak"
+  ],
+  "ex": [
+   "İnsanlar doğrulanmamış hikâyeleri çevrimiçi paylaştığında bu hikâyeler hızla yayılır.",
+   "Topluluk fidanlıkları, çelikten yerli bitkiler üreterek doğadan örnek almadan habitat restorasyonunu destekleyebilir."
+  ],
+  "col": [
+   "fikirleri yaymak",
+   "yanlış bilgi yaymak",
+   "bitki çoğaltmak",
+   "çelikten üretmek"
+  ],
+  "tip": "Hem fikir ve bilgi yaymak hem de bitki çoğaltmak için kullanılır; resmi bir üsluba sahiptir.",
+  "note": ""
+ },
+ {
+  "id": "quantitative",
+  "senses": [
+   "niceliksel; nicel"
+  ],
+  "ex": [
+   "Koçumuz ilerlememizi takip etmek için nicel verilerden yararlanıyor.",
+   "Nicel araştırma, politika yapıcıların tutarlı istatistiksel ölçütlerle bölgeler arasındaki istihdam eğilimlerini karşılaştırmasına olanak tanır."
+  ],
+  "col": [
+   "nicel araştırma",
+   "nicel analiz",
+   "nicel veriler"
+  ],
+  "tip": "Ölçülebilen ya da sayılabilen miktarlara odaklanır; \"qualitative\" (niteliksel) ile karşıt anlamlıdır.",
+  "note": ""
+ },
+ {
+  "id": "wordy",
+  "senses": [
+   "uzun ve dolambaçlı; laf kalabalığı yapan"
+  ],
+  "ex": [
+   "Laf kalabalığı yapan e-postası basit bir isteği karmaşık gösterdi.",
+   "Kamuya yönelik bilgiler açık olmalıdır, çünkü dolambaçlı açıklamalar okuyucuların temel tavsiyeleri anlamasını engelleyebilir."
+  ],
+  "col": [
+   "uzun açıklama",
+   "uzun cümle",
+   "aşırı uzun"
+  ],
+  "tip": "Genellikle olumsuz bir anlam taşır ve gereğinden fazla kelime kullanmayı anlatır; zengin kelime dağarcığı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "fluff",
+  "senses": [
+   "tiftik; tüy kırıntısı",
+   "kabartmak; kabartarak yumuşatmak",
+   "boş laf; önemsiz içerik"
+  ],
+  "ex": [
+   "Koyu renk paltomdaki tüy kırıntılarını süpürdüm.",
+   "Eğitim programları, kamuoyunun anlayışına çok az katkı sağlayan yüzeysel boş laflar yerine güvenilir bilgiler sunmalıdır."
+  ],
+  "col": [
+   "bir tutam tiftik",
+   "yastığı kabartmak",
+   "tüylerle dolu ceplər"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz; \"fluff up\" bir şeyi kabartmak ya da havalandırmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "stern",
+  "senses": [
+   "ciddi; sert; katı",
+   "geminin kıçı; kıç"
+  ],
+  "ex": [
+   "Babam masanın karşısından bize sert bir bakış attı.",
+   "Okullar zorbalık konusunda sert uyarıları, bunu yaşayan öğrencilere yönelik pratik destekle birleştirmelidir."
+  ],
+  "col": [
+   "sert bir uyarı",
+   "ciddi bir ifade",
+   "geminin kıçında"
+  ],
+  "tip": "Sıfat olarak davranışın sert ve katı olduğunu, isim olarak ise geminin arka kısmını ifade eder; \"bow\" (baş) ile zıttır.",
+  "note": ""
+ },
+ {
+  "id": "reactor",
+  "senses": [
+   "nükleer reaktör",
+   "reaktör"
+  ],
+  "ex": [
+   "Rehberimiz bize bir nükleer reaktörün maketini gösterdi.",
+   "Modern reaktör tasarımları, düşük karbon salımıyla güvenilir elektrik üretirken güvenliği artırmayı hedefler."
+  ],
+  "col": [
+   "nükleer reaktör",
+   "reaktör çekirdeği",
+   "kimyasal reaktör"
+  ],
+  "tip": "Enerji konularında genellikle nükleer reaktör anlamına gelir; kimya alanında ise kontrollü tepkimelerin gerçekleştiği kabı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "massacre",
+  "senses": [
+   "katliam; toplu kıyım",
+   "katletmek; toplu olarak öldürmek"
+  ],
+  "ex": [
+   "Katliamın kurbanlarını anan bir anıtı ziyaret ettik.",
+   "Tarihi bir katliam hakkında eğitim verirken hassasiyet, güvenilir kanıtlar ve kurbanlara ve topluluklarına saygı gerekir."
+  ],
+  "col": [
+   "korkunç katliam",
+   "katliam kurbanları",
+   "bir katliamı anmak"
+  ],
+  "tip": "Büyük ölçekli, bilerek yapılan öldürmeleri anlatır ve çok ağır bir anlam taşır; sıradan kayıplar için kullanılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "herald",
+  "senses": [
+   "habercilik etmek; müjdelemek",
+   "habercı; öncü belirti"
+  ],
+  "ex": [
+   "İlk çiçekler baharın geldiğini müjdeliyor.",
+   "Uygun fiyatlı enerji depolama teknolojisindeki gelişmeler, uzak topluluklar için güvenilir yenilenebilir elektriğin yeni bir dönemini başlatabilir."
+  ],
+  "col": [
+   "yeni bir dönemi müjdelemek",
+   "gelişini haber vermek",
+   "atılım olarak nitelendirilmek"
+  ],
+  "tip": "Fiil olarak \"haber vermek, müjdelemek\" anlamına gelir; sıfat ya da zarf değildir. \"be heralded as\" kalıbı \"olarak nitelendirilmek\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "disciplinary",
+  "senses": [
+   "disiplin cezasına ilişkin; disiplin",
+   "akademik; bilimsel alana ilişkin"
+  ],
+  "ex": [
+   "Antrenör tekrarlanan kural ihlallerinden sonra disiplin işlemi başlattı.",
+   "Okullar, disiplin prosedürlerinin adil olmasını ve öğrencilere davranışlarını açıklama fırsatı verilmesini sağlamalıdır."
+  ],
+  "col": [
+   "disiplin işlemi",
+   "disiplin duruşması",
+   "disiplin prosedürleri",
+   "disiplinler arası sınırlar"
+  ],
+  "tip": "En sık \"disciplinary action\" kalıbında geçer ve kurallara uymama nedeniyle uygulanan yaptırımları ifade eder.",
+  "note": ""
+ }
+]

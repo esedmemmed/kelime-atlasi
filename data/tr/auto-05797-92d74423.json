@@ -1,0 +1,271 @@
+[
+ {
+  "id": "taboo",
+  "senses": [
+   "tabu; yasak",
+   "tabu; yasaklı"
+  ],
+  "ex": [
+   "Ofisimizde maaşlar hakkında konuşmak hâlâ bir tabu.",
+   "Halk eğitimi, akıl hastalığını çevreleyen tabuyu sorgulayabilir ve daha fazla insanın destek aramasını teşvik edebilir."
+  ],
+  "col": [
+   "bir tabuyu yıkmak",
+   "tartışılmaz bir konu; tabu konu",
+   "…a karşı bir tabu"
+  ],
+  "tip": "İsim olarak 'a taboo' şeklinde kullanılır; sıfat olarak 'a taboo subject' gibi isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "fortify",
+  "senses": [
+   "güçlendirmek; takviye etmek",
+   "güçlendirmek; dirençli kılmak",
+   "besinlerini zenginleştirmek"
+  ],
+  "ex": [
+   "Fırtınadan önce duvarı güçlendirmek için kum torbaları kullandık.",
+   "Üreticiler, risk altındaki nüfusta besin eksikliklerini önlemeye yardımcı olmak için temel gıdaları temel vitaminlerle zenginleştirebilir."
+  ],
+  "col": [
+   "kıyı savunmasını güçlendirmek",
+   "gıdayı vitaminle zenginleştirmek",
+   "kendini …a karşı güçlendirmek"
+  ],
+  "tip": "'fortify A with B' kalıbı 'A'yı B ile güçlendirmek' anlamına gelir; B'nin başına 'with' koyulmasını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "trench",
+  "senses": [
+   "hendek; siper",
+   "okyanus çukuru; hendek"
+  ],
+  "ex": [
+   "İşçiler kırık boruyu onarmak için bir hendek kazdı.",
+   "Yeraltı kablolarını döşemeden önce mühendisler her hendeğin işçiler için sağlam ve güvenli olduğundan emin olmalıdır."
+  ],
+  "col": [
+   "hendek kazmak",
+   "derin hendek",
+   "okyanus çukuru",
+   "siper savaşı"
+  ],
+  "tip": "Karada 'trench' hendek ya da siper, denizde ise okyanus çukuru anlamına gelir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "incinerator",
+  "senses": [
+   "yakma fırını; çöp yakma tesisi"
+  ],
+  "ex": [
+   "Hastane belirli atıkları özel bir yakma fırınına gönderiyor.",
+   "Modern yakma tesisleri atıktan elektrik üretebilir, ancak emisyonlarının halk sağlığını korumak için sıkı izlenmesi gerekir."
+  ],
+  "col": [
+   "atık yakma fırını",
+   "endüstriyel yakma fırını",
+   "yakma fırını emisyonları"
+  ],
+  "tip": "Genellikle atık yakma tesisi için kullanılır; cenaze yakma yeri için 'crematorium' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "supreme",
+  "senses": [
+   "en yüksek; üstün",
+   "son derece; en büyük"
+  ],
+  "ex": [
+   "Konsey adada en yüksek yetkiye sahip.",
+   "Birçok ülkede Yüksek Mahkeme, yeni yasaların anayasaya uygunluğunu inceleyebilir."
+  ],
+  "col": [
+   "Yargıtay; Yüksek Mahkeme",
+   "en yüksek yetki",
+   "son derece güven"
+  ],
+  "tip": "Kendisi zaten 'en yüksek' anlamı taşıdığı için genellikle 'more supreme' veya 'most supreme' gibi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "boldness",
+  "senses": [
+   "cesaret; atılganlık",
+   "çarpıcılık; canlılık"
+  ],
+  "ex": [
+   "Lider olmaya gönüllü olduğunda cesareti herkesi etkiledi.",
+   "İklim değişikliğiyle mücadele, gerekli reformların başlangıçta sınırlı halk desteği çekebileceği durumlarda özellikle siyasi cesaret gerektirir."
+  ],
+  "col": [
+   "cesaret göstermek",
+   "siyasi cesaret",
+   "renklerin çarpıcılığı"
+  ],
+  "tip": "Davranış için cesaret, tasarım ve renk için çarpıcılık anlamına gelir; bağlama göre çeviri seçin.",
+  "note": ""
+ },
+ {
+  "id": "analytic",
+  "senses": [
+   "analitik; çözümleyici"
+  ],
+  "ex": [
+   "Analitik yaklaşımı aylık harcamalarımızı anlamamıza yardımcı oldu.",
+   "Okullar öğrencilerin analitik becerilerini geliştirmeli ki kanıtları değerlendirebilsinler ve kamuoyu tartışmalarındaki zayıflıkları fark edebilsinler."
+  ],
+  "col": [
+   "analitik yaklaşım",
+   "analitik beceriler",
+   "analitik çerçeve"
+  ],
+  "tip": "'analytical' ile neredeyse aynı anlamdadır; günlük dilde beceri tanımlarken 'analytical' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "discrepancy",
+  "senses": [
+   "tutarsızlık; uyuşmazlık"
+  ],
+  "ex": [
+   "İki alışveriş fişi arasında bir tutarsızlık fark ettik.",
+   "Resmî rakamlar ile anket sonuçları arasındaki uyuşmazlık, istihdam istatistiklerinin doğruluğuna ilişkin kaygılar doğuruyor."
+  ],
+  "col": [
+   "…arasındaki tutarsızlık",
+   "önemli bir tutarsızlık",
+   "bir tutarsızlığı açıklamak"
+  ],
+  "tip": "Olması gereken şeyin tutmadığı durumlar için kullanılır; genellikle 'between' ile birlikte gelir.",
+  "note": ""
+ },
+ {
+  "id": "amplification",
+  "senses": [
+   "ses veya sinyal yükseltme; amplifikasyon",
+   "artış; güçlenme"
+  ],
+  "ex": [
+   "Ses yükseltme olmadan dışarıdaki kimse şarkıcıyı duyamazdı.",
+   "Yanıltıcı iddiaların sosyal medyada büyütülmesi, bilimsel araştırmalara olan kamu güvenini zedeleyebilir."
+  ],
+  "col": [
+   "ses yükseltme",
+   "sinyal güçlendirme",
+   "ses yükseltme ekipmanı"
+  ],
+  "tip": "Teknik olarak ses ve sinyal güçlendirmeyi anlatır; mecazi olarak bir etkinin büyümesi için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "precedence",
+  "senses": [
+   "öncelik; üstünlük"
+  ],
+  "ex": [
+   "Evde ev ödevi, video oyunlarından önce gelir.",
+   "Hükümetler yeni ulaşım teknolojileri için düzenleme geliştirirken kamu güvenliği, ticari çıkarların önüne geçmelidir."
+  ],
+  "col": [
+   "…önünde yer almak; önce gelmek",
+   "…a öncelik vermek",
+   "…üzerinde üstünlüğe sahip olmak"
+  ],
+  "tip": "Sık kullanılan kalıp 'take precedence over' şeklindedir; 'over' ile neyin önce geldiğini belirtin.",
+  "note": ""
+ },
+ {
+  "id": "resonance",
+  "senses": [
+   "duygusal yankı; etkileşim",
+   "derin ses; çınlama",
+   "rezonans; titreşim"
+  ],
+  "ex": [
+   "Bu eski şarkının büyükanne ve büyükbabam için özel bir anlamı var.",
+   "Göç hikâyeleri, benzer yolculuklar ve zorluklar yaşamış ailelerin okurları için genellikle duygusal bir yankı uyandırır."
+  ],
+  "col": [
+   "duygusal yankı",
+   "kültürel yankı",
+   "manyetik rezonans"
+  ],
+  "tip": "Duygusal anlamda 'have resonance for' kalıbı kullanılır; fizikte ise titreşim ve rezonans anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "apologetic",
+  "senses": [
+   "özür dileyen; mahcup"
+  ],
+  "ex": [
+   "Çayımı döktükten sonra mahcup bir gülümseme verdi.",
+   "Müşteri şikâyetlerine özür dilercesine verilen bir yanıt yardımcı olur, ancak şirketler altta yatan sorunları da çözmelidir."
+  ],
+  "col": [
+   "mahcup bir gülümseme",
+   "özür dilercesine bir ton",
+   "…için özür dileyen"
+  ],
+  "tip": "Genellikle 'about' veya 'for' ile birlikte kullanılarak neyden dolayı üzgün olduğu belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "stoop",
+  "senses": [
+   "eğilmek; öne doğru bükülmek",
+   "alçalmak; değersiz bir şey yapmak",
+   "kamburluk; eğik duruş"
+  ],
+  "ex": [
+   "Düşen portakalı almak için eğildi.",
+   "Şirketler, giderek rekabetçi hale gelen bir pazarda sadece satışları artırmak için yanıltıcı reklamcılığa başvurmamalıdır."
+  ],
+  "col": [
+   "eğilip bir şeyi almak",
+   "aldatmacaya başvurmak",
+   "eğik yürümek"
+  ],
+  "tip": "'stoop to doing' kalıbı, 'alçalıp … yapmak' anlamındadır; buradaki 'to' bir edattır, fiil değildir.",
+  "note": ""
+ },
+ {
+  "id": "postmortem",
+  "senses": [
+   "otopsi; ölü muayenesi",
+   "sonradan değerlendirme; tahlil",
+   "ölümden sonraki"
+  ],
+  "ex": [
+   "Ekibimiz hayal kırıklığı yaratan maçtan sonra bir değerlendirme toplantısı yaptı.",
+   "Otopsi, ölüm nedenine ilişkin önemli kanıtlar sağlayabilir ve halk sağlığı izlemesinin iyileştirilmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir değerlendirme yapmak",
+   "otopsi muayenesi",
+   "sonradan yapılan analiz"
+  ],
+  "tip": "İngiliz İngilizcesinde 'post-mortem' biçiminde de yazılır; mecazi olarak proje veya maç sonrası değerlendirme için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "certify",
+  "senses": [
+   "onaylamak; resmen belgelemek"
+  ],
+  "ex": [
+   "Bir mühendis yeni kazanımızın güvenli olduğunu onayladı.",
+   "Bağımsız kuruluşlar, belirli ürünlerin çevresel standartlara uyduğunu onaylayarak tüketicilerin daha bilinçli satın alma kararları vermesine yardımcı olur."
+  ],
+  "col": [
+   "…olduğunu onaylamak",
+   "güvenli olarak onaylamak",
+   "organik olarak sertifikalı"
+  ],
+  "tip": "Resmî veya yetkili bir onayı ifade eder; genellikle 'certify that' ile bir cümle yapısı kurulur.",
+  "note": ""
+ }
+]

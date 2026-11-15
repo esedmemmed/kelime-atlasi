@@ -1,0 +1,273 @@
+[
+ {
+  "id": "saturn",
+  "senses": [
+   "Satürn"
+  ],
+  "ex": [
+   "Geçen gece teleskopla Satürn'ü gördük.",
+   "Satürn'ün halkalarını incelemek, bilim insanlarının parçacıkların uzayda zamanla nasıl etkileştiğini anlamasına yardımcı oluyor."
+  ],
+  "col": [
+   "Satürn'ün halkaları",
+   "Satürn'ün uyduları",
+   "Satürn'ün etrafında dönmek"
+  ],
+  "tip": "Gezegen adları büyük harfle yazılır ve genellikle başına the getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "medication",
+  "senses": [
+   "ilaç; ilaç tedavisi"
+  ],
+  "ex": [
+   "Her sabah kahvaltıyla birlikte ilacını alır.",
+   "Uygun fiyatlı ilaç, özellikle tıbbi hizmetlerin sınırlı olduğu topluluklarda halk sağlığını iyileştirmek için şarttır."
+  ],
+  "col": [
+   "ilaç almak",
+   "ilaç yazmak",
+   "ilaç kullanmak"
+  ],
+  "tip": "Genel anlamda sayılamayan bir isimdir; birden fazla farklı ilaçtan söz ederken medications kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "weed",
+  "senses": [
+   "yabani ot",
+   "ot ayıklamak"
+  ],
+  "ex": [
+   "Taşların arasında inatçı bir yabani ot bitmiş.",
+   "Çiftçiler, ürün rotasyonu yapıp açıkta kalan toprağı organik maddeyle örterek kimyasal kullanmadan yabani otları kontrol edebilir."
+  ],
+  "col": [
+   "yabani otları çekip çıkarmak",
+   "bahçedeki otları ayıklamak",
+   "yabani ot kontrolü",
+   "ayıklayıp çıkarmak"
+  ],
+  "tip": "weed out kalıbı, istenmeyen kişi ya da şeyleri elemek anlamında mecazi olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "swallow",
+  "senses": [
+   "yutmak",
+   "kolayca inanmak; katlanmak",
+   "kırlangıç"
+  ],
+  "ex": [
+   "Tekrar konuşmaya başlamadan önce lütfen yemeğini yut.",
+   "Tüketiciler, daha iyi sağlık vaatlerinin arkasındaki kanıtları incelemeden reklam iddialarına öylece inanmamalı."
+  ],
+  "col": [
+   "tablet yutmak",
+   "gururunu yutmak",
+   "kabul edilmesi zor"
+  ],
+  "tip": "swallow your pride, gururunu bir kenara bırakıp istemediğin bir durumu kabullenmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "specifically",
+  "senses": [
+   "özellikle; özel olarak",
+   "açıkça; net olarak",
+   "daha doğrusu"
+  ],
+  "ex": [
+   "Bu küçük fırçayı özellikle şişeleri temizlemek için aldım.",
+   "Halk kütüphaneleri, yaşlı yetişkinlerin temel dijital becerileri geliştirmesine yardımcı olmak üzere özel olarak tasarlanmış programlar sunmalı."
+  ],
+  "col": [
+   "özel olarak tasarlanmış",
+   "özellikle belirtmek",
+   "daha ayrıntılı olarak"
+  ],
+  "tip": "specifically for belirli bir amacı vurgular; ayrıntıya inmek için more specifically kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cuisine",
+  "senses": [
+   "mutfak"
+  ],
+  "ex": [
+   "Bu küçük restoran Güney Hindistan'ın lezzetli yemeklerini sunuyor.",
+   "Geleneksel mutfak, yerel toplulukların kültürel kimliğini korumasına yardımcı olurken uluslararası turistleri de çekebilir."
+  ],
+  "col": [
+   "yerel mutfak",
+   "geleneksel mutfak",
+   "uluslararası mutfak"
+  ],
+  "tip": "cuisine bir yemek değil, bir mutfak tarzını ifade eder; tek bir yemek için dish kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "butt",
+  "senses": [
+   "izmarit",
+   "popo",
+   "varil; fıçı"
+  ],
+  "ex": [
+   "Basamağın önünden bir sigara izmaritini süpürdü.",
+   "Atılan sigara izmaritleri kentsel çöpe katkıda bulunur ve zararlı maddeleri nehirlere ve kıyı sularına salabilir."
+  ],
+  "col": [
+   "sigara izmariti",
+   "yağmur varili",
+   "alay konusu olmak"
+  ],
+  "tip": "Popo anlamındaki butt gayriresmî bir kullanımdır; the butt of a joke ise birinin şakalara konu olması demektir.",
+  "note": ""
+ },
+ {
+  "id": "idol",
+  "senses": [
+   "idol; kahraman",
+   "put; tapınılan heykel"
+  ],
+  "ex": [
+   "Lina maçtan sonra nihayet spor idolüyle tanıştı.",
+   "Gençler, idolleri gerçekçi olmayan fiziksel görünüm standartlarını teşvik ettiğinde sağlıksız alışkanlıklar edinebilir."
+  ],
+  "col": [
+   "spor idolü",
+   "pop idolü",
+   "bir puta tapmak"
+  ],
+  "tip": "idol (idol) ile idle (boş, atıl) yazım ve anlam bakımından ayrılır; telaffuzları benzer olduğu için karıştırılabilir.",
+  "note": ""
+ },
+ {
+  "id": "governor",
+  "senses": [
+   "vali; eyalet valisi",
+   "yönetim kurulu üyesi"
+  ],
+  "ex": [
+   "Nehir taştıktan sonra vali kasabamızı ziyaret etti.",
+   "Vali, eyalet genelindeki eğitim eşitsizliklerini azaltmak için devlet okullarına ek finansman önerdi."
+  ],
+  "col": [
+   "eyalet valisi",
+   "okul yönetim kurulu üyesi",
+   "cezaevi müdürü",
+   "merkez bankası başkanı"
+  ],
+  "tip": "governor'ın karşılığı bağlama göre değişir: state governor vali, school governor ise okul yönetim kurulu üyesidir.",
+  "note": ""
+ },
+ {
+  "id": "bead",
+  "senses": [
+   "boncuk",
+   "damla"
+  ],
+  "ex": [
+   "Gümüş telin üzerine mavi bir boncuk geçirdi.",
+   "Geleneksel boncuk takılar, nesilden nesile aktarılan becerileri korurken yerel zanaatkârlara gelir sağlayabilir."
+  ],
+  "col": [
+   "cam boncuklar",
+   "boncuk dizmek",
+   "bir damla ter"
+  ],
+  "tip": "a bead of sweat bir damla ter anlamına gelir; bead sayılabilir bir isimdir, dolayısıyla çoğul hali beads olur.",
+  "note": ""
+ },
+ {
+  "id": "spin",
+  "senses": [
+   "dönmek; döndürmek",
+   "iplik eğirmek",
+   "dönüş; yönlendirilmiş yorum"
+  ],
+  "ex": [
+   "Bisikleti kaldırdıktan sonra tekerlek dönmeye devam etti.",
+   "Haber kuruluşları, resmi iddiaları çevreleyen siyasi yönlendirmeyi olduğu gibi tekrarlamak yerine bunları dikkatle incelemeli."
+  ],
+  "col": [
+   "etrafında dönmek",
+   "yün eğirmek",
+   "siyasi yönlendirme",
+   "kısa bir tur atmak"
+  ],
+  "tip": "Düzensiz fiildir: spin – spun – spun; ing hali spinning olur. Anlamına göre 'iplik eğirmek' ya da 'yorum' olabilir.",
+  "note": ""
+ },
+ {
+  "id": "versus",
+  "senses": [
+   "karşı; karşısında"
+  ],
+  "ex": [
+   "Bu geceki maçta okulumuz yerel koleje karşı oynuyor.",
+   "Kamu ulaşımı ile özel ulaşım arasındaki tartışma genellikle maliyet, kolaylık ve çevresel etki üzerinde yoğunlaşır."
+  ],
+  "col": [
+   "kamu ile özel",
+   "A karşı B davası",
+   "faydalar ile maliyetler"
+  ],
+  "tip": "Genellikle vs. ya da v. olarak kısaltılır; maç, dava veya iki seçeneğin karşılaştırılması için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "antonym",
+  "senses": [
+   "karşıt anlamlı sözcük; zıt anlamlı"
+  ],
+  "ex": [
+   "Öğretmenimiz bize generous kelimesinin zıt anlamlısını sordu.",
+   "Her yeni sıfatla birlikte bir zıt anlamlı da öğrenmek, dil öğrencilerinin karşıtlıkları anlamasına ve kelime dağarcığını genişletmesine yardımcı olabilir."
+  ],
+  "col": [
+   "...in zıt anlamlısı",
+   "bir zıt anlamlı çifti"
+  ],
+  "tip": "Genellikle an antonym of kalıbıyla kullanılır; eş anlamlı sözcük için synonym terimi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "noticeable",
+  "senses": [
+   "belirgin; fark edilir"
+  ],
+  "ex": [
+   "Yeni masamda fark edilir bir çizik var.",
+   "Elektrikli otobüslerin devreye girmesi, yoğun yolların yakınındaki gürültüde belirgin bir azalmaya yol açtı."
+  ],
+  "col": [
+   "belirgin bir fark",
+   "belirgin bir iyileşme",
+   "belirgin bir artış"
+  ],
+  "tip": "noticeable 'kolayca fark edilebilir' anlamındadır; 'önemli, dikkate değer' için notable kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dependent",
+  "senses": [
+   "bağımlı; muhtaç",
+   "bağlı; ...e göre değişen"
+  ],
+  "ex": [
+   "Genç kuşlar hâlâ ebeveynlerine bağımlı.",
+   "Kırsal topluluklar, sağlık hizmetlerine, işe ve ileri eğitime erişebilmek için çoğunlukla güvenilir otobüs hizmetlerine bağlıdır."
+  ],
+  "col": [
+   "...e bağlı",
+   "maddi açıdan bağımlı",
+   "büyük ölçüde ...e bağlı",
+   "bakmakla yükümlü çocuklar"
+  ],
+  "tip": "Genellikle on ile kullanılır; İngiliz İngilizcesinde 'bakmakla yükümlü kişi' anlamındaki isim biçimi dependant olarak yazılır.",
+  "note": ""
+ }
+]

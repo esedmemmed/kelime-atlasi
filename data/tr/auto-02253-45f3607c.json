@@ -1,0 +1,271 @@
+[
+ {
+  "id": "dolphin",
+  "senses": [
+   "yunus"
+  ],
+  "ex": [
+   "Bu sabah erken saatte teknemizin yanında bir yunus sıçradı.",
+   "Gemi trafiğinden kaynaklanan su altı gürültüsü yunusların iletişimini bozabilir ve bu canlıların besin bulmasını zorlaştırabilir."
+  ],
+  "col": [
+   "bir grup yunus",
+   "şişeburun yunusu",
+   "yunus koruma"
+  ],
+  "tip": "Yunus bir memelidir, balık değildir. Bir grup yunus için İngilizcede a pod of dolphins denir.",
+  "note": ""
+ },
+ {
+  "id": "maid",
+  "senses": [
+   "hizmetçi; temizlikçi"
+  ],
+  "ex": [
+   "Otel temizlikçisi odamıza temiz havlular getirdi.",
+   "Oteller, her temizlikçiye uygun ekipman ve odaları güvenli biçimde temizlemesi için yeterli zaman sağlamalıdır."
+  ],
+  "col": [
+   "otel temizlikçisi",
+   "hizmetçi olarak çalışmak"
+  ],
+  "tip": "Genellikle kadın ev hizmetçisi ya da temizlik personeli için kullanılır. Otellerde daha çok room attendant tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "apologise",
+  "senses": [
+   "özür dilemek"
+  ],
+  "ex": [
+   "Meyve suyunu ceketinin üzerine döktüğüm için özür dilemeliyim.",
+   "Şirketler, hataları müşterilere rahatsızlık ya da mali kayıp yaşattığında bunun için herkesin önünde özür dilemelidir."
+  ],
+  "col": [
+   "birinden özür dilemek",
+   "bir şey için özür dilemek",
+   "içtenlikle özür dilemek"
+  ],
+  "tip": "İngiliz yazımıdır; Amerikan İngilizcesinde apologize biçimi kullanılır. Kişi için to, neden için for kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sickness",
+  "senses": [
+   "hastalık; rahatsızlık",
+   "mide bulantısı; kusma"
+  ],
+  "ex": [
+   "Bu hafta birkaç çocuk hastalık nedeniyle okula gelemedi.",
+   "İşverenler, havalandırmayı iyileştirerek ve rahatsız olan personeli evde kalmaya teşvik ederek hastalığa bağlı devamsızlığı azaltabilir."
+  ],
+  "col": [
+   "yolculuk tutması",
+   "hamilelik bulantısı",
+   "dağ tutması",
+   "hastalık nedeniyle devamsızlık"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Ayrıca mide bulantısı ya da kusma anlamına da gelir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "firework",
+  "senses": [
+   "havai fişek"
+  ],
+  "ex": [
+   "Gölün üzerinde tek bir havai fişek patlayarak altın renkli kıvılcımlar saçtı.",
+   "Halka açık havai fişek gösterileri ziyaretçileri çekebilir; ancak gürültüleri yerel sakinleri ve yaban hayatını rahatsız edebilir."
+  ],
+  "col": [
+   "havai fişek gösterisi",
+   "havai fişek patlatmak",
+   "havai fişekleri izlemek"
+  ],
+  "tip": "Tek bir havai fişek sayılabilir. Genel olarak havai fişekleri anlatırken İngilizcede çoğul fireworks kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "politics",
+  "senses": [
+   "siyaset; politika",
+   "siyasi görüş; siyasi tutum"
+  ],
+  "ex": [
+   "Amcam akşam yemeğinde arkadaşlarıyla siyaseti konuşmayı çok sever.",
+   "Gençlerin siyasete daha fazla katılması, geleceklerini etkileyen kararları etkilemelerine yardımcı olabilir."
+  ],
+  "col": [
+   "yerel siyaset",
+   "siyasete girmek",
+   "siyaseti tartışmak",
+   "parti siyaseti"
+  ],
+  "tip": "Siyasi faaliyet anlamında tekil fiille kullanılır. Kişinin siyasi görüşü anlamında çoğul fiil de alabilir.",
+  "note": ""
+ },
+ {
+  "id": "journalist",
+  "senses": [
+   "gazeteci"
+  ],
+  "ex": [
+   "Gazeteci, komşumuzla yeni park hakkında röportaj yaptı.",
+   "Sorumlu bir gazeteci, kamuoyunu etkileyebilecek haberleri yayımlamadan önce bilgileri dikkatle doğrulamalıdır."
+  ],
+  "col": [
+   "araştırmacı gazeteci",
+   "serbest gazeteci",
+   "yayıncı gazeteci"
+  ],
+  "tip": "Journalist genel olarak haber toplayıp yazan gazeteciyi ifade eder. Reporter ise daha çok sahadan haber bildiren muhabiri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "warn",
+  "senses": [
+   "uyarmak; ikaz etmek"
+  ],
+  "ex": [
+   "Tava çok ısınırsa lütfen beni uyar.",
+   "Bilim insanları, habitat kaybının sürmesinin pek çok türü yok olma tehlikesiyle karşı karşıya bırakabileceği konusunda uyarıyor."
+  ],
+  "col": [
+   "birini bir şey konusunda uyarmak",
+   "bir şeyi yapmaya karşı uyarmak",
+   "birine bir şeyi yapmamasını söylemek"
+  ],
+  "tip": "Warn sb that... yapısıyla bir şeyin olacağını bildirebilirsiniz. Warn sb not to do... ise yapılmaması gerekeni söyler.",
+  "note": ""
+ },
+ {
+  "id": "wipe",
+  "senses": [
+   "silmek; temizlemek",
+   "silme; silme hareketi",
+   "ıslak mendil; temizlik bezi"
+  ],
+  "ex": [
+   "Tabakları koymadan önce lütfen masayı sil.",
+   "Okullar, öğrencileri hijyenik bir öğrenme ortamını sürdürmek için ortak kullanılan malzemeleri kullanımdan sonra silmeye teşvik etmelidir."
+  ],
+  "col": [
+   "bir yüzeyi silmek",
+   "gözyaşlarını silmek",
+   "bir kez silmek",
+   "ıslak mendiller"
+  ],
+  "tip": "Wipe genellikle bir yüzeyi silmek anlamında kullanılır. Wipe out ise tamamen yok etmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "accountant",
+  "senses": [
+   "muhasebeci; mali müşavir"
+  ],
+  "ex": [
+   "Muhasebeci, kafeyi açmadan önce giderlerimizi kontrol etti.",
+   "Nitelikli bir muhasebeci edinmek, küçük işletmelerin vergilerini doğru yönetmelerine ve daha iyi mali kararlar almalarına yardımcı olur."
+  ],
+  "col": [
+   "nitelikli muhasebeci",
+   "yeminli mali müşavir",
+   "muhasebeci tutmak"
+  ],
+  "tip": "Accountant kişiyi ifade eder. Muhasebe işini ya da akademik alanı anlatmak için accounting kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "comparison",
+  "senses": [
+   "karşılaştırma; kıyas"
+  ],
+  "ex": [
+   "Hızlı bir karşılaştırma, daha ucuz bisikleti seçmeme yardımcı oldu.",
+   "Toplu taşıma sistemlerinin karşılaştırılması; maliyet, güvenilirlik ve çevresel etki bakımından önemli farklılıklar ortaya koyuyor."
+  ],
+  "col": [
+   "karşılaştırma yapmak",
+   "ile karşılaştırıldığında",
+   "kıyaslandığında",
+   "doğrudan karşılaştırma"
+  ],
+  "tip": "İki şey arasındaki karşılaştırma için comparison between A and B kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "chemical",
+  "senses": [
+   "kimyasal madde",
+   "kimyasal"
+  ],
+  "ex": [
+   "Temizlik kimyasallarını çocukların erişemeyeceği yerde güvenle saklayın.",
+   "Çiftçiler, arazilerinde kullanılan tarımsal kimyasal miktarını azaltarak yakındaki nehirleri koruyabilir."
+  ],
+  "col": [
+   "kimyasal tepkime",
+   "zararlı kimyasallar",
+   "kimya sektörü",
+   "kimyasal atık"
+  ],
+  "tip": "İsim olarak sayılabilir. Her kimyasal madde zararlı değildir; kelime 'kimyasal' sıfatı olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "range",
+  "senses": [
+   "aralık; kapsam; çeşitlilik",
+   "arasında değişmek",
+   "dağ sırası"
+  ],
+  "ex": [
+   "Bu dükkân çok çeşitli taze meyve satıyor.",
+   "Üniversiteler, işverenlerin değişen ihtiyaçlarını karşılamak için daha geniş bir ders yelpazesi sunmalıdır."
+  ],
+  "col": [
+   "çok çeşitli",
+   "A'dan B'ye kadar uzanmak",
+   "dağ sırası"
+  ],
+  "tip": "Range from A to B, 'A ile B arasında değişmek' anlamındadır. Dağ sırası için mountain range kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mystery",
+  "senses": [
+   "gizem; açıklanamayan şey",
+   "gizemlilik; esrarengizlik",
+   "dedektif hikâyesi; polisiye"
+  ],
+  "ex": [
+   "Bu çiçekleri dışarıya kimin bıraktığı hâlâ bir gizem.",
+   "Deniz araştırmalarındaki ilerlemelere rağmen, pek çok derin okyanus türünün davranışı hâlâ bir gizemini koruyor."
+  ],
+  "col": [
+   "bir gizemi çözmek",
+   "gizemini korumak",
+   "gizem duygusu",
+   "gizem romanı"
+  ],
+  "tip": "Belirli bir gizemden söz ederken a mystery denir. Genel anlamda gizemlilik ise çoğunlukla sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "typist",
+  "senses": [
+   "daktilograf; daktilo"
+  ],
+  "ex": [
+   "Daktilo, öğle arasından önce mektubu bitirdi.",
+   "Özel daktilo pozisyonları bugün daha az yaygın olsa da, doğru klavye becerileri pek çok iş yerinde değerli olmayı sürdürüyor."
+  ],
+  "col": [
+   "hızlı daktilo",
+   "becerikli daktilo",
+   "klavyeye bakmadan yazabilen kişi"
+  ],
+  "tip": "Kişiyi ifade eder. Daktilo yazma eylemi için typing, makine için ise typewriter kullanılır.",
+  "note": ""
+ }
+]

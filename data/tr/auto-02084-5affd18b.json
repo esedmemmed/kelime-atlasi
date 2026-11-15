@@ -1,0 +1,278 @@
+[
+ {
+  "id": "annoyed",
+  "senses": [
+   "sinirli; rahatsız"
+  ],
+  "ex": [
+   "Yazıcı yine sıkışınca Leila rahatsız görünüyordu.",
+   "İnşaat gürültüsü önceden haber verilmeden akşam geç saatlere kadar sürdüğünde sakinler çoğu zaman rahatsız oluyor."
+  ],
+  "col": [
+   "birine kızgın olmak",
+   "bir şeyden rahatsız olmak",
+   "gözle görülür biçimde sinirli"
+  ],
+  "tip": "annoyed kişinin hissettiğini, annoying ise rahatsız eden şeyi anlatır. Kişi için 'I am annoying' değil, 'I am annoyed' demelisiniz.",
+  "note": ""
+ },
+ {
+  "id": "developing",
+  "senses": [
+   "gelişmekte olan",
+   "gelişen; oluşmakta olan"
+  ],
+  "ex": [
+   "Kuzenim gelişmekte olan bir ülkede su pompaları üretiyor.",
+   "Gelişmekte olan ekonomiler, yaşam standartlarını yükseltmek için genellikle eğitim ve altyapıya sürekli yatırım yapılmasına ihtiyaç duyar."
+  ],
+  "col": [
+   "gelişmekte olan ülkeler",
+   "gelişmekte olan ekonomiler",
+   "gelişmekte olan bir durum"
+  ],
+  "tip": "developing 'gelişme sürecinde olan' anlamı verir; developed ise 'gelişmiş' anlamındadır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "graduate",
+  "senses": [
+   "mezun",
+   "mezun olmak"
+  ],
+  "ex": [
+   "Kız kardeşim üniversiteden mezun oldu ve yakınlarda işe başladı.",
+   "Son yıllarda mezun olan birçok kişi, giderek rekabetçileşen iş piyasasında niteliklerine uygun iş bulmakta zorlanıyor."
+  ],
+  "col": [
+   "üniversite mezunu",
+   "yeni mezun",
+   "üniversiteden mezun olmak",
+   "onur derecesiyle mezun olmak"
+  ],
+  "tip": "Mezun olunan okul için 'graduate from' kullanılır. İsim /ˈɡrædʒuət/, fiil /ˈɡrædʒueɪt/ okunur; telaffuz farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "advertising",
+  "senses": [
+   "reklam; reklamcılık"
+  ],
+  "ex": [
+   "Kız kardeşim reklamcılık alanında çalışıyor ve renkli afişler tasarlıyor.",
+   "Reklamlar tüketici tercihlerini etkileyebilir; bu yüzden çocuklara yönelik kampanyaların dikkatle düzenlenmesi gerekir."
+  ],
+  "col": [
+   "reklam kampanyası",
+   "reklam ajansı",
+   "reklam geliri",
+   "yanıltıcı reklam"
+  ],
+  "tip": "advertising genellikle sayılamayan bir isimdir; 'an advertising' demeyin. Tek bir reklam için 'an advertisement' ya da kısaca 'an ad' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "research",
+  "senses": [
+   "araştırma",
+   "araştırmak"
+  ],
+  "ex": [
+   "Yeni bisikletimi seçmeden önce biraz araştırma yaptım.",
+   "Yenilenebilir enerji üzerine yapılan araştırmalar, hükümetlerin daha temiz ve güvenilir elektrik kaynakları geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "araştırma yürütmek",
+   "...üzerine araştırma",
+   "araştırma bulguları",
+   "bilimsel araştırma"
+  ],
+  "tip": "Bir araştırma için 'a research' değil, 'a study' ya da 'a piece of research' kullanılır. İsim olarak genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "turning",
+  "senses": [
+   "yol ayrımı; sapak",
+   "dönme; dönüş"
+  ],
+  "ex": [
+   "Küçük fırının yanındaki bir sonraki sapaktan dönün.",
+   "Bu sapakta görüşün kısıtlı olması bisikletliler ve diğer yol kullanıcıları için kaza riskini artırıyor."
+  ],
+  "col": [
+   "bir sapağı kaçırmak",
+   "bir sapağa sapmak",
+   "solda bir sapak"
+  ],
+  "tip": "Yol ayrımı anlamındaki 'turning' daha çok İngiliz İngilizcesinde kullanılır. Amerikan İngilizcesinde bu anlam için genellikle 'turn' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "dormitory",
+  "senses": [
+   "yatakhane; koğuş",
+   "öğrenci yurdu"
+  ],
+  "ex": [
+   "Altı başka gezginle aynı yatakhaneyi paylaştık.",
+   "Üniversite yurdunda kalmak, yeni öğrencilerin arkadaşlık kurmasına ve kampüs hayatına alışmasına yardımcı olabilir."
+  ],
+  "col": [
+   "paylaşılan yatakhane",
+   "üniversite yurdu",
+   "yurt odası"
+  ],
+  "tip": "Amerikan İngilizcesinde 'dormitory' genellikle öğrenci yurdu binasını anlatır. İngilizcede ise çok kişilik yatakhane anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "chain",
+  "senses": [
+   "zincir; kolye",
+   "zincir mağaza; dizi",
+   "zincirle bağlamak"
+  ],
+  "ex": [
+   "Bisikletini kalın bir metal zincirle kilitledi.",
+   "Büyük market zincirleri daha düşük fiyatlar sunabilir, ancak yayılmaları küçük bağımsız dükkânları tehdit edebilir."
+  ],
+  "col": [
+   "bir olaylar dizisi",
+   "bir market zinciri",
+   "tedarik zinciri",
+   "bisikleti korkuluğa zincirlemek"
+  ],
+  "tip": "'a chain of' kalıbından sonra çoğul isim gelir: 'a chain of events'. 'A supermarket chain' ise zincir market anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tiring",
+  "senses": [
+   "yorucu"
+  ],
+  "ex": [
+   "Bu ağır çantaları üst kata taşımak yorucu bir iş.",
+   "Uzun ve yorucu işe gidip gelme süreleri çalışanların verimliliğini düşürebilir ve aileye ayırabilecekleri zamanı azaltabilir."
+  ],
+  "col": [
+   "yorucu bir gün",
+   "yorucu bir yolculuk",
+   "fiziksel olarak yorucu"
+  ],
+  "tip": "tiring yorucu olan şeyi anlatır; tired ise kişinin yorgun hissetmesini anlatır. Kişi için 'I am tiring' değil, 'I am tired' demelisiniz.",
+  "note": ""
+ },
+ {
+  "id": "structure",
+  "senses": [
+   "yapı; düzen",
+   "yapı; bina",
+   "düzenlemek; yapılandırmak"
+  ],
+  "ex": [
+   "Model, ahşap bir köprünün yapısını gösteriyor.",
+   "Açık bir deneme yapısı, okuyucuların karmaşık tartışmaları takip etmesine ve yazarın ana sonuçlarını anlamasına yardımcı olur."
+  ],
+  "col": [
+   "toplumsal yapı",
+   "cümle yapısı",
+   "bir denemeyi düzenlemek",
+   "taşıyıcı yapı"
+  ],
+  "tip": "Structure hem isim hem fiildir. Fiil olarak düzenli bir bütün oluşturmak demektir: structure an essay, yazıyı planlayıp düzenlemektir.",
+  "note": ""
+ },
+ {
+  "id": "desert",
+  "senses": [
+   "çöl",
+   "terk etmek; bırakıp gitmek"
+  ],
+  "ex": [
+   "Öğleden sonra sıcağı basmadan önce çölü geçtik.",
+   "Çöl alanları genişledikçe yakındaki tarım topluluklarının su kaynakları ve tarım arazileri üzerindeki baskı artıyor."
+  ],
+  "col": [
+   "geniş bir çöl",
+   "çöl bitkileri",
+   "görevini terk etmek"
+  ],
+  "tip": "Fiil /dɪˈzɜːt/, isim /ˈdezərt/ okunur. 'Dessert' (tatlı) ile yazımı karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "relation",
+  "senses": [
+   "ilişki; bağlantı",
+   "akraba; yakın"
+  ],
+  "ex": [
+   "Fiyatın kaliteyle hiçbir ilgisi yok gibi görünüyor.",
+   "Araştırmacılar, kentsel topluluklarda yeşil alanlara erişim ile ruh sağlığı arasındaki ilişkiyi inceliyor."
+  ],
+  "col": [
+   "...ile ilgili olarak",
+   "...ile ilgisi olmamak",
+   "ülkeler arasındaki ilişkiler",
+   "yakın akraba"
+  ],
+  "tip": "Ülkeler ya da gruplar arasındaki ilişkiler için çoğul 'relations' kullanılır: 'relations between countries'.",
+  "note": ""
+ },
+ {
+  "id": "league",
+  "senses": [
+   "lig",
+   "birlik; ittifak",
+   "seviye; düzey"
+  ],
+  "ex": [
+   "Takımımız bu sezon ligin zirvesinde bitirdi.",
+   "Yerel bir spor ligi, farklı sosyal geçmişlerden oyuncuları bir araya getirerek topluluk bağlarını güçlendirebilir."
+  ],
+  "col": [
+   "bir futbol ligi",
+   "ligin zirvesi",
+   "başka bir seviyede olmak",
+   "gücümün üstünde olmak"
+  ],
+  "tip": "'In a different league' bir şeyin başka bir seviyede, genellikle çok daha üstün olduğunu anlatır. Günlük dilde sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dryer",
+  "senses": [
+   "kurutma makinesi"
+  ],
+  "ex": [
+   "Havlular hâlâ kurutma makinesinden sıcak.",
+   "Elektrikli kurutma makinesi yerine çamaşır ipi kullanmak, evin enerji tüketimini azaltabilir ve aylık faturaları düşürebilir."
+  ],
+  "col": [
+   "çamaşır kurutma makinesi",
+   "saç kurutma makinesi",
+   "el kurutma makinesi",
+   "giysi kurutma makinesi"
+  ],
+  "tip": "'Dryer' kurutma cihazını anlatır. Sıfat 'dry' (kuru) için karşılaştırma biçimi 'drier' olarak da yazılabilir; ikisini ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "seller",
+  "senses": [
+   "satıcı; satan kişi"
+  ],
+  "ex": [
+   "Satıcı vazoyu teslim etmeden önce dikkatlice paketledi.",
+   "Çevrimiçi pazar yerleri, her satıcıdan doğru ürün bilgisi ve açık iade politikaları sunmasını istemelidir."
+  ],
+  "col": [
+   "çevrimiçi satıcı",
+   "bireysel satıcı",
+   "alıcılar ve satıcılar"
+  ],
+  "tip": "'Seller' alışverişte satan tarafı anlatır. Mağazadaki satış görevlisi için genellikle 'shop assistant' ya da 'salesperson' kullanılır.",
+  "note": ""
+ }
+]

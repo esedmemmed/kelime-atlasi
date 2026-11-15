@@ -1,0 +1,271 @@
+[
+ {
+  "id": "convict",
+  "senses": [
+   "mahkûm; hükümlü",
+   "mahkûm etmek"
+  ],
+  "ex": [
+   "Eski hükümlü şimdi yerel bir fırında çalışıyor.",
+   "Eğitim programları, bir hükümlünün pratik beceriler kazanmasına ve tahliyesinden sonra iş bulmaya hazırlanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "mahkûm edilmiş suçlu",
+   "birini hırsızlıktan mahkûm etmek",
+   "eski hükümlü"
+  ],
+  "tip": "İsim ilk hecede, fiil ikinci hecede vurgulanır. Fiil 'of' ile kullanılır: convict someone of theft.",
+  "note": ""
+ },
+ {
+  "id": "drunkard",
+  "senses": [
+   "ayyaş; sarhoş"
+  ],
+  "ex": [
+   "Roman, yalnız han sahibini bir ayyaş olarak betimliyor.",
+   "Birine ayyaş demek damgalamayı pekiştirebilir ve alkol bağımlılığı olan kişilerin profesyonel yardım almasını engelleyebilir."
+  ],
+  "col": [
+   "alışkanlık hâline gelmiş ayyaş",
+   "birine ayyaş demek"
+  ],
+  "tip": "Aşağılayıcı bir sözcüktür. Tarafsız ifade için 'alkol bağımlılığı olan kişi' kullanılabilir.",
+  "note": "Aşağılayıcı bir hitap; alkol bağımlılığı olan kişileri incitebilir"
+ },
+ {
+  "id": "hound",
+  "senses": [
+   "tazı; av köpeği",
+   "peşini bırakmamak; taciz etmek"
+  ],
+  "ex": [
+   "Tazı, ıslak çimenlerin arasında bir kokuyu takip etti.",
+   "Gazeteciler, özellikle bu kişiler açıkça mahremiyet istediğinde, röportaj için insanların peşini bırakmamalıdır."
+  ],
+  "col": [
+   "bir sürü tazı",
+   "birinden cevap almak için peşini bırakmamak",
+   "birini görevden uzaklaştırmak için üstüne gitmek"
+  ],
+  "tip": "Fiil olarak birini sürekli rahatsız edip baskı yapmayı anlatır; sıradan 'takip etmek' anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "formulation",
+  "senses": [
+   "oluşturma; geliştirme",
+   "ifade biçimi; anlatım",
+   "formül; karışım"
+  ],
+  "ex": [
+   "Bütün ekip planımızın oluşturulmasına katkıda bulundu.",
+   "Etkili politika oluşturmak, güvenilir kanıtlar ve en çok etkilenecek topluluklarla anlamlı istişare gerektirir."
+  ],
+  "col": [
+   "politika oluşturma",
+   "bir teorinin oluşturulması",
+   "kesin bir ifade",
+   "yeni bir formül"
+  ],
+  "tip": "'the formulation of + plan/teori' kalıbı, bir planın, politikanın ya da teorinin oluşturulmasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "capitalism",
+  "senses": [
+   "kapitalizm"
+  ],
+  "ex": [
+   "İktisat dersimizden sonra kahve içerken kapitalizmi tartıştık.",
+   "Kapitalizm eleştirmenleri, eşitsizliği sınırlamak ve savunmasız işçileri korumak için hükümetlerin piyasaları düzenlemesi gerektiğini savunuyor."
+  ],
+  "col": [
+   "serbest piyasa kapitalizmi",
+   "küresel kapitalizm",
+   "kapitalizmin yükselişi"
+  ],
+  "tip": "Sayılamayan bir isimdir, çoğul hâli yoktur. 'capitalist' hem isim (kapitalist) hem de sıfat olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "predominance",
+  "senses": [
+   "üstünlük; baskınlık"
+  ],
+  "ex": [
+   "Mavi rengin baskınlığı bu odaya serin bir hava veriyor.",
+   "Kentsel ulaşımda özel araçların çoğunlukta olması, hava kirliliğini azaltma çabalarını zorlaştırıyor."
+  ],
+  "col": [
+   "çoğunlukta olma",
+   "ekonomik üstünlük",
+   "... üzerinde üstünlük"
+  ],
+  "tip": "Sayı, güç veya etki bakımından üstünlüğü anlatır; 'seçkinlik' ya da 'mükemmellik' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "thrift",
+  "senses": [
+   "tutumluluk; tasarruf"
+  ],
+  "ex": [
+   "Tutumluluğu sayesinde bisiklet almaya yetecek parayı biriktirdi.",
+   "Okullarda tutumluluğun öğretilmesi, gençlerin sınırlı gelirlerini yönetmelerine ve gereksiz borçlardan kaçınmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "tasarruf etmek",
+   "ikinci el dükkânı",
+   "tasarruf alışkanlıkları"
+  ],
+  "tip": "'thrift' isimdir; 'tutumlu' anlamındaki sıfat 'thrifty' olur. İkisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "quiver",
+  "senses": [
+   "titremek; hafifçe sallanmak",
+   "hafif titreme",
+   "okluk; ok kılıfı"
+  ],
+  "ex": [
+   "Kaygan zeminde yürürken yavru köpeğin bacakları titredi.",
+   "Bir konuşmacının sesi, halka açık bir sunuma iyi hazırlansa bile baskı altında titreyebilir."
+  ],
+  "col": [
+   "korkudan titremek",
+   "titrek bir ses",
+   "heyecan titremesi"
+  ],
+  "tip": "Hızlı ve küçük titremeleri anlatır. Ses için de kullanılır, örneğin 'quivering voice' titrek sesi.",
+  "note": ""
+ },
+ {
+  "id": "perpetual",
+  "senses": [
+   "sürekli; kalıcı",
+   "bitmek bilmeyen; durmadan olan"
+  ],
+  "ex": [
+   "Damlayan musluk sürekli bir rahatsızlık kaynağı.",
+   "Sürekli ekonomik büyüme arayışı, toplumların sınırlı doğal kaynakları nasıl koruyabileceği sorusunu gündeme getiriyor."
+  ],
+  "col": [
+   "sürekli hareket",
+   "sürekli değişim",
+   "bitmek bilmeyen çatışma"
+  ],
+  "tip": "İkinci anlamda sık tekrarlanan ve sinir bozucu bir durumu anlatır; şikâyet tonu taşıyabilir.",
+  "note": ""
+ },
+ {
+  "id": "refute",
+  "senses": [
+   "çürütmek"
+  ],
+  "ex": [
+   "Bu fotoğraflar kapımızın bozuk olduğu iddiasını çürütüyor.",
+   "Güvenilir bilimsel kanıtlar, beslenmeyle ilgili yanıltıcı iddiaları çürütebilir ve tüketicilerin bilinçli tercihler yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir iddiayı çürütmek",
+   "bir argümanı çürütmek",
+   "bir suçlamayı çürütmek"
+  ],
+  "tip": "Sadece katılmamak değil, kanıtla yanlış olduğunu göstermek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "innumerable",
+  "senses": [
+   "sayısız"
+  ],
+  "ex": [
+   "Sessiz kampımızın üstündeki gökyüzünü sayısız yıldız doldurdu.",
+   "Kıyı sulak alanları sayısız canlıya ev sahipliği yapar ve yakındaki topluluklar için fırtınalara karşı önemli bir koruma sağlar."
+  ],
+  "col": [
+   "sayısız örnek",
+   "sayısız fırsat",
+   "sayısız kez"
+  ],
+  "tip": "Sayılabilir isimlerin çoğuluyla kullanılır; 'many'den daha resmî ve güçlü bir ton taşır.",
+  "note": ""
+ },
+ {
+  "id": "divine",
+  "senses": [
+   "ilahi; tanrısal",
+   "harika; muhteşem",
+   "sezmek; kehanetle bulmak"
+  ],
+  "ex": [
+   "Tablo, göksel bir figürü çevreleyen ilahi bir ışığı gösteriyor.",
+   "Birçok eski toplum, hükümdarların ilahi bir yetki aldığına inanıyordu; bu da siyasi güçlerini pekiştirmelerine yardımcı oluyordu."
+  ],
+  "col": [
+   "ilahi müdahale",
+   "ilahi güç",
+   "çok lezzetli olmak"
+  ],
+  "tip": "'Harika' anlamı gayriresmî övgüde kullanılır. Asıl anlamı dinî ya da tanrısal olmaktır.",
+  "note": ""
+ },
+ {
+  "id": "permissive",
+  "senses": [
+   "müsamahakâr; gevşek"
+  ],
+  "ex": [
+   "Müsamahakâr ebeveynleri, geç yatmalarına nadiren itiraz eder.",
+   "Ebeveynlikte müsamahakâr bir yaklaşım bağımsızlığı teşvik edebilir, ancak çocukların yine de net sınırlara ihtiyacı vardır."
+  ],
+  "col": [
+   "müsamahakâr ebeveynlik",
+   "hoşgörülü toplum",
+   "serbest tutum"
+  ],
+  "tip": "'permissive' gevşek kuralları anlatır. 'İzin verilebilir' anlamı için 'permissible' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "transmission",
+  "senses": [
+   "iletim; aktarım",
+   "yayın; yayınlama",
+   "şanzıman"
+  ],
+  "ex": [
+   "Tamirci, uzun yolculuğumuzdan önce şanzımanı kontrol etti.",
+   "Kamu binalarında iyileştirilmiş havalandırma, bazı enfeksiyonların bulaşmasını azaltabilir ve savunmasız insanları koruyabilir."
+  ],
+  "col": [
+   "veri aktarımı",
+   "hastalık bulaşması",
+   "canlı yayın",
+   "otomatik şanzıman"
+  ],
+  "tip": "Fiili 'transmit'tir; geçmiş zaman 'transmitted' şeklinde t harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "thesis",
+  "senses": [
+   "tez; lisansüstü tezi",
+   "savunulan görüş; tez"
+  ],
+  "ex": [
+   "Leila, tezi için kaynakları kontrol ederek hafta sonunu geçirdi.",
+   "Tezi, toplu taşımaya erişimin dezavantajlı kentsel topluluklarda istihdam fırsatlarını nasıl etkilediğini inceliyor."
+  ],
+  "col": [
+   "doktora tezi",
+   "tez yazmak",
+   "tezi teslim etmek",
+   "ana tez"
+  ],
+  "tip": "Çoğulu 'theses' olur. Hem akademik tezi hem de bir metnin ana savını anlatabilir.",
+  "note": ""
+ }
+]

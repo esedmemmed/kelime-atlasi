@@ -1,0 +1,275 @@
+[
+ {
+  "id": "flood",
+  "senses": [
+   "sel; taşkın",
+   "su basmak; sel basmak",
+   "akın; yığın"
+  ],
+  "ex": [
+   "Sel bahçemizi kalın çamurla kaplamıştı.",
+   "Sulak alanların yeniden canlandırılması, fazla yağmur suyunun doğal yollarla yayılıp drene olmasına izin vererek sel riskini azaltabilir."
+  ],
+  "col": [
+   "ani sel",
+   "sel savunma yapıları",
+   "sel hasarı",
+   "bir sürü şikâyet"
+  ],
+  "tip": "'blood' ile aynı ünlüye sahiptir, 'food' ile kafiyeli okunmaz. Telaffuzda bu ayrıma dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "fox",
+  "senses": [
+   "tilki",
+   "şaşırtmak; zor duruma sokmak"
+  ],
+  "ex": [
+   "Gün doğmadan önce bahçeden bir tilki sıvışıp geçti.",
+   "Kızıl tilki, insan faaliyetlerinden kolayca yiyecek bulabildiği kentsel çevrelere uyum sağlayabilir."
+  ],
+  "col": [
+   "kızıl tilki",
+   "kentsel tilki",
+   "tilki yavrusu"
+  ],
+  "tip": "Fiil olarak 'şaşırtmak, zor duruma sokmak' anlamında kullanılır; özellikle İngiliz İngilizcesinde gayriresmi bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "centigrade",
+  "senses": [
+   "santigrat; Celsius"
+  ],
+  "ex": [
+   "Bugün gölgede otuz santigrat derece idi.",
+   "Ortalama sıcaklıklarda iki santigrat derecelik bir artış, savunmasız bölgelerde tarımsal üretimi önemli ölçüde etkileyebilir."
+  ],
+  "col": [
+   "santigrat derece",
+   "santigrat ölçeği"
+  ],
+  "tip": "Genellikle 'degrees centigrade' biçiminde kullanılır; bilimsel metinlerde günümüzde 'Celsius' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "typical",
+  "senses": [
+   "tipik; olağan",
+   "kendine özgü; karakteristik"
+  ],
+  "ex": [
+   "Tipik bir hafta içi günü kahvaltı ve yürüyüşle başlar.",
+   "Uzun işe gidiş süreleri, iş merkezlerine yakın konutların pahalı olduğu büyük şehirlerin tipik özelliğidir."
+  ],
+  "col": [
+   "tipik bir örnek",
+   "-e özgü, -e has",
+   "tipik bir gün"
+  ],
+  "tip": "'typical of' kalıbında of'tan sonra bir kişi, yer ya da durum gelir: 'It is typical of him.' (Bu onun tipik davranışıdır.)",
+  "note": ""
+ },
+ {
+  "id": "geometry",
+  "senses": [
+   "geometri"
+  ],
+  "ex": [
+   "Bugün sınıfta renkli tahta şekillerle geometri çalıştık.",
+   "Geometri öğrenmek, mühendislik ve mimarlıkta değerli olan uzamsal akıl yürütme becerilerinin gelişmesine yardımcı olur."
+  ],
+  "col": [
+   "düzlem geometrisi",
+   "katı geometri",
+   "geometri çalışmak"
+  ],
+  "tip": "Ders ya da bilim dalı adı olarak sayılamaz ve genellikle başına article getirilmez: 'study geometry'.",
+  "note": ""
+ },
+ {
+  "id": "repeated",
+  "senses": [
+   "tekrarlanan; yinelenen",
+   "tekrarlamak; yinelemek"
+  ],
+  "ex": [
+   "Tekrarlanan telefon çağrıları sessiz akşam yemeğimizi sürekli bölüyordu.",
+   "Yeni kelimelere tekrar tekrar maruz kalmak, öğrencilerin kelimeleri hatırlamasına ve daha özgüvenle kullanmasına yardımcı olur."
+  ],
+  "col": [
+   "tekrarlanan denemeler",
+   "tekrarlanan uyarılar",
+   "-e tekrar tekrar maruz kalma"
+  ],
+  "tip": "'repeated' tekrarın sık olduğunu vurgular; 'repetitive' ise genellikle sıkıcı, monoton tekrarları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "atmosphere",
+  "senses": [
+   "ortam; hava",
+   "atmosfer"
+  ],
+  "ex": [
+   "Yumuşak ışıklandırma küçük restoranı rahat bir ortama kavuşturdu.",
+   "Destekleyici bir sınıf ortamı, öğrencileri soru sormaya ve tartışmalara daha aktif katılmaya teşvik eder."
+  ],
+  "col": [
+   "rahat bir ortam",
+   "ortam yaratmak",
+   "Dünya'nın atmosferi"
+  ],
+  "tip": "Bir havayı ya da ruh halini anlatırken 'an atmosphere'; gezegeni saran gaz tabakası için 'the atmosphere' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "council",
+  "senses": [
+   "belediye meclisi; kurul"
+  ],
+  "ex": [
+   "Yerel yönetim evimizin yakınındaki oyun alanını onardı.",
+   "Şehir meclisi, kamusal yeşil alanları etkileyebilecek projeleri onaylamadan önce sakinlere danışmalıdır."
+  ],
+  "col": [
+   "yerel yönetim",
+   "belediye meclisi",
+   "meclis üyesi",
+   "öğrenci konseyi"
+  ],
+  "tip": "'council' (meclis, kurul) ile 'counsel' (öğüt, danışmanlık) karıştırılmamalıdır; telaffuzları benzer ama anlamları farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "motivate",
+  "senses": [
+   "teşvik etmek",
+   "güdülemek"
+  ],
+  "ex": [
+   "Bir arkadaşımla birlikte antrenman yapmak, düzenli egzersiz yapmama yardımcı oluyor.",
+   "Öğretmenler, dersleri günlük deneyimlerle ilişkilendirerek öğrencileri zor konuları keşfetmeye teşvik edebilir."
+  ],
+  "col": [
+   "birini bir şey yapmaya teşvik etmek",
+   "çok istekli olmak",
+   "-den güdülenmek"
+  ],
+  "tip": "Genellikle 'motivate sb to do sth' kalıbında kullanılır; 'by' ile motivasyonun kaynağı belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "irritation",
+  "senses": [
+   "sinirlenme; rahatsızlık",
+   "tahriş; iltihap"
+  ],
+  "ex": [
+   "Telefon yine çalınca sinirle iç çekti.",
+   "Ev temizlik ürünlerine maruz kalmak, özellikle hassas ciltli kişilerde cilt tahrişine neden olabilir."
+  ],
+  "col": [
+   "cilt tahrişi",
+   "göz tahrişi",
+   "sinir bozucu bir şey"
+  ],
+  "tip": "Hem duygusal rahatsızlığı hem de vücuttaki tahrişi anlatabilir; doğru anlam bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "pit",
+  "senses": [
+   "çukur; kuyu",
+   "bakım bölgesi",
+   "çekirdek"
+  ],
+  "ex": [
+   "Yeni ağaç için sığ bir çukur kazdık.",
+   "Terk edilmiş maden ocakları, restorasyon projeleri toprağı stabilize edip su kalitesini iyileştirmediği sürece yerel ekosistemleri tehdit edebilir."
+  ],
+  "col": [
+   "çukur kazmak",
+   "derin çukur",
+   "bakım molası",
+   "şeftali çekirdeği"
+  ],
+  "tip": "Yarış arabalarının bakım bölgesi için çoğunlukla 'the pits' kullanılır; 'çekirdek' anlamı özellikle Amerikan İngilizcesinde yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "philosophy",
+  "senses": [
+   "felsefe",
+   "yaşam felsefesi; ilke"
+  ],
+  "ex": [
+   "Kız kardeşim felsefe okuyor ve zor sorular üzerine tartışmayı seviyor.",
+   "Felsefe çalışmak, öğrencilerin varsayımlarını sorgulamalarına ve karmaşık etik konularda daha güçlü argümanlar geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "felsefe okumak",
+   "ahlak felsefesi",
+   "kişisel felsefe",
+   "eğitim felsefesi"
+  ],
+  "tip": "Bir bilim dalı olarak sayılamaz; 'a philosophy' ise bir görüş ya da yaşam ilkesi anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "errand",
+  "senses": [
+   "yol işi; küçük iş"
+  ],
+  "ex": [
+   "Seninle öğle yemeğine buluşmadan önce küçük bir işimi hallettim.",
+   "Güvenilir mahalle ulaşımı, yaşlı sakinlerin işlerini bağımsız olarak görmesine ve topluluklarıyla düzenli iletişim kurmasına yardımcı olur."
+  ],
+  "col": [
+   "işleri görmek",
+   "birini bir işe göndermek",
+   "küçük bir iş"
+  ],
+  "tip": "Genellikle 'run errands' (dışarıda işlerini görmek) kalıbında kullanılır; iş yerindeki görevler için 'task' ya da 'job' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "stunning",
+  "senses": [
+   "muhteşem; nefes kesici",
+   "çarpıcı; şaşırtıcı"
+  ],
+  "ex": [
+   "Tepeden nefes kesici bir manzaranın keyfini çıkardık.",
+   "Bölgenin nefes kesici kıyı manzarası turistleri çekiyor, ancak artan turizm kırılgan ekosistemler üzerinde baskı oluşturuyor."
+  ],
+  "col": [
+   "çarpıcı manzara",
+   "etkileyici bir başarı",
+   "çarpıcı bir zafer",
+   "çok güzel görünmek"
+  ],
+  "tip": "'stunning' şeyleri tanımlar ve hayranlık uyandırır; kişinin şaşkına döndüğünü anlatmak için 'stunned' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "syrup",
+  "senses": [
+   "şurup",
+   "ilaç şurubu"
+  ],
+  "ex": [
+   "Sıcak krepinin üzerine biraz şurup döktü.",
+   "Şurup içinde saklanan meyveler, genellikle taze meyvelere göre daha fazla eklenmiş şeker içerir; bu durum sağlığına dikkat eden tüketicileri endişelendirebilir."
+  ],
+  "col": [
+   "akçaağaç şurubu",
+   "öksürük şurubu",
+   "şurupta meyve",
+   "şeker şurubu"
+  ],
+  "tip": "Genellikle sayılamaz; 'a syrup' yerine 'a bottle of syrup' gibi ölçü ifadeleri kullanılır.",
+  "note": ""
+ }
+]

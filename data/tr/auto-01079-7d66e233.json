@@ -1,0 +1,280 @@
+[
+ {
+  "id": "petrol",
+  "senses": [
+   "benzin"
+  ],
+  "ex": [
+   "Dağlara girmeden önce benzin almak için durduk.",
+   "Benzin fiyatlarının yükselmesi, işe gidip gelen insanları araba yerine toplu taşımayı tercih etmeye yöneltebilir."
+  ],
+  "col": [
+   "benzin istasyonu",
+   "kurşunsuz benzin",
+   "benzin fiyatları",
+   "benzinin bitmesi"
+  ],
+  "tip": "Sayılamayan isimdir; 'a petrol' ya da 'petrols' demeyin. Miktar belirtmek için 'a litre of petrol' kullanın.",
+  "note": ""
+ },
+ {
+  "id": "salary",
+  "senses": [
+   "maaş; ücret"
+  ],
+  "ex": [
+   "Yeni işi daha yüksek maaş ve daha kısa çalışma saatleri sunuyor.",
+   "Maaş kariyer seçimlerini etkilese de birçok mezun iş güvencesini ve mesleki gelişim fırsatlarını da önemser."
+  ],
+  "col": [
+   "yıllık maaş",
+   "başlangıç maaşı",
+   "maaş artışı",
+   "rekabetçi maaş"
+  ],
+  "tip": "Salary sabit ve düzenli ödenen maaşı anlatır; saat ya da hafta esasına göre hesaplanan ücret için wages kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "voice",
+  "senses": [
+   "ses; seslenme",
+   "söz hakkı; etki",
+   "dile getirmek"
+  ],
+  "ex": [
+   "Nazik sesi korkmuş köpeğin sakinleşmesine yardımcı oldu.",
+   "Kamuoyu danışmaları, yerel halkın doğrudan etkilendiği kararlarda söz sahibi olmasını sağlar."
+  ],
+  "col": [
+   "sesini yükseltmek",
+   "kararlarda söz hakkı",
+   "kaygıları dile getirmek",
+   "sesini kaybetmek"
+  ],
+  "tip": "Voice çoğunlukla insanın sesini ya da söz hakkını anlatır; genel ses için sound kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "king",
+  "senses": [
+   "kral"
+  ],
+  "ex": [
+   "Kral arabasından kalabalığa el salladı.",
+   "Bazı ülkelerde kral törensel görevleri yerine getirirken siyasi kararları seçilmiş temsilciler alır."
+  ],
+  "col": [
+   "kral olmak",
+   "birine taç giydirmek",
+   "kralın saltanatı"
+  ],
+  "tip": "King erkek hükümdarı anlatır; kadın hükümdar için queen kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "difference",
+  "senses": [
+   "fark; ayrılık",
+   "anlaşmazlık; ihtilaf",
+   "fark"
+  ],
+  "ex": [
+   "Bu iki ceket arasındaki temel fark ağırlıklarıdır.",
+   "Kültürel farklılıkları anlamak, uluslararası öğrencilerin yeni bir ülkedeki hayata daha başarılı uyum sağlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "...arasındaki fark",
+   "fark yaratmak",
+   "önemli bir fark",
+   "anlaşmazlıkları çözmek"
+  ],
+  "tip": "İki şeyi karşılaştırırken 'the difference between A and B' kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "hope",
+  "senses": [
+   "ummak; umut etmek",
+   "umut; beklenti"
+  ],
+  "ex": [
+   "Piknikten önce yağmurun dineceğini umuyorum.",
+   "Birçok mezun, topluma olumlu katkıda bulunmasına olanak tanıyan anlamlı bir iş bulmayı umuyor."
+  ],
+  "col": [
+   "...yapmayı ummak",
+   "en iyisini ummak",
+   "umudu kesmek",
+   "...umuduyla"
+  ],
+  "tip": "'hope to do' kalıbı kullanılır; 'hope sb to do' yanlıştır. Cümle için 'I hope that...' da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "guide",
+  "senses": [
+   "rehber",
+   "kılavuz; rehber kitap",
+   "yol göstermek; yönlendirmek"
+  ],
+  "ex": [
+   "Rehberimiz bizi dar pazar sokaklarından geçirdi.",
+   "Öğretmenler, öğrencileri her soruya hazır cevap vermek yerine güvenilir kaynaklara yönlendirmelidir."
+  ],
+  "col": [
+   "tur rehberi",
+   "...hakkında rehber",
+   "birine yol göstermek",
+   "rehberli tur"
+  ],
+  "tip": "'a guide to' bir konudaki rehber kitabı anlatır; birini bir süreçte yönlendirmek için 'guide someone through' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "metal",
+  "senses": [
+   "metal"
+  ],
+  "ex": [
+   "Metal kulp parmaklarıma soğuk geldi.",
+   "Metal geri dönüşümü, madencilik talebini azaltır ve üretimdeki enerji tüketimini önemli ölçüde düşürebilir."
+  ],
+  "col": [
+   "hurda metal",
+   "değerli metal",
+   "metal çerçeve",
+   "ağır metal müziği"
+  ],
+  "tip": "Malzeme olarak genel anlamda sayılamaz; farklı metal türlerinden söz edilirken 'metals' kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "bowl",
+  "senses": [
+   "kase",
+   "bowling topu atmak; top atmak"
+  ],
+  "ex": [
+   "Ellerini bir kase çorbanın etrafında ısıttı.",
+   "Yemekleri daha küçük kaselerde servis etmek, insanların porsiyonlarını kontrol etmesine ve gereksiz yemek israfını azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir kase çorba",
+   "karıştırma kabı",
+   "salata kasesi",
+   "topu atmak"
+  ],
+  "tip": "'a bowl of' bir kase dolusu anlamına gelir; 'bowling' ise bowling oyununu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "weekday",
+  "senses": [
+   "hafta içi"
+  ],
+  "ex": [
+   "Yüzme havuzu hafta içi sabahları daha sakindir.",
+   "Kütüphanenin hafta içi açık kalma saatlerinin uzatılması, gündüz çalışan öğrencilere fayda sağlar."
+  ],
+  "col": [
+   "hafta içi",
+   "hafta içi sabahları",
+   "hafta içi servisi"
+  ],
+  "tip": "Genellikle 'on weekdays' biçiminde kullanılır; 'in weekdays' demeyin. Hafta sonu için weekend kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "provide",
+  "senses": [
+   "sağlamak; temin etmek",
+   "geçimini sağlamak; bakmak"
+  ],
+  "ex": [
+   "Kamp alanı her misafire temiz havlu ve battaniye sağlıyor.",
+   "Yerel yönetimler, tüm sakinlerin temel hizmetlere erişebilmesi için uygun fiyatlı toplu taşıma sağlamalıdır."
+  ],
+  "col": [
+   "destek sağlamak",
+   "...erişim sağlamak",
+   "birine bir şey sağlamak",
+   "ailesinin geçimini sağlamak"
+  ],
+  "tip": "'provide sb with sth' ya da 'provide sth for sb' kalıplarından birini kullanın.",
+  "note": ""
+ },
+ {
+  "id": "mall",
+  "senses": [
+   "alışveriş merkezi"
+  ],
+  "ex": [
+   "Yağmurlu öğleden sonramızı alışveriş merkezinde gezinerek geçirdik.",
+   "Yeni bir alışveriş merkezi iş yaratabilir, ama küçük bağımsız perakendecileri de tehdit edebilir."
+  ],
+  "col": [
+   "alışveriş merkezi",
+   "kapalı alışveriş merkezi",
+   "alışveriş merkezinin girişi"
+  ],
+  "tip": "Mall daha çok Amerikan İngilizcesinde kullanılır; İngiliz İngilizcesinde shopping centre tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "hall",
+  "senses": [
+   "giriş holü; koridor",
+   "salon; toplantı salonu",
+   "öğrenci yurdu"
+  ],
+  "ex": [
+   "Lütfen ıslak ayakkabılarınızı girişte bırakın.",
+   "Topluluk salonu, sakinlerin kurs alabileceği ve yerel etkinlikler düzenleyebileceği uygun fiyatlı bir alan sağlar."
+  ],
+  "col": [
+   "giriş holü",
+   "konser salonu",
+   "belediye binası",
+   "öğrenci yurtları"
+  ],
+  "tip": "İngiliz İngilizcesinde üniversite yurtları için halls ya da halls of residence denir.",
+  "note": ""
+ },
+ {
+  "id": "helpful",
+  "senses": [
+   "yardımcı; faydalı",
+   "yardımsever"
+  ],
+  "ex": [
+   "Haritan köyü keşfederken çok işe yaradı.",
+   "Akademik makalelerde fikirlerini düzenlemeyi öğrenen öğrenciler için açık geri bildirim özellikle faydalıdır."
+  ],
+  "col": [
+   "faydalı tavsiye",
+   "faydalı bilgi",
+   "yardımsever personel",
+   "bir şeyi faydalı bulmak"
+  ],
+  "tip": "Hem şeyler hem kişiler için kullanılabilir. Bir kişiye yardımcı olmak için 'be helpful to sb' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "scotland",
+  "senses": [
+   "İskoçya"
+  ],
+  "ex": [
+   "Tatilimizde İskoçya'da eski kaleleri gezdik.",
+   "İskoçya, dramatik manzaralarıyla ziyaretçileri çeker; kırsal topluluklar da konaklama ve yerel hizmetlere yapılan harcamalardan fayda sağlar."
+  ],
+  "col": [
+   "İskoçya'nın batı kıyısı",
+   "kırsal İskoçya",
+   "İskoçya gezisi"
+  ],
+  "tip": "Sıfat olarak Scottish kullanılır (Scottish food gibi). Scotch genellikle viski ya da sabit ifadeler için kullanılır.",
+  "note": ""
+ }
+]

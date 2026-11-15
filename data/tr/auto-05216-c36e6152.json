@@ -1,0 +1,275 @@
+[
+ {
+  "id": "tempt",
+  "senses": [
+   "ayartmak; baştan çıkarmak"
+  ],
+  "ex": [
+   "Taze pastalar beni pastaneye girmeye ayarttı.",
+   "Büyük indirimler, tüketicileri ihtiyaç duymadıkları ya da başta almayı planlamadıkları ürünleri satın almaya teşvik edebilir."
+  ],
+  "col": [
+   "birine bir şey yaptırmak için ayartmak",
+   "bir şey yapmaya özendirilmek",
+   "kaderi zorlamak"
+  ],
+  "tip": "tempt someone to do ya da tempt someone into doing kalıplarını kullanın. be tempted to do yapısında özne, ayartılan kişidir.",
+  "note": ""
+ },
+ {
+  "id": "cable",
+  "senses": [
+   "kablo",
+   "çelik halat; halat"
+  ],
+  "ex": [
+   "Şarj kablosu masamın altında dolaşmıştı.",
+   "Deniz altı kablo ağları büyük miktarda veri taşır; bu da onları uluslararası iletişim ve ticaret için vazgeçilmez altyapı haline getirir."
+  ],
+  "col": [
+   "elektrik kablosu",
+   "fiber optik kablo",
+   "deniz altı kablosu",
+   "çelik halat"
+  ],
+  "tip": "Hem elektrik ya da veri kablosu hem de metal tellerden yapılmış kalın halat anlamı vardır. Bağlama göre doğru Türkçe karşılığı seçin.",
+  "note": ""
+ },
+ {
+  "id": "time-consuming",
+  "senses": [
+   "zaman alıcı; uzun süren"
+  ],
+  "ex": [
+   "Bu eski fotoğrafların hepsini ayıklamak şaşırtıcı derecede zaman alıcı.",
+   "Birden fazla izin başvurusu yapmak zaman alabilir; bu da küçük işletmelerin faaliyetlerini genişletmesini caydırıyor."
+  ],
+  "col": [
+   "zaman alıcı görev",
+   "zaman alıcı süreç",
+   "maliyetli ve zaman alıcı"
+  ],
+  "tip": "Sıfattır; isimden önce ya da be ile kullanılır. Çok zaman gerektiren anlamına gelir, boşa harcanan zaman anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "heroine",
+  "senses": [
+   "kadın başkahraman",
+   "kadın kahraman; cesur kadın"
+  ],
+  "ex": [
+   "Bu romanın kadın kahramanı okyanusun öbür yakasına yelken açar.",
+   "Çocuk edebiyatında özgüvenli bir kadın kahraman, kalıp yargılara meydan okuyabilir ve genç okurların beklentilerini genişletebilir."
+  ],
+  "col": [
+   "romanın kadın kahramanı",
+   "ulusal kadın kahraman",
+   "trajik kadın kahraman"
+  ],
+  "tip": "heroin (uyuşturucu eroin) ile yazılışı benzerdir; sondaki e harfini unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "predator",
+  "senses": [
+   "yırtıcı hayvan; avcı",
+   "sömürücü; yağmacı"
+  ],
+  "ex": [
+   "Tavşan yakınlarda bir yırtıcı fark edince olduğu yerde donup kaldı.",
+   "Doğal yırtıcıları korumak, çiftçilerin kimyasal ilaçlara fazla bağımlı kalmadan zararlıları kontrol etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "doğal yırtıcı",
+   "tepe yırtıcı",
+   "yırtıcı popülasyonu"
+  ],
+  "tip": "predator avcı hayvanı, prey ise avı ya da av hayvanını anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "necessity",
+  "senses": [
+   "zorunluluk; gereklilik",
+   "ihtiyaç maddesi; zorunluluk"
+  ],
+  "ex": [
+   "Kasabadan uzakta yaşamak arabayı zorunlu hale getirir.",
+   "Konut maliyetlerindeki artış, düşük gelirli aileler için uygun fiyatlı evler sağlamanın gerekliliğini ortaya koyuyor."
+  ],
+  "col": [
+   "temel ihtiyaçlar",
+   "...için bir gereklilik",
+   "zorunluluktan"
+  ],
+  "tip": "Gereklilik anlamında genellikle sayılamaz; ihtiyaç maddesi anlamında sayılabilir ve çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "endless",
+  "senses": [
+   "sonsuz; bitmek bilmeyen"
+  ],
+  "ex": [
+   "Bugün yüzme havuzunun önündeki kuyruk bitmek bilmiyor gibiydi.",
+   "Çevrim içi platformlar sonsuz eğlence sunsa da aşırı ekran süresi anlamlı sosyal etkileşim fırsatlarını azaltabilir."
+  ],
+  "col": [
+   "sonsuz olanaklar",
+   "bitmek bilmeyen bir akış",
+   "bitmez tükenmez tartışma"
+  ],
+  "tip": "Çoğu zaman abartılı biçimde kullanılır; gerçekten sonsuz olmasa da bitmek bilmeyen anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "investment",
+  "senses": [
+   "yatırım",
+   "zaman ya da emek yatırımı"
+  ],
+  "ex": [
+   "Daha iyi aletler almak pastanemiz için iyi bir yatırım oldu.",
+   "Yenilenebilir enerjiye yapılan kamu yatırımının artması, fosil yakıtlara bağımlılığı azaltırken iş yaratabilir."
+  ],
+  "col": [
+   "altyapıya yatırım",
+   "yabancı yatırım",
+   "yatırım getirisi",
+   "zaman yatırımı"
+  ],
+  "tip": "Genellikle investment in kalıbıyla kullanılır. Yatırım eylemi sayılamaz, yatırılan para ya da yatırım kalemi sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "prime",
+  "senses": [
+   "birincil; asıl",
+   "en iyi; seçkin",
+   "zirve dönemi; olgunluk"
+  ],
+  "ex": [
+   "Bizim en önemli kaygımız bu gece herkesi güvenle eve göndermek.",
+   "Güvenilir toplu taşıma, özel araba kullanımını azaltmak isteyen şehirler için temel bir gerekliliktir."
+  ],
+  "col": [
+   "temel kaygı",
+   "en iyi örnek",
+   "çok uygun konum",
+   "gücünün zirvesinde"
+  ],
+  "tip": "a prime example en tipik ya da en iyi örnek demektir, ilk örnek anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "unwilling",
+  "senses": [
+   "istekli olmayan; isteksiz"
+  ],
+  "ex": [
+   "Yeni bisikletini ödünç vermek istemiyordu.",
+   "Bazı yolcular, yoğun yollarda güvenli şerit ve bisiklet park yeri olmadığı için işe bisikletle gitmek istemiyor."
+  ],
+  "col": [
+   "kabul etmek istemeyen",
+   "işbirliği yapmak istemeyen",
+   "isteksiz katılımcı"
+  ],
+  "tip": "be unwilling to do yapmak istememek anlamına gelir. Yapamamak (unable) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "maintain",
+  "senses": [
+   "sürdürmek; korumak",
+   "bakmak; onarmak",
+   "savunmak; iddia etmek"
+  ],
+  "ex": [
+   "Düzenli yürüyüşler sağlıklı kilomu korumama yardımcı oluyor.",
+   "Hükümetler, ulusal bütçeler üzerindeki artan baskıya yanıt verirken temel kamu hizmetlerini sürdürmek zorundadır."
+  ],
+  "col": [
+   "dengeyi korumak",
+   "standartları sürdürmek",
+   "ekipmanın bakımını yapmak",
+   "...olduğunu savunmak"
+  ],
+  "tip": "maintain doğrudan nesne alır (maintain a balance). Maintain that... kalıbıyla bir iddiayı ısrarla savunmak anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "elderly",
+  "senses": [
+   "yaşlı; ileri yaşta"
+  ],
+  "ex": [
+   "Yaşlı bir komşum bana domates yetiştirmeyi gösterdi.",
+   "Şehirler, yaşlı sakinlerin aktif ve bağımsız kalabilmesi için erişilebilir toplu taşıma sağlamalıdır."
+  ],
+  "col": [
+   "yaşlı insanlar",
+   "yaşlı sakinler",
+   "yaşlı bakımı"
+  ],
+  "tip": "Yalnızca insanların yaşı için kullanılır. the elderly genel olarak yaşlıları ifade eder. older people daha nötr bir alternatiftir.",
+  "note": ""
+ },
+ {
+  "id": "isolate",
+  "senses": [
+   "izole etmek; ayırmak",
+   "ayrıştırmak; tek başına belirlemek"
+  ],
+  "ex": [
+   "Yoğun kar yağışı köyü en yakın kasabadan ayırdı.",
+   "Araştırmacılar, eğitim ile sağlık arasındaki ilişki hakkında sonuç çıkarmadan önce gelirin etkisini ayrı olarak incelemelidir."
+  ],
+  "col": [
+   "birini ...den ayırmak",
+   "bir değişkeni ayırmak",
+   "nedeni tespit etmek"
+  ],
+  "tip": "isolate A from B kalıbında kullanılır. Sıfat biçimi isolated'dır.",
+  "note": ""
+ },
+ {
+  "id": "retreat",
+  "senses": [
+   "geri çekilmek; kaçmak",
+   "geri çekilme; çekilme",
+   "sakin yer; inziva yeri"
+  ],
+  "ex": [
+   "Yağmur şiddetle yağmaya başlayınca içeri çekildik.",
+   "Küresel ısınma nedeniyle buzullar geri çekildikçe, aşağı havzadaki topluluklar gelecekteki su kaynakları konusunda artan belirsizlikle karşı karşıya kalıyor."
+  ],
+  "col": [
+   "...den geri çekilmek",
+   "geri çekilmek",
+   "dağ inzivası"
+  ],
+  "tip": "retreat, tehlike ya da zorluktan geri çekilme vurgusu taşır. Sakin yer anlamındaki isim kullanımı da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "swell",
+  "senses": [
+   "şişmek; kabarmak",
+   "artmak; yoğunlaşmak",
+   "kabarma; dalgalanma"
+  ],
+  "ex": [
+   "Bileğimi burkunca şişmeye başladı.",
+   "Mevsimlik turizm sahil kasabalarının nüfusunu artırabilir ve yerel su kaynakları üzerindeki baskıyı yükseltebilir."
+  ],
+  "col": [
+   "şişmek",
+   "gururla kabarmak",
+   "ağır dalgalanma"
+  ],
+  "tip": "Geçmiş zaman swelled, ortaç biçimi genellikle swollen'dır. Sıfat olarak da swollen kullanılır.",
+  "note": ""
+ }
+]

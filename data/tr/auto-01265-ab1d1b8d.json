@@ -1,0 +1,276 @@
+[
+ {
+  "id": "nearly",
+  "senses": [
+   "neredeyse; hemen hemen"
+  ],
+  "ex": [
+   "Geç uyandığım için otobüsü neredeyse kaçıracaktım.",
+   "Ankete katılan sakinlerin neredeyse yarısı, ek yollar yapmak yerine toplu taşımanın genişletilmesini destekledi."
+  ],
+  "col": [
+   "neredeyse yarısı",
+   "neredeyse bitmiş",
+   "neredeyse imkânsız",
+   "hiç de yeterli değil"
+  ],
+  "tip": "'nearly' 'neredeyse' anlamındadır. 'not nearly' ise 'hiç de... değil' anlamına gelir ve olumsuzluğu çok daha güçlüdür.",
+  "note": ""
+ },
+ {
+  "id": "pyjamas",
+  "senses": [
+   "pijama"
+  ],
+  "ex": [
+   "Pijamalarımı giyip yatağa girdim.",
+   "Rahat pijamalar seçmek ve düzenli bir yatma saati uygulamak, çocukların daha sağlıklı uyku alışkanlıkları edinmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir takım pijama",
+   "pamuklu pijama",
+   "pijama giymek"
+  ],
+  "tip": "Her zaman çoğul kullanılır (pyjamas). Bir takım için 'a pair of pyjamas' denir. Amerikan yazımı 'pajamas' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "century",
+  "senses": [
+   "yüzyıl"
+  ],
+  "ex": [
+   "Bu köprü yüz yıldan fazla bir süre önce inşa edildi.",
+   "Geçtiğimiz yüzyılda sanitasyondaki gelişmeler, dünya genelinde yaşam beklentisinin uzamasına önemli ölçüde katkıda bulundu."
+  ],
+  "col": [
+   "yirminci yüzyıl",
+   "yüz yıl önce",
+   "yüzyılın dönümü"
+  ],
+  "tip": "Yüzyıl sayısı, yılın ilk iki hanesinden bir fazladır: 1901–2000 yılları 20. yüzyıldır. Türkçede de 'yüzyıl' sözcüğüyle aynı mantık geçerlidir.",
+  "note": ""
+ },
+ {
+  "id": "score",
+  "senses": [
+   "puan; skor",
+   "puan almak; skor yapmak",
+   "film müziği; beste"
+  ],
+  "ex": [
+   "Bir hafta çalıştıktan sonra puanım arttı.",
+   "Test puanları yararlı bilgiler verir, ancak öğrencilerin yaratıcılığını ya da pratik becerilerini tam olarak yansıtamaz."
+  ],
+  "col": [
+   "yüksek puan",
+   "gol atmak",
+   "test puanları",
+   "film müziği"
+  ],
+  "tip": "'score' hem isim hem fiil olarak kullanılır. Spor bağlamında 'score a goal' (gol atmak) kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "cycling",
+  "senses": [
+   "bisiklete binme; bisiklet sporu"
+  ],
+  "ex": [
+   "Her pazar sabahı nehir kenarında bisiklete binmeye gideriz.",
+   "Güvenli bisiklet yollarına yatırım yapmak, işe gidip gelenleri daha sağlıklı ve daha az kirletici ulaşım türlerini seçmeye teşvik edebilir."
+  ],
+  "col": [
+   "bisiklete binmeye gitmek",
+   "bisiklet yolu",
+   "bisiklet kaskı",
+   "bisiklet altyapısı"
+  ],
+  "tip": "Etkinlikten söz ederken 'go cycling' kalıbı kullanılır (We go cycling). Bu kullanımda başına 'a' ya da 'the' getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "act",
+  "senses": [
+   "harekete geçmek; davranmak",
+   "davranış; eylem",
+   "yasa; kanun"
+  ],
+  "ex": [
+   "Mutfak lavabosu taşmadan önce hızlıca harekete geçmeliyiz.",
+   "Hükümetler, kentlerdeki insanların sağlığını korumak için hava kirliliğini azaltmada kararlı adımlar atmak zorundadır."
+  ],
+  "col": [
+   "hızlıca harekete geçmek",
+   "olarak görev yapmak",
+   "bir nezaket davranışı",
+   "yasa çıkarmak"
+  ],
+  "tip": "'act as' 'olarak görev yapmak, rolünü üstlenmek' anlamına gelir. 'act' ayrıca tiyatroda bir perdeyi de ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "season",
+  "senses": [
+   "mevsim",
+   "sezon; dönem",
+   "tatlandırmak; baharat katmak"
+  ],
+  "ex": [
+   "Sonbahar, ormanda yürüyüş yapmak için en sevdiğim mevsimdir.",
+   "Turizm sezonunun uzaması daha istikrarlı istihdam yaratabilir; ancak yerel kaynaklar üzerindeki baskıyı da artırabilir."
+  ],
+  "col": [
+   "yağmurlu mevsim",
+   "yoğun sezon",
+   "futbol sezonu",
+   "tuzla tatlandırmak"
+  ],
+  "tip": "Fiil olarak 'yemeğe tat vermek' anlamında 'season food with...' kalıbı kullanılır. İsim olarak hem 'mevsim' hem 'sezon' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "guess",
+  "senses": [
+   "tahmin etmek",
+   "tahmin; varsayım",
+   "sanmak; galiba"
+  ],
+  "ex": [
+   "Bu küçük kutunun içinde ne olduğunu tahmin edebilir misin?",
+   "Güvenilir veriler olmadan araştırmacılar, ulaşım maliyetlerindeki değişikliklerin hane harcamalarını nasıl etkileyeceğini yalnızca tahmin edebilir."
+  ],
+  "col": [
+   "tahminde bulunmak",
+   "bilinçli tahmin",
+   "doğru tahmin etmek"
+  ],
+  "tip": "'I guess' konuşma dilinde 'sanırım, galiba' anlamında kullanılır ve kesinlik taşımaz. Resmi yazıda 'I believe' gibi ifadeler tercih edilebilir.",
+  "note": ""
+ },
+ {
+  "id": "timetable",
+  "senses": [
+   "saat çizelgesi; ders programı",
+   "zamanlamak; programlamak"
+  ],
+  "ex": [
+   "İstasyona gitmeden önce tarifeye baktım.",
+   "Esnek bir okul ders programı, öğrencilerin akademik dersleri fiziksel etkinlik ve yaratıcı öğrenmeyle dengelemesine yardımcı olabilir."
+  ],
+  "col": [
+   "tren tarifesi",
+   "okul ders programı",
+   "güncellenmiş program"
+  ],
+  "tip": "İngiliz İngilizcesinde 'timetable', Amerikan İngilizcesinde genelde 'schedule' kullanılır. Her ikisi de Türkçede 'program' ya da 'tarife' karşılığını taşır.",
+  "note": ""
+ },
+ {
+  "id": "princess",
+  "senses": [
+   "prenses"
+  ],
+  "ex": [
+   "Prenses, arabasının içinden kalabalığa el salladı.",
+   "Geleneksel masallar prensesi genellikle başkasına bağımlı biri olarak gösterirken, modern uyarlamalar onun bağımsızlığını ve liderliğini giderek daha çok vurgular."
+  ],
+  "col": [
+   "kraliyet prensesi",
+   "masal prensesi"
+  ],
+  "tip": "Hükümdarın kızı için kullanılır. 'Prens' ile evlenen kadın için de kullanılabilir. Belirli bir prensesi anlatırken başına 'the' getirilir.",
+  "note": ""
+ },
+ {
+  "id": "gramme",
+  "senses": [
+   "gram"
+  ],
+  "ex": [
+   "Çorbaya bir gram tuz ekle.",
+   "Küçük bir gölete bırakıldığında bazı kirleticilerin bir gramı bile su canlıları için zararlı olabilir."
+  ],
+  "col": [
+   "bir gram tuz",
+   "gram başına",
+   "gram cinsinden tartmak"
+  ],
+  "tip": "Bu İngiliz yazımıdır; Amerikan İngilizcesinde 'gram' kullanılır. Birim sembolü 'g' şeklinde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "able",
+  "senses": [
+   "yapabilen; muktedir",
+   "yetenekli; becerikli"
+  ],
+  "ex": [
+   "Sonunda havuzun bir ucundan diğerine yüzebiliyorum.",
+   "Güvenilir internet erişimi sayesinde kırsaldaki öğrenciler, daha önce yalnızca şehirlerde sunulan kurslara katılabiliyor."
+  ],
+  "col": [
+   "yapabilmek",
+   "yetenekli bir lider",
+   "yetenekli bir öğrenci"
+  ],
+  "tip": "'be able to + fiil' kalıbı kullanılır, 'able doing' değil. 'Can' yerine geçmiş ve gelecek zamanlarda 'be able to' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "ham",
+  "senses": [
+   "jambon"
+  ],
+  "ex": [
+   "Sandviçime biraz jambon ve peynir koydum.",
+   "Jambon gibi işlenmiş etler genellikle önemli miktarda tuz içerir; tüketiciler yemek planlarken bunu göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "bir dilim jambon",
+   "füme jambon",
+   "jambonlu sandviç"
+  ],
+  "tip": "Jambon maddi olarak sayılamaz: 'some ham' denir. Bir parça için 'a slice of ham' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "garbage",
+  "senses": [
+   "çöp; atık",
+   "saçmalık; değersiz şey"
+  ],
+  "ex": [
+   "Kokmaya başlamadan çöpü dışarı çıkarır mısın?",
+   "Şehirler, geri dönüşüm tesislerini ve kamu farkındalığını geliştirerek çöp depolama alanlarına giden atık miktarını azaltabilir."
+  ],
+  "col": [
+   "çöpü dışarı çıkarmak",
+   "çöp toplama",
+   "çöp torbası",
+   "çöp kutusu"
+  ],
+  "tip": "Sayılamayan bir isimdir. Amerikan İngilizcesinde yaygındır; İngiliz İngilizcesinde genellikle 'rubbish' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "cleaner",
+  "senses": [
+   "temizlikçi",
+   "temizlik malzemesi; temizleyici",
+   "daha temiz"
+  ],
+  "ex": [
+   "Ofis açılmadan önce temizlikçi çöp kutularını boşalttı.",
+   "Hastaneler, enfeksiyon riskini azaltmak için her temizlikçiye uygun koruyucu ekipman ve eğitim sağlamalıdır."
+  ],
+  "col": [
+   "ofis temizlikçisi",
+   "cam temizleyicisi",
+   "elektrikli süpürge",
+   "ev temizlik ürünü"
+  ],
+  "tip": "'a cleaner' genellikle temizlikçi kişiyi anlatır. 'Clean' sıfatının karşılaştırma biçimi de 'cleaner'dır; bağlama dikkat edin.",
+  "note": ""
+ }
+]

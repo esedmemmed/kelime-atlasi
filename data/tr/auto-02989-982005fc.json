@@ -1,0 +1,279 @@
+[
+ {
+  "id": "negative",
+  "senses": [
+   "olumsuz; zararlı",
+   "negatif",
+   "eksi; negatif"
+  ],
+  "ex": [
+   "Yorumları, yemek pişirme becerime olan güvenimi sarstı.",
+   "Özel araçlara aşırı bağımlılık, hava kalitesi ve halk sağlığı üzerinde olumsuz etkilere yol açabilir."
+  ],
+  "col": [
+   "olumsuz etki",
+   "olumsuz tutum",
+   "…için negatif çıkmak",
+   "negatif sayı"
+  ],
+  "tip": "Tıpta 'negative' sonucu kötü haber değil, aranan durumun bulunmadığı anlamına gelir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "consumer",
+  "senses": [
+   "tüketici"
+  ],
+  "ex": [
+   "Bir tüketici olarak satın almadan önce her zaman fiyatları karşılaştırırım.",
+   "Hükümetler, şirketlerin ürünleri hakkında doğru bilgi vermesini zorunlu kılarak tüketicileri korumalıdır."
+  ],
+  "col": [
+   "tüketici hakları",
+   "tüketici talebi",
+   "tüketim malları",
+   "tüketici koruması"
+  ],
+  "tip": "'Consumer' tüketici kimliğini vurgular; 'customer' ise bir işletmeyle alışveriş ilişkisini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "marriage",
+  "senses": [
+   "evlilik",
+   "uyumlu birliktelik"
+  ],
+  "ex": [
+   "Birbirlerini dinlemeyi öğrendikçe evlilikleri güçlendi.",
+   "Evliliğe bakıştaki değişimler, birçok toplumda hane yapısını ve konut talebini etkiledi."
+  ],
+  "col": [
+   "mutlu bir evlilik",
+   "evlilik cüzdanı",
+   "evlilik töreni",
+   "biriyle evlilik"
+  ],
+  "tip": "'Marriage' evlilik ilişkisini anlatır; 'wedding' ise düğünü veya düğün törenini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "tournament",
+  "senses": [
+   "turnuva"
+  ],
+  "ex": [
+   "Okul tenis turnuvamız gelecek cumartesi sabahı başlıyor.",
+   "Uluslararası bir turnuva düzenlemek turizmi canlandırabilir, ancak sonrasında spor tesislerini sürdürmek pahalıya mal olabilir."
+  ],
+  "col": [
+   "turnuva düzenlemek",
+   "turnuvaya katılmak",
+   "turnuva kazanmak",
+   "tenis turnuvası"
+  ],
+  "tip": "'Tournament' birden çok maçtan oluşan organizasyonu anlatır; tek bir karşılaşma için 'match' veya 'game' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pregnant",
+  "senses": [
+   "hamile"
+  ],
+  "ex": [
+   "Kuzenim hamile ve bebeğini haziranda bekliyor.",
+   "Erişilebilir sağlık hizmetleri, hamile kadınların hamilelikleri boyunca düzenli kontrollerden ve güvenilir tavsiyelerden yararlanmasını sağlar."
+  ],
+  "col": [
+   "hamile kalmak",
+   "hamile kadınlar",
+   "ileri derecede hamile"
+  ],
+  "tip": "Hamileliğin süresini belirtmek için 'six months pregnant' (altı aylık hamile) kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mat",
+  "senses": [
+   "paspas; minder",
+   "keçeleşmek; dolaşmak"
+  ],
+  "ex": [
+   "Lütfen içeri girmeden ayakkabılarınızı paspasa silin.",
+   "Yoğun kamu binalarının her girişine kauçuk bir paspas koymak kayma kazalarını önlemeye yardımcı olabilir."
+  ],
+  "col": [
+   "yoga minderi",
+   "kauçuk paspas",
+   "banyo paspası",
+   "egzersiz minderi"
+  ],
+  "tip": "'Mat' genellikle küçük ve işlevsel bir paspas ya da minderdir; geniş yüzeyli halı için 'carpet' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "press",
+  "senses": [
+   "bastırmak; itmek",
+   "basın",
+   "baskı yapmak"
+  ],
+  "ex": [
+   "Garaj kapısını açmak için bu düğmeye basın.",
+   "Özgür basın, vatandaşların kamu işlerini anlamasına yardımcı olur ve iktidardakileri hesap verebilir kılar."
+  ],
+  "col": [
+   "düğmeye basmak",
+   "basın özgürlüğü",
+   "basın toplantısı",
+   "değişim için baskı yapmak"
+  ],
+  "tip": "Basın anlamında genellikle 'the press' kullanılır. Düğmeye basmak için 'press' tercih edilir; 'push' ise itmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "persuade",
+  "senses": [
+   "ikna etmek",
+   "inandırmak"
+  ],
+  "ex": [
+   "Kardeşimi yürüyüş grubumuza katılmaya ikna ettim.",
+   "Halk sağlığı kampanyaları, faydaları anlaşılır bir dille açıklayarak insanları daha sağlıklı alışkanlıklar edinmeye ikna edebilir."
+  ],
+  "col": [
+   "birini bir şey yapmaya ikna etmek",
+   "birine bir şeyi inandırmak",
+   "ikna etmesi zor"
+  ],
+  "tip": "'Persuade someone to do' kalıbında fiil 'to' ile gelir. 'Persuade' başarılı bir ikna sonucunu ima eder.",
+  "note": ""
+ },
+ {
+  "id": "racing",
+  "senses": [
+   "yarış sporu; at yarışı",
+   "yarış için yapılmış"
+  ],
+  "ex": [
+   "Kuzenim hafta sonu öğleden sonraları bisiklet yarışlarını izlemekten hoşlanıyor.",
+   "Profesyonel motor sporları teknolojik yeniliği teşvik eder; ancak çevresel etkisi hâlâ tartışma konusudur."
+  ],
+  "col": [
+   "at yarışı",
+   "motor sporu",
+   "yarış arabası",
+   "yarış bisikleti"
+  ],
+  "tip": "Spor dalı olarak 'racing' genellikle sayılamaz; tek bir yarış için 'a race' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lavatory",
+  "senses": [
+   "tuvalet"
+  ],
+  "ex": [
+   "Tuvalet bekleme odasının hemen ilerisinde.",
+   "Her yolcu vagonunda, sınırlı hareket kabiliyetine sahip yolcuların kolayca ulaşabileceği bir tuvalet bulunmalıdır."
+  ],
+  "col": [
+   "halka açık tuvalet",
+   "tuvalet kapısı",
+   "tuvalet olanakları"
+  ],
+  "tip": "'Lavatory' daha resmi bir kelimedir ve çoğunlukla İngiliz İngilizcesinde kullanılır; günlük konuşmada 'toilet' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "bomb",
+  "senses": [
+   "bomba",
+   "bombalamak"
+  ],
+  "ex": [
+   "Müze, camın arkasında boş bir bomba kılıfı sergiliyordu.",
+   "Geçmiş bir çatışmadan kalma patlamamış bir bomba bulunduğunda inşaat projeleri gecikebilir."
+  ],
+  "col": [
+   "patlamamış bomba",
+   "bombayı etkisiz hale getirmek",
+   "bomba imha ekibi"
+  ],
+  "tip": "Kelimenin sonundaki 'b' sessizdir. 'Bombing' ise bombalama veya bombalı saldırı anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "generation",
+  "senses": [
+   "kuşak; nesil",
+   "üretim",
+   "nesil"
+  ],
+  "ex": [
+   "Dün akşam yemeğe ailemizden üç kuşak bir araya geldi.",
+   "Teknolojik ilerleme iş yerinde gereken becerileri değiştirdikçe her kuşak farklı zorluklarla karşılaşıyor."
+  ],
+  "col": [
+   "gelecek nesiller",
+   "kuşak çatışması",
+   "elektrik üretimi",
+   "genç kuşak"
+  ],
+  "tip": "'Kuşak' anlamında sayılabilir; 'üretim' anlamında genellikle sayılamaz. Ürün sürümleri için 'nesil' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "clinic",
+  "senses": [
+   "klinik; poliklinik"
+  ],
+  "ex": [
+   "Evimizin yakınındaki klinik hafta içi erken açılıyor.",
+   "Yerel klinikler, yaygın hastalıkları tedavi edip koruyucu bakım sunarak hastanelerin yükünü azaltabilir."
+  ],
+  "col": [
+   "diş kliniği",
+   "ayaktan tedavi kliniği",
+   "klinikte muayene olmak"
+  ],
+  "tip": "'Clinic' yatış gerektirmeyen tedavi veren sağlık kuruluşunu anlatır. 'Klinik' sıfatı için 'clinical' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "postpone",
+  "senses": [
+   "ertelemek"
+  ],
+  "ex": [
+   "Şiddetli yağmur beklendiği için piknik planımızı erteledik.",
+   "Yerel yönetimler, çevresel etkiye ilişkin tam değerlendirme tamamlanana kadar inşaatı ertelemeye karar verdi."
+  ],
+  "col": [
+   "toplantıyı ertelemek",
+   "kararı ertelemek",
+   "süresiz ertelemek"
+  ],
+  "tip": "'Postpone'dan sonra ismin ya da 'doing' biçiminin gelmesi gerekir (postpone doing); 'to do' kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "crown",
+  "senses": [
+   "taç",
+   "taç giydirmek",
+   "tepe; üst kısım"
+  ],
+  "ex": [
+   "Kraliçe törende altın bir taç takmıştı.",
+   "Müzede sergilenen kraliyet tacı, tarihte servete, otoriteye ve işçiliğe yönelik tutumları ortaya koyabilir."
+  ],
+  "col": [
+   "taç takmak",
+   "şampiyon ilan edilmek",
+   "başın tepesi",
+   "ağacın tepesi"
+  ],
+  "tip": "'Be crowned champion' 'şampiyon ilan edilmek' anlamına gelir. 'Crowned' pasif yapıda kullanılır.",
+  "note": ""
+ }
+]

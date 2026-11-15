@@ -1,0 +1,265 @@
+[
+ {
+  "id": "entirety",
+  "senses": [
+   "bütün; tümü"
+  ],
+  "ex": [
+   "Uzun filmi baştan sona, tamamını izledik.",
+   "Araştırmacılar programın etkililiği hakkında sonuca varmadan önce raporu bütünüyle incelemelidir."
+  ],
+  "col": [
+   "bütünüyle",
+   "...'nın tamamı"
+  ],
+  "tip": "in its entirety kalıbı 'bütünüyle, eksiksiz' anlamına gelir. the entirety of ise 'bütün' anlamında kullanılır; ikisi de resmi yazıda sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "bloc",
+  "senses": [
+   "blok; birlik"
+  ],
+  "ex": [
+   "Meclis üyeleri yerel parkları korumak için bir blok oluşturdu.",
+   "Bölgesel bir ticaret bloku, üye ülkeler arasındaki ticaret engellerini azaltırken üyelerin pazarlık gücünü artırabilir."
+  ],
+  "col": [
+   "ticaret bloku",
+   "siyasi blok",
+   "bölgesel blok",
+   "blok oluşturmak"
+  ],
+  "tip": "bloc, 'block' kelimesiyle aynı şekilde okunur ama anlamı farklıdır. Ortak amaç için bir araya gelen ülke ya da grupları ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "bottom-line",
+  "senses": [
+   "net kâra ilişkin"
+  ],
+  "ex": [
+   "Sahibi, sonuçları ve kârlılığı muhasebecisiyle görüştü.",
+   "Aşırı derecede net kâr performansına odaklanmak, şirketlerin çalışanlarını geliştirmeye yatırım yapmasını engelleyebilir."
+  ],
+  "col": [
+   "net kâr sonuçları",
+   "net kâr performansı",
+   "net kâr etkisi"
+  ],
+  "tip": "Sıfat olarak sıfat niteleyici biçimde, bağlaçsız, tire ile kullanılır. İsim olarak ise bottom line yazılır: 'the bottom line' (sonuç).",
+  "note": ""
+ },
+ {
+  "id": "plague",
+  "senses": [
+   "veba",
+   "sürekli sıkıntı vermek",
+   "belâ; felaket"
+  ],
+  "ex": [
+   "Müzede ortaçağ kentlerindeki vebayla ilgili bir sergi var.",
+   "Yetersiz drenaj, hızla büyüyen kentleri hâlâ rahatsız ediyor; sel riskini artırıyor ve yerel halkın sağlığını tehdit ediyor."
+  ],
+  "col": [
+   "veba salgını",
+   "sorunlarla boğuşmak",
+   "çekirge istilası"
+  ],
+  "tip": "Fiil olarak genellikle be plagued by kalıbında kullanılır ve uzun süre tekrar eden sorunları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "mingle",
+  "senses": [
+   "karışmak; kaynaşmak",
+   "kaynaşmak; sohbet etmek"
+  ],
+  "ex": [
+   "Taze ekmeğin kokusu kavrulmuş kahve kokusuyla karıştı.",
+   "Mahalle festivalleri farklı geçmişlerden gelen sakinlerin kaynaşmasını sağlar; bu da güveni ve aidiyet duygusunu güçlendirir."
+  ],
+  "col": [
+   "...ile karışmak",
+   "konuklarla sohbet etmek",
+   "serbestçe kaynaşmak"
+  ],
+  "tip": "mingle with hem bir şeyle karışmak hem de insanlarla kaynaşmak anlamına gelebilir. Bağlama göre anlam değişir.",
+  "note": ""
+ },
+ {
+  "id": "aspire",
+  "senses": [
+   "can atmak; hedeflemek"
+  ],
+  "ex": [
+   "Küçük kız kardeşim vahşi hayat fotoğrafçısı olmak istiyor.",
+   "Birçok genç, hem maddi güvence hem de topluma katkı fırsatı sunan kariyerlere can atıyor."
+  ],
+  "col": [
+   "yapmak için can atmak",
+   "büyüklük hedeflemek",
+   "tıpta kariyer hedeflemek"
+  ],
+  "tip": "aspire to + fiil (-ing değil, isim gibi) kalıbını kullanın: aspire to become. aspire to yapısından sonra isim de gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "indigenous",
+  "senses": [
+   "yerli; yerel"
+  ],
+  "ex": [
+   "Bu çiçekler köyümüzün yakınındaki vadiye özgü bitkilerdendir.",
+   "Yerli dillerin korunması, nesiller boyunca aktarılan kültürel bilginin yaşatılmasına yardımcı olur."
+  ],
+  "col": [
+   "yerli halklar",
+   "yerli diller",
+   "yerel türler",
+   "bir bölgeye özgü"
+  ],
+  "tip": "indigenous to kalıbında 'bölgeye özgü' anlamı vardır. İnsan gruplarına atıfta bulunurken büyük harfle yazılması yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "reckless",
+  "senses": [
+   "pervasız; düşüncesiz"
+  ],
+  "ex": [
+   "Frensiz olarak tepeden aşağı bisiklet sürmek pervasızca bir davranıştı.",
+   "Finans kurumlarının sorumsuz kredi vermesi, hanehalklarını ödeme şansı çok az olan borçlarla karşı karşıya bırakabilir."
+  ],
+  "col": [
+   "tehlikeli sürüş",
+   "sorumsuz davranış",
+   "savurganca harcama",
+   "güvenliğe karşı umursamazlık"
+  ],
+  "tip": "careless'tan farklı olarak reckless, riski bilerek ve sonuçlara aldırmadan göze almayı anlatır. Dikkatsizlikten daha ağır bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "incineration",
+  "senses": [
+   "yakma; yakarak imha"
+  ],
+  "ex": [
+   "Hastane belirli atıkları yakılmak üzere dışarı gönderiyor.",
+   "Atık yakma işlemi elektrik üretebilir; ancak zararlı emisyonları sınırlamak için sıkı denetimler gerekir."
+  ],
+  "col": [
+   "atık yakma",
+   "yakma tesisi",
+   "yakma süreci"
+  ],
+  "tip": "Genellikle sayılamayan isim olarak kullanılır ve atık yönetimi konularında sıkça geçer. Fiili burn ya da incinerate'tir.",
+  "note": ""
+ },
+ {
+  "id": "civilize",
+  "senses": [
+   "medenileştirmek"
+  ],
+  "ex": [
+   "Teyzem dans derslerinin beni biraz olsun terbiyeli yapacağını şaka yaparak söylüyor.",
+   "Yabancı yönetimin yerel halkları medenileştireceği yönündeki tarihsel iddialar, sıklıkla eşitsiz güç ilişkilerini ve kültürel önyargıyı gizledi."
+  ],
+  "col": [
+   "toplumu medenileştirmek",
+   "medenileştirmeye çalışmak"
+  ],
+  "tip": "Bir halkı üstün ya da aşağı görmeyi çağrıştırabilir; bu nedenle dikkatli kullanın. İngiliz yazımı civilise biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "disuse",
+  "senses": [
+   "kullanılmama; atıllık"
+  ],
+  "ex": [
+   "Eski bahçe aletleri kullanılmadıkları için paslanmıştı.",
+   "Bakım maliyetleri yerel toplulukların kaynaklarını aştığında tarihi binalar sıklıkla kullanılmaz hale gelir."
+  ],
+  "col": [
+   "kullanılmaz hale gelmek",
+   "kullanılmadığı için",
+   "yıllarca kullanılmamış olma"
+  ],
+  "tip": "Genellikle sayılamayan isim olarak kullanılır. Sondaki s sesi /s/ okunur, /z/ değil.",
+  "note": ""
+ },
+ {
+  "id": "consecutive",
+  "senses": [
+   "ardışık; art arda"
+  ],
+  "ex": [
+   "Bu hafta beş gün üst üste yağmur yağdı.",
+   "Birkaç yıl üst üste süren düşük yağış, tarımsal üretimi azalttı ve bölgesel su kaynakları üzerindeki baskıyı artırdı."
+  ],
+  "col": [
+   "ardışık günler",
+   "art arda zaferler",
+   "üç yıl üst üste"
+  ],
+  "tip": "Aralıksız, birbiri ardınca gelen olayları anlatır. Genellikle gün, yıl ya da sayı gibi ifadelerle birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cluster",
+  "senses": [
+   "küme; demet; grup",
+   "toplanmak; kümelenmek"
+  ],
+  "ex": [
+   "Kapının yanında mor çiçeklerden oluşan bir demet büyüdü.",
+   "Teknoloji şirketleri genellikle üniversitelerin yakınında kümelenir; böylece yetenekli mezunları işe alabilir ve araştırmacılarla iş birliği yapabilirler."
+  ],
+  "col": [
+   "bir grup",
+   "birlikte toplanmak",
+   "etrafında toplanmak",
+   "sanayi kümesi"
+  ],
+  "tip": "Yakın bir arada bulunan benzer şeyleri anlatır. a cluster of ifadesinden sonra genellikle çoğul isim gelir.",
+  "note": ""
+ },
+ {
+  "id": "tolerable",
+  "senses": [
+   "katlanılabilir; dayanılır",
+   "fena olmayan; idare eder"
+  ],
+  "ex": [
+   "Pencereleri açtıktan sonra sıcak dayanılabilir bir hal aldı.",
+   "İyileştirilmiş havalandırma, sınıf sıcaklıklarını tamamen klimaya bağlı kalmadan katlanılabilir düzeyde tutabilir."
+  ],
+  "col": [
+   "katlanılabilir ağrı",
+   "kabul edilebilir düzey",
+   "zar zor katlanılabilir"
+  ],
+  "tip": "tolerable 'katlanılabilir' anlamına gelir; tolerant ise 'hoşgörülü' demektir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "filth",
+  "senses": [
+   "pislik; kir",
+   "müstehcen içerik"
+  ],
+  "ex": [
+   "Yürüyüşten sonra botlarım pislikle kaplıydı.",
+   "Düzenli çöp toplanmazsa, yerleşim alanlarında kir birikebilir ve ciddi halk sağlığı riskleri oluşturabilir."
+  ],
+  "col": [
+   "pislikle kaplı",
+   "pislik içinde yaşamak",
+   "birikmiş kir"
+  ],
+  "tip": "Sayılamayan isimdir. dirt'e göre daha güçlü bir anlam taşır ve genellikle tiksinti hissi uyandırır.",
+  "note": ""
+ }
+]

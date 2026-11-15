@@ -1,0 +1,282 @@
+[
+ {
+  "id": "idea",
+  "senses": [
+   "fikir; düşünce",
+   "kavram; fikir",
+   "bilgi; anlayış"
+  ],
+  "ex": [
+   "Balkonda aromatik bitki yetiştirme fikrin çok hoş geliyor.",
+   "Ücretsiz toplu taşıma fikri destek görüyor, ancak mali sonuçlarının dikkatle değerlendirilmesi gerekiyor."
+  ],
+  "col": [
+   "bir fikir ortaya atmak",
+   "iyi bir fikir",
+   "hiçbir fikrim yok",
+   "kabaca bir fikir"
+  ],
+  "tip": "idea sayılabilir bir isimdir. 'Hiçbir fikrim yok' anlamında have no idea kullanılır; başına a veya the gelmez.",
+  "note": ""
+ },
+ {
+  "id": "draw",
+  "senses": [
+   "çizmek",
+   "çekmek; sürüklemek",
+   "çekmek; celp etmek"
+  ],
+  "ex": [
+   "Defterine uyuyan bir kedi çizdi.",
+   "Ücretsiz kültürel etkinlikler müzelere daha fazla ziyaretçi çekebilir ve sanata daha geniş katılımı teşvik edebilir."
+  ],
+  "col": [
+   "resim çizmek",
+   "dikkat çekmek",
+   "sonuca varmak",
+   "perdeleri kapatmak"
+  ],
+  "tip": "Düzensiz fiildir: draw, drew, drawn. Spor bağlamında 'berabere kalmak' anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "down",
+  "senses": [
+   "aşağıya; aşağıda",
+   "boyunca; aşağı doğru",
+   "keyifsiz; moralsiz"
+  ],
+  "ex": [
+   "Kedi mutfak masasından atlayarak yere indi.",
+   "Konut maliyetleri arttıkça genç yetişkinlerin biriktirebildiği miktar çoğu zaman azalıyor."
+  ],
+  "col": [
+   "oturmak",
+   "düşmek; azalmak",
+   "sokak boyunca",
+   "keyifsiz hissetmek"
+  ],
+  "tip": "Edat olarak kullanıldığında isimle birlikte gelir: down the street. Duygu için feel down kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "machine",
+  "senses": [
+   "makine",
+   "makineyle işlemek"
+  ],
+  "ex": [
+   "Çamaşır makinesi son sıkma sırasında yüksek sesle titredi.",
+   "Modern bir makine tekrarlayan işleri verimli biçimde yapabilir; böylece çalışanlar daha karmaşık sorunlara odaklanabilir."
+  ],
+  "col": [
+   "çamaşır makinesi",
+   "makine kullanmak",
+   "makine öğrenmesi",
+   "makine parçaları"
+  ],
+  "tip": "machine sayılabilir bir isimdir. Makineler topluluğu için machinery kullanılır ve sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "get",
+  "senses": [
+   "elde etmek; almak",
+   "olmak; hale gelmek",
+   "varmak; ulaşmak"
+  ],
+  "ex": [
+   "Doğum günüm için sıcak bir atkı aldım.",
+   "Düşük gelirli ailelerden gelen öğrenciler, üniversite derslerini tamamlamak için ihtiyaç duydukları mali desteği almakta zorlanabilir."
+  ],
+  "col": [
+   "iş bulmak",
+   "daha iyi olmak",
+   "okula varmak",
+   "izin almak"
+  ],
+  "tip": "Düzensiz fiildir: get, got, got. Amerikan İngilizcesinde geçmiş zaman ortacı gotten olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "but",
+  "senses": [
+   "ama; fakat",
+   "hariç; dışında"
+  ],
+  "ex": [
+   "Çanta küçük görünüyor ama ihtiyacım olan her şeyi taşıyabiliyor.",
+   "Toplu taşıma trafik sıkışıklığını azaltabilir, ancak düzenli kullanıcıları çekebilmesi için hizmetlerin yeterince güvenilir olması gerekir."
+  ],
+  "col": [
+   "yalnızca değil, aynı zamanda",
+   "değil ... fakat ...",
+   "hiç de ... değil",
+   "yalnızca; sadece"
+  ],
+  "tip": "although ve but genellikle aynı cümlede birlikte kullanılmaz; karşıtlık için ikisinden biri yeterlidir.",
+  "note": ""
+ },
+ {
+  "id": "red",
+  "senses": [
+   "kırmızı",
+   "kırmızı renk"
+  ],
+  "ex": [
+   "Kış pazarına kırmızı paltosuyla geldi.",
+   "Tasarımcılar, makinelerde ve kamusal alanlarda önemli uyarıların dikkat çekmesi için sıklıkla kırmızıyı kullanır."
+  ],
+  "col": [
+   "parlak kırmızı",
+   "kızarmak",
+   "borçta; zararda"
+  ],
+  "tip": "in the red deyimi 'borçta, zararda' anlamına gelir; renkle doğrudan ilgisi yoktur.",
+  "note": ""
+ },
+ {
+  "id": "conversation",
+  "senses": [
+   "sohbet; konuşma"
+  ],
+  "ex": [
+   "Otobüs beklerken hoş bir sohbet ettik.",
+   "Akıcı konuşanlarla düzenli sohbet etmek, dil öğrenenlerin özgüven kazanmasına ve dinleme becerilerini geliştirmesine yardımcı olur."
+  ],
+  "col": [
+   "sohbet etmek",
+   "sohbet başlatmak",
+   "bir konu hakkında konuşma"
+  ],
+  "tip": "Birisiyle bir konu hakkında konuşmak için have a conversation with someone about something kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dinner",
+  "senses": [
+   "akşam yemeği",
+   "resmi yemek; davet"
+  ],
+  "ex": [
+   "Yemek hazır, lütfen tabakları getirir misin?",
+   "Birlikte düzenli olarak akşam yemeği yemek, herkese günlük deneyimlerini paylaşma fırsatı vererek aile ilişkilerini güçlendirebilir."
+  ],
+  "col": [
+   "akşam yemeği yemek",
+   "akşam yemeği hazırlamak",
+   "resmi bir yemek"
+  ],
+  "tip": "Günlük kullanımda have dinner denir, başına the ya da a gelmez. Resmi davet için a formal dinner kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bring",
+  "senses": [
+   "getirmek",
+   "neden olmak; sağlamak"
+  ],
+  "ex": [
+   "Ziyarete geldiğinde lütfen sıcak bir mont getir.",
+   "Gelişmiş toplu taşıma, kendi arabasını alamayan sakinlere önemli faydalar sağlayabilir."
+  ],
+  "col": [
+   "birine bir şey getirmek",
+   "değişim yaratmak",
+   "şans getirmek"
+  ],
+  "tip": "bring, bir şeyi konuşulan kişiye veya yere getirmeyi anlatır; uzaklaştırmak için take kullanılır. Geçmiş zamanı brought.",
+  "note": ""
+ },
+ {
+  "id": "reason",
+  "senses": [
+   "neden; gerekçe",
+   "akıl; mantık",
+   "mantıklı düşünmek"
+  ],
+  "ex": [
+   "Yağmurlu hava evde kalmamızın nedeniydi.",
+   "Kent kiralarının artmasının bir nedeni, konut arzının nüfus artışına ayak uyduramamasıdır."
+  ],
+  "col": [
+   "...nedeni",
+   "geçerli bir neden",
+   "birini ikna etmeye çalışmak",
+   "makul sınırlar içinde"
+  ],
+  "tip": "Genellikle reason for + isim veya reason why + cümle kalıbında kullanılır. 'Nedeni' için reason of demeyin.",
+  "note": ""
+ },
+ {
+  "id": "asia",
+  "senses": [
+   "Asya"
+  ],
+  "ex": [
+   "Kuzenim üç ay boyunca Asya'yı gezdi.",
+   "Asya'daki hızlı kentleşme, uygun fiyatlı konut ve güvenilir toplu taşıma ihtiyacını artırdı."
+  ],
+  "col": [
+   "Doğu Asya",
+   "Güneydoğu Asya",
+   "Orta Asya",
+   "Asya genelinde"
+  ],
+  "tip": "Kıta adları büyük harfle yazılır ve genellikle başına the almaz. Sıfat biçimi Asian'dır.",
+  "note": ""
+ },
+ {
+  "id": "colour",
+  "senses": [
+   "renk",
+   "boyamak; renklendirmek"
+  ],
+  "ex": [
+   "Mutfak duvarlarını hangi renge boyayalım?",
+   "Sınıf duvarlarının rengi öğrencilerin ruh halini ve dikkatini etkileyebilir."
+  ],
+  "col": [
+   "parlak renkler",
+   "renk düzeni",
+   "resmi boyamak",
+   "renk değiştirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde colour, Amerikan İngilizcesinde color yazılır. Yazımda tutarlı olun.",
+  "note": ""
+ },
+ {
+  "id": "afternoon",
+  "senses": [
+   "öğleden sonra"
+  ],
+  "ex": [
+   "Öğleden sonrayı mutfakta ekmek pişirerek geçirdik.",
+   "Okullar, öğrencilerin daha sağlıklı alışkanlıklar ve güçlü arkadaşlıklar geliştirmesine yardımcı olmak için öğleden sonra spor etkinlikleri sunabilir."
+  ],
+  "col": [
+   "öğleden sonra",
+   "bugün öğleden sonra",
+   "geç öğleden sonra"
+  ],
+  "tip": "Genel anlamda in the afternoon denir. Belirli bir gün için on Monday afternoon gibi on kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "t-shirt",
+  "senses": [
+   "tişört"
+  ],
+  "ex": [
+   "Piknik için temiz bir tişört koydum.",
+   "Tek kullanımlık moda yerine dayanıklı pamuklu bir tişört seçmek atığı azaltabilir ve daha sorumlu tüketimi teşvik edebilir."
+  ],
+  "col": [
+   "pamuklu tişört",
+   "sade tişört",
+   "tişört giymek"
+  ],
+  "tip": "Sayılabilir bir isimdir; çoğul hali T-shirts olur. Kelimedeki kısa çizgiyi yazımda koruyun.",
+  "note": ""
+ }
+]

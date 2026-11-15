@@ -1,0 +1,274 @@
+[
+ {
+  "id": "teamwork",
+  "senses": [
+   "takım çalışması; ekip çalışması"
+  ],
+  "ex": [
+   "İyi bir takım çalışması sayesinde öğle yemeğinden önce boyamayı bitirdik.",
+   "Grup projeleri, öğrencilerin gelecekteki kariyerlerinde ihtiyaç duyacakları ekip becerilerini geliştirebilir."
+  ],
+  "col": [
+   "etkili takım çalışması",
+   "ekip çalışması becerileri",
+   "takım çalışmasını teşvik etmek"
+  ],
+  "tip": "Sayılamayan isimdir; 'a teamwork' ya da çoğul 'teamworks' biçimini kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "static",
+  "senses": [
+   "hareketsiz; durağan",
+   "elektrostatik",
+   "statik; parazit"
+  ],
+  "ex": [
+   "Ses devam ederken televizyon görüntüsü hareketsiz kaldı.",
+   "Konut maliyetleri büyük şehirlerde sürekli artarken ücretler birkaç yıldır değişmeden kaldı."
+  ],
+  "col": [
+   "değişmeden kalmak",
+   "statik elektrik",
+   "durağan görüntü"
+  ],
+  "tip": "'Static' hareketsiz ya da değişmeyen anlamına gelir; elektrikle ilgili kullanımda 'static electricity' olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "oxygen",
+  "senses": [
+   "oksijen"
+  ],
+  "ex": [
+   "Hemşire ona şeffaf plastik bir maskeyle oksijen verdi.",
+   "Kirlilik, nehirlerdeki oksijen seviyelerini düşürerek balıkların ve diğer su canlılarının hayatta kalmasını zorlaştırabilir."
+  ],
+  "col": [
+   "oksijen arzı",
+   "oksijen seviyeleri",
+   "oksijen eksikliği",
+   "oksijen maskesi"
+  ],
+  "tip": "Sayılamayan isimdir; 'an oxygen' denmez. Miktar için 'some oxygen' gibi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "trader",
+  "senses": [
+   "tüccar; komisyoncu"
+  ],
+  "ex": [
+   "Bir pazar satıcısı, tezgâhının önüne taze portakalları dizdi.",
+   "Küçük tüccarlar, tedarikçilerden daha düşük fiyat pazarlığı yapabilen büyük perakendecilerle rekabet etmekte genellikle zorlanır."
+  ],
+  "col": [
+   "pazar satıcısı",
+   "döviz tüccarı",
+   "bağımsız tüccar",
+   "hisse senedi işlemcisi"
+  ],
+  "tip": "Hem gerçek mal alıp satanlar hem de finans piyasalarında işlem yapanlar için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "readily",
+  "senses": [
+   "kolayca; hemen",
+   "istekle; isteyerek"
+  ],
+  "ex": [
+   "Kız kardeşim bitkileri sulamayı hemen kabul etti.",
+   "Güvenilir sağlık bilgilerine, gelirden ya da konumdan bağımsız olarak tüm vatandaşlar kolayca ulaşabilmelidir."
+  ],
+  "col": [
+   "kolayca bulunabilir",
+   "kolayca erişilebilir",
+   "hemen kabul etmek",
+   "kolayca itiraf etmek"
+  ],
+  "tip": "'Readily available' kolayca bulunabilir anlamındadır; 'hemen sunmaya istekli' diye çevrilmemelidir.",
+  "note": ""
+ },
+ {
+  "id": "legend",
+  "senses": [
+   "efsane; söylence",
+   "efsanevi kişi",
+   "lejant; açıklama"
+  ],
+  "ex": [
+   "Büyükannem bize uyuyan bir ejderha hakkında bir efsane anlattı.",
+   "Yerel efsaneler, bölgenin tarihiyle ilgilenen ziyaretçileri çekerken kültürel kimliği de güçlendirebilir."
+  ],
+  "col": [
+   "efsaneye göre",
+   "yerel bir efsane",
+   "yaşayan efsane",
+   "harita lejantı"
+  ],
+  "tip": "Efsane tarihi bir olaya dayanabilir ama bu, tarihsel olarak doğrulandığı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "circumstance",
+  "senses": [
+   "durum; koşul",
+   "mali durum; hal"
+  ],
+  "ex": [
+   "Hiçbir koşulda ön kapıyı kilitsiz bırakmamalısın.",
+   "Okullar, devamsızlık ve öğrenme kaynaklarına erişimle ilgili politikalar geliştirirken her öğrencinin kişisel durumunu dikkate almalıdır."
+  ],
+  "col": [
+   "bu koşullarda",
+   "kişisel durum",
+   "öngörülemeyen koşullar",
+   "hiçbir koşulda"
+  ],
+  "tip": "Genellikle çoğul kullanılır (circumstances). 'Under no circumstances' cümle başına gelirse devrik yapı gerekir.",
+  "note": ""
+ },
+ {
+  "id": "random",
+  "senses": [
+   "rastgele; gelişigüzel"
+  ],
+  "ex": [
+   "Yemek kitabını rastgele bir sayfada açtım.",
+   "Araştırmacılar, halkın yenilenebilir enerjiye yönelik tutumlarını ölçmek için hanelerden rastgele bir örneklem seçti."
+  ],
+  "col": [
+   "rastgele örneklem",
+   "rastgele seçim",
+   "rastgele olarak"
+  ],
+  "tip": "Sıfattır. Fiili nitelemek için 'randomly' ya da 'at random' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pickle",
+  "senses": [
+   "turşu",
+   "turşu kurmak; tuzlamak"
+  ],
+  "ex": [
+   "Sandviçine çıtır bir turşu ekledi.",
+   "Birçok topluluk, mevsim sebzelerinin raf ömrünü uzatmak ve evdeki gıda israfını azaltmak için turşu kurar."
+  ],
+  "col": [
+   "turşu kurulmuş sebzeler",
+   "bir kavanoz turşu",
+   "başı belada olmak"
+  ],
+  "tip": "Amerikan İngilizcesinde 'a pickle' genellikle tek bir salatalık turşusu anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "willingly",
+  "senses": [
+   "isteyerek; gönüllü olarak"
+  ],
+  "ex": [
+   "Ben uzaktayken komşum bitkileri isteyerek suladı.",
+   "Toplama hizmetleri uygun ve güvenilir olduğunda, sakinler geri dönüşüm programlarına daha isteyerek katılma eğilimindedir."
+  ],
+  "col": [
+   "isteyerek kabul etmek",
+   "isteyerek katılmak",
+   "memnuniyetle kabul etmek"
+  ],
+  "tip": "Zorlanmadan, kendi isteğiyle yapıldığını vurgular; yalnızca 'mutlu bir şekilde' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "gorilla",
+  "senses": [
+   "goril"
+  ],
+  "ex": [
+   "Genç goril, sıkıca annesinin sırtına tutundu.",
+   "Goril yaşam alanlarını korumak, birçok başka türü destekleyen ve karbon depolayan tropikal ormanları da korur."
+  ],
+  "col": [
+   "dağ gorili",
+   "gümüş sırtlı goril",
+   "goril koruması"
+  ],
+  "tip": "Goril büyük bir maymun türüdür; 'chimpanzee' (şempanze) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "comprehensive",
+  "senses": [
+   "kapsamlı; ayrıntılı"
+  ],
+  "ex": [
+   "Bu kapsamlı rehber, parktaki her patikayı kapsıyor.",
+   "Okullar, öğrencilerin yaşam tarzları hakkında bilinçli kararlar verebilmeleri için kapsamlı sağlık eğitimi sunmalıdır."
+  ],
+  "col": [
+   "kapsamlı rehber",
+   "kapsamlı inceleme",
+   "kapsamlı değerlendirme"
+  ],
+  "tip": "Kapsamın geniş olduğunu anlatır; 'kolay anlaşılır' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "increasingly",
+  "senses": [
+   "giderek; gittikçe"
+  ],
+  "ex": [
+   "Otobüs geçen aydan beri giderek daha kalabalık hâle geldi.",
+   "Şehirler genişledikçe hükümetler, trafik sıkışıklığını azaltmak ve hava kalitesini artırmak için toplu taşımaya giderek daha fazla yatırım yapıyor."
+  ],
+  "col": [
+   "giderek daha önemli",
+   "giderek daha yaygın",
+   "giderek daha endişeli",
+   "giderek daha zor"
+  ],
+  "tip": "Sıfatı niteler: 'increasingly popular' gibi. Bu kullanım 'more and more' ile eşdeğerdir.",
+  "note": ""
+ },
+ {
+  "id": "drag",
+  "senses": [
+   "sürüklemek; çekmek",
+   "uzayıp gitmek; sürünmek",
+   "engel; yük"
+  ],
+  "ex": [
+   "Ağır halıyı zemin boyunca sürükledik.",
+   "Karmaşık onay prosedürleri aylarca sürebilir ve toplu taşımadaki temel iyileştirmeleri geciktirebilir."
+  ],
+  "col": [
+   "sandalyeyi sürüklemek",
+   "uzayıp gitmek",
+   "sürükle bırak",
+   "büyümenin önündeki engel"
+  ],
+  "tip": "Geçmiş zaman biçimi 'dragged'dır. 'Drag on' sıkıcı biçimde uzayıp gitmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "stale",
+  "senses": [
+   "bayat",
+   "eskimiş; bayağı"
+  ],
+  "ex": [
+   "Bu ekmek bayat, onu galeta unu yapmak için kullanacağım.",
+   "Eğitimciler fikir alışverişi yapma ve yeni beceriler geliştirme fırsatı bulamadıklarında öğretim yöntemleri eskiyebilir."
+  ],
+  "col": [
+   "bayat ekmek",
+   "bayat hava",
+   "eskimiş şakalar"
+  ],
+  "tip": "'Stale' tazelik ve ilgi kaybını anlatır; 'rotten' ise tamamen çürümüş anlamına gelir.",
+  "note": ""
+ }
+]

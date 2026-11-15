@@ -1,0 +1,274 @@
+[
+ {
+  "id": "resemblance",
+  "senses": [
+   "benzerlik"
+  ],
+  "ex": [
+   "İki kız kardeş arasında çarpıcı bir benzerlik var.",
+   "Modern konut projeleri, özellikle düzenleri ve ortak alan kullanımı bakımından geleneksel mahallelere pek benzemiyor."
+  ],
+  "col": [
+   "bir şeye benzemek",
+   "çarpıcı benzerlik",
+   "aile benzerliği"
+  ],
+  "tip": "Isim olan resemblance 'to' ile kullanılır (resemblance to). Fiil resemble ise 'to' almadan doğrudan nesne alır: She resembles her mother.",
+  "note": ""
+ },
+ {
+  "id": "soar",
+  "senses": [
+   "hızla artmak; fırlamak",
+   "havalanmak; süzülmek"
+  ],
+  "ex": [
+   "Aşırı soğuk kış boyunca elektrik faturaları fırladı.",
+   "Büyük şehirlerde uygun fiyatlı konut arzı talebi karşılayamadığında konut fiyatları hızla yükselebilir."
+  ],
+  "col": [
+   "hızla yükselen fiyatlar",
+   "üzerine yükselmek",
+   "rekor seviyelere fırlamak"
+  ],
+  "tip": "Fiyat gibi değerler için soar yalnızca özne olarak kullanılır. 'soar the prices' gibi nesneli kullanım yanlıştır; doğrusu prices soar.",
+  "note": ""
+ },
+ {
+  "id": "firewood",
+  "senses": [
+   "odun; yakacak odun"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce kuru odunları sobanın yanına istiflemiştik.",
+   "Bazı kırsal topluluklarda yemek pişirmek için odun kullanımı ormansızlaşmaya ve kapalı alanda hava kirliliğine yol açabiliyor."
+  ],
+  "col": [
+   "odun toplamak",
+   "odun kesmek",
+   "bir demet odun"
+  ],
+  "tip": "Genellikle sayılamaz. Tek bir parçası için a piece of firewood denir; a firewood kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "congestion",
+  "senses": [
+   "trafik sıkışıklığı; tıkanıklık",
+   "burun tıkanıklığı"
+  ],
+  "ex": [
+   "Köprünün yakınındaki sıkışıklıktan kaçınmak için erken çıktık.",
+   "Güvenilir toplu taşımaya yatırım yapmak, büyük şehirlerde hava kirliliğini azaltırken trafik sıkışıklığını hafifletebilir."
+  ],
+  "col": [
+   "trafik sıkışıklığı",
+   "sıkışıklığı hafifletmek",
+   "burun tıkanıklığı"
+  ],
+  "tip": "Genellikle sayılamaz; başına a almaz. Trafik için traffic congestion kalıbı çok yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "impulse",
+  "senses": [
+   "dürtü; ani istek",
+   "sinir uyarısı; impuls",
+   "itici güç; teşvik"
+  ],
+  "ex": [
+   "Bu parlak sarı şemsiyeyi düşünmeden, ani bir istekle aldım.",
+   "Çevrimiçi satıcılar, indirimleri sınırlı süreli sunarak tüketicileri çoğu zaman ani kararlar almaya teşvik eder."
+  ],
+  "col": [
+   "ani bir istekle",
+   "yapma dürtüsüne direnmek",
+   "sinir impulsları",
+   "dürtüsel alışveriş"
+  ],
+  "tip": "on impulse 'düşünmeden, dürtüyle' anlamına gelir. Dürtüye direnmek için resist the impulse to + fiil kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "handbook",
+  "senses": [
+   "el kitabı; kılavuz"
+  ],
+  "ex": [
+   "Gülü budamadan önce bahçecilik el kitabına baktım.",
+   "Kapsamlı bir çalışan el kitabı, yeni personelin iş yeri prosedürlerini anlamasına ve sorumlulukları konusunda karışıklık yaşamamasına yardımcı olur."
+  ],
+  "col": [
+   "çalışan el kitabı",
+   "öğrenci rehberi",
+   "pratik kılavuz"
+  ],
+  "tip": "Ders kitabı (textbook) ile karıştırılmamalı. Handbook, hızlı başvurulan, pratik bilgi ve talimat içeren kılavuzdur.",
+  "note": ""
+ },
+ {
+  "id": "off-duty",
+  "senses": [
+   "görev dışı; izinli"
+  ],
+  "ex": [
+   "Görevde olmayan bir hemşire, dedem düştüğünde yardım etti.",
+   "Konforlu konaklama, görev dışındaki personelin iyi dinlenmesini sağlar ve sonraki vardiyalardaki performanslarını artırır."
+  ],
+  "col": [
+   "görev dışı personel",
+   "görevde olmayan hemşire",
+   "mesai dışı saatler"
+  ],
+  "tip": "İsimden önce off-duty (tireli) yazılır. Yüklem olarak genellikle tiresiz off duty biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "accurate",
+  "senses": [
+   "doğru; kusursuz",
+   "isabetli; hedefi vuran"
+  ],
+  "ex": [
+   "Bu mutfak tartısı ekmek yapmak için yeterince doğru.",
+   "Hava kalitesi hakkında doğru bilgi, sakinlerin dışarıda egzersiz yapma konusunda bilinçli kararlar almasını sağlar."
+  ],
+  "col": [
+   "doğru bilgi",
+   "doğru ölçümler",
+   "oldukça doğru",
+   "isabetli bir tahmin"
+  ],
+  "tip": "accurate hatasızlık ve doğruluğu vurgular; precise ise ayrıntıdaki kesinliği öne çıkarır. Ölçümlerde ikisi de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "considerable",
+  "senses": [
+   "epeyce büyük; önemli"
+  ],
+  "ex": [
+   "Çatının onarılması epey zaman ve emek gerektirdi.",
+   "Toplu taşımanın genişletilmesi önemli bir yatırım gerektirir, ancak trafik sıkışıklığını azaltıp kentsel hava kalitesini iyileştirebilir."
+  ],
+  "col": [
+   "önemli miktar",
+   "epeyce çaba",
+   "önemli etki",
+   "kayda değer ilerleme"
+  ],
+  "tip": "considerable 'epey büyük, önemli' anlamındadır. considerate ise 'düşünceli' demektir; ikisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "respectful",
+  "senses": [
+   "saygılı"
+  ],
+  "ex": [
+   "Büyükannem konuşurken çocuklar saygılı bir tavırla sessiz kaldı.",
+   "Saygılı tartışma, öğrencilerin karşıt görüşleri değerlendirmesine olanak tanır; anlaşmazlık ilişkilerine zarar vermez."
+  ],
+  "col": [
+   "saygılı tutum",
+   "başkalarına saygılı",
+   "saygılı sessizlik"
+  ],
+  "tip": "respectful 'saygılı' anlamındadır; respectable ise 'saygın, itibarlı' demektir. İkisi birbirine karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "nuclear",
+  "senses": [
+   "nükleer; atom çekirdeği",
+   "hücre çekirdeğine ait"
+  ],
+  "ex": [
+   "Kuzenim yakındaki bir nükleer santralde çalışıyor.",
+   "Nükleer enerji güvenilir elektrik sağlayabilir, ancak radyoaktif atıkların yönetimi önemli bir sorun olmayı sürdürüyor."
+  ],
+  "col": [
+   "nükleer enerji",
+   "nükleer santral",
+   "nükleer atık",
+   "nükleer silahlar"
+  ],
+  "tip": "Bağlama göre atom çekirdeği ya da hücre çekirdeği anlamına gelir. Biyoloji metinlerinde ikinci anlam öne çıkar.",
+  "note": ""
+ },
+ {
+  "id": "regulation",
+  "senses": [
+   "yönetmelik; kural",
+   "denetim; düzenleme"
+  ],
+  "ex": [
+   "Güvenlik yönetmelikleri buradaki herkesin kask takmasını şart koşuyor.",
+   "Endüstriyel atıkların daha sıkı denetlenmesi su kirliliğini azaltabilir ve yakındaki topluluklarda halk sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "güvenlik yönetmelikleri",
+   "yönetmeliklere uymak",
+   "devlet denetimi",
+   "sıcaklık düzenlemesi"
+  ],
+  "tip": "Belirli kurallar için regulations (çoğul) sık kullanılır. Denetim süreci anlamında regulation genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "elegant",
+  "senses": [
+   "zarif; şık",
+   "sade ve etkili"
+  ],
+  "ex": [
+   "Akşam yemeğine şık mavi bir elbise giydi.",
+   "Mimar, binanın enerji tüketimini artırmadan havalandırmayı iyileştiren sade ve etkili bir çözüm önerdi."
+  ],
+  "col": [
+   "şık tasarım",
+   "zarif çözüm",
+   "şık elbise"
+  ],
+  "tip": "Hem görünüş hem de çözüm için kullanılır. elegant solution, sorunu basit ve etkili biçimde çözen yaklaşımı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "shield",
+  "senses": [
+   "kalkan; siper",
+   "korumak; siper olmak"
+  ],
+  "ex": [
+   "İşçi yüzünün önüne şeffaf bir siper indirdi.",
+   "Kentsel ağaçlar, yoğun nüfuslu mahallelerde sıcaklığı düşürürken yayaları yoğun güneş ışığından koruyabilir."
+  ],
+  "col": [
+   "yüz siperi",
+   "koruyucu kalkan",
+   "birini zarardan korumak"
+  ],
+  "tip": "Fiil genellikle shield someone from something kalıbıyla kullanılır: birini bir şeyden korumak.",
+  "note": ""
+ },
+ {
+  "id": "hint",
+  "senses": [
+   "ipucu; işaret",
+   "ima etmek; dolaylı söylemek",
+   "eser; hafif iz"
+  ],
+  "ex": [
+   "Hediyeyi nereye sakladığına dair bana bir ipucu ver.",
+   "Anket yanıtları, özellikle şehir merkezi dışında yaşayan yolcular arasında toplu taşımaya yönelik artan memnuniyetsizliğe işaret ediyor."
+  ],
+  "col": [
+   "birine ipucu vermek",
+   "ima anlamak",
+   "bir şeye işaret etmek",
+   "hafif bir limon kokusu"
+  ],
+  "tip": "Fiil olarak hint at sth ya da hint that ... kalıplarıyla kullanılır. 'Hint' doğrudan söylemeden dolaylı anlatmak demektir.",
+  "note": ""
+ }
+]

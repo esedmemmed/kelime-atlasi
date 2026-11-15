@@ -1,0 +1,272 @@
+[
+ {
+  "id": "cubic",
+  "senses": [
+   "kübik; küp biçimli"
+  ],
+  "ex": [
+   "Yeni su deposumuz iki metreküp su alabiliyor.",
+   "Modern sulama sistemleri her yıl binlerce metreküp suyun tasarruf edilmesini sağlayabilir."
+  ],
+  "col": [
+   "metreküp",
+   "santimetreküp",
+   "motor hacmi"
+  ],
+  "tip": "Hacim birimlerinde cubic, alan birimlerinde square kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lord",
+  "senses": [
+   "derebeyi; asilzade",
+   "Tanrı; Rab"
+  ],
+  "ex": [
+   "Rehber, yerel bir derebeyinin bir zamanlar yaşadığı yeri gösterdi.",
+   "Ortaçağ toplumunda derebey çoğu zaman tarım arazisini yönetir ve orada çalışanlardan ödemeler toplardı."
+  ],
+  "col": [
+   "güçlü bir derebey",
+   "malikânenin efendisi",
+   "Rab",
+   "birine tepeden bakmak"
+  ],
+  "tip": "Tanrı anlamında the Lord ve baş harfi büyük yazılır. Unvan olarak isimden önce de büyük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "resort",
+  "senses": [
+   "tatil yeri; turistik belde",
+   "başvurmak; sığınmak",
+   "son çare; başvurulacak yol"
+  ],
+  "ex": [
+   "Göl kıyısındaki sakin bir tatil beldesinde kaldık.",
+   "Hükümetler kısa vadeli mali sorunlara çözüm ararken eğitim bütçesini kesmeye başvurmamalıdır."
+  ],
+  "col": [
+   "deniz kıyısı tatil beldesi",
+   "şiddete başvurmak",
+   "son çare olarak"
+  ],
+  "tip": "resort to kalıbındaki to bir edattır; ardından isim ya da -ing alır, fiil yalın halde gelmez.",
+  "note": ""
+ },
+ {
+  "id": "warranty",
+  "senses": [
+   "garanti; garanti belgesi"
+  ],
+  "ex": [
+   "Kamera garanti kapsamında olduğu için mağaza onu tamir etti.",
+   "Daha uzun garanti süresi, tüketicileri sık değiştirilmesi gereken ucuz ürünler yerine dayanıklı cihazları seçmeye teşvik edebilir."
+  ],
+  "col": [
+   "garanti kapsamında",
+   "uzatılmış garanti",
+   "üretici garantisi",
+   "garantiyi geçersiz kılmak"
+  ],
+  "tip": "Garanti süresi içindeki ürün için under warranty kullanılır; in warranty denmez.",
+  "note": ""
+ },
+ {
+  "id": "expose",
+  "senses": [
+   "maruz bırakmak",
+   "ifşa etmek; açığa çıkarmak",
+   "açığa çıkarmak; ortaya koymak"
+  ],
+  "ex": [
+   "Koruyucu olmadan cildinizi güneşin sert ışığına maruz bırakmayın.",
+   "Araştırmacı gazetecilik, güvensiz çalışma koşullarını ortaya çıkarabilir ve şirketleri çalışanlarına daha iyi davranmaya zorlayabilir."
+  ],
+  "col": [
+   "birini riske maruz bırakmak",
+   "yolsuzluğu ifşa etmek",
+   "çocukları müzikle tanıştırmak"
+  ],
+  "tip": "expose A to B, A'yı B'ye maruz bırakmak demektir. B her zaman zararlı bir şey olmak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "ignorance",
+  "senses": [
+   "bilgisizlik; habersizlik"
+  ],
+  "ex": [
+   "Yerel gelenekleri bilmemem garip bir ana yol açtı.",
+   "Halk eğitimi beslenme konusundaki bilgisizliği azaltabilir ve sınırlı bütçeli aileler daha sağlıklı seçimler yapabilir."
+  ],
+  "col": [
+   "hakkında bilgisizlik",
+   "habersizce; bilmeden",
+   "bilgisizliğini kabul etmek"
+  ],
+  "tip": "Genellikle sayılamaz. Bir konudaki bilgisizlik için ignorance of ya da ignorance about kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "banker",
+  "senses": [
+   "bankacı; banka yöneticisi"
+  ],
+  "ex": [
+   "Bankacı, kahve içerken kredi seçeneklerimizi anlattı.",
+   "Bankacılar, küçük işletmelere kredi onaylamadan önce finansal riskleri değerlendirmede önemli bir rol oynar."
+  ],
+  "col": [
+   "yatırım bankacısı",
+   "merkez bankası yetkilisi",
+   "üst düzey banka yöneticisi"
+  ],
+  "tip": "Genellikle banka sahibi ya da üst düzey yönetici anlamına gelir; sıradan gişe memurunu karşılamaz.",
+  "note": ""
+ },
+ {
+  "id": "affection",
+  "senses": [
+   "sevgi; şefkat"
+  ],
+  "ex": [
+   "Kedimiz bacaklarımıza sürtünerek sevgisini gösteriyor.",
+   "Bakıcılarından tutarlı şefkat gören çocuklar genellikle daha güçlü bir duygusal güven ve sağlam sosyal ilişkiler geliştirir."
+  ],
+  "col": [
+   "sevgi göstermek",
+   "...e derin sevgi",
+   "sevginin bir işareti"
+  ],
+  "tip": "Genellikle sayılamaz. Birine ya da bir şeye duyulan sevgi için affection for kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "outlook",
+  "senses": [
+   "bakış açısı; tutum",
+   "beklenti; öngörü",
+   "manzara; görünüm"
+  ],
+  "ex": [
+   "Yakın zamandaki zorluklara rağmen Lina neşeli bir bakış açısını koruyor.",
+   "Yurt dışında okumak, öğrencileri tanıdık olmayan geleneklerle ve farklı düşünce biçimleriyle karşılaştırarak dünya görüşlerini genişletebilir."
+  ],
+  "col": [
+   "hayata bakış",
+   "olumlu bakış açısı",
+   "ekonomik beklenti",
+   "bakış açını genişletmek"
+  ],
+  "tip": "Tutum için on, gelecek beklentisi için for kullanılır: outlook on life, outlook for growth gibi.",
+  "note": ""
+ },
+ {
+  "id": "auto",
+  "senses": [
+   "otomobil; araba"
+  ],
+  "ex": [
+   "Arabasını bir oto tamir atölyesine götürdü.",
+   "Otomotiv sektörü, uygun fiyatlı elektrikli araçlar üretme ve çevresel etkisini azaltma yönünde artan bir baskıyla karşı karşıya."
+  ],
+  "col": [
+   "otomotiv sektörü",
+   "oto tamir atölyesi",
+   "oto yedek parça"
+  ],
+  "tip": "Esas olarak Amerikan İngilizcesinde kullanılır. İngiliz İngilizcesinde genellikle car tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "tiptoe",
+  "senses": [
+   "parmak ucunda yürümek"
+  ],
+  "ex": [
+   "Erkek kardeşini uyandırmamak için yatak odasının önünden parmak ucunda geçti.",
+   "Ziyaretçiler tarihi binalarda genellikle parmak ucunda yürür, ancak bu mekânlarda sessiz konuşmaya çoğu zaman izin verilir."
+  ],
+  "col": [
+   "parmak ucunda geçmek",
+   "sakınarak davranmak",
+   "parmak uçlarında"
+  ],
+  "tip": "Geçmiş zaman biçimi tiptoed'dır. on tiptoe, topukları kaldırarak ayakucunda durmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "indication",
+  "senses": [
+   "belirti; işaret"
+  ],
+  "ex": [
+   "Şu koyu bulutlar yaklaşan yağmurun bir belirtisi.",
+   "Toplu taşımaya olan talebin artması, kentsel seyahat alışkanlıklarının değiştiğine dair bir işaret sunuyor."
+  ],
+  "col": [
+   "açık bir belirti",
+   "...hakkında fikir vermek",
+   "az belirti"
+  ],
+  "tip": "indication of + isim ya da indication that + cümle kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "moss",
+  "senses": [
+   "yosun"
+  ],
+  "ex": [
+   "Dere kenarındaki taşları kalın, yeşil bir yosun tabakası kaplamıştı.",
+   "Yosunlar orman ekosistemlerinin nemi tutmasına yardımcı olur ve birçok küçük canlıya yaşam alanı sağlar."
+  ],
+  "col": [
+   "bir parça yosun",
+   "kalın yosun",
+   "yosunla kaplı kayalar"
+  ],
+  "tip": "Genellikle sayılamaz. Lichen (liken) farklı bir canlıdır ve moss ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "acceptance",
+  "senses": [
+   "kabul; onay",
+   "kabul görme; hoş görme",
+   "gerçeği kabullenme"
+  ],
+  "ex": [
+   "Davetimizi kabul etmesi hepimizi gülümsetti.",
+   "Yenilenebilir enerji projelerine halkın kabulü, yerel topluluklar ekonomik faydalardan pay aldığında genellikle artar."
+  ],
+  "col": [
+   "teklifin kabulü",
+   "kabul görmek",
+   "yaygın kabul",
+   "toplumsal kabul"
+  ],
+  "tip": "Genellikle sayılamaz. acceptance of ile neyin kabul edildiği belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "arms",
+  "senses": [
+   "silahlar; cephane",
+   "kollar"
+  ],
+  "ex": [
+   "Müze eski silahları kalın camın ardında sergiliyor.",
+   "Uluslararası anlaşmalar silah ticaretini kısıtlayabilir ve hükümetleri anlaşmazlıkları barışçıl yollarla çözmeye teşvik edebilir."
+  ],
+  "col": [
+   "silah ticareti",
+   "silahlanma yarışı",
+   "silah kontrolü",
+   "silahları bırakmak"
+  ],
+  "tip": "Silah anlamında çoğul arms kullanılır. Tek bir kol için arm denir; arms kelimesi bu anlamda da çoğuldur.",
+  "note": ""
+ }
+]

@@ -1,0 +1,267 @@
+[
+ {
+  "id": "snobbish",
+  "senses": [
+   "küçümseyici; snobvari"
+  ],
+  "ex": [
+   "Snob komşusu küçük dairemize gelmeyi reddetti.",
+   "Mesleki eğitime yönelik küçümseyici tutumlar, gençleri değerli pratik meslekleri seçmekten caydırabilir."
+  ],
+  "col": [
+   "küçümseyici bir tutum",
+   "kıyafetler konusunda snobvari",
+   "snobvari davranış"
+  ],
+  "tip": "Statü, servet ya da zevke göre başkalarını aşağı görmeyi anlatır; dalkavukluk anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "endeavor",
+  "senses": [
+   "çaba göstermek; uğraşmak",
+   "çaba; girişim"
+  ],
+  "ex": [
+   "Her mesaja akşam yemeğinden önce cevap vermeye çalışıyoruz.",
+   "Üniversiteler, yükseköğretimi daha geniş bir yelpazedeki öğrenciler için erişilebilir kılmak amacıyla çaba göstermelidir."
+  ],
+  "col": [
+   "bir şeyi yapmaya çalışmak",
+   "ortak bir girişim",
+   "bilimsel çaba"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımı endeavour'dur. Fiilden sonra genellikle to do yapısı gelir.",
+  "note": ""
+ },
+ {
+  "id": "solitary",
+  "senses": [
+   "yalnız; tek başına",
+   "tek; yalnızca bir"
+  ],
+  "ex": [
+   "Ormandaki sessiz patikayı yalnız bir yürüyüşçü takip ediyordu.",
+   "Yalnız çalışma derin konsantrasyona olanak tanırken, işbirlikli öğrenme öğrencilerin iletişim becerilerini geliştirmesine ve farklı bakış açılarını değerlendirmesine yardımcı olur."
+  ],
+  "col": [
+   "yalnız bir hayat",
+   "yalnız bir figür",
+   "tek başına yapılan etkinlikler",
+   "tek bir ağaç"
+  ],
+  "tip": "Solitary tek başına olmayı vurgular; lonely gibi yalnızlık duygusu taşımak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "ample",
+  "senses": [
+   "yeterli; bol",
+   "geniş; ferah"
+  ],
+  "ex": [
+   "Tren kalkmadan önce kahvaltı için bolca vaktimiz var.",
+   "Yerleşim alanlarında bol yeşil alan sağlamak, halk sağlığını iyileştirebilir ve daha aktif yaşam tarzlarını teşvik edebilir."
+  ],
+  "col": [
+   "bol zaman",
+   "yeterli kanıt",
+   "geniş alan",
+   "bol fırsat"
+  ],
+  "tip": "Ample, yeterliliğin hatta fazlasıyla yeterli olduğunu anlatır; time, space, evidence gibi isimlerle sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "provocation",
+  "senses": [
+   "kışkırtma; provokasyon"
+  ],
+  "ex": [
+   "Kışkırtmalara rağmen Amir sakin kaldı ve uzaklaştı.",
+   "Çocuklara kışkırtmalara sakin biçimde karşılık vermeyi öğretmek, çatışmaları azaltabilir ve daha destekleyici bir okul ortamı oluşturabilir."
+  ],
+  "col": [
+   "kışkırtma olmadan",
+   "kasıtlı kışkırtma",
+   "kışkırtmaya karşılık vermek"
+  ],
+  "tip": "Öfke uyandırmayı amaçlayan ya da buna yol açan davranışı anlatır; genel anlamda her uyarıcı için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "reiterate",
+  "senses": [
+   "yinelemek; yeniden vurgulamak"
+  ],
+  "ex": [
+   "Ayrılmadan önce babam birlikte kalmanın önemini yeniden vurguladı.",
+   "Rapor, kentsel hava kirliliğini azaltmak için toplu taşımaya yapılan yatırımın şart olduğunu yeniden vurgulamaktadır."
+  ],
+  "col": [
+   "bir noktayı yinelemek",
+   "bir taahhüdü yenilemek",
+   "that olduğunu yinelemek"
+  ],
+  "tip": "Fiildir, sıfat değildir; isim alabilir ya da that yan cümlesi ile kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "notwithstanding",
+  "senses": [
+   "-e rağmen; -e karşın",
+   "yine de; buna rağmen"
+  ],
+  "ex": [
+   "Yağmura rağmen nehir kenarındaki yürüyüşümüzden keyif aldık.",
+   "İlk maliyetlerine rağmen yenilenebilir enerjiye yapılan yatırım, zamanla önemli ekonomik ve çevresel faydalar sağlayabilir."
+  ],
+  "col": [
+   "-diği gerçeğine rağmen",
+   "bu zorluklara rağmen",
+   "bu endişelere karşın"
+  ],
+  "tip": "Resmî bir kelimedir; edat olarak isimden önce ya da sonra gelebilir, örneğin the rain notwithstanding.",
+  "note": ""
+ },
+ {
+  "id": "dishonorable",
+  "senses": [
+   "onursuz; şerefsiz"
+  ],
+  "ex": [
+   "Kart oyununda hile yapmanın onursuzca olduğunu düşündü.",
+   "Kamu görevlilerinin onursuz davranışları kurumlara olan güveni zayıflatabilir ve vatandaşları siyasete katılmaktan caydırabilir."
+  ],
+  "col": [
+   "onursuz davranış",
+   "onursuz niyetler",
+   "onursuz terhis"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımı genellikle dishonourable şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "meticulous",
+  "senses": [
+   "titiz; her ayrıntıyı gözeten"
+  ],
+  "ex": [
+   "Eski saati tamir ederken çok dikkatli notlar aldı.",
+   "Araştırmacılar karmaşık ekipman ve hassas çevresel ölçümler içeren deneyler yürütürken titiz planlama şarttır."
+  ],
+  "col": [
+   "ayrıntılara titiz özen",
+   "titiz planlama",
+   "özenli kayıtlar"
+  ],
+  "tip": "Genellikle olumlu anlamda kullanılır; her küçük ayrıntıya dikkatle ve özenle yaklaşmayı vurgular.",
+  "note": ""
+ },
+ {
+  "id": "fluorescent",
+  "senses": [
+   "floresan; ışıldayan",
+   "floresan renkli; parlak"
+  ],
+  "ex": [
+   "Mutfak lavabosunun üzerindeki floresan lamba titriyordu.",
+   "Floresan aydınlatmanın daha verimli alternatiflerle değiştirilmesi, okullarda ve ofislerde elektrik tüketimini düşürebilir."
+  ],
+  "col": [
+   "floresan aydınlatma",
+   "floresan tüp",
+   "floresan sarı"
+  ],
+  "tip": "Yazımına dikkat: fluorescent. Genellikle lamp ya da tube ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tertiary",
+  "senses": [
+   "yükseköğretime ait",
+   "üçüncü sırada; üçüncü aşama"
+  ],
+  "ex": [
+   "Kız kardeşim gelecek yıl yükseköğretime başlamayı umuyor.",
+   "Uygun fiyatlı yükseköğretim, dezavantajlı öğrencilere mesleki yeterliliklere erişim sağlayarak sosyal hareketliliği artırabilir."
+  ],
+  "col": [
+   "yükseköğretim",
+   "üçüncül sektör; hizmet sektörü",
+   "üçüncül bakım"
+  ],
+  "tip": "Tertiary education, orta öğretimden sonraki yüksek öğrenimi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "concur",
+  "senses": [
+   "hemfikir olmak; katılmak"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce ayrılma önerinize katılıyorum.",
+   "Araştırmacıların çoğu, erken çocukluk eğitimine yapılan yatırımın topluma önemli faydalar sağladığı konusunda hemfikirdir."
+  ],
+  "col": [
+   "birine katılmak",
+   "olduğu konusunda hemfikir olmak",
+   "bir karara uymak"
+  ],
+  "tip": "Resmî bir kelimedir; concur with someone veya concur that yapısıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "protracted",
+  "senses": [
+   "uzayan; sürüncemede kalan"
+  ],
+  "ex": [
+   "Uzun bir tartışmadan sonra sonunda bir kanepe seçtik.",
+   "Finansman konusundaki uzayan müzakereler, temel altyapı projelerini geciktirebilir ve toplam maliyetlerini önemli ölçüde artırabilir."
+  ],
+  "col": [
+   "uzayan müzakereler",
+   "süregelen anlaşmazlık",
+   "uzayan gecikme",
+   "uzun süren hastalık"
+  ],
+  "tip": "Long'dan farklı olarak, gereğinden fazla uzadığını vurgular ve çoğunlukla olumsuz bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "stagnation",
+  "senses": [
+   "durgunluk; gelişmeme",
+   "suyun ya da havanın durgunluğu"
+  ],
+  "ex": [
+   "Yıllarca süren durgunluktan sonra dükkânımız sonunda yeni müşteriler çekti.",
+   "Uzun süren ekonomik durgunluk, istihdam fırsatlarını azaltabilir ve temel kamu hizmetlerine yapılan yatırımı caydırabilir."
+  ],
+  "col": [
+   "ekonomik durgunluk",
+   "durgunluk dönemi",
+   "uzun süreli durgunluk"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; özellikle ekonomi veya gelişimin durduğu durumlar için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "afflict",
+  "senses": [
+   "acı çektirmek; sıkıntı vermek"
+  ],
+  "ex": [
+   "Mevsimsel alerjiler, çiçekler açtığında kardeşimi rahatsız ediyor.",
+   "Su kıtlığı kırsal topluluklara zarar vermeye devam ediyor; tarımsal üretimi sınırlıyor ve yerel ailelerin yükünü artırıyor."
+  ],
+  "col": [
+   "-den muzdarip olmak",
+   "toplulukları sıkıntıya sokmak",
+   "ağır biçimde etkilenmiş"
+  ],
+  "tip": "Genellikle be afflicted with yapısıyla, bir hastalık ya da zorlukla birlikte kullanılır.",
+  "note": ""
+ }
+]

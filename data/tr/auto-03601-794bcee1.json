@@ -1,0 +1,277 @@
+[
+ {
+  "id": "uncover",
+  "senses": [
+   "ortaya çıkarmak; keşfetmek",
+   "örtüyü kaldırmak; açmak"
+  ],
+  "ex": [
+   "Mutfak tamiratlarımız gizli bir su kaçağını ortaya çıkarmaya yardımcı oldu.",
+   "Bağımsız araştırmalar, endüstriyel gelişmenin ilk aşamalarında gözden kaçan çevresel riskleri ortaya çıkarabilir."
+  ],
+  "col": [
+   "kanıt ortaya çıkarmak",
+   "gerçeği ortaya çıkarmak",
+   "bir sorunu ortaya çıkarmak"
+  ],
+  "tip": "Hem örtüyü kaldırmak hem de gizli bir gerçeği bulmak anlamında kullanılır; iki anlam için de aynı fiil geçerlidir.",
+  "note": ""
+ },
+ {
+  "id": "harsh",
+  "senses": [
+   "sert; acımasız",
+   "zorlu; ağır",
+   "rahatsız edici; sert"
+  ],
+  "ex": [
+   "Onun sert eleştirisi akşam yemeğinde herkesi üzdü.",
+   "Sert iklimli bölgelerdeki çiftçilerin istikrarlı gıda üretimini sürdürebilmesi için güvenilir sulama sistemlerine ihtiyacı var."
+  ],
+  "col": [
+   "sert eleştiri",
+   "zorlu koşullar",
+   "ağır ceza",
+   "sert ışık"
+  ],
+  "tip": "strict'ten farklı olarak harsh, insanı rahatsız eden ve katlanması zor bir sertliği anlatır.",
+  "note": ""
+ },
+ {
+  "id": "resemble",
+  "senses": [
+   "benzemek"
+  ],
+  "ex": [
+   "Bu bulutlar gökyüzünde süzülen küçük teknelere benziyor.",
+   "Modern öğrenme alanları, giderek sıra sıra masaların olduğu geleneksel sınıflardan çok iş birliğine dayalı çalışma ortamlarına benziyor."
+  ],
+  "col": [
+   "çok benzemek",
+   "büyük ölçüde benzemek",
+   "birbirine benzemek"
+  ],
+  "tip": "Doğrudan nesne alır: resemble someone. Yanına to ya da with eklenmez. Resmi bir dildir; günlük konuşmada genellikle look like tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "saddle",
+  "senses": [
+   "eyer; bisiklet selesi",
+   "eyerlemek",
+   "yük bindirmek"
+  ],
+  "ex": [
+   "Yeni bisikletime binmeden önce seleyi alçalttım.",
+   "Üniversite harçlarının aşırı yüksek olması, mezunlara yıllarca kariyer seçimlerini kısıtlayacak borçlar bindirebiliyor."
+  ],
+  "col": [
+   "seleyi ayarlamak",
+   "ata eyer vurmak",
+   "borç yükü altında olmak"
+  ],
+  "tip": "saddle someone with kalıbı, birine istemediği bir sorumluluğu yüklemek anlamına gelir; genellikle be saddled with biçiminde edilgen kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fate",
+  "senses": [
+   "kader; talih",
+   "akıbet; son"
+  ],
+  "ex": [
+   "Ona yeniden rastladığımızda sanki kader böyle istemişti.",
+   "Nesli tükenmekte olan birçok türün akıbeti, hükümetlerin yaşam alanlarını daha fazla yıkımdan koruyup korumamasına bağlı."
+  ],
+  "col": [
+   "bir şeyi kadere bırakmak",
+   "birinin sonunu mühürlemek",
+   "aynı akıbete uğramak"
+  ],
+  "tip": "Kader anlamında genellikle belirtisiz ve sayılamaz kullanılır. a terrible fate gibi kullanımlarda ise kötü bir sonu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "desperate",
+  "senses": [
+   "çaresiz; umutsuz",
+   "çok isteyen; can atan",
+   "çok ciddi; acil"
+  ],
+  "ex": [
+   "Kedisini bulmak için çaresiz kalan Aisha, yakındaki her bahçeyi aradı.",
+   "Uzun süren kuraklıktan sonra çiftçi topluluklar çaresiz koşullarla karşı karşıya ve geçim kaynaklarını yeniden sağlamak için acil desteğe ihtiyaç duyuyor."
+  ],
+  "col": [
+   "yardım için can atmak",
+   "kaçmak için çaresiz",
+   "çaresiz bir girişim",
+   "çaresiz önlemler"
+  ],
+  "tip": "Bir şeyi çok istemek için desperate for + isim, bir şeyi yapmaya can atmak için desperate to + fiil kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "skeleton",
+  "senses": [
+   "iskelet",
+   "taslak; ana hatlar"
+  ],
+  "ex": [
+   "Müzede devasa bir dinozor iskeleti gördük.",
+   "Eski bir hayvanın iskeletini incelemek, nasıl hareket ettiğini ve çevresine nasıl uyum sağladığını ortaya çıkarabilir."
+  ],
+  "col": [
+   "insan iskeleti",
+   "dinozor iskeleti",
+   "asgari personel"
+  ],
+  "tip": "skeleton staff, işin yürümesi için gereken en az personeli anlatır. Mecazi olarak da bu anlamda sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "precaution",
+  "senses": [
+   "önlem; tedbir"
+  ],
+  "ex": [
+   "Yanımıza bir tedbir olarak fazladan bir el feneri aldık.",
+   "Laboratuvarlarda temel güvenlik önlemleri almak kazaları önleyebilir ve hem öğrencileri hem de öğretim personelini koruyabilir."
+  ],
+  "col": [
+   "önlem almak",
+   "bir tedbir olarak",
+   "güvenlik önlemleri",
+   "yangına karşı önlem"
+  ],
+  "tip": "Genellikle take precautions kalıbıyla kullanılır. Sayılabilir bir isimdir: a precaution, precautions.",
+  "note": ""
+ },
+ {
+  "id": "candidate",
+  "senses": [
+   "aday; başvuru sahibi",
+   "sınava giren; sınav adayı"
+  ],
+  "ex": [
+   "Her aday mülakatından önce ofisin dışında bekledi.",
+   "İşverenler her adayı, eğitim veya kültürel geçmişine dair varsayımlara dayanmadan adil biçimde değerlendirmelidir."
+  ],
+  "col": [
+   "bir pozisyon için aday",
+   "uygun aday",
+   "seçim adayı",
+   "sınav adayı"
+  ],
+  "tip": "candidate for ile hangi pozisyon ya da seçim için aday olunduğu belirtilir: candidate for the position.",
+  "note": ""
+ },
+ {
+  "id": "encyclopedia",
+  "senses": [
+   "ansiklopedi"
+  ],
+  "ex": [
+   "Bu ansiklopedide büyüleyici bir dinozor resmi buldum.",
+   "Çevrimiçi ansiklopedi pratik bir arka plan bilgisi sunar, ancak öğrenciler önemli iddiaları güvenilir akademik kaynaklarla doğrulamalıdır."
+  ],
+  "col": [
+   "çevrimiçi ansiklopedi",
+   "ansiklopedi maddesi",
+   "bir ansiklopediye başvurmak"
+  ],
+  "tip": "İngiliz İngilizcesinde encyclopaedia biçimi de kullanılır; her iki yazım da doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "swollen",
+  "senses": [
+   "şişmiş; şişkin",
+   "debisi artmış; taşkın"
+  ],
+  "ex": [
+   "Antrenmanda düştükten sonra bileğim şişmişti.",
+   "Birkaç gün süren şiddetli yağmurdan sonra taşan nehir, kıyılarına yakın inşa edilmiş evleri tehdit etti."
+  ],
+  "col": [
+   "şişmiş bilek",
+   "şişmiş bezler",
+   "taşkın nehir"
+  ],
+  "tip": "Swell fiilinin geçmiş zaman ortacıdır ve sıfat olarak kullanılır. Fiilin geçmiş zamanı swelled biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "reputation",
+  "senses": [
+   "ün; itibar"
+  ],
+  "ex": [
+   "Bu küçük fırın mükemmel ekmekleriyle tanınıyor.",
+   "Müşteri şikâyetlerine dürüstçe yanıt veren şirketler, iyi itibarlarını koruma olasılığı daha yüksek olan şirketlerdir."
+  ],
+  "col": [
+   "bir ün kazanmak",
+   "birinin itibarına zarar vermek",
+   "kalitesiyle tanınmak"
+  ],
+  "tip": "reputation for ile bir özellik belirtilir. Ün iyi ya da kötü olabilir; iyi olduğunu belirtmek için good, kötü için bad eklenebilir.",
+  "note": ""
+ },
+ {
+  "id": "refresh",
+  "senses": [
+   "dinlendirmek; canlandırmak",
+   "yenilemek; güncellemek",
+   "tazelemek; hatırlatmak"
+  ],
+  "ex": [
+   "Uzun yürüyüşten sonra soğuk bir duş beni canlandırdı.",
+   "Düzenli molalar çalışanları dinlendirip, uzun süre zihinsel çaba gerektiren görevlerde dikkatlerini sürdürmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "kendini dinç hissetmek",
+   "sayfayı yenilemek",
+   "hafızanı tazelemek",
+   "becerilerini tazelemek"
+  ],
+  "tip": "Kişi için dinç hissetmek anlamında refreshed, şeyler için ferahlatıcı anlamında refreshing kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "silky",
+  "senses": [
+   "ipek gibi yumuşak",
+   "yumuşak ve tatlı"
+  ],
+  "ex": [
+   "Bu saç kremi saçlarımı yumuşacık ve ipeksi bırakıyor.",
+   "Tüketiciler genellikle ipek gibi dokuya sahip kumaşları tercih ediyor; ancak bu kumaşların üretimi önemli kimyasal işlemler gerektirebilir."
+  ],
+  "col": [
+   "ipeksi saç",
+   "ipek gibi doku",
+   "ipek gibi pürüzsüz",
+   "yumuşak ve tatlı ses"
+  ],
+  "tip": "silky, bir şeyin ipek gibi yumuşak görünmesini ya da hissettirmesini anlatır; gerçekten ipekten yapılmış olması gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "housekeeper",
+  "senses": [
+   "ev hizmetlisi; kat görevlisi"
+  ],
+  "ex": [
+   "Ev hizmetlisi, banyo lavabosunun yanına taze havlular bırakmıştı.",
+   "Oteller, her odayı güvenli biçimde temizleyebilmeleri için kat görevlilerine uygun ekipman ve yeterli süre sağlamalıdır."
+  ],
+  "col": [
+   "otel kat görevlisi",
+   "evde kalan ev hizmetlisi",
+   "ev hizmetlisi tutmak"
+  ],
+  "tip": "Ev işlerini ya da otel odalarını düzenleyen kişi için kullanılır ve cinsiyet belirtmez. Otel bağlamında Türkçede kat görevlisi karşılığı uygundur.",
+  "note": ""
+ }
+]

@@ -1,0 +1,280 @@
+[
+ {
+  "id": "express",
+  "senses": [
+   "ifade etmek; dile getirmek",
+   "hızlı; ekspres",
+   "açık; doğrudan"
+  ],
+  "ex": [
+   "Leah sıcak bir gülümsemeyle teşekkürlerini ifade etti.",
+   "Okullar, öğrencilerin eğitimlerini etkileyen kararlar hakkında görüşlerini dile getirebilecekleri fırsatlar sunmalıdır."
+  ],
+  "col": [
+   "endişesini dile getirmek",
+   "görüş bildirmek",
+   "ekspres teslimat",
+   "açık izin"
+  ],
+  "tip": "Fiil olarak express doğrudan nesne alır: express your views. Nesneden önce 'to' eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "coupon",
+  "senses": [
+   "indirim kuponu; kupon",
+   "tahvil faizi; kupon"
+  ],
+  "ex": [
+   "Bu kupon bize taze sebzelerde indirim sağlıyor.",
+   "İndirim kuponları hanelerin para biriktirmesine yardımcı olsa da tüketicileri gereksiz ürün almaya teşvik edebilir."
+  ],
+  "col": [
+   "indirim kuponu",
+   "kupon kodu",
+   "kuponu kullanmak",
+   "kupon faiz oranı"
+  ],
+  "tip": "Coupon çoğunlukla indirim kuponu anlamına gelir; voucher ise önceden ödenmiş değer çeki için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "conditioner",
+  "senses": [
+   "saç kremi",
+   "çamaşır yumuşatıcısı"
+  ],
+  "ex": [
+   "Kıvırcık saçlarımı yumuşak tutmak için saç kremi kullanıyorum.",
+   "Tüketiciler, şampuan ve saç kremi ürünleri için doldurulabilir kaplar seçerek plastik atığı azaltabilir."
+  ],
+  "col": [
+   "saç kremi",
+   "durulanmayan saç kremi",
+   "çamaşır yumuşatıcısı"
+  ],
+  "tip": "Tek başına conditioner genellikle saç kremi demektir. Klima anlamında air conditioner kullanılır; conditioner tek başına klima değildir.",
+  "note": ""
+ },
+ {
+  "id": "standard",
+  "senses": [
+   "düzey; standart",
+   "standart; olağan"
+  ],
+  "ex": [
+   "Buradaki yiyecekler her zaman yüksek bir düzeydedir.",
+   "Hükümetler, yeni konutların sakinlerini önlenebilir risklerden koruduğundan emin olmak için sıkı güvenlik standartlarını uygulamalıdır."
+  ],
+  "col": [
+   "bir standarda ulaşmak",
+   "yaşam düzeyi",
+   "güvenlik standartları",
+   "standart uygulama"
+  ],
+  "tip": "Çoğul standards genellikle ölçüt ya da kurallar anlamı taşır. standard of living (yaşam düzeyi) kalıbını birlikte öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "within",
+  "senses": [
+   "içinde; dahilinde",
+   "içeride; içinde"
+  ],
+  "ex": [
+   "Paketiniz önümüzdeki üç gün içinde ulaşmalıdır.",
+   "Yerel yönetimler, temel hizmetlerin konut bölgelerine yürüme mesafesinde bulunmasını sağlamalıdır."
+  ],
+  "col": [
+   "yürüme mesafesinde",
+   "ulaşılabilir durumda",
+   "bütçe dahilinde",
+   "bir hafta içinde"
+  ],
+  "tip": "Within bir sınır, süre ya da mesafenin içinde olduğunu belirtir. in a week ise çoğu zaman 'bir hafta sonra' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "punish",
+  "senses": [
+   "cezalandırmak"
+  ],
+  "ex": [
+   "Hakem, kuralları çiğnediği için oyuncuyu cezalandırdı.",
+   "Okullar, öğrencileri yalnızca cezalandırmak yerine davranışın neden kabul edilemez olduğunu açıklamalı ve yol göstermelidir."
+  ],
+  "col": [
+   "birini bir şey yüzünden cezalandırmak",
+   "ağır biçimde cezalandırmak",
+   "suçluları cezalandırmak"
+  ],
+  "tip": "Kalıp punish sb for sth şeklindedir; neden for ile verilir ve kişi doğrudan nesne olur.",
+  "note": ""
+ },
+ {
+  "id": "experiment",
+  "senses": [
+   "deney; deneme",
+   "deney yapmak; denemek"
+  ],
+  "ex": [
+   "Bilim deneyimiz köklerin suya doğru nasıl büyüdüğünü gösterdi.",
+   "Okullar, öğrencilerin ilgili bilimsel ilkeleri açıklanmadan önce farklı malzemelerle deneme yapmasına izin vermelidir."
+  ],
+  "col": [
+   "deney yapmak",
+   "kontrollü bir deney",
+   "malzemelerle deney yapmak"
+  ],
+  "tip": "İsimde vurgu ilk hecededir (EX-per-i-ment), fiilde ikinci hecededir (ex-PER-i-ment). Fiil with ile 'denemek' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "gentleman",
+  "senses": [
+   "centilmen; beyefendi",
+   "bey; efendi"
+  ],
+  "ex": [
+   "Bir beyefendi bizim için kapıyı tuttu.",
+   "Yaşlı bey, toplu taşımanın bağımsızlığını ve toplumsal etkinliklere erişimini nasıl geliştirdiğini anlattı."
+  ],
+  "col": [
+   "çok kibar bir beyefendi",
+   "yaşlı bir bey",
+   "Bayanlar ve baylar"
+  ],
+  "tip": "Çoğulu gentlemen'dır. Erkeklere resmi hitap biçimi olarak da kullanıldığından her zaman nezaket anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "ache",
+  "senses": [
+   "sızlamak; ağrımak",
+   "sızı; ağrı",
+   "özlemek; can atmak"
+  ],
+  "ex": [
+   "Tüm o merdivenleri çıktıktan sonra bacaklarım sızlıyor.",
+   "Sırtı sık sık ağrıyan ofis çalışanları ayarlanabilir masalardan ve daha sık hareket molalarından yararlanabilir."
+  ],
+  "col": [
+   "künt bir sızı",
+   "sızı ve ağrılar",
+   "özlemek"
+  ],
+  "tip": "Ache genellikle sürekli, künt bir ağrıyı anlatır; pain ise her türlü acıyı kapsar. ache for birinin ya da bir şeyin özlemini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "equal",
+  "senses": [
+   "eşit; denk",
+   "eşit olmak; denk olmak",
+   "eş; denk"
+  ],
+  "ex": [
+   "Pastayı herkes için eşit parçalara böldük.",
+   "Hükümetler, her kesimden gelen çocukların kaliteli eğitime ve temel sağlık hizmetlerine eşit erişime sahip olmasını sağlamalıdır."
+  ],
+  "col": [
+   "eşit fırsatlar",
+   "eşit erişim",
+   "...e eşit",
+   "eş olarak görmek"
+  ],
+  "tip": "Sıfat equal genellikle to ile kullanılır (equal to). Fiil equal ise doğrudan nesne alır ve arasına to eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "donate",
+  "senses": [
+   "bağış yapmak; bağışlamak"
+  ],
+  "ex": [
+   "Yedek battaniyelerimizi yerel barınağa bağışlıyoruz.",
+   "İşletmeler, artan ürünleri kırılgan aileleri destekleyen hayır kurumlarına bağışlayarak gıda israfını azaltabilir."
+  ],
+  "col": [
+   "hayır kurumuna para bağışlamak",
+   "kan bağışlamak",
+   "organ bağışlamak"
+  ],
+  "tip": "Kalıp donate something to someone şeklindedir; donate someone something biçimi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "retire",
+  "senses": [
+   "emekli olmak",
+   "yarıştan çekilmek"
+  ],
+  "ex": [
+   "Teyzem emekli olup daha çok zaman bahçeyle uğraşmayı planlıyor.",
+   "Yaşam beklentisi arttıkça bazı hükümetler, emeklilik sistemleri üzerindeki baskıyı azaltmak için insanları daha geç emekli olmaya teşvik ediyor."
+  ],
+  "col": [
+   "erken emekli olmak",
+   "işten emekli olmak",
+   "yarıştan çekilmek"
+  ],
+  "tip": "Retire bir fiildir; 'emeklilik' anlamındaki isim retirement'tır.",
+  "note": ""
+ },
+ {
+  "id": "quote",
+  "senses": [
+   "alıntılamak; aktarmak",
+   "fiyat vermek; teklif etmek",
+   "alıntı; fiyat teklifi"
+  ],
+  "ex": [
+   "Kız kardeşim eski filmlerdeki repliklerden alıntı yapmayı çok sever.",
+   "Öğrenciler, akademik makalelerinde güvenilir kaynakları doğru biçimde alıntılamalı ve kanıtların argümanlarını nasıl desteklediğini açıklamalıdır."
+  ],
+  "col": [
+   "bir kaynağı alıntılamak",
+   "birine fiyat vermek",
+   "doğrudan alıntı",
+   "fiyat teklifi almak"
+  ],
+  "tip": "Quote birinin sözlerini aynen aktarmak demektir; paraphrase ise kendi sözlerimizle özetlemektir.",
+  "note": ""
+ },
+ {
+  "id": "explorer",
+  "senses": [
+   "kaşif; gezgin"
+  ],
+  "ex": [
+   "Kaşif, yoğun ormanda pusula taşıyordu.",
+   "Bir kaşif değerli gözlemler sunabilir, ancak seferler yerel yaban hayatını ve toplulukları rahatsız etmekten kaçınmalıdır."
+  ],
+  "col": [
+   "kutup kaşifi",
+   "cesur bir kaşif",
+   "ilk kaşifler"
+  ],
+  "tip": "Explorer keşif yapan kişiyi, exploration ise keşif faaliyetini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "quotation",
+  "senses": [
+   "alıntı; söz",
+   "fiyat teklifi; teklif"
+  ],
+  "ex": [
+   "Konuşmasına bir şiirden bir alıntıyla başladı.",
+   "Yerel yönetimler, bir yüklenici seçmeden önce önerilen inşaat işi için ayrıntılı bir fiyat teklifi almalıdır."
+  ],
+  "col": [
+   "...den alıntı",
+   "tırnak işaretleri",
+   "fiyat teklifi istemek",
+   "fiyat teklifi sunmak"
+  ],
+  "tip": "Bir kişiden ya da kaynaktan alıntı için from, fiyat teklifi için ise for kullanılır: quotation for the work.",
+  "note": ""
+ }
+]

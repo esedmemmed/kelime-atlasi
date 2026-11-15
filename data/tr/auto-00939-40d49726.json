@@ -1,0 +1,284 @@
+[
+ {
+  "id": "olympics",
+  "senses": [
+   "Olimpiyat Oyunları"
+  ],
+  "ex": [
+   "Ailemle akşam yemeğinden sonra birlikte Olimpiyatları izledik.",
+   "Olimpiyatlara ev sahipliği yapmak ulaşım altyapısını geliştirebilir; ancak hükümetler spor tesislerinin uzun vadeli bakım maliyetlerini de göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "Olimpiyatlara ev sahipliği yapmak",
+   "Olimpiyatlarda yarışmak",
+   "Yaz Olimpiyatları",
+   "Kış Olimpiyatları"
+  ],
+  "tip": "Baş harfi her zaman büyük yazılır ve genellikle the ile kullanılır. the Olympic Games da aynı anlama gelir.",
+  "note": ""
+ },
+ {
+  "id": "supper",
+  "senses": [
+   "akşam yemeği; hafif gece yemeği"
+  ],
+  "ex": [
+   "Akşam yemeğinde çorba ve taze ekmek yedik.",
+   "Giderek yoğunlaşan iş programlarına rağmen düzenli olarak birlikte akşam yemeği yemek, ailelerin yakın ilişkilerini sürdürmesine yardımcı olabilir."
+  ],
+  "col": [
+   "akşam yemeği yemek",
+   "hafif bir akşam yemeği",
+   "akşam yemeğinden sonra"
+  ],
+  "tip": "Genellikle daha sade ya da geç saatte yenen akşam yemeğini anlatır; dinner'a göre daha gündelik bir hava taşır.",
+  "note": ""
+ },
+ {
+  "id": "serious",
+  "senses": [
+   "ciddi; ağır",
+   "ciddi; ağırbaşlı"
+  ],
+  "ex": [
+   "Akan boru mutfağımızda ciddi hasara yol açtı.",
+   "Hava kirliliği, özellikle yoğun nüfuslu şehirlerde halk sağlığı için hâlâ ciddi bir tehdit oluşturuyor."
+  ],
+  "col": [
+   "ciddi hasar",
+   "ciddi sonuçlar",
+   "bir konuda ciddi olmak",
+   "bir şeyi ciddiye almak"
+  ],
+  "tip": "serious about'tan sonra isim ya da -ing alır (serious about learning). take something seriously ise 'bir şeyi ciddiye almak' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "comfortable",
+  "senses": [
+   "rahat; konforlu",
+   "rahat; kendinden emin",
+   "rahat; geçimi iyi"
+  ],
+  "ex": [
+   "Bu yumuşak koltuk öğleden sonra şekerlemesi için yeterince rahat.",
+   "Yeterli aydınlatmaya sahip rahat sınıflar, öğrencilerin derse konsantre olmasına ve daha aktif katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "rahat ayakkabı",
+   "kendini rahat hissetmek",
+   "bir şeyle rahat olmak",
+   "rahat bir gelir"
+  ],
+  "tip": "comfortable fiziksel rahatlığı anlatır; convenient ise bir şeyin kullanışlı ya da uygun olduğunu belirtir. Bu ayrımı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "active",
+  "senses": [
+   "aktif; hareketli",
+   "etkin; çalışan",
+   "etken (çatı)"
+  ],
+  "ex": [
+   "Büyükbabam her sabah yüzerek aktif kalıyor.",
+   "Okullar, öğrencilerin fiziksel sağlığını ve genel iyi oluşunu geliştirmek için aktif bir yaşam tarzını teşvik etmelidir."
+  ],
+  "col": [
+   "aktif kalmak",
+   "aktif bir yaşam tarzı",
+   "aktif bir rol oynamak",
+   "etkin madde"
+  ],
+  "tip": "active 'hareketli, katılımcı' anlamına gelir; 'olumlu' anlamındaki positive ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "climbing",
+  "senses": [
+   "tırmanış; dağcılık",
+   "tırmanıcı (bitki)"
+  ],
+  "ex": [
+   "Dün kız kardeşimle kapalı alanda tırmanış yaptım.",
+   "Okullar, gözetim altında yapılan tırmanış etkinlikleriyle öğrencilerin özgüvenini, fiziksel koordinasyonunu ve risk değerlendirme becerisini geliştirebilir."
+  ],
+  "col": [
+   "kaya tırmanışı",
+   "kapalı alan tırmanışı",
+   "tırmanış ekipmanı",
+   "tırmanıcı bitkiler"
+  ],
+  "tip": "climb kelimesindeki b harfi okunmaz. climbing plants 'tırmanıcı bitkiler' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tour",
+  "senses": [
+   "gezi; tur",
+   "turne; konser turu",
+   "gezmek; turneye çıkmak"
+  ],
+  "ex": [
+   "Eski kaleyi rehberli bir turla gezdik.",
+   "Organize turlar, ziyaretçilere yerel gelenekleri tanıtırken rehber topluluklar için de güvenilir bir gelir sağlayabilir."
+  ],
+  "col": [
+   "rehberli tur",
+   "yürüyüş turu",
+   "konser turnesi",
+   "turneye çıkmak"
+  ],
+  "tip": "tour birden çok durağı olan bir gezi ya da turneyi anlatır; trip ise genel anlamda bir seyahati ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "apartment",
+  "senses": [
+   "daire"
+  ],
+  "ex": [
+   "Dairemizin parkı gören küçük bir balkonu var.",
+   "Genç çalışanların işe gidiş-geliş maliyetlerini azaltmak için tren istasyonlarının yakınında uygun fiyatlı daireler inşa etmek faydalı olabilir."
+  ],
+  "col": [
+   "daire kiralamak",
+   "apartman bloğu",
+   "stüdyo daire"
+  ],
+  "tip": "Amerikan İngilizcesinde apartment, İngiliz İngilizcesinde ise flat daha yaygındır. Türkçede 'apartman' bina anlamına geldiği için karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "among",
+  "senses": [
+   "arasında; içinde",
+   "arasında; paylaşılan"
+  ],
+  "ex": [
+   "Ağaçların arasında küçük ahşap bir ev bulduk.",
+   "Gün boyunca oturarak çalışan ofis çalışanları arasında düzenli egzersiz giderek daha popüler hale geliyor."
+  ],
+  "col": [
+   "arkadaşlarımın arasında",
+   "diğer şeylerin yanında",
+   "aralarında paylaştırmak"
+  ],
+  "tip": "among çoğunlukla bir grubun içindeki kişi ya da şeyler için kullanılır; between ise iki taraf arasındaki ilişkiyi vurgular.",
+  "note": ""
+ },
+ {
+  "id": "toast",
+  "senses": [
+   "kızarmış ekmek; tost",
+   "kızartmak; kavurmak",
+   "kadeh kaldırma; şerefe"
+  ],
+  "ex": [
+   "Sıcakken tostumun üzerine tereyağı sürdüm.",
+   "Tost ve meyveden oluşan basit bir kahvaltı, öğrencilerin sabah dersleri boyunca enerjilerini korumasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir dilim tost",
+   "ekmek kızartmak",
+   "kadeh kaldırmak",
+   "birinin şerefine kadeh kaldırmak"
+  ],
+  "tip": "Ekmek anlamında sayılamaz (some toast); kadeh kaldırma anlamında ise sayılabilir (a toast).",
+  "note": ""
+ },
+ {
+  "id": "couch",
+  "senses": [
+   "kanepe; koltuk",
+   "ifade etmek; dile getirmek"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra kanepeye kıvrıldık.",
+   "Halk sağlığı tavsiyeleri, herkesin anlayabileceği açık bir dille ifade edilmelidir."
+  ],
+  "col": [
+   "kanepede",
+   "deri kanepe",
+   "diplomatik bir dille ifade edilmiş"
+  ],
+  "tip": "Fiil olarak genellikle be couched in kalıbında kullanılır ve bir üslupla dile getirildiğini gösterir.",
+  "note": ""
+ },
+ {
+  "id": "field",
+  "senses": [
+   "tarla; otlak",
+   "alan; uzmanlık alanı",
+   "saha; spor sahası"
+  ],
+  "ex": [
+   "Kulübemizin arkasındaki tarlada koyunların otladığını izledik.",
+   "Yenilenebilir enerji alanındaki araştırmalar istihdam fırsatları yaratabilir ve fosil yakıtlara bağımlılığı azaltabilir."
+  ],
+  "col": [
+   "buğday tarlası",
+   "... alanında",
+   "futbol sahası",
+   "saha araştırması"
+  ],
+  "tip": "Çalışma ya da uzmanlık alanı anlamında genellikle in the field of kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "online",
+  "senses": [
+   "çevrimiçi; internete bağlı",
+   "çevrimiçi olarak; internet üzerinden"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra tren biletlerimizi internetten aldım.",
+   "Çevrimiçi kurslar, özellikle üniversitelerden uzakta yaşayan öğrenciler için eğitime erişimi genişletebilir."
+  ],
+  "col": [
+   "çevrimiçi alışveriş",
+   "çevrimiçi öğrenme",
+   "çevrimiçi olmak",
+   "internette mevcut"
+  ],
+  "tip": "Hem sıfat hem zarf olarak kullanılır: online shopping (sıfat) ve shop online (zarf).",
+  "note": ""
+ },
+ {
+  "id": "musician",
+  "senses": [
+   "müzisyen; müzik icracısı"
+  ],
+  "ex": [
+   "Bir müzisyen istasyonun dışında kemanla çalıyordu.",
+   "Yerel müzisyenler, halk festivallerinde ve kültürel etkinliklerde geleneksel şarkılar seslendirerek topluluk kimliğini güçlendirebilir."
+  ],
+  "col": [
+   "profesyonel müzisyen",
+   "yetenekli müzisyen",
+   "sokak müzisyeni"
+  ],
+  "tip": "musician müzik çalan ya da seslendiren kişiyi anlatır; besteci için ise composer kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "since",
+  "senses": [
+   "-den beri",
+   "-dığından beri; -dığı için",
+   "o zamandan beri; sonra"
+  ],
+  "ex": [
+   "Bu mahallede çocukluğumdan beri yaşıyorum.",
+   "Toplu taşıma trafik sıkışıklığını azalttığı için hükümetler daha güvenilir otobüs hizmetlerine yatırım yapmalıdır."
+  ],
+  "col": [
+   "o zamandan beri",
+   "o zamandan beri",
+   "çocukluğumdan beri",
+   "çoktan"
+  ],
+  "tip": "Bir zaman noktasından başlangıcı since ile, süreyi ise for ile belirtin: since 2020, for two years.",
+  "note": ""
+ }
+]

@@ -1,0 +1,278 @@
+[
+ {
+  "id": "calm",
+  "senses": [
+   "sakin; soğukkanlı",
+   "sakinleşmek; yatıştırmak",
+   "huzur; sükûnet"
+  ],
+  "ex": [
+   "Işıklar birden söndüğünde o sakin kaldı.",
+   "Sakin bir sınıf ortamı, öğrencilerin odaklanmasına ve soru sormaya daha özgüvenli yaklaşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sakin kalmak",
+   "sakinleşmek",
+   "durgun sular",
+   "huzur hissi"
+  ],
+  "tip": "calm kelimesindeki l sessizdir. calm down, öfkeli ya da heyecanlı birinin sakinleşmesi için sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "depressed",
+  "senses": [
+   "mutsuz; bunalımlı",
+   "durgun; kötü durumda"
+  ],
+  "ex": [
+   "Haftalarca süren başarısız iş aramasından sonra kendini mutsuz hissetti.",
+   "Toplu taşımaya yapılacak yatırımlar, ekonomik olarak durgun bölgeleri istihdam fırsatlarına ve temel hizmetlere bağlayabilir."
+  ],
+  "col": [
+   "mutsuz hissetmek",
+   "ağır bunalımda olmak",
+   "ekonomik durgunluktaki bölge"
+  ],
+  "tip": "depressed insanın duygusunu anlatır; depressing ise insanı üzen şeyi anlatır. Örnek: depressing news (üzücü haber).",
+  "note": ""
+ },
+ {
+  "id": "brilliant",
+  "senses": [
+   "harika; mükemmel",
+   "çok zeki; yetenekli",
+   "parlak; canlı"
+  ],
+  "ex": [
+   "Harika fikrin bize saatlerce çalışmayı kurtardı.",
+   "Parlak öğretmenler, öğrencileri zor konuları özgüvenle ve gerçek bir merakla keşfetmeye teşvik edebilir."
+  ],
+  "col": [
+   "harika fikir",
+   "çok zeki bilim insanı",
+   "parlak güneş ışığı"
+  ],
+  "tip": "Günlük İngilizcede 'harika!' anlamında sık kullanılır; akademik yazıda ise excellent ya da outstanding tercih edilebilir.",
+  "note": ""
+ },
+ {
+  "id": "instrument",
+  "senses": [
+   "müzik aleti; enstrüman",
+   "alet; cihaz",
+   "araç; vasıta"
+  ],
+  "ex": [
+   "Kız kardeşim her provada farklı bir enstrüman çalıyor.",
+   "Bir müzik aleti çalmayı öğrenmek, çocukların dikkatini geliştirebilir ve farklı geçmişlerden gelen çocuklar arasında iş birliğini teşvik edebilir."
+  ],
+  "col": [
+   "müzik aleti",
+   "bilimsel cihaz",
+   "cerrahi alet",
+   "değişimin aracı"
+  ],
+  "tip": "Müzik aleti ve hassas bilimsel cihazlar için instrument kullanılır; sıradan el aletleri için genellikle tool tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "fiance",
+  "senses": [
+   "nişanlı (erkek)"
+  ],
+  "ex": [
+   "Nişanlım ve ben düğün çiçeklerini seçiyoruz.",
+   "Nişanlımla yurt dışına taşınmak, iş, konut ve gelecekteki aile sorumlulukları konusunda dikkatli bir planlama gerektirebilir."
+  ],
+  "col": [
+   "nişanlısı",
+   "nişanlım ve ben"
+  ],
+  "tip": "Erkek nişanlı için fiancé, kadın nişanlı için fiancée yazılır. Yazılı metinlerde aksan işaretleri de doğru kullanılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "jet",
+  "senses": [
+   "jet uçak; jet uçağı",
+   "fışkırma; püskürme"
+  ],
+  "ex": [
+   "Bu sabah sahilin üzerinden alçaktan bir jet uçtu.",
+   "Eski yolcu uçaklarının daha verimli uçaklarla değiştirilmesi, havacılık sektöründe yakıt tüketimini azaltabilir."
+  ],
+  "col": [
+   "yolcu uçağı",
+   "jet motoru",
+   "bir su fışkırması"
+  ],
+  "tip": "jet, uçak anlamında kullanılabildiği gibi dar ve güçlü bir akımı da anlatır. a jet of water: bir su fışkırması.",
+  "note": ""
+ },
+ {
+  "id": "crash",
+  "senses": [
+   "kaza; çarpışma",
+   "çarpmak; kaza yapmak",
+   "çökmek; sert düşmek"
+  ],
+  "ex": [
+   "Evimizin dışındaki kazada kimse yaralanmadı.",
+   "Yatırımcılar ekonominin istikrarına olan güvenlerini birden kaybettiklerinde finansal piyasalar çökebilir."
+  ],
+  "col": [
+   "araba kazası",
+   "bir duvara çarpmak",
+   "bilgisayar çökmesi",
+   "borsa çöküşü"
+  ],
+  "tip": "crash into ile çarptığı nesneyi belirtin: crash into a wall. Bilgisayar ya da sistem çöktüğünde de aynı fiil kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fancy",
+  "senses": [
+   "canı çekmek; istemek",
+   "süslü; lüks",
+   "hoşlanmak; beğenmek"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra nehir kenarında yürümeye canın çekiyor mu?",
+   "Bazı turistler, kültürel etkileşim fırsatlarını artırdığı için lüks oteller yerine sade yerel konaklamayı tercih eder."
+  ],
+  "col": [
+   "bir şey yapmak istemek",
+   "bir içki istemek",
+   "şık bir restoran"
+  ],
+  "tip": "Canı çekmek anlamında fancy doing kullanılır, fancy to do değil. Örnek: Do you fancy going out? (Dışarı çıkmak ister misin?)",
+  "note": ""
+ },
+ {
+  "id": "protest",
+  "senses": [
+   "protesto; gösteri",
+   "protesto etmek; karşı çıkmak"
+  ],
+  "ex": [
+   "Sakinler belediye binasının önünde barışçıl bir protesto düzenledi.",
+   "Vatandaşlar, yerel ormanları ve su kaynaklarını yeterince koruyamayan çevre politikalarına karşı protesto edebilir."
+  ],
+  "col": [
+   "barışçıl protesto",
+   "... e karşı protesto etmek",
+   "... protesto olarak",
+   "isteksizce; itiraz ederek"
+  ],
+  "tip": "Ad olarak /ˈprəʊtest/, fiil olarak /prəˈtest/ okunur. Fiil genellikle against ile kullanılır: protest against something.",
+  "note": ""
+ },
+ {
+  "id": "prisoner",
+  "senses": [
+   "mahkum; tutuklu",
+   "savaş esiri"
+  ],
+  "ex": [
+   "Mahkum cezaevi kütüphanesinden bir roman ödünç aldı.",
+   "Hükümlülere eğitim ve mesleki eğitim vermek, tahliye sonrası iş bulma şanslarını artırabilir."
+  ],
+  "col": [
+   "mahkumu serbest bırakmak",
+   "savaş esiri",
+   "birini esir almak"
+  ],
+  "tip": "prisoner her zaman mahkum olduğu anlamına gelmez; hüküm giymemiş tutuklu ya da savaşta esir alınmış kişi için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "due",
+  "senses": [
+   "ödenmesi gereken; vadesi gelen",
+   "beklenen; planlanan",
+   "hak edilen; uygun"
+  ],
+  "ex": [
+   "Kiramız haftanın sonunda ödenecek.",
+   "Okul ücretlerinin ödeme tarihi geldiğinde bazı öğrenciler eğitim giderlerini ve temel yaşam masraflarını karşılamakta zorlanır."
+  ],
+  "col": [
+   "ödeme vadesi",
+   "gelmesi beklenen",
+   "gereken özen",
+   "nedeniyle"
+  ],
+  "tip": "be due to do 'yapması beklenmek' anlamındadır; due to + isim ise 'nedeniyle' anlamındadır. İkisini Türkçeye birebir çevirmeyin.",
+  "note": ""
+ },
+ {
+  "id": "astronaut",
+  "senses": [
+   "astronot"
+  ],
+  "ex": [
+   "Astronot küçük uzay istasyonunda yavaşça süzüldü.",
+   "Astronotlar uzayda, insan vücudunun ağırlıksızlığa nasıl tepki verdiğini anlamaya yardımcı olan deneyler yürütür."
+  ],
+  "col": [
+   "astronot eğitimi",
+   "bir astronot ekibi",
+   "astronot mürettebatı"
+  ],
+  "tip": "astronaut uzay yolcusunu; astronomer ise gök bilimcisini anlatır. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "surround",
+  "senses": [
+   "çevrelemek; kuşatmak",
+   "çevresinde olmak; ilgili olmak"
+  ],
+  "ex": [
+   "Yüksek ağaçlar kulübeyi çevreliyor ve pencerelerini gölgeliyor.",
+   "Önerilen ulaşım projesini çevreleyen belirsizlik sürüyor ve yerel işletmelerin ileriye dönük plan yapmasını zorlaştırıyor."
+  ],
+  "col": [
+   "... ile çevrili olmak",
+   "kendini ... ile çevrelemek",
+   "... çevreleyen koşullar"
+  ],
+  "tip": "Genellikle be surrounded by kalıbında kullanılır. surroundings ise 'çevre, ortam' anlamında ayrı bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "salty",
+  "senses": [
+   "tuzlu"
+  ],
+  "ex": [
+   "Çorba çok tuzluydu, bu yüzden biraz su ekledim.",
+   "Sık sık tuzlu atıştırmalık yemek, yüksek tansiyona katkıda bulunarak kalp-damar hastalığı riskini artırabilir."
+  ],
+  "col": [
+   "tuzlu yiyecek",
+   "tuzlu bir tat",
+   "tuzlu atıştırmalıklar"
+  ],
+  "tip": "salty tuzlu tadı anlatır; salted ise tuz eklenmiş olduğunu belirtir. Örnek: salted butter (tuzlu tereyağı).",
+  "note": ""
+ },
+ {
+  "id": "apologize",
+  "senses": [
+   "özür dilemek"
+  ],
+  "ex": [
+   "Gürültü için komşumdan özür diledim.",
+   "Şirketler hizmet hatalarından dolayı hemen özür dilemeli ve benzer sorunları önlemek için hangi adımları atacaklarını açıklamalıdır."
+  ],
+  "col": [
+   "birinden özür dilemek",
+   "bir şey için özür dilemek",
+   "içtenlikle özür dilemek"
+  ],
+  "tip": "Kişiye özür dilenirken to, bir davranış için özür dilenirken for kullanılır. İngiliz yazımında apologise da kullanılır.",
+  "note": ""
+ }
+]

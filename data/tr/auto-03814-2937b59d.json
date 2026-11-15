@@ -1,0 +1,272 @@
+[
+ {
+  "id": "inherit",
+  "senses": [
+   "miras almak",
+   "miras yoluyla geçmek; kalıtılmak",
+   "devralmak; üstlenmek"
+  ],
+  "ex": [
+   "Leila büyükannesinden küçük bir köy evi miras aldı.",
+   "Hükümetler kirliliği azaltmak için kararlı adımlar atmazsa gelecek nesiller ciddi çevre sorunlarını devralabilir."
+  ],
+  "col": [
+   "mülk miras almak",
+   "bir servet miras almak",
+   "kalıtsal özellikler almak",
+   "...den miras almak"
+  ],
+  "tip": "Birinden bir şey miras almak için inherit sth from sb kalıbını kullanın. Özellik aktarımı için de aynı fiil kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "squirrel",
+  "senses": [
+   "sincap",
+   "biriktirmek; saklamak"
+  ],
+  "ex": [
+   "Bir sincap bahçe kapımızın yanına bir fındık gömdü.",
+   "Kentsel parklar sincaplara yiyecek ve barınak sağlıyor; ancak onları beslemek doğal davranışlarını değiştirebiliyor."
+  ],
+  "col": [
+   "gri sincap",
+   "kızıl sincap",
+   "parayı gizlice biriktirmek"
+  ],
+  "tip": "Fiil olarak genellikle squirrel away biçiminde kullanılır ve gizlice biriktirmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "aluminium",
+  "senses": [
+   "alüminyum"
+  ],
+  "ex": [
+   "Bu alüminyum tava kamp yaparken taşıyacak kadar hafif.",
+   "Alüminyumu geri dönüştürmek, ham maddelerden yeni metal üretmeye göre çok daha az enerji gerektirir ve endüstriyel emisyonları azaltır."
+  ],
+  "col": [
+   "alüminyum folyo",
+   "alüminyum alaşımı",
+   "alüminyum kutu",
+   "geri dönüştürülmüş alüminyum"
+  ],
+  "tip": "İngiliz İngilizcesinde aluminium, Amerikan İngilizcesinde aluminum yazılır. Sınavda tutarlı bir yazım kullanın.",
+  "note": ""
+ },
+ {
+  "id": "spy",
+  "senses": [
+   "casus; ajan",
+   "casusluk yapmak; gizlice izlemek",
+   "fark etmek; gözüne ilişmek"
+  ],
+  "ex": [
+   "Çiçek saksısının arkasına saklanmış küçücük bir yavru kedi fark ettim.",
+   "Birçok kullanıcı, bağlı cihazların izin almadan etkinliklerini gizlice izleyebileceğinden endişe ediyor."
+  ],
+  "col": [
+   "birini gizlice izlemek",
+   "casusluk romanı",
+   "casus ağı"
+  ],
+  "tip": "Birini gizlice izlemek için spy on someone kullanılır. Geçmiş zaman biçimi spied'dır.",
+  "note": ""
+ },
+ {
+  "id": "lighting",
+  "senses": [
+   "aydınlatma; ışıklandırma; ışık düzeni"
+  ],
+  "ex": [
+   "Yumuşak aydınlatma bu odayı sıcak ve rahat hissettiriyor.",
+   "Daha iyi sokak aydınlatması yayaların kendilerini daha güvende hissetmesini sağlayabilir ve karanlıkta daha fazla insanın yürümesini teşvik edebilir."
+  ],
+  "col": [
+   "sokak aydınlatması",
+   "doğal aydınlatma",
+   "yetersiz aydınlatma",
+   "ışık efektleri"
+  ],
+  "tip": "Genel aydınlatmayı anlatırken sayılamaz; tek bir lambayı ise a light diye söylenir.",
+  "note": ""
+ },
+ {
+  "id": "hostage",
+  "senses": [
+   "rehine"
+  ],
+  "ex": [
+   "Rehine güvenle eve döndü ve ailesine sarıldı.",
+   "Hükümetler kamu güvenliğiyle her rehinenin serbest bırakılmasını sağlama ihtiyacı arasında denge kurmak zorunda."
+  ],
+  "col": [
+   "birini rehin almak",
+   "birini rehin tutmak",
+   "rehineyi serbest bırakmak",
+   "rehine müzakereleri"
+  ],
+  "tip": "take ya da hold someone hostage kalıplarında hostage'dan önce artikel kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "overlapping",
+  "senses": [
+   "örtüşen; kısmen çakışan",
+   "kısmen ortak olan; kesişen"
+  ],
+  "ex": [
+   "Çatı, üst üste binen sıralar halinde dizilmiş kiremitlerle kaplıydı.",
+   "Bakanlıklar arasındaki örtüşen sorumluluklar kafa karışıklığına yol açabilir ve temel kamu hizmetlerinin uygulanmasını geciktirebilir."
+  ],
+  "col": [
+   "örtüşen sorumluluklar",
+   "ortak çıkarlar",
+   "kesişen daireler"
+  ],
+  "tip": "Kısmi örtüşmeyi anlatır, tam aynılığı değil. Zaman için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "abnormal",
+  "senses": [
+   "anormal; olağandışı"
+  ],
+  "ex": [
+   "Tamirci motordan olağandışı bir ses fark etti.",
+   "Düzenli tıbbi taramalar, karmaşık tedavi gerektiren durumlara dönüşmeden önce anormal değişiklikleri saptayabilir."
+  ],
+  "col": [
+   "anormal davranış",
+   "anormal büyüme",
+   "anormal kalp ritmi"
+  ],
+  "tip": "Genellikle tıbbi durumlar ya da olağandışı olaylar için kullanılır; insanları nitelemek için rastgele kullanmaktan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "enhance",
+  "senses": [
+   "artırmak; geliştirmek; güçlendirmek"
+  ],
+  "ex": [
+   "Biraz limon suyu bu çorbanın tadını artırıyor.",
+   "Yeşil alanlara erişim, sakinlerin refahını artırabilir ve kalabalık şehirlerde daha aktif bir yaşam tarzını teşvik edebilir."
+  ],
+  "col": [
+   "performansı artırmak",
+   "kalitesini artırmak",
+   "birinin itibarını artırmak"
+  ],
+  "tip": "Kalite, etki veya değerdeki iyileşmeyi vurgular; yalnızca miktar artışı için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "percussion",
+  "senses": [
+   "vurmalı çalgılar; vurmalı bölüm"
+  ],
+  "ex": [
+   "Kız kardeşim okul orkestrasında vurmalı çalgılar çalıyor.",
+   "Grup halinde vurmalı çalgı dersleri, çocuklara iş birliğini ve yaratıcı ifadeyi destekleyerek koordinasyon becerisi kazandırabilir."
+  ],
+  "col": [
+   "vurmalı çalgılar",
+   "vurmalı çalmak",
+   "vurmalı bölüm"
+  ],
+  "tip": "Genel anlamda sayılamaz; tek bir vurmalı çalgı için a percussion instrument denir.",
+  "note": ""
+ },
+ {
+  "id": "compensate",
+  "senses": [
+   "tazmin etmek; ödemek",
+   "telafi etmek; dengelemek"
+  ],
+  "ex": [
+   "Havayolu şirketi kayıp bagajımız için bize tazminat ödedi.",
+   "Hükümetler, tarım arazileri koruma alanlarına dönüştürüldüğünde kaybedilen gelir için çiftçilere tazminat ödemelidir."
+  ],
+  "col": [
+   "birinin kaybını tazmin etmek",
+   "eksikliği telafi etmek",
+   "tamamen telafi etmek"
+  ],
+  "tip": "Birine bir şey için tazminat ödemek compensate sb for sth; bir eksikliği telafi etmek ise compensate for kalıbıyla kurulur.",
+  "note": ""
+ },
+ {
+  "id": "commit",
+  "senses": [
+   "işlemek (suç ya da hata)",
+   "söz vermek; taahhüt etmek",
+   "ayırmak; tahsis etmek"
+  ],
+  "ex": [
+   "Polis, hırsızlık suçunu işlemiş bir kişiyi tutukladı.",
+   "Hükümetler kentsel trafik sıkışıklığını azaltmak istiyorsa toplu taşımaya yeterli kaynak ayırmak zorundadır."
+  ],
+  "col": [
+   "suç işlemek",
+   "bir şey yapmaya söz vermek",
+   "kaynak ayırmak",
+   "kendini adamak; bağlanmak"
+  ],
+  "tip": "commit to içindeki to bir edattır; ardından isim ya da -ing biçimi gelir.",
+  "note": ""
+ },
+ {
+  "id": "devote",
+  "senses": [
+   "ayırmak; adamak"
+  ],
+  "ex": [
+   "Her akşam bir saatimi piyano çalışmaya ayırıyorum.",
+   "Hükümetler, pahalı tıbbi tedavilere tamamen güvenmek yerine koruyucu sağlık hizmetlerine daha fazla kaynak ayırmalıdır."
+  ],
+  "col": [
+   "zaman ayırmak",
+   "kaynak ayırmak",
+   "kendini adamak"
+  ],
+  "tip": "devote…to kalıbındaki to bir edattır; ardından isim ya da -ing biçimi gelir.",
+  "note": ""
+ },
+ {
+  "id": "self",
+  "senses": [
+   "benlik; kişilik"
+  ],
+  "ex": [
+   "İyi bir uykudan sonra kendimi her zamanki halime dönmüş gibi hissettim.",
+   "Yaratıcı etkinlikler, genç insanların hızlı değişim dönemlerinde daha güçlü bir benlik duygusu geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "benlik duygusu",
+   "gerçek benliğin",
+   "her zamanki halin"
+  ],
+  "tip": "self bir isimdir; 'ben kendim' anlamında genellikle myself kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dental",
+  "senses": [
+   "diş ile ilgili; diş hekimliğine ait"
+  ],
+  "ex": [
+   "Yarın sabah işe gitmeden önce diş randevum var.",
+   "Okullarda uygun fiyatlı diş bakımı sunulması, sağlık eşitsizliklerini azaltabilir ve ileride ortaya çıkacak sorunları önleyebilir."
+  ],
+  "col": [
+   "diş bakımı",
+   "diş tedavisi",
+   "diş muayenesi",
+   "diş ipi"
+  ],
+  "tip": "dental bir sıfattır; diş hekimi ise dentist'tir.",
+  "note": ""
+ }
+]

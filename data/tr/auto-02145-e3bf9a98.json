@@ -1,0 +1,276 @@
+[
+ {
+  "id": "tick",
+  "senses": [
+   "işaretlemek; tıkırdamak",
+   "onay işareti; tik",
+   "kene"
+  ],
+  "ex": [
+   "Eski saat yatağımın yanında hafifçe tıkırdıyor.",
+   "Katılımcılar, toplu taşımayı ne sıklıkla kullandıklarını belirtmek için uygun kutucukları işaretlemelidir."
+  ],
+  "col": [
+   "kutucuğa işaret koymak",
+   "listeden işaretlemek",
+   "kene ısırığı",
+   "saatin tıkırdaması"
+  ],
+  "tip": "Bu kelime hem onay işareti hem de kene anlamına gelir; anlamı cümledeki bağlamdan belirlenir. Fiil olarak ses çıkarma anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "hurricane",
+  "senses": [
+   "kasırga"
+  ],
+  "ex": [
+   "Kasırga kıyıya yaklaşırken içeride kaldık.",
+   "Kıyı kentlerinin, kasırga yaklaştığında sakinleri korumak için daha güçlü sel önlemlerine ve güvenilir uyarı sistemlerine ihtiyacı var."
+  ],
+  "col": [
+   "güçlü kasırga",
+   "kasırga mevsimi",
+   "kasırga uyarısı",
+   "kasırga hasarı"
+  ],
+  "tip": "Hurricane genellikle Atlantik ve Doğu Pasifik'teki tropik fırtınalar için kullanılır; Batı Pasifik'te aynı olay typhoon olarak adlandırılır.",
+  "note": ""
+ },
+ {
+  "id": "bible",
+  "senses": [
+   "Kutsal Kitap; İncil"
+  ],
+  "ex": [
+   "Yatağının yanındaki rafta bir İncil tutuyor.",
+   "Kutsal Kitap'ı incelemek, öğrencilerin Avrupa edebiyatı ve görsel sanatlardaki dini göndermeleri anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "İncil okumak",
+   "İncil çevirisi",
+   "İncil çalışması"
+  ],
+  "tip": "Kitabın adı olarak Bible her zaman büyük harfle yazılır ve genellikle the Bible şeklinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "warning",
+  "senses": [
+   "uyarı; ikaz",
+   "uyarı işareti"
+  ],
+  "ex": [
+   "Rehberin kayganlaşan kayalar hakkındaki uyarısının ardından geri döndük.",
+   "Etkili sel uyarı sistemleri, yollar kullanılamaz hale gelmeden sakinlerin tehlikeli bölgelerden ayrılmasını sağlar."
+  ],
+  "col": [
+   "uyarıda bulunmak",
+   "erken uyarı sistemi",
+   "önceden haber vermeden",
+   "uyarıya kulak vermek"
+  ],
+  "tip": "Warning isim olarak 'uyarı' anlamına gelir; warn fiilinden gelen warning ise 'uyaran' anlamında sıfat ya da ing'li biçim olarak da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "retell",
+  "senses": [
+   "yeniden anlatmak"
+  ],
+  "ex": [
+   "Büyükannem her kış en sevdiği hikâyeyi yeniden anlatır.",
+   "Öğrencilerden bir hikâyeyi kendi cümleleriyle yeniden anlatmalarını istemek, anlama ve konuşma becerilerini geliştirebilir."
+  ],
+  "col": [
+   "bir hikâyeyi yeniden anlatmak",
+   "olayları yeniden anlatmak",
+   "kendi cümlelerinle yeniden anlatmak"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç biçimi retold'dur; 'retelled' yazmak yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "loudspeaker",
+  "senses": [
+   "hoparlör; megafon"
+  ],
+  "ex": [
+   "Hoparlörden gelen bir ses trenimizin geldiğini duyurdu.",
+   "Toplu taşıma istasyonları, çok sayıda yolcuya acil güvenlik bilgilerini iletmek için hoparlör sistemleri kullanır."
+  ],
+  "col": [
+   "hoparlör sistemi",
+   "hoparlörden anons",
+   "taşınabilir hoparlör"
+  ],
+  "tip": "Loudspeaker cihazı ifade eder; speaker ise hem hoparlörü hem de konuşmacıyı gösterebilir, bağlama dikkat edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "net",
+  "senses": [
+   "ağ",
+   "net; düşülmüş",
+   "kazanmak; elde etmek"
+  ],
+  "ex": [
+   "Küçük gümüş bir balık balık ağının içinde kıvrandı.",
+   "Şirket, müşterilere zam yapmak yerine enerji tüketimini azaltarak net kârını artırdı."
+  ],
+  "col": [
+   "balık ağı",
+   "net kâr",
+   "net gelir",
+   "net kazanç"
+  ],
+  "tip": "Net, maliyet ve vergiler düşüldükten sonraki tutarı belirtir; düşülmeden önceki toplam için gross kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "delivery",
+  "senses": [
+   "teslimat; dağıtım",
+   "doğum; doğurma",
+   "konuşma tarzı; sunum"
+  ],
+  "ex": [
+   "Market alışverişimiz, yemek pişirmeye başlamadan hemen önce geldi.",
+   "Evlere teslimat talebindeki artış, birçok kentsel mahallede trafik sıkışıklığını arttırdı."
+  ],
+  "col": [
+   "ücretsiz teslimat",
+   "teslimat hizmeti",
+   "teslimat sürücüsü",
+   "akıcı bir sunum"
+  ],
+  "tip": "Delivery isimdir ve teslimat, doğum ya da sunum tarzı anlamına gelebilir; fiili deliver'dır.",
+  "note": ""
+ },
+ {
+  "id": "campus",
+  "senses": [
+   "kampüs; yerleşke"
+  ],
+  "ex": [
+   "Kütüphanenin yakınında sessiz bir bank bulduk.",
+   "Kampüste uygun fiyatlı konaklama sağlamak, öğrencilerin işe gidip gelmek yerine daha çok ders çalışmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kampüste",
+   "kampüs dışında",
+   "üniversite kampüsü",
+   "kampüs olanakları"
+  ],
+  "tip": "'Kampüste' anlamında on campus kullanılır ve başına a ya da the getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "similarity",
+  "senses": [
+   "benzerlik"
+  ],
+  "ex": [
+   "Bu iki ceket arasındaki benzerlik beni şaşırttı.",
+   "Coğrafi uzaklığa rağmen iki bölge, geleneksel tarım yöntemlerinde dikkat çekici benzerlikler gösteriyor."
+  ],
+  "col": [
+   "çarpıcı benzerlik",
+   "arasındaki benzerlik",
+   "benzer olmak"
+  ],
+  "tip": "Genel anlamda benzerlik sayılamaz; belirli benzerlik noktalarından söz ederken çoğul (similarities) kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "weapon",
+  "senses": [
+   "silah"
+  ],
+  "ex": [
+   "Müze, eski bir silahı kalın camın arkasında sergiliyor.",
+   "Silah satışlarına getirilen daha sıkı denetimler, hükümetlerin kamu güvenliğini artırmasına ve şiddet suçlarını azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "nükleer silah",
+   "silah taşımak",
+   "silah satışı"
+  ],
+  "tip": "Weapon sayılabilen bir isimdir; silahların genel toplamı için weaponry kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "throat",
+  "senses": [
+   "boğaz"
+  ],
+  "ex": [
+   "Bütün öğleden sonra konuştuktan sonra boğazım kurumuştu.",
+   "Kötü hava kalitesi boğazı tahriş edebilir ve özellikle çocuklar ile yaşlılarda solunum sorunlarını kötüleştirebilir."
+  ],
+  "col": [
+   "boğaz ağrısı",
+   "boğazını temizlemek",
+   "boğaz enfeksiyonu"
+  ],
+  "tip": "Boğaz ağrısı için have a sore throat kalıbı kullanılır; a artikeli unutulmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "dare",
+  "senses": [
+   "cesaret etmek; göze almak",
+   "meydan okumak; kışkırtmak",
+   "meydan okuma"
+  ],
+  "ex": [
+   "Sonunda herkesin önünde şarkı söylemeye cesaret ettim.",
+   "Öğretmenler saygılı itirazları memnuniyetle karşıladığında öğrenciler yerleşik fikirleri sorgulamaya daha çok cesaret eder."
+  ],
+  "col": [
+   "sormaya cesaret etmek",
+   "birine bir şey yapması için meydan okumak",
+   "cesaret edememek",
+   "bahis olsun diye"
+  ],
+  "tip": "Cesaret etmek için dare to do, birine meydan okumak için dare sb to do kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "confident",
+  "senses": [
+   "kendine güvenen; özgüvenli",
+   "emin; ümitli"
+  ],
+  "ex": [
+   "Haftalarca süren pratikten sonra sahnede kendimi özgüvenli hissettim.",
+   "Öğretmenler yapıcı geri bildirim ve yeni becerileri uygulama fırsatı verdiklerinde öğrenciler daha özgüvenli hale gelir."
+  ],
+  "col": [
+   "özgüvenli hissetmek",
+   "gelecek hakkında emin olmak",
+   "olduğundan emin olmak"
+  ],
+  "tip": "Confident sıfattır; isim hali confidence'tır. 'Emin olmak' anlamında be confident that veya be confident about kalıpları kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "arrow",
+  "senses": [
+   "ok işareti; yön oku",
+   "ok"
+  ],
+  "ex": [
+   "Çıkışa kadar yerdeki oku takip edin.",
+   "İstasyon zeminlerindeki net oklar, yoğun yolculuk saatlerinde yolcu akışını iyileştirebilir ve karışıklığı azaltabilir."
+  ],
+  "col": [
+   "oku takip etmek",
+   "bir ok ... işaret eder",
+   "yay ve ok",
+   "ok atmak"
+  ],
+  "tip": "Arrow hem yön gösteren işaret hem de yaydan atılan ok anlamına gelir; bağlama göre anlam seçilir.",
+  "note": ""
+ }
+]

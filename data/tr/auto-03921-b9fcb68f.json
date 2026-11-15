@@ -1,0 +1,279 @@
+[
+ {
+  "id": "solo",
+  "senses": [
+   "solo; tek çalgı",
+   "tek kişilik; yalnız",
+   "yalnız başına"
+  ],
+  "ex": [
+   "Kızın keman solosuna başladığında herkes sustu.",
+   "Yalnız seyahat, bireyleri tanıdık olmayan durumları yardım almadan yönetmeye zorlayarak bağımsızlığı teşvik edebilir."
+  ],
+  "col": [
+   "piyano solosu",
+   "solo performans",
+   "solo kariyer",
+   "yalnız seyahat etmek"
+  ],
+  "tip": "Ad, sıfat ve zarf olarak kullanılabilir. Solo sanatçı için soloist kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "arabian",
+  "senses": [
+   "Arabistan'a ait",
+   "Arap atı"
+  ],
+  "ex": [
+   "Kumlu tarlada koşan Arap atlarına hayran kaldık.",
+   "Arap Yarımadası ciddi bir su kıtlığıyla karşı karşıya; bu durum tuzdan arındırma teknolojisine ve daha verimli sulamaya yatırımı teşvik ediyor."
+  ],
+  "col": [
+   "Arap Yarımadası",
+   "Arap atı",
+   "Arap Denizi"
+  ],
+  "tip": "Arabian çoğunlukla yer adları ve at cinsi için kullanılır. Dil için Arabic, insanlar için Arab kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "whisper",
+  "senses": [
+   "fısıldamak",
+   "fısıltı",
+   "dedikodu; kulis"
+  ],
+  "ex": [
+   "Lütfen bebek yan odada uyurken fısıldayarak konuşun.",
+   "Öğrenciler bireysel görevler sırasında dersi bozmak niyetiyle değil, güvence ihtiyacıyla fısıldaşabilirler."
+  ],
+  "col": [
+   "birine fısıldamak",
+   "fısıltı halinde",
+   "neredeyse fısıltı kadar"
+  ],
+  "tip": "Birine fısıldamak için whisper to someone, fısıltıyla konuşmak için in a whisper kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "gravel",
+  "senses": [
+   "çakıl; mıcır"
+  ],
+  "ex": [
+   "Kulübeye yaklaşırken ayakkabılarımızın altında çakıllar gıcırdadı.",
+   "Çakıllı yollar yağmur suyunun toprağa sızmasını sağlayarak kentsel parklarda yüzey akışını azaltabilir."
+  ],
+  "col": [
+   "çakıllı yol",
+   "çakıllı araba yolu",
+   "çakıl ocağı"
+  ],
+  "tip": "Genellikle sayılamaz. Tek bir küçük taş için a pebble kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "curriculum",
+  "senses": [
+   "müfredat; ders programı"
+  ],
+  "ex": [
+   "Okulumuz müfredata yemek pişirmeyi ekledi.",
+   "Dengeli bir müfredat, öğrencileri yetişkin hayatına hazırlamak için akademik bilgiyle birlikte pratik becerileri de geliştirmelidir."
+  ],
+  "col": [
+   "okul müfredatı",
+   "ulusal müfredat",
+   "temel müfredat",
+   "müfredat reformu"
+  ],
+  "tip": "Çoğulu curricula veya curriculums olur. Tek bir dersi değil, tüm ders programını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "welfare",
+  "senses": [
+   "refah; iyilik hali",
+   "sosyal yardım; destek"
+  ],
+  "ex": [
+   "Barınak, hayvanlarının refahını her şeyin önüne koyar.",
+   "Hükümetler, besleyici gıdaya ve güvenli konuta erişimi sağlayarak çocukların refahını korumalıdır."
+  ],
+  "col": [
+   "hayvan refahı",
+   "sosyal yardım",
+   "yardım ödemeleri"
+  ],
+  "tip": "Sayılamayan bir isimdir. Önüne başka bir isim gelse bile 'welfare' isim olarak kalır.",
+  "note": ""
+ },
+ {
+  "id": "offensive",
+  "senses": [
+   "incitici; rahatsız edici",
+   "saldırgan; hücum amaçlı",
+   "taarruz; saldırı harekâtı"
+  ],
+  "ex": [
+   "Şakasının incitici olduğunu fark edince özür diledi.",
+   "Okullar, öğrencilerin sözlerinin başkalarını neden incitebileceğini anlamalarına yardım ederken rahatsız edici davranışları hemen ele almalıdır."
+  ],
+  "col": [
+   "incitici dil",
+   "bir şeyi rahatsız edici bulmak",
+   "saldırgan taktikler",
+   "taarruz başlatmak"
+  ],
+  "tip": "Bir şeyden alınmak veya gücenmek için offended kullanılır, offensive değil.",
+  "note": ""
+ },
+ {
+  "id": "territory",
+  "senses": [
+   "toprak; ülke sınırları",
+   "hayvanın alanı; yuva bölgesi",
+   "alan; uzmanlık sahası"
+  ],
+  "ex": [
+   "Ada zamanla ülkenin topraklarının bir parçası oldu.",
+   "Şehirler vahşi yaşam alanlarına genişledikçe insanlar ile yerli hayvanlar arasındaki çatışmalar daha sık yaşanabilir."
+  ],
+  "col": [
+   "ulusal topraklar",
+   "bölgeyi savunmak",
+   "tanıdık olmayan alan",
+   "yeni alanlara girmek"
+  ],
+  "tip": "Ülke toprağı anlamında sayılamaz. Belirli bir bölge için ise a territory denilebilir.",
+  "note": ""
+ },
+ {
+  "id": "warehouse",
+  "senses": [
+   "depo; antrepo",
+   "depolamak"
+  ],
+  "ex": [
+   "İstasyonun arkasındaki depo mobilya ve mutfak ekipmanlarını saklıyor.",
+   "Depoyu büyük ulaşım güzergâhlarına yakın konumlandırmak teslimat maliyetlerini düşürebilir ve tedarik zinciri verimliliğini artırabilir."
+  ],
+  "col": [
+   "depo işçisi",
+   "depo alanı",
+   "otomatik depo"
+  ],
+  "tip": "Fiil olarak kullanımı resmî dilde görülür. Günlük konuşmada genellikle store tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "fame",
+  "senses": [
+   "ün; şöhret"
+  ],
+  "ex": [
+   "Şöhretine rağmen şarkıcı hâlâ yerel dükkânlardan alışveriş yapıyor.",
+   "Çevrimiçi platformlar ani bir şöhret getirebilse de dikkat çekmek her zaman sürdürülebilir bir kariyer anlamına gelmez."
+  ],
+  "col": [
+   "şöhrete ulaşmak",
+   "şöhrete yükselmek",
+   "uluslararası ün",
+   "kalıcı şöhret"
+  ],
+  "tip": "Genellikle sayılamaz. Sıfatı famous'tur ve genellikle for ile kullanılır (bir şeyle ünlü olmak).",
+  "note": ""
+ },
+ {
+  "id": "prior",
+  "senses": [
+   "önceki; önceden olan"
+  ],
+  "ex": [
+   "Bu odayı kullanmak için önceden izin almanız gerekir.",
+   "Toplum çalışmasında önceki deneyimi olan başvuru sahipleri kamu hizmetlerindeki görevlere daha hızlı uyum sağlayabilir."
+  ],
+  "col": [
+   "önceki deneyim",
+   "önceki bilgi",
+   "önceden bildirim",
+   "-den önce"
+  ],
+  "tip": "Genellikle isimden önce gelir. prior to kalıbı before anlamındadır ve resmî dilde tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "sewage",
+  "senses": [
+   "atık su; lağım suyu"
+  ],
+  "ex": [
+   "Fırtınadan sonra arıtılmamış atık su nehre aktı.",
+   "Modern atık su arıtma tesislerine yatırım yapmak, tatlı su ekosistemlerini korumak ve halk sağlığını sürdürmek için şarttır."
+  ],
+  "col": [
+   "arıtılmamış atık su",
+   "atık su arıtımı",
+   "atık su bertarafı",
+   "kanalizasyon sistemi"
+  ],
+  "tip": "Sayılamaz. sewage atık suyu ifade eder; kanalizasyon borusu için ise sewer kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ratio",
+  "senses": [
+   "oran"
+  ],
+  "ex": [
+   "Sebzenin pirinçe oranını daha yüksek tutun.",
+   "Öğrenci-öğretmen oranının düşük olması, okulların sınıflarda bireysel desteği artırmasına olanak tanıyabilir."
+  ],
+  "col": [
+   "A'nın B'ye oranı",
+   "öğrenci-öğretmen oranı",
+   "yüksek oran"
+  ],
+  "tip": "A ile B arasındaki oran için the ratio of A to B kalıbı kullanılır. Sıra önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "poll",
+  "senses": [
+   "anket; kamuoyu yoklaması",
+   "oylama; seçim",
+   "anket yapmak; oy almak"
+  ],
+  "ex": [
+   "Yerel bir anket parka güçlü desteğin olduğunu gösterdi.",
+   "Kamuoyu anketleri hükümetlerin halkın kaygılarını anlamasına yardım edebilir, ancak doğruluğu katılımcıların nasıl seçildiğine bağlıdır."
+  ],
+  "col": [
+   "kamuoyu anketi",
+   "anket yapmak",
+   "sandığa gitmek",
+   "anket sonuçları"
+  ],
+  "tip": "Görüş anketi için opinion poll kullanılır. the polls ise seçim oylamasını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "intersection",
+  "senses": [
+   "kavşak",
+   "kesişim; kesişme noktası"
+  ],
+  "ex": [
+   "Fırıncının yanındaki kavşakta sola dönün.",
+   "Yoğun kavşaklara daha iyi aydınlatma yapmak kazaları azaltabilir ve yayalar için güvenliği artırabilir."
+  ],
+  "col": [
+   "yoğun kavşak",
+   "kavşakta",
+   "iki kümenin kesişimi"
+  ],
+  "tip": "Yol kavşağı için at an intersection kalıbı kullanılır. Kesişim noktası anlamında ise of ile devam eder.",
+  "note": ""
+ }
+]

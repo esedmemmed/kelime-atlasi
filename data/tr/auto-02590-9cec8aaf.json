@@ -1,0 +1,277 @@
+[
+ {
+  "id": "stew",
+  "senses": [
+   "yahni; güveç",
+   "kısık ateşte pişirmek"
+  ],
+  "ex": [
+   "Yürüyüşten sonra bir kase sebzeli yahni paylaştık.",
+   "Geleneksel yahniler, yerel yetiştirilen sebzeleri verimli kullanarak uygun fiyatlı ve besleyici yemekler sunabilir."
+  ],
+  "col": [
+   "dana yahnisi",
+   "sebzeli yahni",
+   "yavaşça pişirmek"
+  ],
+  "tip": "İsim olarak sayılabilir: a stew, two stews. Fiil olarak 'yavaş ateşte pişirmek' anlamına gelir; stew gently kalıbına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "inventor",
+  "senses": [
+   "mucit"
+  ],
+  "ex": [
+   "Mucit, güneş ışığıyla çalışan bir lamba gösterdi bize.",
+   "Mucitlerin, umut vadeden fikirlerini toplumun yararına olan pratik teknolojilere dönüştürebilmeleri için çoğu zaman maddi desteğe ihtiyacı olur."
+  ],
+  "col": [
+   "usta bir mucit",
+   "...nın mucidi",
+   "mucit olmayı hedefleyen kişi"
+  ],
+  "tip": "inventor yeni bir şey yaratan kişidir; discoverer ise zaten var olanı keşfeden kişidir. 'the inventor of' kalıbında of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "manila",
+  "senses": [
+   "Manila"
+  ],
+  "ex": [
+   "Uçağımız gün batımından hemen önce Manila'ya indi.",
+   "Manila gibi kıyı kentlerinin, sel riskini azaltmak için dayanıklı altyapıya ihtiyacı var."
+  ],
+  "col": [
+   "Manila Körfezi",
+   "Manila'nın merkezi",
+   "Manila'ya uçuş"
+  ],
+  "tip": "Şehir adları büyük harfle yazılır. Küçük harfli manila ise başka bir anlama (örneğin manila kâğıdı) gelebilir.",
+  "note": "Şehir anlamına uygun olarak baş harfi büyük yazın: Manila."
+ },
+ {
+  "id": "illegal",
+  "senses": [
+   "yasa dışı; kanuna aykırı"
+  ],
+  "ex": [
+   "Burada izinsiz gece boyunca park etmek yasa dışıdır.",
+   "Yasa dışı balıkçılığı önlemek ve hassas deniz ekosistemlerini korumak için uluslararası iş birliği daha da güçlendirilmelidir."
+  ],
+  "col": [
+   "yasa dışı faaliyet",
+   "kaçak ticaret",
+   "kaçak balıkçılık",
+   "bir şeyi yasa dışı kılmak"
+  ],
+  "tip": "Sık kullanılan kalıp: It is illegal to do sth. (Bir şeyi yapmak yasa dışıdır.) Yaygın olarak it is illegal to + fiil yapısı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "championship",
+  "senses": [
+   "şampiyona",
+   "şampiyonluk; unvan"
+  ],
+  "ex": [
+   "Okul takımımız şampiyonanın finaline kaldı.",
+   "Uluslararası bir şampiyona düzenlemek ziyaretçileri çekebilir, ancak yeni tesislerin maliyeti yerel vergi mükelleflerini zorlayabilir."
+  ],
+  "col": [
+   "şampiyonluk kazanmak",
+   "dünya şampiyonası",
+   "şampiyonluk unvanı"
+  ],
+  "tip": "Hem yarışmayı (şampiyona) hem de şampiyonluk unvanını ifade eder. Yarışma anlamında sayılabilir: two championships.",
+  "note": ""
+ },
+ {
+  "id": "occasion",
+  "senses": [
+   "kez; defa",
+   "özel etkinlik; tören",
+   "fırsat; uygun an"
+  ],
+  "ex": [
+   "Kardeşinle birkaç kez tanıştım.",
+   "Topluluk festivalleri, farklı kökenlerden gelen sakinlerin gelenekleri paylaşması ve dostluk kurması için bir fırsat sunar."
+  ],
+  "col": [
+   "birkaç kez",
+   "özel bir gün",
+   "bazen",
+   "durumun üstesinden gelmek"
+  ],
+  "tip": "'on several occasions' ve 'on occasion' kalıplarında on kullanılır; in kullanılmaz. 'Rise to the occasion' zor bir duruma uyum sağlamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "friendship",
+  "senses": [
+   "dostluk; arkadaşlık"
+  ],
+  "ex": [
+   "Dostluğumuz, okulda aynı sıraya oturmamızla başladı.",
+   "Yakın arkadaşlık, stresli dönemlerde duygusal destek sağlayarak ruh sağlığını olumlu etkileyebilir."
+  ],
+  "col": [
+   "yakın dostluk",
+   "dostluk kurmak",
+   "kalıcı dostluk",
+   "dostluk bağı"
+  ],
+  "tip": "Genel olarak 'dostluk' kavramı sayılamaz (friendship). Belirli bir dostluk ilişkisi ise sayılabilir: a close friendship, two friendships.",
+  "note": ""
+ },
+ {
+  "id": "efficient",
+  "senses": [
+   "verimli; tasarruflu"
+  ],
+  "ex": [
+   "Yeni çamaşır makinemiz daha sessiz ve daha verimli.",
+   "Verimli bir toplu taşıma ağı, şehirlerin daha az enerji tüketerek daha fazla insanı taşımasına olanak tanır."
+  ],
+  "col": [
+   "enerji tasarruflu binalar",
+   "kaynakların verimli kullanımı",
+   "son derece verimli",
+   "verimli hizmet"
+  ],
+  "tip": "efficient az kayıpla iş görmeyi vurgular; effective ise istenen sonuca ulaşmayı anlatır. Türkçedeki 'efektif' sözcüğüyle karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "appearance",
+  "senses": [
+   "görünüş; dış görünüş",
+   "ortaya çıkış; görünme"
+  ],
+  "ex": [
+   "Taze bir kat boya odanın görünümünü tamamen değiştirdi.",
+   "İşverenler adayları görünüşlerine göre değil, becerilerine ve deneyimlerine göre değerlendirmelidir."
+  ],
+  "col": [
+   "fiziksel görünüm",
+   "boy göstermek",
+   "dış görünüş",
+   "...nın görünümünü iyileştirmek"
+  ],
+  "tip": "Hem 'görünüş' hem de 'ortaya çıkma' anlamına gelir. 'Make an appearance' kalıbı kısa süre boy göstermek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nut",
+  "senses": [
+   "kabuklu yemiş",
+   "somun"
+  ],
+  "ex": [
+   "Kabuğunu kırdı ve içini benimle paylaştı.",
+   "Kuruyemişler faydalı besin öğeleri sağlar; ancak okullar çocuklara yemek hazırlarken gıda alerjilerini de dikkate almalıdır."
+  ],
+  "col": [
+   "karışık kuruyemiş",
+   "kabuklu yemiş alerjisi",
+   "somunu sıkmak",
+   "temel ayrıntılar"
+  ],
+  "tip": "İngilizcede nut sayılabilir isimdir: a nut, two nuts. Türkçede 'kuruyemiş' genelde sayılmadığı için bu farka dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "captain",
+  "senses": [
+   "kaptan; takım kaptanı",
+   "kaptanlık etmek; yönetmek",
+   "yüzbaşı; albay"
+  ],
+  "ex": [
+   "Kaptanımız son maçtan önce takımı bir araya topladı.",
+   "Takım kaptanı, her oyuncunun değer gördüğünden ve takıma dahil edildiğinden emin olarak iş birliğini teşvik edebilir."
+  ],
+  "col": [
+   "takım kaptanı",
+   "gemi kaptanı",
+   "takımı yönetmek"
+  ],
+  "tip": "Askeri rütbeler kara ve deniz kuvvetlerinde farklıdır; bu yüzden captain bağlama göre değişen rütbeleri ifade edebilir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "canoe",
+  "senses": [
+   "kano",
+   "kanoyla gitmek"
+  ],
+  "ex": [
+   "Gölün karşısına kanomuzla kürek çekerek gün batımından önce geçtik.",
+   "Sulak alanları kanoyla keşfeden ziyaretçiler, motorlu teknelerin yarattığı rahatsızlık olmadan yaban hayatını sessizce gözlemleyebilir."
+  ],
+  "col": [
+   "kürek çekmek",
+   "kano ile gezmeye gitmek",
+   "kano kiralamak"
+  ],
+  "tip": "Modern kanolar ağaçtan değil, çoğunlukla plastik ya da fiberglas gibi malzemelerden yapılır. Hem isim hem fiil olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "proper",
+  "senses": [
+   "uygun; doğru",
+   "düzgün; yeterli",
+   "asıl; kendi"
+  ],
+  "ex": [
+   "Taşlı patikalarda yürümek için uygun ayakkabıya ihtiyacın var.",
+   "İşçiler, güvenliklerini tehlikeye atabilecek makineleri kullanmadan önce uygun eğitim almalıdır."
+  ],
+  "col": [
+   "uygun eğitim",
+   "gerekli bakım",
+   "düzgün bir öğün",
+   "şehrin merkez kısmı"
+  ],
+  "tip": "'Asıl; kendi' anlamında isimden sonra gelir: the city proper, yani şehrin çevre ilçeler hariç merkezi.",
+  "note": ""
+ },
+ {
+  "id": "dialog",
+  "senses": [
+   "diyalog; konuşma",
+   "görüşme; diyalog",
+   "diyalog kutusu"
+  ],
+  "ex": [
+   "Oyuncular sahneye çıkmadan önce repliklerini çalıştı.",
+   "Yerel yönetimler ile sakinler arasındaki açık diyalog, yeni konut projeleriyle ilgili anlaşmazlıkların çözülmesine yardımcı olabilir."
+  ],
+  "col": [
+   "açık diyalog",
+   "gruplar arası diyalog",
+   "diyalog kutusu"
+  ],
+  "tip": "dialog Amerikan yazımıdır; İngiliz İngilizcesinde genellikle dialogue kullanılır. Bilgisayar penceresi anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "typewriter",
+  "senses": [
+   "daktilo"
+  ],
+  "ex": [
+   "Büyükbabam hâlâ kısa hikâyeler yazmak için daktilo kullanıyor.",
+   "Bilgisayarlar yaygınlaşmadan önce daktilo, ofislerde ve haber odalarında vazgeçilmez bir araçtı."
+  ],
+  "col": [
+   "mekanik daktilo",
+   "elektrikli daktilo",
+   "daktilo şeridi"
+  ],
+  "tip": "Türkçede 'daktilo' hem makine hem de kişi için kullanılır. İngilizcede makine typewriter, daktiloyu kullanan kişi ise typist'tir.",
+  "note": ""
+ }
+]

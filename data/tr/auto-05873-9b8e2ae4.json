@@ -1,0 +1,274 @@
+[
+ {
+  "id": "haunt",
+  "senses": [
+   "aklından çıkmamak; rahatsız etmek",
+   "musallat olmak; hayalet gibi dolaşmak",
+   "uğrak; sık gidilen yer"
+  ],
+  "ex": [
+   "O utanç verici hata, her sunumdan önce hâlâ aklımı kurcalıyor.",
+   "Kötü kentsel planlamanın sonuçları, asıl kararlar alındıktan çok sonra bile toplulukları rahatsız etmeye devam edebilir."
+  ],
+  "col": [
+   "anılarla musallat olunmak",
+   "eski bir evde dolaşmak",
+   "gözde uğrak"
+  ],
+  "tip": "Geçişli fiildir; edilgen hâlde be haunted by kalıbı 'tarafından rahatsız edilmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "comprise",
+  "senses": [
+   "oluşmak; içermek",
+   "oluşturmak; meydana getirmek"
+  ],
+  "ex": [
+   "Hediye seti sabun, losyon ve bir havludan oluşuyor.",
+   "Önerilen ulaşım ağı, konut bölgelerini iş merkezlerine bağlayan otobüs hatları ve bisiklet yollarından oluşacak."
+  ],
+  "col": [
+   "birkaç bölümden oluşmak",
+   "geniş bir hizmet yelpazesi içermek",
+   "çoğunluğu oluşturmak"
+  ],
+  "tip": "Doğru kalıp 'bütün comprises parçalar' şeklindedir; comprises ardından of kullanılmaz. Pasif 'is comprised of' yaygın ama tartışmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "royalty",
+  "senses": [
+   "kraliyet ailesi; soylular",
+   "telif hakkı; kullanım bedeli"
+  ],
+  "ex": [
+   "Saray bir zamanlar kraliyet ailesinin konutu olarak kullanılmıştı.",
+   "Yazarlar, yeni yaratıcı projeler geliştirirken geçimlerini genellikle kitap satışlarından elde ettikleri telif ücretleriyle sağlar."
+  ],
+  "col": [
+   "kraliyet ailesinden biri",
+   "telif ücreti ödemek",
+   "telif ödemeleri"
+  ],
+  "tip": "Kraliyet ailesi anlamında sayılamaz; telif ücreti anlamında çoğunlukla royalties biçiminde çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "perish",
+  "senses": [
+   "ölmek; yok olmak",
+   "çürümek; bozulmak"
+  ],
+  "ex": [
+   "Bu narin bitkiler bu gece dışarıda bırakılırsa ölür.",
+   "Habitat koruması etkili olmazsa, sıcaklıklar yükselip besin kaynakları tükendikçe birçok savunmasız tür yok olabilir."
+  ],
+  "col": [
+   "soğuktan ölmek",
+   "yangında can vermek",
+   "kauçuk çürümek"
+  ],
+  "tip": "Genellikle geçişsiz fiildir. İngiliz İngilizcesinde lastik gibi malzemelerin bozulması için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "transferable",
+  "senses": [
+   "devredilebilir; aktarılabilir",
+   "farklı işlerde kullanılabilir"
+  ],
+  "ex": [
+   "Bu biletler devredilebilir, bu yüzden kardeşin benimkini kullanabilir.",
+   "Üniversiteler öğrencilerin, farklı sektörlerde ve kariyerlerde değerini koruyan aktarılabilir beceriler geliştirmelerine yardımcı olmalıdır."
+  ],
+  "col": [
+   "aktarılabilir beceriler",
+   "devredilebilir bilet",
+   "aktarılabilir bilgi"
+  ],
+  "tip": "Transferable skills, iş veya sektör değiştirildiğinde de işe yarayan beceriler anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "airway",
+  "senses": [
+   "solunum yolu; hava yolu",
+   "hava yolu; uçuş rotası"
+  ],
+  "ex": [
+   "Hemşire hastanın solunum yolunun açık olup olmadığını kontrol etti.",
+   "Ana bir uçuş rotasındaki yoğun trafik, uçakların güvenli biçimde ayrılmasını sağlamak için dikkatli koordinasyon gerektirir."
+  ],
+  "col": [
+   "solunum yolunu açık tutmak",
+   "solunum yolu tıkanıklığı",
+   "üst solunum yolu"
+  ],
+  "tip": "Çoğunlukla solunum yolu anlamında kullanılır; uçuş rotası anlamı teknik bir terimdir. Airline (havayolu şirketi) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "compel",
+  "senses": [
+   "zorlamak; mecbur bırakmak"
+  ],
+  "ex": [
+   "Şiddetli yağmur piknik planımızı iptal etmek zorunda bıraktı.",
+   "Daha sıkı çevre yasaları, üreticileri atığı azaltmaya ve daha temiz üretim yöntemlerini benimsemeye zorlayabilir."
+  ],
+  "col": [
+   "birini harekete geçmeye zorlamak",
+   "kendini zorunlu hissetmek",
+   "koşullar tarafından mecbur bırakılmak"
+  ],
+  "tip": "compel sb to do kalıbıyla kullanılır; güçlü ve resmi bir fiildir, günlük konuşmada genellikle force veya make tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "displace",
+  "senses": [
+   "yerinden etmek; göç ettirmek",
+   "yerini almak; yerine geçmek",
+   "yerinden oynatmak; yer değiştirmek"
+  ],
+  "ex": [
+   "Sel, nehir kenarında yaşayan birkaç aileyi yerinden etti.",
+   "Otomasyon bazı çalışanların yerini alabilse de yeniden eğitime yapılan yatırım, onların alternatif iş bulmasına yardımcı olabilir."
+  ],
+  "col": [
+   "yerinden edilmiş insanlar",
+   "işçilerin yerini almak",
+   "suyu yer değiştirmek"
+  ],
+  "tip": "Genellikle zorla yerinden edilmeyi anlatır; yeni bir şeyin eskisinin yerini alması anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lure",
+  "senses": [
+   "cezbetmek; ayartmak; tuzağa çekmek",
+   "cazibe; yem"
+  ],
+  "ex": [
+   "Fareyi dışarı çekmek için biraz peynir kullandık.",
+   "Büyük şehirler genellikle genç mezunları daha yüksek maaşlarla cezbeder ve kırsal topluluklarda nitelikli işçi sıkıntısı yaratır."
+  ],
+  "col": [
+   "birini bir şey yapmaya ayartmak",
+   "müşterileri cezbetmek",
+   "servetin cazibesi",
+   "balık yemi"
+  ],
+  "tip": "Genellikle lure sb into doing kalıbıyla kullanılır ve aldatarak çekme anlamı taşıyabilir.",
+  "note": ""
+ },
+ {
+  "id": "cruiser",
+  "senses": [
+   "kamaralı tekne; gezi teknesi",
+   "zırhlı savaş gemisi; kruvazör",
+   "devriye arabası; polis arabası"
+  ],
+  "ex": [
+   "Hafta sonunu küçük bir kamaralı teknede geçirdik.",
+   "Tekneyle tatil yapmanın artan popülaritesi, iç suyollarındaki bağlama yerlerine olan talebi artırdı."
+  ],
+  "col": [
+   "kamaralı tekne",
+   "polis devriye arabası",
+   "deniz kruvazörü"
+  ],
+  "tip": "Büyük yolcu gemisi için genellikle cruise ship denir, cruiser denmez.",
+  "note": ""
+ },
+ {
+  "id": "lieutenant",
+  "senses": [
+   "teğmen; üsteğmen",
+   "başyardımcı; sağ kol"
+  ],
+  "ex": [
+   "Teğmen, yeni askerlerin teçhizatlarını düzenlemelerine yardım etti.",
+   "Afet yardım operasyonlarında bir subay, izole topluluklara temel malzeme ulaştıran askeri ekipleri koordine edebilir."
+  ],
+  "col": [
+   "kara kuvvetleri teğmeni",
+   "deniz teğmeni",
+   "güvenilir sağ kol"
+  ],
+  "tip": "İngiliz İngilizcesinde /lef/, Amerikan İngilizcesinde /luː/ okunur. Rütbe karşılıkları silahlı kuvvetlere göre değişebilir.",
+  "note": ""
+ },
+ {
+  "id": "accumulation",
+  "senses": [
+   "birikim; yığılma; birikmiş madde"
+  ],
+  "ex": [
+   "Eski ahşap raflarda bir toz birikintisi oluşmuştu.",
+   "Okyanuslardaki plastik atık birikimi deniz yaşamını tehdit ediyor ve kıyı topluluklarında kalıcı sorunlar yaratıyor."
+  ],
+  "col": [
+   "servet birikimi",
+   "atık birikimi",
+   "yavaş yavaş birikme",
+   "sermaye birikimi"
+  ],
+  "tip": "Genellikle of ile kullanılır ve zamanla kademeli artışı vurgular.",
+  "note": ""
+ },
+ {
+  "id": "prophecy",
+  "senses": [
+   "kehanet; önseziyle söylenen söz",
+   "kehanet etme yeteneği"
+  ],
+  "ex": [
+   "Hikâyede eski bir kehanet sonunda gerçekleşti.",
+   "Düşük beklentiler, öğrenciler daha az teşvik ve gelişme fırsatı aldığında kendini gerçekleştiren bir kehanete dönüşebilir."
+  ],
+  "col": [
+   "kendini gerçekleştiren kehanet",
+   "kehaneti yerine getirmek",
+   "kehanet yeteneği"
+  ],
+  "tip": "Prophecy isimdir; fiili prophesy'dir ve son ses /aɪ/ okunur.",
+  "note": ""
+ },
+ {
+  "id": "swift",
+  "senses": [
+   "çabuk; süratli; ani",
+   "ebabil; uzun kanatlı bir kuş"
+  ],
+  "ex": [
+   "Onun çabuk tepkisi camın düşmesini engelledi.",
+   "Hastalık salgınlarına hızlı müdahale, hastanelerin üzerindeki baskıyı azaltabilir ve savunmasız toplulukları koruyabilir."
+  ],
+  "col": [
+   "hızlı hareket",
+   "çabuk yanıt",
+   "çabuk iyileşme"
+  ],
+  "tip": "Genellikle action, response gibi isimleri niteler; zarf biçimi swiftly'dir.",
+  "note": ""
+ },
+ {
+  "id": "doctrine",
+  "senses": [
+   "öğreti; doktrin; inanç esası"
+  ],
+  "ex": [
+   "Rehber, tapınağın günlük ayinlerinin arkasındaki öğretiyi anlattı.",
+   "Ekonomik bir doktrin, yalnızca etkili destekçileri olduğu için kabul edilmek yerine pratik kanıtlara göre değerlendirilmelidir."
+  ],
+  "col": [
+   "dini öğreti",
+   "ekonomik doktrin",
+   "siyasi doktrin"
+  ],
+  "tip": "Her zaman olumsuz anlam taşımaz; dini öğreti ya da siyasi veya ekonomik bir görüş sistemi için kullanılabilir.",
+  "note": ""
+ }
+]

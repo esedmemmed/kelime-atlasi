@@ -1,0 +1,272 @@
+[
+ {
+  "id": "indirect",
+  "senses": [
+   "dolaylı; aracılı",
+   "dolambaçlı; dolaylı"
+  ],
+  "ex": [
+   "Bu bitki parlak ama dolaylı güneş ışığında en iyi gelişir.",
+   "Turizm, restoranlarda taze gıda talebini artırarak yerel çiftçilere dolaylı faydalar sağlar."
+  ],
+  "col": [
+   "dolaylı etki",
+   "dolaylı güneş ışığı",
+   "dolaylı vergiler",
+   "dolambaçlı yol"
+  ],
+  "tip": "Hem etki (dolaylı etki) hem de üslup (dolambaçlı ifade) için kullanılır. Zıt anlamlısı direct'tir. Zarfı indirectly, 'dolaylı olarak' demektir.",
+  "note": ""
+ },
+ {
+  "id": "representative",
+  "senses": [
+   "temsilci; vekil",
+   "temsil edici; tipik"
+  ],
+  "ex": [
+   "Sınıf temsilcimiz kütüphaneye daha fazla kitap istedi.",
+   "Araştırmacıların geniş nüfus hakkında güvenilir sonuçlara ulaşması için temsil edici bir örneklem gerekir."
+  ],
+  "col": [
+   "temsil edici örneklem",
+   "satış temsilcisi",
+   "...in temsil eden",
+   "seçilmiş temsilci"
+  ],
+  "tip": "Sıfat olarak genellikle of ile kullanılır: representative of a group. İsim olarak 'temsilci' anlamına gelir; representation ise 'temsil' demektir.",
+  "note": ""
+ },
+ {
+  "id": "seemingly",
+  "senses": [
+   "görünüşte; sözde"
+  ],
+  "ex": [
+   "Boş görünen kutunun içinde bir yavru kedi vardı.",
+   "Günlük seyahat alışkanlıklarındaki görünüşte küçük değişiklikler, bir kentin toplam karbon salımını önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "görünüşte imkânsız",
+   "görünüşte bitmez",
+   "görünüşte zararsız"
+  ],
+  "tip": "Genellikle sıfatların önünde kullanılır: seemingly endless. Bir şeyin görünüşte öyle olduğunu, gerçekte farklı olabileceğini belirtir.",
+  "note": ""
+ },
+ {
+  "id": "wording",
+  "senses": [
+   "ifade; sözcük seçimi"
+  ],
+  "ex": [
+   "Mesajınızın ifadesi biraz resmi görünüyor.",
+   "Halk sağlığı duyurularındaki özenli ifadeler karışıklığı önleyebilir ve insanları tavsiyelere uymaya teşvik edebilir."
+  ],
+  "col": [
+   "özenli ifade",
+   "tam ifade",
+   "ifadeyi değiştirmek"
+  ],
+  "tip": "Genellikle sayılamaz. Belirli bir metindeki sözcük tercihlerini anlatır; tek bir kelime için word kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "texture",
+  "senses": [
+   "doku; yapı; kıvam"
+  ],
+  "ex": [
+   "Bu battaniyenin yumuşak dokusu çok hoş hissettiriyor.",
+   "Geri dönüştürülmüş malzemelerin dokusu, tüketicilerin sürdürülebilir ürünleri çekici bulup bulmadığını etkileyebilir."
+  ],
+  "col": [
+   "pürüzsüz doku",
+   "pürüzlü doku",
+   "kremsi kıvam"
+  ],
+  "tip": "Malzemenin yüzey hissi ve gıdanın ağızdaki hissi için kullanılır. Gıdalarda 'kıvam' da uygun bir karşılık olabilir.",
+  "note": ""
+ },
+ {
+  "id": "initial",
+  "senses": [
+   "ilk; başlangıç",
+   "baş harf",
+   "baş harflerini atmak"
+  ],
+  "ex": [
+   "Fiyatı görünce ilk heyecanım geçti.",
+   "Güneş panellerinin ilk maliyeti yüksek olsa da hane halkları uzun vadede para tasarruf edebilir."
+  ],
+  "col": [
+   "ilk tepki",
+   "ilk değerlendirme",
+   "ilk maliyet",
+   "başlangıç aşamaları"
+  ],
+  "tip": "Sıfat olarak isimden önce gelir. İsim olarak 'baş harf' anlamında genellikle çoğul initials kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "carbohydrates",
+  "senses": [
+   "karbonhidrat; şeker"
+  ],
+  "ex": [
+   "Pirinç ve patates, günlük etkinliklerinize enerji veren karbonhidratlar sağlar.",
+   "Dengeli bir beslenme, bireysel besin ihtiyaçlarına göre orantılı karbonhidrat, protein ve yağ içerir."
+  ],
+  "col": [
+   "kompleks karbonhidratlar",
+   "rafine karbonhidratlar",
+   "karbonhidrattan zengin"
+  ],
+  "tip": "Tekil hali carbohydrate'tir. Genel bir besin grubundan söz ederken çoğul kullanılır; şekerler ve nişastalar bu gruba girer.",
+  "note": ""
+ },
+ {
+  "id": "exterior",
+  "senses": [
+   "dış yüzey; dış görünüm",
+   "dış; harici"
+  ],
+  "ex": [
+   "Evlerinin dış cephesini soluk maviye boyadılar.",
+   "Bir binanın dış cephesini iyileştirmek, tarihi özelliğini korurken hava hasarına karşı koruma sağlayabilir."
+  ],
+  "col": [
+   "binanın dış cephesi",
+   "dış duvarlar",
+   "dış cephe boyası"
+  ],
+  "tip": "Dış yüzey ya da dış görünüş için kullanılır. Karşıtı interior'dır (iç).",
+  "note": ""
+ },
+ {
+  "id": "imaginative",
+  "senses": [
+   "yaratıcı; hayal gücü güçlü"
+  ],
+  "ex": [
+   "Yaratıcı yeğenim boş kutuları bir uzay gemisine dönüştürdü.",
+   "Okullar, öğrencileri ders kitabındaki her ayrıntıyı ezberlemeye zorlamak yerine yaratıcı düşünmeye teşvik etmelidir."
+  ],
+  "col": [
+   "yaratıcı düşünme",
+   "yaratıcı yaklaşım",
+   "yaratıcı çözüm"
+  ],
+  "tip": "imaginative 'hayal gücü geniş, yaratıcı' anlamına gelir; imaginary ise 'hayali, gerçek olmayan' demektir. Karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "recovery",
+  "senses": [
+   "iyileşme; toparlanma",
+   "geri alma; kurtarma"
+  ],
+  "ex": [
+   "İyileşmesi yavaştı ama yeniden yürüyebiliyordu.",
+   "Ekonomik toparlanma, zor dönemlerde tüketici güvenini yeniden sağlamaya ve küçük işletmeleri desteklemeye kısmen bağlıdır."
+  ],
+  "col": [
+   "tamamen iyileşmek",
+   "ekonomik toparlanma",
+   "veri kurtarma"
+  ],
+  "tip": "'Tamamen iyileşmek' için make a full recovery kalıbı kullanılır. Fiili recover olup 'iyileşmek' ya da 'geri almak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "elsewhere",
+  "senses": [
+   "başka yerde; başka yere"
+  ],
+  "ex": [
+   "Bu kafe dolu, o yüzden başka yerde yiyelim.",
+   "Yerel konut fiyatları ödenemez hale geldiğinde genç işçiler genellikle daha iyi yaşam koşulları için başka yerlere taşınır."
+  ],
+  "col": [
+   "başka yerlere bakmak",
+   "başka yere gitmek",
+   "dünyanın başka yerlerinde"
+  ],
+  "tip": "Zarf olduğu için önüne in ya da to gibi edat almaz: 'in elsewhere' değil, 'go elsewhere' denir.",
+  "note": ""
+ },
+ {
+  "id": "harm",
+  "senses": [
+   "zarar; hasar",
+   "zarar vermek"
+  ],
+  "ex": [
+   "Bu bitkinin yapraklarına çok fazla güneş ışığı zarar verebilir.",
+   "Endüstriyel atıklara yönelik daha sıkı denetimler, nehirlere verilen zararı azaltabilir ve yerel yaban hayatını koruyabilir."
+  ],
+  "col": [
+   "zarar vermek",
+   "faydadan çok zarar vermek",
+   "çevreye zarar vermek"
+  ],
+  "tip": "İsim olarak sayılamaz ve do harm to kalıbıyla kullanılır. Fiil olarak doğrudan nesne alır: harm the environment.",
+  "note": ""
+ },
+ {
+  "id": "poultry",
+  "senses": [
+   "kümes hayvanı",
+   "kümes hayvanı eti"
+  ],
+  "ex": [
+   "Teyzem geniş bahçesindeki bir kümeste kümes hayvanları besliyor.",
+   "Kümes hayvanları için daha yüksek refah standartları hayvan sağlığını iyileştirebilir, ancak üretim maliyetlerini artırabilir."
+  ],
+  "col": [
+   "kümes hayvancılığı",
+   "kümes hayvanı yemi",
+   "kümes hayvanı ürünleri"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a poultry' denmez. Tek bir hayvan için chicken veya turkey gibi belirli adlar kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "peculiar",
+  "senses": [
+   "tuhaf; garip",
+   "özgü; belirli"
+  ],
+  "ex": [
+   "Merdivenin altındaki dolaptan tuhaf bir koku geliyordu.",
+   "Bazı çevresel sorunlar kıyı kentlerine özgüdür; buna tuzlu su sızması ve fırtına dalgalarının verdiği hasar dahildir."
+  ],
+  "col": [
+   "tuhaf koku",
+   "garip davranış",
+   "...e özgü"
+  ],
+  "tip": "peculiar to 'belirli bir şeye özgü' demektir. Türkçedeki 'özel' ile karıştırılmamalıdır; 'tuhaf' anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "lean",
+  "senses": [
+   "yaslanmak; eğilmek",
+   "yağsız; zayıf",
+   "yalın; verimli"
+  ],
+  "ex": [
+   "Duvara yaslandı ve ayakkabılarının bağcığını çözdü.",
+   "Yalın üretim yöntemleri, üreticilerin ürün kalitesini korurken israfı azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "duvara yaslanmak",
+   "öne eğilmek",
+   "yağsız et",
+   "yalın üretim"
+  ],
+  "tip": "lean against 'bir şeye yaslanmak' anlamına gelir; lean towards ise 'bir yöne eğilmek' ya da 'bir görüşe meyletmek' demektir.",
+  "note": ""
+ }
+]

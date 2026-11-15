@@ -1,0 +1,274 @@
+[
+ {
+  "id": "slaughter",
+  "senses": [
+   "kesmek; boğazlamak",
+   "katliam; kıyım",
+   "katletmek; kırmak"
+  ],
+  "ex": [
+   "Çiftçi, bazı hayvanların neden yiyecek için kesildiğini açıkladı.",
+   "Hayvanların nasıl kesildiğine ilişkin sıkı düzenlemeler, gıda üretimi sektöründe refah standartlarını yükseltebilir."
+  ],
+  "col": [
+   "hayvan kesmek",
+   "yiyecek için kesmek",
+   "toplu katliam"
+  ],
+  "tip": "Hayvanları yemek için kesmek veya insanları acımasızca öldürmek anlamında güçlü bir fiildir; sıradan ölümler için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "intensify",
+  "senses": [
+   "artmak; şiddetlenmek"
+  ],
+  "ex": [
+   "Biz istasyona doğru acele ederken yağmur şiddetlendi.",
+   "Artan sıcaklıklar, uzun süre kuraklık yaşayan bölgelerde su kıtlığını daha da ağırlaştırabilir."
+  ],
+  "col": [
+   "çabaları artırmak",
+   "baskıyı artırmak",
+   "rekabet kızışıyor"
+  ],
+  "tip": "Hem nesneli (bir şeyi yoğunlaştırmak) hem nesnesiz (kendiliğinden artmak) kullanılır. Akademik metinlerde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "eminent",
+  "senses": [
+   "seçkin; tanınmış"
+  ],
+  "ex": [
+   "Dün yerel hastanemizi seçkin bir cerrah ziyaret etti.",
+   "Üniversiteler, bulgularını paylaşması ve öğrencilere akademik kariyer için ilham vermesi amacıyla sık sık seçkin araştırmacıları davet eder."
+  ],
+  "col": [
+   "seçkin akademisyen",
+   "ünlü bilim insanı",
+   "uluslararası düzeyde seçkin"
+  ],
+  "tip": "eminent 'seçkin, saygın' anlamındadır; 'yakın, yaklaşmakta olan' anlamındaki imminent ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "ration",
+  "senses": [
+   "kısıtlı pay; erzak",
+   "karneyle dağıtmak; kısıtlamak"
+  ],
+  "ex": [
+   "Her yürüyüşçü, bir günlük fındık ve kuru meyve erzakını çantasına koydu.",
+   "Uzun süren kuraklıklarda yerel yönetimler, her hanenin yeterli su almasını sağlamak için suyu kısıtlayabilir."
+  ],
+  "col": [
+   "günlük pay",
+   "gıda erzakı",
+   "suyu kısıtlamak"
+  ],
+  "tip": "Fiil olarak 'ration someone to' kalıbıyla 'birini ... ile sınırlamak' anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "pivot",
+  "senses": [
+   "dayanak noktası; eksen",
+   "dönmek; dönüş yapmak",
+   "yön değiştirmek; strateji değiştirmek"
+  ],
+  "ex": [
+   "Tahterevalli, merkezindeki dayanak noktası etrafında pürüzsüzce döndü.",
+   "Tüketici alışkanlıkları değişip işletme maliyetleri arttıkça küçük şirketler çevrimiçi hizmetlere yönelmek zorunda kalabilir."
+  ],
+  "col": [
+   "merkezi dayanak noktası",
+   "bir ayak üzerinde dönmek",
+   "çevrimiçi hizmetlere yönelmek"
+  ],
+  "tip": "Fiil olarak hem fiziksel dönmeyi hem de strateji değiştirmeyi anlatır. Sıfatı pivotal 'belirleyici, kilit' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "insomnia",
+  "senses": [
+   "uykusuzluk"
+  ],
+  "ex": [
+   "Uykusuzluğu yüzünden gece yarısından çok sonra yine uyanık kaldı.",
+   "Süregelen uykusuzluk iş yerindeki konsantrasyonu etkileyebilir ve bir sağlık uzmanının tavsiyesini gerektirebilir."
+  ],
+  "col": [
+   "uykusuzluk çekmek",
+   "kronik uykusuzluk",
+   "uykusuzluğu tedavi etmek"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'bir uykusuzluk' yerine genellikle 'suffer from' kalıbıyla 'uykusuzluk çekmek' denir.",
+  "note": ""
+ },
+ {
+  "id": "accord",
+  "senses": [
+   "anlaşma; mutabakat",
+   "uyum; ahenk",
+   "tanımak; bahşetmek"
+  ],
+  "ex": [
+   "İki kulüp ekipman paylaşımı konusunda bir anlaşmaya vardı.",
+   "Emisyonlar konusunda uluslararası bir anlaşma, ülkeleri daha temiz teknolojileri benimsemeye teşvik edebilir ve kırılgan ekosistemleri koruyabilir."
+  ],
+  "col": [
+   "anlaşmaya varmak",
+   "ile uyum içinde",
+   "kendi isteğiyle",
+   "eşit haklar tanımak"
+  ],
+  "tip": "of your own accord kalıbı 'kimse zorlamadan, kendi isteğiyle' anlamındadır; 'own' kelimesi atlanmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "virtue",
+  "senses": [
+   "erdem; iyi huy",
+   "üstünlük; olumlu yan"
+  ],
+  "ex": [
+   "Dedemiz sabrın bir erdem olduğunu hep söylerdi.",
+   "Toplu taşımanın bir üstünlüğü, nispeten az yer kaplayarak çok sayıda insanı taşıyabilmesidir."
+  ],
+  "col": [
+   "ahlaki erdem",
+   "...nın üstünlükleri",
+   "sayesinde"
+  ],
+  "tip": "by virtue of 'sayesinde' ya da 'nedeniyle' anlamındadır; ahlaki bir erdem anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "fluctuation",
+  "senses": [
+   "dalgalanma; oynama"
+  ],
+  "ex": [
+   "Ani bir sıcaklık değişimi duşu bir an için soğuk yaptı.",
+   "Gıda fiyatlarındaki sık dalgalanmalar, düşük gelirli hanelerin aylık harcamalarını planlamasını zorlaştırıyor."
+  ],
+  "col": [
+   "fiyat dalgalanmaları",
+   "mevsimsel dalgalanmalar",
+   "talepteki dalgalanmalar",
+   "sıcaklık değişimleri"
+  ],
+  "tip": "Genellikle çoğul kullanılır; 'fluctuations in' kalıbından sonra neyin değiştiği belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "deception",
+  "senses": [
+   "aldatma; hile"
+  ],
+  "ex": [
+   "Her zamanki neşeli gülümsemesi hayal kırıklığını gizliyordu; bu küçük bir aldatmacaydı.",
+   "Açık reklam düzenlemeleri, tüketicileri aldatmaya karşı koruyabilir ve çevrimiçi piyasalara güveni artırabilir."
+  ],
+  "col": [
+   "kasıtlı aldatma",
+   "aldatmacada bulunmak",
+   "bir aldatmaca"
+  ],
+  "tip": "Bilerek yanıltmayı anlatır; sıradan bir hata ya da yanlış anlaşılma için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "obscure",
+  "senses": [
+   "az bilinen; tanınmayan",
+   "anlaşılması zor; muğlak",
+   "gizlemek; bulanıklaştırmak"
+  ],
+  "ex": [
+   "İstasyonun arkasında küçük, az bilinen bir müze bulduk.",
+   "Aşırı teknik dil, önemli bulguları gizleyebilir ve bilimsel araştırmayı halk için daha az ulaşılabilir kılabilir."
+  ],
+  "col": [
+   "az bilinen bir yazar",
+   "anlaşılması güç bir gönderme",
+   "manzarayı kapatmak",
+   "gerçeği gizlemek"
+  ],
+  "tip": "Sıfat olarak az bilinen ya da muğlak, fiil olarak gizlemek anlamına gelir. 'Obscene' (müstehcen) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "insider",
+  "senses": [
+   "içeriden biri; bilgi sahibi"
+  ],
+  "ex": [
+   "Bir bilgimiz, restoranın gelecek hafta yeniden açılacağını söyledi.",
+   "Sektör içinden bazı kişiler, daha küçük firmaların daha katı çevre düzenlemelerinin maliyetlerini karşılamakta zorlanabileceğini öne sürüyor."
+  ],
+  "col": [
+   "sektör içinden biri",
+   "siyasi çevrelerden biri",
+   "içeriden bilgi",
+   "içeriden bilgiyle ticaret"
+  ],
+  "tip": "Bir kurumun içinde olup gizli bilgiye sahip kişiyi anlatır. 'Insider trading' hukuki bir terimdir.",
+  "note": ""
+ },
+ {
+  "id": "invalidate",
+  "senses": [
+   "geçersiz kılmak",
+   "çürütmek; geçersiz saymak"
+  ],
+  "ex": [
+   "Cihazı kendiniz açmanız, garantisini geçersiz kılabilir.",
+   "Yaşlı yetişkinleri dışarıda bırakan bir örneklem, genel nüfusun sağlık ihtiyaçlarına ilişkin sonuçları geçersiz kılabilir."
+  ],
+  "col": [
+   "garantiyi geçersiz kılmak",
+   "sözleşmeyi geçersiz kılmak",
+   "sonuçları çürütmek"
+  ],
+  "tip": "Hukuki anlamda 'geçersiz kılmak', argüman ve sonuçlar için 'çürütmek' anlamındadır. 'Invalid' sıfatıyla ilişkilidir.",
+  "note": ""
+ },
+ {
+  "id": "computation",
+  "senses": [
+   "hesaplama; işlem"
+  ],
+  "ex": [
+   "Hızlı bir hesaplama, kanepeyi alabileceğimizi gösterdi.",
+   "Hesaplama alanındaki gelişmeler, araştırmacıların iklim verilerini analiz etmesine ve giderek daha isabetli hava tahminleri üretmesine olanak tanıyor."
+  ],
+  "col": [
+   "karmaşık hesaplama",
+   "sayısal hesaplama",
+   "paralel hesaplama",
+   "hesaplama süresi"
+  ],
+  "tip": "'Calculation' sözcüğüne göre daha resmidir; matematik ve bilgisayar bağlamlarında sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "potent",
+  "senses": [
+   "güçlü; etkili"
+  ],
+  "ex": [
+   "Bu güçlü ilaç, öksürüğümü bir saat içinde geçirdi.",
+   "Halk eğitimi, israfı azaltmada ve daha sürdürülebilir tüketimi teşvik etmede güçlü bir araç olabilir."
+  ],
+  "col": [
+   "güçlü ilaç",
+   "güçlü sembol",
+   "güçlü bir kuvvet",
+   "güçlü bir hatırlatma"
+  ],
+  "tip": "Etkisinin veya gücünün yüksek olduğunu anlatır; 'potansiyel' anlamındaki potential ile karıştırılmamalıdır.",
+  "note": ""
+ }
+]

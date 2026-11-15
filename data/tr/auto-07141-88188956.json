@@ -1,0 +1,263 @@
+[
+ {
+  "id": "yoke",
+  "senses": [
+   "boyunduruk",
+   "boyunduruk; esaret",
+   "boyunduruğa koşmak; bağlamak"
+  ],
+  "ex": [
+   "Çiftçi, öküzlerin boynuna ahşap bir boyunduruk yerleştirdi.",
+   "Birçok toplum, sömürge yönetiminin boyunduruğundan kurtulmak için nesiller boyu mücadele etti."
+  ],
+  "col": [
+   "ahşap boyunduruk",
+   "baskı boyunduruğu",
+   "bir araya bağlamak"
+  ],
+  "tip": "Sesçe 'yolk' (yumurta sarısı) ile karıştırılmamalı. Mecazi kullanımda genellikle baskı ve esaret anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "repudiate",
+  "senses": [
+   "reddetmek; yalanlamak",
+   "reddetmek; ödemekten kaçınmak"
+  ],
+  "ex": [
+   "Söylentiyi kararlılıkla yalanladı ve hile yaptığını reddetti.",
+   "Meslek kuruluşları, yerleşik tıbbi tedavilere olan kamu güvenini zedeleyen yanıltıcı iddiaları açıkça reddetmelidir."
+  ],
+  "col": [
+   "bir iddiayı reddetmek",
+   "bir iddiayı yalanlamak",
+   "bir sözleşmeyi tanımamak",
+   "bir borcu ödemeyi reddetmek"
+  ],
+  "tip": "Resmi bir fiildir, isim değildir; isim hâli 'repudiation'dır.",
+  "note": ""
+ },
+ {
+  "id": "fortuity",
+  "senses": [
+   "tesadüf; rastlantı"
+  ],
+  "ex": [
+   "Tamamen tesadüf eseri yan yana koltuk ayırttık.",
+   "Bilimsel buluşlar bazen tesadüfleri de içerir; yine de beklenmedik sonuçların değerini anlamak için dikkatli gözlem şarttır."
+  ],
+  "col": [
+   "salt tesadüf eseri",
+   "tesadüf unsuru"
+  ],
+  "tip": "Nadir kullanılan resmi bir sözcüktür; günlük konuşmada 'chance' veya 'coincidence' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "skirmish",
+  "senses": [
+   "çatışma; küçük çatışma",
+   "kısa tartışma; atışma",
+   "küçük çaplı çatışmak"
+  ],
+  "ex": [
+   "Uzaktan kumanda konusundaki kısa tartışmaları bir uzlaşmayla sona erdi.",
+   "Kısa süren bir sınır çatışması, diplomatik ilerlemeyi baltalayabilir ve yakındaki topluluklara yatırımı caydırabilir."
+  ],
+  "col": [
+   "sınır çatışması",
+   "küçük çatışma",
+   "bir konu üzerinde atışmak"
+  ],
+  "tip": "Olayın küçük çaplı ve kısa sürmesini vurgular; mecazi olarak sözlü tartışmalar için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "scum",
+  "senses": [
+   "köpük; kir tabakası",
+   "serseri; alçak (hakaret)"
+  ],
+  "ex": [
+   "Kaynayan çorbanın üstündeki köpükleri kepçeyle aldı.",
+   "Gölet yüzeyindeki kalın kir tabakası, tarımsal akıntılardan kaynaklanan aşırı besin maddesine işaret edebilir."
+  ],
+  "col": [
+   "köpükleri almak",
+   "kir tabakası",
+   "sabun köpüğü artığı"
+  ],
+  "tip": "Genellikle sayılamaz. İnsanlar için kullanıldığında çok ağır bir hakarettir; kullanımdan kaçınılmalıdır.",
+  "note": "İnsanlar için kullanıldığında güçlü bir hakaret sözcüğüdür"
+ },
+ {
+  "id": "slithery",
+  "senses": [
+   "kaygan; sürünerek kayan"
+  ],
+  "ex": [
+   "Kaygan bir yılan balığı balık ağının içinden kıvrılarak çıktı.",
+   "Çocuklar, denetim altında yapılan gözlemler ve yerel yaban hayatı dersleri sayesinde kaygan hayvanlara karşı korkularını yenebilir."
+  ],
+  "col": [
+   "kaygan yılan",
+   "kaygan yılan balığı"
+  ],
+  "tip": "Genellikle yılan, yılan balığı gibi kaygan ve kıvrılarak hareket eden canlılar için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dainty",
+  "senses": [
+   "küçük ve zarif; narin",
+   "nazik; ince hareketli"
+  ],
+  "ex": [
+   "Çayı ince porselen fincanlarda servis etti.",
+   "Sergide, geleneksel zanaatkârların ulaştığı dikkat çekici hassasiyeti gösteren narin süsler yer alıyor."
+  ],
+  "col": [
+   "narin mücevher",
+   "küçük ve zarif fincanlar",
+   "küçük lokmalar"
+  ],
+  "tip": "Genellikle fincan, takı gibi küçük ve zarif nesneler için kullanılır; genel olarak 'lüks' anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "contemptuous",
+  "senses": [
+   "küçümseyici; hor gören"
+  ],
+  "ex": [
+   "Çamurlu ayakkabılarıma küçümseyici bir bakış attı.",
+   "Kamu kaygılarını küçümseyen liderler, temsil ettikleri kurumlara duyulan güveni zedeleme riski taşır."
+  ],
+  "col": [
+   "küçümseyen",
+   "küçümseyici bakış",
+   "küçümseyici ses tonu"
+  ],
+  "tip": "'Contemptuous' kişinin birini küçümsediğini anlatır; 'contemptible' ise kendisinin küçümsenmeye değer olduğunu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "photostatic",
+  "senses": [
+   "fotokopi ile çoğaltılmış"
+  ],
+  "ex": [
+   "Arşiv, onun sertifikasının fotokopi nüshasını sakladı.",
+   "Dijital tarama yaygınlaşmadan önce, fotokopi ile çoğaltma kütüphanelerin nadir belgeleri asıllarını taşımadan paylaşmasına olanak tanıdı."
+  ],
+  "col": [
+   "fotokopi nüsha",
+   "fotokopi ile çoğaltma"
+  ],
+  "tip": "Eski bir teknik terimdir ve fotokopi/fotoğraf yoluyla kopyalamayı ifade eder; elektrostatik kopyalamayla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "irrevocable",
+  "senses": [
+   "geri alınamaz; değiştirilemez"
+  ],
+  "ex": [
+   "İmzaladığınız anda kararınız yasal olarak geri alınamaz hâle gelir.",
+   "Hükümetler, tarihi binaların yıkımıyla ilgili geri alınamaz kararlar almadan önce yerel toplulukların görüşünü almalıdır."
+  ],
+  "col": [
+   "geri alınamaz karar",
+   "geri alınamaz rıza",
+   "geri döndürülemez taahhüt"
+  ],
+  "tip": "Genellikle karar, onay ya da taahhüt gibi sözcüklerle birlikte kullanılır ve geri alınamayacağını vurgular.",
+  "note": ""
+ },
+ {
+  "id": "genus",
+  "senses": [
+   "cins; tür grubu"
+  ],
+  "ex": [
+   "Bu iki bahçe bitkisi aynı cinse aittir.",
+   "Bilim insanları, yeni keşfedilen kurbağayı genetik özellikleri ilgili türlerle karşılaştırdıktan sonra mevcut bir cinse yerleştirdi."
+  ],
+  "col": [
+   "bir cinse ait olmak",
+   "aynı cins",
+   "yeni bir cins"
+  ],
+  "tip": "Çoğul hâli 'genera'dır; biyolojik sınıflandırmada familya ile tür arasında yer alır.",
+  "note": ""
+ },
+ {
+  "id": "short-weight",
+  "senses": [
+   "eksik tartmak"
+  ],
+  "ex": [
+   "Bakkal, hatalı terazi kullanarak pirincimi eksik tarttı.",
+   "Pazar terazilerinin düzenli denetimi, tüccarların müşterileri eksik tartmasını önleyebilir ve yerel ticarete olan güveni korumaya yardımcı olur."
+  ],
+  "col": [
+   "müşterileri eksik tartmak",
+   "alıcıyı eksik tartmak"
+  ],
+  "tip": "Fiil olarak 'eksik tartmak' anlamındadır; isim olarak genellikle 'short weight' şeklinde iki kelime halinde yazılır.",
+  "note": "Nadir kullanılan biçim; isim olarak genellikle \"short weight\" yazılır"
+ },
+ {
+  "id": "axial",
+  "senses": [
+   "eksenel; eksen ile ilgili"
+  ],
+  "ex": [
+   "Tamirci, milde aşırı eksenel hareket olup olmadığını kontrol etti.",
+   "Dünya'nın eksen eğikliğindeki değişiklikler, güneş enerjisinin gezegen üzerinde nasıl dağıldığını etkiler."
+  ],
+  "col": [
+   "eksen eğikliği",
+   "eksen etrafında dönme",
+   "eksenel yük"
+  ],
+  "tip": "'Axial' eksenle ilgilidir; 'radial' ise yarıçap yönündeki durumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "superintend",
+  "senses": [
+   "denetlemek; yönetmek"
+  ],
+  "ex": [
+   "Deneyimli bir bahçıvan, ağaçlarımızın dikimini denetledi.",
+   "Büyük inşaat projelerinde güvenlik standartlarının sürekli korunması için yetkin mühendisler işi denetlemelidir."
+  ],
+  "col": [
+   "inşaatı denetlemek",
+   "işi denetlemek",
+   "operasyonları yönetmek"
+  ],
+  "tip": "Resmi bir geçişli fiildir ve doğrudan iş ya da faaliyeti nesne alır; günlük dilde 'supervise' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "elemental",
+  "senses": [
+   "temel; esas",
+   "doğa güçlerine ait",
+   "element hâlinde; saf"
+  ],
+  "ex": [
+   "Fırtına, içimde derinlerde yatan temel bir korkuyu uyandırdı.",
+   "Gıda ve barınmaya erişim, ekonomi politikasının asla göz ardı etmemesi gereken temel insani ihtiyaçlara değinir."
+  ],
+  "col": [
+   "doğa güçleri",
+   "temel korku",
+   "elementel karbon"
+  ],
+  "tip": "'Elemental' temel ya da doğal güçleri anlatır; 'elementary' ise çoğunlukla başlangıç düzeyini ifade eder.",
+  "note": ""
+ }
+]

@@ -1,0 +1,271 @@
+[
+ {
+  "id": "scooter",
+  "senses": [
+   "scooter; ayaklı kaykay",
+   "motosiklet; scooter"
+  ],
+  "ex": [
+   "Küçük kız scooter'ını düz yolda itti.",
+   "Şehirler güvenli yollar ve uygun park alanları sağlarsa, paylaşımlı elektrikli scooter sistemleri kısa araba yolculuklarını azaltabilir."
+  ],
+  "col": [
+   "scooter sürmek",
+   "elektrikli scooter",
+   "motorlu scooter"
+  ],
+  "tip": "Scooter hem ayakla itilen tekerlekli araca hem de küçük motosiklete denir; bağlama göre anlam değişir.",
+  "note": ""
+ },
+ {
+  "id": "bunch",
+  "senses": [
+   "demet; salkım",
+   "grup; takım",
+   "toplanmak; kümelenmek"
+  ],
+  "ex": [
+   "Mutfak masası için bana bir demet çiçek getirdi.",
+   "Yolcular tren kapılarının yanında toplanınca binmek hem yavaşlıyor hem de herkes için daha rahatsız oluyor."
+  ],
+  "col": [
+   "bir salkım üzüm",
+   "bir demet çiçek",
+   "bir grup arkadaş",
+   "yığılmak; toplanmak"
+  ],
+  "tip": "Bunch of, somut şeyler için demet/salkım; insanlar için gayriresmi bir grup anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "sensible",
+  "senses": [
+   "akıllıca; mantıklı"
+  ],
+  "ex": [
+   "Bu havada şemsiye almak akıllıca bir davranıştı.",
+   "Koruyucu sağlık hizmetlerine yatırım yapmak, zamanla devlet hastanelerindeki baskıyı azaltmanın mantıklı bir yoludur."
+  ],
+  "col": [
+   "mantıklı bir karar",
+   "akılcı bir yaklaşım",
+   "akıllıca bir öneri"
+  ],
+  "tip": "Sensible 'mantıklı, akıllıca' demektir; 'hassas, duyarlı' anlamındaki sensitive ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "confuse",
+  "senses": [
+   "şaşırtmak; kafasını karıştırmak",
+   "karıştırmak; yanlış tanımak"
+  ],
+  "ex": [
+   "Bu karmaşık talimatlar her yemek pişirdiğimde beni şaşırtıyor.",
+   "Uzmanlar teknik dili açıklamadan kullandığında halk sağlığı mesajları dinleyicileri kafa karışıklığına sürükleyebilir."
+  ],
+  "col": [
+   "A'yı B ile karıştırmak",
+   "konuyu karıştırmak",
+   "kolayca karıştırılmak"
+  ],
+  "tip": "Confused kişinin hissettiği şaşkınlığı, confusing ise şeyin şaşırtıcı olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "furry",
+  "senses": [
+   "tüylü; kürklü"
+  ],
+  "ex": [
+   "Tüylü küçük bir tavşan ayaklarımın dibinde kıvrılıp yattı.",
+   "Birçok tüylü memeli, aşırı soğuk ortamlarda vücut ısısını korumak için yoğun kürküne güvenir."
+  ],
+  "col": [
+   "tüylü hayvan",
+   "tüylü manto; kürklü palto",
+   "tüylü pençeler"
+  ],
+  "tip": "Fur sözcüğüne -y eklenirken r harfi çiftlenir: furry. Yazımda bu harfi unutmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "athlete",
+  "senses": [
+   "sporcu; atlet"
+  ],
+  "ex": [
+   "Sporcu sabah yarışından önce bacaklarını esnetti.",
+   "Genç sporcuların, sağlıklarını korurken spor alanında mükemmelliğe ulaşabilmeleri için dengeli antrenman programlarına ihtiyacı var."
+  ],
+  "col": [
+   "profesyonel sporcu",
+   "elit sporcu",
+   "vaat eden genç sporcu"
+  ],
+  "tip": "Athlete genel olarak sporcu anlamına gelir; yalnızca atletizm sporcularını değil, her türden sporcuyu kapsar.",
+  "note": ""
+ },
+ {
+  "id": "minibus",
+  "senses": [
+   "minibüs; küçük otobüs"
+  ],
+  "ex": [
+   "Köy bakkalının önünden bir minibüs bizi aldı.",
+   "Toplum minibüsü, sınırlı toplu taşımanın olduğu bölgelerde yaşlı sakinlerin temel hizmetlere ulaşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "minibüs kiralamak",
+   "minibüs servisi",
+   "minibüsle seyahat etmek"
+  ],
+  "tip": "Minibus, az sayıda yolcu taşıyan küçük otobüsü ifade eder; her küçük kamyonet ya da van için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "outdoor",
+  "senses": [
+   "açık havada; dış mekân"
+  ],
+  "ex": [
+   "Açık hava yemek alanımız için rahat sandalyeler aldık.",
+   "Düzenli açık hava etkinlikleri, çocukların fiziksel sağlığını geliştirirken doğaya karşı bir takdir duygusu kazanmalarını da sağlar."
+  ],
+  "col": [
+   "açık hava etkinlikleri",
+   "açık hava sporları",
+   "açık hava yüzme havuzu",
+   "outdoor giyim; kıyafet"
+  ],
+  "tip": "Outdoor sıfattır; 'dışarıda' anlamında zarf olarak outdoors kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "curious",
+  "senses": [
+   "meraklı; öğrenmek isteyen",
+   "tuhaf; garip"
+  ],
+  "ex": [
+   "Meraklı kedi yavrusu, açık alışveriş çantamın içine baktı.",
+   "Öğretmenler, meraklı öğrencileri salt ezberlemek yerine pratik deneylerle bilimsel sorular üzerinde düşünmeye teşvik edebilir."
+  ],
+  "col": [
+   "merak etmek",
+   "bilmek istemek",
+   "tuhaf bir karışım"
+  ],
+  "tip": "Be curious about 'merak etmek, hakkında bilgi edinmek istemek' anlamına gelir; about ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sweetheart",
+  "senses": [
+   "sevgili; canım",
+   "çok iyi kalpli kişi"
+  ],
+  "ex": [
+   "Zor bir günün ardından sevgilim bana çiçek getirdi.",
+   "Birçok yaşlı yetişkin, okul yıllarında tanıştıkları sevgilileriyle hâlâ güçlü duygusal bağlar sürdürüyor."
+  ],
+  "col": [
+   "çocukluk aşkı",
+   "çok tatlı biri olmak"
+  ],
+  "tip": "Sweetheart sevgili veya sevgi dolu bir hitap olarak kullanılır; yabancılara samimi biçimde seslenmek uygunsuz olabilir.",
+  "note": ""
+ },
+ {
+  "id": "term",
+  "senses": [
+   "terim; deyim",
+   "dönem; yarıyıl",
+   "süre; dönem"
+  ],
+  "ex": [
+   "Öğretmenimiz bilimsel bir terimi basit bir çizimle açıkladı.",
+   "Sürdürülebilirlik terimi, gelecek nesillerin fırsatlarını sınırlamadan bugünkü ihtiyaçları karşılamayı anlatır."
+  ],
+  "col": [
+   "teknik terim",
+   "okul dönemi",
+   "uzun vadede",
+   "şartlar ve koşullar"
+  ],
+  "tip": "In terms of 'bakımından' anlamına gelir; 'şartlar' anlamında terms çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cosy",
+  "senses": [
+   "sıcak ve rahat; konforlu",
+   "samimi; rahat"
+  ],
+  "ex": [
+   "Şöminenin yanında sıcacık bir akşam geçirdik.",
+   "Küçük kütüphaneler, sakinlerin okuyup dinlenebildiği ve komşularıyla bağ kurabildiği rahat alanlar sunabilir."
+  ],
+  "col": [
+   "rahat bir oda",
+   "sıcak bir atmosfer",
+   "samimi bir sohbet"
+  ],
+  "tip": "İngiliz yazımında cosy, Amerikan yazımında cozy kullanılır; ikisi de aynı anlamdadır.",
+  "note": ""
+ },
+ {
+  "id": "wage",
+  "senses": [
+   "ücret; yevmiye",
+   "yürütmek; sürdürmek"
+  ],
+  "ex": [
+   "Kafe hafta sonu çalışanlarına iyi bir ücret ödüyor.",
+   "Asgari ücretin artırılması yaşam standartlarını iyileştirebilir, ancak küçük işletmeler daha yüksek işletme maliyetleriyle karşılaşabilir."
+  ],
+  "col": [
+   "asgari ücret",
+   "ücret kazanmak",
+   "ücret artışı",
+   "kampanya yürütmek"
+  ],
+  "tip": "Wage genellikle saatlik veya haftalık hesaplanan ücrettir; sabit maaş için salary kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "scare",
+  "senses": [
+   "korkutmak; ürkütmek",
+   "korku; panik"
+  ],
+  "ex": [
+   "Bebeği korkutmamak için lütfen kapıyı nazikçe çal.",
+   "Gıda güvenliği hakkındaki yanıltıcı haberler tüketicileri korkutabilir ve yerel üreticilere duyulan güveni zedeleyebilir."
+  ],
+  "col": [
+   "birini korkutup kaçırmak",
+   "birini korkutmak",
+   "sağlık korkusu"
+  ],
+  "tip": "Scared insanın korktuğunu, scary ise bir şeyin korkutucu olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "disappoint",
+  "senses": [
+   "hayal kırıklığına uğratmak"
+  ],
+  "ex": [
+   "Piknik planımızı iptal etmenin çocukları üzeceğini biliyordum.",
+   "Güvenilmez hizmetler sürdükçe, yeni araçlara yapılan büyük yatırıma rağmen toplu taşıma iyileştirmeleri yolcuları hayal kırıklığına uğratabilir."
+  ],
+  "col": [
+   "müşterileri hayal kırıklığına uğratmak",
+   "beklentileri boşa çıkarmak",
+   "asla hayal kırıklığına uğratmamak"
+  ],
+  "tip": "Kişi hayal kırıklığına uğramışsa disappointed, şey hayal kırıklığı yaratıyorsa disappointing kullanılır.",
+  "note": ""
+ }
+]

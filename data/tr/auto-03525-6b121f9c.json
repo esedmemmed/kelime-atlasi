@@ -1,0 +1,276 @@
+[
+ {
+  "id": "commerce",
+  "senses": [
+   "ticaret; alışveriş"
+  ],
+  "ex": [
+   "Yeni köprü kasabaya daha fazla ticaret getirdi.",
+   "Çevrimiçi ticaret, küçük işletmelerin yurt dışına fiziksel mağaza açmadan uluslararası müşterilere ulaşmasını sağlıyor."
+  ],
+  "col": [
+   "uluslararası ticaret",
+   "elektronik ticaret",
+   "ticaret odası"
+  ],
+  "tip": "commerce genellikle sayılamaz; mal ve hizmetlerin alım satım faaliyetini anlatır. Somut 'ticari işletme' için business kullanın.",
+  "note": ""
+ },
+ {
+  "id": "appoint",
+  "senses": [
+   "atamak; görevlendirmek",
+   "belirlemek; tayin etmek"
+  ],
+  "ex": [
+   "Kulüp kız kardeşimi yeni kaptanı olarak atadı.",
+   "Okullar, öğrencilerin stresle başa çıkmasına ve bilinçli kariyer seçimleri yapmasına yardımcı olacak nitelikli danışmanlar atamalıdır."
+  ],
+  "col": [
+   "birini ... olarak atamak",
+   "bir komite kurmak",
+   "belirlenen zamanda"
+  ],
+  "tip": "Birini bir göreve atamak için appoint sb as ya da appoint sb to kalıplarını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "audio-visual",
+  "senses": [
+   "görsel-işitsel"
+  ],
+  "ex": [
+   "Film başlamadan önce görsel-işitsel ekipmanı test ettik.",
+   "Görsel-işitsel materyaller, konuşulan kelimeleri anlamlı görsel ve durumlarla ilişkilendirerek dil öğrenimini destekleyebilir."
+  ],
+  "col": [
+   "görsel-işitsel ekipman",
+   "görsel-işitsel araçlar",
+   "görsel-işitsel materyaller"
+  ],
+  "tip": "Ayrıca audiovisual biçiminde de yazılır; sık kısaltması AV'dir.",
+  "note": ""
+ },
+ {
+  "id": "overlook",
+  "senses": [
+   "gözden kaçırmak; fark etmemek",
+   "manzara sunmak; bakmak",
+   "göz yummak; hoş görmek"
+  ],
+  "ex": [
+   "Kasedeki küçük bir çatlağı gözden kaçırmışım.",
+   "Kentsel planlamacılar yeni toplu taşıma sistemleri tasarlarken bazen yaşlı sakinlerin ihtiyaçlarını göz ardı edebiliyor."
+  ],
+  "col": [
+   "bir ayrıntıyı gözden kaçırmak",
+   "...gerçeğini görmezden gelmek",
+   "denize bakmak",
+   "bir hatayı hoş görmek"
+  ],
+  "tip": "overlook 'gözden kaçırmak' ya da 'manzara sunmak' anlamına gelir; 'denetlemek' anlamındaki oversee ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "exhaust",
+  "senses": [
+   "bitkin düşürmek; yormak",
+   "tüketmek; tüketip bitirmek",
+   "egzoz gazı; egzoz borusu"
+  ],
+  "ex": [
+   "Ağır kolileri üst kata taşımak beni tamamen bitirdi.",
+   "Yoğun tarım, toprağın besin maddelerini tüketerek tarımsal verimliliği azaltabilir ve yapay gübreye bağımlılığı artırabilir."
+  ],
+  "col": [
+   "doğal kaynakları tüketmek",
+   "tüm olasılıkları tüketmek",
+   "egzoz dumanı",
+   "egzoz borusu"
+  ],
+  "tip": "exhausted insanın çok yorgun olduğunu, exhausting ise bir şeyin yorucu olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "catalogue",
+  "senses": [
+   "katalog; ürün kataloğu",
+   "kataloglamak; kayıt altına almak",
+   "art arda gelen kötü olaylar"
+  ],
+  "ex": [
+   "Bir mobilya kataloğunda tam istediğim masayı buldum.",
+   "Dijital katalog, araştırmacıların arşive gitmeden tarihi belgeleri bulmasını sağlıyor."
+  ],
+  "col": [
+   "kütüphane kataloğu",
+   "ürün kataloğu",
+   "bir koleksiyonu kataloglamak",
+   "bir dizi hata"
+  ],
+  "tip": "İngiliz yazımı catalogue; Amerikan yazımı genellikle catalog şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "childish",
+  "senses": [
+   "çocukça; olgunlaşmamış",
+   "çocuksu; çocuğa özgü"
+  ],
+  "ex": [
+   "Ayakkabılarımı saklamak çocukça bir davranıştı.",
+   "Genç insanların kaygılarını çocukça bularak reddetmek, onların topluluklarıyla ilgili tartışmalara katılımını azaltabilir."
+  ],
+  "col": [
+   "çocukça davranış",
+   "çocukça tartışma",
+   "çocuksu sevinç"
+  ],
+  "tip": "childish genellikle olumsuz anlam taşır; masum ve saf anlamı için childlike tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "hedge",
+  "senses": [
+   "çit; çalı sırası",
+   "koruma aracı; sigorta",
+   "açık konuşmaktan kaçınmak"
+  ],
+  "ex": [
+   "Kalın bir çit bahçemizi kaldırımdan ayırıyor.",
+   "Bazı yatırımcılar enflasyona karşı koruma aracı olarak altın alır, ancak değeri de dalgalanabilir."
+  ],
+  "col": [
+   "çiti budamak",
+   "enflasyona karşı koruma",
+   "riski dağıtmak; ihtiyatlı davranmak"
+  ],
+  "tip": "Finans anlamında genellikle a hedge against kalıbı kullanılır ve bir riske karşı korunmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "pickpocket",
+  "senses": [
+   "yankesici"
+  ],
+  "ex": [
+   "Kalabalık otobüste bir yankesici kadının cüzdanını aldı.",
+   "Turistler, kalabalık kamusal alanlarda değerli eşyalarını güvende tutarak yankesicilerle karşılaşma risklerini azaltabilir."
+  ],
+  "col": [
+   "yankesicilere karşı dikkatli olmak",
+   "bir yankesici çetesi",
+   "bir yankesiciyi yakalamak"
+  ],
+  "tip": "Özellikle cep ya da çanta gibi yerlerden hırsızlık yapan kişiyi anlatır; thief'ten daha belirgindir.",
+  "note": ""
+ },
+ {
+  "id": "outskirts",
+  "senses": [
+   "şehir kenarı; şehir çeperi"
+  ],
+  "ex": [
+   "Yeni evleri kasabanın kenar mahallelerinde.",
+   "Şehir çeperinde uygun fiyatlı konutlar inşa etmek konut maliyetlerini düşürebilir, ancak sakinlerin özel araçlara bağımlılığını artırabilir."
+  ],
+  "col": [
+   "...kenarında",
+   "kasabanın kenar mahalleleri",
+   "kuzey çeperi"
+  ],
+  "tip": "Her zaman çoğul kullanılır; genellikle on the outskirts of kalıbıyla söylenir.",
+  "note": ""
+ },
+ {
+  "id": "disturbing",
+  "senses": [
+   "endişe verici; rahatsız edici"
+  ],
+  "ex": [
+   "Yakındaki orman hakkında endişe verici bazı haberler duyduk.",
+   "Anket, ciddi stres yaşayan genç sayısında endişe verici bir artış olduğunu ortaya koydu."
+  ],
+  "col": [
+   "endişe verici haber",
+   "endişe verici bir eğilim",
+   "son derece rahatsız edici"
+  ],
+  "tip": "disturbing bir şeyin insanı rahatsız ettiğini; disturbed ise kişinin rahatsız hissettiğini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "organ",
+  "senses": [
+   "organ; uzuv",
+   "org; kilise orgu"
+  ],
+  "ex": [
+   "Kalp, kan pompalayan bir organdır.",
+   "Toplumsal farkındalık kampanyaları organ bağışını teşvik edip nakil bekleyen hastaların bekleme sürelerini azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "iç organlar",
+   "organ bağışı",
+   "organ nakli",
+   "org çalmak"
+  ],
+  "tip": "organ vücuttaki organı; organism ise bütün canlıyı anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "symphony",
+  "senses": [
+   "senfoni; simfoni"
+  ],
+  "ex": [
+   "Akşam yemeği pişirirken bir senfoni dinledik.",
+   "Bir senfoniyi icra etmek müzisyenler arasında yakın iş birliği gerektirir ve bu, sanatta ekip çalışmasının önemini gösterir."
+  ],
+  "col": [
+   "senfoni bestelemek",
+   "senfoni icra etmek",
+   "senfoni orkestrası"
+  ],
+  "tip": "symphony senfoni eserini anlatır; senfoni orkestrası için symphony orchestra denir.",
+  "note": ""
+ },
+ {
+  "id": "defect",
+  "senses": [
+   "kusur; arıza",
+   "kaçmak; karşı tarafa geçmek"
+  ],
+  "ex": [
+   "Çaydanlıktaki küçük bir kusur sızıntıya neden oluyordu.",
+   "Üreticiler, özellikle güvenlik riski olduğunda, ürün tüketiciye ulaşmadan önce her tasarım kusurunu tespit etmelidir."
+  ],
+  "col": [
+   "tasarım kusuru",
+   "üretim hatası",
+   "doğuştan kusur",
+   "muhalefete geçmek"
+  ],
+  "tip": "İsim ilk heceye vurgu alır; fiil ikinci heceye vurgu alır (/dɪˈfekt/).",
+  "note": ""
+ },
+ {
+  "id": "variation",
+  "senses": [
+   "değişiklik; farklılık",
+   "çeşit; varyant"
+  ],
+  "ex": [
+   "Bu çorba, büyükannemin tarifinin baharatlı bir çeşididir.",
+   "Yağış miktarındaki mevsimsel değişiklikler, özellikle sulama altyapısı sınırlı bölgelerde tarımsal verimliliği önemli ölçüde etkileyebilir."
+  ],
+  "col": [
+   "mevsimsel değişiklik",
+   "sıcaklıktaki değişim",
+   "genetik çeşitlilik",
+   "bir temanın farklı bir yorumu"
+  ],
+  "tip": "variation in bir şeyin belli yönüyle ilgili farkı; variation on ise bir şeyin varyantını anlatır.",
+  "note": ""
+ }
+]

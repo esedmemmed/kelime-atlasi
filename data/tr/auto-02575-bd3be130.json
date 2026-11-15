@@ -1,0 +1,275 @@
+[
+ {
+  "id": "alphabetical",
+  "senses": [
+   "alfabetik"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce bu isimleri alfabetik sıraya koyar mısın?",
+   "Uzun bir başvuru kitabında alfabetik dizin, öğrencilerin belirli konuları hızla bulmasına yardımcı olur."
+  ],
+  "col": [
+   "alfabetik sıra",
+   "alfabetik liste",
+   "alfabetik dizin"
+  ],
+  "tip": "in alphabetical order kalıbı 'alfabetik sırayla' anlamına gelir. Sıfat olduğu için bir isimden önce gelir: alphabetical list.",
+  "note": ""
+ },
+ {
+  "id": "gap",
+  "senses": [
+   "boşluk; aralık",
+   "fark; uçurum",
+   "ara; kesinti"
+  ],
+  "ex": [
+   "Yavru kedi çitteki bir boşluktan sıvışarak geçti.",
+   "Uygun fiyatlı eğitime erişimin artırılması, zengin hanehalkları ile dezavantajlı topluluklar arasındaki farkı azaltabilir."
+  ],
+  "col": [
+   "çitteki bir boşluk",
+   "farkı azaltmak",
+   "kuşaklar arası uçurum",
+   "ara yıl"
+  ],
+  "tip": "İki şey arasındaki fark için gap between A and B kalıbını kullanın; between ifadesini atlamayın.",
+  "note": ""
+ },
+ {
+  "id": "rowing",
+  "senses": [
+   "kürek sporu; kürek çekme"
+  ],
+  "ex": [
+   "Kız kardeşim her cumartesi gölde kürek çekmeye gider.",
+   "Kürek sporu sunan okullar, öğrencilerin fiziksel uygunluk, koordinasyon ve güçlü takım ruhu geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kürek çekmeye gitmek",
+   "kürek kulübü",
+   "kürek makinesi",
+   "kürek takımı"
+  ],
+  "tip": "row /rəʊ/ 'kürek çekmek', /raʊ/ ise 'kavga etmek' anlamına gelir. Telaffuz farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "thanksgiving",
+  "senses": [
+   "şükran; şükran duası",
+   "Şükran Günü"
+  ],
+  "ex": [
+   "Hasattan sonra küçük bir şükran töreni düzenlediler.",
+   "Bazı ülkelerde Şükran Günü aileleri bir araya getirir ve topluluk desteğinin önemi üzerine düşünmeyi teşvik eder."
+  ],
+  "col": [
+   "için şükranla",
+   "şükran duası",
+   "Şükran Günü yemeği"
+  ],
+  "tip": "Bayram adı olarak Thanksgiving büyük harfle yazılır. Genel anlamda 'şükran' için küçük harf kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nightgown",
+  "senses": [
+   "gecelik"
+  ],
+  "ex": [
+   "Hafta sonu gezisi için pamuklu bir gecelik koydu.",
+   "Hareket kabiliyeti sınırlı hastalar için bol bir gecelik giyinmeyi kolaylaştırabilir ve hastanede konforu artırabilir."
+  ],
+  "col": [
+   "pamuklu gecelik",
+   "ipek gecelik",
+   "bol gecelik"
+  ],
+  "tip": "nightgown tek parça, etek biçiminde bir üründür. İki parçalı pijama için İngilizcede pajamas kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "powder",
+  "senses": [
+   "toz; pudra",
+   "pudra sürmek; toz serpmek"
+  ],
+  "ex": [
+   "Kakao tozunu biraz ılık sütle karıştırın.",
+   "Bazı üreticiler, raf ömrünü uzatmak ve gıda israfını azaltmak için fazla meyveleri toza dönüştürüyor."
+  ],
+  "col": [
+   "çamaşır deterjanı",
+   "kabartma tozu",
+   "ince toz",
+   "kakao tozu"
+  ],
+  "tip": "powder genelde sayılamaz. 'Bir kaşık toz' için a spoonful of powder kullanılır, a powder demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "politician",
+  "senses": [
+   "politikacı; siyasetçi"
+  ],
+  "ex": [
+   "Yerel bir siyasetçi ulaşımı konuşmak için mahallemize geldi.",
+   "Politikacılar, kamu hizmetlerine erişimi etkileyebilecek kararları almadan önce yerel topluluklara danışmalıdır."
+  ],
+  "col": [
+   "yerel bir politikacı",
+   "seçilmiş politikacı",
+   "kıdemli bir politikacı"
+  ],
+  "tip": "politician, hükümette ya da siyasette görev yapan kişiyi anlatır. Tek başına olumsuz bir anlam taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "bucket",
+  "senses": [
+   "kova; bir kova dolusu"
+  ],
+  "ex": [
+   "Pencereleri yıkamak için kovayı suyla doldurdu.",
+   "Yağmur suyunu bir kovada toplamak, hanehalklarının bahçe sulaması için kullandığı içme suyu miktarını azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "bir kova su",
+   "kovayı doldurmak",
+   "paspas ve kova"
+  ],
+  "tip": "'Bir kova su' için a bucket of water kullanılır. of'tan sonra kovanın içindeki şey gelir.",
+  "note": ""
+ },
+ {
+  "id": "medal",
+  "senses": [
+   "madalya"
+  ],
+  "ex": [
+   "İlk yüzme madalyasını gururla bize gösterdi.",
+   "Uluslararası bir madalya kazanmak, genç sporcuları spora profesyonel kariyer olarak yönelmeye teşvik edebilir."
+  ],
+  "col": [
+   "madalya kazanmak",
+   "altın madalya",
+   "gümüş madalya",
+   "bronz madalya"
+  ],
+  "tip": "medal (madalya) ile metal (metal) yazım ve anlam bakımından farklıdır. Karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "source",
+  "senses": [
+   "kaynak; köken",
+   "bilgi kaynağı",
+   "temin etmek; tedarik etmek"
+  ],
+  "ex": [
+   "Derenin kaynağını bulmak için yokuş yukarı takip ettik.",
+   "Araştırmacılar, sosyal medyanın etkileri hakkında sonuca varmadan önce birkaç bağımsız kaynağı karşılaştırmalıdır."
+  ],
+  "col": [
+   "gelir kaynağı",
+   "güvenilir kaynak",
+   "malzemeleri yerelden temin etmek"
+  ],
+  "tip": "Bir şeyin kaynağı için source of kalıbı kullanılır. Fiil olarak source something from somewhere yapısı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "stressful",
+  "senses": [
+   "stresli; yorucu"
+  ],
+  "ex": [
+   "Ev taşımak yorucuydu ama arkadaşlarımız yardım etti.",
+   "Uzun işe gidiş gelişler iş hayatını daha stresli hale getirebilir ve aileye ayrılan zamanı azaltabilir."
+  ],
+  "col": [
+   "stresli bir durum",
+   "stresli bir iş",
+   "stresli bir deneyim"
+  ],
+  "tip": "stressful, bir durumun yarattığı etkiyi anlatır. Kişinin kendi hissettiğini anlatmak için stressed kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "telescope",
+  "senses": [
+   "teleskop",
+   "kısaltmak; sıkıştırmak",
+   "iç içe geçmek"
+  ],
+  "ex": [
+   "Balkondan teleskopla ayı izledik.",
+   "Uzay teleskopları, bilim insanlarının Dünya atmosferinin etkisi olmadan uzaktaki galaksileri incelemesine olanak tanır."
+  ],
+  "col": [
+   "teleskopla bakmak",
+   "uzay teleskobu",
+   "radyo teleskobu",
+   "bir şeyi içine sıkıştırmak"
+  ],
+  "tip": "Yıldız gözlemi için telescope kullanılır. Çift dürbün için genelde binoculars denir.",
+  "note": ""
+ },
+ {
+  "id": "prove",
+  "senses": [
+   "kanıtlamak; ispatlamak",
+   "ortaya çıkmak; olduğunu göstermek"
+  ],
+  "ex": [
+   "Bu fotoğraflar köpeğimizin dolabı açtığını kanıtlıyor.",
+   "Uzun vadeli araştırmalar, düzenli egzersizin fiziksel sağlığın yanında konsantrasyonu da artırdığını ortaya koyabilir."
+  ],
+  "col": [
+   "bir görüşü kanıtlamak",
+   "etkili olduğunu göstermek",
+   "birinin yanıldığını göstermek"
+  ],
+  "tip": "prove that… ile bir cümle alabilir ya da doğrudan sıfat alabilir: prove effective. İkisinde de kalıp farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "bubble",
+  "senses": [
+   "kabarcık; baloncuk",
+   "kabarcık çıkarmak; köpürmek",
+   "ekonomik balon"
+  ],
+  "ex": [
+   "Bahçenin üzerinde devasa bir sabun köpüğü yavaşça süzüldü.",
+   "Konut fiyatları birdenbire düştüğünde konut balonu, ailelerin büyük borçlanmasına yol açabilir."
+  ],
+  "col": [
+   "sabun köpüğü",
+   "hava kabarcığı",
+   "konut balonu",
+   "balonu patlatmak"
+  ],
+  "tip": "bubble hem kabarcık hem de fiyatların gerçek değerinin üstüne çıktığı ekonomik balon anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "decorate",
+  "senses": [
+   "süslemek; dekore etmek",
+   "boyamak; kaplamak"
+  ],
+  "ex": [
+   "Balkonu renkli saksılar ve küçük ışıklarla süsledik.",
+   "Öğrencilerin ortak öğrenme alanlarını süslemelerine izin vermek, sahiplenme ve sorumluluk duygularını artırabilir."
+  ],
+  "col": [
+   "çiçeklerle süslemek",
+   "odayı dekore etmek",
+   "güzelce süslenmiş"
+  ],
+  "tip": "decorate A with B kalıbı 'A'yı B ile süslemek' anlamına gelir. with'ten sonra süslemek için kullanılan şey gelir.",
+  "note": ""
+ }
+]

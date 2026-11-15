@@ -1,0 +1,280 @@
+[
+ {
+  "id": "advisor",
+  "senses": [
+   "danışman; müşavir"
+  ],
+  "ex": [
+   "Bu dönem hangi dersleri alacağıma akademik danışmanım yardımcı olarak karar verdi.",
+   "Nitelikli bir finans danışmanı, hanelerin emeklilik planı yapmasına ve uzun vadeli yatırımların risklerini yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "finansal danışman",
+   "akademik danışman",
+   "kariyer danışmanı"
+  ],
+  "tip": "advisor ve adviser ikisi de doğru yazımdır; İngiliz İngilizcesinde genellikle adviser tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "ultimately",
+  "senses": [
+   "sonunda; nihayetinde",
+   "esasında; temelde"
+  ],
+  "ex": [
+   "Birkaç daire inceledik ama sonunda bu küçük evi seçtik.",
+   "Teknoloji sınıf öğrenmesini destekleyebilse de eğitimdeki başarı sonuçta etkili öğretime ve öğrencinin katılımına bağlıdır."
+  ],
+  "col": [
+   "sonunda bağlı olmak",
+   "sonunda yol açmak",
+   "nihayetinde sorumlu"
+  ],
+  "tip": "Nihai sonucu ya da temel nedeni vurgular; bir listede son maddeyi belirtmek için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "commonly",
+  "senses": [
+   "yaygın olarak; genellikle"
+  ],
+  "ex": [
+   "Bu baharat çorbalarda ve yahnilerde sıklıkla kullanılır.",
+   "Çevrimiçi öğrenme çoğunlukla kolaylık sağlayan bir yöntem olarak görülse de etkinliği öğrenci motivasyonuna ve güvenilir teknolojiye erişime bağlıdır."
+  ],
+  "col": [
+   "yaygın olarak kullanılan",
+   "yaygın olarak bilinen",
+   "genellikle bulunan",
+   "yaygın olarak inanılan"
+  ],
+  "tip": "Genellikle edilgen yapılarla kullanılır; be fiilinden sonra, asıl fiilden önce gelir: is commonly used.",
+  "note": ""
+ },
+ {
+  "id": "rebellion",
+  "senses": [
+   "ayaklanma; isyan",
+   "başkaldırı; asi tutum"
+  ],
+  "ex": [
+   "Odasını toplamayı reddetmesi onun küçük çaplı başkaldırısıydı.",
+   "Tarihçiler, ekonomik zorluk ve siyasi dışlanmanın yerleşik otoriteye karşı ayaklanmaya nasıl katkıda bulunduğunu sıklıkla inceler."
+  ],
+  "col": [
+   "silahlı ayaklanma",
+   "ergenlik isyanı",
+   "otoriteye karşı başkaldırı",
+   "ayaklanmayı bastırmak"
+  ],
+  "tip": "Genellikle against ile kullanılır ve karşı çıkılan otoriteyi belirtir: rebellion against authority.",
+  "note": ""
+ },
+ {
+  "id": "extreme",
+  "senses": [
+   "aşırı; şiddetli",
+   "aşırı; radikal",
+   "uç; son nokta"
+  ],
+  "ex": [
+   "Aşırı sıcak günlerde perdeleri kapalı tuttuk.",
+   "Aşırı hava olayları altyapıya zarar verebilir ve savunmasız topluluklarda acil servisler üzerinde ciddi bir baskı yaratabilir."
+  ],
+  "col": [
+   "aşırı hava koşulları",
+   "aşırı yoksulluk",
+   "uç görüşler",
+   "uca kaçmak"
+  ],
+  "tip": "Sıfat olarak extreme, zarf olarak extremely kullanılır; ikisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "steward",
+  "senses": [
+   "hizmet görevlisi",
+   "yönetici; koruyucu",
+   "yönetmek; korumak"
+  ],
+  "ex": [
+   "Konserden önce bir görevli bizi koltuklarımıza yönlendirdi.",
+   "Yeterli finansman ve karar yetkisi verildiğinde yerel topluluklar doğal yaşam alanlarının koruyucuları olarak hareket edebilir."
+  ],
+  "col": [
+   "geminin kamarotu",
+   "doğal kaynakların koruyucusu",
+   "kaynakları yönetmek"
+  ],
+  "tip": "Yalnızca uçak veya gemi görevlisi anlamına gelmez; a steward of ile kaynakları koruyan kişi anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aid",
+  "senses": [
+   "yardım; destek",
+   "yardım etmek; kolaylaştırmak",
+   "yardımcı araç; cihaz"
+  ],
+  "ex": [
+   "Gönüllüler köye yiyecek ve tıbbi yardım getirdi.",
+   "Uluslararası yardım temiz suya erişimi iyileştirebilir, ancak kalıcı ilerleme için yerel altyapıya yatırım da gerekir."
+  ],
+  "col": [
+   "insani yardım",
+   "mali yardım",
+   "ilk yardım",
+   "işitme cihazı"
+  ],
+  "tip": "Yardım anlamında genellikle sayılamaz; cihaz anlamında sayılabilir: a hearing aid (bir işitme cihazı).",
+  "note": ""
+ },
+ {
+  "id": "rag",
+  "senses": [
+   "bez; paçavra",
+   "eski giysi; püskü"
+  ],
+  "ex": [
+   "Yağlı aletleri eski bir bezle sildi.",
+   "Eskiyen giysileri temizlik bezi olarak yeniden kullanmak, ev atıklarını ve tek kullanımlık ürün talebini azaltabilir."
+  ],
+  "col": [
+   "eski bir bez",
+   "temizlik bezi",
+   "üstü başı yırtık",
+   "sıfırdan zenginliğe"
+  ],
+  "tip": "Tekil kullanımda genellikle tek bir bezi anlatır; in rags ise üstü başı yırtık, perişan anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "contrary",
+  "senses": [
+   "karşıt; ters",
+   "tersi; karşıt durum"
+  ],
+  "ex": [
+   "Tahminin aksine, bahçemizi güneş ışığı doldurdu.",
+   "Yaygın inanışın aksine, yol ağlarını genişletmek büyük şehirlerde trafik sıkışıklığını her zaman azaltmaz."
+  ],
+  "col": [
+   "beklentilerin aksine",
+   "aksini gösteren kanıt",
+   "tam tersine",
+   "aksi yönde"
+  ],
+  "tip": "on the contrary, önceki bir ifadeyi düzeltirken 'tam tersine' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cabinet",
+  "senses": [
+   "dolap; kabine",
+   "bakanlar kurulu; kabine"
+  ],
+  "ex": [
+   "Temiz bardaklar lavaboun üstündeki dolapta.",
+   "Kabine, hızla büyüyen şehirlerde uygun fiyatlı konuta erişimi iyileştirmek için ulusal bir program onayladı."
+  ],
+  "col": [
+   "mutfak dolabı",
+   "dosya dolabı",
+   "kabine bakanı",
+   "kabine toplantısı"
+  ],
+  "tip": "Mobilya anlamında 'dolap', siyasette ise 'bakanlar kurulu' anlamına gelir; ikisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "perfection",
+  "senses": [
+   "mükemmellik; kusursuzluk"
+  ],
+  "ex": [
+   "Ekmek çıtır kabuğuyla kusursuz bir şekilde pişmişti.",
+   "Aşırı mükemmellik isteği öğrencilerin kaygısını artırabilir ve yeni fikirler denemelerini engelleyebilir."
+  ],
+  "col": [
+   "mükemmelliğe ulaşmak için çabalamak",
+   "mükemmelliğe ulaşmak",
+   "kusursuz biçimde",
+   "mükemmellik arayışı"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; to perfection kalıbı 'kusursuz biçimde' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "hitchhike",
+  "senses": [
+   "otostopla seyahat etmek"
+  ],
+  "ex": [
+   "Sırt çantalarımızla sahile otostopla gittik.",
+   "Bazı turistler seyahat masraflarını azaltmak için otostopla gezer; ancak sınırlı ulaşım hizmetleri bu yolculukları öngörülemez kılabilir."
+  ],
+  "col": [
+   "bir ülke boyunca otostopla gezmek",
+   "sahile otostopla gitmek"
+  ],
+  "tip": "Genellikle geçişsiz bir fiildir; hedef yer to ile belirtilir: hitchhike to the coast.",
+  "note": ""
+ },
+ {
+  "id": "peak",
+  "senses": [
+   "zirve; doruk",
+   "zirveye ulaşmak",
+   "en yüksek; yoğun"
+  ],
+  "ex": [
+   "Haziran ayında dağın zirvesi hâlâ karla kaplıydı.",
+   "Elektrik talebi genellikle akşamın erken saatlerinde zirve yapar; çünkü haneler aynı anda birkaç cihaz kullanır."
+  ],
+  "col": [
+   "doruğa ulaşmak",
+   "en yüksek talep",
+   "dağ zirvesi",
+   "yoğun sezon"
+  ],
+  "tip": "Fiil olarak peak at + değer kalıbı kullanılır; peak season ise 'yoğun sezon' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "vaccinate",
+  "senses": [
+   "aşı yapmak; aşılamak"
+  ],
+  "ex": [
+   "Veteriner bugünkü randevuda köpek yavrumuza aşı yapacak.",
+   "Halk sağlığı programları, savunmasız nüfusu aşılamayı ve bulaşıcı hastalıkların yayılmasını azaltmayı hedefler."
+  ],
+  "col": [
+   "kızamığa karşı aşılamak",
+   "çocukları aşılamak",
+   "aşı olmak"
+  ],
+  "tip": "someone against disease kalıbı kullanılır: vaccinate someone against measles. 'Aşı olmak' için get vaccinated denir.",
+  "note": ""
+ },
+ {
+  "id": "contribution",
+  "senses": [
+   "katkı; katılım",
+   "bağış; bağışlanan şey",
+   "yazı; dergi yazısı"
+  ],
+  "ex": [
+   "Katkınız bahçeyi gün batımından önce bitirmemize yardımcı oldu.",
+   "Halk kütüphaneleri, bilgiye ücretsiz erişim sağlayarak yaşam boyu öğrenmeye değerli bir katkı sunar."
+  ],
+  "col": [
+   "katkıda bulunmak",
+   "önemli bir katkı",
+   "gönüllü bağış"
+  ],
+  "tip": "make a contribution to kalıbında to'dan sonra isim ya da -ing gelir; contribute to fiilinin isim karşılığıdır.",
+  "note": ""
+ }
+]

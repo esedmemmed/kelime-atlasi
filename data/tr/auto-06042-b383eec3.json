@@ -1,0 +1,270 @@
+[
+ {
+  "id": "popularize",
+  "senses": [
+   "yaygınlaştırmak; popüler kılmak",
+   "sadeleştirerek anlatmak"
+  ],
+  "ex": [
+   "Kadın yemek videoları bu basit fasulye çorbasının yaygınlaşmasına yardımcı oldu.",
+   "Kamu yayıncıları, karmaşık keşifleri erişilebilir belgeseller ve uygulamalı gösterimlerle anlatarak bilimsel bilgiyi halka ulaştırabilir."
+  ],
+  "col": [
+   "bilimi yaygınlaştırmak",
+   "bir fikri yaygınlaştırmak",
+   "yaygınlaşmasına yardımcı olmak"
+  ],
+  "tip": "Britanya İngilizcesinde popularise yazımı da kullanılır. Yalnızca 'tanıtmak' değil, 'yaygın hale getirmek' anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "depict",
+  "senses": [
+   "tasvir etmek; betimlemek"
+  ],
+  "ex": [
+   "Bu tablo, sessiz bir gölün kenarında oynayan çocukları betimliyor.",
+   "Filmler çoğu zaman kentsel yaşamı heyecan verici biçimde gösterir; büyük şehirlerde birçok sakinin yaşadığı yalnızlığı ise göz ardı eder."
+  ],
+  "col": [
+   "günlük hayatı betimlemek",
+   "birini ... olarak tasvir etmek",
+   "doğru biçimde tasvir etmek"
+  ],
+  "tip": "depict A as B kalıbı: A'yı B olarak tasvir etmek. Daha çok resim, sanat ve görsel anlatım için kullanılır; describe ile karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "pasture",
+  "senses": [
+   "otlak; mera",
+   "otlatmak"
+  ],
+  "ex": [
+   "İnekler gün doğduktan sonra yeşil otlağın üzerinde dolaşıyordu.",
+   "Ormanların otlağa dönüştürülmesi biyolojik çeşitliliği azaltabilir ve arazi kullanımından kaynaklanan sera gazı emisyonlarını artırabilir."
+  ],
+  "col": [
+   "verimli otlak",
+   "otlak arazisi",
+   "hayvanları otlağa salmak"
+  ],
+  "tip": "pasture yalnızca hayvanların otlatıldığı çayır ya da mera için kullanılır. Süs çimenliği için lawn veya grass daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "biographer",
+  "senses": [
+   "biyografi yazarı"
+  ],
+  "ex": [
+   "Biyografi yazarı, büyükannemle çocukluk arkadaşı hakkında görüştü.",
+   "Sorumlu bir biyografi yazarı, tarihi bir figürün kişisel motivasyonları hakkında sonuç çıkarmadan önce birden fazla kaynağı karşılaştırır."
+  ],
+  "col": [
+   "resmi biyografi yazarı",
+   "kraliyet biyografi yazarı",
+   "ünlü biyografi yazarı"
+  ],
+  "tip": "biographer başkasının hayatını yazan kişidir. Kendi hayatını yazana autobiography (otobiyografi) denir.",
+  "note": ""
+ },
+ {
+  "id": "assertion",
+  "senses": [
+   "iddia; öne sürüş",
+   "kararlı savunma; koruma"
+  ],
+  "ex": [
+   "Dükkânın kapalı olduğu yönündeki iddiası yanlış çıktı.",
+   "Ekonomik büyümenin her zaman refahı artırdığı yönündeki iddia, sosyal ve çevresel kanıtların dikkatle incelenmesini gerektirir."
+  ],
+  "col": [
+   "iddiada bulunmak",
+   "kanıtsız iddia",
+   "bir iddiaya itiraz etmek",
+   "hakların savunulması"
+  ],
+  "tip": "assertion bir ifadenin doğru olduğunu göstermez; yalnızca öne sürülen bir iddiadır. the assertion that… kalıbı sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "standstill",
+  "senses": [
+   "durma noktası; durgunluk"
+  ],
+  "ex": [
+   "Trafik istasyonun önünde durma noktasına geldi.",
+   "Şiddetli sel, bölgedeki acil konut projelerini geciktirerek inşaatları tamamen durma noktasına getirdi."
+  ],
+  "col": [
+   "durma noktasına gelmek",
+   "bir şeyi durma noktasına getirmek",
+   "durma halinde"
+  ],
+  "tip": "come to a standstill ifadesinde 'a' artikeli kullanılır. 'to a standstill' kalıbı sabit bir yapıdır.",
+  "note": ""
+ },
+ {
+  "id": "fodder",
+  "senses": [
+   "yem",
+   "malzeme; konu"
+  ],
+  "ex": [
+   "Kışa girmeden önce ahıra fazladan yem stokladık.",
+   "Ünlülerin yaşam tarzları çoğu zaman medya haberleri için malzeme oluşturur ve kamuoyunun dikkatini daha önemli toplumsal sorunlardan uzaklaştırır."
+  ],
+  "col": [
+   "kış yemi",
+   "yem bitkileri",
+   "dedikodu malzemesi"
+  ],
+  "tip": "Genellikle sayılamayan isimdir. fodder for kalıbıyla 'bir şey için malzeme' anlamında mecaz olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "globalize",
+  "senses": [
+   "küreselleştirmek"
+  ],
+  "ex": [
+   "Çevrimiçi mağazalar, küçük işletmelerin yurt dışında mağaza açmadan küreselleşmesine yardımcı oluyor.",
+   "Şirketler faaliyetlerini küreselleştirdikçe hükümetlerin işçileri korumak ve adil rekabeti sürdürmek için iş birliği yapması gerekir."
+  ],
+  "col": [
+   "faaliyetleri küreselleştirmek",
+   "üretimi küreselleştirmek",
+   "pazarları küreselleştirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde globalise yazımı da kullanılır. Nesne alarak 'bir şeyi küresel hale getirmek' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sway",
+  "senses": [
+   "sallanmak; salınmak",
+   "etkilemek; yönlendirmek",
+   "etki; nüfuz"
+  ],
+  "ex": [
+   "Dışarıda yemek yerken dallar yavaşça sallanıyordu.",
+   "Duygusal reklamlar, rakip ürünler daha iyi fiyat-performans sunsa bile tüketicilerin kararlarını etkileyebilir."
+  ],
+  "col": [
+   "yavaşça sallanmak",
+   "kamuoyunu etkilemek",
+   "hükmünü sürdürmek",
+   "...nin etkisi altında"
+  ],
+  "tip": "sway hem fiziksel sallanmayı hem de birinin fikrini ya da kararını etkilemeyi anlatır. under the sway of kalıbı sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "spatial",
+  "senses": [
+   "mekânsal; uzamsal"
+  ],
+  "ex": [
+   "Bloklarla oynamak çocukların uzamsal farkındalıklarını geliştirmelerine yardımcı olur.",
+   "Şehir plancıları, sakinlerin temel hizmetlere erişebilmesi için konutların mekânsal dağılımını inceler."
+  ],
+  "col": [
+   "uzamsal farkındalık",
+   "mekânsal dağılım",
+   "uzamsal akıl yürütme"
+  ],
+  "tip": "spatial uzay ve nesnelerin konumlarıyla ilgilidir. spacious ise 'geniş, ferah' anlamına gelir; karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "habitual",
+  "senses": [
+   "alışkanlığa dönüşmüş"
+  ],
+  "ex": [
+   "Onun alışkanlık haline gelmiş geç kalması yüzünden otobüsü çoğu zaman kaçırıyorduk.",
+   "Özel araçların sürekli kullanımı kentsel trafik sıkışıklığını artırabilir ve toplu taşımaya yapılan yatırımı caydırabilir."
+  ],
+  "col": [
+   "alışılmış davranış",
+   "alışkanlık haline gelmiş geç kalma",
+   "düzenli kullanıcı"
+  ],
+  "tip": "Tekrarlanan, alışkanlık haline gelmiş davranışlar için kullanılır. Zarf biçimi habitually'dir.",
+  "note": ""
+ },
+ {
+  "id": "narcotic",
+  "senses": [
+   "narkotik; uyuşturucu",
+   "uyuşturucu; uyutucu"
+  ],
+  "ex": [
+   "Doktor ameliyattan sonra şiddetli ağrılar için bir narkotik reçete etti.",
+   "Narkotik ilaçlara yönelik sıkı denetimler, şiddetli ağrısı olan hastaların erişimini kısıtlamadan kötüye kullanımı önlemelidir."
+  ],
+  "col": [
+   "narkotik ağrı kesici",
+   "uyuşturucu maddeler",
+   "uyuşturucu etki"
+  ],
+  "tip": "Tıpta güçlü ağrı kesici, hukukta ise uyuşturucu madde anlamında kullanılır. Cümlenin bağlamına dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "conspiracy",
+  "senses": [
+   "komplo; gizli plan"
+  ],
+  "ex": [
+   "Polis, değerli tabloları çalmaya yönelik bir komployu ortaya çıkardı.",
+   "Asılsız komplo teorileri internette hızla yayılabilir ve bilimsel kurumlara duyulan kamu güvenini zayıflatabilir."
+  ],
+  "col": [
+   "komplo teorisi",
+   "bir komployu ortaya çıkarmak",
+   "sahtecilik komplosu"
+  ],
+  "tip": "conspiracy to do sth bir şeyi yapmak için kurulan komplo anlamına gelir. conspiracy to commit fraud (dolandırıcılık komplosu) sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reliance",
+  "senses": [
+   "bağımlılık; güvenme"
+  ],
+  "ex": [
+   "Işe bisikletle gitmek, otobüse olan bağımlılığımı azalttı.",
+   "Fosil yakıtlara bağımlılığı azaltmak; yenilenebilir enerjiye sürekli yatırım ve toplu taşıma altyapısında iyileştirme gerektirir."
+  ],
+  "col": [
+   "...e bağımlılık",
+   "yoğun bağımlılık",
+   "bağımlılığı azaltmak",
+   "kendine yeterlilik"
+  ],
+  "tip": "reliance sayılamayan bir isimdir ve genellikle on ile kullanılır: reliance on. Fiil karşılığı rely on'dur.",
+  "note": ""
+ },
+ {
+  "id": "restraint",
+  "senses": [
+   "kendini tutma; ölçülülük",
+   "kısıtlama; sınırlama",
+   "koruyucu aparat"
+  ],
+  "ex": [
+   "Son bisküviyi bana saklayarak kendini tuttu.",
+   "Hükümetler, vatandaşların güvenilir bilgiye erişimini sınırlayabilecek kısıtlamalar getirirken ölçülü davranmalıdır."
+  ],
+  "col": [
+   "ölçülülük göstermek",
+   "ölçülü davranmak",
+   "harcamalara getirilen kısıtlamalar",
+   "çocuk emniyet koltuğu"
+  ],
+  "tip": "'Kendini tutma' anlamında genellikle sayılamaz; 'kısıtlamalar' anlamında çoğul kullanılır ve restraints on kalıbıyla gelir.",
+  "note": ""
+ }
+]

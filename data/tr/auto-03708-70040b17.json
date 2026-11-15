@@ -1,0 +1,278 @@
+[
+ {
+  "id": "weakness",
+  "senses": [
+   "zayıf yön; eksik",
+   "güçsüzlük; halsizlik",
+   "zaaf; düşkünlük"
+  ],
+  "ex": [
+   "Yemek pişirmedeki en büyük zayıf yönüm, zamanlamayı doğru ayarlamak.",
+   "Şehirdeki son ulaşım aksaklığı, kentin acil durum planlamasındaki ciddi bir eksikliği ortaya çıkardı."
+  ],
+  "col": [
+   "güçlü ve zayıf yönler",
+   "kas zayıflığı",
+   "çikolataya karşı zaaf"
+  ],
+  "tip": "Zayıf yön anlamında sayılabilir, güçsüzlük anlamında sayılamaz. Bir şeye düşkünlük için a weakness for kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "applause",
+  "senses": [
+   "alkış",
+   "takdir; övgü"
+  ],
+  "ex": [
+   "Perde indiğinde seyirciler birden alkışlamaya başladı.",
+   "Engelli yolcuların toplu taşımaya erişimini artıran bu öneri geniş bir takdir topladı."
+  ],
+  "col": [
+   "bir alkış",
+   "gök gürültüsü gibi alkış",
+   "alkışlamaya başlamak"
+  ],
+  "tip": "Sayılamayan bir isimdir; \"bir alkış\" için a round of applause kalıbı kullanılır, applause çoğul yapılmaz.",
+  "note": ""
+ },
+ {
+  "id": "medieval",
+  "senses": [
+   "ortaçağa ait"
+  ],
+  "ex": [
+   "Hafta sonu gezimizde ortaçağdan kalma bir kaleyi gezdik.",
+   "Ortaçağ yapılarının korunması, modern toplumların önceki nesillerin nasıl yaşadığını, çalıştığını ve toplumlarını nasıl örgütlediğini anlamasına olanak verir."
+  ],
+  "col": [
+   "ortaçağ mimarisi",
+   "ortaçağ kalesi",
+   "ortaçağ tarihi",
+   "ortaçağ Avrupası"
+  ],
+  "tip": "Sıfattır. Avrupa tarihinde yaklaşık MS 500–1500 yıllarını anlatır; bu dönem dışındaki eski çağlar için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "guidance",
+  "senses": [
+   "yönlendirme; rehberlik"
+  ],
+  "ex": [
+   "Sizin rehberliğinizle tohumları sonunda doğru ektim.",
+   "Okullar, öğrencilerin ileri eğitim ve istihdam konusunda bilinçli kararlar vermesine yardımcı olmak için kariyer rehberliği sunmalıdır."
+  ],
+  "col": [
+   "kariyer rehberliği",
+   "rehberlik sunmak",
+   "rehberlik istemek",
+   "birinin yönlendirmesinde"
+  ],
+  "tip": "Sayılamayan bir isimdir; \"a guidance\" denmez, \"some guidance\" ya da sadece \"guidance\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "entrepreneur",
+  "senses": [
+   "girişimci"
+  ],
+  "ex": [
+   "Genç girişimci istasyonumuzun yakınında bir fırın açtı.",
+   "Yerel yönetimler, düzenlemeleri sadeleştirerek ve uygun fiyatlı kredilere erişimi iyileştirerek girişimcileri destekleyebilir."
+  ],
+  "col": [
+   "başarılı bir girişimci",
+   "genç bir girişimci",
+   "sosyal girişimci"
+  ],
+  "tip": "Yalnızca iş kuran ve finansal risk alan kişi için kullanılır; sadece yönetici anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "bribe",
+  "senses": [
+   "rüşvet vermek",
+   "rüşvet"
+  ],
+  "ex": [
+   "Sürücü, memura nakit para vererek onu rüşvetle etkilemeye çalıştı.",
+   "Kamu görevlilerine rüşvet veren şirketlere uygulanan sıkı cezalar, hükümet kurumlarına olan güveni yeniden sağlamaya yardımcı olabilir."
+  ],
+  "col": [
+   "rüşvet teklif etmek",
+   "rüşvet almak",
+   "bir memura rüşvet vermek",
+   "birini rüşvetle bir şey yaptırmak"
+  ],
+  "tip": "Fiilin nesnesi rüşvet alan kişidir (birine rüşvet vermek). Rüşvet alma ve verme eylemi için bribery kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "remarkable",
+  "senses": [
+   "olağanüstü; dikkat çekici"
+  ],
+  "ex": [
+   "Yaralı kuş birkaç hafta içinde olağanüstü bir iyileşme gösterdi.",
+   "Yenilenebilir enerjideki son gelişmeler, teknolojinin fosil yakıtlara bağımlılığı azaltma konusundaki olağanüstü potansiyelini gösteriyor."
+  ],
+  "col": [
+   "olağanüstü başarı",
+   "olağanüstü iyileşme",
+   "dikkat çekici ilerleme",
+   "olağanüstü yetenek"
+  ],
+  "tip": "Çoğunlukla olumlu anlamda kullanılır, ama her zaman övgü içermez; bağlama göre nötr \"dikkat çekici\" anlamı da taşır.",
+  "note": ""
+ },
+ {
+  "id": "making",
+  "senses": [
+   "yapım; üretim",
+   "başarıya giden etken",
+   "gerekli nitelik"
+  ],
+  "ex": [
+   "Öğleden sonrayı ekmek yapımının temellerini öğrenerek geçirdik.",
+   "Yerel politikanın oluşturulmasına sakinleri dahil etmek, halkın güvenini artırabilir ve topluluk sonuçlarını iyileştirebilir."
+  ],
+  "col": [
+   "bir filmin yapımı",
+   "hazırlık aşamasında",
+   "birinin başarısını sağlayan şey olmak",
+   "potansiyel taşımak"
+  ],
+  "tip": "\"Potansiyel taşımak\" anlamında makings çoğul kullanılır: have the makings of kalıbı.",
+  "note": ""
+ },
+ {
+  "id": "blunt",
+  "senses": [
+   "künt; kör",
+   "açık sözlü; sert",
+   "körleştirmek; zayıflatmak"
+  ],
+  "ex": [
+   "Bu künt bıçak olgun bir domatesi bile kesemiyor.",
+   "Sert geri bildirimler rahatsız edici olabilse de öğrencilerin çalışmalarındaki eksikleri fark etmelerine bazen yardımcı olur."
+  ],
+  "col": [
+   "künt bıçak",
+   "açık sözlü cevap",
+   "etkisini azaltmak"
+  ],
+  "tip": "Söz için kullanıldığında bağlama göre \"açık sözlü\" ya da \"kaba\" anlamına gelebilir; olumlu veya olumsuz yorumu bağlam belirler.",
+  "note": ""
+ },
+ {
+  "id": "linen",
+  "senses": [
+   "keten",
+   "ev tekstili"
+  ],
+  "ex": [
+   "Sıcak öğleden sonrada keten bir gömlek giydim.",
+   "Otellerde misafirlerin havlularını yeniden kullanması ve yatak takımlarını daha seyrek değiştirmesi teşvik edilerek su tüketimi azaltılabilir."
+  ],
+  "col": [
+   "keten gömlek",
+   "yatak takımı",
+   "masa örtüleri",
+   "temiz çamaşır"
+  ],
+  "tip": "Genellikle sayılamaz. Bed linen her zaman keten değildir; pamuklu ya da başka kumaşlardan da olabilir.",
+  "note": ""
+ },
+ {
+  "id": "cutter",
+  "senses": [
+   "kesici alet; kesici makine"
+  ],
+  "ex": [
+   "Yuvarlak bisküviler yapmak için bu hamur kesiciyi kullan.",
+   "Modern bir lazer kesici, mobilya üretiminde malzeme israfını azaltabilir ve hassasiyeti artırabilir."
+  ],
+  "col": [
+   "lazer kesici",
+   "hamur kesici",
+   "tel kesici"
+  ],
+  "tip": "Genellikle bir malzeme ya da teknolojiyle birlikte kullanılır. wire cutters ifadesi çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "demanding",
+  "senses": [
+   "zorlayıcı; yorucu",
+   "titiz; zor memnun"
+  ],
+  "ex": [
+   "Yorucu bir vardiyadan sonra otobüste uyuyakaldım.",
+   "Fiziksel olarak yıpratıcı işler, çalışanları yaralanmalara ve uzun vadeli sağlık sorunlarına karşı korumak için ek güvenlik önlemleri gerektirebilir."
+  ],
+  "col": [
+   "fiziksel olarak yorucu",
+   "zihinsel olarak yorucu",
+   "zahmetli iş",
+   "zor müşteri"
+  ],
+  "tip": "İş ya da görev için \"yorucu\", kişi için \"titiz, zor memnun edilen\" anlamına gelir. Sıfatın kime uygulandığına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "supposedly",
+  "senses": [
+   "sözde; söylendiğine göre"
+  ],
+  "ex": [
+   "Bu kısayolun daha hızlı olduğu söyleniyor ama sürekli kayboluyoruz.",
+   "Çevre dostu olduğu iddia edilen bazı ürünlerin üretimi ve tüketiciye taşınması hâlâ önemli miktarda enerji gerektirir."
+  ],
+  "col": [
+   "sözde doğru",
+   "sözde zararsız",
+   "sözde bağımsız"
+  ],
+  "tip": "Bir iddianın doğruluğunun şüpheli olduğunu gösterir. Kendi kanaatinizi bildirmek için kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "carve",
+  "senses": [
+   "oymak; kazımak",
+   "dilimlemek; kesmek"
+  ],
+  "ex": [
+   "Dedem yumuşak ağaçtan küçük bir kuş oymuştu.",
+   "Yerel zanaatkârlar geleneksel desenleri ahşap mobilyalara oyarak kültürel becerileri korurken modern evler için ürünler üretiyor."
+  ],
+  "col": [
+   "ahşap oymak",
+   "heykel oymak",
+   "eti dilimlemek",
+   "kendine kariyer yapmak"
+  ],
+  "tip": "Ahşap ya da taş oymak için de, pişmiş et dilimlemek için de carve kullanılır. carve out a career başarıyla kendine yol açmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "conceal",
+  "senses": [
+   "saklamak; gizlemek",
+   "örtbas etmek; gizlemek"
+  ],
+  "ex": [
+   "Doğum günü hediyesini büyük bir yastığın arkasına sakladı.",
+   "Çevresel zararı halktan gizleyen şirketler, gerçek ortaya çıktığında tüketici güvenini kaybetme riskiyle karşı karşıya kalır."
+  ],
+  "col": [
+   "delil gizlemek",
+   "gerçeği gizlemek",
+   "duyguları gizlemek",
+   "birinden bir şeyi saklamak"
+  ],
+  "tip": "Hide kelimesinden daha resmidir ve yazılı metinlerde tercih edilir. Kalıp: conceal sth from sb (bir şeyi birinden gizlemek).",
+  "note": ""
+ }
+]

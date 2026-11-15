@@ -1,0 +1,277 @@
+[
+ {
+  "id": "melt",
+  "senses": [
+   "erimek; eritmek",
+   "yumuşamak; etkilemek"
+  ],
+  "ex": [
+   "Tereyağı sıcak tavada çabucak eridi.",
+   "Küresel sıcaklıklar arttıkça dağ buzulları daha hızlı eriyor ve aşağıdaki topluluklar için tatlı su kaynaklarını tehdit ediyor."
+  ],
+  "col": [
+   "buzu eritmek",
+   "yavaş yavaş kaybolmak",
+   "birinin kalbini yumuşatmak"
+  ],
+  "tip": "melt ısının etkisiyle katıdan sıvıya geçmeyi anlatır. Bir maddenin suda çözünmesi için dissolve kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "widely",
+  "senses": [
+   "geniş ölçüde; yaygın olarak",
+   "çok farklı olarak; büyük ölçüde"
+  ],
+  "ex": [
+   "Bu meyve yerel dükkânlarda yaygın olarak bulunur.",
+   "Çevrimiçi öğrenme geniş ölçüde kabul görse de güvenilir internet bağlantısına erişim bölgeler arasında hâlâ önemli ölçüde değişiyor."
+  ],
+  "col": [
+   "yaygın olarak bulunan",
+   "yaygın olarak kullanılan",
+   "geniş ölçüde kabul gören",
+   "büyük farklılık göstermek"
+  ],
+  "tip": "widely çoğunlukla fiillerden önce veya sıfat-fiil yapılarından önce gelir: widely used. 'Geniş' anlamına gelen wide sıfatıyla karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "stapler",
+  "senses": [
+   "zımba; zımbalama makinesi"
+  ],
+  "ex": [
+   "Defterinin yanındaki zımbayı uzatır mısın?",
+   "Zımba ve yazıcı gibi temel ofis ekipmanlarını sağlamak, topluluk merkezlerinin iş arayan sakinlere destek olmasına yardımcı oluyor."
+  ],
+  "col": [
+   "zımba kullanmak",
+   "masa zımbası",
+   "zımbanın tellerini doldurmak"
+  ],
+  "tip": "stapler zımba makinesidir. staple ise zımba teli anlamına gelir ve fiil olarak 'zımbalamak' demektir.",
+  "note": ""
+ },
+ {
+  "id": "first-aid",
+  "senses": [
+   "ilk yardım; acil yardım"
+  ],
+  "ex": [
+   "Mutfak dolabında bir ilk yardım çantası var.",
+   "İşverenler, personelin işyerindeki küçük yaralanmalara etkili biçimde müdahale edebilmesi için ilk yardım eğitimi vermelidir."
+  ],
+  "col": [
+   "ilk yardım çantası",
+   "ilk yardım eğitimi",
+   "ilk yardım malzemeleri"
+  ],
+  "tip": "İsim olarak first aid iki ayrı kelime yazılır. Sıfat olarak isimden önce kullanıldığında tireyle yazılır: first-aid kit.",
+  "note": ""
+ },
+ {
+  "id": "joy",
+  "senses": [
+   "sevinç; neşe",
+   "keyif veren şey; mutluluk kaynağı"
+  ],
+  "ex": [
+   "Kar yağmaya başlayınca çocuklar sevinçten zıpladı.",
+   "Toplum bahçeleri sakinlere mutluluk verirken sosyal bağları güçlendirir ve daha sağlıklı bir yaşam tarzını teşvik eder."
+  ],
+  "col": [
+   "mutluluk vermek",
+   "sevinçten zıplamak",
+   "sevinç gözyaşları",
+   "ebeveynliğin keyifli yanları"
+  ],
+  "tip": "joy duygu olarak genelde sayılamaz. 'Keyif veren şey' anlamında ise sayılabilir: a joy, the joys of parenthood.",
+  "note": ""
+ },
+ {
+  "id": "skip",
+  "senses": [
+   "atlamak; kaçırmak",
+   "ip atlamak; zıplayarak yürümek"
+  ],
+  "ex": [
+   "Geç uyandığım için kahvaltıyı atladım.",
+   "Dersleri düzenli olarak kaçıran öğrenciler, daha ileri kurslar için gereken bilgiyi geliştirmekte zorlanabilir."
+  ],
+  "col": [
+   "kahvaltıyı atlamak",
+   "bir dersi kaçırmak",
+   "bir adımı atlamak",
+   "ip atlamak"
+  ],
+  "tip": "skip doğrudan nesne alır: skip breakfast, 'skip doing' yapısı yanlıştır. Çekimde skipped ve skipping yazılırken p harfi ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "guard",
+  "senses": [
+   "güvenlik görevlisi; bekçi",
+   "korumak; gözetmek",
+   "koruyucu; koruma aparatı"
+  ],
+  "ex": [
+   "Görevli, kapıyı açmadan önce biletimi kontrol etti.",
+   "Müzeler, ziyaretçilerin değerli koleksiyonları güvenle görebilmesini sağlarken bu koleksiyonları korumak için eğitimli personel çalıştırır."
+  ],
+  "col": [
+   "güvenlik görevlisi",
+   "...e karşı korumak",
+   "tetikte olmak",
+   "koruyucu siper"
+  ],
+  "tip": "guard against bir riske, tehlikeye ya da hataya karşı önlem almayı anlatır: guard against mistakes.",
+  "note": ""
+ },
+ {
+  "id": "underline",
+  "senses": [
+   "altını çizmek",
+   "vurgulamak; önemini belirtmek"
+  ],
+  "ex": [
+   "Öğretmenimiz bilmediğimiz kelimelerin altını çizmemizi istedi.",
+   "Bu bulgular, düşük gelirli aileler için toplu taşımaya yakın uygun fiyatlı konutun önemini vurguluyor."
+  ],
+  "col": [
+   "bir kelimenin altını çizmek",
+   "...nin önemini vurgulamak",
+   "...ihtiyacını vurgulamak"
+  ],
+  "tip": "Hem yazıda altını çizmek hem de bir şeyin önemini vurgulamak anlamına gelir. İkinci kullanım resmî ve akademik yazıda sıktır.",
+  "note": ""
+ },
+ {
+  "id": "stream",
+  "senses": [
+   "dere; küçük ırmak",
+   "akın; sürekli akış",
+   "akmak; çevrimiçi izlemek"
+  ],
+  "ex": [
+   "Sığ deredeki düz taşların üzerinden karşıya geçtik.",
+   "Birçok öğrenci eğitim videolarını evde çevrimiçi izliyor; bu da güvenilir internet erişimini giderek daha önemli hâle getiriyor."
+  ],
+  "col": [
+   "dağ deresi",
+   "sürekli bir ziyaretçi akını",
+   "müzik dinlemek"
+  ],
+  "tip": "a stream of, arka arkaya gelen kişi ya da şeyleri anlatır. Dijital anlamda 'canlı yayın olarak izlemek/dinlemek' demektir.",
+  "note": ""
+ },
+ {
+  "id": "ballet",
+  "senses": [
+   "bale; bale gösterisi"
+  ],
+  "ex": [
+   "Kız kardeşim her cumartesi stüdyoda bale çalışıyor.",
+   "Balenin kamu finansmanı, sanatsal gelenekleri korumaya ve gösterileri daha geniş kitlelere ulaştırmaya yardımcı olabilir."
+  ],
+  "col": [
+   "bale dansçısı",
+   "bale topluluğu",
+   "bale dersleri",
+   "klasik bale"
+  ],
+  "tip": "Sondaki t harfi okunmaz. İngiliz İngilizcesinde vurgu ilk hecededir, Amerikan İngilizcesinde ikinci hecededir.",
+  "note": ""
+ },
+ {
+  "id": "disappointment",
+  "senses": [
+   "hayal kırıklığı; üzüntü",
+   "hayal kırıklığı yaratan şey"
+  ],
+  "ex": [
+   "Piknik iptal edilince yüzünde hayal kırıklığı belirdi.",
+   "Genç insanlara akademik başarısızlıklara daha olumlu tepki vermeyi öğretmek, onların hayal kırıklığıyla başa çıkmasına yardımcı olabilir."
+  ],
+  "col": [
+   "hayal kırıklığıma",
+   "acı bir hayal kırıklığı",
+   "hayal kırıklığıyla başa çıkmak"
+  ],
+  "tip": "Duygu olarak genelde sayılamaz. Hayal kırıklığı yaratan bir şey için a disappointment denir. disappointed ise kişinin hissini anlatan sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "workout",
+  "senses": [
+   "egzersiz; antrenman"
+  ],
+  "ex": [
+   "Kısa bir antrenmandan sonra kahvaltıya hazır hissettim.",
+   "Düzenli egzersiz fiziksel sağlığı iyileştirebilir ve ofis çalışanlarının stresi daha etkili yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "günlük egzersiz",
+   "yoğun antrenman",
+   "antrenman programı"
+  ],
+  "tip": "workout isimdir. Fiil olarak work out iki kelime yazılır ve 'spor yapmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "angel",
+  "senses": [
+   "melek",
+   "iyi kalpli kişi; melek gibi insan"
+  ],
+  "ex": [
+   "Resimde parlak beyaz kanatlı bir melek var.",
+   "Dini sanatta görülen melek figürleri, bir toplumun inançlarının önemli yönlerini ortaya koyabilir."
+  ],
+  "col": [
+   "koruyucu melek",
+   "gerçek bir melek",
+   "melek kanatları"
+  ],
+  "tip": "Birine an angel demek onun çok iyi ya da yardımsever olduğunu söyler. Günlük konuşmada sıcak bir övgü ifadesidir.",
+  "note": ""
+ },
+ {
+  "id": "loss",
+  "senses": [
+   "kayıp; yitirme",
+   "zarar; mali kayıp",
+   "yenilgi; mağlubiyet"
+  ],
+  "ex": [
+   "Dün cüzdanımı kaybettiğimi bildirdim.",
+   "Doğal yaşam alanlarının kaybı biyoçeşitliliği tehdit ediyor ve yerel tarımı destekleyen ekosistemleri zayıflatabilir."
+  ],
+  "col": [
+   "işitme kaybı",
+   "iş kayıpları",
+   "bocalamak; ne yapacağını bilememek",
+   "mali zarar"
+  ],
+  "tip": "loss isimdir, lose fiildir. Geçmiş zaman ve geçmiş ortaç biçimi lost olur. İkisi yazımda karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "farming",
+  "senses": [
+   "tarım; çiftçilik"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam koyun yetiştiriciliğinden geçinir.",
+   "Sürdürülebilir tarım, artan nüfus için yeterli gıda sağlarken toprak kalitesini koruyabilir."
+  ],
+  "col": [
+   "organik tarım",
+   "süt sığırcılığı",
+   "yoğun tarım",
+   "sürdürülebilir tarım"
+  ],
+  "tip": "farming genel olarak tarımı ve yetiştiriciliği anlatır, çoğunlukla sayılamaz. Hayvan türü önce gelir: sheep farming, dairy farming.",
+  "note": ""
+ }
+]

@@ -1,0 +1,270 @@
+[
+ {
+  "id": "oversight",
+  "senses": [
+   "ihmal; dikkatsizlik",
+   "denetim; gözetim"
+  ],
+  "ex": [
+   "Bir ihmal sonucu öğle yemeğini evde unutmuşum.",
+   "Kamu harcamalarının bağımsız denetimi yolsuzluğu azaltabilir ve vatandaşların hükümet kurumlarına olan güvenini güçlendirebilir."
+  ],
+  "col": [
+   "talihsiz bir ihmal",
+   "bir ihmal sonucu",
+   "bağımsız denetim",
+   "düzenleyici denetim"
+  ],
+  "tip": "'Hata' anlamında sayılabilir, 'denetim' anlamında genellikle sayılamaz. 'Under the oversight of' kalıbı da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "kerosene",
+  "senses": [
+   "gaz yağı; kerosen"
+  ],
+  "ex": [
+   "Kulübedeki eski lamba için gaz yağı aldık.",
+   "Güvenilir elektriğin olmadığı topluluklarda gaz yağlı lambaların güneş enerjili aydınlatmayla değiştirilmesi, kapalı alan hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "gaz yağlı lamba",
+   "gaz yağlı soba",
+   "havacılık kerosenı"
+  ],
+  "tip": "Sayılamayan bir isimdir. İngiliz İngilizcesinde günlük dilde paraffin de denir.",
+  "note": ""
+ },
+ {
+  "id": "redundant",
+  "senses": [
+   "gereksiz; fazla",
+   "işten çıkarılmış"
+  ],
+  "ex": [
+   "Kablosuz hoparlörleri kullandığımız için bu yedek kablo artık gereksiz.",
+   "Otomasyon sistemleri daha önce insanların yaptığı işleri üstlendiğinde fabrika işçileri işten çıkarılabilir."
+  ],
+  "col": [
+   "birini işten çıkarmak",
+   "gereksiz bilgi",
+   "gereksiz hale gelmek"
+  ],
+  "tip": "Bir işin kaldırılması nedeniyle işten çıkarılmak için be made redundant kalıbı kullanılır. Kişinin hatası için fired tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "righteous",
+  "senses": [
+   "doğru; erdemli",
+   "haklı öfkeli; kendini haklı gören"
+  ],
+  "ex": [
+   "Cüzdanı geri vermenin doğru bir seçim olduğuna inanıyordu.",
+   "Toplumsal adaletsizliğe karşı duyulan haklı öfke, vatandaşları kamu politikalarında anlamlı değişiklikler talep etmeye teşvik edebilir."
+  ],
+  "col": [
+   "haklı öfke",
+   "haklı kızgınlık",
+   "haklı bir amaç"
+  ],
+  "tip": "Kalıplaşmış ve ciddi bir ton taşır. self-righteous ise 'kendini doğru sanan' anlamında genellikle eleştirel kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lenient",
+  "senses": [
+   "hoşgörülü; yumuşak"
+  ],
+  "ex": [
+   "Ödevimi geç teslim ettiğimde öğretmenimiz hoşgörülü davrandı.",
+   "Yasadışı atık dökümü için uygulanan hafif cezaların, şirketleri çevreye zarar vermekten caydırmada yetersiz kaldığını savunanlar var."
+  ],
+  "col": [
+   "birine karşı hoşgörülü olmak",
+   "hafif bir ceza",
+   "yumuşak muamele"
+  ],
+  "tip": "Kişiye karşı hoşgörü için lenient with kullanılır. Kurallar ve cezalar için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "oblong",
+  "senses": [
+   "dikdörtgen biçimli; uzunca",
+   "dikdörtgen"
+  ],
+  "ex": [
+   "Sandviçleri uzunca ahşap bir tabakta servis etti.",
+   "Mimar, küçük toplum merkezinde kullanılabilir alanı en üst düzeye çıkarmak için dikdörtgen bir yerleşim seçti."
+  ],
+  "col": [
+   "dikdörtgen masa",
+   "dikdörtgen şekil",
+   "dikdörtgen tepsi"
+  ],
+  "tip": "Kenarları eşit olmayan dikdörtgenler için kullanılır. Kenarları eşit olan kare için square kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "jeopardise",
+  "senses": [
+   "tehlikeye atmak; zarar vermek"
+  ],
+  "ex": [
+   "Antrenmanları aksatmak takımdaki yerini tehlikeye atabilir.",
+   "Toplu taşımaya yapılan yatırımın azaltılması, kentsel hava kirliliğini ve trafik sıkışıklığını azaltma çabalarını tehlikeye atabilir."
+  ],
+  "col": [
+   "güvenliği tehlikeye atmak",
+   "kariyeri tehlikeye atmak",
+   "şansları tehlikeye atmak"
+  ],
+  "tip": "Geçişli bir fiildir ve doğrudan nesne alır, arkasına of gelmez. Amerikan İngilizcesinde yazım jeopardize biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "fluctuate",
+  "senses": [
+   "dalgalanmak; değişmek"
+  ],
+  "ex": [
+   "Yerel pazarımızda sebze fiyatları keskin biçimde dalgalanıyor.",
+   "Elektrik talebi gün boyunca dalgalanma eğilimindedir ve bu durum enerji tedarikçileri için zorluklar yaratır."
+  ],
+  "col": [
+   "geniş ölçüde dalgalanmak",
+   "iki değer arasında dalgalanmak",
+   "talebe göre dalgalanmak"
+  ],
+  "tip": "Genellikle geçişsiz bir fiildir. İki değer arasındaki dalgalanma için between kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "observance",
+  "senses": [
+   "uyma; riayet etme",
+   "dini tören; ayin"
+  ],
+  "ex": [
+   "Mutfakta hijyen kurallarına sıkı sıkıya uyulması yiyeceklerimizi güvende tutar.",
+   "İş yerinde güvenlik düzenlemelerine tutarlı biçimde uyulması kazaları önleyebilir ve çalışanların işverenlerine olan güvenini artırabilir."
+  ],
+  "col": [
+   "kanuna uyma",
+   "sıkı sıkıya uyma",
+   "dini törenler"
+  ],
+  "tip": "Observance 'uyma' ya da 'tören' anlamına gelir. 'Gözlem' anlamındaki observation ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "ironical",
+  "senses": [
+   "alaycı; iğneleyici",
+   "ters; ironik"
+  ],
+  "ex": [
+   "Alaycı övgüsü yemeği sevmediğini açıkça gösteriyordu.",
+   "Zaman kazandırmak için tasarlanan teknolojilerin çalışanları her zamankinden daha meşgul hissettirmesi ironik bir durumdur."
+  ],
+  "col": [
+   "alaycı bir söz",
+   "alaycı bir ton",
+   "ironik bir dönüş"
+  ],
+  "tip": "ironic ile neredeyse aynı anlamdadır ancak ironic daha yaygın kullanılır. Her zaman kötü niyet içermez.",
+  "note": ""
+ },
+ {
+  "id": "outward",
+  "senses": [
+   "dışsal; görünüşteki",
+   "dışa doğru olan; dış yönlü",
+   "dışa doğru"
+  ],
+  "ex": [
+   "İçten içe endişelenmesine rağmen dışarıdan özgüvenli görünüyordu.",
+   "Bir kentin dışsal görünümü yeniden imar ile iyileşebilir, ancak altta yatan toplumsal eşitsizlikler büyük ölçüde değişmeden kalır."
+  ],
+  "col": [
+   "dış görünüş",
+   "dışsal belirtiler",
+   "gidiş yolculuğu",
+   "dışa doğru hareket"
+  ],
+  "tip": "Zarf olarak İngiliz İngilizcesinde outwards da kullanılır. Sıfat olarak yalnızca outward biçimi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "disperse",
+  "senses": [
+   "dağılmak; dağıtmak"
+  ],
+  "ex": [
+   "Yağmur başlayınca kalabalık dağılmaya başladı.",
+   "Ağaç dikmek, şiddetli rüzgârları dağıtmaya ve açıkta kalan tarlaları toprak erozyonundan korumaya yardımcı olabilir."
+  ],
+  "col": [
+   "kalabalığı dağıtmak",
+   "tohumları yaymak",
+   "hızla dağılmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: the crowd disperse (dağılmak) ya da police disperse the crowd (dağıtmak).",
+  "note": ""
+ },
+ {
+  "id": "fungus",
+  "senses": [
+   "mantar; küf"
+  ],
+  "ex": [
+   "Devrilmiş ağacın üzerinde garip turuncu bir mantar büyüyordu.",
+   "Bazı mantar türleri ölü odunu parçalayıp besin maddelerini geri kazandırarak sağlıklı ormanların devamına yardımcı olur."
+  ],
+  "col": [
+   "toprak mantarı",
+   "mantar büyümesi",
+   "yenilebilir mantarlar"
+  ],
+  "tip": "Çoğul biçimi fungi'dir. Mantar bir bitki değildir, bu yüzden plant ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "premise",
+  "senses": [
+   "önerme; varsayım",
+   "bina ve arazi"
+  ],
+  "ex": [
+   "Planın herkesin anlaştığı bir varsayıma dayandığı açık.",
+   "Politika, uygun fiyatlı eğitimin hem bireysel beklentileri hem de ulusal verimliliği artırdığı önermesine dayanmaktadır."
+  ],
+  "col": [
+   "temel önerme",
+   "şu varsayımla",
+   "işletme binaları",
+   "yerinde"
+  ],
+  "tip": "Bina ve arazi anlamında çoğul premises kullanılır. Tekil premise çoğunlukla 'önerme' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "purity",
+  "senses": [
+   "saflık; arılık",
+   "masumluk; temizlik"
+  ],
+  "ex": [
+   "Kuyumcu altın yüzüğümün saflığını kontrol etti.",
+   "Su saflığının düzenli izlenmesi, hastalıkların önlenmesi ve yerel su kaynaklarına olan kamu güveninin korunması için şarttır."
+  ],
+  "col": [
+   "suyun saflığı",
+   "yüksek saflık",
+   "altının saflığı"
+  ],
+  "tip": "Sayılamayan bir isimdir. Belirli bir ölçüyü ifade ederken the purity of kalıbı kullanılır.",
+  "note": ""
+ }
+]

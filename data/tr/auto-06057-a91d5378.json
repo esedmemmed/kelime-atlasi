@@ -1,0 +1,268 @@
+[
+ {
+  "id": "lark",
+  "senses": [
+   "tarla kuşu",
+   "eğlence; şaka"
+  ],
+  "ex": [
+   "Sessiz tarlaların üzerinden bir tarla kuşunun şarkı söylediğini duyduk.",
+   "Çayırlık yaşam alanlarını korumak, giderek yoğunlaşan tarımsal uygulamalar yüzünden tehlike altındaki tarla kuşu ve diğer kuşlara fayda sağlar."
+  ],
+  "col": [
+   "şarkı söyleyen bir tarla kuşu",
+   "sadece eğlence olsun diye",
+   "eğlenmek"
+  ],
+  "tip": "for a lark genellikle İngiliz İngilizcesinde gayriresmi konuşmada kullanılır. Anlamı “sadece eğlence olsun diye”dir, ciddi bir amaç yoktur.",
+  "note": ""
+ },
+ {
+  "id": "dual",
+  "senses": [
+   "ikili; çift"
+  ],
+  "ex": [
+   "Bu kanepenin iki amacı var: oturmak ve uyumak.",
+   "Birçok çalışan ebeveyn, hem geçimini sağlamak hem de küçük çocuklarına bakmak gibi çifte bir zorlukla karşı karşıya kalıyor."
+  ],
+  "col": [
+   "çift amaçlı",
+   "ikili rol",
+   "çifte vatandaşlık",
+   "çift işlevli"
+  ],
+  "tip": "dual, “iki parçalı” ya da “iki yönlü” anlamındadır. “Düello” anlamındaki duel ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "amendment",
+  "senses": [
+   "değişiklik; düzeltme"
+  ],
+  "ex": [
+   "Sözleşmeye üzerinde anlaştığımız küçük bir değişiklik yaptık.",
+   "Önerilen değişiklik, işverenleri geçici personel için daha güvenli çalışma koşulları sağlamaya zorunlu kılacaktı."
+  ],
+  "col": [
+   "değişiklik yapmak",
+   "değişiklik önermek",
+   "anayasa değişikliği",
+   "bir kanunda değişiklik"
+  ],
+  "tip": "Bir belge ya da kanundaki değişiklik için “amendment to + belge adı” kalıbı kullanılır: an amendment to the contract.",
+  "note": ""
+ },
+ {
+  "id": "canvass",
+  "senses": [
+   "oy istemek; destek toplamak",
+   "görüş sormak; anket yapmak"
+  ],
+  "ex": [
+   "Gönüllüler yerel seçimden önce mahalleyi dolaşarak oy istedi.",
+   "Yerel yönetimler, toplu taşıma güzergâhlarında ve saatlerinde büyük değişikliklere gitmeden önce sakinlerin görüşlerini almalıdır."
+  ],
+  "col": [
+   "oy için kampanya yapmak",
+   "destek toplamak",
+   "görüş sormak"
+  ],
+  "tip": "canvass “oy istemek” ya da “görüş sormak” anlamına gelir. “Tuval, kanvas” anlamındaki canvas ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "obliging",
+  "senses": [
+   "yardımsever; hevesli"
+  ],
+  "ex": [
+   "Yokken yardımsever bir komşumuz bitkilerimizi suladı.",
+   "Yardımsever personel, soruları sabırla yanıtlayıp makul taleplere hızlı karşılık vererek hastaların deneyimini iyileştirebilir."
+  ],
+  "col": [
+   "yardımsever personel",
+   "yardımsever bir komşu",
+   "güler yüzlü ve yardımsever"
+  ],
+  "tip": "obliging “yardımsever” anlamındadır. obliged ise “zorunda olmak” ya da “minnettar olmak” anlamına gelir; karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "awkwardness",
+  "senses": [
+   "beceriksizlik; sakarlık",
+   "mahcubiyet; utanç"
+  ],
+  "ex": [
+   "Paten kaymadaki beceriksizliği her dönüşü zorlu hale getiriyordu.",
+   "Grup etkinlikleri, öğrencilerin farklı kültürlerden gelen sınıf arkadaşlarıyla ilk iletişimde yaşadığı başlangıçtaki mahcubiyeti azaltabilir."
+  ],
+  "col": [
+   "fiziksel beceriksizlik",
+   "sosyal mahcubiyet",
+   "ilk anlardaki mahcubiyet",
+   "mahcubiyet hissi"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; “an awkwardness” yerine doğrudan awkwardness kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "commotion",
+  "senses": [
+   "kargaşa; gürültü patırtı"
+  ],
+  "ex": [
+   "Kaçan bir köpek kafede kargaşaya yol açtı.",
+   "İstasyondaki ani karışıklık, beklenmedik hizmet aksamaları sırasında daha net prosedürlere duyulan ihtiyacı ortaya koydu."
+  ],
+  "col": [
+   "kargaşaya yol açmak",
+   "ani bir kargaşa",
+   "karmaşanın içinde"
+  ],
+  "tip": "Genellikle kısa süreli gürültü ve karmaşayı anlatır; mutlaka şiddet ya da ayaklanma anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "heiress",
+  "senses": [
+   "kadın mirasçı; varis"
+  ],
+  "ex": [
+   "Genç mirasçı, aile konağını müzeye dönüştürdü.",
+   "Mirasçı, dezavantajlı öğrencilere burs verdi; bu da miras kalan servetin daha geniş eğitim fırsatlarını nasıl destekleyebileceğini gösterdi."
+  ],
+  "col": [
+   "bir servetin mirasçısı",
+   "zengin bir mirasçı"
+  ],
+  "tip": "h harfi sessizdir. heir artık cinsiyet belirtmeden her türlü mirasçı için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "fervent",
+  "senses": [
+   "ateşli; coşkulu"
+  ],
+  "ex": [
+   "O, yerel futbol takımımızın ateşli bir destekçisi.",
+   "Vahşi yaşamın korunmasının ateşli savunucuları, doğal yaşam alanlarının korunmasının ticari gelişimden önce gelmesi gerektiğini savunuyor."
+  ],
+  "col": [
+   "ateşli bir destekçi",
+   "ateşli bir inanan",
+   "içten bir umut"
+  ],
+  "tip": "Resmi bir üsluba sahiptir. supporter, believer, hope gibi isimleri nitelemek için sıklıkla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "whirl",
+  "senses": [
+   "dönmek; döndürmek",
+   "yoğun telaş; hareketli dönem"
+  ],
+  "ex": [
+   "Kuru yapraklar rüzgârda etrafımızda döndü.",
+   "Kentsel yaşam hızlandıkça birçok çalışan toplantılar ve son teslim tarihlerinin girdabına kapılıyor."
+  ],
+  "col": [
+   "etrafında dönmek",
+   "yoğun bir faaliyet dönemi",
+   "bir denemek"
+  ],
+  "tip": "give it a whirl gayriresmi bir ifadedir ve “bir deneyeyim” anlamına gelir. Resmi yazıda kullanmaktan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "composite",
+  "senses": [
+   "bileşik; karma",
+   "bileşik; karışım"
+  ],
+  "ex": [
+   "Yeni bahçe bankımız kompozit malzemeden yapılmış.",
+   "Hafif kompozit malzemeler, uçakları dayanıklılıktan ödün vermeden daha hafif yaparak yakıt tüketimini azaltabilir."
+  ],
+  "col": [
+   "kompozit malzeme",
+   "bileşik görüntü",
+   "bileşik endeks"
+  ],
+  "tip": "Farklı parçaların bir araya getirilmesiyle oluşan şeyleri anlatır; material, image, index gibi isimlerle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "flora",
+  "senses": [
+   "bitki örtüsü; flora"
+  ],
+  "ex": [
+   "Rehberimiz adanın alışılmadık florasına dikkat çekti.",
+   "Yerli bitki örtüsünü korumak biyoçeşitliliği sürdürmeye yardımcı olur ve yerel ürünleri tozlaştıran böceklere destek olur."
+  ],
+  "col": [
+   "yerli flora",
+   "yerel flora",
+   "flora ve fauna (bitki ve hayvan türleri)"
+  ],
+  "tip": "flora bir bölgenin bitki örtüsünü, fauna ise hayvan türlerini anlatır. Birlikte flora and fauna şeklinde sıklıkla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hawk",
+  "senses": [
+   "şahin",
+   "şahin; sert politikacı",
+   "dolaşarak satmak"
+  ],
+  "ex": [
+   "Bir şahin açık tarlanın üzerinde yavaşça daire çiziyordu.",
+   "Ormanlık yaşam alanlarını korumak, küçük memelileri kontrol etmede önemli rol oynayan şahin popülasyonlarını sürdürmeye yardımcı olur."
+  ],
+  "col": [
+   "birini yakından izlemek",
+   "dış politikada sert politikacı",
+   "mal dolaştırıp satmak"
+  ],
+  "tip": "Politikada hawk, barışçı anlamındaki dove (güvercin) ile karşıt kullanılır. Fiil olarak sokakta mal satmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "manifesto",
+  "senses": [
+   "bildiri; manifesto; program"
+  ],
+  "ex": [
+   "Kulübümüz daha temiz parklar çağrısı yapan bir bildiri yayımladı.",
+   "Partinin seçim bildirgesi, büyük şehirlerdeki trafik sıkışıklığını azaltmak için toplu taşımaya daha fazla yatırım yapılacağını vaat ediyor."
+  ],
+  "col": [
+   "bildiri yayımlamak",
+   "seçim bildirgesi",
+   "parti programı"
+  ],
+  "tip": "Çoğulu manifestos ya da manifestoes olarak yazılabilir. Her iki biçim de kabul görür.",
+  "note": ""
+ },
+ {
+  "id": "footing",
+  "senses": [
+   "denge; basış yeri",
+   "temel; durum; konum"
+  ],
+  "ex": [
+   "Islak merdivenlerde ayağımın basacak yerini kaybettim.",
+   "Kamu finansmanı, kırsal okulların kentsel muadilleriyle eşit koşullara gelmesine yardımcı olabilir."
+  ],
+  "col": [
+   "dengeni kaybetmek",
+   "dengeni yeniden bulmak",
+   "eşit koşullarda",
+   "sağlam bir temele oturmuş"
+  ],
+  "tip": "on an equal footing “eşit konumda” anlamına gelir. Fiziksel denge ve soyut “temel, durum” anlamları birlikte öğrenilmelidir.",
+  "note": ""
+ }
+]

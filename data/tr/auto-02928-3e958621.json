@@ -1,0 +1,278 @@
+[
+ {
+  "id": "diploma",
+  "senses": [
+   "diploma; mezuniyet belgesi"
+  ],
+  "ex": [
+   "Diplomasını gururla büyükanne ve büyükbabasına gösterdi.",
+   "Mesleki bir diploma, mezunlara uzmanlaşmış sektörlerde iş bulmalarını sağlayacak pratik beceriler kazandırabilir."
+  ],
+  "col": [
+   "diploma almak",
+   "lise diploması",
+   "hemşirelik diploması"
+  ],
+  "tip": "Diploma çoğunlukla okul ya da kurs bitirme belgesini anlatır. Üniversite derecesi için degree kullanılır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "discovery",
+  "senses": [
+   "keşif; bulgu"
+  ],
+  "ex": [
+   "Eski dolabın arkasında heyecan verici bir keşif yaptık.",
+   "Yeni antibiyotiklerin keşfi, sağlık hizmetlerinin ilaca dirençli enfeksiyonlara daha etkili karşılık vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "keşif yapmak",
+   "bilimsel keşif",
+   "büyük keşif",
+   "tesadüfi keşif"
+  ],
+  "tip": "Discovery, var olan ama bilinmeyen bir şeyi bulmayı; invention ise yeni bir şey üretmeyi anlatır. Türkçede 'buluş' ikisine de karışabilir.",
+  "note": ""
+ },
+ {
+  "id": "process",
+  "senses": [
+   "süreç; işlem",
+   "işlemek; işlem yapmak"
+  ],
+  "ex": [
+   "Ekmek yapmak yavaş bir süreç ama ben bunu severek yapıyorum.",
+   "Başvuru süreci şeffaf olmalı ki tüm adaylar katılım konusunda eşit fırsata sahip olsun."
+  ],
+  "col": [
+   "kademeli bir süreç",
+   "-mekte olmak; yapılmakta olmak",
+   "veri işlemek",
+   "işlenmiş gıda"
+  ],
+  "tip": "in the process of'tan sonra isim ya da -ing gelir: in the process of building. Bu kalıp bir eylemin devam ettiğini gösterir.",
+  "note": ""
+ },
+ {
+  "id": "entertainment",
+  "senses": [
+   "eğlence; eğlence etkinliği"
+  ],
+  "ex": [
+   "Otel her akşam havuz kenarında canlı müzik ve eğlence sunuyor.",
+   "Uygun fiyatlı eğlence tesisleri, sakinlere dinlenme ve sosyalleşme fırsatı vererek kent yaşamını iyileştirebilir."
+  ],
+  "col": [
+   "canlı eğlence",
+   "eğlence sektörü",
+   "aile eğlencesi",
+   "bir eğlence türü"
+  ],
+  "tip": "Entertainment genellikle sayılamaz; 'an entertainment' yerine 'a form of entertainment' ya da 'a source of entertainment' kullanın.",
+  "note": ""
+ },
+ {
+  "id": "wonder",
+  "senses": [
+   "merak etmek",
+   "hayret; hayranlık",
+   "harika şey; mucize"
+  ],
+  "ex": [
+   "Kedinin neden sürekli o dolabı izlediğini merak ediyorum.",
+   "Birçok ebeveyn, çevrimiçi derslerin sınıf içi öğrenmeyle aynı sosyal faydaları sağlayıp sağlayamayacağını merak ediyor."
+  ],
+  "col": [
+   "olup olmadığını merak etmek",
+   "hakkında merak etmek",
+   "hayret içinde",
+   "doğal harikalar"
+  ],
+  "tip": "Wonder, where, whether gibi sözcüklerle dolaylı soru kurar; bu yapıda soru sırası değil, cümle sırası kullanılır: I wonder where he is.",
+  "note": ""
+ },
+ {
+  "id": "addition",
+  "senses": [
+   "ekleme; ilave",
+   "toplama",
+   "yeni katılan; ilave"
+  ],
+  "ex": [
+   "Taze limon eklemek çorbayı çok lezzetli yaptı.",
+   "Bisiklet yollarının eklenmesi kent ulaşımını daha güvenli hale getirebilir ve sakinleri düzenli egzersize teşvik edebilir."
+  ],
+  "col": [
+   "-ye ek olarak",
+   "-nin eklenmesi",
+   "hoş bir katılım",
+   "basit toplama"
+  ],
+  "tip": "In addition cümle başında virgülle kullanılır; in addition to ise isim ya da -ing ile gelir: in addition to working, she studies.",
+  "note": ""
+ },
+ {
+  "id": "deliver",
+  "senses": [
+   "teslim etmek; ulaştırmak",
+   "konuşma yapmak; sunmak",
+   "sonuç vermek; gerçekleştirmek"
+  ],
+  "ex": [
+   "Fırın her sabah kapımıza sıcak ekmek teslim ediyor.",
+   "Toplu taşıma projeleri, büyük yatırımlarını haklı çıkarabilmek için yerel halka açık faydalar sağlamalıdır."
+  ],
+  "col": [
+   "paket teslim etmek",
+   "konuşma yapmak",
+   "sonuç vermek",
+   "sözünü yerine getirmek"
+  ],
+  "tip": "Bir şeyi birine teslim etmek için deliver sth to sb; söz vermek ve tutmak için ise deliver on a promise kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dusty",
+  "senses": [
+   "tozlu; toz dolu"
+  ],
+  "ex": [
+   "Tozlu rafı nemli bir bezle sildim.",
+   "Tozlu ortamlarda çalışan işçilerin solunum hastalığı riskini azaltmak için uygun koruyucu ekipmana ihtiyacı vardır."
+  ],
+  "col": [
+   "tozlu yol",
+   "tozlu raflar",
+   "tozlu bir ortam"
+  ],
+  "tip": "Dusty sıfattır. Dirty ile karıştırmayın: dirty kirli, dusty tozlu anlamına gelir. Fiil olarak dust tozunu almak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "frozen",
+  "senses": [
+   "buz tutmuş; donmuş",
+   "dondurulmuş",
+   "donmuş; çok üşümüş"
+  ],
+  "ex": [
+   "Bu sabah çizmemin altında donmuş bir su birikintisi çatladı.",
+   "Dondurulmuş sebzeler, taze ürünlerden çok daha uzun süre kullanılabildiği için hanelerin gıda israfını azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "donmuş göl",
+   "dondurulmuş gıda",
+   "tamamen donmuş",
+   "korkudan donakalmış"
+  ],
+  "tip": "Frozen, freeze fiilinin üçüncü hali ve sıfat olarak kullanılır. Geçmiş zaman biçimi froze'dur: The lake froze last night.",
+  "note": ""
+ },
+ {
+  "id": "occur",
+  "senses": [
+   "meydana gelmek",
+   "bulunmak; görülmek",
+   "akla gelmek"
+  ],
+  "ex": [
+   "Şiddetli kış fırtınalarında buralarda sık sık elektrik kesintisi oluyor.",
+   "Sürücüler yorgun olduklarında ya da cep telefonları yüzünden dikkatleri dağıldığında trafik kazaları daha sık meydana gelir."
+  ],
+  "col": [
+   "doğal olarak bulunmak",
+   "sık sık meydana gelmek",
+   "aklına gelmek"
+  ],
+  "tip": "Occur genellikle edilgen yapıda kullanılmaz. Geçmiş zaman occurred, -ing hali occurring'dir; r harfi ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "rafting",
+  "senses": [
+   "rafting; sal ile nehir gezisi"
+  ],
+  "ex": [
+   "Geçen hafta dağ nehrinde rafting yapmaya gittik.",
+   "Rafting kırsal turizmi destekleyebilir; ancak operatörler güvenlik ekipmanı sağlamalı ve nehir yaşam alanlarını korumalıdır."
+  ],
+  "col": [
+   "rafting yapmak",
+   "beyaz suda rafting",
+   "rafting gezisi"
+  ],
+  "tip": "Spor etkinliklerinde go kullanılır: go rafting, go skiing. Raft kelimesi ise sal ya da şişme bot anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "merry",
+  "senses": [
+   "neşeli; keyifli"
+  ],
+  "ex": [
+   "Pasta yaparlarken mutfak onların neşeli kahkahalarıyla doldu.",
+   "Topluluk festivalleri, farklı yaşlardaki sakinlerin birbirleriyle etkileşim kurup arkadaşlık geliştirebileceği neşeli bir hava yaratır."
+  ],
+  "col": [
+   "neşeli kahkaha",
+   "neşeli bir kalabalık",
+   "eğlenip şenlik yapmak"
+  ],
+  "tip": "Merry çoğunlukla kutlama havasını anlatır: Merry Christmas. Make merry kalıbı biraz eski bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "inform",
+  "senses": [
+   "bildirmek; haber vermek",
+   "yol göstermek; dayanak olmak"
+  ],
+  "ex": [
+   "Anahtarınızı kaybederseniz lütfen resepsiyona haber verin.",
+   "Güvenilir araştırmalar, hükümetlerin halk sağlığı hizmetlerine kaynak ayırma kararlarına yön vermelidir."
+  ],
+  "col": [
+   "birine bir şeyi bildirmek",
+   "birini bilgilendirilmiş tutmak",
+   "politikaya yön vermek"
+  ],
+  "tip": "Birine bir şeyi bildirmek için inform sb of/about sth kalıbı kullanılır; inform sb sth yapısı standart değildir.",
+  "note": ""
+ },
+ {
+  "id": "eyebrow",
+  "senses": [
+   "kaş"
+  ],
+  "ex": [
+   "Muazzam pastayı görünce bir kaşını kaldırdı.",
+   "Kaşını kaldırmak gibi yüz hareketleri, konuşmaya gerek kalmadan şaşkınlık iletebilir."
+  ],
+  "col": [
+   "kaşını kaldırmak",
+   "kalın kaşlar",
+   "kemerli kaşlar"
+  ],
+  "tip": "Eyebrow kaşı, eyelash ise kirpiği anlatır. Eye (göz) kelimesine bakarak brow ve lash ayrımını hatırlayabilirsiniz.",
+  "note": ""
+ },
+ {
+  "id": "discount",
+  "senses": [
+   "indirim",
+   "indirimli satmak",
+   "hafife almak; göz ardı etmek"
+  ],
+  "ex": [
+   "Mağaza kış montlarında indirim yapıyor.",
+   "Toplu taşıma indirimleri, daha fazla yolcunun arabasını evde bırakmasını teşvik edebilir."
+  ],
+  "col": [
+   "indirim sunmak",
+   "indirimli olarak",
+   "ihtimali göz ardı etmek"
+  ],
+  "tip": "İsim olarak vurgu ilk hecededir (DIS-count), fiil olarak ikinci hecededir (dis-COUNT). Vurgu hatası sık yapılır.",
+  "note": ""
+ }
+]

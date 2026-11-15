@@ -1,0 +1,278 @@
+[
+ {
+  "id": "strain",
+  "senses": [
+   "baskı; zorlanma",
+   "incitmek; zorlamak",
+   "tür; çeşit; suş"
+  ],
+  "ex": [
+   "Ağır kutuyu kaldırırken belimi incittim.",
+   "Hızlı nüfus artışı, özellikle büyük şehirlerde konut ve sağlık hizmetleri gibi kamu hizmetleri üzerinde ciddi bir baskı yaratıyor."
+  ],
+  "col": [
+   "üzerinde baskı oluşturmak",
+   "baskı altında",
+   "bir kası zorlamak",
+   "bir virüs suşu"
+  ],
+  "tip": "strain bir kasın ya da vücut bölgesinin zorlanmasını anlatır; eklem burkulması için genellikle sprain kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "straighten",
+  "senses": [
+   "düzeltmek; doğrultmak",
+   "doğrulmak; dikleşmek"
+  ],
+  "ex": [
+   "Mülakattan önce kravatını düzeltmek için bir an durdu.",
+   "Düzenli esneme egzersizleri, ofis çalışanlarının sırtlarını doğrultmasına ve uzun süre oturmanın yol açtığı rahatsızlığı azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sırtını doğrultmak",
+   "toparlamak; düzene koymak",
+   "bir sorunu çözmek"
+  ],
+  "tip": "straighten up hem 'dik durmak' hem de 'toparlamak' anlamına gelebilir; cümlenin bağlamına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "accuracy",
+  "senses": [
+   "doğruluk; kesinlik"
+  ],
+  "ex": [
+   "Kesmeden önce bu ölçümlerin doğruluğunu kontrol edin.",
+   "İklim tahminlerinin doğruluğu, uzun süreler boyunca toplanan verilerin kalitesine kısmen bağlıdır."
+  ],
+  "col": [
+   "doğruluğunu kontrol etmek",
+   "doğruluğu artırmak",
+   "yüksek derecede doğruluk",
+   "tarihsel doğruluk"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; sıfat hali accurate (doğru, isabetli) olur.",
+  "note": ""
+ },
+ {
+  "id": "debate",
+  "senses": [
+   "tartışma; münazara",
+   "tartışmak",
+   "tartmak; düşünmek"
+  ],
+  "ex": [
+   "Evcil hayvanların evde tutulması hakkında canlı bir tartışma yaptık.",
+   "Ücretsiz toplu taşıma üzerindeki tartışma, çevresel faydalarına ve vergi mükelleflerine maliyetine odaklanıyor."
+  ],
+  "col": [
+   "kamuoyu tartışması",
+   "hararetli tartışma",
+   "bir konuyu tartışmak",
+   "yapıp yapmamayı tartmak"
+  ],
+  "tip": "Fiil olarak doğrudan bir konu alabilir (debate an issue); debate whether to kalıbı 'yapıp yapmamayı tartmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "porch",
+  "senses": [
+   "sundurma; veranda"
+  ],
+  "ex": [
+   "Çamurlu botlarımızı bir gece boyunca verandada bıraktık.",
+   "Gölgeli bir sundurma, iç mekân sıcaklığını düşürürken sakinlere rahat bir dış mekân buluşma alanı sağlayabilir."
+  ],
+  "col": [
+   "ön veranda",
+   "çatılı sundurma",
+   "verandada oturmak"
+  ],
+  "tip": "Binanın girişinin dışındaki çatılı alanı anlatır; bina içindeki koridor anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "harvest",
+  "senses": [
+   "hasat; ürün",
+   "hasat etmek; toplamak"
+  ],
+  "ex": [
+   "Elma hasadını ev yapımı bir turtayla kutladık.",
+   "Öngörülemeyen yağış, yıllık hasadı azaltarak kırsal gelirleri tehdit edebilir ve şehirlerde gıda fiyatlarını artırabilir."
+  ],
+  "col": [
+   "bol hasat",
+   "hasat mevsimi",
+   "ürünleri hasat etmek"
+  ],
+  "tip": "İsim olarak hem hasat etkinliğini hem de elde edilen ürünü ya da verimi anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "found",
+  "senses": [
+   "kurmak; temelini atmak",
+   "buldu; bulmuş"
+  ],
+  "ex": [
+   "Teyzem geçen kış küçük bir hayır kurumu kurdu.",
+   "Yeni işletmeler kuran mezunlar, yerel topluluklara yenilikçi hizmetler sunarak istihdam fırsatları yaratabilir."
+  ],
+  "col": [
+   "bir şirket kurmak",
+   "bir okul kurmak",
+   "bir hayır kurumu kurmak"
+  ],
+  "tip": "'Kurmak' anlamında geçmiş zaman founded'dır; 'bulmak' (find) fiilinin geçmiş zamanı da found'dur, bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "calcium",
+  "senses": [
+   "kalsiyum"
+  ],
+  "ex": [
+   "Bu yoğurt, sağlıklı kemik ve dişler için kalsiyum sağlar.",
+   "Okul yemekleri, hızlı büyüme dönemlerinde çocukların kemik gelişimini desteklemek için yeterli kalsiyum kaynakları içermelidir."
+  ],
+  "col": [
+   "kalsiyum alımı",
+   "kalsiyum eksikliği",
+   "kalsiyum takviyeleri",
+   "bir kalsiyum kaynağı"
+  ],
+  "tip": "Sayılamayan isimdir; kimyasal sembolü Ca'dır.",
+  "note": ""
+ },
+ {
+  "id": "economically",
+  "senses": [
+   "ekonomik açıdan",
+   "tasarruflu; az masrafla"
+  ],
+  "ex": [
+   "Kasaba, ekonomik açıdan yoğun bir balıkçı limanına bağlıdır.",
+   "Üretim maliyetleri düşerken ve temiz elektriğe talep arttıkça yenilenebilir enerji projeleri ekonomik açıdan uygulanabilir hale geliyor."
+  ],
+  "col": [
+   "ekonomik açıdan uygulanabilir",
+   "ekonomik açıdan dezavantajlı",
+   "ekonomik olarak bağımlı",
+   "tasarruflu yaşamak"
+  ],
+  "tip": "economic 'ekonomiye ilişkin', economical ise 'az masraflı' anlamına gelir; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "fort",
+  "senses": [
+   "kale; istihkam"
+  ],
+  "ex": [
+   "Eski kaleyi keşfetmek için tepeye tırmandık.",
+   "Kıyıdaki kalenin restorasyonu, bölgenin askeri tarihinin önemli bir parçasını korurken turistleri çekebilir."
+  ],
+  "col": [
+   "bir kale inşa etmek",
+   "kıyı kalesi",
+   "terk edilmiş kale"
+  ],
+  "tip": "fort askeri savunma amaçlı yapıyı vurgular; castle ise çoğu zaman soylu konutu olarak da kullanılmıştır.",
+  "note": ""
+ },
+ {
+  "id": "shrub",
+  "senses": [
+   "çalı"
+  ],
+  "ex": [
+   "Çiçekli çalının altında küçük bir kuş saklanıyordu.",
+   "Kentsel parklara yerel çalılar dikmek yaban hayvanları için barınak sağlar ve sulama ihtiyacını azaltabilir."
+  ],
+  "col": [
+   "çiçekli çalı",
+   "her mevsim yeşil çalı",
+   "yerel çalılar",
+   "çalı dikmek"
+  ],
+  "tip": "Sayılabilir bir isimdir ve tek bir bitkiyi anlatır; çalıların bulunduğu alan için shrubbery kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "academic",
+  "senses": [
+   "akademik; eğitime ilişkin",
+   "akademisyen; öğretim üyesi",
+   "kuramsal; teorik"
+  ],
+  "ex": [
+   "Okul, bu yıl onun akademik ilerlemesini övdü.",
+   "Üniversiteler, yalnızca akademik başarıya ve sınav sonuçlarına odaklanmak yerine öğrencilerin duygusal iyi oluşunu desteklemelidir."
+  ],
+  "col": [
+   "akademik başarı",
+   "akademik araştırma",
+   "akademik yıl",
+   "akademik nitelikler"
+  ],
+  "tip": "İsim olarak genellikle üniversitede öğretim üyesi ya da araştırmacıyı anlatır, öğrenciyi değil.",
+  "note": ""
+ },
+ {
+  "id": "polish",
+  "senses": [
+   "parlatmak; cilalamak",
+   "rötuşlamak; düzeltmek",
+   "cila; parlatıcı"
+  ],
+  "ex": [
+   "Her önemli toplantıdan önce ayakkabılarımı parlatırım.",
+   "Üniversite öğrencileri, gereksiz kelimeleri çıkararak ve argümanlarını mantıklı biçimde düzenleyerek yazılarını rötuşlamayı öğrenmelidir."
+  ],
+  "col": [
+   "ayakkabı parlatmak",
+   "bir kompozisyonu rötuşlamak",
+   "mobilya cilası"
+  ],
+  "tip": "Küçük harfle polish 'parlatmak' anlamına gelir; büyük harfle Polish ise 'Polonya'ya ait' demektir ve telaffuzu farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "landfill",
+  "senses": [
+   "çöp sahası",
+   "çöp gömme"
+  ],
+  "ex": [
+   "Kamyon çöplerimizi yakındaki bir çöp sahasına taşıdı.",
+   "Geri dönüşüm hizmetlerinin genişletilmesi, her yıl çöp sahasına gönderilen evsel atık miktarını azaltabilir."
+  ],
+  "col": [
+   "döküm sahası",
+   "atığı çöp sahasına göndermek",
+   "çöp sahası kapasitesi"
+  ],
+  "tip": "Yer anlamında sayılabilir (a landfill); işlem anlamında genellikle sayılamaz (send waste to landfill).",
+  "note": ""
+ },
+ {
+  "id": "dealer",
+  "senses": [
+   "bayi; tüccar",
+   "krupiye; kart dağıtıcı"
+  ],
+  "ex": [
+   "Satıcı bize güvenilir üç ikinci el araba gösterdi.",
+   "Tüketiciler ikinci el araç alırken gizli kusur riskini azaltmak için güvenilir bir bayi seçmelidir."
+  ],
+  "col": [
+   "araba bayisi",
+   "sanat tüccarı",
+   "güvenilir bayi"
+  ],
+  "tip": "Mal türünü belirten sözcüklerle kullanılır (car dealer gibi); kart oyunundaki anlamı ise farklıdır.",
+  "note": ""
+ }
+]

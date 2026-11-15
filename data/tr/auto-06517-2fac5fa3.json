@@ -1,0 +1,269 @@
+[
+ {
+  "id": "inorganic",
+  "senses": [
+   "inorganik"
+  ],
+  "ex": [
+   "Bugün fen dersinde tuz da dahil olmak üzere inorganik bileşikleri inceledik.",
+   "Inorganik gübrelerin aşırı kullanımı toprak kalitesine zarar verebilir ve yakındaki nehirlerde kirliliğe yol açabilir."
+  ],
+  "col": [
+   "inorganik kimya",
+   "inorganik bileşikler",
+   "inorganik gübreler",
+   "inorganik madde"
+  ],
+  "tip": "Inorganik maddelerin hepsinde karbon yoktur sanılmasın; karbondioksit gibi bazı karbonlu bileşikler de inorganik kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "desertification",
+  "senses": [
+   "çölleşme"
+  ],
+  "ex": [
+   "Çölleşme, köyümüzün etrafındaki tarlaları çıplak bıraktı.",
+   "Sürdürülebilir tarım uygulamaları toprağı koruyarak ve kurak bölgelerdeki bitki örtüsünü muhafaza ederek çölleşmeyi yavaşlatabilir."
+  ],
+  "col": [
+   "çölleşmeyle mücadele etmek",
+   "çölleşmeyi önlemek",
+   "arazi bozulması ve çölleşme"
+  ],
+  "tip": "Sayılamayan isim olarak kullanılır; başına 'a' getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "embark",
+  "senses": [
+   "başlamak; girişmek",
+   "gemiye binmek; uçağa binmek"
+  ],
+  "ex": [
+   "Mutfak tadilatına başlamaya hazırız.",
+   "Profesyonel eğitime başlamadan önce öğrenciler hem ilgi alanlarını hem de gelecekteki iş fırsatlarını düşünmelidir."
+  ],
+  "col": [
+   "bir projeye başlamak",
+   "bir kariyere başlamak",
+   "bir yolculuğa çıkmak"
+  ],
+  "tip": "Bir işe başlamak anlamında genellikle 'embark on' ya da 'embark upon' kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cohesion",
+  "senses": [
+   "birlik; dayanışma",
+   "bağdaşıklık"
+  ],
+  "ex": [
+   "Haftalık ekip öğle yemekleri işyerinde dayanışmayı artırmaya yardımcı oldu.",
+   "Ortak kamusal alanlar, farklı geçmişlerden gelen sakinlerin düzenli etkileşimde bulunmasını teşvik ederek toplumsal birliği güçlendirebilir."
+  ],
+  "col": [
+   "toplumsal dayanışma",
+   "ekip birliği",
+   "bağdaşıklık ve tutarlılık"
+  ],
+  "tip": "Yazmada cohesion dil bağlarıyla metnin birbirine bağlanmasını, coherence ise fikirlerin mantıksal akışını anlatır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "conquest",
+  "senses": [
+   "fetih; ele geçirme",
+   "fethedilen toprak"
+  ],
+  "ex": [
+   "Kale, aylar süren savaş ve fetihten sonra düştü.",
+   "Askeri fetihler çoğu zaman ticaret ağlarını yeniden şekillendirdi ve yabancı yönetim altındaki bölgelere yeni diller getirdi."
+  ],
+  "col": [
+   "askeri fetih",
+   "toprak fethi",
+   "fetih savaşları"
+  ],
+  "tip": "Eylem anlamında sayılamaz; fethedilen bir yer anlamında sayılabilir (a conquest) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rivalry",
+  "senses": [
+   "rekabet; çekişme"
+  ],
+  "ex": [
+   "İki futbol takımımız arasında dostane bir rekabet var.",
+   "Ticari rekabet yeniliği teşvik edebilir; ancak aşırı rekabet, şirketlerin değerli araştırma bulgularını paylaşmaktan kaçınmasına yol açabilir."
+  ],
+  "col": [
+   "şiddetli rekabet",
+   "kardeşler arası rekabet",
+   "takımlar arasındaki rekabet"
+  ],
+  "tip": "Sürekli süren bir rekabet ilişkisini anlatır; iki taraf arasındaki rekabet için 'between' ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "daze",
+  "senses": [
+   "şaşırtmak; sersemletmek",
+   "şaşkınlık; sersemlik"
+  ],
+  "ex": [
+   "Ani çarpışma bir an beni sersemletti.",
+   "Birkaç gece kötü uyku çektikten sonra çalışanlar sersem bir halde çalışabilir ve önlenebilir hatalar yapabilir."
+  ],
+  "col": [
+   "sersemlemiş halde",
+   "birini sersemletmek",
+   "sersem görünmek"
+  ],
+  "tip": "'In a daze' sersemlik anlamındadır; parlak ışıktan gözü kamaşmak için 'dazzle' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "criterion",
+  "senses": [
+   "ölçüt; kriter"
+  ],
+  "ex": [
+   "Bisiklet seçerken birincil ölçütüm fiyattı.",
+   "Hükümetler yeni ulaşım altyapısı tekliflerini değerlendirirken çevresel etki temel bir ölçüt olmalıdır."
+  ],
+  "col": [
+   "bir ölçüte uymak",
+   "seçim kriterleri",
+   "değerlendirme kriterleri"
+  ],
+  "tip": "Tekil criterion, çoğul criteria'dır. 'A criteria' demeyin; criteria çoğul olduğu için fiil de çoğul kullanılır (criteria are).",
+  "note": ""
+ },
+ {
+  "id": "piggyback",
+  "senses": [
+   "sırtta taşıma",
+   "sırtta; sırtına binerek",
+   "yararlanmak"
+  ],
+  "ex": [
+   "Amcam çamurlu patikada beni sırtına aldı.",
+   "Küçük işletmeler, kendi araçlarına yatırım yapmadan uzak müşterilere ulaşmak için mevcut teslimat ağlarından yararlanabilir."
+  ],
+  "col": [
+   "birini sırtına almak",
+   "sırtta taşınma",
+   "mevcut sistemlerden yararlanmak"
+  ],
+  "tip": "Omuzda taşımayı değil, bacakları beline dolanmış halde sırtta taşımayı anlatır; fiil olarak genellikle 'on' ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "exceedingly",
+  "senses": [
+   "son derece; oldukça"
+  ],
+  "ex": [
+   "Küçük fırın cumartesi sabahı son derece kalabalıktı.",
+   "Seyrek nüfuslu bölgelerde güvenilir toplu taşıma sağlamak, yerel yönetimler için son derece pahalı olabilir."
+  ],
+  "col": [
+   "son derece zor",
+   "son derece nadir",
+   "son derece pahalı"
+  ],
+  "tip": "Very'ye göre daha resmidir; çoğunlukla sıfat ve zarfları güçlendirir. Yazıda ve resmi metinlerde tercih edilebilir.",
+  "note": ""
+ },
+ {
+  "id": "humanitarian",
+  "senses": [
+   "insani; insancıl",
+   "insancıl kişi"
+  ],
+  "ex": [
+   "Gönüllüler insani görev için battaniye ve ilaç paketlediler.",
+   "Uluslararası insani yardım kuruluşları, doğal afetlerden ve silahlı çatışmalardan etkilenen topluluklara temel malzemeler sağlıyor."
+  ],
+  "col": [
+   "insani yardım",
+   "insani kriz",
+   "insani nedenlerle"
+  ],
+  "tip": "İnsanların acısını hafifletmeye yönelik bir kavramdır; genel anlamda 'cömert' ile eşdeğer değildir.",
+  "note": ""
+ },
+ {
+  "id": "pledge",
+  "senses": [
+   "taahhüt; yemin",
+   "taahhüt etmek; söz vermek"
+  ],
+  "ex": [
+   "Plajı temiz tutmak için bir söz verdik.",
+   "Yerel yönetimler önümüzdeki on yıl içinde toplu taşımayı iyileştirmeyi ve trafik sıkışıklığını azaltmayı taahhüt etti."
+  ],
+  "col": [
+   "taahhüt vermek",
+   "sözünü tutmak",
+   "destek sözü vermek",
+   "bir şeyi yapmaya söz vermek"
+  ],
+  "tip": "Promise'den daha resmi bir sözcüktür; genellikle kamusal ya da ciddi taahhütler için kullanılır. Fiil olarak 'to + fiil' kalıbıyla gelir.",
+  "note": ""
+ },
+ {
+  "id": "conspicuous",
+  "senses": [
+   "göze çarpan; dikkat çekici"
+  ],
+  "ex": [
+   "Sarı şemsiyesi siyah olanlar arasında göze çarpıyordu.",
+   "Gösterişli tüketim, insanlar servetlerini pahalı mallarla sergilemeye çalışırken gereksiz harcamaları teşvik edebilir."
+  ],
+  "col": [
+   "gösterişli tüketim",
+   "göze çarpan bir yer",
+   "yokluğuyla göze çarpan"
+  ],
+  "tip": "Dikkat çekici olmayı anlatır, ama önemli olduğu anlamına gelmez. 'Conspicuous by its absence' yokluğuyla dikkat çeken demektir.",
+  "note": ""
+ },
+ {
+  "id": "gunpowder",
+  "senses": [
+   "barut; karabarut"
+  ],
+  "ex": [
+   "Müze rehberi bize eski bir barut fıçısını gösterdi.",
+   "Barutun icadı askeri teknolojiyi değiştirdi ve birçok bölgede savunma yapılarının tasarımını etkiledi."
+  ],
+  "col": [
+   "barutun icadı",
+   "bir fıçı barut",
+   "barut depolama"
+  ],
+  "tip": "Sayılamayan isimdir; bir miktarını anlatmak için 'a barrel of gunpowder' gibi kalıplar kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "salvage",
+  "senses": [
+   "kurtarmak; çıkarmak",
+   "kurtarmak; toparlamak",
+   "kurtarma; kurtarılan mal"
+  ],
+  "ex": [
+   "Sel sonrası bazı kitapları kurtarmayı başardık.",
+   "İnşaat şirketleri eski binalardan değerli malzemeleri geri kazanabilir; bu da atığı ve yeni kaynak talebini azaltır."
+  ],
+  "col": [
+   "geri kazanılan malzemeler",
+   "kurtarma operasyonu",
+   "itibarı kurtarmak"
+  ],
+  "tip": "Çoğunlukla değerli eşyaları kurtarmak için kullanılır; insanları kurtarmak için genellikle 'rescue' tercih edilir.",
+  "note": ""
+ }
+]

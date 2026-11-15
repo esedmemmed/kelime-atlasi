@@ -1,0 +1,275 @@
+[
+ {
+  "id": "repeat",
+  "senses": [
+   "tekrarlamak; yinelemek",
+   "tekrar; yineleme"
+  ],
+  "ex": [
+   "Adresi biraz daha yavaş tekrarlar mısınız?",
+   "Yeni kelimeleri düzenli olarak yüksek sesle tekrarlayan öğrenciler, yabancı bir dilde konuşurken daha fazla özgüven geliştirebilir."
+  ],
+  "col": [
+   "bir hatayı tekrarlamak",
+   "bir soruyu tekrarlamak",
+   "birinin ardından tekrarlamak",
+   "yeniden sunulan gösteri"
+  ],
+  "tip": "repeat zaten \"tekrar\" anlamı taşır; again ile birlikte kullanmayın (repeat again yanlıştır).",
+  "note": ""
+ },
+ {
+  "id": "welcome",
+  "senses": [
+   "hoş geldin demek; karşılamak",
+   "hoş karşılanan; memnuniyet verici",
+   "karşılama; hoş geldin"
+  ],
+  "ex": [
+   "Komşularımız bizi eve dönüşümüzde karşılamak için dışarı çıktı.",
+   "Birçok topluluk, sosyal etkileşimi teşvik ettikleri ve yerel işletmeleri desteklediklerinden yeni kültür festivallerini memnuniyetle karşılar."
+  ],
+  "col": [
+   "ziyaretçileri karşılamak",
+   "sıcak bir karşılama",
+   "hoş bir değişiklik",
+   "rica ederim; bir şey değil"
+  ],
+  "tip": "be welcome to do \"istediğin gibi yapabilirsin\" anlamına gelir. You're welcome ise teşekkür edildiğinde verilen yanıttır.",
+  "note": ""
+ },
+ {
+  "id": "strawberry",
+  "senses": [
+   "çilek"
+  ],
+  "ex": [
+   "Olgun bir çilek topladım ve sepetime koydum.",
+   "Çilek yerel olarak yetiştirilirse taşıma mesafeleri kısalabilir; ancak ısıtılmış seralar toplam enerji tüketimini artırabilir."
+  ],
+  "col": [
+   "çilek reçeli",
+   "olgun çilekler",
+   "çilek bitkileri"
+  ],
+  "tip": "Sayılabilir isimdir; çoğulu strawberries olur. Çoğul yazarken -ies ekine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "sixteen",
+  "senses": [
+   "on altı"
+  ],
+  "ex": [
+   "Aile pikniği için on altı küçük kek pişirdik.",
+   "Bazı ülkelerde öğrenciler on altı yaşında genel eğitime devam etmek yerine mesleki eğitimi seçebilir."
+  ],
+  "col": [
+   "on altı yaşında",
+   "on altı yaşındayken",
+   "on altı öğrenci"
+  ],
+  "tip": "sixty (altmış) ile karıştırmayın; sixteen sonunda /n/ sesi vardır, sixty'de ise /ti/ okunur.",
+  "note": ""
+ },
+ {
+  "id": "seventeen",
+  "senses": [
+   "on yedi"
+  ],
+  "ex": [
+   "Kardeşim on yedi yaşında ve voleybol oynamayı çok seviyor.",
+   "Ankete göre on yedi öğrenci, geleneksel sınıf eğitimi yerine uygulamalı eğitimi tercih etti."
+  ],
+  "col": [
+   "on yedi yaşında",
+   "on yedi öğrenci",
+   "on yedi yaşındayken"
+  ],
+  "tip": "seventy (yetmiş) ile karıştırmayın; seventeen'de vurgu ikinci hecededir (seVENteen), seventy'de ilk hecededir (SEVenty).",
+  "note": ""
+ },
+ {
+  "id": "wednesday",
+  "senses": [
+   "çarşamba"
+  ],
+  "ex": [
+   "Her çarşamba öğle yemeğinde kütüphanenin yakınında buluşuruz.",
+   "Topluluk merkezi, yeni gelenlerin yerel hayata katılmasına yardımcı olmak için her çarşamba ücretsiz dil kursları düzenliyor."
+  ],
+  "col": [
+   "çarşamba günü",
+   "çarşamba sabahı",
+   "her çarşamba"
+  ],
+  "tip": "Gün adları İngilizcede büyük harfle yazılır. \"on Wednesday\" derken on kullanılır, ancak \"every Wednesday\" ifadesinde başa on getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "a-m",
+  "senses": [
+   "öğleden önce; sabah"
+  ],
+  "ex": [
+   "Alarmım her hafta içi sabah yedide çalar.",
+   "Okulun sekizden önce başlaması, gençlerin hafta içi aldığı uyku miktarını azaltabilir."
+  ],
+  "col": [
+   "sabah altıda",
+   "sabah dokuzdan itibaren",
+   "sabah on bire kadar"
+  ],
+  "tip": "Türkçede \"sabah\" saatten önce gelir, İngilizcede ise a.m. saatten sonra gelir (seven a.m.). 12 a.m. gece yarısı, 12 p.m. öğledir.",
+  "note": ""
+ },
+ {
+  "id": "new",
+  "senses": [
+   "yeni",
+   "yeni alınmış; yeni edinilmiş",
+   "alışık olmayan; yeni"
+  ],
+  "ex": [
+   "Yeni komşularımız bize bir sepet elma getirdi.",
+   "Yeni teknolojiler sağlık hizmetlerini daha erişilebilir kılabilir, ancak faydaları farklı gelir gruplarına yayılmalıdır."
+  ],
+  "col": [
+   "tamamen yeni",
+   "yeni teknoloji",
+   "işe yeni başlamış",
+   "yeni bir yaklaşım"
+  ],
+  "tip": "be new to ifadesinde to edatı kullanılır: \"I am new to this job\" (Bu işe yeniyim). Bu kalıpta \"for\" kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "cooking",
+  "senses": [
+   "yemek pişirme; yemek yapma",
+   "pişirmeye yarayan; mutfak"
+  ],
+  "ex": [
+   "Kardeşim yemek yaparken ben bulaşıkları yıkarım.",
+   "Okulda temel yemek pişirme becerilerinin öğretilmesi, gençlerin daha sağlıklı beslenme alışkanlıkları geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "yemek yapmak",
+   "yemek pişirme becerileri",
+   "yemek yağı",
+   "ev yemeği"
+  ],
+  "tip": "cooking eylemi anlatır. cook hem fiil hem de \"aşçı\" anlamına gelir; cooker ise ocak ya da fırın gibi cihazı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "family",
+  "senses": [
+   "aile; hane",
+   "familya; takım"
+  ],
+  "ex": [
+   "Ailem her pazar mutfak masasının etrafında toplanır.",
+   "Esnek çalışma saatleri, ebeveynlerin aile sorumluluklarıyla ücretli işin taleplerini dengelemesine yardımcı olabilir."
+  ],
+  "col": [
+   "geniş aile",
+   "aile üyesi",
+   "aile sorumlulukları",
+   "dil ailesi"
+  ],
+  "tip": "Bütün olarak aileyi anlatırken genelde tekil kullanılır: \"My family is large.\" İngiliz İngilizcesinde üyeler vurgulanırsa fiil çoğul gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "example",
+  "senses": [
+   "örnek",
+   "örnek; model"
+  ],
+  "ex": [
+   "Bana sağlıklı bir kahvaltıya dair bir örnek verebilir misin?",
+   "Kamu binaları yenilenebilir enerji kullanarak ve gereksiz su tüketimini azaltarak örnek olabilir."
+  ],
+  "col": [
+   "örneğin",
+   "örnek vermek",
+   "örnek olmak",
+   "tipik bir örnek"
+  ],
+  "tip": "for example cümlenin başında ya da sonunda kullanılabilir. Yazıda for instance da aynı anlamda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "december",
+  "senses": [
+   "aralık"
+  ],
+  "ex": [
+   "Kuzenim aralık ayında bizde kalmaya geliyor.",
+   "Birçok kuzey ülkesinde, soğuk havalarda hanelerin daha fazla ısınmaya ihtiyaç duymasıyla aralık ayında enerji talebi artar."
+  ],
+  "col": [
+   "aralık ayında",
+   "aralık ayının başında",
+   "aralık ayının sonunda"
+  ],
+  "tip": "Ay adları büyük harfle yazılır. Ayı belirtirken in December kalıbı kullanılır; \"on December\" demeyin.",
+  "note": ""
+ },
+ {
+  "id": "metre",
+  "senses": [
+   "metre",
+   "vezin; ölçü"
+  ],
+  "ex": [
+   "Bu raf bir metreden biraz uzun.",
+   "Kıyı setlerini bir metre yükseltmek, giderek şiddetlenen sellerden yakındaki evleri koruyabilir."
+  ],
+  "col": [
+   "metrekare",
+   "metreküp",
+   "bir metre uzunluğunda"
+  ],
+  "tip": "İngiliz İngilizcesinde metre, Amerikan İngilizcesinde meter yazılır. Çoğulu metres (ya da meters) olur.",
+  "note": ""
+ },
+ {
+  "id": "hate",
+  "senses": [
+   "nefret etmek",
+   "nefret; güçlü kin"
+  ],
+  "ex": [
+   "Banyo zemininde ıslak çoraplar bulmaktan nefret ediyorum.",
+   "Birçok yolcu kalabalık trenlerden nefret etse de uygun fiyatlı toplu taşıma, kentsel trafiği azaltmak için hâlâ gereklidir."
+  ],
+  "col": [
+   "bir şeyi yapmaktan nefret etmek",
+   "itiraf etmek istememek",
+   "nefretle dolu"
+  ],
+  "tip": "hate'den sonra -ing ya da to + fiil gelebilir. dislike'a göre çok daha güçlü bir duygu bildirdiği için dikkatli kullanın.",
+  "note": ""
+ },
+ {
+  "id": "sleep",
+  "senses": [
+   "uyumak",
+   "uyku"
+  ],
+  "ex": [
+   "Kedimiz sıcak radyatörün yanında uyumayı sever.",
+   "Düzenli uyku hafızayı ve konsantrasyonu destekler; bu yüzden sınavlara hazırlanan öğrenciler için özellikle önemlidir."
+  ],
+  "col": [
+   "yeterince uyumak",
+   "uykuya dalmak",
+   "iyi uyumak",
+   "uyku eksikliği"
+  ],
+  "tip": "Düzensiz fiildir: sleep, slept, slept. \"Uykuya dalmak\" için fall asleep kullanılır. asleep sadece yüklemde kullanılır: \"The baby is asleep.\"",
+  "note": ""
+ }
+]

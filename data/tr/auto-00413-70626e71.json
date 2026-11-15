@@ -1,0 +1,286 @@
+[
+ {
+  "id": "cool",
+  "senses": [
+   "serin; hafif soğuk",
+   "soğukkanlı; sakin",
+   "soğumak; soğutmak"
+  ],
+  "ex": [
+   "Açık mutfak penceresinden serin bir esinti süzülüyordu.",
+   "Şehir alanlarını serinletmek ve yaz aylarındaki enerji talebini azaltmak için daha fazla ağaç dikilebilir."
+  ],
+  "col": [
+   "serin esinti",
+   "serin tutmak",
+   "soğumak; sakinleşmek"
+  ],
+  "tip": "cool, cold'a göre daha yumuşak bir serinliği anlatır; gündelik dilde 'havalı' anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "september",
+  "senses": [
+   "Eylül"
+  ],
+  "ex": [
+   "Bu yıl akşam fotoğrafçılık kursumuz Eylül ayında başlıyor.",
+   "Birçok ülkede akademik yıl Eylül'de başlar; bu da üniversite çevresindeki öğrenci konaklamasına mevsimsel bir talep yaratır."
+  ],
+  "col": [
+   "Eylül ayında",
+   "Eylül ayının başında",
+   "Eylül ayının sonunda"
+  ],
+  "tip": "İngilizcede ay adları büyük harfle yazılır; Türkçeden farklı olarak. 'next September' gibi kalıplarda başına 'in' getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "easy",
+  "senses": [
+   "kolay",
+   "rahat; kaygısız"
+  ],
+  "ex": [
+   "Bu çorba taze sebzelerle yapılması kolay bir yemek.",
+   "Güvenilir sağlık bilgilerine kolay erişim sağlamak, insanların yaşam tarzlarıyla ilgili daha iyi kararlar vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "kullanımı kolay",
+   "kolay erişim",
+   "işi kolaya almak",
+   "rahat bir hayat"
+  ],
+  "tip": "'easy to + fiil' kalıbı yaygındır (easy to make). Bir eylemin nasıl yapıldığını anlatmak için zarf biçimi 'easily' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thing",
+  "senses": [
+   "şey; nesne",
+   "olay; durum",
+   "eşya; özel eşya"
+  ],
+  "ex": [
+   "Şu ağır şeyi sandalyemin üstünden kaldırır mısın?",
+   "Hükümetlerin yapabileceği önemli şeylerden biri, uygun fiyatlı konutların toplu taşıma yakınında bulunmasını sağlamaktır."
+  ],
+  "col": [
+   "yapılması doğru olan şey",
+   "kişisel eşyalar",
+   "sabahın ilk işi",
+   "bir seferde bir şey"
+  ],
+  "tip": "'thing' çok genel bir kelimedir; akademik yazıda mümkünse daha somut bir isim kullanmak daha iyi bir tercihtir.",
+  "note": ""
+ },
+ {
+  "id": "mouth",
+  "senses": [
+   "ağız",
+   "nehir ağzı; giriş",
+   "dudaklarla sessiz söylemek"
+  ],
+  "ex": [
+   "Diş hekimi ağzımı daha geniş açmamı istedi.",
+   "Nehir ağzına yakın sulak alanlar değerli yaşam alanları sunar ve kıyı topluluklarını sellerden korumaya yardımcı olur."
+  ],
+  "col": [
+   "ağzını açmak",
+   "nehrin ağzı",
+   "ağızdan ağıza"
+  ],
+  "tip": "İsim olarak sonundaki ses /θ/, fiil olarak /ð/ okunur. Bu fark, isim ve fiil kullanımını ayırt etmenize yardımcı olur.",
+  "note": ""
+ },
+ {
+  "id": "study",
+  "senses": [
+   "incelemek; çalışmak",
+   "öğrenim; araştırma",
+   "çalışma odası"
+  ],
+  "ex": [
+   "Her sabah otobüste İngilizce çalışıyorum.",
+   "Yakın tarihli bir araştırma, düzenli egzersizin sınıf etkinlikleri sırasında öğrencilerin konsantrasyonunu artırabileceğini gösteriyor."
+  ],
+  "col": [
+   "yurt dışında eğitim görmek",
+   "yakın tarihli bir araştırma",
+   "sınav için çalışmak"
+  ],
+  "tip": "'study' öğrenme sürecini vurgular; 'learn' ise bir bilgi ya da beceriyi edinmeyi anlatır. Bu farka dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "anything",
+  "senses": [
+   "herhangi bir şey; her şey",
+   "bir şey"
+  ],
+  "ex": [
+   "Bu oyuncak sepetinden istediğini seçebilirsin.",
+   "Yeni politikalar uygulamadan önce hükümetler, benzer bir şeyin başka yerlerde başarılı olup olmadığını kontrol etmelidir."
+  ],
+  "col": [
+   "başka bir şey",
+   "kesinlikle hiçbir şey",
+   "hiç de... değil"
+  ],
+  "tip": "Soru ve koşul cümlelerinde 'bir şey' anlamında, olumlu cümlelerde ise 'herhangi bir şey' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "player",
+  "senses": [
+   "oyuncu; sporcu",
+   "çalgıcı",
+   "oynatıcı; çalar"
+  ],
+  "ex": [
+   "Futbol maçı başlamadan önce her oyuncu birbiriyle el sıkıştı.",
+   "Genç sporcular, tek başına kazanmaya değil takım çalışmasına ve kişisel gelişime önem veren antrenörlerden fayda görür."
+  ],
+  "col": [
+   "futbolcu",
+   "takım oyuncusu",
+   "piyanist",
+   "medya oynatıcısı"
+  ],
+  "tip": "Bir enstrümanı çalan kişi için 'enstrüman adı + player' yapısı kullanılır (piano player); 'pianist' de aynı anlamda yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "chocolate",
+  "senses": [
+   "çikolata",
+   "çikolatalı şeker"
+  ],
+  "ex": [
+   "Kız kardeşiyle bir tablet çikolatayı paylaştı.",
+   "Tüketiciler, çikolata üreticilerinden tedarik zinciri boyunca adil ücret ve güvenli çalışma koşulları sağlamalarını giderek daha fazla bekliyor."
+  ],
+  "col": [
+   "bitter çikolata",
+   "sütlü çikolata",
+   "bir tablet çikolata",
+   "bir kutu çikolata"
+  ],
+  "tip": "Madde olarak 'chocolate' sayılamaz; tek tek şekerlerden söz ediliyorsa 'a chocolate' ve çoğul 'chocolates' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "size",
+  "senses": [
+   "boyut; büyüklük",
+   "beden; numara",
+   "boyutlara göre ayırmak"
+  ],
+  "ex": [
+   "Bu bavul hafta sonu gezileri için tam boyutta.",
+   "Sınıf mevcudunu azaltmak, öğretmenlerin öğrenme güçlüğü yaşayan öğrencilere daha bireysel destek vermesine olanak tanıyabilir."
+  ],
+  "col": [
+   "sınıf mevcudu",
+   "örneklem büyüklüğü",
+   "ayakkabı numarası",
+   "boyut bakımından"
+  ],
+  "tip": "Beden veya numara sorarken 'What size...?' kullanılır; 'How much size' yanlış bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "small",
+  "senses": [
+   "küçük; az",
+   "küçük yaşta; genç",
+   "önemsiz; hafif"
+  ],
+  "ex": [
+   "Küçük mutfağımızda yalnızca iki sandalye için yer var.",
+   "Evlerdeki yalıtımda yapılan küçük iyileştirmeler bile enerji tüketimini azaltabilir ve ev faturalarını düşürebilir."
+  ],
+  "col": [
+   "az miktarda",
+   "küçük işletmeler",
+   "küçük çocuklar",
+   "küçük bir değişiklik"
+  ],
+  "tip": "Sayılar için 'a small number of' kalıbı kullanılır; insanların boyunu anlatırken genellikle 'short' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "sport",
+  "senses": [
+   "spor",
+   "gösterişle giymek; sergilemek"
+  ],
+  "ex": [
+   "Yüzme, kız kardeşimin gerçekten sevdiği tek spor.",
+   "Düzenli spor yapmak fiziksel sağlığı iyileştirebilir ve gençlerin takım çalışması becerilerini geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "spora katılmak",
+   "rekabetçi spor",
+   "takım sporu",
+   "spor etkinliği"
+  ],
+  "tip": "Genel anlamda İngiliz İngilizcesinde 'sport', Amerikan İngilizcesinde 'sports' tercih edilir. Ayrıca 'sporting' sıfat olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "exam",
+  "senses": [
+   "sınav"
+  ],
+  "ex": [
+   "Cuma sabahı matematik sınavım var.",
+   "Okullar, öğrencilerin genel ilerlemesini değerlendirirken sınav sonuçlarının yanında pratik becerileri de dikkate almalıdır."
+  ],
+  "col": [
+   "sınava girmek",
+   "sınavı geçmek",
+   "sınav için çalışmak",
+   "sınav sonuçları"
+  ],
+  "tip": "'exam', 'examination' kelimesinin kısa biçimidir. Sınava girmek için 'take an exam' kullanılır; 'make an exam' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "cow",
+  "senses": [
+   "inek",
+   "yıldırmak; sindirmek"
+  ],
+  "ex": [
+   "Kahverengi bir inek çiftlik kapısının yanında sessizce duruyordu.",
+   "Süt sığırlarının beslenmesini iyileştirmek, hayvan sağlığını korurken süt üretimini artırabilir."
+  ],
+  "col": [
+   "süt ineği",
+   "inekten süt sağmak",
+   "korkutulup susturulmak"
+  ],
+  "tip": "'cow' yetişkin dişi sığırı anlatır; sığır türünü genel olarak 'cattle' (çoğul) ile anlatılır, 'a cattle' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "ball",
+  "senses": [
+   "top",
+   "balo"
+  ],
+  "ex": [
+   "Köpek çimenlerin üzerinde topun peşinden koştu.",
+   "Basit top oyunları, çocukların koordinasyon becerilerini geliştirirken iş birliğini ve düzenli fiziksel aktiviteyi teşvik edebilir."
+  ],
+  "col": [
+   "top atmak",
+   "topu yakalamak",
+   "bir yumak yün",
+   "hayır balosu"
+  ],
+  "tip": "Spor adlarından önce genellikle article kullanılmaz (play football). 'ball' hem top hem de balo anlamına geldiği için bağlama dikkat edin.",
+  "note": ""
+ }
+]

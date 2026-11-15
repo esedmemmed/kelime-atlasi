@@ -1,0 +1,276 @@
+[
+ {
+  "id": "behalf",
+  "senses": [
+   "adına; yararına"
+  ],
+  "ex": [
+   "Ödülü kız kardeşim adına aldım.",
+   "Topluluk kuruluşları, endişelerini duyurmakta zorlanan sakinler adına sık sık konuşur."
+  ],
+  "col": [
+   "birinin adına",
+   "birinin adına hareket etmek",
+   "birinin yararına"
+  ],
+  "tip": "Genellikle on behalf of kalıbıyla kullanılır. Aynı anlamda in behalf of nadirdir, on behalf of tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "jerk",
+  "senses": [
+   "ani çekmek; sarsmak",
+   "ani hareket; sarsıntı",
+   "salak; geri zekâlı"
+  ],
+  "ex": [
+   "Otobüs aniden öne doğru sarsıldı ve alışveriş torbam yere düştü.",
+   "Bakımsız trenler beklenmedik şekilde sarsılabilir ve ayakta duran yolcuların düşme riskini artırabilir."
+  ],
+  "col": [
+   "öne doğru sarsılmak",
+   "geri çekilmek",
+   "ani bir sarsıntı"
+  ],
+  "tip": "Kısa ve ani hareketi vurgular. Birine a jerk demek ağır bir hakaret olur, dikkatli kullanın.",
+  "note": ""
+ },
+ {
+  "id": "lens",
+  "senses": [
+   "mercek; lens",
+   "göz merceği"
+  ],
+  "ex": [
+   "Kamerasının merceğindeki tozu dikkatle sildi.",
+   "Gözdeki hasarlı mercek görmeyi azaltabilir ve kişinin günlük işleri yapma becerisini etkileyebilir."
+  ],
+  "col": [
+   "fotoğraf makinesi merceği",
+   "kontakt lens",
+   "geniş açılı lens"
+  ],
+  "tip": "Çoğulu lenses. Gözlük camı anlamında değil, optik mercek veya göz merceği anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "sideways",
+  "senses": [
+   "yana doğru; yan tarafa",
+   "yanlamasına; yana dönük"
+  ],
+  "ex": [
+   "Dar kapıdan sığabilmek için yan dönerek ilerledik.",
+   "Bir şirket içinde yatay yönde yapılan geçiş, çalışanların sorumluluğunu hemen artırmadan deneyimlerini genişletebilir."
+  ],
+  "col": [
+   "yana doğru hareket etmek",
+   "yana dönmek",
+   "yan bakış",
+   "yatay geçiş"
+  ],
+  "tip": "Hem zarf hem sıfat olarak kullanılır. Ek olarak -ly eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "deeply",
+  "senses": [
+   "çok; derinden",
+   "derinlemesine; derinde"
+  ],
+  "ex": [
+   "Düşünceli hediyen beni çok duygulandırdı.",
+   "Birçok sakin, hava kirliliğinin çocuklarının sağlığına etkisinden derinden endişeli."
+  ],
+  "col": [
+   "derinden endişeli",
+   "derin köklü",
+   "derin nefes almak",
+   "derinden etkilenmek"
+  ],
+  "tip": "Duygu ve inançları güçlendirmek için kullanılır: deeply worried. Sıfat deep ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "octopus",
+  "senses": [
+   "ahtapot"
+  ],
+  "ex": [
+   "Bir ahtapot, kayalar arasındaki dar bir aralıktan süzülerek geçti.",
+   "Ahtapot davranışları üzerine yapılan araştırmalar, deniz canlılarının zekâsına dair geleneksel varsayımlara meydan okuyan dikkat çekici öğrenme yetenekleri ortaya koydu."
+  ],
+  "col": [
+   "ahtapot kolları",
+   "ahtapot davranışı",
+   "dev ahtapot"
+  ],
+  "tip": "Çoğulu octopuses olarak yazılır. Kollar için arms kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "former",
+  "senses": [
+   "eski; önceki",
+   "birincisi; önceki olan"
+  ],
+  "ex": [
+   "Eski komşum hâlâ her yaz bizi ziyaret ediyor.",
+   "Eski sanayi alanları, kentsel çevreyi iyileştirerek ortak alanlar yaratan kamusal parklara dönüştürülebilir."
+  ],
+  "col": [
+   "eski meslektaş",
+   "eski başkan",
+   "eski sanayi alanı"
+  ],
+  "tip": "the former iki şeyden birincisini, the latter ise ikincisini ifade eder. Bu kullanım yazılı İngilizcede önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "slot",
+  "senses": [
+   "yuva; dar aralık",
+   "zaman dilimi; boş yer",
+   "yerleştirmek; sokmak"
+  ],
+  "ex": [
+   "Madeni parayı dar yuvaya itti.",
+   "Akşam randevu saatleri, çalışan yetişkinlerin temel sağlık hizmetlerine daha kolay erişmesini sağlayabilir."
+  ],
+  "col": [
+   "madeni para yuvası",
+   "zaman dilimi",
+   "bir şeyi yerine oturtmak"
+  ],
+  "tip": "Fiil olarak genellikle into ile kullanılır: slot something into place.",
+  "note": ""
+ },
+ {
+  "id": "astronomy",
+  "senses": [
+   "astronomi; gökbilim"
+  ],
+  "ex": [
+   "Astronomiye olan ilgim küçük bir teleskopla başladı.",
+   "Astronomi çalışmak, öğrencileri evrenin kökeni hakkındaki bilimsel sorular üzerine düşünmeye teşvik edebilir."
+  ],
+  "col": [
+   "astronomi çalışmak",
+   "gözlemsel astronomi",
+   "amatör astronomi"
+  ],
+  "tip": "Astronomy gökbilimi, astrology ise astrolojiyi (burçculuğu) anlatır. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "scold",
+  "senses": [
+   "azarlamak; paylamak"
+  ],
+  "ex": [
+   "Babam buzdolabının kapısını açık bıraktığım için beni azarladı.",
+   "Öğrencileri sık sık azarlayan öğretmenler, onları soru sormaktan ve sınıf tartışmalarına katılmaktan caydırabilir."
+  ],
+  "col": [
+   "birini bir şey için azarlamak",
+   "birini bir şey yaptığı için azarlamak"
+  ],
+  "tip": "Kalıp: scold someone for doing something. Fiilin nesnesi kişi, nedeni for ile verilir.",
+  "note": ""
+ },
+ {
+  "id": "circuit",
+  "senses": [
+   "devre; elektrik devresi",
+   "çevre yolu; tur",
+   "turne; etkinlik güzergâhı"
+  ],
+  "ex": [
+   "Devreyi tamamladığımızda ampul yandı.",
+   "Öğrenciler basit bir devre kurup farklı malzemeleri test ederek pratik bilimsel beceriler geliştirebilir."
+  ],
+  "col": [
+   "elektrik devresi",
+   "kısa devre",
+   "devre kartı",
+   "yarış pisti"
+  ],
+  "tip": "Elektrik devresi ve çevre yolu aynı kelimedir. short circuit kısa devre anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "freshen",
+  "senses": [
+   "tazelemek; ferahlatmak",
+   "çeki düzen vermek",
+   "rüzgâr güçlenmek"
+  ],
+  "ex": [
+   "Odayı ferahlatmak için pencereyi açalım.",
+   "Kentsel alanlara ağaç dikmek, gölge sağlarken mahallelerin genel görünümünü iyileştirerek bu alanları tazeleyebilir."
+  ],
+  "col": [
+   "çeki düzen vermek",
+   "havayı ferahlatmak",
+   "nefesi tazelemek"
+  ],
+  "tip": "freshen up genellikle kısa süreli çeki düzen vermek anlamındadır. Öznesi rüzgâr olduğunda şiddetlenmek anlamı kazanır.",
+  "note": ""
+ },
+ {
+  "id": "evident",
+  "senses": [
+   "belli; açık"
+  ],
+  "ex": [
+   "Köpek yavrusu geri döndüğünde rahatladığı açıkça belliydi.",
+   "İyileştirilmiş toplu taşımanın faydaları, trafik yoğunluğunun azaldığı şehirlerde açıkça görülüyor."
+  ],
+  "col": [
+   "açıkça belli",
+   "belli olmak",
+   "...den anlaşılmak"
+  ],
+  "tip": "It is evident that... kalıbı açıktır ki... anlamında akademik yazıda sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lottery",
+  "senses": [
+   "piyango; çekiliş",
+   "kura; şansa bağlı durum"
+  ],
+  "ex": [
+   "Amcam dükkândan bir piyango bileti aldı.",
+   "Okul yerlerini kura ile dağıtmak kayırmacılığı azaltabilir, ama ailelerde belirsizlik de yaratabilir."
+  ],
+  "col": [
+   "piyango bileti",
+   "piyango kazanmak",
+   "piyango çekilişi",
+   "kura ile"
+  ],
+  "tip": "by lottery kura yoluyla anlamına gelir ve bilet satın alınmasını gerektirmez.",
+  "note": ""
+ },
+ {
+  "id": "retail",
+  "senses": [
+   "perakende",
+   "perakende; perakendeye ait",
+   "perakende satmak"
+  ],
+  "ex": [
+   "Perakende sektöründe çalışıyor ve müşterilere yardımcı olmaktan keyif alıyor.",
+   "Çevrim içi perakendenin büyümesi alışveriş alışkanlıklarını değiştirdi ve geleneksel şehir merkezi dükkânları için rekabeti artırdı."
+  ],
+  "col": [
+   "perakende fiyatı",
+   "perakende sektörü",
+   "çevrim içi perakende",
+   "perakende satış noktası"
+  ],
+  "tip": "Retail tüketiciye doğrudan satışı anlatır; wholesale ise toptan satıştır. İkisi karıştırılmamalıdır.",
+  "note": ""
+ }
+]

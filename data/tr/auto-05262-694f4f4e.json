@@ -1,0 +1,278 @@
+[
+ {
+  "id": "repay",
+  "senses": [
+   "geri ödemek; iade etmek",
+   "karşılık vermek"
+  ],
+  "ex": [
+   "Maaşımı aldığımda parayı geri ödeyeceğim.",
+   "Sağlam iş imkânları sınırlı kalırsa mezunlar öğrenci kredilerini geri ödemekte zorlanabilir."
+  ],
+  "col": [
+   "kredi geri ödemek",
+   "borcunu ödemek",
+   "birinin iyiliğine karşılık vermek"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç biçimi repaid'dir. Fiil 'öç almak' anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "grief",
+  "senses": [
+   "keder; acı"
+  ],
+  "ex": [
+   "Yas tutarken arkadaşlarında teselli buldu.",
+   "Okullar, bir aile üyesini kaybeden gençlerin yasla başa çıkmasına yardımcı olacak danışmanlık sunmalıdır."
+  ],
+  "col": [
+   "derin keder",
+   "kederden bunalmış",
+   "yasla başa çıkmak"
+  ],
+  "tip": "Genellikle sayılmayan bir isimdir ve çoğunlukla bir yakının kaybıyla ilgili kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "literal",
+  "senses": [
+   "gerçek anlamlı; mecazsız",
+   "harfi harfine; kelimesi kelimesine"
+  ],
+  "ex": [
+   "Soğuk ayaklar deyimini gerçek anlamında kastetmiştim.",
+   "Kelimesi kelimesine çeviri, tek tek sözcükleri koruyabilir ama ifadenin kültürel anlamını aktaramayabilir."
+  ],
+  "col": [
+   "gerçek anlam",
+   "kelimesi kelimesine çeviri",
+   "harfi harfine yorum"
+  ],
+  "tip": "literal 'gerçek anlamlı' demektir; 'edebi' anlamına gelen literary ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "clarify",
+  "senses": [
+   "açıklığa kavuşturmak; netleştirmek",
+   "berraklaştırmak"
+  ],
+  "ex": [
+   "Hangi girişi kullanmamız gerektiğini açıklar mısınız?",
+   "Hükümetler, dijital kimlik sistemlerini devreye almadan önce kişisel verilerin nasıl kullanılacağını netleştirmelidir."
+  ],
+  "col": [
+   "bir noktayı açıklığa kavuşturmak",
+   "durumu netleştirmek",
+   "anlamı açıklamak",
+   "berraklaştırılmış tereyağı"
+  ],
+  "tip": "Açıklanacak şeyi doğrudan nesne olarak alır: clarify the rules. Nesneden önce 'about' koymak gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "collaboration",
+  "senses": [
+   "işbirliği",
+   "düşmanla işbirliği; işgalciye yardım"
+  ],
+  "ex": [
+   "Bahçe düzenlememiz birkaç komşunun işbirliğiyle gerçekleşti.",
+   "Üniversiteler ile yerel işletmeler arasında daha yakın işbirliği, öğrencilerin işgücü piyasasına girmeden önce pratik beceri kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "...ile işbirliği içinde",
+   "yakın işbirliği",
+   "uluslararası işbirliği",
+   "...arasındaki işbirliği"
+  ],
+  "tip": "Genel kullanımda olumlu bir anlam taşır; 'düşmanla işbirliği' anlamı savaş bağlamında geçer.",
+  "note": ""
+ },
+ {
+  "id": "rifle",
+  "senses": [
+   "tüfek",
+   "karıştırmak; hızla aramak"
+  ],
+  "ex": [
+   "Müzenin cam dolabında eski bir tüfek duruyordu.",
+   "Müze, sanayideki gelişmelerin askeri ekipmanı nasıl dönüştürdüğünü göstermek için on dokuzuncu yüzyıldan bir tüfek sergiliyor."
+  ],
+  "col": [
+   "av tüfeği",
+   "tüfek namlusu",
+   "çekmeceleri karıştırmak"
+  ],
+  "tip": "Fiil olarak genellikle rifle through biçiminde, bir yerdeki şeyleri aceleyle ve dağınık biçimde karıştırarak aramak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "outsider",
+  "senses": [
+   "yabancı; dışarıdan biri",
+   "kazanma şansı düşük yarışmacı"
+  ],
+  "ex": [
+   "Başta okulda kendimi bir yabancı gibi hissettim.",
+   "Dışarıdan biri, uzun süredir üye olanların fark etmediği zayıf noktaları görebilir."
+  ],
+  "col": [
+   "kendini yabancı hissetmek",
+   "dışarıdan birinin bakış açısı",
+   "kazanma şansı düşük yarışmacı"
+  ],
+  "tip": "Grup dışındaki kişi ve kazanma ihtimali düşük yarışmacı anlamlarına gelebilir; cümlenin bağlamına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "distract",
+  "senses": [
+   "dikkatini dağıtmak"
+  ],
+  "ex": [
+   "Ödev yaparken çalan müzik dikkatimi dağıttı.",
+   "Sık gelen telefon bildirimleri çalışanların dikkatini karmaşık görevlerden uzaklaştırabilir ve uzun süre odaklanma becerisini azaltabilir."
+  ],
+  "col": [
+   "birinin dikkatini ...den dağıtmak",
+   "dikkati başka yöne çekmek",
+   "kolayca dikkati dağılan"
+  ],
+  "tip": "Genellikle distract sb from sth ya da distract sb from doing sth kalıbıyla kullanılır; from edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "kitesurfing",
+  "senses": [
+   "uçurtma sörfü"
+  ],
+  "ex": [
+   "Kuzenim dün sahilde uçurtma sörfü denedi.",
+   "Uçurtma sörfü sunan kıyı tatil yerleri, kazaları azaltmak için eğitim alanlarını yüzme bölgelerinden ayırmalıdır."
+  ],
+  "col": [
+   "uçurtma sörfüne gitmek",
+   "uçurtma sörfü dersleri",
+   "uçurtma sörfü ekipmanı"
+  ],
+  "tip": "Bir uçurtmanın çektiği tahta üzerinde su kayağıdır; yelkenli sörf (windsurfing) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "freely",
+  "senses": [
+   "özgürce; serbestçe",
+   "açıkça; çekinmeden",
+   "gönüllü olarak; cömertçe"
+  ],
+  "ex": [
+   "Tavuklar bütün gün bahçede özgürce dolaşıyor.",
+   "Öğrenciler, başkalarının haklarına ve duygularına saygı göstererek görüşlerini özgürce ifade edebilmelidir."
+  ],
+  "col": [
+   "serbestçe hareket etmek",
+   "çekinmeden konuşmak",
+   "açıkça kabul etmek",
+   "karşılık beklemeden vermek"
+  ],
+  "tip": "Çoğunlukla 'serbestçe' anlamındadır; 'ücretsiz' anlamı için for free kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "curse",
+  "senses": [
+   "küfretmek; sövmek",
+   "lanet; büyü",
+   "belâ; felaket"
+  ],
+  "ex": [
+   "Yağmurda şemsiyesi bozulunca sessizce küfretti.",
+   "Tecrit edilmiş topluluklar için güvenilmez ulaşım, sağlık hizmetine ve istihdama erişimi kısıtlayan bir belâ olabilir."
+  ],
+  "col": [
+   "nefesinin altından küfretmek",
+   "birine lanet okumak",
+   "hem nimet hem belâ"
+  ],
+  "tip": "curse hem küfretmek hem de lanet etmek anlamına gelir; 'yemin etmek' anlamı için swear kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "serving",
+  "senses": [
+   "bir porsiyon",
+   "görevdeki; aktif"
+  ],
+  "ex": [
+   "Tatlıdan önce bir porsiyon daha çorba ister misiniz?",
+   "Porsiyon başına kalori bilgisi, tüketicilerin ürünleri karşılaştırmasına ve daha bilinçli beslenme seçimleri yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir porsiyon",
+   "porsiyon büyüklüğü",
+   "porsiyon başına",
+   "görevdeki subay"
+  ],
+  "tip": "Yiyecek anlamında sayılabilir isimdir: a serving of. Sıfat olarak ise görevde olan, aktif anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "in-store",
+  "senses": [
+   "mağaza içi; mağazadaki",
+   "mağazada; fiziksel mağazada"
+  ],
+  "ex": [
+   "Mağaza bugün ücretsiz mutfak gösterileri düzenliyor.",
+   "Çevrimiçi alışverişin büyümesine rağmen, kişisel tavsiye isteyen müşteriler için mağaza hizmetleri önemini koruyor."
+  ],
+  "col": [
+   "mağaza içi alışveriş",
+   "mağaza içi hizmetler",
+   "mağaza içi promosyon",
+   "mağazada mevcut"
+  ],
+  "tip": "Sıfat ve zarf olarak kullanılır. 'Stokta var' anlamında genellikle in stock denir.",
+  "note": ""
+ },
+ {
+  "id": "survival",
+  "senses": [
+   "hayatta kalma; varlığını sürdürme"
+  ],
+  "ex": [
+   "Kaybolan yürüyüşçüler battaniye ve diğer hayatta kalma ekipmanlarını yanlarında taşıyordu.",
+   "İklim değişikliğiyle tehdit altındaki türlerin varlığını sürdürebilmesi için doğal yaşam alanlarının korunması şarttır."
+  ],
+  "col": [
+   "hayatta kalma becerileri",
+   "hayatta kalma oranı",
+   "uzun vadeli varlığını sürdürme",
+   "hayatta kalmak için mücadele etmek"
+  ],
+  "tip": "survival hayatta kalma durumunu anlatır; hayatta kalan kişi için survivor kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mature",
+  "senses": [
+   "olgun; akıllıca davranan",
+   "tam gelişmiş; yetişkin",
+   "olgunlaşmak; gelişmek"
+  ],
+  "ex": [
+   "Planları değişince Leila olgun bir tepki verdi.",
+   "Genç yetişkinler, parayı yönetmeyi ve günlük sorunları çözmeyi öğrendikçe bağımsız yaşam sayesinde olgunlaşabilir."
+  ],
+  "col": [
+   "olgun bir tutum",
+   "yetişkin öğrenci",
+   "olgun ağaçlar",
+   "duygusal olarak olgun"
+  ],
+  "tip": "Hem fiziksel gelişim hem de davranış olgunluğu için kullanılır. Meyvelerin olgunlaşması için ripe kullanılır.",
+  "note": ""
+ }
+]

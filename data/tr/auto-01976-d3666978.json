@@ -1,0 +1,278 @@
+[
+ {
+  "id": "professional",
+  "senses": [
+   "profesyonel; mesleki",
+   "profesyonel; ehil",
+   "profesyonel; uzman"
+  ],
+  "ex": [
+   "Düğünümüz için profesyonel bir fotoğrafçı tuttuk.",
+   "Sürekli mesleki gelişim, öğretmenlerin yöntemlerini öğrencilerin değişen ihtiyaçlarına ve yeni eğitim teknolojilerine uyarlamasına yardımcı olur."
+  ],
+  "col": [
+   "profesyonel tavsiye",
+   "mesleki gelişim",
+   "profesyonel sporcu",
+   "sağlık profesyoneli"
+  ],
+  "tip": "Bir kişi için isim olarak da kullanılır (a professional). amateur ile karşıtlığına dikkat edin: amateur kişi ücret almaz.",
+  "note": ""
+ },
+ {
+  "id": "stir",
+  "senses": [
+   "karıştırmak",
+   "uyandırmak; harekete geçirmek",
+   "kargaşa; heyecan"
+  ],
+  "ex": [
+   "Çorba yapışmasın diye yavaşça karıştırın.",
+   "Nesli tükenmekte olan hayvanlarla ilgili belgeseller kamuoyunda endişe uyandırabilir ve yaban hayatının korunması için daha güçlü desteği teşvik edebilir."
+  ],
+  "col": [
+   "iyice karıştırmak",
+   "karıştırıp eklemek",
+   "büyük heyecan yaratmak",
+   "sorun çıkarmak"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç stirred, ing hâli stirring; r harfi ikiye katlanır. 'stir up' sorun çıkarmak anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "major",
+  "senses": [
+   "önemli; büyük",
+   "ana dal; bölüm",
+   "ana dalı olarak okumak"
+  ],
+  "ex": [
+   "Fırtına çatımıza büyük zarar verdi.",
+   "Uygun fiyatlı çocuk bakımına erişim, işe dönmek isteyen ebeveynler için hâlâ önemli bir kaygı."
+  ],
+  "col": [
+   "büyük sorun",
+   "önemli rol",
+   "biyoloji okumak",
+   "büyük atılım"
+  ],
+  "tip": "Fiil olarak 'major in' kalıbıyla kullanılır: major in biology. Amerikan İngilizcesinde daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "shoot",
+  "senses": [
+   "ateş etmek; vurmak",
+   "film çekmek",
+   "filiz; sürgün"
+  ],
+  "ex": [
+   "Yerel bir kulüpte ok atmayı öğrendi.",
+   "Film ekipleri, iklim değişikliğinin etkilerini vurgulamak için genellikle uzak bölgelerde belgesel çeker."
+  ],
+  "col": [
+   "film çekmek",
+   "ok atmak",
+   "yeni filiz"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç shot'tur. 'shoot at' bir hedefe doğru ateş etmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "pigeon",
+  "senses": [
+   "güvercin"
+  ],
+  "ex": [
+   "Gri bir güvercin yanımdaki banka kondu.",
+   "Şehirlerdeki güvercin sayısı, yiyecek atıklarının bol olduğu yerlerde genellikle artar; bu da etkili çöp toplamanın önemini gösterir."
+  ],
+  "col": [
+   "bir sürü güvercin",
+   "posta güvercini",
+   "güvercinleri beslemek"
+  ],
+  "tip": "Yazımına dikkat edin: pigeon. 'pidgin' (karma dil) ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "industry",
+  "senses": [
+   "sanayi; endüstri",
+   "sektör; endüstri",
+   "çalışkanlık; gayret"
+  ],
+  "ex": [
+   "Balıkçılık sektörü birçok yerel aileye iş sağlıyor.",
+   "Daha temiz teknolojiye yapılan yatırımlar, ağır sanayinin üretim düzeyini önemli ölçüde düşürmeden emisyonları azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "ağır sanayi",
+   "turizm sektörü",
+   "imalat sanayisi",
+   "sanayi gelişimi"
+  ],
+  "tip": "Sıfat biçimleri karıştırılmamalı: industrial (sanayiye ait) ve industrious (çalışkan).",
+  "note": ""
+ },
+ {
+  "id": "opportunity",
+  "senses": [
+   "fırsat; şans"
+  ],
+  "ex": [
+   "Okul gezisi tırmanmayı deneme fırsatı verdi bana.",
+   "Halk kütüphaneleri, yerel halkın pahalı kurs ücretleri ödemeden beceri geliştirmesi için önemli bir fırsat sunar."
+  ],
+  "col": [
+   "öğrenme fırsatı",
+   "fırsatı değerlendirmek",
+   "eşit fırsatlar"
+  ],
+  "tip": "an opportunity to do sth kalıbını kullanın; 'to'dan sonra fiilin yalın hâli gelir.",
+  "note": ""
+ },
+ {
+  "id": "cutlery",
+  "senses": [
+   "çatal bıçak takımı"
+  ],
+  "ex": [
+   "Lütfen temiz çatal bıçakları tabakların yanına koyun.",
+   "Restoranlar, tek kullanımlık çatal bıçakları yıkanıp yeniden kullanılabilen dayanıklı alternatiflerle değiştirerek plastik atığı azaltabilir."
+  ],
+  "col": [
+   "bir takım çatal bıçak",
+   "tek kullanımlık çatal bıçak",
+   "paslanmaz çelik çatal bıçak"
+  ],
+  "tip": "Sayılamayan isimdir, çoğul eki almaz. Tek bir parça için 'a piece of cutlery' denir.",
+  "note": ""
+ },
+ {
+  "id": "nor",
+  "senses": [
+   "ne de; ya da"
+  ],
+  "ex": [
+   "Ne anahtarlarımı bulabildim ne de arabayı nereye park ettiğimi hatırlayabildim.",
+   "Sadece yolları genişletmek, trafik sıkışıklığını çözmeyecek ve özel araçların yol açtığı çevre zararını da azaltmayacak."
+  ],
+  "col": [
+   "ne ... ne de ...",
+   "ben de değilim",
+   "biz de yapamayız"
+  ],
+  "tip": "neither ... nor ... kalıbında nor ikinci kısmı başlatır. nor bir cümle başında geldiğinde soru devriği olur: nor do I.",
+  "note": ""
+ },
+ {
+  "id": "contact",
+  "senses": [
+   "iletişim; temas",
+   "iletişime geçmek",
+   "tanıdık; bağlantı"
+  ],
+  "ex": [
+   "Anahtarınızı kaybederseniz lütfen resepsiyonla iletişime geçin.",
+   "Ailesiyle düzenli temas kuran yaşlılar, yalnız yaşayanlar arasında yalnızlık hissini azaltabilir."
+  ],
+  "col": [
+   "iletişimde kalmak",
+   "iletişim bilgileri",
+   "doğrudan temas",
+   "temasa geçmek"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: contact sb. 'contact with' denmez; Türkçedeki 'iletişime geçmek' kalıbına bakarak with eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "woollen",
+  "senses": [
+   "yünlü; yün"
+  ],
+  "ex": [
+   "Dışarı çıkmadan önce kalın yünlü çorapları giydim.",
+   "Yünlü giysiler mükemmel yalıtım sağlasa da çevresel etkisi kısmen tarım uygulamalarına ve üretim yöntemlerine bağlıdır."
+  ],
+  "col": [
+   "yünlü kazak",
+   "yünlü çoraplar",
+   "yünlü battaniye"
+  ],
+  "tip": "İngiliz yazımı woollen, Amerikan yazımı woolen'dir. Sınavda birini seçip tutarlı kullanın.",
+  "note": ""
+ },
+ {
+  "id": "prevent",
+  "senses": [
+   "önlemek; engellemek"
+  ],
+  "ex": [
+   "Bu sıkı kapak çorbanın dökülmesini önleyecek.",
+   "Erken sağlık eğitimine yatırım yapmak, kronik hastalıkların önlenmesine yardımcı olabilir ve gelecekte kamu sağlık hizmetlerine yüklenen baskıyı azaltabilir."
+  ],
+  "col": [
+   "kazaları önlemek",
+   "hastalığı önlemek",
+   "birinin yapmasını engellemek"
+  ],
+  "tip": "Kalıp: prevent sb from doing. 'prevent sb to do' yanlıştır; from edatı gereklidir.",
+  "note": ""
+ },
+ {
+  "id": "mad",
+  "senses": [
+   "kızgın; öfkeli",
+   "çılgın; mantıksız",
+   "tutkun; hayran"
+  ],
+  "ex": [
+   "Favori fincanımı kırdığım için babam çok kızdı.",
+   "Bazı sakinler futbola çılgınca tutkuluyken, kamu spor finansmanı daha geniş bir faaliyet yelpazesini desteklemelidir."
+  ],
+  "col": [
+   "kızmak",
+   "birine kızgın olmak",
+   "futbola çılgınca tutkun olmak",
+   "birini çıldırtmak"
+  ],
+  "tip": "mad at sb: birine kızgın olmak; mad about sth: bir şeye tutkun olmak. Edatı değiştirmek anlamı da değiştirir.",
+  "note": ""
+ },
+ {
+  "id": "jail",
+  "senses": [
+   "hapishane; cezaevi",
+   "hapse atmak; hapsetmek"
+  ],
+  "ex": [
+   "Eski cezaevi artık müze olarak ziyaretçileri ağırlıyor.",
+   "Cezaevindeki eğitim programları mahkûmların beceri geliştirmesine ve tahliyeden sonra iş bulma şanslarını artırmasına yardımcı olabilir."
+  ],
+  "col": [
+   "hapse girmek",
+   "hapis cezası",
+   "dolandırıcılıktan hapse atılmak"
+  ],
+  "tip": "in jail (hapiste) ve go to jail ifadelerinde article kullanılmaz. İngiliz İngilizcesinde prison daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "disadvantage",
+  "senses": [
+   "dezavantaj; olumsuzluk"
+  ],
+  "ex": [
+   "Bu dairenin başlıca dezavantajı gürültüsü.",
+   "Okullar çevrim içi öğrenmeye ağırlıklı olarak güvendiğinde, güvenilir internet erişimi olmayan öğrenciler ciddi bir dezavantajla karşılaşır."
+  ],
+  "col": [
+   "dezavantajlı durumda",
+   "önemli bir dezavantaj",
+   "avantaj ve dezavantajlar"
+  ],
+  "tip": "be at a disadvantage (dezavantajlı olmak) kalıbında 'a' artikeli unutulmamalı.",
+  "note": ""
+ }
+]

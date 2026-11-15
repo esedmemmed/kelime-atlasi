@@ -48,7 +48,7 @@ def snapshot_source():
         idx = json.loads((PUB / "index.json").read_text(encoding="utf-8"))
         if idx.get("lang") == "tr":
             sys.exit("public/atlas/index.json is already Turkish and data/source/media.json is missing")
-        (SRC / "media.json").write_text(json.dumps({r[0]: r[6] for r in idx["words"]}), encoding="utf-8")
+        (SRC / "media.json").write_text(json.dumps({r[0]: r[6] for r in idx["words"]}), encoding="utf-8", newline="\n")
 
 
 def load_overlays():
@@ -96,7 +96,7 @@ def main():
         old.unlink()
     for n in range(0, len(entries), 100):
         chunk = [dict(c, m=media.get(c["id"], 0)) for c in entries[n : n + 100]]
-        (chunks / f"{n // 100}.json").write_text(json.dumps(chunk, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        (chunks / f"{n // 100}.json").write_text(json.dumps(chunk, ensure_ascii=False, separators=(",", ":")), encoding="utf-8", newline="\n")
 
     index = []
     for c in entries:
@@ -120,13 +120,13 @@ def main():
         "fields": ["id", "word", "tr", "ipa", "cefr", "topic", "media"],
         "words": index,
     }
-    (PUB / "index.json").write_text(json.dumps(meta, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (PUB / "index.json").write_text(json.dumps(meta, ensure_ascii=False, separators=(",", ":")), encoding="utf-8", newline="\n")
 
     public = [{k: v for k, v in c.items() if k != "m"} for c in entries]
     for c in public:  # rename for the downloadable dataset
         c["senses"] = [{"pos": s["pos"], "tr": s["zh"], "en": s["en"]} for s in c["senses"]]
         c["ex"] = [{"en": x["en"], "tr": x["zh"]} for x in c["ex"]]
-    (DATA / "word-atlas-tr.json").write_text(json.dumps(public, ensure_ascii=False, indent=1), encoding="utf-8")
+    (DATA / "word-atlas-tr.json").write_text(json.dumps(public, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
     with open(DATA / "word-atlas-tr.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["id", "word", "ipa_uk", "ipa_us", "cefr", "topic", "meanings_tr", "definition_en",

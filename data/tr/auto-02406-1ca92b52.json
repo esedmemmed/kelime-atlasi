@@ -1,0 +1,282 @@
+[
+ {
+  "id": "seafood",
+  "senses": [
+   "deniz ürünleri"
+  ],
+  "ex": [
+   "Bu sabah limanda taze deniz ürünleri aldık.",
+   "Sürdürülebilir deniz ürünlerine olan talep, bazı balıkçı topluluklarını deniz ekosistemlerine daha az zarar veren yöntemleri benimsemeye yöneltti."
+  ],
+  "col": [
+   "taze deniz ürünleri",
+   "deniz ürünleri restoranı",
+   "sürdürülebilir deniz ürünleri"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; bir tabak deniz ürünü için 'a plate of seafood' denir.",
+  "note": ""
+ },
+ {
+  "id": "brand",
+  "senses": [
+   "marka",
+   "kötü damgalamak; etiketlemek"
+  ],
+  "ex": [
+   "Genellikle hangi marka diş macunu alırsın?",
+   "Tüketiciler, daha ucuz alternatifler benzer kalitede olsa bile tanıdık bir markayı tercih edebilir."
+  ],
+  "col": [
+   "marka sadakati",
+   "marka imajı",
+   "önde gelen bir marka",
+   "birini ... diye damgalamak"
+  ],
+  "tip": "'Brand' genel olarak markayı ifade eder; yasal korumalı ticari markalar için 'trademark' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tire",
+  "senses": [
+   "yormak; yorulmak",
+   "bıkmak; ilgisini kaybetmek",
+   "lastik"
+  ],
+  "ex": [
+   "Uzun yürüyüşler büyükbabamı yoruyor, bu yüzden sık sık duruyoruz.",
+   "Öğrenciler, öğretmenler çeşitli etkinlikler sunmadıkça tekrarlayan alıştırmalardan sıkılabilir."
+  ],
+  "col": [
+   "kolay yorulmak",
+   "bir şeyden bıkmak",
+   "patlak lastik"
+  ],
+  "tip": "Fiil olarak İngiliz ve Amerikan İngilizcesinde 'tire' yazılır; isim olarak Amerikan yazımı 'tire', İngiliz yazımı 'tyre'dır.",
+  "note": ""
+ },
+ {
+  "id": "celery",
+  "senses": [
+   "kereviz; sap kereviz"
+  ],
+  "ex": [
+   "Kerevizi doğrayıp çorbaya ekledim.",
+   "Kereviz gibi sebzeleri yerel olarak yetiştirmek taşıma maliyetlerini düşürebilir ve topluluklara taze ürün sağlayabilir."
+  ],
+  "col": [
+   "bir sap kereviz",
+   "doğranmış kereviz",
+   "kereviz çorbası"
+  ],
+  "tip": "Genellikle sayılamaz; tek bir sap için 'a stalk of celery' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "location",
+  "senses": [
+   "konum; yer",
+   "çekim yeri; dış mekân"
+  ],
+  "ex": [
+   "Bu kafenin nehir kenarında çok güzel bir konumu var.",
+   "Uygun fiyatlı konutların konumu, sakinlerin okullara, sağlık hizmetlerine ve iş imkânlarına erişimini büyük ölçüde etkiler."
+  ],
+  "col": [
+   "merkezi konum",
+   "ideal konum",
+   "dış mekânda çekilmiş",
+   "tam konum"
+  ],
+  "tip": "'On location' ifadesi stüdyo dışında, gerçek mekânda çekim yapıldığını belirtir.",
+  "note": ""
+ },
+ {
+  "id": "questionnaire",
+  "senses": [
+   "anket; soru formu"
+  ],
+  "ex": [
+   "Kliniği terk etmeden önce lütfen bu kısa anketi doldurun.",
+   "Araştırmacılar, işe gidiş süresinin çalışanların refahını ve iş memnuniyetini nasıl etkilediğini incelemek için bir anket dağıttı."
+  ],
+  "col": [
+   "bir anketi doldurmak",
+   "anket tasarlamak",
+   "anket dağıtmak",
+   "anket yanıtları"
+  ],
+  "tip": "'Questionnaire' ikili 'n' içerir ve vurgu sonda düşer; 'survey' bir araştırmayı, 'questionnaire' ise bu araştırmada kullanılan aracı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "tongue",
+  "senses": [
+   "dil",
+   "dil; lisan"
+  ],
+  "ex": [
+   "Sıcak çorbadan dilimi yaktım.",
+   "Erken yaşta ana dilinde eğitim alan çocuklar, diğer dilleri öğrenmek için daha sağlam bir temel geliştirebilir."
+  ],
+  "col": [
+   "ana dil",
+   "dilini çıkarmak",
+   "dilini ısırmak; sözünü yutmak",
+   "aklının ucunda olmak"
+  ],
+  "tip": "'Tongue' organ anlamında 'dil' demektir; dil/lisan anlamı genellikle 'mother tongue' gibi kalıplarda görülür.",
+  "note": ""
+ },
+ {
+  "id": "label",
+  "senses": [
+   "etiket; künye",
+   "etiketlemek",
+   "damgalamak; nitelemek"
+  ],
+  "ex": [
+   "Yeni kazağını yıkamadan önce etikete bak.",
+   "Okullar, çocukları başarısız olarak etiketlemekten kaçınmalıdır; çünkü bu onların özgüvenine ve motivasyonuna zarar verebilir."
+  ],
+  "col": [
+   "etiketi okumak",
+   "gıda etiketi",
+   "birini ... diye etiketlemek"
+  ],
+  "tip": "İngiliz İngilizcesinde geçmiş zaman 'labelled', Amerikan İngilizcesinde genellikle 'labeled' yazılır.",
+  "note": ""
+ },
+ {
+  "id": "trolley",
+  "senses": [
+   "alışveriş arabası; el arabası",
+   "tramvay"
+  ],
+  "ex": [
+   "Kasaya doğru market poşetleriyle dolu bir arabayı itti.",
+   "Havalimanları, aileler ve yaşlı yolcular için yolculuğu kolaylaştırmak adına bagaj arabalarını ücretsiz sunmalıdır."
+  ],
+  "col": [
+   "alışveriş arabası",
+   "bagaj arabası",
+   "arabayı itmek"
+  ],
+  "tip": "Amerikan İngilizcesinde market arabası için genellikle 'shopping cart' kullanılır; 'trolley' İngiliz kullanımına daha yakındır.",
+  "note": ""
+ },
+ {
+  "id": "rush",
+  "senses": [
+   "acele etmek; koşmak",
+   "acele; yoğun dönem",
+   "ani duygu dalgası"
+  ],
+  "ex": [
+   "Kapı zili çalınca aceleyle aşağı indim.",
+   "Hükümetler, büyük ulaşım projelerini önce çevresel ve mali etkilerini değerlendirmeden aceleyle başlatmamalıdır."
+  ],
+  "col": [
+   "yoğun saat",
+   "acele içinde",
+   "acele karar vermek",
+   "heyecan dalgası"
+  ],
+  "tip": "'Rush to do' bir şeyi acele ederek yapmayı; 'rush into' ise düşünmeden, aceleyle bir işe girişmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "accommodation",
+  "senses": [
+   "konaklama yeri; barınak",
+   "uzlaşma; uyum sağlayıcı düzenleme"
+  ],
+  "ex": [
+   "Geçen yaz sahilin yakınında ucuz bir konaklama yeri bulduk.",
+   "Üniversiteler, dezavantajlı geçmişe sahip öğrencilerin aşırı mali baskı olmadan eğitim alabilmeleri için uygun fiyatlı konaklama sunmalıdır."
+  ],
+  "col": [
+   "öğrenci yurdu",
+   "uygun fiyatlı konaklama",
+   "geçici barınma",
+   "bir uzlaşmaya varmak"
+  ],
+  "tip": "İngiliz İngilizcesinde konaklama anlamında genellikle sayılamaz; yazımda çift 'c' ve çift 'm' dikkat gerektirir.",
+  "note": ""
+ },
+ {
+  "id": "treasure",
+  "senses": [
+   "hazine; değerli eşya",
+   "değerli şey; kıymetli varlık",
+   "değer vermek; saklamak"
+  ],
+  "ex": [
+   "Çocuklar eski sandığın içinde bir hazine bulmayı hayal etti.",
+   "Müzeler kültürel değerleri koruyarak gelecek kuşakların önceki toplumların başarılarını ve geleneklerini anlamasını sağlar."
+  ],
+  "col": [
+   "gömülü hazine",
+   "ulusal hazine",
+   "anıları değerlendirmek",
+   "define avı"
+  ],
+  "tip": "Genel olarak hazine anlamında sayılamaz; belirli bir değerli nesneden söz edilirken sayılabilir olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "regret",
+  "senses": [
+   "üzülmek; pişman olmak",
+   "pişmanlık; üzüntü"
+  ],
+  "ex": [
+   "Bu sabah şemsiyemi evde unuttuğum için üzgünüm.",
+   "Mezunlar, iş yalnızca az kişisel tatmin sağlıyorsa, sadece maaşı için bir meslek seçtiklerine pişman olabilirler."
+  ],
+  "col": [
+   "bir şey yaptığına pişman olmak",
+   "derin pişmanlık",
+   "üzüntüsünü dile getirmek",
+   "üzülerek bildirmek"
+  ],
+  "tip": "'Regret doing' geçmişte yapılmış bir şeye pişmanlık; 'regret to say/inform' ise resmi bir üzücü haberi belirtir.",
+  "note": ""
+ },
+ {
+  "id": "knit",
+  "senses": [
+   "örmek",
+   "kenetlenmek; kaynamak"
+  ],
+  "ex": [
+   "Büyükbabam bana sıcak bir atkı ördü.",
+   "Yerel barınaklara battaniye ören topluluk grupları pratik destek ile sosyal etkileşim fırsatlarını bir araya getirir."
+  ],
+  "col": [
+   "kazak örmek",
+   "sıkı bağlanmak",
+   "kaşlarını çatmak"
+  ],
+  "tip": "'K' harfi okunmaz; geçmiş zaman ve ortaç için hem 'knitted' hem 'knit' kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "clown",
+  "senses": [
+   "palyaço",
+   "şaka yapan kişi; soytarı",
+   "şakalaşmak; palavra atmak"
+  ],
+  "ex": [
+   "Palyaço balondan küçük bir köpek yaptı.",
+   "Eğitimli bir palyaço, genç hastaların hastanede kalışları sırasında daha rahat hissetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "sirk palyaçosu",
+   "sınıfın şakacısı",
+   "etrafta palyaçoluk yapmak"
+  ],
+  "tip": "'Clown around' eğlenmek için aptalca davranmak anlamındadır; birine 'clown' demek bazen küçümseyici olabilir.",
+  "note": ""
+ }
+]

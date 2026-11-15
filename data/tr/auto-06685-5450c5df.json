@@ -1,0 +1,271 @@
+[
+ {
+  "id": "senate",
+  "senses": [
+   "senato; üst meclis",
+   "Roma senatosu"
+  ],
+  "ex": [
+   "Bugün sınıfımız televizyonda senato tartışmasını izledi.",
+   "Bazı siyasi sistemlerde senato, önerilen yasaları inceler ve bölgesel çıkarları ulusal hükümet içinde temsil eder."
+  ],
+  "col": [
+   "senato seçimi",
+   "senato komitesi",
+   "senato tartışması",
+   "senatoda bir koltuk"
+  ],
+  "tip": "Belirli bir ülkenin senatosundan söz ederken genellikle the Senate biçiminde, baş harfi büyük yazılır.",
+  "note": ""
+ },
+ {
+  "id": "coherent",
+  "senses": [
+   "tutarlı; mantıklı"
+  ],
+  "ex": [
+   "Biraz pratikten sonra açık ve tutarlı bir açıklama yaptı.",
+   "Tutarlı bir ulaşım politikası, kamu hizmetlerine yapılan yatırımı uzun vadeli çevresel ve ekonomik hedeflerle bağlamalıdır."
+  ],
+  "col": [
+   "tutarlı bir argüman",
+   "tutarlı bir açıklama",
+   "tutarlı bir strateji"
+  ],
+  "tip": "İçeriğin mantıksal olarak tutarlı olduğunu vurgular; cohesive ise parçaların birbirine sıkı biçimde bağlı olmasını vurgular.",
+  "note": ""
+ },
+ {
+  "id": "rectify",
+  "senses": [
+   "düzeltmek; gidermek"
+  ],
+  "ex": [
+   "Dükkân hatayı hemen düzeltti ve bana para iadesi yaptı.",
+   "Yerel yönetimler, giderek artan yağmurlar daha fazla hasar vermeden önce drenaj sistemlerindeki eksiklikleri gidermelidir."
+  ],
+  "col": [
+   "bir hatayı düzeltmek",
+   "bir sorunu gidermek",
+   "durumu düzeltmek"
+  ],
+  "tip": "Resmi bir kelimedir; error, mistake ve situation gibi isimlerle kullanılır. Günlük konuşmada fix veya correct daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "above-mentioned",
+  "senses": [
+   "yukarıda belirtilen; adı geçen"
+  ],
+  "ex": [
+   "Lütfen yukarıda belirtilen belgeleri bir sonraki toplantımıza getirin.",
+   "Yerel yönetimler yeterli finansman ve denetim sağlarsa, yukarıda sözü edilen önlemler kentsel hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "yukarıda belirtilen belgeler",
+   "yukarıda belirtilen önlemler",
+   "yukarıda sözü edilen etkenler"
+  ],
+  "tip": "Resmi yazılı dilde kullanılır ve genellikle isimden önce gelir. Yazıda aşırı kullanmaktan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "queer",
+  "senses": [
+   "garip; tuhaf",
+   "queer; normatif olmayan"
+  ],
+  "ex": [
+   "Dolabın içinden garip bir tıkırtı sesi geliyordu.",
+   "Müzeler, sergilerinde daha geniş bir deneyim yelpazesini yansıtmak için giderek daha fazla queer bakış açısına yer veriyor."
+  ],
+  "col": [
+   "garip bir his",
+   "garip bir ses",
+   "queer kimlik"
+  ],
+  "tip": "'Garip' anlamı eskimiş bir kullanımdır. Cinsel veya cinsiyet kimliği anlamında, kişilerin kendi tercihine saygı gösterin.",
+  "note": "Cinsel veya cinsiyet kimliklerinden söz ederken bazı insanlar bu kelimeyi kendilerini tanımlamak için kullanır, bazıları ise kırıcı bulur."
+ },
+ {
+  "id": "nautical",
+  "senses": [
+   "denizcilikle ilgili; gemici"
+  ],
+  "ex": [
+   "Amcam eski denizcilik haritaları ve ahşap tekneler topluyor.",
+   "Modern denizcilik ekipmanları mürettebatın güvenle seyretmesine yardımcı olur, ancak denizde kazaları önlemek için pratik eğitim hâlâ şarttır."
+  ],
+  "col": [
+   "deniz mili",
+   "denizcilik haritası",
+   "denizcilik ekipmanı",
+   "denizcilik teması"
+  ],
+  "tip": "nautical gemi ve seyirle ilgilidir; naval ise donanma ve deniz kuvvetleriyle ilgilidir.",
+  "note": ""
+ },
+ {
+  "id": "disclose",
+  "senses": [
+   "açıklamak; ifşa etmek"
+  ],
+  "ex": [
+   "Otel, misafirleriyle ilgili hiçbir ayrıntıyı açıklamadı.",
+   "Şirketler, tüketicilerin bilinçli kararlar verebilmesi için kişisel verileri nasıl topladıklarını açıklamalıdır."
+  ],
+  "col": [
+   "bilgi açıklamak",
+   "ayrıntıları açıklamak",
+   "bir şeyi birine açıklamak"
+  ],
+  "tip": "Kalıp olarak disclose sth to sb biçiminde kullanılır. Ayrıca disclose that ile başlayan bir yan cümle de alabilir.",
+  "note": ""
+ },
+ {
+  "id": "exasperation",
+  "senses": [
+   "bıkkınlık; sabırsızlık"
+  ],
+  "ex": [
+   "Yazıcı yine sıkışınca içini çekerek bıkkınlıkla iç geçirdi.",
+   "Toplu taşımadaki tekrarlayan gecikmeler yaygın bir bıkkınlığa yol açabilir ve yerel yönetimlere duyulan güveni azaltabilir."
+  ],
+  "col": [
+   "bıkkınlıkla",
+   "bıkkınlık dolu bir iç çekiş",
+   "artan bıkkınlık"
+  ],
+  "tip": "Tekrarlayan sorunlardan doğan öfke ve sabırsızlığı anlatır. Kötüleşme anlamına gelen exacerbation ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "discord",
+  "senses": [
+   "anlaşmazlık; uyuşmazlık",
+   "uyumsuz ses; ahenksizlik"
+  ],
+  "ex": [
+   "Ev işleri yüzünden ev arkadaşları arasında anlaşmazlık çıktı.",
+   "Kaynaklara eşit erişim olmaması, özellikle topluluklar siyasi kararların dışında bırakıldığını hissettiğinde toplumsal anlaşmazlığı körükleyebilir."
+  ],
+  "col": [
+   "toplumsal anlaşmazlık",
+   "anlaşmazlık tohumu ekmek",
+   "anlaşmazlık kaynağı",
+   "evlilik içi anlaşmazlık"
+  ],
+  "tip": "Anlaşmazlık anlamında genellikle sayılamaz bir isimdir ve disagreement'tan daha resmîdir.",
+  "note": ""
+ },
+ {
+  "id": "inclusive",
+  "senses": [
+   "kapsayıcı; herkesi içeren",
+   "masrafları içeren; dahil",
+   "başlangıç ve bitiş dahil"
+  ],
+  "ex": [
+   "Kapsayıcı dans dersimiz her yetenekten insanı memnuniyetle karşılar.",
+   "Okullar, farklı ihtiyaçları olan öğrencilerin sınıf etkinliklerine tam olarak katılabileceği kapsayıcı öğrenme ortamları yaratmalıdır."
+  ],
+  "col": [
+   "kapsayıcı eğitim",
+   "kapsayıcı bir toplum",
+   "vergi dahil",
+   "vergi dahil fiyat"
+  ],
+  "tip": "inclusive of 'dahil' anlamına gelir. Tarih aralığından sonra kullanıldığında başlangıç ve bitiş günlerinin de sayıldığını gösterir.",
+  "note": ""
+ },
+ {
+  "id": "happening",
+  "senses": [
+   "olay; gelişme"
+  ],
+  "ex": [
+   "Amcam bize tuhaf olaylarla ilgili hikâyeler anlatıp bizi eğlendirir.",
+   "Yerel gazeteler, gelecekteki araştırmacıların toplulukların nasıl yaşadığını ve değiştiğini anlamasına yardımcı olan günlük olayları kaydeder."
+  ],
+  "col": [
+   "tuhaf olaylar",
+   "yerel olaylar",
+   "günlük olaylar"
+  ],
+  "tip": "İsim olarak genellikle çoğul happenings biçiminde kullanılır. Resmi etkinlikler için event daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "gush",
+  "senses": [
+   "fışkırmak; akmak",
+   "coşkuyla konuşmak",
+   "fışkırma; sel"
+  ],
+  "ex": [
+   "Lavabonun altındaki kırık borudan su fışkırdı.",
+   "Eskiyen borular patladığında temiz su sokaklara fışkırabilir, kaynakları boşa harcayabilir ve yerel ulaşımı aksatabilir."
+  ],
+  "col": [
+   "fışkırmak",
+   "borudan fışkırmak",
+   "bir şey hakkında coşkuyla konuşmak",
+   "bir su fışkırması"
+  ],
+  "tip": "İnsanlar için gush about kullanıldığında genellikle övgünün aşırı coşkulu olduğunu ima eder.",
+  "note": ""
+ },
+ {
+  "id": "feudal",
+  "senses": [
+   "feodal; derebeylik"
+  ],
+  "ex": [
+   "Rehber, feodal beylerin bu vadiyi nasıl denetlediğini anlattı.",
+   "Feodal sistemde toprağa erişim, bir kişinin toplumsal konumunu ve ekonomik güvenliğini büyük ölçüde belirlerdi."
+  ],
+  "col": [
+   "feodal sistem",
+   "feodal bey",
+   "feodal toplum"
+  ],
+  "tip": "Esas olarak toprağın sadakat ve hizmet karşılığında verildiği tarihî sistemi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "prose",
+  "senses": [
+   "düzyazı; nesir"
+  ],
+  "ex": [
+   "Onun açık düzyazısı bu kitabı okumayı keyifli kılıyor.",
+   "İyi kurgulanmış düzyazı okumak, öğrencilerin kelime dağarcığını genişletmesine ve karmaşık fikirleri daha net ifade etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "düzyazı hâlinde",
+   "açık bir düzyazı",
+   "düzyazı kurgu",
+   "nesir şiir"
+  ],
+  "tip": "Sayılamaz bir isimdir. Yalnızca edebî metinleri değil, romanlar dahil manzum olmayan tüm yazıyı kapsar.",
+  "note": ""
+ },
+ {
+  "id": "streamline",
+  "senses": [
+   "sadeleştirmek; verimli kılmak",
+   "akıcı hatlı yapmak"
+  ],
+  "ex": [
+   "Evden daha erken çıkabilmek için sabah rutinimizi sadeleştirdik.",
+   "Hastaneler, bekleme sürelerini azaltmak ve temel bakıma erişimi iyileştirmek için randevu sistemlerini sadeleştirebilir."
+  ],
+  "col": [
+   "işleyişi sadeleştirmek",
+   "bir süreci sadeleştirmek",
+   "yönetimi sadeleştirmek"
+  ],
+  "tip": "Genellikle fiil olarak kullanılır. 'Akıcı hatlı' anlamındaki sıfat biçimi streamlined'dır.",
+  "note": ""
+ }
+]

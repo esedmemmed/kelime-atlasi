@@ -1,0 +1,291 @@
+[
+ {
+  "id": "find",
+  "senses": [
+   "bulmak",
+   "bulmak; saymak",
+   "buluntu; keşif"
+  ],
+  "ex": [
+   "Ceket cebimin içinde sonunda anahtarlarımı buldum.",
+   "Birçok öğrenci çevrim içi dersleri uygun buluyor, ancak bazıları sınıf etkileşimi olmadan motivasyonunu korumakta zorlanıyor."
+  ],
+  "col": [
+   "çözüm bulmak",
+   "öğrenmek; ortaya çıkarmak",
+   "onu zor bulmak",
+   "değerli bir buluntu"
+  ],
+  "tip": "Geçmiş zaman ve ortaç found'dur. find + nesne + sıfat yapısında 'find it difficult to' gibi kalıplar sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sell",
+  "senses": [
+   "satmak",
+   "satılmak; satış yapmak",
+   "ikna etmek; kabul ettirmek"
+  ],
+  "ex": [
+   "Her cumartesi pazarda taze ekmek satıyorlar.",
+   "Küçük işletmeler, yerel topluluklarının ötesindeki müşterilere ulaşmak için ürünlerini giderek daha çok internetten satıyor."
+  ],
+  "col": [
+   "tükenmek; hepsi satılmak",
+   "iyi satmak",
+   "birine bir şey satmak",
+   "bir fikri kabul ettirmek"
+  ],
+  "tip": "Geçmiş zaman ve ortaç sold'dur. 'Sell well' çoğunlukla etken yapıda kullanılır; edilgen kullanım daha az yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "walk",
+  "senses": [
+   "yürümek",
+   "yürüyüş; yürüme"
+  ],
+  "ex": [
+   "Her pazar sabahı yürüyerek fırına gideriz.",
+   "Güvenli kaldırımlar ve cazip kamusal alanlar, sakinleri kısa yolculuklar için araba yerine yürümeye teşvik eder."
+  ],
+  "col": [
+   "yürüyüşe çıkmak",
+   "okula yürüyerek gitmek",
+   "köpeği gezdirmek",
+   "tempolu bir yürüyüş"
+  ],
+  "tip": "'l' harfi okunmaz. 'Walk the dog' deyimi 'köpeği gezdirmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "as",
+  "senses": [
+   "olarak; sıfatıyla",
+   "-dığında; -diği için; gibi",
+   "kadar; aynı ölçüde"
+  ],
+  "ex": [
+   "Müzede yerel rehber olarak çalışıyor.",
+   "Toplu taşıma daha güvenilir hale geldikçe, daha az yolcu işe arabayla gitmeyi tercih edebilir."
+  ],
+  "col": [
+   "olarak çalışmak",
+   "bunun sonucu olarak",
+   "-ır -maz hemen",
+   "-un yanı sıra"
+  ],
+  "tip": "'As' gerçek rolü veya nedeni belirtir; benzerlik için 'like' kullanılır. Vurgusuz okunuşu /əz/, vurgulu okunuşu /æz/ olur.",
+  "note": ""
+ },
+ {
+  "id": "run",
+  "senses": [
+   "koşmak",
+   "yönetmek; işletmek",
+   "işlemek; çalışmak"
+  ],
+  "ex": [
+   "Bu sabah kahvaltıdan önce parkta koştuk.",
+   "Yerel yönetimler, işsiz sakinlerin işverenlerin istediği becerileri kazanmasına yardımcı olmak için sık sık eğitim programları düzenler."
+  ],
+  "col": [
+   "bir işletmeyi yönetmek",
+   "bir programı yürütmek",
+   "sorunsuz işlemek",
+   "maraton koşmak"
+  ],
+  "tip": "Geçmiş zaman ran, ortaç run'dır. Şimdiki zaman biçimi running'dir.",
+  "note": ""
+ },
+ {
+  "id": "look",
+  "senses": [
+   "bakmak",
+   "görünmek",
+   "bakış; görünüş"
+  ],
+  "ex": [
+   "Pencerenin yanındaki minik kuşa bak.",
+   "Yerel sakinler bahçelerinin ve yollarının bakımına yardım ettiğinde kamu parkları genellikle daha çekici görünür."
+  ],
+  "col": [
+   "-e bakmak",
+   "dört gözle beklemek",
+   "bir göz atmak",
+   "-e benzemek"
+  ],
+  "tip": "'Look at' bakılan nesneyi alır. 'Look' + sıfat görünüşü anlatır (look tired). 'Look like' ise benzerliği belirtir.",
+  "note": ""
+ },
+ {
+  "id": "first",
+  "senses": [
+   "birinci; ilk",
+   "önce; ilk olarak"
+  ],
+  "ex": [
+   "Denize ilk gidişim bu.",
+   "Hükümetler, sakinleri özel arabalarından vazgeçmeye teşvik etmeden önce öncelikle toplu taşımayı iyileştirmelidir."
+  ],
+  "col": [
+   "birincilik",
+   "başlangıçta; önceleri",
+   "her şeyden önce",
+   "ilk yardım"
+  ],
+  "tip": "'At first' başlangıçtaki durumu anlatır. Bir listeyi sıralarken 'first of all' ya da 'first' kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "expensive",
+  "senses": [
+   "pahalı"
+  ],
+  "ex": [
+   "Bu botlar bütçem için çok pahalı.",
+   "Büyük şehirlerdeki konutlar giderek pahalılaşıyor ve birçok genç çalışanı işyerlerinden daha uzakta yaşamaya zorluyor."
+  ],
+  "col": [
+   "çok pahalı",
+   "giderek pahalı",
+   "bakımı pahalı",
+   "pahalıya mal olan bir hata"
+  ],
+  "tip": "Eşyanın değeri için 'expensive' kullanılır. Fiyatın yüksekliğini anlatırken genellikle 'high price' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "language",
+  "senses": [
+   "dil",
+   "üslup; anlatım dili"
+  ],
+  "ex": [
+   "Komşum bana kendi dilinden biraz öğretiyor.",
+   "Yabancı bir dil öğrenmek, öğrencilerin kültürel anlayışını genişletebilir ve gelecekteki iş olanaklarını artırabilir."
+  ],
+  "col": [
+   "yabancı dil",
+   "beden dili",
+   "dil engeli",
+   "resmi dil"
+  ],
+  "tip": "Belirli bir dili kastediyorsanız sayılabilir (languages). Genel dil yeteneğinden söz ederken genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "busy",
+  "senses": [
+   "meşgul",
+   "kalabalık; hareketli",
+   "meşgul"
+  ],
+  "ex": [
+   "Şu anda akşam yemeği için çorba yapmakla meşgulüm.",
+   "Yerel yönetimler motorlu trafikten ayrılmış güvenli yollar sağlamazsa, yoğun kent yolları bisiklet kullanımını caydırabilir."
+  ],
+  "col": [
+   "bir şeyle meşgul olmak",
+   "işle meşgul",
+   "hareketli bir cadde",
+   "yoğun bir program"
+  ],
+  "tip": "'Busy doing' ya da 'busy with' kullanılır. 'Busy to do' yanlış bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "write",
+  "senses": [
+   "yazmak",
+   "yazmak; kaleme almak",
+   "mektup yazmak"
+  ],
+  "ex": [
+   "Lütfen adresini bu küçük karta yaz.",
+   "Düzenli yazan öğrenciler genellikle daha güçlü akıl yürütme becerileri geliştirir ve karmaşık fikirlerini daha açık ifade eder."
+  ],
+  "col": [
+   "kompozisyon yazmak",
+   "birine mektup yazmak",
+   "yazıya dökmek; not almak"
+  ],
+  "tip": "Düzensiz fiildir: write—wrote—written. Yazım ve telaffuzda 'write' sözcüğündeki sessiz 'w' harfine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "spanish",
+  "senses": [
+   "İspanyolca",
+   "İspanyol; İspanyolca"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra komşumla İspanyolca pratik yapıyorum.",
+   "İspanyolca öğrenmek, öğrencilerin edebiyata erişimini genişletebilir ve uluslararası iş fırsatlarını artırabilir."
+  ],
+  "col": [
+   "İspanyolca konuşmak",
+   "İspanyol kültürü",
+   "İspanyolca konuşulan ülkeler"
+  ],
+  "tip": "Dil ve milliyet adları büyük harfle başlar. Bir İspanyol kişiden söz ederken 'a Spanish person' denir.",
+  "note": ""
+ },
+ {
+  "id": "dog",
+  "senses": [
+   "köpek",
+   "musallat olmak; peşini bırakmamak"
+  ],
+  "ex": [
+   "Köpeğimiz her öğleden sonra kapının önünde bekler.",
+   "Rehber köpek eğitimi epey zaman gerektirir, ancak bu, bir kişinin bağımsızlığını büyük ölçüde artırabilir."
+  ],
+  "col": [
+   "köpeği gezdirmek",
+   "rehber köpek",
+   "sahipsiz köpek",
+   "sorunların peşini bırakmamak"
+  ],
+  "tip": "Fiil olarak genellikle 'be dogged by' biçiminde kullanılır ve bir sorunun uzun süre insanı rahat bırakmadığını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "wine",
+  "senses": [
+   "şarap"
+  ],
+  "ex": [
+   "Restoran bu mantarlı sosta biraz şarap kullanıyor.",
+   "İklim değişikliği, yükselen sıcaklıklar üzüm kalitesini ve hasat zamanlarını değiştirdiği için şarap üretimini etkiliyor."
+  ],
+  "col": [
+   "kırmızı şarap",
+   "beyaz şarap",
+   "şarap üretimi",
+   "bir şişe şarap"
+  ],
+  "tip": "Genel anlamda şarap sayılamaz. Farklı türlerden söz ederken 'wines' denir.",
+  "note": ""
+ },
+ {
+  "id": "talk",
+  "senses": [
+   "konuşmak; görüşmek",
+   "görüşme; sohbet",
+   "konuşma; sunum"
+  ],
+  "ex": [
+   "Kahvaltıda hafta sonu planlarımızı konuştuk.",
+   "Okullar öğrencileri stres hakkında açıkça konuşmaya ve ihtiyaç duyduklarında destek aramaya teşvik etmelidir."
+  ],
+  "col": [
+   "bir konuda konuşmak",
+   "biriyle konuşmak",
+   "konuşma yapmak",
+   "görüşmeler yapmak"
+  ],
+  "tip": "'Talk about' konu için, 'talk to' ya da 'talk with' kişi için kullanılır.",
+  "note": ""
+ }
+]

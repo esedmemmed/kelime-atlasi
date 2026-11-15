@@ -1,0 +1,279 @@
+[
+ {
+  "id": "wound",
+  "senses": [
+   "yara",
+   "yaralamak",
+   "incitmek"
+  ],
+  "ex": [
+   "Hemşire dizimdeki yarayı nazikçe temizledi.",
+   "Temiz suya ve temel tıbbi malzemelere erişim, yaraların tedavisi ve enfeksiyonun önlenmesi için şarttır."
+  ],
+  "col": [
+   "derin bir yara",
+   "yarayı tedavi etmek",
+   "gururunu incitmek"
+  ],
+  "tip": "wound /wuːnd/ diye okunur. Wind fiilinin geçmiş zamanı olan wound ise /waʊnd/ okunur; yazılışı aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "overflow",
+  "senses": [
+   "taşmak",
+   "tıklım tıklım dolmak",
+   "taşma; taşan kısım"
+  ],
+  "ex": [
+   "Kapıya cevap verirken banyo taşmış.",
+   "Şiddetli yağmur sırasında kentsel su kanalları taşabilir ve kirli suyu yakındaki nehirlere sürükleyebilir."
+  ],
+  "col": [
+   "insanla tıklım tıklım dolu olmak",
+   "sevinçten taşmak",
+   "taşma borusu"
+  ],
+  "tip": "Fiilde vurgu son hecededir (overFLOW), isimde ilk hecededir (OVerflow). Telaffuza dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "terror",
+  "senses": [
+   "dehşet; korku",
+   "terör; yıldırma"
+  ],
+  "ex": [
+   "Kız, düşen bir asansörü gördüğü bir rüyadan sonra dehşet içinde uyandı.",
+   "Sorumlu haber yapımı, toplumlar arasında gereksiz bir korku yaymadan halkı tehditler konusunda bilgilendirmelidir."
+  ],
+  "col": [
+   "dehşet içinde",
+   "saf dehşet",
+   "korku duygusu",
+   "yıldırma kampanyası"
+  ],
+  "tip": "Fear'dan daha yoğun bir korkuyu anlatır. Genellikle sayılamayan bir isimdir, bu yüzden 'a terror' ya da 'terrors' demeyin.",
+  "note": ""
+ },
+ {
+  "id": "feeding",
+  "senses": [
+   "besleme; yem verme"
+  ],
+  "ex": [
+   "Köpek yavruları yemek saati yaklaşınca hep heyecanlanır.",
+   "Turistlerin vahşi hayvanları düzenli olarak beslemesi, onların davranışlarını değiştirebilir ve insanlara bağımlılığını artırabilir."
+  ],
+  "col": [
+   "yemek saati",
+   "beslenme alışkanlıkları",
+   "biberonla besleme",
+   "beslenme programı"
+  ],
+  "tip": "Hem isim hem de feed fiilinin -ing hâli olabilir. Cümledeki yapısına bakarak hangisi olduğunu anlayın.",
+  "note": ""
+ },
+ {
+  "id": "progressive",
+  "senses": [
+   "ilerici; yenilikçi",
+   "kademeli; aşamalı",
+   "ilerici kişi"
+  ],
+  "ex": [
+   "Yeni müdürümüzün esnek çalışma konusunda yenilikçi fikirleri var.",
+   "Kademeli eğitim politikaları, dezavantajlı geçmişe sahip öğrencilere ek destek sağlayarak eşit fırsatları teşvik edebilir."
+  ],
+  "col": [
+   "ilerici politikalar",
+   "ilerici bakış açısı",
+   "kademeli değişim",
+   "progresif vergilendirme"
+  ],
+  "tip": "Toplumsal reformu destekleyen anlamı yanında 'kademeli gelişen' anlamına da gelir. Her zaman olumlu bir değişimi ifade etmez, bağlama bakın.",
+  "note": ""
+ },
+ {
+  "id": "approach",
+  "senses": [
+   "yaklaşım; yöntem",
+   "yaklaşmak",
+   "ele almak; başvurmak"
+  ],
+  "ex": [
+   "Köpek yavrumuzu eğitmek için farklı bir yöntem denedik.",
+   "Kentsel planlamaya dengeli bir yaklaşım, hem ekonomik büyümeyi hem de yeşil alanların korunmasını göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "öğrenmeye yaklaşım",
+   "bir yaklaşım benimsemek",
+   "bir sorunu ele almak",
+   "tavsiye için birine başvurmak"
+  ],
+  "tip": "İsim olarak 'approach to + isim/-ing' kullanılır. Fiil olarak doğrudan nesne alır: approach a problem; 'to' eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "angle",
+  "senses": [
+   "açı",
+   "bakış açısı",
+   "eğmek; eğik tutmak"
+  ],
+  "ex": [
+   "Ekrandaki parlamayı azaltmak için ekranın açısını ayarlayın.",
+   "Konut sıkıntısını ekonomik açıdan incelemek, planlama kısıtlamalarının konut fiyatlarını nasıl etkilediğini gösterebilir."
+  ],
+  "col": [
+   "dik açı",
+   "eğik olarak",
+   "farklı bir açıdan",
+   "görüş açısı"
+  ],
+  "tip": "Melek anlamındaki 'angel' ile karıştırılmamalıdır. Angle'ın yazılışı -le ile biter, angel ise -el ile.",
+  "note": ""
+ },
+ {
+  "id": "occasionally",
+  "senses": [
+   "ara sıra; bazen"
+  ],
+  "ex": [
+   "Pazardan ara sıra taze ekmek alırız.",
+   "Ara sıra evden çalışan çalışanlar, düzenli iletişimi kaybetmeden daha fazla esneklikten yararlanabilir."
+  ],
+  "col": [
+   "yalnızca ara sıra",
+   "ara sıra ziyaret etmek",
+   "ara sıra meydana gelmek"
+  ],
+  "tip": "Genellikle asıl fiilden önce, be fiilinden sonra gelir. Cümlenin başına da getirilebilir: Occasionally, we...",
+  "note": ""
+ },
+ {
+  "id": "persuasive",
+  "senses": [
+   "ikna edici"
+  ],
+  "ex": [
+   "Onun ikna edici açıklaması, sonunda kulübe katılmam için beni ikna etti.",
+   "Halk sağlığı kampanyalarının, insanları daha sağlıklı günlük alışkanlıklar benimsemeye teşvik eden ikna edici mesajlara ihtiyacı var."
+  ],
+  "col": [
+   "ikna edici argüman",
+   "ikna edici kanıt",
+   "ikna edici konuşmacı"
+  ],
+  "tip": "Genellikle argüman, kanıt veya konuşma gibi şeyleri niteler. İsim olarak kullanılmaz; 'persuasion' ise isimdir.",
+  "note": ""
+ },
+ {
+  "id": "pointless",
+  "senses": [
+   "anlamsız; boş"
+  ],
+  "ex": [
+   "Şiddetli yağmur yağarken bitkileri sulamak anlamsız.",
+   "Bazı öğrenciler, sınavların bir konunun pratik anlaşılması yerine ezberi ölçtüğünü düşündüklerinde onları anlamsız bulur."
+  ],
+  "col": [
+   "boş bir uğraş",
+   "anlamsız tartışmalar",
+   "anlamsız görünmek"
+  ],
+  "tip": "'It is pointless to do something' kalıbı, bir şeyi yapmanın boşuna olduğunu belirtmek için sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tighten",
+  "senses": [
+   "sıkmak; sıkıca bağlamak",
+   "sıkılaştırmak"
+  ],
+  "ex": [
+   "Şişeyi sallamadan önce lütfen kapağı sıkın.",
+   "Hükümetler, tüm yeni konutların kabul edilebilir inşaat standartlarını karşılamasını sağlamak için güvenlik düzenlemelerini sıkılaştırmalıdır."
+  ],
+  "col": [
+   "bir vidayı sıkmak",
+   "tutuşunu sıkmak",
+   "düzenlemeleri sıkılaştırmak"
+  ],
+  "tip": "Hem nesne alarak hem de nesnesiz kullanılabilir: tighten a rope (halatı sıkmak); the rope tightens (halat gerilir).",
+  "note": ""
+ },
+ {
+  "id": "critical",
+  "senses": [
+   "çok önemli; kritik",
+   "eleştirel; eleştiren",
+   "kritik; tehlikeli"
+  ],
+  "ex": [
+   "İşimi kurmaya başladığımda desteğin çok önemliydi.",
+   "Hızla büyüyen kentsel topluluklarda temiz suya erişim, halk sağlığını iyileştirmek için kritik öneme sahiptir."
+  ],
+  "col": [
+   "başarı için kritik",
+   "eleştirel düşünme",
+   "birini eleştiren",
+   "kritik durumda"
+  ],
+  "tip": "'critical of' eleştirmek anlamına gelir; 'critical to' ise bir şey için hayati önemde olduğunu belirtir. Bu iki kalıbı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "calf",
+  "senses": [
+   "buzağı; yavru",
+   "baldır"
+  ],
+  "ex": [
+   "Buzağı tarlada annesinin yanından hiç ayrılmadı.",
+   "Çiftçiler, sağlıklı büyümeyi desteklemek için her buzağıya yeterli beslenme ve barınak sağlamalıdır."
+  ],
+  "col": [
+   "yeni doğmuş buzağı",
+   "baldır kasları",
+   "buzağı yetiştirmek"
+  ],
+  "tip": "Çoğulu calves'tir (f değil v). Sözcükteki l harfi okunmaz.",
+  "note": ""
+ },
+ {
+  "id": "uneven",
+  "senses": [
+   "engebeli; düzensiz",
+   "dengesiz; eşit olmayan"
+  ],
+  "ex": [
+   "Dışarıdaki engebeli taşlara dikkat edin.",
+   "Dijital teknolojiye eşit olmayan erişim, kentsel ve kırsal topluluklar arasındaki eğitim eşitsizliklerini artırabilir."
+  ],
+  "col": [
+   "engebeli zemin",
+   "dengesiz dağılım",
+   "dengesiz gelişme"
+  ],
+  "tip": "Tek sayılar için odd kullanılır, uneven kullanılmaz. Uneven, düz olmayan ya da eşit olmayan anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hesitation",
+  "senses": [
+   "tereddüt; duraksama"
+  ],
+  "ex": [
+   "Bir an tereddüt ettikten sonra Lina kapıyı çaldı.",
+   "Bazı öğrenciler, sınıf arkadaşları önünde hata yapmaktan korktukları için yabancı dilde konuşurken duraksar."
+  ],
+  "col": [
+   "tereddütsüz",
+   "bir an tereddüt",
+   "tereddüt etmeden yapmak"
+  ],
+  "tip": "'Have no hesitation in doing' kalıbında 'in' edatı kullanılır: Don't have any hesitation in contacting me.",
+  "note": ""
+ }
+]

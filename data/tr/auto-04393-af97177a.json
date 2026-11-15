@@ -1,0 +1,277 @@
+[
+ {
+  "id": "lump",
+  "senses": [
+   "parça; kütle",
+   "şişlik; yumru",
+   "bir grupta toplamak; aynı görmek"
+  ],
+  "ex": [
+   "Masanın üstüne bir parça kil attı.",
+   "Politika yapıcılar, işsiz insanların durumları ve destek ihtiyaçları oldukça farklı olduğu halde hepsini topluca aynı kefeye koymamalı."
+  ],
+  "col": [
+   "bir parça kil",
+   "toptan ödeme",
+   "topluca değerlendirmek; bir kefeye koymak",
+   "boğazda düğümlenme"
+  ],
+  "tip": "lump together çoğu zaman farkları göz ardı ederek genelleme anlamı taşır; olumsuz bağlamda sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "discriminate",
+  "senses": [
+   "ayrımcılık yapmak",
+   "ayırt etmek; ayırmak"
+  ],
+  "ex": [
+   "Kulübümüz yaşa dayalı olarak kimseye ayrımcılık yapmıyor.",
+   "İşverenler, engellilik, cinsiyet veya kültürel geçmiş temelinde başvuru sahiplerine ayrımcılık yapmamalıdır."
+  ],
+  "col": [
+   "ayrımcılık yapmak",
+   "yaşa dayalı ayrımcılık yapmak",
+   "ayırt etmek"
+  ],
+  "tip": "Birine karşı ayrımcılık yapmak için discriminate against; iki şey arasında ayrım yapmak için discriminate between kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "negotiation",
+  "senses": [
+   "müzakere; pazarlık"
+  ],
+  "ex": [
+   "Biraz pazarlıktan sonra adil bir fiyat üzerinde anlaştık.",
+   "İşverenler ile çalışanlar arasında başarılı bir müzakere, anlaşmazlıkları önleyebilir ve tüm sektörde koşulları iyileştirebilir."
+  ],
+  "col": [
+   "müzakereye başlamak",
+   "müzakere becerileri",
+   "görüşmeler sürerken; müzakere aşamasında",
+   "barış görüşmeleri"
+  ],
+  "tip": "Müzakere sürecini anlatırken genellikle sayılamayan biçimde kullanılır; birden çok görüşme turu için negotiations çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "coward",
+  "senses": [
+   "korkak; ödlek"
+  ],
+  "ex": [
+   "Konuşmadan kaçındığı için kendine korkak dedi.",
+   "Birine korkak demek, korkularını konuşmasını ya da uygun destek aramasını engelleyebilir."
+  ],
+  "col": [
+   "tam bir korkak",
+   "birine korkak demek"
+  ],
+  "tip": "coward isimdir; sıfatı cowardly'dir. Bir kişiye söylendiğinde ağır bir hakaret olarak algılanır.",
+  "note": ""
+ },
+ {
+  "id": "miniature",
+  "senses": [
+   "minyatür; küçük ölçekli",
+   "minyatür model; küçük resim"
+  ],
+  "ex": [
+   "Kuzenim boşta kalan tahtalardan minik bir kale yaptı.",
+   "Mimarlar, önerilen binaların mevcut kent mahallelerine nasıl uyacağını göstermek için sıklıkla minyatür maketler kullanır."
+  ],
+  "col": [
+   "minyatür maket",
+   "minyatür tren yolu",
+   "küçültülmüş olarak"
+  ],
+  "tip": "in miniature ifadesi “küçültülmüş biçimde” anlamına gelir; sıfat olarak isimden önce kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ruling",
+  "senses": [
+   "iktidardaki; yöneten",
+   "karar; hüküm"
+  ],
+  "ex": [
+   "İktidardaki parti yerel otobüslerimizi iyileştireceğini vaat etti.",
+   "Yakın zamandaki bir mahkeme kararı, işverenlerin çalışma saatleri ve yıllık izin hakkı hakkında daha açık bilgi vermesini zorunlu kılıyor."
+  ],
+  "col": [
+   "iktidardaki parti",
+   "egemen sınıf",
+   "mahkeme kararı",
+   "karar vermek"
+  ],
+  "tip": "Sıfat olarak genellikle isimden önce gelir; isim olarak resmi bir karar veya hükmü ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "expiry",
+  "senses": [
+   "son kullanma; geçerlilik sonu"
+  ],
+  "ex": [
+   "Pasaportumun geçerlilik süresi dolmak üzere.",
+   "Yurt dışı seyahat planları yapmadan önce gezginler pasaportlarının geçerlilik bitiş tarihini kontrol etmelidir."
+  ],
+  "col": [
+   "son kullanma tarihi",
+   "süre dolunca",
+   "sözleşmenin sona ermesi"
+  ],
+  "tip": "“Süresi dolmuş” anlamında değil, geçerlilik sonunu ifade eder; Amerikan İngilizcesinde expiration da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "retain",
+  "senses": [
+   "korumak; sürdürmek",
+   "hatırlamak; akılda tutmak",
+   "ücretle tutmak"
+  ],
+  "ex": [
+   "Bu eski evde hâlâ orijinal ahşap kapıları duruyor.",
+   "Esnek çalışma düzenlemeleri, şirketlerin deneyimli çalışanları elinde tutmasına ve genel iş memnuniyetini artırmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kontrolü elinde tutmak",
+   "bilgiyi akılda tutmak",
+   "personeli elde tutmak",
+   "nemi korumak"
+  ],
+  "tip": "Resmî bir fiildir ve doğrudan nesne alır; bilgiyi akılda tutmak anlamında da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "flee",
+  "senses": [
+   "kaçmak; sıyrılmak"
+  ],
+  "ex": [
+   "Köpek bahçeye girince kuşlar uçup kaçtı.",
+   "Şiddetli sel, kırsal kesimdeki aileleri evlerini terk edip yakındaki kasabalarda barınak aramaya zorlayabilir."
+  ],
+  "col": [
+   "tehlikeden kaçmak",
+   "ülkeden kaçmak",
+   "zulümden kaçmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi fled'dir; kaçılan yer doğrudan nesne olarak gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "freedom",
+  "senses": [
+   "özgürlük; serbestlik",
+   "kurtulma; uzak kalma"
+  ],
+  "ex": [
+   "Yalnız yaşamak, kendi düzenimi seçme özgürlüğü veriyor.",
+   "Üniversiteler, araştırmacıları çalışmalarının toplumsal sonuçlarını düşünmeye teşvik ederken akademik özgürlüğü korumalıdır."
+  ],
+  "col": [
+   "ifade özgürlüğü",
+   "seçme özgürlüğü",
+   "akademik özgürlük",
+   "korkudan kurtulmuş olma"
+  ],
+  "tip": "freedom to do bir şeyi yapma özgürlüğünü, freedom from ise bir durumdan kurtulmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "bore",
+  "senses": [
+   "sıkmak; usandırmak",
+   "delmek; oymak",
+   "sıkıcı kişi ya da şey"
+  ],
+  "ex": [
+   "Uzun toplantılar beni sıkıyor, özellikle de kimsenin yeni bir şey söyleyecek olmadığı zamanlarda.",
+   "Tamamen ezberlemeye dayanan dersler öğrencileri sıkabilir ve bağımsız olarak fikirleri keşfetmelerini engelleyebilir."
+  ],
+  "col": [
+   "birini çok sıkmak",
+   "delik açmak",
+   "çok sıkıcı biri"
+  ],
+  "tip": "İnsanın sıkılması için bored, şeyin sıkıcı olması için boring kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "veil",
+  "senses": [
+   "peçe; duvak",
+   "perde; örtü",
+   "gizlemek; örtmek"
+  ],
+  "ex": [
+   "Biraz su içmek için peçesini kaldırdı.",
+   "Büyük planlama kararlarının etrafındaki gizlilik perdesi, yerel yönetime duyulan kamu güvenini zayıflatabilir."
+  ],
+  "col": [
+   "peçe takmak",
+   "gizlilik perdesi",
+   "üstü örtülü eleştiri"
+  ],
+  "tip": "a veil of mecazi olarak bir örtü ya da perde anlamına gelir; veiled ise dolaylı, ima yoluyla anlatılan şeyler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "incomplete",
+  "senses": [
+   "eksik; tamamlanmamış"
+  ],
+  "ex": [
+   "Bulmacanın birkaç parçası eksik olduğu için tamamlanmamış.",
+   "Eksik verilere dayanan politikalar, en savunmasız toplulukların ihtiyaçlarını karşılayamayabilir."
+  ],
+  "col": [
+   "eksik bilgi",
+   "eksik veri",
+   "tamamlanmamış başvuru"
+  ],
+  "tip": "Bir şeyin bir kısmının eksik olmasını ya da işin henüz bitmemiş olmasını ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "batch",
+  "senses": [
+   "parti; grup; kuşak",
+   "partiler hâlinde işlemek"
+  ],
+  "ex": [
+   "İlk fırın partisi tezgâhın üstünde soğuyor.",
+   "Dağıtımdan önce her gıda partisinin test edilmesi, üreticilerin tutarlı kaliteyi korumasına ve halk sağlığını korumasına yardımcı olur."
+  ],
+  "col": [
+   "bir grup",
+   "partiler hâlinde",
+   "toplu üretim",
+   "toplu işlem"
+  ],
+  "tip": "Birlikte üretilen ya da işlenen bir grubu vurgular; genellikle of ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ray",
+  "senses": [
+   "ışın; ışık hüzmesi",
+   "küçük umut kırıntısı; bir miktar",
+   "vatoz; kalkan balığı"
+  ],
+  "ex": [
+   "Uyuyan kedinin üzerine güneş ışığının ince bir hüzmesi düştü.",
+   "Aşırı ultraviyole ışınlarına maruz kalmak cildi zarara uğratabilir; bu da güneşten korunmayı önemli bir halk sağlığı konusu hâline getirir."
+  ],
+  "col": [
+   "bir güneş ışını",
+   "ultraviyole ışınları",
+   "umut ışığı"
+  ],
+  "tip": "a ray of hope mecazi bir ifadedir ve “bir umut ışığı” anlamına gelir.",
+  "note": ""
+ }
+]

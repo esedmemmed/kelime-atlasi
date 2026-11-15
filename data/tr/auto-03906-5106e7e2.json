@@ -1,0 +1,279 @@
+[
+ {
+  "id": "psychologist",
+  "senses": [
+   "psikolog"
+  ],
+  "ex": [
+   "Psikolog, sınavların neden beni bu kadar kaygılandırdığını anlamama yardımcı oldu.",
+   "Okul psikoloğu, duygusal güçlükleri öğrenmeyi ve sosyal gelişimi etkileyen öğrencilere destek olabilir."
+  ],
+  "col": [
+   "klinik psikolog",
+   "eğitim psikoloğu",
+   "bir psikologa danışmak"
+  ],
+  "tip": "Baştaki p sessizdir. Psikolog ile psikiyatrist karıştırılmamalıdır; psikiyatrist tıp doktorudur.",
+  "note": ""
+ },
+ {
+  "id": "trunk",
+  "senses": [
+   "gövde",
+   "hortum",
+   "bagaj"
+  ],
+  "ex": [
+   "Eski bir meşe ağacının gövdesine yaslandık.",
+   "Ağacın gövdesine verilen zarar, suyu ve besinleri taşıma kapasitesini azaltabilir."
+  ],
+  "col": [
+   "ağaç gövdesi",
+   "fil hortumu",
+   "araba bagajı"
+  ],
+  "tip": "Amerikan İngilizcesinde araba bagajı trunk, İngiliz İngilizcesinde boot'tur. Sınav ve metinlerde hangi kullanımın olduğuna dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "literary",
+  "senses": [
+   "edebi; edebiyata ait",
+   "edebi; yazınsal"
+  ],
+  "ex": [
+   "Yerel kütüphanemiz her bahar bir edebiyat festivali düzenliyor.",
+   "Farklı kültürlerden edebi eserleri incelemek, öğrencilerin kendi deneyimlerinin ötesindeki bakış açılarını anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "edebi eserler",
+   "edebi eleştiri",
+   "edebiyat festivali",
+   "edebi dil"
+  ],
+  "tip": "literary edebiyatla ilgili demektir; literal ise harfi harfine ya da gerçek anlamdaki demektir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "honor",
+  "senses": [
+   "onur; saygı",
+   "onurlandırmak; takdir etmek",
+   "yerine getirmek; tutmak"
+  ],
+  "ex": [
+   "Komşularımız büyükannemin onuruna bir akşam yemeği verdi.",
+   "Hükümetler, büyük ekonomik reformları uygularken kırılgan toplulukları koruma taahhütlerini yerine getirmelidir."
+  ],
+  "col": [
+   "...onuruna",
+   "büyük bir onur",
+   "bir taahhüdü yerine getirmek",
+   "onur konuğu"
+  ],
+  "tip": "Amerikan yazımı honor, İngiliz yazımı honour'dur. Fiil olarak sözünü tutmak ya da birine saygı göstermek anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "status",
+  "senses": [
+   "toplumsal konum; statü",
+   "durum; hal"
+  ],
+  "ex": [
+   "Yeni görevi, işte daha yüksek bir statü kazanmasını sağladı.",
+   "Kaliteli sağlık hizmetine erişim, kişinin ekonomik durumuna değil tıbbi ihtiyacına bağlı olmalıdır."
+  ],
+  "col": [
+   "toplumsal statü",
+   "medeni durum",
+   "mevcut durum",
+   "statü sembolü"
+  ],
+  "tip": "Hem toplumsal konum hem de güncel durum anlamına gelebilir. Doğru anlamı cümlenin bağlamından belirleyin.",
+  "note": ""
+ },
+ {
+  "id": "adequate",
+  "senses": [
+   "yeterli; uygun"
+  ],
+  "ex": [
+   "Bu küçük ısıtıcı yatak odam için yeterli sıcaklık sağlıyor.",
+   "Okulların güvenli binaları sürdürebilmesi ve ek ihtiyacı olan öğrencilere etkili destek verebilmesi için yeterli finansmana ihtiyacı vardır."
+  ],
+  "col": [
+   "yeterli finansman",
+   "yeterli hazırlık",
+   "görev için yeterli"
+  ],
+  "tip": "Gereken düzeye ulaşıldığını belirtir ama 'mükemmel' ya da 'çok iyi' anlamına gelmez. Genellikle for ya da to ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "optional",
+  "senses": [
+   "isteğe bağlı; seçmeli"
+  ],
+  "ex": [
+   "Müze turu isteğe bağlı olduğu için dışarıda kaldık.",
+   "Okullar, öğrencilerin geleneksel akademik derslerin ötesindeki ilgi alanlarını keşfetmesine olanak tanıyan isteğe bağlı uygulamalı dersler sunmalıdır."
+  ],
+  "col": [
+   "seçmeli ders",
+   "isteğe bağlı ek",
+   "tamamen isteğe bağlı"
+  ],
+  "tip": "Optional zorunlu olmadığını belirtir; 'rastgele' ya da 'keyfi' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "frequency",
+  "senses": [
+   "sıklık; tekrar sayısı",
+   "frekans; titreşim sayısı"
+  ],
+  "ex": [
+   "Otobüslerin sıklığı her akşam dokuzdan sonra keskin biçimde düşüyor.",
+   "Araştırmacılar, yükselen okyanus sıcaklıklarının kıyı bölgelerinde şiddetli fırtınaların sıklığını etkileyip etkilemediğini inceliyor."
+  ],
+  "col": [
+   "...sıklığı",
+   "giderek artan sıklıkla",
+   "yüksek frekans",
+   "radyo frekansı"
+  ],
+  "tip": "Sıklık yüksek ya da düşük olarak high ya da low ile ifade edilir. Bir şeyin sık olması, hızlı olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "demonstrate",
+  "senses": [
+   "kanıtlamak; göstermek",
+   "göstererek anlatmak; örnek vermek",
+   "protesto etmek; gösteri yapmak"
+  ],
+  "ex": [
+   "Bu çamurlu izler, birinin mutfağa girdiğini gösteriyor.",
+   "Yakın tarihli çalışmalar, düzenli fiziksel aktivitenin konsantrasyonu artırabileceğini ve öğrencilerin ruh sağlığını destekleyebileceğini ortaya koyuyor."
+  ],
+  "col": [
+   "...olduğunu kanıtlamak",
+   "...nasıl yapıldığını göstermek",
+   "...taahhüdünü ortaya koymak",
+   "...karşı protesto etmek"
+  ],
+  "tip": "Bir şeyin doğru olduğunu kanıtlamak için demonstrate that kalıbı sık kullanılır. Protesto anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "disapproval",
+  "senses": [
+   "onaylamama; beğenmeme"
+  ],
+  "ex": [
+   "Babam çamurlu ayakkabılarıma onaylamaz bir tavırla başını salladı.",
+   "Aşırı ambalajlamaya yönelik kamuoyunun tepkisi, bazı perakendecileri yeniden kullanılabilir kaplar sunmaya ve plastik atığı azaltmaya yöneltti."
+  ],
+  "col": [
+   "onaylamadığını belli etmek",
+   "bir şeye karşı onaylamama",
+   "onaylamaz bir bakış",
+   "kamuoyunun tepkisi"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. disapproval of ile bir şeye karşı olan tepkiyi belirtir.",
+  "note": ""
+ },
+ {
+  "id": "sane",
+  "senses": [
+   "akılcı; mantıklı",
+   "akli dengesi yerinde"
+  ],
+  "ex": [
+   "Kısa bir mola vermek, tek akılcı seçenek gibi görünüyordu.",
+   "Kentsel planlamada akılcı bir yaklaşım, ekonomik büyümeyi sakinlerin yeşil alan ihtiyacıyla dengeler."
+  ],
+  "col": [
+   "akılcı bir yaklaşım",
+   "mantıklı bir karar",
+   "birini akli dengede tutmak"
+  ],
+  "tip": "Mantıklı anlamında sensible'a yakındır. Her ruhsal hastalık kişinin akli dengesini bozmaz; sane ile insane'i karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "concept",
+  "senses": [
+   "kavram; düşünce"
+  ],
+  "ex": [
+   "Öğretmen konuyu açıklamak için oyuncak arabaları kullandı.",
+   "Sürdürülebilir kalkınma kavramı, gelecek nesillerin fırsatlarını kısıtlamadan bugünkü ihtiyaçları karşılamayı içerir."
+  ],
+  "col": [
+   "temel kavram",
+   "bir kavramı kavramak",
+   "...kavramı",
+   "soyut kavram"
+  ],
+  "tip": "Sayılabilen bir isimdir. the concept of kalıbıyla belirli bir fikir ya da ilkeye atıfta bulunulur.",
+  "note": ""
+ },
+ {
+  "id": "sigh",
+  "senses": [
+   "iç çekmek; derin nefes almak",
+   "iç çekme; derin nefes"
+  ],
+  "ex": [
+   "Babam çamurlu zemini görünce iç çekti.",
+   "Güvenilir toplu taşıma, günlük yolculuklarındaki stresi azalttığında birçok yolcu rahat bir nefes alır."
+  ],
+  "col": [
+   "rahatlamış bir nefes",
+   "iç çekmek",
+   "derin iç çekmek"
+  ],
+  "tip": "gh harfleri sessizdir. İç çekme her zaman üzüntü değildir; rahatlama ya da yorgunluk da ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "convinced",
+  "senses": [
+   "emin; kanaatinde"
+  ],
+  "ex": [
+   "Anahtarlarımı mutfak masasının üzerinde bıraktığımdan eminim.",
+   "Birçok araştırmacı, düzenli fiziksel aktivitenin ruh sağlığının iyileşmesine önemli ölçüde katkı sağladığına inanıyor."
+  ],
+  "col": [
+   "...olduğuna emin",
+   "...den emin",
+   "tamamen ikna olmuş",
+   "inancını korumak"
+  ],
+  "tip": "Bir kişinin ikna olmasını convinced ile, bir şeyin ikna ediciliğini ise convincing ile ifade edin.",
+  "note": ""
+ },
+ {
+  "id": "contemporary",
+  "senses": [
+   "çağdaş; güncel",
+   "çağdaş; aynı dönemde yaşayan",
+   "aynı çağda yaşayan kimse"
+  ],
+  "ex": [
+   "Galeri, parlak ve ferah odalarda çağdaş resimler sergiliyor.",
+   "Çağdaş mimari, çevresel etkiyi azaltmak ve kullanıcıların refahını artırmak için giderek daha fazla doğal malzeme kullanıyor."
+  ],
+  "col": [
+   "çağdaş sanat",
+   "çağdaş toplum",
+   "dönemin tanıklıkları",
+   "birinin çağdaşı"
+  ],
+  "tip": "Güncel anlamında 'çağdaş' demektir. Tarihsel bağlamda ise 'o döneme ait' anlamına gelebilir.",
+  "note": ""
+ }
+]

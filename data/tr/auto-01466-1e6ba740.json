@@ -1,0 +1,275 @@
+[
+ {
+  "id": "bean",
+  "senses": [
+   "fasulye; bakla"
+  ],
+  "ex": [
+   "Sebze çorbasına biraz fasulye ekledim.",
+   "Fasulye, uygun fiyatlı bir protein kaynağıdır ve dengeli bitki bazlı bir beslenmeyi destekleyebilir."
+  ],
+  "col": [
+   "yeşil fasulye",
+   "barbunya",
+   "kahve çekirdekleri",
+   "fırında pişmiş fasulye"
+  ],
+  "tip": "Sayılabilir bir isimdir. Yenilebilir baklagilleri genel olarak anlatırken genellikle çoğul beans kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fail",
+  "senses": [
+   "başarısız olmak; yapamamak",
+   "sınavda kalmak; kaldırmak",
+   "bozulmak; zayıflamak"
+  ],
+  "ex": [
+   "Ekstra bir yumurta eklenmesine rağmen kek kabarmadı.",
+   "Yerel yönetimler net yönergeler ya da kolay toplama hizmetleri sunmadığında geri dönüşüm programları sıklıkla başarısız olur."
+  ],
+  "col": [
+   "yapamamak",
+   "sınavda kalmak",
+   "beklentileri karşılayamamak"
+  ],
+  "tip": "'Yapamamak' için fail to do kalıbını kullanın. Sınav için doğrudan fail an exam denir; fail in an exam denmez.",
+  "note": ""
+ },
+ {
+  "id": "introduce",
+  "senses": [
+   "tanıştırmak",
+   "piyasaya sürmek; uygulamaya koymak",
+   "ilk kez tanıştırmak"
+  ],
+  "ex": [
+   "Sizi yeni komşumla tanıştırayım.",
+   "Okullar, öğrencilerin yetişkin hayatlarında parayı sorumlu biçimde yönetebilmeleri için uygulamalı finansal eğitimi uygulamaya koymalıdır."
+  ],
+  "col": [
+   "kendini tanıtmak",
+   "birini birine tanıştırmak",
+   "yeni önlemler uygulamaya koymak",
+   "birini bir konuyla tanıştırmak"
+  ],
+  "tip": "Birini başkasına tanıştırırken introduce A to B kalıbı kullanılır; with ile kurulmaz.",
+  "note": ""
+ },
+ {
+  "id": "dancer",
+  "senses": [
+   "dansçı"
+  ],
+  "ex": [
+   "Dansçı küçük sahnede zarifçe döndü.",
+   "Profesyonel dansçıların performans kalitesini korumak ve sakatlanmaları önlemek için düzenli fiziksel antrenman ve yeterli dinlenmeye ihtiyacı vardır."
+  ],
+  "col": [
+   "profesyonel dansçı",
+   "bale dansçısı",
+   "yetenekli dansçı"
+  ],
+  "tip": "Dancer cinsiyet belirtmez; hem kadın hem erkek için kullanılır. Mutlaka profesyonel anlamına da gelmez.",
+  "note": ""
+ },
+ {
+  "id": "unlucky",
+  "senses": [
+   "talihsiz; şanssız",
+   "uğursuz"
+  ],
+  "ex": [
+   "Otobüsü saniyelerle kaçırdığımız için şanssızdık.",
+   "Sınavlar sırasında hastalanacak kadar talihsiz olan öğrencilere alternatif değerlendirme imkânı sunulmalıdır."
+  ],
+  "col": [
+   "aşkta şanssız",
+   "yeterince talihsiz olmak",
+   "uğursuz bir gün"
+  ],
+  "tip": "Unlucky şansın kötü olduğunu anlatır; unhappy (mutsuz) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "impossible",
+  "senses": [
+   "imkânsız; olanaksız",
+   "çekilmez; başa çıkılmaz"
+  ],
+  "ex": [
+   "Bu kanepeyi kapı aralığından geçirmek imkânsız.",
+   "Güvenilir toplu taşıma olmadan, kırsal kesimde yaşayan bazı insanların temel hizmetlere erişmesi neredeyse imkânsızdır."
+  ],
+  "col": [
+   "neredeyse imkânsız",
+   "imkânsız iş",
+   "imkânsız hale getirmek"
+  ],
+  "tip": "It is impossible to do kalıbı 'bir şeyi yapmak imkânsızdır' anlamında kullanılır; to'dan sonra fiil yalın hâlde gelir.",
+  "note": ""
+ },
+ {
+  "id": "luggage",
+  "senses": [
+   "bagaj; valiz"
+  ],
+  "ex": [
+   "Bagajlarımız küçük taksiye zar zor sığdı.",
+   "Tren istasyonlarında güvenli bagaj saklama hizmeti sunulması, turistleri yakındaki yerleri yürüyerek gezmeye teşvik edebilir."
+  ],
+  "col": [
+   "el bagajı",
+   "bagaj saklama",
+   "bir valiz",
+   "bagaj hakkı"
+  ],
+  "tip": "Sayılamayan bir isimdir. Tek bir parça anlatılırken a piece of luggage denir; a luggage denmez.",
+  "note": ""
+ },
+ {
+  "id": "steak",
+  "senses": [
+   "biftek; dilim et"
+  ],
+  "ex": [
+   "Bifteği patates ve yeşil fasulyeyle servis etti.",
+   "Bazen et bifteği yerine bitki bazlı proteinler kullanmak, bir kişinin beslenmesinin çevresel etkisini azaltabilir."
+  ],
+  "col": [
+   "ızgara biftek",
+   "sirloin biftek",
+   "ton balığı dilimi",
+   "iyi pişmiş biftek"
+  ],
+  "tip": "Steak ile stake (kazık, hisse) sesteştir, karıştırılmamalıdır. Tek başına steak genellikle biftek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tidy",
+  "senses": [
+   "düzenli; toplu",
+   "toparlamak; düzene koymak"
+  ],
+  "ex": [
+   "Masası en yoğun haftalarda bile düzenli kalıyor.",
+   "Ortak çalışma alanlarını düzenli tutmak, çalışanların ekipmanı hızla bulmasına ve daha hoş bir ortam oluşturmasına yardımcı olabilir."
+  ],
+  "col": [
+   "düzenli tutmak",
+   "toparlamak",
+   "düzgün ve temiz"
+  ],
+  "tip": "Tidy düzenli yerleşimi vurgular; clean ise kirin bulunmadığını anlatır. İkisi aynı anlamda kullanılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "wool",
+  "senses": [
+   "yün; yün iplik; yünlü kumaş"
+  ],
+  "ex": [
+   "Bu yün atkı rüzgârlı sabahlarda boynumu sıcak tutuyor.",
+   "Yün doğal bir yalıtım sağladığı için soğuk iklimler için tasarlanmış giysilerde kullanışlı bir malzemedir."
+  ],
+  "col": [
+   "saf yün",
+   "bir yumak yün",
+   "yün battaniye",
+   "yün üretimi"
+  ],
+  "tip": "Genellikle sayılamaz. Bir yumak yün anlatılırken a ball of wool denir.",
+  "note": ""
+ },
+ {
+  "id": "purse",
+  "senses": [
+   "para cüzdanı; el çantası",
+   "bütçe; mali kaynak",
+   "dudak büzmek"
+  ],
+  "ex": [
+   "Çantasını açtı ve bir bozuk para çıkardı.",
+   "Koruyucu sağlık hizmetlerine yapılan yatırım, kamu bütçesi üzerindeki uzun vadeli yükü azaltabilir."
+  ],
+  "col": [
+   "deri cüzdan",
+   "kamu bütçesi",
+   "dudaklarını büzmek"
+  ],
+  "tip": "İngiliz İngilizcesinde purse genellikle küçük para cüzdanıdır; Amerikan İngilizcesinde el çantası anlamına gelir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "sunset",
+  "senses": [
+   "gün batımı",
+   "gün batımı manzarası"
+  ],
+  "ex": [
+   "Dün güneş batmadan hemen önce plaja vardık.",
+   "Kıyı bölgeleri muhteşem gün batımı manzaralarıyla turist çeker ve yerel işletmeler için değerli fırsatlar yaratır."
+  ],
+  "col": [
+   "gün batımında",
+   "gün batımını izlemek",
+   "muhteşem bir gün batımı"
+  ],
+  "tip": "Gün batımı zamanını anlatırken at sunset kullanılır; genellikle başına 'the' getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "notice",
+  "senses": [
+   "fark etmek; görmek",
+   "duyuru; bildirim",
+   "önceden bildirim"
+  ],
+  "ex": [
+   "Pencerenin dışındaki minik kuşu fark ettin mi?",
+   "Şehir merkezinde trafik kısıtlandığında sakinler genellikle hava kalitesindeki iyileşmeleri fark eder."
+  ],
+  "col": [
+   "bir farkı fark etmek",
+   "dikkate almak",
+   "önceden haber vermek",
+   "kısa bir uyarıyla"
+  ],
+  "tip": "Notice sb do tüm eylemin gerçekleştiğini, notice sb doing ise eylemin sürmekte olduğunu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "united-kingdom",
+  "senses": [
+   "Birleşik Krallık"
+  ],
+  "ex": [
+   "Geçen yaz trenle Birleşik Krallık'ı gezdik.",
+   "Birleşik Krallık'taki uluslararası öğrenciler çeşitli deneyimleri ve bakış açılarıyla üniversite topluluklarına katkıda bulunur."
+  ],
+  "col": [
+   "Birleşik Krallık",
+   "Birleşik Krallık genelinde",
+   "Birleşik Krallık ekonomisi"
+  ],
+  "tip": "Genellikle başına the getirilir. Kuzey İrlanda'yı da kapsar, bu yüzden Büyük Britanya ile aynı değildir.",
+  "note": "Ülke adının baş harfleri büyük harfle yazılmıştır."
+ },
+ {
+  "id": "probably",
+  "senses": [
+   "muhtemelen; büyük ihtimalle"
+  ],
+  "ex": [
+   "Fırın, oraya varmadan muhtemelen kapanmış olacak.",
+   "Güvenilir toplu taşımaya yatırım yapan şehirler zamanla muhtemelen daha az trafik sıkışıklığı yaşayacaklar."
+  ],
+  "col": [
+   "muhtemelen -ecek",
+   "muhtemelen değil",
+   "büyük ihtimalle çünkü"
+  ],
+  "tip": "Genellikle asıl fiilden önce gelir; be fiilinden sonra ya da ilk yardımcı fiilden sonra da yerleşebilir.",
+  "note": ""
+ }
+]

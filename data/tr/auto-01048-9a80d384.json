@@ -1,0 +1,276 @@
+[
+ {
+  "id": "reporter",
+  "senses": [
+   "muhabir; gazeteci"
+  ],
+  "ex": [
+   "Bir muhabir maçtan sonra antrenörle röportaj yaptı.",
+   "Sorumlu bir muhabir, kamuoyunu etkileyebilecek önemli toplumsal konularda haber yayımlamadan önce bilgileri dikkatle kontrol eder."
+  ],
+  "col": [
+   "haber muhabiri",
+   "televizyon muhabiri",
+   "spor muhabiri"
+  ],
+  "tip": "reporter, haberi toplayıp sunan kişiyi anlatır; journalist ise gazeteciliğin tamamını kapsayan daha geniş bir terimdir.",
+  "note": ""
+ },
+ {
+  "id": "queen",
+  "senses": [
+   "kraliçe; kral karısı",
+   "kraliçe arı; kraliçe karınca",
+   "vezir"
+  ],
+  "ex": [
+   "Kraliçe arabasının içinden kalabalığa el salladı.",
+   "Bazı anayasal monarşilerde kraliçe törensel görevleri yerine getirirken siyasi kararları seçilmiş temsilciler alır."
+  ],
+  "col": [
+   "kraliçe arı",
+   "iktidardaki kraliçe",
+   "kral ve kraliçe"
+  ],
+  "tip": "queen hem hükümdar kadını hem de kralın eşini anlatır. Satranç taşı anlamında Türkçede 'vezir' denir; kraliçe ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "teaching",
+  "senses": [
+   "öğretmenlik; öğretim",
+   "öğreti; doktrin"
+  ],
+  "ex": [
+   "Öğretmenliğe olan sevgisi küçük bir köy okulunda başladı.",
+   "Etkili öğretim, açık anlatımları bağımsız uygulamayı teşvik eden pratik etkinliklerle birleştirmelidir."
+  ],
+  "col": [
+   "öğretim yöntemleri",
+   "öğretim materyalleri",
+   "öğretmenlik deneyimi",
+   "öğretmenlik kariyeri"
+  ],
+  "tip": "Öğretim ve öğretmenlik anlamında sayılamaz; 'a teaching' denmez. Bir öğreti ya da ilkeler kümesi anlamında genellikle teachings kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "physics",
+  "senses": [
+   "fizik"
+  ],
+  "ex": [
+   "Fizik öğretmenimiz bize mıknatısların demiri nasıl çektiğini gösterdi.",
+   "Fizik konusunda sağlam bir bilgi, mühendislerin daha güvenli binalar ve daha verimli ulaşım sistemleri geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "fizik okumak",
+   "fizik yasaları",
+   "nükleer fizik"
+  ],
+  "tip": "Sonu -s ile bitse de sayılamayan tekil bir addır. Yüklem tekil çekimlenir: Physics is interesting.",
+  "note": ""
+ },
+ {
+  "id": "check-out",
+  "senses": [
+   "çıkış işlemi; otelden ayrılma",
+   "en geç çıkış saati"
+  ],
+  "ex": [
+   "Çıkış işlemini tamamladıktan sonra çantalarımızı resepsiyona bıraktık.",
+   "Esnek çıkış saatleri, küçük çocuklu aileler için seyahat deneyimini önemli ölçüde iyileştirebilir."
+  ],
+  "col": [
+   "geç çıkış",
+   "çıkış saati",
+   "hızlı çıkış"
+  ],
+  "tip": "İsim olarak checkout da yazılabilir; fiil olarak iki kelime yazılır: We checked out at noon.",
+  "note": ""
+ },
+ {
+  "id": "develop",
+  "senses": [
+   "gelişmek; geliştirmek",
+   "geliştirmek; ortaya çıkarmak",
+   "belirmek; ortaya çıkmak"
+  ],
+  "ex": [
+   "Çocuklar yeni etkinlikler denediklerinde özgüven kazanır.",
+   "Hükümetler, kırsal topluluklardaki su kıtlığını giderecek uygun fiyatlı teknolojiler geliştirmek için araştırmaları desteklemelidir."
+  ],
+  "col": [
+   "beceri geliştirmek",
+   "alışkanlık edinmek",
+   "yeni teknoloji geliştirmek",
+   "belirti göstermek"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: develop skills (beceri geliştirmek) ya da skills develop. Geçmiş zaman: developed.",
+  "note": ""
+ },
+ {
+  "id": "jogging",
+  "senses": [
+   "hafif tempolu koşu"
+  ],
+  "ex": [
+   "Kahvaltıdan önce parkta koşmaya çıkıyor.",
+   "Düzenli koşu, dengeli beslenme ve yeterli dinlenmeyle birlikte yapıldığında fiziksel formu önemli ölçüde artırabilir."
+  ],
+  "col": [
+   "koşuya çıkmak",
+   "koşu ayakkabısı",
+   "koşu parkuru"
+  ],
+  "tip": "jog fiilinden jogging yapılırken son g harfi iki kez yazılır. Yaygın olarak 'koşmak' için run da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "prepare",
+  "senses": [
+   "hazırlanmak; hazırlamak",
+   "hazırlamak; düzenlemek"
+  ],
+  "ex": [
+   "Her sabah evden çıkmadan önce öğle yemeğimi hazırlarım.",
+   "Okullar, öğrencileri akademik bilgilerinin yanında pratik becerileri geliştirerek işe hazırlamalıdır."
+  ],
+  "col": [
+   "sınava hazırlanmak",
+   "yemek hazırlamak",
+   "rapor hazırlamak",
+   "ayrılmaya hazırlanmak"
+  ],
+  "tip": "prepare for bir isim ya da -ing ile kullanılır: prepare for an exam. prepare to ise fiil yalın hâliyle gelir: prepare to leave.",
+  "note": ""
+ },
+ {
+  "id": "swiss",
+  "senses": [
+   "İsviçre'ye ait; İsviçreli",
+   "İsviçreliler"
+  ],
+  "ex": [
+   "Gölün kenarındaki pikniğimizde İsviçre peyniri yedik.",
+   "İsviçre demiryolları, güvenilir toplu taşımanın uzak dağ topluluklarını nasıl bağlayabileceğini ve sürdürülebilir turizmi nasıl destekleyebileceğini gösteriyor."
+  ],
+  "col": [
+   "İsviçre peyniri",
+   "İsviçre Alpleri",
+   "İsviçre saatleri"
+  ],
+  "tip": "Her zaman büyük harfle yazılır. 'the Swiss' topluluğu anlatır ve sonuna s eklenmez; tek kişi için a Swiss person denir.",
+  "note": ""
+ },
+ {
+  "id": "mug",
+  "senses": [
+   "kupa; bardak",
+   "yolda soymak"
+  ],
+  "ex": [
+   "Ellerimi bir kupa çayın etrafında ısıttım.",
+   "Ofislerde tek kullanımlık bardaklar yerine tekrar kullanılabilir kupalar sağlamak, her gün oluşan atığı azaltabilir."
+  ],
+  "col": [
+   "bir kupa kahve",
+   "seramik kupa",
+   "soyulmak"
+  ],
+  "tip": "mug genellikle kulplu ve büyük bir kupadır; yaygın bardak için glass, fincan için cup kullanılır. Fiil olarak çoğunlukla get mugged kalıbında görülür.",
+  "note": ""
+ },
+ {
+  "id": "sand",
+  "senses": [
+   "kum",
+   "zımparalamak"
+  ],
+  "ex": [
+   "Çocuklar ıslak kumdan bir kale yaptı.",
+   "İnşaat için nehir yataklarından kum çıkarmak, yaşam alanlarına zarar verebilir ve erozyon riskini artırabilir."
+  ],
+  "col": [
+   "ince kum",
+   "bir tane kum",
+   "kum tepeleri",
+   "zımparalayarak düzeltmek"
+  ],
+  "tip": "Kum anlamında sayılamaz; 'a sand' denmez. Tek bir kum tanesi için a grain of sand kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "raincoat",
+  "senses": [
+   "yağmurluk"
+  ],
+  "ex": [
+   "Yağmura çıkmadan önce yağmurluğumu aldım.",
+   "Hava durumunun öngörülemediği bölgelere giden gezginler, açık hava etkinlikleri sırasında rahat etmek için hafif bir yağmurluk yanlarında bulundurmalıdır."
+  ],
+  "col": [
+   "su geçirmez yağmurluk",
+   "hafif yağmurluk",
+   "yağmurluk giymek"
+  ],
+  "tip": "Hem İngiliz hem Amerikan İngilizcesinde aynı şekilde kullanılır. Yağmurluk için rain jacket de yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "diary",
+  "senses": [
+   "günlük",
+   "ajanda"
+  ],
+  "ex": [
+   "Yatmadan önce günlüğüme yazarım.",
+   "Öğrenme günlüğü tutmak, öğrencilerin ilerlemelerini değerlendirmesini ve zorluklarını belirlemesini sağlar."
+  ],
+  "col": [
+   "günlük tutmak",
+   "günlük kaydı",
+   "kişisel günlük"
+  ],
+  "tip": "diary (günlük) ile dairy (süt ürünleri) karıştırılmamalıdır. Yazımda harf sırasına dikkat edin: d-i-a-r-y.",
+  "note": ""
+ },
+ {
+  "id": "motorcycle",
+  "senses": [
+   "motosiklet",
+   "motosikletle gitmek"
+  ],
+  "ex": [
+   "Motosikletini bahçe kapısının yanına park etti.",
+   "Motosikletler arabalardan daha az park alanı gerektirse de sürücüler yol kazalarında yaralanma riskine daha açıktır."
+  ],
+  "col": [
+   "motosiklet sürmek",
+   "motosiklet kaskı",
+   "motosiklet ehliyeti"
+  ],
+  "tip": "Motosiklet sürmek için ride kullanılır; drive genellikle araba için tercih edilir. Günlük dilde motorbike da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "hold",
+  "senses": [
+   "tutmak; kavramak",
+   "düzenlemek; yapmak",
+   "almak; alabilmek"
+  ],
+  "ex": [
+   "Ayakkabılarımı bağlarken çantamı tutar mısın?",
+   "Yerel yönetimler, ulaşım hizmetlerinde büyük değişiklik yapmadan önce halka açık toplantılar düzenlemelidir."
+  ],
+  "col": [
+   "el ele tutuşmak",
+   "toplantı yapmak",
+   "nefesini tutmak",
+   "sınanmaya dayanmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi held'dir. Toplantı düzenlemek anlamında hold kullanılır; organize ve arrange da kullanılabilir.",
+  "note": ""
+ }
+]

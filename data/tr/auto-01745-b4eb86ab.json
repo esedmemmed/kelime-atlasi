@@ -1,0 +1,279 @@
+[
+ {
+  "id": "situation",
+  "senses": [
+   "durum; koşul"
+  ],
+  "ex": [
+   "Arabamız bozulduğunda zor bir durumla karşılaştık.",
+   "Konut durumu, büyük şehirlerde yaşayan genç insanlar için giderek daha zor hâle geliyor."
+  ],
+  "col": [
+   "zor bir durum",
+   "mevcut durum",
+   "bir durumla başa çıkmak"
+  ],
+  "tip": "Bir durumda olmak için 'in a situation' kalıbı kullanılır. 'Situation' sayılabilir bir isimdir, bu yüzden genellikle 'a' ya da 'the' ile gelir.",
+  "note": ""
+ },
+ {
+  "id": "pilot",
+  "senses": [
+   "pilot",
+   "deneme amaçlı; pilot",
+   "uçurmak; denemek"
+  ],
+  "ex": [
+   "Pilot, kuvvetli rüzgâra rağmen uçağı sorunsuzca indirdi.",
+   "Belediye, ücretsiz otobüs yolculuğunun trafik sıkışıklığını azaltıp azaltmayacağını test etmek için bir pilot uygulama başlattı."
+  ],
+  "col": [
+   "havayolu pilotu",
+   "pilot uygulama",
+   "pilot çalışma",
+   "bir programı pilot olarak uygulamak"
+  ],
+  "tip": "Sıfat olarak isimden önce kullanıldığında 'pilot project' gibi, bir şeyi küçük ölçekte denemeyi anlatır. Fiil olarak 'pilot a programme' de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "watermelon",
+  "senses": [
+   "karpuz"
+  ],
+  "ex": [
+   "Dışarıda oynadıktan sonra soğuk bir karpuz paylaştık.",
+   "Kurak bölgelerde karpuz yetiştirmek, sınırlı yerel su kaynaklarını korumak için dikkatli sulama yönetimi gerektirir."
+  ],
+  "col": [
+   "bir dilim karpuz",
+   "karpuz çekirdekleri",
+   "olgun karpuz"
+  ],
+  "tip": "Bütün karpuz sayılabilir. Kesilmiş karpuz eti anlamında ise genellikle sayılamaz olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "heart",
+  "senses": [
+   "kalp",
+   "yürek; gönül",
+   "merkez; öz"
+  ],
+  "ex": [
+   "Yokuş yukarı koştuğumda kalbim daha hızlı atar.",
+   "Düzenli fiziksel aktivite kalbi güçlendirir ve ciddi hastalık riskini azaltabilir."
+  ],
+  "col": [
+   "kalp hastalığı",
+   "merkezinde; özünde",
+   "ezbere öğrenmek",
+   "cesaretini kaybetmek"
+  ],
+  "tip": "'Learn by heart' ezberlemek demektir. 'Lose heart' ise cesaret kaybetmek, umutsuzluğa kapılmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "dry",
+  "senses": [
+   "kuru",
+   "kurutmak; kurumak",
+   "sıkıcı; can sıkıcı"
+  ],
+  "ex": [
+   "Havlular güneşte asıldıktan sonra kurudu.",
+   "Uzun süren kuru hava, tarımsal topluluklarda ürünlere zarar verebilir ve gıda güvenliğini tehdit edebilir."
+  ],
+  "col": [
+   "kuru hava",
+   "kuru cilt",
+   "ellerini kurulamak",
+   "kuruyup gitmek"
+  ],
+  "tip": "Karşılaştırma biçimi 'drier' olur. 'Dryer' ise kurutma makinesi anlamına gelen ayrı bir isimdir, karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "van",
+  "senses": [
+   "kapalı kasalı kamyonet; panelvan"
+  ],
+  "ex": [
+   "Kutuları küçük beyaz bir kamyonete yükledik.",
+   "Yoğun nüfuslu şehirlerde dizel teslimat kamyonetlerinin elektrikli araçlarla değiştirilmesi hava kirliliğini azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "teslimat kamyoneti",
+   "kamyonet kiralamak",
+   "kamyonete yüklemek"
+  ],
+  "tip": "Kapalı kasalı araçları ifade eder. Açık kasalı kamyonla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "handwriting",
+  "senses": [
+   "el yazısı"
+  ],
+  "ex": [
+   "Bu yeni kalemle el yazın çok daha düzgün görünüyor.",
+   "Sınıflarda dijital cihazlar yaygın olsa da, net bir el yazısı sınavlarda ve kişisel iletişimde hâlâ işe yarar."
+  ],
+  "col": [
+   "düzgün el yazısı",
+   "okunaksız el yazısı",
+   "el yazısını geliştirmek"
+  ],
+  "tip": "Genellikle sayılamaz bir isimdir, 'a handwriting' yerine 'his handwriting' gibi kullanılır. Güzel yazı sanatı için 'calligraphy' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "round",
+  "senses": [
+   "yuvarlak",
+   "tur; aşama",
+   "etrafında; çevresinde"
+  ],
+  "ex": [
+   "Mutfak penceresinin yanına yuvarlak bir masa koyduk.",
+   "Hükümetlerin endüstriyel emisyonları azaltma konusunda anlaşmaya varmasına yardımcı olabilecek bir tur daha müzakere yapılabilir."
+  ],
+  "col": [
+   "yuvarlak masa",
+   "bir tur görüşme",
+   "göl etrafında yürümek"
+  ],
+  "tip": "'Round' edat olarak İngiliz İngilizcesinde yaygındır. Amerikan İngilizcesinde genellikle 'around' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "festival",
+  "senses": [
+   "bayram; şenlik",
+   "festival; şenlik"
+  ],
+  "ex": [
+   "Kasabamız her sonbahar fener festivali düzenler.",
+   "Yıllık bir sanat festivali, ziyaretçileri çekerken yerel sanatçılara daha geniş kitlelere ulaşma fırsatı da sunabilir."
+  ],
+  "col": [
+   "bir bayramı kutlamak",
+   "müzik festivali",
+   "film festivali",
+   "festival düzenlemek"
+  ],
+  "tip": "'Festival' bir kutlamayı ya da düzenlenen etkinlikler dizisini vurgular. Her zaman resmi tatil anlamına gelmez, 'holiday' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "connect",
+  "senses": [
+   "bağlamak; bağlanmak",
+   "ilişkilendirmek",
+   "kaynaşmak; anlaşmak"
+  ],
+  "ex": [
+   "Telefonunu bu kabloyla hoparlöre bağla.",
+   "Yeni demiryolu hatları kırsal toplulukları şehirlerle bağlayarak eğitime ve istihdama erişimi iyileştirebilir."
+  ],
+  "col": [
+   "internete bağlanmak",
+   "A'yı B ile ilişkilendirmek",
+   "insanlarla bağ kurmak"
+  ],
+  "tip": "Cihazları bağlarken 'connect A to B' kalıbı kullanılır. İlişki kurmak için ise 'connect A with B' daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "receive",
+  "senses": [
+   "almak; teslim almak",
+   "karşılamak; ağırlamak"
+  ],
+  "ex": [
+   "Dün gönderdiğim fotoğrafları aldın mı?",
+   "Tüm sakinler, yeni güzergâhlar devreye girmeden önce toplu taşımadaki değişikliklerle ilgili net bilgi almalıdır."
+  ],
+  "col": [
+   "e-posta almak",
+   "tedavi görmek",
+   "sıcak bir karşılama görmek"
+  ],
+  "tip": "'Receive' bir şeyi almayı vurgular. 'Accept' ise bir şeyi kabul etmeyi, razı olmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "hiking",
+  "senses": [
+   "doğa yürüyüşü; trekking"
+  ],
+  "ex": [
+   "Yürüyüşe çıktığımda bu botlar ayaklarımın kuru kalmasını sağlıyor.",
+   "Doğa yürüyüşü, insanların doğal manzaraları takdir etmesini teşvik ederken fiziksel sağlığı geliştirmenin uygun fiyatlı bir yoludur."
+  ],
+  "col": [
+   "yürüyüşe çıkmak",
+   "doğa yürüyüşü botları",
+   "yürüyüş patikası",
+   "yürüyüş ekipmanı"
+  ],
+  "tip": "Genellikle kırsalda yapılan uzun yürüyüşleri anlatır. 'Hike' fiilinin -ing biçimidir ve isim olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "blond",
+  "senses": [
+   "sarı saçlı; sarışın",
+   "sarışın kişi"
+  ],
+  "ex": [
+   "Sarı saçları güneş ışığında neredeyse beyaz görünüyordu.",
+   "Kalıtsal özelliklerin tartışıldığı yerlerde sarı saç, insanlardaki fiziksel çeşitliliğe sıkça örnek olarak gösterilir."
+  ],
+  "col": [
+   "sarı saç",
+   "sarışın bir çocuk",
+   "doğal olarak sarışın"
+  ],
+  "tip": "Kadınlar için genellikle 'blonde' yazılır. Erkekler ve genel kullanım için 'blond' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "mark",
+  "senses": [
+   "iz; leke",
+   "not; puan",
+   "işaretlemek; notlandırmak"
+  ],
+  "ex": [
+   "Islak bardağın masada bir iz bırakmış.",
+   "Öğretmenler, öğrencilerin adil ve yararlı geri bildirim alabilmesi için ödevleri tutarlı biçimde notlandırmalıdır."
+  ],
+  "col": [
+   "iz bırakmak",
+   "yüksek not almak",
+   "bir sınavı notlandırmak",
+   "tam puan"
+  ],
+  "tip": "Sınav notları için özellikle İngiliz İngilizcesinde çoğul 'marks' kullanılır. 'Mark' fiil olarak da 'notlandırmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "huge",
+  "senses": [
+   "çok büyük; devasa"
+  ],
+  "ex": [
+   "Büyük bir köpek, küçük yavru kedinin yanında uyuyordu.",
+   "Trafik sıkışıklığı ve hava kirliliğiyle boğuşan şehirlere yapılacak toplu taşıma yatırımları büyük faydalar sağlayabilir."
+  ],
+  "col": [
+   "büyük miktar",
+   "büyük fark",
+   "büyük etki",
+   "büyük başarı"
+  ],
+  "tip": "'Huge' kendi başına çok büyük anlamına gelir. Vurguyu artırmak için 'absolutely huge' gibi pekiştirmeler kullanılabilir.",
+  "note": ""
+ }
+]

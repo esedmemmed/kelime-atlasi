@@ -1,0 +1,54 @@
+[
+ {
+  "id": "mien",
+  "senses": [
+   "ifade; tavır"
+  ],
+  "ex": [
+   "Neşeli tavrı, içeri girdiğinde odayı aydınlattı.",
+   "Ciddi görünüşüne rağmen okul müdürü, öğrencileri endişelerini açıkça ve korkmadan dile getirmeye teşvik ediyordu."
+  ],
+  "col": [
+   "ciddi bir tavır",
+   "neşeli bir ifade",
+   "vakur bir tavır"
+  ],
+  "tip": "Resmi ya da edebi bir sözcüktür. 'mean' ile aynı şekilde okunur ama anlamı farklıdır; yalnızca kişinin görünüşünü ve tavrını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "pharmaceutist",
+  "senses": [
+   "eczacı"
+  ],
+  "ex": [
+   "Eczacı, hastası için ilacı dikkatle hazırladı.",
+   "Sağlık hizmetlerinin tarihsel anlatımlarında eczacı, ilaç sağlayan ve pratik tavsiyeler veren önemli bir figür olarak sık sık karşımıza çıkar."
+  ],
+  "col": [
+   "yetkili bir eczacı",
+   "çalışan bir eczacı"
+  ],
+  "tip": "Nadir ve eskimiş bir sözcüktür; modern İngilizcede 'pharmacist' kullanılır. Sınavda ve günlük yazımda 'pharmacist' tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "profess",
+  "senses": [
+   "iddia etmek; öne sürmek",
+   "inanç beyan etmek"
+  ],
+  "ex": [
+   "Kuzenlerim yemek pişirmeyi sevdiklerini iddia ediyor ama her zaman hazır yemek sipariş ediyorlar.",
+   "Birçok şirket sürdürülebilirliğe bağlılıklarını iddia ediyor; ancak üretim yöntemleri hâlâ önemli miktarda atık üretiyor."
+  ],
+  "col": [
+   "bildiğini iddia etmek",
+   "cahilliğini iddia etmek",
+   "bir inancı benimsediğini söylemek",
+   "bir dine inandığını söylemek"
+  ],
+  "tip": "Resmi bir sözcüktür. 'profess to do' kalıbı, söylenenin doğru olmayabileceğini ima eder; bu kullanımda bir şüphe anlamı taşır.",
+  "note": ""
+ }
+]

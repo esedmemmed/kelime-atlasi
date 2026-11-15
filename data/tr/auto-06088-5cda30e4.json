@@ -1,0 +1,272 @@
+[
+ {
+  "id": "nostril",
+  "senses": [
+   "burun deliği"
+  ],
+  "ex": [
+   "Bu sabah uyandığımda bir burun deliğim tıkalıydı.",
+   "Her burun deliğinden içeri giren hava, akciğerlere ulaşmadan önce ısıtılır ve filtrelenir."
+  ],
+  "col": [
+   "tıkalı burun deliği",
+   "genişlemiş burun delikleri"
+  ],
+  "tip": "Sayılabilir isimdir; iki burun deliğinden söz ediyorsanız çoğul nostrils kullanın.",
+  "note": ""
+ },
+ {
+  "id": "patent",
+  "senses": [
+   "patent; patent hakkı",
+   "patent almak; patentlemek",
+   "açık; belirgin"
+  ],
+  "ex": [
+   "Amcasının katlanabilir bisiklet için bir patenti var.",
+   "Patent koruması, mucitlerin yeni teknolojilerin geliştirme maliyetlerini geri kazanmasına izin vererek yeniliği teşvik edebilir."
+  ],
+  "col": [
+   "patent başvurusunda bulunmak",
+   "patent sahibi olmak",
+   "patent koruması",
+   "bir buluşu patentlemek"
+  ],
+  "tip": "Patent 'patent', telif hakkı ise 'copyright'tır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "treason",
+  "senses": [
+   "vatan hainliği; vatana ihanet"
+  ],
+  "ex": [
+   "Müze rehberi, yetkilinin neden vatan hainliği suçlamasıyla karşı karşıya kaldığını açıkladı.",
+   "Tarihteki vatan hainliği davaları, hükümetlerin sadakati nasıl tanımladığını ve algılanan tehditlere nasıl karşılık verdiğini gösteriyor."
+  ],
+  "col": [
+   "vatana ihanet etmek",
+   "vatan hainliğiyle suçlanmak",
+   "yüksek vatan hainliği"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir ve devlete karşı ağır bir ihaneti anlatır.",
+  "note": ""
+ },
+ {
+  "id": "truant",
+  "senses": [
+   "okul kaçağı; devamsız öğrenci",
+   "okuldan kaçan; devamsız"
+  ],
+  "ex": [
+   "Öğretmen, oyun alanının arkasına saklanmış iki okul kaçağı buldu.",
+   "Okullar, yalnızca cezaya güvenmek yerine zorbalık ve aile sorunlarını ele alarak ısrarcı okul kaçaklarını desteklemelidir."
+  ],
+  "col": [
+   "okuldan kaçmak",
+   "ısrarcı okul kaçağı",
+   "devamsız öğrenciler"
+  ],
+  "tip": "İngiliz İngilizcesinde play truant okuldan kaçmak anlamına gelir; sıradan izinli devamsızlık değildir.",
+  "note": ""
+ },
+ {
+  "id": "chasm",
+  "senses": [
+   "uçurum; derin yarık",
+   "uçurum; büyük fark"
+  ],
+  "ex": [
+   "Derin uçurumu dar bir köprüden geçtik.",
+   "Dijital teknolojiye eşit olmayan erişim, zengin ve dezavantajlı topluluklar arasındaki uçurumu genişletti."
+  ],
+  "col": [
+   "derin bir uçurum",
+   "genişleyen bir uçurum",
+   "uçurumu kapatmak"
+  ],
+  "tip": "'ch' harfi /k/ sesi verir; mecazi olarak büyük farkı anlatırken genellikle chasm between kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reluctance",
+  "senses": [
+   "isteksizlik; çekingenlik"
+  ],
+  "ex": [
+   "Leo, belli belirsiz bir isteksizlikle en sevdiği oyuncağını geri verdi.",
+   "Bazı yolcular, hizmetler seyrek ve güvenilmez olduğu için toplu taşımayı kullanmaya isteksiz davranıyor."
+  ],
+  "col": [
+   "değişmeye karşı isteksizlik",
+   "isteksizce",
+   "isteksizliğini yenmek"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; reluctance to do sth kalıbıyla bir şeyi yapmaya isteksizliği anlatır.",
+  "note": ""
+ },
+ {
+  "id": "grudge",
+  "senses": [
+   "kin; garez",
+   "kin beslemek; esirgemek"
+  ],
+  "ex": [
+   "Hâlâ kırık vazo yüzünden ona kin besliyor.",
+   "Çözülmemiş iş yeri çatışmaları, çalışanların kin beslemesine yol açabilir; bu da iş birliğini azaltır ve ekip moralini bozar."
+  ],
+  "col": [
+   "kin beslemek",
+   "birine kin beslemek",
+   "uzun süreli kin"
+  ],
+  "tip": "hold a grudge against sb birine kin beslemek anlamına gelir; against kalıbını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "imperial",
+  "senses": [
+   "imparatorluğa ait",
+   "İngiliz ölçü birimlerine ait; emperyal"
+  ],
+  "ex": [
+   "İmparatorluk sarayının altın çatısına hayran kaldık.",
+   "Eski imparatorluk başkentleri, genellikle tarihi zenginliklerini ve siyasi etkilerini yansıtan mimari özellikleri korur."
+  ],
+  "col": [
+   "imparatorluk sarayı",
+   "imparatorluk gücü",
+   "imparatorluk yönetimi",
+   "İngiliz ölçü birimleri"
+  ],
+  "tip": "imperial units İngiliz ölçü birimlerini, metric units ise metrik birimleri ifade eder; bu ikisi karşıtlık oluşturur.",
+  "note": ""
+ },
+ {
+  "id": "leafy",
+  "senses": [
+   "yapraklı; yeşil ağaçlı",
+   "yapraklı; yaprak sebze türü"
+  ],
+  "ex": [
+   "Büyük, yapraklı bir ağacın altında sandviçlerimizi yedik.",
+   "Yeşil mahalleler, gölge sağlayarak, sıcaklığı azaltarak ve açık hava etkinliklerini teşvik ederek sakinlerin refahını artırabilir."
+  ],
+  "col": [
+   "yeşil banliyö",
+   "yapraklı ağaç",
+   "yapraklı sebzeler"
+  ],
+  "tip": "leafy streets yaprakları bol, ağaçlarla gölgeli sokakları anlatır; sonbahar yapraklarıyla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "prosperity",
+  "senses": [
+   "refah; zenginlik"
+  ],
+  "ex": [
+   "Meşgul liman kasabamıza refah getirdi.",
+   "Eğitime yapılan yatırım, çalışanlara değişen ekonomide gereken becerileri kazandırarak uzun vadeli refahı destekleyebilir."
+  ],
+  "col": [
+   "ekonomik refah",
+   "paylaşılan refah",
+   "uzun vadeli refah"
+  ],
+  "tip": "Sayılamayan bir isimdir; sıfat biçimi prosperous (müreffeh, refah içinde) şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "metallic",
+  "senses": [
+   "metalden yapılmış; metal içeren",
+   "metalik; metal gibi"
+  ],
+  "ex": [
+   "Metal çerçeve, bu sandalyeyi şaşırtıcı derecede ağır yapıyor.",
+   "Metal parçalar, atılmış elektronik eşyalardan çoğu zaman geri kazanılabilir ve yeni hammadde çıkarma ihtiyacını azaltır."
+  ],
+  "col": [
+   "metal bileşenler",
+   "metalik bir tat",
+   "metalik bir ses",
+   "metalik bir kaplama"
+  ],
+  "tip": "metallic hem metalden yapılmış hem de metal gibi görünen, duyulan ya da tadılan şeyleri anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "lavish",
+  "senses": [
+   "gösterişli; bol; cömert",
+   "bol bol vermek; lavışça harcamak"
+  ],
+  "ex": [
+   "Tüm aile için gösterişli bir ziyafet hazırladılar.",
+   "Eleştirmenler, resmi törenlere yapılan gösterişli harcamaların kamu fonlarını sağlık gibi temel hizmetlerden saptırdığını savunuyor."
+  ],
+  "col": [
+   "gösterişli bir yaşam tarzı",
+   "gösterişli bir ziyafet",
+   "birine bol bol övgü yağdırmak",
+   "birine bol ilgi göstermek"
+  ],
+  "tip": "Fiil olarak genellikle lavish sth on sb kalıbıyla kullanılır ve birine bir şeyi bolca vermek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "versatile",
+  "senses": [
+   "çok yönlü; çok amaçlı"
+  ],
+  "ex": [
+   "Bu çok amaçlı tava, çorbalar ve sote yemekler için çok uygun.",
+   "İşverenler, farklı görevlere uyum sağlayabilen ve yeni beceriler öğrenebilen çok yönlü mezunlara giderek daha fazla değer veriyor."
+  ],
+  "col": [
+   "çok yönlü bir sanatçı",
+   "çok amaçlı bir alet",
+   "son derece çok yönlü"
+  ],
+  "tip": "Hem kişiler için çok yetenekli, hem de eşyalar için birçok amaca hizmet eden anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "awaken",
+  "senses": [
+   "uyanmak; uyandırmak",
+   "uyandırmak; harekete geçirmek"
+  ],
+  "ex": [
+   "Güneş ışığı perdelere ulaştığı anda kuş sesleri beni uyandırdı.",
+   "Bilim müzelerine yapılan ziyaretler, çocukların merakını uyandırabilir ve onları tanıdık olmayan konuları keşfetmeye teşvik edebilir."
+  ],
+  "col": [
+   "uykudan uyanmak",
+   "merak uyandırmak",
+   "tehlikelerin farkına varmak"
+  ],
+  "tip": "awaken fiildir; 'uyanık' anlamındaki sıfat ise awake'tir.",
+  "note": ""
+ },
+ {
+  "id": "paralysis",
+  "senses": [
+   "felç; uyuşma",
+   "felç; durma noktası"
+  ],
+  "ex": [
+   "Yaralanma, sol bacağında geçici bir felce neden oldu.",
+   "Siyasi anlaşmazlıklar, konut ve toplu taşıma gibi temel kararların gecikmesine yol açan idari bir felce yol açabilir."
+  ],
+  "col": [
+   "geçici felç",
+   "kısmi felç",
+   "siyasi felç",
+   "uyku felci"
+  ],
+  "tip": "Hem vücudun hareket edememesini hem de kurum veya kararların ilerleyememesini anlatabilir.",
+  "note": ""
+ }
+]

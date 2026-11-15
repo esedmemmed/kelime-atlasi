@@ -1,0 +1,277 @@
+[
+ {
+  "id": "litter",
+  "senses": [
+   "çöp",
+   "etrafa çöp atmak; dağıtmak",
+   "yavru takımı; yavrular"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce sahildeki çöpleri topladık.",
+   "Kentsel parklardaki çöpleri azaltmak için uygun çöp kutularının yanı sıra sürekli halk eğitimi kampanyaları da gerekir."
+  ],
+  "col": [
+   "çöp atmak",
+   "çöp toplamak",
+   "bir köpek yavrusu takımı"
+  ],
+  "tip": "Çöp anlamında isim sayılamaz, 'a litter' denmez. Bir doğumdaki yavrular için 'a litter of' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pollute",
+  "senses": [
+   "kirletmek"
+  ],
+  "ex": [
+   "Lütfen dereye çöp atarak onu kirletmeyin.",
+   "Yerel nehirleri kirleten fabrikalar, ekosistemleri ve halk sağlığını korumak için daha sıkı cezalarla karşılaşmalıdır."
+  ],
+  "col": [
+   "çevreyi kirletmek",
+   "havayı kirletmek",
+   "ağır derecede kirlenmiş"
+  ],
+  "tip": "Geçişli bir fiildir; kirlenen nesne doğrudan gelir, 'pollute with' gibi bir edat kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "pumpkin",
+  "senses": [
+   "balkabağı"
+  ],
+  "ex": [
+   "Bir balkabağını fırınlayıp pirinçle servis ettik.",
+   "Topluluk bahçelerinde balkabağı gibi ürünler yetiştirmek, kentsel mahallelerde taze gıdaya erişimi artırabilir."
+  ],
+  "col": [
+   "balkabağı çorbası",
+   "balkabağı çekirdeği",
+   "fırınlanmış balkabağı"
+  ],
+  "tip": "Bütün bir meyve sayılabilir (a pumpkin). Yemek malzemesi olarak söz edildiğinde genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "gently",
+  "senses": [
+   "nazikçe; yumuşakça",
+   "yavaşça; hafifçe"
+  ],
+  "ex": [
+   "Yavru kediyi sepetten nazikçe kaldırdı.",
+   "Sağlık çalışanları, muayene sırasında hastaların rahat hissetmesi için kaygılı hastalarla yumuşak bir üslupla konuşmalıdır."
+  ],
+  "col": [
+   "nazikçe karıştırmak",
+   "yumuşak konuşmak",
+   "yavaşça eğimli olmak"
+  ],
+  "tip": "'gentle' sıfatından türer: sondaki e düşer, y eklenir. Zarf biçimi 'gentley' değil 'gently' olur.",
+  "note": ""
+ },
+ {
+  "id": "leaflet",
+  "senses": [
+   "el ilanı; broşür"
+  ],
+  "ex": [
+   "Bir gönüllü bana yeni kütüphane hakkında bir el ilanı verdi.",
+   "Sağlık merkezleri, düzenli egzersizin birçok yaygın hastalığı önlemeye nasıl yardımcı olduğunu anlatan bir broşür dağıtabilir."
+  ],
+  "col": [
+   "el ilanı dağıtmak",
+   "bilgilendirme broşürü",
+   "tanıtım broşürü"
+  ],
+  "tip": "Leaflet genellikle tek sayfalık ya da katlanmış bir kâğıttır; brochure ise daha çok kitapçık türünde basılı materyaldir.",
+  "note": ""
+ },
+ {
+  "id": "cultural",
+  "senses": [
+   "kültürel",
+   "sanatsal; sanatla ilgili"
+  ],
+  "ex": [
+   "Festival, kasabanın zengin kültürel geleneklerini kutluyor.",
+   "Okullar, öğrencilerin aile geleneklerini ve deneyimlerini paylaşmasını teşvik ederek kültürel anlayışı destekleyebilir."
+  ],
+  "col": [
+   "kültürel miras",
+   "kültürel çeşitlilik",
+   "kültürel farklılıklar",
+   "sanatsal etkinlikler"
+  ],
+  "tip": "'cultural' kültürle ilgili anlamına gelir. 'kültürlü, görgülü' anlamı için 'cultured' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "medium-sized",
+  "senses": [
+   "orta boyda; orta ölçekli"
+  ],
+  "ex": [
+   "Bir hafta sonu için orta boy bir bavul her şeye yeter.",
+   "Orta ölçekli şehirler, büyük kentsel merkezlere kıyasla daha kısa işe gidiş süreleriyle çeşitli iş fırsatları sunabilir."
+  ],
+  "col": [
+   "orta ölçekli işletme",
+   "orta büyüklükte şehir",
+   "orta boy bavul"
+  ],
+  "tip": "Yalnızca boyutu belirtir. 'Sıradan, ortalama' gibi kalite anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "southern",
+  "senses": [
+   "güneydeki; güney"
+  ],
+  "ex": [
+   "Adanın güney kıyısını keşfederek bir hafta geçirdik.",
+   "Ülkenin güney bölgeleri, artan sıcaklıklar su kaynakları üzerindeki baskıyı artırdıkça daha uzun kuraklıklarla karşılaşabilir."
+  ],
+  "col": [
+   "güney kıyısı",
+   "güney yarımküre",
+   "güney bölgeleri",
+   "güney sınırı"
+  ],
+  "tip": "'south' /aʊ/ sesiyle okunur; 'southern'de ise ilk hecedeki ou /ʌ/ sesine dönüşür. Bu iki telaffuz karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "gain",
+  "senses": [
+   "elde etmek; artmak",
+   "kazanç; artış"
+  ],
+  "ex": [
+   "Birkaç dersten sonra özgüven kazanacaksın.",
+   "Öğrenciler, yerel topluluklarına fayda sağlayan projelerde gönüllü olarak çalışarak değerli pratik deneyim kazanabilir."
+  ],
+  "col": [
+   "deneyim kazanmak",
+   "erişim sağlamak",
+   "kilo almak",
+   "maddi kazanç"
+  ],
+  "tip": "'gain' genellikle deneyim, özgüven gibi soyut şeyler için kullanılır. Maçı kazanmak için 'win' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "blanket",
+  "senses": [
+   "battaniye; örtü",
+   "toptan; genel",
+   "örtmek; kaplamak"
+  ],
+  "ex": [
+   "Soğuk omuzlarının etrafına yumuşak bir battaniye sardı.",
+   "Özel araçlara yönelik genel bir yasak, toplu taşımaya kolay erişemeyen sakinleri olumsuz etkileyebilir."
+  ],
+  "col": [
+   "sıcak bir battaniye",
+   "bir kar örtüsü",
+   "toptan yasak"
+  ],
+  "tip": "Sıfat olarak 'blanket ban' gibi kalıplarda 'istisnasız, her duruma uygulanan' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "technical",
+  "senses": [
+   "teknik",
+   "uzmanlık gerektiren; özel"
+  ],
+  "ex": [
+   "Teknik sorunu çözmek için bir mühendis çağırdık.",
+   "Okullar, öğrencileri değişen iş dünyasına hazırlamak için akademik derslerin yanında teknik becerileri de öğretmelidir."
+  ],
+  "col": [
+   "teknik beceriler",
+   "teknik destek",
+   "teknik sorun",
+   "teknik terimler"
+  ],
+  "tip": "'technical' yüksek teknoloji anlamına zorunlu olarak gelmez; pratik beceri ya da uzmanlık bilgisini de ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "communication",
+  "senses": [
+   "iletişim; haberleşme",
+   "resmi yazı; mesaj"
+  ],
+  "ex": [
+   "Net iletişim, mutfağı tartışmadan paylaşmamıza yardımcı olur.",
+   "Sağlık çalışanları ile hastalar arasında etkili iletişim, tedavi sonuçlarını iyileştirebilir ve yanlış anlaşılmaları azaltabilir."
+  ],
+  "col": [
+   "iletişim becerileri",
+   "etkili iletişim",
+   "sözsüz iletişim",
+   "iletişimin kopması"
+  ],
+  "tip": "Genel anlamda iletişim sayılamaz. Resmi bir yazı anlamında ise sayılabilir: 'a communication'.",
+  "note": ""
+ },
+ {
+  "id": "darkness",
+  "senses": [
+   "karanlık; koyuluk"
+  ],
+  "ex": [
+   "Torbayı tam karanlıkta aradık.",
+   "Yapay aydınlatma, kentsel alanlardaki doğal karanlığı azaltarak sakinlerin ve yabani hayvanların uyku düzenini bozabilir."
+  ],
+  "col": [
+   "tam karanlık",
+   "karanlıkta",
+   "karanlığın örtüsü altında"
+  ],
+  "tip": "Genellikle sayılamaz, 'a darkness' denmez. 'in the dark' ise 'habersiz olmak' anlamına gelen ayrı bir deyimdir.",
+  "note": ""
+ },
+ {
+  "id": "deal",
+  "senses": [
+   "anlaşma; pazarlık",
+   "ilgilenmek; başa çıkmak",
+   "dağıtmak"
+  ],
+  "ex": [
+   "Yeni kanepemiz için iyi bir fiyat yakaladık.",
+   "Hükümetler, uygun fiyatlı konut inşasını destekleyerek ve toplu taşıma bağlantılarını iyileştirerek konut sıkıntısıyla başa çıkmak zorundadır."
+  ],
+  "col": [
+   "anlaşma yapmak",
+   "bir sorunla ilgilenmek",
+   "çok miktarda",
+   "kart dağıtmak"
+  ],
+  "tip": "'deal with' 'ile ilgilenmek, başa çıkmak' anlamındadır ve mutlaka 'with' ile kullanılır. 'a great deal of' sayılamayan isimlerle gelir.",
+  "note": ""
+ },
+ {
+  "id": "odd",
+  "senses": [
+   "tuhaf; garip",
+   "tek (sayı)",
+   "ara sıra olan; düzensiz"
+  ],
+  "ex": [
+   "Buzdolabından garip bir koku geliyor.",
+   "Hızla büyüyen bazı şehirlerin hâlâ güvenilir temiz içme suyuna erişiminin olmaması garip görünebilir."
+  ],
+  "col": [
+   "garip bir koku",
+   "tek sayı",
+   "ara sıra olan durum",
+   "düzensiz işler"
+  ],
+  "tip": "'the odd' + tekil isim 'ara sıra olan' anlamı verir (the odd occasion). 'odd jobs' ise geçici, düzensiz işler demektir.",
+  "note": ""
+ }
+]

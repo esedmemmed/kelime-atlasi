@@ -1,0 +1,276 @@
+[
+ {
+  "id": "bacon",
+  "senses": [
+   "pastırma; domuz pastırması"
+  ],
+  "ex": [
+   "Pazar günü kahvaltıda pastırma ve yumurta pişirdi.",
+   "İşlenmiş et, pastırma dahil, daha sağlıklı bir diyetin parçası olarak genellikle tüketimin azaltılması önerilir."
+  ],
+  "col": [
+   "bir dilim pastırma",
+   "çıtır pastırma",
+   "pastırma ve yumurta"
+  ],
+  "tip": "Genellikle sayılmayan bir isimdir; bir dilim pastırma için a slice of bacon kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "happily",
+  "senses": [
+   "mutlu mutlu; neşeyle",
+   "isteyerek; memnuniyetle",
+   "neyse ki; şans eseri"
+  ],
+  "ex": [
+   "Çocuklar birlikte sandviç hazırlarken neşeyle sohbet ediyorlardı.",
+   "Hizmetler daha güvenilir ve uygun fiyatlı olursa birçok sakin toplu taşımayı memnuniyetle kullanırdı."
+  ],
+  "col": [
+   "neşeyle gülümsemek",
+   "mutlu bir evlilik",
+   "isteyerek kabul etmek"
+  ],
+  "tip": "Cümle başında Happily, “neyse ki” anlamına da gelebilir; sadece “mutlu bir şekilde” anlamında düşünülmemelidir.",
+  "note": ""
+ },
+ {
+  "id": "brain",
+  "senses": [
+   "beyin",
+   "zeka; akıl"
+  ],
+  "ex": [
+   "Düşersen kaskın beynini korumaya yardımcı olur.",
+   "Yeterli uyku sağlıklı beyin işlevini destekler ve öğrencilerin bilgileri daha etkili hatırlamasına yardımcı olur."
+  ],
+  "col": [
+   "beyin işlevi",
+   "beyin hasarı",
+   "beynini kullanmak"
+  ],
+  "tip": "Organ anlamında brain tekil kullanılır; zeka anlamında genellikle brains çoğul biçimi tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "crowded",
+  "senses": [
+   "kalabalık; dolu"
+  ],
+  "ex": [
+   "Otobüs o kadar kalabalıktı ki yolculuk boyunca ayakta gittik.",
+   "Kalabalık kentsel mahallelerde sakinlerin egzersiz yapabileceği ve biraz kişisel alan bulabileceği erişilebilir parklara ihtiyaç vardır."
+  ],
+  "col": [
+   "kalabalık otobüs",
+   "insanlarla dolu",
+   "kalabalık sokaklar"
+  ],
+  "tip": "be crowded with kalıbı “…ile dolu olmak” anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "promise",
+  "senses": [
+   "söz vermek; vaat etmek",
+   "söz; vaat",
+   "umut vadetme; potansiyel"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce bisikletini geri getireceğime söz veriyorum.",
+   "Yenilenebilir teknolojiler önemli bir umut vaat etse de, bunları yaygın olarak uygun fiyatlı hale getirmek için daha fazla yatırıma ihtiyaç var."
+  ],
+  "col": [
+   "sözünü tutmak",
+   "sözünden dönmek",
+   "bir şey yapacağına söz vermek",
+   "umut vaat etmek"
+  ],
+  "tip": "promise to do kalıbı kullanılır, promise doing değil.",
+  "note": ""
+ },
+ {
+  "id": "unhappy",
+  "senses": [
+   "mutsuz; üzgün",
+   "memnun olmayan; hoşnutsuz"
+  ],
+  "ex": [
+   "Piknik iptal edildiğinde mutsuz görünüyordu.",
+   "Sakinler, değerli yeşil alanları ortadan kaldıracağı için önerilen yol genişletmesinden memnun değil."
+  ],
+  "col": [
+   "mutsuz hissetmek",
+   "hizmetten memnun olmamak",
+   "mutsuz bir çocukluk"
+  ],
+  "tip": "unhappy with, “…den memnun olmamak” anlamında sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "matter",
+  "senses": [
+   "mesele; konu",
+   "önemli olmak; fark yaratmak",
+   "madde; maddesel şey"
+  ],
+  "ex": [
+   "Bu konuyu bugün öğle yemeğinden sonra görüşebiliriz.",
+   "Okullar öğrenci başarısını artırmayı hedeflediğinde, pahalı donanımdan çok öğretimin kalitesi önemlidir."
+  ],
+  "col": [
+   "ciddi bir mesele",
+   "zaman meselesi",
+   "organik madde",
+   "önemli değil"
+  ],
+  "tip": "“Mesele” anlamında sayılabilir, “madde” anlamında sayılamaz; fiil olarak “önemli olmak” anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "sunshine",
+  "senses": [
+   "güneş ışığı; güneş",
+   "neşe; mutluluk kaynağı"
+  ],
+  "ex": [
+   "Sıcak güneş ışığında kahvaltımızı dışarıda yaptık.",
+   "Parklara ve güneş ışığına erişim, özellikle yoğun nüfuslu kentsel alanlarda sakinlerin iyi oluşunu artırabilir."
+  ],
+  "col": [
+   "parlak güneş ışığı",
+   "güneşin altında",
+   "güneşli saatler",
+   "neşe kaynağı"
+  ],
+  "tip": "sunshine genellikle sayılamaz; güneşli bir hava için a sunny day denir.",
+  "note": ""
+ },
+ {
+  "id": "engineer",
+  "senses": [
+   "mühendis",
+   "tasarlamak; planlamak"
+  ],
+  "ex": [
+   "Köprü açılmadan önce bir mühendis onu kontrol etti.",
+   "Mühendisler, daha az ısıtma ve soğutma gerektiren binalar tasarlayarak kentsel enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "inşaat mühendisi",
+   "yazılım mühendisi",
+   "bir çözüm tasarlamak"
+  ],
+  "tip": "engineer fiil olarak da kullanılır; “tasarlamak” veya “sonuca ulaşacak şekilde planlamak” anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "midday",
+  "senses": [
+   "öğle; öğle vakti"
+  ],
+  "ex": [
+   "Öğle vakti gölün kenarında piknik yapmak için durduk.",
+   "Dış mekânda çalışanlar sıcak çarpması riskini azaltmak için öğle saatlerinde doğrudan güneş ışığından kaçınmalıdır."
+  ],
+  "col": [
+   "öğlen",
+   "öğle saatlerinde",
+   "öğle güneşi"
+  ],
+  "tip": "Zamandan önce at kullanılır; isim öncesinde de kullanılabilir, örneğin midday sun.",
+  "note": ""
+ },
+ {
+  "id": "bookshelf",
+  "senses": [
+   "kitaplık; raf"
+  ],
+  "ex": [
+   "En sevdiği romanı ahşap kitaplığa yerleştirdi.",
+   "Her sınıfta iyi donatılmış bir kitaplık, çocukların okul müfredatının ötesindeki konuları keşfetmesini teşvik edebilir."
+  ],
+  "col": [
+   "ahşap kitaplık",
+   "kitaplıkta",
+   "iyi donatılmış kitaplık"
+  ],
+  "tip": "Çoğulu bookshelves olur; f harfi ves'e döner.",
+  "note": ""
+ },
+ {
+  "id": "attractive",
+  "senses": [
+   "güzel; çekici",
+   "cazip; ilgi çekici"
+  ],
+  "ex": [
+   "Güller açtığında bahçe özellikle güzel görünüyor.",
+   "Esnek çalışma saatleri, öğretmenliği bazı üniversite mezunları için daha cazip bir kariyer seçeneği haline getiriyor."
+  ],
+  "col": [
+   "çekici görünüm",
+   "cazip maaş",
+   "cazip seçenek",
+   "ziyaretçiler için cazip"
+  ],
+  "tip": "Hem dış görünüşü hem de cazip bir teklifi ya da maaşı tanımlamak için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "view",
+  "senses": [
+   "görüş; düşünce",
+   "manzara; görünüm",
+   "görmek; değerlendirmek"
+  ],
+  "ex": [
+   "Benim görüşüm daha erken ayrılmamız gerektiği yönünde.",
+   "Birçok sakin, toplu taşımaya yapılan yatırımı kentsel kirliliği azaltmanın etkili bir yolu olarak görüyor."
+  ],
+  "col": [
+   "görüş bildirmek",
+   "bence",
+   "deniz manzarası",
+   "bir şeyi …olarak görmek"
+  ],
+  "tip": "Görüş için view on kullanılır; bir şeyi bir biçimde değerlendirmek için view something as kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "finally",
+  "senses": [
+   "sonunda; nihayet",
+   "son olarak"
+  ],
+  "ex": [
+   "Bütün sabah aradıktan sonra sonunda anahtarlarımı buldum.",
+   "Son olarak, hükümetler trafik sıkışıklığını ve kentsel hava kirliliğini azaltmak için güvenilir toplu taşımaya yatırım yapmalıdır."
+  ],
+  "col": [
+   "sonunda varmak",
+   "sonunda başarmak",
+   "sonunda kabul etmek"
+  ],
+  "tip": "“Sonunda” anlamında genellikle fiilden önce gelir; “son olarak” anlamında cümle başında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "doll",
+  "senses": [
+   "oyuncak bebek; bebek"
+  ],
+  "ex": [
+   "Küçük kuzenim bebeğini minik bir yatağa yatırdı.",
+   "Bebeklerle oynamak, küçük çocukların iletişim becerilerini geliştirmesine ve farklı sosyal rolleri keşfetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bez bebek",
+   "bebeklerle oynamak",
+   "oyuncak bebek evi"
+  ],
+  "tip": "Genellikle insan biçiminde bir oyuncağı ifade eder; bir kadına doll diye hitap etmek küçümseyici algılanabilir.",
+  "note": ""
+ }
+]

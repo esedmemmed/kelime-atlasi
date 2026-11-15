@@ -1,0 +1,277 @@
+[
+ {
+  "id": "lively",
+  "senses": [
+   "canlı; hareketli",
+   "canlı; coşkulu"
+  ],
+  "ex": [
+   "Neşeli köpek yavrusu bahçede topun peşinden koştu.",
+   "Sınıftaki canlı tartışmalar öğrencileri farklı bakış açılarını düşünmeye teşvik edip eleştirel düşünme becerilerini geliştirebilir."
+  ],
+  "col": [
+   "canlı tartışma",
+   "canlı atmosfer",
+   "canlı hayal gücü"
+  ],
+  "tip": "-ly ile bitmesine rağmen bu kelime sıfattır, zarf değildir. Zarf için lively yerine 'in a lively way' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sculpture",
+  "senses": [
+   "heykel",
+   "heykel sanatı"
+  ],
+  "ex": [
+   "Kütüphanenin dışında duran bronz bir at heykeli var.",
+   "Kamusal heykeller, sanatı geleneksel galeri dışındaki insanlara ulaştırırken kentin kültürel kimliğini güçlendirebilir."
+  ],
+  "col": [
+   "bronz heykel",
+   "kamusal heykel",
+   "heykel bahçesi",
+   "soyut heykel"
+  ],
+  "tip": "Sanat dalı olarak sayılamaz; tek bir eser için sayılabilir kullanılır (a sculpture, sculptures).",
+  "note": ""
+ },
+ {
+  "id": "demand",
+  "senses": [
+   "talep",
+   "kesin istek",
+   "talep etmek; gerektirmek"
+  ],
+  "ex": [
+   "Sıcak havalarda soğuk içeceklere olan talep keskin biçimde artar.",
+   "Uygun fiyatlı konutlara olan artan talep, yerel yönetimleri kullanılmayan ofis binalarını konuta dönüştürmeye yöneltmiştir."
+  ],
+  "col": [
+   "konut talebi",
+   "talebi karşılamak",
+   "büyük talep görmek",
+   "bir açıklama talep etmek"
+  ],
+  "tip": "'Birinin bir şey yapmasını talep etmek' için demand to do kalıbı kullanılır; demand sb to do yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "classical",
+  "senses": [
+   "klasik müzik ile ilgili",
+   "antik Yunan ve Roma ile ilgili; klasik",
+   "geleneksel kurama dayalı"
+  ],
+  "ex": [
+   "Kız kardeşim yemek pişirirken klasik müzik dinler.",
+   "Klasik mimariyi incelemek, öğrencilerin antik tasarım ilkelerinin modern kamu binalarını nasıl etkilemeye devam ettiğini anlamalarına yardımcı olur."
+  ],
+  "col": [
+   "klasik müzik",
+   "klasik mimari",
+   "klasik uygarlık",
+   "klasik mekanik"
+  ],
+  "tip": "Klasik müzik için classical kullanılır; 'klasik eser' anlamında çoğunlukla classic tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "coal",
+  "senses": [
+   "kömür"
+  ],
+  "ex": [
+   "Eski soba kış boyunca hâlâ kömürle yanıyor.",
+   "Kömür yerine yenilenebilir enerji kullanmak, elektrik üretiminden kaynaklanan hava kirliliğini ve sera gazı emisyonlarını azaltabilir."
+  ],
+  "col": [
+   "kömür madeni",
+   "kömür yakmak",
+   "kömürle çalışan santral"
+  ],
+  "tip": "Kömür genellikle sayılamayan isimdir. Odun kömürü için charcoal kullanılır, coal ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "admit",
+  "senses": [
+   "kabul etmek; itiraf etmek",
+   "kabul etmek; içeri almak"
+  ],
+  "ex": [
+   "Saksılarını sulamayı unuttuğumu itiraf ediyorum.",
+   "Hükümetler politikaları başarısız olduğunda bunu kabul etmeli ve daha etkili alternatifler geliştirmek için güvenilir kanıtlara dayanmalıdır."
+  ],
+  "col": [
+   "hatayı kabul etmek",
+   "bir şey yaptığını kabul etmek",
+   "-dığını kabul etmek",
+   "hastaneye yatırılmak"
+  ],
+  "tip": "admit doing şeklinde kullanılır, admit to doing değil. Geçmiş zamanda t harfi ikilenir: admitted.",
+  "note": ""
+ },
+ {
+  "id": "contents",
+  "senses": [
+   "içindekiler; içerik",
+   "içindekiler listesi; içindekiler"
+  ],
+  "ex": [
+   "Çantasının içindekileri masaya boşalttı.",
+   "Ayrıntılı bir içindekiler tablosu, uzun akademik raporlarda okuyucuların ilgili bilgilere hızlıca ulaşmasını sağlar."
+  ],
+  "col": [
+   "içindekiler tablosu",
+   "içindekiler sayfası",
+   "çantanın içindekileri"
+  ],
+  "tip": "contents kutunun içindekileri ya da kitabın içindekiler listesi anlamına gelir; bir yazının konusu/içeriği için content kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "neat",
+  "senses": [
+   "düzenli; temiz",
+   "akıllıca; basit ve etkili"
+  ],
+  "ex": [
+   "Bahçe aletlerini düzgün sıralar halinde saklar.",
+   "Ortak çalışma alanlarını düzenli tutmak, gerekli ekipmanın bulunmasını kolaylaştırarak verimliliği artırabilir."
+  ],
+  "col": [
+   "düzenli ve temiz",
+   "düzgün el yazısı",
+   "akıllıca bir çözüm"
+  ],
+  "tip": "neat yalnızca 'temiz' değil, bir çözümün zekice ve sade olduğunu da anlatır. Gündelik dilde 'harika' anlamında da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "announce",
+  "senses": [
+   "duyurmak; açıklamak"
+  ],
+  "ex": [
+   "Öğretmenimiz bugün öğle yemeğinden sonra kazananları açıkladı.",
+   "Yerel yönetimler, sakinlerin hazırlanmaları için yeterli zamanları olsun diye büyük politika değişikliklerini erken duyurmalıdır."
+  ],
+  "col": [
+   "planları duyurmak",
+   "bir kararı açıklamak",
+   "sonuçları açıklamak"
+  ],
+  "tip": "announce sth veya announce that kalıbı kullanılır; announce sb sth yapısı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "society",
+  "senses": [
+   "toplum; cemiyet",
+   "dernek; topluluk"
+  ],
+  "ex": [
+   "Herkesin topluma katkıda bulunacak bir payı vardır.",
+   "Yaşlanan bir toplum, erişilebilir sağlık hizmetleri ve yaşlıların bağımsızlığını destekleyen politikalar gerektirir."
+  ],
+  "col": [
+   "modern toplum",
+   "yaşlanan toplum",
+   "toplumun bütünü",
+   "bir derneğe üye olmak"
+  ],
+  "tip": "Genel anlamda 'toplum' için başına the getirilmez. Dernek anlamında sayılabilir isimdir (a society).",
+  "note": ""
+ },
+ {
+  "id": "ad",
+  "senses": [
+   "reklam"
+  ],
+  "ex": [
+   "Dün bir yemek kursunun reklamı dikkatimi çekti.",
+   "Çevrim içi reklamlar, kullanıcıların gezinme alışkanlıklarına ve ilgi alanlarına uyan ürünleri göstererek tüketici tercihlerini etkileyebilir."
+  ],
+  "col": [
+   "çevrim içi reklam",
+   "iş ilanı",
+   "ilan vermek",
+   "reklam kampanyası"
+  ],
+  "tip": "ad, advertisement kelimesinin gayriresmî kısaltmasıdır ve sayılabilir isimdir. Resmî yazıda advertisement tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "open-air",
+  "senses": [
+   "açık havada olan; açık hava"
+  ],
+  "ex": [
+   "Dün gece açık hava sinemasında bir film izledik.",
+   "Açık hava pazarları ziyaretçileri çekerken küçük yerel işletmelere uygun maliyetli satış alanları da sağlayabilir."
+  ],
+  "col": [
+   "açık hava pazarı",
+   "açık hava konseri",
+   "açık hava tiyatrosu"
+  ],
+  "tip": "Sıfat olarak kullanıldığında kelime tire ile yazılır. Ayrı bir kalıp olan in the open air ise 'açık havada' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "muscle",
+  "senses": [
+   "kas",
+   "güç; nüfuz"
+  ],
+  "ex": [
+   "Ağır bir kutuyu kaldırırken kasımı zorladım.",
+   "Düzenli kuvvet antrenmanı kas yapar ve yaşlı yetişkinlerin günlük yaşamda dengelerini ve bağımsızlıklarını korumalarına yardımcı olur."
+  ],
+  "col": [
+   "kas yapmak",
+   "kasını zorlamak",
+   "kas gücü",
+   "mali güç"
+  ],
+  "tip": "muscle kelimesindeki c harfi okunmaz. pull a muscle 'kas zorlamak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "feature",
+  "senses": [
+   "özellik; karakteristik",
+   "öne çıkarmak; yer vermek",
+   "yüz hatları; yüz organı"
+  ],
+  "ex": [
+   "Bu sırt çantasının en sevdiğim özelliği gizli cebidir.",
+   "Kentlerin vazgeçilmez bir özelliği, sakinlerin sağlık ve refahına öncelik veren kamusal parklardır."
+  ],
+  "col": [
+   "önemli bir özellik",
+   "yüz hatları",
+   "öne çıkmak"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır; feature with kullanımı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "specially",
+  "senses": [
+   "özel olarak; özellikle"
+  ],
+  "ex": [
+   "Bu minderi sandalyen için özel olarak yaptım.",
+   "Okullar, farklı eğitim ihtiyaçları olan öğrencileri desteklemek için özel olarak tasarlanmış öğrenme materyalleri sağlamalıdır."
+  ],
+  "col": [
+   "özel olarak tasarlanmış",
+   "özel eğitimli",
+   "özel yapılmış"
+  ],
+  "tip": "specially belirli bir amaç için yapıldığını, especially ise 'özellikle, başta' anlamını vurgular; ikisi karıştırılmamalıdır.",
+  "note": ""
+ }
+]

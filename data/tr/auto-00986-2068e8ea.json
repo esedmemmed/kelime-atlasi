@@ -1,0 +1,280 @@
+[
+ {
+  "id": "completely",
+  "senses": [
+   "tamamen; tümüyle"
+  ],
+  "ex": [
+   "Yağmurda yürüdükten sonra ayakkabılarım tamamen ıslanmıştı.",
+   "Çevrimiçi kurslar esneklik sunsa da sınıf içi öğrenmenin sosyal faydalarının yerini tamamen tutamaz."
+  ],
+  "col": [
+   "tamamen farklı",
+   "tamamen unutmak",
+   "tamamen katılmak"
+  ],
+  "tip": "Bir şeyin en üst dereceye ulaştığını gösterir; sıfatları ve fiilleri değiştirir.",
+  "note": ""
+ },
+ {
+  "id": "partner",
+  "senses": [
+   "iş ortağı; ortak",
+   "eş; partner",
+   "ortaklık etmek; birlikte çalışmak"
+  ],
+  "ex": [
+   "Dans partnerim ben çalışırken sabırla bekledi.",
+   "Üniversiteler, öğrencilere iş hayatına atılmadan önce pratik deneyim kazandırmak için yerel işletmelerle ortaklık kurabilir."
+  ],
+  "col": [
+   "iş ortağı",
+   "dans partneri",
+   "hayat arkadaşı",
+   "ile ortaklık kurmak"
+  ],
+  "tip": "Partner cinsiyet belirtmez. Fiil olarak genellikle partner with kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "badminton",
+  "senses": [
+   "badminton"
+  ],
+  "ex": [
+   "Her cumartesi spor merkezinde badminton oynarız.",
+   "Okullar, badminton ve yüzme gibi erişilebilir etkinlikler sunarak düzenli egzersizi teşvik edebilir."
+  ],
+  "col": [
+   "badminton oynamak",
+   "badminton kortu",
+   "badminton raketi"
+  ],
+  "tip": "Spor adları genellikle sayılamaz. 'Badminton oynamak' için play badminton kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nobody",
+  "senses": [
+   "hiç kimse",
+   "önemsiz biri"
+  ],
+  "ex": [
+   "Kanepenin arkasında uyuyan yavru kediyi kimse fark etmedi.",
+   "Ailesi okul ücretini karşılayamadığı için kimse eğitime erişimden mahrum bırakılmamalıdır."
+  ],
+  "col": [
+   "başka kimse",
+   "neredeyse hiç kimse",
+   "kimse bilmiyor"
+  ],
+  "tip": "Kendisi olumsuz anlam taşır, bu yüzden 'Nobody didn't come' gibi çifte olumsuzluk yapılmaz. Özne olduğunda fiil tekil olur.",
+  "note": ""
+ },
+ {
+  "id": "coast",
+  "senses": [
+   "sahil; kıyı",
+   "süzülmek; kaymak",
+   "işi kolay atlatmak"
+  ],
+  "ex": [
+   "Kıyı boyunca yürüdük ve pürüzsüz taşlar topladık.",
+   "Kıyı kesimindeki topluluklar, yükselen deniz seviyesi ve şiddetli fırtınalar nedeniyle artan risklerle karşı karşıya."
+  ],
+  "col": [
+   "kıyı boyunca",
+   "kıyının açığında",
+   "yokuş aşağı süzülmek",
+   "zorlanmadan atlatmak"
+  ],
+  "tip": "On the coast kıyıda, off the coast ise kıyıdan biraz açıkta anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "enter",
+  "senses": [
+   "girmek",
+   "katılmak; kaydolmak",
+   "girmek; kaydetmek"
+  ],
+  "ex": [
+   "Mutfağa girmeden önce lütfen ayakkabılarınızı silin.",
+   "Gençler, mesleki sorumluluk almadan ve iş hayatına atılmadan önce çoğu zaman pratik eğitime ihtiyaç duyar."
+  ],
+  "col": [
+   "yarışmaya katılmak",
+   "iş gücüne katılmak",
+   "veri girmek",
+   "odaya girmek"
+  ],
+  "tip": "Bir yere girmek için enter kullanılır ve araya into konmaz. Enter doğrudan nesne alır.",
+  "note": ""
+ },
+ {
+  "id": "castle",
+  "senses": [
+   "kale; şato"
+  ],
+  "ex": [
+   "Eski kaleyi keşfetmek için tepeye tırmandık.",
+   "Tarihi bir kalenin restorasyonu turistleri çekebilir ve bölgenin mimari mirasına ait değerli kanıtları koruyabilir."
+  ],
+  "col": [
+   "ortaçağ kalesi",
+   "kale duvarları",
+   "harap kale"
+  ],
+  "tip": "Castle kelimesindeki t sessizdir. Palace ise saray anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "awful",
+  "senses": [
+   "berbat; korkunç"
+  ],
+  "ex": [
+   "Çorba çok kötü tadındaydı, bu yüzden sandviç yaptım.",
+   "Sakinler, kalabalık konutlardaki korkunç koşulları anlattı ve daha sıkı güvenlik standartları çağrısında bulundu."
+  ],
+  "col": [
+   "berbat hava",
+   "kendini kötü hissetmek",
+   "korkunç koku"
+  ],
+  "tip": "Feel awful hem fiziksel rahatsızlığı hem de üzüntü ya da suçluluk duygusunu anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "text",
+  "senses": [
+   "metin; yazı",
+   "kısa mesaj",
+   "kısa mesaj atmak"
+  ],
+  "ex": [
+   "Bu menüdeki yazılar çok küçük.",
+   "Öğretmenler, karmaşık bilimsel kavramları öğrencilerin daha kolay anlaması için metni görsellerle birleştirebilir."
+  ],
+  "col": [
+   "kısa mesaj",
+   "düz metin",
+   "birine mesaj atmak"
+  ],
+  "tip": "Yazılı içerik genellikle sayılamaz. Tek bir mesaj için a text denebilir.",
+  "note": ""
+ },
+ {
+  "id": "result",
+  "senses": [
+   "sonuç; netice",
+   "not; skor",
+   "neden olmak; yol açmak"
+  ],
+  "ex": [
+   "Parlak zemin, saatlerce süren temizliğin sonucuydu.",
+   "Güvenilir toplu taşımaya yapılan yatırım, kentlilerin emisyonlarını azaltabilir ve işe gidiş süresini kısaltabilir."
+  ],
+  "col": [
+   "bu yüzden",
+   "-e yol açmak",
+   "-den kaynaklanmak",
+   "sınav sonuçları"
+  ],
+  "tip": "Result in sonucu, result from ise nedeni verir. İkisi birbirine karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "bathtub",
+  "senses": [
+   "banyo küveti; küvet"
+  ],
+  "ex": [
+   "Kedi, boş küvete damlayan suyu izledi.",
+   "Küveti duşla değiştirmek, küçük şehir dairelerinde yer tasarrufu sağlayabilir."
+  ],
+  "col": [
+   "küveti doldurmak",
+   "boş küvet",
+   "ayaklı küvet"
+  ],
+  "tip": "Amerikan İngilizcesinde yaygındır. İngiliz İngilizcesinde genellikle bath denir.",
+  "note": ""
+ },
+ {
+  "id": "mailbox",
+  "senses": [
+   "posta kutusu; mektup kutusu",
+   "elektronik posta kutusu"
+  ],
+  "ex": [
+   "Kuzenimden gelen kartpostal posta kutumuza ulaştı.",
+   "Uzak bölgelerdeki sakinler, en yakın kamu posta kutusuna ulaşmak için epey uzun mesafeler kat edebilir."
+  ],
+  "col": [
+   "posta kutunu kontrol etmek",
+   "taşmış posta kutusu",
+   "elektronik posta kutusu"
+  ],
+  "tip": "Amerikan İngilizcesinde yaygındır. İngiliz İngilizcesinde letterbox veya postbox kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "habit",
+  "senses": [
+   "alışkanlık"
+  ],
+  "ex": [
+   "Kahvaltıdan önce telefonuma bakmak bir alışkanlık hâline geldi.",
+   "Çocukluktan itibaren düzenli egzersiz alışkanlığı kazanmak, yetişkinlik boyunca sağlığı iyileştirebilir."
+  ],
+  "col": [
+   "alışkanlık edinmek",
+   "alışkanlığı bırakmak",
+   "alışkanlıktan",
+   "alışkanlık kazanmak"
+  ],
+  "tip": "Bir şeyi yapma alışkanlığı için habit of doing kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rock",
+  "senses": [
+   "kaya; taş",
+   "rock müziği",
+   "sallamak; salınmak"
+  ],
+  "ex": [
+   "Nehrin kenarındaki düz bir kayaya oturduk.",
+   "Antik kaya tabakalarını incelemek, bilim insanlarının Dünya'nın iklimindeki değişimi anlamasına yardımcı olur."
+  ],
+  "col": [
+   "sert kaya",
+   "rock müziği",
+   "kaya oluşumu",
+   "bebeği sallamak"
+  ],
+  "tip": "Malzeme olarak rock sayılamaz. Tek bir taş için a rock denebilir.",
+  "note": ""
+ },
+ {
+  "id": "driving",
+  "senses": [
+   "sürüş; araç kullanma",
+   "itici; yönlendirici",
+   "sert esen; şiddetli"
+  ],
+  "ex": [
+   "Dikkatli sürüşü, dağ yolculuğunu güvenli hissettirdi.",
+   "Teknolojik yenilikler ekonomik büyümenin itici gücüdür, ancak faydaları her zaman eşit paylaşılmaz."
+  ],
+  "col": [
+   "sürüş sınavı",
+   "sürücü belgesi",
+   "itici güç",
+   "şiddetli yağmur"
+  ],
+  "tip": "Driving force itici güç anlamına gelir. Driving aynı zamanda drive fiilinin -ing hâlidir.",
+  "note": ""
+ }
+]

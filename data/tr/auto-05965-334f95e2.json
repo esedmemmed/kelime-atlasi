@@ -1,0 +1,267 @@
+[
+ {
+  "id": "sarcastic",
+  "senses": [
+   "iğneleyici; alaycı"
+  ],
+  "ex": [
+   "Yemeklerim hakkındaki iğneleyici yorumu beni çok üzdü.",
+   "Çevrim içi tartışmalardaki alaycı sözler katılımı azaltabilir ve yapıcı tartışmayı zorlaştırabilir."
+  ],
+  "col": [
+   "alaycı bir söz",
+   "alaycı bir ton",
+   "iğneleyici bir yorum"
+  ],
+  "tip": "sarcastic, karşıdakini alaya alan veya incitmeyi amaçlayan sözler için kullanılır. ironic her zaman saldırgan değildir.",
+  "note": ""
+ },
+ {
+  "id": "devastating",
+  "senses": [
+   "yıkıcı; yok edici",
+   "yıkıcı; çok üzücü"
+  ],
+  "ex": [
+   "Yıkıcı bir fırtına garajımızın çatısını kopardı.",
+   "Uzun süren kuraklık tarım üzerinde yıkıcı etkilere yol açabilir; gıda arzını ve kırsal toplulukların geçimini tehdit eder."
+  ],
+  "col": [
+   "yıkıcı sonuçlar",
+   "yıkıcı etki",
+   "yıkıcı haber",
+   "yıkıcı deprem"
+  ],
+  "tip": "Olay, haber veya etki için devastating kullanılır. Kişinin yaşadığı duygu için devastated tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "simultaneous",
+  "senses": [
+   "eş zamanlı; aynı anda"
+  ],
+  "ex": [
+   "Caddenin iki tarafından aynı anda alkışlar yükseldi.",
+   "Toplu taşımaya ve bisiklet altyapısına eş zamanlı yatırım yapmak, tek tek alınan önlemlerden daha etkili biçimde trafiği azaltabilir."
+  ],
+  "col": [
+   "eş zamanlı olaylar",
+   "eş zamanlı çeviri",
+   "eş zamanlı erişim"
+  ],
+  "tip": "Olayların zaman açısından örtüştüğünü vurgular. Zarfı simultaneously, eş zamanlı olarak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "desolate",
+  "senses": [
+   "ıssız; kimsesiz",
+   "yalnız; umutsuz"
+  ],
+  "ex": [
+   "Köye varmadan önce ıssız bir vadiden geçtik.",
+   "Eski sanayi alanları, kamu yatırımı yeni konutlar ve yeşil alanlar getirene kadar çoğu zaman ıssız kalır."
+  ],
+  "col": [
+   "ıssız bir manzara",
+   "ıssız bir köy",
+   "kendini yalnız ve çaresiz hissetmek"
+  ],
+  "tip": "Yer için desolate ıssız, kişi için ise yalnız ve umutsuz anlamına gelir. Bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "rodent",
+  "senses": [
+   "kemirgen"
+  ],
+  "ex": [
+   "Küçük bir kemirgen kulübenin yanında tohum kemiriyordu.",
+   "Daha iyi gıda depolama, yerel çevreye zararlı kimyasallar salmadan kemirgen popülasyonunu azaltabilir."
+  ],
+  "col": [
+   "kemirgen popülasyonu",
+   "kemirgen kontrolü",
+   "kemirgen istilası"
+  ],
+  "tip": "Fare, sıçan, sincap ve kunduz gibi hayvanların hepsi bu gruba girer. Genel bir terimdir.",
+  "note": ""
+ },
+ {
+  "id": "normalization",
+  "senses": [
+   "normalleşme; normale dönme",
+   "standardizasyon; normalleştirme"
+  ],
+  "ex": [
+   "Otobüs seferlerinin normale dönmesi işe gidip gelmeyi yeniden kolaylaştırdı.",
+   "İkili ilişkilerin normalleşmesi ticareti teşvik edebilir ve ortak çevre sorunlarında iş birliğini güçlendirebilir."
+  ],
+  "col": [
+   "ilişkilerin normalleşmesi",
+   "veri normalizasyonu",
+   "normalleşme süreci"
+  ],
+  "tip": "İngiliz İngilizcesinde normalisation biçimi de kullanılır. Veri bağlamında normalizasyon, yani değerleri ortak ölçeğe getirme anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "consulate",
+  "senses": [
+   "konsolosluk"
+  ],
+  "ex": [
+   "Yurt dışında pasaportunu kaybedince konsolosluğa başvurdu.",
+   "Konsolosluklar, yurt dışında seyahat ederken hukuki veya idari sorunlarla karşılaşan vatandaşlara önemli destek sağlayabilir."
+  ],
+  "col": [
+   "konsolosluğa başvurmak",
+   "başkonsolosluk",
+   "en yakın konsolosluk"
+  ],
+  "tip": "consulate konsolosluk, embassy ise büyükelçilik demektir. İki kurumun görevleri farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "vainly",
+  "senses": [
+   "boşuna; nafile"
+  ],
+  "ex": [
+   "Kanepenin altında anahtarlarımı boşuna aradım.",
+   "Sakinler yıllardır daha iyi otobüs hizmeti istemelerine rağmen sonuç alamadı; bu yüzden birçoğu özel araca bağımlı kaldı."
+  ],
+  "col": [
+   "boşuna çabalamak",
+   "boşuna aramak",
+   "boşuna mücadele etmek"
+  ],
+  "tip": "vainly, çaba gösterilmesine rağmen sonuç alınamadığını anlatır. Çoğu durumda in vain ile aynı anlama gelir.",
+  "note": ""
+ },
+ {
+  "id": "amputate",
+  "senses": [
+   "ampute etmek; kesip almak"
+  ],
+  "ex": [
+   "Veteriner, kedinin ağır yaralanmış bacağını ampute etmek zorunda kaldı.",
+   "Ağır enfeksiyonların erken tedavisi, uzuv ampütasyonu ihtiyacını azaltabilir ve hastaların yaşam kalitesini artırabilir."
+  ],
+  "col": [
+   "bir uzvu ampute etmek",
+   "bacağı ampute etmek",
+   "dizin altından ampute etmek"
+  ],
+  "tip": "Esas olarak cerrahi yolla uzuv kesmek için kullanılır. Organ çıkarmak için genel bir fiil değildir.",
+  "note": ""
+ },
+ {
+  "id": "feasible",
+  "senses": [
+   "uygulanabilir; yapılabilir"
+  ],
+  "ex": [
+   "Artık yakında oturduğum için işe bisikletle gitmek mümkün.",
+   "Kurulum maliyetleri düştüğünde ve güvenilir enerji depolama mevcut olduğunda güneş enerjisi ekonomik olarak daha uygulanabilir hale gelir."
+  ],
+  "col": [
+   "uygulanabilir bir çözüm",
+   "ekonomik olarak uygulanabilir",
+   "teknik olarak uygulanabilir",
+   "uygulanabilir bir alternatif"
+  ],
+  "tip": "Koşullar elverdiğinde pratikte yapılabilir olduğunu anlatır. Bir şeyin inandırıcı olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "rig",
+  "senses": [
+   "sondaj kulesi; petrol platformu",
+   "manipüle etmek; hile yapmak",
+   "kurmak; takmak"
+  ],
+  "ex": [
+   "Plajdan bir petrol platformu görebiliyorduk.",
+   "Bağımsız gözlemciler, güçlü grupların seçimleri kendi lehlerine çevirmesini önlemeye yardımcı olabilir."
+  ],
+  "col": [
+   "petrol platformu",
+   "sondaj kulesi",
+   "seçimi manipüle etmek",
+   "ekipmanı kurmak"
+  ],
+  "tip": "Fiil olarak hem kurmak, takmak hem de sonucu hileli biçimde değiştirmek anlamına gelir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "scornful",
+  "senses": [
+   "küçümseyen; hor gören"
+  ],
+  "ex": [
+   "El yapımı uçurtmama küçümseyen bir bakış attı.",
+   "Öğretmenlerin küçümseyici tepkileri, öğrencilerin soru sormaktan çekinmesine ve özgüvenlerinin azalmasına yol açabilir."
+  ],
+  "col": [
+   "küçümseyen bir bakış",
+   "tavsiyeyi hor görmek",
+   "alaycı bir kahkaha"
+  ],
+  "tip": "Genellikle scornful of + isim kalıbıyla kullanılır ve bir kişiyi ya da şeyi değersiz görmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "disadvantageous",
+  "senses": [
+   "elverişsiz; dezavantajlı"
+  ],
+  "ex": [
+   "Erken başlama saati yolcular için elverişsizdir.",
+   "Uygun fiyatlı çocuk bakımına erişimin kısıtlı olması, tam zamanlı çalışmak isteyen ebeveynler için özellikle dezavantajlı olabilir."
+  ],
+  "col": [
+   "birine karşı dezavantajlı olmak",
+   "dezavantajlı durum",
+   "elverişsiz koşullar"
+  ],
+  "tip": "Genellikle disadvantageous to someone kalıbıyla kullanılır. Birinin aleyhine olan durumları anlatır.",
+  "note": ""
+ },
+ {
+  "id": "flaunt",
+  "senses": [
+   "gösteriş yapmak; övünmek"
+  ],
+  "ex": [
+   "Dün akşam yemekte yeni saatini gurur duyarak gösterdi.",
+   "Sosyal medya bazı kullanıcıları zenginliklerini sergilemeye teşvik ederek izleyicilerde yetersizlik duygusunu artırabilir."
+  ],
+  "col": [
+   "zenginliğini sergilemek",
+   "başarısıyla övünmek",
+   "malvarlığını gösteriye sokmak"
+  ],
+  "tip": "flaunt gösteriş yapmak anlamına gelir. flout ise kuralları küçümseyerek çiğnemek demektir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "robust",
+  "senses": [
+   "dayanıklı; sağlam",
+   "güvenilir; sağlam"
+  ],
+  "ex": [
+   "Bu sağlam botlar yıllarca çamurlu kır yürüyüşlerine dayandı.",
+   "Hükümetler, kamu sağlığını ve hane harcamalarını önemli ölçüde etkileyebilecek politikaları uygulamadan önce sağlam kanıtlara ihtiyaç duyar."
+  ],
+  "col": [
+   "sağlam sağlık",
+   "sağlam kanıt",
+   "sağlam sistem",
+   "güçlü ekonomi"
+  ],
+  "tip": "Fiziksel dayanıklılık için de, kanıt veya sistemin güvenilirliği için de kullanılabilir.",
+  "note": ""
+ }
+]

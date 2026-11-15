@@ -1,0 +1,272 @@
+[
+ {
+  "id": "nitrate",
+  "senses": [
+   "nitrat"
+  ],
+  "ex": [
+   "Bahçıvan toprağa nitratlı bir gübre ekledi.",
+   "Nehirlerdeki yüksek nitrat seviyeleri alg büyümesine yol açabilir ve su canlılarının yaşamını tehdit edebilir."
+  ],
+  "col": [
+   "nitrat seviyeleri",
+   "nitrat kirliliği",
+   "potasyum nitrat",
+   "nitratlı gübre"
+  ],
+  "tip": "nitrate (nitrat) ile nitrite (nitrit) birbirine benzese de farklı bileşiklerdir; karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "detract",
+  "senses": [
+   "azaltmak; gölgede bırakmak"
+  ],
+  "ex": [
+   "Gürültülü yol, bahçemizin huzurlu havasını azaltıyor.",
+   "Zayıf toplu taşıma, kültürel çekicilikleri olağanüstü olsa bile bir şehrin cazibesini düşürebilir."
+  ],
+  "col": [
+   "çekiciliğini azaltmak",
+   "değerini düşürmek",
+   "başarısını gölgelemek"
+  ],
+  "tip": "Genellikle 'detract from' kalıbıyla kullanılır; doğrudan nesne alarak 'detract something' yapısı yaygın değildir.",
+  "note": ""
+ },
+ {
+  "id": "quench",
+  "senses": [
+   "gidermek; kanatmak",
+   "söndürmek"
+  ],
+  "ex": [
+   "Uzun yürüyüşten sonra soğuk su susuzluğumu giderdi.",
+   "Halka açık içme çeşmeleri, sakinlerin şişe suyu almadan susuzluklarını gidermesini sağlayarak plastik atığı azaltıyor."
+  ],
+  "col": [
+   "susuzluğunu gidermek",
+   "bilgi açlığını gidermek",
+   "alevleri söndürmek"
+  ],
+  "tip": "En yaygın kullanımı 'quench one's thirst' (susuzluğu gidermek) kalıbıdır; ateş için de kullanılır ama daha az yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "adversity",
+  "senses": [
+   "zorluk; talihsizlik"
+  ],
+  "ex": [
+   "Arkadaşları yıllarca süren zorluklar boyunca her zaman yanında durdu.",
+   "Güçlü topluluk ağları, ekonomik belirsizlik dönemlerinde ailelerin zorluklarla başa çıkmasına yardımcı olabilir."
+  ],
+  "col": [
+   "zorluklarla yüzleşmek",
+   "zorluğun üstesinden gelmek",
+   "zorluklar karşısında"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; önüne 'a' getirilmez ve nadiren çoğul kullanılır, 'adversities' sık görülmez.",
+  "note": ""
+ },
+ {
+  "id": "wretched",
+  "senses": [
+   "perişan; mutsuz",
+   "berbat; acınacak"
+  ],
+  "ex": [
+   "Bütün gece öksürerek geçirdikten sonra kendimi berbat hissettim.",
+   "Kötü barınma koşullarında yaşayan aileler, solunum yolu hastalıkları ve diğer sağlık sorunları açısından daha büyük risk altındadır."
+  ],
+  "col": [
+   "kendini berbat hissetmek",
+   "berbat koşullar",
+   "sefil bir hayat"
+  ],
+  "tip": "Baştaki w sessizdir; okunuşu /ˈretʃɪd/ şeklindedir, yani 'wret-ched' değil 'retched' gibi okunur.",
+  "note": ""
+ },
+ {
+  "id": "endow",
+  "senses": [
+   "bağışla kurmak; vakfetmek",
+   "bahşetmek; donatmak"
+  ],
+  "ex": [
+   "Ailesi, yerel kolejde bir burs fonu kurdu.",
+   "Özel bağışlar, acil kamu sağlığı sorunlarına uzun vadeli çözümler arayan araştırma merkezlerini kurabilir."
+  ],
+  "col": [
+   "burs fonu kurmak",
+   "bir kürsü kurmak",
+   "...ile donatılmış olmak"
+  ],
+  "tip": "'be endowed with' genellikle doğuştan sahip olunan yetenek veya nitelikler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fob",
+  "senses": [
+   "anahtarlık; elektronik anahtar",
+   "savuşturmak; geçiştirmek"
+  ],
+  "ex": [
+   "Arabanın kilidini açmak için anahtarlığa bastım.",
+   "Konut sağlayıcıları, ortak binalara girişi kontrol etmek için sakinlere giderek daha fazla elektronik anahtar veriyor."
+  ],
+  "col": [
+   "anahtarlık",
+   "elektronik anahtar",
+   "birini savuşturmak"
+  ],
+  "tip": "Küçük harfli 'fob' anahtarlık ya da fiil olarak 'geçiştirmek' anlamına gelir; ticarette FOB kısaltması farklı bir terimdir.",
+  "note": ""
+ },
+ {
+  "id": "translucent",
+  "senses": [
+   "yarı saydam"
+  ],
+  "ex": [
+   "Yumuşak güneş ışığı banyonun yarı saydam penceresinden süzülüyordu.",
+   "Yarı saydam paneller, içeride çalışan insanların mahremiyetini korurken ofislere doğal ışık girmesini sağlar."
+  ],
+  "col": [
+   "yarı saydam cam",
+   "yarı saydam malzeme",
+   "yarı saydam paneller"
+  ],
+  "tip": "'transparent' (saydam) ile karıştırılmamalı: translucent ışık geçirir ama arkasındaki nesneler net görünmez.",
+  "note": ""
+ },
+ {
+  "id": "gorge",
+  "senses": [
+   "dar vadi; kanyon",
+   "tıkınmak; obur gibi yemek"
+  ],
+  "ex": [
+   "Nehrin kayalık bir kanyondan hızla aktığını izledik.",
+   "Dar bir vadiden yol geçirmek, hassas yaşam alanlarına zarar verebilir ve heyelan riskini artırabilir."
+  ],
+  "col": [
+   "derin bir kanyon",
+   "dar bir vadi",
+   "yemeğe saldırmak"
+  ],
+  "tip": "Bugün isim olarak çoğunlukla 'kanyon' anlamında kullanılır; fiil olarak genellikle 'gorge on' şeklinde, edilgen olarak nesne almadan kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "indebtedness",
+  "senses": [
+   "borçluluk; borç",
+   "minnettarlık; minnet borcu"
+  ],
+  "ex": [
+   "Artan borçları, arabayı satmak zorunda kalmalarına neden oldu.",
+   "Hanehalkı borçluluğunun yüksek olması, tüketici harcamalarını azaltabilir ve ekonomiyi finansal şoklara karşı daha savunmasız hale getirebilir."
+  ],
+  "col": [
+   "hanehalkı borçluluğu",
+   "minnet borcu hissi",
+   "birine minnet borçlu olma"
+  ],
+  "tip": "Hem maddi borç hem de birine duyulan minnet anlamına gelebilir; baştaki 'b' sessizdir.",
+  "note": ""
+ },
+ {
+  "id": "immerse",
+  "senses": [
+   "kendini kaptırmak; dalmak",
+   "daldırmak; batırmak"
+  ],
+  "ex": [
+   "Yağmurlu öğleden sonralarda kendimi bir romana kaptırırım.",
+   "Değişim programları, öğrencilerin başka bir kültüre tamamen dalmasını ve daha fazla bağımsızlık geliştirmesini sağlar."
+  ],
+  "col": [
+   "kendini kaptırmak",
+   "tamamen dalmış olmak",
+   "suya daldırmak"
+  ],
+  "tip": "Bir etkinliğe dalmak için 'immerse yourself in' kalıbı kullanılır; dönüşlü zamir (yourself/themselves) atlanmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "veteran",
+  "senses": [
+   "deneyimli kişi; uzman",
+   "gazi; eski asker"
+  ],
+  "ex": [
+   "Priya'ya sor; uzun kamp gezilerinde epey deneyimlidir.",
+   "Öğretmenlik mesleğinde deneyimli biri, zorlu sınıf ortamlarına yeni başlayan meslektaşlarına değerli rehberlik sunabilir."
+  ],
+  "col": [
+   "...in deneyimlisi",
+   "savaş gazisi",
+   "deneyimli gazeteci"
+  ],
+  "tip": "'a veteran of' kalıbı bir alanı ya da deneyimi belirtir; meslek isminin önüne sıfat gibi de getirilebilir (veteran journalist).",
+  "note": ""
+ },
+ {
+  "id": "perpendicular",
+  "senses": [
+   "dik; dik açılı",
+   "dikey; dik",
+   "dik doğru; dikme"
+  ],
+  "ex": [
+   "Matkabı tahta levhaya dik tutun.",
+   "Önerilen bisiklet yolu ana yola dik geçiyor ve dikkatli bir güvenlik planlaması gerektiren bir kavşak oluşturuyor."
+  ],
+  "col": [
+   "...e dik",
+   "dik doğrular",
+   "dik bir uçurum"
+  ],
+  "tip": "Bir şeye dik olduğunu belirtirken 'perpendicular to' kullanılır; 'with' edatı kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "saline",
+  "senses": [
+   "tuzlu; tuz içeren",
+   "serum fizyolojik; tuz çözeltisi"
+  ],
+  "ex": [
+   "Hemşire yarayı nazikçe serum fizyolojikle temizledi.",
+   "Yükselen deniz seviyeleri kıyı yeraltı sularını daha tuzlu hale getirebilir ve bunların içme veya sulama için uygunluğunu azaltabilir."
+  ],
+  "col": [
+   "serum fizyolojik",
+   "tuzlu su",
+   "tuzlu toprak"
+  ],
+  "tip": "Tıbbi bağlamda 'saline' genellikle serum fizyolojik anlamına gelir; genel anlamda ise 'tuzlu' demektir.",
+  "note": ""
+ },
+ {
+  "id": "concession",
+  "senses": [
+   "taviz; ödün",
+   "indirim; avantajlı fiyat",
+   "imtiyaz; ruhsat"
+  ],
+  "ex": [
+   "Bir taviz verdik ve daha erken ayrılmayı kabul ettik.",
+   "Öğrencilere ve yaşlılara indirim sunmak, toplu taşımayı bu gruplar için daha uygun fiyatlı hale getirebilir."
+  ],
+  "col": [
+   "taviz vermek",
+   "fiyat indirimleri",
+   "önemli bir taviz",
+   "madencilik ruhsatı"
+  ],
+  "tip": "'make concessions' taviz vermek anlamına gelir; İngiliz İngilizcesinde ayrıca öğrenci ya da yaşlılara yönelik indirimli fiyat anlamına da gelir.",
+  "note": ""
+ }
+]

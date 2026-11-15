@@ -1,0 +1,277 @@
+[
+ {
+  "id": "hug",
+  "senses": [
+   "sarılmak; kucaklamak",
+   "kucaklama; sarılma"
+  ],
+  "ex": [
+   "Lena okula gitmeden önce büyükannesine sarıldı.",
+   "Bir ebeveynin verdiği rahatlatıcı bir kucaklama, küçük çocukların tanıdık olmayan durumlarda stresle başa çıkmasına yardımcı olabilir."
+  ],
+  "col": [
+   "birine sarılmak",
+   "sıcak bir kucaklama",
+   "birini sıkıca kucaklamak"
+  ],
+  "tip": "hugged ve hugging yazılırken g harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "historic",
+  "senses": [
+   "tarihi; tarihe geçen"
+  ],
+  "ex": [
+   "Tarihi köprüyü gün batımından hemen önce geçtik.",
+   "Tarihi binaların korunması, şehirlerin kültürel kimliğini yaşatmasına ve ziyaretçileri çekerek yerel işletmeleri desteklemesine yardımcı olur."
+  ],
+  "col": [
+   "tarihi bina",
+   "tarihi olay",
+   "tarihi simge",
+   "tarihi anlaşma"
+  ],
+  "tip": "historic, tarihte önemli ya da unutulmaz olanı anlatır; historical ise tarihle ilgili her şeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "immediate",
+  "senses": [
+   "acil; anlık",
+   "en yakın; bitişik",
+   "doğrudan; aracısız"
+  ],
+  "ex": [
+   "Sızan boru, mutfak su altında kalmadan önce acil ilgi gerektiriyor.",
+   "Hükümetler, uzun süren kuraklıklar sırasında ciddi su sıkıntısı yaşayan toplulukları korumak için derhal önlem almalıdır."
+  ],
+  "col": [
+   "acil eylem",
+   "anında tepki",
+   "yakın aile",
+   "çevredeki ortam"
+  ],
+  "tip": "immediate bir sıfattır; bir fiili nitelemek için immediately kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rainbow",
+  "senses": [
+   "gökkuşağı",
+   "renk cümbüşü; renk yelpazesi"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra tepelerin üzerinde parlak bir gökkuşağı belirdi.",
+   "Turistler, şelalenin dibindeki su sisinde oluşan gökkuşağını sık sık fotoğrafında yakalar."
+  ],
+  "col": [
+   "gökkuşağı belirmek",
+   "renk cümbüşü",
+   "çift gökkuşağı"
+  ],
+  "tip": "Genellikle sayılabilir isimdir (a rainbow). a rainbow of, çok renkli bir dizi anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tin",
+  "senses": [
+   "teneke kutu; konserve",
+   "kalay"
+  ],
+  "ex": [
+   "Dolapta bir kutu fasulye konservesi var.",
+   "Metal bir teneke kutuyu saklama amaçlı yeniden kullanmak, evsel atığı ve yeni kaplara duyulan ihtiyacı azaltabilir."
+  ],
+  "col": [
+   "bir kutu çorba",
+   "bisküvi kutusu",
+   "konserve açacağı",
+   "kalay madenciliği"
+  ],
+  "tip": "Kap anlamında sayılabilir (a tin); metal anlamında sayılamaz. İngiliz İngilizcesinde tin, Amerikan İngilizcesinde can kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "assignment",
+  "senses": [
+   "ödev; görev",
+   "atama; görevlendirme"
+  ],
+  "ex": [
+   "Dün akşam yemekten önce fen ödevimi bitirdim.",
+   "Grup ödevleri, öğrencilerin iletişim becerilerini geliştirmelerine ve sorumluluğu paylaşmayı öğrenmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "bir ödevi tamamlamak",
+   "ödev teslim etmek",
+   "görev başında",
+   "görev dağılımı"
+  ],
+  "tip": "Belirli bir ödev sayılabilir (an assignment); genel ev ödevi için homework genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "chemist",
+  "senses": [
+   "kimyager; kimya bilimci",
+   "eczacı; eczane (İng.)"
+  ],
+  "ex": [
+   "Kimyager sıvıyı dikkatle cam bir tüpe döktü.",
+   "Kimyagerler, endüstriyel üretimin çevresel etkisini azaltabilecek daha güvenli malzemeler geliştiriyor."
+  ],
+  "col": [
+   "analitik kimyager",
+   "araştırma kimyageri",
+   "eczanede"
+  ],
+  "tip": "İngiliz İngilizcesinde eczacı anlamına da gelir; eczane için chemist's kullanılır. Amerikan İngilizcesinde pharmacy tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "vowel",
+  "senses": [
+   "ünlü; ünlü harf"
+  ],
+  "ex": [
+   "Öğretmenimiz biz dinlerken ünlü sesini uzattı.",
+   "Ünlü sesleri arasındaki farkları ayırt etmek, dil öğrenenlerin alışık olmadıkları aksanları anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "ünlü sesi",
+   "uzun ünlü",
+   "kısa ünlü"
+  ],
+  "tip": "a ya da an seçimi harfe değil, sonraki kelimenin ilk sesinin ünlü olup olmamasına bağlıdır: an apple, a university.",
+  "note": ""
+ },
+ {
+  "id": "amazed",
+  "senses": [
+   "çok şaşırmış; hayran"
+  ],
+  "ex": [
+   "Betonun içinden çiçeklerin bittiğini görünce çok şaşırdım.",
+   "Araştırmacılar, çocukların interaktif oyunlarla yeni kelimeleri ne kadar hızlı öğrendiğine hayret etti."
+  ],
+  "col": [
+   "birine şaşırmak",
+   "bir şeyden etkilenip şaşırmak",
+   "keşfetmeye şaşırmak"
+  ],
+  "tip": "amazed insanın duygusunu, amazing ise şaşırtıcı olan şeyi anlatır: I am amazed / The view is amazing.",
+  "note": ""
+ },
+ {
+  "id": "value",
+  "senses": [
+   "değer; önem",
+   "değer vermek; değerini biçmek",
+   "değerler; ilkeler"
+  ],
+  "ex": [
+   "Bu sağlam sırt çantası fiyatına göre çok iyi bir değer sunuyor.",
+   "Hükümetler, kamusal parkların fiziksel sağlığı iyileştirmedeki ve toplumsal ilişkileri güçlendirmedeki değerini kabul etmelidir."
+  ],
+  "col": [
+   "paraya değer",
+   "bir şeye yüksek değer vermek",
+   "mülk değeri",
+   "ortak değerler"
+  ],
+  "tip": "Ahlaki ya da toplumsal ilkeler anlamında genellikle çoğul values kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thunderstorm",
+  "senses": [
+   "gök gürültülü fırtına"
+  ],
+  "ex": [
+   "Gök gürültülü fırtına pencereleri sararken biz içeride kaldık.",
+   "Şiddetli gök gürültülü fırtınalar, özellikle drenajı yetersiz şehirlerde ulaşımı aksatabilir ve ani sel baskınlarına yol açabilir."
+  ],
+  "col": [
+   "şiddetli gök gürültülü fırtına",
+   "gök gürültülü fırtına uyarısı",
+   "dağınık sağanaklar"
+  ],
+  "tip": "thunder gök gürültüsünü, lightning şimşeği anlatır; ikisinin birlikte oluştuğu fırtına thunderstorm'dur.",
+  "note": ""
+ },
+ {
+  "id": "architecture",
+  "senses": [
+   "mimarlık",
+   "mimari tarz; yapı üslubu",
+   "sistem mimarisi; yapı"
+  ],
+  "ex": [
+   "Kardeşim mimarlık okuyor ve küçük ev maketleri yapıyor.",
+   "Sürdürülebilir mimari, doğal ışık ve havalandırmadan daha iyi yararlanarak enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "modern mimari",
+   "sürdürülebilir mimari",
+   "yazılım mimarisi"
+  ],
+  "tip": "Genellikle sayılamaz; mimar anlamında architect kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "selfish",
+  "senses": [
+   "bencil; kendini düşünen"
+  ],
+  "ex": [
+   "Pastanın tamamını almak bencilceydi.",
+   "Ortak yaşam alanlarında bencil davranışlar, zamanla sakinler arasında gerginlik yaratabilir ve güveni zedeleyebilir."
+  ],
+  "col": [
+   "bencil davranış",
+   "bencil güdüler",
+   "birinin bencilliği"
+  ],
+  "tip": "Birinin davranışını değerlendirirken It is selfish of sb to do... kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "clerk",
+  "senses": [
+   "memur; ofis elemanı",
+   "satış görevlisi; resepsiyonist"
+  ],
+  "ex": [
+   "Memur bilgilerimi kontrol etti ve bana bir form verdi.",
+   "Dijital hizmetler yaygınlaşsa da birçok sakin, karmaşık başvurular hakkında hâlâ eğitimli bir memurla konuşmayı tercih ediyor."
+  ],
+  "col": [
+   "ofis memuru",
+   "banka memuru",
+   "resepsiyon görevlisi",
+   "mahkeme katibi"
+  ],
+  "tip": "Amerikan İngilizcesinde genellikle mağaza görevlisi anlamına gelir; ofis işi için office clerk kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "device",
+  "senses": [
+   "cihaz; aygıt",
+   "yöntem; teknik"
+  ],
+  "ex": [
+   "Bu küçük cihaz gün boyunca adımlarımı takip ediyor.",
+   "Taşınabilir tıbbi bir cihaz, hastaların sık hastane ziyaretlerine gerek kalmadan sağlıklarını izlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "elektronik cihaz",
+   "tıbbi cihaz",
+   "güvenlik cihazı",
+   "edebi anlatım tekniği"
+  ],
+  "tip": "device isimdir; devise ise fiildir (tasarlamak, icat etmek). İkisini karıştırmamak gerekir.",
+  "note": ""
+ }
+]

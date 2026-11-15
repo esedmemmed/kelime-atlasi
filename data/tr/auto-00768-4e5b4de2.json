@@ -1,0 +1,285 @@
+[
+ {
+  "id": "behind",
+  "senses": [
+   "arkasında; gerisinde",
+   "geride; geri kalmış",
+   "ardındaki güç; sebep"
+  ],
+  "ex": [
+   "Şemsiyen mutfaktaki kapının arkasında.",
+   "Okulda geri kalan öğrenciler, daha sert disiplin yerine ek destekten yararlanabilir."
+  ],
+  "col": [
+   "perde arkasında",
+   "geri kalmak",
+   "programdan geride"
+  ],
+  "tip": "behind hem edat hem zarf olarak kullanılır. fall behind kalıbı 'geri kalmak' anlamına gelir; 'fall' fiilini ayrı düşünmeyin.",
+  "note": ""
+ },
+ {
+  "id": "cheap",
+  "senses": [
+   "ucuz",
+   "kalitesiz; değersiz"
+  ],
+  "ex": [
+   "Tren istasyonunun yakınında ucuz bir kafe bulduk.",
+   "Ucuz toplu taşıma, büyük şehirlerde işe erişimi artırabilir ve özel araba bağımlılığını azaltabilir."
+  ],
+  "col": [
+   "ucuz biletler",
+   "ucuz işgücü",
+   "basit ve neşeli",
+   "ucuz bir alternatif"
+  ],
+  "tip": "cheap bazen düşük kaliteyi çağrıştırır. Daha nötr bir anlatım için inexpensive kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "great",
+  "senses": [
+   "harika; çok iyi",
+   "büyük; çok",
+   "ünlü; büyük"
+  ],
+  "ex": [
+   "Gölde yüzerek harika bir öğleden sonra geçirdik.",
+   "Güvenilir internet erişimi, uzak bölgelerde yaşayan öğrenciler için büyük önem taşır."
+  ],
+  "col": [
+   "harika bir fırsat",
+   "büyük önem taşıyan",
+   "çok miktarda",
+   "büyük bir başarı"
+  ],
+  "tip": "a great deal of kalıbından sonra sayılamayan isim gelir ve 'çok miktarda' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "rain",
+  "senses": [
+   "yağmur",
+   "yağmak"
+  ],
+  "ex": [
+   "Şiddetli yağmur tüm öğleden sonra bizi içeride tuttu.",
+   "Mevsimsel yağmurlar birçok bölgede daha az öngörülebilir hale geldiğinden çiftçiler giderek depolanmış suya bağımlı oluyor."
+  ],
+  "col": [
+   "şiddetli yağmur",
+   "sağanak yağmur",
+   "şiddetli yağmak",
+   "yağmur ihtimali"
+  ],
+  "tip": "rain isim olarak genellikle sayılamaz. 'Yağmur yağıyor' demek için It rains kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "good",
+  "senses": [
+   "iyi; kaliteli",
+   "faydalı; sağlıklı",
+   "iyilik; fayda"
+  ],
+  "ex": [
+   "Bu fırın, çıtır kabuğuyla iyi ekmek yapıyor.",
+   "İyi bir toplu taşıma, sakinlerin özel araba kullanmadan temel hizmetlere ulaşmasını sağlar."
+  ],
+  "col": [
+   "iyi kalite",
+   "-de iyi",
+   "için iyi",
+   "iyilik yapmak"
+  ],
+  "tip": "good sıfattır. Bir eylemi nitelerken well kullanılır; 'iyi şarkı söylüyor' yerine 'iyi söylüyor' için well tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "both",
+  "senses": [
+   "ikisi de; her iki",
+   "ikisi; her ikisi"
+  ],
+  "ex": [
+   "Her iki pencere de açıktı ve serin esintiyi içeri alıyordu.",
+   "Hem hükümetler hem bireyler atığı azaltmak ve doğal kaynakları korumak konusunda sorumluluk taşıyor."
+  ],
+  "col": [
+   "her iki taraf",
+   "ikisi de",
+   "hem ... hem de ..."
+  ],
+  "tip": "both iki kişi ya da şeyi kapsar. 'Both A and B' öznesi, çoğul fiille kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inside",
+  "senses": [
+   "içinde; içine",
+   "içeride; içeriye",
+   "iç; iç kısım"
+  ],
+  "ex": [
+   "Anahtarların çantanın küçük cebinin içinde.",
+   "Birçok insan günlerinin çoğunu kapalı mekânda geçirdiğinden binaların içindeki hava kalitesi daha fazla dikkat hak ediyor."
+  ],
+  "col": [
+   "binanın içinde",
+   "içeride kalmak",
+   "içten",
+   "içeriden"
+  ],
+  "tip": "inside isimden önce gelirse edattır (inside the building). Tek başına kullanıldığında zarf olur.",
+  "note": ""
+ },
+ {
+  "id": "eraser",
+  "senses": [
+   "silgi"
+  ],
+  "ex": [
+   "Kurşun kalem çizimimi düzeltmek için bir silgi ödünç aldım.",
+   "Kurşun kalem ve silgi gibi temel sınıf malzemeleri sağlamak, tüm çocukların derslere katılmasına yardımcı olur."
+  ],
+  "col": [
+   "kurşun kalem silgisi",
+   "silgi kullanmak"
+  ],
+  "tip": "eraser Amerikan İngilizcesinde yaygındır. İngiliz İngilizcesinde aynı anlam için genellikle rubber kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "trip",
+  "senses": [
+   "gezi; yolculuk",
+   "takılıp düşmek; düşürmek"
+  ],
+  "ex": [
+   "Hafta sonu sahile yaptığımız gezi çok rahatlatıcıydı.",
+   "Müzelere yapılan okul gezileri, öğrencilere tarihi eserlerle doğrudan temas imkânı vererek derse katkı sağlayabilir."
+  ],
+  "col": [
+   "geziye çıkmak",
+   "iş seyahati",
+   "okul gezisi",
+   "takılıp düşmek"
+  ],
+  "tip": "trip sayılabilen bir isimdir. Seyahat etkinliğini genel olarak anlatırken travel genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "one",
+  "senses": [
+   "bir",
+   "biri; bir tane",
+   "insan; kişi"
+  ],
+  "ex": [
+   "Kasede sadece bir elma kaldı.",
+   "Toplu taşımanın önemli bir faydası, şehirlerde park yeri talebini azaltmasıdır."
+  ],
+  "col": [
+   "birer birer",
+   "birbirini",
+   "teker teker"
+  ],
+  "tip": "one, tekil sayılabilen bir ismin yerini tutabilir. Çoğulu için ones kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "writer",
+  "senses": [
+   "yazar"
+  ],
+  "ex": [
+   "Yazar, trende beklerken defterini doldurdu.",
+   "Becerikli bir yazar, bilimsel kanıtları basitleştirmeden karmaşık çevre sorunlarını okuyucular için anlaşılır kılabilir."
+  ],
+  "col": [
+   "profesyonel yazar",
+   "gezi yazarı",
+   "serbest yazar",
+   "kısa hikâye yazarı"
+  ],
+  "tip": "writer genel anlamda yazı yazan herkesi kapsar. author ise belirli bir eserin yazarı için daha sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "british",
+  "senses": [
+   "İngiliz",
+   "İngilizler"
+  ],
+  "ex": [
+   "İngiliz komşum bizi çaya davet etti.",
+   "İngiliz üniversiteleri, araştırma güçleri ve sundukları geniş ders yelpazesiyle uluslararası öğrencileri çekiyor."
+  ],
+  "col": [
+   "İngiliz kültürü",
+   "İngiliz vatandaşı",
+   "İngiliz İngilizcesi"
+  ],
+  "tip": "İngilizler topluluk olarak the British diye anılır. Tek bir İngiliz için a Briton kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bed",
+  "senses": [
+   "yatak",
+   "dip; yatak",
+   "tarh; ekim yatağı"
+  ],
+  "ex": [
+   "Kedi öğle yemeğinden sonra yatağımın üstüne kıvrıldı.",
+   "Düzenli bir uyku saatine sahip olmak, uyku kalitesini artırabilir ve ruh sağlığını destekleyebilir."
+  ],
+  "col": [
+   "yatmaya gitmek",
+   "yatağı toplamak",
+   "nehir yatağı",
+   "çiçek tarhı"
+  ],
+  "tip": "go to bed 'yatmaya gitmek' anlamında önüne the almadan kullanılır. make the bed ise 'yatağı toplamak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "same",
+  "senses": [
+   "aynı",
+   "aynı şey; aynısı"
+  ],
+  "ex": [
+   "Her sabah okula aynı otobüsle gidiyoruz.",
+   "Farklı geçmişlere sahip öğrenciler, kaliteli eğitime ve yeteneklerini geliştirmeye eşit fırsatlara sahip olmalıdır."
+  ],
+  "col": [
+   "...ile aynı",
+   "aynı anda",
+   "aynı kalmak",
+   "aynı yaşta"
+  ],
+  "tip": "Genellikle the same kullanılır. Karşılaştırmada the same ... as kalıbı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "video",
+  "senses": [
+   "video; görüntü kaydı",
+   "video çekmek; kaydetmek"
+  ],
+  "ex": [
+   "Buzun üzerinde kayan penguenleri gösteren bir video izledik.",
+   "Eğitim videoları, özellikle sınırlı ön bilgiye sahip öğrenciler için karmaşık süreçleri daha kolay anlaşılır kılabilir."
+  ],
+  "col": [
+   "video izlemek",
+   "video kaydetmek",
+   "video klip",
+   "görüntülü arama"
+  ],
+  "tip": "Tek bir video için a video denir. Video bir medya türünü genel olarak anlatıyorsa sayılamaz olarak da kullanılabilir.",
+  "note": ""
+ }
+]

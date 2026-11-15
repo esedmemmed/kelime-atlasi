@@ -1,0 +1,283 @@
+[
+ {
+  "id": "during",
+  "senses": [
+   "sırasında"
+  ],
+  "ex": [
+   "Lütfen konser sırasında telefonunuzu sessize alın.",
+   "Aşırı sıcak dönemlerinde yerel yönetimler savunmasız sakinler için serin kapalı alanlar sağlamalıdır."
+  ],
+  "col": [
+   "gün boyunca",
+   "yaz aylarında",
+   "çalışma saatleri içinde"
+  ],
+  "tip": "during bir isimle birlikte kullanılır; while ise özne ve fiil içeren bir cümleyle gelir. Süre belirtmek için for kullanın: for two hours.",
+  "note": ""
+ },
+ {
+  "id": "cloud",
+  "senses": [
+   "bulut",
+   "duman; toz bulutu",
+   "bulandırmak; gölgelemek"
+  ],
+  "ex": [
+   "Öğleden sonra gökyüzünde koyu bir bulut yavaşça süzüldü.",
+   "Toplumlar yeni teknolojilerin faydalarını ve risklerini tartışırken güçlü duygular kamuoyunun yargısını bulandırabilir."
+  ],
+  "col": [
+   "koyu bulutlar",
+   "bir toz bulutu",
+   "birinin yargısını bulandırmak"
+  ],
+  "tip": "Fiil olarak genellikle cloud your judgment kalıbıyla, yargıyı bulandırmak anlamında kullanılır. Somut 'bulut' anlamından ayrı bir mecazi kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "alive",
+  "senses": [
+   "hayatta; canlı",
+   "canlı; hareketli"
+  ],
+  "ex": [
+   "Tatilimizden sonra da o küçük bitki hâlâ canlı.",
+   "Doğal yaşam alanlarını korumak, nesli tükenmekte olan türlerin yaşamasına yardımcı olur ve bölgelerin ekolojik dengesini korur."
+  ],
+  "col": [
+   "hayatta kalmak",
+   "canlı tutmak",
+   "canlanmak",
+   "hareketle dolu"
+  ],
+  "tip": "alive genellikle yüklem olarak kullanılır (is alive). Canlı bir balık için 'a live fish' denir; alive isimden önce gelmez.",
+  "note": ""
+ },
+ {
+  "id": "circle",
+  "senses": [
+   "daire; çember",
+   "çevre; grup",
+   "dolanmak; çevrelemek"
+  ],
+  "ex": [
+   "Çocuklar çimenlerin üzerinde daire şeklinde oturdular.",
+   "Toplumsal etkinliklere katılmak, yaşlı yetişkinlerin sosyal çevrelerini genişletmesine ve yalnızlık hissini azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir daire çizmek",
+   "daire şeklinde",
+   "sosyal çevre",
+   "başın üstünde dönmek"
+  ],
+  "tip": "circle daire veya çember anlamındadır; döngü ya da periyot için cycle kullanılır. Bu iki kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "pardon",
+  "senses": [
+   "efendim?; affedersiniz",
+   "affetmek; bağışlamak",
+   "af; bağışlama"
+  ],
+  "ex": [
+   "Efendim? Çamaşır makinesinin sesi yüzünden sizi duyamadım.",
+   "Yasal bir af, birinin hayatını yeniden kurmasına yardımcı olabilir; ancak toplumun kabullenmesi daha uzun sürebilir."
+  ],
+  "col": [
+   "affedersiniz",
+   "özür dilerim",
+   "af vermek"
+  ],
+  "tip": "Duymadığınızda Pardon? diye sorabilirsiniz; ses tonu genellikle yükselir. Pardon çoğunlukla tekrar istemek içindir.",
+  "note": ""
+ },
+ {
+  "id": "succeed",
+  "senses": [
+   "başarmak",
+   "yerine geçmek; halef olmak"
+  ],
+  "ex": [
+   "Birkaç denemeden sonra lambayı tamir etmeyi başardım.",
+   "Okullar tutarlı geri bildirim ve pratik destek sağladığında öğrencilerin başarılı olma olasılığı artar."
+  ],
+  "col": [
+   "bir şey yapmayı başarmak",
+   "müdür olarak başarılı olmak",
+   "birinin yerine başkan olmak"
+  ],
+  "tip": "Bir şeyi başarmak anlamında succeed in doing kalıbı kullanılır: succeed in passing. 'succeed to do' yapısı kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "easily",
+  "senses": [
+   "kolayca; rahatlıkla",
+   "açık farkla",
+   "büyük ihtimalle"
+  ],
+  "ex": [
+   "Bu küçük valiz tren koltuğunun altına rahatlıkla sığıyor.",
+   "Kamuya yönelik bilgiler, farklı okuma yazma düzeyindeki insanların kolayca anlayabilmesi için açık biçimde sunulmalıdır."
+  ],
+  "col": [
+   "kolayca erişilebilir",
+   "kolayca anlaşılır",
+   "açık ara en iyi",
+   "çok kolay gerçekleşebilir"
+  ],
+  "tip": "easily, easily the best kalıbında en üstünlük derecesini güçlendirir ve 'açık ara en iyi' anlamına gelir. Fiilden önce gelebilir: easily understood.",
+  "note": ""
+ },
+ {
+  "id": "bit",
+  "senses": [
+   "parça; biraz",
+   "bit; ikili basamak"
+  ],
+  "ex": [
+   "Sizin için biraz pasta kaldı.",
+   "Küçük bir pratik deneyim bile öğrencilerin zor bilimsel kavramları anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "biraz",
+   "birazcık",
+   "yavaş yavaş",
+   "çeşit çeşit parçalar"
+  ],
+  "tip": "a bit of isimle, a bit ise sıfat ya da zarfla kullanılır: a bit tired. Ayrıca bit, bite fiilinin geçmiş zamanıdır.",
+  "note": ""
+ },
+ {
+  "id": "typing",
+  "senses": [
+   "klavyede yazma"
+  ],
+  "ex": [
+   "Pratik yapmaya başladığımdan beri yazma hızım arttı.",
+   "Ses tanıma gelişiyor olsa da doğru yazma becerisi birçok ofis işinde hâlâ değerli bir yetenektir."
+  ],
+  "col": [
+   "yazma hızı",
+   "dokunarak yazma",
+   "yazma becerileri",
+   "klavye hatası"
+  ],
+  "tip": "Bu isim sayılamaz; 'a typing' demeyin. Ayrıca type fiilinin -ing biçimidir: I am typing.",
+  "note": ""
+ },
+ {
+  "id": "male",
+  "senses": [
+   "erkek",
+   "erkek; erkek hayvan"
+  ],
+  "ex": [
+   "Erkek ördeğin parlak yeşil bir başı var.",
+   "Hemşirelik mesleğine daha fazla erkek adayın yönelmesini teşvik etmek, personel eksikliğini gidermeye ve cinsiyet kalıp yargılarına meydan okumaya yardımcı olabilir."
+  ],
+  "col": [
+   "erkek öğrenciler",
+   "erkek hemşire",
+   "erkek ve kadın"
+  ],
+  "tip": "male hem sıfat hem isim olarak kullanılır. Bir erkek kişiden söz ederken günlük dilde genellikle man tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "album",
+  "senses": [
+   "albüm",
+   "fotoğraf albümü; albüm"
+  ],
+  "ex": [
+   "Yeni albümü öğleden sonra boyunca bizi şarkı söylettirdi.",
+   "Dijital platformlar bağımsız müzisyenlerin geleneksel bir plak şirketine bağımlı olmadan albüm yayımlamasına olanak tanır."
+  ],
+  "col": [
+   "albüm çıkarmak",
+   "ilk albüm",
+   "fotoğraf albümü"
+  ],
+  "tip": "Müzik albümü için album, tek şarkı için single kullanılır. Hem müzik hem fotoğraf için aynı sözcük kullanılır; bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "burn",
+  "senses": [
+   "yanmak; yakmak",
+   "yanmak; kavrulmak",
+   "yanık"
+  ],
+  "ex": [
+   "Şöminede küçük bir ateş sessizce yanıyordu.",
+   "Fosil yakıtların yakılması sera gazlarını açığa çıkarır; bu yüzden çevrenin korunması için temiz enerji kaynakları şarttır."
+  ],
+  "col": [
+   "fosil yakıt yakmak",
+   "kalori yakmak",
+   "elini yakmak",
+   "ağır bir yanık"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç biçimleri burned veya burnt olabilir; İngilizcede ikisi de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "knock",
+  "senses": [
+   "vurmak; tıklatmak",
+   "çarpmak; devirmek",
+   "tıkırtı; vuruş"
+  ],
+  "ex": [
+   "İçeri girmeden önce lütfen kapıyı çalın.",
+   "Şiddetli rüzgârlar ağaçları devirebilir ve kentsel alanlardaki ulaşım ağlarında ciddi aksamalara yol açabilir."
+  ],
+  "col": [
+   "kapıyı çalmak",
+   "bir şeyi devirmek",
+   "yıkmak; devirmek",
+   "yüksek bir tıkırtı"
+  ],
+  "tip": "Kelimenin başındaki k harfi okunmaz. Kapı için knock on the door ya da knock at the door kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ski",
+  "senses": [
+   "kayak yapmak",
+   "kayak"
+  ],
+  "ex": [
+   "Yumuşak karlı bir yamaçta kayak yapmayı öğrendik.",
+   "Dağ tatil merkezlerinde kayak yapan turistler yerel istihdama katkı sağlar ama çevresel baskıyı da artırabilir."
+  ],
+  "col": [
+   "kayağa gitmek",
+   "kayak merkezi",
+   "kayak pisti",
+   "bir çift kayak"
+  ],
+  "tip": "Geçmiş zaman skied, -ing biçimi skiing, çoğulu skis'tir. Sporu anlatırken fiil, ekipmanı anlatırken isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sneaker",
+  "senses": [
+   "spor ayakkabı"
+  ],
+  "ex": [
+   "Mutfak sandalyesinin altında bir spor ayakkabı saklanıyordu.",
+   "İyi tasarlanmış bir spor ayakkabı egzersiz sırasında destek sağlayabilir; ancak uygun ayakkabı etkinliğe göre değişir."
+  ],
+  "col": [
+   "bir çift spor ayakkabı",
+   "koşu ayakkabısı",
+   "spor ayakkabı giymek"
+  ],
+  "tip": "Amerikan İngilizcesinde sneaker, sneakers olarak kullanılır; İngiliz İngilizcesinde aynı anlam için trainers denir.",
+  "note": ""
+ }
+]

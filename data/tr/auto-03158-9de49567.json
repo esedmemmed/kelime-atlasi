@@ -1,0 +1,278 @@
+[
+ {
+  "id": "undress",
+  "senses": [
+   "soyunmak; soyundurmak"
+  ],
+  "ex": [
+   "Perdenin arkasında soyundum ve pijamamı giydim.",
+   "Sağlık personeli, hastaların fiziksel muayeneden önce rahatça soyunabilecekleri özel alanlar sağlamalıdır."
+  ],
+  "col": [
+   "soyunmak",
+   "yatmak için soyunmak"
+  ],
+  "tip": "Geçişli de olabilir (birini soyundurmak). Belirli bir kıyafeti çıkarmak için take off kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "scene",
+  "senses": [
+   "manzara; görünüm",
+   "olay yeri",
+   "sahne"
+  ],
+  "ex": [
+   "Gölün kenarında oynayan çocuklar huzur veren bir manzara oluşturuyordu.",
+   "Filmin açılış sahnesi, kalabalık kentsel mahallelerde yaşayan ailelerin karşılaştığı zorlukları vurguluyor."
+  ],
+  "col": [
+   "huzurlu bir manzara",
+   "olay yerinde",
+   "açılış sahnesi",
+   "perde arkasında"
+  ],
+  "tip": "scene sayılabilir. Genel doğal manzara için scenery kullanılır ve sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "passion",
+  "senses": [
+   "tutku; büyük ilgi",
+   "tutku; şiddetli duygu"
+  ],
+  "ex": [
+   "Kek yapma tutkusu mutfağımızı lezzetli kokularla dolduruyor.",
+   "Bilime olan tutkularını paylaşan öğretmenler, öğrencilerini araştırma kariyerine yöneltebilir."
+  ],
+  "col": [
+   "müziğe duyulan tutku",
+   "bir şeye tutku geliştirmek",
+   "tutkunun peşinden gitmek"
+  ],
+  "tip": "Bir şeye duyulan ilgi için a passion for kalıbı kullanılır; for'dan sonra isim ya da -ing gelir.",
+  "note": ""
+ },
+ {
+  "id": "revision",
+  "senses": [
+   "tekrar çalışma; ders tekrarı",
+   "düzeltme; gözden geçirme"
+  ],
+  "ex": [
+   "Sınav çalışmalarımı mutfak masasında yapıyorum.",
+   "Düzenli tekrar, öğrencilerin sınavdan hemen önce yoğun çalışmaya kıyasla bilgiyi daha etkili biçimde akılda tutmasına yardımcı olur."
+  ],
+  "col": [
+   "tekrar çalışmak",
+   "çalışma programı",
+   "büyük revizyon"
+  ],
+  "tip": "Sınav için tekrar anlamı İngiliz İngilizcesinde yaygındır; Amerikan İngilizcesinde review tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "escalator",
+  "senses": [
+   "yürüyen merdiven"
+  ],
+  "ex": [
+   "Yukarı çıkarken yürüyen merdivenin korkuluğunu tutun.",
+   "Yürüyen merdivenler istasyonlarda yolcu akışını iyileştirse de tekerlekli sandalye kullanan yolcular için asansörler şarttır."
+  ],
+  "col": [
+   "yürüyen merdivene binmek",
+   "yukarı çıkan yürüyen merdiven",
+   "yürüyen merdiven korkuluğu"
+  ],
+  "tip": "escalator yürüyen merdivendir. Kabinli asansör için İngilizcede lift, Amerikan İngilizcesinde elevator kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "generally",
+  "senses": [
+   "genellikle; çoğunlukla",
+   "genel olarak; yaygın biçimde"
+  ],
+  "ex": [
+   "Yağmur yağmadıkça genellikle işe yürüyerek giderim.",
+   "Toplu taşıma, özellikle çok sayıda yolcu taşındığında, genellikle özel araçlardan daha enerji verimlidir."
+  ],
+  "col": [
+   "genel olarak konuşursak",
+   "genel olarak kabul edilen",
+   "genellikle … olarak görülen"
+  ],
+  "tip": "generally çoğu durumu anlatır, istisnasız değildir. Cümle başında generally speaking kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "pile",
+  "senses": [
+   "yığın; küme",
+   "yığmak; üst üste koymak"
+  ],
+  "ex": [
+   "Kirli bulaşıklardan oluşan bir yığın lavaboyu doldurmuştu.",
+   "Atık toplama hizmetleri yetersiz olduğunda, çöp yığınları yoğun nüfuslu mahallelerde halk sağlığını tehdit edebilir."
+  ],
+  "col": [
+   "bir yığın kitap",
+   "birikmek; yığılmak",
+   "tabakları masaya yığmak"
+  ],
+  "tip": "a pile of ardından gelen isimle yığın anlamı verir. pile up ise birikme anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "flashlight",
+  "senses": [
+   "el feneri"
+  ],
+  "ex": [
+   "Yatağın altına bakmak için el feneri kullandı.",
+   "Hanelerde beklenmedik elektrik kesintilerinde güvenliği artırmak için el feneri kolay ulaşılabilir tutulmalıdır."
+  ],
+  "col": [
+   "feneri açmak",
+   "feneri tutmak",
+   "fener ışını"
+  ],
+  "tip": "Bu Amerikan İngilizcesi kelimesidir. İngiliz İngilizcesinde aynı nesne için torch kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "handkerchief",
+  "senses": [
+   "mendil; cep mendili"
+  ],
+  "ex": [
+   "Palto cebinden temiz bir mendil çıkardı.",
+   "Tek kullanımlık mendiller yerine yıkanabilir mendil kullanmak günlük ev atığını azaltabilir."
+  ],
+  "col": [
+   "temiz bir mendil",
+   "pamuklu mendil",
+   "cep mendili"
+  ],
+  "tip": "Burun ya da yüz silmek için kullanılan kumaş mendildir. Baş örtüsü anlamına gelmez; kâğıt mendil için tissue kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "automatic",
+  "senses": [
+   "otomatik",
+   "istemsiz; refleks gibi",
+   "kendiliğinden olan"
+  ],
+  "ex": [
+   "Süpermarkete yaklaştığımda otomatik kapılar açıldı.",
+   "Otomatik aydınlatma sistemleri, odada kimse olmadığında kapanarak enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "otomatik kapılar",
+   "otomatik tepki",
+   "otomatik yenileme"
+  ],
+  "tip": "Makinenin kendi kendine çalışması ya da insanın düşünmeden verdiği tepki için kullanılabilir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "keen",
+  "senses": [
+   "hevesli; istekli",
+   "keskin; zeki",
+   "şiddetli; yoğun"
+  ],
+  "ex": [
+   "Leila, hafta sonu yürüyüş grubumuza katılmak için çok hevesli.",
+   "Bilime meraklı öğrenciler, teoriyi günlük deneyimle bağlayan pratik deneylerden yararlanır."
+  ],
+  "col": [
+   "öğrenmeye hevesli",
+   "spora meraklı",
+   "detaylara keskin göz",
+   "şiddetli rekabet"
+  ],
+  "tip": "keen on bir isim ya da -ing ile, keen to ise fiil yalın hâli ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shell",
+  "senses": [
+   "kabuk; deniz kabuğu",
+   "kabuğunu soymak",
+   "mermi; top mermisi"
+  ],
+  "ex": [
+   "Boş bir kabuğun içinde küçük bir yengeç buldu.",
+   "Okyanus asitliğinin artması, deniz canlılarının kabuklarını zayıflatarak hayatta kalmalarını ve geniş ekosistemleri tehdit edebilir."
+  ],
+  "col": [
+   "sert kabuk",
+   "boş kabuk",
+   "bezelyeleri kabuklarından ayırmak"
+  ],
+  "tip": "Kabuk anlamında sayılabilir. Fiil olarak geçişlidir; shell peas bezelye kabuğunu soymak demektir.",
+  "note": ""
+ },
+ {
+  "id": "ink",
+  "senses": [
+   "mürekkep",
+   "mürekkeple yazmak; boyamak"
+  ],
+  "ex": [
+   "Kalemimden çıkan mavi mürekkep kolumu lekeledi.",
+   "Okullar, daha az kağıt kullanıp doldurulabilir mürekkep kartuşları seçerek çevresel etkilerini azaltabilir."
+  ],
+  "col": [
+   "mürekkeple yazılmış",
+   "mürekkep kartuşu",
+   "baskı mürekkebi",
+   "mürekkebi bitmek"
+  ],
+  "tip": "Genelde sayılamaz isimdir. Bir kap mürekkep için a bottle of ink gibi ölçü ifadeleri kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "expression",
+  "senses": [
+   "ifade; dile getirme",
+   "yüz ifadesi; mimik",
+   "deyim; kalıp ifade"
+  ],
+  "ex": [
+   "Minnettarlığını göstermek için çiçek gönderdi.",
+   "Okullar, öğrencilere müzik, drama ve görsel sanatları keşfetme fırsatı vererek yaratıcı ifadeyi teşvik etmelidir."
+  ],
+  "col": [
+   "ifade özgürlüğü",
+   "yüz ifadesi",
+   "minnettarlık ifadesi",
+   "deyimsel ifade"
+  ],
+  "tip": "'Yüz ifadesi' ya da 'deyim' anlamında sayılabilir. 'Dile getirme' anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "string",
+  "senses": [
+   "ip; sicim",
+   "tel; kiriş",
+   "dizi; silsile"
+  ],
+  "ex": [
+   "Paketi bir parça iple bağladım.",
+   "Bir dizi başarılı koruma projesi, yerel toplulukların çevre korumasına katılmasının değerini gösterdi."
+  ],
+  "col": [
+   "bir parça ip",
+   "gitar telleri",
+   "bir dizi başarı",
+   "iple bağlamak"
+  ],
+  "tip": "İp anlamında genelde sayılamaz. a string of kalıbıyla 'bir dizi' anlamında sayılabilir olur.",
+  "note": ""
+ }
+]

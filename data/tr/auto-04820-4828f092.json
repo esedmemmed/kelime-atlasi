@@ -1,0 +1,273 @@
+[
+ {
+  "id": "moisture",
+  "senses": [
+   "nem; rutubet"
+  ],
+  "ex": [
+   "Pirinci nemini koruması için kapağı kapalı tutun.",
+   "Yer örtücü bitki dikmek toprağın nemini tutmaya yardımcı olur ve kurak bölgelerde sulama ihtiyacını azaltır."
+  ],
+  "col": [
+   "nemi tutmak",
+   "nemi emmek",
+   "toprak nemi",
+   "nem içeriği"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a moisture' ya da 'moistures' demeyin. Moisture su miktarını anlatır, yağış miktarını değil.",
+  "note": ""
+ },
+ {
+  "id": "variable",
+  "senses": [
+   "değişken; değişebilir",
+   "değişken; değişken etken"
+  ],
+  "ex": [
+   "Buradaki hava, açık hava planları için fazla değişken.",
+   "Araştırmacılar, sınıf mevcudunun ilkokulda öğrenci gelişimini nasıl etkilediğini incelerken diğer değişkenleri kontrol etmek zorundadır."
+  ],
+  "col": [
+   "değişken maliyetler",
+   "değişken hava",
+   "bağımsız değişken",
+   "bağımlı değişken"
+  ],
+  "tip": "Sıfat olarak 'değişken' (sabit olmayan), isim olarak 'değişken' (matematik/bilim terimi) anlamına gelir. Her iki kullanımda da kelime aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "statistic",
+  "senses": [
+   "istatistik; veri"
+  ],
+  "ex": [
+   "Bu şaşırtıcı veri bizi anketi yeniden kontrol etmeye yöneltti.",
+   "İşsizliğin ailelere ve topluluklara etkisini tek bir istatistik nadiren tam olarak yansıtır."
+  ],
+  "col": [
+   "çarpıcı veri",
+   "endişe verici istatistik",
+   "resmî istatistikler",
+   "işsizlik istatistikleri"
+  ],
+  "tip": "'Statistic' tek bir veri sayısını anlatır; 'statistics' ise veri toplama ve analiz bilimini ya da çok sayıda veriyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "thoughtful",
+  "senses": [
+   "düşünceli; özenli",
+   "düşünceli; dalgın"
+  ],
+  "ex": [
+   "Yanına şemsiye almanı düşünmen çok düşünceliceydi.",
+   "Düşünceli kentsel planlama, sınırlı hareket kabiliyetine sahip sakinlerin ihtiyaçlarını karşılayan kamusal alanlar yaratabilir."
+  ],
+  "col": [
+   "düşünceli hareket",
+   "birinin düşüncesi olmak",
+   "özenli değerlendirme",
+   "düşünceli ifade"
+  ],
+  "tip": "Birine karşı nazik olmayı anlatırken 'thoughtful of someone' yapısı kullanılır. Kaygılı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "terrify",
+  "senses": [
+   "korkutmak; dehşete düşürmek"
+  ],
+  "ex": [
+   "Yaz fırtınalarında ani gök gürültüsü köpeğimizi korkutabilir.",
+   "Aşırı hava olayları küçük çocukları korkutabilir; bu nedenle yetişkinlerin açık açıklamaları ve güven vermesi özellikle önemlidir."
+  ],
+  "col": [
+   "birini korkutmak",
+   "-den çok korkmak",
+   "-den dehşete kapılmak"
+  ],
+  "tip": "Geçişli bir fiildir. 'Terrified' kişinin hissettiğini, 'terrifying' ise korkutucu şeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "mediterranean",
+  "senses": [
+   "Akdeniz",
+   "Akdeniz; Akdeniz'e özgü"
+  ],
+  "ex": [
+   "Küçük bir tekneyle Akdeniz'i geçtik.",
+   "Artan sıcaklıklar tarım ve turizm üzerindeki baskıyı artırdığı için Akdeniz bölgesi giderek artan su kıtlığıyla karşı karşıya."
+  ],
+  "col": [
+   "Akdeniz",
+   "Akdeniz iklimi",
+   "Akdeniz diyeti"
+  ],
+  "tip": "Deniz adı olarak başında 'the' kullanılır ve büyük harfle yazılır. Sıfat olarak da büyük harfle başlar.",
+  "note": ""
+ },
+ {
+  "id": "prefix",
+  "senses": [
+   "önek"
+  ],
+  "ex": [
+   "'Un' önekini eklemek 'happy' kelimesini tam tersine çevirir.",
+   "Yaygın önekleri öğrenmek, öğrencilerin akademik metinlerdeki tanıdık olmayan kelimelerin anlamını tahmin etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "olumsuzluk öneki",
+   "önek eklemek",
+   "yaygın önekler"
+  ],
+  "tip": "Prefix kelimenin başına gelen ekdir; sonuna gelen ek 'suffix' olarak adlandırılır. İkisine birden 'affix' denir.",
+  "note": ""
+ },
+ {
+  "id": "likelihood",
+  "senses": [
+   "olasılık; ihtimal"
+  ],
+  "ex": [
+   "Bu öğleden sonra kara bulutlar yağmur ihtimalini artırdı.",
+   "Düzenli fiziksel aktivite, ileride bazı sağlık sorunlarının ortaya çıkma olasılığını azaltabilir."
+  ],
+  "col": [
+   "-me olasılığı",
+   "olasılığı artırmak",
+   "olasılığı azaltmak",
+   "büyük ihtimalle"
+  ],
+  "tip": "'Likelihood of doing' ya da 'likelihood that' kalıpları kullanılır. 'Possibility' ile karıştırmayın; likelihood daha çok olasılığın derecesini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "broadcast",
+  "senses": [
+   "yayınlamak; yayın yapmak",
+   "yayın; yayın programı"
+  ],
+  "ex": [
+   "İstasyon her sabah kahvaltıdan önce yerel haberleri yayınlar.",
+   "Kamu televizyonları, çocukların bilimi anlamasına ve öğrenmeye ilgi duymasına yardımcı olan eğitici programlar yayınlamalıdır."
+  ],
+  "col": [
+   "canlı yayınlamak",
+   "haber yayını",
+   "bir programı yayınlamak"
+  ],
+  "tip": "Üç hâlinin de yazılışı aynıdır: broadcast, broadcast, broadcast. Düzensiz fiil olduğuna dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "slang",
+  "senses": [
+   "argo; günlük dil"
+  ],
+  "ex": [
+   "Daha genç kuzenim anlayamadığım argo kelimeler kullanıyor.",
+   "Argo, grup kimliğini güçlendirebilse de aşırı kullanımı farklı kuşaklardan konuşanlar arasında engeller yaratabilir."
+  ],
+  "col": [
+   "argo kullanmak",
+   "argo bir terim",
+   "internet argosu"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Tek bir argo ifadeden söz ediliyorsa 'a slang term' ya da 'a slang word' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "obtain",
+  "senses": [
+   "elde etmek; edinmek"
+  ],
+  "ex": [
+   "Ev sahibinden yedek bir anahtar edinebilirsiniz.",
+   "Araştırmacılar, bilimsel bir çalışma için kişisel veri toplamadan önce katılımcıların bilgilendirilmiş onayını almak zorundadır."
+  ],
+  "col": [
+   "izin almak",
+   "bilgi edinmek",
+   "bir nitelik kazanmak",
+   "onay almak"
+  ],
+  "tip": "'Get' kelimesinden daha resmî bir kelimedir. 'Obtain something from someone' ya da bir kurumdan almak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "emission",
+  "senses": [
+   "emisyon; salınım",
+   "yayma; salma"
+  ],
+  "ex": [
+   "Tamirci bu sabah arabamın emisyon değerlerini kontrol etti.",
+   "Hükümetler, yenilenebilir enerjiye yatırım yaparak ve toplu taşıma ağlarını geliştirerek karbon emisyonlarını azaltabilir."
+  ],
+  "col": [
+   "karbon emisyonu",
+   "egzoz emisyonu",
+   "emisyonu azaltmak",
+   "emisyon standartları"
+  ],
+  "tip": "Egzoz gazı ya da salınan miktar anlamında genellikle çoğul 'emissions' kullanılır. Fiili 'emit'tir.",
+  "note": ""
+ },
+ {
+  "id": "outstanding",
+  "senses": [
+   "olağanüstü; seçkin",
+   "ödenmemiş; bekleyen"
+  ],
+  "ex": [
+   "Genç piyanist dün gece olağanüstü bir performans sergiledi.",
+   "Üniversiteler, hangi personelin terfi edeceğine karar verirken yalnızca araştırmayı değil, seçkin öğretimi de tanımalıdır."
+  ],
+  "col": [
+   "olağanüstü başarı",
+   "olağanüstü performans",
+   "ödenmemiş borç",
+   "çözülmemiş sorunlar"
+  ],
+  "tip": "'Outstanding debt' 'ödenmemiş borç' demektir, 'olağanüstü borç' değildir. Anlamı bağlama göre değişir.",
+  "note": ""
+ },
+ {
+  "id": "evil",
+  "senses": [
+   "kötü; şeytani",
+   "kötülük; şer"
+  ],
+  "ex": [
+   "Hikâyede kötü bir büyücü herkesin rüyalarını çalar.",
+   "Edebiyat, zor ahlaki seçimlerle karşılaşan karakterler aracılığıyla iyi ile kötü arasındaki çatışmayı sıkça işler."
+  ],
+  "col": [
+   "iyilik ve kötülük",
+   "kötü niyet",
+   "gerekli bir kötülük"
+  ],
+  "tip": "'Bad' kelimesinden çok daha güçlü bir anlam taşır ve genellikle ciddi ahlaki kötülükleri anlatır. Hafif kusurlar için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "poker",
+  "senses": [
+   "poker",
+   "ocak maşası; ateş karıştırma çubuğu"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra plastik jetonlarla poker oynadık.",
+   "Araştırmacılar, bilgi eksik ve sonuçlar belirsiz olduğunda insanların nasıl karar verdiğini anlamak için pokeri inceliyor."
+  ],
+  "col": [
+   "poker oynamak",
+   "poker yüzü",
+   "şömine maşası"
+  ],
+  "tip": "'Poker' belirli bir kart oyunudur; genel olarak tüm iskambil oyunları için kullanılmaz.",
+  "note": ""
+ }
+]

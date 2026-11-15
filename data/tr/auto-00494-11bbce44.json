@@ -1,0 +1,282 @@
+[
+ {
+  "id": "wrong",
+  "senses": [
+   "yanlış; uygunsuz",
+   "ahlaka aykırı; haksız",
+   "yanlış olarak; hatalı biçimde"
+  ],
+  "ex": [
+   "Yanlış otobüse bindim ve sonunda havaalanının yakınında indim.",
+   "Ailelerinin okul ücretini ödeyemediği için çocukları eğitim fırsatlarından yoksun bırakmak yanlıştır."
+  ],
+  "col": [
+   "yanlış cevap",
+   "ters gitmek",
+   "bir şeyi yanlış yapmak",
+   "bir şeyde sorun olmak"
+  ],
+  "tip": "go wrong bir planın ya da makinenin ters gitmesi anlamında kullanılır. wrong sıfat olarak isimden önce gelir: the wrong answer.",
+  "note": ""
+ },
+ {
+  "id": "problem",
+  "senses": [
+   "sorun; problem",
+   "soru; çözülmesi gereken problem"
+  ],
+  "ex": [
+   "Mutfak musluğunda bir sorun var, sürekli damlıyor.",
+   "Trafik sıkışıklığı, ek yollar yerine güvenilir toplu taşımaya yatırım gerektiren giderek büyüyen bir sorundur."
+  ],
+  "col": [
+   "bir sorunu çözmek",
+   "büyük bir sorun",
+   "matematik problemi",
+   "...ile ilgili sorun"
+  ],
+  "tip": "Bir şeydeki arıza ya da sorunu anlatırken a problem with kalıbı kullanılır: a problem with the car. Çözüm için solve fiili gelir.",
+  "note": ""
+ },
+ {
+  "id": "uncle",
+  "senses": [
+   "amca; dayı; enişte"
+  ],
+  "ex": [
+   "Amcam bana bisiklet tamir etmeyi öğretti.",
+   "Ebeveynler iş yükü nedeniyle meşgulken bir dayı ya da teyze değerli duygusal destek sağlayabilir."
+  ],
+  "col": [
+   "anne tarafından dayı",
+   "baba tarafından amca",
+   "amca ve teyze"
+  ],
+  "tip": "İngilizcede uncle hem amcayı hem dayıyı hem de enişteyi kapsar. Ayrımı yapmak için maternal (anne tarafı) veya paternal (baba tarafı) eklenir.",
+  "note": ""
+ },
+ {
+  "id": "key",
+  "senses": [
+   "anahtar",
+   "anahtar; sır",
+   "önemli; temel"
+  ],
+  "ex": [
+   "Ev anahtarımı mont cebimde unuttum.",
+   "Güvenilir bilgiye erişim, tüketicilerin sağlıkları hakkında bilinçli kararlar vermesinde anahtar öneme sahiptir."
+  ],
+  "col": [
+   "yedek anahtar",
+   "başarının sırrı",
+   "önemli bir etken",
+   "kilit rol oynamak"
+  ],
+  "tip": "the key to kalıbında to edatından sonra isim ya da -ing biçimi gelir: the key to success, the key to learning.",
+  "note": ""
+ },
+ {
+  "id": "speak",
+  "senses": [
+   "konuşmak; görüşmek",
+   "konuşabilmek; bilmek",
+   "konuşma yapmak; seslenmek"
+  ],
+  "ex": [
+   "Dersten sonra sizinle konuşabilir miyim?",
+   "Birden fazla dil konuşan öğrenciler kültürler arası iletişimde daha kolay anlaşabilirler."
+  ],
+  "col": [
+   "akıcı konuşmak",
+   "halk önünde konuşmak",
+   "biriyle konuşmak",
+   "sesini çıkarmak"
+  ],
+  "tip": "Dil adından önce edat kullanılmaz: I speak English. Düzensiz fiildir: speak, spoke, spoken.",
+  "note": ""
+ },
+ {
+  "id": "read",
+  "senses": [
+   "okumak",
+   "sesli okumak",
+   "yorumlamak; anlamak"
+  ],
+  "ex": [
+   "Her gece yatmadan önce birkaç sayfa okurum.",
+   "Düzenli okuyan çocuklar genellikle daha güçlü dil becerileri ve dünyaya dair daha geniş bir anlayış geliştirir."
+  ],
+  "col": [
+   "yüksek sesle okumak",
+   "harita okumak",
+   "geniş çapta okumak"
+  ],
+  "tip": "Yazımı değişmez ama telaffuzu değişir: şimdiki zaman /riːd/, geçmiş zaman /red/. Zamanı cümlenin bağlamından anlamak gerekir.",
+  "note": ""
+ },
+ {
+  "id": "email",
+  "senses": [
+   "e-posta; e-posta sistemi",
+   "e-posta göndermek"
+  ],
+  "ex": [
+   "Lütfen kamp gezimizden çektiğin fotoğrafları bana e-postayla gönder.",
+   "E-posta hızlı iletişim sağlasa da fazla mesaj çalışanların dikkatini dağıtabilir ve verimliliği düşürebilir."
+  ],
+  "col": [
+   "e-posta göndermek",
+   "e-postalarını kontrol etmek",
+   "e-posta adresi",
+   "e-posta yoluyla"
+  ],
+  "tip": "Bir tane mesaj için sayılabilir (an email); iletişim yöntemi olarak sayılamaz ve genellikle by email biçiminde, artikelsiz kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "test",
+  "senses": [
+   "sınav; test",
+   "sınamak; denetlemek"
+  ],
+  "ex": [
+   "Yarın okulda bir yazım sınavım var.",
+   "Araştırmacılar, kamu binalarında kullanılmadan önce yeni malzemeleri farklı koşullarda sınamalıdır."
+  ],
+  "col": [
+   "sınava girmek",
+   "kan testi",
+   "bir kuramı sınamak",
+   "test sonuçları"
+  ],
+  "tip": "Sınava girmek için take a test, sınavı geçmek için pass a test kullanılır. do a test yerine take daha doğal bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "july",
+  "senses": [
+   "temmuz"
+  ],
+  "ex": [
+   "Genellikle temmuz ayında bir hafta kuzenlerimizi ziyaret ederiz.",
+   "Birçok kuzey ülkesinde turizm temmuzda zirveye ulaşır; bu durum mevsimlik iş imkânı yaratırken yerel hizmetlere baskı oluşturur."
+  ],
+  "col": [
+   "temmuz ayında",
+   "temmuz başı",
+   "temmuz sonu",
+   "temmuz sonuna kadar"
+  ],
+  "tip": "Ay adları her zaman büyük harfle yazılır. Ayın içindeki bir zamanı belirtirken in July kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "zero",
+  "senses": [
+   "sıfır",
+   "sıfır derece; sıfır nokta"
+  ],
+  "ex": [
+   "Biz uyurken hava sıcaklığı sıfırın altına düştü.",
+   "Sıfır karbon emisyonuna ulaşmak; yenilenebilir enerjiye, toplu taşımaya ve daha verimli binalara önemli yatırım gerektirecek."
+  ],
+  "col": [
+   "sıfırın altında",
+   "sıfır emisyon",
+   "sıfır tolerans",
+   "mutlak sıfır"
+  ],
+  "tip": "Sıcaklık ve ölçüm değerlerinde zero kullanılır. Telefon numaralarında ise rakam olarak genellikle oh diye okunur.",
+  "note": ""
+ },
+ {
+  "id": "again",
+  "senses": [
+   "yeniden; tekrar; bir daha"
+  ],
+  "ex": [
+   "Bunu biraz daha yavaş söyler misiniz?",
+   "Şehirler sıkışıklığın nedenlerini ele almazsa aynı ulaşım sorunları yeniden yaşanacak."
+  ],
+  "col": [
+   "yeniden denemek",
+   "bir kez daha",
+   "defalarca",
+   "bir daha asla"
+  ],
+  "tip": "again and again defalarca anlamını vurgular. once again daha resmi bir kullanımdır. never again ise olumsuz bir vurgu taşır.",
+  "note": ""
+ },
+ {
+  "id": "hello",
+  "senses": [
+   "merhaba; alo",
+   "selamlaşma; merhaba"
+  ],
+  "ex": [
+   "Merhaba, yanıma oturmak ister misiniz?",
+   "Komşular arasındaki basit bir merhaba, sosyal temasları artırabilir ve yeni gelenlerin kendini hoş karşılanmış hissetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "selam vermek",
+   "merhaba dostum",
+   "sıcak bir selamlaşma"
+  ],
+  "tip": "Telefonda alo anlamında kullanılır. say hello to kalıbı ise birine selam söylemek anlamındadır: say hello to your mum.",
+  "note": ""
+ },
+ {
+  "id": "canada",
+  "senses": [
+   "Kanada"
+  ],
+  "ex": [
+   "Kuzenim çevre bilimi okumak için Kanada'ya taşındı.",
+   "Kanada, üniversiteleri sayesinde uluslararası öğrencileri çeker; ancak yaşam maliyetleri şehirler arasında önemli ölçüde değişir."
+  ],
+  "col": [
+   "Kanada'da okumak",
+   "Kanada genelinde",
+   "Kanada'ya taşınmak"
+  ],
+  "tip": "Ülke adları büyük harfle yazılır ve Canada'nın başında genellikle the kullanılmaz: in Canada, to Canada.",
+  "note": ""
+ },
+ {
+  "id": "monkey",
+  "senses": [
+   "maymun"
+  ],
+  "ex": [
+   "Küçük bir maymun başlarımızın üstündeki dallar arasında sallanıyordu.",
+   "Tropikal ormanları korumak, maymun popülasyonlarını ve onların bağlı olduğu karmaşık ekosistemleri korumaya yardımcı olur."
+  ],
+  "col": [
+   "bir maymun sürüsü",
+   "vahşi maymunlar",
+   "oyalanmak"
+  ],
+  "tip": "monkey genellikle kuyruklu maymunları anlatır. Kuyruksuz ve insansı türler için ape kullanılır; Türkçede ikisi de çoğunlukla maymun diye adlandırılır.",
+  "note": ""
+ },
+ {
+  "id": "sit",
+  "senses": [
+   "oturmak",
+   "yer almak; bulunmak",
+   "sınava girmek"
+  ],
+  "ex": [
+   "Gel, bahçedeki banka yanıma otur.",
+   "Uzun süre oturan öğrenciler fiziksel sağlıklarını desteklemek için düzenli aralar vermelidir."
+  ],
+  "col": [
+   "oturmak",
+   "hareketsiz oturmak",
+   "sınava girmek",
+   "birinin yanında oturmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi sat, ing biçimi sitting. Sınava girmek için sit an exam kullanılır; take an exam da aynı anlamdadır.",
+  "note": ""
+ }
+]

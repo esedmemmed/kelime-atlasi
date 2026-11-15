@@ -1,0 +1,270 @@
+[
+ {
+  "id": "hereditary",
+  "senses": [
+   "kalıtsal; genetik",
+   "miras yoluyla geçen"
+  ],
+  "ex": [
+   "Doktor, bu rahatsızlığın kalıtsal olup olmadığını sordu.",
+   "Genetik danışmanlık, ailelerin kalıtsal hastalıkları anlamasına ve bilinçli sağlık kararları vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "kalıtsal hastalık",
+   "kalıtsal rahatsızlık",
+   "babadan kalma unvan",
+   "kalıtsal monarşi"
+  ],
+  "tip": "'Hereditary' bir hastalığın bulaşması değil, genlerle aktarılması anlamına gelir. Bulaşıcılıkla karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "epoch",
+  "senses": [
+   "çağ; dönem",
+   "seri (jeoloji)"
+  ],
+  "ex": [
+   "Bu eski fotoğraflar hızlı değişimin yaşandığı bir dönemi yansıtıyor.",
+   "Tarımın gelişmesi, yerleşim düzenini ve toplumsal örgütlenmeyi dönüştürerek insanlık tarihinde yeni bir çağın başlangıcı oldu."
+  ],
+  "col": [
+   "yeni bir çağ",
+   "tarihsel bir dönem",
+   "çağ açmak"
+  ],
+  "tip": "'Period'a göre daha çok dönemin ayırt edici özelliklerini vurgular; büyük ve belirgin tarihsel dönemler için tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "imperialist",
+  "senses": [
+   "emperyalist; yayılmacı",
+   "emperyalist; yayılmacı"
+  ],
+  "ex": [
+   "Roman, valiyi hırslı bir emperyalist olarak tasvir ediyor.",
+   "Tarihçiler, emperyalist politikaların sömürgeleştirilmiş bölgelerdeki yerel ekonomileri nasıl yeniden şekillendirdiğini ve siyasi bağımsızlığı nasıl zayıflattığını inceliyor."
+  ],
+  "col": [
+   "emperyalist genişleme",
+   "emperyalist politikalar",
+   "emperyalist bir güç"
+  ],
+  "tip": "Hem isim hem sıfat olarak kullanılır. 'Imperial' (imparatorluğa ait) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "sly",
+  "senses": [
+   "sinsi; kurnaz",
+   "manalı; gizemli"
+  ],
+  "ex": [
+   "Kurnaz kedi, ben arkamı dönünce bir bisküviyi çaldı.",
+   "Ek ücretleri gizlemeye yönelik sinsi girişimler, tüketici güvenini zedeleyebilir ve şirketin itibarına zarar verebilir."
+  ],
+  "col": [
+   "sinsi gülümseme",
+   "manalı bakış",
+   "gizlice"
+  ],
+  "tip": "'On the sly' sabit bir ifadedir ve 'gizlice' anlamına gelir. 'Sly' genellikle olumsuz bir kurnazlığı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "ascent",
+  "senses": [
+   "tırmanış; yükseliş",
+   "yükselme; ilerleme",
+   "yokuş"
+  ],
+  "ex": [
+   "Sabah güneş doğarken tırmanışımıza başladık.",
+   "Yenilenebilir enerjinin hızlı yükselişi, hem teknolojik ilerlemeyi hem de çevre korumaya yönelik güçlenen kamuoyu desteğini yansıtıyor."
+  ],
+  "col": [
+   "dik bir yokuş",
+   "tırmanış yapmak",
+   "iktidara yükseliş"
+  ],
+  "tip": "'Ascent' (yükseliş) ile sesteş 'assent' (onay) kelimesini karıştırmayın. Fiili 'ascend'dir.",
+  "note": ""
+ },
+ {
+  "id": "youthful",
+  "senses": [
+   "genç; dinç"
+  ],
+  "ex": [
+   "Dedemin hâlâ genç bir gülümsemesi ve tükenmez bir enerjisi var.",
+   "Genç bir işgücü yeni fikirler getirebilir; deneyimli çalışanlar ise değerli pratik bilgiler katar."
+  ],
+  "col": [
+   "genç görünüm",
+   "genç enerji",
+   "genç coşku"
+  ],
+  "tip": "'Youthful' çoğunlukla genç görünmeyi ya da genç ruhu anlatır; kişinin yaşının küçük olduğu anlamına gelmez. 'Young' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cosmopolitan",
+  "senses": [
+   "çok kültürlü; kozmopolit",
+   "dünyayı tanıyan; kozmopolit"
+  ],
+  "ex": [
+   "Kozmopolit mahallemizde birçok ülkenin yemeklerini sunan restoranlar var.",
+   "Kozmopolit şehirler, farklı geçmişlerden gelen sakinlerin düzenli olarak bir araya geldiği ortak alanlar yaratarak kültürel alışverişi teşvik edebilir."
+  ],
+  "col": [
+   "kozmopolit şehir",
+   "çok kültürlü nüfus",
+   "kozmopolit bakış açısı"
+  ],
+  "tip": "Genellikle şehir, nüfus ya da bakış açısını niteler. Çok kültürlülüğü vurgular; 'global' ile tam eş anlamlı değildir.",
+  "note": ""
+ },
+ {
+  "id": "quicken",
+  "senses": [
+   "hızlanmak; hızlandırmak"
+  ],
+  "ex": [
+   "Yağmur başlayınca adımlarımı hızlandırdım.",
+   "Gelişmiş ulaşım bağlantıları, kırsal üreticileri kentsel pazarlarla buluşturarak ekonomik kalkınmanın hızını artırabilir."
+  ],
+  "col": [
+   "adımlarını hızlandırmak",
+   "nabzı hızlandırmak",
+   "süreci hızlandırmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır. Genellikle pace, pulse, process gibi isimlerle birlikte görülür.",
+  "note": ""
+ },
+ {
+  "id": "republican",
+  "senses": [
+   "cumhuriyetçi; cumhuriyet yanlısı",
+   "cumhuriyetçi; cumhuriyet yanlısı"
+  ],
+  "ex": [
+   "Amcam yemekte sık sık cumhuriyetçi fikirleri tartışır.",
+   "Cumhuriyetçi bir anayasa genellikle devlet başkanlığının kraliyet ailesi üzerinden miras yoluyla gelmediği bir yapı kurar."
+  ],
+  "col": [
+   "cumhuriyet yönetimi",
+   "cumhuriyetçi ideallar",
+   "cumhuriyet anayasası"
+  ],
+  "tip": "Küçük harfle yazıldığında genel siyasi görüşü anlatır; büyük harfle (Republican) ABD'deki Cumhuriyetçi Parti'yi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "contrive",
+  "senses": [
+   "becermek; başarmak",
+   "tasarlamak; kurgulamak"
+  ],
+  "ex": [
+   "Her bavulu o küçük arabaya sığdırmayı becerdik.",
+   "Sınırlı bütçeye rağmen araştırma ekibi, su kalitesini izlemek için uygun maliyetli bir cihaz tasarlamayı başardı."
+  ],
+  "col": [
+   "bir şeyi becermek",
+   "bir yol bulmak",
+   "bir plan kurgulamak"
+  ],
+  "tip": "'Contrive to do' 'becermek' anlamına gelir. 'Contrived' ise genellikle zorlama, yapay anlamında olumsuz kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "furnace",
+  "senses": [
+   "fırın; ocak",
+   "kalorifer kazanı"
+  ],
+  "ex": [
+   "Parlayan ocaktan erimiş metalin aktığını izledik.",
+   "Verimsiz bir kalorifer kazanını değiştirmek, kış aylarında ev enerji tüketimini azaltabilir ve ısıtma maliyetlerini düşürebilir."
+  ],
+  "col": [
+   "yüksek fırın",
+   "elektrikli fırın",
+   "gazlı kazan"
+  ],
+  "tip": "Sanayi bağlamında 'fırın/ocak', ev ısıtmasında ise 'kalorifer kazanı' anlamına gelir. Bağlama göre çeviri seçin.",
+  "note": ""
+ },
+ {
+  "id": "approximation",
+  "senses": [
+   "yaklaşık değer; tahmin",
+   "yaklaşık benzeri"
+  ],
+  "ex": [
+   "Bütçem maliyetin yalnızca kaba bir tahmini.",
+   "Bilgisayar modelleri, gelecekteki iklim koşullarının her değişikliğini kesin olarak öngörmekten çok bir yaklaşımını sunar."
+  ],
+  "col": [
+   "kaba bir tahmin",
+   "yakın bir tahmin",
+   "makul bir tahmin"
+  ],
+  "tip": "Genellikle 'an approximation of' kalıbıyla kullanılır. Kesinlikten çok yakınlığı vurgular; 'estimate' ile benzer ama daha resmîdir.",
+  "note": ""
+ },
+ {
+  "id": "thereafter",
+  "senses": [
+   "bundan sonra; o zamandan beri"
+  ],
+  "ex": [
+   "Dükkân ilkbaharda açıldı ve kısa süre sonra kapandı.",
+   "Şehir daha sıkı araç standartları getirdi ve sonraki yıllarda hava kalitesi istikrarlı biçimde iyileşti."
+  ],
+  "col": [
+   "kısa süre sonra",
+   "bundan sonra",
+   "sonraki yıllar boyunca"
+  ],
+  "tip": "Resmî bir kelimedir; gündelik konuşmada 'after that' tercih edilir. Önceden söz edilen bir zaman noktasından sonrasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "alloy",
+  "senses": [
+   "alaşım",
+   "alaşımlamak"
+  ],
+  "ex": [
+   "Bu bisiklet karkası hafif bir alaşımdan yapılmış.",
+   "Mühendisler, araç ağırlığını azaltmak ve yakıt verimliliğini artırmak için daha dayanıklı alaşımlar geliştiriyor."
+  ],
+  "col": [
+   "alüminyum alaşımı",
+   "hafif alaşım",
+   "alaşımlı çelik"
+  ],
+  "tip": "İsim ve fiil olarak telaffuz farklıdır: isimde vurgu ilk hecededir, fiilde ikinci hecededir.",
+  "note": ""
+ },
+ {
+  "id": "estuary",
+  "senses": [
+   "nehir ağzı; haliç"
+  ],
+  "ex": [
+   "Gün batımında nehir ağzının kıyısında kuşların beslenişini izledik.",
+   "Bir nehir ağzını korumak, göçmen kuşlar için önemli besleme alanlarını korur ve yerel balıkçı topluluklarının geçimini destekler."
+  ],
+  "col": [
+   "bir nehir ağzı",
+   "nehir ağzı yaban hayatı",
+   "gelgitli nehir ağzı"
+  ],
+  "tip": "Denize açılan, gelgitten etkilenen nehir ağzını anlatır. 'Delta' (üçgen biçimli nehir deltası) ile karıştırmayın.",
+  "note": ""
+ }
+]

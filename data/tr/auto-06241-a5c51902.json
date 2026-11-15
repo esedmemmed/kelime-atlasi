@@ -1,0 +1,269 @@
+[
+ {
+  "id": "paranoia",
+  "senses": [
+   "paranoya; vehim"
+  ],
+  "ex": [
+   "Giderek artan paranoyası, sıradan konuşmaları bile tehdit gibi hissettiriyordu.",
+   "Ruh sağlığı hizmetleri, zararlı klişeleri pekiştirmek yerine paranoya yaşayan insanlara şefkatli destek sunmalıdır."
+  ],
+  "col": [
+   "paranoya yaşamak",
+   "paranoya hissi",
+   "gözetlenme paranoyası"
+  ],
+  "tip": "Genellikle sayılamaz. Bir ruh hâlini anlatır; bu durumu yaşayan kişiyi değil, duyguyu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "conqueror",
+  "senses": [
+   "fatih; işgalci"
+  ],
+  "ex": [
+   "Müzede, bir fatihin miğferi kılıcının yanında sergileniyordu.",
+   "Bir fatih, yeni yasalar ve gelenekler dayatabilir ve yerel toplulukların kültürel kimliğini derinden değiştirebilir."
+  ],
+  "col": [
+   "yabancı bir fatih",
+   "askerî bir fatih"
+  ],
+  "tip": "Silahlı güçle bir yeri ele geçiren kişiler için kullanılır; yarışmanın galibi için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "cape",
+  "senses": [
+   "burun; kıyı başı",
+   "pelerin"
+  ],
+  "ex": [
+   "Gelgit yükselmeden önce burnun etrafından dolaştık.",
+   "Burun üzerine inşa edilen fener, limana yaklaşan gemilerin güvenliğini artırdı."
+  ],
+  "col": [
+   "kayalık bir burun",
+   "burnun etrafından dolaşmak",
+   "yünlü pelerin"
+  ],
+  "tip": "Kıyıdaki burun ve giysi olarak pelerin anlamları farklıdır; cümlenin bağlamına bakarak doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "tinge",
+  "senses": [
+   "hafif renk; eser",
+   "hafifçe renklendirmek"
+  ],
+  "ex": [
+   "Gün batımından sonra bulutlar pembe bir tonda görünüyordu.",
+   "Birçok mezun için işe girmenin heyecanı, mali bağımsızlık kaygısıyla karışıktır."
+  ],
+  "col": [
+   "hafif bir üzüntü",
+   "pembe bir ton",
+   "pişmanlıkla karışık olmak"
+  ],
+  "tip": "a tinge of: az miktarda bir şey; be tinged with: bir duyguyla hafifçe karışık olmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "endurance",
+  "senses": [
+   "dayanıklılık; dayanma gücü"
+  ],
+  "ex": [
+   "Her sabah yüzmek, dayanıklılığımı gerçekten artırdı.",
+   "Düzenli fiziksel aktivite dayanıklılık kazandırır ve insanların giderek hareketsizleşen yaşam tarzının zorluklarıyla başa çıkmasına yardımcı olur."
+  ],
+  "col": [
+   "dayanıklılık kazanmak",
+   "fiziksel dayanıklılık",
+   "dayanıklılık antrenmanı",
+   "bir dayanıklılık sınavı"
+  ],
+  "tip": "Genellikle sayılamaz. Yorgunluk, acı veya zorluk karşısında dayanma gücünü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "undermine",
+  "senses": [
+   "zayıflatmak; baltalamak",
+   "altını oymak"
+  ],
+  "ex": [
+   "Sürekli eleştiri, mutfakta kendine güvenini sarsabilir.",
+   "Şeffaflık eksikliği, kurumlara duyulan kamu güvenini zayıflatabilir ve önemli politika değişikliklerine desteği azaltabilir."
+  ],
+  "col": [
+   "özgüveni zayıflatmak",
+   "otoriteyi baltalamak",
+   "kamu güvenini sarsmak",
+   "çabaları baltalamak"
+  ],
+  "tip": "Confidence, trust gibi sözcüklerle sık kullanılır. Yavaş ve çoğu zaman gizlice zayıflatmayı vurgular.",
+  "note": ""
+ },
+ {
+  "id": "tentacle",
+  "senses": [
+   "dokunaç"
+  ],
+  "ex": [
+   "Ahtapot, küçük bir kabuğun etrafına bir dokunacını sardı.",
+   "Her dokunaç, ahtapotun çevresini keşfetmesine ve karmaşık deniz ortamlarında besin yakalamasına yardımcı olur."
+  ],
+  "col": [
+   "uzun bir dokunaç",
+   "ahtapot dokunaçları",
+   "dokunaç uzatmak"
+  ],
+  "tip": "Ahtapot ve denizanası gibi canlıların uzun, esnek uzantıları için tentacle; böceklerin anteni için antenna kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "uniformly",
+  "senses": [
+   "eşit biçimde; düzgünce",
+   "istisnasız; her durumda"
+  ],
+  "ex": [
+   "Tereyağını sıcak ekmeğin üzerine eşit biçimde yayın.",
+   "Çevre düzenlemeleri, adil rekabeti sağlamak için tüm şirketlere eşit biçimde uygulanmalıdır."
+  ],
+  "col": [
+   "eşit dağılmış",
+   "eşit biçimde uygulamak",
+   "tutarlı biçimde yüksek"
+  ],
+  "tip": "Her yerde veya her durumda aynı olduğunu vurgular; 'sık sık' anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "reproduction",
+  "senses": [
+   "üreme; çoğalma",
+   "çoğaltma; yeniden üretim",
+   "kopya; reprodüksiyon"
+  ],
+  "ex": [
+   "Deniz kaplumbağalarının üremesini anlatan bir belgesel izledik.",
+   "Okyanus sıcaklıklarındaki artış, deniz türlerinde üremeyi bozabilir ve kıyı ekosistemlerinin uzun vadeli dengesini tehdit edebilir."
+  ],
+  "col": [
+   "eşeyli üreme",
+   "eşeysiz üreme",
+   "ses çoğaltma",
+   "bir tablonun kopyası"
+  ],
+  "tip": "Üreme veya çoğaltma süreci anlamında sayılamaz; tek bir kopya veya eser anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "deem",
+  "senses": [
+   "addetmek; saymak"
+  ],
+  "ex": [
+   "Müfettiş eski kazanımızı kullanım açısından güvensiz buldu.",
+   "Toplu taşıma, yalnızca bir kâr kaynağı değil, temel bir hizmet olarak kabul edilmelidir."
+  ],
+  "col": [
+   "gerekli saymak",
+   "uygun görmek",
+   "güvensiz sayılmak"
+  ],
+  "tip": "Resmî bir kelimedir. Genellikle deem + nesne + sıfat kalıbında veya edilgen yapıda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fellowship",
+  "senses": [
+   "araştırma bursu",
+   "dostluk; yoldaşlık",
+   "dernek; topluluk"
+  ],
+  "ex": [
+   "Kız kardeşim deniz yaşamını incelemek için bir burs kazandı.",
+   "Bir araştırma bursu, kariyerinin başındaki bilim insanlarının hemen mali baskıyla karşılaşmadan çevre sorunlarını incelemesini sağlayabilir."
+  ],
+  "col": [
+   "araştırma bursu",
+   "burs vermek",
+   "birliktelik duygusu"
+  ],
+  "tip": "Burs anlamında sayılabilir; dostluk anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "mourning",
+  "senses": [
+   "yas; matem"
+  ],
+  "ex": [
+   "Komşular, yas tutan aileye sıcak yemekler getirdi.",
+   "Kamusal törenler, yas tutmak için ortak alanlar sağlayabilir ve toplulukların kayıptan etkilenenleri desteklemesine yardımcı olabilir."
+  ],
+  "col": [
+   "yas tutmakta",
+   "yas dönemi",
+   "ulusal yas"
+  ],
+  "tip": "morning (sabah) ile karıştırılmamalı. in mourning kalıbı 'yas tutan, matemde' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "premier",
+  "senses": [
+   "başbakan; eyalet başbakanı",
+   "birinci; en önde gelen"
+  ],
+  "ex": [
+   "Nehir taştıktan sonra başbakan köyümüzü ziyaret etti.",
+   "Başbakan, hızla büyüyen şehirlerde uygun fiyatlı konuta erişimi iyileştirmek için yeni önlemler açıkladı."
+  ],
+  "col": [
+   "yeni seçilen başbakan",
+   "eyalet başbakanı",
+   "önde gelen bir araştırma kurumu"
+  ],
+  "tip": "premier hükümet başkanını; premiere ise ilk gösterim (prömiyer) anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "acceleration",
+  "senses": [
+   "hızlanma",
+   "ivme"
+  ],
+  "ex": [
+   "Arabanın ani hızlanması beni koltuğuma bastırdı.",
+   "Kentsel büyümedeki hızlanma, uygun fiyatlı konut ve güvenilir toplu taşıma talebini artırdı."
+  ],
+  "col": [
+   "hızlı hızlanma",
+   "büyümenin hızlanması",
+   "sabit ivme"
+  ],
+  "tip": "Fizikte ivme, hızın değişim oranıdır; yalnızca hızın artması değil, yönün değişmesi de ivme oluşturabilir.",
+  "note": ""
+ },
+ {
+  "id": "deviate",
+  "senses": [
+   "sapmak; ayrılmak"
+  ],
+  "ex": [
+   "Trafikten kaçınmak için her zamanki yolumuzdan saptık.",
+   "Araştırmacılar, beklenmedik değişiklikler sonuçların güvenilirliğini etkileyebileceğinden, kararlaştırılan prosedürlerden neden saptıklarını açıklamalıdır."
+  ],
+  "col": [
+   "plandan sapmak",
+   "normdan sapmak",
+   "güzergâhtan sapmak"
+  ],
+  "tip": "Genellikle geçişsiz fiildir. Sapılan şey from ile bağlanır: deviate from a plan.",
+  "note": ""
+ }
+]

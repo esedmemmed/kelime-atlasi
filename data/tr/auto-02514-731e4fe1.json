@@ -1,0 +1,278 @@
+[
+ {
+  "id": "sudden",
+  "senses": [
+   "ani; beklenmedik"
+  ],
+  "ex": [
+   "Ani bir rüzgar şapkamı göletin içine savurdu.",
+   "Gıda fiyatlarındaki ani artış, düşük gelirli aileler üzerinde ciddi bir baskı oluşturabilir."
+  ],
+  "col": [
+   "ani bir değişiklik",
+   "ani bir artış",
+   "ani bir hareket",
+   "birdenbire"
+  ],
+  "tip": "sudden sıfattır; bir eylemi nitelerken suddenly zarfı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "zipper",
+  "senses": [
+   "fermuar"
+  ],
+  "ex": [
+   "Ceketimin fermuarı bu sabah yarıya geldiğinde sıkıştı.",
+   "Değiştirilebilir düğme ve fermuarlarla tasarlanan kıyafetler ömrünü uzatabilir ve evlerdeki tekstil atıklarını azaltabilir."
+  ],
+  "col": [
+   "bozuk fermuar",
+   "fermuarı kapatmak",
+   "fermuarı değiştirmek"
+  ],
+  "tip": "zipper ağırlıklı olarak Amerikan İngilizcesinde kullanılır; İngiliz İngilizcesinde zip tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "charming",
+  "senses": [
+   "çekici; sevimli"
+  ],
+  "ex": [
+   "Nehir kenarında şirin küçük bir kafe bulduk.",
+   "Tarihi ve sevimli mahallelerin korunması, ziyaretçileri çekerken sakinlerin kentine aidiyet duygusunu da güçlendirebilir."
+  ],
+  "col": [
+   "çekici gülümseme",
+   "şirin köy",
+   "çekici kişilik"
+  ],
+  "tip": "Hem kişiler hem de yerler için kullanılabilir; kişiye yönelik kullanımda sevimlilik ve çekicilik anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "focus",
+  "senses": [
+   "odaklanmak; yoğunlaşmak",
+   "merkez; ana konu",
+   "netlik; odak noktası"
+  ],
+  "ex": [
+   "Müziği kısarsan konsantre olabilirim.",
+   "Hükümetler, trafik sıkışıklığını azaltmak ve istihdama erişimi iyileştirmek için uygun fiyatlı toplu taşımaya odaklanmalı."
+  ],
+  "col": [
+   "üzerine odaklanmak",
+   "ana odak",
+   "odakta; net",
+   "odak dışı; bulanık"
+  ],
+  "tip": "focus on edatıyla kullanılır, 'focus in' yanlıştır. Edatın ardından isim veya -ing biçimi gelir.",
+  "note": ""
+ },
+ {
+  "id": "makeup",
+  "senses": [
+   "makyaj; kozmetik",
+   "bileşim; yapı"
+  ],
+  "ex": [
+   "Yatmadan önce makyajını çıkardı.",
+   "Şehirlerin demografik yapısındaki değişiklikler konut, sağlık ve toplu taşıma talebini etkileyebilir."
+  ],
+  "col": [
+   "makyaj yapmak",
+   "makyajı çıkarmak",
+   "genetik yapı",
+   "demografik yapı"
+  ],
+  "tip": "Ad olan makeup ile fiil öbeği make up yazımı ayrıdır; 'make up' fiil olarak farklı anlamlar taşır.",
+  "note": ""
+ },
+ {
+  "id": "arrival",
+  "senses": [
+   "varış; geliş",
+   "yeni gelen; yeni varan"
+  ],
+  "ex": [
+   "Kamp alanına varışımız şiddetli yağmur yüzünden gecikti.",
+   "Daha hızlı demiryolu hizmetlerinin gelişi, uygun fiyatlı konut arayan işe gidip gelenler için küçük kasabaları daha cazip hale getirdi."
+  ],
+  "col": [
+   "varır varmaz",
+   "varış zamanı",
+   "yeni gelen",
+   "havalimanına varış"
+  ],
+  "tip": "on arrival 'varır varmaz' anlamına gelir ve upon arrival ile aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "face-to-face",
+  "senses": [
+   "yüz yüze; şahsen",
+   "yüz yüze"
+  ],
+  "ex": [
+   "Yerel kafede yüz yüze bir toplantı ayarladık.",
+   "Yüz yüze iletişim, anında geri bildirim ve daha net duygu ifadesine olanak tanıyarak öğretmen ile öğrenciler arasındaki ilişkileri güçlendirebilir."
+  ],
+  "col": [
+   "yüz yüze toplantı",
+   "yüz yüze iletişim",
+   "yüz yüze mülakat"
+  ],
+  "tip": "İsim önünde kısa çizgiyle yazılır (a face-to-face meeting); zarf olarak genellikle face to face biçiminde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "various",
+  "senses": [
+   "çeşitli; değişik"
+  ],
+  "ex": [
+   "Hafta sonu pazarında çeşitli yemekler denedik.",
+   "Okullar, öğrencilerin ilgi alanlarını keşfetmelerine ve pratik becerilerini geliştirmelerine yardımcı olacak çeşitli etkinlikler sunmalıdır."
+  ],
+  "col": [
+   "çeşitli nedenler",
+   "çeşitli türde",
+   "çeşitli yönler"
+  ],
+  "tip": "Genellikle çoğul sayılabilir isimlerle kullanılır, örneğin various reasons; ardından gelen isim çoğul olmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "campsite",
+  "senses": [
+   "kamp alanı"
+  ],
+  "ex": [
+   "Göl kenarında sakin bir kamp alanı bulduk.",
+   "İyi yönetilen kamp alanları, ziyaretçilerin doğal manzaraların tadını çıkarmasına olanak tanırken yerel ekosistemlere verilen zararı sınırlar."
+  ],
+  "col": [
+   "kamp alanında kalmak",
+   "kamp alanı ayırtmak",
+   "göl kenarındaki kamp alanı"
+  ],
+  "tip": "Britanya İngilizcesinde campsite, Amerikan İngilizcesinde ise çoğunlukla campground kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "arts",
+  "senses": [
+   "sanat; sanatsal etkinlikler",
+   "beşeri bilimler; edebiyat"
+  ],
+  "ex": [
+   "Yerel sanat merkezimiz çömlekçilik ve dans kursları sunuyor.",
+   "Beşeri bilim dersleri okumak eleştirel düşünmeyi geliştirebilir ve öğrencilerin farklı kültürleri anlamasını derinleştirebilir."
+  ],
+  "col": [
+   "sahne sanatları",
+   "beşeri bilim dersleri",
+   "sanat merkezi",
+   "Sanat Lisansı"
+  ],
+  "tip": "the arts genel olarak sanatı, arts subjects ise beşeri bilimler derslerini ifade eder; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "frequent",
+  "senses": [
+   "sık; sık görülen",
+   "sık sık uğramak"
+  ],
+  "ex": [
+   "Sık kalkan otobüsler pazara gitmeyi kolaylaştırıyor.",
+   "Eğitim politikalarındaki sık değişiklikler, öğretmenlerin etkili ders planlamasını zorlaştırabilir."
+  ],
+  "col": [
+   "sık ziyaretler",
+   "sık gecikmeler",
+   "sık gelen ziyaretçi",
+   "sık değişiklikler"
+  ],
+  "tip": "Sıfat frequent ilk hecede, fiil frequent ikinci hecede vurgu alır.",
+  "note": ""
+ },
+ {
+  "id": "resource",
+  "senses": [
+   "kaynak; imkân",
+   "kaynak; öğrenme materyali",
+   "kaynak sağlamak"
+  ],
+  "ex": [
+   "Kurak yazlarda köyümüz su kaynaklarını paylaşıyor.",
+   "Hükümetler, ekonomik kalkınmayı uzun vadeli çevre korumasıyla dengelemek için doğal kaynakları dikkatle yönetmelidir."
+  ],
+  "col": [
+   "doğal kaynaklar",
+   "insan kaynakları",
+   "öğrenme kaynakları",
+   "kaynak tahsis etmek"
+  ],
+  "tip": "Genel anlamda kaynaklar için çoğul resources sık kullanılır; fiil olarak bir etkinliğe kaynak sağlamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "take-off",
+  "senses": [
+   "kalkış",
+   "taklit; komik taklit"
+  ],
+  "ex": [
+   "Kalkış sırasında lütfen emniyet kemerinizi takılı tutun.",
+   "Kalkış sırasındaki uçak gürültüsü, büyük havalimanlarına yakın topluluklarda yaşam kalitesini önemli ölçüde etkileyebilir."
+  ],
+  "col": [
+   "kalkış sırasında",
+   "kalkışa hazırlanmak",
+   "kalkış hızı"
+  ],
+  "tip": "İsim olarak take-off kısa çizgiyle yazılır; fiil take off ise kısa çizgisiz yazılır.",
+  "note": ""
+ },
+ {
+  "id": "directly",
+  "senses": [
+   "doğrudan; dolaysız",
+   "hemen; derhal",
+   "tam olarak; tam"
+  ],
+  "ex": [
+   "Lütfen fotoğrafları doğrudan telefonuma gönderin.",
+   "Gelişen toplu taşıma, hanehalkının seyahat maliyetlerini doğrudan azaltabilir ve istihdama erişimi artırabilir."
+  ],
+  "col": [
+   "doğrudan etkilemek",
+   "doğrudan sorumlu",
+   "tam karşısında",
+   "tam üstünde"
+  ],
+  "tip": "directly 'doğrudan', 'hemen' ya da 'tam olarak' anlamına gelebilir; cümlenin bağlamına göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "rainforest",
+  "senses": [
+   "yağmur ormanı"
+  ],
+  "ex": [
+   "Yağmur ormanının yüksek tepe katmanında renkli kuşlar gördük.",
+   "Tropikal yağmur ormanlarını korumak biyolojik çeşitliliği korur ve depolanmış büyük miktarda karbonun atmosfere karışmasını önler."
+  ],
+  "col": [
+   "tropikal yağmur ormanı",
+   "yağmur ormanı tepe katmanı",
+   "yağmur ormanı koruması",
+   "yağmur ormanı tahribi"
+  ],
+  "tip": "Genellikle bitişik yazılır (rainforest); rain forest biçimi de kabul edilir.",
+  "note": ""
+ }
+]

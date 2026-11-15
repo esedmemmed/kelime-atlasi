@@ -1,0 +1,288 @@
+[
+ {
+  "id": "remote",
+  "senses": [
+   "ıssız; uzak",
+   "uzaktan kumandalı",
+   "uzak; olası olmayan"
+  ],
+  "ex": [
+   "Dağlarla çevrili uzak bir köyde yaşıyorlar.",
+   "Uzaktan çalışma, büyük kentsel merkezlerden uzakta yaşayan insanlar için istihdam fırsatlarını artırabilir."
+  ],
+  "col": [
+   "uzak köy",
+   "uzaktan çalışma",
+   "uzaktan kumanda",
+   "çok küçük ihtimal"
+  ],
+  "tip": "Yer anlamında 'uzak', kontrol anlamında 'uzaktan' karşılığını alır. Konuşma dilinde isim olarak 'kumanda' anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "dumb",
+  "senses": [
+   "aptal; salak",
+   "dili tutulmuş; şaşkın",
+   "dilsiz"
+  ],
+  "ex": [
+   "Anahtarlarımı yine içeride bırakmak aptalcaydı.",
+   "Haberleri basitleştirmek, karmaşık konuları yüzeyselleştirmeden ve okuyucunun ihtiyaç duyduğu kanıtları çıkarmadan erişilebilirliği artırabilir."
+  ],
+  "col": [
+   "aptalca bir hata",
+   "dili tutulmuş",
+   "yüzeyselleştirmek; basitleştirmek"
+  ],
+  "tip": "Sözcükteki b harfi sessizdir. İnsanları aptal diye nitelemek kaba ve incitici olabilir, dikkatli kullanın.",
+  "note": "İnsanları aptal olarak nitelemek incitici olabilir; konuşamayanlar için bu kullanım artık eskidir."
+ },
+ {
+  "id": "breed",
+  "senses": [
+   "üremek; yetiştirmek",
+   "ırk; cins",
+   "doğurmak; körüklemek"
+  ],
+  "ex": [
+   "Bu kuşlar genellikle sıcak aylarda burada üreme yapar.",
+   "Koruma programları, nesli tükenmekte olan hayvanları korunan ortamlarda yetiştirip uygun doğal yaşam alanlarına salmadan önce üretir."
+  ],
+  "col": [
+   "üreme mevsimi",
+   "bir köpek cinsi",
+   "hayvan yetiştirmek",
+   "kin körüklemek"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi bred'dir. 'Cins' anlamındaki breed, 'tür' anlamındaki species ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "nerve",
+  "senses": [
+   "sinir",
+   "cesaret; yürek",
+   "küstahlık; pişkinlik"
+  ],
+  "ex": [
+   "Diş hekimi, ağrıya bir sinirin neden olduğunu açıkladı.",
+   "Tek bir sinirdeki hasar hareketi etkileyebilir ve hastanın yaşam kalitesini düşürebilir."
+  ],
+  "col": [
+   "sinir hasarı",
+   "cesaretini kaybetmek",
+   "bir şeyi yapacak kadar pişkin olmak"
+  ],
+  "tip": "Cesaret anlamında nerve genellikle sayılamaz; nerves ise gerginlik ya da endişe anlamında çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "proposal",
+  "senses": [
+   "öneri; teklif; plan",
+   "evlenme teklifi"
+  ],
+  "ex": [
+   "Yedek odayı ofise çevirme önerimi herkes beğendi.",
+   "Konsey, kullanılmayan bir otoparkın yerine uygun fiyatlı konut yapılması önerisini değerlendiriyor."
+  ],
+  "col": [
+   "bir öneride bulunmak",
+   "bir öneriyi onaylamak",
+   "bir şey yapma önerisi",
+   "evlilik teklifi"
+  ],
+  "tip": "'proposal to do' kalıbı bir şeyi yapma önerisi anlamında kullanılır; bu isim genellikle sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "sustainable",
+  "senses": [
+   "sürdürülebilir; çevreci",
+   "uzun süre devam edebilen"
+  ],
+  "ex": [
+   "Plastik ambalajı az ya da hiç olmayan sürdürülebilir ürünleri tercih ediyor.",
+   "Şehirler, güvenilir otobüs hizmetlerine ve güvenli bisiklet altyapısına yatırım yaparak sürdürülebilir ulaşımı teşvik etmeli."
+  ],
+  "col": [
+   "sürdürülebilir kalkınma",
+   "sürdürülebilir tarım",
+   "sürdürülebilir ulaşım",
+   "sürdürülebilir büyüme"
+  ],
+  "tip": "renewable 'yenilenebilir' anlamına gelir; sustainable ise uzun vadede sürdürülebilirliği vurgular. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "expansion",
+  "senses": [
+   "genişleme; büyüme"
+  ],
+  "ex": [
+   "Mutfağın genişletilmesi bize bir masa için yer açtı.",
+   "Hızlı kentsel büyüme, yerel yönetimler etkili planlama denetimleri uygulamazsa yakındaki tarım arazilerini tehdit edebilir."
+  ],
+  "col": [
+   "kentsel yayılma",
+   "ekonomik büyüme",
+   "ısıl genleşme",
+   "hızlı genişleme"
+  ],
+  "tip": "Fiili expand, ismi expansion biçimindedir. Yazılışta 'expansion' ile 'expansive' karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "pottery",
+  "senses": [
+   "çömlek; çanak çömlek",
+   "çömlekçilik; seramik",
+   "çömlekçi atölyesi"
+  ],
+  "ex": [
+   "Pazar tezgahında yumuşak toprak tonlarında çömlekler sergileniyordu.",
+   "Geleneksel çanak çömlek, eski toplumların yiyeceği nasıl sakladığını, malları nasıl ticaret yaptığını ve kültürel kimliğini nasıl ifade ettiğini gösterebilir."
+  ],
+  "col": [
+   "el yapımı çanak çömlek",
+   "çömlekçilik kursu",
+   "çömlek çarkı",
+   "çömlek parçaları"
+  ],
+  "tip": "Genel anlamda sayılamaz isimdir. Tek bir parçayı belirtmek için 'a piece of pottery' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dependence",
+  "senses": [
+   "bağımlılık; bel bağlama",
+   "bağımlılık"
+  ],
+  "ex": [
+   "Bisiklete binmeyi öğrenmek, arkadaşlarımın bindirmesine olan bağımlılığımı azalttı.",
+   "Yenilenebilir enerjiye yapılan yatırım, bir ülkenin ithal yakıtlara bağımlılığını azaltabilir ve enerji güvenliğini artırabilir."
+  ],
+  "col": [
+   "-e bağımlılık",
+   "bağımlılığı azaltmak",
+   "mali bağımlılık",
+   "uyuşturucu bağımlılığı"
+  ],
+  "tip": "Doğru kalıp 'dependence on'dur; 'dependence of' kullanılmaz. Fiili 'depend on' biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "boast",
+  "senses": [
+   "övünmek; böbürlenmek",
+   "sahip olmak; övünç kaynağı olmak",
+   "kendini övme; böbürlenme"
+  ],
+  "ex": [
+   "Ne kadar hızlı koşabildiğini hep anlatıp övünür.",
+   "Şehir, geniş bir toplu taşıma ağıyla övünüyor; bu da onu sürdürülebilir turizm için cazip bir hedef yapıyor."
+  ],
+  "col": [
+   "başarılarıyla övünmek",
+   "-diye övünmek",
+   "boş bir övünme"
+  ],
+  "tip": "Kendisiyle ilgili övünmek için 'boast about' kullanılır. Bir özelliğe sahip olmayı anlatırken doğrudan nesne alır.",
+  "note": ""
+ },
+ {
+  "id": "conservative",
+  "senses": [
+   "muhafazakâr; gelenekçi",
+   "temkinli; ihtiyatlı",
+   "muhafazakâr kişi"
+  ],
+  "ex": [
+   "Amcam muhafazakârdır ve aile geleneklerinin değişmesinden hoşlanmaz.",
+   "İhtiyatlı tahminler bile ev yalıtımını iyileştirmenin hanehalkı enerji tüketimini önemli ölçüde azaltabileceğini gösteriyor."
+  ],
+  "col": [
+   "muhafazakâr görüşler",
+   "ihtiyatlı tahmin",
+   "temkinli yaklaşım"
+  ],
+  "tip": "Küçük harfle genel anlamda muhafazakâr demektir; büyük harfle Conservative ise İngiltere'deki Muhafazakâr Parti'yi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "turnip",
+  "senses": [
+   "şalgam"
+  ],
+  "ex": [
+   "Sebze çorbasına doğranmış bir şalgam ekledim.",
+   "Şalgam gibi kök sebzeler yetiştirmek, soğuk aylarda toplulukların yerel gıda kaynaklarını çeşitlendirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "fırında şalgam",
+   "şalgam yaprakları",
+   "şalgam çorbası"
+  ],
+  "tip": "Bu kelime beyaz ve mor üstlü kök sebzeyi ifade eder; radish (turp) ve swede ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "conductor",
+  "senses": [
+   "şef; orkestra şefi",
+   "iletken",
+   "kondüktör; biletçi"
+  ],
+  "ex": [
+   "Şef kollarını kaldırdı ve orkestra sustu.",
+   "Bakır, elektriğin etkili bir iletkenidir; bu yüzden ev tesisatlarında yaygın olarak kullanılan bir malzemedir."
+  ],
+  "col": [
+   "orkestra şefi",
+   "iyi bir ısı iletkeni",
+   "tren kondüktörü"
+  ],
+  "tip": "Fizikteki 'iletken' anlamında of heat ya da of electricity ile birlikte kullanılır. Müzikte şef, ulaşımda ise biletçi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "encounter",
+  "senses": [
+   "karşılaşmak; rastlamak",
+   "karşılaşma; rastlaşma"
+  ],
+  "ex": [
+   "Akşam yürüyüşümüzde meraklı bir tilkiyle karşılaştık.",
+   "Yurt dışında okuyan öğrenciler, iletişim ve sosyal davranışlar hakkındaki varsayımlarını sorgulatan kültürel farklılıklarla karşılaşabilir."
+  ],
+  "col": [
+   "zorluklarla karşılaşmak",
+   "direnişle karşılaşmak",
+   "tesadüfi bir karşılaşma",
+   "ile karşılaşma"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır (encounter difficulties). İsim olarak genellikle 'an encounter with' kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "acid",
+  "senses": [
+   "asit",
+   "ekşi; asitli",
+   "iğneleyici; kırıcı"
+  ],
+  "ex": [
+   "Limon suyundaki asit, lekelerin çıkmasına yardımcı olabilir.",
+   "Asit yağmurları ormanlara zarar verebilir ve göllerin su canlılarını desteklemesini azaltabilir."
+  ],
+  "col": [
+   "asit yağmuru",
+   "mide asidi",
+   "asitli toprak",
+   "iğneleyici bir söz"
+  ],
+  "tip": "Acid hem isim hem sıfat olabilir. Acidic ise daha çok 'asidik' anlamıyla, özellikle pH bağlamında kullanılır.",
+  "note": ""
+ }
+]

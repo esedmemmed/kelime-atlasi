@@ -1,0 +1,274 @@
+[
+ {
+  "id": "bloom",
+  "senses": [
+   "çiçek açmak",
+   "çiçek; çiçeklenme",
+   "gelişip serpilmek"
+  ],
+  "ex": [
+   "Güller her yaz mutfak penceremizin yanında açar.",
+   "Bahar ve yaz boyunca çiçek açan kent bahçeleri, arılar ve diğer tozlaştırıcılar için değerli besin kaynakları sağlar."
+  ],
+  "col": [
+   "tam çiçeklenmiş halde",
+   "çiçek açmaya başlamak",
+   "bahar çiçekleri"
+  ],
+  "tip": "Hem fiil hem isim olarak kullanılır. Çiçek açma durumunu belirtmek için in bloom kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aisle",
+  "senses": [
+   "koridor; geçit"
+  ],
+  "ex": [
+   "Lütfen çantanızı koridordan uzak tutun.",
+   "Süpermarketlerdeki daha geniş koridorlar, tekerlekli sandalye kullanıcıları için erişilebilirliği artırabilir ve alışverişi herkes için daha rahat hale getirebilir."
+  ],
+  "col": [
+   "koridor kenarı koltuk",
+   "süpermarket koridoru",
+   "evlilik törenine yürümek"
+  ],
+  "tip": "s harfi okunmaz; isle ile aynı şekilde telaffuz edilir. aisle seat, koridor kenarındaki koltuk demektir.",
+  "note": ""
+ },
+ {
+  "id": "ancestor",
+  "senses": [
+   "ata; ecdat",
+   "atasal tür; öncül"
+  ],
+  "ex": [
+   "Evlerimizin bu eski taş yapısını atalarımdan biri inşa etti.",
+   "Atalarımızın çevresel değişimlere nasıl uyum sağladığını incelemek, insanın dayanıklılığı hakkında bilgi verebilir."
+  ],
+  "col": [
+   "ortak ata",
+   "uzak ata",
+   "insanın ataları"
+  ],
+  "tip": "ancestor atalar için kullanılır; descendant ise soyundan gelenler, yani torunlar için. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "possessive",
+  "senses": [
+   "sahiplenici; kıskanç",
+   "iyelik"
+  ],
+  "ex": [
+   "Küçük erkek kardeşim oyuncak trenleri konusunda çok sahiplenici.",
+   "Arkadaşlıklarda sahiplenici davranışlar kişisel özgürlüğü kısıtlayabilir ve sağlıklı ilişkileri sürdürmeyi zorlaştırabilir."
+  ],
+  "col": [
+   "-e karşı sahiplenici",
+   "sahiplenici davranış",
+   "iyelik zamiri",
+   "iyelik biçimi"
+  ],
+  "tip": "Bir kişi ya da şeye karşı sahiplenici olmak için about kullanılır. Dilbilgisinde ise iyelik anlamındadır: possessive pronoun gibi.",
+  "note": ""
+ },
+ {
+  "id": "motivated",
+  "senses": [
+   "istekli; azimli",
+   "güdümlü"
+  ],
+  "ex": [
+   "Sabah egzersiz yaptıktan sonra kendimi daha istekli hissediyorum.",
+   "Öğretmenler yapıcı geri bildirim ve ulaşılabilir hedefler sunduğunda öğrenciler motivasyonlarını korumaya daha yatkın olurlar."
+  ],
+  "col": [
+   "çok istekli",
+   "motivasyonunu korumak",
+   "kâr güdüsüyle hareket eden"
+  ],
+  "tip": "motivated to do bir şeyi yapmaya istekli olmak demektir. Nedeni belirtmek için by kullanılır: motivated by profit.",
+  "note": ""
+ },
+ {
+  "id": "odour",
+  "senses": [
+   "koku; kötü koku"
+  ],
+  "ex": [
+   "Mutfak çöp kovasından garip bir koku geliyordu.",
+   "Sakinler, rahatsız edici kokuların yaşam kalitelerini etkilemesinden korkarlarsa yeni atık tesislerine karşı çıkabilirler."
+  ],
+  "col": [
+   "rahatsız edici koku",
+   "güçlü koku",
+   "vücut kokusu",
+   "koku kontrolü"
+  ],
+  "tip": "İngiliz İngilizcesinde odour, Amerikan İngilizcesinde odor yazılır. Genellikle kötü kokuları anlatmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "soften",
+  "senses": [
+   "yumuşamak; yumuşatmak",
+   "azaltmak; hafifletmek"
+  ],
+  "ex": [
+   "Tereyağının yumuşaması için buzdolabının dışında bırakın.",
+   "Ek mali destek, artan enerji fiyatlarının daha yoksul hanehalkları üzerindeki etkisini hafifletebilir."
+  ],
+  "col": [
+   "tereyağını yumuşatmak",
+   "etkiyi hafifletmek",
+   "ses tonunu yumuşatmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: heat softens butter (geçişli) ve butter softens (geçişsiz).",
+  "note": ""
+ },
+ {
+  "id": "breakthrough",
+  "senses": [
+   "önemli atılım; buluş"
+  ],
+  "ex": [
+   "Haftalarca çalıştıktan sonra sonunda bir atılım yapabildim.",
+   "Pil teknolojisindeki çığır açan bir gelişme, yenilenebilir enerjiyi hanehalkları için daha güvenilir ve uygun fiyatlı hale getirebilir."
+  ],
+  "col": [
+   "atılım yapmak",
+   "bilimsel atılım",
+   "tedavide atılım"
+  ],
+  "tip": "İsim olarak tek kelime yazılır: breakthrough. Fiil olarak break through ise iki ayrı kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "convention",
+  "senses": [
+   "gelenek; töre",
+   "kongre; toplantı",
+   "uluslararası sözleşme"
+  ],
+  "ex": [
+   "Gelenek gereği, konuklar herkes oturana kadar yemeğe başlamazlar.",
+   "Uluslararası bir sözleşme, katılan ülkeler için ortak sorumluluklar belirleyerek çevre korumasını güçlendirebilir."
+  ],
+  "col": [
+   "toplumsal gelenek",
+   "yıllık kongre",
+   "uluslararası sözleşme",
+   "gelenek gereği"
+  ],
+  "tip": "Gelenek, kongre ve sözleşme anlamlarında sayılabilir. by convention ifadesi gelenek gereği anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "approval",
+  "senses": [
+   "onay; izin",
+   "olumlu görüş; beğeni"
+  ],
+  "ex": [
+   "Mutfağı boyamadan önce ev sahibinin iznine ihtiyacımız var.",
+   "Yeni konut projeleri, yalnızca geliştiriciler yeterli ulaşım ve kamu hizmetlerinin sağlanacağını gösterdiğinde onay almalıdır."
+  ],
+  "col": [
+   "onay almak",
+   "onay istemek",
+   "onay vermek",
+   "beğeniyle karşılanmak"
+  ],
+  "tip": "approval of genellikle bir kişi ya da fikre duyulan beğeniyi, approval for ise proje ya da faaliyet için verilen izni anlatır.",
+  "note": ""
+ },
+ {
+  "id": "memorable",
+  "senses": [
+   "unutulmaz; akılda kalıcı"
+  ],
+  "ex": [
+   "Karlı o tren yolculuğu gerçekten unutulmaz bir deneyimdi.",
+   "Uygulamalı deneyler, soyut fikirleri doğrudan deneyimle ilişkilendirerek fen derslerini daha akılda kalıcı hale getirir."
+  ],
+  "col": [
+   "unutulmaz deneyim",
+   "unutulmaz an",
+   "unutulmaz performans"
+  ],
+  "tip": "memorable, olay ve deneyimler için kullanılır. Bir kişinin iyi hafızaya sahip olduğunu anlatmak için good memory denir.",
+  "note": ""
+ },
+ {
+  "id": "lighten",
+  "senses": [
+   "hafifletmek",
+   "açılmak; aydınlanmak",
+   "neşelendirmek; rahatlatmak"
+  ],
+  "ex": [
+   "Sırt çantamı hafifletmek için iki kitap çıkardım.",
+   "İşverenler, idari işlemleri sadeleştirerek ve rutin görevler için daha iyi araçlar sağlayarak personelin iş yükünü hafifletebilir."
+  ],
+  "col": [
+   "yükü hafifletmek",
+   "ortamı yumuşatmak",
+   "rengi açmak"
+  ],
+  "tip": "Hem yük hafifletme hem de renk açma anlamına gelir. lighten up gündelik dilde rahatla, gevşe anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mislead",
+  "senses": [
+   "yanıltmak"
+  ],
+  "ex": [
+   "Fotoğraf, dairenin gerçek büyüklüğü konusunda beni yanıltmıştı.",
+   "Reklamlar tüketicileri, pahalı ürünlerin her zaman ucuz alternatiflerden daha kaliteli olduğuna inandırarak yanıltabilir."
+  ],
+  "col": [
+   "tüketicileri yanıltmak",
+   "inandırarak yanıltmak",
+   "kasten yanıltmak"
+  ],
+  "tip": "Düzensiz bir fiildir: mislead, misled, misled. Genellikle mislead someone into believing biçiminde into ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "alarming",
+  "senses": [
+   "endişe verici"
+  ],
+  "ex": [
+   "Yokuşu tırmanırken motor endişe verici bir ses çıkardı.",
+   "Böcek popülasyonlarındaki endişe verici azalma, gıda üretimini tehdit edebilir ve tüm ekosistemleri bozabilir."
+  ],
+  "col": [
+   "endişe verici oran",
+   "endişe verici artış",
+   "endişe verici eğilim"
+  ],
+  "tip": "alarming, bir şeyin uyandırdığı etkiyi anlatır. Kişinin hissettiği korkuyu ise alarmed ile ifade edersiniz.",
+  "note": ""
+ },
+ {
+  "id": "external",
+  "senses": [
+   "dış; dışarıdaki",
+   "dışsal; harici"
+  ],
+  "ex": [
+   "İnşaatçılar dış duvarları soluk sarıya boyadılar.",
+   "Üniversiteler, yalnızca öğrenim ücretleriyle desteklenemeyen araştırmaları yürütmek için sık sık dış finansmana güvenir."
+  ],
+  "col": [
+   "dış duvarlar",
+   "dışsal etkenler",
+   "dış finansman",
+   "yalnızca dış kullanım içindir"
+  ],
+  "tip": "internal ile zıt anlamlıdır. İlaç etiketlerindeki for external use only ifadesi yalnızca dış kullanım içindir anlamına gelir.",
+  "note": ""
+ }
+]

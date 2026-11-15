@@ -1,0 +1,264 @@
+[
+ {
+  "id": "heighten",
+  "senses": [
+   "artırmak; yoğunlaştırmak"
+  ],
+  "ex": [
+   "Ani sessizlik, sürpriz hakkındaki merakımı yalnızca artırdı.",
+   "Tekrarlanan kuraklıklar, halkın su kıtlığına duyduğu kaygıyı artırabilir ve hükümetleri koruma yatırımlarına teşvik edebilir."
+  ],
+  "col": [
+   "farkındalığı artırmak",
+   "gerilimi artırmak",
+   "kaygıyı artırmak"
+  ],
+  "tip": "Duygu, farkındalık ya da etkiler için kullanılır; boy uzaması için kullanılmaz. Genellikle soyut isimlerle birlikte gelir.",
+  "note": ""
+ },
+ {
+  "id": "advocate",
+  "senses": [
+   "savunmak; desteklemek",
+   "savunucu; destekçi"
+  ],
+  "ex": [
+   "Komşularımız sokağa daha fazla ağaç dikilmesini savunuyor.",
+   "Birçok sağlık uzmanı, kronik hastalıkları önlemenin uygun maliyetli bir yolu olarak düzenli fiziksel aktiviteyi savunuyor."
+  ],
+  "col": [
+   "reform savunmak",
+   "bir şeyi yapmayı savunmak",
+   "...nın güçlü savunucusu"
+  ],
+  "tip": "Fiil olarak advocate + -ing (advocate doing) kalıbı kullanılır, to do ile kullanılmaz. 'A strong advocate of' kalıbı sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "tigress",
+  "senses": [
+   "dişi kaplan"
+  ],
+  "ex": [
+   "Dişi kaplan, gölgede yavrularının yanında dinleniyordu.",
+   "Dişi bir kaplanın ve yavrularının yaşam alanını korumak, sağlıklı bir kaplan popülasyonunu sürdürmeye yardımcı olabilir."
+  ],
+  "col": [
+   "dişi kaplan ve yavruları",
+   "vahşi dişi kaplan"
+  ],
+  "tip": "Tigress yalnızca dişi kaplanı anlatır; tiger ise genel olarak kaplanı ifade eder ve erkek olabilir.",
+  "note": ""
+ },
+ {
+  "id": "aptitude",
+  "senses": [
+   "yetenek; yatkınlık"
+  ],
+  "ex": [
+   "Leila, okulda müziğe karşı doğal bir yetenek gösterdi.",
+   "Okullar, öğrencilere kariyer konusunda danışmanlık yaparken akademik başarının yanında pratik yeteneği de dikkate almalı."
+  ],
+  "col": [
+   "dil yeteneği",
+   "yetenek testi",
+   "...için yetenek göstermek"
+  ],
+  "tip": "Genellikle aptitude for kalıbıyla, sonrasında isim ya da -ing ile kullanılır. 'Attitude' (tutum) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "humiliate",
+  "senses": [
+   "aşağılamak; küçük düşürmek"
+  ],
+  "ex": [
+   "Lütfen arkadaşlarımın önünde beni küçük düşürme.",
+   "Öğretmenler, zorlanan öğrencileri aşağılamak yerine hataları yapıcı bir şekilde düzeltmelidir."
+  ],
+  "col": [
+   "birini herkesin önünde aşağılamak",
+   "aşağılanmış hissetmek",
+   "son derece küçük düşürücü"
+  ],
+  "tip": "Embarrass'tan daha güçlü bir anlam taşır; onur kırıcı, ağır bir aşağılamayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "scrutiny",
+  "senses": [
+   "titiz inceleme; sıkı denetim"
+  ],
+  "ex": [
+   "Kuyumcu yüzüğü büyük bir dikkatle inceledi.",
+   "Kamu harcamaları, kaynakların verimli ve adil kullanıldığından emin olmak için bağımsız denetime tabi tutulmalıdır."
+  ],
+  "col": [
+   "inceleme altında",
+   "yakın inceleme",
+   "kamuoyu denetimi",
+   "denetime tabi olmak"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a scrutiny' ya da çoğul biçim kullanılmaz. 'Under scrutiny' incelenmekte olduğunu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "amphibian",
+  "senses": [
+   "amfibi hayvan",
+   "amfibi araç"
+  ],
+  "ex": [
+   "Bahçe göletinin kenarında küçük bir amfibi gördük.",
+   "Azalan amfibi popülasyonları, su kalitesindeki değişikliklere ve tatlı su ekosistemlerindeki daha geniş çaplı zarara işaret edebilir."
+  ],
+  "col": [
+   "amfibi türleri",
+   "amfibi popülasyonları",
+   "amfibi koruma"
+  ],
+  "tip": "Hayvan için amphibian kullanılır; karada ve suda yaşamaya ilişkin sıfat ise amphibious'tur.",
+  "note": ""
+ },
+ {
+  "id": "reinforcement",
+  "senses": [
+   "güçlendirme; takviye",
+   "pekiştirme",
+   "takviye kuvvetler"
+  ],
+  "ex": [
+   "Eski bahçe duvarı, kış gelmeden önce güçlendirilmeli.",
+   "Olumlu pekiştirme, çocukların cezaya başvurmadan sağlıklı alışkanlıklar geliştirmesini teşvik edebilir."
+  ],
+  "col": [
+   "olumlu pekiştirme",
+   "yapısal güçlendirme",
+   "takviye kuvvet göndermek"
+  ],
+  "tip": "Askeri anlamda, yani takviye birlik için genellikle çoğul reinforcements kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fabricate",
+  "senses": [
+   "uydurmak; sahtesini yapmak",
+   "üretmek; monte etmek"
+  ],
+  "ex": [
+   "Aile yemeğine gelmemek için inandırıcı olmayan bir bahane uydurdu.",
+   "Kanıt uyduran araştırmacılar bilime duyulan güveni zedeler ve önemli politika kararlarını etkileyebilir."
+  ],
+  "col": [
+   "kanıt uydurmak",
+   "bir hikâye uydurmak",
+   "bahane uydurmak",
+   "parçaları monte etmek"
+  ],
+  "tip": "Anlam nesneye göre değişir: bilgi uydurma ya da malzemeden ürün üretme. Cümledeki nesne hangisinin kastedildiğini gösterir.",
+  "note": ""
+ },
+ {
+  "id": "sorrowful",
+  "senses": [
+   "hüzünlü; kederli"
+  ],
+  "ex": [
+   "Tren kalkarken hüzünlü bir gülümseme yaptı.",
+   "Film, göç ve ekonomik zorluklar yüzünden ayrılmış ailelerin hüzünlü bir portresini sunuyor."
+  ],
+  "col": [
+   "hüzünlü ifade",
+   "hüzünlü ses",
+   "hüzünlü veda"
+  ],
+  "tip": "Sad'den daha resmi bir sözcüktür; ifadeler, sesler ya da vedalar için tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "overextend",
+  "senses": [
+   "kapasitesini aşmak; aşırı yüklenmek"
+  ],
+  "ex": [
+   "Okulda her kulübe katılarak kendini fazla yorma.",
+   "Küçük işletmeler, gelecekteki talebi değerlendirmeden hızla büyüdüklerinde mali açıdan kendilerini aşırı yüklenmiş duruma düşürebilir."
+  ],
+  "col": [
+   "kendini aşırı yüklemek",
+   "mali açıdan aşırı yüklenmek",
+   "kaynakları aşırı zorlamak"
+  ],
+  "tip": "Genellikle overextend yourself biçiminde, kapasitenin üstünde görev ya da harcama için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sportsmanship",
+  "senses": [
+   "spor ahlakı; sportmenlik"
+  ],
+  "ex": [
+   "Rakibine ayağa kalkmasında yardım etmesi gerçek bir spor ahlakı gösterdi.",
+   "Okul yarışmaları, öğrenciler arasında saygı ve iş birliğini teşvik etmek için başarının yanında spor ahlakını da ödüllendirmeli."
+  ],
+  "col": [
+   "iyi spor ahlakı",
+   "spor ahlakı göstermek",
+   "kötü spor ahlakı"
+  ],
+  "tip": "Sayılamayan bir isimdir; teknik beceriyi değil, adil ve saygılı davranışı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "deviation",
+  "senses": [
+   "sapma; ayrılma",
+   "sapma; fark"
+  ],
+  "ex": [
+   "Güzergâhımızdan küçük bir sapma, sakin bir plaj ortaya çıkardı.",
+   "Belirlenmiş güvenlik prosedürlerinden önemli her sapma, iş yerinde kazaları önlemek için incelenmelidir."
+  ],
+  "col": [
+   "normdan sapma",
+   "standart sapma",
+   "önemli sapma"
+  ],
+  "tip": "Deviation from kalıbını kullanın. Standard deviation istatistikte 'standart sapma' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "optics",
+  "senses": [
+   "optik"
+  ],
+  "ex": [
+   "Bir prizmadan el feneri ışığı geçirerek optik üzerine deney yaptık.",
+   "Optikteki gelişmeler tıbbi görüntülemeyi iyileştirdi; doktorlar iç yapıları daha ayrıntılı inceleyebiliyor."
+  ],
+  "col": [
+   "geometrik optik",
+   "fiziksel optik",
+   "fiber optik"
+  ],
+  "tip": "Bilim dalı olarak sonunda s olsa da tekil fiille kullanılır: Optics is...",
+  "note": ""
+ },
+ {
+  "id": "snowbound",
+  "senses": [
+   "karla kapalı; kar yüzünden mahsur"
+  ],
+  "ex": [
+   "Üç gün boyunca karların mahsur bıraktığı bir kulübede kaldık.",
+   "Olağandışı şiddetli kış fırtınalarından sonra acil servisler, karla kapalı köylere yiyecek ve ilaç ulaştırdı."
+  ],
+  "col": [
+   "karla kapalı bir köy",
+   "karda mahsur kalan yolcular",
+   "karla kapalı kalmak"
+  ],
+  "tip": "Yalnızca 'karla kaplı' değil, karın yüzünden ulaşımın engellendiği anlamına gelir.",
+  "note": ""
+ }
+]

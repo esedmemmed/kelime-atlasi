@@ -1,0 +1,261 @@
+[
+ {
+  "id": "occident",
+  "senses": [
+   "Batı; Batı dünyası"
+  ],
+  "ex": [
+   "Bu eski atlas, Batı dünyasını çok ayrıntılı biçimde anlatıyor.",
+   "Tarihsel anlatımlar çoğu zaman Doğu ile Batı'yı karşılaştırırdı; oysa her iki bölgenin de kendi içinde büyük çeşitlilik vardı."
+  ],
+  "col": [
+   "Batı dünyası",
+   "Doğu ve Batı"
+  ],
+  "tip": "Eskimiş bir sözcük; günümüzde genellikle the West kullanılır. Büyük harfle ve başında the ile yazılır.",
+  "note": ""
+ },
+ {
+  "id": "pursuant",
+  "senses": [
+   "uyarınca; göre"
+  ],
+  "ex": [
+   "Anlaşmamız uyarınca depozitonuz iade edilecek.",
+   "Çevre yönetmeliklerine göre fabrikalar atık suyu yerel nehirlere bırakmadan önce arıtmak zorundadır."
+  ],
+  "col": [
+   "bir anlaşma uyarınca",
+   "yönetmeliklere göre"
+  ],
+  "tip": "Neredeyse her zaman pursuant to kalıbında kullanılır; resmi metinlerde görülür, günlük konuşmada nadirdir.",
+  "note": ""
+ },
+ {
+  "id": "distend",
+  "senses": [
+   "şişmek; şişirmek"
+  ],
+  "ex": [
+   "Aşırı gaz, yemeklerden sonra midenizi şişirebilir.",
+   "Sindirim sırasında fazla gaz karnı şişirebilir; bu da günlük aktiviteleri etkileyebilecek bir rahatsızlığa yol açabilir."
+  ],
+  "col": [
+   "şişkin karın",
+   "şişkin mide",
+   "gazdan şişmiş"
+  ],
+  "tip": "Tıbbi bağlamda sık kullanılır; içeriden gelen basınçla şişme anlamı taşır. Günlük dilde swell daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "catholic",
+  "senses": [
+   "geniş görüşlü; çok yönlü",
+   "Katolik",
+   "Katolik; Katolik inananı"
+  ],
+  "ex": [
+   "Geniş zevkleri arasında caz, seramik, doğa yürüyüşü ve opera var.",
+   "Okumaya geniş bir bakış açısıyla yaklaşmak, öğrencileri edebiyat, bilim ve tarihte farklı görüşlerle tanıştırır."
+  ],
+  "col": [
+   "geniş zevkler",
+   "Katolik Kilisesi",
+   "dindar bir Katolik"
+  ],
+  "tip": "Küçük harfle yazılırsa 'geniş görüşlü' anlamına gelir; mezhep ya da inanan anlamında mutlaka büyük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "misconceive",
+  "senses": [
+   "yanlış anlamak"
+  ],
+  "ex": [
+   "Sessizliğini onay işareti sanarak yanlış anladım.",
+   "Yerel halkın görüşünü almadan değişiklik yapan politikacılar, yerel ihtiyaçları yanlış anlayabilir."
+  ],
+  "col": [
+   "niyetlerini yanlış anlamak",
+   "amacı yanlış anlamak"
+  ],
+  "tip": "Resmi ve biraz akademik bir sözcük; günlük konuşmada misunderstand tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "slay",
+  "senses": [
+   "öldürmek"
+  ],
+  "ex": [
+   "Eski masalda bir şövalye ejderhayı öldürür.",
+   "Geleneksel efsaneler, toplulukları tehlikeden korumak için canavarları öldüren kahramanları över."
+  ],
+  "col": [
+   "ejderha öldürmek",
+   "canavar öldürmek"
+  ],
+  "tip": "Düzensiz fiil: slay – slew – slain. Edebiyat ve haberlerde görülür; günlük dilde kill kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cosset",
+  "senses": [
+   "şımartmak; aşırı ilgi göstermek"
+  ],
+  "ex": [
+   "Yaşlı köpeklerini battaniyelerle ve ikramlarla şımartıyorlar.",
+   "Çocuklarını aşırı koruyan ebeveynler, farkında olmadan onların bağımsızlık kazanmasını ve günlük zorluklarla başa çıkmasını kısıtlayabilir."
+  ],
+  "col": [
+   "çocuğu şımartmak",
+   "şımartılarak büyütülmüş",
+   "özel ağırlanan konuklar"
+  ],
+  "tip": "Geçişli fiil; genellikle aşırı ilgi ve koruma anlamı taşır, her zaman olumlu değildir. Sıfat olarak cosseted kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "libertarian",
+  "senses": [
+   "özgürlükçü; liberter",
+   "özgürlükçü; liberter"
+  ],
+  "ex": [
+   "Komşum, kişisel tercihe değer veren bir liberter.",
+   "Ekonomi politikasına liberter yaklaşım genellikle devlet müdahalesinin azaltılmasını ve bireysel seçimin genişletilmesini savunur."
+  ],
+  "col": [
+   "liberter görüşler",
+   "liberter ilkeler",
+   "liberter yaklaşım"
+  ],
+  "tip": "Bireysel özgürlüğü ve az devlet müdahalesini savunur; liberal ile karıştırılmamalı, iki sözcüğün anlamı farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "septic",
+  "senses": [
+   "enfekte; septik"
+  ],
+  "ex": [
+   "Hemşire enfekte yarayı temizledi ve pansumanı değiştirdi.",
+   "Bakteriyel enfeksiyonların erken tedavisi, septik şok riskini azaltabilir ve hasta sonuçlarını iyileştirebilir."
+  ],
+  "col": [
+   "enfekte yara",
+   "septik şok",
+   "septik tank"
+  ],
+  "tip": "septic tank 'septik tank' anlamına gelir; septic tek başına enfeksiyona bağlı bir sıfattır, isim olarak kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "recompense",
+  "senses": [
+   "tazminat; karşılık",
+   "tazmin etmek; karşılığını vermek"
+  ],
+  "ex": [
+   "Dükkân, yaşanan rahatsızlığın karşılığı olarak para iadesi sundu.",
+   "Çalışanlar ek görevleri için adil bir ücret almalı; ücretsiz fazla mesai yapmaları beklenmemeli."
+  ],
+  "col": [
+   "adil karşılık",
+   "bir şey için karşılık",
+   "birine bir şey için tazmin etmek"
+  ],
+  "tip": "Resmi bir sözcük; fiil kalıbı recompense someone for something şeklindedir. Günlük dilde compensate daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "zealous",
+  "senses": [
+   "hevesli; gayretli"
+  ],
+  "ex": [
+   "Hevesli bir gönüllü, öğle yemeğinden önce tüm plajı temizledi.",
+   "Hevesli kampanyacılar kamuoyu farkındalığını artırabilir; ancak kalıcı çevresel ilerleme etkili devlet politikaları gerektirir."
+  ],
+  "col": [
+   "hevesli bir destekçi",
+   "çabalarında gayretli",
+   "aşırı hevesli"
+  ],
+  "tip": "enthusiastic'ten daha güçlü bir anlam taşır; bazen aşırıya kaçan bir tutkuyu da ima eder. Sıfat olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "murmur",
+  "senses": [
+   "mırıldanmak; fısıldamak",
+   "mırıltı; hafif uğultu",
+   "homurtu; söylenme"
+  ],
+  "ex": [
+   "Sessizce teşekkür edip gülümsedi.",
+   "Önerilen kütüphane kapatmaları duyurulunca seyircilerin arasında bir endişe mırıltısı yayıldı."
+  ],
+  "col": [
+   "alçak sesle mırıldanmak",
+   "onay mırıltısı",
+   "itiraz etmeden"
+  ],
+  "tip": "Alçak ve yumuşak sesle konuşmayı anlatır; mutter ise çoğunlukla hoşnutsuzluk ya da anlaşılmaz konuşmayla ilgilidir.",
+  "note": ""
+ },
+ {
+  "id": "rectification",
+  "senses": [
+   "düzeltme; onarım",
+   "doğrultma"
+  ],
+  "ex": [
+   "Müteahhit, arızalı kablolamanın hızla düzeltileceğine söz verdi.",
+   "Bağımsız denetimler, binalar halka açılmadan önce yapısal kusurların erken tespit edilip düzeltilmesini sağlar."
+  ],
+  "col": [
+   "hataların düzeltilmesi",
+   "düzeltme çalışması",
+   "yarım dalga doğrultma"
+  ],
+  "tip": "Resmi ve teknik bir isim; günlük dilde correction daha yaygındır. İkinci anlamı elektrik mühendisliğinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "therewith",
+  "senses": [
+   "onunla birlikte; bununla",
+   "bunun ardından; hemen"
+  ],
+  "ex": [
+   "Ona paketi ve bir kurdeleyi de verdi.",
+   "Başvuru sahipleri, komite talebi değerlendirmeden önce tamamlanmış formu ve tüm destekleyici belgeleri birlikte sunmalıdır."
+  ],
+  "col": [
+   "bununla birlikte sunulan belgeler",
+   "bununla ilgili masraflar"
+  ],
+  "tip": "Eski veya hukuki bir sözcük; günlük dilde with it ya da along with it kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shamble",
+  "senses": [
+   "ayaklarını sürüyerek yürümek",
+   "ayaklarını sürüyerek yürüyüş"
+  ],
+  "ex": [
+   "Hâlâ yarı uykulu, mutfağa doğru ayaklarını sürüyerek girdi.",
+   "Saatlerce fiziksel iş yaptıktan sonra yorgun işçiler, hızlı yürümek yerine eve ağır ağır sürünerek dönebilir."
+  ],
+  "col": [
+   "ağır ağır yürümek",
+   "içeri sürüklenerek girmek",
+   "karşıya ağır ağır geçmek"
+  ],
+  "tip": "Ayakların sürüklenerek ağır ağır yürümesini anlatır; dengesizlik anlamı zorunlu değildir.",
+  "note": ""
+ }
+]

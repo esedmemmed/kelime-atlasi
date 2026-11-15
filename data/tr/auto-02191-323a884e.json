@@ -1,0 +1,277 @@
+[
+ {
+  "id": "current",
+  "senses": [
+   "şimdiki; güncel",
+   "akıntı; akım"
+  ],
+  "ex": [
+   "Şu anki dairem işime çok daha yakın.",
+   "Şehirler konut ve ulaşım konusunda artan baskıyla karşı karşıyayken mevcut politikaların gözden geçirilmesi gerekebilir."
+  ],
+  "col": [
+   "mevcut durum",
+   "güncel olaylar",
+   "güçlü bir akıntı",
+   "elektrik akımı"
+  ],
+  "tip": "Sıfat olarak 'şimdiki, güncel'; isim olarak 'akıntı' veya 'akım' anlamına gelir. Bu iki kullanımı ayırt etmek önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "shocked",
+  "senses": [
+   "şoke olmuş; şaşkın",
+   "öfkeli; tiksinmiş"
+  ],
+  "ex": [
+   "Mutfağın su altında kaldığını görünce çok şaşırdım.",
+   "Sakinler, kırsal topluluklarına hizmet veren tek hastanenin aniden kapatılması karşısında şoke oldu."
+  ],
+  "col": [
+   "derinden şoke olmuş",
+   "haberden şoke olmuş",
+   "duyunca şaşkına dönmüş"
+  ],
+  "tip": "shocked insanın duygusunu anlatır; shocking ise şoke edici olan şeyi anlatır. 'I am shocking' yerine 'I am shocked' demelisiniz.",
+  "note": ""
+ },
+ {
+  "id": "exhausted",
+  "senses": [
+   "bitkin; yorgun",
+   "tükenmiş"
+  ],
+  "ex": [
+   "Kutuları üst kata taşıdıktan sonra kendimi tamamen bitkin hissettim.",
+   "Sürekli bitkin olan çalışanlar konsantre olmakta zorlanabilir ve bu da işte hata riskini artırabilir."
+  ],
+  "col": [
+   "bitkin hissetmek",
+   "fiziksel olarak bitkin",
+   "zihinsel olarak bitkin",
+   "tükenmiş kaynaklar"
+  ],
+  "tip": "İnsanın yorgunluğunu anlatmak için exhausted; bir şeyin yorucu olduğunu anlatmak için exhausting kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "enjoyment",
+  "senses": [
+   "zevk; keyif"
+  ],
+  "ex": [
+   "Büyükbabam kuşları beslemekten büyük zevk alıyor.",
+   "Okullar, yalnızca sınav performansına odaklanmak yerine keyif için okumayı teşvik etmeli."
+  ],
+  "col": [
+   "...den zevk almak",
+   "keyif için",
+   "saf keyif"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. 'Get enjoyment from' kalıbıyla bir şeyden zevk alındığı ifade edilir.",
+  "note": ""
+ },
+ {
+  "id": "belief",
+  "senses": [
+   "güven; inanç",
+   "inanç; öğreti"
+  ],
+  "ex": [
+   "Bana olan inancın tekrar denememe yardımcı oldu.",
+   "Eğitimin toplumsal hareketliliği artırdığı yönündeki inanç, birçok ülkede hükümetlerin harcama önceliklerini etkiliyor."
+  ],
+  "col": [
+   "birine duyulan güven",
+   "dini inançlar",
+   "yaygın kabul gören bir inanç",
+   "yaygın inancın aksine"
+  ],
+  "tip": "belief in birine ya da bir şeye duyulan güveni veya inancı anlatır; belief that ise somut bir düşünceyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "explode",
+  "senses": [
+   "patlamak; patlatmak",
+   "hızla artmak",
+   "öfkeyle patlamak"
+  ],
+  "ex": [
+   "Gölün üzerinde renkli havai fişeklerin patlayışını izledik.",
+   "Daha fazla yetişkin esnek fırsatlarla yeni beceriler geliştirmek istedikçe çevrimiçi kurslara olan talep hızla arttı."
+  ],
+  "col": [
+   "alev alarak patlamak",
+   "öfkeyle patlamak",
+   "talep hızla artmak",
+   "havai fişek patlamak"
+  ],
+  "tip": "Patlayan şey özne olduğunda genellikle etken yapı kullanılır; 'explode' fiili edilgen yapıya ihtiyaç duymadan kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "community",
+  "senses": [
+   "topluluk; mahalle",
+   "topluluk; grup"
+  ],
+  "ex": [
+   "Topluluğumuz her bahar parkı temizlemek için bir araya geliyor.",
+   "Halk kütüphaneleri, ücretsiz öğrenme alanları ve sosyal etkileşim fırsatları sunarak yerel topluluğu güçlendirir."
+  ],
+  "col": [
+   "yerel topluluk",
+   "toplum merkezi",
+   "bilim dünyası",
+   "topluluk duygusu"
+  ],
+  "tip": "Hem aynı bölgede yaşayan insanları hem de ortak ilgi alanı veya geçmişi paylaşan grupları anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "intention",
+  "senses": [
+   "niyet; amaç"
+  ],
+  "ex": [
+   "Bu kadar geç saatte dışarıda kalmak gibi bir niyetim yoktu.",
+   "Hükümet, trafik sıkışıklığını azaltmak amacıyla toplu taşımayı genişletme niyetini açıkladı."
+  ],
+  "col": [
+   "niyeti olmamak",
+   "...amacıyla",
+   "niyetini açıklamak",
+   "iyi niyet"
+  ],
+  "tip": "intention to do (yapma niyeti) veya intention of doing kalıplarıyla kullanılır. İkisi arasında anlam farkı yoktur.",
+  "note": ""
+ },
+ {
+  "id": "strict",
+  "senses": [
+   "katı; sıkı",
+   "kesin; dar anlamlı"
+  ],
+  "ex": [
+   "Koçumuz zamanında gelmek konusunda çok katı.",
+   "Sıkı çevre düzenlemeleri, üreticileri daha temiz teknolojileri benimsemeye ve zararlı endüstriyel emisyonları azaltmaya teşvik edebilir."
+  ],
+  "col": [
+   "katı kurallar",
+   "dakiklik konusunda katı",
+   "çocuklara karşı sert",
+   "dar anlamıyla"
+  ],
+  "tip": "İnsana karşı katılığı anlatırken with, bir konuda titiz olmayı anlatırken about kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "frightening",
+  "senses": [
+   "korkutucu; ürkütücü"
+  ],
+  "ex": [
+   "Ani gök gürültüsü korkutucuydu, ama köpeğimiz sakin kaldı.",
+   "Büyük bir sel yaşamak, özellikle daha önce doğal afet görmemiş çocuklar için korkutucu olabilir."
+  ],
+  "col": [
+   "korkutucu bir deneyim",
+   "korkutucu bir düşünce",
+   "korkutucu bir olasılık"
+  ],
+  "tip": "frightening şeyin korkutucu olduğunu anlatır; frightened ise insanın korktuğunu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "northern",
+  "senses": [
+   "kuzeydeki; kuzey"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam sessiz bir kuzey köyünde yaşıyor.",
+   "Kuzey bölgeleri genellikle daha yüksek ısıtma maliyetleriyle karşılaşır, bu yüzden enerji verimliliği yerel haneler için özellikle önemlidir."
+  ],
+  "col": [
+   "kuzey bölgeleri",
+   "kuzey yarımküre",
+   "kuzey kıyısı"
+  ],
+  "tip": "Sıfat olarak genellikle region veya coast gibi isimlerden önce gelir. 'North' ise isim ya da zarf olarak da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "unless",
+  "senses": [
+   "-medikçe; -mezse"
+  ],
+  "ex": [
+   "Yağmur yağmaya başlamazsa dışarıda yemek yiyeceğiz.",
+   "Yerel yönetimler güvenilirliğini artırıp ücretleri daha uygun hale getirmedikçe toplu taşıma popüler olmaya devam etmeyecek."
+  ],
+  "col": [
+   "aksi belirtilmedikçe",
+   "kesinlikle gerekmedikçe",
+   "koşullar değişmedikçe"
+  ],
+  "tip": "Gelecekle ilgili koşul cümlelerinde unless'ten sonra fiil gelecek zamanda değil, şimdiki zamanda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "precious",
+  "senses": [
+   "değerli; kıymetli",
+   "pek sevilen; kıymetli"
+  ],
+  "ex": [
+   "Değerli kolyesini kadife bir kutuda saklıyor.",
+   "Tatlı su, nüfus arttıkça ve sıcaklıklar yükseldikçe dikkatli yönetim gerektiren değerli bir kaynaktır."
+  ],
+  "col": [
+   "değerli madenler",
+   "değerli taşlar",
+   "değerli anılar",
+   "değerli kaynaklar"
+  ],
+  "tip": "Hem parasal değeri yüksek hem de duygusal olarak kıymetli şeyleri anlatabilir. Sıfat olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "produce",
+  "senses": [
+   "üretmek; yaratmak",
+   "yol açmak; sonuç vermek",
+   "tarım ürünü; sebze meyve"
+  ],
+  "ex": [
+   "Bahçemiz tüm aile için yeterli domates üretiyor.",
+   "Yenilenebilir enerjiye yatırım yapmak, hem yerel topluluklar hem de çevre için uzun vadeli faydalar sağlayabilir."
+  ],
+  "col": [
+   "elektrik üretmek",
+   "sonuç vermek",
+   "taze tarım ürünleri"
+  ],
+  "tip": "Fiilde vurgu sonda, isimde vurgu başta gelir. İsim olarak 'tarım ürünü' anlamında sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "economic",
+  "senses": [
+   "ekonomik; ekonomiyle ilgili"
+  ],
+  "ex": [
+   "Haber, yerel dükkanları etkileyen ekonomik sorunları ele aldı.",
+   "Toplu taşımaya yapılan yatırım, işçileri daha geniş bir iş yelpazesine bağlayarak ekonomik büyümeyi destekleyebilir."
+  ],
+  "col": [
+   "ekonomik büyüme",
+   "ekonomik kalkınma",
+   "ekonomi politikası",
+   "ekonomik durgunluk"
+  ],
+  "tip": "economic 'ekonomiyle ilgili' anlamına gelir; economical ise 'tasarruflu, ekonomik' anlamında kullanılır. İkisini karıştırmayın.",
+  "note": ""
+ }
+]

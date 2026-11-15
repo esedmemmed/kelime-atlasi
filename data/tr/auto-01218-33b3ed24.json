@@ -1,0 +1,274 @@
+[
+ {
+  "id": "feed",
+  "senses": [
+   "beslemek; yem vermek",
+   "yem",
+   "içerik akışı"
+  ],
+  "ex": [
+   "Ayrılmadan önce lütfen kediyi besle.",
+   "Okul yemek programları, aileleri düzenli olarak besleyici gıda alamayan çocukların beslenmesine yardımcı oluyor."
+  ],
+  "col": [
+   "hayvanları beslemek",
+   "böceklerle beslenmek",
+   "hayvan yemi",
+   "haber akışı"
+  ],
+  "tip": "Düzensiz fiil: feed–fed–fed. Geçmiş zamanda \"feeded\" demek yanlıştır. feed on, \"ile beslenmek\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "pancake",
+  "senses": [
+   "krep; pankek"
+  ],
+  "ex": [
+   "Krepi çevirdi ve bal almak için uzandı.",
+   "Yemek derslerinde pankek hazırlamak, öğrencilerin malzemeleri ölçmesini ve mutfak ekipmanlarını güvenle kullanmasını sağlar."
+  ],
+  "col": [
+   "pankek hamuru",
+   "pankeği çevirmek",
+   "bir yığın pankek"
+  ],
+  "tip": "İngiliz kullanımında pancake genelde ince ve yassıdır; Amerikan kullanımında daha kalın ve kabarıktır.",
+  "note": ""
+ },
+ {
+  "id": "except",
+  "senses": [
+   "dışında; hariç",
+   "ancak; bunun dışında"
+  ],
+  "ex": [
+   "Kardeşim dışında herkes eve yürümek istedi.",
+   "Önerilen ulaşım politikası, uzak kırsal topluluklarda yaşayanlar dışında çoğu sakine fayda sağlıyor."
+  ],
+  "col": [
+   "...dışında",
+   "...dışında; ancak",
+   "...hariç herkes"
+  ],
+  "tip": "except \"hariç\" anlamında dışlama bildirir; besides ise \"bunlara ek olarak\" anlamında kullanılır. İkisini karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "still",
+  "senses": [
+   "hâlâ; hâlen",
+   "hareketsiz; durgun",
+   "yine de; yine"
+  ],
+  "ex": [
+   "Neredeyse gece yarısı ama kız kardeşim hâlâ uyanık.",
+   "Toplu taşımadaki iyileşmelere rağmen hizmetler kırsalda güvenilmez olmaya devam ettiği için birçok yolcu hâlâ özel araçlara bağımlı."
+  ],
+  "col": [
+   "hâlâ bekliyor",
+   "hareketsiz durmak",
+   "kıpırdamadan durmak",
+   "durgun su"
+  ],
+  "tip": "Olumlu cümlede still çoğunlukla be fiilinden sonra, diğer fiillerden önce gelir: I still live here.",
+  "note": ""
+ },
+ {
+  "id": "fresh",
+  "senses": [
+   "taze",
+   "temiz; serin",
+   "yeni; farklı"
+  ],
+  "ex": [
+   "Bu sabah pazardan taze çilek aldım.",
+   "Düşük gelirli kentsel topluluklarda beslenmeyi iyileştirmek için taze meyve ve sebzelere erişim şarttır."
+  ],
+  "col": [
+   "taze ürün",
+   "temiz hava",
+   "yeni bir başlangıç",
+   "tatlı su"
+  ],
+  "tip": "fresh water \"tatlı su\", fresh air ise \"temiz hava\" demektir. \"Taze su\" diye çevirmek anlam karışıklığı yaratabilir.",
+  "note": ""
+ },
+ {
+  "id": "comma",
+  "senses": [
+   "virgül"
+  ],
+  "ex": [
+   "Cümleyi daha anlaşılır yapmak için bir virgül ekledim.",
+   "Yanlış yerleştirilmiş bir virgül cümlenin anlamını değiştirebilir ve akademik metinleri okuyanları şaşırtabilir."
+  ],
+  "col": [
+   "virgül eklemek",
+   "yanlış yerleştirilmiş virgül",
+   "öğeleri virgülle ayırmak"
+  ],
+  "tip": "Nokta için İngilizcede full stop (İngiliz) veya period (Amerikan) kullanılır; comma yalnızca virgüldür.",
+  "note": ""
+ },
+ {
+  "id": "destroy",
+  "senses": [
+   "yıkmak; yok etmek",
+   "tamamen yok etmek; mahvetmek"
+  ],
+  "ex": [
+   "Ani bir fırtına evimizin arkasındaki eski kulübeyi yıktı.",
+   "Kontrolsüz kentleşme doğal yaşam alanlarını yok edebilir ve bunlara bağımlı türlerin hayatta kalmasını tehdit edebilir."
+  ],
+  "col": [
+   "yaşam alanlarını yok etmek",
+   "kanıtları yok etmek",
+   "güveni yok etmek",
+   "tamamen yok etmek"
+  ],
+  "tip": "destroy, damage'den daha güçlüdür ve genellikle tamamen yok etmek anlamına gelir. Hafif zarar için damage kullan.",
+  "note": ""
+ },
+ {
+  "id": "professor",
+  "senses": [
+   "profesör"
+  ],
+  "ex": [
+   "Profesörümüz bugün derse antik madeni paralar getirdi.",
+   "Profesör, öğrencileri iklim politikası hakkında sonuca varmadan önce farklı kaynakları değerlendirmeye teşvik etti."
+  ],
+  "col": [
+   "üniversite profesörü",
+   "ekonomi profesörü",
+   "konuk profesör"
+  ],
+  "tip": "İngiliz kullanımında professor genellikle üst düzey akademik unvandır; Amerikan kullanımında ise üniversite öğretim üyesi için daha geniş kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "headphone",
+  "senses": [
+   "kulaklık"
+  ],
+  "ex": [
+   "Müziğim kimseyi rahatsız etmesin diye kulaklık takıyorum.",
+   "Ortak çalışma alanlarında kulaklık kullanan öğrenciler işitmelerini korumak için sesi düşük tutmalı."
+  ],
+  "col": [
+   "bir çift kulaklık",
+   "kablosuz kulaklık",
+   "kulaklık jakı"
+  ],
+  "tip": "Günlük dilde kulaklık için genellikle çoğul headphones kullanılır. Tek kulaklık için earbud veya earphone da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "cotton",
+  "senses": [
+   "pamuk",
+   "pamuklu kumaş; iplik"
+  ],
+  "ex": [
+   "Bu pamuklu gömlek birçok yıkamadan sonra bile yumuşak hissettiriyor.",
+   "Pamuk üretimi, özellikle yağışın az olduğu bölgelerde su kaynakları üzerinde ciddi bir baskı oluşturabilir."
+  ],
+  "col": [
+   "organik pamuk",
+   "pamuklu kumaş",
+   "hidrofil pamuk",
+   "pamuk endüstrisi"
+  ],
+  "tip": "Genellikle kitle isim gibi kullanılır, \"a cotton\" denmez. cotton shirt gibi kullanımlarda isim sıfat gibi davranır.",
+  "note": ""
+ },
+ {
+  "id": "relationship",
+  "senses": [
+   "ilişki",
+   "bağlantı; bağ"
+  ],
+  "ex": [
+   "Küçük kız kardeşiyle sıcak bir ilişkisi var.",
+   "Araştırmacılar, kentsel topluluklarda yeşil alanlara erişim ile ruh sağlığı arasındaki bağlantıyı inceliyor."
+  ],
+  "col": [
+   "ilişki kurmak",
+   "yakın bir ilişki",
+   "A ile B arasındaki ilişki"
+  ],
+  "tip": "Biriyle ilişki için with, iki şey arasındaki ilişki için between kullanılır: relationship with / between.",
+  "note": ""
+ },
+ {
+  "id": "plus",
+  "senses": [
+   "artı; ile birlikte",
+   "artı; avantaj",
+   "sıfır üstü; pozitif"
+  ],
+  "ex": [
+   "Oda, her gece kahvaltı ücretiyle birlikte altmış sterline mal oluyor.",
+   "Uygun fiyatlı konut ve güvenilir toplu taşıma, genişleyen şehirleri orta gelirli çalışanlar için daha erişilebilir kılabilir."
+  ],
+  "col": [
+   "vergiyle birlikte",
+   "büyük bir avantaj",
+   "sıfırın on derece üstü"
+  ],
+  "tip": "Avantaj anlamında plus sayılabilir isimdir: a big plus. Resmi yazıda plus yerine in addition to da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "jazz",
+  "senses": [
+   "caz"
+  ],
+  "ex": [
+   "Birlikte akşam yemeği hazırlarken caz dinledik.",
+   "Topluluk caz festivalleri ziyaretçileri çekerken yerel müzisyenlere sahne alma fırsatı da sunabilir."
+  ],
+  "col": [
+   "caz grubu",
+   "caz festivali",
+   "caz müzisyeni"
+  ],
+  "tip": "Müzik türü olarak jazz sayılamaz ve başına a/the getirilmez: I like jazz.",
+  "note": ""
+ },
+ {
+  "id": "kilogramme",
+  "senses": [
+   "kilogram"
+  ],
+  "ex": [
+   "Pazardan bir kilogram elma aldık.",
+   "Bir kilogram sığır eti üretmek, aynı ağırlıkta sebze üretmekten genellikle daha fazla su gerektirir."
+  ],
+  "col": [
+   "bir kilogram pirinç",
+   "yarım kilogram",
+   "kilogram başına"
+  ],
+  "tip": "kilogramme İngiliz yazımıdır; kilogram daha yaygındır. Sembol kg'dir ve sayıdan sonra çoğul eki almaz: 5 kg.",
+  "note": ""
+ },
+ {
+  "id": "onion",
+  "senses": [
+   "soğan"
+  ],
+  "ex": [
+   "Bu soğanı doğramak yine gözlerimi yaşartıyor.",
+   "Soğan ve diğer sebzeleri yerel olarak yetiştirmek tedarik zincirlerini kısaltabilir ve topluluklara daha taze ürün sağlayabilir."
+  ],
+  "col": [
+   "soğan doğramak",
+   "soğan soymak",
+   "soğan halkaları"
+  ],
+  "tip": "Ünlü sesle başladığı için tekil kullanımda önüne an gelir: an onion. Sesle başlayan kelimede a değil an kullanılır.",
+  "note": ""
+ }
+]

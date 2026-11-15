@@ -1,0 +1,282 @@
+[
+ {
+  "id": "faint",
+  "senses": [
+   "silik; zayıf",
+   "baygın; bitkin",
+   "bayılmak"
+  ],
+  "ex": [
+   "Yatak odasının perdelerinden silik bir ışık süzülüyordu.",
+   "Astronomlar, çıplak gözle görülemeyen silik cisimleri tespit etmek için güçlü teleskoplar kullanır."
+  ],
+  "col": [
+   "silik ışık",
+   "hafif koku",
+   "baş dönmesi hissetmek",
+   "zayıf umut"
+  ],
+  "tip": "'feel faint' neredeyse bayılacak gibi hissetmek demektir; 'faint' fiili ise gerçekten bayılmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "insane",
+  "senses": [
+   "çılgınca; akıl dışı",
+   "akli dengesi bozuk"
+  ],
+  "ex": [
+   "O fırtınada yola çıkmak çılgınca bir risk olurdu.",
+   "Eleştirmenler, önerinin muazzam maliyetlerinin olası faydalarından ağır basacağı için akıl dışı olduğunu söyledi."
+  ],
+  "col": [
+   "çılgınca bir fikir",
+   "akıl dışı bir risk",
+   "birini delirtmek"
+  ],
+  "tip": "Gündelik dilde 'çok' ya da 'aşırı' anlamında kullanılır. Zihinsel hastalık için kullanımı eskidi ve incitici olabilir.",
+  "note": "Zihinsel hastalığı olan kişileri tarif etmek için kullanımı incitici olabilir; kaçının."
+ },
+ {
+  "id": "expense",
+  "senses": [
+   "masraf; gider",
+   "bedel; zarar"
+  ],
+  "ex": [
+   "Kira her ay en büyük giderimiz.",
+   "Şehirler, toplu taşımayı iyileştirirken tüm maliyeti zaten mali zorluk yaşayan sakinlere yüklememeli."
+  ],
+  "col": [
+   "yaşam giderleri",
+   "masrafı karşılamak",
+   "pahasına",
+   "masrafa girmekten çekinmemek"
+  ],
+  "tip": "Günlük harcamalar için genellikle çoğul 'expenses' kullanılır. 'Expensive' ise 'pahalı' anlamına gelen sıfattır, karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "numerical",
+  "senses": [
+   "sayısal"
+  ],
+  "ex": [
+   "Lütfen bu çekiliş biletlerini sayısal sıraya göre dizin.",
+   "Araştırmacıların, toplu taşıma yatırımlarının trafik sıkışıklığını azaltıp azaltmadığını değerlendirmek için güvenilir sayısal verilere ihtiyacı var."
+  ],
+  "col": [
+   "sayısal veri",
+   "sayısal sıra",
+   "sayısal değer",
+   "sayısal analiz"
+  ],
+  "tip": "'Numerical' sayılarla ilgili demektir; 'numerous' ise 'çok sayıda' anlamına gelir. İkisi farklı kelimelerdir.",
+  "note": ""
+ },
+ {
+  "id": "determination",
+  "senses": [
+   "kararlılık; azim",
+   "tespit; saptama; karar"
+  ],
+  "ex": [
+   "Yağmura rağmen yarışı azimle bitirdi.",
+   "Kararlılık gösteren öğrenciler, akademik başarısızlıkları aşmakta ve hedeflerine ulaşmakta genellikle daha başarılıdır."
+  ],
+  "col": [
+   "salt azim",
+   "başarma kararlılığı",
+   "uygunluğun belirlenmesi"
+  ],
+  "tip": "Kararlılık anlamında genellikle 'determination to + fiil' kalıbı kullanılır; belirleme anlamında ise 'of' ile gelir.",
+  "note": ""
+ },
+ {
+  "id": "pathetic",
+  "senses": [
+   "berbat; acınacak kötü",
+   "acıklı; zavallı"
+  ],
+  "ex": [
+   "Bozuk duştan yalnızca acınacak bir damla su akıyordu.",
+   "Sakinler, belediyenin tekrarlayan sellere verdiği yanıtı berbat bulup daha iyi drenaj için acil yatırım talep etti."
+  ],
+  "col": [
+   "acınası bir bahane",
+   "beceriksiz bir girişim",
+   "acınacak bir manzara"
+  ],
+  "tip": "Genellikle güçlü bir olumsuzluk taşır. İnsanları gelişigüzel küçümsemek için kullanmak kaba olabilir.",
+  "note": ""
+ },
+ {
+  "id": "situated",
+  "senses": [
+   "bulunan; yer alan",
+   "belli koşullarda olan"
+  ],
+  "ex": [
+   "Otelimiz sessiz bir dağ gölünün kıyısında yer alıyor.",
+   "Yoğun yolların yakınında bulunan okullarda öğrencileri hava kirliliğinden korumak için ek önlemler gerekebilir."
+  ],
+  "col": [
+   "elverişli konumda",
+   "merkezi bir yerde",
+   "yakınında bulunan"
+  ],
+  "tip": "Genellikle 'be situated in/near' kalıbıyla konumu anlatır. Resmi bir üslup taşır.",
+  "note": ""
+ },
+ {
+  "id": "lease",
+  "senses": [
+   "kira sözleşmesi",
+   "kiralamak; kiraya vermek"
+  ],
+  "ex": [
+   "Güneşli bir üst kat dairesi için kira sözleşmesi imzaladık.",
+   "Küçük işletmeler, ilk maliyetleri daha etkin yönetebilmek için ekipmanı çoğu zaman satın almak yerine kiralar."
+  ],
+  "col": [
+   "kira sözleşmesi imzalamak",
+   "kira sözleşmesini yenilemek",
+   "uzun vadeli kira sözleşmesi",
+   "ekipman kiralamak"
+  ],
+  "tip": "'Lease from' kiracı olarak kiralamak, 'lease to' ise kiraya vermek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "crawl",
+  "senses": [
+   "emekleyerek ilerlemek",
+   "sürünerek ilerlemek",
+   "kraul"
+  ],
+  "ex": [
+   "Bebek oyuncağına doğru halının üzerinde emekleyerek ilerledi.",
+   "Yoğun saatlerde trafik şehir merkezinde sürünerek ilerliyor; bu da yolculuk sürelerini ve araç emisyonlarını artırıyor."
+  ],
+  "col": [
+   "el ve dizler üzerinde sürünmek",
+   "yavaşça ilerlemek",
+   "iyice yavaşlamak",
+   "kraul"
+  ],
+  "tip": "Araçlar için 'crawl' çok yavaş ilerlemek demektir. Yüzmede ise 'front crawl' (kraul) denir.",
+  "note": ""
+ },
+ {
+  "id": "bankruptcy",
+  "senses": [
+   "iflas"
+  ],
+  "ex": [
+   "Küçük fırın, aylarca süren zararların ardından iflasla karşı karşıya kaldı.",
+   "Ekonomik belirsizlik dönemlerinde uygun fiyatlı kredilere erişim, küçük işletmelerin iflas etmesini önlemeye yardımcı olabilir."
+  ],
+  "col": [
+   "iflas başvurusunda bulunmak",
+   "iflasını ilan etmek",
+   "iflas tehlikesiyle karşı karşıya olmak",
+   "iflas koruması"
+  ],
+  "tip": "Genellikle sayılamaz. Birden çok iflas olayı için çoğul 'bankruptcies' kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "drowsy",
+  "senses": [
+   "uykulu; mahmur"
+  ],
+  "ex": [
+   "Sıcak oda öğle yemeğinden sonra beni uykulu yaptı.",
+   "Yorgunluk kaza riskini önemli ölçüde artırdığından, uykusu gelen sürücüler güvenli bir yerde durmalı."
+  ],
+  "col": [
+   "uykulu hissetmek",
+   "birini uykulu yapmak",
+   "uykulu sürüş"
+  ],
+  "tip": "Kişinin uykulu olduğunu anlatır. Bir ilaç ya da şeyin etkisi için 'make someone drowsy' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "intellectual",
+  "senses": [
+   "zihinsel; düşünsel",
+   "aydın; entelektüel"
+  ],
+  "ex": [
+   "Yeni bir dil öğrenmenin zihinsel zorluğundan keyif alıyor.",
+   "Okullar, öğrencileri varsayımlarını sorgulamaya ve kanıtları değerlendirmeye teşvik eden etkinliklerle zihinsel gelişimi desteklemelidir."
+  ],
+  "col": [
+   "zihinsel gelişim",
+   "zihinsel meydan okuma",
+   "fikri mülkiyet",
+   "entelektüel merak"
+  ],
+  "tip": "'Intellectual' düşünme ve akıl yürütme etkinliğini anlatır; 'intelligent' ise zekâyı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "rating",
+  "senses": [
+   "değerlendirme; puan",
+   "reyting; izlenme oranı",
+   "azami değer; kapasite"
+  ],
+  "ex": [
+   "Otel, dostane hizmeti sayesinde yüksek bir puan aldı.",
+   "Açık bir enerji sınıfı etiketi, tüketicilerin ev aletlerini karşılaştırmasına ve daha düşük işletme maliyetli modelleri seçmesine yardımcı olur."
+  ],
+  "col": [
+   "yüksek puan",
+   "enerji sınıfı",
+   "izleyici reytingleri",
+   "güç değeri"
+  ],
+  "tip": "Değerlendirme puanı için tekil, yayın izlenme oranı için çoğul 'ratings' kullanılır. 'Rate' fiilinin -ing hali de olabilir.",
+  "note": ""
+ },
+ {
+  "id": "deliberate",
+  "senses": [
+   "kasıtlı; bilerek yapılan",
+   "ağır başlı; temkinli",
+   "dikkatle düşünmek"
+  ],
+  "ex": [
+   "Telefonumu evde bırakmam bilinçli bir tercihti.",
+   "Yerel yönetimler, doğal yaşam alanlarına kalıcı zarar verebilecek projeleri onaylamadan önce dikkatle düşünmelidir."
+  ],
+  "col": [
+   "bilerek yapılan bir girişim",
+   "kasıtlı hasar",
+   "ağır ve temkinli hareketler",
+   "bir öneri üzerinde düşünmek"
+  ],
+  "tip": "Sıfat olarak sonu /ə/, fiil olarak /eɪt/ okunur. Telaffuz farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "climax",
+  "senses": [
+   "doruk; en heyecanlı an",
+   "doruğa ulaşmak"
+  ],
+  "ex": [
+   "Konser, tüm koro katıldığında doruğuna ulaştı.",
+   "Film, topluluk ormanı yok olmaktan korumak için birleştiğinde doruk noktasına ulaşıyor."
+  ],
+  "col": [
+   "doruğa ulaşmak",
+   "dramatik bir doruk",
+   "... ile doruğa çıkmak"
+  ],
+  "tip": "'Climactic' doruk noktasına ait anlamında sıfattır; 'climatic' (iklimsel) ile karıştırılmamalı.",
+  "note": ""
+ }
+]

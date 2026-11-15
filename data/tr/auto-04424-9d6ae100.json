@@ -1,0 +1,285 @@
+[
+ {
+  "id": "lick",
+  "senses": [
+   "yalamak",
+   "yalama; yalayış"
+  ],
+  "ex": [
+   "Köpek yavrusu elimi yaladı ve kuyruğunu salladı.",
+   "Ziyaretçiler, yakın temas enfeksiyon yayabileceği için vahşi hayvanların ellerini yalamasına izin vermemeli."
+  ],
+  "col": [
+   "dudaklarını yalamak",
+   "dondurmayı yalamak",
+   "bir kez yalamak"
+  ],
+  "tip": "lick yalamak anlamına gelir; ısırmak için bite, emmek için suck kullanılır. Bu fiilleri karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "sample",
+  "senses": [
+   "numune; örnek",
+   "numune almak; tatmak"
+  ],
+  "ex": [
+   "Fırıncı bize taze ekmekten bir numune ikram etti.",
+   "Araştırmacılar, bölgedeki enerji tüketimindeki değişimleri incelemek için temsili bir hane örneklemi topladı."
+  ],
+  "col": [
+   "temsili örneklem",
+   "kan örneği",
+   "ücretsiz numune",
+   "yerel yemekleri tatmak"
+  ],
+  "tip": "sample, bütünü temsil eden bir parçayı ifade eder; örnek vermek anlamındaki example ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "alternative",
+  "senses": [
+   "alternatif; seçenek",
+   "alternatif olan; başka",
+   "geleneksel olmayan"
+  ],
+  "ex": [
+   "Bisiklet, otobüse binmeye göre daha ucuz bir alternatiftir.",
+   "Hükümetler, fosil yakıtlara bağımlılığı azaltmak ve enerji güvenliğini artırmak için alternatif enerji kaynaklarına yatırım yapmalı."
+  ],
+  "col": [
+   "...e alternatif",
+   "alternatif enerji",
+   "uygulanabilir bir alternatif",
+   "başka çaresi olmamak"
+  ],
+  "tip": "alternative to kalıbıyla kullanılır. Sadece iki seçenek arasında değil, birden fazla seçenek için de geçerlidir.",
+  "note": ""
+ },
+ {
+  "id": "sweeten",
+  "senses": [
+   "tatlandırmak",
+   "cazip hale getirmek"
+  ],
+  "ex": [
+   "Lapamı biraz balla tatlandırıyorum.",
+   "İşverenler, rekabetçi sektörlerde nitelikli adayları çekmek için iş tekliflerini esnek çalışma saatleriyle cazipleştirebilir."
+  ],
+  "col": [
+   "balla tatlandırmak",
+   "anlaşmayı cazipleştirmek",
+   "teklifi cazip hale getirmek"
+  ],
+  "tip": "sweeten the deal kalıbı, anlaşmaya ek avantaj eklemek anlamına gelir; yalnızca tatlandırmakla ilgili değildir.",
+  "note": ""
+ },
+ {
+  "id": "fuse",
+  "senses": [
+   "sigorta; emniyet sigortası",
+   "kaynaşmak; birleşmek",
+   "fitil; kapsül"
+  ],
+  "ex": [
+   "Elektrikçi sigortayı değiştirdi ve ışıklar yandı.",
+   "Modern tasarım, geleneksel işçiliği dijital teknolojiyle birleştirerek daha sürdürülebilir tüketici ürünleri yaratıyor."
+  ],
+  "col": [
+   "sigortayı atmak",
+   "sigortayı değiştirmek",
+   "birbirine kaynaşmak",
+   "fitili ateşlemek"
+  ],
+  "tip": "blow a fuse deyimi, bir kişinin aniden öfkelenmesi anlamında da kullanılır. Gündelik konuşmada sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "trail",
+  "senses": [
+   "patika; yol",
+   "iz; izler",
+   "geride kalmak; sürüklenmek"
+  ],
+  "ex": [
+   "Çam ormanında dar bir patikayı takip ettik.",
+   "Yürüyüş patikalarının bakımı, hassas yaşam alanlarını korurken açık hava etkinliklerini teşvik edebilir."
+  ],
+  "col": [
+   "yürüyüş patikası",
+   "ayak izleri",
+   "geride kalmak"
+  ],
+  "tip": "İsim olarak patika ya da iz, fiil olarak geride kalmak ya da sürüklenmek anlamına gelir. Anlamı kullanıma göre değişir.",
+  "note": ""
+ },
+ {
+  "id": "budget",
+  "senses": [
+   "bütçe",
+   "bütçe yapmak; bütçelemek",
+   "ekonomik; uygun fiyatlı"
+  ],
+  "ex": [
+   "Hafta sonu gezimiz için küçük bir bütçemiz var.",
+   "Yerel yönetimler, toplu taşıma sistemlerinin bakımına bütçelerinden daha büyük bir pay ayırmalı."
+  ],
+  "col": [
+   "dar bir bütçe",
+   "bütçe dahilinde",
+   "giderler için bütçe ayırmak",
+   "ekonomik konaklama"
+  ],
+  "tip": "on a budget kalıbı bütçenin kısıtlı olduğunu anlatır. budget for ise belirli bir harcama için bütçe ayırmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "fundamental",
+  "senses": [
+   "temel; esaslı",
+   "temel ilke; esas"
+  ],
+  "ex": [
+   "Güven, birlikte mutlu bir hayat için temeldir.",
+   "Dezavantajlı topluluklarda halk sağlığını iyileştirmek için temiz içme suyuna erişim temel bir gerekliliktir."
+  ],
+  "col": [
+   "...için temel",
+   "temel bir ilke",
+   "köklü değişiklik",
+   "...nın temelleri"
+  ],
+  "tip": "İsim olarak genellikle çoğul fundamentals biçiminde kullanılır ve temel bilgiler ya da ilkeler anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "invalid",
+  "senses": [
+   "geçersiz",
+   "geçersiz; dayanaksız"
+  ],
+  "ex": [
+   "Biletim geçersizdi, bu yüzden bir tane daha aldım.",
+   "Küçük ve temsil gücü düşük bir örneklemden çıkarılan sonuçlar geçersiz olabilir ve büyük politika kararlarına yön vermemelidir."
+  ],
+  "col": [
+   "geçersiz bilet",
+   "dayanaksız argüman",
+   "geçersiz veri",
+   "geçersiz saymak"
+  ],
+  "tip": "Sıfat olarak geçersiz anlamındadır. İsim olarak 'hasta' anlamı eskidir, az kullanılır ve vurgu ilk heceye düşer.",
+  "note": ""
+ },
+ {
+  "id": "skincare",
+  "senses": [
+   "cilt bakımı; cilt bakımı"
+  ],
+  "ex": [
+   "Günlük cilt bakım rutinim, nazikçe yıkamayı ve nemlendirici sürmeyi içerir.",
+   "Halk sağlığı kampanyaları, düzenli güneş koruması ve tahriş edici ürünlerden kaçınma gibi sağlıklı cilt bakım alışkanlıklarını teşvik edebilir."
+  ],
+  "col": [
+   "cilt bakım rutini",
+   "cilt bakım ürünleri",
+   "günlük cilt bakımı"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Bazen iki kelime olarak skin care şeklinde de yazılır.",
+  "note": ""
+ },
+ {
+  "id": "weep",
+  "senses": [
+   "ağlamak"
+  ],
+  "ex": [
+   "Kayıp köpeği geri dönünce ağlamaya başladı.",
+   "Filmlerdeki duygusal sahneler izleyicileri ağlatırken zor koşullardaki insanlara karşı empatiyi artırabilir."
+  ],
+  "col": [
+   "sevinçten ağlamak",
+   "birisi için ağlamak",
+   "acı acı ağlamak"
+  ],
+  "tip": "Düzensiz fiildir: geçmiş zaman ve ortaç biçimi wept'tir. Cry'a göre daha resmi ve edebi bir kullanımdadır.",
+  "note": ""
+ },
+ {
+  "id": "eliminate",
+  "senses": [
+   "ortadan kaldırmak; yok etmek",
+   "elemek; eleyerek çıkarmak"
+  ],
+  "ex": [
+   "Bu su filtresi, musluk suyundaki hoş olmayan kokuları tamamen giderir.",
+   "İyileştirilmiş toplu taşıma, kentlilerin birçoğunun özel araba sahibi olma ihtiyacını ortadan kaldırabilir."
+  ],
+  "col": [
+   "...ihtiyacını ortadan kaldırmak",
+   "hataları gidermek",
+   "bir ihtimali elemek",
+   "yarışmadan elenmek"
+  ],
+  "tip": "reduce'dan daha kesin bir anlam taşır; bir şeyi tamamen ortadan kaldırmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "deadly",
+  "senses": [
+   "ölümcül; öldürücü",
+   "son derece; çok"
+  ],
+  "ex": [
+   "Bu güzel görünen mantarlar yenirse ölümcül olabilir.",
+   "Temiz içme suyuna erişimin iyileştirilmesi, sıhhi tesisatı yetersiz topluluklarda ölümcül hastalıkları önleyebilir."
+  ],
+  "col": [
+   "ölümcül hastalık",
+   "öldürücü zehir",
+   "son derece ciddi",
+   "son derece sıkıcı"
+  ],
+  "tip": "-ly ile bitse de çoğunlukla sıfattır. Zarf olarak 'son derece' anlamında da kullanılır; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "amateur",
+  "senses": [
+   "amatör",
+   "amatörce; amatör",
+   "acemi; çaylak"
+  ],
+  "ex": [
+   "Amatör olmasına rağmen kuşların çok güzel fotoğraflarını çeker.",
+   "Amatör spor kulüpleri, uygun fiyatlı fiziksel aktivite imkânı sunar ve yerel topluluklardaki ilişkileri güçlendirmeye yardımcı olur."
+  ],
+  "col": [
+   "amatör fotoğrafçı",
+   "amatör sporcu",
+   "amatör tiyatro",
+   "tam bir acemi"
+  ],
+  "tip": "Genellikle profesyonel olmama anlamındadır ve tek başına düşük beceri anlamı taşımaz. Beceri eksikliği için bağlam gerekir.",
+  "note": ""
+ },
+ {
+  "id": "grave",
+  "senses": [
+   "mezar",
+   "ciddi; ağır",
+   "ciddi; asık"
+  ],
+  "ex": [
+   "Büyükbabasının mezarının yanına taze çiçekler koydu.",
+   "Kıyı habitatlarının yok edilmesi, biyolojik çeşitlilik ve yerel toplulukların geçimi için ciddi bir tehdit oluşturmaktadır."
+  ],
+  "col": [
+   "mezarı ziyaret etmek",
+   "ciddi tehdit",
+   "ağır sonuçlar"
+  ],
+  "tip": "Sıfat olarak serious'tan daha resmidir ve çoğunlukla tehdit, sonuç gibi isimlerle birlikte kullanılır.",
+  "note": ""
+ }
+]

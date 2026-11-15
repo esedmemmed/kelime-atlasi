@@ -1,0 +1,275 @@
+[
+ {
+  "id": "descend",
+  "senses": [
+   "inmek; alçalmak"
+  ],
+  "ex": [
+   "Dar taş merdivenlerden serin bir bodrum katına indik.",
+   "Uçaklar kentsel havalimanlarına alçalırken çıkardıkları gürültü, yakındaki toplulukların yaşam kalitesini ciddi biçimde etkileyebilir."
+  ],
+  "col": [
+   "merdivenlerden inmek",
+   "bir vadiye inmek",
+   "…soyundan gelmek"
+  ],
+  "tip": "Merdiven gibi nesnelerle doğrudan kullanılır; \"soyundan gelmek\" anlamında be descended from kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "purchase",
+  "senses": [
+   "satın almak",
+   "satın alma; satın alınan şey"
+  ],
+  "ex": [
+   "Köşedeki bakkaldan taze ekmek satın alabilirsin.",
+   "Tüketiciler yeni ev aletlerini satın almadan önce onarım maliyetini ve enerji verimliliğini göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "mal satın almak",
+   "satın alma yapmak",
+   "satın alma fiyatı",
+   "satın alma kanıtı (fiş/fatura)"
+  ],
+  "tip": "Purchase, buy'a göre daha resmi bir üsluba sahiptir; isim olarak hem eylemi hem de satın alınan nesneyi ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "dispose",
+  "senses": [
+   "atmak; ortadan kaldırmak",
+   "yöneltmek; eğilim vermek"
+  ],
+  "ex": [
+   "Bu eski pilleri güvenli bir şekilde nereye atabilirim?",
+   "Yerel yönetimler, sakinlerin ev atıklarını sorumlu biçimde atabilmeleri için uygun tesisler sunmalıdır."
+  ],
+  "col": [
+   "atık atmak",
+   "istenmeyen eşyaları atmak",
+   "kabul etmeye meyilli olmak"
+  ],
+  "tip": "Bir şeyi atmak anlamında dispose of kalıbı kullanılır; dispose tek başına bu anlamda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "volume",
+  "senses": [
+   "hacim; toplam miktar",
+   "ses seviyesi; ses",
+   "cilt; kitap"
+  ],
+  "ex": [
+   "Bebek uyurken lütfen sesi kıs.",
+   "Artan ev atığı miktarı, kentsel alanlarda daha iyi geri dönüşüm tesislerine duyulan ihtiyacı açıkça ortaya koyuyor."
+  ],
+  "col": [
+   "yoğun trafik hacmi",
+   "sesi kısmak",
+   "hacmi hesaplamak",
+   "tamamlayıcı cilt"
+  ],
+  "tip": "Volume; hacim, toplam miktar ya da ses düzeyi anlamına gelebilir. Alan anlamında area kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "toss",
+  "senses": [
+   "fırlatmak; atmak",
+   "karıştırmak; çevirmek",
+   "hafifçe atma; fırlatma"
+  ],
+  "ex": [
+   "Koltuktaki yastığı bana atar mısın?",
+   "Tüketiciler çoğu zaman kullanılabilir eşyaları çöpe atıyor; bu da onarımla önlenebilecek atık miktarını artırıyor."
+  ],
+  "col": [
+   "yazı tura atmak",
+   "salata karıştırmak",
+   "sağa sola dönüp durmak (uyku)"
+  ],
+  "tip": "Toss genellikle hafif ve özensiz bir atışı anlatır; toss and turn ise uykusuzlukta sağa sola dönmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "absence",
+  "senses": [
+   "yokluk; bulunmama",
+   "bulunmama; yokluk (eksiklik)"
+  ],
+  "ex": [
+   "Akşam yemeğinde olmaması tüm aileyi endişelendirdi.",
+   "Güvenilir toplu taşıma olmadığından, birçok sakinin araba kullanmaktan başka seçeneği yok."
+  ],
+  "col": [
+   "işe gelmeme",
+   "birinin yokluğunda",
+   "…yokluğunda",
+   "izin"
+  ],
+  "tip": "Bir etkinliğe katılmamak için absence from, bir şeyin bulunmaması için absence of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "costly",
+  "senses": [
+   "pahalı; maliyetli",
+   "ağır kayıplara yol açan"
+  ],
+  "ex": [
+   "Kırık çatıyı onarmak beklediğimizden daha pahalı çıktı.",
+   "Sel koruma yatırımlarını ertelemek, giderek şiddetlenen fırtınalara maruz kalan topluluklar için ağır sonuçlar doğurabilir."
+  ],
+  "col": [
+   "pahalı onarımlar",
+   "pahalıya mal olan hata",
+   "pahalıya patlamak"
+  ],
+  "tip": "-ly ile bitmesine rağmen sıfattır, zarf değildir. Maddi olmayan ağır zararları da anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "identical",
+  "senses": [
+   "tıpatıp aynı; özdeş"
+  ],
+  "ex": [
+   "Birbirimizin seçimini bilmeden aynı ceketi aldık.",
+   "Her okula aynı kaynakları sağlamak, öğrencilerin ihtiyaçlarındaki ve yerel koşullardaki farklılıkları karşılayamayabilir."
+  ],
+  "col": [
+   "özdeş ikizler",
+   "…ile aynı",
+   "neredeyse tamamen aynı"
+  ],
+  "tip": "Genellikle identical to kalıbıyla kullanılır; similar'dan daha güçlü bir benzerlik, neredeyse birebir aynılık ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "hospitable",
+  "senses": [
+   "misafirperver; konuksever",
+   "yaşam için elverişli; uygun"
+  ],
+  "ex": [
+   "Cömert komşularımız bizi içeri davet edip sıcak bir çorba ikram etti.",
+   "Ilıman iklim ve güvenilir su kaynakları, bu bölgede yüzyıllardır insan yerleşimini teşvik etmiştir."
+  ],
+  "col": [
+   "misafirperver ev sahibi",
+   "ziyaretçilere misafirperver",
+   "elverişli bir ortam"
+  ],
+  "tip": "İnsanlar için misafirperver, ortamlar için yaşanabilir/elverişli anlamına gelir. Hospital ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "uninterested",
+  "senses": [
+   "ilgisiz"
+  ],
+  "ex": [
+   "Leo oyuna ilgisiz görünüyordu ve dışarı çıktı.",
+   "Dersler pratik deney fırsatı sunmadığında öğrenciler fen bilimlerine ilgisiz görünebilir."
+  ],
+  "col": [
+   "siyasete ilgisiz",
+   "ilgisiz görünmek",
+   "ilgisiz kalmak"
+  ],
+  "tip": "Genellikle in ile kullanılır; \"tarafsız\" anlamındaki disinterested ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "wag",
+  "senses": [
+   "sallamak; kuyruk sallamak",
+   "sallanma; sallama",
+   "espri yapan kişi; şakacı"
+  ],
+  "ex": [
+   "Yavru köpek eve geldiğimde kuyruğunu sallamaya başladı.",
+   "Köpekler dostça karşılaşmalarda sık sık kuyruklarını sallasa da bu hareket her zaman mutluluk anlamına gelmez."
+  ],
+  "col": [
+   "kuyruğunu sallamak",
+   "birine parmak sallayarak uyarmak",
+   "kuyruk sallanması"
+  ],
+  "tip": "Geçmiş zaman wagged, ing hali wagging; g harfi ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "equivalent",
+  "senses": [
+   "eşdeğer; denk",
+   "karşılık; eş değer"
+  ],
+  "ex": [
+   "Bu küçük ısıtıcı, daha büyük olanınkiyle aynı miktarda ısı üretiyor.",
+   "Yurt dışı nitelikler yerel kurumların verdiği niteliklere denk olduğunda işverenler bunları tanımalıdır."
+  ],
+  "col": [
+   "…ile eşdeğer",
+   "eşdeğer nitelik",
+   "…karşılığı"
+  ],
+  "tip": "Genellikle equivalent to kalıbıyla kullanılır; eşdeğer olmak tamamen aynı olmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "distinction",
+  "senses": [
+   "ayrım; fark",
+   "seçkinlik; üstünlük",
+   "başarı ödülü; onur derecesi"
+  ],
+  "ex": [
+   "Bu iki spor arasındaki farkı hiçbir zaman anlayamadım.",
+   "Politika yapıcılar, geçici işsizlik ile uzun süreli işgücü piyasası dışında kalma arasında net bir ayrım yapmalıdır."
+  ],
+  "col": [
+   "arasında ayrım yapmak",
+   "net bir ayrım",
+   "onur derecesiyle",
+   "saygın bir kişi"
+  ],
+  "tip": "İki şey arasındaki farkı belirtmek için distinction between A and B kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stabilize",
+  "senses": [
+   "sabitlemek; istikrara kavuşturmak"
+  ],
+  "ex": [
+   "Masayı sabitlemek için ahşap bir blok kullandık.",
+   "Hükümetler, ekonomik belirsizlik dönemlerinde savunmasız hanehalklarını korumak için gıda fiyatlarını dengelemek zorunda kalabilir."
+  ],
+  "col": [
+   "fiyatları istikrara kavuşturmak",
+   "ekonomiyi dengelemek",
+   "hastanın durumunu stabilize etmek"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılabilir; İngiliz İngilizcesinde stabilise yazımı da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "internship",
+  "senses": [
+   "staj; staj dönemi"
+  ],
+  "ex": [
+   "Leila yaz tatilinde yerel bir müzede staja başladı.",
+   "Ücretli stajlar, öğrencilerin ailelerine ek mali yük bindirmeden mesleki deneyim kazanmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "ücretli staj",
+   "yaz stajı",
+   "staj için başvurmak"
+  ],
+  "tip": "Intern stajyer kişiyi, internship ise staj pozisyonunu veya dönemini ifade eder.",
+  "note": ""
+ }
+]

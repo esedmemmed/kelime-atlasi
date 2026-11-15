@@ -1,0 +1,275 @@
+[
+ {
+  "id": "humidity",
+  "senses": [
+   "nem; rutubet"
+  ],
+  "ex": [
+   "Yüksek nem gömleğimi nemli hissettirdi.",
+   "Yüksek nem sınıflarda konforu azaltabileceğinden, sıcak aylarda etkili havalandırma özellikle önemlidir."
+  ],
+  "col": [
+   "yüksek nem",
+   "bağıl nem",
+   "nem seviyeleri",
+   "düşük nem"
+  ],
+  "tip": "Genellikle sayılamaz. Nemin derecesini belirtmek için high veya low kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pillar",
+  "senses": [
+   "sütun; direk",
+   "dayanak; temel destek"
+  ],
+  "ex": [
+   "Yağmurdan taş bir sütunun arkasına sığındık.",
+   "Erişilebilir eğitim, nesiller boyunca fırsatları genişlettiği için toplumsal gelişimin merkezi bir dayanağıdır."
+  ],
+  "col": [
+   "taş bir sütun",
+   "...nın merkezi dayanağı",
+   "topluluğun dayanağı"
+  ],
+  "tip": "pillar of kalıbı bir sistemin, kurumun ya da topluluğun temel desteğini anlatır; fiziksel sütun için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "probability",
+  "senses": [
+   "olasılık; ihtimal"
+  ],
+  "ex": [
+   "Bulutlar bu gece yağmur yağma ihtimalinin yüksek olduğunu gösteriyor.",
+   "Gelişmiş hava durumu modelleri, bilim insanlarının aşırı yağış olasılığını daha yüksek doğrulukla tahmin etmesine olanak tanıyor."
+  ],
+  "col": [
+   "yüksek olasılık",
+   "başarı olasılığı",
+   "büyük ihtimalle",
+   "olasılık teorisi"
+  ],
+  "tip": "Genellikle of ile isim ya da -ing'li fiil alır; that ile de bir cümle izleyebilir.",
+  "note": ""
+ },
+ {
+  "id": "halve",
+  "senses": [
+   "yarıya indirmek",
+   "ikiye bölmek"
+  ],
+  "ex": [
+   "Taksiyi paylaşmak her kişinin maliyetini yarıya indirirdi.",
+   "Şehir, kompost hizmetlerini genişleterek ve daha bilinçli alışverişi teşvik ederek evsel gıda israfını yarıya indirmeyi hedefliyor."
+  ],
+  "col": [
+   "maliyeti yarıya indirmek",
+   "emisyonları yarıya indirmek",
+   "bir limonu ikiye bölmek"
+  ],
+  "tip": "Fiil halve, isim half'tır. Telaffuzda l sesi okunmaz; yazımda half ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "therapy",
+  "senses": [
+   "terapi; tedavi"
+  ],
+  "ex": [
+   "Yaralanmasının ardından düzenli terapi, yeniden rahatça yürümesine yardımcı oldu.",
+   "Psikolojik terapiye erişim sağlayan okullar, süregelen kaygı yaşayan öğrencilere daha iyi destek olabilir."
+  ],
+  "col": [
+   "konuşma terapisi",
+   "fizik tedavi",
+   "tedavi görmek",
+   "psikolojik terapi"
+  ],
+  "tip": "Genel anlamda sayılamaz; belirli türlerden söz edildiğinde therapies çoğul biçimi kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "sparrow",
+  "senses": [
+   "serçe"
+  ],
+  "ex": [
+   "Balkonda fincanımın yanına bir serçe kondu.",
+   "Kentsel bahçeler serçelere yiyecek ve barınak sağlayarak yoğun nüfuslu bölgelerdeki kuş popülasyonunun korunmasına yardımcı oluyor."
+  ],
+  "col": [
+   "bir sürü serçe",
+   "ev serçesi",
+   "ağaç serçesi"
+  ],
+  "tip": "Sayılabilir bir isimdir; çoğulu s eki ile yapılır. Tüm küçük kuşları karşılayan genel bir ad değildir.",
+  "note": ""
+ },
+ {
+  "id": "nursing",
+  "senses": [
+   "hemşirelik; bakım"
+  ],
+  "ex": [
+   "Kız kardeşim insanlara yardım etmekten keyif aldığı için hemşireliği seçti.",
+   "Nüfusun yaşlanmasıyla artan sağlık ihtiyaçlarını karşılamak için hemşirelik eğitimine yatırım yapmak şarttır."
+  ],
+  "col": [
+   "hemşire bakımı",
+   "bakım evi",
+   "hemşire personeli",
+   "hemşirelik diploması"
+  ],
+  "tip": "Meslek ya da eğitim alanı olarak genellikle sayılamaz. Hemşire kişisi için nurse kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "persuasion",
+  "senses": [
+   "ikna; yönlendirme",
+   "inanç; görüş"
+  ],
+  "ex": [
+   "Biraz iknadan sonra kardeşim akşam yürüyüşümüze katıldı.",
+   "Halk sağlığı kampanyaları, daha sağlıklı alışkanlıkları teşvik etmek için çoğu zaman yasal kısıtlamalar yerine ikna yöntemine dayanır."
+  ],
+  "col": [
+   "ikna gücü",
+   "nazik ikna",
+   "siyasi görüş"
+  ],
+  "tip": "İkna anlamında genellikle sayılamaz. Fiili persuade, yani 'ikna etmek'tir.",
+  "note": ""
+ },
+ {
+  "id": "mechanism",
+  "senses": [
+   "mekanizma; işleyiş",
+   "mekanizma; düzenek"
+  ],
+  "ex": [
+   "Kulübün anlaşmazlıkları çözmek için adil bir mekanizmaya ihtiyacı var.",
+   "Hükümetler, çevre düzenlemelerinin tüm sektörlerde tutarlı biçimde uygulanmasını sağlamak için etkili izleme mekanizmaları kurmalı."
+  ],
+  "col": [
+   "başa çıkma mekanizması",
+   "savunma mekanizması",
+   "izleme mekanizması",
+   "kilitleme düzeneği"
+  ],
+  "tip": "mechanism for doing kalıbı bir şeyi yapmanın yolunu anlatır; for'dan sonra isim ya da -ing gelir.",
+  "note": ""
+ },
+ {
+  "id": "impact",
+  "senses": [
+   "etki; tesir",
+   "çarpma; darbe",
+   "etkilemek"
+  ],
+  "ex": [
+   "Yeni oyun alanı mahallemiz üzerinde olumlu bir etki yarattı.",
+   "Hükümetler, büyük inşaat projelerine izin vermeden önce bunların çevresel etkisini değerlendirmeli."
+  ],
+  "col": [
+   "üzerinde etkisi olmak",
+   "çevresel etki",
+   "çarpma anında",
+   "toplulukların üzerindeki etki"
+  ],
+  "tip": "İsimde vurgu ilk hecededir (IM-pact), fiilde ikinci hecededir (im-PACT). Genellikle impact on kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ongoing",
+  "senses": [
+   "devam eden; süregelen"
+  ],
+  "ex": [
+   "Devam eden onarımlar nedeniyle mutfağı kullanamıyoruz.",
+   "Yenilenebilir enerji üzerindeki süregelen araştırmalar, fosil yakıt bağımlılığını azaltmak ve çevresel zararı sınırlamak için şarttır."
+  ],
+  "col": [
+   "süregelen araştırma",
+   "devam eden bir süreç",
+   "sürekli destek",
+   "devam eden soruşturma"
+  ],
+  "tip": "Bir şeyin hâlâ sürdüğünü vurgular. Yakında olacak anlamındaki upcoming ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "philosopher",
+  "senses": [
+   "filozof"
+  ],
+  "ex": [
+   "Filozof bize hayatı anlamlı kılan şeyin ne olduğunu sordu.",
+   "Bir filozof, ekonomik büyümenin bir toplumun ilerlemesinin ana ölçütü olup olmaması gerektiğini sorgulayabilir."
+  ],
+  "col": [
+   "ahlak filozofu",
+   "siyaset filozofu",
+   "antik çağ filozofu"
+  ],
+  "tip": "philosopher bir kişiyi, philosophy ise felsefeyi ya da bir felsefi görüşü anlatır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "whoever",
+  "senses": [
+   "kim olursa olsun",
+   "acaba kim"
+  ],
+  "ex": [
+   "Önce bitiren kişi bir sonraki oyunu seçebilir.",
+   "Kamu kütüphaneleri, geliri ya da eğitim geçmişi ne olursa olsun, güvenilir bilgiye ihtiyaç duyan herkesi ağırlamalıdır."
+  ],
+  "col": [
+   "kim olursan ol",
+   "isteyen kim olursa olsun",
+   "sorumlu kim olursa olsun"
+  ],
+  "tip": "İsim cümleciği kurar ya da 'no matter who' anlamında kullanılır; ancak her cümlede no matter who ile yer değiştiremez.",
+  "note": ""
+ },
+ {
+  "id": "authentic",
+  "senses": [
+   "özgün; asıl",
+   "gerçeğe uygun; güvenilir"
+  ],
+  "ex": [
+   "Bu küçük lokanta bölgeye özgü otantik yemekler sunuyor.",
+   "Müzeler, yerel tarihi daha erişilebilir kılmak için dijital araçları kullanırken özgün eserleri korumalıdır."
+  ],
+  "col": [
+   "otantik mutfak",
+   "gerçek bir deneyim",
+   "güvenilir anlatım"
+  ],
+  "tip": "Sahte ya da kopya olmayan, asıl olanı vurgular; yalnızca bilgilerin doğru olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "perspective",
+  "senses": [
+   "bakış açısı",
+   "perspektif",
+   "değerlendirme gücü; ölçü"
+  ],
+  "ex": [
+   "Onun hikâyesini dinlemek bana tamamen farklı bir bakış açısı kazandırdı.",
+   "Kentsel gelişimi sakinlerin bakış açısından incelemek, planlamacıların daha kapsayıcı kamusal alanlar oluşturmasına yardımcı olabilir."
+  ],
+  "col": [
+   "farklı bir açıdan",
+   "ufkunu genişletmek",
+   "işleri doğru ölçüye oturtmak",
+   "ölçü duygusu"
+  ],
+  "tip": "Bir bakış açısından bakmayı from a perspective ile anlatırsınız; burada in değil from kullanılır.",
+  "note": ""
+ }
+]

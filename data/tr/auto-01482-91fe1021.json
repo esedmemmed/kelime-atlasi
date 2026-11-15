@@ -1,0 +1,280 @@
+[
+ {
+  "id": "cloth",
+  "senses": [
+   "kumaş; dokuma",
+   "bez; paçavra"
+  ],
+  "ex": [
+   "Bebeğin battaniyesi için yumuşak pamuklu bir kumaş seçti.",
+   "Tek kullanımlık mendiller yerine yeniden kullanılabilir bezler kullanmak evdeki atığı azaltabilir ve uzun vadede temizlik maliyetlerini düşürebilir."
+  ],
+  "col": [
+   "pamuklu kumaş",
+   "nemli bir bez",
+   "bir parça kumaş"
+  ],
+  "tip": "Kumaş anlamında genellikle sayılmaz; bez anlamında sayılabilir, çoğulu cloths. clothes (giysi) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "transport",
+  "senses": [
+   "ulaşım; taşıt",
+   "taşımak; nakletmek"
+  ],
+  "ex": [
+   "Şehirde dolaşmak için toplu taşımaya güveniyoruz.",
+   "Kırsal bölgelerle şehirler arasındaki daha iyi ulaşım bağlantıları, yerel halk için iş fırsatlarını artırabilir."
+  ],
+  "col": [
+   "toplu taşıma",
+   "ulaşım bağlantıları",
+   "malları taşımak",
+   "ulaşım ağı"
+  ],
+  "tip": "İsim ilk hecede, fiil ikinci hecede vurgulanır (TRANSport / transPORT). Yazılışı aynıdır, söz türüne göre telaffuz değişir.",
+  "note": ""
+ },
+ {
+  "id": "drop",
+  "senses": [
+   "düşmek; düşürmek; azalmak",
+   "damla",
+   "vazgeçmek; bırakmak"
+  ],
+  "ex": [
+   "Telefonuma uzanırken anahtarlarımı düşürdüm.",
+   "Toplu taşıma daha güvenilir hale gelirse, işe arabayla gidenlerin sayısı önemli ölçüde azalabilir."
+  ],
+  "col": [
+   "fiyatlarda düşüş",
+   "bir damla su",
+   "bir dersi bırakmak",
+   "keskin biçimde düşmek"
+  ],
+  "tip": "Düşüş miktarı için drop by (by 5%), düşülen düzey için drop to (to 5%) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "share",
+  "senses": [
+   "paylaşmak; ortak kullanmak",
+   "pay; bölüm",
+   "hisse"
+  ],
+  "ex": [
+   "Kız kardeşim ve ben pencere kenarındaki masayı paylaşıyoruz.",
+   "Sakinler kamusal alanların sorumluluğunu paylaştığında, mahalleler genellikle daha temiz ve davetkâr hale gelir."
+  ],
+  "col": [
+   "bir şeyi birisiyle paylaşmak",
+   "sorumluluğu paylaşmak",
+   "pazar payı",
+   "hisse satın almak"
+  ],
+  "tip": "Birisiyle paylaşmak için share something with someone kalıbı kullanılır; share to ya da share with yerine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "tram",
+  "senses": [
+   "tramvay"
+  ],
+  "ex": [
+   "Bu sabah kütüphanenin önünden tramvaya bindik.",
+   "Tramvay ağlarına yapılan yatırımlar trafik sıkışıklığını azaltabilir ve kalabalık şehir merkezlerine erişimi iyileştirebilir."
+  ],
+  "col": [
+   "tramvaya binmek",
+   "tramvay durağı",
+   "tramvay ağı"
+  ],
+  "tip": "tram araca verilen addır, raylara değil. Amerikan İngilizcesinde genellikle streetcar denir.",
+  "note": ""
+ },
+ {
+  "id": "envelope",
+  "senses": [
+   "zarf"
+  ],
+  "ex": [
+   "Doğum günü kartını mavi bir zarfın içine koydu.",
+   "Dijital iletişim yaygın olsa da resmi belgeler gizlilik için bazen hâlâ mühürlü bir zarfta teslim ediliyor."
+  ],
+  "col": [
+   "mühürlü zarf",
+   "zarfı açmak",
+   "dolgulu zarf"
+  ],
+  "tip": "envelope 'zarf' demektir; envelop ise 'sarmak, kuşatmak' anlamında fiildir ve telaffuzu farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "parrot",
+  "senses": [
+   "papağan",
+   "papağan gibi tekrarlamak"
+  ],
+  "ex": [
+   "Yeşil papağan gagasıyla bir tohumu kırdı.",
+   "Öğretmenlerinin açıklamalarını sadece papağan gibi tekrarlayan öğrenciler, bilgiyi bilmedikleri durumlara uygulamakta zorlanabilir."
+  ],
+  "col": [
+   "evcil papağan",
+   "birinin sözlerini tekrarlamak",
+   "düşünmeden ezber tekrar"
+  ],
+  "tip": "Fiil olarak genellikle olumsuz anlam taşır: anlamadan ya da düşünmeden tekrar etmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "windsurfing",
+  "senses": [
+   "yelkenli sörf"
+  ],
+  "ex": [
+   "Tatilde göl kenarındayken kız kardeşim yelkenli sörfü denedi.",
+   "Kıyı kasabalarında yelkenli sörf okulları ziyaretçileri çekebilir; yeter ki yerel yönetimler net su güvenliği kuralları belirlesin."
+  ],
+  "col": [
+   "yelkenli sörf yapmak",
+   "yelkenli sörf ekipmanı",
+   "yelkenli sörf dersleri"
+  ],
+  "tip": "windsurfing yelkenle rüzgârdan yararlanır, surfing ise dalgalarda kayar. Yapmak için go windsurfing kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cross",
+  "senses": [
+   "geçmek; kesişmek",
+   "haç; çarpı işareti",
+   "kızgın; öfkeli"
+  ],
+  "ex": [
+   "Trafik durana kadar bekledik, sonra karşıya geçtik.",
+   "Daha güvenli yaya yolları, sakinleri kısa mesafeler için araba sürmek yerine yoğun yollarda yaya olarak karşıya geçmeye teşvik eder."
+  ],
+  "col": [
+   "yolu geçmek",
+   "köprüden geçmek",
+   "birine kızgın olmak"
+  ],
+  "tip": "cross fiil, across ise edat ya da zarftır. cross the road denir; cross across the road denmez.",
+  "note": ""
+ },
+ {
+  "id": "stage",
+  "senses": [
+   "aşama; evre",
+   "sahne",
+   "sahneye koymak; düzenlemek"
+  ],
+  "ex": [
+   "Pasta, hazırlığın bu aşamasında soğuyor.",
+   "Çocukluğun kritik bir döneminde erken müdahale, ileriki yaşamda eğitim sonuçlarını önemli ölçüde iyileştirebilir."
+  ],
+  "col": [
+   "erken bir aşamada",
+   "gelişim evresi",
+   "sahnede",
+   "bir oyunu sahneye koymak"
+  ],
+  "tip": "Aşama için at a stage, sahnede anlamı için on stage kullanılır; bu edatları karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "forward",
+  "senses": [
+   "ileriye; ileri",
+   "iletmek; yönlendirmek",
+   "forvet; hücumcu"
+  ],
+  "ex": [
+   "Önünde boşluk olduğunda lütfen bir adım öne çıkın.",
+   "Yenilenebilir enerjiye yapılan yatırımlar, ülkelerin daha sürdürülebilir bir ekonomik geleceğe doğru ilerlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "ilerlemek",
+   "dört gözle beklemek",
+   "e-postayı iletmek",
+   "bir öneri sunmak"
+  ],
+  "tip": "look forward to kalıbındaki to bir edattır; ardından isim ya da -ing yapısı gelir (look forward to meeting you).",
+  "note": ""
+ },
+ {
+  "id": "colleague",
+  "senses": [
+   "meslektaş; iş arkadaşı"
+  ],
+  "ex": [
+   "İş arkadaşım bugün ofise ev yapımı çorba getirdi.",
+   "Meslektaşlarla bilgi paylaşmak iş yerinin verimliliğini artırabilir ve yeni çalışanların temel becerileri geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "iş arkadaşı",
+   "eski meslektaş",
+   "yakın bir meslektaş"
+  ],
+  "tip": "colleague aynı kurumda çalışan kişiyi anlatır; mutlaka yakın arkadaş ya da aynı rütbede olmak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "mess",
+  "senses": [
+   "dağınıklık; karmaşa",
+   "çıkmaz; karmaşık durum",
+   "dağıtmak; berbat etmek"
+  ],
+  "ex": [
+   "Bisküvi pişirdikten sonra mutfak perişan olmuştu.",
+   "Net sorumluluklar olmadan bir topluluk projesi hızla çıkmaza girebilir ve hem zamanı hem kaynakları boşa harcayabilir."
+  ],
+  "col": [
+   "karmaşa çıkarmak",
+   "karmaşanın içinde",
+   "berbat etmek"
+  ],
+  "tip": "make a mess kalıbı 'karmaşa çıkarmak' anlamındadır. mess up gayriresmî bir ifadedir ve 'dağıtmak' ya da 'berbat etmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "level",
+  "senses": [
+   "seviye; düzey; yükseklik",
+   "düz; eşit",
+   "düzlemek; eşitlemek"
+  ],
+  "ex": [
+   "Dün geceki şiddetli yağmurdan sonra su seviyesi yükseldi.",
+   "Toplu taşımanın seviyesini yükseltmek, daha fazla sakinin arabalarını evde bırakmasını teşvik edebilir."
+  ],
+  "col": [
+   "deniz seviyesi",
+   "yüksek düzeyde",
+   "düz zemin",
+   "fırsatları eşitlemek"
+  ],
+  "tip": "Düzeyi belirtmek için at a level, nitelik ya da miktar için a high level of gibi kalıplar kullanılır. Edatlara dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "afterwards",
+  "senses": [
+   "sonra; daha sonra"
+  ],
+  "ex": [
+   "Bir film izledik, sonra akşam yemeği yedik.",
+   "Bir dersi sonradan tartışan öğrenciler, tartışmayanlara göre ana fikirleri daha net hatırlayabilir."
+  ],
+  "col": [
+   "kısa bir süre sonra",
+   "hemen ardından",
+   "az sonra"
+  ],
+  "tip": "Zarf olarak kullanılır ve doğrudan nesne almaz; after ise edat olarak nesne alabilir (after dinner).",
+  "note": ""
+ }
+]

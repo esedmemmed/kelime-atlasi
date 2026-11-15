@@ -1,0 +1,274 @@
+[
+ {
+  "id": "decoration",
+  "senses": [
+   "süs eşyası",
+   "dekorasyon; süsleme",
+   "madalya; nişan"
+  ],
+  "ex": [
+   "Mutfak masasının üzerine parlak renkli bir kağıt süs astı.",
+   "Halk kütüphanelerinin dekorasyonu, sakinleri daha fazla okumaya teşvik eden davetkâr alanlar yaratabilir."
+  ],
+  "col": [
+   "iç mekân dekorasyonu",
+   "parti süsleri",
+   "masa süsü"
+  ],
+  "tip": "Süsleme işi anlamında sayılamaz; tek bir süs eşyası için sayılabilir (a decoration, decorations).",
+  "note": ""
+ },
+ {
+  "id": "caravan",
+  "senses": [
+   "karavan",
+   "kervan; konvoy"
+  ],
+  "ex": [
+   "Karavanımızı sessiz bir gölün kenarına park ettik.",
+   "Karavan tatilleri, büyük otellerin olmadığı kırsal bölgelere ziyaretçi getirerek kırsal turizmi destekleyebilir."
+  ],
+  "col": [
+   "karavan parkı",
+   "karavan çekmek",
+   "deve kervanı"
+  ],
+  "tip": "İngiliz İngilizcesinde caravan römork tipi tatil aracını anlatır; Amerikan İngilizcesinde bu araç genellikle travel trailer denir.",
+  "note": ""
+ },
+ {
+  "id": "management",
+  "senses": [
+   "yönetim; idare",
+   "yönetim kadrosu"
+  ],
+  "ex": [
+   "İyi zaman yönetimi sayesinde kendime rahatlamak için vakit ayırabiliyorum.",
+   "Etkili atık yönetimi; kirliliği azaltmak ve kaynakları korumak için yerel yönetimler, işletmeler ve sakinler arasında iş birliği gerektirir."
+  ],
+  "col": [
+   "zaman yönetimi",
+   "atık yönetimi",
+   "üst düzey yönetim",
+   "yönetim becerileri"
+  ],
+  "tip": "Faaliyetlerin yönetimi anlamında sayılamaz; the management ise bir kuruluşun yönetici kadrosunu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "tight",
+  "senses": [
+   "dar; sıkı",
+   "sıkışık; dar",
+   "sıkıca; sımsıkı"
+  ],
+  "ex": [
+   "Bu ayakkabılar parmaklarımın etrafında çok dar.",
+   "Sıkı bütçelerle işleyen okullar, öğrencilere modern donanım ve yeterli destek sağlamakta zorlanabilir."
+  ],
+  "col": [
+   "dar kot pantolon",
+   "sıkı bir bütçe",
+   "sıkı bir son tarih",
+   "sıkı tutunmak"
+  ],
+  "tip": "Sıfat olarak çok yaygındır; zarf olarak genellikle hold tight gibi kalıplarda kullanılır, genel anlamda sıkıca için tightly tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "sailor",
+  "senses": [
+   "denizci; gemici; yelkenci"
+  ],
+  "ex": [
+   "Denizci botu güvenli bir şekilde iskeleye bağladı.",
+   "Modern navigasyon teknolojisi denizcilerin tehlikeli sulardan kaçınmasına yardımcı olur, ama denizde güvenlik için pratik deneyim hâlâ şarttır."
+  ],
+  "col": [
+   "deneyimli denizci",
+   "profesyonel yelkenci",
+   "denizcilerden oluşan mürettebat"
+  ],
+  "tip": "Gemide çalışan ya da yelkenli kullanan kişiyi anlatır; gemideki yolcular için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "well-dressed",
+  "senses": [
+   "özenli giyinmiş; şık"
+  ],
+  "ex": [
+   "Yeni ütülenmiş bir takım elbise giyen şık giyimli bir misafir geldi.",
+   "Özenli giyinmiş adaylar ilk izlenimde olumlu etki yaratabilir; ancak işverenler öncelikle ilgili beceri ve mesleki deneyime önem vermelidir."
+  ],
+  "col": [
+   "şık giyimli misafirler",
+   "özenli giyimli bir aday"
+  ],
+  "tip": "Düzgün ve uygun giyinmeyi anlatır; pahalı ya da moda kıyafet anlamı taşımak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "grown-up",
+  "senses": [
+   "yetişkin; büyük",
+   "yetişkin; olgun"
+  ],
+  "ex": [
+   "Ekmeği dilimlemek için bir büyükten yardım iste.",
+   "Çocuklar yaşlarına uygun ev işlerine katıldıklarında, sorumluluk konusunda olgun tutumlar geliştirebilirler."
+  ],
+  "col": [
+   "bir büyükten yardım istemek",
+   "yetişkin çocuklar",
+   "olgun bir tutum"
+  ],
+  "tip": "İsim olarak çoğunlukla çocuklarla konuşurken kullanılır; resmi yazıda adult tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "hidden",
+  "senses": [
+   "gizli; saklı"
+  ],
+  "ex": [
+   "Mutfak kapısının arkasında gizli bir dolap bulduk.",
+   "Tüketiciler çevrim içi alışverişlerde teslimat ücretleri ve ürün iade ücretleri gibi gizli maliyetleri göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "gizli maliyetler",
+   "gizli anlam",
+   "gizli yetenek"
+  ],
+  "tip": "Hide fiilinin üçüncü hâli de hidden'dır; sıfat olarak görünmez anlamına gelmez, sadece fark edilmesi zor demektir.",
+  "note": ""
+ },
+ {
+  "id": "membership",
+  "senses": [
+   "üyelik",
+   "üyeler; üye sayısı"
+  ],
+  "ex": [
+   "Spor salonu üyeliğim her hafta sonu ücretsiz yüzme derslerini içeriyor.",
+   "Uygun üyelik ücretleri, daha fazla sakinin yerel spor tesislerini kullanmasını teşvik edebilir ve sağlıklarını iyileştirebilir."
+  ],
+  "col": [
+   "üyelik ücreti",
+   "yıllık üyelik",
+   "üyeliğini yenilemek",
+   "sendika üyeliği"
+  ],
+  "tip": "Bir kuruluşa üye olma durumunu anlatır; genellikle membership of ile kullanılır (membership of a club).",
+  "note": ""
+ },
+ {
+  "id": "unpack",
+  "senses": [
+   "eşyaları çıkarmak; boşaltmak",
+   "ayrıntılı incelemek; çözümlemek"
+  ],
+  "ex": [
+   "Valizimi açtım ve gömleklerimi askıya astım.",
+   "Öğretmenler, her iddianın arkasındaki kanıtları ve varsayımları inceleyerek öğrencilerin karmaşık argümanları çözümlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "valizi boşaltmak",
+   "kutuları boşaltmak",
+   "bir argümanı çözümlemek"
+  ],
+  "tip": "Hem eşyaları çıkarmak hem de bir fikri parçalarına ayırıp incelemek anlamında kullanılır; ikinci anlam akademik metinlerde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "studio",
+  "senses": [
+   "atölye; stüdyo",
+   "film şirketi; stüdyo",
+   "stüdyo daire"
+  ],
+  "ex": [
+   "Sanatçı bizi parlak, üst kattaki atölyesine davet etti.",
+   "Uygun fiyatlı atölye alanları için kamu finansmanı, yeni yetişen sanatçıların bir kentin kültürel yaşamına katkı sunmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kayıt stüdyosu",
+   "resim atölyesi",
+   "film stüdyosu",
+   "stüdyo daire"
+  ],
+  "tip": "İngiliz İngilizcesinde studio flat, Amerikan İngilizcesinde studio apartment denir; ikisi de tek odalı yaşam alanı olan daireyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "frighten",
+  "senses": [
+   "korkutmak"
+  ],
+  "ex": [
+   "Ani yüksek sesler yeni köpek yavrumuzu korkutabilir.",
+   "Ürkütücü haber raporları çocukları korkutabilir; bu yüzden yetişkinler zor olayları uygun bir şekilde açıklamalıdır."
+  ],
+  "col": [
+   "birini korkutup uzaklaştırmak",
+   "birini korkutup bir şey yaptırmak",
+   "birini ölesiye korkutmak"
+  ],
+  "tip": "frightened korkmuş olmayı, frightening ise korkutucu olan şeyi anlatır; bu iki sıfatı karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "photography",
+  "senses": [
+   "fotoğrafçılık; fotoğraf çekme"
+  ],
+  "ex": [
+   "Kız kardeşim fotoğrafçılığı çok sever ve fotoğraf makinesini her yere taşır.",
+   "Dijital fotoğrafçılık, araştırmacıların çevresel değişimleri belgelemesine ve görsel kanıtları daha geniş bir kitleyle paylaşmasına olanak tanır."
+  ],
+  "col": [
+   "dijital fotoğrafçılık",
+   "vahşi yaşam fotoğrafçılığı",
+   "portre fotoğrafçılığı",
+   "fotoğrafçılığa başlamak"
+  ],
+  "tip": "Genel etkinlik olarak sayılamaz; tek bir fotoğraf için a photograph ya da kısaca photo kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "heel",
+  "senses": [
+   "ayak topuğu",
+   "ayakkabı topuğu"
+  ],
+  "ex": [
+   "Bu yeni ayakkabılar sol topuğumu sürtüyor.",
+   "Topuğu iyi destekleyen ayakkabılar, uzun süre ayakta duran insanların rahatlığını artırabilir."
+  ],
+  "col": [
+   "topuk ağrısı",
+   "yüksek topuklu",
+   "alçak topuklu"
+  ],
+  "tip": "Heel topuk anlamındadır; heal ise iyileşmek demektir. Telaffuzu aynı olduğu için yazımda karıştırılabilir.",
+  "note": ""
+ },
+ {
+  "id": "buyer",
+  "senses": [
+   "alıcı; satın alan",
+   "satın almacı"
+  ],
+  "ex": [
+   "Alıcı bisikleti parayı vermeden önce kontrol etti.",
+   "İlk kez ev alacak kişiler, konut fiyatları ücretlerden daha hızlı arttığı için konut piyasasına girmekte zorlanabilir."
+  ],
+  "col": [
+   "potansiyel alıcı",
+   "ilk kez ev alan",
+   "alıcı piyasası"
+  ],
+  "tip": "Buyer satın alan tarafı anlatır; customer ise daha çok mağaza ya da hizmet veren işletmenin müşterisini vurgular.",
+  "note": ""
+ }
+]

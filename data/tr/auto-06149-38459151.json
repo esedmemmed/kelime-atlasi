@@ -1,0 +1,272 @@
+[
+ {
+  "id": "detriment",
+  "senses": [
+   "zarar; ziyan"
+  ],
+  "ex": [
+   "Çoğu zaman uykusunu feda ederek geç saatlere kadar çalışıyor.",
+   "Çevre korumasını göz ardı ederek kısa vadeli kâr peşinde koşmak, gelecek nesiller için ciddi maliyetler doğurabilir."
+  ],
+  "col": [
+   "...nın zararına",
+   "zarar vermeden",
+   "sağlığa zarar"
+  ],
+  "tip": "Genellikle 'to the detriment of' kalıbıyla kullanılır ve 'bir şeyin zararına' anlamına gelir. Sıfat biçimi detrimental'dır.",
+  "note": ""
+ },
+ {
+  "id": "malpractice",
+  "senses": [
+   "meslek hatası; ihmal"
+  ],
+  "ex": [
+   "Aile, olası tıbbi ihmal konusunda bir avukata danıştı.",
+   "Bağımsız denetim, sağlık hizmetlerinde mesleki ihmalleri önlemeye ve kamunun tıbbi kurumlara olan güvenini artırmaya yardımcı olabilir."
+  ],
+  "col": [
+   "tıbbi ihmal",
+   "mesleki ihmal",
+   "ihmal davası"
+  ],
+  "tip": "Sıradan bir hatayı değil, meslek sahibi kişilerin özensiz veya yasa dışı davranışını anlatır; özellikle tıp alanında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "volley",
+  "senses": [
+   "voley; havada vuruş",
+   "voleyle vurmak",
+   "salvo; peş peşe ateş"
+  ],
+  "ex": [
+   "Keskin bir voleyle maçı kazandı.",
+   "Voleyi etkili biçimde yapmayı öğrenmek, genç tenisçilerin koordinasyonlarını geliştirmelerine ve baskı altında hızlı tepki vermelerine yardımcı olur."
+  ],
+  "col": [
+   "backhand voley",
+   "topa voleyle vurmak",
+   "bir dizi atış",
+   "peş peşe sorular"
+  ],
+  "tip": "Spor bağlamında top yere değmeden vurmayı anlatır; 'a volley of' kalıbı ise art arda gelen şeyleri ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "conclusive",
+  "senses": [
+   "kesin; ikna edici"
+  ],
+  "ex": [
+   "Kamera görüntüleri neyin yaşandığına dair kesin kanıt sağladı.",
+   "Araştırmacıların, çocuklukta beslenmeyle ilgili ulusal politikalarda büyük değişiklikler önermeden önce kesin kanıtlara ihtiyaçları var."
+  ],
+  "col": [
+   "kesin kanıt",
+   "kesin delil",
+   "kesin sonuçlar"
+  ],
+  "tip": "Genellikle evidence veya proof ile kullanılır. 'Son' anlamına gelmez, şüpheye yer bırakmayan, kesin anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "inertia",
+  "senses": [
+   "atalet; hareketsizlik",
+   "eylemsizlik; atalet"
+  ],
+  "ex": [
+   "Haftalarca hareketsiz kaldıktan sonra sonunda garajı temizledim.",
+   "Kurumsal atalet, okulların öğrencilerin ihtiyaçlarını daha iyi karşılayan öğretim yöntemlerini benimsemesini engelleyebilir."
+  ],
+  "col": [
+   "kurumsal atalet",
+   "ataletin üstesinden gelmek",
+   "bir cismin eylemsizliği"
+  ],
+  "tip": "İsim olarak sayılamaz. Hem fiziksel 'eylemsizlik' hem de değişime direnç anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "confer",
+  "senses": [
+   "danışmak; görüşmek",
+   "vermek; bahşetmek"
+  ],
+  "ex": [
+   "Koçlar son takımı seçmeden önce sessizce istişare ettiler.",
+   "Üniversiteler, bilime veya kamu hizmetine olağanüstü katkı yapmış kişilere sıklıkla fahri unvanlar verir."
+  ],
+  "col": [
+   "meslektaşlarıyla danışmak",
+   "birine derece vermek",
+   "birine fayda sağlamak"
+  ],
+  "tip": "Danışmak anlamında confer with, vermek anlamında confer sth on sb kalıbı kullanılır; bu iki kalıp karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "dwell",
+  "senses": [
+   "yaşamak; ikamet etmek",
+   "üzerinde durmak; takılmak"
+  ],
+  "ex": [
+   "Küçük canlılar bahçemizdeki taşların altında yaşar.",
+   "Okullar, öğrencileri geçmiş başarısızlıklar üzerinde takılmak yerine gelecekte gelişim için pratik stratejiler geliştirmeye yönlendirmeli."
+  ],
+  "col": [
+   "...da yaşamak",
+   "geçmişe takılmak",
+   "bir sorun üzerinde durmak"
+  ],
+  "tip": "Yaşamak anlamı resmi bir dildir; günlük konuşmada live daha yaygındır. dwell on, bir şey üzerinde uzun uzun düşünmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "marxist",
+  "senses": [
+   "Marksist",
+   "Marksist; Marksçı"
+  ],
+  "ex": [
+   "Kütüphanedeki okuma grubumuzda Marksist fikirleri tartıştık.",
+   "Konut üzerine Marksist bir inceleme, mülkiyetin ve sınıf ilişkilerinin uygun fiyatlı konuta erişimi nasıl etkilediğini ele alır."
+  ],
+  "col": [
+   "Marksist kuram",
+   "Marksist çözümleme",
+   "Marksist bir akademisyen"
+  ],
+  "tip": "Baş harf her zaman büyük yazılır. Hem sıfat hem de isim olarak kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "hateful",
+  "senses": [
+   "nefret dolu; kin güden",
+   "nefret uyandıran; iğrenç"
+  ],
+  "ex": [
+   "Kırıcı sözleri masadaki herkesi üzdü.",
+   "Okullar, tüm öğrencilerin kendini güvende ve saygı görmüş hissetmesi için nefret dolu davranışları erken dönemde ele almalı."
+  ],
+  "col": [
+   "nefret dolu sözler",
+   "nefret dolu davranış",
+   "nefret söylemi"
+  ],
+  "tip": "Kişinin nefret dolu sözlerini ya da davranışlarını anlatır. Ayrıca 'iğrenç' anlamında olumsuz nitelikli şeyler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ploy",
+  "senses": [
+   "hile; taktik"
+  ],
+  "ex": [
+   "Bedava atıştırmalık sunmak, müşterileri çekmek için bir numaraydı.",
+   "Eleştirmenler, ani fiyat indirimini gerçek bir uygun fiyat taahhüdü değil, pazarlama numarası olarak nitelendirdi."
+  ],
+  "col": [
+   "pazarlama numarası",
+   "akıllıca bir numara",
+   "taktik bir hamle"
+  ],
+  "tip": "Genellikle bir çıkar sağlamak için kurnazca yapılan, biraz da aldatma içeren hamleyi anlatır; sıradan plan anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "aerosol",
+  "senses": [
+   "sprey kutusu; aerosol",
+   "aerosol; havada asılı parçacık"
+  ],
+  "ex": [
+   "Tozlu yaprakları püskürtmek için bir sprey kullandı.",
+   "Atmosferdeki aerosoller, güneş ışığını saçarak ve bulut oluşumunu değiştirerek iklimi etkileyebilir."
+  ],
+  "col": [
+   "aerosol kutusu",
+   "aerosol sprey",
+   "atmosferik aerosoller",
+   "aerosol parçacıkları"
+  ],
+  "tip": "Günlük dilde sprey kutusunu, bilimsel dilde ise gaz içinde asılı kalan katı veya sıvı zerrecikleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "palatable",
+  "senses": [
+   "lezzetli; yenilebilir",
+   "kabul edilebilir"
+  ],
+  "ex": [
+   "Biraz limon suyu çorbayı daha lezzetli hale getirdi.",
+   "Ulaşım ücretlerindeki kademeli artışlar, ani zamlara kıyasla yolcular için daha kabul edilebilir olabilir."
+  ],
+  "col": [
+   "lezzetli yiyecek",
+   "bir şeyi kabul edilebilir kılmak",
+   "siyasi açıdan kabul edilebilir"
+  ],
+  "tip": "Her zaman 'çok lezzetli' anlamına gelmez. Bir planın ya da durumun tam istenmese de kabul edilebilir olduğunu da belirtir.",
+  "note": ""
+ },
+ {
+  "id": "frantic",
+  "senses": [
+   "çılgın gibi; telaşlı",
+   "çılgınca; aşırı hızlı"
+  ],
+  "ex": [
+   "Pasaportumu bulamayınca paniğe kapıldım.",
+   "Kentsel yaşamın çılgın temposu stresi artırabilir ve sakinlere dinlenmek için çok az zaman bırakabilir."
+  ],
+  "col": [
+   "çılgın gibi arama",
+   "çılgınca çabalar",
+   "çılgın tempo",
+   "endişeden çılgına dönmüş"
+  ],
+  "tip": "Kontrolü kaybetmiş bir telaşı ya da yoğun karmaşayı anlatır; ruhsal hastalık anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "ware",
+  "senses": [
+   "kap-kacak; eşya",
+   "mal; ürün"
+  ],
+  "ex": [
+   "Çömlekçi, sırlı çanak çömlek eşyalarını ahşap raflarda sergiledi.",
+   "Yerel pazarlar zanaatkârların ürünlerini doğrudan satmasına olanak tanır; bu da geleneksel becerileri ve küçük işletmeleri destekler."
+  ],
+  "col": [
+   "seramik eşya",
+   "sırlı çanak çömlek",
+   "ürünlerini satmak"
+  ],
+  "tip": "Satılan mallar için genellikle çoğul wares kullanılır. ware çoğunlukla bileşik kelimelerde görülür (örn. software).",
+  "note": ""
+ },
+ {
+  "id": "rigorous",
+  "senses": [
+   "titiz; dikkatli",
+   "sıkı; katı"
+  ],
+  "ex": [
+   "Tamirci arabamıza ayrıntılı bir güvenlik kontrolü yaptı.",
+   "Yeni tıbbi tedaviler, kamu sağlık hizmetlerinde yaygın olarak kullanılmadan önce titiz testlerden geçmelidir."
+  ],
+  "col": [
+   "titiz test",
+   "titiz analiz",
+   "sıkı antrenman"
+  ],
+  "tip": "Araştırma ve testlerde titizlik, eğitim ve kurallarda ise sıkılık vurgusu yapar; anlamı bağlama göre seçmek gerekir.",
+  "note": ""
+ }
+]

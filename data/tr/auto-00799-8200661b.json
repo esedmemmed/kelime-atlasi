@@ -1,0 +1,280 @@
+[
+ {
+  "id": "bell",
+  "senses": [
+   "zil; çan",
+   "zil sesi"
+  ],
+  "ex": [
+   "Bisikletçi yaklaşırken bisikletinin zili çaldı.",
+   "Birçok okulda zil, her dersin başladığını ve bittiğini belirtir."
+  ],
+  "col": [
+   "tanıdık gelmek",
+   "kapı zili",
+   "kilise çanı"
+  ],
+  "tip": "ring a bell kelimenin tam anlamıyla zil çalmak değil, 'tanıdık gelmek' anlamına gelir. Bu kalıbı ayrı bir öğe olarak öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "bright",
+  "senses": [
+   "parlak; canlı",
+   "zeki; kavrayışlı",
+   "umut verici; neşeli"
+  ],
+  "ex": [
+   "Bu sabah mutfak penceresinden parlak güneş ışığı süzülüyordu.",
+   "Kaliteli eğitime erişim, aile geçmişi ne olursa olsun gençlere parlak bir gelecek sunabilir."
+  ],
+  "col": [
+   "canlı renkler",
+   "zeki öğrenci",
+   "parlak gelecek",
+   "parlak güneş ışığı"
+  ],
+  "tip": "Işığın parlak olduğunu anlatırken bright kullanılır; az ışık alan, loş bir oda için ise dim ya da dark tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "boss",
+  "senses": [
+   "patron; amir",
+   "etrafa emir vermek"
+  ],
+  "ex": [
+   "Patronum randevum için erken çıkmama izin verdi.",
+   "Destekleyici bir patron, yapıcı geri bildirim vererek ve bireysel katkıları takdir ederek çalışan memnuniyetini artırabilir."
+  ],
+  "col": [
+   "patronunla konuşmak",
+   "destekleyici bir patron",
+   "kendi patronu olmak",
+   "birine emir vermek"
+  ],
+  "tip": "Günlük dilde kullanılır; resmî yazıda manager veya supervisor tercih edin. Fiil kalıbı: boss someone around.",
+  "note": ""
+ },
+ {
+  "id": "violin",
+  "senses": [
+   "keman"
+  ],
+  "ex": [
+   "Kız kardeşim her akşam yemekten sonra keman çalışır.",
+   "Keman dersleri çocukların konsantrasyonunu geliştirmelerine yardımcı olabilir, ancak düzenli dersler bazı aileler için pahalı olabilir."
+  ],
+  "col": [
+   "keman çalmak",
+   "keman dersleri",
+   "keman konçertosu"
+  ],
+  "tip": "Keman sanatçısı violinist olarak adlandırılır. 'Keman çalmak' için play the violin kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "rude",
+  "senses": [
+   "kaba; saygısız"
+  ],
+  "ex": [
+   "Akşam yemeğinde onu bölmek kabalıktı.",
+   "Okullar çocuklara, başkaları hakkında kaba yorumlar yapmadan saygılı bir biçimde nasıl katılmadıklarını ifade edeceklerini öğretmelidir."
+  ],
+  "col": [
+   "birine karşı kaba",
+   "kaba davranış",
+   "kaba yorum"
+  ],
+  "tip": "Birine karşı kaba olmak için rude to someone kalıbını kullanın; rude with yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "glove",
+  "senses": [
+   "eldiven"
+  ],
+  "ex": [
+   "Kayıp eldivenimi mutfak sandalyesinin altında buldum.",
+   "Sağlık çalışanları, enfeksiyon yayılma riskini azaltmak için hastalar arasında tek kullanımlık eldivenlerini değiştirmelidir."
+  ],
+  "col": [
+   "bir çift eldiven",
+   "tek kullanımlık eldiven",
+   "koruyucu eldiven",
+   "boks eldiveni"
+  ],
+  "tip": "Tek bir eldiven için glove, bir çift için a pair of gloves kullanılır. 'Bir çift eldiven' ifadesinde gloves çoğul gelir.",
+  "note": ""
+ },
+ {
+  "id": "complete",
+  "senses": [
+   "tamamlamak; doldurmak",
+   "tam; eksiksiz",
+   "tam; bütünüyle"
+  ],
+  "ex": [
+   "Yemek hazır olmadan hemen önce bulmacayı tamamladım.",
+   "Mesleki eğitimi tamamlayan öğrenciler, iş gücüne daha özgüvenle girmelerine yardımcı olacak pratik beceriler kazanır."
+  ],
+  "col": [
+   "bir kursu tamamlamak",
+   "bir formu doldurmak",
+   "tam bir takım",
+   "tam bir başarı"
+  ],
+  "tip": "complete a form bir formu doldurmak anlamına gelir, form hazırlamak değil. Fiil ve sıfat olarak iki farklı kullanımı vardır.",
+  "note": ""
+ },
+ {
+  "id": "kiss",
+  "senses": [
+   "öpmek",
+   "öpücük"
+  ],
+  "ex": [
+   "Kadın işe gitmeden önce kızını nazikçe öptü.",
+   "Bazı kültürlerde yanak öpücüğü, yakın arkadaşlar arasında yaygın bir selamlaşma biçimidir."
+  ],
+  "col": [
+   "birini öperek uğurlamak",
+   "birine öpücük vermek",
+   "yanak öpücüğü"
+  ],
+  "tip": "Birinin yanağından öpmek için kiss someone on the cheek kalıbı doğal bir ifadedir.",
+  "note": ""
+ },
+ {
+  "id": "space",
+  "senses": [
+   "boşluk; yer; alan",
+   "uzay",
+   "aralık bırakmak"
+  ],
+  "ex": [
+   "Bisikletin için bisikletimin yanında yeterince yer var.",
+   "Kalabalık mahallelerde daha fazla yeşil alan sağlamak, sakinlerin refahını artırabilir ve açık havada fiziksel aktiviteyi teşvik edebilir."
+  ],
+  "col": [
+   "yeşil alan",
+   "dış uzay",
+   "park yeri",
+   "uzay keşfi"
+  ],
+  "tip": "Genel anlamda 'boşluk' veya 'uzay' olarak space sayılamaz; 'park yeri' gibi belirli bir yer için a parking space biçiminde sayılabilir olur.",
+  "note": ""
+ },
+ {
+  "id": "pronounce",
+  "senses": [
+   "telaffuz etmek",
+   "resmen ilan etmek"
+  ],
+  "ex": [
+   "Adınızı nasıl telaffuz ettiğinizi bana öğretir misiniz?",
+   "Dil öğrenenler, düzenli dinleme ve geri bildirim pratiğinden sonra yabancı sesleri telaffuz etmeyi genellikle daha kolay bulur."
+  ],
+  "col": [
+   "bir kelimeyi telaffuz etmek",
+   "doğru telaffuz etmek",
+   "birini masum ilan etmek"
+  ],
+  "tip": "İsim hali pronunciation'dır. Fiildeki 'ou' harfleri isimde 'u' biçimine döner; yazarken bu farka dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "ability",
+  "senses": [
+   "yetenek; beceri"
+  ],
+  "ex": [
+   "Onun bisiklet tamir etme becerisi bütün arkadaşlarını etkiledi.",
+   "Düzenli okuma, çocukların karmaşık fikirleri anlama ve kendi görüşlerini açıkça ifade etme becerisini güçlendirebilir."
+  ],
+  "col": [
+   "öğrenme becerisi",
+   "bir beceri geliştirmek",
+   "akademik yetenek",
+   "doğal yetenek"
+  ],
+  "tip": "'Bir şeyi yapma yeteneği' anlamında ability to do kalıbı kullanılır; ability of doing yapısı doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "recorder",
+  "senses": [
+   "kayıt cihazı",
+   "blokflüt",
+   "kayıt görevlisi; kayıtçı"
+  ],
+  "ex": [
+   "Röportajdan önce kayıt cihazını onun yanına koydum.",
+   "Dijital bir kayıt cihazı kullanmak, araştırmacıların röportajları dikkatle gözden geçirmesine ve tekrar eden temaları belirlemesine olanak tanır."
+  ],
+  "col": [
+   "dijital kayıt cihazı",
+   "ses kayıt cihazı",
+   "blokflüt çalmak"
+  ],
+  "tip": "play the recorder 'blokflüt çalmak' anlamına gelir; 'kayıt cihazını oynatmak' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "along",
+  "senses": [
+   "boyunca",
+   "ileri; ilerleyerek",
+   "birlikte; beraberinde"
+  ],
+  "ex": [
+   "Nehir boyunca yürüdük ve ördekleri izledik.",
+   "Kalabalık yollar boyunca ağaç dikmek, yayalara gölge sağlayabilir ve kentsel alanların görünümünü iyileştirebilir."
+  ],
+  "col": [
+   "sahil boyunca",
+   "gelmek; katılmak",
+   "birini yanında getirmek",
+   "ile birlikte"
+  ],
+  "tip": "along uzun bir çizgi boyunca hareketi anlatır; across ise bir taraftan diğer tarafa geçişi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "madam",
+  "senses": [
+   "hanımefendi"
+  ],
+  "ex": [
+   "Pencere kenarında bir masa ister misiniz, hanımefendi?",
+   "Resmi müşteri hizmetleri ortamlarında personel, saygı göstermek için kadın müşteriye madam diye hitap edebilir."
+  ],
+  "col": [
+   "Sayın Hanımefendi",
+   "evet hanımefendi",
+   "Sayın Başkan Hanım"
+  ],
+  "tip": "Resmi hitap biçimidir; tanıdık bir kişiyle günlük konuşmada genellikle kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "missed",
+  "senses": [
+   "kaçırmak; yetişememek",
+   "ıskalamak; fark etmemek",
+   "özlemek"
+  ],
+  "ex": [
+   "Otobüsü kaçırdık ve birlikte eve yürüdük.",
+   "Hastalık nedeniyle dersleri kaçıran öğrencilere, sınıf arkadaşlarına yetişebilmeleri için ek destek verilmelidir."
+  ],
+  "col": [
+   "kaçırılan fırsat",
+   "cevapsız arama",
+   "kaçırılan son teslim tarihi"
+  ],
+  "tip": "miss fiilinin geçmiş zamanı ve geçmiş ortacı biçimidir; sondaki -ed eki /t/ olarak okunur.",
+  "note": ""
+ }
+]

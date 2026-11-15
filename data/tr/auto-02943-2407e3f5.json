@@ -1,0 +1,285 @@
+[
+ {
+  "id": "ghost",
+  "senses": [
+   "hayalet; ruh",
+   "hafif iz; eser"
+  ],
+  "ex": [
+   "Kuzenim partide hayalet kılığına girmişti.",
+   "Yerel hayalet hikâyeleri turistleri çekerken, toplulukların tarihi ve kültürel gelenekleri nasıl yorumladığını da ortaya koyabilir."
+  ],
+  "col": [
+   "hayalet hikâyesi",
+   "hayalet kasaba",
+   "bir gülümsemenin hafif izi",
+   "çok şaşırmak"
+  ],
+  "tip": "a ghost of a smile kalıbında ghost bir 'hafif iz' anlamında kullanılır; bu kullanım yalnızca kalıp olarak öğrenilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "hire",
+  "senses": [
+   "işe almak; tutmak",
+   "kiralamak",
+   "kiralama; kiralık"
+  ],
+  "ex": [
+   "Eşyalarımızı taşımak için bir minibüs kiraladık.",
+   "Yerel işçileri işe alan işletmeler, bölgesel ekonomileri güçlendirebilir ve uzun yolculuk ihtiyacını azaltabilir."
+  ],
+  "col": [
+   "personel almak",
+   "araba kiralamak",
+   "kiralık",
+   "araba kiralama"
+  ],
+  "tip": "Araç kiralamak için İngiliz İngilizcesinde hire, Amerikan İngilizcesinde rent tercih edilir. for hire 'kiralık' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "unemployed",
+  "senses": [
+   "işsiz"
+  ],
+  "ex": [
+   "Komşum fabrika kapandığından beri işsiz.",
+   "Uygun fiyatlı eğitim, işsiz yetişkinlerin değişen iş piyasası taleplerine uygun beceriler geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "işsiz kalmak",
+   "işsiz işçiler",
+   "uzun süreli işsizler"
+  ],
+  "tip": "the unemployed işsiz insanların tümünü ifade eder ve fiili çoğul alır: The unemployed need support.",
+  "note": ""
+ },
+ {
+  "id": "positive",
+  "senses": [
+   "olumlu; iyimser",
+   "emin; kesin",
+   "pozitif"
+  ],
+  "ex": [
+   "Piknik yağmur yüzünden bozulsa da o hep olumlu kaldı.",
+   "Doğayla düzenli temas, çocukların duygusal gelişimi ve genel iyi oluşları üzerinde olumlu bir etki yaratabilir."
+  ],
+  "col": [
+   "olumlu tutum",
+   "olumlu etki",
+   "olumlu sonuç"
+  ],
+  "tip": "Test bağlamında positive 'pozitif' (hastalık var) demektir; her zaman olumlu haber anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "drummer",
+  "senses": [
+   "davulcu"
+  ],
+  "ex": [
+   "Davulcu, şarkıdan önce baget­lerini birbirine vurdu.",
+   "Yetenekli bir davulcu, müzisyenlerin düzenli bir ritim tutmasına yardımcı olur; bu da canlı performans için şarttır."
+  ],
+  "col": [
+   "yetenekli davulcu",
+   "caz davulcusu",
+   "grubun davulcusu"
+  ],
+  "tip": "drum kelimesine -er eklenirken m harfi ikilenir: drummer. Yazımda bu harfi unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "divide",
+  "senses": [
+   "bölmek; paylaştırmak",
+   "bölmek",
+   "ayrılık; uçurum"
+  ],
+  "ex": [
+   "Herkes gelmeden pastayı dilimlere bölelim.",
+   "Güvenilir internet hizmetlerine eşit olmayan erişim, kentsel ve kırsal topluluklar arasındaki dijital uçurumu derinleştirebilir."
+  ],
+  "col": [
+   "gruplara bölmek",
+   "eşit paylaştırmak",
+   "...ile bölmek",
+   "dijital uçurum"
+  ],
+  "tip": "divide into parçalara ayırmak; divide by ise bir sayıya bölmek anlamına gelir. Matematikte divide 12 by 3 sırası önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "recognise",
+  "senses": [
+   "tanımak",
+   "kabul etmek; fark etmek",
+   "resmen tanımak; ödüllendirmek"
+  ],
+  "ex": [
+   "Yeni saç kesimine rağmen kardeşini hemen tanıdım.",
+   "Okullar, düzenli fiziksel aktivitenin öğrencilerin hem sağlığını hem de akademik başarısını artırabileceğini giderek daha çok kabul ediyor."
+  ],
+  "col": [
+   "yüzü tanımak",
+   "önemini kabul etmek",
+   "resmen tanımak"
+  ],
+  "tip": "Amerikan İngilizcesinde recognize yazılır; İngiliz yazımında recognise kullanılır. Yazım tercihinizi tutarlı tutun.",
+  "note": ""
+ },
+ {
+  "id": "upper",
+  "senses": [
+   "üst; üstteki",
+   "yüksek; üst düzey"
+  ],
+  "ex": [
+   "Yedek battaniyeleri üst rafta tut.",
+   "Apartmanların üst katlarındaki sakinler, asansörler çalışmadığında zorluk yaşayabilir."
+  ],
+  "col": [
+   "üst kat",
+   "üst vücut",
+   "üst sınır",
+   "üst sınıf"
+  ],
+  "tip": "Genellikle isimden önce gelir: upper floor. Karşıt anlamlısı lower'dır.",
+  "note": ""
+ },
+ {
+  "id": "fare",
+  "senses": [
+   "bilet ücreti; yolcu ücreti",
+   "gitmek; idare etmek",
+   "yemek; yiyecek"
+  ],
+  "ex": [
+   "Otobüs parası için tam yetecek kadar bozuk param vardı.",
+   "Tren ücretlerini düşürmek, işe gidip gelenleri arabalarını evde bırakıp toplu taşımayı kullanmaya teşvik edebilir."
+  ],
+  "col": [
+   "otobüs ücreti",
+   "bilet zammı",
+   "iyi gitmek",
+   "geleneksel yemekler"
+  ],
+  "tip": "fare yolculuk ücretini anlatır; fee ise hizmet veya okul ücreti için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "worth",
+  "senses": [
+   "değerinde",
+   "değer; değecek",
+   "değer; önem"
+  ],
+  "ex": [
+   "Bu eski bisiklet hâlâ elli sterlin değerinde.",
+   "Toplu taşımaya yatırım yapmak, trafik sıkışıklığını ve kirliliği azaltabildiği için ilk maliyetine değer."
+  ],
+  "col": [
+   "yapmaya değer olmak",
+   "çabaya değmek",
+   "değerini kanıtlamak"
+  ],
+  "tip": "be worth kalıbından sonra -ing kullanılır: It is worth trying. worth to do yapısı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "collar",
+  "senses": [
+   "yaka",
+   "tasma",
+   "yakalamak; durdurmak"
+  ],
+  "ex": [
+   "Mülakattan önce gömleğinin yakasını düzeltti.",
+   "İyi oturan bir tasma, sahiplerin köpeği bağlayıp halka açık alanlarda kontrol altında tutmasını sağlar."
+  ],
+  "col": [
+   "gömlek yakası",
+   "köpek tasması",
+   "sert yaka",
+   "yakasını kaldırmak"
+  ],
+  "tip": "white-collar 'beyaz yakalı', blue-collar 'mavi yakalı' anlamına gelir ve iş dünyası için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "injury",
+  "senses": [
+   "yaralanma; sakatlık"
+  ],
+  "ex": [
+   "Diz yaralanması onu futbol antrenmanlarından uzak tuttu.",
+   "İşverenler, ağır makine kullanan çalışanlar arasında yaralanma riskini azaltmak için düzenli güvenlik eğitimi vermelidir."
+  ],
+  "col": [
+   "yaralanmak",
+   "ciddi yaralanma",
+   "diz yaralanması",
+   "yaralanma riski"
+  ],
+  "tip": "Belirli bir yara sayılabilir (an injury); genel bedensel zarar anlamında ise sayılamayan isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reliable",
+  "senses": [
+   "güvenilir"
+  ],
+  "ex": [
+   "Eski arabamız soğuk havalarda hâlâ güvenilir.",
+   "Güvenilir bilgiye erişim, vatandaşların sağlıkları ve mali durumları hakkında bilinçli kararlar almasına yardımcı olur."
+  ],
+  "col": [
+   "güvenilir kaynak",
+   "güvenilir bilgi",
+   "güvenilir hizmet"
+  ],
+  "tip": "reliable hem kişi hem bilgi hem de makine için kullanılabilir; istikrarlı ve güvenle işleyen şeyleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "surface",
+  "senses": [
+   "yüzey; üst katman",
+   "yüzeye çıkmak",
+   "ortaya çıkmak; gün yüzüne çıkmak"
+  ],
+  "ex": [
+   "Öğle yemeği hazırlamaya başlamadan önce mutfak tezgâhını silin.",
+   "Koyu renkli yol yüzeyleri gündüz ısıyı emer ve kentsel alanlarda sıcaklıkların yükselmesine katkıda bulunur."
+  ],
+  "col": [
+   "pürüzlü yüzey",
+   "Dünya'nın yüzeyi",
+   "yüzeyin altında",
+   "yüzey gerilimi"
+  ],
+  "tip": "on the surface hem 'yüzeyde' hem de 'görünüşte' anlamına gelebilir; bağlama göre çevirin.",
+  "note": ""
+ },
+ {
+  "id": "version",
+  "senses": [
+   "sürüm; versiyon",
+   "anlatım; bakış açısı"
+  ],
+  "ex": [
+   "Bu uygulamanın yeni sürümü çok daha hızlı açılıyor.",
+   "Her tanığın olayları nasıl anlattığını karşılaştırmak, soruşturmacıların neler olduğunu daha doğru anlamasına yardımcı olur."
+  ],
+  "col": [
+   "en son sürüm",
+   "güncellenmiş sürüm",
+   "olayların bir anlatımı",
+   "film uyarlaması"
+  ],
+  "tip": "version aynı şeyin farklı biçimini; kişinin bir olayla ilgili kendi anlatımını da ifade eder.",
+  "note": ""
+ }
+]

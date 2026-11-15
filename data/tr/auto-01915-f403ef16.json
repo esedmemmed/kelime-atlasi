@@ -1,0 +1,280 @@
+[
+ {
+  "id": "access",
+  "senses": [
+   "erişim; kullanım hakkı",
+   "giriş; geçit",
+   "erişmek; ulaşmak"
+  ],
+  "ex": [
+   "Misafirler gün batımına kadar havuzu kullanabilir.",
+   "Uygun fiyatlı internet erişimi, kırsal bölgedeki öğrencilerin daha geniş bir eğitim kaynağından yararlanmasını sağlıyor."
+  ],
+  "col": [
+   "eğitime erişim",
+   "internet erişimi",
+   "erişim sağlamak",
+   "bilgiye erişmek"
+  ],
+  "tip": "İsim olarak access 'to' ile kullanılır (access to). Fiil olarak doğrudan nesne alır, araya 'to' girmez: access information.",
+  "note": ""
+ },
+ {
+  "id": "unlike",
+  "senses": [
+   "-den farklı; -in aksine",
+   "-e yakışmayan"
+  ],
+  "ex": [
+   "Kardeşinin aksine Lina erken kalkmayı seviyor.",
+   "Özel araçların aksine toplu taşıma, yol alanını nispeten az kullanarak büyük grupları taşıyabiliyor."
+  ],
+  "col": [
+   "çoğu insanın aksine",
+   "oldukça farklı",
+   "başka hiçbir şeye benzemeyen",
+   "ona hiç yakışmayan"
+  ],
+  "tip": "Edat olduğu için ardından isim ya da zamir gelir; özne ve fiil içeren tam bir cümle doğrudan gelmez.",
+  "note": ""
+ },
+ {
+  "id": "argument",
+  "senses": [
+   "tartışma; kavga",
+   "argüman; gerekçe"
+  ],
+  "ex": [
+   "Sıranın kimde olduğu konusunda tartıştık.",
+   "Toplu taşımaya yatırım yapılması için en güçlü gerekçe, kentsel hava kirliliğini azaltma potansiyelidir."
+  ],
+  "col": [
+   "tartışmak",
+   "inandırıcı bir gerekçe",
+   "lehte bir gerekçe",
+   "aleyhte bir gerekçe"
+  ],
+  "tip": "Tartışma anlamında genellikle about ya da with kullanılır. Bir görüşü desteklemek için argument for, karşı çıkmak için argument against kalıpları kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ashamed",
+  "senses": [
+   "utanmış; mahcup",
+   "utandığı için çekinen"
+  ],
+  "ex": [
+   "Arkadaşımın hatasına gülünce kendimi utanmış hissettim.",
+   "Zorlandıkları zor derslerde yardım istemekten öğrencilerin hiçbir zaman utanmamaları gerekir."
+  ],
+  "col": [
+   "utanç duymak",
+   "kendinden utanmak",
+   "itiraf etmekten utanmak"
+  ],
+  "tip": "Genellikle be ashamed of (bir şeyden utanmak) veya be ashamed to do (bir şeyi yapmaya utanmak) kalıplarında kullanılır. 'of' ve 'to' seçimine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "income",
+  "senses": [
+   "gelir; kazanç"
+  ],
+  "ex": [
+   "Hafta sonu işim bana küçük bir ek gelir sağlıyor.",
+   "Uygun fiyatlı toplu taşıma, düşük gelirli ailelerin işe ve temel hizmetlere daha kolay ulaşmasını sağlıyor."
+  ],
+  "col": [
+   "düşük gelir",
+   "hane geliri",
+   "harcanabilir gelir",
+   "gelir kaynağı"
+  ],
+  "tip": "Income, salary (maaş) kelimesinden daha geniş bir anlama sahiptir; kira ve yatırım getirisi gibi gelirleri de kapsar.",
+  "note": ""
+ },
+ {
+  "id": "outdoors",
+  "senses": [
+   "dışarıda; açık havada",
+   "açık hava; doğa"
+  ],
+  "ex": [
+   "Bu gece hava yemek yemek için yeterince sıcak, dışarıda yiyebiliriz.",
+   "Açık havada vakit geçirmek, çocukların iyi oluşunu artırabilir ve doğal çevreyi korumaya olan ilgilerini güçlendirebilir."
+  ],
+  "col": [
+   "açık havada vakit geçirmek",
+   "açık havada yemek yemek",
+   "doğa; açık hava"
+  ],
+  "tip": "Outdoors zarf olarak kullanılır (go outdoors). İsim önünde sıfat olarak outdoor kullanılır: outdoor activities.",
+  "note": ""
+ },
+ {
+  "id": "favour",
+  "senses": [
+   "iyilik; yardım",
+   "onay; destek; tercih",
+   "tercih etmek; desteklemek"
+  ],
+  "ex": [
+   "Bana bir iyilik yapıp bitkilerimi sular mısın?",
+   "Birçok sakin, toplu taşımaya yapılan yatırımı tercih ediyor; çünkü trafik sıkışıklığını azaltabilir ve hava kalitesini iyileştirebilir."
+  ],
+  "col": [
+   "birine iyilik yapmak",
+   "lehinde",
+   "iyiliği geri ödemek",
+   "bir seçeneği diğerine tercih etmek"
+  ],
+  "tip": "İngiliz yazımı favour, Amerikan yazımı favor'dur. Yardım etmek anlamında 'make a favour' değil, 'do someone a favour' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nightmare",
+  "senses": [
+   "kâbus",
+   "kâbus gibi durum; felaket"
+  ],
+  "ex": [
+   "Bir kâbustan uyandım ve lambayı yaktım.",
+   "Güvenilir toplu taşıma olmadığında, büyük şehirlerin dışında yaşayan insanlar için işe gidip gelmek kâbusa dönüşebilir."
+  ],
+  "col": [
+   "kâbus görmek",
+   "tekrarlayan kâbus",
+   "lojistik kâbusu"
+  ],
+  "tip": "Genellikle sayılabilir isimdir. Sıfat hali nightmarish (kâbus gibi) biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "underwear",
+  "senses": [
+   "iç çamaşırı; iç giyim"
+  ],
+  "ex": [
+   "Seyahat çantama temiz iç çamaşırı koydum.",
+   "Tüketiciler giderek nefes alabilen kumaşlardan yapılmış iç çamaşırını tercih ediyor; bu da üreticileri konfor ve dayanıklılığı artırmaya yönlendiriyor."
+  ],
+  "col": [
+   "pamuklu iç çamaşırı",
+   "termal iç çamaşırı",
+   "yedek iç çamaşırı"
+  ],
+  "tip": "Sayılamayan isimdir; 'an underwear' ya da 'underwears' demeyin. Parça sayısını belirtmek için a pair of underwear kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "queue",
+  "senses": [
+   "kuyruk; sıra",
+   "sıraya girmek; kuyrukta beklemek"
+  ],
+  "ex": [
+   "Bu sabah fırının önünde sıraya girdik.",
+   "Geliştirilmiş bilet sistemleri, yoğun istasyonlarda yolcuların kuyrukta geçirdiği süreyi azaltabilir."
+  ],
+  "col": [
+   "sıraya girmek",
+   "bilet için sıra beklemek",
+   "sıra atlamak",
+   "uzun bir kuyruk"
+  ],
+  "tip": "Queue İngiliz İngilizcesinde yaygındır; Amerikan İngilizcesinde line tercih edilir. Beklenen şeyi belirtmek için queue for kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "berry",
+  "senses": [
+   "küçük meyve; yemiş"
+  ],
+  "ex": [
+   "Olgun bir yemişi yoğurdunun içine düşürdü.",
+   "Yerli çalıları korumak, kuşların yıl boyunca meyve ve diğer besin kaynaklarına erişmesini sağlar."
+  ],
+  "col": [
+   "yabani meyveler",
+   "olgun meyveler",
+   "meyve toplamak"
+  ],
+  "tip": "Çoğul hali berries'tir. Günlük kullanımda çilek ve böğürtlen gibi küçük meyveleri kapsar; botanikteki tanımı daha dardır.",
+  "note": ""
+ },
+ {
+  "id": "lighter",
+  "senses": [
+   "çakmak"
+  ],
+  "ex": [
+   "Babam mumu yakmak için uzun bir çakmak kullandı.",
+   "Uzun süre kullanıldığında, doldurulabilir çakmak tek kullanımlık alternatiflere göre daha az plastik atığı üretebilir."
+  ],
+  "col": [
+   "doldurulabilir çakmak",
+   "tek kullanımlık çakmak",
+   "gazlı çakmak"
+  ],
+  "tip": "Lighter çakmak anlamında isimdir. Light sözcüğünün karşılaştırma hali olarak 'daha hafif' anlamı da vardır; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "branch",
+  "senses": [
+   "dal",
+   "şube",
+   "dallanmak; ayrılmak"
+  ],
+  "ex": [
+   "Küçük bir kuş en alçak dala kondu.",
+   "Yerel bir şube açmak, bankaların sınırlı internet erişimi olan topluluklara temel hizmet sunmasını sağlar."
+  ],
+  "col": [
+   "ağaç dalı",
+   "yerel şube",
+   "bilimin bir dalı",
+   "yeni alanlara yönelmek"
+  ],
+  "tip": "Branch hem ağaç dalı hem de kurum şubesi ya da bilim dalı anlamına gelir. Branch out into, yeni bir alana yönelmek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nest",
+  "senses": [
+   "yuva",
+   "yuva yapmak"
+  ],
+  "ex": [
+   "Küçük bir kuş yuvasına dal taşıdı.",
+   "Nadir kuşların yuva yaptığı ağaçları korumak, kentsel gelişimden etkilenen alanlarda biyolojik çeşitliliğin sürdürülmesi için şarttır."
+  ],
+  "col": [
+   "yuva yapmak",
+   "kuş yuvası",
+   "yuvalanma yeri",
+   "yuvalanma mevsimi"
+  ],
+  "tip": "Nest hem isim (yuva) hem fiil (yuva yapmak) olarak kullanılır. Nesting site ve nesting season gibi birleşik isimler üreme alanı ve mevsimi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "decrease",
+  "senses": [
+   "azalmak; düşmek",
+   "azalma; düşüş"
+  ],
+  "ex": [
+   "Eski ısıtıcıyı değiştirdikten sonra elektrik faturalarımız düştü.",
+   "Geliştirilmiş toplu taşıma, yoğun nüfuslu şehirlerde trafik sıkışıklığını azaltabilir ve hava kirliliğini düşürebilir."
+  ],
+  "col": [
+   "talepte azalma",
+   "önemli ölçüde azalmak",
+   "yarıya inmek",
+   "istikrarlı bir düşüş"
+  ],
+  "tip": "Fiilde vurgu sona, isimde başa düşer: fiilde ikinci hece, isimde ilk hece vurgulanır. Fiille miktar belirtmek için decrease by kullanılır.",
+  "note": ""
+ }
+]

@@ -175,11 +175,11 @@ def run(key, model, effort, start, batch):
         wait = call_wait or 3
         time.sleep(wait)
     if not pending:
-        dest.write_text(json.dumps([good[e["id"]] for e in batch], ensure_ascii=False, indent=1), encoding="utf-8")
+        dest.write_text(json.dumps([good[e["id"]] for e in batch], ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
         return start, "ok" if not retries else f"ok after {retries} retries"
     if good:
         ok = [e for e in batch if e["id"] in good]
-        dest_for(start, ok).write_text(json.dumps([good[e["id"]] for e in ok], ensure_ascii=False, indent=1), encoding="utf-8")
+        dest_for(start, ok).write_text(json.dumps([good[e["id"]] for e in ok], ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
         return start, f"partial: {len(good)}/{len(batch)}, failed: " + ", ".join(e["id"] for e in pending)
     return start, "failed"
 

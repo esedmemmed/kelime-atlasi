@@ -1,0 +1,286 @@
+[
+ {
+  "id": "carry",
+  "senses": [
+   "taşımak; götürmek",
+   "yanında taşımak",
+   "taşımak; bulaştırmak"
+  ],
+  "ex": [
+   "Bu ağır çantayı benim için üst kata taşıyabilir misin?",
+   "Yeniden kullanılabilir şişeler, işe gidip gelenlerin her gün tek kullanımlık plastik kaplar almadan içme suyu taşımasına olanak tanıyor."
+  ],
+  "col": [
+   "çanta taşımak",
+   "yolcu taşımak",
+   "virüs taşımak",
+   "araştırma yürütmek"
+  ],
+  "tip": "carry taşıma ya da yanında bulundurma anlamını vurgular; bring ve take ise hareketin yönünü belirtir. Yön önemliyse bring/take tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "hair",
+  "senses": [
+   "saç; kıl",
+   "saç teli; tek kıl"
+  ],
+  "ex": [
+   "Öğle yemeği hazırlamadan önce saçını arkadan topladı.",
+   "Bazı iş yerleri, daha kapsayıcı bir ortam yaratmak için saç ve kıyafet kurallarını gevşetiyor."
+  ],
+  "col": [
+   "saçını fırçalamak",
+   "saçını kestirmek",
+   "bir tel saç",
+   "saç dökülmesi"
+  ],
+  "tip": "hair genellikle sayılamaz; 'saçlar' anlamında hairs demeyin. Tek bir kılı belirtmek için a hair kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "green",
+  "senses": [
+   "yeşil",
+   "çevre dostu",
+   "yeşil renk"
+  ],
+  "ex": [
+   "Ceketi ayakkabılarıyla uyumlu olsun diye yeşil giydi.",
+   "Hükümetler, kamu hizmetlerini iyileştirerek ve bisikletliler için daha güvenli yollar yaparak çevre dostu ulaşımı teşvik edebilir."
+  ],
+  "col": [
+   "yeşil sebzeler",
+   "temiz enerji",
+   "yeşil alanlar",
+   "çevreci olmak"
+  ],
+  "tip": "green renk dışında çevre dostu anlamında da çok kullanılır. Kişi için deneyimsiz anlamı da vardır; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "call",
+  "senses": [
+   "aramak; telefon etmek",
+   "adlandırmak; çağırmak",
+   "telefon görüşmesi; çağrı"
+  ],
+  "ex": [
+   "Eve vardığımda bu gece seni ararım.",
+   "Çevre grupları, nehirlere ve okyanuslara karışan plastik atığı azaltmak için daha sıkı düzenlemeler çağrısında bulunuyor."
+  ],
+  "col": [
+   "telefon etmek",
+   "harekete geçmeye çağırmak",
+   "birini geri aramak"
+  ],
+  "tip": "call sb biriyle telefonla görüşmek anlamında kullanılır ve arada to gerekmez. call for ise bir şeyi talep etmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "cheese",
+  "senses": [
+   "peynir"
+  ],
+  "ex": [
+   "Sıcak sebzeli sandviçime biraz peynir ekledim.",
+   "Peynir protein ve kalsiyum sağlasa da bazı çeşitleri yüksek düzeyde tuz ve doymuş yağ içerir."
+  ],
+  "col": [
+   "bir dilim peynir",
+   "rendelenmiş peynir",
+   "krem peynir",
+   "peynirli sandviç"
+  ],
+  "tip": "cheese genellikle sayılamaz. Bir parça için a piece of cheese, dilim için a slice of cheese kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "meeting",
+  "senses": [
+   "toplantı",
+   "buluşma; karşılaşma"
+  ],
+  "ex": [
+   "Bugünkü ekip toplantımız öğle yemeğinden hemen sonra başlıyor.",
+   "Öğretmenler ve veliler arasındaki düzenli görüşmeler, öğrenme güçlüklerinin erken aşamada fark edilmesine yardımcı olabilir."
+  ],
+  "col": [
+   "toplantı düzenlemek",
+   "toplantıya katılmak",
+   "görüşme ayarlamak",
+   "personel toplantısı"
+  ],
+  "tip": "Toplantıya katılmak için attend a meeting ya da go to a meeting denir. meeting ayrıca planlı ya da rastgele buluşma anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "waiter",
+  "senses": [
+   "garson; erkek garson"
+  ],
+  "ex": [
+   "Garson çorbamızı ve iki sıcak ekmeği getirdi.",
+   "İyi eğitilmiş bir garson, farklı ihtiyaçları olan müşterilere sabırla karşılık vererek yemek deneyimini iyileştirebilir."
+  ],
+  "col": [
+   "garson olarak çalışmak",
+   "baş garson",
+   "garsona sormak"
+  ],
+  "tip": "waiter geleneksel olarak erkek garsonu anlatır. Cinsiyet belirtmeden söylemek için server kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "bank",
+  "senses": [
+   "banka",
+   "nehir kıyısı; göl kıyısı",
+   "parasını bankaya yatırmak"
+  ],
+  "ex": [
+   "Hesap açtırmak için bankaya gittim.",
+   "Bankalar, küçük işletmelere ve yeni girişimcilere uygun faizli krediler sunarak yerel ekonomik gelişmeyi destekleyebilir."
+  ],
+  "col": [
+   "banka hesabı",
+   "banka kredisi",
+   "nehir kıyısı",
+   "banka ekstresi"
+  ],
+  "tip": "Kıyı anlamında on the bank kullanılır. Kurum anlamında ise at the bank ya da in the bank tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "classroom",
+  "senses": [
+   "sınıf; derslik"
+  ],
+  "ex": [
+   "Kitaplarımızı açtığımızda güneş ışığı sınıfı doldurdu.",
+   "İyi tasarlanmış bir sınıf yeterli aydınlatma, rahat mobilya ve öğrencilerin birlikte çalışabileceği yeterli alan sunmalıdır."
+  ],
+  "col": [
+   "sınıf yönetimi",
+   "sınıf etkinlikleri",
+   "sınıf öğretimi"
+  ],
+  "tip": "in the classroom fiziksel mekânı vurgular; in class ise ders sırasında anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "plan",
+  "senses": [
+   "plan; program",
+   "planlamak",
+   "kat planı; kroki"
+  ],
+  "ex": [
+   "Planımız erken çıkıp trafikten kaçınmak.",
+   "Şehirler, özel araçlara kısıtlama getirmeden önce toplu taşımayı genişletmek için açık bir plana ihtiyaç duyar."
+  ],
+  "col": [
+   "plan yapmak",
+   "bir şey yapmayı planlamak",
+   "kat planı",
+   "uzun vadeli plan"
+  ],
+  "tip": "plan to do bir şeyi yapmayı planlamak anlamındadır. Geçmiş zaman planned olur; n harfi ikiye katlanır.",
+  "note": ""
+ },
+ {
+  "id": "funny",
+  "senses": [
+   "komik; güldürücü",
+   "garip; tuhaf"
+  ],
+  "ex": [
+   "O komik hikâye masadaki herkesi güldürdü.",
+   "Öğretmenler, zor kavramları daha akılda kalıcı hale getirmek ve öğrencileri katılıma teşvik etmek için bazen komik örnekler kullanır."
+  ],
+  "col": [
+   "komik bir hikâye",
+   "komik bir şaka",
+   "garip bir koku",
+   "bir şeyi komik bulmak"
+  ],
+  "tip": "funny komik ya da garip anlamına gelir; fun ise eğlence ve keyif veren şey anlamındadır. It's fun eğlenceli, it's funny komik demektir.",
+  "note": ""
+ },
+ {
+  "id": "pay",
+  "senses": [
+   "ödemek",
+   "maaş; ücret",
+   "değmek; karşılığını vermek"
+  ],
+  "ex": [
+   "Bu elmaların parasını kartla ödeyebilir miyim?",
+   "İşverenler, personel motivasyonunu artırmak ve işten ayrılanların sayısını azaltmak için çalışanlara adil ücret ödemelidir."
+  ],
+  "col": [
+   "faturayı ödemek",
+   "bir şey için ödemek",
+   "dikkat etmek",
+   "eşit ücret"
+  ],
+  "tip": "pay for satın alınan bir şeyin bedelini ödemek için kullanılır. Fatura gibi borçlarda for kullanılmaz: pay a bill. Geçmiş zaman paid.",
+  "note": ""
+ },
+ {
+  "id": "old",
+  "senses": [
+   "yaşlı; eski",
+   "…yaşında",
+   "eski; önceki"
+  ],
+  "ex": [
+   "Yaşlı köpeğimiz sıcak mutfak sobasının yanında uyuyor.",
+   "Eski binaların korunması, turistleri çekerken kültürel mirası koruyabilir ve yerel ekonomiyi destekleyebilir."
+  ],
+  "col": [
+   "yaşlılık",
+   "…yaşında",
+   "eski dost",
+   "eski binalar"
+  ],
+  "tip": "an old friend uzun süredir tanıdığınız kişi demektir; yaşlı olmak zorunlu değildir. Yaş belirtirken five years old gibi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "italy",
+  "senses": [
+   "İtalya"
+  ],
+  "ex": [
+   "Geçen yaz trenle İtalya'yı gezdik.",
+   "İtalya; tarihi şehirleri, kendine özgü mutfağı ve zengin sanat mirasıyla uluslararası ziyaretçileri çekiyor."
+  ],
+  "col": [
+   "Güney İtalya",
+   "İtalya'ya seyahat etmek",
+   "İtalya yapımı"
+  ],
+  "tip": "Ülke adları büyük harfle yazılır ve genellikle the almaz. Dil ve sıfat anlamı için Italian kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mistake",
+  "senses": [
+   "hata; yanlış",
+   "yanlış tanımak; karıştırmak"
+  ],
+  "ex": [
+   "Bu sabah yanlışlıkla senin şemsiyeni aldım.",
+   "Öğretmenler, öğrencilerin hatalarından utanmak yerine onlardan ders almalarını teşvik etmelidir."
+  ],
+  "col": [
+   "hata yapmak",
+   "yanlışlıkla",
+   "hatalardan ders almak",
+   "A'yı B ile karıştırmak"
+  ],
+  "tip": "Hata yapmak için make a mistake denir; do kullanılmaz. Fiil olarak düzensizdir: mistake, mistook, mistaken.",
+  "note": ""
+ }
+]

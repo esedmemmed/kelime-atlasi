@@ -1,0 +1,278 @@
+[
+ {
+  "id": "rescue",
+  "senses": [
+   "kurtarmak",
+   "kurtarma; yardım"
+  ],
+  "ex": [
+   "İtfaiyeciler bu sabah çatıdan bir yavru kediyi kurtardı.",
+   "Ciddi sel yolları kapatıp evlere zarar verdiğinde, kıyı kasabalarının sakinlerini kurtarmak için donanımlı ekiplere ihtiyaç var."
+  ],
+  "col": [
+   "birini bir şeyden kurtarmak",
+   "kurtarma ekibi",
+   "kurtarma operasyonu",
+   "imdada yetişmek"
+  ],
+  "tip": "Kalıp: rescue sb from sth. Kurtarılan kişi ya da şey rescue'dan sonra gelir, kurtarıldığı tehlike from ile belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "smooth",
+  "senses": [
+   "pürüzsüz; düzgün",
+   "sorunsuz; pürüzsüz",
+   "pürüzsüzleştirmek; düzeltmek"
+  ],
+  "ex": [
+   "Bu taş elimde pürüzsüz ve serin hissettiriyor.",
+   "Yeni bir çalışma sistemine sorunsuz geçiş için bölümler arasında açık iletişim şarttır."
+  ],
+  "col": [
+   "pürüzsüz yüzey",
+   "sorunsuz geçiş",
+   "sorunsuz işleyiş",
+   "kırışıklıkları gidermek"
+  ],
+  "tip": "Sondaki th sesi sert değil, sesli /ð/ olarak okunur. Zarf hâli smoothly, işlerin sorunsuz ilerlemesini anlatmak için sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cheque-check",
+  "senses": [
+   "çek"
+  ],
+  "ex": [
+   "Büyükannem doğum günüm için bana bir çek gönderdi.",
+   "Dijital ödemeler giderek yaygınlaşsa da bazı işletmeler müşterilerinden hâlâ çek kabul ediyor."
+  ],
+  "col": [
+   "çekle ödemek",
+   "çek yazmak",
+   "çeki nakde çevirmek",
+   "karşılıksız çek"
+  ],
+  "tip": "İngiliz İngilizcesinde cheque, Amerikan İngilizcesinde check yazılır. Okunuşları aynıdır; sınavda iki yazımı da tanımak yeterlidir.",
+  "note": "İngiliz ve Amerikan yazımları birlikte verilmiştir; tek bir madde başlığı değildir."
+ },
+ {
+  "id": "container",
+  "senses": [
+   "kap; saklama kabı",
+   "konteyner"
+  ],
+  "ex": [
+   "Artan pirinci kapaklı bir kapta saklayın.",
+   "İnsanlar tek kullanımlık ambalaj yerine yeniden kullanılabilir yemek kaplarını tercih ederse evdeki atık azalabilir."
+  ],
+  "col": [
+   "hava geçirmez kap",
+   "yemek kabı",
+   "nakliye konteyneri"
+  ],
+  "tip": "Genel anlamda her türlü kabı, taşımacılıkta ise büyük metal kutuyu, yani konteyneri anlatır. Bağlama göre anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "ban",
+  "senses": [
+   "yasaklamak",
+   "yasak"
+  ],
+  "ex": [
+   "Kütüphane, halka açık bilgisayarların yanında yiyecek yasaklıyor.",
+   "Hükümetler, tüketicileri kanıtlanmamış sağlık faydaları olan ürünleri satın almaya yönlendiren yanıltıcı reklamları yasaklamalıdır."
+  ],
+  "col": [
+   "sigarayı yasaklamak",
+   "bir şeye getirilen yasak",
+   "yasak uygulamak",
+   "yasağı kaldırmak"
+  ],
+  "tip": "Kalıplar: ban doing ya da ban sb from doing. Geçmiş zaman biçimi banned'dır (ban, banned, banned).",
+  "note": ""
+ },
+ {
+  "id": "portrait",
+  "senses": [
+   "portre",
+   "betimleme; tasvir"
+  ],
+  "ex": [
+   "Büyükannemin portresi oturma odasındaki şöminenin üstünde asılı.",
+   "Belgesel, genç nesiller kentlere taşınırken kırsal yaşamın etkileyici bir tasvirini sunuyor."
+  ],
+  "col": [
+   "portre çizmek",
+   "aile portresi",
+   "canlı bir betimleme",
+   "portre fotoğrafçılığı"
+  ],
+  "tip": "Portrait insanı ana konu alan resim ya da fotoğrafı anlatır. Manzara için landscape kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tap",
+  "senses": [
+   "musluk",
+   "hafifçe vurmak",
+   "yararlanmak; kullanmak"
+  ],
+  "ex": [
+   "Diş fırçalarken lütfen musluğu kapatın.",
+   "Üniversiteler, yakın toplulukları etkileyen çevre sorunlarına pratik çözümler geliştirmek için yerel uzmanlıktan yararlanabilir."
+  ],
+  "col": [
+   "şebeke suyu",
+   "musluğu kapatmak",
+   "birinin omzuna hafifçe vurmak",
+   "kaynaklardan yararlanmak"
+  ],
+  "tip": "Musluk anlamında Amerikan İngilizcesinde genellikle faucet kullanılır. Fiil olarak tap into kalıbı, bir kaynağı kullanmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "pony",
+  "senses": [
+   "midilli; küçük at"
+  ],
+  "ex": [
+   "Küçük midilli elimden bir havucu nazikçe yedi.",
+   "Gözetim altında midilliye binmek, çocuklara hayvanlara sorumlulukla bakmayı öğretirken özgüven kazandırabilir."
+  ],
+  "col": [
+   "midilliye binmek",
+   "midilli binme sporu",
+   "Shetland midillisi"
+  ],
+  "tip": "Pony küçük cins atı anlatır. Yavru at ise foal kelimesiyle ifade edilir.",
+  "note": ""
+ },
+ {
+  "id": "infinitive",
+  "senses": [
+   "mastar; yalın fiil",
+   "mastarla ilgili"
+  ],
+  "ex": [
+   "Öğretmenimiz mastarı üç basit örnekle açıkladı.",
+   "Mastarı ne zaman kullanacağını bilmek, dil öğrenenlerin niyet ve amaçlarını daha doğru ifade etmesine yardımcı olur."
+  ],
+  "col": [
+   "to'suz yalın mastar",
+   "to'lu mastar",
+   "mastar öbeği"
+  ],
+  "tip": "İngilizce mastarda to kullanılabilir ya da kullanılmayabilir (to go / must go). Must, can gibi kalıplardan sonra to gelmez.",
+  "note": ""
+ },
+ {
+  "id": "protection",
+  "senses": [
+   "koruma; korunma"
+  ],
+  "ex": [
+   "Bu kalın mont soğuk rüzgâra karşı koruma sağlar.",
+   "Tehlike altındaki türlerin ve doğal yaşam alanlarının korunması için daha sıkı çevre yasaları şarttır."
+  ],
+  "col": [
+   "...e karşı koruma",
+   "çevrenin korunması",
+   "koruma sağlamak"
+  ],
+  "tip": "Genellikle sayılamaz. Neyden korunulduğu from ya da against ile belirtilir: protection from/against harm.",
+  "note": ""
+ },
+ {
+  "id": "suburb",
+  "senses": [
+   "banliyö; kent çeperi"
+  ],
+  "ex": [
+   "Sessiz, nehre yakın bir banliyöye taşındılar.",
+   "Güvenilir toplu taşıma, uzak banliyölerde yaşayan sakinlerin şehir merkezindeki iş imkânlarına ulaşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "konut ağırlıklı banliyö",
+   "banliyöde yaşamak",
+   "yeşil banliyö"
+  ],
+  "tip": "Genellikle the suburbs biçiminde kullanılır. Kırsal alan anlamına gelmez, şehrin dışındaki yerleşim bölgesini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "property",
+  "senses": [
+   "mülk; özel eşya",
+   "mülk; gayrimenkul",
+   "özellik; nitelik"
+  ],
+  "ex": [
+   "Yüzerken lütfen kişisel eşyalarınızı güvende tutun.",
+   "Yapı malzemelerinin ısıl özelliklerini anlamak, mimarların daha az ısıtma gerektiren evler tasarlamasına yardımcı olur."
+  ],
+  "col": [
+   "özel mülk",
+   "emlak fiyatları",
+   "fiziksel özellikler",
+   "fikri mülkiyet"
+  ],
+  "tip": "Eşya anlamında sayılamaz. Mülk (gayrimenkul) ve özellik anlamlarında ise sayılabilir; a property, properties biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "introduction",
+  "senses": [
+   "tanıtım; giriş",
+   "tanıtma; uygulamaya koyma"
+  ],
+  "ex": [
+   "Kısa bir tanışmadan sonra birlikte yemek yapmaya başladık.",
+   "Elektrikli otobüslerin tanıtılması, yoğun nüfuslu kentsel alanlarda hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "kısa bir tanıtım",
+   "...e giriş",
+   "...in tanıtılması"
+  ],
+  "tip": "Bir konuya giriş için introduction to, bir şeyin hayata geçirilmesi için introduction of kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "ribbon",
+  "senses": [
+   "kurdele; şerit",
+   "şerit; bant"
+  ],
+  "ex": [
+   "Hediyenin etrafına mavi bir kurdele bağladı.",
+   "Topluluk kutlamaları sırasında sakinler, misafirperver bir hava yaratmak için ortak alanları renkli kurdelelerle süsler."
+  ],
+  "col": [
+   "kurdele bağlamak",
+   "kurdele fiyonk",
+   "kurdele kesmek (açılış)",
+   "uzun ince bir yol şeridi"
+  ],
+  "tip": "Genellikle sayılabilir. a ribbon of ile uzun ve ince bir şerit biçiminde görünen yol ya da nehir gibi şeyler de anlatılabilir.",
+  "note": ""
+ },
+ {
+  "id": "eastern",
+  "senses": [
+   "doğudaki; doğu"
+  ],
+  "ex": [
+   "Otelimiz adanın sessiz doğu kıyısına bakıyor.",
+   "Gelişmiş demiryolu bağlantıları, doğu bölgelerinin yatırım çekmesine ve ülke içindeki ekonomik farkların azalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "doğu kıyısı",
+   "doğu bölgesi",
+   "doğu sınırı"
+  ],
+  "tip": "Eastern genellikle yalnızca sıfat olarak kullanılır ve bir yerin doğusunu anlatır. İnsanlar için kullanımı sınırlıdır; bu yüzden dikkatli olun.",
+  "note": ""
+ }
+]

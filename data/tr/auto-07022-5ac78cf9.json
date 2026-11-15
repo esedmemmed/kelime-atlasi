@@ -1,0 +1,258 @@
+[
+ {
+  "id": "homely",
+  "senses": [
+   "samimi; sıcak",
+   "sade; çekici olmayan"
+  ],
+  "ex": [
+   "Küçük kafe, her sandalyede yastık olmasıyla insana ev gibi bir his veriyordu.",
+   "Bakımevlerinde evsel bir ortam, yaşlıların kendilerini daha rahat ve güvende hissetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "evsel atmosfer",
+   "samimi çevre",
+   "çekici olmayan yüz"
+  ],
+  "tip": "İngiliz İngilizcesinde 'samimi, sıcak' anlamına gelir; Amerikan İngilizcesinde ise 'çekici olmayan' anlamına gelebilir. İnsanlar için kullanırken dikkatli olun.",
+  "note": ""
+ },
+ {
+  "id": "sophistication",
+  "senses": [
+   "gelişmişlik; karmaşıklık",
+   "incelik; görgü"
+  ],
+  "ex": [
+   "Fotoğraf makinesinin ne kadar gelişmiş olduğu beni şaşırttı.",
+   "Tıbbi cihazların giderek gelişmesi, doktorların bazı hastalıkları daha erken aşamada tespit etmesine olanak tanıyor."
+  ],
+  "col": [
+   "teknolojik gelişmişlik",
+   "yüksek düzeyde karmaşıklık",
+   "toplumsal incelik"
+  ],
+  "tip": "Sayılamayan isimdir. Hem teknik karmaşıklık hem de kültürel incelik için kullanılır; sıfat hali sophisticated.",
+  "note": ""
+ },
+ {
+  "id": "avenge",
+  "senses": [
+   "öcünü almak; intikam almak"
+  ],
+  "ex": [
+   "Takımımız geçen yılki yenilgisinin intikamını almayı umuyor.",
+   "Tarihi anlatımlarda liderler çoğu zaman kalıcı bir barış aramak yerine geçmişteki yenilgilerin öcünü almaya çalışan biçimde gösterilir."
+  ],
+  "col": [
+   "yenilgisinin intikamını almak",
+   "bir haksızlığın öcünü almak"
+  ],
+  "tip": "Fiil olarak kullanılır; genellikle bir yenilgi ya da haksızlık için. İsim hali revenge'dir.",
+  "note": ""
+ },
+ {
+  "id": "bestow",
+  "senses": [
+   "bahşetmek; takdim etmek"
+  ],
+  "ex": [
+   "Kulüp, antrenörümüze özel bir ödül verdi.",
+   "Üniversiteler, topluma önemli katkılarda bulunmuş kişilere çoğu zaman fahri derece verir."
+  ],
+  "col": [
+   "birine onur bahşetmek",
+   "birine hediye vermek",
+   "birine unvan vermek"
+  ],
+  "tip": "Resmi bir fiildir; bestow sth on/upon sb kalıbıyla kullanılır. Günlük konuşmada give daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "deplore",
+  "senses": [
+   "kınamak; derinden üzülmek"
+  ],
+  "ex": [
+   "Komşularımız nehir kenarına çöp atılmasını şiddetle kınıyor.",
+   "Birçok eğitimci, devlet okullarında müzik ve sanat derslerine erişimi kısıtlayan kesintileri eleştiriyor."
+  ],
+  "col": [
+   "şiddeti kınamak",
+   "eksikliğine üzülmek",
+   "kararı kınamak"
+  ],
+  "tip": "Resmi ve güçlü bir fiildir, doğrudan nesne alır. Sıradan 'hate' ya da 'dislike' yerine kullanılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "splint",
+  "senses": [
+   "atel",
+   "atel uygulamak; sabitlemek"
+  ],
+  "ex": [
+   "Hemşire, sakatlanan parmağıma bir atel yerleştirdi.",
+   "Yaralı bir uzvu atel ile sabitlemek, hasta tedavi beklerken daha fazla zarar görmeyi önleyebilir."
+  ],
+  "col": [
+   "atel takmak",
+   "atel uygulamak",
+   "bilek ateli"
+  ],
+  "tip": "Yaralı bölgeyi sabitleyen atel anlamındadır; alçı için ise cast kullanılır. Fiil olarak da kullanılır: splint the arm.",
+  "note": ""
+ },
+ {
+  "id": "staphylococcus",
+  "senses": [
+   "stafilokok"
+  ],
+  "ex": [
+   "Laboratuvar, deri örneğinde stafilokok buldu.",
+   "Bazı stafilokok türleri yaygın antibiyotiklere dirençlidir, bu da hastane enfeksiyonlarının tedavisini zorlaştırır."
+  ],
+  "col": [
+   "stafilokok enfeksiyonu",
+   "stafilokok türleri",
+   "antibiyotiğe dirençli stafilokok"
+  ],
+  "tip": "Çoğulu staphylococci, kısaltması ise staph'tır. Tıbbi metinlerde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "depute",
+  "senses": [
+   "görevlendirmek; yetki vermek"
+  ],
+  "ex": [
+   "Müdür, toplantıya katılması için asistanını görevlendirdi.",
+   "Yerel yönetimler, binaları denetleyip güvenlik yönetmeliklerine uyulmasını sağlamak için eğitimli memurları görevlendirebilir."
+  ],
+  "col": [
+   "birini bir şey yapmak için görevlendirmek",
+   "bir temsilci görevlendirmek"
+  ],
+  "tip": "Resmi bir sözcüktür; depute sb to do sth kalıbıyla kullanılır. Günlük dilde send ya da appoint daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "wreathe",
+  "senses": [
+   "sarmak; kuşatmak"
+  ],
+  "ex": [
+   "Kasenin üstünde ince buhar bulutları yüzünü sarıyordu.",
+   "Yakındaki fabrikaların dumanı konut binalarını kaplayabilir; bu da daha sıkı endüstriyel emisyon denetimlerine duyulan ihtiyacı gösteriyor."
+  ],
+  "col": [
+   "dumana bürünmüş olmak",
+   "sis tepeleri sarmak",
+   "yüzü gülümsemeyle dolu olmak"
+  ],
+  "tip": "Edebi bir fiildir. wreathe /riːð/ ile isim olan wreath /riːθ/ farklı telaffuz edilir; wreath çelenk anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "vortex",
+  "senses": [
+   "girdap; kasırga",
+   "içinden çıkılmaz durum"
+  ],
+  "ex": [
+   "Nehir kıyısında yapraklar girdap oluşturarak döndü.",
+   "Uygun fiyatlı krediye erişimi olmayan bazı haneler, borç ve mali güvensizlik girdabına sürüklenebiliyor."
+  ],
+  "col": [
+   "dönen bir girdap",
+   "borç girdabı",
+   "girdabın içine çekilmek"
+  ],
+  "tip": "Çoğulu vortices ya da vortexes olabilir. Mecazi olarak zor çıkılan bir durumu anlatmak için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "preclude",
+  "senses": [
+   "önlemek; imkânsız kılmak"
+  ],
+  "ex": [
+   "Şiddetli yağmur yüzünden göl kenarında planladığımız pikniği yapamadık.",
+   "Yüksek öğrenim ücretleri, dezavantajlı kesimden gelen öğrencileri mali destek olmadan yükseköğretime erişimden alıkoyabilir."
+  ],
+  "col": [
+   "ihtimali ortadan kaldırmak",
+   "birini bir şey yapmaktan alıkoymak",
+   "daha fazla tartışmayı engellemek"
+  ],
+  "tip": "Resmi bir fiildir. preclude sb from doing sth kalıbıyla kullanılır ve prevent'e göre daha biçimseldir.",
+  "note": ""
+ },
+ {
+  "id": "profuse",
+  "senses": [
+   "bol; aşırı"
+  ],
+  "ex": [
+   "Çayımı döktüğü için bol bol özür diledi.",
+   "Açık havada egzersiz sırasında aşırı terleme sıvı kaybını artırabileceğinden düzenli su içmek özellikle önemlidir."
+  ],
+  "col": [
+   "bol özür",
+   "aşırı terleme",
+   "çok teşekkür"
+  ],
+  "tip": "Sıfattır ve genellikle özür, teşekkür ya da terleme gibi sözcüklerle kullanılır. Resmi ve abartılı bir tonu vardır.",
+  "note": ""
+ },
+ {
+  "id": "vex",
+  "senses": [
+   "üzmek; rahatsız etmek"
+  ],
+  "ex": [
+   "Musluktan sürekli damlayan su onu sinirlendirmeye başladı.",
+   "Toplu taşımanın nasıl finanse edileceği konusundaki anlaşmazlıklar, birçok büyüyen şehirde politika yapıcılarını hâlâ uğraştırıyor."
+  ],
+  "col": [
+   "politika yapıcılarını uğraştırmak",
+   "tartışmalı bir soru",
+   "gecikmelerden canı sıkılmak"
+  ],
+  "tip": "Resmi bir fiildir; günlük dilde annoy tercih edilir. vexed sıfatı 'tartışmalı, çözümü zor' anlamında da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "pervert",
+  "senses": [
+   "saptırmak; bozmak"
+  ],
+  "ex": [
+   "Antrenör, kuralları gizlice değiştirerek adil rekabeti bozdu.",
+   "Fonlama, mevcut politikaları destekleyen sonuçlar üretmeye bağlı olduğunda siyasi baskı bilimsel araştırmayı saptırabilir."
+  ],
+  "col": [
+   "adaletin işleyişini engellemek",
+   "gerçeği saptırmak"
+  ],
+  "tip": "Fiil olarak vurgu ikinci hecededir (pervERT); isim olarak ilk hecededir (PERvert) ve genellikle olumsuz bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "pilferage",
+  "senses": [
+   "küçük çaplı hırsızlık"
+  ],
+  "ex": [
+   "Dükkân, küçük hırsızlığı önlemek için artık depo odasını kilitliyor.",
+   "Perakendeciler, stok takibini iyileştirerek ve değerli ürünler için güvenli depolama sağlayarak küçük çaplı hırsızlıktan doğan kayıpları azaltabilir."
+  ],
+  "col": [
+   "küçük hırsızlığı önlemek",
+   "küçük hırsızlıktan kaynaklanan kayıplar",
+   "çalışan kaynaklı küçük hırsızlık"
+  ],
+  "tip": "Sayılamayan bir isimdir ve fiil değildir. Fiil hali pilfer, 'küçük şeyleri çalmak' anlamına gelir.",
+  "note": ""
+ }
+]

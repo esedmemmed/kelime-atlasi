@@ -1,0 +1,274 @@
+[
+ {
+  "id": "educate",
+  "senses": [
+   "eğitmek; yetiştirmek",
+   "bilgilendirmek; aydınlatmak"
+  ],
+  "ex": [
+   "Bu renkli resimli kitaplar, çocukları eğlendirirken onlara bir şeyler öğretiyor.",
+   "Halk sağlığı kampanyaları, insanları sadece kilo vermeye teşvik etmek yerine beslenme konusunda bilgilendirmeli."
+  ],
+  "col": [
+   "çocukları eğitmek",
+   "insanlara ... hakkında bilgi vermek",
+   "halkı bilgilendirmek"
+  ],
+  "tip": "educate genellikle kişinin yetişmesine vurgu yapar. Belirli bir dersi öğretirken teach daha yaygındır. Bilgilendirme anlamında about ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "impressed",
+  "senses": [
+   "hayran kalmış; etkilenmiş"
+  ],
+  "ex": [
+   "Bisikleti ne kadar çabuk tamir ettiğine hayran kaldım.",
+   "Ziyaretçiler, interaktif teknolojiyi özenle korunmuş tarihi eserlerle birleştiren müzelerden çoğunlukla etkileniyor."
+  ],
+  "col": [
+   "...den etkilenmiş",
+   "...e hayran",
+   "derinden etkilenmiş"
+  ],
+  "tip": "impressed kişinin duygusunu anlatır (etkilenmiş). impressive ise etkileyici olan şeyi anlatır: The film was impressive.",
+  "note": ""
+ },
+ {
+  "id": "obey",
+  "senses": [
+   "itaat etmek; uymak"
+  ],
+  "ex": [
+   "Köpeğimiz bir ödül karşılığında basit komutlara uyar.",
+   "Hız sınırlarına uyan sürücüler yayaları korumaya ve ciddi kaza riskini azaltmaya yardımcı olur."
+  ],
+  "col": [
+   "emirlere uymak",
+   "kanuna uymak",
+   "talimatlara uymak"
+  ],
+  "tip": "obey doğrudan nesne alır: obey the law. Yaygın hata, obey'den sonra to eklemektir; buna gerek yoktur.",
+  "note": ""
+ },
+ {
+  "id": "excitement",
+  "senses": [
+   "heyecan; coşku",
+   "heyecan verici şey; ilgi çekici olay"
+  ],
+  "ex": [
+   "Yavru köpekler geldiğinde çocuklar heyecandan zıpladı.",
+   "Uluslararası spor etkinlikleri heyecan yaratsa da ev sahibi şehirler uzun vadeli mali maliyetlerini dikkatle değerlendirmelidir."
+  ],
+  "col": [
+   "heyecanla",
+   "heyecan dolu bir his",
+   "heyecan yaratmak",
+   "heyecanını gizlemek"
+  ],
+  "tip": "Duygu anlamında excitement genellikle sayılamaz: with excitement. Heyecan verici bir şey anlamında sayılabilir kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "attack",
+  "senses": [
+   "saldırmak; sert eleştirmek",
+   "saldırı; sert eleştiri",
+   "kriz; nöbet"
+  ],
+  "ex": [
+   "Gölet kenarına yaklaştığımda kaz çantama saldırdı.",
+   "Eleştirmenler, yoksulluk içinde yaşayan aileler için pek destek sunmadığı gerekçesiyle öneriye sert biçimde saldı."
+  ],
+  "col": [
+   "saldırıya uğramak; hedef olmak",
+   "kalp krizi",
+   "bir öneriye saldırmak"
+  ],
+  "tip": "Fiil doğrudan nesne alır: attack someone. İsim olarak genellikle an attack on kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "blow",
+  "senses": [
+   "esmek; üflemek",
+   "ağır darbe; talihsizlik",
+   "yumruk; vuruş"
+  ],
+  "ex": [
+   "Soğuk bir rüzgâr boş oyun alanında yaprakları savurdu.",
+   "Yerel fabrikanın kapanması bölgedeki istihdam olanaklarına ciddi bir darbe vurdu."
+  ],
+  "col": [
+   "mumu üfleyerek söndürmek",
+   "burnunu sümkürmek",
+   "büyük bir darbe",
+   "...e darbe vurmak"
+  ],
+  "tip": "Düzensiz fiildir: blow–blew–blown. Geçmiş zamanda blew, bitmiş eylemde blown kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "storeroom",
+  "senses": [
+   "depo; kiler"
+  ],
+  "ex": [
+   "Yedek sandalyeler depoda düzgünce istiflenmiş.",
+   "Okullar acil durum malzemelerini, gerektiğinde personelin hızlıca ulaşabileceği güvenli bir depoda tutmalı."
+  ],
+  "col": [
+   "kilitli depo",
+   "depo rafları",
+   "bir şeyi depoda saklamak"
+  ],
+  "tip": "storeroom genellikle bina içindeki küçük bir oda anlamındadır. Büyük ticari depo için warehouse kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rid",
+  "senses": [
+   "kurtarmak; temizlemek"
+  ],
+  "ex": [
+   "Sonunda bozuk bahçe sandalyelerinden kurtulduk.",
+   "Şehirler atık toplamayı iyileştirerek ve sorumlu davranışı teşvik ederek sokaklarını aşırı çöpten arındırabilir."
+  ],
+  "col": [
+   "...dan kurtulmak",
+   "bir şeyi ...dan arındırmak",
+   "...dan kurtulmuş olmak"
+  ],
+  "tip": "get rid of en yaygın kalıptır. rid tek başına daha az kullanılır. rid A of B yapısında A'yı B'den arındırmak anlamı vardır.",
+  "note": ""
+ },
+ {
+  "id": "antarctic",
+  "senses": [
+   "Antarktika'ya ait; kutupsal",
+   "Antarktika; güney kutbu"
+  ],
+  "ex": [
+   "Antarktika buzları üzerindeki penguenler hakkında bir film izledik.",
+   "Bilim insanları, küresel sıcaklık artışının deniz seviyelerini nasıl etkilediğini anlamak için Antarktika buzullarını izliyor."
+  ],
+  "col": [
+   "Antarktika buzu",
+   "Antarktika bölgesi",
+   "Antarktika yaban hayatı"
+  ],
+  "tip": "Sıfat olarak Antarctic, isim olarak genellikle the Antarctic kullanılır. Antarctica ise kıtanın adıdır.",
+  "note": "Baş harf standart büyük harfe düzeltildi: Antarctic."
+ },
+ {
+  "id": "indeed",
+  "senses": [
+   "gerçekten; doğrusu",
+   "hatta; nitekim"
+  ],
+  "ex": [
+   "Çorba gerçekten çok lezzetliydi, bu yüzden bir tane daha yedim.",
+   "Toplu taşıma trafik sıkışıklığını azaltabilir; hatta güvenilir otobüs hizmetleri birçok sürücüyü araba kullanmayı bırakmaya ikna edebilir."
+  ],
+  "col": [
+   "gerçekten çok yararlı",
+   "gerçekten de durum böyle",
+   "eğer gerçekten"
+  ],
+  "tip": "very + sıfat + indeed kalıbıyla vurgu güçlendirilir. Önceki ifadeyi pekiştirmek için cümle başında veya ortasında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "region",
+  "senses": [
+   "bölge; yöre",
+   "vücut bölgesi; kısım"
+  ],
+  "ex": [
+   "Bu bölge elmaları ve peyniriyle ünlüdür.",
+   "Gelişmiş ulaşım bağlantıları bölgeye daha fazla işletmeyi çekebilir ve yerel halk için iş imkânları yaratabilir."
+  ],
+  "col": [
+   "kıyı bölgesi",
+   "kırsal bölge",
+   "yaklaşık; civarında"
+  ],
+  "tip": "in the region of sayılarla birlikte yaklaşık anlamında kullanılır: in the region of 500 people.",
+  "note": ""
+ },
+ {
+  "id": "breath",
+  "senses": [
+   "nefes; soluk",
+   "bir nefes; bir soluk alış"
+  ],
+  "ex": [
+   "Nefesi soğuk havada bir bulut oluşturdu.",
+   "Yavaş ve derin bir nefes almak, öğrencilerin önemli bir sınav öncesi kaygılarını yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "derin bir nefes almak",
+   "nefes nefese",
+   "nefesini tutmak",
+   "nefesini toparlamak"
+  ],
+  "tip": "breath isimdir, breathe fiildir. Telaffuz farkına dikkat edin: breath /θ/ ile, breathe /ð/ ile biter.",
+  "note": ""
+ },
+ {
+  "id": "second-hand",
+  "senses": [
+   "ikinci el; kullanılmış",
+   "dolaylı yoldan öğrenilmiş",
+   "ikinci elden; dolaylı olarak"
+  ],
+  "ex": [
+   "Yıllarca kullanmama rağmen ikinci el bisikletim hâlâ pürüzsüz gidiyor.",
+   "İkinci el mobilya almak, hane halkı harcamalarını azaltabilir ve kullanılabilir eşyaların çöpe gitmesini önleyebilir."
+  ],
+  "col": [
+   "ikinci el giysi",
+   "ikinci el dükkânı",
+   "ikinci elden almak",
+   "dolaylı bilgi"
+  ],
+  "tip": "Hem eşya hem bilgi için kullanılır. Bilgi için, doğrudan deneyim yerine başkasından duyulmuş anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tutor",
+  "senses": [
+   "özel öğretmen; eğitmen",
+   "birebir ders vermek"
+  ],
+  "ex": [
+   "Özel öğretmenim kesirleri kağıt dairelerle anlamama yardımcı oldu.",
+   "Kişisel bir öğretmen, öğrencilerin etkili çalışma alışkanlıkları geliştirmesine ve belirli öğrenme güçlüklerini gidermesine yardımcı olabilir."
+  ],
+  "col": [
+   "özel öğretmen",
+   "kişisel eğitmen",
+   "birine matematik özel dersi vermek"
+  ],
+  "tip": "tutor, bireysel veya küçük grup dersi veren kişi demektir. Her zaman üniversite öğretim üyesi anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "allergy",
+  "senses": [
+   "alerji"
+  ],
+  "ex": [
+   "Kardeşimin fıstık ve cevize karşı alerjisi var.",
+   "Okullar, ciddi bir gıda alerjisi reaksiyonu yaşayan çocuklara yardım etmek için açık prosedürlere sahip olmalıdır."
+  ],
+  "col": [
+   "gıda alerjisi",
+   "polen alerjisi",
+   "...e alerjisi olmak"
+  ],
+  "tip": "Kalıp: have an allergy to + alerjen. be allergic to yapısı da kullanılır; allergy ile allergic sıfatı karıştırılmamalı.",
+  "note": ""
+ }
+]

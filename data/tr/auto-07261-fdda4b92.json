@@ -1,0 +1,261 @@
+[
+ {
+  "id": "countermand",
+  "senses": [
+   "geri çağırmak; iptal etmek"
+  ],
+  "ex": [
+   "Müdür, dükkânı kapatma emrini iptal etti.",
+   "Yerel yetkililer tahliye emirlerini yalnızca tehlikenin geçtiğini gösteren güvenilir kanıtlar ortaya çıktığında iptal edebilir."
+  ],
+  "col": [
+   "bir emri iptal etmek",
+   "bir talimatı iptal etmek"
+  ],
+  "tip": "Resmi bir dildir; genellikle order veya instruction ile kullanılır. Gündelik konuşmada cancel daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "perverse",
+  "senses": [
+   "ters; inatçı",
+   "ters tepen; istenmeyen"
+  ],
+  "ex": [
+   "Her öneriye karşı çıkmaktan garip bir zevk alıyordu.",
+   "Kötü tasarlanmış sübvansiyonlar, şirketleri temiz üretime yatırım yapmak yerine kirliliği artırmaya teşvik eden ters teşviklere yol açabilir."
+  ],
+  "col": [
+   "garip bir zevk",
+   "ters teşvikler",
+   "ters etki"
+  ],
+  "tip": "Bu bağlamda 'ters, istenmeyen sonuç doğuran' anlamındadır. 'Pervers' (sapkın) anlamı yaygın değildir, karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "alluvial",
+  "senses": [
+   "alüvyal; akarsu tortulu"
+  ],
+  "ex": [
+   "Sebzelerimiz zengin alüvyal toprakta iyi yetişiyor.",
+   "Alüvyal ovalar, nehirlerin verimli çökeltiler bıraktığı alçak alanlarda genellikle yoğun tarımı destekler."
+  ],
+  "col": [
+   "alüvyal toprak",
+   "alüvyal birikintiler",
+   "alüvyal ova"
+  ],
+  "tip": "Jeoloji terimidir; akarsuyun taşıyıp bıraktığı çökeltileri anlatır. Sıfat olarak kullanılır, isim olan 'alluvium' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "superstructure",
+  "senses": [
+   "üst yapı",
+   "toplumsal üst yapı"
+  ],
+  "ex": [
+   "İşçiler gemi hareket etmeden önce geminin üst yapısını beyaza boyadı.",
+   "Mühendisler, bir binanın temellerinin değişen çevre koşullarında tüm üst yapıyı güvenle taşıyabildiğinden emin olmalıdır."
+  ],
+  "col": [
+   "geminin üst yapısı",
+   "çelik üst yapı",
+   "ideolojik üst yapı"
+  ],
+  "tip": "İnşaat ve gemi bağlamında temelin ya da güvertenin üstündeki kısmı anlatır. Toplum bilimde ekonomik temele dayanan kurumları ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "antonymous",
+  "senses": [
+   "zıt anlamlı"
+  ],
+  "ex": [
+   "Öğretmenimiz birkaç zıt anlamlı çifti açıklamak için resim kullandı.",
+   "Zıt anlamlı sıfatları birlikte öğrenmek, dil öğrencilerinin karşıt anlamları ayırt etmesine ve betimleyici kelime dağarcıklarını genişletmesine yardımcı olabilir."
+  ],
+  "col": [
+   "zıt anlamlı çiftler",
+   "zıt anlamlı sıfatlar",
+   "zıt anlamlar"
+  ],
+  "tip": "Dilbilim terimidir; günlük dilde 'opposite in meaning' ifadesi daha yaygındır. İsim hali 'antonym' ile birlikte öğrenin.",
+  "note": ""
+ },
+ {
+  "id": "coinage",
+  "senses": [
+   "yeni türetilen söz; türetme",
+   "madeni para; sikke"
+  ],
+  "ex": [
+   "Onun eğlenceli yeni sözcüğü arkadaşları arasında hızla yayıldı.",
+   "Dijital teknolojinin hızlı büyümesi, daha önce tanıdık olmayan deneyimler için yeni terimlerin türetilmesini teşvik ediyor."
+  ],
+  "col": [
+   "yakın zamanda türetilmiş bir sözcük",
+   "yeni sözcük türetme",
+   "ondalık sikke sistemi"
+  ],
+  "tip": "Yeni bir sözcük için sayılabilir (a coinage), sözcük türetme süreci veya para anlamında sayılamaz kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "flagstone",
+  "senses": [
+   "kaldırım taşı; döşeme taşı"
+  ],
+  "ex": [
+   "Yağmur suyu eski döşeme taşlarının aralarında birikmişti.",
+   "Kamusal yollarda yerel malzemeden yapılmış döşeme taşları kullanmak, bölgesel karakteri korurken taşıma emisyonlarını azaltabilir."
+  ],
+  "col": [
+   "taş döşemeli zemin",
+   "taş döşeli yol",
+   "döşeme taşı döşemek"
+  ],
+  "tip": "Düz ve geniş kaplama taşını ifade eder; yoldaki her taşı değil. Yalnızca döşeme ve yol bağlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pertinence",
+  "senses": [
+   "ilgililik; uygunluk"
+  ],
+  "ex": [
+   "Öğretmen son paragrafımın konuyla ilgisini sorguladı.",
+   "Tarihsel kanıtların güncel politika tartışmalarıyla ilgisi, kısmen toplumsal koşulların bizimkine ne kadar benzediğine bağlıdır."
+  ],
+  "col": [
+   "konuyla ilgililik",
+   "ilgisini sorgulamak"
+  ],
+  "tip": "Resmi ve az kullanılan bir sözcüktür; günlük ve akademik yazıda genellikle relevance tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "seclude",
+  "senses": [
+   "tecrit etmek; uzak tutmak"
+  ],
+  "ex": [
+   "Resmini bitirmek için kendini kulübeye kapattı.",
+   "Bazı yazarlar dikkat dağıtıcı şeylerden kaçınmak ve çalışmalarına odaklanmak için kendilerini uzak yerlere kapatır."
+  ],
+  "col": [
+   "kendini izole etmek",
+   "kendini başkalarından uzak tutmak"
+  ],
+  "tip": "En çok 'seclude oneself' kalıbıyla kullanılır; kendini bir yere ya da bir ortama kapatmak anlamında düşünün.",
+  "note": ""
+ },
+ {
+  "id": "inapt",
+  "senses": [
+   "yersiz; uygunsuz"
+  ],
+  "ex": [
+   "Onun yersiz şakası akşam yemeğindeki herkesi rahatsız etti.",
+   "Okulları yalnızca sınav sonuçlarına göre karşılaştırmak, öğrencilerin sosyal geçmişleri çok farklı olduğunda yersizdir."
+  ],
+  "col": [
+   "yersiz bir karşılaştırma",
+   "yersiz bir söz",
+   "yersiz bir tanım"
+  ],
+  "tip": "Resmi ve nadir bir sözcüktür. 'Beceriksiz' anlamındaki 'inept' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "peroxide",
+  "senses": [
+   "hidrojen peroksit; peroksit",
+   "saçı ağartmak"
+  ],
+  "ex": [
+   "Kuaför saçını açmak için hidrojen peroksit kullandı.",
+   "Hidrojen peroksit, bazı endüstriyel süreçlerde kâğıdı ağartmak ve atık suyu arıtmak için kullanılır."
+  ],
+  "col": [
+   "hidrojen peroksit",
+   "peroksit çözeltisi",
+   "peroksitle sarartılmış sarı saç"
+  ],
+  "tip": "Gündelik dilde genellikle hidrojen peroksit anlamındadır. Fiil olarak saçı ağartmak demektir; 'peroxide blonde' sarı saç ifadesidir.",
+  "note": ""
+ },
+ {
+  "id": "partake",
+  "senses": [
+   "katılmak; yer almak",
+   "yemek; içmek"
+  ],
+  "ex": [
+   "Herkes akşam oyunlarına katılmaya davet edildi.",
+   "Toplum merkezleri, farklı yaşlardaki sakinlerin sosyal bağları güçlendiren etkinliklere katılmasını sağlar."
+  ],
+  "col": [
+   "etkinliklere katılmak",
+   "kutlamalara katılmak",
+   "ikramlardan yemek"
+  ],
+  "tip": "Resmi bir sözcüktür. Etkinliğe katılmak için 'in', bir şey yemek veya içmek için 'of' kullanılır. Geçmiş zaman: partook.",
+  "note": ""
+ },
+ {
+  "id": "fortitude",
+  "senses": [
+   "metanet; sebat"
+  ],
+  "ex": [
+   "Aylarca süren acılı tedaviyi olağanüstü bir metanetle atlattı.",
+   "Doğal afetlerden etkilenen topluluklar, evlerini ve geçimlerini yeniden inşa ederken sıklıkla olağanüstü bir dayanıklılık gösterir."
+  ],
+  "col": [
+   "metanet göstermek",
+   "zihinsel dayanıklılık",
+   "olağanüstü bir metanetle"
+  ],
+  "tip": "Resmi bir sözcüktür ve sayılamaz. Acı ya da zorluk karşısında gösterilen ruhsal güç ve sabrı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "impost",
+  "senses": [
+   "vergi; gümrük vergisi",
+   "kemer ayağı"
+  ],
+  "ex": [
+   "Rehber bize eski ithal çay vergisini anlattı.",
+   "İthal tahıl üzerindeki bir gümrük vergisi, yerli çiftçileri korurken kentli tüketiciler için gıda maliyetlerini artırabilir."
+  ],
+  "col": [
+   "ithalat üzerindeki vergi",
+   "vergi koymak",
+   "kemer ayağı bloğu"
+  ],
+  "tip": "Eski veya teknik bir sözcüktür; günümüzde genellikle tax ya da duty kullanılır. Mimari anlamı ayrıca bilinmelidir.",
+  "note": ""
+ },
+ {
+  "id": "teem",
+  "senses": [
+   "kaynamak; dolup taşmak",
+   "bardaktan boşanırcasına yağmak"
+  ],
+  "ex": [
+   "Gölet bu sabah minik balıklarla kaynıyordu.",
+   "Sağlıklı mercan resifleri deniz canlılarıyla dolup taşar, bu nedenle onların korunması okyanus biyoçeşitliliğini sürdürmek için şarttır."
+  ],
+  "col": [
+   "hayatla kaynamak",
+   "ziyaretçilerle dolup taşmak",
+   "bardaktan boşanırcasına yağmak"
+  ],
+  "tip": "Genellikle 'teem with' kalıbıyla bir yerin canlı ya da insanlarla dolu olduğunu anlatır. Yağmur anlamı daha az yaygındır.",
+  "note": ""
+ }
+]

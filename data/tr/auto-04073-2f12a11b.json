@@ -1,0 +1,279 @@
+[
+ {
+  "id": "praise",
+  "senses": [
+   "övmek; takdir etmek",
+   "övgü; takdir"
+  ],
+  "ex": [
+   "Antrenörümüz yeni oyuncuların takımına yardım ettikleri için bizi övdü.",
+   "Yeteneğin yerine çabayı öven öğretmenler, öğrencilerin akademik zorluklar karşısında pes etmeden devam etmelerini sağlayabilir."
+  ],
+  "col": [
+   "birinin bir şey için övülmesi",
+   "övgü kazanmak",
+   "büyük övgü",
+   "bol bol övmek"
+  ],
+  "tip": "praise someone for something kalıbını kullanın. İsim olarak genellikle sayılamaz; 'praises' yerine 'praise' yazın.",
+  "note": ""
+ },
+ {
+  "id": "surgery",
+  "senses": [
+   "ameliyat; cerrahi",
+   "muayenehane; klinik"
+  ],
+  "ex": [
+   "Amcam diz ameliyatının ardından iyi iyileşiyor.",
+   "Tıbbi teknolojideki gelişmeler birçok ameliyat türünü daha güvenli hale getirdi ve hastaların iyileşme sürelerini kısalttı."
+  ],
+  "col": [
+   "ameliyat olmak",
+   "acil ameliyat",
+   "küçük ameliyat",
+   "doktorun muayenehanesi"
+  ],
+  "tip": "'Ameliyat' anlamında genellikle sayılamaz. 'Muayenehane' anlamında İngiliz İngilizcesinde sayılabilir ve 'a doctor's surgery' biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "southward",
+  "senses": [
+   "güneye doğru",
+   "güneye doğru olan; güneye yönelik"
+  ],
+  "ex": [
+   "Sahile ulaşana kadar güneye doğru sürdük.",
+   "Bazı deniz canlılarının güneye doğru hareketi, okyanus sıcaklıklarındaki ve besin bulunabilirliğindeki değişimleri yansıtıyor olabilir."
+  ],
+  "col": [
+   "güneye doğru hareket etmek",
+   "güneye doğru göç",
+   "güneye doğru yolculuk"
+  ],
+  "tip": "Southward hem zarf hem sıfat olarak kullanılır; southwards yalnızca zarf olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "arch",
+  "senses": [
+   "kemer; takı; kubbe",
+   "kemerleşmek; eğilmek"
+  ],
+  "ex": [
+   "Yağmurdan taş bir kemerin altında sığındık.",
+   "Geleneksel köprüler çoğunlukla ağırlığı dağıtmak ve teknelerin altından geçmesine izin vermek için merkezi bir kemer kullanır."
+  ],
+  "col": [
+   "taş kemer",
+   "kemerli köprü",
+   "sırtını kemerleştirmek"
+  ],
+  "tip": "Fiil olarak 'arch your back' gibi kullanılır ve 'bir şeyi kemer şekline sokmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "implication",
+  "senses": [
+   "olası etki; sonuç",
+   "ima; dolaylı anlam",
+   "suç ortaklığı; karışma"
+  ],
+  "ex": [
+   "Bir köpek yavrusu almanın mali sonuçlarını konuştuk.",
+   "Politika yapıcılar, otomasyonun istihdam, eğitim ve toplumsal eşitlik üzerindeki uzun vadeli etkilerini dikkate almalıdır."
+  ],
+  "col": [
+   "istihdam üzerindeki etkiler",
+   "geniş kapsamlı sonuçlar",
+   "dolaylı olarak"
+  ],
+  "tip": "Olası etki anlamında genellikle çoğul 'implications' kullanılır ve çoğunlukla 'for' ile birlikte gelir.",
+  "note": ""
+ },
+ {
+  "id": "triple",
+  "senses": [
+   "üç katı; üçlü",
+   "üç katına çıkmak; üç katına çıkarmak"
+  ],
+  "ex": [
+   "Otel, tatil dönemlerinde fiyatını üç katına çıkarıyor.",
+   "Hükümetler daha sıkı karbon emisyonu sınırları getirdikçe yenilenebilir enerjiye olan talep üç katına çıkabilir."
+  ],
+  "col": [
+   "maliyeti üç katına çıkarmak",
+   "üç kişilik oda",
+   "boyutunu üç katına çıkarmak",
+   "üçlü cam"
+  ],
+  "tip": "Triple 'üç katına çıkmak' anlamına gelir, yani iki katı artış değil, toplamda üç katı olmasıdır.",
+  "note": ""
+ },
+ {
+  "id": "genetic",
+  "senses": [
+   "genetik; kalıtsal"
+  ],
+  "ex": [
+   "Doktor, genetik faktörlerin göz rengini nasıl etkilediğini açıkladı.",
+   "Genetik araştırmalar, hastalarda belirgin belirtiler ortaya çıkmadan önce doktorların sağlık risklerini belirlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "genetik faktörler",
+   "genetik çeşitlilik",
+   "genetik mühendisliği",
+   "genetik bozukluk"
+  ],
+  "tip": "Genetic gen veya kalıtımla ilgili anlamına gelir; 'genetics' ise genetik bilimini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "ostrich",
+  "senses": [
+   "devekuşu"
+  ],
+  "ex": [
+   "Devekuşu tozlu otlakta hızla koştu.",
+   "Devekuşu uçamasa da güçlü bacakları sayesinde açık yaşam alanlarında birçok yırtıcıdan kaçabilir."
+  ],
+  "col": [
+   "devekuşu yumurtası",
+   "devekuşu tüyü",
+   "devekuşu çiftliği"
+  ],
+  "tip": "Çoğulu 'ostriches' şeklindedir. 'Başını kuma gömüp tehlikeden kaçar' yaygın inancı gerçek bir davranış değildir.",
+  "note": ""
+ },
+ {
+  "id": "nutrition",
+  "senses": [
+   "beslenme; besin alımı",
+   "beslenme bilimi"
+  ],
+  "ex": [
+   "İyi beslenme, çocukların büyümesine ve aktif kalmasına yardımcı olur.",
+   "Okullar, gençlerin günlük beslenmeleri hakkında bilinçli seçimler yapabilmeleri için beslenme konusunu öğretmelidir."
+  ],
+  "col": [
+   "iyi beslenme",
+   "yeterli beslenme",
+   "beslenme eğitimi"
+  ],
+  "tip": "Nutrition genellikle sayılamaz. Belirli bir besin maddesi için 'nutrient' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "creation",
+  "senses": [
+   "yaratma; oluşturma; kuruluş",
+   "yapıt; eser; ürün"
+  ],
+  "ex": [
+   "Bahçemizin oluşturulması birkaç yoğun hafta sonu sürdü.",
+   "Yenilenebilir enerjiye yapılan yatırımlar, ülkelerin fosil yakıtlara bağımlılığını azaltırken iş yaratılmasını da destekleyebilir."
+  ],
+  "col": [
+   "iş yaratma",
+   "zenginlik yaratma",
+   "özgün bir eser"
+  ],
+  "tip": "Sürecin kendisi için genellikle sayılamaz; belirli bir yapıta işaret ettiğinde sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "decay",
+  "senses": [
+   "çürümek; bozulmak",
+   "çürüme; bozulma",
+   "gerileme; çöküş"
+  ],
+  "ex": [
+   "Düşen yapraklar her kış ağaçların altında yavaşça çürür.",
+   "Kamu altyapısı ihmal edildiğinde ve işletmeler yerleşim mahallelerinden ayrıldığında kentsel çöküş genellikle hızlanır."
+  ],
+  "col": [
+   "diş çürüğü",
+   "kentsel çöküş",
+   "çürümüş bitki örtüsü",
+   "çürümeyi önlemek"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz. 'Tooth decay' diş çürüğü anlamına gelir, dişin dökülmesi değil.",
+  "note": ""
+ },
+ {
+  "id": "maintenance",
+  "senses": [
+   "bakım; onarım",
+   "sürdürme; koruma",
+   "nafaka; yardım parası"
+  ],
+  "ex": [
+   "Düzenli bakım, eski bisikletimin binmek için güvenli kalmasını sağlıyor.",
+   "Hükümetler yalnızca yeni inşaata odaklanmak yerine kamu altyapısının uzun vadeli bakımı için bütçe ayırmalıdır."
+  ],
+  "col": [
+   "rutin bakım",
+   "bakım maliyetleri",
+   "standartların korunması",
+   "çocuk nafakası"
+  ],
+  "tip": "Genellikle sayılamaz. Doğru yazım 'maintenance' şeklindedir; 'maintainance' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "mammal",
+  "senses": [
+   "memeli"
+  ],
+  "ex": [
+   "Yunus suyun altında yaşamasına rağmen bir memelidir.",
+   "Deniz memelilerini korumak uluslararası iş birliği gerektirir, çünkü bu hayvanlar genellikle birkaç ülkenin sularını aşarak göç eder."
+  ],
+  "col": [
+   "deniz memelisi",
+   "küçük memeli",
+   "memeli türü"
+  ],
+  "tip": "Balinalar ve yunuslar da memelidir; yaşam ortamına bakılarak sınıflandırılmazlar.",
+  "note": ""
+ },
+ {
+  "id": "spiritual",
+  "senses": [
+   "ruhsal; manevi",
+   "dini; inanca ilişkin"
+  ],
+  "ex": [
+   "Ormanda sessizce yürümek bana ruhsal bir rahatlık veriyor.",
+   "Kamusal alanlar, sakinlere huzurlu düşünme ve doğayla bağ kurma yerleri sunarak ruhsal iyi oluşu destekleyebilir."
+  ],
+  "col": [
+   "ruhsal iyi oluş",
+   "dini inançlar",
+   "ruhsal gelişim"
+  ],
+  "tip": "Sadece dini anlamda değil, iç dünya ve manevi değerler için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "quarterly",
+  "senses": [
+   "üç aylık; çeyreklik",
+   "üç ayda bir",
+   "üç aylık dergi; çeyreklik yayın"
+  ],
+  "ex": [
+   "Kulübümüz yerel kütüphanede üç ayda bir toplantı düzenler.",
+   "Üç aylık raporlar, yatırımcıların şirket performansını takip etmesine ve yıl boyunca ortaya çıkan mali riskleri belirlemesine olanak tanır."
+  ],
+  "col": [
+   "üç aylık rapor",
+   "üç aylık toplantı",
+   "üç ayda bir ödemek"
+  ],
+  "tip": "Quarterly her üç ayda bir anlamına gelir; dört ayda bir değildir.",
+  "note": ""
+ }
+]

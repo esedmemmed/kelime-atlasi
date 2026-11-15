@@ -1,0 +1,269 @@
+[
+ {
+  "id": "foster",
+  "senses": [
+   "teşvik etmek; geliştirmek",
+   "geçici bakmak; yetiştirmek",
+   "koruyucu"
+  ],
+  "ex": [
+   "Ortak yemekler, komşularımız arasındaki dostlukları güçlendirir.",
+   "Okullar, öğrencilerin tek bir çözümü dayatılmadan sorunları keşfetmesine izin vererek yaratıcılığı teşvik edebilir."
+  ],
+  "col": [
+   "yaratıcılığı teşvik etmek",
+   "işbirliğini teşvik etmek",
+   "bir çocuğa geçici bakım vermek",
+   "koruyucu aile"
+  ],
+  "tip": "Foster geçici bakımı, adopt ise yasal evlat edinmeyi anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "tremor",
+  "senses": [
+   "hafif deprem; sarsıntı",
+   "titreme; ürperme"
+  ],
+  "ex": [
+   "Hafif bir sarsıntı, kancalardaki fincanların takırdamasına neden oldu.",
+   "Hassas izleme cihazları, yakınlarda yaşayan insanların fark etmeyebileceği küçük bir depremi tespit edebilir."
+  ],
+  "col": [
+   "yer sarsıntısı",
+   "el titremesi",
+   "sesindeki titreme"
+  ],
+  "tip": "Genellikle isim olarak kullanılır. Sesteki titreme için a tremor in the voice kalıbı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "physician",
+  "senses": [
+   "doktor; hekim"
+  ],
+  "ex": [
+   "Doktor, semptomlarımı anlatırken dikkatle beni dinledi.",
+   "Uzak bölgelerde yetkin bir doktora erişim hâlâ sınırlı; bu durum sağlık hizmetlerinde ciddi eşitsizliklere yol açıyor."
+  ],
+  "col": [
+   "bir doktora danışmak",
+   "yetkin doktor",
+   "birinci basamak hekimi"
+  ],
+  "tip": "Amerikan İngilizcesinde genel olarak doktor, İngiliz İngilizcesinde çoğunlukla dahiliye uzmanı anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "jeopardize",
+  "senses": [
+   "tehlikeye atmak; riske sokmak"
+  ],
+  "ex": [
+   "Bu güvenlik kontrollerini atlamak tüm gezinin tehlikeye girmesine yol açabilir.",
+   "Yeraltı suyunun aşırı kullanımı, kuraklıktan zaten etkilenen bölgelerde gelecekteki gıda üretimini tehlikeye atabilir."
+  ],
+  "col": [
+   "güvenliği tehlikeye atmak",
+   "beklentileri tehlikeye atmak",
+   "bir ilişkiyi tehlikeye atmak"
+  ],
+  "tip": "Doğrudan nesne alır, arada of gibi bir edat gerekmez. İngiliz İngilizcesinde jeopardise biçimi de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "clarification",
+  "senses": [
+   "açıklama; netleştirme"
+  ],
+  "ex": [
+   "Kira sözleşmesini imzalamadan önce açıklama istedim.",
+   "Öğrenciler, karmaşık araştırma ödevlerine başlamadan önce değerlendirme ölçütlerinin netleştirilmesinden yararlanır."
+  ],
+  "col": [
+   "açıklama istemek",
+   "açıklama yapmak",
+   "kuralların açıklanması",
+   "hakkında açıklama istemek"
+  ],
+  "tip": "Genellikle clarification of veya clarification on kalıplarıyla kullanılır ve çoğunlukla sayılamayan bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "zeal",
+  "senses": [
+   "şevk; coşku"
+  ],
+  "ex": [
+   "Bahçe temizliğine dikkat çekici bir şevkle girişti.",
+   "Gönüllülerin şevki toplumsal projeleri güçlendirebilir; ancak kalıcı ilerleme için güvenilir finansman ve profesyonel destek de gerekir."
+  ],
+  "col": [
+   "öğrenme hevesi",
+   "büyük bir şevkle",
+   "misyonerce bir coşku"
+  ],
+  "tip": "Sayılamayan bir isimdir ve genellikle zeal for kalıbıyla kullanılır: zeal for learning. Olumlu bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "futures",
+  "senses": [
+   "vadeli işlemler; vadeli sözleşmeler"
+  ],
+  "ex": [
+   "Kuzenim evdeki ofisinden buğday vadeli işlemleri yapıyor.",
+   "Çiftçiler, düşen ürün fiyatlarına karşı kendilerini korumak için vadeli işlemlerden yararlanabilir; ancak bu sözleşmeler finansal riskler de içerir."
+  ],
+  "col": [
+   "vadeli işlem piyasası",
+   "vadeli işlem sözleşmesi",
+   "vadeli işlem yapmak",
+   "petrol vadeli işlemleri"
+  ],
+  "tip": "Finans alanında çoğul biçimi kullanılır. futures contract ifadesi vadeli işlem sözleşmesi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "revelation",
+  "senses": [
+   "şaşırtıcı gerçek; keşif",
+   "açığa çıkarma; ifşa"
+  ],
+  "ex": [
+   "Gizli bahçe hakkındaki açıklaması hepimizi şaşırttı.",
+   "Endüstriyel kirlilikle ilgili son ifşalar, kamuoyunun daha sıkı çevre düzenlemeleri ve şirketlerden daha fazla şeffaflık talep etmesine yol açtı."
+  ],
+  "col": [
+   "çarpıcı bir gerçek",
+   "...ile ilgili ifşalar",
+   "büyük bir sürpriz olmak"
+  ],
+  "tip": "Belirli bir keşif sayılabilir (a revelation), ifşa etme eylemi ise genellikle sayılamaz. Sık kalıp: revelations about.",
+  "note": ""
+ },
+ {
+  "id": "overpayment",
+  "senses": [
+   "fazla ödeme"
+  ],
+  "ex": [
+   "Kasiyer, ayrılmadan önce fazla ödediğim tutarı iade etti.",
+   "Düzenli bordro prosedürleri, yanlışlıkla yapılan fazla ödemeleri önleyebilir ve işverenle çalışanlar arasındaki anlaşmazlıkları azaltabilir."
+  ],
+  "col": [
+   "fazla ödenen ücret",
+   "fazla ödemeyi geri almak",
+   "fazla ödemeyi iade etmek"
+  ],
+  "tip": "Tutar of ile belirtilir: an overpayment of wages. Sayılabilir bir isimdir, bu yüzden başında an gelir.",
+  "note": ""
+ },
+ {
+  "id": "radiant",
+  "senses": [
+   "mutluluktan parlayan",
+   "parlak; ışıldayan",
+   "ışınımsal"
+  ],
+  "ex": [
+   "Yeni doğmuş bebeğini kucaklarken çok parlak görünüyordu.",
+   "Binalar, kış aylarında iç mekân sıcaklığını rahat tutmak için ışınımlı ısıtma sistemlerinden yararlanabilir."
+  ],
+  "col": [
+   "parlak bir gülümseme",
+   "ışınımlı ısı",
+   "ışınım enerjisi"
+  ],
+  "tip": "İnsanlar için kullanıldığında mutluluktan ışıldayan bir yüz ifadesini anlatır; radiant heat ise ısı transferi terimidir.",
+  "note": ""
+ },
+ {
+  "id": "successive",
+  "senses": [
+   "ardışık; art arda"
+  ],
+  "ex": [
+   "Şiddetli yağmur, üç gün üst üste bizi evde tuttu.",
+   "Ardışık hükûmetler toplu taşımaya yatırım yaptı, ancak kırsal topluluklar hâlâ güvenilir otobüs hizmetlerinden yoksun."
+  ],
+  "col": [
+   "ardışık nesiller",
+   "ardışık hükûmetler",
+   "ardışık yıllar"
+  ],
+  "tip": "successive ardışık anlamına gelir; successful ise başarılı demektir. İkisi birbirine benzediği için karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "discrete",
+  "senses": [
+   "ayrı; birbirinden bağımsız"
+  ],
+  "ex": [
+   "Projeyi üç ayrı göreve böldük.",
+   "Araştırmacılar, farklı öğretim yöntemlerinin etkilerini karşılaştırmak için katılımcıları ayrı gruplara ayırdı."
+  ],
+  "col": [
+   "ayrı kategoriler",
+   "ayrı birimler",
+   "kesikli veriler"
+  ],
+  "tip": "discreet (ihtiyatlı, mahrem) ile karıştırılmamalı; ikisi aynı okunsa da anlamları farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "persecute",
+  "senses": [
+   "zulmetmek; eziyet etmek",
+   "sürekli rahatsız etmek"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam dini inançları yüzünden zulme uğradı.",
+   "Hükümetler azınlık topluluklarını korumalı ve hiç kimsenin barışçıl biçimde inançlarını ifade ettiği için zulme uğramamasını sağlamalıdır."
+  ],
+  "col": [
+   "dini nedenlerle zulmetmek",
+   "azınlıklara zulmetmek",
+   "inançları yüzünden zulme uğramak"
+  ],
+  "tip": "persecute zulmetmek anlamına gelir; prosecute ise dava açmak anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "fusion",
+  "senses": [
+   "birleşim; karışım",
+   "çekirdek füzyonu"
+  ],
+  "ex": [
+   "Yemekleri, farklı bölgesel tarzların bir karışımı.",
+   "Bilim insanları, düşük karbon salımıyla bol enerji sağlayabilecek bir kaynak olarak nükleer füzyonu araştırıyor."
+  ],
+  "col": [
+   "tarzların harmanı",
+   "füzyon mutfağı",
+   "çekirdek füzyonu"
+  ],
+  "tip": "Çekirdek füzyonu için fusion, çekirdek bölünmesi için fission kullanılır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "breadth",
+  "senses": [
+   "kapsam; çeşitlilik",
+   "en; genişlik"
+  ],
+  "ex": [
+   "İlgi alanlarının genişliği arkadaşlarını her zaman şaşırtır.",
+   "Üniversiteler, bilginin geniş kapsamlı olmasıyla öğrencilerin seçtikleri alanda uzmanlaşmasına fırsat vermeyi dengelemelidir."
+  ],
+  "col": [
+   "bilginin genişliği",
+   "deneyim çeşitliliği",
+   "genişlik ve derinlik"
+  ],
+  "tip": "breadth genişliği, depth ise derinliği anlatır. Bu iki kelime çoğunlukla birlikte, karşılıklı olarak kullanılır.",
+  "note": ""
+ }
+]

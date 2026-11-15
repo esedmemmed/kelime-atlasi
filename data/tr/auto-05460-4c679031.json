@@ -1,0 +1,266 @@
+[
+ {
+  "id": "instrumental",
+  "senses": [
+   "etkili; belirleyici",
+   "çalgısal; enstrümantal",
+   "enstrümantal parça"
+  ],
+  "ex": [
+   "Tavsiyeniz iş bulmamda çok etkili oldu.",
+   "Toplu taşımaya yapılan yatırım, birçok büyük şehirde trafik sıkışıklığının azalmasında önemli rol oynadı."
+  ],
+  "col": [
+   "...de etkili olmak",
+   "çalgı müziği",
+   "enstrümantal versiyon"
+  ],
+  "tip": "be instrumental in + isim ya da -ing kalıbı kullanılır: be instrumental in doing. Müzik anlamı 'çalgılı' demektir, 'enstrümantal' sözcüğünün ikinci anlamıdır.",
+  "note": ""
+ },
+ {
+  "id": "exploitation",
+  "senses": [
+   "sömürü",
+   "işletme; yararlanma"
+  ],
+  "ex": [
+   "İşçiler adil ücret ve sömürüye karşı koruma talep etti.",
+   "Doğal kaynakların denetimsiz biçimde kullanılması ekosistemlere zarar verebilir ve onlara bağımlı toplulukların geçimini tehlikeye atabilir."
+  ],
+  "col": [
+   "işçi sömürüsü",
+   "ticari amaçlı sömürü",
+   "doğal kaynakların işletilmesi"
+  ],
+  "tip": "İnsanlar için kullanıldığında olumsuzdur (sömürü); kaynaklar için ise daha nötr ya da olumlu anlam taşıyabilir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "tranquilizer",
+  "senses": [
+   "sakinleştirici; yatıştırıcı"
+  ],
+  "ex": [
+   "Veteriner, korkmuş ata bir sakinleştirici verdi.",
+   "Hekimler, kalıcı kaygısı olan bir hastaya sakinleştirici reçete etmeden önce riskleri dikkatle değerlendirmelidir."
+  ],
+  "col": [
+   "sakinleştirici reçete etmek",
+   "sakinleştirici almak",
+   "sakinleştirici iğne"
+  ],
+  "tip": "Amerikan İngilizcesinde tranquilizer, İngiliz İngilizcesinde tranquilliser yazılır. Her iki yazım da aynı anlamdadır.",
+  "note": ""
+ },
+ {
+  "id": "prevailing",
+  "senses": [
+   "hâkim; yaygın"
+  ],
+  "ex": [
+   "Akşam yemeğindeki hâkim hava rahatlamaydı.",
+   "Şehir planlayıcıları arasındaki yaygın görüş, güvenilir toplu taşımanın özel araç bağımlılığını azaltabileceğidir."
+  ],
+  "col": [
+   "yaygın görüş",
+   "hâkim koşullar",
+   "esen rüzgâr",
+   "hâkim tutum"
+  ],
+  "tip": "Genellikle isimden önce kullanılır: the prevailing view. prevailing wind ise 'esen rüzgâr' yani hakim rüzgâr anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "lull",
+  "senses": [
+   "kısa dinme; geçici sakinlik",
+   "yatıştırmak; uyutmak",
+   "uyutmak; aldatmak"
+  ],
+  "ex": [
+   "Yağmurun bir an dinmesiyle dışarı çıktık.",
+   "Ekonomik faaliyetteki geçici sakinleşme, işletmelere uzun vadeli stratejilerini gözden geçirmek için zaman tanıyabilir."
+  ],
+  "col": [
+   "faaliyette kısa bir sakinlik",
+   "birini uyutmak",
+   "birini yanıltıp güvende hissettirmek"
+  ],
+  "tip": "lull geçici bir sakinliği anlatır, tamamen bitişi değil. 'lull someone to sleep' kalıbı uyutmak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "obnoxious",
+  "senses": [
+   "çok rahatsız edici; itici"
+  ],
+  "ex": [
+   "Kalabalık bir yolcu yolculuk boyunca yüksek sesle müzik dinledi.",
+   "Toplu taşımadaki itici davranışlar, aksi halde uygun ve ekonomik olan hizmetleri kullanmaktan insanları caydırabilir."
+  ],
+  "col": [
+   "rahatsız edici davranış",
+   "itici bir söz",
+   "itici biri"
+  ],
+  "tip": "annoying'den daha güçlüdür; kaba veya saygısız davranışlar ve kişiler için kullanılır. Günlük konuşmada sık karşılaşılan bir sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "droop",
+  "senses": [
+   "sarkmak; eğilmek"
+  ],
+  "ex": [
+   "Öğleden sonraki sıcakta çiçekler sarkmaya başladı.",
+   "Uzun süren kuraklıklarda bitkiler su kaybettikçe ve yapılarını sürdürmekte zorlandıkça yapraklar sıklıkla sarkar."
+  ],
+  "col": [
+   "sarkık göz kapakları",
+   "çiçekler sarkmak",
+   "omuzları düşmek"
+  ],
+  "tip": "Bitki, göz kapağı ya da omuz gibi yukarı doğru değil aşağı doğru sarkan şeyler için kullanılır; genellikle yorgunluk veya zayıflık çağrışımı vardır.",
+  "note": ""
+ },
+ {
+  "id": "haste",
+  "senses": [
+   "acele; telaş"
+  ],
+  "ex": [
+   "Telaşım yüzünden anahtarlarımı masanın üstünde bıraktım.",
+   "Aceleyle hazırlanan politikalar savunmasız grupların ihtiyaçlarını gözden kaçırabilir ve ek sosyal sorunlar yaratabilir."
+  ],
+  "col": [
+   "aceleyle",
+   "gereksiz acele",
+   "acele etmek"
+  ],
+  "tip": "Genellikle sayılamayan isim olarak kullanılır. in haste kalıbı 'aceleyle' anlamına gelir; make haste ise daha resmi ve eski bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "perspire",
+  "senses": [
+   "terlemek"
+  ],
+  "ex": [
+   "Ağır kutuları taşırken terlemeye başladım.",
+   "İnsanlar yoğun egzersiz sırasında daha çok terler, çünkü vücut fazla ısıyı atmak zorundadır."
+  ],
+  "col": [
+   "bol terlemek",
+   "rahatça terlemek"
+  ],
+  "tip": "sweat'ten daha resmi bir sözcüktür. Genellikle nesnesiz, yani geçişsiz bir fiil olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "irrigation",
+  "senses": [
+   "sulama"
+  ],
+  "ex": [
+   "Çiftliğin sulama sistemi bu sebzelerin büyümesini sağlıyor.",
+   "Etkili sulama, kuraklıktan etkilenen bölgelerde su tüketimini azaltırken ürün verimini artırabilir."
+  ],
+  "col": [
+   "sulama sistemi",
+   "damla sulama",
+   "sulama kanalı",
+   "sulama suyu"
+  ],
+  "tip": "Genellikle sayılamayan isimdir. Fiil hali irrigate, 'sulamak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "designate",
+  "senses": [
+   "belirlemek; tayin etmek",
+   "adlandırmak; nitelemek"
+  ],
+  "ex": [
+   "Temizlik malzemelerimizin tamamı için bir dolabı belirledik.",
+   "Yerel yönetimler, sakinlerin yaşam kalitesini artırmak için kentsel arazinin daha fazlasını korunan yeşil alan olarak belirlemelidir."
+  ],
+  "col": [
+   "birini ... olarak atamak",
+   "bir alanı ... için belirlemek",
+   "belirlenmiş park yerleri"
+  ],
+  "tip": "designate A as B kalıbı A'yı B olarak atamak ya da belirlemek anlamına gelir. Resmi bağlamda sık görülür; günlük dilde choose daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "diminish",
+  "senses": [
+   "azalmak; zayıflamak",
+   "değerini düşürmek; küçümsemek"
+  ],
+  "ex": [
+   "Ayak bileğimdeki ağrı gece boyunca yavaş yavaş azaldı.",
+   "Güvenilir toplu taşımaya yapılan yatırım, özel araç bağımlılığını azaltabilir ve kalabalık şehirlerde hava kalitesini iyileştirebilir."
+  ],
+  "col": [
+   "önemli ölçüde azalmak",
+   "önemi azalmak",
+   "etkisini azaltmak",
+   "azalan getiri"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılabilir: güven azalabilir ya da bir şey değerini kaybettirilerek azaltılabilir. Resmi ve akademik bir fiildir.",
+  "note": ""
+ },
+ {
+  "id": "midst",
+  "senses": [
+   "orta; ortası"
+  ],
+  "ex": [
+   "Kasabanın tam ortasında sessiz bir bahçe bulduk.",
+   "Hızlı kentleşmenin ortasında planlamacılar sakinler için erişilebilir yeşil alanları korumalıdır."
+  ],
+  "col": [
+   "...nın ortasında",
+   "aramızda"
+  ],
+  "tip": "Genellikle in the midst of kalıbında kullanılır; bir durumun ortasında olmak ya da tam o sırada olmak anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "cosmos",
+  "senses": [
+   "evren; kozmos"
+  ],
+  "ex": [
+   "Teleskopla bakmak beni evren hakkında merak ettirdi.",
+   "Evreni incelemek, bilim insanlarının galaksilerin nasıl oluştuğunu ve evrenin zamanla nasıl değiştiğini araştırmasına yardımcı olur."
+  ],
+  "col": [
+   "evreni keşfetmek",
+   "evrenin kökenleri",
+   "evrenin engin genişliği"
+  ],
+  "tip": "Evren anlamında genellikle the cosmos biçiminde, belirli artikelle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lurk",
+  "senses": [
+   "gizlenmek; pusu kurmak",
+   "gizli kalmak; tehlike doğurmak"
+  ],
+  "ex": [
+   "Bir kedi kanepenin arkasına saklanmış, bağcıklarımı izliyordu.",
+   "Güncel olmayan yazılımlarda güvenlik riskleri gizli kalabilir; bu nedenle kişisel bilgileri korumak için sistem güncellemeleri şarttır."
+  ],
+  "col": [
+   "gölgelerde gizlenmek",
+   "arkasına saklanmak",
+   "tehlike pusuda bekliyor"
+  ],
+  "tip": "Genellikle geçişsiz bir fiildir. Tehlike gibi soyut şeyler de özne olabilir: danger lurks.",
+  "note": ""
+ }
+]

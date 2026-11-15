@@ -1,0 +1,269 @@
+[
+ {
+  "id": "primitive",
+  "senses": [
+   "ilkel; basit",
+   "ilkel; ilk dönem"
+  ],
+  "ex": [
+   "Kamp alanında yalnızca ilkel bir açık hava pişirme alanı vardı.",
+   "Bu aletler ilkel görünse de, yerel olarak bulunan malzemeleri seçip şekillendirmede önemli bir beceri gösterdiklerini ortaya koyuyor."
+  ],
+  "col": [
+   "ilkel aletler",
+   "ilkel koşullar",
+   "ilkel yaşam biçimleri"
+  ],
+  "tip": "Eşyalar için 'basit, sade' anlamında kullanılır. İnsanlar ya da kültürler için kullanıldığında aşağılayıcı algılanabilir, dikkatli olun.",
+  "note": ""
+ },
+ {
+  "id": "despair",
+  "senses": [
+   "umutsuzluk",
+   "umudunu kaybetmek; ümitsizliğe düşmek"
+  ],
+  "ex": [
+   "En son başvurusu reddedildiğinde derin bir umutsuzluk hissetti.",
+   "Uzun süren işsizlik umutsuzluğa yol açabilir; bu yüzden erişilebilir kariyer danışmanlığı ve duygusal destek çok önemlidir."
+  ],
+  "col": [
+   "umutsuzluk içinde",
+   "umutsuzluk duygusu",
+   "bir şey yapmaktan umudunu kesmek"
+  ],
+  "tip": "İsim genellikle sayılamaz. Fiil olarak of ile kullanılır: despair of doing something. Doğrudan nesne almaz.",
+  "note": ""
+ },
+ {
+  "id": "monitor",
+  "senses": [
+   "izlemek; denetlemek",
+   "ekran; monitör"
+  ],
+  "ex": [
+   "Hemşire gece boyunca ateşimi düzenli olarak izledi.",
+   "Hükümetler, çevre politikalarının kirliliği etkili biçimde azaltıp azaltmadığını anlamak için hava kalitesini düzenli olarak izlemelidir."
+  ],
+  "col": [
+   "ilerlemeyi izlemek",
+   "hava kalitesini izlemek",
+   "bilgisayar ekranı",
+   "kalp monitörü"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: monitor changes (değişimleri izlemek). Araya edat koymaya gerek yoktur.",
+  "note": ""
+ },
+ {
+  "id": "treadmill",
+  "senses": [
+   "koşu bandı",
+   "bıktırıcı rutin; kısır döngü"
+  ],
+  "ex": [
+   "Dışarıda yağmur yağdığında koşu bandında yürüyorum.",
+   "Bazı çalışanlar için günlük işin kısır döngüsü, aileye ve kişisel ilgi alanlarına ayıracak çok az zaman bırakıyor."
+  ],
+  "col": [
+   "koşu bandında koşmak",
+   "koşu bandı antrenmanı",
+   "günlük hayatın kısır döngüsü"
+  ],
+  "tip": "Makine için on a treadmill denir, in değil. Mecazi anlamda da 'the treadmill of' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "conserve",
+  "senses": [
+   "tasarruf etmek; idareli kullanmak",
+   "korumak; muhafaza etmek"
+  ],
+  "ex": [
+   "Bahçede suyu idareli kullanmak için yağmur suyu topluyoruz.",
+   "Hükümetler, uygun fiyatlı gıda arzını azaltmadan suyu koruyan verimli tarım yöntemlerini teşvik etmelidir."
+  ],
+  "col": [
+   "enerji tasarrufu yapmak",
+   "suyu idareli kullanmak",
+   "yaban hayatını korumak"
+  ],
+  "tip": "conserve tasarruf ya da koruma anlamına gelir; reserve ise bir şeyi ayırmak, rezerve etmek anlamına gelir. Karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "correspondent",
+  "senses": [
+   "muhabir",
+   "yazışan kişi"
+  ],
+  "ex": [
+   "Muhabir, kalabalık limandan canlı yayında haber verdi.",
+   "Yabancı bir muhabir, uluslararası olayları evdeki izleyicilere doğru biçimde anlatabilmek için kültürel bilgiye ihtiyaç duyar."
+  ],
+  "col": [
+   "yurt dışı muhabiri",
+   "siyasi muhabir",
+   "özel muhabir"
+  ],
+  "tip": "Genel anlamda gazeteci için journalist daha yaygındır. Correspondent ise belirli bir yerden ya da alandan haber veren muhabiri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "widow",
+  "senses": [
+   "dul kadın"
+  ],
+  "ex": [
+   "Komşumuz dul kadın bizi çaya davet etti.",
+   "Yalnız yaşayan bir dul, arkadaşlık ve pratik destek sunan toplumsal programlardan yarar görebilir."
+  ],
+  "col": [
+   "yaşlı bir dul",
+   "savaş dulu",
+   "genç bir dul"
+  ],
+  "tip": "Yalnızca eşini kaybetmiş kadın için kullanılır. Eşini kaybetmiş erkek için widower denir.",
+  "note": ""
+ },
+ {
+  "id": "hilarious",
+  "senses": [
+   "çok komik; kahkaha attırıcı"
+  ],
+  "ex": [
+   "Onun çok komik hikâyesi akşam yemeği boyunca herkesi güldürdü.",
+   "Çok komik reklamlar dikkat çekebilse de mizah, tanıtılan ürünün tüketiciler tarafından hatırlanmasına her zaman yardımcı olmaz."
+  ],
+  "col": [
+   "çok komik hikâye",
+   "çok komik komedi",
+   "tam bir kahkaha"
+  ],
+  "tip": "Sıradan 'komik'ten çok daha güçlüdür; insanı kahkahaya boğan bir komiklik anlatır. Hafif eğlenceli şeyler için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "itch",
+  "senses": [
+   "kaşınmak",
+   "kaşıntı; kaşıntı hissi",
+   "çok istemek; can atmak"
+  ],
+  "ex": [
+   "Bu yün şal boynumu bütün gün kaşındırıyor.",
+   "Bazı sentetik kumaşlar hassas cildi kaşındırabilir; bu yüzden giysi tasarımında malzeme seçimi önemlidir."
+  ],
+  "col": [
+   "kaşıntıyı gidermek",
+   "bir şeyi yapmak için can atmak",
+   "bir fırsat için sabırsızlanmak"
+  ],
+  "tip": "itch kaşınmayı, scratch ise kaşımayı anlatır. 'Can atmak' anlamında be itching to kalıbı sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sponsorship",
+  "senses": [
+   "sponsorluk; maddi destek"
+  ],
+  "ex": [
+   "Yüzme kulübümüzün yeni malzeme alabilmesi için sponsorluğa ihtiyacı var.",
+   "Kurumsal sponsorluk, birçok kültür festivalinin uygun fiyatlı kalmasını sağlıyor; ancak sanatsal tercihlerini de etkileyebiliyor."
+  ],
+  "col": [
+   "kurumsal sponsorluk",
+   "sponsorluk sağlamak",
+   "sponsorluk anlaşması"
+  ],
+  "tip": "Sponsorluk, bir etkinliğe maddi ya da başka türden destek vermek demektir; etkinliği düzenlemek anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "elastic",
+  "senses": [
+   "esnek; elastik",
+   "lastik; elastik kumaş",
+   "esnek; uyumlu"
+  ],
+  "ex": [
+   "Bu elastik kollar kalın eldivenlerimin üstüne kolayca geriliyor.",
+   "Üreticiler, spor giysilerinde konforu artırmak ve daha geniş hareket özgürlüğü sağlamak için elastik malzemeler kullanır."
+  ],
+  "col": [
+   "elastik malzeme",
+   "lastik bant",
+   "esnek talep"
+  ],
+  "tip": "Malzeme anlamındaki isim genellikle sayılamaz. elastic band ise lastik bant demektir.",
+  "note": ""
+ },
+ {
+  "id": "lifeboat",
+  "senses": [
+   "cankurtaran botu"
+  ],
+  "ex": [
+   "Mürettebat cankurtaran botunu dikkatle denize indirdi.",
+   "Kıyı toplulukları, denizde acil durumlarda yüzücüleri ve denizcileri kurtarmak için eğitimli cankurtaran ekiplerine güvenir."
+  ],
+  "col": [
+   "cankurtaran ekibi",
+   "cankurtaran botunu denize indirmek",
+   "cankurtaran istasyonu"
+  ],
+  "tip": "lifeboat cankurtaran botu, life jacket ise can yeleği demektir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "mercy",
+  "senses": [
+   "merhamet; bağışlama"
+  ],
+  "ex": [
+   "Öğretmen anlayış gösterdi ve geç kalan ödevimi kabul etti.",
+   "Adil bir adalet sistemi, uygun cezayı gerçekten değişmek isteyen insanlara karşı gösterilen merhametle dengelemelidir."
+  ],
+  "col": [
+   "merhamet göstermek",
+   "merhamet dilemek",
+   "birinin insafına kalmış",
+   "acımadan"
+  ],
+  "tip": "at the mercy of, birinin ya da bir şeyin etkisi altında kalmak, insafına bırakılmak anlamında bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "restriction",
+  "senses": [
+   "kısıtlama; sınırlama"
+  ],
+  "ex": [
+   "Bugün binamızın önünde bir park kısıtlaması var.",
+   "Özel araç kullanımına getirilen kısıtlamalar, işe gidip gelenleri daha sürdürülebilir ulaşım türlerine yöneltebilir."
+  ],
+  "col": [
+   "kısıtlama uygulamak",
+   "kısıtlamaları kaldırmak",
+   "seyahat kısıtlamaları",
+   "yaş sınırlaması"
+  ],
+  "tip": "Bir konuya ilişkin kısıtlama için restriction on kalıbı kullanılır. Belirli kurallar çoğul olarak söylenir.",
+  "note": ""
+ },
+ {
+  "id": "exclaim",
+  "senses": [
+   "haykırmak; bağırarak söylemek"
+  ],
+  "ex": [
+   "“Ne kadar güzel bir gökkuşağı!” diye haykırdı ve tepeleri işaret etti.",
+   "Müze sergileri antik toplumların etkileyici mühendislik becerilerini ortaya koyduğunda ziyaretçiler sıklıkla şaşkınlıkla haykırır."
+  ],
+  "col": [
+   "şaşkınlıkla haykırmak",
+   "sevinçle bağırmak"
+  ],
+  "tip": "Güçlü bir duygunun etkisiyle aniden ve yüksek sesle söylenen sözleri anlatır. Sıradan 'söylemek' anlamında kullanılmaz.",
+  "note": ""
+ }
+]

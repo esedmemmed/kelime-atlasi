@@ -1,0 +1,280 @@
+[
+ {
+  "id": "ox",
+  "senses": [
+   "öküz"
+  ],
+  "ex": [
+   "Öküz, patika boyunca tahta bir arabayı çekiyordu.",
+   "Tarım makineleri yaygınlaşmadan önce birçok bölgede çiftçiler tarlalarını sürmek için öküzlere güveniyordu."
+  ],
+  "col": [
+   "bir çift öküz",
+   "öküz arabası",
+   "öküz gibi güçlü"
+  ],
+  "tip": "Çoğulu oxen'dir, oxes denmez. Boğa anlamına gelen bull ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "bathe",
+  "senses": [
+   "banyo yapmak; yıkamak",
+   "yıkamak; temizlemek",
+   "denize girmek; yüzmek"
+  ],
+  "ex": [
+   "Ağrıyan ayaklarınızı ılık suda nazikçe yıkayın.",
+   "Sakinlerin güvenli biçimde yıkanabilmesi ve iyi kişisel hijyeni sürdürebilmesi için temiz suya güvenilir erişime ihtiyacı var."
+  ],
+  "col": [
+   "bebeği banyo yaptırmak",
+   "yarayı yıkamak",
+   "denizde yüzmek"
+  ],
+  "tip": "/beɪð/ diye okunur, bath ile karıştırılmamalıdır. İngiliz İngilizcesinde deniz banyosu yapmak anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "downward",
+  "senses": [
+   "aşağı yönlü; düşen",
+   "aşağı doğru; aşağıya"
+  ],
+  "ex": [
+   "Kuş, göle doğru alçalan bir uçuşa başladı.",
+   "Evlerdeki enerji tüketiminde görülen düşüş eğilimi, daha iyi yalıtımı ve daha fazla kamu farkındalığını yansıtabilir."
+  ],
+  "col": [
+   "düşüş eğilimi",
+   "aşağı yönlü baskı",
+   "kötüleşen kısır döngü",
+   "aşağı doğru hareket etmek"
+  ],
+  "tip": "downward hem sıfat hem zarf olabilir; downwards ise yalnızca zarf olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bundle",
+  "senses": [
+   "demet; paket",
+   "bağlamak; paketlemek",
+   "aceleyle tıkmak; itmek"
+  ],
+  "ex": [
+   "Battaniye demetini taşıyarak eve girdi.",
+   "İnternet ve telefon hizmetlerini paket halinde sunmak maliyetleri düşürebilir, ancak tüketiciler sözleşmeleri dikkatle karşılaştırmalıdır."
+  ],
+  "col": [
+   "bir yığın giysi",
+   "demetler halinde bağlamak",
+   "sıkıca sarınmak",
+   "aceleyle arabaya tıkmak"
+  ],
+  "tip": "a bundle of kalıbından sonra çoğul isim gelir. bundle up ise 'kalın giyinmek' anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "contract",
+  "senses": [
+   "sözleşme",
+   "daralmak; küçülmek",
+   "yakalanmak"
+  ],
+  "ex": [
+   "İmzalamadan önce sözleşmeyi dikkatlice okuyun.",
+   "Açık bir iş sözleşmesi; sorumlulukları, çalışma saatlerini ve ödeme koşullarını belirleyerek hem işçileri hem işverenleri korur."
+  ],
+  "col": [
+   "sözleşme imzalamak",
+   "iş sözleşmesi",
+   "sözleşmeyi ihlal etmek",
+   "hastalığa yakalanmak"
+  ],
+  "tip": "İsimde vurgu birinci hecededir (CON-tract), fiilde ikinci hecededir (con-TRACT). Bu vurgu farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "tomb",
+  "senses": [
+   "mezar; türbe"
+  ],
+  "ex": [
+   "Köyün dışında eski bir taş mezar ziyaret ettik.",
+   "Kraliyet mezarının içinde bulunan eserler, eski inançlar, zanaatkârlık ve toplumsal örgütlenme hakkında değerli kanıtlar sunuyor."
+  ],
+  "col": [
+   "antik mezar",
+   "kraliyet mezarı",
+   "defin mezarı"
+  ],
+  "tip": "b harfi okunmaz. Genellikle yapılı, üstü örtülü mezarlar için kullanılır; sıradan toprak mezar için grave daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "civil",
+  "senses": [
+   "sivil; yurttaşa ait",
+   "medeni; özel",
+   "kibar; nazik"
+  ],
+  "ex": [
+   "Havalimanı hem askeri hem sivil uçakları karşılıyor.",
+   "Sivil hakları korumak; tüm vatandaşlara adil davranan erişilebilir hukuki hizmetler ve kamu kurumları gerektirir."
+  ],
+  "col": [
+   "yurttaş hakları",
+   "sivil havacılık",
+   "medeni hukuk",
+   "kibar kalmak"
+  ],
+  "tip": "civil law medeni hukuku, civil war ise iç savaşı anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "probable",
+  "senses": [
+   "muhtemel; olası"
+  ],
+  "ex": [
+   "Tamirci, gürültünün muhtemel nedenini açıkladı.",
+   "Mevcut nüfus eğilimleri göz önüne alındığında, uygun fiyatlı konut talebinin artmaya devam etmesi muhtemeldir."
+  ],
+  "col": [
+   "muhtemel neden",
+   "olası sonuç",
+   "büyük olasılıkla"
+  ],
+  "tip": "it is probable that kalıbı yaygındır. 'Someone is probable to do' yapısı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "flannel",
+  "senses": [
+   "flanel",
+   "yüz bezi"
+  ],
+  "ex": [
+   "Tişörtünün üzerine yumuşak bir flanel gömlek giydi.",
+   "Daha soğuk iklimlerde flanel giysiler pratik bir sıcaklık sağlar ve yoğun iç mekân ısıtmasına bağımlılığı azaltabilir."
+  ],
+  "col": [
+   "flanel gömlek",
+   "flanel pijama",
+   "pamuklu flanel",
+   "nemli bir yüz bezi"
+  ],
+  "tip": "Kumaş anlamında sayılamaz. İngiliz İngilizcesinde a flannel yüz yıkama bezi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "rehearsal",
+  "senses": [
+   "prova"
+  ],
+  "ex": [
+   "Son provamız, seyirciler gelmeden hemen önce bitti.",
+   "Düzenli prova, öğrencilerin seyirci önünde sahneye çıkmadan önce özgüven ve takım çalışması becerilerini geliştirmesine yardımcı olur."
+  ],
+  "col": [
+   "genel prova",
+   "provada olmak",
+   "prova salonu"
+  ],
+  "tip": "Tek bir provaya a rehearsal denir. in rehearsal ise 'provada, prova yapılıyor' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "setting",
+  "senses": [
+   "ortam; çevre",
+   "ayar",
+   "kaşe; yuva"
+  ],
+  "ex": [
+   "Göl kenarındaki bahçe, öğle yemeği için huzurlu bir ortam sunuyor.",
+   "Çocuklar, rekabet yerine iş birliğini teşvik eden destekleyici bir eğitim ortamında genellikle daha güçlü iletişim becerileri geliştirir."
+  ],
+  "col": [
+   "kırsal ortam",
+   "eğitim ortamı",
+   "gizlilik ayarları",
+   "ısı ayarı"
+  ],
+  "tip": "Ortam anlamında tekil a setting, cihaz ayarları için genellikle çoğul settings kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "strand",
+  "senses": [
+   "tel; lif",
+   "bölüm; yön",
+   "mahsur bırakmak"
+  ],
+  "ex": [
+   "Saçının bir teli yüzüne düştü.",
+   "Toplu taşımayı iyileştirmek, kentsel hava kirliliğini azaltmayı hedefleyen daha geniş bir stratejinin bir yönüdür."
+  ],
+  "col": [
+   "bir tel saç",
+   "bir tartışmanın bir yönü",
+   "yolcuları mahsur bırakmak"
+  ],
+  "tip": "Saç teli için a strand of hair denir. 'Mahsur kalmak' anlamında genellikle be stranded kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cautious",
+  "senses": [
+   "temkinli; dikkatli"
+  ],
+  "ex": [
+   "Temkinli sürücü, buzlu köprüye gelmeden önce hızını azalttı.",
+   "Tüketiciler, özellikle çevrimiçi ödeme yaparken, tanımadıkları web siteleriyle kişisel bilgi paylaşırken dikkatli olmalıdır."
+  ],
+  "col": [
+   "temkinli yaklaşım",
+   "... konusunda temkinli olmak",
+   "temkinli iyimserlik"
+  ],
+  "tip": "Genellikle be cautious about + -ing kalıbıyla kullanılır; 'bir şeyi yapmaya dikkat etmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "attentively",
+  "senses": [
+   "dikkatle",
+   "ilgiyle; özenle"
+  ],
+  "ex": [
+   "Çocuklar, büyükannelerinin hikâye anlatmasını dikkatle dinledi.",
+   "Grup tartışmaları sırasında dikkatle dinleyen öğrenciler, kendilerinden farklı bakış açılarını anlama olasılığı daha yüksek olan öğrencilerdir."
+  ],
+  "col": [
+   "dikkatle dinlemek",
+   "dikkatle izlemek",
+   "özenle ilgilenmek"
+  ],
+  "tip": "En sık listen attentively kalıbında görülür ve 'dikkatle dinlemek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "wisdom",
+  "senses": [
+   "bilgelik; akıl",
+   "bilgece söz; görüş"
+  ],
+  "ex": [
+   "Büyükannem birlikte yemek yaparken bilgeliğini bizimle paylaştı.",
+   "Sürdürülebilir ulaşım çözümleri arayan şehirlerde, yol ağlarını genişletmenin ne kadar akıllıca olduğu giderek daha çok sorgulanıyor."
+  ],
+  "col": [
+   "geleneksel görüş",
+   "bilgece sözler",
+   "bir şeyin akıllıca olup olmadığını sorgulamak",
+   "bir şeyi yapacak akıl"
+  ],
+  "tip": "Sayılamaz bir isimdir. knowledge bilgiyi, wisdom ise bilgiyi yerinde ve doğru kullanma yetisini anlatır.",
+  "note": ""
+ }
+]

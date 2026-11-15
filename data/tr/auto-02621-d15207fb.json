@@ -1,0 +1,282 @@
+[
+ {
+  "id": "cage",
+  "senses": [
+   "kafes",
+   "kafese koymak"
+  ],
+  "ex": [
+   "Tavşanın kafesinde taze saman ve temiz su var.",
+   "Hayvan refahı grupları, küçük kafeslerin kuşların özgürce uçmasını ve doğal davranışlarını sergilemesini engellediğini savunuyor."
+  ],
+  "col": [
+   "kuş kafesi",
+   "tel kafes",
+   "kafeste tutmak"
+  ],
+  "tip": "Fiil olarak cage bir hayvanı kafese koymak anlamına gelir. Kafesteki hayvan için in a cage kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mood",
+  "senses": [
+   "ruh hali; mizaç",
+   "hava; atmosfer"
+  ],
+  "ex": [
+   "Kısa bir yürüyüş genellikle beni daha iyi bir ruh haline sokar.",
+   "Yeşil alanlara erişim, sakinlerin ruh halini iyileştirebilir ve kentsel topluluklar içinde daha olumlu etkileşimleri teşvik edebilir."
+  ],
+  "col": [
+   "iyi bir ruh hali içinde",
+   "canı … istemek",
+   "ruh hali değişimleri",
+   "ortam yaratmak"
+  ],
+  "tip": "in the mood for'dan sonra isim gelir. Bir eylemi yapmak istediğinizde in the mood to do kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "sight",
+  "senses": [
+   "görme; görüş",
+   "görüş alanı; görüş",
+   "manzara; görülecek yer"
+  ],
+  "ex": [
+   "Yeni gözlük aldıktan sonra görme gücüm düzeldi.",
+   "Düzenli göz muayeneleri, kalıcı hasara yol açmadan sorunları tespit ederek görmeyi korumaya yardımcı olabilir."
+  ],
+  "col": [
+   "görmesini kaybetmek",
+   "gözden uzak",
+   "ilk bakışta",
+   "görülecek yerler"
+  ],
+  "tip": "Görme yetisi anlamında sight genellikle sayılmaz. Turistik yerler için sights çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "install",
+  "senses": [
+   "kurmak; yüklemek",
+   "resmen göreve getirmek"
+  ],
+  "ex": [
+   "Yeni tavan vantilatörünü takmak için bir elektrikçi çağırdık.",
+   "Okulların güvenilir internet bağlantıları kurabilmesi ve temel dijital ekipmanlarını bakımını yapabilmesi için yeterli finansmana ihtiyacı var."
+  ],
+  "col": [
+   "yazılım yüklemek",
+   "güneş panelleri kurmak",
+   "alarm takmak"
+  ],
+  "tip": "download indirmek, install ise indirilen programı ya da cihazı kurmak anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "historian",
+  "senses": [
+   "tarihçi"
+  ],
+  "ex": [
+   "Tarihçi, lambanın altında eski bir haritayı inceledi.",
+   "Tarihçiler, sanayileşmenin günlük hayatı kentsel topluluklarda nasıl dönüştürdüğünü açıklamak için çeşitli kaynaklar kullanır."
+  ],
+  "col": [
+   "önde gelen bir tarihçi",
+   "sosyal tarihçi",
+   "bilim tarihçisi"
+  ],
+  "tip": "historian kişiyi, historical ise tarihle ilgili olanı anlatır. Sıfat yerine isim kullanmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "annoy",
+  "senses": [
+   "sinirlendirmek; rahatsız etmek"
+  ],
+  "ex": [
+   "Uyumaya çalıştığımda o damlayan musluklar beni sinirlendiriyor.",
+   "Sık görülen çevrim içi reklamlar kullanıcıları rahatsız edebilir ve faydalı eğitim sitelerine geri dönmelerini engelleyebilir."
+  ],
+  "col": [
+   "birini sinirlendirmek",
+   "birine kızgın olmak",
+   "sinir bozucu alışkanlık"
+  ],
+  "tip": "İnsan sinirlenirse annoyed, bir şey sinir bozucuysa annoying kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "further",
+  "senses": [
+   "daha ileri; daha uzağa",
+   "ek; daha ileri",
+   "ilerletmek; desteklemek"
+  ],
+  "ex": [
+   "Durmadan önce plajda biraz daha ileri yürüdük.",
+   "Kentsel yeşil alanların sakinlerin zihinsel sağlığını nasıl etkilediğini anlamak için daha fazla araştırmaya ihtiyaç var."
+  ],
+  "col": [
+   "ek bilgi",
+   "daha fazla araştırma",
+   "konuyu daha ayrıntılı tartışmak",
+   "kariyerini ilerletmek"
+  ],
+  "tip": "further hem derece hem mesafe için kullanılabilir. farther ise genellikle yalnızca fiziksel mesafe için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "check-up",
+  "senses": [
+   "sağlık kontrolü; muayene"
+  ],
+  "ex": [
+   "Alışılmadık derecede yorgun hissettiğim için bir sağlık kontrolü randevusu aldım.",
+   "Düzenli sağlık kontrolleri, doktorların sağlık sorunlarını daha pahalı tedaviler gerektirmeden önce tespit etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "yıllık kontrol",
+   "diş muayenesi",
+   "rutin kontrol"
+  ],
+  "tip": "check-up isimdir. check up on ise birinin durumunu kontrol etmek anlamına gelen fiil öbeğidir.",
+  "note": ""
+ },
+ {
+  "id": "stressed",
+  "senses": [
+   "stresli; gergin",
+   "vurgulu",
+   "gerilmiş; zorlanmış"
+  ],
+  "ex": [
+   "İlk direksiyon dersimden önce stresli hissettim.",
+   "Sınavlarda stres hisseden öğrenciler düzenli egzersiz ve yeterli uykudan yarar görebilir."
+  ],
+  "col": [
+   "stres hissetmek",
+   "sınavlar yüzünden stresli olmak",
+   "vurgulu hece",
+   "yüksek gerilimli bileşenler"
+  ],
+  "tip": "stressed sıfattır. Dilbilimde vurgulu hece anlamına da gelir. Teknik anlamlarda bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "enjoyable",
+  "senses": [
+   "keyifli; eğlenceli"
+  ],
+  "ex": [
+   "Yemek dersi keyifliydi, özellikle taze makarna yapmak.",
+   "Fiziksel aktiviteyi keyifli hale getirmek, çocukların yetişkinliğe kadar sürecek sağlıklı alışkanlıklar geliştirmesini teşvik edebilir."
+  ],
+  "col": [
+   "keyifli deneyim",
+   "keyifli etkinlik",
+   "çok keyifli",
+   "keyifli bir akşam"
+  ],
+  "tip": "Bir şeyin keyif verdiğini anlatmak için enjoyable, kişinin keyif aldığını anlatmak için enjoyed kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "series",
+  "senses": [
+   "seri; bir dizi",
+   "dizi; seri program"
+  ],
+  "ex": [
+   "Bir dizi küçük gecikme yüzünden öğle yemeğini kaçırdık.",
+   "Üniversite, öğrencilerin sosyal medyadaki bilgileri değerlendirmelerine yardımcı olmak için bir dizi atölye çalışması başlattı."
+  ],
+  "col": [
+   "bir dizi olay",
+   "televizyon dizisi",
+   "konferans serisi"
+  ],
+  "tip": "series hem tekil hem çoğul için aynı biçimdedir. İki seri için two series denir.",
+  "note": ""
+ },
+ {
+  "id": "sweat",
+  "senses": [
+   "ter; terleme",
+   "terlemek"
+  ],
+  "ex": [
+   "Dik tırmanış sırasında yüzümden ter akıyordu.",
+   "Sıcak havada egzersiz yapan insanlar terleyerek su kaybeder ve düzenli su içmelidir."
+  ],
+  "col": [
+   "birden terlemeye başlamak",
+   "terini silmek",
+   "çok terlemek"
+  ],
+  "tip": "Ter genellikle sayılmaz. Bir kez terleme ya da bir terleme anlamında a sweat denebilir.",
+  "note": ""
+ },
+ {
+  "id": "particular",
+  "senses": [
+   "belirli; özel",
+   "dikkat çekici; özellikle",
+   "titiz; seçici"
+  ],
+  "ex": [
+   "Bugün özellikle aradığın bir kitap var mı?",
+   "Okullar, evde dijital kaynaklara erişimi olmayan öğrencilere özellikle dikkat etmelidir."
+  ],
+  "col": [
+   "belirli bir neden",
+   "özel dikkat",
+   "özellikle",
+   "bir konuda titiz olmak"
+  ],
+  "tip": "in particular 'özellikle' anlamına gelir. be particular about ise bir konuda seçici ya da titiz olmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "hunt",
+  "senses": [
+   "avlamak; kovalamak",
+   "aramak; araştırmak",
+   "av; arama"
+  ],
+  "ex": [
+   "Anahtarlarımı koltuğun altında aradık.",
+   "Doğal yaşam alanları küçüldükçe yırtıcılar çiftliklere daha yakın avlanabilir ve yaban hayatı ile yerel topluluklar arasındaki çatışmayı artırabilir."
+  ],
+  "col": [
+   "yiyecek aramak",
+   "iş aramak",
+   "hazine avı",
+   "vahşi hayvan avlamak"
+  ],
+  "tip": "Hayvan avlamak için hunt doğrudan nesne alır. Bir şey aramak için ise hunt for kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lead",
+  "senses": [
+   "yol göstermek; yönetmek",
+   "öncülük; önde olma",
+   "kurşun"
+  ],
+  "ex": [
+   "Rehberimiz bizi ormanda güvenle yönlendirdi.",
+   "Toplu taşımaya zor erişim, özel araçlara daha fazla bağımlılığa yol açabilir."
+  ],
+  "col": [
+   "-e yol açmak",
+   "bir ekibi yönetmek",
+   "öne geçmek",
+   "kurşun zehirlenmesi"
+  ],
+  "tip": "Metal anlamındaki lead /led/ okunur. Fiil olarak lead /liːd/ okunur ve geçmiş zamanı led'dir.",
+  "note": ""
+ }
+]

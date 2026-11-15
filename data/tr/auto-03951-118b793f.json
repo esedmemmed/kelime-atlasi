@@ -1,0 +1,279 @@
+[
+ {
+  "id": "democratic",
+  "senses": [
+   "demokratik; demokrasiye dayalı",
+   "herkese söz hakkı tanıyan"
+  ],
+  "ex": [
+   "Kulübümüz her önemli karar için demokratik bir oylama yapar.",
+   "Demokratik bir toplum, güvenilir bilgiye erişebilen ve kamusal tartışmalara özgürce katılabilen bilinçli vatandaşlara dayanır."
+  ],
+  "col": [
+   "demokratik toplum",
+   "demokratik seçimler",
+   "demokratik süreç",
+   "demokratik ilkeler"
+  ],
+  "tip": "Küçük harfle yazılan democratic genel anlamda demokratiktir; Democratic Party gibi büyük harfle yazılanlar ise belirli bir partiyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "peninsula",
+  "senses": [
+   "yarımada"
+  ],
+  "ex": [
+   "Yarımadanın etrafında bisikletle dolaştık ve bir plajda durduk.",
+   "Yarımadadaki turizm yerel halka iş imkânı sağlıyor; ancak aşırı yapılaşma kırılgan kıyı yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "dar bir yarımada",
+   "yarımadanın ucu",
+   "bir yarımadada"
+  ],
+  "tip": "Yarımada bir kıtaya bağlı, üç tarafı suyla çevrili karadır. Dört tarafı sularla çevrili kara parçası için island (ada) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bound",
+  "senses": [
+   "kesin; muhtemel",
+   "bir yere giden; -e doğru",
+   "sıçrayarak koşmak; zıplamak"
+  ],
+  "ex": [
+   "Bu kadar uzun bir yürüyüşten sonra kesinlikle yorgun hissedeceksin.",
+   "Toplu taşımaya yeterli yatırım yapılmazsa, büyüyen şehirlerde giderek daha ciddi trafik sıkışıklığı yaşanması kaçınılmazdır."
+  ],
+  "col": [
+   "mutlaka yapacak olmak",
+   "-e doğru gitmek",
+   "yasalarla bağlı olmak",
+   "ile yakından ilgili olmak"
+  ],
+  "tip": "bound to + fiil \"kesinlikle olacak\" anlamı verir; bound for ise bir hedefe doğru gitmeyi belirtir. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "submission",
+  "senses": [
+   "teslim; sunma",
+   "boyun eğme; teslim olma"
+  ],
+  "ex": [
+   "Lütfen başvurunuzu yarın sabah teslim etmeden önce dikkatlice kontrol edin.",
+   "Ödevlerin çevrim içi teslim edilmesi kâğıt tüketimini azaltabilir ve öğretmenlerin geri bildirim vermesini daha verimli hale getirebilir."
+  ],
+  "col": [
+   "teslim tarihi",
+   "başvurunun sunulması",
+   "yazılı görüş",
+   "otoriteye boyun eğme"
+  ],
+  "tip": "Teslim eylemi anlamında genellikle sayılamaz; sunulan belge anlamında a submission biçiminde sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "allowance",
+  "senses": [
+   "ödenek; harçlık",
+   "izin verilen miktar; kota",
+   "anlayış; hoşgörü"
+  ],
+  "ex": [
+   "Haftalık harçlığım otobüs ücretlerini ve ara sıra atıştırmalıklarımı karşılıyor.",
+   "Konut ödeneği, kiraların özellikle yüksek olduğu şehirlerde temel çalışanların barınma giderlerini karşılamasına yardımcı olabilir."
+  ],
+  "col": [
+   "konut ödeneği",
+   "günlük harcırah",
+   "bagaj hakkı",
+   "-i hesaba katmak"
+  ],
+  "tip": "Allowance Amerikan İngilizcesinde harçlıktır; İngiliz İngilizcesinde pocket money denir. Make allowances for: hesaba katmak.",
+  "note": ""
+ },
+ {
+  "id": "smuggle",
+  "senses": [
+   "gizlice taşımak; kaçakçılık yapmak"
+  ],
+  "ex": [
+   "Biri havaalanından nadir kuşları kaçak olarak geçirmeye çalıştı.",
+   "Nesli tehlikede olan hayvanları ulusal sınırlar ötesine kaçakçılık yoluyla taşıyan suç örgütlerini durdurmak için daha güçlü uluslararası iş birliği gerekir."
+  ],
+  "col": [
+   "kaçak mal taşımak",
+   "bir ülkeye kaçak sokmak",
+   "bir sınırdan kaçak geçirmek"
+  ],
+  "tip": "Genellikle smuggle sth into/out of a place kalıbıyla kullanılır. Yasa dışı ve gizli taşımayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "astonish",
+  "senses": [
+   "çok şaşırtmak; hayrete düşürmek"
+  ],
+  "ex": [
+   "Sihirbazın son numarası salondaki herkesi hayrete düşürdü.",
+   "Hasar görmüş ormanların ne kadar hızlı iyileştiği, deneyimli çevre araştırmacılarını bile şaşırtabilir."
+  ],
+  "col": [
+   "izleyiciyi hayrete düşürmek",
+   "-e çok şaşırmak",
+   "keşfedince çok şaşırmak"
+  ],
+  "tip": "Kişi şaşırıyorsa astonished, şey şaşırtıcıysa astonishing kullanılır. -ed ve -ing ayrımı önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "realistic",
+  "senses": [
+   "gerçekçi; uygulanabilir",
+   "gerçeğe uygun; inandırıcı"
+  ],
+  "ex": [
+   "Bu bulmacayı bu gece bitirmek gerçekçi bir hedef değil.",
+   "Hükümetler, ekonomik koşulları ve mevcut teknolojiyi dikkate alarak emisyonları azaltmak için gerçekçi hedefler belirlemelidir."
+  ],
+  "col": [
+   "gerçekçi beklentiler",
+   "gerçekçi hedefler koymak",
+   "gerçeğe uygun bir portre"
+  ],
+  "tip": "realistic, gerçekçi ya da gerçeğe benzer anlamındadır; real ise gerçek, var olan anlamındadır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "pearl",
+  "senses": [
+   "inci"
+  ],
+  "ex": [
+   "Gümüş kolyesinden tek bir inci sarkıyordu.",
+   "İnci yetiştiriciliği kıyı topluluklarına gelir sağlayabilir; ancak çevresel etkileri yerel yönetim uygulamalarına bağlıdır."
+  ],
+  "col": [
+   "inci kolye",
+   "kültür incisi",
+   "bir dizi inci",
+   "değerli öğütler"
+  ],
+  "tip": "Tek bir inci a pearl, bir dizi inci ise a string of pearls olarak ifade edilir. pearls of wisdom mecazen değerli öğütler anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "chill",
+  "senses": [
+   "serinlik; üşüme hissi",
+   "soğutmak; soğuk tutmak",
+   "rahatlamak; dinlenmek"
+  ],
+  "ex": [
+   "Bu sabah havada bir serinlik vardı.",
+   "Gıda işletmeleri, bakteri üremesini sınırlamak ve halk sağlığını korumak için bozulabilir ürünleri hızla soğutmalıdır."
+  ],
+  "col": [
+   "havada bir serinlik",
+   "hamuru soğutmak",
+   "rahatlamak"
+  ],
+  "tip": "chill donmak anlamına gelmeden soğutmayı ifade eder. chill out gündelik dilde rahatlamak, sakinleşmek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rake",
+  "senses": [
+   "tırmık; el tırmığı",
+   "tırmıkla toplamak; düzeltmek"
+  ],
+  "ex": [
+   "Yere düşen yaprakları toplamak için tırmık kullandım.",
+   "Gönüllüler, yolların erişilebilir kalması ve ortak alanların güzel tutulması için halka açık bahçelerdeki yaprakları tırmıklıyor."
+  ],
+  "col": [
+   "bahçe tırmığı",
+   "yaprakları tırmıklamak",
+   "toprağı tırmıklamak"
+  ],
+  "tip": "rake up ayrıca geçmişteki hoş olmayan olayları yeniden gündeme getirmek anlamına gelir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "recreational",
+  "senses": [
+   "eğlence amaçlı; dinlendirici"
+  ],
+  "ex": [
+   "Göl, eğlence amaçlı balıkçılık için popüler bir noktadır.",
+   "Uygun fiyatlı rekreasyon tesisleri sağlamak, halk sağlığını iyileştirebilir ve kentsel topluluklar içindeki sosyal bağları güçlendirebilir."
+  ],
+  "col": [
+   "rekreasyon etkinlikleri",
+   "eğlence tesisleri",
+   "eğlence amaçlı kullanım"
+  ],
+  "tip": "Genellikle activities ya da facilities ile kullanılır; işten değil, boş zamanda yapılan etkinlikten söz eder. recreation ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "threat",
+  "senses": [
+   "tehdit; tehlike",
+   "gözdağı; tehdit"
+  ],
+  "ex": [
+   "Yükselen nehir köyümüz için bir tehdit oluşturuyor.",
+   "Habitat tahribatı, özellikle tarımın hızla genişlediği bölgelerde biyolojik çeşitlilik için hâlâ başlıca tehdittir."
+  ],
+  "col": [
+   "tehdit oluşturmak",
+   "tehlike altında",
+   "tehdit etmek",
+   "ciddi bir tehdit"
+  ],
+  "tip": "İsim threat, fiil threaten'dır. threaten to do kalıbında fiil olarak kullanılır; threat'i fiil gibi kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "resolve",
+  "senses": [
+   "çözmek; gidermek",
+   "karar vermek; kesin karar almak",
+   "kararlılık; azim"
+  ],
+  "ex": [
+   "Akşam yemeğini sırayla pişirerek tartışmayı çözdük.",
+   "Ortak su kaynakları üzerindeki anlaşmazlıkları çözmek ve gelecekteki çatışmaları önlemek için uluslararası iş birliği şarttır."
+  ],
+  "col": [
+   "bir anlaşmazlığı çözmek",
+   "bir sorunu halletmek",
+   "-meye karar vermek",
+   "kararlılığını artırmak"
+  ],
+  "tip": "resolve a problem sorunu çözmek; resolve to do ise bir şey yapmaya kesin karar vermek anlamına gelir. Kalıplara dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "atomic",
+  "senses": [
+   "atomla ilgili; atomik",
+   "nükleer; atom enerjisine dair"
+  ],
+  "ex": [
+   "Öğretmenimiz atom yapısını açıklamak için renkli toplar kullandı.",
+   "Atom yapısını anlamak, bilim insanlarının tıp, elektronik ve yenilenebilir enerji teknolojileri için gelişmiş malzemeler geliştirmesini sağladı."
+  ],
+  "col": [
+   "atom yapısı",
+   "atom enerjisi",
+   "atom numarası",
+   "atomik saat"
+  ],
+  "tip": "atomic genel olarak atomla ilgilidir; nuclear ise daha çok çekirdeği ya da nükleer enerjiyi vurgular. Bağlama göre seçin.",
+  "note": ""
+ }
+]

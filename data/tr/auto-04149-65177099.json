@@ -1,0 +1,275 @@
+[
+ {
+  "id": "livestock",
+  "senses": [
+   "çiftlik hayvanları"
+  ],
+  "ex": [
+   "Çiftçi hayvanları korunaklı bir tarlaya aldı.",
+   "Hayvancılık, kuru bölgelerde ekosistemler üzerindeki baskıyı artırabilecek önemli miktarda arazi ve su kaynağı gerektirir."
+  ],
+  "col": [
+   "hayvan beslemek",
+   "hayvancılık",
+   "hayvan yemi",
+   "hayvansal üretim"
+  ],
+  "tip": "Toplu isimdir, çoğul eki (-lar) almaz. Canlı çiftlik hayvanlarını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "unjust",
+  "senses": [
+   "haksız; adaletsiz"
+  ],
+  "ex": [
+   "Herkesin hatasından onu sorumlu tutmak adaletsiz görünüyordu.",
+   "Adaletsiz bir hukuk sistemi halkın güvenini zayıflatabilir ve vatandaşları resmi kanallardan yardım istemekten caydırabilir."
+  ],
+  "col": [
+   "haksız muamele",
+   "adaletsiz bir yasa",
+   "adaletsiz bir ceza"
+  ],
+  "tip": "unjust, ahlaki ya da hukuki adaleti çiğneyen durumlar için kullanılır; unfair ise daha geniş bir alanda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "confess",
+  "senses": [
+   "suçunu kabul etmek",
+   "içini dökmek"
+  ],
+  "ex": [
+   "Son dilim pastayı ben yediğimi itiraf ettim.",
+   "Öğretmenler sakin tepki verip yapıcı rehberlik sunduğunda öğrenciler hatalarını itiraf etmeye daha istekli olabilir."
+  ],
+  "col": [
+   "bir şeyi yaptığını itiraf etmek",
+   "suçu itiraf etmek",
+   "...olduğunu itiraf etmek"
+  ],
+  "tip": "Confess to ifadesinde to edattır; ardından isim veya -ing gelir: confess to stealing. Cümle için confess that kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "socialism",
+  "senses": [
+   "sosyalizm"
+  ],
+  "ex": [
+   "Tarih öğretmenimiz bugünkü canlı ders tartışmasında sosyalizmi anlattı.",
+   "Sosyalizm üzerine tartışmalar genellikle kamu mülkiyeti, ekonomik eşitlik ve hükümetin uygun rolü üzerine yoğunlaşır."
+  ],
+  "col": [
+   "demokratik sosyalizm",
+   "sosyalizm ve kapitalizm",
+   "sosyalizmin ilkeleri"
+  ],
+  "tip": "Çoğunlukla sayılamayan isimdir, bu yüzden 'a socialism' gibi kullanılmaz. Sosyalist kişi için socialist kelimesi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "span",
+  "senses": [
+   "süre; zaman aralığı",
+   "açıklık; mesafe",
+   "kapsamak; sürmek"
+  ],
+  "ex": [
+   "Köpeğimizin dikkat süresi şaşırtıcı derecede kısa.",
+   "Araştırma projesi birkaç on yılı kapsayacak ve bilim insanlarının kıyı ekosistemlerindeki uzun vadeli değişimleri izlemesine olanak tanıyacak."
+  ],
+  "col": [
+   "dikkat süresi",
+   "kısa bir zaman aralığı",
+   "birkaç on yılı kapsamak",
+   "köprü açıklığı"
+  ],
+  "tip": "Fiil olarak doğrudan zaman ya da alan nesnesi alır; ek bir edata gerek yoktur.",
+  "note": ""
+ },
+ {
+  "id": "lung",
+  "senses": [
+   "akciğer"
+  ],
+  "ex": [
+   "Doktor stetoskopla akciğerlerimi dinledi.",
+   "Kirli havaya uzun süre maruz kalmak akciğerlere zarar verebilir ve solunum hastalığı riskini artırabilir."
+  ],
+  "col": [
+   "akciğer hastalığı",
+   "akciğer kapasitesi",
+   "akciğer kanseri"
+  ],
+  "tip": "Tek bir akciğer için lung, iki akciğer ya da genel olarak akciğerler için lungs kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "existing",
+  "senses": [
+   "mevcut; var olan"
+  ],
+  "ex": [
+   "Mevcut rafları olduğu gibi bıraktık ve mavi boyadık.",
+   "Hükümetler, tamamen yeni altyapı projelerine kamu parası yatırmadan önce mevcut ulaşım ağlarını iyileştirmelidir."
+  ],
+  "col": [
+   "mevcut altyapı",
+   "mevcut müşteriler",
+   "mevcut koşullar"
+  ],
+  "tip": "Genellikle isimden önce gelir. Yeni inşa edilmemiş, zaten var olan şeyleri vurgular. 'exist' fiiliyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "significant",
+  "senses": [
+   "önemli; dikkat çekici",
+   "anlamlı; manalı"
+  ],
+  "ex": [
+   "İşime yaklaşmak benim için büyük bir fark yarattı.",
+   "Güvenilir internet hizmetlerine erişim, uzak topluluklarda eğitim fırsatları üzerinde önemli bir etkiye sahiptir."
+  ],
+  "col": [
+   "önemli bir artış",
+   "önemli bir etki",
+   "istatistiksel olarak anlamlı",
+   "anlamlı bir bakış"
+  ],
+  "tip": "İstatistikte significant, sonucun tesadüf olmadığını gösterir; pratikte büyük etki anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "overall",
+  "senses": [
+   "genel; bütün",
+   "genel olarak; kısacası"
+  ],
+  "ex": [
+   "Toplam maliyete kahvaltı ve tren bileti dahildir.",
+   "Genel olarak, toplu taşımaya yapılan yatırım kentsel trafik yoğunluğunu azaltabilir ve istihdam fırsatlarına erişimi iyileştirebilir."
+  ],
+  "col": [
+   "genel maliyet",
+   "genel performans",
+   "genel etki",
+   "genel iyileşme"
+  ],
+  "tip": "Sıfat olarak isimden önce gelir. Zarf olarak cümle başında genel durumu özetlemek için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "assemble",
+  "senses": [
+   "monte etmek; birleştirmek",
+   "toplamak; bir araya getirmek"
+  ],
+  "ex": [
+   "Kitaplarımızı yerleştirmeden önce kitaplığı birlikte monte ettik.",
+   "Üreticiler, elle yapılan bazı işlere olan talebi azaltırken tutarlılığı artırmak için elektronik cihazları monte etmekte giderek daha fazla robot kullanıyor."
+  ],
+  "col": [
+   "mobilya monte etmek",
+   "bir ekip kurmak",
+   "delil toplamak",
+   "salonda toplanmak"
+  ],
+  "tip": "Bir nesneyi parça parça birleştirirken geçişli, insanlar bir araya gelirken geçişsiz olarak kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "undoubtedly",
+  "senses": [
+   "şüphesiz; kuşkusuz"
+  ],
+  "ex": [
+   "Bu, şimdiye kadar sahip olduğum en sıcak mont, şüphesiz.",
+   "Temiz içme suyuna erişim, özellikle sınırlı tıbbi hizmetleri olan topluluklarda halk sağlığını şüphesiz iyileştirir."
+  ],
+  "col": [
+   "şüphesiz doğru",
+   "şüphesiz önemli",
+   "şüphesiz fayda sağlayacak"
+  ],
+  "tip": "Çok kesin bir ifadedir. Kanıt yetersizse probably gibi daha yumuşak ifadeler tercih edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "norm",
+  "senses": [
+   "olağan durum; standart",
+   "davranış kuralı; norm"
+  ],
+  "ex": [
+   "Evden çalışmak artık ekibimizde olağan hale geldi.",
+   "Toplumsal normlar insanların etkileşimini etkiler; ancak kabul edilebilir davranış kültürler arasında önemli ölçüde farklılık gösterebilir."
+  ],
+  "col": [
+   "olağan durum",
+   "toplumsal normlar",
+   "kültürel normlar",
+   "olağan hale gelmek"
+  ],
+  "tip": "'the norm' kalıbı 'olağan durum' anlamına gelir. Davranış kuralları için genellikle çoğul norms kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sting",
+  "senses": [
+   "sokmak; acıtmak",
+   "sokma; sızı",
+   "incitmek; üzmek"
+  ],
+  "ex": [
+   "Çiçekleri sularken bir arı bileğimi soktu.",
+   "Sert eleştiri genç öğrencileri incitebilir ve onları sınıf tartışmalarına katılmaktan caydırabilir."
+  ],
+  "col": [
+   "arı sokması",
+   "eşek arısı sokması",
+   "incitici eleştiri"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi stung'dır. Böcek sokması için sting, ısırma için bite kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reluctant",
+  "senses": [
+   "isteksiz; gönülsüz"
+  ],
+  "ex": [
+   "Sıcacık yatağından kalkmak istemiyordu.",
+   "Hizmetler seyrek veya güvenilmez olduğunda birçok yolcu toplu taşımayı kullanmaya hâlâ isteksizdir."
+  ],
+  "col": [
+   "itiraf etmekte isteksiz",
+   "değişmekte isteksiz",
+   "isteksiz kabul"
+  ],
+  "tip": "Genellikle 'be reluctant to + fiil' kalıbında kullanılır. Bu kelime sıfattır, fiil değildir.",
+  "note": ""
+ },
+ {
+  "id": "prospect",
+  "senses": [
+   "ihtimal; beklenti",
+   "gelecek umudu; fırsat",
+   "maden aramak"
+  ],
+  "ex": [
+   "Bir plaj tatili fikri bizi neşelendirdi.",
+   "Mesleki eğitime erişim, ekonomik açıdan dezavantajlı bölgelerdeki gençlerin istihdam beklentilerini iyileştirebilir."
+  ],
+  "col": [
+   "...ihtimali",
+   "istihdam beklentileri",
+   "gerçekçi bir ihtimal",
+   "altın araştırmak"
+  ],
+  "tip": "Gelecek başarı anlamında genellikle çoğul prospects kullanılır. 'of' edatından sonra isim ya da -ing gelir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "preface",
+  "senses": [
+   "önsöz; giriş",
+   "önsözle başlamak"
+  ],
+  "ex": [
+   "Yazar, ilham kaynağını kitabın önsözünde açıklıyor.",
+   "Önsözde araştırmacılar, kitap boyunca incelenen soruları kişisel deneyimlerinin nasıl etkilediğini anlatıyor."
+  ],
+  "col": [
+   "önsözde",
+   "önsöz yazmak",
+   "sözlerine ... ile başlamak"
+  ],
+  "tip": "Kitabın önsözü genellikle yazar tarafından yazılır; foreword ise çoğu zaman başka biri tarafından yazılır.",
+  "note": ""
+ },
+ {
+  "id": "defective",
+  "senses": [
+   "kusurlu; arızalı"
+  ],
+  "ex": [
+   "Mağaza, arızalı çaydanlığımı hiç itiraz etmeden değiştirdi.",
+   "Üreticiler, tüketicileri korumak ve güvenlik standartlarına olan güveni sürdürmek için kusurlu ürünleri derhal geri çağırmalıdır."
+  ],
+  "col": [
+   "kusurlu ürün",
+   "arızalı ekipman",
+   "arızalı kablolama"
+  ],
+  "tip": "Genellikle ürün, parça veya sistemlerin düzgün çalışmadığını belirtmek için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "decipher",
+  "senses": [
+   "çözmek; deşifre etmek"
+  ],
+  "ex": [
+   "Bu eski kartpostaldaki el yazısını okuyabilir misin?",
+   "Araştırmacılar, eski toplumlar hakkında bilgi edinmek için hasarlı el yazmalarını çözümlemede gelişmiş görüntüleme teknikleri kullandı."
+  ],
+  "col": [
+   "şifreyi çözmek",
+   "el yazısını okumak",
+   "bir mesajı çözmek"
+  ],
+  "tip": "Yalnızca fiil olarak kullanılır; hem şifre çözmek hem de karalanmış yazıyı okumak anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "authoritative",
+  "senses": [
+   "güvenilir; yetkin",
+   "otoriter; kendinden emin"
+  ],
+  "ex": [
+   "Bu bahçecilik rehberi, sebze yetiştirme konusunda güvenilir tavsiyeler sunuyor.",
+   "Öğrenciler, sosyal medyada geniş çapta paylaşılan sağlık iddialarını değerlendirirken güvenilir kaynaklara başvurmalıdır."
+  ],
+  "col": [
+   "güvenilir bir kaynak",
+   "güvenilir tavsiye",
+   "kendinden emin bir ton",
+   "yetkili bir anlatım"
+  ],
+  "tip": "authoritarian ile karıştırılmamalı; o 'otoriter, baskıcı' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "universally",
+  "senses": [
+   "herkesçe; her yerde"
+  ],
+  "ex": [
+   "Evde yaptığı keklere komşularımızın hepsi bayılır.",
+   "Eğitimin değerli olduğu evrensel olarak kabul edilse de kaliteli eğitime erişim bölgeler arasında eşit değildir."
+  ],
+  "col": [
+   "evrensel olarak kabul görmüş",
+   "evrensel olarak tanınan",
+   "her yerde bulunabilen"
+  ],
+  "tip": "generally'den daha güçlü bir anlam taşır; herkesin ya da her yerde aynı olduğunu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "reticent",
+  "senses": [
+   "çekingen; ağzı sıkı"
+  ],
+  "ex": [
+   "Hafta sonu planları hakkında konuşmak istemedi.",
+   "Çalışanlar, açıkça konuşmanın kariyerlerine zarar verebileceğinden korkarlarsa iş yeri sorunları hakkında sessiz kalabilirler."
+  ],
+  "col": [
+   "kişisel konularda konuşmaktan kaçınan",
+   "sessiz kalmak",
+   "çekingen biri"
+  ],
+  "tip": "Konuşmaktan ya da bilgi paylaşmaktan kaçınmayı vurgular; sıradan isteksizlikle aynı değildir.",
+  "note": ""
+ },
+ {
+  "id": "offspring",
+  "senses": [
+   "yavru; çocuk; döl"
+  ],
+  "ex": [
+   "Anne ördek yavrularını yolun öbür tarafına güvenle geçirdi.",
+   "Birçok tür, yavrularını korumaya önemli enerji harcar; bu da genç hayvanların hayatta kalma şansını artırır."
+  ],
+  "col": [
+   "yavru vermek",
+   "yavrularını korumak",
+   "sağlıklı yavrular"
+  ],
+  "tip": "Tekil ve çoğul biçimi aynıdır; insanlar için children'dan daha resmi bir sözcüktür.",
+  "note": ""
+ },
+ {
+  "id": "firmness",
+  "senses": [
+   "sağlamlık; sertlik",
+   "kararlılık; azim"
+  ],
+  "ex": [
+   "Yatağın sertliğini kontrol etmek için yavaşça bastırın.",
+   "Öğretmenler, öğrencilerin görüşlerini açıkça ifade etmelerini engellemeden sakin bir kararlılıkla sınıf düzenini sürdürebilirler."
+  ],
+  "col": [
+   "yatağın sertliği",
+   "kararlı bir amaç",
+   "kararlılık göstermek"
+  ],
+  "tip": "Sayılamayan bir isimdir; hem nesnenin sert olmasını hem de tutumun kararlı olmasını anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "provoke",
+  "senses": [
+   "yol açmak; uyandırmak",
+   "kışkırtmak; sinirlendirmek"
+  ],
+  "ex": [
+   "Beklenmedik son, akşam yemeğinden sonra canlı bir tartışmaya yol açtı.",
+   "Toplu taşıma ücretlerini artırma önerileri, uygun fiyatlı ulaşıma bağımlı yolcuların sert eleştirilerine sık sık yol açar."
+  ],
+  "col": [
+   "tartışmaya yol açmak",
+   "tepkiye neden olmak",
+   "eleştiriye yol açmak",
+   "birini bir şey yapmaya kışkırtmak"
+  ],
+  "tip": "Yalnızca öfkelendirmek anlamına gelmez; tartışma, tepki gibi olumsuz olmayan sonuçlar için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "exasperate",
+  "senses": [
+   "sinirlendirmek; bezdirmek"
+  ],
+  "ex": [
+   "Yazıcının sürekli kağıt sıkıştırması ofisteki herkesi çileden çıkarıyor.",
+   "Toplu taşımadaki tekrarlayan gecikmeler yolcuları bezdirebilir ve arabalarını evde bırakma isteklerini azaltabilir."
+  ],
+  "col": [
+   "yolcuları bezdirmek",
+   "müşterileri sinirlendirmek",
+   "bezgin hissetmek"
+  ],
+  "tip": "exacerbate ile karıştırılmamalı; o sorunu daha da kötüleştirmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "counter-offer",
+  "senses": [
+   "karşı teklif; pazarlık"
+  ],
+  "ex": [
+   "Satıcı fiyatımızı reddetti ve karşı bir teklifte bulundu.",
+   "Yetenekli çalışanlar başka bir pozisyonu kabul edeceklerini duyurduklarında işverenler karşı teklif sunabilir."
+  ],
+  "col": [
+   "karşı teklif sunmak",
+   "karşı teklifi kabul etmek",
+   "karşı teklifi reddetmek"
+  ],
+  "tip": "counteroffer biçiminde de yazılabilir; yalnızca fiyat pazarlığı değil, koşulların değiştirilmesi için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "designation",
+  "senses": [
+   "atama; tayin; belirleme",
+   "unvan; resmi ad"
+  ],
+  "ex": [
+   "Onun takım lideri olarak atanması işte kimseyi şaşırtmadı.",
+   "Kıyı sulak alanlarının koruma altındaki alanlar olarak belirlenmesi biyolojik çeşitliliğin korunmasına yardımcı olabilir."
+  ],
+  "col": [
+   "olarak atama",
+   "resmi unvan",
+   "iş unvanı"
+  ],
+  "tip": "designation as ardından bir kimlik ya da görev gelir; resmi ad veya unvan anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vessel",
+  "senses": [
+   "gemi; tekne",
+   "damar",
+   "kap; kap-kacak"
+  ],
+  "ex": [
+   "Büyük bir balıkçı teknesi limana yavaşça girdi.",
+   "Ticari gemiler, su altı gürültüsü, yakıt sızıntıları ve yerli olmayan türlerin getirilmesi yoluyla deniz ekosistemlerini bozabilir."
+  ],
+  "col": [
+   "balıkçı teknesi",
+   "yük gemisi",
+   "kan damarı",
+   "basınçlı kap"
+  ],
+  "tip": "vessel resmi bir sözcüktür; blood vessel 'kan damarı' demektir, gemi değil.",
+  "note": ""
+ },
+ {
+  "id": "humanities",
+  "senses": [
+   "beşeri bilimler"
+  ],
+  "ex": [
+   "Tarihe ve edebiyata olan sevgisi nedeniyle beşeri bilimleri seçti.",
+   "Beşeri bilimler okumak eleştirel düşünmeyi geliştirebilir ve farklı kültürlerin şekillendirdiği bakış açılarını anlamaya yardımcı olabilir."
+  ],
+  "col": [
+   "beşeri bilimler okumak",
+   "beşeri bilim dersleri",
+   "sanat ve beşeri bilimler"
+  ],
+  "tip": "Bir alan adı olarak genellikle the humanities biçiminde kullanılır ve çoğul sayılır.",
+  "note": ""
+ },
+ {
+  "id": "vegetation",
+  "senses": [
+   "bitki örtüsü; bitki topluluğu"
+  ],
+  "ex": [
+   "Yoğun bitki örtüsü, nehir kenarındaki dar patikayı gizliyordu.",
+   "Doğal bitki örtüsünün kaldırılması toprak erozyonunu artırır ve arazinin şiddetli yağmuru emme kapasitesini azaltır."
+  ],
+  "col": [
+   "yoğun bitki örtüsü",
+   "yerli bitki örtüsü",
+   "bitki örtüsü kaplaması",
+   "bitki örtüsünü temizlemek"
+  ],
+  "tip": "Sayılamayan bir isimdir; bir bölgedeki bitkileri genel olarak anlatır, sebze anlamına gelmez.",
+  "note": ""
+ }
+]

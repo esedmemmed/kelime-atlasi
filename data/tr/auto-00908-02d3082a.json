@@ -1,0 +1,282 @@
+[
+ {
+  "id": "hardworking",
+  "senses": [
+   "çalışkan"
+  ],
+  "ex": [
+   "Komşumuz tüm sokak için sebze yetiştiren çalışkan biri.",
+   "Çalışkan öğrenciler bile uygun öğrenme kaynaklarına ve desteğe erişemezse akademik olarak zorlanabilir."
+  ],
+  "col": [
+   "çalışkan öğrenci",
+   "çalışkan personel",
+   "çalışkan bir aile"
+  ],
+  "tip": "Sıfat olarak kullanılır. 'Çok çalışmak' anlamında fiil öbeği 'work hard' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "indoor",
+  "senses": [
+   "kapalı; iç mekâna ait"
+  ],
+  "ex": [
+   "Otelimizin spor salonunun yanında kapalı bir yüzme havuzu var.",
+   "Kapalı spor tesisleri, çocukların yıl boyunca hava koşullarından bağımsız olarak aktif kalmasını sağlar."
+  ],
+  "col": [
+   "kapalı yüzme havuzu",
+   "kapalı alan etkinlikleri",
+   "iç mekân hava kalitesi"
+  ],
+  "tip": "İsimden önce sıfat olarak kullanılır (indoor pool). Zarf olarak 'indoors' kullanılır: stay indoors (içeride kalmak).",
+  "note": ""
+ },
+ {
+  "id": "electric",
+  "senses": [
+   "elektrikli",
+   "heyecan verici; çarpıcı"
+  ],
+  "ex": [
+   "Elektrikli su ısıtıcımız suyu iki dakikada kaynatıyor.",
+   "Elektrikli otobüsler, enerjileri yenilenebilir kaynaklardan geliyorsa kentsel hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "elektrikli araba",
+   "elektrik akımı",
+   "elektrik çarpması",
+   "heyecan dolu bir hava"
+  ],
+  "tip": "Elektrikli cihazlar için 'electric', elektrik sistemleri ve mühendisliği için 'electrical' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "director",
+  "senses": [
+   "müdür; yönetici",
+   "yönetmen"
+  ],
+  "ex": [
+   "Müdürümüz kahvaltıda yeni personeli karşıladı.",
+   "Bir müze müdürü, değerli koleksiyonları koruma sorumluluğu ile ziyaretçi çekme ihtiyacı arasında denge kurmalıdır."
+  ],
+  "col": [
+   "genel müdür",
+   "yönetim kurulu",
+   "film yönetmeni",
+   "operasyon müdürü"
+  ],
+  "tip": "Hem kurum yöneticisi hem de film ya da tiyatro yönetmeni anlamına gelir; bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "convenient",
+  "senses": [
+   "uygun; elverişli",
+   "yakın; erişilebilir"
+  ],
+  "ex": [
+   "Ziyaretiniz için cumartesi sabahı uygun bir zaman mı?",
+   "Çevrim içi öğrenme, çalışan yetişkinlerin kampüse gitmeden beceri geliştirmesi için uygun bir yol sunar."
+  ],
+  "col": [
+   "uygun bir zaman",
+   "birine uygun olmak",
+   "elverişli bir konum",
+   "…için uygun bir yol"
+  ],
+  "tip": "Kişiye uygunluk 'It is convenient for me' ile söylenir; 'I am convenient' yanlıştır, çünkü bu kalıp kişinin kendisini tarif eder.",
+  "note": ""
+ },
+ {
+  "id": "downtown",
+  "senses": [
+   "şehir merkezine; merkezde",
+   "şehir merkezindeki",
+   "şehir merkezi"
+  ],
+  "ex": [
+   "Yeni ayakkabı almak için otobüsle şehir merkezine gittik.",
+   "Daha iyi toplu taşıma, sakinlerin banliyödeki alışveriş merkezlerine araçla gitmek yerine şehir merkezinde alışveriş yapmasını teşvik edebilir."
+  ],
+  "col": [
+   "şehir merkezine gitmek",
+   "şehir merkezi bölgesi",
+   "şehir merkezindeki dükkânlar"
+  ],
+  "tip": "Ağırlıklı olarak Amerikan İngilizcesinde kullanılır. Zarf olarak 'to' eklenmez: go downtown (to yok).",
+  "note": ""
+ },
+ {
+  "id": "war",
+  "senses": [
+   "savaş",
+   "mücadele; karşı koyma"
+  ],
+  "ex": [
+   "Müze, savaş sırasında giyilen üniformaları sergiliyor.",
+   "Savaş, çocukların eğitimini aksatabilir ve aileleri güvenlik arayışıyla evlerini terk etmek zorunda bırakabilir."
+  ],
+  "col": [
+   "iç savaş",
+   "savaş hâlinde",
+   "savaş ilan etmek",
+   "yoksullukla mücadele"
+  ],
+  "tip": "Savaş hâlinde olmayı 'at war' ile ifade ederken başına a ya da the getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "reader",
+  "senses": [
+   "okuyucu",
+   "okuyucu; kart okuyucu",
+   "seviyeli okuma kitabı"
+  ],
+  "ex": [
+   "Tutkulu bir okuyucu olan Lina her zaman yanında bir kitap taşır.",
+   "Dijital kütüphaneler, uzak topluluklardaki okuyucuların büyük kasabalara gitmeden eğitim kaynaklarına erişmesini sağlar."
+  ],
+  "col": [
+   "tutkulu okuyucu",
+   "kart okuyucu",
+   "seviyeli okuma kitabı"
+  ],
+  "tip": "Kişi, cihaz ya da öğrenme materyali anlamına gelebilir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "education",
+  "senses": [
+   "eğitim; öğretim"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam, eğitimimi ödemek için para biriktirdi.",
+   "Kaliteli eğitime erişim, istihdam olanaklarını artırabilir ve farklı sosyal gruplar arasındaki eşitsizliği azaltabilir."
+  ],
+  "col": [
+   "yüksek öğrenim",
+   "zorunlu eğitim",
+   "eğitime erişim",
+   "eğitim sistemi"
+  ],
+  "tip": "Genellikle sayılamaz, 'an education' denmez. 'a good education' (iyi bir eğitim) gibi sıfatla kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "career",
+  "senses": [
+   "kariyer; meslek hayatı",
+   "hızla ilerlemek; fırlamak"
+  ],
+  "ex": [
+   "Kardeşim hemşirelik alanında bir kariyer yapmayı umuyor.",
+   "Uygun fiyatlı eğitim, yetişkinlerin meslek değiştirmesini ve hızla değişen iş piyasasına uyum sağlamasını mümkün kılar."
+  ],
+  "col": [
+   "kariyer beklentileri",
+   "kariyer gelişimi",
+   "kariyer peşinde koşmak",
+   "öğretmenlik kariyeri"
+  ],
+  "tip": "Career uzun vadeli meslek yolunu, job ise belirli bir iş pozisyonunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "lonely",
+  "senses": [
+   "yalnız; kimsesiz",
+   "ıssız; uzak"
+  ],
+  "ex": [
+   "Komşum çay içmeye davet edene kadar kendimi yalnız hissettim.",
+   "Yaşlı yetişkinler emeklilikten sonra yalnızlık hissedebilir; bu yüzden toplum merkezleri düzenli sosyal etkileşim fırsatları sunmalıdır."
+  ],
+  "col": [
+   "yalnız hissetmek",
+   "yalnız bir hayat",
+   "ıssız bir yol"
+  ],
+  "tip": "'Alone' yalnız olmayı, 'lonely' ise içten gelen yalnızlık duygusunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "puppy",
+  "senses": [
+   "yavru köpek"
+  ],
+  "ex": [
+   "Yavru köpek, boş ayakkabımın içinde uyuyakaldı.",
+   "Yavru köpek sahiplenmek; eğitim, egzersiz ve düzenli veteriner bakımı için uzun vadeli bir bağlılık gerektirir."
+  ],
+  "col": [
+   "bir doğumdaki yavru köpekler",
+   "yavru köpek sahiplenmek",
+   "yavru köpek eğitimi"
+  ],
+  "tip": "Çoğulu 'puppies' olur (y, ies olur). Yalnızca yavru köpekler için kullanılır; yetişkin köpekler için 'dog' denir.",
+  "note": ""
+ },
+ {
+  "id": "style",
+  "senses": [
+   "tarz; üslup",
+   "model; moda",
+   "tasarlamak; şekil vermek"
+  ],
+  "ex": [
+   "Renkli resimleri neşeli ve oyuncu bir üsluba sahip.",
+   "Modern mimarlar, çağdaş konut ihtiyaçlarını karşılarken yerel kimliği korumak için geleneksel yapı tarzlarını sıklıkla uyarlar."
+  ],
+  "col": [
+   "yazım üslubu",
+   "mimari tarz",
+   "modaya uygun",
+   "saçını şekillendirmek"
+  ],
+  "tip": "Style kişisel tarzı da anlatabilir; her zaman moda anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "taste",
+  "senses": [
+   "tat; lezzet",
+   "tatmak; tadı olmak",
+   "zevk; beğeni"
+  ],
+  "ex": [
+   "Çorbanın kavrulmuş domateslerden gelen zengin bir tadı var.",
+   "Okullar çeşitli ve çekici yemekler sunduğunda çocuklar sağlıklı yiyeceklere karşı bir beğeni geliştirebilir."
+  ],
+  "col": [
+   "harika tadı olmak",
+   "acı bir tat",
+   "bir şeye karşı beğeni",
+   "iyi zevk"
+  ],
+  "tip": "'Taste' fiili sıfat ister: 'taste good' doğrudur, 'taste well' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "record",
+  "senses": [
+   "kayıt; dosya",
+   "kaydetmek; kayıt almak",
+   "rekor"
+  ],
+  "ex": [
+   "Harcadığım her şeyin kaydını tutuyorum.",
+   "Doğru tıbbi kayıtlar, sağlık profesyonellerinin bilinçli kararlar almasına ve gereksiz tedavilerden kaçınmasına olanak tanır."
+  ],
+  "col": [
+   "kayıt tutmak",
+   "tıbbi kayıtlar",
+   "rekor kırmak",
+   "bir konuşmayı kaydetmek"
+  ],
+  "tip": "İsim olarak vurgu birinci hecededir (REC-ord); fiil olarak ikinci hecededir (re-CORD).",
+  "note": ""
+ }
+]

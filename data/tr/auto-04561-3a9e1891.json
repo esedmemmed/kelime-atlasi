@@ -1,0 +1,286 @@
+[
+ {
+  "id": "villain",
+  "senses": [
+   "kötü adam; kötü karakter",
+   "müsebbip; sorumlu"
+  ],
+  "ex": [
+   "Kötü adam, çalınan mücevherleri bir çizmenin içine sakladı.",
+   "Filmler genellikle tek bir kötü karakteri öne çıkarır; oysa gerçek toplumsal sorunların nedenleri çoğu zaman daha karmaşıktır."
+  ],
+  "col": [
+   "kötü adamı oynamak",
+   "hikâyenin kötü karakteri",
+   "asıl suçlu"
+  ],
+  "tip": "Hikâyelerdeki kötü karakter için kullanılır. Villa (villa, müstakil ev) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "invade",
+  "senses": [
+   "işgal etmek",
+   "ihlal etmek; müdahale etmek",
+   "akın etmek; üşüşmek"
+  ],
+  "ex": [
+   "Mutfağa pasta bıraktıktan sonra karıncalar evimizi bastı.",
+   "Bazı izleme teknolojileri, kamu güvenliğini artırmak için kullanılsa bile insanların mahremiyetini ihlal edebilir."
+  ],
+  "col": [
+   "bir ülkeyi işgal etmek",
+   "birinin mahremiyetini ihlal etmek",
+   "kişisel alana girmek"
+  ],
+  "tip": "Geçişli bir fiildir, doğrudan nesne alır; \"invade to\" gibi kalıplar kullanılmaz. İsim biçimi invasion'dır.",
+  "note": ""
+ },
+ {
+  "id": "classification",
+  "senses": [
+   "sınıflandırma",
+   "sınıf; kategori"
+  ],
+  "ex": [
+   "Kütüphane kitapları sınıflandırmak için renk kullanıyor.",
+   "Türlerin doğru sınıflandırılması, bilim insanlarının biyolojik çeşitliliği anlamasına ve acil koruma gerektiren ekosistemleri belirlemesine yardımcı olur."
+  ],
+  "col": [
+   "sınıflandırma sistemi",
+   "türlerin sınıflandırılması",
+   "veri sınıflandırması"
+  ],
+  "tip": "Sınıflandırmak için classify kullanılır; \"classify A as B\" A'yı B olarak sınıflandırmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "imitation",
+  "senses": [
+   "taklit etme; öykünme",
+   "taklit; sahte ürün",
+   "taklit; yapma"
+  ],
+  "ex": [
+   "Uykulu bir kedi taklidi yapması hepimizi güldürdü.",
+   "Küçük çocuklar birçok sosyal beceriyi taklit yoluyla öğrenir; bu nedenle erken eğitimde olumlu yetişkin davranışları çok önemlidir."
+  ],
+  "col": [
+   "taklit ederek öğrenmek",
+   "kötü bir taklit",
+   "yapma deri",
+   "...i taklit ederek"
+  ],
+  "tip": "Taklit etme eylemi genellikle sayılamaz; bir taklit ürünü için \"an imitation\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "barrel",
+  "senses": [
+   "fıçı; varil",
+   "namlu",
+   "hızla gitmek; fırlamak"
+  ],
+  "ex": [
+   "Yağmur suyunu kulübenin arkasındaki ahşap bir fıçıda biriktiriyoruz.",
+   "Bir varil petrolün fiyatı, küresel ekonomi genelinde ulaşım maliyetlerini etkileyebilir."
+  ],
+  "col": [
+   "ahşap fıçı",
+   "bir varil petrol",
+   "tüfek namlusu",
+   "yolda hızla gitmek"
+  ],
+  "tip": "Çoğul biçimi barrels'tır. \"Bir varil petrol\" için a barrel of oil kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "prevention",
+  "senses": [
+   "önleme; korunma"
+  ],
+  "ex": [
+   "Düzenli el yıkamak, enfeksiyonu önlemenin basit bir yoludur.",
+   "Hastalıkların önlenmesine yapılan yatırım, uzun vadede hastaneler üzerindeki baskıyı azaltabilir ve halk sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "hastalıktan korunma",
+   "suç önleme",
+   "yangın önlemi"
+  ],
+  "tip": "Genellikle sayılamaz isimdir. Fiil kalıbı prevent sb from doing şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "wagon",
+  "senses": [
+   "at arabası; yük arabası",
+   "yük vagonu"
+  ],
+  "ex": [
+   "At, taze elmalarla yüklü bir arabayı çekiyordu.",
+   "Modern yollar gelişmeden önce çiftçiler, ürünlerini bölgesel pazarlara taşımak için at arabalarına güvenirdi."
+  ],
+  "col": [
+   "at arabası",
+   "kapalı kasa araba",
+   "yük vagonu"
+  ],
+  "tip": "İngiliz İngilizcesinde waggon olarak da yazılır. Demiryolu anlamı ağırlıklı olarak İngiliz İngilizcesinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "broaden",
+  "senses": [
+   "genişletmek; zenginleştirmek",
+   "genişlemek"
+  ],
+  "ex": [
+   "Yeni tarifler denemek, farklı mutfaklar hakkındaki bilgimi genişletti.",
+   "Okullar, her kesimden öğrencinin yaratıcı yeteneklerini geliştirebilmesi için sanat eğitimine erişimi genişletmelidir."
+  ],
+  "col": [
+   "ufkunu genişletmek",
+   "bilgini genişletmek",
+   "...e erişimi genişletmek",
+   "kapsamı genişletmek"
+  ],
+  "tip": "Genellikle soyut kavramlar için kullanılır. \"Broaden your horizons\" ufku açmak, görüşü genişletmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "descent",
+  "senses": [
+   "iniş; alçalma",
+   "soy; köken",
+   "yokuş; iniş yolu"
+  ],
+  "ex": [
+   "Uçak, kıyı şeridi göründüğünde alçalmaya başladı.",
+   "Farklı etnik kökenlerden gelen insanlar, yaşadıkları topluluklara çeşitli beceri ve bakış açıları katar."
+  ],
+  "col": [
+   "alçalmaya başlamak",
+   "dik bir iniş",
+   "Çin kökenli"
+  ],
+  "tip": "Descent isimdir; fiili descend'dir. Decent (layık, uygun) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "core",
+  "senses": [
+   "öz; çekirdek",
+   "temel; esas",
+   "çekirdeğini çıkarmak"
+  ],
+  "ex": [
+   "Elmayı yedi ve çekirdeğini attı.",
+   "Eleştirel düşünme, öğrencilerin bilgiyi bağımsız olarak değerlendirmelerine yardımcı olduğu için okullarda öğretilmesi gereken temel bir beceri olmalıdır."
+  ],
+  "col": [
+   "...in özünde",
+   "temel beceriler",
+   "elma çekirdeği",
+   "Dünya'nın çekirdeği"
+  ],
+  "tip": "Elma çekirdeği için core, şeftali gibi meyvelerin sert çekirdeği için ise genellikle stone kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "signpost",
+  "senses": [
+   "yön tabelası; levha",
+   "yol işaretlemek",
+   "yapıyı belli etmek"
+  ],
+  "ex": [
+   "Orman yolunun kenarındaki tabelanın yanında durduk.",
+   "Yazarlar, okuyucuların karmaşık tartışmaları daha kolay takip edebilmesi için argümanlarındaki değişimleri belirgin biçimde belli etmelidir."
+  ],
+  "col": [
+   "tabelaları takip etmek",
+   "açıkça işaretlenmiş",
+   "bir argümanın yapısını belli etmek"
+  ],
+  "tip": "Yazı dilinde fiil olarak kullanıldığında, bağlaçlarla metnin yapısını ve geçişlerini okuyucuya açıkça göstermek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "pump",
+  "senses": [
+   "pompa; tulumba",
+   "pompalamak; basmak"
+  ],
+  "ex": [
+   "Garajın kapısının yanında bir bisiklet pompası bulunduruyorum.",
+   "Güneş enerjisi bir su pompasını çalıştırabilir; böylece kırsal topluluklar pahalı yakıta bağlı kalmadan temiz suya ulaşabilir."
+  ],
+  "col": [
+   "su pompası",
+   "bisiklet pompası",
+   "su pompalamak",
+   "lastiği şişirmek"
+  ],
+  "tip": "Lastik şişirmek için pump up a tyre, su çekmek için pump water kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "vague",
+  "senses": [
+   "belirsiz; muğlak",
+   "bulanık; silik"
+  ],
+  "ex": [
+   "Muğlak yön tarifleri bizi istasyonda dolaştırdı.",
+   "Belirsiz çevre hedefleri, vatandaşların hükümet politikalarının anlamlı bir ilerleme sağlayıp sağlamadığını değerlendirmesini zorlaştırır."
+  ],
+  "col": [
+   "belirsiz bir fikir",
+   "silik bir hatıra",
+   "muğlak talimatlar",
+   "...hakkında belirsiz olmak"
+  ],
+  "tip": "Be vague about kalıbı, bir konuda net bilgi vermemek veya konuyu muğlak bırakmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "withdraw",
+  "senses": [
+   "para çekmek",
+   "çekilmek; ayrılmak",
+   "geri çekmek; vazgeçmek"
+  ],
+  "ex": [
+   "Market kapanmadan önce biraz nakit çekmem gerekiyor.",
+   "Hükümetler, çevre standartlarını defalarca karşılayamayan sektörlere verdiği mali desteği geri çekebilir."
+  ],
+  "col": [
+   "nakit çekmek",
+   "bir yarışmadan çekilmek",
+   "başvuruyu geri çekmek",
+   "desteği geri çekmek"
+  ],
+  "tip": "Çekimleri withdrew (geçmiş) ve withdrawn (ortaç) şeklindedir. Bir etkinlikten çekilmek için withdraw from kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "prey",
+  "senses": [
+   "av; avlanan hayvan",
+   "kurban; hedef",
+   "avlamak; sömürmek"
+  ],
+  "ex": [
+   "Baykuş avını alçak bir dalın üzerinden izledi.",
+   "Doğal av azaldığında, bazı yırtıcılar yiyecek aramak için çiftliklere daha yakın gelir."
+  ],
+  "col": [
+   "yırtıcı kuşlar",
+   "küçük hayvanları avlamak",
+   "dolandırıcılığa kurban gitmek"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz. Fiil olarak prey on kalıbı kullanılır; pray (dua etmek) ile karıştırılmamalıdır.",
+  "note": ""
+ }
+]

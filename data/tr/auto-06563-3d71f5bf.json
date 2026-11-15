@@ -1,0 +1,272 @@
+[
+ {
+  "id": "ripple",
+  "senses": [
+   "dalgacık; kırışıklık",
+   "dalgalanmak; kırışmak",
+   "yayılan etki; yankı"
+  ],
+  "ex": [
+   "Düşen bir yaprak göletin üzerinde dalgacıklar oluşturdu.",
+   "Büyük bir fabrikanın kapanması yerel ekonominin tamamında zincirleme bir etkiye yol açabilir."
+  ],
+  "col": [
+   "zincirleme etki",
+   "suyun üzerindeki dalgacıklar",
+   "bir kahkaha dalgası"
+  ],
+  "tip": "ripple, wave'den daha küçük ve hafif dalgalanmayı anlatır. ripple effect ise bir olayın zincirleme etkisi demektir.",
+  "note": ""
+ },
+ {
+  "id": "strait",
+  "senses": [
+   "boğaz",
+   "sıkıntı; darlık"
+  ],
+  "ex": [
+   "Feribotumuz gün batımından önce dar boğazı geçti.",
+   "Büyük bir boğazdan yapılan gemi taşımacılığına getirilen kısıtlamalar uluslararası ticareti aksatabilir ve taşıma maliyetlerini artırabilir."
+  ],
+  "col": [
+   "dar bir boğaz",
+   "boğazı geçmek",
+   "büyük sıkıntı içinde"
+  ],
+  "tip": "Sıkıntı anlamında genellikle çoğul kullanılır: in dire straits (ciddi sıkıntı içinde). Tekil strait ise deniz boğazını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "blindfold",
+  "senses": [
+   "göz bağı",
+   "gözünü bağlamak"
+  ],
+  "ex": [
+   "Gözlerine bağ bağlanmış adam her meyveyi tadına bakarak tahmin etti.",
+   "Araştırmacılar, gönüllülerin gündelik nesneleri yalnızca dokunarak ne kadar iyi tanıyabildiğini incelemek için gözlerini bağladı."
+  ],
+  "col": [
+   "göz bağı takmak",
+   "göz bağı bağlamak",
+   "bir katılımcının gözünü bağlamak"
+  ],
+  "tip": "Hem isim hem fiil olarak kullanılır. Gündelik uyku maskesi için genellikle sleep mask denir, blindfold değil.",
+  "note": ""
+ },
+ {
+  "id": "outcast",
+  "senses": [
+   "dışlanmış kimse",
+   "dışlanmış"
+  ],
+  "ex": [
+   "Tartışmadan sonra kendini dışlanmış biri gibi hissetti.",
+   "Okullar, hiçbir çocuğun geçmişi veya görünüşü yüzünden dışlanmamasını sağlamalıdır."
+  ],
+  "col": [
+   "toplumdan dışlanmış kişi",
+   "dışlanmış hissetmek",
+   "birini dışlanmış gibi görmek"
+  ],
+  "tip": "Esas olarak isim olarak kullanılır; toplumdan dışlanan kişiyi anlatır, sokak serseri veya haydut anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "negotiable",
+  "senses": [
+   "pazarlığa açık; görüşülebilir",
+   "devredilebilir"
+  ],
+  "ex": [
+   "Kanepeyi kendiniz alırsanız fiyat pazarlığa açık.",
+   "Esnek iş sözleşmeleri, personelin çocuk bakımı ve diğer sorumluluklarına uyum sağlamasına olanak tanıyan pazarlığa açık çalışma saatleri içerebilir."
+  ],
+  "col": [
+   "pazarlığa açık fiyat",
+   "görüşülebilir koşullar",
+   "pazarlığa açık maaş",
+   "devredilebilir senet"
+  ],
+  "tip": "Fiyat veya koşullar için 'pazarlığa açık' anlamında kullanılır; karşıtı non-negotiable (pazarlık edilemez) olur.",
+  "note": ""
+ },
+ {
+  "id": "proficient",
+  "senses": [
+   "yetkin; becerikli"
+  ],
+  "ex": [
+   "Aylarca süren pratikten sonra dikiş dikmekte becerikli oldu.",
+   "İkinci bir dilde yetkin olan mezunlar uluslararası iş fırsatlarına daha kolay erişebilir."
+  ],
+  "col": [
+   "İngilizcede yetkin",
+   "yazılım kullanmada becerikli",
+   "son derece yetkin"
+  ],
+  "tip": "Genellikle proficient in (bir alanda) veya proficient at (bir faaliyette) kalıplarıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pamper",
+  "senses": [
+   "şımartmak; el üstünde tutmak"
+  ],
+  "ex": [
+   "Pazar günleri sıcak bir banyoyla kendimi şımartırım.",
+   "Çocuklarını sürekli şımartan ebeveynler, bağımsızlık geliştirmelerine istemeden engel olabilir."
+  ],
+  "col": [
+   "kendini şımartmak",
+   "bir çocuğu şımartmak",
+   "birini hediyelerle şımartmak"
+  ],
+  "tip": "Her zaman olumsuz değildir; pamper yourself genellikle kendini ödüllendirmek ve keyfini çıkarmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "blaze",
+  "senses": [
+   "büyük yangın",
+   "şiddetle yanmak; parlamak"
+  ],
+  "ex": [
+   "İtfaiyeciler dün gece aileyi yangından kurtardı.",
+   "Orman yangını değerli yaşam alanlarını yok etti ve daha iyi yangın önleme stratejilerine duyulan ihtiyacı gösterdi."
+  ],
+  "col": [
+   "yangınla mücadele etmek",
+   "orman yangını",
+   "çığır açmak"
+  ],
+  "tip": "blaze genellikle büyük ve şiddetli yangını anlatır; flame ise tek tek alevi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "devour",
+  "senses": [
+   "hızla yemek; atıştırmak",
+   "hevesle okumak",
+   "tüketmek; yok etmek"
+  ],
+  "ex": [
+   "Yüzdükten sonra sıcak ekmeği birkaç dakikada iştahla yedik.",
+   "Büyük altyapı projeleri, inşaat boyunca harcamalar dikkatle izlenmezse kamu kaynaklarını tüketebilir."
+  ],
+  "col": [
+   "yemeği iştahla yemek",
+   "kitapları hevesle okumak",
+   "kaynakları tüketmek"
+  ],
+  "tip": "eat'ten daha güçlü bir anlam taşır. Ayrıca kitap okumak veya kaynakları tüketmek gibi mecazi kullanımları da vardır.",
+  "note": ""
+ },
+ {
+  "id": "haven",
+  "senses": [
+   "sığınak; huzur yeri"
+  ],
+  "ex": [
+   "Küçük bahçemiz, şehir gürültüsünden uzak bir sığınak.",
+   "Korunan sulak alanlar, yaşam alanlarının kaybı ve kentleşmeyle tehdit altındaki yaban hayvanları için güvenli bir sığınak sağlar."
+  ],
+  "col": [
+   "güvenli sığınak",
+   "yaban hayatı için sığınak",
+   "huzur dolu sığınak"
+  ],
+  "tip": "Genellikle a haven for (birine veya bir şeye sığınak) kalıbında kullanılır. heaven (cennet) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "tyranny",
+  "senses": [
+   "zorbalık; zalim yönetim",
+   "zalimce baskı; tahakküm"
+  ],
+  "ex": [
+   "Film, bir hükümdarın zulmüne karşı mücadele eden bir köyü anlatıyor.",
+   "Bağımsız mahkemeler ve özgür basın, siyasi liderleri hesap verebilir kılarak zorbalığın önlenmesine yardımcı olabilir."
+  ],
+  "col": [
+   "zorbalığa direnmek",
+   "siyasi zorbalık",
+   "çoğunluğun tahakkümü"
+  ],
+  "tip": "Gücün acımasızca ve sınırsızca kötüye kullanılmasını anlatır; sıradan sert yönetimden çok daha ağır bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "dodge",
+  "senses": [
+   "kaçmak; sıyrılmak",
+   "kaçamak yapmak; savsaklamak",
+   "kaçamak; numara"
+  ],
+  "ex": [
+   "Bir su birikintisinden kaçtım, neredeyse alışveriş poşetimi düşürüyordum.",
+   "Zor sorulardan kaçan kamu görevlileri, temsil ettikleri kurumlara olan vatandaş güvenini zayıflatabilir."
+  ],
+  "col": [
+   "topu savuşturmak",
+   "soruyu geçiştirmek",
+   "sorumluluktan kaçmak"
+  ],
+  "tip": "dodge doğrudan nesne alabilir: dodge a question (soruyu geçiştirmek). Hareketle kaçmak ve sorumluluktan kaçmak anlamları da vardır.",
+  "note": ""
+ },
+ {
+  "id": "summon",
+  "senses": [
+   "çağırmak; celbetmek",
+   "toplamak; derlemek"
+  ],
+  "ex": [
+   "Müdür öğle yemeğinden sonra herkesi odasına çağırdı.",
+   "Hükümetler, güçlü sanayi kuruluşlarının muhalefetine rağmen çevre sorunlarını çözmek için siyasi irade toplamalıdır."
+  ],
+  "col": [
+   "birini mahkemeye çağırmak",
+   "yardım çağırmak",
+   "cesaret toplamak"
+  ],
+  "tip": "summon someone to (bir yere çağırmak) ve summon up courage (cesaret toplamak) kalıplarında kullanılır. Resmî veya güçlü bir çağrı çağrışımı taşır.",
+  "note": ""
+ },
+ {
+  "id": "bitterness",
+  "senses": [
+   "kırgınlık; kin",
+   "acılık"
+  ],
+  "ex": [
+   "İşini haksız yere kaybettiği için hâlâ kırgınlık duyuyor.",
+   "Terfi kararlarındaki algılanan adaletsizlik, çalışanlar arasında kalıcı kırgınlık yaratabilir ve kurumlar içindeki iş birliğini zayıflatabilir."
+  ],
+  "col": [
+   "kırgınlık duymak",
+   "kalıcı kırgınlık",
+   "kahvenin acılığı"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Hem tatta acılığı hem de içte birikmiş kırgınlık ve öfkeyi anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "entrust",
+  "senses": [
+   "emanet etmek; teslim etmek"
+  ],
+  "ex": [
+   "Yedek ev anahtarını komşuma emanet ettim.",
+   "Veliler çocuklarının eğitimini okullara emanet eder ve öğretmenlerden güvenli bir öğrenme ortamı sağlamalarını bekler."
+  ],
+  "col": [
+   "birine bir görev emanet etmek",
+   "bir şeyi birine emanet etmek",
+   "birine sorumluluk emanet etmek"
+  ],
+  "tip": "entrust someone with something (birine bir şeyi emanet etmek) ya da entrust something to someone kalıplarını kullanın; kişi ve nesnenin yeri değişir.",
+  "note": ""
+ }
+]

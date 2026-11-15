@@ -1,0 +1,275 @@
+[
+ {
+  "id": "achievement",
+  "senses": [
+   "başarı; kazanım",
+   "gerçekleştirme; ulaşma"
+  ],
+  "ex": [
+   "Uzun bir yürüyüşü ilk kez tamamlamam gerçek bir başarı gibi hissettirdi.",
+   "Okullar, öğrencilerin daha geniş yeteneklerini teşvik etmek için sınav sonuçlarının yanında yaratıcı başarıları da takdir etmeli."
+  ],
+  "col": [
+   "önemli bir başarı",
+   "başarı hissi",
+   "akademik başarı",
+   "hedeflere ulaşma"
+  ],
+  "tip": "Somut başarılar sayılabilir (an achievement); hedeflere ulaşma anlamında genellikle sayılamaz olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spill",
+  "senses": [
+   "dökmek; saçmak",
+   "dökülme; sızıntı"
+  ],
+  "ex": [
+   "Temiz gömleğimin üzerine tamamen portakal suyu döktüm.",
+   "Petrol sızıntıları deniz ekosistemlerine zarar verebilir ve balıkçılığa bağlı toplulukların geçimini tehdit edebilir."
+  ],
+  "col": [
+   "içeceği dökmek",
+   "petrol sızıntısı",
+   "taşmak; yayılmak",
+   "sırrı ifşa etmek"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi spilled ya da spilt olabilir; ikisi de doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "guesthouse",
+  "senses": [
+   "pansiyon; küçük otel"
+  ],
+  "ex": [
+   "Balıkçı limanına bakan şirin bir pansiyon bulduk.",
+   "Aile işletmesi pansiyonlar, turistlerin yerel topluluklarda harcama yapmasını teşvik ederek kırsal ekonomilere destek olabilir."
+  ],
+  "col": [
+   "bir pansiyonda kalmak",
+   "aile işletmesi pansiyon",
+   "deniz kenarında pansiyon"
+  ],
+  "tip": "Genellikle küçük ve samimi konaklama yerlerini anlatır; büyük otelleri karşılamak için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "sharp",
+  "senses": [
+   "keskin",
+   "ani; keskin",
+   "zeki; çabuk kavrayan"
+  ],
+  "ex": [
+   "Bu bıçak domatesi kolayca dilimleyecek kadar keskin.",
+   "Konut fiyatlarındaki ani artış, birçok genç yetişkini ailesinin evinden ayrılmayı ertelemek zorunda bıraktı."
+  ],
+  "col": [
+   "keskin bıçak",
+   "ani artış",
+   "keskin bir zıtlık",
+   "zeki bir zihin"
+  ],
+  "tip": "Değişim için kullanıldığında genellikle ani ve büyük bir değişimi anlatır, örneğin a sharp rise.",
+  "note": ""
+ },
+ {
+  "id": "account",
+  "senses": [
+   "hesap",
+   "anlatım; açıklama",
+   "açıklamak; pay oluşturmak"
+  ],
+  "ex": [
+   "Yerel bankada bir tasarruf hesabı açtım.",
+   "Ulaşım masrafları, özellikle kamu hizmetlerinin sınırlı olduğu bölgelerde, hane halkı harcamalarının önemli bir kısmını oluşturuyor."
+  ],
+  "col": [
+   "hesap açmak",
+   "bir olayı anlatmak",
+   "açıklamak",
+   "dikkate almak"
+  ],
+  "tip": "account for; 'açıklamak' ya da 'bir payı oluşturmak' anlamına gelebilir. Cümlenin bağlamına göre anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "unkind",
+  "senses": [
+   "nazik olmayan; kırıcı"
+  ],
+  "ex": [
+   "İlk resmiyle alay etmek hiç nazikçe değildi.",
+   "Okullar, çocuklara internetteki kırıcı yorumların sınıf arkadaşlarının duygusal iyi oluşunu nasıl etkileyebileceğini öğretmeli."
+  ],
+  "col": [
+   "kırıcı sözler",
+   "birine karşı nazik olmamak",
+   "nazik olmayan davranış"
+  ],
+  "tip": "'Birine karşı nazik olmamak' için be unkind to someone kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "silence",
+  "senses": [
+   "sessizlik",
+   "susturmak; bastırmak"
+  ],
+  "ex": [
+   "Dışarıda kar yağarken sessizlik içinde oturduk.",
+   "Sınıflarda uzun sessizlik süreleri, öğrencilere zor sorular üzerine düşünmek için değerli bir zaman verebilir."
+  ],
+  "col": [
+   "sessizlik içinde",
+   "sessizliği bozmak",
+   "tam sessizlik",
+   "eleştiriyi bastırmak"
+  ],
+  "tip": "in silence 'sessizce' anlamına gelir; sıfat olan silent ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "border",
+  "senses": [
+   "sınır",
+   "kenarlık; bordür",
+   "sınır komşusu olmak"
+  ],
+  "ex": [
+   "Bu sabah erkenden trenle sınırı geçtik.",
+   "Sınır komşusu olan ülkeler, ticaret ve çevre koruma konularında genellikle yakın işbirliği yapmak zorunda kalır."
+  ],
+  "col": [
+   "sınırı geçmek",
+   "sınır kontrolleri",
+   "sınır komşusu olmak",
+   "dekoratif kenarlık"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır (border a country); border on ise 'neredeyse' anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "acceptable",
+  "senses": [
+   "kabul edilebilir; uygun"
+  ],
+  "ex": [
+   "Bu ayakkabılar iş için uygun, ama spor ayakkabılar değil.",
+   "Hükümetler, halk sağlığını ve yakındaki ekosistemleri korumak için endüstriyel emisyonlara kabul edilebilir sınırlar koymalıdır."
+  ],
+  "col": [
+   "kabul edilebilir standart",
+   "toplumsal olarak kabul edilebilir",
+   "herkes için kabul edilebilir"
+  ],
+  "tip": "acceptable 'yeterli, kabul görür' demektir; 'mükemmel' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "embarrassing",
+  "senses": [
+   "utandırıcı; mahcup edici"
+  ],
+  "ex": [
+   "Tören sırasında telefonum çaldığında çok utanç vericiydi.",
+   "Öğrenciler, sınıf arkadaşlarının önünde hata yapmanın utanç verici olduğunu düşünürlerse soru sormaktan kaçınabilirler."
+  ],
+  "col": [
+   "utandırıcı bir hata",
+   "utandırıcı bir durum",
+   "son derece utandırıcı"
+  ],
+  "tip": "Olayı tanımlamak için embarrassing, kişinin hissini anlatmak için embarrassed kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "booklet",
+  "senses": [
+   "kitapçık; broşür"
+  ],
+  "ex": [
+   "Hemşire bana sağlıklı beslenme hakkında bir kitapçık verdi.",
+   "Resimli bir kitapçık, okuma becerisi sınırlı hastalar için temel sağlık tavsiyelerini daha erişilebilir hâle getirebilir."
+  ],
+  "col": [
+   "bilgi kitapçığı",
+   "kullanım kılavuzu",
+   "hakkında kitapçık"
+  ],
+  "tip": "-let eki genellikle küçüklük anlamı katar; booklet ince ve küçük bir kitapçıktır.",
+  "note": ""
+ },
+ {
+  "id": "hunting",
+  "senses": [
+   "avcılık; av",
+   "arama; peşine düşme"
+  ],
+  "ex": [
+   "Av gezimiz sırasında taze hayvan izlerine rastladık.",
+   "Avcılığa getirilen kısıtlamalar, nesli tükenmekte olan türleri korumaya ve savunmasız doğal yaşam alanlarındaki dengeli ekosistemleri sürdürmeye yardımcı olabilir."
+  ],
+  "col": [
+   "yasadışı avcılık",
+   "av yasağı",
+   "iş arama",
+   "ev arama"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; job hunting 'iş arama' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "novel",
+  "senses": [
+   "roman",
+   "yeni; özgün"
+  ],
+  "ex": [
+   "Dün treninde romanı bitirdim.",
+   "Okullar, sıradan insanların büyük toplumsal değişimleri nasıl yaşadığını anlamaları için tarihi romanları kullanabilir."
+  ],
+  "col": [
+   "roman yazmak",
+   "tarihi roman",
+   "yeni bir yaklaşım"
+  ],
+  "tip": "İsim olarak 'roman', sıfat olarak 'yeni, özgün' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "wise",
+  "senses": [
+   "akıllı; bilgece"
+  ],
+  "ex": [
+   "Bugün kalın bir mont almak akıllıca bir karardı.",
+   "Hükümetlerin yalnızca hastane tedavisine güvenmek yerine koruyucu sağlık hizmetlerine yatırım yapması akıllıca olur."
+  ],
+  "col": [
+   "akıllıca bir karar",
+   "akılcı öğüt",
+   "bir şey yapmak akıllıca olmak"
+  ],
+  "tip": "wise isabetli karar vermeyi vurgular; clever ise daha çok zekâyı ve hızlı öğrenmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "priest",
+  "senses": [
+   "rahip; papaz; din adamı"
+  ],
+  "ex": [
+   "Rahip, kiliseye girenleri tek tek karşıladı.",
+   "Birçok toplulukta rahip, duygusal destek sağlar ve ihtiyaç sahibi aileler için yardım organizasyonlarına öncülük eder."
+  ],
+  "col": [
+   "bir cemaat papazı",
+   "Katolik rahip",
+   "rahip olarak kutsanmak"
+  ],
+  "tip": "Her din adamına priest denmez; Budist keşişler genellikle monk olarak adlandırılır.",
+  "note": ""
+ }
+]

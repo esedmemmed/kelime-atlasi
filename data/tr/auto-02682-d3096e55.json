@@ -1,0 +1,272 @@
+[
+ {
+  "id": "starting",
+  "senses": [
+   "başlangıç; ilk",
+   "başlatma; çalıştırma"
+  ],
+  "ex": [
+   "Güneş doğmadan önce başlangıç noktasında toplandık.",
+   "Uygun bir başlangıç maaşı, işverenlerin yetenekli mezunları çekmesine ve uzun vadede personel bağlılığını artırmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir başlangıç noktası",
+   "başlangıç maaşı",
+   "başlangıç çizgisi",
+   "başlangıç pozisyonu"
+  ],
+  "tip": "starting, isim veya sıfat olarak kullanılır. Start fiilinin -ing biçimi olduğu için 'start' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "besides",
+  "senses": [
+   "-den başka; ayrıca",
+   "üstelik; ayrıca"
+  ],
+  "ex": [
+   "Elmalardan başka biraz ekmek ve taze süt almamız gerekiyor.",
+   "Hava kirliliğini azaltmasının yanı sıra toplu taşımaya yapılan yatırım, şehirleri yaşlı sakinler için daha erişilebilir hale getirebilir."
+  ],
+  "col": [
+   "bunun dışında",
+   "...olmasının yanı sıra",
+   "...gerçeğinin yanı sıra"
+  ],
+  "tip": "besides 'ek olarak' anlamına gelir; beside ise 'yanında' demektir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "invention",
+  "senses": [
+   "icat; buluş",
+   "icat etme; yaratma",
+   "uydurma"
+  ],
+  "ex": [
+   "En son icadı, o yokken bitkileri sulayıp duruyor.",
+   "Uygun fiyatlı su filtrelerinin icadı, temiz suya erişimi sınırlı topluluklarda halk sağlığını iyileştirdi."
+  ],
+  "col": [
+   "yararlı bir icat",
+   "...nın icadı",
+   "yakın zamanda yapılan bir icat"
+  ],
+  "tip": "invention daha önce var olmayan bir şeyi yaratmayı; discovery ise zaten var olan bir şeyi keşfetmeyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "split",
+  "senses": [
+   "bölmek; ayırmak; paylaşmak",
+   "yarık; ayrılık; anlaşmazlık"
+  ],
+  "ex": [
+   "Pastayı böldük ve komşularımızla paylaştık.",
+   "Okullar, bireysel ilgi ve destek sağlamak için bazen kalabalık sınıfları daha küçük gruplara ayırır."
+  ],
+  "col": [
+   "gruplara ayırmak",
+   "maliyeti paylaşmak",
+   "ikiye bölmek",
+   "derin bir ayrılık"
+  ],
+  "tip": "Fiilin üç biçimi de aynıdır: split, split, split. Ing biçimi splitting olur.",
+  "note": ""
+ },
+ {
+  "id": "pyramid",
+  "senses": [
+   "piramit; piramit şekli",
+   "piramit yapısı; hiyerarşi"
+  ],
+  "ex": [
+   "Ahşap bloklardan küçük bir piramit yaptık.",
+   "Birçok kuruluştaki yönetim piramidi, az sayıda yöneticiyi çok sayıda çalışanın üstüne yerleştirir."
+  ],
+  "col": [
+   "antik piramit",
+   "kare tabanlı piramit",
+   "yönetim piramidi"
+  ],
+  "tip": "Hem tarihi piramitler hem de geometrideki yan yüzleri üçgen olan şekiller için aynı kelime kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thriller",
+  "senses": [
+   "gerilim filmi; gerilim romanı"
+  ],
+  "ex": [
+   "Bir gerilim filmi izledik ve sonunu tahmin etmeye çalıştık.",
+   "İyi yapılmış bir gerilim filmi, güçlü bir gerilim duygusunu korurken izleyicileri etik sorular üzerine düşünmeye teşvik edebilir."
+  ],
+  "col": [
+   "suç gerilimi",
+   "psikolojik gerilim",
+   "siyasi gerilim"
+  ],
+  "tip": "thriller ağırlıklı olarak merak ve gerilim unsurlarını ifade eder; korku (horror) türüyle aynı değildir.",
+  "note": ""
+ },
+ {
+  "id": "overweight",
+  "senses": [
+   "kilolu; fazla kilolu"
+  ],
+  "ex": [
+   "Bavulum fazla ağırdı, bu yüzden bazı kitapları çıkardım.",
+   "Kilolu olan kişiler, erişilebilir spor tesislerinden ve dengeli beslenme konusunda pratik tavsiyelerden yararlanabilir."
+  ],
+  "col": [
+   "hafif kilolu olmak",
+   "limit üstü bagaj",
+   "kilolu hale gelmek"
+  ],
+  "tip": "Sıfat olarak kullanılır. obese daha yüksek derecede kilolu olmayı, yani obeziteyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "straw",
+  "senses": [
+   "saman; kuru ot",
+   "pipet"
+  ],
+  "ex": [
+   "Çiftçi taze samanı ahırın zeminine serdi.",
+   "Plastik pipetleri yeniden kullanılabilir alternatiflerle değiştirmek atığı azaltabilir, ancak tüketimdeki daha geniş değişiklikler de gerekli."
+  ],
+  "col": [
+   "bir balya saman",
+   "hasır şapka",
+   "içecek pipeti",
+   "son damla"
+  ],
+  "tip": "Saman anlamında çoğunlukla sayılamaz; pipet anlamında sayılabilir. hay ise kurutulmuş yem otunu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "unable",
+  "senses": [
+   "yapamayan; muktedir olmayan"
+  ],
+  "ex": [
+   "Sıkıca kapatılmış kavanozu açamadım.",
+   "Uygun fiyatlı internet erişimi olmadan birçok öğrenci çevrimiçi eğitim programlarına tam olarak katılamıyor."
+  ],
+  "col": [
+   "katılamamak",
+   "karşılayamamak",
+   "başa çıkamamak"
+  ],
+  "tip": "be unable to do kalıbı kullanılır; unable doing yanlıştır. Günlük konuşmada can't daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "congratulation",
+  "senses": [
+   "tebrik; kutlama"
+  ],
+  "ex": [
+   "Ehliyet sınavını geçtiğinde ona tebriklerimizi gönderdik.",
+   "Kişisel hedeflerine ulaşan öğrencileri tebrik etmek, özgüvenlerini güçlendirebilir ve daha ileri öğrenmeye teşvik edebilir."
+  ],
+  "col": [
+   "...için tebrikler",
+   "tebrik mektubu",
+   "içten tebrikler"
+  ],
+  "tip": "Tebrik genellikle çoğul congratulations biçiminde kullanılır; başarının nedeni on ile belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "decade",
+  "senses": [
+   "on yıl; on yıllık dönem"
+  ],
+  "ex": [
+   "Bu sokakta on yıldır yaşıyorlar.",
+   "Son on yılda dijital teknoloji, insanların eğitime ve sağlık hizmetlerine erişim biçimini önemli ölçüde değiştirdi."
+  ],
+  "col": [
+   "son on yılda",
+   "on yıllardır",
+   "önümüzdeki on yıl"
+  ],
+  "tip": "a decade tam on yılı anlatır; decades ise birkaç on yılı, uzun bir süreyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "razor",
+  "senses": [
+   "tıraş makinesi; jilet"
+  ],
+  "ex": [
+   "Tıraş makinesini durulayıp lavabonun yanına koydu.",
+   "Yeniden kullanılabilir bir tıraş makinesi seçmek, günlük bakımdan çıkan plastik atık miktarını azaltabilir."
+  ],
+  "col": [
+   "elektrikli tıraş makinesi",
+   "tek kullanımlık tıraş makinesi",
+   "tıraş bıçağı"
+  ],
+  "tip": "razor tıraş için kullanılan aleti ifade eder; genel kesme işleri için ise knife kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "involve",
+  "senses": [
+   "gerektirmek; içermek",
+   "katılmasını sağlamak; dahil etmek"
+  ],
+  "ex": [
+   "Yeni işim bütün gün müşterilerle konuşmayı gerektiriyor.",
+   "Yerel yönetimler, yeni projelerin topluluk ihtiyaçlarını karşılamasını sağlamak için planlama kararlarına sakinleri dahil etmelidir."
+  ],
+  "col": [
+   "bir şey yapmayı gerektirmek",
+   "birini bir şeye dahil etmek",
+   "yakından ilgili olmak"
+  ],
+  "tip": "Bir şeyi gerektirdiğini anlatırken involve doing kalıbı kullanılır, to do kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "influence",
+  "senses": [
+   "etki; nüfuz",
+   "etkilemek"
+  ],
+  "ex": [
+   "Büyük ablamın bende güçlü bir etkisi oldu.",
+   "Reklamlar çocukların yiyecek tercihlerini etkileyebilir; bu yüzden sorumlu pazarlama halk sağlığı açısından özellikle önemlidir."
+  ],
+  "col": [
+   "...üzerinde etkisi olmak",
+   "olumlu bir etki",
+   "bir kararı etkilemek"
+  ],
+  "tip": "İsim olarak genellikle on ile, fiil olarak ise doğrudan nesneyle kullanılır: influence someone. Fiilden sonra on gelmez.",
+  "note": ""
+ },
+ {
+  "id": "material",
+  "senses": [
+   "malzeme; kumaş",
+   "materyal; kaynak",
+   "maddi; esaslı"
+  ],
+  "ex": [
+   "Bu çanta sağlam ve su geçirmez bir malzemeden yapılmış.",
+   "İnşaatta geri dönüştürülmüş malzeme kullanmak, atığı azaltabilir ve yeni çıkarılan doğal kaynaklara olan talebi düşürebilir."
+  ],
+  "col": [
+   "ham madde",
+   "yapı malzemesi",
+   "okuma materyali",
+   "maddi mallar"
+  ],
+  "tip": "Malzeme anlamında çoğunlukla sayılamaz; birden fazla malzeme türünden söz ediliyorsa materials kullanılır.",
+  "note": ""
+ }
+]

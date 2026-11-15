@@ -1,0 +1,260 @@
+[
+ {
+  "id": "reflexion",
+  "senses": [
+   "yansıma; ışık yansıması",
+   "derin düşünme; değerlendirme"
+  ],
+  "ex": [
+   "Durgun göletteki yansımasını fark etti.",
+   "Sınıf deneyimleri üzerine düzenli düşünmek, öğretmenlerin bireysel öğrencilere destek olmanın daha etkili yollarını belirlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "ışığın yansıması",
+   "üzerine derin düşünme",
+   "dikkatli düşünme"
+  ],
+  "tip": "Bu yazım daha az kullanılan bir varyanttır; sınav yazımında genellikle reflection tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "venerate",
+  "senses": [
+   "saygı duymak; yüceltmek"
+  ],
+  "ex": [
+   "Buradaki insanlar, bu okulu kuran büyüğe derin saygı duyar.",
+   "Birçok toplum tarihi yapılara büyük saygı gösterir; çünkü bunlar ortak kültürel başarıları ve geçmişle olan bağı temsil eder."
+  ],
+  "col": [
+   "atalara saygı duymak",
+   "kahraman olarak yüceltmek",
+   "geniş çapta saygı gören"
+  ],
+  "tip": "Resmî bir kelimedir; respect'ten daha güçlü bir saygı anlamı taşır. Doğrudan nesne alır, arkasından for gelmez.",
+  "note": ""
+ },
+ {
+  "id": "herculean",
+  "senses": [
+   "çok zahmetli; dev gibi"
+  ],
+  "ex": [
+   "O koca kanepeyi üst kata çıkarmak gerçekten zahmetli bir işti.",
+   "Yaygın sel felaketinden sonra ulaşım ağlarını onarmak, mühendislerden, yerel yönetimlerden ve gönüllülerden büyük bir çaba gerektiriyor."
+  ],
+  "col": [
+   "zahmetli bir iş",
+   "büyük bir çaba"
+  ],
+  "tip": "Yunan mitolojisindeki Herkül'den gelir; genellikle büyük harfle Herculean şeklinde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "oscillation",
+  "senses": [
+   "salınım; titreşim",
+   "dalgalanma; gidip gelme"
+  ],
+  "ex": [
+   "Sarkacın yavaş salınımını izledik.",
+   "Okyanus sıcaklıklarındaki düzenli dalgalanmalar, geniş bölgelerde yağış düzenlerini ve tarımsal verimliliği etkileyebilir."
+  ],
+  "col": [
+   "sarkaç salınımı",
+   "salınım frekansı",
+   "sıcaklık dalgalanmaları"
+  ],
+  "tip": "Hem fiziksel hareket hem de değerler, durumlar ya da görüşlerdeki tekrarlı değişimler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "countenance",
+  "senses": [
+   "yüz ifadesi; yüz",
+   "göz yummak; onaylamak"
+  ],
+  "ex": [
+   "Sakin yüz ifadesi, fırtına sırasında çocukları rahatlattı.",
+   "Hükümetler, nitelikli adayların istihdam fırsatlarına erişimini engelleyen ayrımcı uygulamalara göz yummamalıdır."
+  ],
+  "col": [
+   "sakin bir yüz ifadesi",
+   "sert bir yüz ifadesi",
+   "göz yummamak"
+  ],
+  "tip": "İsim edebi bir kullanımdır; fiil genellikle olumsuz cümlelerde 'göz yummak, kabul etmek' anlamında geçer.",
+  "note": ""
+ },
+ {
+  "id": "prerogative",
+  "senses": [
+   "ayrıcalık; özel hak"
+  ],
+  "ex": [
+   "Son tasarımı seçmek, takım liderinin hakkıdır.",
+   "Kamu harcamalarıyla ilgili kararlar, küçük bir yetkili grubunun münhasır ayrıcalığı olmamalıdır."
+  ],
+  "col": [
+   "kraliyet ayrıcalığı",
+   "münhasır ayrıcalık",
+   "bir ayrıcalığı kullanmak"
+  ],
+  "tip": "Belirli bir makam ya da konumdaki kişinin sahip olduğu hakkı anlatır; herkesin sahip olduğu sıradan haklar için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "slag",
+  "senses": [
+   "cüruf; maden atığı"
+  ],
+  "ex": [
+   "Eski fabrikanın yanında koyu renkli cüruf yığınları duruyordu.",
+   "Cürufu yol inşaatında yeniden kullanmak, endüstriyel atıkları ve yeni taş ocağı malzemesi talebini azaltabilir."
+  ],
+  "col": [
+   "yüksek fırın cürufu",
+   "cüruf yığını",
+   "çelik cürufu"
+  ],
+  "tip": "Endüstriyel anlamda genellikle sayılmayan (uncountable) bir isimdir. Hakaret içeren argo anlamından kaçının.",
+  "note": "İngiliz argosunda kadınlara hakaret anlamı da vardır; bu sözlükte yalnızca endüstriyel anlam verilmiştir."
+ },
+ {
+  "id": "sluice",
+  "senses": [
+   "su kapağı; savak",
+   "bolca suyla yıkamak",
+   "hızla akmak; boşalmak"
+  ],
+  "ex": [
+   "Botlarımızdaki çamuru dışarıda bolca suyla yıkadık.",
+   "Mühendisler, fazla suyu bırakmak ve rezervuar duvarlarındaki baskıyı azaltmak için su kapağını açtı."
+  ],
+  "col": [
+   "su kapağı kapısı",
+   "su kapağını açmak",
+   "zemini bolca suyla yıkamak"
+  ],
+  "tip": "Fiil olarak suyla yıkamak anlamına gelir; isim olarak suyu kontrol eden kapağı ya da kanalı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "hairdress",
+  "senses": [
+   "saç yapmak; saçı şekillendirmek"
+  ],
+  "ex": [
+   "Manken üzerinde pratik yaparak saç şekillendirmeyi öğrendi.",
+   "Mesleki olarak saç yapmayı öğrenen kişiler, yerel hizmet sektöründe istihdamı destekleyecek pratik beceriler kazanabilir."
+  ],
+  "col": [
+   "mesleki olarak saç yapmak",
+   "saç yapmayı öğrenmek"
+  ],
+  "tip": "Günlük dilde saçı şekillendirmek için style hair; meslek ve sektör için hairdressing kullanılır.",
+  "note": "Nadir bir fiildir; 'kuaförlük' genellikle hairdressing ile ifade edilir, bu yüzden ismi olarak kullanmayın."
+ },
+ {
+  "id": "inalienable",
+  "senses": [
+   "devredilemez; elden çıkarılamaz"
+  ],
+  "ex": [
+   "Öğretmenimiz, herkesin neden bazı devredilemez haklara sahip olduğunu açıkladı.",
+   "Temel eğitime erişim, çocuğun geçmişinden bağımsız olarak devredilemez bir hak olarak kabul edilmelidir."
+  ],
+  "col": [
+   "devredilemez haklar",
+   "özgürlüğe devredilemez hak"
+  ],
+  "tip": "Resmî bir dildir; çoğunlukla rights ile birlikte kullanılır ve hakların alınamayacağını ya da devredilemeyeceğini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "tare",
+  "senses": [
+   "dara; boş ağırlık",
+   "dara almak; sıfırlamak"
+  ],
+  "ex": [
+   "Kaseye un eklemeden önce terazinin darasını al.",
+   "Doğru dara ölçümleri, gıda üreticilerinin ambalajı dahil etmeden ürün ağırlığını hesaplamasına olanak tanır."
+  ],
+  "col": [
+   "dara ağırlığı",
+   "terazinin darasını almak",
+   "darayı düşmek"
+  ],
+  "tip": "Dara, kabın ağırlığıdır; net ağırlık, brüt ağırlıktan dara çıkarılarak bulunur.",
+  "note": ""
+ },
+ {
+  "id": "ingot",
+  "senses": [
+   "külçe; kütük"
+  ],
+  "ex": [
+   "İşçi parlak bir külçeyi uzun pensle kaldırdı.",
+   "Geri dönüştürülmüş alüminyum, araç ve bina bileşenlerine işlenmeden önce külçe halinde dökülebilir."
+  ],
+  "col": [
+   "altın külçe",
+   "alüminyum külçe",
+   "külçe halinde dökmek"
+  ],
+  "tip": "Blok halinde dökülmüş metal anlamına gelir; her metal için kullanılabilir, yalnızca demir için değildir.",
+  "note": ""
+ },
+ {
+  "id": "promissory",
+  "senses": [
+   "taahhüt içeren; senetle ilgili"
+  ],
+  "ex": [
+   "Parayı ödünç almadan önce bir borç senedi imzaladı.",
+   "Borç senedi, borcun yazılı kanıtıdır ve borç verenlerin geri ödeme hakkını yasal olarak kanıtlamasına yardımcı olur."
+  ],
+  "col": [
+   "borç senedi",
+   "taahhüt niteliğinde yükümlülük"
+  ],
+  "tip": "Hukuk ve finans bağlamında kullanılır; genellikle promissory note şeklinde sabit bir ifade olarak geçer.",
+  "note": ""
+ },
+ {
+  "id": "mercenary",
+  "senses": [
+   "para odaklı; çıkarcı",
+   "paralı asker"
+  ],
+  "ex": [
+   "Onun para odaklı tutumu, hayır etkinliği planlarımızı bozdu.",
+   "Sağlık hizmetlerine yalnızca mali getiri açısından yaklaşmak, finansal kazancı hastaların ihtiyaçlarının önüne koyma riski taşır."
+  ],
+  "col": [
+   "çıkarcı saikler",
+   "para odaklı tutum",
+   "paralı askerler"
+  ],
+  "tip": "Sıfat olarak olumsuz anlam taşır ve yalnızca parayı önemseyen kişiyi anlatır. İsim olarak paralı asker anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "haughty",
+  "senses": [
+   "kibirli; küstah"
+  ],
+  "ex": [
+   "Müşteri garsona kibirli bir bakış attı.",
+   "Üst düzey yöneticiler arasındaki kibirli tutum, çalışanların fikirlerini paylaşmasını ve sorunları açıkça bildirmesini engelleyebilir."
+  ],
+  "col": [
+   "kibirli ifade",
+   "kibirli tutum",
+   "kibirli ses tonu"
+  ],
+  "tip": "Olumsuz anlam taşır; kendini başkalarından üstün görmeyi ifade eder ve özgüvenle karıştırılmamalıdır.",
+  "note": ""
+ }
+]

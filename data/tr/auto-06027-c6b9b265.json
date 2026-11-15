@@ -1,0 +1,269 @@
+[
+ {
+  "id": "inflict",
+  "senses": [
+   "zarar vermek; acı çektirmek"
+  ],
+  "ex": [
+   "Fırtına bahçemizdeki çite ciddi zarar verdi.",
+   "Denetimsiz endüstriyel faaliyetler ekosistemlere kalıcı zarar verebilir ve yakındaki toplulukların geçimini tehdit edebilir."
+  ],
+  "col": [
+   "-e zarar vermek",
+   "-e acı çektirmek",
+   "-e ıstırap yaşatmak"
+  ],
+  "tip": "'inflict sb' kalıbı yanlıştır. Doğrusu 'inflict something on someone' yapısıdır: zararı/acıyı 'on' ile kişiye ya da nesneye bağlayın.",
+  "note": ""
+ },
+ {
+  "id": "duplicate",
+  "senses": [
+   "kopya; suret",
+   "kopyalamak; tekrarlamak",
+   "birebir aynı; kopya"
+  ],
+  "ex": [
+   "Anahtarın bir kopyasını evde saklıyorum.",
+   "Araştırma ekipleri, gereksiz yere işi tekrarlamamak ve sınırlı kamu fonlarını boşa harcamamak için bulgularını paylaşmalıdır."
+  ],
+  "col": [
+   "yedek anahtar",
+   "yinelenen kayıtlar",
+   "aynı işin tekrarı",
+   "iki nüsha halinde"
+  ],
+  "tip": "İsim ve sıfatta sonu /-ɪkət/, fiilde /-ɪkeɪt/ okunur. Vurgu üç durumda da ilk hecededir (DUplicate).",
+  "note": ""
+ },
+ {
+  "id": "methodology",
+  "senses": [
+   "yöntembilim; metodoloji"
+  ],
+  "ex": [
+   "Hocamız projeye başlamadan önce kullanılacak yöntemi açıkladı.",
+   "Araştırmacılar, bulgularının güvenilirliğinin başkaları tarafından değerlendirilebilmesi için yöntemlerini açık biçimde anlatmalıdır."
+  ],
+  "col": [
+   "araştırma metodolojisi",
+   "bir metodoloji geliştirmek",
+   "titiz bir metodoloji"
+  ],
+  "tip": "'Method' somut bir yöntemi, 'methodology' ise bu yöntemlerin bütününü ve bunların dayandığı ilkeleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "farmhand",
+  "senses": [
+   "çiftlik işçisi"
+  ],
+  "ex": [
+   "Bir çiftlik işçisi bu sabah taze samanı ahıra taşıdı.",
+   "Makinelerin kolayca kullanılamadığı yerlerde mevsimlik işçiler ürünlerin hasadında önemli rol oynar."
+  ],
+  "col": [
+   "çiftlik işçisi olarak çalışmak",
+   "bir çiftlik işçisi tutmak",
+   "mevsimlik çiftlik işçisi"
+  ],
+  "tip": "'Hand' burada 'işçi' demektir. Çiftlik sahibi için 'farmer' kullanılır, 'farmhand' ise ücretli işçiyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "portfolio",
+  "senses": [
+   "çalışma dosyası; portfolyo",
+   "yatırım portföyü",
+   "bakanlık görevi"
+  ],
+  "ex": [
+   "Fotoğrafçılık portfolyosunu mülakata getirdi.",
+   "Çeşitlendirilmiş bir yatırım portföyü finansal riski azaltabilir; ancak istikrarlı getiri garantisi veremez."
+  ],
+  "col": [
+   "çalışmalardan oluşan dosya",
+   "yatırım portföyü",
+   "bakanlık görevinde bulunmak"
+  ],
+  "tip": "İş başvurusu bağlamında çoğunlukla çalışma örneklerinden oluşan dosyayı, finans bağlamında ise yatırım portföyünü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "enlighten",
+  "senses": [
+   "aydınlatmak; bilgi vermek"
+  ],
+  "ex": [
+   "Bu fotoğraf makinesinin nasıl çalıştığı hakkında bana bilgi verir misiniz?",
+   "Halk sağlığı kampanyaları, yaygın kaygıları saygılı biçimde ele alırken vatandaşlara aşının faydaları hakkında bilgi vermelidir."
+  ],
+  "col": [
+   "birine hakkında bilgi vermek",
+   "birine konusunda aydınlatmak",
+   "aydınlatıcı bir tartışma"
+  ],
+  "tip": "Resmi bir fiildir. 'enlighten sb about/on sth' kalıbıyla kullanılır. Günlük konuşmada 'tell' ya da 'explain' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "pore",
+  "senses": [
+   "gözenek; delik",
+   "dikkatle incelemek"
+  ],
+  "ex": [
+   "Cildindeki gözeneklerde küçük ter damlaları belirdi.",
+   "Araştırmacılar, eski toplumların ciddi kuraklık dönemlerine nasıl tepki verdiğini anlamak için tarihî kayıtları dikkatle inceliyor."
+  ],
+  "col": [
+   "tıkanmış gözenekler",
+   "açık gözenekler",
+   "belgeleri dikkatle incelemek"
+  ],
+  "tip": "Fiil olarak genellikle 'pore over' biçiminde kullanılır. 'Pour over' (üzerine dökmek) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "magnitude",
+  "senses": [
+   "büyüklük; ölçek",
+   "deprem büyüklüğü"
+  ],
+  "ex": [
+   "Hasarın boyutunu ancak gün doğumunda fark ettik.",
+   "Küresel gıda israfının boyutu, daha iyi depolama sistemlerine ve daha bilinçli tüketime duyulan ihtiyacı açıkça ortaya koyuyor."
+  ],
+  "col": [
+   "sorunun büyüklüğü",
+   "altı büyüklüğünde bir deprem",
+   "bir büyüklük mertebesi"
+  ],
+  "tip": "Genel ölçek ve önem için de, deprem şiddetini ölçmek için de kullanılır. 'The magnitude of' kalıbı genel büyüklüğü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "irony",
+  "senses": [
+   "ironik durum; çelişki",
+   "ironi; alay"
+  ],
+  "ex": [
+   "Ironik olan, yüzme dersimizin yağmur yüzünden iptal edilmesi.",
+   "Çevre bilincini tek kullanımlık ürünlerle teşvik etmek, ek atık yaratan bir çelişki içeriyor."
+  ],
+  "col": [
+   "durumun ironisi",
+   "ironi anlayışı",
+   "dramatik ironi"
+  ],
+  "tip": "Sadece tesadüfü değil, sonucun beklentinin tam tersine dönmesini de anlatır. 'It's ironic that' kalıbı sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "advent",
+  "senses": [
+   "ortaya çıkış; gelişi"
+  ],
+  "ex": [
+   "Akıllı telefonların ortaya çıkışı fotoğraf çekme biçimimizi değiştirdi.",
+   "Uygun fiyatlı yenilenebilir enerjinin ortaya çıkışı, hükümetleri fosil yakıtlara bağımlılıklarını yeniden düşünmeye yöneltti."
+  ],
+  "col": [
+   "-in ortaya çıkışı",
+   "-in gelişiyle",
+   "-in ortaya çıkmasından beri"
+  ],
+  "tip": "Genellikle 'the advent of' kalıbında kullanılır ve büyük bir yeniliğin ya da yeni bir dönemin başlangıcını anlatır. Resmi bir tondadır.",
+  "note": ""
+ },
+ {
+  "id": "mediate",
+  "senses": [
+   "arabuluculuk yapmak"
+  ],
+  "ex": [
+   "Park yeri konusunda tartıştığımızda komşumuz arabuluculuk yapmayı teklif etti.",
+   "Bağımsız kuruluşlar, anlaşmazlıklar temel kamu hizmetlerini aksatmadan önce işverenler ile çalışanlar arasında arabuluculuk yapabilir."
+  ],
+  "col": [
+   "iki taraf arasında arabuluculuk yapmak",
+   "bir anlaşmazlığa arabuluculuk yapmak",
+   "bir uzlaşmaya aracılık etmek"
+  ],
+  "tip": "'Mediate' tarafların anlaşmaya varmasını sağlamaya odaklanır. 'Mediate between' kalıbı yaygındır. 'Arbitrate' ise bağlayıcı karar vermek anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "latitude",
+  "senses": [
+   "enlem",
+   "hareket serbestisi; takdir"
+  ],
+  "ex": [
+   "Coğrafya öğretmenimiz bize küre üzerinde enlemleri gösterdi.",
+   "Yüksek enlemlerdeki bölgeler genellikle ekvatora yakın olanlardan daha büyük mevsimsel gündüz süresi farkları yaşar."
+  ],
+  "col": [
+   "yüksek enlemler",
+   "alçak enlemler",
+   "birine takdir yetkisi tanımak"
+  ],
+  "tip": "Latitude enlemdir, longitude (boylam) ile karıştırılmamalıdır. İkinci anlamı, karar alma ve hareket özgürlüğünü ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "relentless",
+  "senses": [
+   "amansız; durmak bilmez",
+   "acımasız; merhametsiz"
+  ],
+  "ex": [
+   "Durmadan yağan yağmur bütün hafta sonu bizi evde tuttu.",
+   "Yüksek not alma konusundaki amansız baskı, öğrencilerin özgüvenini zedeleyebilir ve ruh sağlıklarına zarar verebilir."
+  ],
+  "col": [
+   "amansız baskı",
+   "amansız bir arayış",
+   "acımasız eleştiri"
+  ],
+  "tip": "Sadece 'acımasız' anlamında değildir; yağmur veya baskı gibi durmadan süren şeyleri de anlatır. Sıfattır, zarf biçimi 'relentlessly'dir.",
+  "note": ""
+ },
+ {
+  "id": "incline",
+  "senses": [
+   "eğilim göstermek; yönelmek",
+   "eğmek; eğilmek",
+   "yokuş; eğim"
+  ],
+  "ex": [
+   "Tatil için daha ucuz seçeneğe yönelme eğilimindeyim.",
+   "Yükselen konut fiyatları, genç yetişkinleri ailelerinin evinde daha uzun kalmaya yöneltebilir."
+  ],
+  "col": [
+   "bir görüşe yönelmek",
+   "onaylamaya meyilli olmak",
+   "dik bir yokuş"
+  ],
+  "tip": "İsim olarak /ˈɪnklaɪn/ (ilk hece vurgulu), fiil olarak /ɪnˈklaɪn/ okunur. 'Be inclined to + fiil' kalıbı 'eğilimli olmak' anlamında yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "analogous",
+  "senses": [
+   "benzer; karşılaştırılabilir"
+  ],
+  "ex": [
+   "Ortak mutfağımız, yoğun bir atölyeye benzer.",
+   "Halk kütüphanelerinin rolü, topluluklar içinde yaşam boyu öğrenmeyi desteklemede okulların rolüne benzerdir."
+  ],
+  "col": [
+   "-e benzer",
+   "benzer bir durum",
+   "benzer bir süreç"
+  ],
+  "tip": "Genellikle 'be analogous to' kalıbında kullanılır. Bir yönden karşılaştırmaya olanak veren benzerliği anlatır, tam eşitliği değil.",
+  "note": ""
+ }
+]

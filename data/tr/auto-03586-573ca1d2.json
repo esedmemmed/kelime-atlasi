@@ -1,0 +1,273 @@
+[
+ {
+  "id": "trek",
+  "senses": [
+   "uzun yürüyüş; trekking",
+   "uzun yürüyüş yapmak"
+  ],
+  "ex": [
+   "Ormandaki yürüyüşümüz bir şelalenin kenarında sona erdi.",
+   "Uzak dağ bölgelerinde yürüyüş yapan ziyaretçiler, rehber tutup yerel ürünler satın alarak yerel ekonomilere destek olabilir."
+  ],
+  "col": [
+   "dağ yürüyüşü",
+   "ormanda yürüyüş yapmak",
+   "yürüyüşe çıkmak"
+  ],
+  "tip": "Fiil olarak trek, geçmiş zamanda trekked, -ing biçiminde trekking olur (k harfi iki kez yazılır). Sözcük uzun ve zorlu yürüyüşü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "beetle",
+  "senses": [
+   "kınkanatlı böcek; kınkanat"
+  ],
+  "ex": [
+   "Parlak bir kınkanat, bahçe yolunun üzerinde yavaşça ilerliyordu.",
+   "Bazı kınkanat türleri, ölü odunu parçalayıp besin maddelerini geri dönüştürerek sağlıklı ormanların korunmasına yardımcı olur."
+  ],
+  "col": [
+   "gübre böceği",
+   "geyik böceği",
+   "böcek türü"
+  ],
+  "tip": "Beetle, sert kanatlı böcek grubunu anlatır. Genel anlamda böcek için insect daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "strap",
+  "senses": [
+   "kayış; askı",
+   "kayışla bağlamak; sabitlemek"
+  ],
+  "ex": [
+   "Sırt çantamın askısı otobüs durağının yakınında koptu.",
+   "Yolcular, araçlar ani durduğunda ya da engebeli yollarda ilerlerken yaralanmaları önlemek için bagajlarını sıkıca bağlamalıdır."
+  ],
+  "col": [
+   "omuz askısı",
+   "ayarlanabilir kayış",
+   "bir şeyi kayışla sabitlemek"
+  ],
+  "tip": "Fiilin geçmiş zamanı strapped, -ing biçimi strapping olur. Strap'i strip (soymak) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "hydrogen",
+  "senses": [
+   "hidrojen"
+  ],
+  "ex": [
+   "Fen öğretmenimiz bize hidrojenin nasıl yandığını gösterdi.",
+   "Yenilenebilir elektrikle üretilen hidrojen, şu anda fosil yakıtlara bağımlı olan sanayilerdeki emisyonları azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "hidrojen yakıtı",
+   "hidrojen gazı",
+   "hidrojen yakıt hücresi"
+  ],
+  "tip": "Hydrogen genellikle sayılamaz; 'hydrogen gas' ya da 'a hydrogen atom' gibi kalıplar kullanın.",
+  "note": ""
+ },
+ {
+  "id": "gallon",
+  "senses": [
+   "galon"
+  ],
+  "ex": [
+   "Mutfak için bir galon boya aldık.",
+   "Araçların galon başına ne kadar yol gittiğini karşılaştırmak, tüketicilerin işletme maliyetlerini ve yakıt verimliliğini değerlendirmesine yardımcı olur."
+  ],
+  "col": [
+   "bir galon benzin",
+   "galon başına mil",
+   "İngiliz galonu",
+   "ABD galonu"
+  ],
+  "tip": "İngiliz galonu yaklaşık 4,55 litre, ABD galonu yaklaşık 3,79 litredir. Metnin hangisini kastettiğini kontrol edin.",
+  "note": ""
+ },
+ {
+  "id": "findings",
+  "senses": [
+   "bulgular; sonuçlar"
+  ],
+  "ex": [
+   "Bulgularımızı sınıfın geri kalanıyla paylaştık.",
+   "Bulgular, kentsel alanlarda yaşayan insanların yeşil alanlara erişiminin daha iyi ruh sağlığıyla ilişkili olduğunu gösteriyor."
+  ],
+  "col": [
+   "araştırma bulguları",
+   "temel bulgular",
+   "bulguları yayımlamak",
+   "ön bulgular"
+  ],
+  "tip": "Findings çoğunlukla çoğul kullanılır; cümlede yüklem de çoğul olarak kullanılır: 'The findings suggest...'.",
+  "note": ""
+ },
+ {
+  "id": "tender",
+  "senses": [
+   "yumuşak; kolay çiğnenen",
+   "şefkatli; nazik",
+   "hassas; dokunulunca acıyan"
+  ],
+  "ex": [
+   "Havuçlar çatalla ezilecek kadar yumuşaktı.",
+   "Yavaş pişirme, sert et parçalarını yumuşatır; böylece haneler daha ucuz malzemelerle yemek yapabilir."
+  ],
+  "col": [
+   "yumuşak et",
+   "şefkatli bakım",
+   "dokunulunca acıyan"
+  ],
+  "tip": "Yemek için 'yumuşak', kişi için 'şefkatli', vücut bölgesi için 'hassas' anlamına gelir. Anlamı bağlamdan seçin.",
+  "note": ""
+ },
+ {
+  "id": "best-selling",
+  "senses": [
+   "çok satan"
+  ],
+  "ex": [
+   "Onun en çok satan yemek kitabını ödünç alıp çorbayı denedim.",
+   "Çok satan romanlar daha geniş okumayı teşvik edebilir; ancak ticari başarı her zaman edebi kaliteyi göstermez."
+  ],
+  "col": [
+   "çok satan roman",
+   "çok satan yazar",
+   "çok satan ürün"
+  ],
+  "tip": "Best-selling sıfattır ve isimden önce gelir. İsim olarak bestseller kullanılır: 'Bu kitap bir bestseller.'",
+  "note": ""
+ },
+ {
+  "id": "administrative",
+  "senses": [
+   "idari; yönetsel"
+  ],
+  "ex": [
+   "Kız kardeşim yerel bir klinikte idari işlerle ilgileniyor.",
+   "İdari giderleri azaltmak, okulların daha fazla para öğretim materyallerine ve öğrenci desteğine harcamasına olanak tanıyabilir."
+  ],
+  "col": [
+   "idari personel",
+   "idari giderler",
+   "idari işler"
+  ],
+  "tip": "Bir kurumun günlük işleyişi ve yönetimiyle ilgilidir. Hükümetin kendisi anlamına gelmez; 'government' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "thinker",
+  "senses": [
+   "düşünür; düşünce insanı"
+  ],
+  "ex": [
+   "Büyükbabam, zor sorulardan hoşlanan sessiz bir düşünürdür.",
+   "Eğitim, öğrencileri yerleşik fikirleri sorgusuz kabul etmek yerine bağımsız düşünürler olmaya teşvik etmelidir."
+  ],
+  "col": [
+   "bağımsız düşünür",
+   "eleştirel düşünür",
+   "etkili düşünür",
+   "özgün düşünür"
+  ],
+  "tip": "Thinker bir kişiyi anlatır; düşünme sürecini ya da biçimini anlatmak için thinking kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "utter",
+  "senses": [
+   "tam; mutlak",
+   "dile getirmek; ses çıkarmak"
+  ],
+  "ex": [
+   "Biz pişirdikten sonra mutfak tam bir karmaşa içindeydi.",
+   "Yeterli planlama olmadan hızlı kentleşme, arazi mülkiyeti ve altyapı sorumlulukları konusunda tam bir karışıklığa yol açabilir."
+  ],
+  "col": [
+   "tam karmaşa",
+   "tam inanamama",
+   "bir kelime söylemek",
+   "bir ses çıkarmak"
+  ],
+  "tip": "Sıfat olarak utter yalnızca isimden önce gelir. Zarf biçimi utterly'dir.",
+  "note": ""
+ },
+ {
+  "id": "estate",
+  "senses": [
+   "geniş arazi; malikane",
+   "konut sitesi; yerleşke",
+   "miras; malvarlığı"
+  ],
+  "ex": [
+   "Eski kır malikânesindeki gölün yanından yürüdük.",
+   "Yeni konut siteleri, yakın iş merkezlerine yeşil alanlar ve güvenilir ulaşım bağlantıları içermelidir."
+  ],
+  "col": [
+   "kır malikanesi",
+   "konut sitesi",
+   "sanayi sitesi",
+   "gayrimenkul"
+  ],
+  "tip": "Sözcük arazi, konut bölgesi ve miras anlamlarında kullanılır. Real estate 'gayrimenkul' demektir; bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "gratitude",
+  "senses": [
+   "minnettarlık; şükran"
+  ],
+  "ex": [
+   "Minnettarlığını ifade etmek için taze çiçekler getirdi.",
+   "Okullar, öğrencilerin başkalarının günlük yaşamlarına yaptığı katkıları fark etmelerine yardımcı olarak minnettarlığı teşvik edebilir."
+  ],
+  "col": [
+   "minnettarlığını ifade etmek",
+   "birine karşı minnettarlık",
+   "bir şey için minnettarlık",
+   "minnettarlığın küçük bir simgesi"
+  ],
+  "tip": "Kişiye karşı 'to', bir şey için 'for' kullanılır. Genellikle sayılamaz bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "evaporate",
+  "senses": [
+   "buharlaşmak; buharlaştırmak",
+   "yok olmak; dağılmak"
+  ],
+  "ex": [
+   "Göletler ılık öğleden sonra güneşinde hızla buharlaştı.",
+   "Sıcaklıklar arttıkça su, kuraklığa yatkın bölgelerde rezervuarlardan daha hızlı buharlaşır ve su kaynakları üzerindeki baskı artar."
+  ],
+  "col": [
+   "su buharlaşır",
+   "hızla buharlaşmak",
+   "nem buharlaşır",
+   "umutlar yok olur"
+  ],
+  "tip": "Buharlaşma için kaynama gerekmez. Evaporate, umutlar gibi soyut şeyler için de mecazi olarak 'yok olmak' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "predictable",
+  "senses": [
+   "öngörülebilir; beklenen",
+   "basmakalıp; yenilikten uzak"
+  ],
+  "ex": [
+   "Filmin tahmin edilebilir sonu bizi ağlatmaktan çok güldürdü.",
+   "Öngörülebilir bir gelir, ailelerin harcamalarını planlamasına yardımcı olur ve finansal belirsizlikle ilişkili stresi azaltır."
+  ],
+  "col": [
+   "beklenen sonuç",
+   "öngörülebilir örüntü",
+   "çok öngörülebilir"
+  ],
+  "tip": "Olumlu anlamda 'öngörülebilir', olumsuz anlamda 'basmakalıp' olabilir. Film ya da kitap eleştirisinde genellikle ikinci anlam kastedilir.",
+  "note": ""
+ }
+]

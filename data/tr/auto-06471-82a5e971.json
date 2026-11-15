@@ -1,0 +1,273 @@
+[
+ {
+  "id": "prestige",
+  "senses": [
+   "prestij; itibar"
+  ],
+  "ex": [
+   "Ödülü kazanması, küçük pastanesine büyük bir itibar kazandırdı.",
+   "Bazı öğrenciler, bireysel derslerin uygunluğundan çok uluslararası itibarları nedeniyle üniversite seçiyor."
+  ],
+  "col": [
+   "uluslararası itibar",
+   "itibar kazanmak",
+   "toplumsal itibar",
+   "prestij meselesi"
+  ],
+  "tip": "İsim sayılamaz; sıfat biçimi prestigious (prestijli) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "affiliate",
+  "senses": [
+   "bağlamak; ilişkilendirmek",
+   "bağlı kuruluş; iştirak"
+  ],
+  "ex": [
+   "Yerel bisiklet kulübümüz ulusal bir örgüte bağlıdır.",
+   "Küçük araştırma enstitüleri, uzmanlaşmış ekipmana ve akademik uzmanlığa erişmek için sıklıkla üniversitelerle bağlantı kurar."
+  ],
+  "col": [
+   "...ile bağlantı kurmak",
+   "...ile bağlantılı olmak",
+   "yerel bağlı kuruluş"
+  ],
+  "tip": "Ad ve fiil aynı yazılır ama telaffuz farklıdır: adda son hece /ət/, fiilde /eɪt/. Fiille genelde 'with' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "salution",
+  "senses": [
+   "selamlama; hitap",
+   "selam; saygı işareti"
+  ],
+  "ex": [
+   "Yaklaştığımızda elini kaldırarak bize selam verdi.",
+   "Resmi yazışmalarda uygun bir hitap seçmek, yazar ile alıcı arasında saygılı bir ilişki kurulmasına yardımcı olur."
+  ],
+  "col": [
+   "resmi hitap",
+   "açılış hitabı",
+   "selam olarak"
+  ],
+  "tip": "Mektubun başındaki 'Dear...' gibi hitap ifadelerine denir; el kaldırarak selam vermek için 'salute' kullanılır.",
+  "note": "'salution' yazımı hatalıdır; verilen anlama göre 'salutation' olarak düzeltildi."
+ },
+ {
+  "id": "painstaking",
+  "senses": [
+   "titiz; özenli"
+  ],
+  "ex": [
+   "Büyükannemin eski yorganında titiz onarımlar yaptı.",
+   "Tarihi binaların korunması, özgün malzemeler ve geleneksel yapım yöntemleri üzerine titiz bir araştırma gerektirir."
+  ],
+  "col": [
+   "titiz araştırma",
+   "detaylara büyük özen",
+   "özenli iş"
+  ],
+  "tip": "Sıfattır; 'zor' anlamında değil, dikkatle ve emek vererek yapılan işi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "missionary",
+  "senses": [
+   "misyoner",
+   "misyonerlik"
+  ],
+  "ex": [
+   "Misyoner, ilgilenen yerel ailelerle inancını paylaştı.",
+   "Tarihçiler, on dokuzuncu yüzyılda misyoner okullarının farklı bölgelerdeki eğitimi ve kültürel gelenekleri nasıl etkilediğini inceler."
+  ],
+  "col": [
+   "misyonerlik çalışması",
+   "misyoner okulu",
+   "misyonerlik faaliyeti"
+  ],
+  "tip": "Hem isim hem sıfat olarak kullanılır; isimde çoğul biçimi missionaries'tir.",
+  "note": ""
+ },
+ {
+  "id": "prominence",
+  "senses": [
+   "belirginlik; önem"
+  ],
+  "ex": [
+   "Galeri, onun tablosunu girişe yakın bir yerde öne çıkardı.",
+   "Çevre sorunları, toplulukların daha sık aşırı hava olaylarıyla karşılaşmasıyla kamuoyu tartışmalarında giderek daha fazla yer buldu."
+  ],
+  "col": [
+   "önem kazanmak",
+   "ön plana çıkmak",
+   "...e öncelik vermek"
+  ],
+  "tip": "Genellikle sayılamaz; 'rise to prominence' ünlenmek ya da öne çıkmak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "explicit",
+  "senses": [
+   "açık; net"
+  ],
+  "ex": [
+   "Lütfen bu ahşap rafı monte etmek için açık talimatlar verin.",
+   "Okullar, öğrencilerin dijital platformları sorumlu biçimde kullanmalarına yardımcı olmak için çevrimiçi davranışlar konusunda açık kurallar koymalıdır."
+  ],
+  "col": [
+   "açık talimatlar",
+   "açık rıza",
+   "açık atıf",
+   "açıkça belirtmek"
+  ],
+  "tip": "Explicit açıkça söylenen anlamına gelir; implicit ise dolaylı ifade edilen, anlaşılan anlamına gelir. Karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "finite",
+  "senses": [
+   "sınırlı; sonlu",
+   "çekimli (fiil)"
+  ],
+  "ex": [
+   "Tatil bütçemiz sınırlı, bu yüzden dikkatli seç.",
+   "Hükümetler doğal kaynakların sınırlı olduğunu kabul etmeli ve endüstrileri gereksiz tüketimi azaltmaya teşvik etmelidir."
+  ],
+  "col": [
+   "sınırlı kaynaklar",
+   "sınırlı miktar",
+   "çekimli fiil"
+  ],
+  "tip": "Vurgu ilk hecededir; 'finish' kelimesindeki sesle okunmaz.",
+  "note": ""
+ },
+ {
+  "id": "slit",
+  "senses": [
+   "yarık; dar kesik",
+   "yarmak; kesmek"
+  ],
+  "ex": [
+   "Güneş ışığı perdelerdeki dar bir yarıktan içeri giriyordu.",
+   "Laboratuvar ekranındaki dar bir yarık, araştırmacıların küçük açıklıklardan geçen ışığın davranışını gözlemlemesini sağlar."
+  ],
+  "col": [
+   "dar bir yarık",
+   "zarfı yararak açmak",
+   "kumaştaki bir yarık"
+  ],
+  "tip": "Fiilin üç biçimi de slit'tir; ing hali slitting olur.",
+  "note": ""
+ },
+ {
+  "id": "clamp",
+  "senses": [
+   "kelepçe; mengene",
+   "sıkıştırmak; sabitlemek"
+  ],
+  "ex": [
+   "Yapıştırırken tahtayı tutmak için bir mengene kullan.",
+   "Laboratuvar testleri sırasında araştırmacılar, hareketin ölçümlerin doğruluğunu etkilemesini önlemek için her numuneyi sıkıca sabitler."
+  ],
+  "col": [
+   "metal kelepçe",
+   "bir şeyi yerinde sabitlemek",
+   "sıkı tedbir almak"
+  ],
+  "tip": "'clamp down on' kalıbı, bir şeyi sıkı denetlemek ya da kısıtlamak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "quota",
+  "senses": [
+   "kota; pay"
+  ],
+  "ex": [
+   "Ekibimiz dün öğleden sonra aylık satış hedefine ulaştı.",
+   "Balıkçılık kotaları, hükümetler avları izleyip sınırları tutarlı biçimde uygularsa deniz popülasyonlarını koruyabilir."
+  ],
+  "col": [
+   "ithalat kotası",
+   "balıkçılık kotası",
+   "kotayı karşılamak",
+   "kota uygulamak"
+  ],
+  "tip": "Hem izin verilen üst sınır hem de tamamlanması gereken hedef anlamına gelebilir; bağlama dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "arouse",
+  "senses": [
+   "uyandırmak; körüklemek",
+   "uykudan uyandırmak"
+  ],
+  "ex": [
+   "Kilitli ahşap kutu hemen merakımı uyandırdı.",
+   "Kamusal parkların ticari binalarla değiştirilmesi önerileri, yerel sakinler arasında güçlü tepkilere yol açması muhtemel."
+  ],
+  "col": [
+   "merak uyandırmak",
+   "şüphe uyandırmak",
+   "ilgi uyandırmak",
+   "tepki uyandırmak"
+  ],
+  "tip": "Arouse nesne alır; arise ise 'ortaya çıkmak' anlamında nesnesizdir. İkisini karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "thrust",
+  "senses": [
+   "itmek; sokmak",
+   "itiş; hamle",
+   "özü; ana fikir"
+  ],
+  "ex": [
+   "Ellerini mantosunun cebine sertçe soktu.",
+   "Teklifin ana amacı, ek yollar yapmaktansa toplu taşımayı iyileştirmektir."
+  ],
+  "col": [
+   "bir şeyi içine sokmak",
+   "motor itkisi",
+   "...in ana fikri"
+  ],
+  "tip": "Üç biçimi de aynıdır: thrust, thrust, thrust. Soyut anlamda 'the thrust of' kalıbı ana fikri verir.",
+  "note": ""
+ },
+ {
+  "id": "patron",
+  "senses": [
+   "hami; destekçi",
+   "müşteri; müdavim"
+  ],
+  "ex": [
+   "Yerel bir hami genç sanatçının malzemelerinin parasını ödedi.",
+   "Özel hamiler, kamu finansmanı bulmakta zorlanabilecek deneysel sanatı destekleyebilir."
+  ],
+  "col": [
+   "sanatın hamisi",
+   "varlıklı hami",
+   "düzenli müşteri"
+  ],
+  "tip": "Türkçedeki 'patron' (işveren) anlamından farklıdır; burada hami ya da müşteri anlamı vardır.",
+  "note": ""
+ },
+ {
+  "id": "solvent",
+  "senses": [
+   "borcunu ödeyebilen",
+   "çözücü"
+  ],
+  "ex": [
+   "Dikkatli bütçe yapmamız küçük dükkanımızı bu yıl ayakta tuttu.",
+   "İşletmeler ekonomik durgunluk dönemlerinde çalışanlara ve tedarikçilere karşı yükümlülüklerini sürdürürken ödeme gücünü korumalıdır."
+  ],
+  "col": [
+   "ödeme gücünü korumak",
+   "ödeme gücü olan şirket",
+   "organik çözücü",
+   "güçlü bir çözücü"
+  ],
+  "tip": "Sıfat olarak borç ödeyebilme gücünü anlatır, kârlılık anlamına gelmez. İsim olarak 'çözücü' demektir.",
+  "note": ""
+ }
+]

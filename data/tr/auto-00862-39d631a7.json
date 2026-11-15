@@ -1,0 +1,278 @@
+[
+ {
+  "id": "snake",
+  "senses": [
+   "yılan",
+   "kıvrılarak ilerlemek"
+  ],
+  "ex": [
+   "Küçük bir yılan kuru otların arasından sessizce kaydı.",
+   "Yılanlar çoğu zaman korku uyandırsa da kemirgenlerin ve diğer hayvanların sayısını kontrol ederek ekolojik dengenin korunmasına yardımcı olur."
+  ],
+  "col": [
+   "zehirli yılan",
+   "yılan ısırığı",
+   "kıvrılarak geçmek"
+  ],
+  "tip": "Fiil olarak 'kıvrılarak ilerlemek' anlamında genellikle through ya da along ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "wardrobe",
+  "senses": [
+   "gardırop; giysi dolabı",
+   "giysilerin tamamı; gardırop"
+  ],
+  "ex": [
+   "Kış mantolarının çoğu gardırobun içini dolduruyor.",
+   "Dayanıklı kıyafetlerle daha küçük bir gardırop oluşturmak, modanın çevreye etkisini azaltabilir."
+  ],
+  "col": [
+   "gömme gardırop",
+   "kapsül gardırop",
+   "gardırobunu yenilemek"
+  ],
+  "tip": "Hem dolabın kendisini hem de bir kişinin sahip olduğu tüm giysileri ifade eder; anlam bağlamdan anlaşılır.",
+  "note": ""
+ },
+ {
+  "id": "hometown",
+  "senses": [
+   "memleket; doğduğu şehir"
+  ],
+  "ex": [
+   "Her yaz akrabalarımı ziyaret etmek için memleketime dönerim.",
+   "Birçok mezun daha iyi iş fırsatları aramak için memleketinden büyük kentlere gidiyor."
+  ],
+  "col": [
+   "memleketine dönmek",
+   "memleketinden ayrılmak",
+   "memleket sakinleri"
+  ],
+  "tip": "Küçük bir kasaba ya da şehir için de kullanılır; doğum yeri olması gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "smart",
+  "senses": [
+   "zeki; akıllıca",
+   "şık; özenli",
+   "akıllı"
+  ],
+  "ex": [
+   "Rafı tamir etmenin akıllıca bir yoluydu.",
+   "Akıllı sulama sistemleri, toprak koşullarına göre su vermeyi ayarlayarak su israfını azaltabilir."
+  ],
+  "col": [
+   "akıllıca bir seçim",
+   "şık giysiler",
+   "akıllı teknoloji",
+   "şık görünmek"
+  ],
+  "tip": "'Smart' yalnızca 'akıllı' anlamına gelmez; İngiliz kullanımında şık ve düzgün görünüm için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mother-in-law",
+  "senses": [
+   "kayınvalide"
+  ],
+  "ex": [
+   "Kayınvalidem bana domates yetiştirmeyi öğretti.",
+   "Kayınvalide desteği, çocuk bakım masraflarını azaltabilir ve ebeveynlerin eğitimine devam etmesine olanak tanıyabilir."
+  ],
+  "col": [
+   "gelecekteki kayınvalide",
+   "destekleyici kayınvalide"
+  ],
+  "tip": "Eşin annesi anlamına gelir; çoğulu mothers-in-law biçiminde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "goat",
+  "senses": [
+   "keçi"
+  ],
+  "ex": [
+   "Meraklı bir keçi çitin arasından başını uzattı.",
+   "Keçi yetiştirmek, kırsal ailelere güvenilir bir süt kaynağı ve ek gelir sağlayabilir."
+  ],
+  "col": [
+   "keçi sütü",
+   "keçi peyniri",
+   "bir sürü keçi"
+  ],
+  "tip": "Goat keçidir, koyun sheep ile karıştırılmamalıdır; 'günah keçisi' anlamında scapegoat kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "clear",
+  "senses": [
+   "anlaşılır; net",
+   "berrak; açık",
+   "boşaltmak; temizlemek"
+  ],
+  "ex": [
+   "Talimatlar açık olduğu için rafı kolayca monte ettim.",
+   "Halk sağlığı kampanyaları, farklı eğitim geçmişine sahip insanların kolayca anlayabileceği açık tavsiyeler sunmalıdır."
+  ],
+  "col": [
+   "açık talimatlar",
+   "açık kanıt",
+   "tamamen net",
+   "masayı toplamak"
+  ],
+  "tip": "'make it clear that…' kalıbı 'şunu açıkça belirtmek' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "blog",
+  "senses": [
+   "blog; web günlüğü",
+   "blog yazmak"
+  ],
+  "ex": [
+   "Evde sebze yetiştirmek hakkında bir blog yazıyor.",
+   "İyi araştırılmış bir blog yazısı, bilimsel bilgiyi uzman olmayan okuyucular için daha ulaşılabilir hale getirebilir."
+  ],
+  "col": [
+   "blog yazmak",
+   "blog yazısı",
+   "seyahat blogu",
+   "bir konu hakkında blog yazmak"
+  ],
+  "tip": "Tek bir yazıya 'blog post' denir; 'blog' genellikle tüm web sitesini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "digital",
+  "senses": [
+   "dijital; sayısal"
+  ],
+  "ex": [
+   "Ailesinin tüm fotoğraflarının dijital kopyalarını saklıyor.",
+   "Dijital becerileri geliştirmek, yaşlı yetişkinlerin kamu hizmetlerine erişmesine ve uzaktaki akrabalarla iletişimini sürdürmesine yardımcı olabilir."
+  ],
+  "col": [
+   "dijital teknoloji",
+   "dijital beceriler",
+   "dijital uçurum",
+   "dijital kamera"
+  ],
+  "tip": "Bilgisayar ve elektronik bağlamında 'digital' kullanılır; sayısal değerler için 'numerical' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "polite",
+  "senses": [
+   "kibar; nazik"
+  ],
+  "ex": [
+   "Kibar çocuk bizim için kapıyı tuttu.",
+   "İş yerinde kibar iletişim, yanlış anlamaları azaltabilir ve çalışanların daha güçlü mesleki ilişkiler kurmasına yardımcı olabilir."
+  ],
+  "col": [
+   "birine karşı kibar",
+   "kibar bir istek",
+   "kibar bir sohbet",
+   "kibar bir ret"
+  ],
+  "tip": "Birine karşı kibar olmak için 'be polite to someone' kalıbı kullanılır; 'polite with' denmez.",
+  "note": ""
+ },
+ {
+  "id": "energy",
+  "senses": [
+   "enerji; canlılık",
+   "enerji; güç"
+  ],
+  "ex": [
+   "Kısa bir şekerlemeden sonra yemek pişirecek enerjim oldu.",
+   "Yenilenebilir enerjiye yatırım yapmak, fosil yakıt bağımlılığını azaltırken yeni istihdam fırsatları yaratabilir."
+  ],
+  "col": [
+   "enerjiyle dolu",
+   "yenilenebilir enerji",
+   "enerji tüketimi",
+   "enerji tasarrufu yapmak"
+  ],
+  "tip": "Güç ya da enerji anlamında genellikle sayılamaz; 'an energy' yerine doğrudan 'energy' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "government",
+  "senses": [
+   "hükümet",
+   "yönetim; idare"
+  ],
+  "ex": [
+   "Hükümet yakınlarda yeni bir hastane inşa etmeyi planlıyor.",
+   "Yerel yönetim, uygun fiyatlı konut sağlamada ve temel kamu hizmetlerini sürdürmede kritik bir rol oynar."
+  ],
+  "col": [
+   "yerel yönetim",
+   "merkezi hükümet",
+   "hükümet politikası",
+   "bir yönetim sistemi"
+  ],
+  "tip": "İngiliz İngilizcesinde 'government' topluluk olarak düşünüldüğünde tekil ya da çoğul fiille kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "organise",
+  "senses": [
+   "düzenlemek; organize etmek",
+   "düzenlemek; toparlamak"
+  ],
+  "ex": [
+   "Her yaz komşularımız için piknik düzenleriz.",
+   "Yerel yönetimler, sakinlere evsel atığı azaltmanın pratik yollarını öğretmek için topluluk atölyeleri düzenleyebilir."
+  ],
+  "col": [
+   "bir etkinlik düzenlemek",
+   "bir toplantı düzenlemek",
+   "zamanını planlamak",
+   "dosyaları düzenlemek"
+  ],
+  "tip": "İngiliz yazımıdır; Amerikan İngilizcesinde 'organize' şeklinde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "correctly",
+  "senses": [
+   "doğru biçimde; doğru olarak"
+  ],
+  "ex": [
+   "Adresini doğru girdiğini kontrol et.",
+   "Öğrencilerin yeni öğrendikleri bilimsel kavramları pratik durumlarda doğru uygulayabilmeleri için düzenli geri bildirime ihtiyaçları var."
+  ],
+  "col": [
+   "doğru cevaplamak",
+   "doğru tanımlamak",
+   "doğru yorumlamak",
+   "hatırlıyorsam doğru"
+  ],
+  "tip": "Bir eylemi nitelemek için kullanılır; 'correct' sıfat ya da fiildir, zarf olarak kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "fair",
+  "senses": [
+   "adil; haklı",
+   "açık tenli; açık renk",
+   "fuar; panayır"
+  ],
+  "ex": [
+   "Sırayla oyun seçtik ki herkes için adil olsun.",
+   "Adil bir eğitim sistemi, aile geliri ne olursa olsun her çocuğa kaliteli öğretime erişim sağlamalıdır."
+  ],
+  "col": [
+   "adil muamele",
+   "adil fiyat",
+   "açık renk saç",
+   "ticaret fuarı"
+  ],
+  "tip": "'Fair' adil anlamına gelir; 'fairly' ise 'adilce' yanında 'oldukça' anlamına da gelebilir.",
+  "note": ""
+ }
+]

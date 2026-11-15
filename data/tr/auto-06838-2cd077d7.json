@@ -1,0 +1,273 @@
+[
+ {
+  "id": "importation",
+  "senses": [
+   "ithalat"
+  ],
+  "ex": [
+   "Taze meyve ithalatı, sıcaklığın dikkatli bir şekilde kontrol edilmesini gerektirir.",
+   "Tarımsal ürünlerin ithalatına getirilen kısıtlamalar yerel çiftçileri koruyabilir ama tüketiciler için gıda fiyatlarını artırabilir."
+  ],
+  "col": [
+   "mal ithalatı",
+   "ithalatı kısıtlamak",
+   "yasa dışı ithalat"
+  ],
+  "tip": "Resmi bir kelimedir; genellikle sayılamaz ve çoğunlukla the importation of kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "intent",
+  "senses": [
+   "niyet; amaç",
+   "dikkatli; odaklanmış",
+   "kararlı; azimli"
+  ],
+  "ex": [
+   "Amacım seni bölmek değil, yardım etmekti.",
+   "Birçok hükümet, güvenilir toplu taşımaya yatırım yaparak trafik sıkışıklığını azaltmaya kararlı."
+  ],
+  "col": [
+   "amacıyla",
+   "bir şey yapmaya kararlı",
+   "dikkatli bakış",
+   "niyet beyanı"
+  ],
+  "tip": "intent on bir şeye odaklanmış ya da kararlı olmayı anlatır; ardından isim veya -ing biçimi gelir.",
+  "note": ""
+ },
+ {
+  "id": "arbitrary",
+  "senses": [
+   "keyfi; rastgele",
+   "keyfi; baskıcı"
+  ],
+  "ex": [
+   "Seçimi keyfiydi; bakmadan rastgele seçti.",
+   "Üniversite kabulünde getirilen keyfi kısıtlamalar, yetenekli öğrencilerin eğitime erişimini engelleyebilir ve mevcut toplumsal eşitsizlikleri pekiştirebilir."
+  ],
+  "col": [
+   "keyfi bir karar",
+   "keyfi bir sınır",
+   "keyfi güç"
+  ],
+  "tip": "Asıl vurgu, makul bir nedene dayanmamasıdır; yalnızca serbestçe seçilmiş anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "recital",
+  "senses": [
+   "konser; resital",
+   "ayrıntılı anlatım"
+  ],
+  "ex": [
+   "İlk piyano resitali küçük ama coşkulu bir seyirci kitlesi topladı.",
+   "Müzik öğrencilerine resital verme fırsatları, özgüvenlerini geliştirmelerine ve performans becerilerini ilerletmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "piyano resitali",
+   "resital vermek",
+   "bir dizi gerçeğin anlatımı"
+  ],
+  "tip": "Müzik bağlamında genellikle tek kişinin ya da küçük bir grubun performansını anlatır; büyük bir konser anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "limp",
+  "senses": [
+   "topallamak",
+   "topallama",
+   "gevşek; güçsüz"
+  ],
+  "ex": [
+   "Bileğimi burktuktan sonra topallayarak eve dönmek zorunda kaldım.",
+   "Yaralandıktan sonra hâlâ topallayan sporcular, yarışmaya dönmeden önce profesyonel bir değerlendirme almalıdır."
+  ],
+  "col": [
+   "topallayarak yürümek",
+   "topallayarak ilerlemek",
+   "gevşemek; güçsüzleşmek",
+   "gevşek bir el sıkışma"
+  ],
+  "tip": "Fiil olarak topallamak, sıfat olarak gevşek veya güçsüz anlamına gelir; iki kullanımı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "tropic",
+  "senses": [
+   "dönence",
+   "tropikler"
+  ],
+  "ex": [
+   "Rehberimiz küre üzerinde kuzey dönencesini gösterdi.",
+   "Tropiklerdeki topluluklar, tarımlarını sürdürebilmek ve güvenilir tatlı su kaynaklarını korumak için genellikle mevsimsel yağmurlara bağımlıdır."
+  ],
+  "col": [
+   "Yengeç Dönencesi",
+   "Oğlak Dönencesi",
+   "tropiklerde"
+  ],
+  "tip": "Dönence anlamında tekil kullanılır; tropikal bölge için ise her zaman the tropics biçiminde, çoğul ve belirtili olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "delude",
+  "senses": [
+   "aldatmak; yanıltmak"
+  ],
+  "ex": [
+   "İşin bittiğine inanarak kendini kandırma.",
+   "Politika yapıcılar, yalnızca ekonomik büyümenin yoksulluğu ve toplumsal eşitsizliği ortadan kaldıracağına inanarak kendilerini kandırmamalıdır."
+  ],
+  "col": [
+   "kendini kandırmak",
+   "birini bir şeye inandırarak aldatmak"
+  ],
+  "tip": "Genellikle delude oneself into doing kalıbında, kendini yanlış bir şeye inandırıp bir şey yapmak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fumble",
+  "senses": [
+   "el yordamıyla aramak",
+   "beceriksizce yapmak; düşürmek"
+  ],
+  "ex": [
+   "Karanlık koridorda anahtarlarımı el yordamıyla aradım.",
+   "Kullanıcılar tanıdık olmayan kontrollerle beceriksizce uğraşıyor; bu da toplu taşıma sistemlerinde sezgisel tasarımın önemini gösteriyor."
+  ],
+  "col": [
+   "anahtarı el yordamıyla aramak",
+   "kilitle beceriksizce uğraşmak",
+   "topu düşürmek"
+  ],
+  "tip": "fumble for bir şeyi el yordamıyla aramak, fumble with ise bir şeyi beceriksizce kurcalamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "savage",
+  "senses": [
+   "vahşi; acımasız",
+   "çok sert; şiddetli",
+   "sert saldırmak; eleştirmek"
+  ],
+  "ex": [
+   "Belgeselde iki kurt arasındaki vahşi bir kavga gösterildi.",
+   "Eğitim bütçesinde önerilen kesinti, ülke genelinde öğretmenler ve velilerden sert eleştiriler aldı."
+  ],
+  "col": [
+   "vahşi saldırı",
+   "sert eleştiri",
+   "sert kesintiler"
+  ],
+  "tip": "Bir insanı ya da grubu tanımlamak için isim olarak kullanmayın; bu ifade aşağılayıcı ve incitici olabilir.",
+  "note": "İsim olarak insanlar, özellikle etnik gruplar için kullanıldığında kırıcıdır."
+ },
+ {
+  "id": "invaluable",
+  "senses": [
+   "paha biçilmez"
+  ],
+  "ex": [
+   "İlk bisikletimi alırken tavsiyen paha biçilmezdi.",
+   "Uygulamalı iş deneyimi, öğrencilere işverenlerin yeni mezunlardan beklediği becerilere dair paha biçilmez bilgiler sağlar."
+  ],
+  "col": [
+   "paha biçilmez tavsiye",
+   "paha biçilmez kaynak",
+   "çok değerli olduğunu kanıtlamak"
+  ],
+  "tip": "Invaluable değeri ölçülemeyecek kadar yüksek anlamına gelir; değersiz demek değildir.",
+  "note": ""
+ },
+ {
+  "id": "cease",
+  "senses": [
+   "durmak; sona ermek"
+  ],
+  "ex": [
+   "Çanlar gece yarısından hemen önce sonunda çalmayı bıraktı.",
+   "Fabrikalar, su ekosistemlerini korumak ve halk sağlığını güvence altına almak için arıtılmamış atık suyu nehirlere boşaltmayı durdurmalıdır."
+  ],
+  "col": [
+   "faaliyeti durdurmak",
+   "var olmaktan çıkmak",
+   "üretimi durdurmak",
+   "ticareti durdurmak"
+  ],
+  "tip": "Resmi bir fiildir; cease doing ve cease to do kalıplarının ikisi de kullanılır ve anlam farkı yoktur.",
+  "note": ""
+ },
+ {
+  "id": "gratify",
+  "senses": [
+   "memnun etmek; sevindirmek",
+   "istek ya da ihtiyacı karşılamak"
+  ],
+  "ex": [
+   "Nazik sözleriniz bugün yardım eden herkesi sevindirecektir.",
+   "Anlık tüketici isteklerini karşılayan politikalar, gelecek nesiller için kaynakları koruma ihtiyacıyla çelişebilir."
+  ],
+  "col": [
+   "bir arzuyu karşılamak",
+   "merakı gidermek",
+   "bir şeyden memnun olmak"
+  ],
+  "tip": "Resmi bir fiildir; be gratified by kalıbında bir şeyden duyulan memnuniyet anlatılır.",
+  "note": ""
+ },
+ {
+  "id": "eventful",
+  "senses": [
+   "olaylı; hareketli"
+  ],
+  "ex": [
+   "Olaylı bir sabahın ardından nihayet öğle yemeği için oturduk.",
+   "Olaylı bir siyasi reform dönemi, ülkenin eğitim sistemini dönüştürdü ve okullaşmaya erişimi genişletti."
+  ],
+  "col": [
+   "olaylı bir gün",
+   "hareketli bir yolculuk",
+   "macera dolu bir hayat"
+  ],
+  "tip": "Önemli, ilginç ya da beklenmedik olaylarla dolu anlamına gelir; olayların hepsinin kötü olması gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "plume",
+  "senses": [
+   "tüy; tüy süs",
+   "sütun şeklinde duman ya da su"
+  ],
+  "ex": [
+   "Parlak bir tüy, dansçının uzun şapkasını süslüyordu.",
+   "Fabrikanın üzerinden kalın bir duman sütunu yükseldi ve bu, yerel hava kalitesine dair kaygılara yol açtı."
+  ],
+  "col": [
+   "duman sütunu",
+   "tüy demeti",
+   "volkanik duman sütunu"
+  ],
+  "tip": "Hem büyük süs tüyü hem de tüy gibi yükselen duman veya su sütununu anlatır; iki anlamı da akılda tutun.",
+  "note": ""
+ },
+ {
+  "id": "dubious",
+  "senses": [
+   "kuşkulu; şüpheci",
+   "şüpheli; güvenilmez"
+  ],
+  "ex": [
+   "Frensiz bir bisiklet almak konusunda kuşkuluydum.",
+   "Tüketiciler, güvenilir bilimsel kanıtlarla desteklenmeyen sağlık iddialarına karşı kuşkulu kalmalıdır."
+  ],
+  "col": [
+   "...konusunda kuşkulu",
+   "şüpheli iddialar",
+   "şüpheli bir değer",
+   "şüpheli uygulamalar"
+  ],
+  "tip": "Kişi bir şeyden kuşkulanıyorsa dubious about kullanılır; şey kendisi şüpheli görünüyorsa doğrudan dubious denir.",
+  "note": ""
+ }
+]

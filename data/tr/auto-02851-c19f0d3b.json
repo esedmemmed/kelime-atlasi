@@ -1,0 +1,285 @@
+[
+ {
+  "id": "gymnastics",
+  "senses": [
+   "jimnastik"
+  ],
+  "ex": [
+   "Kardeşim yerel spor merkezinde jimnastik çalışıyor.",
+   "Okul programlarına jimnastiğin dahil edilmesi, çocukların koordinasyon ve fiziksel özgüven kazanmasına ve egzersize ilgi duymasına yardımcı olabilir."
+  ],
+  "col": [
+   "jimnastik yapmak",
+   "artistik jimnastik",
+   "ritmik jimnastik"
+  ],
+  "tip": "Sonu -s ile bitse de spor adı olarak tekil fiille kullanılır: Gymnastics is popular.",
+  "note": ""
+ },
+ {
+  "id": "power",
+  "senses": [
+   "yetki; güç",
+   "enerji; elektrik",
+   "güç vermek; çalıştırmak"
+  ],
+  "ex": [
+   "Müdürün vardiyalarımızı değiştirme yetkisi var.",
+   "Güneş panelleri, kırsal okulları pahalı ve güvenilmez yakıt kaynaklarına bağımlılıktan kurtarırken onları elektrikle besleyebilir."
+  ],
+  "col": [
+   "siyasi güç",
+   "yenilenebilir enerji",
+   "elektrik tedariki",
+   "karar verme yetkisi"
+  ],
+  "tip": "Bir şeyi yapma yetkisine sahip olmak için have the power to do kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "podcast",
+  "senses": [
+   "podcast; sesli yayın",
+   "podcast yayını hazırlamak"
+  ],
+  "ex": [
+   "Yemek yaparken bir yemek podcast'i dinliyorum.",
+   "Eğitici podcast'ler, öğrencilerin yolda ya da ev işlerini yaparken karmaşık konuları keşfetmesine olanak tanır."
+  ],
+  "col": [
+   "podcast dinlemek",
+   "podcast bölümü",
+   "podcast sunmak",
+   "podcast'e abone olmak"
+  ],
+  "tip": "Podcast dinlemek için listen to a podcast kalıbını kullanın; to edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "heavily",
+  "senses": [
+   "büyük ölçüde; yoğun olarak",
+   "ağır ağır; sert"
+  ],
+  "ex": [
+   "Otobüsü beklerken şiddetli yağmur yağdı.",
+   "Ithal yakıta büyük ölçüde bağımlı olan ülkeler, küresel enerji fiyatlarındaki ani değişimlerden özellikle etkilenir."
+  ],
+  "col": [
+   "şiddetli yağmur yağmak",
+   "büyük ölçüde bağlı olmak",
+   "yoğun yatırım yapmak",
+   "ağır ağır nefes almak"
+  ],
+  "tip": "Şiddetli yağmur için rain heavily kullanılır; rain strongly doğal bir kullanım değildir.",
+  "note": ""
+ },
+ {
+  "id": "tank",
+  "senses": [
+   "depo; su deposu",
+   "tank; zırhlı araç"
+  ],
+  "ex": [
+   "Balık, akvaryumdaki bir kayanın arkasında yüzdü.",
+   "Yağmur suyu deposu kurmak, hanelerin bahçelerini tamamen arıtılmış içme suyuna bağlı kalmadan sulamasını sağlar."
+  ],
+  "col": [
+   "su deposu",
+   "yakıt deposu",
+   "akvaryum",
+   "depoyu doldurmak"
+  ],
+  "tip": "Akvaryum için fish tank, araba yakıt deposu için fuel tank kullanılır; bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "misunderstand",
+  "senses": [
+   "yanlış anlamak"
+  ],
+  "ex": [
+   "Lütfen beni yanlış anlama; gerçekten yardım etmek istiyorum.",
+   "Uzmanlar hedef kitlelerine uygun açık açıklamalar yerine teknik dil kullandığında hastalar tıbbi tavsiyeyi yanlış anlayabilir."
+  ],
+  "col": [
+   "talimatları yanlış anlamak",
+   "birinin niyetini yanlış anlamak",
+   "kolayca yanlış anlaşılabilir"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç biçimi misunderstood'dur; misunderstanded yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "elementary",
+  "senses": [
+   "temel; başlangıç düzeyinde",
+   "ilkokul ile ilgili"
+  ],
+  "ex": [
+   "Bu kurs, tamamen yeni başlayanlara temel yemek pişirme becerileri öğretir.",
+   "İlkokul eğitimi, çocukların merakını ve okuma-hesaplama becerilerini birlikte geliştirmelidir."
+  ],
+  "col": [
+   "temel bilgi",
+   "ilkokul",
+   "ilkokul eğitimi",
+   "başlangıç düzeyi"
+  ],
+  "tip": "elementary school ağırlıklı olarak Amerikan İngilizcesinde kullanılır; İngiliz İngilizcesinde primary school tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "western",
+  "senses": [
+   "batı; batıdaki",
+   "Batılı; batı kültürüne ait",
+   "western; kovboy filmi"
+  ],
+  "ex": [
+   "Kulübemiz gölün batı kıyısına bakıyor.",
+   "Batı bölgelerine yapılacak yatırımlar ulaşım bağlantılarını iyileştirebilir ve ülke içindeki ekonomik eşitsizlikleri azaltabilir."
+  ],
+  "col": [
+   "batı kıyısı",
+   "batı bölgeleri",
+   "Batı kültürü",
+   "western filmi"
+  ],
+  "tip": "Batı dünyası veya kültürü anlamında Western genellikle büyük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "zone",
+  "senses": [
+   "bölge; alan",
+   "bölgelendirmek; ayırmak"
+  ],
+  "ex": [
+   "Bu sessiz yaya bölgesine araçlar giremez.",
+   "Düşük emisyonlu bölge oluşturmak, uygun fiyatlı toplu taşıma mevcut olduğu sürece hava kirliliğini azaltabilir."
+  ],
+  "col": [
+   "yaya bölgesi",
+   "saat dilimi",
+   "konut bölgesi",
+   "konut için arazi ayırmak"
+  ],
+  "tip": "zone belirli bir amaç veya özelliğe sahip bölgeyi vurgular; area ise daha geniş ve genel bir alanı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "iron",
+  "senses": [
+   "demir",
+   "ütü",
+   "ütülemek"
+  ],
+  "ex": [
+   "Bu eski demir kapılar kaldırmak için çok ağır.",
+   "Yeterli demir içeren bir beslenme, özellikle çocuklarda ve hamile kadınlarda anemiyi önlemeye yardımcı olabilir."
+  ],
+  "col": [
+   "demir eksikliği",
+   "demir cevheri",
+   "dökme demir",
+   "gömleği ütülemek"
+  ],
+  "tip": "Demir madde olarak sayılamaz; ütü ise sayılabilir: an iron.",
+  "note": ""
+ },
+ {
+  "id": "movement",
+  "senses": [
+   "hareket; devinim",
+   "toplumsal hareket",
+   "bölüm"
+  ],
+  "ex": [
+   "Çalılardaki ani bir hareket dikkatimi çekti.",
+   "Çevre hareketi, hükümetleri atık azaltımı ve yenilenebilir enerji konusunda daha güçlü politikalar benimsemeye teşvik etti."
+  ],
+  "col": [
+   "hareket özgürlüğü",
+   "ani hareket",
+   "çevre hareketi",
+   "toplumsal hareket"
+  ],
+  "tip": "Belirli bir hareket veya toplumsal hareket sayılabilir; genel anlamda hareket ise sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "mixed",
+  "senses": [
+   "karışık; çeşitli",
+   "karışık; çelişkili"
+  ],
+  "ex": [
+   "Piknik için bir paket karışık kuruyemiş aldım.",
+   "Çevrimiçi derslerin getirilmesi öğrenciler, veliler ve öğretmenlerden karışık tepkiler aldı."
+  ],
+  "col": [
+   "karışık duygular",
+   "karışık sonuçlar",
+   "karışık tepkiler",
+   "karışık kuruyemiş"
+  ],
+  "tip": "mixed feelings çelişkili duyguları anlatır; mixed ayrıca mix fiilinin ortaç biçimidir.",
+  "note": ""
+ },
+ {
+  "id": "pint",
+  "senses": [
+   "pint"
+  ],
+  "ex": [
+   "Lütfen kaseye bir pint süt ekle.",
+   "Uluslararası tarifleri karşılaştıran tüketiciler, İngiliz pintinin Amerikan pintinden daha büyük olduğunu bilmelidir."
+  ],
+  "col": [
+   "bir pint süt",
+   "yarım pint",
+   "pint bardak"
+  ],
+  "tip": "İngiliz pinti yaklaşık 568 ml, ABD pinti yaklaşık 473 ml'dir; tariflerde hangi ölçünün kullanıldığına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "apart",
+  "senses": [
+   "uzakta; ayrı",
+   "parça parça; dağılarak",
+   "hariç"
+  ],
+  "ex": [
+   "Genç ağaçları birbirinden iki metre aralıkla diktik.",
+   "Ailelerinden uzakta yaşamak uluslararası öğrencileri daha bağımsız yapabilir, ancak yalnızlığa da yol açabilir."
+  ],
+  "col": [
+   "birbirinden uzak",
+   "parçalara ayırmak",
+   "...dışında",
+   "ayırt etmek"
+  ],
+  "tip": "apart from hem 'hariç' hem de 'bunun yanında' anlamına gelebilir; cümlenin bağlamına bakın.",
+  "note": ""
+ },
+ {
+  "id": "expert",
+  "senses": [
+   "uzman",
+   "uzman; becerikli"
+  ],
+  "ex": [
+   "Eski tabloyu incelemesi için bir uzmana danıştık.",
+   "Okullar, öğrenmeyi desteklemek için yeni teknolojiyi sınıflara getirmeden önce uzman görüşü almalıdır."
+  ],
+  "col": [
+   "...konusunda uzman",
+   "uzman görüşü",
+   "tıp uzmanı"
+  ],
+  "tip": "Bir alanın uzmanını belirtmek için an expert on/in kalıbını kullanın.",
+  "note": ""
+ }
+]

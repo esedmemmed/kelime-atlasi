@@ -1,0 +1,276 @@
+[
+ {
+  "id": "horrible",
+  "senses": [
+   "çok kötü; nahoş",
+   "korkunç; dehşet verici"
+  ],
+  "ex": [
+   "Unutulmuş öğle yemeği kutusundan korkunç bir koku geliyordu.",
+   "Sakinler, kalabalık konutlardaki içler acısı koşulları anlattı ve güvenlik standartlarının daha sıkı uygulanmasını istedi."
+  ],
+  "col": [
+   "korkunç bir koku",
+   "korkunç bir deneyim",
+   "berbat hava"
+  ],
+  "tip": "horrible çoğunlukla 'çok kötü, nahoş' anlamında kullanılır; korkunç, dehşet verici durumlar için horrific daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "extra",
+  "senses": [
+   "ekstra; fazladan",
+   "fazladan; ekstra olarak",
+   "ilave öğe; figüran"
+  ],
+  "ex": [
+   "Geceler soğuduğu için fazladan bir kazak koydum.",
+   "Okullar, evde öğrenme materyallerine erişmekte zorlanan öğrencilere ek destek sağlamalıdır."
+  ],
+  "col": [
+   "ek süre",
+   "ek ücret",
+   "özel özen",
+   "ek ücret ödemek"
+  ],
+  "tip": "Sıfat olarak 'ekstra' anlamına gelir (extra time). pay extra ifadesinde ise zarf olup 'ek olarak' anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "against",
+  "senses": [
+   "karşı; aleyhine",
+   "dayalı; yaslı",
+   "-e karşı korunmak için"
+  ],
+  "ex": [
+   "Takımımız bu öğleden sonra komşularla karşılaşıyor.",
+   "Bazı sakinler, gürültünün artmasından ve yakın yaşam alanlarına zarar verilmesinden korktukları için havalimanı genişlemesine karşılar."
+  ],
+  "col": [
+   "aleyhine oy vermek",
+   "bir şeye yaslanmak",
+   "-e karşı korumak",
+   "yasalara aykırı"
+  ],
+  "tip": "against edatından sonra isim, zamir ya da -ing biçimi gelir (against smoking). 'in favour of' ifadesinin karşıtıdır.",
+  "note": ""
+ },
+ {
+  "id": "smartphone",
+  "senses": [
+   "akıllı telefon"
+  ],
+  "ex": [
+   "Akşam gökyüzünü fotoğraflamak için akıllı telefonumu kullandım.",
+   "Akıllı telefonlar bilgiye kolay erişim sağlasa da aşırı kullanım uykuyu bozabilir ve odaklanmayı azaltabilir."
+  ],
+  "col": [
+   "akıllı telefon uygulaması",
+   "akıllı telefon kullanıcısı",
+   "akıllı telefon bağımlılığı"
+  ],
+  "tip": "smartphone sayılabilir bir isimdir; önüne a/the getirilebilir ya da çoğul olarak kullanılabilir (smartphones).",
+  "note": ""
+ },
+ {
+  "id": "exact",
+  "senses": [
+   "doğru; kesin",
+   "zorla almak; dayatmak"
+  ],
+  "ex": [
+   "Varmamız gereken tam saati söyleyebilir misin?",
+   "Araştırmacıların, hava kalitesindeki değişikliklerin yeni ulaşım politikalarıyla bağlantılı olup olmadığını belirlemek için kesin ölçümlere ihtiyacı var."
+  ],
+  "col": [
+   "tam konum",
+   "tam miktar",
+   "tıpatıp kopya",
+   "ağır bir bedel ödetmek"
+  ],
+  "tip": "exact, her ayrıntıda kusursuz doğruluğu vurgular. Zarf biçimi exactly'dir.",
+  "note": ""
+ },
+ {
+  "id": "smoking",
+  "senses": [
+   "sigara içme"
+  ],
+  "ex": [
+   "Amcam sigarayı bıraktı ve artık uzun yürüyüşlerden keyif alıyor.",
+   "Kapalı kamu binalarında sigara içilmesinin yasaklanması, çalışanları ve ziyaretçileri tütün dumanının zararlı etkilerinden koruyabilir."
+  ],
+  "col": [
+   "sigarayı bırakmak",
+   "pasif içicilik",
+   "sigara yasağı"
+  ],
+  "tip": "Sigara içme eylemi için sayılamaz bir isimdir. 'Sigarayı bırakmak' için give up smoking kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "guy",
+  "senses": [
+   "adam; delikanlı"
+  ],
+  "ex": [
+   "Yan dairedeki adam market poşetlerimi taşımama yardım etti.",
+   "Bir meslektaşa guy demek dostça gelebilir, ancak gayriresmi sözcükler akademik yazıda genellikle uygun değildir."
+  ],
+  "col": [
+   "iyi bir adam",
+   "genç bir adam",
+   "sıradan bir adam"
+  ],
+  "tip": "guy gayriresmi bir sözcüktür; resmi yazıda ve akademik metinlerde man ya da person tercih edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "compare",
+  "senses": [
+   "karşılaştırmak",
+   "benzetmek",
+   "denk olmak; boy ölçüşmek"
+  ],
+  "ex": [
+   "En hafif olanı seçmeden önce birkaç sırt çantasını karşılaştırdık.",
+   "Araştırmacılar, yenilenebilir enerjinin uzun vadeli maliyetlerini geleneksel enerji kaynaklarınınkilerle karşılaştırmalıdır."
+  ],
+  "col": [
+   "fiyatları karşılaştırmak",
+   "A'yı B ile karşılaştırmak",
+   "A'yı B'ye benzetmek",
+   "...ile olumlu kıyaslanmak"
+  ],
+  "tip": "Karşılaştırma için compare with, benzetme anlamında ise compare to tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "coloured",
+  "senses": [
+   "renkli"
+  ],
+  "ex": [
+   "Güneş ışığı renkli camdan geçip zemine düşüyordu.",
+   "Öğretmenler, küçük çocukların örüntüleri tanımasına ve temel matematik becerileri geliştirmesine yardımcı olmak için renkli bloklar kullanabilir."
+  ],
+  "col": [
+   "renkli cam",
+   "renkli kalemler",
+   "parlak renkli"
+  ],
+  "tip": "İngiliz İngilizcesinde coloured, Amerikan İngilizcesinde colored yazılır. İnsanları tanımlarken bu sözcüğü kullanmaktan kaçının.",
+  "note": "İnsanları genel olarak tanımlamak için kullanıldığında çoğunlukla eskimiş ve incitici kabul edilir; bazı bölgelerde belirli kimlik kullanımları vardır."
+ },
+ {
+  "id": "suitcase",
+  "senses": [
+   "bavul; valiz"
+  ],
+  "ex": [
+   "Bavulu çok ağırdı, trene kaldıramadı.",
+   "Yolcular daha hafif bir bavul hazırlayarak ve mümkün olduğunda toplu taşımayı seçerek ulaşımdan kaynaklanan emisyonları azaltabilir."
+  ],
+  "col": [
+   "bavul hazırlamak",
+   "bavulu boşaltmak",
+   "tekerlekli bavul"
+  ],
+  "tip": "suitcase sayılabilir bir isimdir. Genel anlamda bagaj için luggage kullanılır ve bu sözcük sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "poster",
+  "senses": [
+   "afiş; poster"
+  ],
+  "ex": [
+   "Masasının üstüne renkli bir poster astı.",
+   "İyi tasarlanmış bir afiş, çevresel mesajları açık ve çekici biçimde sunarak insanları geri dönüşüme teşvik edebilir."
+  ],
+  "col": [
+   "poster asmak",
+   "afiş tasarlamak",
+   "reklam afişi",
+   "afiş kampanyası"
+  ],
+  "tip": "poster 'afiş' anlamına gelir; postcard ise 'kartpostal' demektir, ikisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "gift",
+  "senses": [
+   "hediye",
+   "yetenek; yetenek",
+   "hediye etmek"
+  ],
+  "ex": [
+   "Kız kardeşim hediyeyi parlak sarı kağıda sardı.",
+   "Okullar, her çocuğun yeteneğini geliştirmeli; herkesi aynı dar ölçütlerle yargılamamalıdır."
+  ],
+  "col": [
+   "doğum günü hediyesi",
+   "dil yeteneği",
+   "hediyelik eşya dükkânı"
+  ],
+  "tip": "Bir konudaki yeteneği belirtmek için a gift for + isim ya da -ing kalıbı kullanılır. Fiil olarak 'hediye etmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "blouse",
+  "senses": [
+   "bluz"
+  ],
+  "ex": [
+   "Mavi bluzunu sevdiği gri pantolonuyla giydi.",
+   "Daha ucuz yapılmış bir ürün yerine dayanıklı bir bluz seçmek, zaman içinde giyim israfını azaltabilir."
+  ],
+  "col": [
+   "ipek bluz",
+   "uzun kollu bluz",
+   "bol kesimli bluz"
+  ],
+  "tip": "blouse genellikle kadınlara yönelik gömlek için kullanılır; shirt ise daha geniş bir kullanım alanına sahiptir.",
+  "note": ""
+ },
+ {
+  "id": "detail",
+  "senses": [
+   "ayrıntı; detay",
+   "ayrıntı düzeyi",
+   "ayrıntılı anlatmak"
+  ],
+  "ex": [
+   "Davetiyeyi göndermeden önce her ayrıntıyı kontrol edin.",
+   "Rapor, iyileştirilmiş konut koşullarının kentsel alanlardaki aileler arasındaki sağlık eşitsizliklerini nasıl azaltabileceğini ayrıntılı olarak anlatıyor."
+  ],
+  "col": [
+   "ayrıntılı olarak",
+   "ayrıntılara dikkat etmek",
+   "iletişim bilgileri",
+   "daha fazla bilgi"
+  ],
+  "tip": "in detail kalıbında detail çoğul kullanılmaz. İletişim bilgileri için ise contact details (çoğul) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "perhaps",
+  "senses": [
+   "belki; galiba",
+   "belki de; acaba"
+  ],
+  "ex": [
+   "Belki bir şemsiye almalıyız; şu bulutlar karanlık görünüyor.",
+   "Hükümetler, taze ürünleri düşük gelirli haneler için daha uygun fiyatlı hale getirerek daha sağlıklı beslenmeyi teşvik edebilir."
+  ],
+  "col": [
+   "belki de değil",
+   "belki en iyisi",
+   "belki yapabiliriz"
+  ],
+  "tip": "perhaps, maybe'e göre biraz daha resmidir. Cümle başında kullanıldığında öneriyi daha yumuşak ve nazik gösterir.",
+  "note": ""
+ }
+]

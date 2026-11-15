@@ -1,0 +1,282 @@
+[
+ {
+  "id": "shave",
+  "senses": [
+   "tıraş olmak",
+   "ince tabaka almak; azaltmak",
+   "tıraş"
+  ],
+  "ex": [
+   "Her sabah işe gitmeden önce tıraş olurum.",
+   "Daha iyi ulaşım bağlantıları günlük yolculuklardan birkaç dakika kısaltabilir ve daha çok insanı trenle işe gitmeye teşvik edebilir."
+  ],
+  "col": [
+   "başını tıraş etmek",
+   "tıraş olmak",
+   "zamandan kısaltmak"
+  ],
+  "tip": "Düzensiz fiil: shave – shaved – shaved/shaven. 'Shave time off' kalıbı bir süreyi kısaltmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "bend",
+  "senses": [
+   "bükmek; bükülmek",
+   "eğilmek",
+   "viraj; kıvrım"
+  ],
+  "ex": [
+   "Küçük bir kanca yapmak için teli nazikçe bükün.",
+   "Sürücüler, özellikle yol koşulları kötüyken keskin bir viraja yaklaşmadan önce hızlarını azaltmalıdır."
+  ],
+  "col": [
+   "dizlerini bükmek",
+   "eğilmek",
+   "keskin viraj",
+   "kuralları esnetmek"
+  ],
+  "tip": "Düzensiz fiil: bend – bent – bent. 'Bend down' kelimesi yere doğru eğilmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "lamb",
+  "senses": [
+   "kuzu",
+   "kuzu eti"
+  ],
+  "ex": [
+   "Küçük bir kuzu, annesinin ardından tarlayı geçiyordu.",
+   "Kuzu eti üretimi arazi ve su gerektirdiğinden, sürdürülebilir beslenme planlanırken çevresel etkisi göz önünde bulundurulmalıdır."
+  ],
+  "col": [
+   "yeni doğmuş kuzu",
+   "fırında kuzu",
+   "kuzu pirzola"
+  ],
+  "tip": "Sondaki b harfi okunmaz. Hayvan için sayılabilir, et olarak kullanıldığında sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "pride",
+  "senses": [
+   "gurur",
+   "kibir; onur",
+   "gurur duymak"
+  ],
+  "ex": [
+   "Resmini gösterirken yüzü gururla parlıyordu.",
+   "Okullar, öğrencileri yerel çevreyi iyileştiren projelere katılmaya teşvik ederek topluluk gururunu artırabilir."
+  ],
+  "col": [
+   "gurur duymak",
+   "gurur duygusu",
+   "birinin gururunu incitmek",
+   "...ile övünmek"
+  ],
+  "tip": "Fiil olarak 'pride oneself on' kalıbı kullanılır. Sıfat olarak 'proud of' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "cap",
+  "senses": [
+   "kasket",
+   "kapak",
+   "üst sınır koymak"
+  ],
+  "ex": [
+   "Antrenmana gitmeden önce kasketini takti.",
+   "Hükümetler, hanelerin ani konut maliyeti artışlarından korunması için yıllık kira artışlarına üst sınır koyabilir."
+  ],
+  "col": [
+   "beyzbol şapkası",
+   "şişe kapağı",
+   "harcamalara üst sınır koymak",
+   "ücretlere üst sınır"
+  ],
+  "tip": "Fiil olarak 'üst sınır koymak' anlamına gelir. Sınırlanan şey doğrudan nesne olarak gelir, 'cap on' ise sınırın konusunu verir.",
+  "note": ""
+ },
+ {
+  "id": "disaster",
+  "senses": [
+   "felaket; afet",
+   "fiyasko; büyük başarısızlık"
+  ],
+  "ex": [
+   "Pirinci yaktığım için akşam yemeği tam bir felaketti.",
+   "Etkili erken uyarı sistemleri doğal afetlerin verdiği zararı azaltabilir ve toplulukların daha hızlı toparlanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "doğal afet",
+   "afet yardımı",
+   "felaketi önlemek",
+   "tam bir fiyasko"
+  ],
+  "tip": "Günlük konuşmada abartılı olarak başarısızlık için de kullanılır: 'The party was a disaster' (parti berbat geçti).",
+  "note": ""
+ },
+ {
+  "id": "peach",
+  "senses": [
+   "şeftali",
+   "şeftali rengi"
+  ],
+  "ex": [
+   "Olgun bir şeftaliyi kahvaltı kasesine dilimledi.",
+   "Olağandışı sıcak kışlar ağaçların doğal çiçeklenme döngüsünü bozduğunda şeftali üreticileri daha az hasatla karşılaşabilir."
+  ],
+  "col": [
+   "olgun bir şeftali",
+   "şeftali suyu",
+   "şeftali ağacı"
+  ],
+  "tip": "Şeftali çekirdeğine İngiliz İngilizcesinde stone, Amerikan İngilizcesinde pit denir.",
+  "note": ""
+ },
+ {
+  "id": "burglar",
+  "senses": [
+   "ev hırsızı; hırsız"
+  ],
+  "ex": [
+   "Herkes dışarıdayken bir hırsız pencereden içeri girdi.",
+   "Daha iyi sokak aydınlatması ve güvenli kapılar, hırsızların yerleşim alanlarındaki evleri hedeflemesini caydırabilir."
+  ],
+  "col": [
+   "hırsız alarmı",
+   "hırsızları caydırmak",
+   "bir hırsızı yakalamak"
+  ],
+  "tip": "Burglar bir eve gizlice girip hırsızlık yapanı anlatır; robber ise genellikle tehdit kullanan soyguncuyu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "sender",
+  "senses": [
+   "gönderen"
+  ],
+  "ex": [
+   "Gönderen, koliyi postalamadan önce dikkatlice sarmıştı.",
+   "E-posta kullanıcıları, dijital dolandırıcılık riskini azaltmak için ekleri açmadan önce gönderenin kimliğini doğrulamalıdır."
+  ],
+  "col": [
+   "gönderenin adresi",
+   "göndericiye iade",
+   "bilinmeyen gönderen"
+  ],
+  "tip": "Sender gönderen, recipient ise alıcı demektir. 'Return to sender' kalıbı postada göndericiye iade anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "crop",
+  "senses": [
+   "ürün; mahsul",
+   "bir hasat; ürün miktarı",
+   "kırpmak; kısaltmak"
+  ],
+  "ex": [
+   "Çiftçi fırtınadan sonra buğday ürününü kontrol etti.",
+   "Yükselen sıcaklıklar mahsul verimini düşürebilir ve zaten su kıtlığı yaşayan bölgelerde gıda güvenliğini tehdit edebilir."
+  ],
+  "col": [
+   "ürün yetiştirmek",
+   "mahsul verimi",
+   "bol mahsul",
+   "fotoğrafı kırpmak"
+  ],
+  "tip": "Crop hem ürünü hem de bir dönemdeki hasadı ifade eder. Fiil olarak fotoğrafı kırpmak ya da saçı kısaltmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "impress",
+  "senses": [
+   "hayran bırakmak",
+   "vurgulamak; aşılamak"
+  ],
+  "ex": [
+   "Evde yaptığı ekmek aile yemeğinde herkesi hayran bıraktı.",
+   "Adaylar, pratik deneyimlerinin pozisyonun gereksinimlerine nasıl uyduğunu açıklayarak potansiyel işverenleri etkileyebilir."
+  ],
+  "col": [
+   "birini ...ile etkilemek",
+   "...den etkilenmek",
+   "birine bir şeyi vurgulamak"
+  ],
+  "tip": "Impressed kişinin duygusunu, impressive ise bir şeyin etkileyici olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "fetch",
+  "senses": [
+   "gidip getirmek",
+   "(fiyata) satılmak"
+  ],
+  "ex": [
+   "Yatak odasından ceketimi getirebilir misin?",
+   "Güvenilir toplu taşımaya yakın evler, alıcılar uygun ulaşımı değerli bulduğu için genellikle daha yüksek fiyata satılır."
+  ],
+  "col": [
+   "biraz su getirmek",
+   "birini okuldan almak",
+   "yüksek fiyata satılmak"
+  ],
+  "tip": "Fetch gidip alıp geri getirmeyi vurgular; bring ise sadece bir şeyi bir yere taşımayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "badge",
+  "senses": [
+   "rozet; amblem"
+  ],
+  "ex": [
+   "Yeni rozetini ceketine iğneledi.",
+   "Ziyaretçilerin görünür bir rozet takmasını zorunlu kılmak, okullarda ve diğer kamu binalarında güvenliği artırabilir."
+  ],
+  "col": [
+   "rozet takmak",
+   "kimlik rozeti",
+   "onur rozeti"
+  ],
+  "tip": "Genellikle takılan küçük rozet anlamına gelir; madalya ya da ödül için medal kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "freeze",
+  "senses": [
+   "donmak; dondurmak",
+   "dondurmak; askıya almak",
+   "korkudan donakalmak"
+  ],
+  "ex": [
+   "Artan çorbayı dondurun ve gelecek hafta yiyin.",
+   "Hükümetler, ekonomik durgunluk döneminde hanelerin mali baskısını azaltmak için toplu taşıma ücretlerini dondurabilir."
+  ],
+  "col": [
+   "yiyeceği dondurmak",
+   "ücretleri dondurmak",
+   "korkudan donakalmak"
+  ],
+  "tip": "Düzensiz fiil: freeze – froze – frozen. Üçüncü anlam ani hareketsizliği, yani korku veya şaşkınlıkla kalakalmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "customs",
+  "senses": [
+   "gümrük",
+   "gümrük vergisi",
+   "gelenek; örf"
+  ],
+  "ex": [
+   "Gümrükte kontrol için bavullarımızı açtık.",
+   "Daha verimli gümrük prosedürleri, güvenlikten ödün vermeden sınır geçişlerindeki gecikmeleri azaltabilir ve uluslararası ticareti destekleyebilir."
+  ],
+  "col": [
+   "gümrükten geçmek",
+   "gümrük memuru",
+   "gümrük vergisi",
+   "yerel gelenekler"
+  ],
+  "tip": "Gümrük anlamında her zaman çoğul customs kullanılır; custom tekil olarak gelenek ya da alışkanlık anlamına gelir.",
+  "note": ""
+ }
+]

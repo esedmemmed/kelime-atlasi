@@ -1,0 +1,285 @@
+[
+ {
+  "id": "sensitive",
+  "senses": [
+   "hassas; duyarlı",
+   "anlayışlı; duyarlı",
+   "hassas; özen gerektiren"
+  ],
+  "ex": [
+   "Cildim bu yeni deterjana karşı hassas.",
+   "Öğretmenler, sınıfta tartışmalı konuları ele alırken öğrencilerin kültürel geçmişlerine karşı duyarlı olmalıdır."
+  ],
+  "col": [
+   "hassas cilt",
+   "eleştiriye alıngan",
+   "gizli bilgi",
+   "hassas konu"
+  ],
+  "tip": "sensitive (hassas) ile sensible (akıllıca, mantıklı) kelimelerini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "canvas",
+  "senses": [
+   "kanvas; yelken bezi",
+   "tuval; yağlı boya tablo"
+  ],
+  "ex": [
+   "Yemeğini sağlam bir kanvas çantaya koymuştu.",
+   "Tuval üzerine resim yapmak, öğrencilerin yaratıcı özgüvenlerini geliştirirken renk ve dokuyu keşfetmelerine olanak tanır."
+  ],
+  "col": [
+   "kanvas çanta",
+   "kanvas çadır",
+   "tuval üzerine yağlı boya",
+   "boş tuval"
+  ],
+  "tip": "Malzeme olarak kullanılan kanvas sayılamaz; tek bir tablo anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "trim",
+  "senses": [
+   "budamak; kısmak",
+   "kırpma; düzeltme",
+   "düzgün; zayıf ve formda"
+  ],
+  "ex": [
+   "Pencereyi kapatmadan önce çiti budarım.",
+   "Yerel yönetimler, kamu binalarında enerji verimliliğini artırarak temel hizmetlerden kısmak yerine işletme maliyetlerini düşürebilir."
+  ],
+  "col": [
+   "çiti budamak",
+   "maliyetleri kısmak",
+   "hafif kırpma",
+   "formda kalmak"
+  ],
+  "tip": "Geçmiş zaman trimmed ve ing hâli trimming biçiminde m harfi ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "barely",
+  "senses": [
+   "zar zor; hemen hemen hiç",
+   "ancak; yalnızca"
+  ],
+  "ex": [
+   "Yağmurun gürültüsü arasında onu zar zor duyabiliyordum.",
+   "Birçok düşük gelirli hane, temel ihtiyaçlarını zar zor karşılayabiliyor; eğitim ya da koruyucu sağlık hizmetleri için pek para kalmıyor."
+  ],
+  "col": [
+   "zar zor görülebilen",
+   "zar zor yeterli",
+   "zar zor hayatta kalmak",
+   "fark etmemek"
+  ],
+  "tip": "Kendisi olumsuz anlam taşıdığı için genellikle not ile birlikte kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "confession",
+  "senses": [
+   "itiraf; açık yürekli kabul",
+   "günah çıkarma"
+  ],
+  "ex": [
+   "Bir itirafım var: son bisküviyi ben yedim.",
+   "Mahkemeler, bir itirafı güvenilir delil olarak kabul etmeden önce gönüllü olarak alınıp alınmadığını incelemelidir."
+  ],
+  "col": [
+   "itirafta bulunmak",
+   "itiraf almak",
+   "sahte itiraf",
+   "günah çıkarmaya gitmek"
+  ],
+  "tip": "confession to ile sonra isim ya da ing'li fiil gelir; 'özgürlük' anlamı yoktur.",
+  "note": ""
+ },
+ {
+  "id": "publicly",
+  "senses": [
+   "herkesin önünde; açıkça",
+   "kamu kaynaklarıyla"
+  ],
+  "ex": [
+   "Kedisini bulan komşulara herkesin önünde teşekkür etti.",
+   "Vergi mükelleflerinin parasıyla finanse edilen araştırmalar, herkesin bulgularından yararlanabilmesi için kamuya açık olmalıdır."
+  ],
+  "col": [
+   "kamuya açık",
+   "devlet desteğiyle finanse edilen",
+   "açıkça kabul etmek",
+   "kamu mülkiyetinde"
+  ],
+  "tip": "Doğru yazım publicly'dir; publically yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "accessible",
+  "senses": [
+   "erişilebilir; kullanılabilir",
+   "anlaşılır"
+  ],
+  "ex": [
+   "Bahçeye küçük ahşap bir kapıdan girilebiliyor.",
+   "Halk kütüphaneleri, çok çeşitli yeteneklere sahip kullanıcıların erişebileceği dijital kaynaklar sunmalıdır."
+  ],
+  "col": [
+   "herkesin erişebileceği",
+   "tekerlekli sandalyeye uygun",
+   "kolayca ulaşılabilir",
+   "anlaşılır dil"
+  ],
+  "tip": "accessible to sb kalıbı yaygındır; anlaşılır içerik için de bu sözcük kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "rust",
+  "senses": [
+   "pas",
+   "paslanmak; paslandırmak"
+  ],
+  "ex": [
+   "Eski bisikletimin zincirini turuncu pas kaplamıştı.",
+   "Düzenli bakım, çelik köprülerin paslanmasını önler ve altyapı onarımlarının uzun vadeli maliyetini düşürür."
+  ],
+  "col": [
+   "pası temizlemek",
+   "pası önlemek",
+   "pas gibi çözülüp gitmek"
+  ],
+  "tip": "Bir becerinin unutulup körelmesi için rusty kullanılır: My French is rusty (Fransızcam paslandı).",
+  "note": ""
+ },
+ {
+  "id": "overcast",
+  "senses": [
+   "bulutlu; kapalı"
+  ],
+  "ex": [
+   "Okula çıktığımızda gökyüzü bulutluydu.",
+   "Bulutlu koşullar güneş enerjisi üretimini azaltsa da modern paneller yine de faydalı miktarda elektrik üretebilir."
+  ],
+  "col": [
+   "bulutlu gökyüzü",
+   "bulutlu bir gün",
+   "bulutlu koşullar"
+  ],
+  "tip": "Gökyüzünün bulutlarla kaplı olduğunu anlatır; yağmur yağdığı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "portion",
+  "senses": [
+   "bölüm; pay",
+   "porsiyon",
+   "paylaştırmak; porsiyonlamak"
+  ],
+  "ex": [
+   "Bahçemizin büyük bir kısmı gölgede kalıyor.",
+   "Konut giderleri, özellikle sınırlı uygun fiyatlı konut bulunan şehirlerde, hane gelirinin önemli bir bölümünü tüketiyor."
+  ],
+  "col": [
+   "büyük bir kısmı",
+   "önemli bir bölüm",
+   "cömert porsiyonlar",
+   "porsiyon büyüklüğü"
+  ],
+  "tip": "portion hem bütünün bir parçası hem de tek kişilik yemek anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "twig",
+  "senses": [
+   "ince dal; çalı dalı",
+   "anlamak; fark etmek"
+  ],
+  "ex": [
+   "Bir serçe, yuvasına kuru bir dal taşıdı.",
+   "Ormanın yerdeki kuru dalları, böcekler için barınak sağlar ve besin maddelerinin doğal geri dönüşümünü destekler."
+  ],
+  "col": [
+   "kuru dallar",
+   "bir dalı kırmak",
+   "bu anlamak"
+  ],
+  "tip": "Fiil anlamı İngiliz kullanımında gayriresmîdir; geçmiş zamanı twigged'dir.",
+  "note": ""
+ },
+ {
+  "id": "log",
+  "senses": [
+   "kütük; odun parçası",
+   "günlük; kayıt",
+   "kaydetmek"
+  ],
+  "ex": [
+   "Gölün kenarında devrilmiş bir kütüğün üzerine oturduk.",
+   "Araştırmacılar, iklim değişikliğinin tatlı su ekosistemlerini zamanla nasıl etkilediğini değerlendirmek için su sıcaklığındaki değişimleri kaydediyor."
+  ],
+  "col": [
+   "devrilmiş kütük",
+   "günlük tutmak",
+   "veri kaydetmek",
+   "giriş yapmak"
+  ],
+  "tip": "Fiilin geçmiş zamanı logged'dir; log in ise sisteme giriş yapmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "dresser",
+  "senses": [
+   "çekmeceli dolap (ABD)",
+   "çanak çömlek dolabı (İng.)",
+   "belli bir tarzda giyinen kişi"
+  ],
+  "ex": [
+   "Temiz çoraplarımı yatak odasındaki çekmeceli dolaba koydum.",
+   "Yeni mobilya almak yerine eski bir çekmeceli dolabı yenilemek, atığı azaltabilir ve doğal kaynakları koruyabilir."
+  ],
+  "col": [
+   "yatak odası dolabı",
+   "mutfak servis dolabı",
+   "şık giyinen kişi"
+  ],
+  "tip": "Amerikan kullanımında genellikle giysi çekmeceli dolabı, İngiliz kullanımında mutfak servis dolabı anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "observation",
+  "senses": [
+   "gözlem; izleme",
+   "gözlem sonucu; yorum"
+  ],
+  "ex": [
+   "Doktor onu gözlem altında tutmak için bir gece hastanede tuttu.",
+   "Çocukların davranışlarının dikkatli gözlemlenmesi, öğretmenlerin öğrenme güçlüklerini erken aşamada belirlemesine ve uygun destek sağlamasına yardımcı olur."
+  ],
+  "col": [
+   "yakın gözlem",
+   "gözetim altında",
+   "bir gözlemde bulunmak",
+   "doğrudan gözlem"
+  ],
+  "tip": "Gözlem etkinliği genellikle sayılamaz; tek bir gözlem notu ise sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "wealthy",
+  "senses": [
+   "zengin; varlıklı"
+  ],
+  "ex": [
+   "Zengin bir komşumuz oyun alanımıza yeni ekipman bağışladı.",
+   "Zengin ülkeler, daha yoksul bölgelerdeki temiz enerji projelerine yatırım yaparak küresel kalkınmayı destekleyebilir."
+  ],
+  "col": [
+   "varlıklı aile",
+   "zengin ülkeler",
+   "zengin kişiler"
+  ],
+  "tip": "the wealthy zengin insanları topluca ifade eder; wealthy kendisi sıfattır.",
+  "note": ""
+ }
+]

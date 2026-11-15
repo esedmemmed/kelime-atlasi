@@ -1,0 +1,273 @@
+[
+ {
+  "id": "maiden",
+  "senses": [
+   "ilk; ilk kez",
+   "genç kız; bakire"
+  ],
+  "ex": [
+   "Yeni feribot bu sabah ilk seferini tamamladı.",
+   "Uçağın ilk uçuşu, bölgesel ulaşımın daha temiz türlerine doğru önemli bir adım oldu."
+  ],
+  "col": [
+   "ilk sefer",
+   "ilk uçuş",
+   "ilk konuşma"
+  ],
+  "tip": "Sıfat olarak 'ilk kez yapılan' anlamında kullanılır. İsim olarak 'genç kız' anlamı çoğunlukla edebi veya eski metinlerde görülür.",
+  "note": ""
+ },
+ {
+  "id": "prosecution",
+  "senses": [
+   "dava açma; kovuşturma",
+   "savcılık; iddia makamı"
+  ],
+  "ex": [
+   "Dükkân sahibi çalıntı bisikletleri satmaktan dolayı dava ile karşı karşıya kaldı.",
+   "Çevre suçlarının etkili bir şekilde kovuşturulması, güvenilir delil ve uzman hukuk ekipleri için yeterli kaynak gerektirir."
+  ],
+  "col": [
+   "dava ile karşı karşıya kalmak",
+   "ceza kovuşturması",
+   "iddia makamının davası",
+   "iddia makamı tanığı"
+  ],
+  "tip": "'The prosecution' ceza davalarında savcılık veya iddia makamını ifade eder; hukuk davasındaki davacı için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "liberal",
+  "senses": [
+   "hoşgörülü; açık fikirli",
+   "liberal; özgürlükçü",
+   "bol; cömert"
+  ],
+  "ex": [
+   "Ailem giyeceğim kıyafetler konusunda oldukça hoşgörülü.",
+   "Özgür bir toplum, vatandaşları başkalarının haklarına saygı göstermeye teşvik ederken bireysel özgürlükleri korumalıdır."
+  ],
+  "col": [
+   "hoşgörülü tutumlar",
+   "liberal demokrasi",
+   "bol miktarda"
+  ],
+  "tip": "Siyasi anlamı ülkeden ülkeye farklılık gösterir. 'A liberal amount of' kalıbı 'bol miktarda' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "conceive",
+  "senses": [
+   "tasarlamak; düşünmek",
+   "hamile kalmak"
+  ],
+  "ex": [
+   "Parkta yürürken bu fikri aklına getirdi.",
+   "Şehir plancıları, yeşil alanlardan ve uygun fiyatlı konutlardan ödün vermeden nüfus artışına uyum sağlamanın yeni yollarını tasarlamalıdır."
+  ],
+  "col": [
+   "bir fikir tasarlamak",
+   "hayal etmek; düşünmek",
+   "hamile kalmak"
+  ],
+  "tip": "'Conceive of' + isim veya -ing ile 'hayal etmek, düşünmek' anlamında kullanılır. Tek başına 'conceive' ise hamile kalmak anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "laborious",
+  "senses": [
+   "zahmetli; yorucu"
+  ],
+  "ex": [
+   "Eski duvar kâğıdını sökmek yavaş ve zahmetli bir işti.",
+   "Tarihi kayıtların dijitale aktarılması zahmetli bir süreçtir, ancak değerli araştırma materyallerine halkın erişimini büyük ölçüde artırır."
+  ],
+  "col": [
+   "zahmetli süreç",
+   "zahmetli görev",
+   "yorucu iş"
+  ],
+  "tip": "Genellikle görev veya süreçler için kullanılır. Çalışkan bir kişiyi anlatmak için 'industrious' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "clarity",
+  "senses": [
+   "açıklık; netlik",
+   "berraklık"
+  ],
+  "ex": [
+   "Bu oyunun talimatlarının açıklığını takdir ediyorum.",
+   "Halk sağlığı tavsiyelerinde daha fazla netlik, insanların günlük alışkanlıkları hakkında bilinçli kararlar vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "düşüncenin netliği",
+   "açıklık için",
+   "netlik eksikliği",
+   "kristal berraklık"
+  ],
+  "tip": "Sayılamayan bir isimdir. Fiili 'clarify' (açıklığa kavuşturmak) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "indebted",
+  "senses": [
+   "minnettar; müteşekkir",
+   "borçlu"
+  ],
+  "ex": [
+   "Nezaketiniz için size içtenlikle minnettarım.",
+   "Borcu yüksek ülkeler, kamu sağlık hizmetlerine ve eğitime yeterli yatırım yapmakta zorlanabilir."
+  ],
+  "col": [
+   "içtenlikle minnettar",
+   "birinden bir şey için minnettar olmak",
+   "ağır borçlu"
+  ],
+  "tip": "'Be indebted to sb for sth' kalıbı birine bir şey için minnettar olmayı anlatır. 'Borçlu' anlamı mali bağlamda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "din",
+  "senses": [
+   "gürültü; uğultu"
+  ],
+  "ex": [
+   "Uğultunun arasında birbirimizi zar zor duyabiliyorduk.",
+   "Trafiğin sürekli gürültüsü, sakinlerin yaşam kalitesini düşürebilir ve uykularını bozabilir."
+  ],
+  "col": [
+   "gürültünün arasında",
+   "kulakları sağır eden gürültü",
+   "trafik gürültüsü"
+  ],
+  "tip": "Genellikle tekil kullanılır. Sürekli ve rahatsız edici yüksek sesi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "telecommunication",
+  "senses": [
+   "telekomünikasyon; uzaktan iletişim"
+  ],
+  "ex": [
+   "Telekomünikasyon, aramızdaki okyanusa rağmen ailemizi bir arada tutuyor.",
+   "Telekomünikasyon altyapısına yapılan yatırım, kırsal alanların eğitime, sağlık hizmetlerine ve istihdam fırsatlarına erişimini iyileştirebilir."
+  ],
+  "col": [
+   "telekomünikasyon ağları",
+   "telekomünikasyon altyapısı",
+   "telekomünikasyon hizmetleri"
+  ],
+  "tip": "Sektör veya teknoloji anlamında genellikle çoğul 'telecommunications' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "expenditure",
+  "senses": [
+   "harcama; gider",
+   "tüketim; harcama"
+  ],
+  "ex": [
+   "Aylık harcamalarımızı küçük bir defterde takip ediyoruz.",
+   "Koruyucu sağlık hizmetlerine yapılan daha yüksek kamu harcaması, kronik hastalıkların tedavisinin uzun vadeli maliyetini azaltabilir."
+  ],
+  "col": [
+   "kamu harcaması",
+   "sermaye harcaması",
+   "enerji tüketimi"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. 'Expenditure on' kalıbıyla neye harcama yapıldığı belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "retention",
+  "senses": [
+   "elde tutma; saklama",
+   "hafıza; hatırlama",
+   "su tutulması"
+  ],
+  "ex": [
+   "Yöneticimiz esnek çalışma saatleri sunarak personeli elde tutmayı iyileştirdi.",
+   "Düzenli tekrar ve yeterli uyku, sınavlara hazırlanan öğrencilerin bilgiyi hatırlamasını artırabilir."
+  ],
+  "col": [
+   "personel elde tutma",
+   "müşteri elde tutma",
+   "bilgiyi hatırlama",
+   "vücutta su tutulması"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Fiili 'retain' (elde tutmak, saklamak) şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "drudgery",
+  "senses": [
+   "angarya; yorucu ve sıkıcı iş"
+  ],
+  "ex": [
+   "Bulaşık makinesi, temizlik işinin büyük bir kısmındaki angaryayı ortadan kaldırıyor.",
+   "Otomasyon, tekrarlayan görevlerin angaryasını azaltabilir ve çalışanların daha yaratıcı faaliyetlere odaklanmasına olanak tanır."
+  ],
+  "col": [
+   "günlük angarya",
+   "ev işi angaryası",
+   "tekrarlayan işin angaryası"
+  ],
+  "tip": "Sayılamayan bir isimdir. İşin hem zor hem de tekdüze olduğunu vurgular, yalnızca zorluğunu değil.",
+  "note": ""
+ },
+ {
+  "id": "regretful",
+  "senses": [
+   "pişman; üzgün"
+  ],
+  "ex": [
+   "Kız kardeşine sert çıktıktan sonra pişman görünüyordu.",
+   "Bazı mezunlar, yalnızca beklenen maddi kazanç için bir bölüm seçtikleri için pişmanlık duyuyorlar."
+  ],
+  "col": [
+   "pişmanlık duymak",
+   "pişman bir gülümseme",
+   "bir karar konusunda pişman"
+  ],
+  "tip": "'Regretful' kişinin pişmanlık duygusunu anlatır. 'Regrettable' ise bir olayın üzücü olduğunu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "tenancy",
+  "senses": [
+   "kiracılık hakkı; kiralama düzeni",
+   "kira süresi"
+  ],
+  "ex": [
+   "Kiralık evimizin süresi gelecek ay doluyor, bu yüzden eşyalarımızı topluyoruz.",
+   "Açık kira sözleşmeleri, ev sahiplerinin ve kiracıların haklarını ve sorumluluklarını belirleyerek her ikisini de koruyabilir."
+  ],
+  "col": [
+   "kira sözleşmesi",
+   "sabit süreli kira",
+   "kiralamayı sonlandırmak",
+   "kiracılık güvencesi"
+  ],
+  "tip": "'Tenant' kiracıyı, 'tenancy' ise kiralama ilişkisini, hakkı veya süreyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "holding",
+  "senses": [
+   "varlık; hisse",
+   "tarım arazisi; çiftlik"
+  ],
+  "ex": [
+   "Dün aile işindeki hissesini sattı.",
+   "Büyük yatırım fonları, farklı sektörlerdeki büyük şirketlerdeki önemli paylarıyla kurumsal kararları etkileyebilir."
+  ],
+  "col": [
+   "hisse",
+   "mülk varlıkları",
+   "tarımsal işletme"
+  ],
+  "tip": "Mal varlığı anlamında genellikle çoğul 'holdings' kullanılır. 'Holding company' ise holding şirketi demektir.",
+  "note": ""
+ }
+]

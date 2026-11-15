@@ -1,0 +1,267 @@
+[
+ {
+  "id": "enforce",
+  "senses": [
+   "uygulamak; yürütmek"
+  ],
+  "ex": [
+   "Havuz personeli, içeride koşmakla ilgili sıkı kurallara uyulmasını sağlıyor.",
+   "Hükümetler, sanayinin kirliliği azaltmasını ve halk sağlığını korumasını istiyorsa çevre düzenlemelerini tutarlı biçimde uygulamak zorundadır."
+  ],
+  "col": [
+   "yasayı uygulamak",
+   "düzenlemeleri uygulamak",
+   "sıkı sıkıya uygulamak"
+  ],
+  "tip": "enforce genellikle yasa ya da kurallar için kullanılır; birini bir şey yapmaya zorlamak anlamında force kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "implicit",
+  "senses": [
+   "örtük; ima edilen",
+   "içkin; doğal",
+   "tam; şüphesiz"
+  ],
+  "ex": [
+   "Karşılayan gülümsemesi, aramıza katılmak için örtük bir davetti.",
+   "Birçok iş yerinde fazla mesai konusunda örtük beklentiler vardır ve bu, çalışanların zamanında çıkmaktan çekinmesine yol açabilir."
+  ],
+  "col": [
+   "örtük anlaşma",
+   "...de içkin",
+   "örtük güven",
+   "örtük varsayım"
+  ],
+  "tip": "implicit söylenmeden anlaşılan şeyi, explicit ise açıkça belirtilen şeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "mediator",
+  "senses": [
+   "arabulucu; uzlaştırıcı"
+  ],
+  "ex": [
+   "Bir arabulucu, komşularımızın bahçe çiti anlaşmazlığını çözmelerine yardım etti.",
+   "Bağımsız bir arabulucu, işverenlerle işçilerin uzun hukuki süreçlere başvurmadan adil koşullar üzerinde anlaşmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bağımsız arabulucu",
+   "arabulucu olarak davranmak",
+   "arabulucu atamak"
+  ],
+  "tip": "Mediator taraflar arasında anlaşma sağlar; kararı genellikle kendisi vermez.",
+  "note": ""
+ },
+ {
+  "id": "middleman",
+  "senses": [
+   "komisyoncu; aracı"
+  ],
+  "ex": [
+   "Ürünü çiftçiden doğrudan aldık, aracıyı devre dışı bıraktık.",
+   "Çevrimiçi platformlar küçük üreticilerin tüketicilere doğrudan ulaşmasını sağlayarak geleneksel aracılara bağımlılıklarını azaltıyor."
+  ],
+  "col": [
+   "aracıyı devre dışı bırakmak",
+   "aracılık yapmak"
+  ],
+  "tip": "Çoğul hali middlemen'dir. Daha nötr bir ifade için intermediary kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "sanction",
+  "senses": [
+   "yaptırım; ceza",
+   "onaylamak; izin vermek",
+   "yaptırım uygulamak; cezalandırmak"
+  ],
+  "ex": [
+   "Kulüp, kurallarını ihlal ettiği için bir yaptırım uyguladı.",
+   "Ekonomik yaptırımlar hükümet politikasını etkileyebilir, ancak sıradan vatandaşlar için de zorluklar yaratabilir."
+  ],
+  "col": [
+   "...e yaptırım uygulamak",
+   "yaptırımları kaldırmak",
+   "ekonomik yaptırımlar",
+   "bir öneriyi onaylamak"
+  ],
+  "tip": "Hem 'yaptırım' hem 'onaylamak' anlamına gelebilir; bu iki anlam birbirine zıttır, bu yüzden bağlama bakmak gerekir.",
+  "note": ""
+ },
+ {
+  "id": "dagger",
+  "senses": [
+   "hançer; bıçak"
+  ],
+  "ex": [
+   "Müzenin cam vitrininde eski bir hançer duruyordu.",
+   "Süslemeli bir hançerin bulunması, bu antik yerleşimde gelişmiş metal işçiliği becerilerinin kanıtıdır."
+  ],
+  "col": [
+   "törensel bir hançer",
+   "kınlı bir hançer",
+   "birine öfkeyle bakmak"
+  ],
+  "tip": "look daggers at someone bir deyimdir ve birine öfkeyle bakmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "hydroelectric",
+  "senses": [
+   "hidroelektrik"
+  ],
+  "ex": [
+   "Dağ tatilimizde bir hidroelektrik barajını ziyaret ettik.",
+   "Hidroelektrik enerji, fosil yakıtlara bağımlılığı azaltabilir; ancak büyük barajlar nehir ekosistemlerini bozabilir."
+  ],
+  "col": [
+   "hidroelektrik enerji",
+   "hidroelektrik baraj",
+   "hidroelektrik santral"
+  ],
+  "tip": "Genellikle power ya da power station ile birlikte kullanılır; isim hali hydroelectricity'dir.",
+  "note": ""
+ },
+ {
+  "id": "persistence",
+  "senses": [
+   "azim; kararlılık",
+   "süreklilik; devamlılık"
+  ],
+  "ex": [
+   "Haftalarca süren pratikten sonra, azmi sonunda karşılığını verdi.",
+   "Yoksulluğun sürekliliği, yalnızca ekonomik büyümenin her hanehalkına daha iyi yaşam koşulları garanti edemeyeceğini gösteriyor."
+  ],
+  "col": [
+   "azim göstermek",
+   "azim meyvesini verir",
+   "yoksulluğun sürekliliği"
+  ],
+  "tip": "İnsanın azmi için de, bir sorunun ya da durumun uzun süre devam etmesi için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "ordinarily",
+  "senses": [
+   "genellikle; normalde"
+  ],
+  "ex": [
+   "Genellikle dışarıda yeriz, ama bugün yağmur yağıyor.",
+   "Halk kütüphaneleri genellikle ücretsiz internet erişimi sağlar ve evde bağlantı için ödeme yapamayan sakinlere yardımcı olur."
+  ],
+  "col": [
+   "normalde ...ır",
+   "normalde mevcut",
+   "normalde ikamet eden"
+  ],
+  "tip": "'Normalde, genellikle' anlamına gelir; 'muhtemelen' anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "instantaneous",
+  "senses": [
+   "anlık; ani"
+  ],
+  "ex": [
+   "Ayakkabılarımı çıkardığımda rahatlama neredeyse anında geldi.",
+   "Modern iletişim ağları, farklı kıtalarda çalışan araştırmacılar arasında neredeyse anlık bilgi alışverişine olanak tanır."
+  ],
+  "col": [
+   "anlık bir tepki",
+   "anlık iletişim",
+   "neredeyse anlık"
+  ],
+  "tip": "Neredeyse hiç gecikme olmadığını vurgular; aynı anda gerçekleştiği anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "eclipse",
+  "senses": [
+   "tutulma",
+   "gölgede bırakmak; geçmek"
+  ],
+  "ex": [
+   "Dün gece bahçemizden ay tutulmasını izledik.",
+   "Ekonomiler teknolojiye giderek daha bağımlı hale geldikçe dijital hizmetlere yapılan yatırım, geleneksel altyapı harcamalarını gölgede bırakabilir."
+  ],
+  "col": [
+   "güneş tutulması",
+   "ay tutulması",
+   "tam tutulma",
+   "önceki başarıları gölgede bırakmak"
+  ],
+  "tip": "Güneş tutulması solar eclipse, ay tutulması lunar eclipse olarak ifade edilir.",
+  "note": ""
+ },
+ {
+  "id": "reclaim",
+  "senses": [
+   "geri almak; geri istemek",
+   "ıslah etmek; kullanılabilir kılmak",
+   "geri kazanmak"
+  ],
+  "ex": [
+   "Bavulumu geri almak için istasyona döndüm.",
+   "Kıyı kentleri, konut ve ulaşım için alan yaratmak amacıyla bazen denizden arazi kazanır."
+  ],
+  "col": [
+   "kayıp eşyayı geri almak",
+   "arazi kazanmak",
+   "malzemeleri geri kazanmak"
+  ],
+  "tip": "reclaim sadece toplamak değil, geri almak ya da yeniden kullanılır hale getirmek anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "pertinent",
+  "senses": [
+   "ilgili; konuyla bağlantılı"
+  ],
+  "ex": [
+   "Lena, onarım maliyetleriyle ilgili yerinde bir soru sordu.",
+   "Yerel hava kalitesine ilişkin veriler, toplu taşıma ağlarının genişletilmesi tartışmaları açısından özellikle önemlidir."
+  ],
+  "col": [
+   "yerinde soru",
+   "ilgili bilgi",
+   "...ile ilgili"
+  ],
+  "tip": "Genellikle pertinent to kalıbıyla kullanılır; resmi bir üsluba sahiptir.",
+  "note": ""
+ },
+ {
+  "id": "gullible",
+  "senses": [
+   "kolay inanan; kandırılmaya açık"
+  ],
+  "ex": [
+   "O saçma hikâyesine inanacak kadar saftım.",
+   "Medya okuryazarlığı öğretimi, kolay inanan tüketicilerin yanıltıcı reklamları fark etmesine ve daha bilinçli satın alma kararları vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "kolay inanan tüketiciler",
+   "inanacak kadar saf",
+   "saf görünmek"
+  ],
+  "tip": "Olumsuz bir anlam taşır; yalana kolay inanmayı anlatır, iyi kalplilik anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "scalpel",
+  "senses": [
+   "neşter; cerrahi bıçak"
+  ],
+  "ex": [
+   "Cerrah neşteri temiz bir tepsinin üzerine koydu.",
+   "Tıp öğrencileri, daha ileri cerrahi becerilere geçmeden önce neşteri yapay dokular üzerinde kullanarak pratik yapar."
+  ],
+  "col": [
+   "cerrahi neşter",
+   "neşter ucu",
+   "tek kullanımlık neşter"
+  ],
+  "tip": "Sayılabilir bir isimdir; hassas kesim için kullanılan küçük cerrahi ya da disseksiyon bıçağını anlatır.",
+  "note": ""
+ }
+]

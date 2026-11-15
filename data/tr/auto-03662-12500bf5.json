@@ -1,0 +1,279 @@
+[
+ {
+  "id": "escort",
+  "senses": [
+   "eşlik etmek; refakat etmek",
+   "koruma; refakatçi"
+  ],
+  "ex": [
+   "Bir personel bizi bekleme odasına kadar götürdü.",
+   "Eğitimli gönüllüler, yaşlı sakinleri tıbbi randevularına götürerek temel sağlık hizmetlerine erişimlerini kolaylaştırabilir."
+  ],
+  "col": [
+   "birini ... e götürmek",
+   "polis koruması",
+   "refakat altında"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir (es-CORT), isimde ilk hecededir (ES-cort). Telaffuzu bu iki durumda farklı yapın.",
+  "note": ""
+ },
+ {
+  "id": "transmit",
+  "senses": [
+   "iletmek; aktarmak",
+   "bulaştırmak; yaymak"
+  ],
+  "ex": [
+   "Bu küçük sensörler sıcaklık ölçümlerini telefonuma iletiyor.",
+   "Gelişmiş uydu ağları, sel ve diğer doğal afetler sırasında uzak topluluklara hayati bilgileri ulaştırabilir."
+  ],
+  "col": [
+   "veri iletmek",
+   "sinyal iletmek",
+   "virüs bulaştırmak"
+  ],
+  "tip": "Geçmiş zaman ve -ing biçimlerinde t harfi iki kez yazılır: transmitted, transmitting.",
+  "note": ""
+ },
+ {
+  "id": "identification",
+  "senses": [
+   "tanımlama; belirleme",
+   "kimlik belgesi",
+   "özdeşleşme; benimseme"
+  ],
+  "ex": [
+   "Resepsiyonist benden bir kimlik göstermemi istedi.",
+   "Öğrenme güçlüklerinin erken tespiti, okulların öğrenciler geride kalmadan uygun destek sağlamasına olanak tanır."
+  ],
+  "col": [
+   "kimlik kanıtı",
+   "tür tanımlama",
+   "erken tespit",
+   "ile özdeşleşme"
+  ],
+  "tip": "Kimlik belgesi anlamında genellikle sayılamaz ve kısaca ID olarak da yazılabilir. 'Identification with' ile yakınlık duyulan kişi ya da grup belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "motion",
+  "senses": [
+   "hareket; devinim",
+   "önerge; teklif",
+   "işaret etmek; el/başla işaret etmek"
+  ],
+  "ex": [
+   "Teknenin yumuşak hareketi beni uykulu yaptı.",
+   "Meclis, toplu taşımayı geliştirmek ve yerleşim alanlarındaki trafiği azaltmak için bir önergeyi kabul etti."
+  ],
+  "col": [
+   "hareket halinde",
+   "harekete geçirmek",
+   "önerge kabul etmek",
+   "birine işaret etmek"
+  ],
+  "tip": "Toplantı bağlamında 'motion' önerge demektir ve pass (kabul etmek) ya da reject (reddetmek) ile kullanılır. 'In motion' hareket halinde olmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "madness",
+  "senses": [
+   "çılgınlık; akılsızlık",
+   "ruh hastalığı; delilik"
+  ],
+  "ex": [
+   "Bu kalın sisin içinde araba sürmek kesinlikle delilik olurdu.",
+   "Eleştirmenler, sağlıklı ormanların geçici ekonomik kazanç için yok edilmesini çevresel bir çılgınlık olarak nitelendirdi."
+  ],
+  "col": [
+   "mutlak çılgınlık",
+   "saf çılgınlık",
+   "bir an için akıl tutulması"
+  ],
+  "tip": "Ruhsal hastalık anlamı eskimiştir ve incitici olabilir; insanları tanımlamak için bu anlamda kullanmaktan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "unaware",
+  "senses": [
+   "habersiz; farkında olmayan"
+  ],
+  "ex": [
+   "Şemsiyemin hâlâ dışarıda olduğunu fark etmemiştim.",
+   "Birçok tüketici, ucuz giyim üretiminin neden olduğu çevresel zararın farkında değil."
+  ],
+  "col": [
+   "...den habersiz",
+   "tamamen habersiz",
+   "habersiz kalmak"
+  ],
+  "tip": "Genellikle 'be unaware of' ya da 'be unaware that' kalıplarıyla kullanılır; 'of' edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "peer",
+  "senses": [
+   "akran; emsal",
+   "gözlerini kısarak bakmak",
+   "İngiliz soylusu; lord"
+  ],
+  "ex": [
+   "Kedi yavrusunu görmek için pencereden gözlerini kısarak baktı.",
+   "Öğrenciler, işbirlikçi sınıf etkinlikleri sırasında akranlarından yapıcı geri bildirim aldıklarında genellikle özgüvenleri artar."
+  ],
+  "col": [
+   "akran baskısı",
+   "akran değerlendirmesi",
+   "akran grubu",
+   "gözlerini kısarak bakmak"
+  ],
+  "tip": "İsmin çoğulu peers'tir. Fiil genellikle through, at ya da into ile kullanılır: peer through the window.",
+  "note": ""
+ },
+ {
+  "id": "defence",
+  "senses": [
+   "savunma; koruma",
+   "savunma; müdafaa",
+   "defans; savunma oyuncuları"
+  ],
+  "ex": [
+   "Kalın duvarlar saldırganlara karşı güçlü bir savunma sağladı.",
+   "Kıyı sulak alanlarının restorasyonu, değerli yaşam alanları oluştururken sellere karşı doğal bir koruma sağlar."
+  ],
+  "col": [
+   "...e karşı savunma",
+   "...in lehine",
+   "kendini savunma",
+   "savunma harcamaları"
+  ],
+  "tip": "İngiliz İngilizcesinde defence, Amerikan İngilizcesinde defense yazılır. Sınavda yazımı tutarlı kullanın.",
+  "note": ""
+ },
+ {
+  "id": "diameter",
+  "senses": [
+   "çap"
+  ],
+  "ex": [
+   "Yuvarlak pasta otuz santimetre çapındadır.",
+   "Mühendisler, büyüyen şehirlere yeterli su sağlamak için su borularının çapını dikkatle hesaplamalıdır."
+  ],
+  "col": [
+   "çapında",
+   "çapını ölçmek",
+   "iç çap",
+   "dış çap"
+  ],
+  "tip": "Yarıçap radius, çap diameter'dır. Ölçü belirtirken 'five centimetres in diameter' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "senior",
+  "senses": [
+   "üst düzey; kıdemli",
+   "yaşça büyük; yaşlı",
+   "son sınıf öğrencisi; yaşlı"
+  ],
+  "ex": [
+   "Kıdemli bir hemşire bana pansumanın nasıl değiştirileceğini gösterdi.",
+   "Üst düzey yöneticiler, kuruluş genelindeki çalışma koşullarını önemli ölçüde etkileyecek politikaları uygulamadan önce çalışanlara danışmalıdır."
+  ],
+  "col": [
+   "üst yönetim",
+   "üst düzey pozisyon",
+   "yaşlı vatandaş",
+   "birinden kıdemli olmak"
+  ],
+  "tip": "Karşılaştırma için 'senior to' kullanılır: 'She is senior to me'. 'Senior than' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "activate",
+  "senses": [
+   "etkinleştirmek; çalıştırmak"
+  ],
+  "ex": [
+   "Dış mekân ışıklarını çalıştırmak için bu düğmeye basın.",
+   "Akıllı sensörler, iç hava kalitesi kabul edilebilir seviyelerin altına düştüğünde havalandırma sistemlerini otomatik olarak çalıştırabilir."
+  ],
+  "col": [
+   "hesabı etkinleştirmek",
+   "alarmı devreye sokmak",
+   "sistemi çalıştırmak"
+  ],
+  "tip": "Bir cihazın, sistemin ya da sürecin çalışmaya başlamasını anlatır. Zıt anlamlısı deactivate (devre dışı bırakmak)tır.",
+  "note": ""
+ },
+ {
+  "id": "attribute",
+  "senses": [
+   "atfetmek; bağlamak",
+   "özellik; nitelik"
+  ],
+  "ex": [
+   "İyi sağlığını her gün yaptığı yürüyüşlere bağlıyor.",
+   "Araştırmacılar, yerel hava kirliliğindeki düşüşü endüstriyel emisyonlara getirilen daha sıkı denetimlere bağlıyor."
+  ],
+  "col": [
+   "başarıyı ... e bağlamak",
+   "...e atfedilmek",
+   "önemli bir özellik"
+  ],
+  "tip": "'Attribute A to B' A'yı B'ye bağlamak anlamına gelir. İsimde vurgu ilk hecededir (ATtribute), fiilde ikinci hecededir (atTRIbute).",
+  "note": ""
+ },
+ {
+  "id": "multifunction",
+  "senses": [
+   "çok işlevli"
+  ],
+  "ex": [
+   "Çok işlevli yazıcımız belgeleri tarayabilir ve kopya çıkarabilir.",
+   "Çok işlevli cihazlar, birkaç temel hizmeti tek bir makinede birleştirerek küçük işletmelerin ofis alanından tasarruf etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "çok işlevli yazıcı",
+   "çok işlevli cihaz",
+   "çok işlevli ekran"
+  ],
+  "tip": "Sıfat olarak genellikle cihaz adının önüne gelir. Aynı anlamda multifunctional da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sympathize",
+  "senses": [
+   "anlayışla karşılamak; acımak",
+   "yanında olmak; desteklemek"
+  ],
+  "ex": [
+   "Seninle empati kuruyorum; evcil hayvan kaybetmek çok acı verici.",
+   "Birçok sakin daha iyi çalışma koşulları talep eden işçilere sempati duyuyor, ancak ulaşım grevini rahatsız edici buluyor."
+  ],
+  "col": [
+   "birine sempati duymak",
+   "bir davaya destek vermek"
+  ],
+  "tip": "Edatla kullanılır: sympathize with someone. Doğrudan nesne almaz. Britanya İngilizcesinde sympathise yazımı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "steadily",
+  "senses": [
+   "istikrarlı biçimde; düzenli olarak",
+   "dengeli bir şekilde; sarsılmadan"
+  ],
+  "ex": [
+   "Yağmur, istasyondan dönerken aralıksız ve düzenli bir şekilde yağıyordu.",
+   "Son on yılda yenilenebilir elektrik kullanan hanelerin oranı istikrarlı biçimde arttı."
+  ],
+  "col": [
+   "istikrarlı biçimde yükselmek",
+   "istikrarlı biçimde düşmek",
+   "istikrarlı biçimde büyümek",
+   "düzenli çalışmak"
+  ],
+  "tip": "Grafik yazımında rise steadily ani değil, yavaş ve düzenli artışı anlatır. Hızlı artış için sharply tercih edilir.",
+  "note": ""
+ }
+]

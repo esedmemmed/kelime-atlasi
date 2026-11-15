@@ -1,0 +1,269 @@
+[
+ {
+  "id": "disarray",
+  "senses": [
+   "karmaşa; düzensizlik"
+  ],
+  "ex": [
+   "Yemek yaptığımız öğleden sonradan sonra mutfak darmadağınıktı.",
+   "Açık bir liderlik olmadan acil durum planlaması dağılabilir ve topluluklar aşırı hava olaylarına karşı zayıf hazırlıklı kalabilir."
+  ],
+  "col": [
+   "darmadağın olmak",
+   "karmaşaya sürüklemek",
+   "tam bir karmaşa"
+  ],
+  "tip": "Genellikle sayılamayan isim olarak kullanılır; 'a disarray' yerine 'in disarray' kalıbını tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "pipeline",
+  "senses": [
+   "boru hattı",
+   "tedarik kanalı; süreç"
+  ],
+  "ex": [
+   "İşçiler bugün sokağımızın altındaki su borusunu onardı.",
+   "Yeni bir doğal gaz boru hattı enerji güvenliğini artırabilir, ancak inşaatı hassas yaban hayatı alanlarına zarar verebilir."
+  ],
+  "col": [
+   "doğal gaz boru hattı",
+   "petrol boru hattı",
+   "hazırlık aşamasında",
+   "geliştirme süreci"
+  ],
+  "tip": "'In the pipeline' ifadesi, bir projenin hazırlık veya ilerleme aşamasında olduğunu belirtir; bu mecazi anlamı bilmek önemlidir.",
+  "note": ""
+ },
+ {
+  "id": "baron",
+  "senses": [
+   "baron",
+   "sektör devi; patron"
+  ],
+  "ex": [
+   "Baron, konuklarını kalenin avlusunda karşıladı.",
+   "Medya patronları, büyük gazete ve televizyon kanallarına sahip olmaları sayesinde kamuoyu tartışmalarını etkileyebilir."
+  ],
+  "col": [
+   "medya patronu",
+   "basın patronu",
+   "petrol baronu"
+  ],
+  "tip": "Asıl anlamı asalet unvanıdır; sektör adıyla birleştiğinde o sektördeki güçlü ve zengin kişiyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "lukewarm",
+  "senses": [
+   "ılık",
+   "soğuk; ilgisiz"
+  ],
+  "ex": [
+   "Oturduğumda çorbam çoktan ılımıştı.",
+   "Teklif, toplu taşımayı iyileştirip iyileştirmeyeceğinden kuşku duyan sakinlerden ılık bir tepki aldı."
+  ],
+  "col": [
+   "ılık su",
+   "soğuk karşılama",
+   "ılımlı destek"
+  ],
+  "tip": "Hem sıcaklık hem de tutum için kullanılır; tutum anlamında 'ılımlı' veya 'soğuk' gibi karşılıklar uygundur.",
+  "note": ""
+ },
+ {
+  "id": "arrogantly",
+  "senses": [
+   "kibirli bir şekilde; küstahça"
+  ],
+  "ex": [
+   "Önerimi hiç dinlemeden küstahça reddetti.",
+   "Kibirli davranan yöneticiler, iş verimliliğini artırabilecek fikirleri paylaşmaktan çalışanları caydırabilir."
+  ],
+  "col": [
+   "kibirli davranmak",
+   "kibirli konuşmak",
+   "küstahça reddetmek"
+  ],
+  "tip": "Olumsuz bir anlam taşır. 'Kendinden emin' anlamında confidently kullanılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "adhere",
+  "senses": [
+   "uymak; bağlı kalmak",
+   "yapışmak"
+  ],
+  "ex": [
+   "Herkes bu havuzdaki kurallara uymak zorundadır.",
+   "Araştırmacılar, sağlık çalışmalarında katılımcılardan kişisel bilgi toplarken sıkı etik standartlara uymalıdır."
+  ],
+  "col": [
+   "yönergelere uymak",
+   "ilkelere bağlı kalmak",
+   "bir yüzeye yapışmak"
+  ],
+  "tip": "İki anlamda da 'adhere to' kalıbı kullanılır; 'to' bir edattır ve ardından isim veya isim öbeği gelir.",
+  "note": ""
+ },
+ {
+  "id": "stony",
+  "senses": [
+   "taşlı; çakıllı",
+   "soğuk; duygusuz"
+  ],
+  "ex": [
+   "Taşlı bir patikadan sahile indik.",
+   "Taşlı arazide çalışan çiftçiler, araziyi ekime hazırlarken genellikle daha yüksek maliyetlerle karşılaşır."
+  ],
+  "col": [
+   "taşlı zemin",
+   "taşlı patika",
+   "soğuk bir sessizlik",
+   "donuk bir ifade"
+  ],
+  "tip": "'Stony silence' huzurlu bir sessizlik değil, soğukluk veya küskünlük içeren sessizliktir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "paralyze",
+  "senses": [
+   "felç etmek",
+   "işlemez kılmak; engellemek"
+  ],
+  "ex": [
+   "Bazı omurilik yaralanmaları, kişinin her iki bacağını da felç edebilir.",
+   "Şiddetli sel, işçilerin temel hizmetlere ve iş yerlerine ulaşmasını engelleyerek kentsel ulaşım ağlarını felç edebilir."
+  ],
+  "col": [
+   "ulaşımı felç etmek",
+   "korkudan felç olmuş",
+   "kısmen felçli"
+  ],
+  "tip": "Amerikan yazımı paralyze, İngiliz yazımı paralyse'dir. Mecazi kullanımda da 'durma noktasına getirmek' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "parish",
+  "senses": [
+   "cemaat bölgesi; yerel idare",
+   "cemaat; kilise halkı"
+  ],
+  "ex": [
+   "Bizim cemaat bölgemizde nehir kenarında küçük bir kilise var.",
+   "Kırsal kesimdeki yerel cemaat meclisleri, kamu yollarının bakımına ve yeşil alanların korunmasına yardımcı olabilir."
+  ],
+  "col": [
+   "cemaat kilisesi",
+   "cemaat papazı",
+   "yerel meclis"
+  ],
+  "tip": "Kilise bağlamında diyosenden (piskoposluk) daha küçük bir bölgeyi ifade eder; İngiltere'de yerel yönetim birimi anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "bulky",
+  "senses": [
+   "hacimli; yer kaplayan"
+  ],
+  "ex": [
+   "Bu büyük bavul küçük dolaba zar zor sığıyor.",
+   "Kompakt mobilyalar giderek daha popüler, çünkü hacimli eşyalar küçük kent dairelerini kalabalık gösterebilir."
+  ],
+  "col": [
+   "hacimli mobilya",
+   "hacimli eşyalar",
+   "hacimli ekipman"
+  ],
+  "tip": "Hacim ve yer kaplama için kullanılır; ağır olmak zorunlu değildir, bu yüzden 'ağır' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "glamour",
+  "senses": [
+   "büyüleyici çekicilik; ihtişam"
+  ],
+  "ex": [
+   "Işıldayan küpeleri basit kıyafetine bir ihtişam kattı.",
+   "Eğlence sektöründeki kariyerlerin göz alıcı görünümü, birçok sanatçının yaşadığı mali güvensizliği gizleyebilir."
+  ],
+  "col": [
+   "ihtişam katmak",
+   "şöhretin cazibesi",
+   "Hollywood ihtişamı"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; Amerikan İngilizcesinde glamor yazımı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "marxism",
+  "senses": [
+   "Marksizm"
+  ],
+  "ex": [
+   "Okuma grubumuz dün kütüphanede Marksizmi tartıştı.",
+   "Marksizm, ekonomik eşitsizlik, kaynakların mülkiyeti ve toplumsal sınıflar arasındaki ilişki üzerine akademik tartışmaları etkilemiştir."
+  ],
+  "col": [
+   "Marksizm incelemek",
+   "klasik Marksizm",
+   "Marksizm ve sınıf mücadelesi"
+  ],
+  "tip": "İlk harfi büyük yazılır ve genellikle sayılamayan isimdir; kişiler için Marxist kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "apprehension",
+  "senses": [
+   "kaygı; endişe",
+   "tutuklama; yakalama"
+  ],
+  "ex": [
+   "İlk direksiyon dersinden önce biraz endişe duydu.",
+   "Hükümetler olası riskleri açıklayıp net güvenlik standartları getirdiğinde, halkın yeni teknolojilere karşı kaygısı azalabilir."
+  ],
+  "col": [
+   "...hakkında kaygı",
+   "endişe duygusu",
+   "endişeyle"
+  ],
+  "tip": "Genellikle gelecekle ilgili kaygıyı anlatır ve about ile kullanılır; tutuklama anlamı daha resmi bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "safeguard",
+  "senses": [
+   "korumak; güvence altına almak",
+   "koruma önlemi; güvence"
+  ],
+  "ex": [
+   "Bu dolgulu örtüler taşınma sırasında mobilyaları korur.",
+   "Hükümetler, çevrimiçi hizmetler ve mobil uygulamalar tarafından toplanan kişisel bilgileri korumak için daha sıkı düzenlemeler getirmelidir."
+  ],
+  "col": [
+   "hakları korumak",
+   "kişisel bilgileri korumak",
+   "dolandırıcılığa karşı önlem"
+  ],
+  "tip": "Fiil genellikle haklar gibi soyut nesnelerle kullanılır; isim ise against ile bir tehlikeye karşı alınan önlemi belirtir.",
+  "note": ""
+ },
+ {
+  "id": "penetration",
+  "senses": [
+   "nüfuz; girme",
+   "pazara giriş; yayılım"
+  ],
+  "ex": [
+   "Bu kalın perdeler güneş ışığının içeri sızmasını azaltır.",
+   "Kırsal alanlarda internetin daha yaygın olması, eğitime erişimi iyileştirebilir ve küçük işletmelerin büyümesini destekleyebilir."
+  ],
+  "col": [
+   "suyun sızması",
+   "pazar payı",
+   "internet yaygınlığı"
+  ],
+  "tip": "Penetrate fiilinden türer; penetration of veya penetration into kalıplarıyla kullanılır.",
+  "note": ""
+ }
+]

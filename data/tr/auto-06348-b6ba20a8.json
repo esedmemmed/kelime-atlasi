@@ -1,0 +1,268 @@
+[
+ {
+  "id": "clothe",
+  "senses": [
+   "giydirmek"
+  ],
+  "ex": [
+   "Hayırsever kuruluş, kış aylarında ailelerin yemek ve giyecek ihtiyacını karşılamalarına yardımcı oluyor.",
+   "Düşük ücretler, ebeveynlerin çocuklarını yeterince besleyip giydirmesini zorlaştırabilir."
+  ],
+  "col": [
+   "beslemek ve giydirmek",
+   "birini yünlü giysilerle giydirmek"
+  ],
+  "tip": "Resmî bir kelimedir. Geçmiş zaman ve ortaç biçimi genellikle clothed olur.",
+  "note": ""
+ },
+ {
+  "id": "marginal",
+  "senses": [
+   "çok küçük; önemsiz",
+   "kenardaki; merkez dışı",
+   "zar zor yeterli"
+  ],
+  "ex": [
+   "Yeni lastikler yalnızca küçük bir fark yarattı.",
+   "Önemli bir yatırıma rağmen program, şehirdeki toplu taşıma güvenilirliğinde yalnızca küçük iyileşmeler sağladı."
+  ],
+  "col": [
+   "küçük iyileşme",
+   "küçük fark",
+   "ikincil rol"
+  ],
+  "tip": "Bir değişimi anlatırken çok küçük bir fark anlamına gelir; hiç değişiklik olmadığı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "intellect",
+  "senses": [
+   "zekâ; anlama gücü",
+   "çok zeki kimse; dahi"
+  ],
+  "ex": [
+   "Keskin zekâsı, zor bulmacaları şaşırtıcı derecede kolay gösteriyor.",
+   "Eğitim, öğrencilerin zihin gücünü geliştirirken yaratıcılıklarını, duygusal farkındalıklarını ve iş birliği becerilerini de beslemelidir."
+  ],
+  "col": [
+   "keskin zekâ",
+   "güçlü zekâ",
+   "zihni geliştirmek"
+  ],
+  "tip": "Bilgi anlamına gelmez; anlama, mantıklı düşünme ve akıl yürütme yeteneğine odaklanır.",
+  "note": ""
+ },
+ {
+  "id": "ordeal",
+  "senses": [
+   "çile; korkunç deneyim"
+  ],
+  "ex": [
+   "Fırtınanın içinden eve varmak gerçek bir çileydi.",
+   "Yerinden edilen aileler için yeterli kamu desteği olmadan güvenli konut bulmak uzun süren bir çileye dönüşebilir."
+  ],
+  "col": [
+   "bir çile yaşamak",
+   "travmatik bir deneyim",
+   "uzun süren çile"
+  ],
+  "tip": "Uzun süren, insanı zorlayan ya da korkutan deneyimler için kullanılır; küçük sorunlar için uygun değildir.",
+  "note": ""
+ },
+ {
+  "id": "underlying",
+  "senses": [
+   "altta yatan; temel",
+   "yüzeyin altındaki"
+  ],
+  "ex": [
+   "Tamirci gürültünün asıl nedenini buldu.",
+   "Yoksulluğun altta yatan nedenlerini gidermek; eğitime, sağlığa ve güvenli istihdama sürekli yatırım gerektirir."
+  ],
+  "col": [
+   "altta yatan neden",
+   "temel sorun",
+   "örtük varsayım",
+   "altta yatan sağlık sorunu"
+  ],
+  "tip": "Genellikle isimden önce gelir; yüzeydeki görüntünün arkasındaki temel nedeni ya da zemini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "deformation",
+  "senses": [
+   "biçim bozulması; deformasyon"
+  ],
+  "ex": [
+   "Isı, plastik kapağın gözle görülür biçimde bozulmasına neden oldu.",
+   "Mühendisler, yapı malzemelerinin ağır yükler ve aşırı sıcaklıklar altında biçim bozulmasına karşı direncini test eder."
+  ],
+  "col": [
+   "plastik deformasyon",
+   "elastik deformasyon",
+   "biçim bozulmasına direnç"
+  ],
+  "tip": "Şeklin değişmesini anlatır; genel olarak hasar anlamına gelen damage ile aynı değildir.",
+  "note": ""
+ },
+ {
+  "id": "domain",
+  "senses": [
+   "alan; uzmanlık alanı",
+   "toprak; yönetim alanı",
+   "alan adı"
+  ],
+  "ex": [
+   "Elektrik tamirleri kardeşimin işi, benim değil.",
+   "Çevre koruma yalnızca bilim insanlarının münhasır alanı sayılmamalıdır; kamunun katılımı şarttır."
+  ],
+  "col": [
+   "bilimin alanı",
+   "kamu malı",
+   "alan adı",
+   "münhasır alan"
+  ],
+  "tip": "field ile yakın anlamlıdır. in the public domain ifadesi kamuya açık, serbestçe kullanılabilir anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "pneumonia",
+  "senses": [
+   "zatürree"
+  ],
+  "ex": [
+   "Büyükbabam zatürreeden iyileşirken hastanede kaldı.",
+   "Aşıya ve zamanında tedaviye erişimin artması, özellikle küçük çocuklar arasında zatürreeye bağlı ölümleri azaltabilir."
+  ],
+  "col": [
+   "zatürree olmak",
+   "zatürreeden iyileşmek",
+   "bakteriyel zatürree"
+  ],
+  "tip": "p harfi okunmaz. Genellikle sayılamaz; 'a pneumonia' yerine doğrudan pneumonia kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "swirl",
+  "senses": [
+   "girdap gibi dönmek; döndürmek",
+   "girdap; kıvrım"
+  ],
+  "ex": [
+   "Kuru yapraklar rüzgârda ayaklarımın etrafında dönüp durdu.",
+   "İnşaat sırasında şehir sokaklarında toz bulutları savrulabilir; bu hava kalitesini düşürür ve yakındaki sakinleri rahatsız eder."
+  ],
+  "col": [
+   "etrafında dönmek",
+   "bir sıvıyı çalkalamak",
+   "bir duman girdabı"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılabilir; akan bir şeyin dönerek hareket etmesini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "elicit",
+  "senses": [
+   "ortaya çıkarmak; uyandırmak"
+  ],
+  "ex": [
+   "Beklenmedik sorusu, normalde sessiz olan rehberden bir gülümseme kopardı.",
+   "Öğretmenler açık uçlu sorularla ayrıntılı yanıtlar alabilir ve sınıfta bağımsız düşünmeyi teşvik edebilir."
+  ],
+  "col": [
+   "tepki almak",
+   "bilgi almak",
+   "sempati uyandırmak"
+  ],
+  "tip": "Genellikle response gibi bir nesneyle kullanılır; illicit (yasa dışı) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "mast",
+  "senses": [
+   "direk; gemi direği",
+   "anten direği"
+  ],
+  "ex": [
+   "Ahşap direğin yukarısında beyaz bir yelken dalgalanıyordu.",
+   "Yeni bir iletişim anteni kurulması, uzak köylerde mobil kapsamayı iyileştirebilir ve yerel işletmeleri destekleyebilir."
+  ],
+  "col": [
+   "ana direk",
+   "iletişim anteni",
+   "yarıya indirilmiş (bayrak)"
+  ],
+  "tip": "Asıl anlamı yelkeni taşıyan gemi direğidir; antenleri taşıyan yüksek direkler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "shapeless",
+  "senses": [
+   "biçimsiz; şekilsiz"
+  ],
+  "ex": [
+   "Eski kazağım çok yıkandığı için biçimini kaybetti.",
+   "Dikkatli planlama olmadan genişleyen şehirler, belirgin mahallelerden ve erişilebilir kamusal alanlardan yoksun biçimsiz bölgelere dönüşebilir."
+  ],
+  "col": [
+   "biçimsiz kütle",
+   "bol kesim elbise",
+   "biçimini yitirmek"
+  ],
+  "tip": "Giysiler için kullanıldığında genellikle bol ve belirgin hatları olmayan anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "conform",
+  "senses": [
+   "uymak; karşılamak",
+   "kurallara uymak; ayak uydurmak"
+  ],
+  "ex": [
+   "Bu yeni kasklar en son güvenlik standartlarına uygun.",
+   "Uyma baskısı, genç insanların özgün fikirlerini ifade etmesini ve yerleşik geleneklere sorgulamasını engelleyebilir."
+  ],
+  "col": [
+   "standartlara uymak",
+   "yönetmeliklere uymak",
+   "uyum baskısı"
+  ],
+  "tip": "Genellikle conform to kalıbıyla kullanılır; to'dan sonra kural ya da standart gelir, doğrudan nesne alınmaz.",
+  "note": ""
+ },
+ {
+  "id": "appreciably",
+  "senses": [
+   "gözle görülür biçimde"
+  ],
+  "ex": [
+   "Pencereyi kapattıktan sonra oda gözle görülür biçimde ısındı.",
+   "Güvenilir toplu taşımanın genişletilmesi, kentsel alanlarda trafik sıkışıklığını ve hava kalitesini gözle görülür biçimde iyileştirebilir."
+  ],
+  "col": [
+   "belirgin biçimde yüksek",
+   "gözle görülür biçimde azaltmak",
+   "belirgin farklılık göstermek"
+  ],
+  "tip": "Değişimin fark edilecek kadar büyük olduğunu anlatır; 'takdir ederek' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "dangle",
+  "senses": [
+   "sarkmak; sallanmak",
+   "ayartmak; yem atmak"
+  ],
+  "ex": [
+   "Yüksek sandalyeden ayakları yerden sarkıyordu.",
+   "Bazı işverenler başvuru sahiplerine cömert primler vaat ederken uzun vadeli kariyer gelişimi için sınırlı fırsatlar sunar."
+  ],
+  "col": [
+   "...den sarkmak",
+   "ayaklarını sallamak",
+   "cazip bir teklif sunmak"
+  ],
+  "tip": "Temelde asılı ve gevşek duran bir şeyin sarkıp sallanmasını anlatır; her hareket için uygun değildir.",
+  "note": ""
+ }
+]

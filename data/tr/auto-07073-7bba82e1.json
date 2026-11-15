@@ -1,0 +1,259 @@
+[
+ {
+  "id": "furor",
+  "senses": [
+   "büyük tepki; kargaşa"
+  ],
+  "ex": [
+   "Oyun alanının aniden kapatılması büyük bir tepkiye yol açtı.",
+   "Üniversite harçlarına yapılması planlanan zam, öğrenciler ve aileleri arasında büyük bir tepkiye yol açtı."
+  ],
+  "col": [
+   "büyük tepkiye yol açmak",
+   "büyük tepki uyandırmak",
+   "bir konudaki büyük tepki"
+  ],
+  "tip": "Amerikan İngilizcesinde furor, İngiliz İngilizcesinde furore yazılır. Kamuoyunun sert ve yaygın tepkisini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "defray",
+  "senses": [
+   "karşılamak; ödemek"
+  ],
+  "ex": [
+   "Kulüp, seyahat masrafımın bir kısmını karşılamama yardımcı oldu.",
+   "Üniversiteler, düşük gelirli hanelerden gelen öğrencilerin konaklama giderlerini karşılamak için ek burslar sunabilir."
+  ],
+  "col": [
+   "masrafları karşılamak",
+   "giderleri karşılamak"
+  ],
+  "tip": "Resmi bir kelimedir. Nesne genellikle costs ya da expenses olur, kişi olmaz.",
+  "note": ""
+ },
+ {
+  "id": "tantalize",
+  "senses": [
+   "özlem uyandırmak; ayartmak"
+  ],
+  "ex": [
+   "Fırının önünden geçerken taze ekmeğin kokusu bizi cezbetti.",
+   "Erken dönem keşifler, araştırmacılara bugün tedavisi olmayan hastalıklar için uygun fiyatlı tedavi bulma umudu veriyor."
+  ],
+  "col": [
+   "birini bir şeyle ayartmak",
+   "kışkırtıcı kısa bir görüntü",
+   "cazip bir ihtimal"
+  ],
+  "tip": "İngilizcede tantalise yazımı da kullanılır. Çekici görünen ama ulaşılamayan bir şeye duyulan arzuyu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "denominate",
+  "senses": [
+   "para birimiyle belirlemek",
+   "adlandırmak; ad vermek"
+  ],
+  "ex": [
+   "Banka, yurt dışı kredimizi avro cinsinden belirledi.",
+   "Yabancı para cinsinden belirlenen krediler, yerel para değer kaybettiğinde daha pahalı hale gelebilir."
+  ],
+  "col": [
+   "dolar cinsinden belirlenmiş",
+   "yabancı para cinsinden borç"
+  ],
+  "tip": "Finans metinlerinde be denominated in + para birimi kalıbıyla sık görülür. 'Adlandırmak' anlamı oldukça nadirdir.",
+  "note": ""
+ },
+ {
+  "id": "malleable",
+  "senses": [
+   "dövülebilir; şekillenebilir",
+   "kolay etkilenen; esnek"
+  ],
+  "ex": [
+   "Sıcak metal, kolayca bükülebilecek kadar dövülebilirdi.",
+   "Gençlerin tutumları çoğu zaman değiştirilebilir; bu da okulları saygı ve sosyal sorumluluk kazandırmada önemli ortamlar yapar."
+  ],
+  "col": [
+   "dövülebilir metal",
+   "son derece dövülebilir",
+   "kolay şekillenen zihinler"
+  ],
+  "tip": "Metal için şekil verilebilen, kişiler için ise dış etkilere açık anlamına gelir. Tel çekilebilen anlamı ductile ile karışmamalı.",
+  "note": ""
+ },
+ {
+  "id": "salability",
+  "senses": [
+   "satılabilirlik"
+  ],
+  "ex": [
+   "Taze boya, eski evimizin satılabilirliğini artırdı.",
+   "Üreticiler, rekabetçi pazarlarda ürünlerin satılabilirliğini artırmak için ambalajlarını sık sık değiştirir."
+  ],
+  "col": [
+   "satılabilirliği artırmak",
+   "ürünün satılabilirliği",
+   "satılabilirliği etkilemek"
+  ],
+  "tip": "Amerikan yazımıdır. İngiliz İngilizcesinde saleability biçimi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reportage",
+  "senses": [
+   "habercilik; reportaj"
+  ],
+  "ex": [
+   "Canlı anlatımı, uzak köyü gözlerimizin önüne getirdi.",
+   "Bağımsız haberciliği, aksi halde kamuoyunun ve hükümetin dikkatinden kaçabilecek çevre tahribatını ortaya çıkarabilir."
+  ],
+  "col": [
+   "araştırmacı habercilik",
+   "edebi reportaj",
+   "birinci elden haber anlatımı"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Reporting'den daha resmi olup çoğunlukla doğrudan gözleme dayalı haber anlatımını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "trite",
+  "senses": [
+   "basmakalıp; klişe"
+  ],
+  "ex": [
+   "Film, arkadaşlık hakkında basmakalıp bir konuşmayla bitiyor.",
+   "Kamu bilinçlendirme kampanyaları, pratik tavsiye ve ikna edici kanıt yerine basmakalıp sloganlara dayandığında başarısız olabilir."
+  ],
+  "col": [
+   "basmakalıp bir söz",
+   "klişe bir ifade",
+   "klişe gelmek"
+  ],
+  "tip": "Eski olduğu için değil, sık tekrarlandığı için özgünlüğünü yitirmiş olmayı anlatır. Yazıda klişe yerine kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "vernacular",
+  "senses": [
+   "yerel dil; konuşma dili",
+   "yerel dilde; yerel üslupta"
+  ],
+  "ex": [
+   "Rehberimiz pazar esnafıyla yerel dilde sohbet etti.",
+   "Yerel dilde öğretim, küçük çocukların dersleri anlamasına yardımcı olurken kültürel mirasla bağlarını da korur."
+  ],
+  "col": [
+   "yerel dil",
+   "yerel dilde",
+   "yerel mimari"
+  ],
+  "tip": "Bir yerin günlük konuşma dilini ifade eder. Ulusal resmi dil anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "exhilarate",
+  "senses": [
+   "heyecanlandırmak; coşturmak"
+  ],
+  "ex": [
+   "Hızlı tekne turu, teknedeki herkesi heyecanlandırdı.",
+   "Açık hava maceraları katılımcıları coşturabilir; aynı zamanda özgüvenlerini ve doğayla bağlarını güçlendirir."
+  ],
+  "col": [
+   "heyecanlanmak",
+   "deneyimden coşmuş olmak",
+   "heyecan verici bir deneyim"
+  ],
+  "tip": "Geçişli bir fiildir. İnsanlar heyecanlandığında sıfat olarak exhilarated kullanılır, exhilarating ise olayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "infinitesimal",
+  "senses": [
+   "ölçülemeyecek kadar küçük",
+   "sonsuz küçük"
+  ],
+  "ex": [
+   "Çizik, masanın görünümünde ölçülemeyecek kadar küçük bir fark yarattı.",
+   "Okyanus sıcaklığındaki çok küçük değişiklikler bile geniş alanlarda on yıllar boyunca ölçüldüğünde önemli hale gelebilir."
+  ],
+  "col": [
+   "çok küçük miktar",
+   "çok küçük fark",
+   "çok küçük değişim"
+  ],
+  "tip": "Small'dan çok daha güçlü bir anlam taşır. İsim olarak kullanımı ağırlıklı olarak matematik terimi olarak görülür.",
+  "note": ""
+ },
+ {
+  "id": "componential",
+  "senses": [
+   "bileşenlere ilişkin"
+  ],
+  "ex": [
+   "Hocamız benzer kelimeleri karşılaştırmak için bileşen analizi kullandı.",
+   "Dilbilimde bileşen analizi, kelime anlamlarını daha küçük ve ortak anlam özelliklerine ayırarak inceler."
+  ],
+  "col": [
+   "bileşen analizi",
+   "bileşensel yaklaşım"
+  ],
+  "tip": "Uzmanlık gerektiren bir sıfattır. En yaygın kullanımı dilbilimdeki componential analysis terimidir.",
+  "note": ""
+ },
+ {
+  "id": "profane",
+  "senses": [
+   "küfürlü; kutsala saygısız",
+   "kutsala saygısızlık etmek"
+  ],
+  "ex": [
+   "Antrenör, maçtan sonra kullandığı küfürlü sözler için özür diledi.",
+   "Müzeler, dışarıdan sıradan görünen eşyaların neden kutsal sayılabileceğini açıklamalı; aksi halde dikkatsiz muamele kutsala saygısızlık gibi görünebilir."
+  ],
+  "col": [
+   "küfürlü dil",
+   "küfürlü sözler",
+   "kutsal bir yere saygısızlık etmek"
+  ],
+  "tip": "Sıfat olarak genellikle language ya da remarks ile kullanılır. Fiil olarak kutsal bir şeye karşı saygısızlık etmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tibia",
+  "senses": [
+   "kaval kemiği"
+  ],
+  "ex": [
+   "Doktor, taramada kaval kemiğimi bana gösterdi.",
+   "Kaval kemiği kırığı, sporcunun antrenmana güvenle dönebilmesi için birkaç aylık rehabilitasyon gerektirebilir."
+  ],
+  "col": [
+   "kırık kaval kemiği",
+   "kaval ve baldır kemikleri",
+   "kaval kemiği kırığı"
+  ],
+  "tip": "Günlük dilde shinbone olarak da bilinir. Çoğulu tibias ya da tibiae olabilir.",
+  "note": ""
+ },
+ {
+  "id": "vehement",
+  "senses": [
+   "şiddetli; ateşli"
+  ],
+  "ex": [
+   "Onun sert reddi masadaki herkesi şaşırttı.",
+   "Önerilen toplum kütüphanesinin kapatılması, sakinlerden ve yerel eğitimcilerden şiddetli bir tepkiyle karşılaştı."
+  ],
+  "col": [
+   "şiddetli karşı çıkış",
+   "sert inkâr",
+   "sert eleştiri"
+  ],
+  "tip": "Özellikle karşı çıkma, inkâr ya da eleştirinin gücünü anlatır. Resmi bir tonu vardır.",
+  "note": ""
+ }
+]

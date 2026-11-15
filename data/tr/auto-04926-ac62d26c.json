@@ -1,0 +1,272 @@
+[
+ {
+  "id": "volcanic",
+  "senses": [
+   "volkanik",
+   "patlayıcı; şiddetli"
+  ],
+  "ex": [
+   "Kıyıya yakın yerlerde koyu renkli volkanik kayaçların üzerinden yürüdük.",
+   "Volkanik patlamalar yakındaki yerleşimleri tehdit etse de, oluşan topraklar zamanla çok verimli tarıma olanak sağlayabilir."
+  ],
+  "col": [
+   "volkanik patlama",
+   "volkanik kül",
+   "volkanik etkinlik",
+   "volkanik kaya"
+  ],
+  "tip": "Genellikle sıfat olarak kullanılır. 'Volkanik kaya' gibi isimlerin önünde gelir; 'volcano' (volkan) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "metric",
+  "senses": [
+   "metrik",
+   "ölçüt; gösterge"
+  ],
+  "ex": [
+   "Bu mutfak tartısı her malzeme için metrik birimleri kullanıyor.",
+   "Gelir yararlı bir gösterge olsa da bir toplumun yaşam kalitesini tek başına tam olarak yansıtamaz."
+  ],
+  "col": [
+   "metrik sistem",
+   "metrik birimler",
+   "performans göstergesi"
+  ],
+  "tip": "Sıfat olarak 'metrik' anlamına gelir; isim olarak 'ölçüt, gösterge' anlamında ve çoğunlukla 'metrics' biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "obese",
+  "senses": [
+   "obez"
+  ],
+  "ex": [
+   "Veteriner, kedimizin obez olduğunu ve egzersize ihtiyacı olduğunu söyledi.",
+   "Obez olan insanlar, ayrımcılığa ya da suçlanmaya maruz kalmadan destekleyici sağlık hizmetlerine erişebilmelidir."
+  ],
+  "col": [
+   "klinik olarak obez",
+   "obez hale gelmek",
+   "obez hastalar"
+  ],
+  "tip": "Tıbbi ve güçlü bir ifadedir; daha hafif olan 'overweight' (kilolu) ile karıştırmayın. İnsanlar hakkında konuşurken dikkatli olun.",
+  "note": ""
+ },
+ {
+  "id": "hedgehog",
+  "senses": [
+   "kirpi"
+  ],
+  "ex": [
+   "Bahçe çitimizin yanındaki yapraklar arasında bir kirpi yavaşça ilerliyordu.",
+   "Bahçe çitlerinin altındaki küçük boşluklar, kirpilerin beslenme alanları arasında güvenle hareket etmesini sağlar."
+  ],
+  "col": [
+   "kirpinin dikenleri",
+   "kirpi yaşam alanı",
+   "yavru kirpi"
+  ],
+  "tip": "'Hedgehog' kirpidir; 'porcupine' ise oklu kirpidir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "memo",
+  "senses": [
+   "muhtıra; not"
+  ],
+  "ex": [
+   "Müdürümüz yeni çalışma saatleriyle ilgili bir muhtıra gönderdi.",
+   "Açık ve anlaşılır bir iç muhtıra, çalışanların işyeri politikalarındaki değişiklikleri anlamasına ve gereksiz karışıklıktan kaçınmasına yardımcı olabilir."
+  ],
+  "col": [
+   "muhtıra göndermek",
+   "iç muhtıra",
+   "bir konuda muhtıra"
+  ],
+  "tip": "Genellikle iş yerindeki kısa iç yazışmalar için kullanılır. Çoğulu 'memos' biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "concern",
+  "senses": [
+   "endişe; kaygı",
+   "kaygı verici konu",
+   "ilgilendirmek; endişelendirmek"
+  ],
+  "ex": [
+   "Onun asıl kaygısı fırtınadan önce eve varmak.",
+   "Hava kirliliğine duyulan artan endişe, birçok şehri daha temiz toplu taşıma sistemlerine yatırım yapmaya yöneltti."
+  ],
+  "col": [
+   "güvenlikle ilgili endişe",
+   "endişe dile getirmek",
+   "büyük bir endişe",
+   "başkaları için duyulan kaygı"
+  ],
+  "tip": "'concern about' bir konudaki endişeyi, 'concern for' ise birinin iyiliğini düşünmeyi anlatır. Fiil olarak 'be concerned' kalıbı da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "technological",
+  "senses": [
+   "teknolojik"
+  ],
+  "ex": [
+   "Büyükbabam en son teknolojik gelişmeleri öğrenmekten hoşlanır.",
+   "Teknolojik yenilikler, sulama için gereken su miktarını azaltırken tarımsal verimliliği artırabilir."
+  ],
+  "col": [
+   "teknolojik gelişmeler",
+   "teknolojik yenilik",
+   "teknolojik gelişim"
+  ],
+  "tip": "'Technological' bilimsel ve teknolojik gelişmeyi genel olarak anlatır; 'technical' ise belirli bir alanın teknik yönünü belirtir.",
+  "note": ""
+ },
+ {
+  "id": "usage",
+  "senses": [
+   "kullanım; kullanım miktarı",
+   "dil kullanımı; kullanım"
+  ],
+  "ex": [
+   "Telefonum günlük veri kullanımımı otomatik olarak takip ediyor.",
+   "Verimli cihazlar kurmak, günlük alışkanlıklarda büyük değişiklikler yapmadan evdeki enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "enerji kullanımı",
+   "veri kullanımı",
+   "yaygın kullanım",
+   "kullanım örüntüleri"
+  ],
+  "tip": "Hem kullanım miktarını hem de bir kelimenin dildeki kullanım biçimini anlatır. Genel anlamdaki 'use' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "compulsory",
+  "senses": [
+   "zorunlu"
+  ],
+  "ex": [
+   "Bu tırmanış merkezinde kask takmak zorunludur.",
+   "Zorunlu eğitim, ailelerinin gelirinden bağımsız olarak tüm çocukların temel becerileri edinmesine yardımcı olur."
+  ],
+  "col": [
+   "zorunlu eğitim",
+   "zorunlu ders",
+   "zorunlu devam"
+  ],
+  "tip": "Kural gereği yapılması gereken şeyleri anlatır; 'optional' (isteğe bağlı) ile zıttır.",
+  "note": ""
+ },
+ {
+  "id": "mass-media",
+  "senses": [
+   "kitle iletişim; medya"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam günlük haberleri için kitle iletişim araçlarına güvenirdi.",
+   "Kitle iletişim araçları hangi haberlerin geniş ilgi göreceğine karar vererek çevre sorunlarına yönelik kamuoyu tutumlarını şekillendirebilir."
+  ],
+  "col": [
+   "kitle iletişim araçları",
+   "kitle iletişim kapsamı",
+   "kitle iletişiminin etkisi"
+  ],
+  "tip": "Genellikle 'the mass media' biçiminde, belirli artikelle kullanılır. 'Mass medias' şeklinde çoğullaştırılmaz.",
+  "note": ""
+ },
+ {
+  "id": "chip",
+  "senses": [
+   "çip; entegre devre",
+   "çentik; parça",
+   "parçasını kırmak"
+  ],
+  "ex": [
+   "Tamirci dizüstü bilgisayarımın içindeki hasarlı çipi değiştirdi.",
+   "Daha fazla sektör yapay zekâ ve otomatik üretim sistemlerini benimsedikçe gelişmiş çiplere olan talep artıyor."
+  ],
+  "col": [
+   "bilgisayar çipi",
+   "silikon çip",
+   "bardakta bir çentik",
+   "dişini çentmek"
+  ],
+  "tip": "'Chips' İngiliz İngilizcesinde patates kızartması, Amerikan İngilizcesinde ise cips anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "holy",
+  "senses": [
+   "kutsal"
+  ],
+  "ex": [
+   "Ziyaretçiler bu kutsal yere girmeden önce ayakkabılarını çıkarır.",
+   "Kutsal alanları korumak, hükümetlerin kamu erişimi ile yerel dini geleneklere saygıyı dengelemesini gerektirir."
+  ],
+  "col": [
+   "kutsal yer",
+   "kutsal kitap",
+   "kutsal gün"
+  ],
+  "tip": "Dini açıdan kutsal anlamında kullanılır. 'Wholly' (tamamen) ile sesteştir ama anlamı farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "embarrassment",
+  "senses": [
+   "utanç; mahcubiyet",
+   "utanç kaynağı"
+  ],
+  "ex": [
+   "Komşumun adını unuttuğumda utançtan yüzüm kızardı.",
+   "Utanılmaktan duyulan korku, dil öğrenenlerin başkalarının önünde konuşma pratiği yapmasını engelleyebilir."
+  ],
+  "col": [
+   "utancıma",
+   "utançtan kızarmak",
+   "utanmaktan kaçınmak",
+   "utanç kaynağı"
+  ],
+  "tip": "Duygu anlamında sayılamaz; 'utandıran kişi ya da şey' anlamında ise sayılabilir (an embarrassment).",
+  "note": ""
+ },
+ {
+  "id": "distribution",
+  "senses": [
+   "dağıtım; dağıtma",
+   "dağılım"
+  ],
+  "ex": [
+   "Gönüllüler fırtınadan sonra sıcak battaniyelerin dağıtımını organize etti.",
+   "Tıbbi hizmetlerin dengesiz dağılımı, birçok kırsal topluluğun yeterli sağlık hizmetine erişememesine yol açıyor."
+  ],
+  "col": [
+   "kaynakların dağıtımı",
+   "nüfus dağılımı",
+   "dağıtım ağı",
+   "dengesiz dağılım"
+  ],
+  "tip": "Hem dağıtım sürecini hem de bir şeyin bir alan ya da grup içinde nasıl yayıldığını anlatır; bağlama göre anlam seçin.",
+  "note": ""
+ },
+ {
+  "id": "rapidly",
+  "senses": [
+   "hızla; çabucak"
+  ],
+  "ex": [
+   "Öğle yemeğinden önce koyu bulutlar gökyüzüne hızla yayıldı.",
+   "Kentsel nüfus hızla arttıkça, toplu taşıma sistemlerinin artan talebi karşılamak için genişlemesi gerekir."
+  ],
+  "col": [
+   "hızla büyümek",
+   "hızla değişmek",
+   "hızla yayılmak"
+  ],
+  "tip": "Hız anlamı verir; 'hemen, derhal' anlamındaki 'immediately' ile karıştırmayın.",
+  "note": ""
+ }
+]

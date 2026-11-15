@@ -1,0 +1,273 @@
+[
+ {
+  "id": "pave",
+  "senses": [
+   "döşemek; kaplamak"
+  ],
+  "ex": [
+   "İşçiler evimizin arkasındaki dar patikayı döşüyor.",
+   "Yerel yönetimler, yağmurlu havalarda da güvenli kalan dayanıklı malzemelerle yoğun yaya güzergâhlarını kaplamalı."
+  ],
+  "col": [
+   "yol döşemek",
+   "taşla döşemek",
+   "...için zemin hazırlamak"
+  ],
+  "tip": "pave the way for kalıbı \"bir şeye zemin hazırlamak\" anlamına gelir; sözcüğü yalnızca \"yol\" anlamında düşünmemek gerekir.",
+  "note": ""
+ },
+ {
+  "id": "classify",
+  "senses": [
+   "sınıflandırmak; ayırmak",
+   "gizli ilan etmek"
+  ],
+  "ex": [
+   "Kitaplarımızı konularına göre ayrı raflarda sınıflandırıyoruz.",
+   "Araştırmacılar, hangi malzemelerin daha etkili geri dönüştürülebileceğini belirlemek için evsel atıkları birkaç kategoriye ayırıyor."
+  ],
+  "col": [
+   "...olarak sınıflandırmak",
+   "...e göre sınıflandırmak",
+   "bilgiyi gizli ilan etmek"
+  ],
+  "tip": "classify A as B yapısında A nesnesi, B olarak sınıflandırılır; \"as\" edatını atlamamak gerekir.",
+  "note": ""
+ },
+ {
+  "id": "enquiry",
+  "senses": [
+   "soru; başvuru",
+   "soruşturma; araştırma"
+  ],
+  "ex": [
+   "Resepsiyonist, çalışma saatleriyle ilgili sorumu yanıtladı.",
+   "Ulaşım projesinin maliyetlerinin neden bu kadar arttığını açıklamaya yardımcı olabilecek kamusal bir soruşturma yapılmalı."
+  ],
+  "col": [
+   "soru sormak; başvurmak",
+   "hakkında soru",
+   "kamu soruşturması",
+   "danışma masası"
+  ],
+  "tip": "Sayılabilir isimdir, çoğulu enquiries. Amerikan İngilizcesinde inquiry biçimi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "masculine",
+  "senses": [
+   "erkeksi; erkeğe özgü",
+   "eril; erkek cinsiyetine ait"
+  ],
+  "ex": [
+   "Ceket, kıyafete geleneksel olarak erkeksi bir görünüm kazandırıyor.",
+   "Erkeksi davranışlara ilişkin fikirler kültürden kültüre değişir ve gençlerin sahip olabileceği kariyer seçeneklerini etkileyebilir."
+  ],
+  "col": [
+   "erkeksi görünüm",
+   "erkeksi kimlik",
+   "eril isim"
+  ],
+  "tip": "male biyolojik cinsiyeti, masculine ise özellikleri ya da dilbilgisel cinsiyeti anlatır.",
+  "note": ""
+ },
+ {
+  "id": "tickle",
+  "senses": [
+   "gıdıklamak; karıncalandırmak",
+   "eğlendirmek; ilgisini çekmek",
+   "gıdıklanma; karıncalanma"
+  ],
+  "ex": [
+   "Yavru kedinin bıyıkları, koklarken bileğimi gıdıkladı.",
+   "Komik reklamlar, sıradan ev ürünlerini potansiyel alıcılara daha cazip gösterirken izleyicileri çoğu zaman güldürür."
+  ],
+  "col": [
+   "birinin ayaklarını gıdıklamak",
+   "birinin hoşuna gitmek",
+   "boğazda karıncalanma"
+  ],
+  "tip": "tickle gıdıklamak anlamındadır; scratch ise çoğunlukla tırnakla kaşımak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "kidney",
+  "senses": [
+   "böbrek"
+  ],
+  "ex": [
+   "Doktor, rutin muayene sırasında böbreklerini kontrol etti.",
+   "Halk sağlığı kampanyaları, tansiyonun kontrol altında tutulmasının böbrek hastalıklarını nasıl önleyebileceğini açıklamalı."
+  ],
+  "col": [
+   "böbrek hastalığı",
+   "böbrek fonksiyonu",
+   "böbrek taşı",
+   "böbrek nakli"
+  ],
+  "tip": "kidney sayılabilir isimdir. Tıbbi sıfatı renal \"böbreğe ait\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "foresee",
+  "senses": [
+   "önceden görmek; öngörmek"
+  ],
+  "ex": [
+   "Dışarıda bu kadar uzun bir kuyruk olacağını öngörmemiştik.",
+   "Şehir planlamacıları, kent çeperindeki büyük konut projelerini onaylamadan önce gelecekteki ulaşım ihtiyaçlarını öngörmelidir."
+  ],
+  "col": [
+   "sorunları öngörmek",
+   "sonuçları öngörmek",
+   "öngörülmesi zor"
+  ],
+  "tip": "Düzensiz fiildir: foresee – foresaw – foreseen. Geçmiş zamanda foresaw, bitmiş zamanda foreseen kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "registered",
+  "senses": [
+   "kayıtlı; kayda geçmiş"
+  ],
+  "ex": [
+   "Bu kütüphaneden yalnızca kayıtlı üyeler kitap ödünç alabilir.",
+   "Kırsal bölgelerde güvenilir sağlık hizmetine erişimi artırmak için toplum kliniklerinde kayıtlı hemşireler çalıştırılabilir."
+  ],
+  "col": [
+   "kayıtlı hemşire",
+   "tescilli hayırsever kurum",
+   "kayıtlı sahip",
+   "taahhütlü posta"
+  ],
+  "tip": "registered nurse, resmi olarak lisanslanmış ve çalışma izni almış hemşire anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "ashore",
+  "senses": [
+   "karaya doğru; karada"
+  ],
+  "ex": [
+   "Taze ekmek ve meyve almak için karaya çıktık.",
+   "Kıyıya vuran plastik atıklar, kıyı ekosistemlerine zarar verebilir ve turistler için plajların cazibesini azaltabilir."
+  ],
+  "col": [
+   "karaya çıkmak",
+   "karaya çıkmak (gelmek)",
+   "kıyıya vurmak"
+  ],
+  "tip": "ashore bir zarftır; go ashore kalıbında önüne to edatı gelmez.",
+  "note": ""
+ },
+ {
+  "id": "analyze",
+  "senses": [
+   "çözümlemek; incelemek"
+  ],
+  "ex": [
+   "Bir sonraki tatili planlamadan önce harcamalarımızı çözümledik.",
+   "Araştırmacılar, daha iyi toplu taşımanın trafik sıkışıklığını azaltabileceği bölgeleri belirlemek için trafik akışlarını inceliyor."
+  ],
+  "col": [
+   "verileri çözümlemek",
+   "sonuçları incelemek",
+   "bir sorunu analiz etmek"
+  ],
+  "tip": "Amerikan İngilizcesinde analyze, İngiliz İngilizcesinde analyse yazılır.",
+  "note": ""
+ },
+ {
+  "id": "vision",
+  "senses": [
+   "görme; görüş",
+   "vizyon; ileriyi görme",
+   "hayal; halüsinasyon"
+  ],
+  "ex": [
+   "Yeni gözlüklerim görüşümü çok daha net hale getirdi.",
+   "Şehir planlamacıları, büyüyen kentlerin hem yaşanabilir hem de çevresel açıdan sürdürülebilir kalabilmesi için net bir vizyona ihtiyaç duyar."
+  ],
+  "col": [
+   "bulanık görme",
+   "çevresel görme",
+   "net bir vizyon",
+   "gelecek vizyonu"
+  ],
+  "tip": "Görme yeteneği anlamında genellikle sayılamaz; belirli bir gelecek tasarımı için a vision biçimi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "excess",
+  "senses": [
+   "fazlalık; aşırılık",
+   "aşırı; fazla"
+  ],
+  "ex": [
+   "Fazla boyayı temiz bir bezle silin.",
+   "Şekeri aşırı tüketmek, obezite ve diğer sağlık sorunlarının riskini artırabilir."
+  ],
+  "col": [
+   "aşırı miktarda",
+   "fazla bagaj",
+   "aşırı talep",
+   "...fazlası"
+  ],
+  "tip": "in excess of kalıbı \"bir miktarın üzerinde\" anlamına gelir; in excess ise \"aşırı miktarda\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "corporation",
+  "senses": [
+   "büyük şirket; tüzel kişi",
+   "belediye yönetimi"
+  ],
+  "ex": [
+   "Kız kardeşim mobilya üreten bir şirkette çalışıyor.",
+   "Çok uluslu bir şirket yerel iş imkânları yaratabilir; ancak kârının büyük bölümü yurt dışındaki hissedarlara aktarılabilir."
+  ],
+  "col": [
+   "çok uluslu şirket",
+   "büyük şirket",
+   "belediye yönetimi"
+  ],
+  "tip": "Genellikle büyük şirketleri anlatır; cooperation (işbirliği) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "considerate",
+  "senses": [
+   "düşünceli; kibar"
+  ],
+  "ex": [
+   "Düşünceli komşumuz akşam yemeğinden sonra müziğin sesini kısar.",
+   "Diğer yolculara karşı düşünceli olmak, toplu taşımayı herkes için daha rahat ve erişilebilir hale getirebilir."
+  ],
+  "col": [
+   "başkalarını düşünmek",
+   "düşünceli davranış",
+   "düşünceli komşu"
+  ],
+  "tip": "considerate \"düşünceli\" anlamındadır; considerable ise \"epey büyük\" anlamına gelir, ikisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "footprint",
+  "senses": [
+   "ayak izi",
+   "yer kaplama; alan",
+   "çevresel etki; ayak izi"
+  ],
+  "ex": [
+   "Çamurlu bir ayak izi, temiz mutfak zeminini kaplamıştı.",
+   "Yerel üretimli gıda seçmek, tarım ürünlerinin taşınmasıyla ilişkili karbon ayak izini bazen azaltabilir."
+  ],
+  "col": [
+   "ayak izi bırakmak",
+   "karbon ayak izi",
+   "küçük bir alan kaplamak"
+  ],
+  "tip": "carbon footprint, gerçek bir ayak izi değil, karbon salımının çevresel etkisini anlatır.",
+  "note": ""
+ }
+]

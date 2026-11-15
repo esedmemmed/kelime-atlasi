@@ -1,0 +1,290 @@
+[
+ {
+  "id": "fun",
+  "senses": [
+   "eğlence; keyif",
+   "eğlenceli"
+  ],
+  "ex": [
+   "Dün birlikte kum kalesi yaparken çok eğlendik.",
+   "Fiziksel etkinlikleri eğlenceli hale getirmek, çocukların düzenli egzersiz yapmasını ve hayatları boyunca daha sağlıklı alışkanlıklar edinmesini teşvik edebilir."
+  ],
+  "col": [
+   "eğlenmek",
+   "eğlence olsun diye",
+   "alay etmek",
+   "güzel bir eğlence"
+  ],
+  "tip": "fun isim olarak sayılamaz, 'a fun' demeyin. 'Komik' anlamında funny kullanılır, fun ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "beard",
+  "senses": [
+   "sakal"
+  ],
+  "ex": [
+   "İşe gitmeden önce sakalını düzeltti.",
+   "Bazı iş yerlerinde sakal bırakan çalışanlar, gıda hijyeni standartlarını korumak için özel koruyucu kullanmak zorundadır."
+  ],
+  "col": [
+   "sakal bırakmak",
+   "sakalı kısaltmak",
+   "kalın bir sakal"
+  ],
+  "tip": "beard çene ve yanak sakalını anlatır; moustache ise üst dudak bıyığıdır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "wet",
+  "senses": [
+   "ıslak",
+   "yağmurlu",
+   "ıslatmak"
+  ],
+  "ex": [
+   "Bir su birikintisine basınca çoraplarım ıslandı.",
+   "Uzun süren yağmurlu hava ürünlere zarar verebilir ve çiftçilerin hasadı verimli biçimde yapmasını zorlaştırabilir."
+  ],
+  "col": [
+   "ıslanmak",
+   "yağmurlu hava",
+   "sırılsıklam",
+   "bezi ıslatmak"
+  ],
+  "tip": "wet hem sıfat hem fiil olarak kullanılır. Sırılsıklam anlamı için soaking wet kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "money",
+  "senses": [
+   "para",
+   "servet; mal varlığı"
+  ],
+  "ex": [
+   "Yeni bir bisiklet alacak kadar para biriktirdim.",
+   "Hükümetler trafik sıkışıklığını azaltmak ve hava kalitesini iyileştirmek için toplu taşımaya daha fazla para yatırmalıdır."
+  ],
+  "col": [
+   "para biriktirmek",
+   "...için para harcamak",
+   "paraya değer",
+   "para toplamak"
+  ],
+  "tip": "money genellikle sayılamaz; 'many money' değil, 'much money' ya da 'a lot of money' kullanılır. Çoğul hali yoktur.",
+  "note": ""
+ },
+ {
+  "id": "agree",
+  "senses": [
+   "aynı fikirde olmak",
+   "anlaşmak; kararlaştırmak"
+  ],
+  "ex": [
+   "Bu çorbaya tuz gerektiğine ben de katılıyorum.",
+   "Araştırmacıların çoğu, düzenli fiziksel aktivitenin hem ruh sağlığını hem de akademik performansı iyileştirebileceği konusunda hemfikir."
+  ],
+  "col": [
+   "birisiyle aynı fikirde olmak",
+   "bir plan üzerinde anlaşmak",
+   "bir şeyi yapmayı kabul etmek",
+   "bir öneriyi kabul etmek"
+  ],
+  "tip": "Kişiyle aynı fikirde olmak için with, bir konuda anlaşmak için on, bir şeyi yapmayı kabul etmek için to + fiil kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "now",
+  "senses": [
+   "şimdi; şu anda",
+   "hemen; derhal",
+   "madem ki; çünkü"
+  ],
+  "ex": [
+   "Artık istasyonun yakınında oturuyoruz, bu yüzden yürümek kolay.",
+   "Çevrim içi kurslar yaygınlaştığından, pek çok yetişkin çalışırken eğitimine devam edebiliyor."
+  ],
+  "col": [
+   "tam şimdi",
+   "şu zamana kadar",
+   "bundan sonra",
+   "madem ki"
+  ],
+  "tip": "now that bir durumun değiştiğini ya da gerçekleştiğini vurgulayan bir neden bağlacıdır. Tek başına now 'şimdi' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "real",
+  "senses": [
+   "gerçek; var olan",
+   "gerçek; sahte olmayan",
+   "reel; enflasyondan arındırılmış"
+  ],
+  "ex": [
+   "Kuşun plastik olduğunu sanmıştım ama gerçekmiş.",
+   "Ortalama maaşlar artmış olsa da, fiyatların yükselmesi birçok çalışanın reel gelirinde düşüş yaşadığı anlamına geliyor."
+  ],
+  "col": [
+   "gerçek hayat",
+   "gerçek deri",
+   "reel gelir",
+   "gerçek tehlike"
+  ],
+  "tip": "real bir sıfattır ve genellikle isimden önce gelir. 'Gerçekten, çok' anlamında ise really kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "someone",
+  "senses": [
+   "biri; birisi"
+  ],
+  "ex": [
+   "Mavi bir şemsiyeyi ön kapının yanına biri bırakmış.",
+   "Öğrenciler, güvendikleri biri kaygılarını konuşmak için hazır olduğunda yardım istemekte daha özgüvenli hissedebilir."
+  ],
+  "col": [
+   "başka biri",
+   "özel biri",
+   "konuşacak biri"
+  ],
+  "tip": "someone tekil kabul edilir, yüklem de tekil olur. Cümlenin devamında they ile gönderme yapılabilir.",
+  "note": ""
+ },
+ {
+  "id": "hear",
+  "senses": [
+   "duymak; işitmek",
+   "haber almak; duymak",
+   "dinlemek; incelemek"
+  ],
+  "ex": [
+   "Yatak odamın penceresinin dışından kuşların ötüşünü duyabiliyorum.",
+   "Yerel yönetimler, toplu taşımayla ilgili büyük değişikliklerden önce halkın kaygılarını dinlemelidir."
+  ],
+  "col": [
+   "birinden haber almak",
+   "bir şey hakkında duymak",
+   "bir davayı görmek",
+   "iki tarafı da dinlemek"
+  ],
+  "tip": "hear sesi farkında olarak duymayı, listen to ise dikkatle dinlemeyi anlatır. Geçmiş zamanı heard'dır.",
+  "note": ""
+ },
+ {
+  "id": "please",
+  "senses": [
+   "lütfen",
+   "memnun etmek; hoşnut etmek"
+  ],
+  "ex": [
+   "Kapıyı benim için tutar mısınız, lütfen?",
+   "Herkesi memnun etmek amacıyla tasarlanan kamu politikaları, en acil toplumsal sorunları çözemeyebilir."
+  ],
+  "col": [
+   "lütfen yapın",
+   "herkesi memnun etmek",
+   "memnun etmesi zor",
+   "istediği gibi"
+  ],
+  "tip": "please fiil olarak 'memnun etmek' anlamına gelir. 'Memnun olmak' için be pleased kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hard",
+  "senses": [
+   "sert",
+   "zor; güç",
+   "çok çalışarak; sıkı"
+  ],
+  "ex": [
+   "Bu ekmek ısırmak için çok sert.",
+   "Pek çok öğrenci nitelik kazanmak için çok çalışıyor, ancak yine de istikrarlı bir iş bulmak zor oluyor."
+  ],
+  "col": [
+   "zahmetli iş",
+   "çok çalışmak",
+   "somut kanıt",
+   "sert yüzey"
+  ],
+  "tip": "hard zarf olarak 'çok çalışarak' anlamına gelir. hardly ise 'neredeyse hiç' anlamındadır; ikisi farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "terrible",
+  "senses": [
+   "berbat; çok kötü",
+   "korkunç; ağır"
+  ],
+  "ex": [
+   "Çorba berbat bir tada sahipti, bu yüzden sandviç yaptım.",
+   "Kötü atık yönetimi, özellikle yoğun nüfuslu şehirlerde halk sağlığı için ciddi sonuçlar doğurabilir."
+  ],
+  "col": [
+   "kötü hava",
+   "korkunç bir hata",
+   "kendini kötü hissetmek"
+  ],
+  "tip": "terrible bir sıfattır. 'Çok, fena' anlamında terribly zarfı kullanılır: terribly sorry (çok özür dilerim).",
+  "note": ""
+ },
+ {
+  "id": "feel",
+  "senses": [
+   "hissetmek; duymak",
+   "dokunup yoklamak",
+   "dokunuş; his"
+  ],
+  "ex": [
+   "Bu yumuşak battaniyeyle kendimi çok daha sıcak hissediyorum.",
+   "Kamu alanları iyi aydınlatıldığında ve yerel yetkililer tarafından düzenli bakımı yapıldığında, sakinler genellikle kendilerini daha güvende hissediyor."
+  ],
+  "col": [
+   "rahat hissetmek",
+   "bir konuda güçlü duygular beslemek",
+   "bir şey yapmak istemek",
+   "bir şeyin havasını kavramak"
+  ],
+  "tip": "feel fiilinin geçmiş zamanı felt'tir. Sıfatlarla doğrudan kullanılır: feel tired (yorgun hissetmek).",
+  "note": ""
+ },
+ {
+  "id": "so",
+  "senses": [
+   "çok; o kadar",
+   "bu yüzden; bu nedenle",
+   "öyle; yani"
+  ],
+  "ex": [
+   "Çorba o kadar sıcaktı ki beklemek zorunda kaldım.",
+   "Kırsal bölgelerde toplu taşıma sınırlı olduğu için birçok sakin temel yolculuklarında özel araçlara bağımlı."
+  ],
+  "col": [
+   "çok fazla",
+   "şimdiye kadar",
+   "öyle ki",
+   "öyle düşünmek"
+  ],
+  "tip": "so sıfatı ya da zarfı güçlendirir (so good); such ise isim öbeğini güçlendirir (such a good day).",
+  "note": ""
+ },
+ {
+  "id": "climb",
+  "senses": [
+   "tırmanmak",
+   "yükselmek; artmak",
+   "tırmanış; yükseliş"
+  ],
+  "ex": [
+   "Piknik yapmadan önce tepeye tırmandık.",
+   "Konut maliyetleri artmaya devam ettikçe, pek çok genç yetişkin büyük şehirlerde bağımsız yaşamakta zorlanıyor."
+  ],
+  "col": [
+   "dağa tırmanmak",
+   "merdiven çıkmak",
+   "dik bir yokuş",
+   "istikrarlı biçimde yükselmek"
+  ],
+  "tip": "climb a mountain kalıbında ekstra edat kullanılmaz; fiil doğrudan nesne alır. Sondaki b harfi okunmaz.",
+  "note": ""
+ }
+]

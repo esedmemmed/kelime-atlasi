@@ -1,0 +1,277 @@
+[
+ {
+  "id": "rose",
+  "senses": [
+   "gül",
+   "yükselmek; artmak"
+  ],
+  "ex": [
+   "Cam bir vazoya tek bir gül yerleştirdi.",
+   "Şehir daha ucuz ücretler ve daha sık seferler getirdikten sonra toplu taşıma talebi keskin biçimde arttı."
+  ],
+  "col": [
+   "bir demet gül",
+   "gül yaprakları",
+   "keskin biçimde yükselmek"
+  ],
+  "tip": "rose, rise fiilinin geçmiş zamanıdır; geçmiş zaman ortacı ise risen'dir.",
+  "note": ""
+ },
+ {
+  "id": "button",
+  "senses": [
+   "düğme; tuş",
+   "düğme",
+   "düğmelemek"
+  ],
+  "ex": [
+   "Çamaşır makinesini başlatmak için yeşil düğmeye basın.",
+   "Toplu taşıma araçlarındaki acil durum düğmeleri, yardıma ihtiyaç duyulduğunda yolcuların personeli hızla uyarmasını sağlar."
+  ],
+  "col": [
+   "düğmeye basmak",
+   "düğmeye basmak",
+   "ceketi düğmelemek",
+   "düğme dikmek"
+  ],
+  "tip": "button up ceketi düğmelemek anlamına gelir; fermuar için zip kullanılır, button kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "easter",
+  "senses": [
+   "Paskalya"
+  ],
+  "ex": [
+   "Paskalya için mutfak masasında birlikte yumurta süsledik.",
+   "Paskalya tatili boyunca birçok destinasyon mevsimsel etkinliklerle ek ziyaretçi çeker ve turizm sektöründe geçici iş imkânı yaratır."
+  ],
+  "col": [
+   "Paskalya Pazarı",
+   "Paskalya yumurtaları",
+   "Paskalya tatili"
+  ],
+  "tip": "Bayram ve festival adları büyük harfle başlar. at Easter ifadesi Paskalya sırasında anlamına gelir.",
+  "note": "Bayram adlarının baş harfi büyük yazıldı."
+ },
+ {
+  "id": "island",
+  "senses": [
+   "ada"
+  ],
+  "ex": [
+   "Dün küçük bir tekneyle adaya gittik.",
+   "Küçük ada toplulukları genellikle turizme bağımlıdır, ancak artan ziyaretçi sayısı kırılgan kıyı çevrelerini tehdit edebilir."
+  ],
+  "col": [
+   "uzak ada",
+   "tropikal ada",
+   "ada ülkesi",
+   "ıssız ada"
+  ],
+  "tip": "Sondaki s harfi okunmaz. Bir adada anlamına gelen ifade on an island'dır; in değil, on kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cream",
+  "senses": [
+   "krema; kaymak",
+   "krem",
+   "krem rengi"
+  ],
+  "ex": [
+   "Çilekli kasenin üzerine taze krema döktü.",
+   "Yemeklerin enerji içeriğini lezzeti fazla etkilemeden düşürmek için kremanın yerine daha az yağlı malzemeler kullanılabilir."
+  ],
+  "col": [
+   "çırpılmış krema",
+   "yüz kremi",
+   "krem sürmek",
+   "krem rengi duvarlar"
+  ],
+  "tip": "cream krema ya da krem anlamına gelir; peynir cheese'dir, cream değildir.",
+  "note": ""
+ },
+ {
+  "id": "worried",
+  "senses": [
+   "endişeli; kaygılı"
+  ],
+  "ex": [
+   "Kedisi geri dönmeyince endişeli görünüyordu.",
+   "Birçok ebeveyn, aşırı ekran süresinin çocuklarının uykusu üzerindeki etkilerinden endişe duyuyor."
+  ],
+  "col": [
+   "-den endişelenmek",
+   "çok endişeli",
+   "endişeli bir ifade"
+  ],
+  "tip": "worried, insanın endişeli olduğunu; worrying ise bir şeyin endişe verici olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "careful",
+  "senses": [
+   "dikkatli; özenli",
+   "titiz; özenli"
+  ],
+  "ex": [
+   "Şu kaseye dikkat et; büyükannemin malıydı.",
+   "Dikkatli planlama, şehirlerin inşaat maliyetlerini kontrol altında tutarken toplu taşımayı genişletmesine yardımcı olabilir."
+  ],
+  "col": [
+   "-e dikkat etmek",
+   "dikkatli planlama",
+   "özenli değerlendirme",
+   "dikkatli analiz"
+  ],
+  "tip": "be careful with bir nesneyle ilgili dikkat anlatır; be careful to ise bir eylemi dikkatle yapmayı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "false",
+  "senses": [
+   "yanlış; doğru olmayan",
+   "sahte; yapay",
+   "samimi olmayan; ikiyüzlü"
+  ],
+  "ex": [
+   "Komşumuz hakkındaki o söylenti tamamen YANLIŞ.",
+   "Tüm çevrim içi bilgilerin güvenilir olduğu iddiaları YANLIŞTIR; bu yüzden öğrenciler kaynakları eleştirel biçimde değerlendirmeyi öğrenmelidir."
+  ],
+  "col": [
+   "yanlış bilgi",
+   "yanlış izlenim",
+   "yanlış alarm",
+   "takma diş"
+  ],
+  "tip": "false doğru olmayanı, fake ise bilerek taklit edilmiş olanı anlatır. Genellikle küçük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "unusual",
+  "senses": [
+   "alışılmadık; olağandışı"
+  ],
+  "ex": [
+   "Bu havucun şekli, minik bir ele benzediği için alışılmadık.",
+   "Bilim insanları, küresel sıcaklık artışıyla bağlantılı olabilecek alışılmadık hava örüntülerini inceliyor."
+  ],
+  "col": [
+   "alışılmadık koşullar",
+   "olağandışı bir özellik",
+   "son derece alışılmadık"
+  ],
+  "tip": "It is unusual for sb to do kalıbı, birinin bunu yapmasının sıradışı olduğunu, yani nadiren yaptığını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "app",
+  "senses": [
+   "uygulama"
+  ],
+  "ex": [
+   "Bu uygulama, her pazar bitkilerimi sulamamı hatırlatıyor.",
+   "Dil öğrenme uygulaması uygun fiyatlı pratik imkânı sunabilir, ancak bir öğretmenle etkileşimin yerini tam olarak tutamaz."
+  ],
+  "col": [
+   "uygulama indirmek",
+   "mobil uygulama",
+   "uygulama yüklemek",
+   "dil öğrenme uygulaması"
+  ],
+  "tip": "app, application kelimesinin kısaltmasıdır; sayılabilir isimdir, bu yüzden an app biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lip",
+  "senses": [
+   "dudak",
+   "kenar; ağız"
+  ],
+  "ex": [
+   "Rüzgarda yürüdükten sonra dudaklarım kurumuştu.",
+   "Konuşmayı anlamak için dudak okumaya dayanan insanlar için şeffaf yüz maskeleri iletişimi geliştirebilir."
+  ],
+  "col": [
+   "üst dudak",
+   "kuru dudaklar",
+   "dudağını ısırmak",
+   "fincanın kenarı"
+  ],
+  "tip": "Üst ve alt dudağa birlikte lips denir; tek bir dudak için lip kullanılır. Kap kenarları için de lip kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tourism",
+  "senses": [
+   "turizm"
+  ],
+  "ex": [
+   "Turizm, her yaz köyümüze birçok ziyaretçi getiriyor.",
+   "Sürdürülebilir turizm, ziyaretçileri çeken doğal manzaraları korurken yerel topluluklara gelir sağlayabilir."
+  ],
+  "col": [
+   "sürdürülebilir turizm",
+   "kitlesel turizm",
+   "iç turizm",
+   "turizm sektörü"
+  ],
+  "tip": "tourism genellikle sayılamaz; bir turisti anlatmak için a tourist kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "kangaroo",
+  "senses": [
+   "kanguru"
+  ],
+  "ex": [
+   "Genç bir kanguru annesinin keseinden dışarı baktı.",
+   "Yaşam alanı kaybı, kangurları yollara yaklaşmaya zorlayabilir ve araçlarla çarpışma riskini artırabilir."
+  ],
+  "col": [
+   "kangurunun kesesi",
+   "kırmızı kanguru",
+   "kanguru popülasyonu"
+  ],
+  "tip": "Çoğulu kangaroos olur. Yavruların taşındığı keseye pouch denir.",
+  "note": ""
+ },
+ {
+  "id": "journey",
+  "senses": [
+   "yolculuk",
+   "gelişim süreci",
+   "yolculuk etmek"
+  ],
+  "ex": [
+   "Tren yolculuğu bizi karlı dağların arasından geçirdi.",
+   "Gelişmiş demiryolu hizmetleri, işe giden günlük yolculuğu kısaltabilir ve yolcuları arabalarını evde bırakmaya teşvik edebilir."
+  ],
+  "col": [
+   "uzun yolculuk",
+   "dönüş yolculuğu",
+   "keşif yolculuğu",
+   "yolculuk yapmak"
+  ],
+  "tip": "journey daha çok yolculuğun kendisine odaklanır; trip ise genellikle gidiş-dönüş gezi anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "handbag",
+  "senses": [
+   "el çantası"
+  ],
+  "ex": [
+   "Anahtarlarını el çantasının dibinde buldu.",
+   "Tüketiciler, ucuz aksesuarları her sezon yenilemek yerine dayanıklı bir el çantası seçerek atığı azaltabilir."
+  ],
+  "col": [
+   "deri el çantası",
+   "omuz çantası",
+   "el çantası taşımak"
+  ],
+  "tip": "Amerikan İngilizcesinde kadın çantası için purse kullanılır; İngiliz İngilizcesinde purse genellikle cüzdan anlamına gelir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "autonomy",
+  "senses": [
+   "özerklik; bağımsızlık"
+  ],
+  "ex": [
+   "Yeni yöneticim işte bana daha fazla özerklik tanıyor.",
+   "Okullara daha geniş bir özerklik tanınması, öğretmenlerin derslerini yerel toplulukların özel ihtiyaçlarına uyarlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "daha geniş özerklik",
+   "bölgesel özerklik",
+   "bireysel özerklik",
+   "özerklik tanımak"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; 'an autonomy' gibi kullanımlardan kaçının. 'Freedom' ile karıştırmayın; autonomy kendi kararını verme yetkisini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "know-how",
+  "senses": [
+   "beceri; bilgi birikimi"
+  ],
+  "ex": [
+   "Amcamın eski bisikletleri tamir edecek bilgisi var.",
+   "Teknik bilgi birikimini paylaşmak, küçük işletmelerin dış danışmanlara tamamen bağımlı kalmadan daha temiz üretim yöntemlerini benimsemesine yardımcı olabilir."
+  ],
+  "col": [
+   "teknik bilgi birikimi",
+   "pratik beceri",
+   "bilgi aktarmak"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a know-how' demeyin. Sözcük tire işaretiyle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "brisk",
+  "senses": [
+   "çabuk; enerjik",
+   "hareketli; canlı",
+   "serin; ferah"
+  ],
+  "ex": [
+   "Kahvaltıdan önce yapılan tempolu bir yürüyüş beni her zaman uyandırır.",
+   "Düzenli tempolu yürüyüş, pahalı ekipman ya da uzman tesislere ihtiyaç duymadan kalp-damar sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "tempolu bir yürüyüş",
+   "hareketli ticaret",
+   "serin bir esinti"
+  ],
+  "tip": "'Brisk walk' koşu değil, hızlı ve enerjik bir yürüyüşü anlatır; 'run' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "polymer",
+  "senses": [
+   "polimer"
+  ],
+  "ex": [
+   "Bu esnek polimer, telefon kılıfımı hafif ve dayanıklı tutuyor.",
+   "Araştırmacılar, ambalaj ve diğer tek kullanımlık ürünlerin çevresel etkisini azaltmak için biyolojik olarak parçalanabilen polimerler geliştiriyor."
+  ],
+  "col": [
+   "sentetik polimer",
+   "biyolojik olarak parçalanabilen polimer",
+   "polimer zinciri"
+  ],
+  "tip": "Polimer yalnızca plastik değildir; nişasta gibi doğal maddeler de polimerdir. Plastikle eş anlamlı sanılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "idiomatic",
+  "senses": [
+   "doğal; akıcı",
+   "deyimsel"
+  ],
+  "ex": [
+   "Cümlen doğru, ama bu versiyon çok daha doğal geliyor.",
+   "Gerçek konuşmalara düzenli olarak maruz kalmak, dil öğrenenlerin daha doğal konuşmasını ve daha fazla özgüven kazanmasını sağlar."
+  ],
+  "col": [
+   "doğal İngilizce",
+   "deyimsel bir ifade",
+   "doğal kullanım"
+  ],
+  "tip": "Idiomatic her zaman 'deyim' anlamına gelmez; ana dili konuşanlar gibi doğal ve yerinde kullanımı da ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "supersede",
+  "senses": [
+   "yerini almak; geçersiz kılmak"
+  ],
+  "ex": [
+   "Bu yeni ders programı, buzdolabımızdakinin yerini alıyor.",
+   "Dijital ödeme sistemleri, erişilebilirlik sorunları önce giderilmek zorunda olsa da, birçok ortamda zamanla nakit paranın yerini alabilir."
+  ],
+  "col": [
+   "mevcut kuralları geçersiz kılmak",
+   "tarafından değiştirilmek",
+   "önceki sürümlerin yerini almak"
+  ],
+  "tip": "Yazımı -sede ile biter, -cede değil. Genellikle 'be superseded by' yapısında edilgen olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "census",
+  "senses": [
+   "nüfus sayımı"
+  ],
+  "ex": [
+   "Nüfus sayım formunu mutfak masamızda doldurduk.",
+   "Nüfus sayımı verileri, hükümetlerin değişen nüfus ihtiyaçlarına göre konut, okul ve sağlık hizmetlerini planlamasına yardımcı olur."
+  ],
+  "col": [
+   "nüfus sayımı yapmak",
+   "nüfus sayımı verileri",
+   "ulusal nüfus sayımı",
+   "nüfus sayım formu"
+  ],
+  "tip": "Census tüm nüfusu sayar; örneklem anketi (sample survey) ise yalnızca bir kesimi inceler. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "nickel",
+  "senses": [
+   "nikel",
+   "beş sentlik madeni para"
+  ],
+  "ex": [
+   "Cildim nikel içeren takılara karşı kötü tepki veriyor.",
+   "Elektrikli araçlara olan talebin artması, nikel madenciliğine ilgiyi artırdı ve çevresel zarar konusunda endişeleri beraberinde getirdi."
+  ],
+  "col": [
+   "nikel madenciliği",
+   "nikel alaşımı",
+   "nikel alerjisi"
+  ],
+  "tip": "Metal anlamında sayılamaz; madeni para anlamında sayılabilir (a nickel, two nickels).",
+  "note": ""
+ },
+ {
+  "id": "infringement",
+  "senses": [
+   "ihlal; hak gaspı"
+  ],
+  "ex": [
+   "O fotoğrafı izinsiz kopyalamak telif hakkı ihlali olabilir.",
+   "Hükümetler, fikri mülkiyet haklarının ihlali için uygun cezalar uygulayarak yaratıcı çalışanları korumalıdır."
+  ],
+  "col": [
+   "telif hakkı ihlali",
+   "patent ihlali",
+   "hakların ihlali"
+  ],
+  "tip": "Genellikle 'infringement of' yapısıyla kullanılır: infringement of rights. Hukuki metinlerde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "enrich",
+  "senses": [
+   "zenginleştirmek; geliştirmek",
+   "zengin etmek",
+   "besin katmak; verimlendirmek"
+  ],
+  "ex": [
+   "Bu hafta sonu resim kursları günlük hayatımı gerçekten zenginleştiriyor.",
+   "Uluslararası değişim programları, öğrencileri farklı bakış açılarına ve öğretim yöntemlerine maruz bırakarak eğitimlerini zenginleştirebilir."
+  ],
+  "col": [
+   "insanların hayatını zenginleştirmek",
+   "anlayışı derinleştirmek",
+   "toprağı verimlendirmek"
+  ],
+  "tip": "Enrich geçişli bir fiildir; nesnesiz kullanılmaz. Life, experience, soil gibi bir nesneyle birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "astronomical",
+  "senses": [
+   "astronomik; çok yüksek",
+   "astronomiyle ilgili"
+  ],
+  "ex": [
+   "Otel bir gecelik konaklama için astronomik bir ücret istedi.",
+   "Büyük şehirlerdeki astronomik konut maliyetleri, genç yetişkinlerin finansal bağımsızlığa ulaşmasını engelleyebilir."
+  ],
+  "col": [
+   "astronomik maliyetler",
+   "astronomik miktarlar",
+   "astronomik gözlemler"
+  ],
+  "tip": "Fiyat ve miktarlar için 'çok yüksek' anlamında sık kullanılır; bilimsel anlamı (astronomi) ikinci sıradadır.",
+  "note": ""
+ },
+ {
+  "id": "disreputable",
+  "senses": [
+   "itibarsız; güvenilmez",
+   "bakımsız; dağınık"
+  ],
+  "ex": [
+   "Birkaç komşu şikâyet ettikten sonra o itibarsız tamirciden uzak durduk.",
+   "Daha güçlü tüketici koruma yasaları, itibarsız şirketlerin ayrıntılı finansal bilgisi olmayan müşterileri sömürmesini engelleyebilir."
+  ],
+  "col": [
+   "itibarsız şirket",
+   "itibarsız davranış",
+   "itibarsız kişilik"
+  ],
+  "tip": "Genellikle ahlaki ya da itibar açısından kötü bir durumu anlatır; yalnızca eski ya da bakımsız görünüm için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "vicious",
+  "senses": [
+   "vahşi; saldırgan",
+   "kötü niyetli; acımasız"
+  ],
+  "ex": [
+   "Uzun metal çitin arkasında vahşi bir köpek hırlıyordu.",
+   "Sosyal medyadaki kötü niyetli yorumlar, gençlerin özgüvenini zedeleyebilir ve çevrim içi tartışmalara katılımı azaltabilir."
+  ],
+  "col": [
+   "vahşi saldırı",
+   "kısır döngü",
+   "kötü niyetli söylenti",
+   "kötü niyetli yorumlar"
+  ],
+  "tip": "Vicious circle 'kısır döngü' anlamına gelir: bir sorunun diğerini beslediği durum. Yalnızca 'vahşi' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "agonize",
+  "senses": [
+   "kıvranmak; çok endişelenmek"
+  ],
+  "ex": [
+   "Hafta sonu boyunca hangi kursu seçeceğim konusunda kafa yordum.",
+   "Birçok mezun, daha fazla eğitim almak mı yoksa giderek rekabetçileşen iş piyasasına girmek mi konusunda kafa yorar."
+  ],
+  "col": [
+   "bir karar konusunda kıvranmak",
+   "gelecek hakkında endişelenmek"
+  ],
+  "tip": "Genellikle agonize over ya da agonize about kalıplarıyla kullanılır. İngiliz İngilizcesinde agonise biçiminde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "propulsion",
+  "senses": [
+   "itme; tahrik"
+  ],
+  "ex": [
+   "Bu küçük tekne sessizce hareket etmek için elektrikli tahrik sistemine dayanır.",
+   "Elektrikli tahrikteki gelişmeler, kıyı deniz taşımacılığında hem gürültü kirliliğini hem de yakıt tüketimini azaltabilir."
+  ],
+  "col": [
+   "tahrik sistemi",
+   "elektrikli tahrik",
+   "jet tahriki"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; gemi, uçak ve uzay araçları gibi taşıtların hareketini anlatırken kullanılır.",
+  "note": ""
+ }
+]

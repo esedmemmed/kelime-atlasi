@@ -1,0 +1,269 @@
+[
+ {
+  "id": "forthcoming",
+  "senses": [
+   "yaklaşan; gelecek",
+   "açık sözlü; istekli",
+   "mevcut; sağlanabilir"
+  ],
+  "ex": [
+   "Yaklaşan gezimiz için yeni yürüyüş botları aldık.",
+   "Yaklaşan rapor, toplu taşımaya yapılan yatırımın kentsel hava kirliliğini azaltıp azaltmadığını değerlendirecek."
+  ],
+  "col": [
+   "yaklaşan bir rapor",
+   "yaklaşan seçimler",
+   "bir konuda açık sözlü olmak",
+   "hiçbir yardım sağlanamadı"
+  ],
+  "tip": "Çoğunlukla 'yaklaşan' anlamında kullanılır; 'about' ile birlikte bilgi konusunda istekli olmayı da ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "adorn",
+  "senses": [
+   "süslemek; bezemek"
+  ],
+  "ex": [
+   "Aile kutlamasında her masayı taze çiçekler süsledi.",
+   "Kamusal sanat eserleri birçok kentsel alanı süslüyor; bu da mahalleleri daha çekici hale getirip sakinleri çevrelerini keşfetmeye teşvik ediyor."
+  ],
+  "col": [
+   "çiçeklerle süslemek",
+   "ile süslenmiş olmak",
+   "duvarları süslemek"
+  ],
+  "tip": "'adorn A with B' kalıbı 'A'yı B ile süslemek' anlamına gelir; 'with' ihmal edilmez.",
+  "note": ""
+ },
+ {
+  "id": "decree",
+  "senses": [
+   "kararname; ferman",
+   "karara bağlamak; hükmetmek"
+  ],
+  "ex": [
+   "Yeni kararname, bu gece sokağımızın kapalı kalacağı anlamına geliyor.",
+   "Hükümet, fabrikaların atık suyu nehirlere bırakmadan önce arıtmasını zorunlu kılan bir kararname çıkardı."
+  ],
+  "col": [
+   "kararname çıkarmak",
+   "kararname ile",
+   "karar vermek"
+  ],
+  "tip": "Fiil olarak 'decree that' kalıbıyla bir şeyin olmasını resmen emretmek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "augment",
+  "senses": [
+   "artırmak; güçlendirmek"
+  ],
+  "ex": [
+   "Gelirini artırmak için ev yapımı reçel satıyor.",
+   "Dijital kaynaklar sınıf öğretimini destekleyebilir; ancak öğretmen ile öğrenciler arasındaki anlamlı etkileşimin yerini tutmamalıdır."
+  ],
+  "col": [
+   "geliri artırmak",
+   "mevcut kaynakları desteklemek",
+   "kapasiteyi artırmak"
+  ],
+  "tip": "Resmi ve akademik bir fiildir; günlük konuşmada 'increase' veya 'add' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "oppression",
+  "senses": [
+   "baskı; zulüm"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam baskı altındaki hayatları hakkında hikâyeler anlatırdı.",
+   "Bağımsız mahkemeler, savunmasız grupları baskıdan korumada ve temel özgürlükleri savunmada hayati bir rol oynar."
+  ],
+  "col": [
+   "siyasi baskı",
+   "baskıya direnmek",
+   "baskıdan özgürlük"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; fiili 'oppress' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "quay",
+  "senses": [
+   "rıhtım; iskele"
+  ],
+  "ex": [
+   "Feribotun taş rıhtımdan yanaşmasını izledik.",
+   "Kullanılmayan bir rıhtımı halka açık bir yürüyüş yoluna dönüştürmek, kentlileri su kenarlarıyla yeniden buluşturabilir."
+  ],
+  "col": [
+   "rıhtım boyunca",
+   "rıhtıma bağlanmak",
+   "rıhtım duvarı"
+  ],
+  "tip": "Telaffuzu 'key' ile aynıdır; genellikle kıyıya sağlam biçimde inşa edilmiş kalıcı bir yapıyı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "mania",
+  "senses": [
+   "tutku; çılgınca ilgi",
+   "mani; manik dönem"
+  ],
+  "ex": [
+   "Oyuncak tren koleksiyonu yapma tutkusu mahallemizi sarmıştı.",
+   "Manik dönemlerde bireyler, uyku düzensizliği ve dürtüsel davranışlarını yönetmek için profesyonel desteğe ihtiyaç duyabilir."
+  ],
+  "col": [
+   "...e karşı tutku",
+   "manik bir dönem",
+   "akut mani"
+  ],
+  "tip": "Günlük dilde aşırı tutku anlamına gelir; tıpta 'mani' ciddi bir ruh hali bozukluğudur, sıradan neşe değildir.",
+  "note": ""
+ },
+ {
+  "id": "inflammable",
+  "senses": [
+   "yanıcı; tutuşabilir"
+  ],
+  "ex": [
+   "Kolay tutuşan sıvıları mutfak ocağından uzak tutun.",
+   "Fabrikalar, yangın riskini azaltmak ve hem işçileri hem de yakın toplulukları korumak için yanıcı maddeleri güvenli biçimde depolamalıdır."
+  ],
+  "col": [
+   "yanıcı maddeler",
+   "yanıcı sıvılar",
+   "çok yanıcı"
+  ],
+  "tip": "'Inflammable' yanıcı demektir, yanmaz değil. Yanmaz anlamı için 'non-flammable' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "proxy",
+  "senses": [
+   "vekil; temsilci",
+   "vekil gösterge; dolaylı ölçü",
+   "vekil sunucu; proxy"
+  ],
+  "ex": [
+   "Kardeşim toplantıda benim yerime vekil olarak katıldı.",
+   "Araştırmacılar, yaşam standardının bir vekil göstergesi olarak hane gelirini kullanabilir; ancak bu tablo eksik kalır."
+  ],
+  "col": [
+   "vekâleten oy kullanmak",
+   "vekil olarak davranmak",
+   "...için vekil gösterge",
+   "vekil sunucu"
+  ],
+  "tip": "'By proxy' vekâleten anlamına gelir; 'a proxy for' ise bir şeyin yerine dolaylı olarak kullanılan ölçüyü belirtir.",
+  "note": ""
+ },
+ {
+  "id": "restrain",
+  "senses": [
+   "engellemek; alıkoymak",
+   "dizginlemek; tutmak"
+  ],
+  "ex": [
+   "Köpeğin bir sincabı kovalamasını nazikçe engelledi.",
+   "Hükümetler, aşırı borçlanmayı kısıtlamak ve konut piyasasındaki riskleri azaltmak için daha sıkı kredi kuralları uygulayabilir."
+  ],
+  "col": [
+   "birini bir şey yapmaktan alıkoymak",
+   "öfkeyi dizginlemek",
+   "harcamayı kısmak"
+  ],
+  "tip": "'Restrain sb from doing sth' kalıbında 'from' edatı atlanmaz.",
+  "note": ""
+ },
+ {
+  "id": "cartilage",
+  "senses": [
+   "kıkırdak"
+  ],
+  "ex": [
+   "Doktor, kıkırdağın diz eklemimi yastıkladığını açıkladı.",
+   "Düzenli ve orta düzey egzersiz eklem sağlığını destekleyebilir; ancak zarar görmüş kıkırdağın iyileşmesi uzun zaman alır."
+  ],
+  "col": [
+   "hasarlı kıkırdak",
+   "diz kıkırdağı",
+   "kıkırdak hasarı"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; kemik değil, esnek bir dokudur. 'Kemik' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "visualize",
+  "senses": [
+   "gözünde canlandırmak",
+   "görselleştirmek"
+  ],
+  "ex": [
+   "Gözlerini kapat ve sessiz, kumlu bir plajı zihninde canlandır.",
+   "Dijital modeller, sakinlerin önerilen binaların mahallelerinin görünümünü nasıl değiştireceğini gözünde canlandırmasına yardımcı olur."
+  ],
+  "col": [
+   "bir sahneyi gözünde canlandırmak",
+   "verileri görselleştirmek",
+   "sonucu gözünde canlandırmak"
+  ],
+  "tip": "İngiliz yazımı 'visualise' şeklindedir. Fiil hem isim hem de ing'li yapı alabilir.",
+  "note": ""
+ },
+ {
+  "id": "distort",
+  "senses": [
+   "çarpıtmak; saptırmak",
+   "bozmak; biçimini bozmak"
+  ],
+  "ex": [
+   "Bu düzenlenmiş klip, söylediklerimi gerçekte olduğu gibi çarpıtıyor.",
+   "Seçici habercilik, çevre sorunlarına ilişkin kamuoyu anlayışını bozabilir ve gerekli reformlara desteği zayıflatabilir."
+  ],
+  "col": [
+   "gerçeği çarpıtmak",
+   "bir görüntüyü bozmak",
+   "kamuoyu algısını çarpıtmak"
+  ],
+  "tip": "Hem bilgiyi çarpıtmak hem de görüntü veya sesin bozulmasını ifade eder; bağlama göre anlam seçilir.",
+  "note": ""
+ },
+ {
+  "id": "embody",
+  "senses": [
+   "somutlaştırmak; simgelemek",
+   "kapsamak; içermek"
+  ],
+  "ex": [
+   "Bu el yapımı kaseler büyükannemin sabrını ve özenini yansıtıyor.",
+   "Kamu binaları, farklı ihtiyaçları olan insanlar için erişilebilir alanlar sağlayarak kapsayıcılık değerlerini somutlaştırmalıdır."
+  ],
+  "col": [
+   "bir idealı somutlaştırmak",
+   "ruhunu yansıtmak",
+   "temel değerleri yansıtmak"
+  ],
+  "tip": "Geçişli bir fiildir; 'embody in' gibi edat kullanmadan doğrudan nesne alır.",
+  "note": ""
+ },
+ {
+  "id": "enchant",
+  "senses": [
+   "büyülemek; hayran bırakmak",
+   "büyü yapmak"
+  ],
+  "ex": [
+   "Minik bahçe, renkli kelebekleriyle bizi büyüledi.",
+   "Geleneksel hikâye anlatımı, genç izleyicileri topluluklarının kültürel mirasıyla tanıştırırken onları büyüleyebilir."
+  ],
+  "col": [
+   "izleyicileri büyülemek",
+   "...tarafından büyülenmek"
+  ],
+  "tip": "'Be enchanted by' kalıbı 'tarafından büyülenmek' anlamına gelir; 'by' ile neyin büyülediği belirtilir.",
+  "note": ""
+ }
+]

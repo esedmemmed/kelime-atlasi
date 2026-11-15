@@ -1,0 +1,274 @@
+[
+ {
+  "id": "approximate",
+  "senses": [
+   "yaklaşık; kabaca",
+   "yaklaşmak; yakın olmak"
+  ],
+  "ex": [
+   "Tamirat için bana yaklaşık bir fiyat verebilir misiniz?",
+   "Araştırmacılar, düzenli olarak toplu taşıma kullanan sakinlerin yaklaşık oranını hesaplamak için anket yanıtlarından yararlandı."
+  ],
+  "col": [
+   "yaklaşık maliyet",
+   "yaklaşık boyut",
+   "yaklaşık rakam"
+  ],
+  "tip": "Sıfat /-ət/, fiil /-eɪt/ diye okunur; sıfat ve fiil arasındaki telaffuz farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "truly",
+  "senses": [
+   "gerçekten; hakikaten",
+   "içtenlikle; samimiyetle"
+  ],
+  "ex": [
+   "Kendimi gerçekten rahat hissettiğim ilk yer burası.",
+   "Gerçekten kapsayıcı bir eğitim sistemi, farklı sosyal geçmişlerden gelen öğrencilerin ihtiyaçlarını karşılamalıdır."
+  ],
+  "col": [
+   "gerçekten inanmak",
+   "gerçekten olağanüstü",
+   "içtenlikle üzgün"
+  ],
+  "tip": "True sıfatından türer; sondaki e harfi düşer. Yazımda truely yanlıştır, truly yazılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "assign",
+  "senses": [
+   "atamak; görevlendirmek",
+   "atfetmek; belirlemek"
+  ],
+  "ex": [
+   "Antrenör, antrenman için her oyuncuya bir partner atadı.",
+   "Öğretmenler, öğrencilerin yeteneklerine uygun görevler verirken onları yeni beceriler geliştirmeye teşvik etmelidir."
+  ],
+  "col": [
+   "görev vermek",
+   "sorumluluk atamak",
+   "birini bir takıma atamak",
+   "değer atamak"
+  ],
+  "tip": "Genellikle assign sth to sb kalıbı kullanılır; assign sb sth yapısı da mümkündür.",
+  "note": ""
+ },
+ {
+  "id": "barn",
+  "senses": [
+   "ambar; ahır"
+  ],
+  "ex": [
+   "Samanı gün batmadan önce ambarın içine istiflemiştik.",
+   "Kullanılmayan ahırların ziyaretçi konaklama tesislerine dönüştürülmesi, kırsal topluluklardaki çiftçilere ek gelir sağlayabilir."
+  ],
+  "col": [
+   "samanı ambarda saklamak",
+   "ahır dönüşümü",
+   "ahşap ahır"
+  ],
+  "tip": "Barn hem tahıl ya da saman deposu hem de hayvan barınağı olabilen büyük bir tarım yapısıdır; stable (at ahırı) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "vapour",
+  "senses": [
+   "buhar"
+  ],
+  "ex": [
+   "Su buharı, soğuk pencerede damlacıklar hâlinde yoğunlaştı.",
+   "Küresel sıcaklıklar arttıkça atmosfer daha fazla su buharı tutabiliyor; bu da sera etkisini daha da güçlendiriyor."
+  ],
+  "col": [
+   "su buharı",
+   "buhar basıncı",
+   "buhar salmak"
+  ],
+  "tip": "İngiliz İngilizcesinde vapour, Amerikan İngilizcesinde vapor yazılır; sınavda tutarlı bir yazım kullanın.",
+  "note": ""
+ },
+ {
+  "id": "reject",
+  "senses": [
+   "reddetmek; geri çevirmek",
+   "ayıklamak; elemek",
+   "kusurlu ürün; fire"
+  ],
+  "ex": [
+   "Dükkân, eski bisikletime yaptığım teklifi reddetti.",
+   "Yerel yönetimler, geliştiriciler yakındaki yaban hayatı alanlarının korunacağını gösteremezse inşaat tekliflerini reddedebilir."
+  ],
+  "col": [
+   "teklifi reddetmek",
+   "başvuruyu reddetmek",
+   "iddiayı reddetmek",
+   "kusurlu ürünleri ayıklamak"
+  ],
+  "tip": "Fiilde vurgu ikinci hecededir (rɪˈdʒekt); isimde ilk hecededir (ˈriːdʒekt). Vurgu değişimine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "worship",
+  "senses": [
+   "ibadet; tapınma",
+   "ibadet etmek; tapınmak",
+   "çok sevmek; tapmak"
+  ],
+  "ex": [
+   "Küçük bir köy şapelinde ibadet etmek için bir araya geliyorlar.",
+   "Tarihi ibadet yerleri, genellikle topluluk yaşamının ve kültürel mirasın önemli merkezleri olarak hizmet verir."
+  ],
+  "col": [
+   "ibadet yeri",
+   "ibadet özgürlüğü",
+   "dinî ibadet",
+   "kahraman hayranlığı"
+  ],
+  "tip": "İngiliz İngilizcesinde geçmiş zaman worshipped, Amerikan İngilizcesinde genellikle worshiped yazılır.",
+  "note": ""
+ },
+ {
+  "id": "superstition",
+  "senses": [
+   "batıl inanç; hurafe"
+  ],
+  "ex": [
+   "Amcam batıl inancı yüzünden merdivenlerin altından geçmekten kaçınır.",
+   "Bilim eğitimi, öğrencilerin farklı kültürel geleneklere saygı duyarken kanıta dayalı açıklamaları hurafelerden ayırt etmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "yaygın bir batıl inanç",
+   "batıl inançtan dolayı",
+   "uğursuzlukla ilgili batıl inanç"
+  ],
+  "tip": "Genel kavram olarak sayılamaz; belirli bir inanç için a superstition biçiminde sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "evaluation",
+  "senses": [
+   "değerlendirme"
+  ],
+  "ex": [
+   "Antrenörün değerlendirmesi, yüzme tekniğimi geliştirmeme yardımcı oldu.",
+   "Eğitim programlarının düzenli olarak değerlendirilmesi, okulların zayıf yönlerini belirlemesini ve kaynakları daha etkili dağıtmasını sağlar."
+  ],
+  "col": [
+   "değerlendirme yapmak",
+   "performans değerlendirmesi",
+   "eleştirel değerlendirme",
+   "değerlendirme ölçütleri"
+  ],
+  "tip": "Genellikle of ile kullanılır; fiyat tahmini için ise valuation tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "violation",
+  "senses": [
+   "ihlal; kural çiğneme",
+   "hak ihlali; mahremiyet ihlali"
+  ],
+  "ex": [
+   "Bu girişin önüne park etmek açıkça bir ihlaldir.",
+   "Rıza olmadan kişisel bilgi toplamak, veriler gizli kalsa bile mahremiyet ihlali sayılabilir."
+  ],
+  "col": [
+   "kanunu ihlal",
+   "ihlal hâlinde",
+   "mahremiyet ihlali",
+   "trafik ihlali"
+  ],
+  "tip": "A violation of kalıbıyla ihlal edilen kural ya da hak belirtilir; in violation of de aynı anlamda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inspection",
+  "senses": [
+   "denetim; muayene"
+  ],
+  "ex": [
+   "Tamirci, denetim sırasında gevşek bir kablo buldu.",
+   "Kamu binalarının düzenli denetimi, ciddi güvenlik risklerine dönüşmeden önce yapısal sorunları ortaya çıkarabilir."
+  ],
+  "col": [
+   "denetim yapmak",
+   "güvenlik denetimi",
+   "daha yakından incelendiğinde"
+  ],
+  "tip": "Süreç anlamında kullanılır; bir şeyin denetimi için inspection of biçimi tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "leadership",
+  "senses": [
+   "liderlik; önderlik",
+   "yönetim kadrosu; liderler"
+  ],
+  "ex": [
+   "Sakin liderliği sayesinde ekibimiz projeyi tamamladı.",
+   "Okullarda etkili liderlik, personelin motivasyonunu artırabilir ve daha destekleyici bir öğrenme ortamı yaratabilir."
+  ],
+  "col": [
+   "liderlik becerileri",
+   "güçlü liderlik",
+   "...liderliğinde"
+  ],
+  "tip": "Genellikle sayılamaz; kişi anlamında kullanılmaz, leadership skills gibi kalıplarla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "prominent",
+  "senses": [
+   "önde gelen; tanınmış",
+   "göze çarpan; belirgin"
+  ],
+  "ex": [
+   "Yerel tanınmış bir sanatçı dün sergiyi açtı.",
+   "Üniversiteler, yenilenebilir enerjiye geçişi destekleyen teknolojilerin geliştirilmesinde önemli bir rol oynuyor."
+  ],
+  "col": [
+   "önemli bir rol",
+   "önde gelen bir isim",
+   "belirgin bir konum"
+  ],
+  "tip": "Kişiler için önemli ya da tanınmış, yer ve görünüm için ise göze çarpan anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "earnings",
+  "senses": [
+   "kazanç; ücret",
+   "kâr; kazanç"
+  ],
+  "ex": [
+   "Bisiklet almak için kazancının yarısını biriktirdi.",
+   "Ekonomideki ortalama ücretler artsa bile istikrarsız kazançları olan çalışanlar konut masraflarını karşılamakta zorlanabilir."
+  ],
+  "col": [
+   "yıllık kazanç",
+   "ortalama kazanç",
+   "şirket kârı",
+   "kazanç artışı"
+  ],
+  "tip": "Çoğul biçimde kullanılır; özne olduğunda fiil de çoğul olur (earnings are...).",
+  "note": ""
+ },
+ {
+  "id": "waving",
+  "senses": [
+   "dalgalanan; sallanan"
+  ],
+  "ex": [
+   "Rüzgârda hafifçe sallanan söğüt dallarının altında dinlendik.",
+   "Restore edilmiş nehir kıyılarındaki dalgalanan otlar, yaban hayatı için değerli yaşam alanları sağlar ve toprağı erozyondan korur."
+  ],
+  "col": [
+   "dalgalanan dallar",
+   "dalgalanan bayraklar",
+   "hafifçe dalgalanan otlar"
+  ],
+  "tip": "Wave fiilinin -ing biçimidir; durağan, dalgalı bir şekil için genellikle wavy sıfatı kullanılır.",
+  "note": ""
+ }
+]

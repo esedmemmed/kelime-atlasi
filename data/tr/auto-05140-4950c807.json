@@ -1,0 +1,272 @@
+[
+ {
+  "id": "debit",
+  "senses": [
+   "borç kaydı; hesap borcu",
+   "hesabı borçlandırmak; düşmek"
+  ],
+  "ex": [
+   "Banka aynı alışveriş için hesabımdan iki kez para çekti.",
+   "Tüketiciler, beklenmedik hesap çekimlerini ve olası hataları fark etmek için banka ekstrelerini düzenli olarak kontrol etmelidir."
+  ],
+  "col": [
+   "banka kartı",
+   "doğrudan borçlandırma (otomatik ödeme)",
+   "hesabı borçlandırmak"
+  ],
+  "tip": "Banka hesabından para çekilmesini anlatır; kredi kartı harcamaları için kullanılmaz. Kredi kartı için credit card denir.",
+  "note": ""
+ },
+ {
+  "id": "outskirt",
+  "senses": [
+   "şehrin dış çeperi"
+  ],
+  "ex": [
+   "Teyzem, çiftliğin yakınındaki şehir çeperinde yaşıyor.",
+   "Şehir çeperinde uygun fiyatlı konut inşa etmek maliyetleri düşürebilir, ancak sakinlerin araca bağımlılığını artırabilir."
+  ],
+  "col": [
+   "...nin çevresinde",
+   "kasabanın kenar mahalleleri"
+  ],
+  "tip": "Genellikle çoğul outskirts biçiminde ve on the outskirts of kalıbıyla kullanılır; in yerine on tercih edilir.",
+  "note": "Tekil biçim nadir kullanılır; yaygın sözlük biçimi outskirts'tir."
+ },
+ {
+  "id": "patio",
+  "senses": [
+   "teras; bahçe terası"
+  ],
+  "ex": [
+   "Güllerin yanındaki teras üzerinde kahvaltı yaptık.",
+   "Gölgeli bir teras, sakinlere sıcak aylarda rahat bir açık hava alanı sağlayabilir."
+  ],
+  "col": [
+   "bahçe mobilyası",
+   "teras üzerinde",
+   "gölgeli bir teras"
+  ],
+  "tip": "Evin yanında, genellikle zemin seviyesindeki döşemeli açık alanı anlatır; üst katlardaki balkonla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "bookkeeper",
+  "senses": [
+   "defter tutan; muhasebe memuru"
+  ],
+  "ex": [
+   "Muhasebe memurumuz her cuma öğleden sonra fişleri kontrol eder.",
+   "Küçük işletmeler, doğru finansal kayıtları tutmak ve günlük giderleri izlemek için genellikle bir defter tutma görevlisi çalıştırır."
+  ],
+  "col": [
+   "muhasebe memuru çalıştırmak",
+   "yarı zamanlı muhasebe memuru",
+   "deneyimli muhasebe memuru"
+  ],
+  "tip": "Genellikle günlük kayıt tutma işini yapar; accountant ise daha geniş mali danışmanlık ve denetim işlerini de kapsar.",
+  "note": ""
+ },
+ {
+  "id": "unlimited",
+  "senses": [
+   "sınırsız; limitsiz"
+  ],
+  "ex": [
+   "Otelimiz her sabah kahvaltıyla birlikte sınırsız kahve sunuyor.",
+   "Doğal kaynakların sınırsız tüketimine dayanan ekonomik büyüme, ciddi çevre zararına yol açmadan sürdürülemez."
+  ],
+  "col": [
+   "sınırsız erişim",
+   "sınırsız potansiyel",
+   "sınırsız kaynak"
+  ],
+  "tip": "Bir sınır olmadığını belirtir; uncertain (belirsiz, kesin olmayan) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "assist",
+  "senses": [
+   "yardım etmek"
+  ],
+  "ex": [
+   "Samimi bir kütüphaneci yazıcıyla ilgili bana yardımcı oldu.",
+   "Yerel gönüllüler, yaşlı sakinlere çevrimiçi hizmetlerde yardımcı olabilir ve temel bilgilere erişimi kolaylaştırabilir."
+  ],
+  "col": [
+   "birine bir konuda yardım etmek",
+   "bir işte yardımcı olmak",
+   "birine bir şeyi yapmasında yardım etmek"
+  ],
+  "tip": "help'ten daha resmi bir fiildir; genellikle assist someone with something kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stem",
+  "senses": [
+   "gövde; sap",
+   "kaynaklanmak; doğmak",
+   "durdurmak; önlemek"
+  ],
+  "ex": [
+   "Gülün sapını vazoyu doldurmadan önce kesti.",
+   "Kentsel ulaşım sorunlarının çoğu, basit bir yol alanı eksikliğinden değil, kötü planlamadan kaynaklanır."
+  ],
+  "col": [
+   "bitki gövdesi",
+   "...den kaynaklanmak",
+   "...in akışını durdurmak",
+   "...in dalgasını durdurmak"
+  ],
+  "tip": "\"Kaynaklanmak\" anlamında stem from kalıbı kullanılır; büyük harfli STEM ise fen, teknoloji, mühendislik ve matematik alanlarını kısaltır.",
+  "note": ""
+ },
+ {
+  "id": "simplify",
+  "senses": [
+   "basitleştirmek; sadeleştirmek"
+  ],
+  "ex": [
+   "Yemeğe başlamadan önce bu talimatları sadeleştirebilir misin?",
+   "Hükümetler, küçük işletmelerin mali desteğe daha kolay erişebilmesi için başvuru prosedürlerini sadeleştirmelidir."
+  ],
+  "col": [
+   "bir süreci basitleştirmek",
+   "prosedürleri sadeleştirmek",
+   "bir açıklamayı sadeleştirmek"
+  ],
+  "tip": "Karmaşıklığı azaltmak anlamına gelir; sıfat olan simple ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "installation",
+  "senses": [
+   "kurulum; montaj",
+   "tesis; donanım düzeneği",
+   "enstalasyon; yerleştirme"
+  ],
+  "ex": [
+   "Yeni bulaşık makinemizin kurulumu bir saatten kısa sürdü.",
+   "Kamu binalarına güneş paneli kurulması enerji maliyetlerini düşürebilir ve karbon salımını azaltabilir."
+  ],
+  "col": [
+   "kurulum maliyetleri",
+   "yazılım kurulumu",
+   "elektrik tesisatı",
+   "sanat enstalasyonu"
+  ],
+  "tip": "Kurulum süreci anlamında genellikle sayılamaz; belirli bir tesis ya da sanat eseri anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "bias",
+  "senses": [
+   "önyargı; taraflılık",
+   "sistematik sapma",
+   "önyargı oluşturmak; etkilemek"
+  ],
+  "ex": [
+   "Hakem, ev sahibi takıma açıkça taraflı davrandı.",
+   "Araştırmacılar, sapmayı en aza indirmek ve bulgularının daha geniş nüfusu temsil etmesini sağlamak için katılımcıları dikkatle seçmelidir."
+  ],
+  "col": [
+   "...e karşı önyargı",
+   "cinsiyet önyargısı",
+   "örnekleme sapması",
+   "bilinçdışı önyargı"
+  ],
+  "tip": "bias against birine karşı önyargılı olmayı, in favour of ise birinden yana olmayı anlatır; bu iki kalıp karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "reproduce",
+  "senses": [
+   "kopyalamak; yeniden üretmek",
+   "çoğalmak; üremek"
+  ],
+  "ex": [
+   "Bu yazıcı, kurşun kalemle yaptığım çizimlerin her ayrıntısını kopyalıyor.",
+   "Araştırmacılar yöntemlerini açıkça tanımlamalıdır ki diğer ekipler sonuçları bağımsız olarak yeniden elde edebilsin."
+  ],
+  "col": [
+   "sonuçları yeniden elde etmek",
+   "bir görüntüyü çoğaltmak",
+   "eşeyli üremek"
+  ],
+  "tip": "Bir şeyi kopyalamak anlamında nesne alır; canlıların çoğalması anlamında genellikle nesnesiz kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thigh",
+  "senses": [
+   "uyluk"
+  ],
+  "ex": [
+   "Dik tepeye bisikletle çıktıktan sonra uyluklarım ağrıdı.",
+   "Düzenli bisiklet sürmek uyluk kaslarını güçlendirir ve aşırı eklem yükü olmadan genel dayanıklılığı artırabilir."
+  ],
+  "col": [
+   "uyluk kasları",
+   "iç uyluk",
+   "uyluk yaralanması"
+  ],
+  "tip": "Kalça ile diz arasındaki bölgeyi anlatır; baldır için lower leg veya calf kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "deadline",
+  "senses": [
+   "son teslim tarihi; son tarih"
+  ],
+  "ex": [
+   "Başvuru son tarihine yetişmek için geç saatlere kadar uyanık kaldım.",
+   "Gerçekçi bir son tarih belirlemek, araştırmacıların önemli bulguların yayımını geciktirmeden kaliteyi korumasına olanak tanır."
+  ],
+  "col": [
+   "son tarihe yetişmek",
+   "son tarihi kaçırmak",
+   "son tarihi uzatmak",
+   "sıkı bir son tarih"
+  ],
+  "tip": "Zamanında tamamlamak anlamında meet a deadline kalıbı kullanılır; bu anlamda catch ile söylenmez.",
+  "note": ""
+ },
+ {
+  "id": "slave",
+  "senses": [
+   "köle",
+   "kölece çalışmak"
+  ],
+  "ex": [
+   "Müze, kaçmayı başaran bir kölenin hikâyesini anlatıyor.",
+   "Kölelerin deneyimlerini incelemek, öğrencilerin tarihsel sömürü sistemlerinin insani sonuçlarını anlamasına yardımcı olur."
+  ],
+  "col": [
+   "köle ticareti",
+   "özgür bırakılan köleler",
+   "durmadan çalışmak"
+  ],
+  "tip": "Tarihsel bağlamda enslaved person tercih edilebilir; bu ifade kişinin kendisini değil, içinde bulunduğu durumu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "depression",
+  "senses": [
+   "depresyon; çöküntü",
+   "ekonomik durgunluk; bunalım",
+   "çukur; alçak alan"
+  ],
+  "ex": [
+   "Doktoru, depresyonla başa çıkmasına yardımcı olması için düzenli danışmanlık önerdi.",
+   "Ruh sağlığı hizmetlerine erişimi iyileştirmek, depresyonu olan insanların zamanında destek ve uygun tedavi almasına yardımcı olabilir."
+  ],
+  "col": [
+   "depresyondan muzdarip olmak",
+   "ağır depresyon",
+   "ekonomik durgunluk",
+   "depresyonu tedavi etmek"
+  ],
+  "tip": "Kalıcı üzüntü ve ilgi kaybını anlatan klinik bir durumdur; geçici moral bozukluğu için kullanılmaz. Ekonomik anlamda a depression biçiminde sayılabilir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,288 @@
+[
+ {
+  "id": "warm",
+  "senses": [
+   "sıcak; ılık",
+   "sıcakkanlı; samimi",
+   "ısıtmak; ısınmak"
+  ],
+  "ex": [
+   "Bu kalın battaniye soğuk akşamlarda beni sıcak tutuyor.",
+   "Okulda sıcak bir karşılama, yeni öğrencilerin kendilerini aralarında hissetmelerine ve özgüven kazanmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "sıcak tutmak",
+   "sıcak bir karşılama",
+   "ısınmak",
+   "birine ısınmak"
+  ],
+  "tip": "Hot'tan daha düşük bir sıcaklığı anlatır. warm to someone kalıbı birine zamanla ısınmak, yani onu sevmeye başlamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "future",
+  "senses": [
+   "gelecek; istikbal",
+   "gelecekteki; ileride olacak"
+  ],
+  "ex": [
+   "Yürüyerek eve dönerken geleceğimiz hakkında konuştuk.",
+   "Hükümetler, dünyadaki gelecek nesiller için çevreyi korumak amacıyla yenilenebilir enerjiye yatırım yapmalıdır."
+  ],
+  "col": [
+   "gelecekte; ileride",
+   "yakın gelecek",
+   "gelecek nesiller",
+   "parlak bir gelecek"
+  ],
+  "tip": "in the future 'ileride, gelecekte' anlamındadır. İngiliz İngilizcesinde in future ise 'bundan sonra' demektir; bu farka dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "german",
+  "senses": [
+   "Almanya'ya ait; Alman",
+   "Alman",
+   "Almanca"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra geleneksel bir Alman pastası paylaştık.",
+   "Alman üniversiteleri, araştırma olanakları ve geniş lisans programı yelpazesiyle uluslararası öğrencileri çekmektedir."
+  ],
+  "col": [
+   "Alman kültürü",
+   "Almanca öğrenmek",
+   "Alman vatandaşı"
+  ],
+  "tip": "Milliyet ve dil adları her zaman büyük harfle yazılır. Dil adı olarak kullanıldığında genellikle başına artikel getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "all",
+  "senses": [
+   "bütün; tüm",
+   "hepsi; herkes",
+   "tamamen; tümüyle"
+  ],
+  "ex": [
+   "Piknik için bütün çocuklar meyve getirdi.",
+   "Hükümetler, gelirleri ne olursa olsun tüm vatandaşların uygun fiyatlı sağlık hizmetine erişebilmesini sağlamalıdır."
+  ],
+  "col": [
+   "bütün gün",
+   "hepimiz",
+   "her zaman",
+   "ne de olsa"
+  ],
+  "tip": "all hem sayılabilir çoğul isimlerle hem de sayılamayan isimlerle kullanılır. every ise yalnızca tekil sayılabilir isimlerle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "come",
+  "senses": [
+   "gelmek",
+   "gelmek; olmak",
+   "-den gelmek; kaynaklanmak"
+  ],
+  "ex": [
+   "İçeri gel ve ellerini şöminenin yanında ısıt.",
+   "Halk kütüphanelerinin finansmanının büyük bölümü özel bağışçılardan değil, yerel yönetimden gelmektedir."
+  ],
+  "col": [
+   "eve gelmek",
+   "-den gelmek",
+   "gerçek olmak",
+   "sona ermek"
+  ],
+  "tip": "Düzensiz fiil: come, came, come. come from 'nereli olmak, -den gelmek' anlamında kullanılır; from edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "eat",
+  "senses": [
+   "yemek"
+  ],
+  "ex": [
+   "Genellikle evden çıkmadan önce kahvaltıyı birlikte yeriz.",
+   "Okullar, çeşitli taze malzemelerle uygun fiyatlı öğünler sunarak çocukları daha fazla sebze yemeye teşvik edebilir."
+  ],
+  "col": [
+   "kahvaltı yapmak",
+   "dışarıda yemek yemek",
+   "dengeli beslenmek",
+   "iyi beslenmek"
+  ],
+  "tip": "Düzensiz fiil: eat, ate, eaten. eat out 'dışarıda yemek yemek' demektir; kelimesi kelimesine çevirmeyin.",
+  "note": ""
+ },
+ {
+  "id": "carrot",
+  "senses": [
+   "havuç",
+   "teşvik; ödül"
+  ],
+  "ex": [
+   "Havucu dilimleyip çorbaya ekledi.",
+   "Hükümetler, işletmeleri yenilenebilir enerjiye yatırım yapmaya teşvik etmek için vergi indirimlerini bir teşvik olarak kullanabilir."
+  ],
+  "col": [
+   "çiğ havuç",
+   "rendelenmiş havuç",
+   "ödül ve ceza"
+  ],
+  "tip": "Mecazi olarak 'teşvik, ödül' anlamına gelir. carrot and stick ifadesi ödül ve cezayı birlikte kullanma yöntemini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "near",
+  "senses": [
+   "yakınında; yakınına",
+   "yakında; yakınlarda",
+   "yakın; yakın zamanda"
+  ],
+  "ex": [
+   "İstasyonun yakınında sessiz bir kafe bulduk.",
+   "Uygun fiyatlı konutları toplu taşımaya yakın inşa etmek, işe gidiş geliş maliyetlerini azaltabilir ve istihdama erişimi iyileştirebilir."
+  ],
+  "col": [
+   "istasyonun yakınında",
+   "yakın gelecekte",
+   "yaklaşmak",
+   "hiç de yakın değil"
+  ],
+  "tip": "near doğrudan yer ismiyle kullanılabilir (near the station). nearly ise 'neredeyse' anlamına gelir; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "famous",
+  "senses": [
+   "ünlü; meşhur"
+  ],
+  "ex": [
+   "Bu köy lezzetli elmalı turtalarıyla ünlüdür.",
+   "Ünlü simgesel yapılar uluslararası ziyaretçileri çekiyor, ancak turizmden elde edilen gelir çevredeki toplulukları da desteklemeli."
+  ],
+  "col": [
+   "ile ünlü",
+   "olarak ünlü",
+   "dünyaca ünlü"
+  ],
+  "tip": "famous for ünlü olmanın nedenini, famous as ise kişinin sahip olduğu rolü ya da sıfatı belirtir.",
+  "note": ""
+ },
+ {
+  "id": "just",
+  "senses": [
+   "sadece; yalnızca",
+   "az önce; tam olarak",
+   "adil; doğru"
+  ],
+  "ex": [
+   "Paketlemeyi bitirmek için sadece bir dakikaya daha ihtiyacım var.",
+   "Adil bir toplum, ailelerin gelir durumu ne olursa olsun tüm çocukların kaliteli eğitime erişebilmesini sağlamalıdır."
+  ],
+  "col": [
+   "bir dakika",
+   "tam zamanında",
+   "tam yeterli",
+   "adil bir toplum"
+  ],
+  "tip": "Zarf olarak 'sadece' ya da 'az önce' anlamına gelir; sıfat olarak 'adil, doğru' demektir. Anlamı cümleye göre belirleyin.",
+  "note": ""
+ },
+ {
+  "id": "birthday",
+  "senses": [
+   "doğum günü"
+  ],
+  "ex": [
+   "Kız kardeşim doğum günüm için limonlu pasta yaptı.",
+   "Doğum günü kutlamaları kültürlere göre değişse de aileler için birlikte vakit geçirme fırsatı sunar."
+  ],
+  "col": [
+   "doğum günü pastası",
+   "doğum günü hediyesi",
+   "doğum gününü kutlamak"
+  ],
+  "tip": "Belirli bir gün için on kullanılır: on my birthday. in ya da at ile kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "butter",
+  "senses": [
+   "tereyağı",
+   "tereyağı sürmek"
+  ],
+  "ex": [
+   "Sıcak ekmek dilimine biraz tereyağı sürdü.",
+   "Tereyağının bir kısmını doymamış yağlarla değiştirmek, insanların toplam doymuş yağ alımını azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "tereyağı sürmek",
+   "eritilmiş tereyağı",
+   "bir parça tereyağı",
+   "tereyağlı tost"
+  ],
+  "tip": "butter tereyağıdır, cream ise krema anlamına gelir. Gıda olarak genellikle sayılamaz; a butter demeyin.",
+  "note": ""
+ },
+ {
+  "id": "college",
+  "senses": [
+   "yüksekokul; meslek okulu",
+   "fakülte; bölüm"
+  ],
+  "ex": [
+   "Kuzenim yerel bir yüksekokulda hemşirelik okuyor.",
+   "Üniversite eğitimini daha uygun fiyatlı hale getirmek, toplumsal hareketliliği artırabilir ve işverenlere daha nitelikli bir işgücü sağlayabilir."
+  ],
+  "col": [
+   "üniversiteye gitmek",
+   "üniversite öğrencisi",
+   "yüksek öğrenim",
+   "toplum koleji"
+  ],
+  "tip": "Amerikan İngilizcesinde college çoğu zaman üniversite anlamına gelir; İngiliz İngilizcesinde daha çok yüksekokul ya da kolej demektir.",
+  "note": ""
+ },
+ {
+  "id": "close",
+  "senses": [
+   "kapatmak; sona erdirmek",
+   "yakın; samimi",
+   "yakına; yakınında"
+  ],
+  "ex": [
+   "Yağmur içeri girmeden pencereyi kapatır mısın?",
+   "Yerel kütüphaneler kapandığında, sakinler bağımsız öğrenme ve toplumsal etkinlikler için değerli alanlarını kaybeder."
+  ],
+  "col": [
+   "kapıyı kapatmak",
+   "evinize yakın",
+   "yakın arkadaş",
+   "yakın durmak"
+  ],
+  "tip": "Fiil olarak /z/, sıfat ve zarf olarak /s/ okunur. Fiil olarak kapatmak, sıfat ve zarf olarak yakın anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "off",
+  "senses": [
+   "uzağa; ayrılarak",
+   "-den uzakta; -den ayrılarak",
+   "kapalı; çalışmayan"
+  ],
+  "ex": [
+   "Kapı açılınca köpek kaçıp gitti.",
+   "Kamu binalarında gereksiz ışıkları kapalı tutmak, elektrik tüketimini azaltabilir ve işletme maliyetlerini düşürebilir."
+  ],
+  "col": [
+   "kapatmak",
+   "çıkarmak; havalanmak",
+   "izinli; görevde değil",
+   "izin günü"
+  ],
+  "tip": "off hareketi ya da kapanmayı vurgular; of ise aidiyet ya da parça anlamı taşır (of the house). İkisini karıştırmayın.",
+  "note": ""
+ }
+]

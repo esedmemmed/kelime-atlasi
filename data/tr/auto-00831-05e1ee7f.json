@@ -1,0 +1,279 @@
+[
+ {
+  "id": "euro",
+  "senses": [
+   "euro"
+  ],
+  "ex": [
+   "Bugün mont cebimde bir euro buldum.",
+   "Euro kullanmak, turistlerin her sınırda para bozdurmadan birkaç Avrupa ülkesini ziyaret etmesine olanak tanır."
+  ],
+  "col": [
+   "euro bölgesi",
+   "euro ile ödemek",
+   "euroyu benimsemek"
+  ],
+  "tip": "Günlük İngilizcede çoğul genellikle euros biçimindedir; tüm AB ülkeleri euro kullanmaz.",
+  "note": ""
+ },
+ {
+  "id": "bookcase",
+  "senses": [
+   "kitaplık; kitap dolabı"
+  ],
+  "ex": [
+   "Sevdiği romanları ahşap bir kitaplıkta saklıyor.",
+   "Sınıflara erişilebilir kitaplıklar yerleştirmek, çocukları boş zamanlarında bağımsız okumaya teşvik edebilir."
+  ],
+  "col": [
+   "ahşap kitaplık",
+   "gömme kitaplık",
+   "kitaplarla dolu bir kitaplık"
+  ],
+  "tip": "bookcase bütün bir kitaplık dolabını, bookshelf ise tek bir rafı ya da raf sırasını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "rule",
+  "senses": [
+   "kural; kaide",
+   "yönetim; hükümranlık",
+   "yönetmek; hükmetmek"
+  ],
+  "ex": [
+   "Temel kuralımız, çamurlu ayakkabıları dışarıda bırakmaktır.",
+   "Endüstriyel atıkların bertarafına ilişkin açık kurallar, nehirleri korumak ve güvenli içme suyunu sağlamak için şarttır."
+  ],
+  "col": [
+   "kurallara uymak",
+   "bir kuralı çiğnemek",
+   "genellikle",
+   "elemek; dışlamak"
+  ],
+  "tip": "as a rule 'genellikle' anlamına gelir; rule out ise 'elemek, göz ardı etmek' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "brush",
+  "senses": [
+   "fırça",
+   "fırçalamak; temizlemek",
+   "sıyırarak geçmek; hafifçe dokunmak"
+  ],
+  "ex": [
+   "Çamurlu ayakkabılarını temizlemek için yumuşak bir fırça kullan.",
+   "Çocuklar dişlerini düzgün fırçalamayı öğrenmelidir; iyi alışkanlıklar pek çok diş sorununu önleyebilir."
+  ],
+  "col": [
+   "dişlerini fırçalamak",
+   "saçını taramak",
+   "boya fırçası",
+   "hafifçe sıyırmak"
+  ],
+  "tip": "brush against 'hafifçe sürtünmek, dokunarak geçmek' anlamındadır; brush up on ise bir konuyu yeniden gözden geçirmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "proud",
+  "senses": [
+   "gururlu; onur duyan",
+   "kibirli; böbürlenen"
+  ],
+  "ex": [
+   "Kendi pişirdiği kekle gurur duydu.",
+   "Sakinler genellikle kültürel miraslarıyla gurur duyar ve tarihi binaların korunması çabalarını destekler."
+  ],
+  "col": [
+   "ile gurur duymak",
+   "olmaktan gurur duymak",
+   "birini gururlandırmak",
+   "sormaya gururu izin vermemek"
+  ],
+  "tip": "proud of'tan sonra isim ya da -ing fiil gelir; be proud to ise 'bir şey olmaktan gurur duymak' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "simple",
+  "senses": [
+   "basit; kolay",
+   "sade; süssüz"
+  ],
+  "ex": [
+   "Bu basit tarif hazırlanması yalnızca on dakika sürüyor.",
+   "Okullar, tüm öğrencilerin sınıf görevlerini bağımsız olarak tamamlayabilmesi için basit yönergeler sunmalıdır."
+  ],
+  "col": [
+   "basit çözüm",
+   "basit yönergeler",
+   "işi basit tutmak"
+  ],
+  "tip": "simple hem 'kolay' hem 'sade' anlamına gelebilir; sade olması her zaman yoksul ya da kalitesiz olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "yet",
+  "senses": [
+   "henüz; şimdiye kadar",
+   "ama; yine de",
+   "hâlâ; daha da"
+  ],
+  "ex": [
+   "Akşam yemeğim henüz bitmedi, lütfen bekle.",
+   "Yenilenebilir enerji giderek ucuzluyor; yine de birçok ülke hâlâ fosil yakıtlara büyük ölçüde bağımlı."
+  ],
+  "col": [
+   "henüz değil",
+   "henüz yapmamış olmak",
+   "bir tane daha",
+   "daha da iyisi"
+  ],
+  "tip": "Olumsuz cümle sonunda 'henüz' anlamına gelir; soru cümlesinde 'şimdiye kadar' anlamı taşır. Olumlu cümlede genellikle still ya da already tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "jewelry",
+  "senses": [
+   "mücevher; takı"
+  ],
+  "ex": [
+   "Mücevherlerini küçük ahşap bir kutuda saklıyor.",
+   "Tüketiciler, takılarda kullanılan malzemelerin sorumlu biçimde tedarik edildiğinden ve çevreye zarar vermediğinden giderek daha fazla emin olmak istiyor."
+  ],
+  "col": [
+   "bir takı parçası",
+   "el yapımı takı",
+   "altın takı",
+   "bijuteri"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımı jewellery. Sayılamaz bir isimdir, parça saymak için a piece of jewelry kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "distance",
+  "senses": [
+   "mesafe; uzaklık",
+   "duygusal uzaklık; soğukluk",
+   "uzak durmak; uzaklaşmak"
+  ],
+  "ex": [
+   "Evimizden okula olan mesafe oldukça kısa.",
+   "Yerleşim alanları ile iş yerleri arasındaki mesafeyi azaltmak, ulaşım emisyonlarını düşürebilir ve kentsel yaşam kalitesini artırabilir."
+  ],
+  "col": [
+   "yürüme mesafesi",
+   "uzakta",
+   "uzak durmak",
+   "kendini ... den uzaklaştırmak"
+  ],
+  "tip": "in the distance 'uzakta' (görünen bir yerde) anlamına gelir; at a distance ise 'belli bir mesafeden' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "underground",
+  "senses": [
+   "yeraltı; gizli",
+   "yeraltında; gizlice",
+   "metro"
+  ],
+  "ex": [
+   "Arabamızı yeraltı otoparkında bıraktık.",
+   "Yeraltı ulaşım sistemleri trafik sıkışıklığını azaltabilir; ancak tünel inşası büyük yatırım ve dikkatli planlama gerektirir."
+  ],
+  "col": [
+   "metro istasyonu",
+   "yeraltı otoparkı",
+   "yeraltında seyahat etmek",
+   "yeraltına çekilmek"
+  ],
+  "tip": "'Metro' anlamındaki isim kullanımı özellikle İngiliz İngilizcesinde yaygındır; Amerikan İngilizcesinde subway tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "refuse",
+  "senses": [
+   "reddetmek; geri çevirmek",
+   "çöp; atık"
+  ],
+  "ex": [
+   "Sevdiği mavi şemsiyesi olmadan gitmeyi reddetti.",
+   "Yerel yönetimler, yaban hayatı yaşam alanlarını tehdit eden ya da taşkın riskini artıran projelere izin vermeyebilir."
+  ],
+  "col": [
+   "bir şeyi yapmayı reddetmek",
+   "bir teklifi reddetmek",
+   "izni reddetmek",
+   "çöp toplama"
+  ],
+  "tip": "İsim /ˈrefjuːs/, fiil /rɪˈfjuːz/ okunur. Fiilden sonra to do kalıbı kullanılır, -ing eki gelmez.",
+  "note": ""
+ },
+ {
+  "id": "lazy",
+  "senses": [
+   "tembel; isteksiz",
+   "rahat; durgun"
+  ],
+  "ex": [
+   "Bu akşam yemek pişirmeye fazla üşendim.",
+   "Ödevlerinde zorlanan öğrenciler, öğrenme güçlükleri olabileceği için otomatik olarak tembel sayılmamalıdır."
+  ],
+  "col": [
+   "yapmaya fazla tembel",
+   "tembel bir öğleden sonra",
+   "üşenmek"
+  ],
+  "tip": "lazy afternoon gibi kullanımlarda 'rahat, durgun' anlamı taşır ve olumsuz değildir; kişi için kullanıldığında ise olumsuz anlam kazanır.",
+  "note": ""
+ },
+ {
+  "id": "scary",
+  "senses": [
+   "korkutucu; ürkütücü"
+  ],
+  "ex": [
+   "O ürkütücü ses, sadece pencereye çarpan bir dalın sesiymiş.",
+   "Okula başlamak küçük çocuklar için korkutucu olabilir; bu yüzden öğretmenler sıcak bir ortam yaratmalıdır."
+  ],
+  "col": [
+   "korku filmi",
+   "korkutucu bir deneyim",
+   "korkutucu görünmek"
+  ],
+  "tip": "scary bir şeyi ya da durumu anlatır; kişinin korkmasını anlatmak için scared kullanılır. 'I am scary' değil, 'I am scared' demelisin.",
+  "note": ""
+ },
+ {
+  "id": "grandson",
+  "senses": [
+   "erkek torun"
+  ],
+  "ex": [
+   "Erkek torunu her pazar ziyaret eder ve yemek yapmasına yardım eder.",
+   "Bir erkek ya da kız torunla düzenli iletişim, yaşlı yetişkinlerin kendilerini sosyal olarak daha bağlantılı hissetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "en küçük erkek torun",
+   "en büyük erkek torun"
+  ],
+  "tip": "Türkçedeki 'torun' cinsiyet belirtmez; grandson yalnızca erkek torunu anlatır. Kız torun için granddaughter kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "anywhere",
+  "senses": [
+   "herhangi bir yere; her yere",
+   "bir yerde; hiçbir yerde"
+  ],
+  "ex": [
+   "Bu odada istediğin yere oturabilirsin.",
+   "Güvenilir internet erişimi, çalışanların her yerden çalışmasını sağlar ve günlük işe gidip gelme ihtiyacını azaltır."
+  ],
+  "col": [
+   "başka bir yerde",
+   "her yerden",
+   "neredeyse hiçbir yerde"
+  ],
+  "tip": "Zarftır, yani isimleri doğrudan niteleyemez. Olumsuz cümlelerde 'hiçbir yerde' anlamı taşır; anywhere else ise 'başka bir yerde' demektir.",
+  "note": ""
+ }
+]

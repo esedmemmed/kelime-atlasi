@@ -1,0 +1,266 @@
+[
+ {
+  "id": "amends",
+  "senses": [
+   "telafi; tazminat"
+  ],
+  "ex": [
+   "Ona gönlünü almak için bir pasta yaptım.",
+   "Şirketler, habitatları onarıp etkilenen topluluklara tazminat ödeyerek çevreye verdikleri zararın telafisini yapmalıdır."
+  ],
+  "col": [
+   "telafi etmek",
+   "bir hatayı telafi etmek",
+   "birine telafi etmek"
+  ],
+  "tip": "Bu anlamda çoğunlukla make amends kalıbıyla kullanılır. 'an amends' şeklinde kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "ignite",
+  "senses": [
+   "tutuşturmak; yakmak",
+   "uyandırmak; başlatmak"
+  ],
+  "ex": [
+   "Küçük bir kıvılcım, şöminedeki kuru odunu tutuşturdu.",
+   "Uygulamalı fen dersleri, öğrencilerin merakını uyandırabilir ve tanıdık olmayan fikirleri bağımsız olarak keşfetmelerini teşvik edebilir."
+  ],
+  "col": [
+   "ateş yakmak",
+   "ilgi uyandırmak",
+   "tartışma başlatmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılabilir. Mecazi olarak ilgi ya da tartışma başlatmak anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "witty",
+  "senses": [
+   "esprili; zekice"
+  ],
+  "ex": [
+   "Onun zekice cevabı masadaki herkesi güldürdü.",
+   "Esprili bir sunum, mizahın dersi destekleyip dikkatı dağıtmaması koşuluyla öğrencilerin ilgisini çekebilir."
+  ],
+  "col": [
+   "zekice bir söz",
+   "zekice bir cevap",
+   "esprili diyalog"
+  ],
+  "tip": "witty dil becerisindeki zekâyı ve esprili ifadeyi vurgular; sadece komik olan her şey için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "veto",
+  "senses": [
+   "veto hakkı; veto",
+   "veto etmek; reddetmek"
+  ],
+  "ex": [
+   "Kulüp başkanı satın almayı durdurmak için veto hakkını kullandı.",
+   "Her üyeye veto hakkı tanımak azınlığın çıkarlarını koruyabilir, ama acil kolektif kararları da geciktirebilir."
+  ],
+  "col": [
+   "veto yetkisi",
+   "veto hakkını kullanmak",
+   "bir öneriyi veto etmek",
+   "vetoyu geçersiz kılmak"
+  ],
+  "tip": "İsim olarak çoğulu vetoes, fiil olarak geçmiş zamanı vetoed biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "wail",
+  "senses": [
+   "feryat etmek; hüngür hüngür ağlamak",
+   "feryat; uzun çığlık"
+  ],
+  "ex": [
+   "Oyuncağı düşünce bebek yüksek sesle ağlamaya başladı.",
+   "Acil durum ekipleri ciddi sel felaketine müdahale ederken sakinler gece boyunca sirenlerin uzun uzun ulumasını duydu."
+  ],
+  "col": [
+   "acıyla feryat etmek",
+   "delici bir feryat",
+   "sirenlerin uluması"
+  ],
+  "tip": "Sürekli, yüksek ve acı dolu ağlamayı anlatır; hafif ağlamak için kullanılmaz. Sirenler için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "adverbial",
+  "senses": [
+   "zarf görevinde; zarfsal",
+   "zarf tümleci; zarf öbeği"
+  ],
+  "ex": [
+   "Öğretmenimiz zarf öbeklerini günlük hayattan basit örneklerle anlattı.",
+   "Zarf tümleçlerini anlamak, dil öğrenenlerin akademik yazıda olaylar arasındaki ilişkileri daha kesin ifade etmesini sağlar."
+  ],
+  "col": [
+   "zarf öbeği",
+   "zarf tümleci",
+   "zarf niteleyicisi"
+  ],
+  "tip": "adverb bir sözcük türüdür; adverbial ise tek bir sözcük, öbek veya cümlenin zarf işlevini gören yapısını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "bust",
+  "senses": [
+   "büst; heykel",
+   "göğüs; göğüs ölçüsü"
+  ],
+  "ex": [
+   "Müzenin girişinde mermer bir büst duruyordu.",
+   "Yerel bir sanatçının büstünü sergilemek, müzelerin ziyaretçileri topluluğun kültürel tarihiyle buluşturmasına yardımcı olabilir."
+  ],
+  "col": [
+   "mermer büst",
+   "bronz büst",
+   "göğüs ölçüsü"
+  ],
+  "tip": "Heykel anlamında genellikle baş, omuz ve üst göğsü gösterir. Tam bir heykel için statue kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "syndrome",
+  "senses": [
+   "sendrom; belirti grubu"
+  ],
+  "ex": [
+   "Doktor, bu sendromun uykuyu nasıl etkilediğini açıkladı.",
+   "Bir sendromu erken fark etmek, sağlık çalışanlarının uygun destek vermesine ve belirtileri daha etkili yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kronik yorgunluk sendromu",
+   "irritabl bağırsak sendromu",
+   "metabolik sendrom"
+  ],
+  "tip": "Birlikte görülen bir belirti grubunu anlatır. Tek bir belirti için symptom kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "platypus",
+  "senses": [
+   "ornitorenk"
+  ],
+  "ex": [
+   "Nehir kıyısında sessizce yüzen bir ornitorenk izledik.",
+   "Nehirleri kirlilikten korumak, ornitorenklerin ve diğer tatlı su hayvanlarının hayatta kalması için çok önemlidir."
+  ],
+  "col": [
+   "ördek gagalı ornitorenk",
+   "ornitorenk yaşam alanı"
+  ],
+  "tip": "Yumurtlamasına rağmen bir memelidir. Bu bilgi, hayvanın sınıflandırılmasında önemli bir noktadır.",
+  "note": ""
+ },
+ {
+  "id": "converse",
+  "senses": [
+   "konuşmak; sohbet etmek"
+  ],
+  "ex": [
+   "Tren beklerken sessizce sohbet ettik.",
+   "Dil değişim programları, öğrencilerin ana dili konuşanlarla konuşmasına ve tanıdık olmayan sosyal ortamlarda özgüven kazanmasına olanak tanır."
+  ],
+  "col": [
+   "biriyle konuşmak",
+   "İngilizce konuşmak",
+   "bir konu hakkında konuşmak"
+  ],
+  "tip": "Fiil olarak vurgu ikinci hecededir (kən-VƏRS). 'Ters, karşıt' anlamındaki isim ve sıfatta vurgu ilk hecededir.",
+  "note": ""
+ },
+ {
+  "id": "execution",
+  "senses": [
+   "uygulama; yerine getirme",
+   "idam; infaz",
+   "icra; sergileme"
+  ],
+  "ex": [
+   "Piknik planı basitti ama uygulanması zor çıktı.",
+   "Çevre politikalarının başarılı biçimde uygulanması yeterli finansman, net sorumluluklar ve kamu otoritelerinin sürekli izlemesini gerektirir."
+  ],
+  "col": [
+   "planın uygulanması",
+   "kusursuz uygulama",
+   "infazın ertelenmesi"
+  ],
+  "tip": "Plan uygulamak veya idam anlamına gelebilir. Hangisinin kastedildiğini cümlenin bağlamından anlamak gerekir.",
+  "note": ""
+ },
+ {
+  "id": "doubtless",
+  "senses": [
+   "şüphesiz; kuşkusuz"
+  ],
+  "ex": [
+   "Bu kadar uzun bir yürüyüşten sonra şüphesiz acıkacaksın.",
+   "Daha iyi toplu taşıma, işe gidip gelenlere şüphesiz fayda sağlayacak; ancak inşaatı geçici aksamalara yol açabilir."
+  ],
+  "col": [
+   "şüphesiz olacak",
+   "şüphesiz olurdu",
+   "muhakkak farkında olmak"
+  ],
+  "tip": "Genellikle emin olunan bir tahmini belirtir; her zaman mutlak kesinlik anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "inference",
+  "senses": [
+   "çıkarım; sonuç"
+  ],
+  "ex": [
+   "Çamurlu botları, sabah yürüyüşü hakkındaki çıkarımımı destekledi.",
+   "Araştırmacılar, alternatif açıklamaları dikkate almadan küçük bir örneklemden kesin bir çıkarım yapmaktan kaçınmalıdır."
+  ],
+  "col": [
+   "çıkarımda bulunmak",
+   "makul çıkarım",
+   "kanıttan çıkarım"
+  ],
+  "tip": "Genellikle draw an inference from kalıbıyla, kanıta dayanarak çıkarım yapmak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "alleviate",
+  "senses": [
+   "hafifletmek; azaltmak"
+  ],
+  "ex": [
+   "Sıcak bir banyo omuzlarımdaki ağrıyı hafifletmeye yardımcı oldu.",
+   "Uygun fiyatlı konut sayısını artırmak, düşük gelirli ailelerin üzerindeki baskıyı azaltabilir ve evsizlik riskini düşürebilir."
+  ],
+  "col": [
+   "ağrıyı hafifletmek",
+   "yoksulluğu azaltmak",
+   "baskıyı hafifletmek",
+   "belirtileri hafifletmek"
+  ],
+  "tip": "Bir acıyı veya sorunu azaltmak anlamındadır, tamamen ortadan kaldırmak değildir. Tam ortadan kaldırmak için eliminate kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "textual",
+  "senses": [
+   "metinsel; metne ilişkin"
+  ],
+  "ex": [
+   "Editör hikayemde birkaç metinsel değişiklik yaptı.",
+   "Öğrenciler, bir romana dair yorumlarını yalnızca kişisel tepkilerine dayandırmak yerine metindeki kanıtlarla desteklemelidir."
+  ],
+  "col": [
+   "metin çözümlemesi",
+   "metinsel kanıt",
+   "metin eleştirisi",
+   "metinsel değişiklikler"
+  ],
+  "tip": "textual metin içeriğiyle ilgilidir; textile ise tekstil ya da dokuma anlamına gelir, bu ikisini karıştırmayın.",
+  "note": ""
+ }
+]

@@ -1,0 +1,281 @@
+[
+ {
+  "id": "cherry",
+  "senses": [
+   "kiraz",
+   "kiraz ağacı"
+  ],
+  "ex": [
+   "Pastanın üstüne olgun bir kiraz koydu.",
+   "Kiraz ağaçları ilkbaharda ziyaretçileri çeker ve turizm sayesinde kırsal topluluklara mevsimlik gelir sağlar."
+  ],
+  "col": [
+   "kiraz çiçeği",
+   "kiraz ağacı",
+   "olgun kirazlar"
+  ],
+  "tip": "Çoğulu cherries olur (y, ies'e döner). Çekirdeğine İngiliz İngilizcesinde stone, Amerikan İngilizcesinde pit denir.",
+  "note": ""
+ },
+ {
+  "id": "heavy",
+  "senses": [
+   "ağır",
+   "yoğun; şiddetli",
+   "zahmetli; yorucu"
+  ],
+  "ex": [
+   "Bu bavul kaldırmam için çok ağır.",
+   "Yoğun trafik, kentsel hava kirliliğine katkıda bulunur ve insanların işe gidip gelmek için harcadığı süreyi artırır."
+  ],
+  "col": [
+   "şiddetli yağmur",
+   "yoğun trafik",
+   "ağır iş yükü",
+   "ağır yük kaldırma"
+  ],
+  "tip": "Şiddetli yağmur için big değil heavy rain kullanılır. Sıfatın kullanıldığı isimle doğru eşleştiğine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "postman",
+  "senses": [
+   "postacı"
+  ],
+  "ex": [
+   "Postacı, ön kapımızın yanına bir paket bırakmış.",
+   "Uzak köylerde bir postacı, sakinlerle kamu hizmetleri arasında önemli bir bağlantı sağlayabilir."
+  ],
+  "col": [
+   "semtin postacısı",
+   "postacı olarak çalışmak",
+   "postacının dağıtım güzergâhı"
+  ],
+  "tip": "İngiliz İngilizcesinde yaygındır. Amerikan İngilizcesinde genellikle mail carrier denir ve cinsiyet belirtmez.",
+  "note": ""
+ },
+ {
+  "id": "chat",
+  "senses": [
+   "sohbet etmek; yazışmak",
+   "sohbet"
+  ],
+  "ex": [
+   "Otobüs beklerken hafta sonumuz hakkında sohbet ettik.",
+   "Toplumsal bahçeler komşuların düzenli sohbet etmesine olanak tanır; bu da daha güçlü ilişkiler kurmalarına ve sosyal yalnızlığı azaltmalarına yardımcı olur."
+  ],
+  "col": [
+   "arkadaşlarla sohbet etmek",
+   "iş hakkında sohbet etmek",
+   "kısa bir sohbet yapmak",
+   "çevrim içi sohbet"
+  ],
+  "tip": "Kişiyle with, konuyla about kullanılır. Geçmiş zaman chatted olur; son harf ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "hurt",
+  "senses": [
+   "acımak; ağrımak",
+   "incitmek; zarar vermek",
+   "yaralı; incinmiş"
+  ],
+  "ex": [
+   "Merdiven çıkarken ayak bileğim hâlâ ağrıyor.",
+   "Toplu taşıma finansmanındaki kesintiler, temel yolculuklar için otobüse bağımlı olan kırsal toplulukları olumsuz etkileyebilir."
+  ],
+  "col": [
+   "belini incitmek",
+   "birinin duygularını incitmek",
+   "yaralanmak"
+  ],
+  "tip": "Üç hâli de aynıdır: hurt, hurt, hurt. Ağrıyan vücut bölümü cümlenin öznesi olabilir (My ankle hurts).",
+  "note": ""
+ },
+ {
+  "id": "fortunately",
+  "senses": [
+   "neyse ki; şans eseri"
+  ],
+  "ex": [
+   "Neyse ki otobüs gelmeden anahtarlarımı buldum.",
+   "Neyse ki su arıtma alanındaki gelişmeler, birçok topluluğun önlenebilir hastalıkların yayılmasını azaltmasına yardımcı oldu."
+  ],
+  "col": [
+   "bizim için neyse ki",
+   "neyse ki yeterince",
+   "neyse ki kimse yaralanmadı"
+  ],
+  "tip": "Genellikle cümle başında kullanılır ve virgülle ayrılır. Olayın genel olarak şanslı sonuçlandığını belirtir.",
+  "note": ""
+ },
+ {
+  "id": "roll",
+  "senses": [
+   "yuvarlanmak; yuvarlamak",
+   "sarmak; kıvırmak",
+   "rulo; küçük ekmek"
+  ],
+  "ex": [
+   "Portakal masanın üstünden kayıp sandalyemin altına yuvarlandı.",
+   "İşçiler geri dönüştürülmüş levhaları sarıp depolama ve taşımayı kolaylaştıran sıkı balyalar hâline getirir."
+  ],
+  "col": [
+   "tepeden yuvarlanmak",
+   "kollarını sıvamak",
+   "bir rulo kağıt",
+   "küçük ekmek"
+  ],
+  "tip": "roll, bir şeyin dönerek yuvarlanmasını vurgular. Bir şeyi kıvırıp sarmak için genellikle roll up kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "quarter",
+  "senses": [
+   "dörtte bir; çeyrek",
+   "çeyrek; üç aylık dönem",
+   "semt; mahalle"
+  ],
+  "ex": [
+   "Sandviçi çocuklar için dörde böldü.",
+   "Şehir sakinlerinin neredeyse dörtte biri, günlük işe gidip gelmek için toplu taşımaya bağımlı."
+  ],
+  "col": [
+   "...nin dörtte biri",
+   "çeyrek saat",
+   "ilk çeyrek",
+   "tarihi semt"
+  ],
+  "tip": "a quarter of an hour 'bir çeyrek saat' (15 dakika) demektir. quarter hem kesri hem üç aylık dönemi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "advice",
+  "senses": [
+   "tavsiye; öğüt"
+  ],
+  "ex": [
+   "Senin tavsiyen, rahat bir bisiklet seçmeme yardımcı oldu.",
+   "Okullar, öğrencilerin geleceklerine ilişkin bilinçli kararlar alabilmeleri için pratik kariyer tavsiyesi sunmalıdır."
+  ],
+  "col": [
+   "tavsiye vermek",
+   "tavsiye istemek",
+   "tavsiyeye uymak",
+   "bir tavsiye"
+  ],
+  "tip": "Sayılamaz bir isimdir; an advice denmez, a piece of advice kullanılır. Fiil advise'dır ve sondaki s /z/ okunur.",
+  "note": ""
+ },
+ {
+  "id": "excellent",
+  "senses": [
+   "mükemmel; harika"
+  ],
+  "ex": [
+   "Çorba harikaydı, bu yüzden bir kase daha söyledim.",
+   "Kaliteli toplu taşıma, araç bağımlılığını azaltabilir ve şehirleri tüm sakinler için daha erişilebilir hâle getirebilir."
+  ],
+  "col": [
+   "mükemmel hizmet",
+   "mükemmel sonuçlar",
+   "harika bir fırsat"
+  ],
+  "tip": "Zaten 'çok iyi' anlamı taşıdığı için very ile pekiştirilmez. Doğrudan excellent kullanın.",
+  "note": ""
+ },
+ {
+  "id": "boil",
+  "senses": [
+   "kaynamak; kaynatmak",
+   "haşlamak",
+   "çıban"
+  ],
+  "ex": [
+   "Patatesleri kolayca delinene kadar haşlayın.",
+   "Sel yerel su kaynaklarına zarar verip enfeksiyon riskini artırdığında sakinler içme suyunu kaynatmalıdır."
+  ],
+  "col": [
+   "su kaynatmak",
+   "yumurta haşlamak",
+   "kaynama noktasına getirmek",
+   "özünde ... olmak"
+  ],
+  "tip": "boil, sıvının kaynama noktasına ulaşmasını ya da kaynatılmasını anlatır. simmer ise kısık ateşte yavaş pişirmek için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sauce",
+  "senses": [
+   "sos"
+  ],
+  "ex": [
+   "Bu domates sosu taze makarnayla çok güzel gidiyor.",
+   "Yemeği evde sos hazırlayarak aileler, yemeklerindeki tuz ve şeker miktarını kontrol edebilir."
+  ],
+  "col": [
+   "domates sosu",
+   "soya sosu",
+   "makarna sosu",
+   "zengin bir sos"
+  ],
+  "tip": "Genel anlamda sos için sauce kullanılır. Soya sosu için soy sauce denir.",
+  "note": ""
+ },
+ {
+  "id": "moustache",
+  "senses": [
+   "bıyık"
+  ],
+  "ex": [
+   "Amcam her pazar bıyığını dikkatle kısaltır.",
+   "Tarihi portrelerde özenle şekillendirilmiş bir bıyık, çoğu zaman dönemin moda anlayışını ve toplumsal statüsünü yansıtırdı."
+  ],
+  "col": [
+   "bıyık bırakmak",
+   "bıyığını kısaltmak",
+   "kalın bir bıyık"
+  ],
+  "tip": "moustache üst dudaktaki bıyığı, beard ise çene ve yanaklardaki sakalı anlatır. Amerikan yazımı mustache'tir.",
+  "note": ""
+ },
+ {
+  "id": "uniform",
+  "senses": [
+   "üniforma; okul forması",
+   "tek tip; aynı"
+  ],
+  "ex": [
+   "Okul üniformam hâlâ pencerenin yanında kuruyor.",
+   "Tüm fabrikalarda tek tip güvenlik standartları, işçileri koruyabilir ve genel çalışma koşullarını iyileştirebilir."
+  ],
+  "col": [
+   "okul üniforması",
+   "üniforma giymek",
+   "tek tip standartlar",
+   "düzgün dağılım"
+  ],
+  "tip": "uniform /j/ sesiyle başladığı için a uniform denir, an uniform denmez.",
+  "note": ""
+ },
+ {
+  "id": "instruction",
+  "senses": [
+   "talimat; kılavuz",
+   "emir; buyruk",
+   "öğretim; eğitim"
+  ],
+  "ex": [
+   "Eğitmen tek ve net bir talimat verdi: ipi sıkı tut.",
+   "Öğrenciler, sınıf teorisini günlük sorunlarla birleştiren pratik eğitimden çoğu zaman yarar sağlar."
+  ],
+  "col": [
+   "talimatları izlemek",
+   "adım adım talimatlar",
+   "talimat vermek",
+   "pratik eğitim"
+  ],
+  "tip": "Kullanım talimatı anlamında genellikle çoğul instructions kullanılır. Öğretim anlamında ise sayılamaz.",
+  "note": ""
+ }
+]

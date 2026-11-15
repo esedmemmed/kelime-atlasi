@@ -1,0 +1,274 @@
+[
+ {
+  "id": "diamond",
+  "senses": [
+   "elmas; pırlanta",
+   "eşkenar dörtgen"
+  ],
+  "ex": [
+   "Küçük bir elmas, gümüş yüzüğünde parlıyordu.",
+   "Elmas endüstrisi, madencilik uygulamalarının işçileri ve yerel ekosistemleri koruduğunu gösterme konusunda giderek artan bir baskıyla karşı karşıya."
+  ],
+  "col": [
+   "elmas yüzük",
+   "ham elmas",
+   "elmas madenciliği",
+   "eşkenar dörtgen şekli"
+  ],
+  "tip": "diamond hem elmas taşını hem de eşkenar dörtgen şeklini anlatır; geometride eşkenar dörtgen için rhombus da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stewardess",
+  "senses": [
+   "hostes; kabin memuru"
+  ],
+  "ex": [
+   "Büyükannem öğretmen olmadan önce hostes olarak çalıştı.",
+   "'Stewardess' yerine 'flight attendant' kullanılması, mesleki alanda cinsiyet açısından nötr dile doğru daha geniş bir değişimi yansıtıyor."
+  ],
+  "col": [
+   "hostes olarak çalışmak",
+   "havayolu hostesi"
+  ],
+  "tip": "Eski ve kadınlara özgü bir terimdir; günümüzde genellikle flight attendant kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cassette",
+  "senses": [
+   "kaset"
+  ],
+  "ex": [
+   "Dolapta eski şarkılardan oluşan bir kaset bulduk.",
+   "Dijital yayıncılık yaygınlaşmadan önce birçok dil öğrencisi evde dinleme pratiği yapmak için kaset kayıtlarını kullanırdı."
+  ],
+  "col": [
+   "kaset bandı",
+   "kaset çalar",
+   "ses kasedi"
+  ],
+  "tip": "Vurgu ikinci hecededir; kaset çalara cassette player denir.",
+  "note": ""
+ },
+ {
+  "id": "jar",
+  "senses": [
+   "kavanoz; cam kavanoz",
+   "rahatsız etmek; uymamak",
+   "sarsmak; silkelemek"
+  ],
+  "ex": [
+   "Ev yapımı reçelini küçük bir cam kavanozda saklıyor.",
+   "Gıda saklamak için cam kavanozları yeniden kullanmak, hanelerin tek kullanımlık plastik ambalaja bağımlılığını azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "bir kavanoz bal",
+   "cam kavanoz",
+   "çevreyle uyumsuz olmak"
+  ],
+  "tip": "jar genellikle kapaklı, geniş ağızlı kavanozu anlatır; 'a jar of' kalıbında sonrasına içindeki madde gelir.",
+  "note": ""
+ },
+ {
+  "id": "achieve",
+  "senses": [
+   "başarmak; elde etmek"
+  ],
+  "ex": [
+   "Her gün çalışarak yüzme hedefine sonunda ulaştı.",
+   "Hükümetler temiz enerjiye yatırım yaparak ve toplu taşımayı iyileştirerek hava kirliliğinde önemli azalmalar sağlayabilir."
+  ],
+  "col": [
+   "başarıya ulaşmak",
+   "bir hedefe ulaşmak",
+   "dengeyi sağlamak",
+   "sonuç elde etmek"
+  ],
+  "tip": "Doğrudan hedef ya da sonuç alır; 'achieve to do' yapısı yanlıştır, achieve + isim kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "humid",
+  "senses": [
+   "nemli"
+  ],
+  "ex": [
+   "O kadar nemli ki gömleğim üstüme yapışıyor.",
+   "Nemli iklimlerde, küf oluşumunu önlemek ve sakinlerin sağlığını korumak için binalarda etkili havalandırma gerekir."
+  ],
+  "col": [
+   "nemli iklim",
+   "sıcak ve nemli",
+   "nemli hava"
+  ],
+  "tip": "humid genellikle havanın ya da iklimin nemli olduğunu anlatır; ıslak eşyalar için wet kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "youth",
+  "senses": [
+   "gençlik; genç yaş",
+   "gençler; genç nesil",
+   "genç erkek; delikanlı"
+  ],
+  "ex": [
+   "Büyükannem gençliğini kıyıdaki bir köyde geçirdi.",
+   "Gençlik hizmetlerine yapılan yatırım, genç insanlara değerli beceriler kazandırabilir ve onların aidiyet duygusunu güçlendirebilir."
+  ],
+  "col": [
+   "gençliğinde",
+   "genç işsizliği",
+   "gençlik merkezi"
+  ],
+  "tip": "Genel anlamda gençlik dönemi sayılamaz; a youth ise tek bir genç erkeği, özellikle ergen yaştakini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "custom",
+  "senses": [
+   "gelenek; görenek",
+   "ısmarlama; özel yapım",
+   "müşteriler; alışveriş"
+  ],
+  "ex": [
+   "Birlikte yemek yemek ailemizde önemli bir gelenektir.",
+   "Okullar, çocukları yerel geleneklerle tanıştırırken diğer kültürlerin geleneklerine saygıyı da teşvik edebilir."
+  ],
+  "col": [
+   "yerel gelenekler",
+   "eski bir gelenek",
+   "ısmarlama mobilya",
+   "düzenli müşteri"
+  ],
+  "tip": "custom gelenek anlamında kullanılır; customs ise gümrük ya da gümrük idaresi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "fascinating",
+  "senses": [
+   "büyüleyici; çok ilginç"
+  ],
+  "ex": [
+   "Rehber bize kale hakkında büyüleyici hikâyeler anlattı.",
+   "Müze koleksiyonları, önceki toplumların doğal çevrelerindeki değişimlere nasıl uyum sağladığına dair ilgi çekici bilgiler sunar."
+  ],
+  "col": [
+   "son derece ilginç",
+   "ilgi çekici bir içgörü",
+   "büyüleyici bir keşif"
+  ],
+  "tip": "Bir şeyin insanı büyülemesi için fascinating; kişinin büyülenmesi için fascinated kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "daytime",
+  "senses": [
+   "gündüz",
+   "gündüze ait; gündüzki"
+  ],
+  "ex": [
+   "Kedi genellikle gündüzleri evde uyur.",
+   "Yüksek gündüz sıcaklıkları, yaz aylarında açık havada çalışanları programlarını ayarlamaya zorlayabilir."
+  ],
+  "col": [
+   "gündüz vakti",
+   "gündüz sıcaklıkları",
+   "gündüz televizyon yayını"
+  ],
+  "tip": "Genellikle in the daytime biçiminde kullanılır; sıfat olarak ismin önünde the kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "wherever",
+  "senses": [
+   "nerede olursa olsun; nereye",
+   "acaba nerede"
+  ],
+  "ex": [
+   "En rahat hissettiğin yerde oturabilirsin.",
+   "Hükümetler, uzak kırsal topluluklar da dahil olmak üzere, çocukların nerede yaşarsa yaşasın iyi bir eğitim almasını sağlamalıdır."
+  ],
+  "col": [
+   "mümkün olduğunda",
+   "nereye gidersen git",
+   "nerede yaşarsan yaşa"
+  ],
+  "tip": "'Nerede olursa olsun' anlamında no matter where ile eşdeğerdir; soru cümlelerinde şaşkınlık ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "signature",
+  "senses": [
+   "imza",
+   "belirleyici; ayırt edici"
+  ],
+  "ex": [
+   "Kapıdaki kurye benden imza istedi.",
+   "Elektronik imzalar, işletmelerin anlaşmaları uzaktan tamamlamasına olanak tanır; gecikmeleri ve kâğıt belgelerin gerekliliğini azaltır."
+  ],
+  "col": [
+   "imza gerektirmek",
+   "elektronik imza",
+   "imza yemek"
+  ],
+  "tip": "Ünlü birinin imzası için genellikle autograph kullanılır; signature ise kişinin kendi imzasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "absolutely",
+  "senses": [
+   "kesinlikle; tamamen",
+   "tabii ki; kesinlikle"
+  ],
+  "ex": [
+   "Mutfak, biz temizledikten sonra tertemiz olmuştu.",
+   "Uzak topluluklardan çevrimiçi derslere katılan öğrenciler için güvenilir internet erişimi kesinlikle gereklidir."
+  ],
+  "col": [
+   "kesinlikle gerekli",
+   "kesinlikle emin",
+   "kesinlikle doğru",
+   "kesinlikle hayır"
+  ],
+  "tip": "essential, certain gibi mutlak anlamlı sözcüklerle sık kullanılır; 'absolutely good' gibi kullanımlar doğal değildir.",
+  "note": ""
+ },
+ {
+  "id": "force",
+  "senses": [
+   "kuvvet; güç",
+   "zorlamak; zorla yaptırmak",
+   "zor kullanma; şiddet"
+  ],
+  "ex": [
+   "Rüzgârın şiddeti şemsiyemi ters çevirdi.",
+   "Artan konut maliyetleri, temel hizmet çalışanlarını hizmet verdikleri topluluklardan uzağa taşınmaya zorlayabilir."
+  ],
+  "col": [
+   "birini bir şey yapmaya zorlamak",
+   "zorla",
+   "yerçekimi kuvveti",
+   "işgücü"
+  ],
+  "tip": "'Birini bir şey yapmaya zorlamak' için force somebody to do something kalıbı kullanılır; ara edat gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "murderer",
+  "senses": [
+   "katil"
+  ],
+  "ex": [
+   "Dedektif romandaki katili sonunda belirledi.",
+   "Mahkûm edilmiş katiller hakkındaki belgeseller sansasyonel olmaktan kaçınmalı ve kurbanların ailelerinin duygularını göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "mahkûm edilmiş katil",
+   "katili belirlemek",
+   "katili yakalamak"
+  ],
+  "tip": "Kasten ve yasa dışı biçimde öldüren kişi için kullanılır; killer ise daha geniş bir anlam taşır.",
+  "note": ""
+ }
+]

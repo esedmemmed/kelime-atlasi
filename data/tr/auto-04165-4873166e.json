@@ -1,0 +1,285 @@
+[
+ {
+  "id": "inspire",
+  "senses": [
+   "teşvik etmek; cesaretlendirmek",
+   "ilham vermek",
+   "uyandırmak"
+  ],
+  "ex": [
+   "Koçumuz yenilgiden sonra tekrar denememiz için bizi cesaretlendirdi.",
+   "Dersleri gerçek sorunlarla ilişkilendiren öğretmenler, öğrencileri bilim alanında kariyer yapmaya yöneltebilir."
+  ],
+  "col": [
+   "birini harekete geçirmek",
+   "güven vermek",
+   "yaratıcılığı teşvik etmek",
+   "doğadan ilham almak"
+  ],
+  "tip": "Teşvik anlamında sb to do sth kalıbıyla kullanılır: inspire someone to act. Bu kalıp, 'birine bir şey yapma cesareti vermek' anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "gang",
+  "senses": [
+   "çete; suç örgütü",
+   "arkadaş grubu; ekip"
+  ],
+  "ex": [
+   "Bütün arkadaş grubumuz cumartesileri parkta buluşur.",
+   "Toplum programları, gençlere eğitim desteği ve anlamlı iş fırsatları sunarak çete üyeliğini azaltabilir."
+  ],
+  "col": [
+   "suç çetesi",
+   "çete şiddeti",
+   "bir işçi ekibi",
+   "birine karşı birleşmek"
+  ],
+  "tip": "Arkadaş grubu anlamı konuşma dilinde kullanılır. Resmi metinlerde ve haberlerde genellikle suç örgütü anlamı öne çıkar.",
+  "note": ""
+ },
+ {
+  "id": "pregnancy",
+  "senses": [
+   "hamilelik; gebelik"
+  ],
+  "ex": [
+   "Geçen yıl hamileliği boyunca sakin yürüyüşlerden keyif aldı.",
+   "Hamilelik sırasında güvenilir sağlık hizmetine erişim, hem anneler hem de bebekler için sağlık sonuçlarını iyileştirir."
+  ],
+  "col": [
+   "hamilelik sırasında",
+   "erken dönem hamilelik",
+   "hamilelik testi"
+  ],
+  "tip": "İsim pregnancy, sıfat pregnant'tır. 'Hamile' anlamında be pregnant kalıbı kullanılır, *be pregnancy denmez.",
+  "note": ""
+ },
+ {
+  "id": "theory",
+  "senses": [
+   "kuram; teori",
+   "varsayım; görüş",
+   "kuramsal bilgi"
+  ],
+  "ex": [
+   "Benim tahminim, kedinin bardağı devirdiği yönünde.",
+   "Öğrenciler, bilimsel kuramı günlük hayattan sorunlar ve pratik deneylerle ilişkilendiren derslerden fayda sağlar."
+  ],
+  "col": [
+   "teoride; kağıt üzerinde",
+   "bir kuramı desteklemek",
+   "bir kuramı test etmek",
+   "teori ve pratik"
+  ],
+  "tip": "in theory genellikle in practice ile karşıtlık içinde kullanılır: 'teoride işe yarıyor, pratikte ise farklı.'",
+  "note": ""
+ },
+ {
+  "id": "seminar",
+  "senses": [
+   "seminer; çalıştay"
+  ],
+  "ex": [
+   "Öğleden sonraki seminerde araştırma fikirlerimizi tartıştık.",
+   "Üniversite seminerleri, öğrencileri öğretim üyelerinin sunduğu bilgileri ezberlemek yerine farklı bakış açılarını değerlendirmeye teşvik eder."
+  ],
+  "col": [
+   "bir seminere katılmak",
+   "bir seminer yönetmek",
+   "eğitim üzerine bir seminer"
+  ],
+  "tip": "Seminer tartışma ve katılımı vurgular. lecture ise çoğunlukla öğretmenin anlatımına dayanır. Çoğulu seminars'tır.",
+  "note": ""
+ },
+ {
+  "id": "adaptation",
+  "senses": [
+   "uyum; adaptasyon",
+   "uyarlama; uyarlanmış eser",
+   "düzenleme; değişiklik"
+  ],
+  "ex": [
+   "Daha soğuk havaya alışmamız birkaç hafta sürdü.",
+   "İklim uyumu, hükümetlerin giderek sıklaşan aşırı hava olaylarıyla karşılaşan topluluklara destek vermesini ve sel önlemlerini geliştirmesini gerektirir."
+  ],
+  "col": [
+   "değişime uyum",
+   "iklim uyumu",
+   "bir film uyarlaması",
+   "evrimsel uyum"
+  ],
+  "tip": "Bir şeye uyum için adaptation to, bir eserin uyarlaması için adaptation of ya da film adaptation kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aggressive",
+  "senses": [
+   "saldırgan; agresif",
+   "atılgan; kararlı"
+  ],
+  "ex": [
+   "Saldırgan köpek, kapısına yaklaşan herkese hırladı.",
+   "Agresif pazarlama kampanyaları satışları artırabilir, ancak gereksiz tüketimi ve borçlanmayı da teşvik edebilir."
+  ],
+  "col": [
+   "saldırgan davranış",
+   "agresif pazarlama",
+   "atılgan bir yaklaşım"
+  ],
+  "tip": "Davranışları tarif ederken genellikle olumsuz anlam taşır. İş ve ticaret bağlamında ise 'atılgan, kararlı' anlamında olumlu da olabilir.",
+  "note": ""
+ },
+ {
+  "id": "wax",
+  "senses": [
+   "balmumu; mum",
+   "cilalamak",
+   "dolunaya doğru büyümek"
+  ],
+  "ex": [
+   "Mumdan akan sıcak balmumu masanın üzerine damladı.",
+   "İnce bir balmumu tabakası, taşıma sırasında taze meyveyi koruyabilir ve nem kaybını azaltabilir."
+  ],
+  "col": [
+   "mum balmumu",
+   "bir balmumu tabakası",
+   "zemini cilalamak",
+   "artıp eksilmek"
+  ],
+  "tip": "Madde anlamında genellikle sayılamaz. Ay için kullanıldığında wane ile karşıt anlamlıdır: wax 'büyümek', wane 'küçülmek'.",
+  "note": ""
+ },
+ {
+  "id": "moan",
+  "senses": [
+   "inlemek",
+   "söylenmek; yakınmak",
+   "inilti; söylenme"
+  ],
+  "ex": [
+   "Hemşire ayak bileğini muayene ederken hafifçe inledi.",
+   "Güvenilmez otobüsler hakkında söylenmek yerine sakinler, yerel yönetimlerden toplu taşımayı iyileştirmelerini isteyebilir."
+  ],
+  "col": [
+   "acıyla inlemek",
+   "bir şeyden yakınmak",
+   "inilti çıkarmak"
+  ],
+  "tip": "Sürekli ve sinir bozucu şikayet anlamında konuşma dilinde sık kullanılır. moan about kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "renewal",
+  "senses": [
+   "yenileme; süre uzatımı",
+   "yenilenme; canlanma"
+  ],
+  "ex": [
+   "Spor salonu üyeliğimin gelecek ay yenilenmesi gerekiyor.",
+   "Kentsel yenileme projeleri, mevcut sakinleri mahallelerinden çıkarmadan kamusal alanları iyileştirmelidir."
+  ],
+  "col": [
+   "üyelik yenilemesi",
+   "ehliyet yenilemesi",
+   "kentsel yenileme",
+   "yenilenmesi gereken"
+  ],
+  "tip": "Bu bir isimdir. Fiil hali renew'dur; renew a subscription 'aboneliği yenilemek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "illustration",
+  "senses": [
+   "resim; çizim",
+   "örnek; açıklama"
+  ],
+  "ex": [
+   "Kitapta güzel bir balina çizimi var.",
+   "Bu ormanın hızlı toparlanması, uzun vadeli korumanın faydalarının açık bir örneğidir."
+  ],
+  "col": [
+   "açık bir örnek",
+   "kitap çizimi",
+   "örnek olarak"
+  ],
+  "tip": "Resim anlamında sayılabilir. 'by way of illustration' kalıbı ise 'örnek olarak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "acquire",
+  "senses": [
+   "edinmek; satın almak",
+   "öğrenmek; kazanmak"
+  ],
+  "ex": [
+   "Küçük mutfağımız için ikinci el bir masa edindik.",
+   "Staj uygulamaları, öğrencilerin yalnızca sınıf içi öğrenmeyle geliştirmesi zor olan pratik becerileri kazanmasına olanak tanır."
+  ],
+  "col": [
+   "beceri kazanmak",
+   "bilgi edinmek",
+   "bir şirketi satın almak",
+   "sonradan alışılan zevk"
+  ],
+  "tip": "get'ten daha resmidir. Mülk için 'satın almak', bilgi ve beceri için 'kazanmak' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aerial",
+  "senses": [
+   "havadan yapılan; havadaki",
+   "anten"
+  ],
+  "ex": [
+   "Havadan çekilen fotoğrafta evimiz nehrin kenarında görünüyordu.",
+   "Havadan yapılan araştırmalar, araştırmacıların uzak bölgelerdeki orman kaybını yabani hayvanları rahatsız etmeden izlemesini sağlar."
+  ],
+  "col": [
+   "havadan fotoğrafçılık",
+   "kuş bakışı görünüm",
+   "havadan araştırma",
+   "televizyon anteni"
+  ],
+  "tip": "'Anten' anlamı İngiliz İngilizcesinde yaygındır; Amerikan İngilizcesinde aynı anlam için antenna kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "factual",
+  "senses": [
+   "olgusal; gerçeklere dayalı"
+  ],
+  "ex": [
+   "Kazayla ilgili anlatımı kısa ve olgusaldı.",
+   "Öğrenciler akademik ödevler için kaynakları değerlendirirken olgusal bilgiyle kişisel görüşü ayırt etmeyi öğrenmelidir."
+  ],
+  "col": [
+   "olgusal bilgi",
+   "olgusal doğruluk",
+   "olgusal bir hata",
+   "olgusal bir anlatım"
+  ],
+  "tip": "Gerçeklere dayanmayı anlatır. Fiilen var olan anlamındaki actual ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "hub",
+  "senses": [
+   "merkez; toplanma noktası",
+   "tekerlek göbeği",
+   "ağ cihazı; hub"
+  ],
+  "ex": [
+   "Mutfak, ailemizin yaşamının merkezidir.",
+   "Güvenilir demiryolu bağlantılarına yapılacak yatırım, bu kıyı kentini önemli bir bölgesel ulaşım merkezine dönüştürebilir."
+  ],
+  "col": [
+   "ulaşım merkezi",
+   "ticaret merkezi",
+   "yoğun faaliyet merkezi",
+   "ağ merkezi"
+  ],
+  "tip": "Merkez anlamında a hub for ya da the hub of kalıplarıyla kullanılır.",
+  "note": ""
+ }
+]

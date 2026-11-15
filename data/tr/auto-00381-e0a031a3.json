@@ -1,0 +1,282 @@
+[
+ {
+  "id": "end",
+  "senses": [
+   "son; uç",
+   "sona erdirmek; bitirmek",
+   "amaç; gaye"
+  ],
+  "ex": [
+   "Sokağımızın sonunda küçük bir fırın var.",
+   "Hükümetler, eğitime erişimi ve güvenli istihdamı iyileştirerek aşırı yoksulluğu sona erdirmeyi hedeflemelidir."
+  ],
+  "col": [
+   "sonunda",
+   "sona ermek",
+   "sona erdirmek",
+   "bir amaca giden yol"
+  ],
+  "tip": "at the end of: bir şeyin sonunda (yer/zaman). in the end: sonuçta, nihayetinde. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "delicious",
+  "senses": [
+   "lezzetli; nefis"
+  ],
+  "ex": [
+   "Bu sebzeli turta fırından yeni çıktığı için hâlâ sıcak ve çok lezzetli.",
+   "Okul yemekleri, çocukların daha sağlıklı beslenme alışkanlıkları kazanmasını teşvik etmek için hem besleyici hem de lezzetli olmalıdır."
+  ],
+  "col": [
+   "lezzetli yemek",
+   "lezzetli yiyecek",
+   "kesinlikle lezzetli"
+  ],
+  "tip": "delicious güçlü bir olumlu sıfattır; very yerine genellikle absolutely gibi pekiştireçlerle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fill",
+  "senses": [
+   "doldurmak",
+   "doldurmak; karşılamak"
+  ],
+  "ex": [
+   "Lütfen misafirlerimiz için sürahiyi suyla doldurun.",
+   "Yerel eğitim programları, sağlık ve eğitim gibi temel hizmetlerdeki boş kadroların doldurulmasına yardımcı olabilir."
+  ],
+  "col": [
+   "suyla doldurmak",
+   "formu doldurmak",
+   "bir boşluğu doldurmak",
+   "boş kadroyu doldurmak"
+  ],
+  "tip": "fill A with B: A'yı B ile doldurmak. be filled with: ile dolu olmak. Türkçedeki cümle sırasından farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "become",
+  "senses": [
+   "olmak; hâline gelmek"
+  ],
+  "ex": [
+   "Dükkânlar kapandıktan sonra sokaklar sessizleşir.",
+   "Şehirler sakinlerin daha az araba kullanmasını istiyorsa, toplu taşıma daha güvenilir ve uygun fiyatlı hâle gelmelidir."
+  ],
+  "col": [
+   "farkına varmak",
+   "giderek önemli hâle gelmek",
+   "öğretmen olmak"
+  ],
+  "tip": "Düzensiz fiil: become–became–become. Arkasından isim veya sıfat gelir; to kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "up",
+  "senses": [
+   "yukarı; yukarıda",
+   "yukarı doğru; boyunca",
+   "ayakta; uyanık"
+  ],
+  "ex": [
+   "Çocuk, parlak kırmızı balona yukarı doğru bakarak baktı.",
+   "Konut maliyetleri arttıkça, birçok genç yetişkin bağımsız yaşamanın daha zor olduğunu görüyor."
+  ],
+  "col": [
+   "yukarı bakmak",
+   "yükselmek; artmak",
+   "merdivenlerden yukarı",
+   "erken kalkmış olmak"
+  ],
+  "tip": "up'tan sonra yer adı gelirse edat olur: up the hill (tepeye doğru). Tek başına zarf olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "world",
+  "senses": [
+   "dünya",
+   "dünya; alan"
+  ],
+  "ex": [
+   "Hayalinde trenle dünyayı dolaşmak var.",
+   "İklim değişikliğiyle mücadele etmek ve ortak doğal kaynakları korumak için dünya ülkeleri daha yakın iş birliği yapmalıdır."
+  ],
+  "col": [
+   "dünyanın dört bir yanında",
+   "doğa",
+   "iş dünyası",
+   "dünya nüfusu"
+  ],
+  "tip": "Bütün dünyayı kastederken the world kullanılır. Bir alanı kastederken the + alan adı: the business world.",
+  "note": ""
+ },
+ {
+  "id": "drink",
+  "senses": [
+   "içmek",
+   "içecek; bir bardak içecek",
+   "içki içmek"
+  ],
+  "ex": [
+   "Köpeği gezdirdikten sonra her zaman biraz su içerim.",
+   "Çocukları şekerli içecekler yerine su içmeye teşvik etmek, zamanla diş sağlıklarını iyileştirebilir."
+  ],
+  "col": [
+   "su içmek",
+   "sıcak bir içecek",
+   "içme suyu",
+   "gazlı içecek"
+  ],
+  "tip": "Düzensiz fiil: drink–drank–drunk. Bağlama göre alkol içmek anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "mexico",
+  "senses": [
+   "Meksika"
+  ],
+  "ex": [
+   "Tatilimizde Meksika'da antik kalıntıları gezdik.",
+   "Meksika'daki turizm istihdam yaratıyor, ancak popüler kıyı bölgeleri su kaynakları ve doğal yaşam alanları üzerinde baskıyla karşı karşıya."
+  ],
+  "col": [
+   "Meksika'yı ziyaret etmek",
+   "Meksika'nın güneyi",
+   "Meksika kıyıları"
+  ],
+  "tip": "Ülke adlarının başında genellikle the kullanılmaz. Sıfat biçimi Mexican'dır (Meksikalı; Meksika'ya ait).",
+  "note": ""
+ },
+ {
+  "id": "grey",
+  "senses": [
+   "gri",
+   "gri",
+   "ağarmak"
+  ],
+  "ex": [
+   "Gri bir kedi pencere kenarında uyuyordu.",
+   "Gri beton binalar, renkli evler ve geniş yeşil alanları olan mahallelere göre daha az davetkâr görünebilir."
+  ],
+  "col": [
+   "gri saç",
+   "gri bulutlar",
+   "ağarmak",
+   "belirsiz bir durum"
+  ],
+  "tip": "grey İngiliz, gray Amerikan yazımıdır. a grey area (belirsiz durum) deyimi de öğrenilmeye değerdir.",
+  "note": ""
+ },
+ {
+  "id": "much",
+  "senses": [
+   "çok; fazla",
+   "çok şey; fazla miktar",
+   "çok; epey"
+  ],
+  "ex": [
+   "Kahvaltı için pek az süt kaldı.",
+   "Önleyici sağlık hizmetlerine yatırım yapmak, hastalıklar ağırlaştıktan sonra tedavi etmekten çok daha ekonomik olabilir."
+  ],
+  "col": [
+   "çok fazla",
+   "çok daha",
+   "çok daha iyi",
+   "...kadar çok"
+  ],
+  "tip": "Sayılamayan isimlerle kullanılır (much time). Sayılabilen isimlerle many tercih edilir. Olumlu cümlede genellikle a lot of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "learn",
+  "senses": [
+   "öğrenmek",
+   "öğrenmek; haber almak"
+  ],
+  "ex": [
+   "Büyükbabam yerel havuzda yüzmeyi öğreniyor.",
+   "Öğrenciler yeni bilgilerini ezberlemek yerine pratik problemlere uyguladıklarında genellikle daha etkili öğrenirler."
+  ],
+  "col": [
+   "araba kullanmayı öğrenmek",
+   "hatalardan ders almak",
+   "ezberlemek",
+   "hakkında bilgi edinmek"
+  ],
+  "tip": "learn to do: yapmayı öğrenmek. Geçmiş zaman hem learned hem learnt olabilir. Bilgi edinmek anlamında about ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "can",
+  "senses": [
+   "-ebilmek; -abilmek",
+   "konserve kutusu; teneke",
+   "konserve yapmak"
+  ],
+  "ex": [
+   "Kapıyı açarsan iki çantayı da taşıyabilirim.",
+   "Güvenilir internet erişimi, kırsaldaki öğrencilerin daha geniş eğitim kaynaklarından yararlanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "karşılayabilmek",
+   "bir kutu çorba",
+   "konserve gıda"
+  ],
+  "tip": "Üçüncü tekil şahısta -s almaz (she can). Olumsuzu cannot ya da can't biçiminde, bitişik yazılır.",
+  "note": ""
+ },
+ {
+  "id": "hey",
+  "senses": [
+   "hey; ey; selam"
+  ],
+  "ex": [
+   "Hey, şemsiyeni kapının yanında unutmuşsun!",
+   "Üniversite personeline ilk kez e-postayla ulaşan öğrenciler için 'hey' gibi gayriresmi selamlaşmalar uygun olmayabilir."
+  ],
+  "col": [
+   "hey, orada",
+   "hey herkes"
+  ],
+  "tip": "Gayriresmi bir selamlaşmadır; arkadaşlar arasında kullanılır, resmi yazışmalarda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "cola",
+  "senses": [
+   "kola"
+  ],
+  "ex": [
+   "Buzlu bir bardağa soğuk kola döktü.",
+   "Kola gibi şekerli içeceklerin tüketimini azaltmak, çocuklarda diş çürümesini önlemeye yardımcı olabilir."
+  ],
+  "col": [
+   "bir kutu kola",
+   "diyet kola",
+   "şekersiz kola"
+  ],
+  "tip": "Genel anlamda sayılamaz (kola içmek). Tek bir bardak ya da kutu için a cola veya a can of cola denir.",
+  "note": ""
+ },
+ {
+  "id": "shower",
+  "senses": [
+   "duş; duş başlığı",
+   "sağanak; sağanak yağmur",
+   "duş almak"
+  ],
+  "ex": [
+   "Bisikletle eve döndükten sonra her zaman sıcak bir duş alırım.",
+   "Daha kısa duş almak, hanelerin hem su tüketimini hem de enerji kullanımını azaltmasının basit bir yoludur."
+  ],
+  "col": [
+   "duş almak",
+   "duş almak",
+   "şiddetli sağanaklar",
+   "duş başlığı"
+  ],
+  "tip": "Duş almak için take veya have a shower kullanılır. Yağmur anlamında da shower kelimesi kullanılır; bağlama dikkat edin.",
+  "note": ""
+ }
+]

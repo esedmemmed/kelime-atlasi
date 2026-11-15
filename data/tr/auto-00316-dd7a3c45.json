@@ -1,0 +1,276 @@
+[
+ {
+  "id": "tooth",
+  "senses": [
+   "diş",
+   "diş; çıkıntı"
+  ],
+  "ex": [
+   "Dişçi her dişi küçük bir aynayla kontrol etti.",
+   "Düzenli diş muayeneleri, diş çürümesini önlemeye yardımcı olabilir ve pahalı tedavilere duyulan ihtiyacı azaltabilir."
+  ],
+  "col": [
+   "dişlerini fırçalamak",
+   "diş çürümesi",
+   "sallanan bir diş",
+   "akıl dişi"
+  ],
+  "tip": "Çoğulu düzensizdir: tooth → teeth. Çoğulda sesli harf de değişir, bu yüzden teeths demeyin.",
+  "note": ""
+ },
+ {
+  "id": "relax",
+  "senses": [
+   "rahatlamak; dinlenmek",
+   "gevşemek",
+   "hafifletmek; gevşetmek"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra müzik dinleyerek rahatlamayı severim.",
+   "Yeşil alanlara düzenli erişim, kentlilerin rahatlamasına yardımcı olur ve genel ruh sağlıklarını iyileştirebilir."
+  ],
+  "col": [
+   "kaslarını gevşetmek",
+   "kısıtlamaları hafifletmek",
+   "rahat rahat oturup dinlenmek"
+  ],
+  "tip": "İnsan için 'rahatlamış' sıfatı relaxed, 'rahatlatıcı' şey için relaxing kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "summer",
+  "senses": [
+   "yaz; yaz mevsimi"
+  ],
+  "ex": [
+   "Uzun yaz akşamlarında genellikle dışarıda yemek yeriz.",
+   "Yükselen yaz sıcaklıkları, daha çok hanenin klima kullanmasıyla elektrik talebini artırabilir."
+  ],
+  "col": [
+   "yazın",
+   "yaz tatili",
+   "yaz sıcağı",
+   "yaz kampı"
+  ],
+  "tip": "Genel olarak yaz dönemi için in summer kullanılır. Mevsim adları İngilizcede küçük harfle yazılır.",
+  "note": ""
+ },
+ {
+  "id": "group",
+  "senses": [
+   "grup; topluluk",
+   "gruplandırmak"
+  ],
+  "ex": [
+   "Bir grup bisikletçi köy fırınının önünde durdu.",
+   "Öğretmenler, sınıf etkinlikleri sırasında daha etkili destek sağlamak için öğrencileri öğrenme ihtiyaçlarına göre gruplandırabilir."
+  ],
+  "col": [
+   "bir grup",
+   "yaş grubu",
+   "grup tartışması",
+   "grup çalışması"
+  ],
+  "tip": "a group of'tan sonra çoğul isim gelir. Fiil olarak group A by B kalıbı 'A'yı B'ye göre gruplandırmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "member",
+  "senses": [
+   "üye"
+  ],
+  "ex": [
+   "Her kulüp üyesi paylaşmak için bir yemek getirdi.",
+   "Topluluğun her üyesi düzenli gönüllü çalışmalarla yerel yeşil alanların korunmasına katkıda bulunabilir."
+  ],
+  "col": [
+   "...üyesi",
+   "takım üyesi",
+   "aile üyesi",
+   "kurucu üye"
+  ],
+  "tip": "Bir grubun veya kurumun üyesi için a member of kalıbı kullanılır; of edatını atlamayın.",
+  "note": ""
+ },
+ {
+  "id": "daughter",
+  "senses": [
+   "kız evlat"
+  ],
+  "ex": [
+   "Kızları tüm aile için krep yaptı.",
+   "Eğitime eşit erişim, kız ve erkek çocukların yeteneklerini geliştirmek için benzer fırsatlara sahip olmasını sağlar."
+  ],
+  "col": [
+   "en büyük kız evlat",
+   "genç bir kız",
+   "bir anne ve kızı"
+  ],
+  "tip": "daughter-in-law 'gelin' anlamına gelir, üvey kız değildir. Bunu karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "sheep",
+  "senses": [
+   "koyun"
+  ],
+  "ex": [
+   "Çiftliğin yakınındaki bir ağacın altında birkaç koyun dinleniyordu.",
+   "Kırılgan otlaklarda çok fazla koyun beslemek bitki örtüsüne zarar verebilir ve toprak erozyonu riskini artırabilir."
+  ],
+  "col": [
+   "bir sürü koyun",
+   "koyun beslemek",
+   "koyun kırpmak"
+  ],
+  "tip": "sheep tekil ve çoğul halinde aynı şekildedir. Keçi için ise goat kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "school",
+  "senses": [
+   "okul; öğrenim",
+   "ekol; akım",
+   "balık sürüsü"
+  ],
+  "ex": [
+   "Okula nehir boyunca birlikte yürüyoruz.",
+   "Her okul, öğrencilere akademik bilgilerinin yanında pratik beceriler geliştirme fırsatları sunmalıdır."
+  ],
+  "col": [
+   "ilkokul",
+   "ortaöğretim okulu",
+   "bir düşünce ekolü",
+   "bir balık sürüsü"
+  ],
+  "tip": "go to school 'okula gitmek / okumak' anlamındadır. go to the school ise belirli bir okul binasına gitmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "always",
+  "senses": [
+   "her zaman; hep",
+   "daima; sürekli"
+  ],
+  "ex": [
+   "Komşum beni gördüğünde her zaman el sallar.",
+   "Yüksek ekonomik büyüme, her vatandaş için daha iyi yaşam koşulları anlamına her zaman gelmez."
+  ],
+  "col": [
+   "neredeyse her zaman",
+   "her zaman değil",
+   "her zamanki gibi"
+  ],
+  "tip": "Genellikle fiilden önce, be fiilinden sonra gelir. not always ifadesi 'her zaman değil, bazen' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "usually",
+  "senses": [
+   "genellikle; çoğunlukla"
+  ],
+  "ex": [
+   "Yağmur yağmadıkça genellikle işe yürüyerek giderim.",
+   "İnsanlar, arkadaşları ve aileleri destek olduğunda sağlıklı alışkanlıkları sürdürmeyi genellikle daha kolay bulur."
+  ],
+  "col": [
+   "genellikle gitmek",
+   "genellikle mevcut",
+   "çoğunlukla olduğu gibi"
+  ],
+  "tip": "Genellikle fiilden önce, be fiilinden sonra gelir. Cümlenin başına da getirilebilir.",
+  "note": ""
+ },
+ {
+  "id": "history",
+  "senses": [
+   "tarih; tarih bilimi",
+   "geçmiş; kayıt"
+  ],
+  "ex": [
+   "Rehberimiz eski kalenin tarihini anlattı.",
+   "Tarih çalışmak, vatandaşların geçmişteki kararların modern toplumları ve kurumları nasıl şekillendirmeye devam ettiğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "eski çağ tarihi",
+   "tıbbi geçmiş",
+   "...tarihçesi",
+   "tarih boyunca"
+  ],
+  "tip": "history geçmiş olaylar veya tarih bilimi anlamındadır. historical 'tarihsel', historic ise 'tarihte önemli' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "friday",
+  "senses": [
+   "cuma; cuma günü"
+  ],
+  "ex": [
+   "Genellikle cuma akşamları evde birlikte yemek hazırlarız.",
+   "Çalışanların cuma günleri evden çalışmasına izin vermek, işe gidiş gelişteki yoğunluğu azaltabilir ve iş memnuniyetini artırabilir."
+  ],
+  "col": [
+   "cuma günü",
+   "cuma akşamı",
+   "her cuma"
+  ],
+  "tip": "Gün adları büyük harfle yazılır. on Friday kullanılır, ama next Friday ve every Friday ifadelerinde on kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "feet",
+  "senses": [
+   "ayaklar",
+   "fit"
+  ],
+  "ex": [
+   "Mutfak karolarına değen ayaklarım soğuktu.",
+   "Gün boyu ayakta duran işçilerin ayaklarını korumak için rahat ayakkabılar tasarlamak önemlidir."
+  ],
+  "col": [
+   "çıplak ayaklar",
+   "ayakta olmak",
+   "altı fit boyunda",
+   "ayağa kalkmak"
+  ],
+  "tip": "foot'un çoğulu feet'tir. Önde sıfat olarak kullanıldığında tekil biçim kullanılır: six-foot gibi.",
+  "note": ""
+ },
+ {
+  "id": "wash",
+  "senses": [
+   "yıkamak; temizlemek",
+   "sürükleyip götürmek",
+   "yıkama"
+  ],
+  "ex": [
+   "Yemek hazırlamaya yardım etmeden önce lütfen ellerini yıka.",
+   "Okullar, çocuklara bulaşıcı hastalıkların yayılmasını azaltmak için ellerini doğru yıkamayı öğretmelidir."
+  ],
+  "col": [
+   "ellerini yıkamak",
+   "bulaşıkları yıkamak",
+   "su ile götürmek",
+   "bir kez yıkamak"
+  ],
+  "tip": "wash suyla yıkamayı vurgular; clean ise genel temizliği anlatır ve her zaman suyla yapılmak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "sofa",
+  "senses": [
+   "kanepe"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra kanepeye kıvrılıp oturduk.",
+   "Ortak salondaki rahat bir kanepe, sakinlerin birlikte daha fazla vakit geçirmesini teşvik edebilir."
+  ],
+  "col": [
+   "kanepede oturmak",
+   "kanepe yatak",
+   "deri kanepe"
+  ],
+  "tip": "Kanepede oturmak için on the sofa kullanılır, in değil.",
+  "note": ""
+ }
+]

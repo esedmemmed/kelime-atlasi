@@ -1,0 +1,277 @@
+[
+ {
+  "id": "bud",
+  "senses": [
+   "tomurcuk; filiz",
+   "tomurcuklanmak; filizlenmek"
+  ],
+  "ex": [
+   "Çıplak dalda küçük, yeşil bir tomurcuk belirdi.",
+   "Bahar sıcaklarının artması ağaçların daha erken tomurcuklanmasına yol açabilir; bu da yeni sürgünleri ani donlara karşı savunmasız bırakır."
+  ],
+  "col": [
+   "çiçek tomurcuğu",
+   "yaprak tomurcuğu",
+   "tomurcuk halinde",
+   "bir şeyi daha başlangıçta engellemek"
+  ],
+  "tip": "Geçmiş zaman budded, ing biçimi budding olur; d harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "underestimate",
+  "senses": [
+   "hafife almak; küçümsemek",
+   "eksik tahmin; düşük tahmin"
+  ],
+  "ex": [
+   "Trafiği hafife aldık ve yarım saat geç vardık.",
+   "Politika yapıcılar, kötü konutların çocukların sağlığı ve eğitim başarısı üzerindeki uzun vadeli etkilerini hafife almamalıdır."
+  ],
+  "col": [
+   "maliyeti hafife almak",
+   "önemini hafife almak",
+   "ciddi biçimde hafife almak"
+  ],
+  "tip": "Fiilin sonu /eɪt/, isimin sonu /ət/ okunur. Fiil ve isim telaffuzda ayrılır.",
+  "note": ""
+ },
+ {
+  "id": "rotation",
+  "senses": [
+   "dönüş; dönme",
+   "nöbetleşe değişim; rotasyon"
+  ],
+  "ex": [
+   "Tekerlek durmadan önce çamurda bir tam dönüş yaptı.",
+   "Ürün rotasyonu, çiftçilerin toprak verimliliğini korumasına ve kimyasal ilaç kullanımını azaltmasına yardımcı olur."
+  ],
+  "col": [
+   "Dünya'nın dönüşü",
+   "ürün rotasyonu",
+   "iş rotasyonu",
+   "sırayla, nöbetleşe"
+  ],
+  "tip": "Hareket anlamında 'dönüş', düzenli değişim anlamında 'rotasyon' karşılığı seçilmelidir; bağlama göre çeviri yapın.",
+  "note": ""
+ },
+ {
+  "id": "satisfaction",
+  "senses": [
+   "memnuniyet; tatmin",
+   "karşılama; giderme"
+  ],
+  "ex": [
+   "Bozuk sandalyeyi tamir ettikten sonra memnuniyetle gülümsedi.",
+   "Daha yüksek iş tatmini, personel devir hızını düşürebilir ve çalışanları kurumlarına daha aktif katkı sunmaya teşvik edebilir."
+  ],
+  "col": [
+   "iş tatmini",
+   "müşteri memnuniyeti",
+   "memnuniyet duygusu",
+   "temel ihtiyaçların karşılanması"
+  ],
+  "tip": "Genellikle sayılamaz isimdir. Bir şeyden memnuniyet için satisfaction with kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "acrobat",
+  "senses": [
+   "akrobat; cambaz"
+  ],
+  "ex": [
+   "Akrobat, yumuşak minderin üzerinde tek eliyle dengede durdu.",
+   "Akrobat olarak eğitim almak sürekli fiziksel disiplin gerektirir; bu nedenle sakatlanmayı önlemek mesleki eğitimin temel bir parçasıdır."
+  ],
+  "col": [
+   "usta akrobat",
+   "sirk akrobatı",
+   "profesyonel akrobat"
+  ],
+  "tip": "acrobat gösteriyi yapan kişiyi, acrobatics ise akrobasi sanatını ya da hareketlerini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "anxiety",
+  "senses": [
+   "kaygı; endişe"
+  ],
+  "ex": [
+   "İyi haberi duyunca kaygısı geçti.",
+   "Düzenli fiziksel aktivite, zorlu sınavlarla ve belirsiz kariyer beklentileriyle karşılaşan öğrencilerin kaygısını azaltabilir."
+  ],
+  "col": [
+   "...hakkında kaygı",
+   "kaygıyı azaltmak",
+   "şiddetli kaygı"
+  ],
+  "tip": "anxiety about kalıbıyla endişelenilen konu belirtilir. Sıfatı anxious (endişeli) olur.",
+  "note": ""
+ },
+ {
+  "id": "commitment",
+  "senses": [
+   "bağlılık; adanmışlık",
+   "söz; taahhüt",
+   "yükümlülük; sorumluluk"
+  ],
+  "ex": [
+   "Bahçecilik işine olan bağlılığı çiçeklerin açmasını sağlıyor.",
+   "Toplu taşımayı geliştirmek; izole projelere ara sıra yatırım yapmak yerine, sürekli siyasi bağlılık ve güvenilir finansman gerektirir."
+  ],
+  "col": [
+   "bir davaya bağlılık",
+   "söz vermek",
+   "aile sorumlulukları",
+   "uzun vadeli taahhüt"
+  ],
+  "tip": "commitment to kalıbındaki to edattır; ardından isim ya da -ing'li fiil gelir (commitment to improving).",
+  "note": ""
+ },
+ {
+  "id": "chairwoman",
+  "senses": [
+   "kadın başkan; kurul başkanı"
+  ],
+  "ex": [
+   "Kadın başkan herkesi fikirlerini paylaşmaya davet etti.",
+   "Kadın başkan, çalışanların becerilerini geliştirmek ve eşit fırsatları desteklemek için yeni eğitim programları önerdi."
+  ],
+  "col": [
+   "yönetim kurulu başkanı (kadın)",
+   "komite başkanı (kadın)",
+   "kadın bir başkan atamak"
+  ],
+  "tip": "Çoğulu chairwomen olur. Cinsiyeti vurgulamak istemiyorsanız chair kelimesi de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "reasonably",
+  "senses": [
+   "oldukça; epey",
+   "makul bir biçimde; mantıklı şekilde",
+   "uygun fiyatla"
+  ],
+  "ex": [
+   "Mutfak oldukça temiz, ama zeminin süpürülmesi gerekiyor.",
+   "Şehirler daha fazla sakinin arabalarını evde bırakmasını istiyorsa, toplu taşıma makul fiyatlı olmalıdır."
+  ],
+  "col": [
+   "oldukça iyi",
+   "makul fiyatlı",
+   "makul biçimde beklemek"
+  ],
+  "tip": "Derece belirtirken fairly anlamına yakındır, very anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "navigation",
+  "senses": [
+   "yön bulma; seyir; navigasyon",
+   "gezinme; sayfalarda dolaşma"
+  ],
+  "ex": [
+   "Yürüyüş sırasında yön bulmak için pusula kullandık.",
+   "Web sitesinde net bir gezinme yapısı, kullanıcıların temel bilgileri hızla bulmasına yardımcı olur ve çevrimiçi kamu hizmetlerini herkes için daha erişilebilir kılar."
+  ],
+  "col": [
+   "uydu navigasyonu",
+   "navigasyon sistemi",
+   "web sitesinde gezinme"
+  ],
+  "tip": "Yalnızca denizcilik için değil, yol tarifi ve web sayfaları arasında gezinme için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "preferable",
+  "senses": [
+   "daha tercih edilir; daha uygun"
+  ],
+  "ex": [
+   "Sakin bir akşam evde kalmak, bir partiye gitmekten daha tercih edilir.",
+   "Yoğun nüfuslu şehirlerde güvenilir toplu taşımaya yatırım yapmak, genellikle yeni yollar inşa etmekten daha uygundur."
+  ],
+  "col": [
+   "...e tercih edilir",
+   "çok daha tercih edilir",
+   "daha uygun bir alternatif"
+  ],
+  "tip": "A is preferable to B yapısında than değil to kullanılır; genellikle önüne more getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "associate",
+  "senses": [
+   "ilişkilendirmek; akla getirmek",
+   "iş arkadaşı; iş ortağı",
+   "yardımcı; yardımcı düzeyde"
+  ],
+  "ex": [
+   "Tarçın kokusunu her zaman evle ilişkilendiririm.",
+   "Birçok tüketici yüksek fiyatı daha iyi kaliteyle ilişkilendirir; ancak araştırmalar bu bağlantının her zaman güvenilir olmadığını gösteriyor."
+  ],
+  "col": [
+   "A'yı B ile ilişkilendirmek",
+   "bir şeyle bağlantılı olmak",
+   "iş ortağı",
+   "doçent"
+  ],
+  "tip": "Fiilin sonu /eɪt/, isim ve sıfatın sonu /ət/ okunur. Telaffuz farkına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "excessive",
+  "senses": [
+   "aşırı; fazla"
+  ],
+  "ex": [
+   "Aşırı sıcak öğleden sonra yürüyüşümüzü rahatsız edici hale getirdi.",
+   "Özel araçların aşırı kullanımı kentsel hava kirliliğine katkıda bulunur ve mevcut yollar üzerinde baskı oluşturur."
+  ],
+  "col": [
+   "aşırı tüketim",
+   "aşırı baskı",
+   "aşırı gürültü",
+   "...in aşırı kullanımı"
+  ],
+  "tip": "Makul ya da kabul edilebilir sınırın aşıldığını anlatır; 'ekstra, fazladan' anlamındaki extra ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "specify",
+  "senses": [
+   "açıkça belirtmek; tanımlamak"
+  ],
+  "ex": [
+   "Perdeler için hangi rengi istediğinizi lütfen belirtin.",
+   "Hükümetler, üreticilerin tüketiciye ürün satmadan önce karşılaması gereken net güvenlik standartları belirlemelidir."
+  ],
+  "col": [
+   "gereksinimleri belirtmek",
+   "bir tarih belirtmek",
+   "koşulları belirtmek"
+  ],
+  "tip": "Ardından isim, that-cümlesi ya da soru sözcüğüyle başlayan bir yan cümle gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "overtime",
+  "senses": [
+   "fazla mesai; ek çalışma",
+   "fazla mesai yaparak",
+   "uzatma; ek süre"
+  ],
+  "ex": [
+   "Mutfak tamirini bitirmek için dün fazla mesai yaptım.",
+   "Düzenli fazla mesai kısa vadede verimliliği artırabilir, ama çalışanların sağlığını da zedeleyebilir ve iş tatminini azaltabilir."
+  ],
+  "col": [
+   "mesai yapmak",
+   "fazla mesai ücreti",
+   "ödenmeyen fazla mesai",
+   "zorunlu fazla mesai"
+  ],
+  "tip": "Fazla mesai yapmak için work overtime denir. over time ise iki kelimedir ve 'zamanla' anlamına gelir.",
+  "note": ""
+ }
+]

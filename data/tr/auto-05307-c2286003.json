@@ -1,0 +1,273 @@
+[
+ {
+  "id": "applicant",
+  "senses": [
+   "başvuru sahibi; aday"
+  ],
+  "ex": [
+   "Her aday mülakat için ofisin dışında bekliyordu.",
+   "Üniversiteler her adayı, akademik başarısını ve ilgili kişisel deneyimini birlikte göz önünde bulundurarak adil biçimde değerlendirmelidir."
+  ],
+  "col": [
+   "iş başvurucusu",
+   "başarılı aday",
+   "bir pozisyon için aday"
+  ],
+  "tip": "Bir pozisyona başvuran kişi için 'applicant for a position' kalıbı kullanılır; seçim ve sınav bağlamında 'candidate' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "disagreement",
+  "senses": [
+   "anlaşmazlık; görüş ayrılığı"
+  ],
+  "ex": [
+   "Kimin sırasının olduğu konusunda bir anlaşmazlığımız oldu.",
+   "Kamu harcamalarının önceliklerine ilişkin görüş ayrılığı kaçınılmaz olsa da şeffaf tartışmalar hükümetlerin daha geniş destek kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir konudaki anlaşmazlık",
+   "arasındaki anlaşmazlık",
+   "anlaşmazlığı çözmek",
+   "fikir ayrılığı içinde olmak"
+  ],
+  "tip": "Genel anlamda görüş ayrılığı çoğunlukla sayılamaz; somut bir tartışma söz konusuysa 'a disagreement' biçimi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "productive",
+  "senses": [
+   "verimli; etkili",
+   "bereketli; verimli"
+  ],
+  "ex": [
+   "Sabahı çok verimli geçirdim ve raporumu bitirdim.",
+   "Esnek çalışma düzenlemeleri, çalışanların mesleki sorumluluklarını aile yükümlülükleriyle dengelerken verimli kalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "verimli bir tartışma",
+   "verimli bir gün",
+   "verimli tarım arazisi"
+  ],
+  "tip": "İş ya da tartışmanın sonuç verdiğini anlatır; üretim miktarı veya verimlilik oranı için 'productivity' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "misery",
+  "senses": [
+   "acı; ıstırap",
+   "sefalet; yoksulluk"
+  ],
+  "ex": [
+   "Sürekli gelen gürültü hayatını çekilmez bir hale getirmişti.",
+   "Uygun fiyatlı konut erişiminin iyileştirilmesi, aşırı kalabalık geçici barınaklarda yaşayan ailelerin çektiği sefaleti azaltabilir."
+  ],
+  "col": [
+   "acı çektirmek",
+   "sefalet içinde yaşamak",
+   "birinin hayatını cehenneme çevirmek"
+  ],
+  "tip": "Genellikle sayılamaz; 'a misery' ise katlanılması güç bir durumu anlatmak için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "elder",
+  "senses": [
+   "büyük; ağabey; abla",
+   "büyükler; ileri gelenler"
+  ],
+  "ex": [
+   "Büyük kız kardeşim bana bisiklete binmeyi öğretti.",
+   "Topluluğun ileri gelenleri, bilgi ve deneyimlerini genç kuşaklarla paylaşarak yerel gelenekleri yaşatmaya yardımcı olabilir."
+  ],
+  "col": [
+   "ağabey",
+   "abla",
+   "topluluğun ileri gelenleri",
+   "büyüklerine saygı göstermek"
+  ],
+  "tip": "'Elder' çoğunlukla akraba isimlerinden önce gelir; yaş karşılaştırması yaparken 'older than' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "consequence",
+  "senses": [
+   "sonuç; netice",
+   "önem; ehemmiyet"
+  ],
+  "ex": [
+   "Son otobüsü kaçırmak, geç çıkmanın bir sonucuydu.",
+   "Hızlı kentleşmenin ciddi sonuçlarından biri, toplu taşıma ve konut üzerindeki baskının artmasıdır."
+  ],
+  "col": [
+   "bunun sonucu olarak",
+   "sonuçlarına katlanmak",
+   "pek önemi olmayan"
+  ],
+  "tip": "'As a consequence of' bir nedene bağlanır ve 'bu yüzden, sonucunda' anlamına gelir; 'consequence' çoğunlukla olumsuz sonuçları da anlatır.",
+  "note": ""
+ },
+ {
+  "id": "ornament",
+  "senses": [
+   "süs; süs eşyası",
+   "süslemek; bezemek"
+  ],
+  "ex": [
+   "Ahşap rafın üzerinde küçük bir cam süs parıldıyordu.",
+   "Yerel müzelerde sergilenen geleneksel süs eşyaları, önceki toplulukların kültürel kimliğini dekoratif nesneler aracılığıyla nasıl ifade ettiğini gösterebilir."
+  ],
+  "col": [
+   "cam süs",
+   "dekoratif süs",
+   "ile süslemek"
+  ],
+  "tip": "İsim olarak ilk hecede vurgulanır; fiil olarak son hecesi /ment/ okunur. Fiil kalıbı: ornament something with.",
+  "note": ""
+ },
+ {
+  "id": "fabulous",
+  "senses": [
+   "harika; muhteşem",
+   "çok büyük; muazzam",
+   "efsanevi; masal"
+  ],
+  "ex": [
+   "Dün göl kenarında harika bir piknik yaptık.",
+   "Turizm muazzam bir servet yaratabilse de ekonomik kazançları yerel halk arasında her zaman adil biçimde paylaşılmaz."
+  ],
+  "col": [
+   "harika bir zaman",
+   "harika görünmek",
+   "muazzam servet"
+  ],
+  "tip": "'Harika, çok iyi' anlamı gayriresmi konuşmada çok kullanılır ve güçlü bir övgü ifade eder; resmi yazıda daha nötr sözcükler tercih edilebilir.",
+  "note": ""
+ },
+ {
+  "id": "warrior",
+  "senses": [
+   "savaşçı; cengaver"
+  ],
+  "ex": [
+   "Müze, antik bir savaşçının giydiği zırhı sergiliyordu.",
+   "Savaşçılar hakkındaki geleneksel hikâyeler, geçmiş toplumların cesareti, sadakati ve liderliği nasıl anladığını ortaya koyabilir."
+  ],
+  "col": [
+   "antik savaşçı",
+   "cesur savaşçı",
+   "savaşçı kültürü"
+  ],
+  "tip": "Genellikle eski dönem savaşçıları için kullanılır; modern asker için 'soldier' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "literally",
+  "senses": [
+   "kelimesi kelimesine; harfiyen",
+   "gerçekten; hakikaten"
+  ],
+  "ex": [
+   "Tavsiyemi harfiyen aldı ve daha büyük bir tabak aldı.",
+   "Deyimleri kelimesi kelimesine çevirmek dil öğrenenleri şaşırtabilir, çünkü anlamları çoğu zaman kültürel bağlama dayanır."
+  ],
+  "col": [
+   "bir şeyi harfiyen almak",
+   "kelimesi kelimesine çevirmek",
+   "gerçekten doğru"
+  ],
+  "tip": "Günlük konuşmada abartı için de kullanılır; yazıda ise kelimenin gerçek, sözlük anlamını vurgulamak için tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "detection",
+  "senses": [
+   "fark etme; keşif; tespit"
+  ],
+  "ex": [
+   "Sızıntının erken fark edilmesi bize pahalı onarımlardan tasarruf sağladı.",
+   "Tıbbi görüntüleme alanındaki gelişmeler hastalıkların erken teşhisini iyileştirerek hastaların daha çabuk tedavi görmesine olanak tanıyor."
+  ],
+  "col": [
+   "erken tespit",
+   "fark edilmekten kaçınmak",
+   "sahtekarlık tespiti",
+   "duman algılama"
+  ],
+  "tip": "Genellikle sayılamaz; 'detection of' kalıbından sonra fark edilen ya da tespit edilen şey gelir.",
+  "note": ""
+ },
+ {
+  "id": "shipment",
+  "senses": [
+   "sevkiyat; mal partisi",
+   "nakliye; sevk"
+  ],
+  "ex": [
+   "Dükkân bugün taze elma sevkiyatı aldı.",
+   "Temel malzemelerin sevkindeki gecikmeler üretim maliyetlerini artırabilir ve uluslararası tedarik zincirlerini aksatabilir."
+  ],
+  "col": [
+   "bir parti mal",
+   "sevkiyat almak",
+   "sevkiyata hazır"
+  ],
+  "tip": "Bir parti mal anlamında sayılabilir; taşıma süreci anlamında ise sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "foam",
+  "senses": [
+   "köpük",
+   "köpük malzeme",
+   "köpürmek"
+  ],
+  "ex": [
+   "Bulaşık yıkarken ellerim beyaz köpüklerle kaplandı.",
+   "Üreticiler kırılgan ürünleri korumak için sıklıkla köpük ambalaj kullanır, ancak bazı türleri geri dönüştürmek zordur."
+  ],
+  "col": [
+   "tıraş köpüğü",
+   "deniz köpüğü",
+   "köpük ambalaj",
+   "köpük kauçuk"
+  ],
+  "tip": "Köpük ya da köpük malzeme anlamında genellikle sayılamaz; 'foam' hem isim hem de fiil olarak kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "enormously",
+  "senses": [
+   "son derece; çok"
+  ],
+  "ex": [
+   "Yardımın bu zor taşınmayı büyük ölçüde kolaylaştırdı.",
+   "Uygun fiyatlı toplu taşıma, düşük gelirli hanelerin günlük seyahat maliyetlerini azaltarak onlara büyük fayda sağlayabilir."
+  ],
+  "col": [
+   "son derece başarılı",
+   "büyük ölçüde fayda sağlamak",
+   "büyük farklılık göstermek"
+  ],
+  "tip": "Sıfat ve fiilleri güçlendiren bir zarftır; 'benefit enormously' gibi fiillerle 'büyük ölçüde' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "viewpoint",
+  "senses": [
+   "bakış açısı; görüş",
+   "manzara noktası; seyir yeri"
+  ],
+  "ex": [
+   "Hikâyeni dinlemek senin bakış açını anlamama yardımcı oldu.",
+   "Bir konuya başka birinin bakış açısından bakmak, toplulukların anlaşmazlıkları daha etkili çözmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bana göre",
+   "görüşünü ifade etmek",
+   "karşıt görüşler"
+  ],
+  "tip": "'Birinin bakış açısından' anlamında 'from someone's viewpoint' kalıbı kullanılır; 'from' edatı mutlaka eklenmelidir.",
+  "note": ""
+ }
+]

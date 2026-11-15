@@ -1,0 +1,271 @@
+[
+ {
+  "id": "verse",
+  "senses": [
+   "şiir; manzum yazı",
+   "dize; kıta"
+  ],
+  "ex": [
+   "Piyanonun başında ilk kıtayı birlikte söyledik.",
+   "Manzum eserler incelemek, dil öğrenenlerin ritmi fark etmesine ve yazarların karmaşık duyguları nasıl aktardığını keşfetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "serbest nazım",
+   "boş nazım",
+   "manzum olarak",
+   "açılış kıtası"
+  ],
+  "tip": "Genel anlamda 'manzum yazı' sayılamaz; belirli bir kıtaya işaret ederken sayılabilir (a verse, two verses).",
+  "note": ""
+ },
+ {
+  "id": "preference",
+  "senses": [
+   "tercih; beğeni",
+   "öncelik; ayrıcalık"
+  ],
+  "ex": [
+   "Benim tercihim çay, ama kahve de olur.",
+   "Tüketicilerin yerel üretim gıdaya yönelik tercihi, sürdürülebilir tarımı teşvik edip taşıma emisyonlarını azaltabilir."
+  ],
+  "col": [
+   "...e karşı bir tercih",
+   "kişisel tercih",
+   "...e öncelik vermek",
+   "...yerine tercihen"
+  ],
+  "tip": "Kalıp 'preference for' şeklindedir; 'to' edatı kullanılmaz. 'In preference to' ise 'yerine tercihen' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "era",
+  "senses": [
+   "çağ; dönem"
+  ],
+  "ex": [
+   "Bu eski fotoğraflar bize farklı bir dönemi hatırlatıyor.",
+   "Dijital çağ, insanların bilgiye erişim biçimini dönüştürdü; hem eğitim fırsatları hem de yeni eşitsizlikler yarattı."
+  ],
+  "col": [
+   "dijital çağ",
+   "yeni bir dönem",
+   "bir dönemin sonu"
+  ],
+  "tip": "Era, ortak özellikleri olan bir dönemi anlatır; kesin yıl sayısına bağlı değildir.",
+  "note": ""
+ },
+ {
+  "id": "trait",
+  "senses": [
+   "özellik; nitelik"
+  ],
+  "ex": [
+   "Kız kardeşimde en çok takdir ettiğim özellik sabır.",
+   "Bazı kişilik özellikleri kalıtımla gelse de sosyal deneyimler bireylerin farklı durumlarda nasıl davrandığını etkiler."
+  ],
+  "col": [
+   "kişilik özelliği",
+   "kalıtsal özellik",
+   "ayırt edici özellik"
+  ],
+  "tip": "Trait sayılabilir bir isimdir; çoğunlukla kişilik veya kalıtsal özellikler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "gay",
+  "senses": [
+   "eşcinsel",
+   "eşcinsellere ilişkin"
+  ],
+  "ex": [
+   "Amcam eşcinsel ve eşiyle birlikte yaşıyor.",
+   "Okullar, eşcinsel öğrencilerin akranlarıyla aynı saygı ve desteği görmesini sağlayarak kapsayıcılığı teşvik edebilir."
+  ],
+  "col": [
+   "eşcinsel çift",
+   "eşcinsel haklar",
+   "açıkça eşcinsel olan"
+  ],
+  "tip": "Genellikle sıfat olarak kullanılır. 'Neşeli' anlamı günümüzde neredeyse kullanılmaz; bu anlamda kullanmaktan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "sympathetic",
+  "senses": [
+   "anlayışlı; şefkatli",
+   "destekleyici; olumlu"
+  ],
+  "ex": [
+   "Durumumu anlattığımda müdürüm anlayışlı davrandı.",
+   "Bakım verenlerin ihtiyaçlarına duyarlı işverenler, esnek çalışma düzenleri sunarak personelin iyi oluşunu artırabilir."
+  ],
+  "col": [
+   "anlayışlı bir dinleyici",
+   "anlayışlı bir tutum",
+   "bir öneriye sıcak bakan"
+  ],
+  "tip": "Genellikle 'to' veya 'towards' ile kullanılır. Türkçedeki 'sempatik' (hoşa giden) anlamına gelmez; bu karışıklığa dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "adolescent",
+  "senses": [
+   "genç; ergen",
+   "ergenlik çağına ait"
+  ],
+  "ex": [
+   "Kulüp, okuldan sonra ergenlere yemek kursları sunuyor.",
+   "Düzenli fiziksel aktivite, ergenlerin ruh sağlığını iyileştirebilir ve kalıcı sosyal bağların gelişimini destekleyebilir."
+  ],
+  "col": [
+   "ergenlik gelişimi",
+   "ergen davranışı",
+   "ergenlerin ruh sağlığı"
+  ],
+  "tip": "Hem isim hem sıfat olarak kullanılır. Teenager kelimesinden daha resmi bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "peacock",
+  "senses": [
+   "erkek tavus kuşu"
+  ],
+  "ex": [
+   "Erkek tavus kuşu, gölet kenarında parlak tüylerini açtı.",
+   "Erkek tavus kuşunun ayrıntılı gösterisi, eş seçiminin hayvanların görünüşünün evrimini nasıl etkileyebileceğini gösteriyor."
+  ],
+  "col": [
+   "tavus kuşu tüyleri",
+   "tavus kuşunun kuyruğu",
+   "çok gururlu"
+  ],
+  "tip": "Kesin olarak erkek kuşu anlatır; dişi tavus kuşu peahen olarak adlandırılır.",
+  "note": ""
+ },
+ {
+  "id": "entirely",
+  "senses": [
+   "tamamen; bütünüyle"
+  ],
+  "ex": [
+   "Ocaktaki çorbayı tamamen unuttum.",
+   "Yalnızca yenilenebilir enerjiyle çalışan bir ulaşım sistemi, bir şehrin karbon emisyonunu önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "tamamen farklı",
+   "tamamen ...e bağlı",
+   "tam olarak değil"
+  ],
+  "tip": "'Not entirely' 'tamamen değil', yani kısmen anlamına gelir; 'hiç' anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "parade",
+  "senses": [
+   "geçit töreni; alay",
+   "geçit yapmak; sıra sıra yürümek",
+   "gösterişle sergilemek"
+  ],
+  "ex": [
+   "Geçit töreni balkonumuzun önünden geçerken çocuklar bayrak sallıyordu.",
+   "Kültürel bir geçit töreni, toplulukların geleneklerini kutlamasına ve farklı kökenlerden insanlarla paylaşmasına olanak tanır."
+  ],
+  "col": [
+   "sokak geçit töreni",
+   "karnaval geçidi",
+   "sokaklarda geçit yapmak"
+  ],
+  "tip": "Parade daha çok süslü ve gösterişli geçitler için kullanılır; protesto yürüyüşü için march tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "beneficial",
+  "senses": [
+   "yararlı; faydalı"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra kısa bir yürüyüş sindirim için yararlıdır.",
+   "Yeşil alanlara erişim, dışarıda egzersiz yapma imkânı sınırlı olan kentliler için özellikle yararlıdır."
+  ],
+  "col": [
+   "olumlu etki",
+   "sağlık için yararlı",
+   "karşılıklı yararlı"
+  ],
+  "tip": "Genellikle 'to' veya 'for' ile kullanılır ve kime ya da neye yararlı olduğunu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "classic",
+  "senses": [
+   "klasik; değerli",
+   "tipik; örnek niteliğinde",
+   "klasik eser"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra birlikte klasik bir film izledik.",
+   "Bu konut projesi, düşünceli tasarımın kentsel yaşamı nasıl iyileştirebileceğinin tipik bir örneğidir."
+  ],
+  "col": [
+   "tipik örnek",
+   "klasik roman",
+   "zamansız klasik"
+  ],
+  "tip": "Classic 'klasik' ya da 'tipik' anlamına gelir; 'klasik müzik' için classical kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "digest",
+  "senses": [
+   "sindirmek",
+   "özümsemek; kavramak",
+   "özet; derleme"
+  ],
+  "ex": [
+   "Midem ağır yemekleri sindirmekte zorlanıyor.",
+   "Öğrenciler, karmaşık bilgiyi tanıdık olmayan sorunlara uygulamadan önce özümsemek için yeterli zamana ihtiyaç duyar."
+  ],
+  "col": [
+   "yiyeceği sindirmek",
+   "bilgiyi özümsemek",
+   "aylık özet"
+  ],
+  "tip": "İsim olarak vurgu ilk hecededir (DI-gest); fiil olarak ikinci hecededir (di-GEST).",
+  "note": ""
+ },
+ {
+  "id": "motto",
+  "senses": [
+   "ilke sözü; şiar"
+  ],
+  "ex": [
+   "Büyükannemin ilke edindiği söz hep önce başkalarına yardım etmekti.",
+   "Bir okulun şiarı ortak değerleri ifade edebilir, ancak günlük öğretim uygulamaları da bu ilkeleri yansıtmalıdır."
+  ],
+  "col": [
+   "kişisel şiar",
+   "okul şiarı",
+   "bir şiarı benimsemek"
+  ],
+  "tip": "Motto yönlendirici inancı anlatır; slogan ise daha çok tanıtım amaçlı sloganlar için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "endure",
+  "senses": [
+   "katlanmak; dayanmak",
+   "ayakta kalmak; sürmek"
+  ],
+  "ex": [
+   "Çatıyı onarırken işçilerin çıkardığı saatlerce gürültüye katlandık.",
+   "Kurak bölgelerdeki topluluklar, iklim düzenleri daha az öngörülebilir hale geldikçe uzun süreli su kıtlığına katlanmak zorunda kalıyor."
+  ],
+  "col": [
+   "zorluğa katlanmak",
+   "acıya dayanmak",
+   "yüzyıllarca ayakta kalmak"
+  ],
+  "tip": "'Katlanmak' anlamında nesne alır (endure pain); 'ayakta kalmak' anlamında nesnesiz kullanılabilir.",
+  "note": ""
+ }
+]

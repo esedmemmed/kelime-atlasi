@@ -1,0 +1,276 @@
+[
+ {
+  "id": "bald",
+  "senses": [
+   "kel",
+   "aşınmış; pürüzsüz"
+  ],
+  "ex": [
+   "Amcam kel ve her zaman şapka takar.",
+   "Yağmurlu veya buzlu yollarda aşınmış lastiklerle sürmek kaza riskini artırır."
+  ],
+  "col": [
+   "kel olmak; saçları dökülmek",
+   "kel kafa",
+   "kel nokta",
+   "aşınmış lastikler"
+  ],
+  "tip": "bald (kel) ile bold (cesur) karıştırılmamalı; yazımı ve telaffuzu farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "simply",
+  "senses": [
+   "sadece; yalnızca",
+   "sade; basit",
+   "kesinlikle; resmen"
+  ],
+  "ex": [
+   "Sadece evde sakin bir akşam geçirmek istiyorum.",
+   "Halk sağlığını iyileştirmek, bireyleri yalnızca egzersiz yapmaya teşvik etmekten fazlasını gerektirir; uygun fiyatlı tesisler de şarttır."
+  ],
+  "col": [
+   "sırf bu yüzden",
+   "kısaca",
+   "basitçe açıklamak",
+   "kesinlikle imkânsız"
+  ],
+  "tip": "simply sık sık 'sadece' anlamında kullanılır; 'basit' anlamındaki simple ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "definite",
+  "senses": [
+   "kesin; belirli",
+   "açık; belirgin"
+  ],
+  "ex": [
+   "Biletleri ayırtmadan önce kesin bir cevaba ihtiyacımız var.",
+   "Güvenilir toplu taşıma, trafik sıkışıklığını azaltmak ve hava kalitesini iyileştirmek isteyen şehirler için açık avantajlar sunar."
+  ],
+  "col": [
+   "kesin cevap",
+   "kesin planlar",
+   "açık bir avantaj"
+  ],
+  "tip": "definite sıfattır; 'kesinlikle' anlamındaki zarf biçimi definitely'dir.",
+  "note": ""
+ },
+ {
+  "id": "gentle",
+  "senses": [
+   "nazik; yumuşak",
+   "hafif; yumuşak",
+   "eğimi az olan"
+  ],
+  "ex": [
+   "Küçük kediyi kucağına alırken nazik ol.",
+   "Yürüyüş veya yüzme gibi hafif egzersizler, eklemlere aşırı yük bindirmeden fiziksel sağlığı geliştirebilir."
+  ],
+  "col": [
+   "hafif esinti",
+   "hafif egzersiz",
+   "eğimi az yamaç",
+   "nazik dokunuş"
+  ],
+  "tip": "İnsana karşı nazik olmak için be gentle with sb kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "comedian",
+  "senses": [
+   "komedyen"
+  ],
+  "ex": [
+   "Komedyen, kedisiyle ilgili hikâyeleriyle herkesi güldürdü.",
+   "Yetenekli bir komedyen, keyifli bir eğlence sunarken izleyicileri toplumsal alışkanlıkları sorgulamaya teşvik edebilir."
+  ],
+  "col": [
+   "stand-up komedyeni",
+   "profesyonel komedyen",
+   "yetenekli komedyen"
+  ],
+  "tip": "comedian kişiyi, comedy ise komedi türünü ya da komedi eserini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "performance",
+  "senses": [
+   "performans; başarı",
+   "gösteri; temsil",
+   "yerine getirme; ifa"
+  ],
+  "ex": [
+   "Antrenör, futbol maçından sonra takımımızın performansını övdü.",
+   "Düzenli geri bildirim, çalışanların beklentileri anlamasına ve belirli zayıflıklarını gidermesine yardımcı olarak iş performansını artırabilir."
+  ],
+  "col": [
+   "akademik başarı",
+   "iş performansı",
+   "canlı gösteri",
+   "görevlerin yerine getirilmesi"
+  ],
+  "tip": "Genel başarı anlamında genellikle sayılamaz; tek bir gösteri için a performance kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dorm",
+  "senses": [
+   "yurt; yatakhane"
+  ],
+  "ex": [
+   "Yurdum kütüphaneye sadece beş dakika uzaklıkta.",
+   "Yurtta kalmak, birinci sınıf öğrencilerin sosyal becerilerini geliştirmelerine ve üniversite hayatına uyum sağlamalarına yardımcı olabilir."
+  ],
+  "col": [
+   "yurt odası",
+   "yurt hayatı",
+   "üniversite yurdu"
+  ],
+  "tip": "dorm, dormitory kelimesinin gayriresmi kısaltmasıdır ve çoğunlukla Amerikan İngilizcesinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "trend",
+  "senses": [
+   "eğilim; akım",
+   "gündeme gelmek; yayılmak"
+  ],
+  "ex": [
+   "Evde sebze yetiştirmek burada popüler bir akım.",
+   "Uzaktan çalışmaya doğru büyüyen eğilim, büyük şehirlerde trafik sıkışıklığını azaltabilir."
+  ],
+  "col": [
+   "yükselen eğilim",
+   "artan eğilim",
+   "bir akımı takip etmek",
+   "...yönünde bir eğilim"
+  ],
+  "tip": "Bir şeye yönelik eğilim için a trend towards + isim kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "valley",
+  "senses": [
+   "vadi"
+  ],
+  "ex": [
+   "Dar bir nehir, yeşil vadinin içinden kıvrılarak akıyor.",
+   "Vadideki çiftçi topluluklar, ürünlerini sürdürmek ve yerel geçimlerini desteklemek için mevsimlik yağışlara bağlıdır."
+  ],
+  "col": [
+   "nehir vadisi",
+   "derin vadi",
+   "vadi tabanı"
+  ],
+  "tip": "valley iki tepe ya da dağ arasındaki alçak araziyi anlatır; basin (havza) ile aynı şey değildir.",
+  "note": ""
+ },
+ {
+  "id": "convince",
+  "senses": [
+   "inandırmak; ikna etmek",
+   "razı etmek"
+  ],
+  "ex": [
+   "Fotoğraflar, dairenin geniş olduğuna beni inandırdı.",
+   "Hükümetler, sakinlere gelişmiş toplu taşımanın özel araçlara pratik bir alternatif olduğunu anlatmak zorundadır."
+  ],
+  "col": [
+   "birine bir şeyi inandırmak",
+   "birine ...olduğunu inandırmak",
+   "birini bir şeyi yapmaya ikna etmek"
+  ],
+  "tip": "Kalıplar: convince sb of sth (birine bir şeyi inandırmak); convince sb to do sth (birini bir şey yapmaya ikna etmek).",
+  "note": ""
+ },
+ {
+  "id": "hallway",
+  "senses": [
+   "koridor; giriş holü"
+  ],
+  "ex": [
+   "Lütfen çamurlu botlarınızı koridorda bırakın.",
+   "Geniş koridorlar ve erişilebilir girişler, kamu binalarında hareket kısıtlılığı olan insanların yönlenmesini kolaylaştırır."
+  ],
+  "col": [
+   "dar koridor",
+   "giriş holü",
+   "koridorda ilerlemek"
+  ],
+  "tip": "Hem binanın girişindeki hol hem de odaları birbirine bağlayan koridor için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "sew",
+  "senses": [
+   "dikmek"
+  ],
+  "ex": [
+   "Bu düğmeyi paltomun üzerine geri dikebilir misin?",
+   "Dikiş dikmeyi öğrenmek, insanların hasarlı kıyafetleri atmak yerine onarmasını sağlar ve ev atığını azaltır."
+  ],
+  "col": [
+   "düğme dikmek",
+   "elle dikmek",
+   "kıyafet dikmek",
+   "deliği dikip kapatmak"
+  ],
+  "tip": "Düzensiz fiil: sew - sewed - sewn/sewed. Telaffuzu 'so' ile aynıdır.",
+  "note": ""
+ },
+ {
+  "id": "reduce",
+  "senses": [
+   "azaltmak; düşürmek"
+  ],
+  "ex": [
+   "Artan yemekleri değerlendirerek israfı azaltabiliriz.",
+   "Hükümetler, sera gazı emisyonlarını azaltmak ve uzun vadeli enerji güvenliğini iyileştirmek için yenilenebilir enerjiye yatırım yapmalıdır."
+  ],
+  "col": [
+   "maliyetleri düşürmek",
+   "emisyonları azaltmak",
+   "riski azaltmak",
+   "israfı azaltmak"
+  ],
+  "tip": "reduce by + miktar: ... kadar azaltmak; reduce to + sonuç: ... seviyesine düşürmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "journal",
+  "senses": [
+   "akademik dergi; uzman dergisi",
+   "günlük"
+  ],
+  "ex": [
+   "Her gece yatağımın yanında bir günlük tutarım.",
+   "Araştırmacılar, diğer uzmanların kanıtları değerlendirebilmesi için bulgularını akademik dergilerde yayımlar."
+  ],
+  "col": [
+   "akademik dergi",
+   "tıp dergisi",
+   "günlük tutmak",
+   "dergi makalesi"
+  ],
+  "tip": "journal genellikle uzmanlık dergisini anlatır; kişisel kayıt anlamında diary ile eş değerdir.",
+  "note": ""
+ },
+ {
+  "id": "persuading",
+  "senses": [
+   "ikna etmek; razı etmek"
+  ],
+  "ex": [
+   "Kız kardeşini sebze çorbası denemeye ikna ediyor.",
+   "İşe gidip gelenleri toplu taşımayı kullanmaya ikna etmek; güvenilir hizmetler, uygun fiyatlar ve pratik güzergâhlar gerektirir."
+  ],
+  "col": [
+   "birini harekete geçmeye ikna etmek",
+   "birine faydalarını anlatarak ikna etmek",
+   "birine ...olduğunu kabul ettirmek"
+  ],
+  "tip": "persuade sb to do sth: birini bir şeyi yapmaya ikna etmek; persuade sb of sth: birine bir şeyi kabul ettirmek.",
+  "note": ""
+ }
+]

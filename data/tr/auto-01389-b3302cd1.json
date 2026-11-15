@@ -1,0 +1,283 @@
+[
+ {
+  "id": "speed",
+  "senses": [
+   "hız; sürat",
+   "hızla ilerlemek",
+   "hız sınırını aşmak"
+  ],
+  "ex": [
+   "Tren şehirden çıktığımızda hız kazanmaya başladı.",
+   "Okul çevrelerinde araç hızlarını düşürmek, yürüyerek ya da bisikletle okula giden çocuklar için yol güvenliğini önemli ölçüde artırabilir."
+  ],
+  "col": [
+   "yüksek hızda",
+   "hız sınırı",
+   "hız kazanmak",
+   "hızlanmak"
+  ],
+  "tip": "speed up hızlanmak anlamına gelir. Fiil olarak speed, hız sınırını aşarak araç sürmek anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "stove",
+  "senses": [
+   "ocak; soba"
+  ],
+  "ex": [
+   "Tencerede çorba ocakta kaynıyor.",
+   "Geleneksel iç mekân sobalarının daha temiz modellerle değiştirilmesi, evlerdeki hava kirliliğini azaltabilir ve solunum sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "gazlı ocak",
+   "elektrikli ocak",
+   "odun sobası",
+   "ocakta"
+  ],
+  "tip": "stove yemek pişirmek ya da oda ısıtmak için kullanılan cihazdır. Fırın için oven kelimesini kullanın.",
+  "note": ""
+ },
+ {
+  "id": "mango",
+  "senses": [
+   "mango"
+  ],
+  "ex": [
+   "Bu mango şekersiz de yiyecek kadar tatlı.",
+   "Daha iyi depolama tesisleri, mango üreticilerinin gıda israfını azaltmasına ve daha güvenilir gelir elde etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "olgun bir mango",
+   "mango suyu",
+   "mango eti"
+  ],
+  "tip": "Çoğul biçimi mangoes ya da mangos olabilir; her ikisi de doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "pill",
+  "senses": [
+   "hap; ilaç",
+   "doğum kontrol hapı"
+  ],
+  "ex": [
+   "Hapı bir bardak suyla yuttu.",
+   "Bir hap semptomları hafifletebilir; ancak sağlıkta kalıcı iyileşmeler çoğu zaman günlük alışkanlıklarda değişiklik gerektirir."
+  ],
+  "col": [
+   "hap almak",
+   "hapı yutmak",
+   "vitamin hapı",
+   "doğum kontrol hapı"
+  ],
+  "tip": "take a pill ilaç almak anlamına gelir. the pill ise genellikle doğum kontrol hapını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "local",
+  "senses": [
+   "yerel; mahalli",
+   "yöre halkı; yerli",
+   "lokal; sınırlı"
+  ],
+  "ex": [
+   "Her sabah yerel fırından taze ekmek alıyoruz.",
+   "Yerel işletmeleri desteklemek, topluluk bağlarını güçlendirebilir ve paranın bölgesel ekonomide dolaşımını artırabilir."
+  ],
+  "col": [
+   "yerel topluluk",
+   "yerel yönetimler",
+   "yerel sakinler",
+   "lokal anestezi"
+  ],
+  "tip": "Çoğul locals yerli halk anlamına gelir. Zarf biçimi locally'dir.",
+  "note": ""
+ },
+ {
+  "id": "hide",
+  "senses": [
+   "saklanmak; gizlenmek",
+   "gizlemek; örtbas etmek",
+   "deri; post"
+  ],
+  "ex": [
+   "Doğum günü hediyesini yatağın altına sakladık.",
+   "Şirketler, ürünleri ya da üretim süreçleriyle ilgili çevresel riskler hakkındaki bilgileri gizlememelidir."
+  ],
+  "col": [
+   "gözden saklanmak",
+   "gerçeği gizlemek",
+   "duygularını gizlemek",
+   "hayvan derisi"
+  ],
+  "tip": "Geçmiş zaman hid, ortaç biçimi hidden'dır. hide from ise birinden saklanmak ya da kaçmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "awake",
+  "senses": [
+   "uyanık",
+   "uyandırmak; uyanmak"
+  ],
+  "ex": [
+   "Yağmur sonunda durduğunda ben hâlâ uyanıktım.",
+   "Geceleri geç saate kadar uyanık kalan öğrenciler, ertesi sabah derslerde yoğunlaşmakta zorlanabilir."
+  ],
+  "col": [
+   "tamamen uyanık",
+   "uyanık kalmak",
+   "gözü açık yatmak"
+  ],
+  "tip": "Sıfat olarak çoğunlukla be awake biçiminde kullanılır. Fiil olarak düzensizdir: awoke, awoken.",
+  "note": ""
+ },
+ {
+  "id": "noise",
+  "senses": [
+   "gürültü; ses"
+  ],
+  "ex": [
+   "Alarmım çalmadan önce dışarıdaki gürültü beni uyandırdı.",
+   "Trafik gürültüsüne uzun süre maruz kalmak uyku kalitesini etkileyebilir ve kentlilerin refahını azaltabilir."
+  ],
+  "col": [
+   "gürültü kirliliği",
+   "arka plan gürültüsü",
+   "gürültü yapmak",
+   "trafik gürültüsü"
+  ],
+  "tip": "Genel anlamda gürültü sayılamaz. Belirli bir sesten söz ederken a noise denir.",
+  "note": ""
+ },
+ {
+  "id": "stick",
+  "senses": [
+   "sopa; çubuk; baston",
+   "yapıştırmak; tutturmak",
+   "saplamak; sokmak"
+  ],
+  "ex": [
+   "Köpek bana bir sopa getirdi.",
+   "Öğrenciler, yerel yaban hayatı üzerine araştırmalarını sunmak için ortak bir posterin üzerine resimleri yapıştırabilir."
+  ],
+  "col": [
+   "yürüyüş bastonu",
+   "bir plana bağlı kalmak",
+   "bir resmi yapıştırmak",
+   "birbirine yapışmak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi stuck'tır. stick to ise bir şeye bağlı kalmak ya da sürdürmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "irish",
+  "senses": [
+   "İrlanda'ya ait; İrlandalı",
+   "İrlandaca",
+   "İrlandalılar"
+  ],
+  "ex": [
+   "Bir İrlandalı müzisyen festivalimizde kemanla çaldı.",
+   "Geleneksel İrlanda müziği, kültürel kimliği güçlendirirken ülke genelindeki kırsal topluluklara ziyaretçi de çekebilir."
+  ],
+  "col": [
+   "İrlanda kültürü",
+   "İrlanda müziği",
+   "İrlandaca konuşmak",
+   "İrlandalılar"
+  ],
+  "tip": "the Irish tüm İrlandalıları topluca ifade eder. Tek bir kişi için an Irish person denir.",
+  "note": ""
+ },
+ {
+  "id": "common",
+  "senses": [
+   "yaygın; sık görülen",
+   "ortak; müşterek"
+  ],
+  "ex": [
+   "Buralarda yaz aylarında sağanak yağış sık görülür.",
+   "Hükümetler, kırsal toplulukların uygun fiyatlı sağlık hizmetine erişimini engelleyen ortak sorunlara çözüm bulmalıdır."
+  ],
+  "col": [
+   "yaygın bir sorun",
+   "ortak bir hedef",
+   "ortak bir yanı olmak",
+   "yaygın uygulama"
+  ],
+  "tip": "common yaygın ya da ortak anlamına gelir. ordinary ise sıradan, özel olmayan anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "kettle",
+  "senses": [
+   "su ısıtıcısı"
+  ],
+  "ex": [
+   "Ben fincanları bulurken su ısıtıcısını çalıştır.",
+   "Yalnızca gerektiği kadar suyu su ısıtıcısında kaynatmak, zamanla evin elektrik tüketimini azaltabilir."
+  ],
+  "col": [
+   "elektrikli su ısıtıcısı",
+   "su ısıtıcısını açmak",
+   "suyu kaynatmak"
+  ],
+  "tip": "kettle su kaynatmak için kullanılır. Çay demlemek için kullanılan kap teapot'tır.",
+  "note": ""
+ },
+ {
+  "id": "judo",
+  "senses": [
+   "judo"
+  ],
+  "ex": [
+   "Judo hocamız bize güvenli düşmeyi gösterdi.",
+   "Nitelikli bir denetim altında judo çalışmak, gençlerin denge, öz disiplin ve başkalarına saygı geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "judo yapmak",
+   "judo eğitmeni",
+   "judo kulübü",
+   "judo maçı"
+  ],
+  "tip": "Judo yapmak için do judo kullanılır. play judo denmez.",
+  "note": ""
+ },
+ {
+  "id": "opposite",
+  "senses": [
+   "karşıt; zıt",
+   "karşısında",
+   "zıt olan; karşıt"
+  ],
+  "ex": [
+   "İstasyondan çıkıp zıt yönlere doğru yürüdük.",
+   "Politika trafiği azaltmayı amaçlasa da birkaç yerleşim bölgesinde tam tersi bir etki yarattı."
+  ],
+  "col": [
+   "zıt yönler",
+   "tam tersi etki",
+   "tam zıttı"
+  ],
+  "tip": "Edat olarak opposite'den sonra doğrudan yer adı gelir. İsim olarak genellikle the opposite of kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "female",
+  "senses": [
+   "kadın; dişi",
+   "dişi hayvan; kadın"
+  ],
+  "ex": [
+   "Dişi aslan gölgede yavrularının yanında dinleniyordu.",
+   "Kadın öğrencileri mühendislik okumaya teşvik etmek, teknoloji sektöründeki cinsiyet eşitsizliğini azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "kadın öğrenciler",
+   "kadın çalışanlar",
+   "dişi bir fil"
+  ],
+  "tip": "İnsanlar için çoğunlukla woman kullanılır. female sıfat olarak daha çok resmi ya da bilimsel bağlamda geçer.",
+  "note": ""
+ }
+]

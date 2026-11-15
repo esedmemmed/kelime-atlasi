@@ -1,0 +1,285 @@
+[
+ {
+  "id": "cheerful",
+  "senses": [
+   "neşeli; keyifli",
+   "ferah; canlı"
+  ],
+  "ex": [
+   "Komşumuz biz evden çıkarken neşeyle el salladı.",
+   "Neşeli bir sınıf ortamı, küçük öğrencileri grup tartışmalarına daha aktif katılmaya teşvik edebilir."
+  ],
+  "col": [
+   "neşeli gülümseme",
+   "neşeli ruh hali",
+   "neşeli atmosfer"
+  ],
+  "tip": "Hem kişinin neşesini hem de ortamın ferahlığını anlatabilir. Zarf biçimi cheerfully'dir.",
+  "note": ""
+ },
+ {
+  "id": "preposition",
+  "senses": [
+   "edat"
+  ],
+  "ex": [
+   "Öğretmenimiz her edatı açıklamak için oyuncak bir tavşan kullandı.",
+   "Doğru edatı seçmek, akademik yazıda dil öğrenenlerin fikirler arasındaki ilişkiyi daha kesin ifade etmesine yardımcı olur."
+  ],
+  "col": [
+   "yer edatı",
+   "zaman edatı",
+   "edat öbeği"
+  ],
+  "tip": "Edattan sonra genellikle isim, zamir ya da -ing biçimli fiil gelir. Edat, ilişkiyi gösteren sözcüğün cümlede isimden önce gelmesidir.",
+  "note": ""
+ },
+ {
+  "id": "terrified",
+  "senses": [
+   "çok korkmuş; dehşete düşmüş"
+  ],
+  "ex": [
+   "Dün gece gök gürültüsü pencereleri titretince çok korktum.",
+   "Topluluk önünde konuşmaktan korkan öğrenciler, küçük ve destekleyici gruplarda sunum çalışarak fayda görebilir."
+  ],
+  "col": [
+   "...den çok korkmuş",
+   "düşüncesi bile dehşete düşüren",
+   "tamamen korkmuş"
+  ],
+  "tip": "Kişi korktuğunda terrified, korkutan şey için terrifying kullanılır. Örnek: The film was terrifying.",
+  "note": ""
+ },
+ {
+  "id": "row",
+  "senses": [
+   "sıra; dizi",
+   "kürek çekmek",
+   "kavga; gürültülü tartışma"
+  ],
+  "ex": [
+   "Ön sırada iki boş koltuk bulduk.",
+   "Kalabalık yolların kenarına sıra sıra ağaç dikmek, gürültüyü azaltmaya ve yerel hava kalitesini iyileştirmeye yardımcı olabilir."
+  ],
+  "col": [
+   "art arda",
+   "ön sıra",
+   "kayığa kürek çekmek",
+   "kavga etmek"
+  ],
+  "tip": "Sıra ve kürek anlamında /rəʊ/, kavga anlamında /raʊ/ okunur. Telaffuz farkı anlamı değiştirir.",
+  "note": ""
+ },
+ {
+  "id": "earthquake",
+  "senses": [
+   "deprem"
+  ],
+  "ex": [
+   "Deprem, mutfak rafındaki bardakların şıngırdamasına yol açtı.",
+   "Sıkı bina yönetmelikleri, yoğun nüfuslu bir şehirde deprem olduğunda yaralanma riskini önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "güçlü bir deprem",
+   "deprem meydana gelmek",
+   "deprem hasarı",
+   "deprem bölgesi"
+  ],
+  "tip": "Sayılabilir isimdir. Tekil kullanımda önüne a/an gelir: an earthquake.",
+  "note": ""
+ },
+ {
+  "id": "tax",
+  "senses": [
+   "vergi",
+   "vergilendirmek",
+   "yormak; zorlamak"
+  ],
+  "ex": [
+   "Aylık maaşımdan kesilen vergi arttı.",
+   "Hükümetler vergi gelirlerini toplu taşımayı iyileştirmek ve sağlık hizmetlerine erişimi kolaylaştırmak için kullanabilir."
+  ],
+  "col": [
+   "gelir vergisi",
+   "vergi ödemek",
+   "vergi geliri",
+   "malları vergilendirmek"
+  ],
+  "tip": "Fiil olarak vergi uygulamak anlamına gelir. taxing ise yorucu, zorlayıcı anlamında sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "shelter",
+  "senses": [
+   "korunma; barınma",
+   "sığınak; barınak",
+   "sığınmak; korumak"
+  ],
+  "ex": [
+   "Fırtına sırasında bir köprünün altında sığınacak yer bulduk.",
+   "Yerel yetkililer, evleri sellerde hasar gören sakinler için geçici barınma imkânı sağlamalıdır."
+  ],
+  "col": [
+   "sığınmak",
+   "geçici barınak",
+   "yağmurdan korunma",
+   "hayvan barınağı"
+  ],
+  "tip": "Genel anlamda korunma soyut olduğu için sayılamaz. Belirli bir barınak için sayılabilir: a shelter.",
+  "note": ""
+ },
+ {
+  "id": "fairly",
+  "senses": [
+   "oldukça; epey",
+   "adil bir şekilde; hakkaniyetle"
+  ],
+  "ex": [
+   "Eve dönüş yürüyüşü oldukça kısa ve çok keyifliydi.",
+   "Okullar kaynakları adil dağıtmalı ki dezavantajlı geçmişe sahip öğrenciler ihtiyaç duydukları desteği alabilsin."
+  ],
+  "col": [
+   "oldukça kolay",
+   "oldukça yaygın",
+   "insanlara adil davranmak",
+   "kaynakları adil dağıtmak"
+  ],
+  "tip": "fairly good çok iyi değil, idare eder ya da oldukça iyi anlamına gelir. very'den daha zayıf bir derece belirtir.",
+  "note": ""
+ },
+ {
+  "id": "sense",
+  "senses": [
+   "duyu; algı",
+   "duygu; his",
+   "sezmek; hissetmek"
+  ],
+  "ex": [
+   "Köpeklerin koku alma duyusu insanlardan çok daha güçlüdür.",
+   "Topluluk bahçeleri, düzenli sosyal etkileşim fırsatları yaratarak sakinlerin aidiyet duygusunu güçlendirebilir."
+  ],
+  "col": [
+   "koku alma duyusu",
+   "aidiyet duygusu",
+   "sağduyu",
+   "mantıklı gelmek"
+  ],
+  "tip": "make sense 'mantıklı gelmek' demektir; make sense of ise 'bir şeyi anlamlandırmak' anlamına gelir. Bunları karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "tape",
+  "senses": [
+   "bant; yapışkan bant",
+   "kaset; ses bandı",
+   "bantla yapıştırmak"
+  ],
+  "ex": [
+   "Paketi bir şerit bantla kapattım.",
+   "Manyetik banda kaydedilmiş eski röportajlar, gelecekteki tarihsel araştırmalar için değerli kayıtları korumak amacıyla dijitale aktarılmalıdır."
+  ],
+  "col": [
+   "yapışkan bant",
+   "manyetik bant",
+   "bir rulo bant",
+   "şerit metre"
+  ],
+  "tip": "Genelde sayılamaz isimdir. Bir rulo için a roll of tape kullanılır. Fiil olarak bantla sabitlemek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tunnel",
+  "senses": [
+   "tünel; geçit",
+   "tünel açmak"
+  ],
+  "ex": [
+   "Tren, tepenin altındaki karanlık bir tünele girdi.",
+   "Nehrin altında bir tünel inşa etmek, trafik sıkışıklığını azaltabilir ve komşu ilçeler arasındaki bağlantıları iyileştirebilir."
+  ],
+  "col": [
+   "demiryolu tüneli",
+   "tünel kazmak",
+   "içinden geçmek"
+  ],
+  "tip": "through, tünelin içinden geçmeyi belirtir: go through the tunnel. Fiil olarak da kullanılır: tunnel through.",
+  "note": ""
+ },
+ {
+  "id": "footpath",
+  "senses": [
+   "yaya yolu; patika"
+  ],
+  "ex": [
+   "Dar bir yaya yolu köyümüzden göle uzanıyor.",
+   "Kırsal yaya yollarının bakımı, açık hava etkinliklerini teşvik ederken ziyaretçilerin çevredeki tarlalara zarar vermesini önler."
+  ],
+  "col": [
+   "kamuya açık yaya yolu",
+   "dar patika",
+   "yaya yolunu izlemek"
+  ],
+  "tip": "Yaya kullanımı için tasarlanmış yoldur ve araç trafiğine kapalıdır. İngiliz İngilizcesinde kaldırım için pavement kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sum",
+  "senses": [
+   "miktar; tutar",
+   "toplam; toplama",
+   "özetlemek"
+  ],
+  "ex": [
+   "Yeni bir bisiklet için küçük bir miktar para biriktirdi.",
+   "Hükümetler, sıkışıklığı azaltmak ve kentsel hava kalitesini iyileştirmek için toplu taşımaya büyük meblağlarda yatırım yapıyor."
+  ],
+  "col": [
+   "büyük miktarda para",
+   "...nın toplamı",
+   "özetlemek"
+  ],
+  "tip": "sum up 'özetlemek' anlamına gelir. Bir miktar para için a sum of money kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "wallpaper",
+  "senses": [
+   "duvar kağıdı",
+   "masaüstü duvar kağıdı",
+   "duvar kağıdı kaplamak"
+  ],
+  "ex": [
+   "Küçük yatak odamız için soluk yeşil bir duvar kağıdı seçtik.",
+   "Dayanıklı duvar kağıtları seçmek, iç mekân yenileme sıklığını azaltabilir ve evdeki malzeme atıklarını sınırlandırabilir."
+  ],
+  "col": [
+   "desenli duvar kağıdı",
+   "bir rulo duvar kağıdı",
+   "duvar kağıdı asmak",
+   "masaüstü arka planı"
+  ],
+  "tip": "Genelde sayılamaz isimdir. Bir rulo için a roll of wallpaper kullanılır. Bilgisayar ekranı için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "spread",
+  "senses": [
+   "yaymak; yayılmak",
+   "sermek; sürmek",
+   "yayılma; yayım"
+  ],
+  "ex": [
+   "Piknik için ağacın altına bir battaniye serdi.",
+   "Çevrimiçi yanlış bilginin hızla yayılması, okullarda eleştirel okuma becerilerinin öğretilmesinin önemini ortaya koyuyor."
+  ],
+  "col": [
+   "farkındalık yaymak",
+   "hızla yayılmak",
+   "tereyağı sürmek",
+   "hastalığın yayılması"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi de spread'tir; spreaded diye yazılmaz. Üç zamanda da aynı biçimde kullanılır.",
+  "note": ""
+ }
+]

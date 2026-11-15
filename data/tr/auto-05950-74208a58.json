@@ -1,0 +1,272 @@
+[
+ {
+  "id": "handicap",
+  "senses": [
+   "dezavantaj; engel",
+   "engellemek; dezavantaja sokmak",
+   "handikap; fark puanı"
+  ],
+  "ex": [
+   "Araba olmadan mesafe ciddi bir engel hâline geldi.",
+   "Güvenilir internete erişimin kısıtlı olması, uzak topluluklardaki öğrenciler için ciddi bir dezavantaj olabilir."
+  ],
+  "col": [
+   "ciddi bir dezavantaj",
+   "golf handikabı",
+   "-den dezavantajlı olmak"
+  ],
+  "tip": "Engellilik ya da engelli kişileri anlatmak için kullanımı eskimiştir; bu durumda disability tercih edilmelidir.",
+  "note": "Engellilik ya da engelli kişileri anlatmak için kullanımı eskimiştir ve incitici olabilir."
+ },
+ {
+  "id": "generalization",
+  "senses": [
+   "genelleme; genel yargı",
+   "genelleme; genelleştirme"
+  ],
+  "ex": [
+   "Bütün gençleri tembel olarak nitelemek adaletsiz bir genellemedir.",
+   "Araştırmacılar, küçük ve temsil gücü zayıf bir örneklemden bütün bir popülasyon hakkında genelleme yapmaktan kaçınmalıdır."
+  ],
+  "col": [
+   "genelleme yapmak",
+   "geniş kapsamlı genelleme",
+   "geniş bir genelleme",
+   "aceleci genelleme"
+  ],
+  "tip": "İngiliz İngilizcesinde generalisation şeklinde de yazılır. Genellemeler her zaman güvenilir değildir; kanıtla desteklenmelidir.",
+  "note": ""
+ },
+ {
+  "id": "transplant",
+  "senses": [
+   "nakletmek; nakil yapmak",
+   "organ nakli; nakil ameliyatı"
+  ],
+  "ex": [
+   "Fideleri kökleri güçlendikten sonra yeniden dikeriz.",
+   "Tıptaki gelişmeler organ nakillerini başarıyla yapmayı mümkün kıldı ve hastaların yaşam kalitesini artırdı."
+  ],
+  "col": [
+   "fideleri nakletmek",
+   "böbrek nakli",
+   "organ nakli",
+   "nakil ameliyatı"
+  ],
+  "tip": "Fiilde vurgu sözcüğün sonunda (transPLANT), isimde başta (TRANSplant) olur. Hem organlar hem bitkiler için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "uphold",
+  "senses": [
+   "savunmak; korumak",
+   "kararı onamak; geçerli saymak"
+  ],
+  "ex": [
+   "Koçumuz her zaman adil oyunu savunmaya çalışır.",
+   "Bağımsız mahkemeler, kamu makamlarının yasa çerçevesinde hareket etmesini sağlayarak vatandaşların haklarını korumaya yardımcı olur."
+  ],
+  "col": [
+   "yasayı savunmak",
+   "insan haklarını savunmak",
+   "bir kararı onamak",
+   "standartları korumak"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç biçimi upheld'dir. Genellikle haklar, ilkeler ya da mahkeme kararları için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "expiration",
+  "senses": [
+   "sona erme; son kullanma"
+  ],
+  "ex": [
+   "Yoğurdu almadan önce son kullanma tarihine bakın.",
+   "Geçici çalışma izinlerinin sona ermesi hem çalışanlar hem de yerel işletmeler için belirsizlik yaratabilir."
+  ],
+  "col": [
+   "son kullanma tarihi",
+   "sözleşmenin sona ermesi",
+   "sona ermeden önce"
+  ],
+  "tip": "Amerikan İngilizcesinde expiration, İngiliz İngilizcesinde ise expiry daha yaygındır. Her ikisi de sınavlarda kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "conformity",
+  "senses": [
+   "uyma; uygunluk; konformizm"
+  ],
+  "ex": [
+   "Sanat öğretmenimiz katı bir uyum yerine yaratıcılığı teşvik eder.",
+   "Okullarda uyma baskısının güçlü olması, öğrencilerin yerleşik fikirleri sorgulamasını ve bağımsız yargı geliştirmesini engelleyebilir."
+  ],
+  "col": [
+   "toplumsal uyum",
+   "standartlara uygunluk",
+   "ile uyum içinde",
+   "uyum baskısı"
+  ],
+  "tip": "in conformity with kalıbı 'ile uyum içinde, uygun olarak' anlamına gelir; with'ten sonra genellikle kural ya da standart gelir.",
+  "note": ""
+ },
+ {
+  "id": "formality",
+  "senses": [
+   "formalite; resmi işlem",
+   "resmiyet; resmiyetçilik"
+  ],
+  "ex": [
+   "Bu son belgeyi imzalamak sadece bir formalite.",
+   "Sınıf tartışmalarında aşırı resmiyet, öğrencileri görüşlerini açık ve özgüvenle ifade etmekten alıkoyabilir."
+  ],
+  "col": [
+   "sırf bir formalite",
+   "işlemleri tamamlamak",
+   "yasal formaliteler"
+  ],
+  "tip": "Resmi işlemler anlamında genellikle çoğul formalities kullanılır; resmiyet anlamında ise tekil ve sayılamaz biçimde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tedious",
+  "senses": [
+   "sıkıcı; yorucu"
+  ],
+  "ex": [
+   "Bu eski fişlerin hepsini ayıklamak can sıkıcı bir iş.",
+   "Otomasyon, çalışanları yorucu görevlerden kurtarıp daha yaratıcı ve doyurucu işlere odaklanmalarını sağlayabilir."
+  ],
+  "col": [
+   "sıkıcı bir iş",
+   "yorucu bir süreç",
+   "bıktırıcı evrak işleri"
+  ],
+  "tip": "Uzun süren ya da tekrarlanan işleri anlatır. bored (kişinin sıkılması) ile karıştırılmamalı: tedious nesneler için, bored kişiler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "outlay",
+  "senses": [
+   "harcama; masraf"
+  ],
+  "ex": [
+   "İlk yatırımımız alet ve sağlam bir çalışma tezgâhını kapsıyordu.",
+   "Güneş panelleri büyük bir başlangıç masrafı gerektirse de zamanla evlerin enerji giderlerini azaltabilir."
+  ],
+  "col": [
+   "ilk yatırım",
+   "sermaye harcaması",
+   "önemli bir harcama"
+  ],
+  "tip": "Genellikle bir işe başlarken yapılan büyük ön harcamaları anlatır; initial veya capital gibi sıfatlarla sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "angular",
+  "senses": [
+   "köşeli; keskin hatlı",
+   "zayıf; kemikli"
+  ],
+  "ex": [
+   "Köşeli masa, kavisli kanepemizin yanında dikkat çekiciydi.",
+   "Müzenin köşeli tasarımı, çevredeki manzarada sık görülen yuvarlak formlarla keskin bir tezat oluşturuyor."
+  ],
+  "col": [
+   "köşeli şekil",
+   "keskin hatlı yüz özellikleri",
+   "köşeli tasarım"
+  ],
+  "tip": "Nesneler için 'köşeli' anlamına gelir; insanlar için kullanıldığında 'zayıf ve kemikli' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "restock",
+  "senses": [
+   "yeniden stoklamak; ikmal etmek"
+  ],
+  "ex": [
+   "Misafirlerimiz gelmeden önce buzdolabını yeniden doldurmamız gerek.",
+   "Perakendeciler, ürünler tükenmeden raflarını doldurmak için talebi tahmin eden dijital sistemleri giderek daha çok kullanıyor."
+  ],
+  "col": [
+   "rafları doldurmak",
+   "buzdolabını doldurmak",
+   "taze malzemeyle stoklamak"
+  ],
+  "tip": "restock A with B kalıbında 'A'yı B ile yeniden stoklamak' anlamına gelir; with'ten sonra gelen şey stokun kendisidir.",
+  "note": ""
+ },
+ {
+  "id": "feud",
+  "senses": [
+   "uzun süren kavga; husumet",
+   "uzun süre kavga etmek; husumet beslemek"
+  ],
+  "ex": [
+   "Komşular bahçe çiti yüzünden aralarındaki kavgayı sonlandırdı.",
+   "Topluluk liderleri arasındaki uzun süren husumet, yerel halka fayda sağlayacak projelerde iş birliğini engelleyebilir."
+  ],
+  "col": [
+   "aile kavgası",
+   "uzun süren husumet",
+   "birine karşı husumet beslemek"
+  ],
+  "tip": "Tek bir tartışmayı değil, uzun süren düşmanlığı ve çatışmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "potion",
+  "senses": [
+   "iksir; büyü içeceği"
+  ],
+  "ex": [
+   "Hikâyede bir iksir prensi görünmez yapar.",
+   "Büyülü iksir, çocuk edebiyatında yazarların dönüşüm ve kimlik temalarını işlemesine olanak tanıyan tanıdık bir öğe olmayı sürdürüyor."
+  ],
+  "col": [
+   "bir büyü iksiri",
+   "şifa iksiri",
+   "iksir hazırlamak"
+  ],
+  "tip": "Genellikle fantastik hikâyelerde geçer. Sıradan bir ilacın tek dozu için dose kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "appraise",
+  "senses": [
+   "değerlendirmek; takdir etmek",
+   "değer biçmek; ekspertiz yapmak"
+  ],
+  "ex": [
+   "Antrenör tekniğimi değerlendirdi ve bazı değişiklikler önerdi.",
+   "Yerel yönetimler, imar izni vermeden önce büyük inşaat projelerinin çevresel etkisini değerlendirmek zorundadır."
+  ],
+  "col": [
+   "performansı değerlendirmek",
+   "bir mülkün değerini biçmek",
+   "eleştirel bir şekilde değerlendirmek"
+  ],
+  "tip": "appraise (değerlendirmek) ile apprise (bilgilendirmek) birbirine benzer ama farklı anlamdadır; karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "tariff",
+  "senses": [
+   "gümrük vergisi",
+   "tarife; fiyat listesi"
+  ],
+  "ex": [
+   "Yeni gümrük vergisi ithal peyniri çok daha pahalı hâle getirdi.",
+   "Gümrük vergileri yerli üreticileri koruyabilse de tüketici fiyatlarını yükseltebilir ve ticari anlaşmazlıklara yol açabilir."
+  ],
+  "col": [
+   "vergi uygulamak",
+   "ithalat vergisi",
+   "vergileri azaltmak",
+   "elektrik tarifesi"
+  ],
+  "tip": "Mal üzerindeki vergi için tariff on goods kalıbı kullanılır; çoğul tariffs ise birden fazla vergiyi anlatır.",
+  "note": ""
+ }
+]

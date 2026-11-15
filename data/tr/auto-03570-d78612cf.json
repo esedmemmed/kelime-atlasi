@@ -1,0 +1,273 @@
+[
+ {
+  "id": "gulf",
+  "senses": [
+   "körfez",
+   "uçurum; derin ayrılık"
+  ],
+  "ex": [
+   "Güneş doğarken balıkçı tekneleri körfezi geçti.",
+   "Dijital teknolojiye eşit olmayan erişim, zengin topluluklarla yoksul topluluklar arasındaki uçurumu büyütebilir."
+  ],
+  "col": [
+   "geniş bir uçurum",
+   "uçurumu kapatmak",
+   "zenginler ile yoksullar arasındaki uçurum"
+  ],
+  "tip": "Mecaz anlamda 'the gulf between X and Y' kalıbı sık kullanılır; somut denizle karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "eternal",
+  "senses": [
+   "sonsuz; ebedi",
+   "bitmek bilmeyen; sürekli"
+  ],
+  "ex": [
+   "Çift, çiçek açmış ağacın altında sonsuz bir aşk sözü verdi.",
+   "Birçok antik kültür, sonsuz yaşam umutlarını ifade etmek ve ortak hafızayı korumak için anıtsal mimariyi kullandı."
+  ],
+  "col": [
+   "sonsuz yaşam",
+   "sonsuz aşk",
+   "bitmek bilmeyen iyimserlik"
+  ],
+  "tip": "Olumsuz şeylerle kullanıldığında abartılı anlam taşır: eternal complaints, bitmek bilmeyen şikâyetler demektir.",
+  "note": ""
+ },
+ {
+  "id": "distinct",
+  "senses": [
+   "farklı; ayrı",
+   "belirgin; açık seçik"
+  ],
+  "ex": [
+   "İkizlerin yüzleri benzer ama kişilikleri farklı.",
+   "Toplu taşıma ve özel araçlar farklı ihtiyaçlara hizmet eder; bu yüzden şehir plancıları ikisini de düşünmeli."
+  ],
+  "col": [
+   "...den farklı",
+   "iki ayrı grup",
+   "belirgin bir avantaj"
+  ],
+  "tip": "'Distinct from' kalıbı 'ile farklı' anlamına gelir. 'Distant' (uzak) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "speculate",
+  "senses": [
+   "tahmin etmek; varsaymak",
+   "spekülasyon yapmak"
+  ],
+  "ex": [
+   "Gecikmenin nedeni hakkında yalnızca tahminde bulunabiliriz.",
+   "Araştırmacılar, değişen çalışma düzenlerinin büyük kentlerdeki trafik sıkışıklığını azaltabileceğini öne sürüyor."
+  ],
+  "col": [
+   "nedeni hakkında tahmin yürütmek",
+   "...olduğunu öne sürmek",
+   "gayrimenkulde spekülasyon yapmak"
+  ],
+  "tip": "Konu için 'about', önerme için 'that' kullanılır. Ticari anlamda 'speculate in' kalıbı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "existence",
+  "senses": [
+   "varlık; var olma",
+   "yaşam; hayat tarzı"
+  ],
+  "ex": [
+   "Bu küçük adanın varlığından hiç haberim yoktu.",
+   "Uygun fiyatlı konutların bulunması, büyüyen şehirlerde yaşam kalitesini önemli ölçüde artırabilir."
+  ],
+  "col": [
+   "ortaya çıkmak",
+   "yürürlükte olan; mevcut",
+   "...in varlığı",
+   "huzurlu bir hayat"
+  ],
+  "tip": "Genellikle sayılamaz; 'an existence' yerine 'the existence' kullanılır. 'A quiet existence' gibi kalıplarda 'hayat' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "confront",
+  "senses": [
+   "yüzleşmek; karşılaşmak",
+   "hesap sormak; yüzüne vurmak"
+  ],
+  "ex": [
+   "Sonunda korkusuyla yüzleşti ve yüzme havuzuna girdi.",
+   "Şehirler; konut, sağlık ve toplu taşımayı iyileştirerek yaşlanan nüfusun zorluklarıyla yüzleşmelidir."
+  ],
+  "col": [
+   "bir sorunla yüzleşmek",
+   "...ile karşı karşıya kalmak",
+   "birini bir konuda yüzleştirmek"
+  ],
+  "tip": "Nesne edatsız gelir: confront a problem. 'Be confronted with' edilgen kalıbı 'karşı karşıya kalmak' anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "experimental",
+  "senses": [
+   "deneysel; deneye dayalı",
+   "yenilikçi; denemeye dayalı"
+  ],
+  "ex": [
+   "Bugün öğle yemeğinde deneysel sonuçları karşılaştırdık.",
+   "Deneysel kanıtlar, sınıf havalandırmasının iyileştirilmesinin uzun derslerde dikkati korumaya yardımcı olabileceğini gösteriyor."
+  ],
+  "col": [
+   "deneysel kanıt",
+   "deneysel tasarım",
+   "deneysel yöntem",
+   "deneysel tedavi"
+  ],
+  "tip": "'Deneyimli' anlamına gelmez; 'deneyimli' için experienced kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "offence",
+  "senses": [
+   "suç; kabahat",
+   "gücenme; incinme"
+  ],
+  "ex": [
+   "Burada park etmek suçtur, o yüzden arabayı taşıyalım.",
+   "Küçük suçlar işleyen kişiler için hapis yerine toplum hizmeti daha etkili olabilir."
+  ],
+  "col": [
+   "suç işlemek",
+   "ağır suç",
+   "alınmak; gücenmek",
+   "gücendirmek"
+  ],
+  "tip": "İngiliz yazımı offence, Amerikan yazımı offense'dir. 'Take offence' gücenmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "telegram",
+  "senses": [
+   "telgraf; telgraf mesajı"
+  ],
+  "ex": [
+   "Büyükannem, kardeşinin güvenle vardığını bildiren telgrafı sakladı.",
+   "Telefon hizmetleri yaygınlaşmadan önce, acil haberleri iletmenin önemli yollarından biri telgraf göndermekti."
+  ],
+  "col": [
+   "telgraf göndermek",
+   "telgraf almak",
+   "telgraf iletmek"
+  ],
+  "tip": "Telegram yazılı mesajı, telegraph ise iletişim sistemini anlatır. İkisi de Türkçede telgraf diye çevrilebilir.",
+  "note": ""
+ },
+ {
+  "id": "visible",
+  "senses": [
+   "görünür; gözle görülür",
+   "belirgin; açık"
+  ],
+  "ex": [
+   "Sabah sisi içinde dağlar zar zor görünüyordu.",
+   "Toplu taşımaya yapılan yatırım, birçok büyük kentte hava kalitesinde gözle görülür iyileşmeler sağladı."
+  ],
+  "col": [
+   "açıkça görünür",
+   "çıplak gözle görülebilir",
+   "gözle görülür iyileşme"
+  ],
+  "tip": "Kime görünür olduğunu 'visible to' ile belirtin. 'Visual' (görsel) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "unaffordable",
+  "senses": [
+   "ödenemez; paraya sığmaz"
+  ],
+  "ex": [
+   "Daha büyük daire maaşıma göre ödenemezdi.",
+   "Konut ödenemez hale geldiğinde, temel işçiler iş yerlerinden çok uzağa taşınmak zorunda kalabilir."
+  ],
+  "col": [
+   "ödenemez konut",
+   "karşılanamaz kiralar",
+   "ödenemez hale gelmek"
+  ],
+  "tip": "Sadece pahalı değil, kişinin ödeme gücünü aşan anlamına gelir. Affordable'ın zıddıdır.",
+  "note": ""
+ },
+ {
+  "id": "self-employed",
+  "senses": [
+   "serbest çalışan; kendi hesabına çalışan"
+  ],
+  "ex": [
+   "Teyzem kendi kamyonetiyle çalışan serbest bir elektrikçi.",
+   "Serbest çalışanlar çoğu zaman esnek saatlere sahip olur, ancak ücretli tatil ve düzenli aylık gelirden yoksun kalabilirler."
+  ],
+  "col": [
+   "serbest çalışanlar",
+   "serbest çalışmaya başlamak",
+   "serbest danışman"
+  ],
+  "tip": "İşsiz anlamına gelmez; kişinin kendi adına çalıştığını belirtir. Kısa çizgiyi (-) koruyun.",
+  "note": ""
+ },
+ {
+  "id": "fund-raising",
+  "senses": [
+   "para toplama; bağış kampanyası"
+  ],
+  "ex": [
+   "Bağış yemeğimiz kütüphane için kitap alınmasına yardımcı oldu.",
+   "Topluluk bağışları yerel hizmetleri destekleyebilir, ancak temel sağlık hizmetleri tamamen hayırseverlik bağışlarına bağlı olmamalı."
+  ],
+  "col": [
+   "bağış etkinliği",
+   "bağış kampanyası",
+   "bağış hedefi"
+  ],
+  "tip": "Bitişik yazım fundraising de kullanılır. 'Raise funds' ise fon toplamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "slam",
+  "senses": [
+   "çarparak kapatmak; sert koymak",
+   "sert eleştirmek; yermek",
+   "gürültülü çarpma sesi"
+  ],
+  "ex": [
+   "Rüzgâr, kahvaltı sırasında pencereyi çarparak kapattı.",
+   "Çevre grupları, korunan kıyı bölgelerinde daha fazla inşaata izin vereceği için teklifi sert biçimde eleştirdi."
+  ],
+  "col": [
+   "kapıyı çarparak kapatmak",
+   "çarparak kapanmak",
+   "bir teklifi sert eleştirmek"
+  ],
+  "tip": "Geçmiş zaman slammed, devam hali slamming biçimindedir; m harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "license",
+  "senses": [
+   "ruhsat vermek; izin vermek",
+   "ruhsat; lisans; izin belgesi"
+  ],
+  "ex": [
+   "Genel yollarda araba sürmek için ehliyete ihtiyacın var.",
+   "Yetkililer, kreşlerin uygun güvenlik ve kalite standartlarını karşıladığından emin olmak için bakım hizmeti sağlayıcılarına dikkatle ruhsat vermelidir."
+  ],
+  "col": [
+   "birine bir şey yapma izni vermek",
+   "sürücü belgesi",
+   "ruhsat almak için başvurmak",
+   "ruhsatlı işletmeci"
+  ],
+  "tip": "İngiliz yazımında isim licence, fiil license'tır; Amerikan İngilizcesinde ikisi de license yazılır.",
+  "note": ""
+ }
+]

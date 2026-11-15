@@ -1,0 +1,280 @@
+[
+ {
+  "id": "subject",
+  "senses": [
+   "konu; ders",
+   "bağlı; tabi",
+   "maruz bırakmak"
+  ],
+  "ex": [
+   "Gençken en sevdiğim ders fen bilgisiydi.",
+   "Okullar, öğrencilerin hayal gücünü ve problem çözme becerilerini geliştirmesine yardımcı oldukları için yaratıcı derslere yeterli önem vermelidir."
+  ],
+  "col": [
+   "okul dersi",
+   "konuyu değiştirmek",
+   "onaya tabi",
+   "birini strese maruz bırakmak"
+  ],
+  "tip": "Fiil olarak vurgu sonda: /səbˈdʒekt/. subject A to B kalıbında A'yı B'ye maruz bırakmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "crazy",
+  "senses": [
+   "saçma; akıl dışı",
+   "meraklı; hayran",
+   "çıldırtıcı; dayanılmaz"
+  ],
+  "ex": [
+   "Bu karda sandalet giymek çılgınca görünüyor.",
+   "Bazıları araçsız şehirleri çılgınca bir fikir olarak görse de, bu tür politikalar kentlerin hava kalitesini önemli ölçüde iyileştirebilir."
+  ],
+  "col": [
+   "birine/bir şeye çılgınca düşkün olmak",
+   "birini çıldırtmak",
+   "çılgınca bir fikir"
+  ],
+  "tip": "Günlük ve gayriresmî bir kelimedir. Resmi yazıda saçma, akıl dışı gibi daha nötr sözcükleri tercih edin. crazy about 'çok sevmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "couple",
+  "senses": [
+   "çift; evli çift",
+   "birkaç; iki üç",
+   "bağlamak; birleştirmek"
+  ],
+  "ex": [
+   "Yan dairedeki çift bizi akşam yemeğine davet etti.",
+   "Yüksek konut maliyetleri, sınırlı çocuk bakım imkânlarıyla birleşince, genç çiftlerin aile kurmasını engelleyebilir."
+  ],
+  "col": [
+   "evli çift",
+   "birkaç gün",
+   "ile birlikte"
+  ],
+  "tip": "a couple of ardından çoğul isim gelir ve 'birkaç' anlamına gelir. Kesin olarak iki kişi/şey için two daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "scared",
+  "senses": [
+   "korkmuş; ürkmüş"
+  ],
+  "ex": [
+   "Yavru köpek gök gürültüsünü duyunca korkmuş görünüyordu.",
+   "Hata yapmaktan korkan öğrenciler yabancı dil derslerinde konuşmaktan kaçınabilir."
+  ],
+  "col": [
+   "-den korkmak",
+   "sormaya çekinmek",
+   "korkudan donmuş"
+  ],
+  "tip": "scared, birinin korkmuş olduğunu; scary ise korkutucu olan şeyi anlatır: scary movie gibi.",
+  "note": ""
+ },
+ {
+  "id": "lower",
+  "senses": [
+   "alt; düşük",
+   "indirmek; düşürmek"
+  ],
+  "ex": [
+   "Ağır kaseleri alt rafta tutun.",
+   "Hükümetler, güvenilir otobüs hizmetlerine ve güvenli bisiklet yollarına yatırım yaparak ulaşım maliyetlerini düşürebilir."
+  ],
+  "col": [
+   "düşük gelir",
+   "düşük fiyatlar",
+   "sesini alçaltmak",
+   "bel bölgesi"
+  ],
+  "tip": "Fiil olarak genellikle nesne alır: lower prices. Sıfat olarak 'alt, aşağıdaki' anlamında da kullanılır: lower back.",
+  "note": ""
+ },
+ {
+  "id": "coin",
+  "senses": [
+   "madeni para",
+   "icat etmek; türetmek"
+  ],
+  "ex": [
+   "Mutfak masasının altına gümüş bir madeni para yuvarlandı.",
+   "Dijital ödemeler yaygınlaştıkça, daha az tüketici otobüs ücreti gibi günlük harcamalar için madeni para taşıyor."
+  ],
+  "col": [
+   "altın para",
+   "yazı tura atmak",
+   "bir terim türetmek"
+  ],
+  "tip": "İsim olarak madeni para, fiil olarak ise çoğunlukla yeni bir kelime ya da ifade türetmek anlamına gelir: coin a term.",
+  "note": ""
+ },
+ {
+  "id": "skill",
+  "senses": [
+   "beceri; hüner"
+  ],
+  "ex": [
+   "İyi ekmek yapmak sabır ve biraz beceri ister.",
+   "Okullar, gençlerin parasını yönetmelerine ve etkili iletişim kurmalarına yardımcı olacak pratik becerileri öğretmelidir."
+  ],
+  "col": [
+   "iletişim becerileri",
+   "pratik beceriler",
+   "beceri kazanmak",
+   "bir şeyi yapma becerisi"
+  ],
+  "tip": "Belirli beceriler sayılabilir (skills). Genel ustalık düzeyi için ise çoğunlukla sayılamaz: skill in doing something.",
+  "note": ""
+ },
+ {
+  "id": "kite",
+  "senses": [
+   "uçurtma",
+   "çaylak"
+  ],
+  "ex": [
+   "Rüzgârlı sahilde parlak renkli bir uçurtma uçurduk.",
+   "Uçurtma uçurmak gibi açık hava etkinlikleri, ailelere uygun fiyatlı bir eğlence sunar ve çocukları ekrandan uzak vakit geçirmeye teşvik eder."
+  ],
+  "col": [
+   "uçurtma uçurmak",
+   "uçurtma ipi",
+   "uçurtma uçurma"
+  ],
+  "tip": "'Uçurtma uçurmak' için fly a kite kullanılır; play a kite denmez.",
+  "note": ""
+ },
+ {
+  "id": "action",
+  "senses": [
+   "girişim; tedbir",
+   "davranış; hareket",
+   "aksiyon; hareketli sahne"
+  ],
+  "ex": [
+   "Sızıntı kötüleşmeden önce harekete geçmemiz gerekiyor.",
+   "Hükümetler, iklim değişikliğinin artan risklerine karşı kıyı topluluklarını korumak için acil önlemler almalıdır."
+  ],
+  "col": [
+   "harekete geçmek",
+   "acil önlem",
+   "izlenecek yol",
+   "aksiyon filmi"
+  ],
+  "tip": "take action'daki action sayılamaz. Somut eylemlerden söz ediliyorsa actions kullanılır. Sinema bağlamında action film denir.",
+  "note": ""
+ },
+ {
+  "id": "built",
+  "senses": [
+   "inşa etti; yaptı",
+   "yapılı; endamlı"
+  ],
+  "ex": [
+   "Bahçe aletleri için küçük bir barınak yaptık.",
+   "Yeni konutlar, sakinlerin özel araçlara bağımlılığını azaltmak için toplu taşıma yakınında inşa edilmelidir."
+  ],
+  "col": [
+   "dayanıklı yapılmış",
+   "iyi yapılmış",
+   "yapılı çevre",
+   "özel amaçla inşa edilmiş tesisler"
+  ],
+  "tip": "build'in geçmiş zamanı ve ortaç hali built'tir; builded yanlıştır. Sıfat olarak da kullanılır: well built.",
+  "note": ""
+ },
+ {
+  "id": "depend",
+  "senses": [
+   "bağlı olmak",
+   "güvenmek; bel bağlamak"
+  ],
+  "ex": [
+   "Hafta sonu planlarımız hava durumuna bağlı.",
+   "Birçok kırsal topluluk, sağlık hizmetlerine, eğitime ve istihdam fırsatlarına erişmek için güvenilir toplu taşımaya bağımlıdır."
+  ],
+  "col": [
+   "-e bağlı olmak",
+   "büyük ölçüde -e bağlı olmak",
+   "birinin bir şeyi yapacağına güvenmek"
+  ],
+  "tip": "Genellikle on ya da upon ile kullanılır: depend on. It depends kalıbı 'duruma göre değişir' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "mid-day",
+  "senses": [
+   "öğle vakti; öğlen"
+  ],
+  "ex": [
+   "Nehir kenarında öğlen vakti yemek için durduk.",
+   "Açık havada çalışanların, doğrudan güneş ışığına maruz kalmanın yoğun olabildiği öğle saatlerinde gölgeye erişebilmesi gerekir."
+  ],
+  "col": [
+   "öğlen vakti",
+   "öğleye kadar",
+   "öğle yemeği"
+  ],
+  "tip": "Modern İngilizcede genellikle midday yazılır. Saat anlamında at midday kullanılır.",
+  "note": "Tireli yazım da kullanılabilir; modern kullanımda genellikle midday biçimi tercih edilir."
+ },
+ {
+  "id": "joke",
+  "senses": [
+   "fıkra; şaka",
+   "şaka yapmak"
+  ],
+  "ex": [
+   "Kardeşim herkesi güldüren bir fıkra anlattı.",
+   "Öğretmenler, kaygıyı azaltmak ve daha rahat bir sınıf ortamı yaratmak için bazen şakalardan yararlanır."
+  ],
+  "col": [
+   "fıkra anlatmak",
+   "birine şaka yapmak",
+   "bir konuda şaka yapmak"
+  ],
+  "tip": "Fıkra anlatmak için tell a joke denir; say a joke kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "screen",
+  "senses": [
+   "ekran; perde",
+   "taramak; elemek",
+   "gösterime sokmak"
+  ],
+  "ex": [
+   "Dizüstü bilgisayarımın ekranındaki parmak izlerini ssildim.",
+   "Sağlık hizmetleri, ciddi belirtiler ortaya çıkmadan hastalıkları saptamak için savunmasız hastaları düzenli olarak taramalıdır."
+  ],
+  "col": [
+   "ekran süresi",
+   "dokunmatik ekran",
+   "hastalık taraması yapmak",
+   "bir filmi gösterime sokmak"
+  ],
+  "tip": "screen A for B, A'yı B yönünden taramak ya da incelemek anlamına gelir. Bağlama göre ekran ya da tarama anlamı seçilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "dishwasher",
+  "senses": [
+   "bulaşık makinesi",
+   "bulaşıkçı"
+  ],
+  "ex": [
+   "Lütfen öğle yemeğinizi bitirdikten sonra bulaşık makinesini doldurun.",
+   "Hanelerin su ve enerji tasarrufu yapması için bulaşık makinesini yalnızca dolduğunda çalıştırmak yardımcı olabilir."
+  ],
+  "col": [
+   "bulaşık makinesini doldurmak",
+   "bulaşık makinesini boşaltmak",
+   "bulaşık makinesi deterjanı"
+  ],
+  "tip": "Günlük dilde çoğunlukla cihaz anlamındadır. İş ilanlarında ise bulaşıkçı anlamında da kullanılır.",
+  "note": ""
+ }
+]

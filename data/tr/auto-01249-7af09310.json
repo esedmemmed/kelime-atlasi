@@ -1,0 +1,276 @@
+[
+ {
+  "id": "skate",
+  "senses": [
+   "kaymak; patenle kaymak",
+   "paten"
+  ],
+  "ex": [
+   "Her cumartesi öğleden sonra pistte birlikte kayıyoruz.",
+   "Çocukların güvenle kayabileceği kamusal tesisler, aileler için uygun fiyatlı bir eğlence sunar ve fiziksel aktiviteyi teşvik eder."
+  ],
+  "col": [
+   "buz pateni",
+   "tekerlekli paten",
+   "bir çift paten"
+  ],
+  "tip": "Ayakkabı için genellikle çoğul skates kullanılır. Paten kaymaya gitmek için go skating kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "point",
+  "senses": [
+   "fikir; nokta",
+   "uç; sivri uç",
+   "işaret etmek; göstermek"
+  ],
+  "ex": [
+   "Mutfağın paylaşılmasıyla ilgili çok haklı bir noktaya değindin.",
+   "Bu tartışmanın temel fikri, eğitimin herkes için erişilebilir kalması gerektiğidir."
+  ],
+  "col": [
+   "bir görüş ileri sürmek",
+   "ana fikir; esas nokta",
+   "bakış açısı",
+   "bir şeyi işaret etmek"
+  ],
+  "tip": "make a point bir görüş ileri sürmek anlamındadır. point at ise parmakla bir şeyi göstermek demektir.",
+  "note": ""
+ },
+ {
+  "id": "none",
+  "senses": [
+   "hiçbiri; hiç biri",
+   "hiç; hiçbir şekilde"
+  ],
+  "ex": [
+   "Bisküvi kutusuna baktım ama hiç kalmamıştı.",
+   "Birkaç çözüm önerilmesine rağmen hiçbiri eğitime erişimdeki eşitsizliğin asıl nedenlerini ele almadı."
+  ],
+  "col": [
+   "…nin hiçbiri",
+   "hiç değil; hiç",
+   "bizzat …",
+   "hiçbir şey anlamadan"
+  ],
+  "tip": "None tek başına veya of ile kullanılabilir. İsimden önce no kullanılır: no books, none of the books.",
+  "note": ""
+ },
+ {
+  "id": "ocean",
+  "senses": [
+   "okyanus"
+  ],
+  "ex": [
+   "Güneşin okyanusun üzerinden doğuşunu izledik.",
+   "Okyanusa karışan plastik atıklar deniz canlılarını tehdit eder ve besin zinciri yoluyla zamanla insan sağlığını da etkileyebilir."
+  ],
+  "col": [
+   "okyanus akıntıları",
+   "okyanus tabanı",
+   "okyanus kirliliği"
+  ],
+  "tip": "Ocean genellikle sea'den daha geniş bir alanı anlatır. Belirli okyanus adlarında the kullanılır: the Pacific Ocean.",
+  "note": ""
+ },
+ {
+  "id": "pleasant",
+  "senses": [
+   "hoş; keyifli",
+   "nazik; sevecen"
+  ],
+  "ex": [
+   "Nehir kenarında keyifli bir yürüyüş yaptık.",
+   "Kamu bahçeleri, sakinlerin egzersiz yapabileceği, sosyalleşebileceği ve kentsel yaşamın baskısından uzaklaşabileceği hoş alanlar sunar."
+  ],
+  "col": [
+   "hoş hava",
+   "hoş bir sürpriz",
+   "hoş bir atmosfer"
+  ],
+  "tip": "Pleasant şeyler için kullanılır. İnsanın duyduğu memnuniyeti anlatmak için pleased kullanılır: I am pleased.",
+  "note": ""
+ },
+ {
+  "id": "borrow",
+  "senses": [
+   "ödünç almak",
+   "alıntı yapmak; almak"
+  ],
+  "ex": [
+   "Yarın sabaha kadar şemsiyeni ödünç alabilir miyim?",
+   "Uluslararası ticaret ve kültürel alışveriş toplulukları birbirine yaklaştırdıkça, birçok dil başka dillerden kelime alır."
+  ],
+  "col": [
+   "…den ödünç almak",
+   "borç para almak",
+   "bir kitap ödünç almak",
+   "büyük miktarda borçlanmak"
+  ],
+  "tip": "Borrow ödünç almak, lend ödünç vermek anlamındadır. Kimden alındığı from ile belirtilir: borrow a pen from Ali.",
+  "note": ""
+ },
+ {
+  "id": "seem",
+  "senses": [
+   "gibi görünmek; görünüyor"
+  ],
+  "ex": [
+   "Uzun yürüyüşten eve dönünce yorgun görünüyorsun.",
+   "Çevrimiçi kurslar kolay görünse de bazı öğrenciler öğretmenler ve sınıf arkadaşlarıyla yüz yüze etkileşimden daha fazla yarar sağlar."
+  ],
+  "col": [
+   "muhtemel görünmek",
+   "…gibi görünmek",
+   "görünüşe göre"
+  ],
+  "tip": "Seem + sıfat ya da seem to + fiil kalıbıyla kullanılır. Seem bir görünüşü anlatır; 'yapmak, numara yapmak' anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "shelf",
+  "senses": [
+   "raf; göz",
+   "sahanlık; kayalık çıkıntı"
+  ],
+  "ex": [
+   "Temiz bardakları lavabonun üstündeki rafa koy.",
+   "Sağlıklı atıştırmalıkların göz hizasındaki raflara yerleştirilmesi, alışveriş yapanları daha besleyici yiyecekler seçmeye yöneltebilir."
+  ],
+  "col": [
+   "en üst raf",
+   "raf alanı",
+   "raf ömrü",
+   "kıta sahanlığı"
+  ],
+  "tip": "Çoğul şekli shelves'tir (f, v'ye döner). Shelf life son kullanma süresi, raf ömrü anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "portuguese",
+  "senses": [
+   "Portekizce",
+   "Portekiz'e ait; Portekizce",
+   "Portekizliler"
+  ],
+  "ex": [
+   "Komşum evde ailesiyle Portekizce konuşuyor.",
+   "Portekizce öğrenmek, öğrencilere daha geniş bir edebiyat yelpazesine ve uluslararası kariyer fırsatlarına erişim sağlayabilir."
+  ],
+  "col": [
+   "Portekizce konuşmak",
+   "Avrupa Portekizcesi",
+   "Portekiz kültürü"
+  ],
+  "tip": "Dil ve milliyet adları büyük harfle yazılır. Tek bir Portekizli için a Portuguese person ya da a Portuguese denir.",
+  "note": ""
+ },
+ {
+  "id": "lipstick",
+  "senses": [
+   "ruj"
+  ],
+  "ex": [
+   "Evden çıkmadan önce kırmızı ruj sürdü.",
+   "Kozmetik şirketleri, ambalaj atığını azaltmak ve çevresel kaygılara yanıt vermek için doldurulabilir ruj kapları geliştiriyor."
+  ],
+  "col": [
+   "ruj sürmek",
+   "ruj sürmek; uygulamak",
+   "bir tüp ruj",
+   "ruj lekesi"
+  ],
+  "tip": "Madde olarak sayılamaz. Bir tüp ruj için a tube of lipstick kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cooker",
+  "senses": [
+   "ocak; fırın"
+  ],
+  "ex": [
+   "Çorba ocakta bir tencerede kaynıyor.",
+   "Verimsiz bir ocağı modern bir cihazla değiştirmek, zamanla evdeki enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "gazlı ocak",
+   "elektrikli ocak",
+   "düdüklü tencere",
+   "pirinç pişirici"
+  ],
+  "tip": "İngiliz İngilizcesinde cooker genellikle ocak-fırın takımını anlatır; Amerikan İngilizcesinde stove kullanılır. Aşçı cook'tur.",
+  "note": ""
+ },
+ {
+  "id": "clothing",
+  "senses": [
+   "giysi; kıyafet"
+  ],
+  "ex": [
+   "Hafta sonu kamp gezimiz için birkaç sıcak giysi al.",
+   "Giyim sektörü, geri dönüştürülmüş malzemeler kullanarak ve daha uzun ömürlü ürünler tasarlayarak çevresel etkisini azaltabilir."
+  ],
+  "col": [
+   "sıcak giysiler",
+   "koruyucu giysi",
+   "bir parça giysi",
+   "giyim sektörü"
+  ],
+  "tip": "Clothing sayılamaz; 'iki kıyafet' için two items of clothing ya da two pieces of clothing denir. 'clothings' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "height",
+  "senses": [
+   "boy; yükseklik",
+   "yükseklik; rakım",
+   "doruk; zirve"
+  ],
+  "ex": [
+   "Ayakları yere değsin diye sandalyenin yüksekliğini ayarladı.",
+   "Yeni binaların yüksekliğini sınırlamak, tarihi manzaraları koruyabilir ve eski mahallelerin karakterini muhafaza edebilir."
+  ],
+  "col": [
+   "ortalama boy",
+   "…yüksekliğinde",
+   "yükseklik korkusu",
+   "…nin doruğunda"
+  ],
+  "tip": "Height bir isimdir. İnsanın boyu için tall, nesnenin yüksekliği için high sıfatı kullanılır: She is tall, the wall is high.",
+  "note": ""
+ },
+ {
+  "id": "bake",
+  "senses": [
+   "fırında pişirmek"
+  ],
+  "ex": [
+   "Çocuklar sofrayı kurarken ben biraz ekmek pişirdim.",
+   "Okullar, beslenme ve bağımsızlık konularındaki uygulamalı derslerin bir parçası olarak çocuklara basit yiyecekleri nasıl fırınlayacaklarını öğretebilir."
+  ],
+  "col": [
+   "ekmek pişirmek",
+   "kek pişirmek",
+   "taze pişmiş"
+  ],
+  "tip": "Bake genellikle ekmek ve kek için kullanılır. Fırında et kızartmak için roast tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "gardener",
+  "senses": [
+   "bahçıvan; bahçe meraklısı"
+  ],
+  "ex": [
+   "Bahçıvan ön yolumuzun kenarına parlak renkli çiçekler dikti.",
+   "Topluluk bahçıvanları, yabani hayvanlara besin ve barınak sağlayan yerli bitkiler yetiştirerek kentsel biyoçeşitliliği artırabilir."
+  ],
+  "col": [
+   "profesyonel bahçıvan",
+   "bahçe meraklısı",
+   "deneyimli bahçıvan"
+  ],
+  "tip": "Hem meslek olarak bahçıvanı hem de kendi bahçesinde çiçek ve sebze yetiştiren meraklıyı anlatabilir. A keen gardener bahçe meraklısı demektir.",
+  "note": ""
+ }
+]

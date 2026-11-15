@@ -1,0 +1,281 @@
+[
+ {
+  "id": "mirror",
+  "senses": [
+   "ayna",
+   "yansıtmak; benzemek"
+  ],
+  "ex": [
+   "Ayrılmadan önce saçını aynada kontrol etti.",
+   "Tüketici harcamalarındaki değişimler, özellikle finansal belirsizlik dönemlerinde, genel ekonomik eğilimleri çoğu zaman yansıtır."
+  ],
+  "col": [
+   "aynaya bakmak",
+   "boy aynası",
+   "değişimleri yansıtmak",
+   "gerçekliği yansıtmak"
+  ],
+  "tip": "Aynaya bakmak için 'look in the mirror' kullanılır; 'look the mirror' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "hut",
+  "senses": [
+   "kulübe; baraka"
+  ],
+  "ex": [
+   "Yağmurdan ahşap bir kulübede sığındık.",
+   "Dağ barınakları yürüyüşçüler için önemli bir sığınak sağlar, ancak inşaatları kırılgan ekosistemlere verilen zararı en aza indirmelidir."
+  ],
+  "col": [
+   "ahşap kulübe",
+   "dağ barınağı",
+   "saz çatılı kulübe"
+  ],
+  "tip": "hut küçük ve basit yapıyı anlatır; konforlu, donanımlı bir evi değil.",
+  "note": ""
+ },
+ {
+  "id": "sour",
+  "senses": [
+   "ekşi",
+   "ekşimiş; bozulmuş",
+   "bozmak; kötüleştirmek"
+  ],
+  "ex": [
+   "Bu üzümler benim damak tadıma göre çok ekşi.",
+   "Ortak kaynaklar üzerindeki anlaşmazlıklar komşu ülkeler arasındaki ilişkileri bozabilir ve önemli çevre projelerini geciktirebilir."
+  ],
+  "col": [
+   "ekşi tat",
+   "ekşimek; bozulmak",
+   "ilişkileri bozmak"
+  ],
+  "tip": "go sour hem yiyecek için bozulmak hem de ilişkiler için kötüleşmek anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "currency",
+  "senses": [
+   "para birimi",
+   "yaygın kullanım; geçerlilik"
+  ],
+  "ex": [
+   "Havalimanında paramızı yerel para birimine çevirdik.",
+   "Değeri düşük bir para birimi, konaklama ve diğer hizmetleri daha uygun fiyatlı hale getirerek uluslararası turistleri çekebilir."
+  ],
+  "col": [
+   "yabancı para",
+   "yerel para birimi",
+   "döviz bozdurma",
+   "yaygınlık kazanmak"
+  ],
+  "tip": "Belirli bir ülkenin parası için sayılabilir; genel anlamda para için çoğunlukla sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "qualification",
+  "senses": [
+   "diploma; sertifika",
+   "yeterlilik; nitelik",
+   "çekince; kayıt"
+  ],
+  "ex": [
+   "Bu sertifika bir kreşte iş bulmama yardımcı oldu.",
+   "İşverenler mezun işe alırken, zorlu mesleki görevler için resmi niteliklerin yanında pratik deneyimi giderek daha çok önemsiyor."
+  ],
+  "col": [
+   "akademik nitelikler",
+   "mesleki yeterlilik",
+   "giriş şartları",
+   "çekincesiz"
+  ],
+  "tip": "Eğitim ya da yeterlilik anlamında çoğunlukla çoğul qualifications kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "issue",
+  "senses": [
+   "konu; sorun",
+   "yayımlamak; vermek",
+   "sayı; nüsha"
+  ],
+  "ex": [
+   "Mahalle toplantımızda park sorununu tartıştık.",
+   "Hükümetler, genç yetişkinlerin bağımsız yaşayabilmesi için konut erişilebilirliği meselesini ele almalıdır."
+  ],
+  "col": [
+   "bir konuyu ele almak",
+   "tartışmalı konu",
+   "uyarı yayımlamak",
+   "son sayı"
+  ],
+  "tip": "issue, tartışılması gereken konu anlamına da gelir; mutlaka zorluk ya da sorun anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "indoors",
+  "senses": [
+   "kapalı alanda; içeri"
+  ],
+  "ex": [
+   "Fırtına sırasında evde kalıp satranç oynadık.",
+   "Vaktinin çoğunu kapalı alanda geçiren çocuklar fiziksel aktivite için daha az fırsata sahip olabilir."
+  ],
+  "col": [
+   "içeride kalmak",
+   "içeri girmek",
+   "evcil hayvanları içeride tutmak"
+  ],
+  "tip": "indoors zarftır; isim önünde sıfat olarak indoor kullanılır, örneğin indoor sports.",
+  "note": ""
+ },
+ {
+  "id": "amaze",
+  "senses": [
+   "hayrete düşürmek"
+  ],
+  "ex": [
+   "Sihirbazın zekice numaraları çocukları her zaman hayrete düşürür.",
+   "Tıbbi teknolojideki gelişmeler araştırmacıları hayrete düşürmeye devam ediyor ve karmaşık hastalığı olan hastalara yeni umut veriyor."
+  ],
+  "col": [
+   "hayrete düşürmeyi hiç bırakmamak",
+   "izleyicileri hayrete düşürmek",
+   "şaşırmak"
+  ],
+  "tip": "İnsan şaşırır: amazed; şey şaşırtıcıdır: amazing.",
+  "note": ""
+ },
+ {
+  "id": "maker",
+  "senses": [
+   "üretici; yapımcı"
+  ],
+  "ex": [
+   "Mobilya ustası meşeden güzel bir sandalye oydu.",
+   "Otomobil üreticileri, daha sıkı çevre standartlarını ve değişen tüketici beklentilerini karşılamak için daha temiz teknolojilere yatırım yapıyor."
+  ],
+  "col": [
+   "mobilya üreticisi",
+   "otomobil üreticisi",
+   "karar verici"
+  ],
+  "tip": "Çoğunlukla ürün adıyla birlikte kullanılır: car maker, furniture maker; karar verici için decision maker.",
+  "note": ""
+ },
+ {
+  "id": "solution",
+  "senses": [
+   "çözüm; yöntem",
+   "çözelti"
+  ],
+  "ex": [
+   "Bir raf daha eklemek, dağınıklığa basit bir çözümdü.",
+   "Yenilenebilir enerjiye yapılan yatırım, fosil yakıtların neden olduğu çevre sorunlarına uzun vadeli bir çözüm sunuyor."
+  ],
+  "col": [
+   "bir soruna çözüm",
+   "çözüm bulmak",
+   "pratik çözüm",
+   "tuz çözeltisi"
+  ],
+  "tip": "'Bir sorunun çözümü' için solution to kullanılır; solution of kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "therefore",
+  "senses": [
+   "bu nedenle; dolayısıyla"
+  ],
+  "ex": [
+   "Dükkân kapalıydı; bu yüzden eli boş eve döndük.",
+   "Kamu parkları fiziksel aktiviteyi ve sosyal etkileşimi teşvik eder; bu nedenle şehirler erişilebilir yeşil alanların bakımına yatırım yapmalıdır."
+  ],
+  "col": [
+   "bu nedenle sonuca varmak",
+   "bu yüzden gerekli",
+   "ve dolayısıyla"
+  ],
+  "tip": "Zarf olduğu için iki tam cümleyi yalnızca virgülle bağlamak yanlıştır; noktalı virgül ya da yeni cümle kullanın.",
+  "note": ""
+ },
+ {
+  "id": "routine",
+  "senses": [
+   "rutin; düzen",
+   "olağan; rutin",
+   "gösteri hareketleri"
+  ],
+  "ex": [
+   "Kısa bir yürüyüş sabah rutinimin bir parçası.",
+   "Düzenli bir uyku rutini sürdürmek konsantrasyonu artırabilir ve öğrencilerin akademik baskıyla başa çıkmasına yardımcı olabilir."
+  ],
+  "col": [
+   "günlük rutin",
+   "olağan kontrol",
+   "egzersiz programı",
+   "bir düzen oluşturmak"
+  ],
+  "tip": "İsim olarak sabit düzeni, sıfat olarak olağan ve düzenli yapılan şeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "claim",
+  "senses": [
+   "iddia etmek; ileri sürmek",
+   "talep etmek; hak iddia etmek",
+   "iddia; talep"
+  ],
+  "ex": [
+   "Bisikletimi öğle vaktine kadar tamir edebileceğini söylüyor.",
+   "Bazı araştırmacılar yeşil alanlara erişimin ruh sağlığını geliştirebileceğini ve toplumsal ilişkileri güçlendirebileceğini ileri sürüyor."
+  ],
+  "col": [
+   "olduğunu iddia etmek",
+   "sorumluluğu üstlenmek",
+   "tazminat talep etmek",
+   "talepte bulunmak"
+  ],
+  "tip": "claim, kişinin iddiasını belirtir; bu iddianın kanıtlandığı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "confidence",
+  "senses": [
+   "özgüven; güven",
+   "güven; itimat"
+  ],
+  "ex": [
+   "Mülakattan önce arkadaşlarımla prova yapmak bana özgüven verdi.",
+   "Destekleyici geri bildirimler öğrencilerin özgüvenini artırabilir ve onları sınıf tartışmalarına daha aktif katılmaya teşvik edebilir."
+  ],
+  "col": [
+   "özgüven kazanmak",
+   "birine güvenmek",
+   "özgüvensiz olmak",
+   "gizlilikle"
+  ],
+  "tip": "Birine ya da bir şeye duyulan güven için confidence in kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "volunteer",
+  "senses": [
+   "gönüllü",
+   "gönüllü olmak; önermek"
+  ],
+  "ex": [
+   "Bir gönüllü kutuları üst kata taşımamıza yardım etti.",
+   "Üniversiteler, esnek ders programları ve pratik destek sunarak öğrencileri bulundukları topluluklarda gönüllü olmaya teşvik edebilir."
+  ],
+  "col": [
+   "gönüllü çalışma",
+   "yardım etmeye gönüllü olmak",
+   "bir hayır kurumunda gönüllü olmak",
+   "gönüllü toplamak"
+  ],
+  "tip": "Bir şeyi yapmaya gönüllü olmak için volunteer to do kullanılır; voluntary ise sıfattır.",
+  "note": ""
+ }
+]

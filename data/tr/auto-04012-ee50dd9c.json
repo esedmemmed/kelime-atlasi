@@ -1,0 +1,276 @@
+[
+ {
+  "id": "curl",
+  "senses": [
+   "kıvrılmak; kıvırmak",
+   "bukle; kıvrım"
+  ],
+  "ex": [
+   "Sonbaharda kuru yaprakların kenarları kıvrılır.",
+   "Uzun süren kuraklıklarda bitkiler su kaybını azaltmak ve daha fazla zarar görmemek için yapraklarını kıvırabilir."
+  ],
+  "col": [
+   "kıvrılıp yatmak",
+   "saçını kıvırmak",
+   "sıkı bukleler"
+  ],
+  "tip": "curl up genellikle insan ya da hayvanın bedenini kıvırıp büzüşmesi için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "moreover",
+  "senses": [
+   "üstelik; ayrıca"
+  ],
+  "ex": [
+   "Daire geniş; üstelik bir balkonu da var.",
+   "Halk parkları egzersiz için alan sağlar; üstelik gayriresmi sosyal etkileşimi teşvik ederek topluluk bağlarını güçlendirebilirler."
+  ],
+  "col": [
+   "ayrıca önemlidir ki",
+   "üstelik ... kanıt vardır"
+  ],
+  "tip": "Resmi bir ekleme zarfıdır. Bağımsız iki cümleyi bağlarken önüne nokta ya da noktalı virgül konur.",
+  "note": ""
+ },
+ {
+  "id": "harmony",
+  "senses": [
+   "uyum; huzur",
+   "ahenk; uyum",
+   "armoni"
+  ],
+  "ex": [
+   "Kedilerimiz ve köpeklerimiz birlikte mükemmel bir uyum içinde yaşıyor.",
+   "Farklı geçmişlerden gelen sakinleri ortak hedefler için bir araya getiren toplumsal projeler, toplumsal uyumu destekleyebilir."
+  ],
+  "col": [
+   "uyum içinde yaşamak",
+   "toplumsal uyum",
+   "doğayla uyum içinde",
+   "uyumlu şarkı söylemek"
+  ],
+  "tip": "in harmony with, \"ile uyum içinde\" anlamında kullanılır. Müzikte \"armoni\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "construction",
+  "senses": [
+   "inşaat; yapım",
+   "yapı; yapılı eser",
+   "cümle yapısı"
+  ],
+  "ex": [
+   "Yeni köprünün inşaatı bu sabah erken başladı.",
+   "Enerji açısından verimli konutların inşası, hanehalkı faturalarını azaltabilir ve kentsel büyümenin çevresel etkisini sınırlayabilir."
+  ],
+  "col": [
+   "inşaat halinde",
+   "inşaat sahası",
+   "inşaat sektörü",
+   "cümle yapısı"
+  ],
+  "tip": "Yapım sürecini anlatırken sayılamaz isimdir. under construction ifadesi \"inşaat halinde\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "relevant",
+  "senses": [
+   "ilgili; konuyla bağlantılı"
+  ],
+  "ex": [
+   "Lütfen başvurunuzla ilgili tüm belgeleri getirin.",
+   "Üniversiteler, derslerinin değişen iş gücü piyasasının ihtiyaçlarıyla ilgili kalmasını sağlamalıdır."
+  ],
+  "col": [
+   "...ile ilgili",
+   "ilgili deneyim",
+   "ilgili bilgi",
+   "son derece ilgili"
+  ],
+  "tip": "\"...ile ilgili\" anlamında relevant to kullanılır; with değil.",
+  "note": ""
+ },
+ {
+  "id": "melody",
+  "senses": [
+   "melodi; ezgi"
+  ],
+  "ex": [
+   "Bitkileri sularken hafif bir melodi mırıldandı.",
+   "Akılda kalıcı bir melodi çocukların bilgiyi hatırlamasına yardımcı olabilir; bu da müziği erken eğitimde yararlı bir araç yapar."
+  ],
+  "col": [
+   "hafif melodi",
+   "akılda kalıcı melodi",
+   "melodi bestelemek"
+  ],
+  "tip": "melody, hep beraber mırıldanılabilen ezgiyi anlatır; rhythm ise ritmi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "compose",
+  "senses": [
+   "bestelemek; yazmak",
+   "oluşturmak; meydana getirmek",
+   "sakinleşmek; kendini toparlamak"
+  ],
+  "ex": [
+   "Eski piyanosunda kısa bir melodi besteledi.",
+   "Kendi müziğini besteleyen öğrenciler, müzik yapısını daha derinlemesine kavrarken yaratıcılıklarını geliştirebilir."
+  ],
+  "col": [
+   "müzik bestelemek",
+   "şiir yazmak",
+   "...den oluşmak",
+   "kendini toparlamak"
+  ],
+  "tip": "be composed of, \"...den oluşmak\" anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mortgage",
+  "senses": [
+   "konut kredisi; ipotek",
+   "ipotekle borç almak"
+  ],
+  "ex": [
+   "Geçen bahar sonunda konut kredimizi nihayet kapattık.",
+   "Yükselen faiz oranları konut kredisi ödemelerini artırabilir ve hanehalklarına diğer temel giderler için daha az para bırakabilir."
+  ],
+  "col": [
+   "konut kredisi çekmek",
+   "konut kredisini kapatmak",
+   "konut kredisi taksitleri",
+   "konut kredisi faiz oranları"
+  ],
+  "tip": "mortgage kelimesindeki t harfi okunmaz. Kredi kapatmak için pay off kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "promising",
+  "senses": [
+   "umut vaat eden; gelecek vaat eden"
+  ],
+  "ex": [
+   "İlk denemen umut verici görünüyor; her gün çalışmaya devam et.",
+   "Güneş enerjisi, güvenilir elektriğe erişimi olmayan uzak topluluklar için umut verici bir çözüm sunuyor."
+  ],
+  "col": [
+   "umut verici sonuçlar",
+   "gelecek vaat eden kariyer",
+   "gelecek vaat eden genç sanatçı",
+   "umut verici görünmek"
+  ],
+  "tip": "Başarı potansiyeli olduğunu gösterir; başarının zaten gerçekleştiği anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "dent",
+  "senses": [
+   "çentik; göçük",
+   "göçertmek; çökertmek",
+   "zarar vermek; azaltmak"
+  ],
+  "ex": [
+   "Bisikletimin metal sepetinde bir göçük var.",
+   "Toplu taşımadaki tekrarlayan gecikmeler yolcuların güvenini sarsabilir ve özel araçlara daha fazla bağımlılığı teşvik edebilir."
+  ],
+  "col": [
+   "...de bir çukur",
+   "birinin güvenini sarsmak",
+   "fark yaratmak"
+  ],
+  "tip": "dent \"diş\" anlamına gelmez. make a dent in ifadesi bir şeyi azaltmak ya da kayda değer ilerleme sağlamak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dialect",
+  "senses": [
+   "lehçe; ağız"
+  ],
+  "ex": [
+   "Büyükannem anlamakta bazen zorlandığım bir lehçe konuşuyor.",
+   "Okullar, öğrencilere daha geniş iletişim için gereken standart dili öğretirken yerel lehçelerin yaşatılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "yerel lehçe",
+   "bölgesel lehçe",
+   "bir lehçe konuşmak"
+  ],
+  "tip": "dialect kelime ve dilbilgisi farklılıklarını kapsar; accent ise esas olarak telaffuzu (aksanı) anlatır.",
+  "note": ""
+ },
+ {
+  "id": "surgeon",
+  "senses": [
+   "cerrah"
+  ],
+  "ex": [
+   "Cerrah, ben eve gitmeden önce ameliyatı anlattı.",
+   "Kırsal hastaneler çoğu zaman deneyimli cerrah bulmakta zorlanır; bu da yerel sakinlerin gerekli tedavisini geciktirebilir."
+  ],
+  "col": [
+   "deneyimli cerrah",
+   "kalp cerrahı",
+   "ortopedi cerrahı"
+  ],
+  "tip": "surgeon cerrahı, surgery ise cerrahi işlemi ya da ameliyatı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "dynamic",
+  "senses": [
+   "enerjik; girişken",
+   "dinamik; sürekli değişen",
+   "dinamik; etkileşim"
+  ],
+  "ex": [
+   "Enerjik koçumuz seans boyunca herkesi hareketli tutuyor.",
+   "Dinamik bir ekonomi, işletmelerin teknolojik gelişmelere ve değişen tüketici tercihlerine hızlıca uyum sağlamasını gerektirir."
+  ],
+  "col": [
+   "enerjik lider",
+   "dinamik ekonomi",
+   "grup dinamikleri"
+  ],
+  "tip": "İnsanları tanımlarken \"enerjik\", sistemleri tanımlarken \"sürekli değişen\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "follow-up",
+  "senses": [
+   "takip; devam işlemi",
+   "takip edici; sonradan yapılan"
+  ],
+  "ex": [
+   "Klinik, iyileşmemi kontrol etmek için bir kontrol randevusu ayarladı.",
+   "Eğitim programının iş sonuçlarında kalıcı iyileşmeler sağlayıp sağlamadığını belirlemek için bir takip çalışması gerekiyor."
+  ],
+  "col": [
+   "kontrol randevusu",
+   "takip çalışması",
+   "ek soru",
+   "kontrol ziyareti"
+  ],
+  "tip": "İsim ve sıfat olarak kısa çizgili yazılır; fiil öbeği follow up ise kısa çizgisiz yazılır.",
+  "note": ""
+ },
+ {
+  "id": "self-employment",
+  "senses": [
+   "serbest meslek; bireysel çalışma"
+  ],
+  "ex": [
+   "Serbest çalışmak, tatillerimi ne zaman alacağımı seçmeme olanak tanıyor.",
+   "Serbest çalışma daha fazla esneklik sunsa da düzensiz gelir ve çalışan haklarına sınırlı erişim gibi sonuçları da olabilir."
+  ],
+  "col": [
+   "serbest çalışmaya geçmek",
+   "serbest çalışmadan elde edilen gelir",
+   "serbest çalışma fırsatları"
+  ],
+  "tip": "Sayılamaz isimdir. Kendi adına çalışmak anlamına gelir; mutlaka şirket kurmak anlamına gelmez.",
+  "note": ""
+ }
+]

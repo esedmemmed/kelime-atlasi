@@ -1,0 +1,268 @@
+[
+ {
+  "id": "downfall",
+  "senses": [
+   "çöküş; yıkılış",
+   "yıkım sebebi; çöküş nedeni"
+  ],
+  "ex": [
+   "Dinlemeyi reddetmesi sonunda onun çöküşüne yol açtı.",
+   "Yaygın yolsuzluk, kurumlara olan halk güvenini yok ederek bir hükümetin yıkılmasına neden olabilir."
+  ],
+  "col": [
+   "birinin çöküşüne yol açmak",
+   "…in yıkılışına neden olmak",
+   "birinin yıkımı olmak"
+  ],
+  "tip": "Çöküş veya yıkılış nedenini anlatır; sağanak yağmur için downpour kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "outrage",
+  "senses": [
+   "öfke; infial",
+   "kızdırmak; öfkelendirmek",
+   "utanç verici eylem; zulüm"
+  ],
+  "ex": [
+   "Sakinler, işçiler eski ağacı kestiğinde büyük bir öfke dile getirdi.",
+   "Nehir kirliliğine karşı halkın tepkisi, hükümeti endüstriyel atıklar üzerinde daha sıkı denetimler getirmeye yöneltti."
+  ],
+  "col": [
+   "halkın öfkesi",
+   "öfke uyandırmak",
+   "öfkesini dile getirmek",
+   "insanlığa karşı bir zulüm"
+  ],
+  "tip": "Öfke anlamında genellikle sayılamaz; an outrage ise utanç verici bir eylemi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "plea",
+  "senses": [
+   "yalvarış; istek",
+   "savunma beyanı"
+  ],
+  "ex": [
+   "Yardım çağrımızı duydular ve hemen durdular.",
+   "Tekrarlayan fırtınaların bölgedeki evlere zarar vermesinin ardından sakinler daha iyi sel koruması için çağrıda bulundu."
+  ],
+  "col": [
+   "yardım çağrısı",
+   "çağrıda bulunmak",
+   "suçu kabul etme savunması",
+   "savunma yapmak"
+  ],
+  "tip": "plea for ile istenen şey, plea to ile istekte bulunulan kişi belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "outlaw",
+  "senses": [
+   "yasaklamak; yasa dışı ilan etmek",
+   "kanun kaçağı; firari"
+  ],
+  "ex": [
+   "Yeni kurallar nehir kenarına çöp dökmeyi yasaklıyor.",
+   "Hükümetler, yasa dışı avcılığı caydırmak için nesli tükenmekte olan türlerden yapılan ürünlerin satışını yasaklamalı."
+  ],
+  "col": [
+   "bir uygulamayı yasaklamak",
+   "ayrımcılığı yasaklamak",
+   "ünlü bir kanun kaçağı"
+  ],
+  "tip": "Fiil olarak doğrudan yasaklanan davranış ya da nesneyle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "troublesome",
+  "senses": [
+   "sorunlu; zahmetli; can sıkıcı"
+  ],
+  "ex": [
+   "Bu sorunlu kilit, hava soğuduğunda sürekli sıkışıyor.",
+   "Güvenilmez toplu taşıma, şehir merkezleri dışındaki işlere otobüsle giden çalışanlar için özellikle zahmetli."
+  ],
+  "col": [
+   "sorunlu bir konu",
+   "can sıkıcı bir öksürük",
+   "özellikle zahmetli"
+  ],
+  "tip": "troublesome, bir şeyin sorun yarattığını anlatır; troubled ise kişinin sıkıntı yaşadığını belirtir.",
+  "note": ""
+ },
+ {
+  "id": "intermittent",
+  "senses": [
+   "aralıklı; kesintili"
+  ],
+  "ex": [
+   "Aralıklı yağmur öğleden sonra boyunca bizi içeride tuttu.",
+   "Kesintili internet erişimi, kırsal bölgelerdeki öğrencilerin çevrimiçi eğitim programlarına tam katılımını engelleyebilir."
+  ],
+  "col": [
+   "aralıklı yağmur",
+   "kesintili arz",
+   "aralıklı gürültü"
+  ],
+  "tip": "Durup başlamayı anlatır; her zaman belirli bir düzenle olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "impartial",
+  "senses": [
+   "tarafsız; önyargısız"
+  ],
+  "ex": [
+   "Anlaşmazlığımızı çözmesi için tarafsız bir komşumuza başvurduk.",
+   "Bireysel hakları korumak ve hükümet kurumlarına halkın güvenini sürdürmek için tarafsız bir yargı sistemi şarttır."
+  ],
+  "col": [
+   "tarafsız tavsiye",
+   "tarafsız hakim",
+   "tarafsız kalmak"
+  ],
+  "tip": "partial kayırmacı anlamına gelebilir; impartial ise kayırmamayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "divergence",
+  "senses": [
+   "ayrılık; farklılık",
+   "ayrışma; ayrılma"
+  ],
+  "ex": [
+   "Tartışmamız önceliklerimizde açık bir ayrılık ortaya çıkardı.",
+   "Kentsel ve kırsal gelirler arasındaki artan farklılık, daha hedefli bölgesel kalkınma politikaları gerektirebilir."
+  ],
+  "col": [
+   "görüş ayrılığı",
+   "…ile arasındaki farklılık",
+   "artan ayrılık"
+  ],
+  "tip": "Genellikle between ile iki taraf arasındaki farkı belirtir; fiili diverge'dir.",
+  "note": ""
+ },
+ {
+  "id": "magnify",
+  "senses": [
+   "büyütmek",
+   "abartmak; ağırlaştırmak"
+  ],
+  "ex": [
+   "Bu mercek, incelemek için küçük böcekleri büyütüyor.",
+   "Sosyal medya, kullanıcıları nadir olayların çarpıcı anlatımlarına tekrar tekrar maruz bırakarak kamusal kaygıları büyütebilir."
+  ],
+  "col": [
+   "bir görüntüyü büyütmek",
+   "bir sorunu abartmak",
+   "büyüteç"
+  ],
+  "tip": "Hem görsel büyütme hem de bir sorunu abartma ya da etkisini artırma anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "candid",
+  "senses": [
+   "açık sözlü; samimi",
+   "doğal çekilmiş; poz verilmeden"
+  ],
+  "ex": [
+   "Lütfen yemeğim hakkındaki dürüst görüşünü söyle.",
+   "Öğretmenler ve veliler arasındaki samimi görüşmeler, akademik ilerlemeyi etkilemeden önce sorunların belirlenmesine yardımcı olabilir."
+  ],
+  "col": [
+   "açık bir değerlendirme",
+   "hakkında açık sözlü olmak",
+   "doğal bir fotoğraf"
+  ],
+  "tip": "İnsan ya da söz için dürüst; fotoğraf için poz verilmemiş anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "grieve",
+  "senses": [
+   "yas tutmak; matem tutmak",
+   "üzmek; kederlendirmek"
+  ],
+  "ex": [
+   "Geçen bahar öldü diye hâlâ kedimiz için yas tutuyoruz.",
+   "İşverenler, çalışanların bir aile üyesini kaybettikten sonra yas tutmalarına zaman tanımak için şefkat izni vermelidir."
+  ],
+  "col": [
+   "birini için yas tutmak",
+   "bir kayıp yüzünden üzülmek",
+   "yas tutma zamanı"
+  ],
+  "tip": "grieve for genellikle ölen kişiler için; grieve over ise kayıp ya da talihsizlikler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "manhole",
+  "senses": [
+   "rögar; kanal ağzı"
+  ],
+  "ex": [
+   "İşçi, rögarın ağır kapağını kaldırdı.",
+   "Rögarlardan yapılan düzenli incelemeler, ciddi sel olmadan önce mühendislerin kentsel drenaj sistemindeki hasarları tespit etmesine yardımcı olur."
+  ],
+  "col": [
+   "rögar kapağı",
+   "açık rögar"
+  ],
+  "tip": "Yaygın olarak manhole cover (rögar kapağı) kalıbında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "intangible",
+  "senses": [
+   "soyut; maddi olmayan; ölçülmesi zor"
+  ],
+  "ex": [
+   "Sıcak karşılaması eve belirsiz bir çekicilik kattı.",
+   "Kamu parkları, daha güçlü bir aidiyet duygusu ve gelişmiş toplumsal ilişkiler dahil olmak üzere maddi olmayan faydalar sağlar."
+  ],
+  "col": [
+   "maddi olmayan faydalar",
+   "maddi olmayan varlıklar",
+   "somut olmayan kültürel miras"
+  ],
+  "tip": "Sadece dokunulamayan değil, değeri kolay ölçülemeyen şeyler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "evoke",
+  "senses": [
+   "uyandırmak; canlandırmak"
+  ],
+  "ex": [
+   "Taze ekmeğin kokusu evi anımsatır.",
+   "Geleneksel müzik, vatanlarından uzakta yaşayan insanlarda güçlü bir aidiyet duygusu uyandırabilir."
+  ],
+  "col": [
+   "anıları canlandırmak",
+   "duyguları uyandırmak",
+   "bir imge canlandırmak",
+   "merhamet uyandırmak"
+  ],
+  "tip": "Duygu, anı gibi nesnelerle doğrudan kullanılır; of edatı almaz.",
+  "note": ""
+ },
+ {
+  "id": "prospective",
+  "senses": [
+   "potansiyel; olası; gelecekteki"
+  ],
+  "ex": [
+   "Emlakçı, dairemizi üç potansiyel alıcıya gezdirdi.",
+   "Üniversiteler, olası öğrencilere harç ücretleri, ders içerikleri ve kariyer fırsatları hakkında açık bilgi sunmalıdır."
+  ],
+  "col": [
+   "potansiyel öğrenciler",
+   "potansiyel alıcılar",
+   "olası işverenler"
+  ],
+  "tip": "Genellikle isimden önce kullanılır; perspective (bakış açısı) ile karıştırılmamalıdır.",
+  "note": ""
+ }
+]

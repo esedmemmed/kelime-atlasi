@@ -1,0 +1,278 @@
+[
+ {
+  "id": "leak",
+  "senses": [
+   "sızıntı; delik",
+   "sızdırmak; sızmak",
+   "gizli bilgiyi sızdırmak"
+  ],
+  "ex": [
+   "Lavabonun altındaki bir sızıntı bütün temizlik bezlerimizi ıslattı.",
+   "Su şirketleri, kaynakları korumak ve yerel arzlar üzerindeki gereksiz baskıyı azaltmak için sızıntıları derhal onarmalıdır."
+  ],
+  "col": [
+   "gaz sızıntısı",
+   "sızıntıyı onarmak",
+   "gizli bilgiyi sızdırmak",
+   "sızdıran boru"
+  ],
+  "tip": "leak hem isim hem fiil olarak kullanılır. Düzensiz fiil çekimi: leak - leaked - leaked. Gizli bilgi sızdırmak anlamı da yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "modification",
+  "senses": [
+   "değişiklik; düzenleme"
+  ],
+  "ex": [
+   "Bu küçük değişiklik sandalyeyi çok daha rahat hale getiriyor.",
+   "Mevcut binaların değiştirilmesi, yeni inşaatın çevresel maliyetleri olmadan enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "değişiklik yapmak",
+   "küçük değişiklik",
+   "genetik değişiklik"
+  ],
+  "tip": "Sayılabilir kullanıldığında belirli bir değişikliği, sayılamaz kullanıldığında değiştirme sürecini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "auction",
+  "senses": [
+   "açık artırma; müzayede",
+   "açık artırmayla satmak"
+  ],
+  "ex": [
+   "Teyzem bu eski saati bir açık artırmada satın aldı.",
+   "Hayır kurumları, kaynakları sınırlı topluluklardaki eğitim programlarını finanse etmek için bağışlanan sanat eserlerini sıkça açık artırmaya çıkarır."
+  ],
+  "col": [
+   "açık artırmayla",
+   "açık artırma düzenlemek",
+   "açık artırmayla satmak",
+   "çevrimiçi açık artırma"
+  ],
+  "tip": "at auction ifadesinde önüne the getirilmez. auction off 'açık artırmayla satıp elden çıkarmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "blade",
+  "senses": [
+   "bıçak; kesici kısım",
+   "kanat; pala",
+   "çimen yaprağı"
+  ],
+  "ex": [
+   "Bıçağın ağzı o kadar künttü ki domatesleri dilimleyemiyordu.",
+   "Rüzgâr türbininin her kanadı, hareket eden havadan enerjiyi verimli biçimde yakalayacak şekilde tasarlanmıştır."
+  ],
+  "col": [
+   "keskin bıçak",
+   "jilet",
+   "türbin kanadı",
+   "çimen yaprağı"
+  ],
+  "tip": "blade yalnızca kesici ya da dönen kısmı anlatır; knife ise bütün aleti anlatır. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "stubborn",
+  "senses": [
+   "inatçı; dik başlı",
+   "çıkması zor; inatçı"
+  ],
+  "ex": [
+   "İnatçı erkek kardeşim dışarı çıkarken mont giymeyi reddetti.",
+   "Değişime karşı inatçı direnç, kuruluşların daha verimli ve çevreye duyarlı uygulamaları benimsemesini engelleyebilir."
+  ],
+  "col": [
+   "inatçı ret",
+   "inatçı direnç",
+   "çıkmayan inatçı leke"
+  ],
+  "tip": "İnsanlar için kullanıldığında genellikle olumsuz bir anlam taşır. Leke ya da sorun gibi cansız şeyler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "armour",
+  "senses": [
+   "zırh; korumalık",
+   "zırhlı birlik"
+  ],
+  "ex": [
+   "Müze, bir şövalyenin zırhını ahşap bir kalkanın yanında sergiliyordu.",
+   "Günümüze ulaşan ortaçağ zırhları, değişen askeri ihtiyaçlara yanıt olarak metal işçiliğinin nasıl geliştiğini ortaya koyar."
+  ],
+  "col": [
+   "bir takım zırh",
+   "vücut zırhı",
+   "ağır zırh"
+  ],
+  "tip": "İngiliz İngilizcesinde armour, Amerikan İngilizcesinde armor yazılır. Genellikle sayılamaz isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "buck",
+  "senses": [
+   "dolar; para",
+   "erkek geyik; erkek tavşan",
+   "tepinmek; sıçramak"
+  ],
+  "ex": [
+   "Bu sıcak atkıyı sadece beş dolara aldım.",
+   "Alışveriş yapanlar internetten birkaç dolar tasarruf edebilir, ancak yerel satıcılar genellikle daha kişisel tavsiye ve destek sunar."
+  ],
+  "col": [
+   "birkaç dolar",
+   "çabuk para kazanmak",
+   "sorumluluğu başkasına atmak",
+   "akışa karşı gitmek"
+  ],
+  "tip": "Dolar anlamı günlük konuşmada kullanılan bir argo kelimedir; resmi yazıda kaçının. pass the buck sorumluluğu başkasına atmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "torture",
+  "senses": [
+   "işkence; eziyet",
+   "işkence yapmak; eziyet etmek"
+  ],
+  "ex": [
+   "Öğleden sonra sonuçları beklemek tam bir işkenceydi.",
+   "Uluslararası anlaşmalar işkenceyi yasaklar ve hükümetlerden tüm mahkûmların temel haklarını korumalarını ister."
+  ],
+  "col": [
+   "psikolojik işkence",
+   "tam bir işkence",
+   "işkenceyi yasaklamak",
+   "birini işkenceye tabi tutmak"
+  ],
+  "tip": "Çok güçlü bir kelimedir. Günlük konuşmada abartarak çile anlamında kullanılabilir, ama ciddi bağlamlarda gerçek işkenceyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "sufficient",
+  "senses": [
+   "yeterli; yeter"
+  ],
+  "ex": [
+   "Piknikteki herkese yetecek kadar yiyecek var.",
+   "Yeterli finansman olmadan yerel yönetimler, büyüyen nüfuslarına temel hizmetleri sürdürmekte zorlanabilir."
+  ],
+  "col": [
+   "yeterli kanıt",
+   "yeterli para",
+   "yeterli zaman",
+   "için yeterli"
+  ],
+  "tip": "Genellikle sufficient for ya da sufficient to do kalıplarıyla kullanılır. Resmi bir kelimedir; günlük konuşmada enough tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "capsule",
+  "senses": [
+   "kapsül",
+   "uzay kapsülü; küçük kapalı bölme"
+  ],
+  "ex": [
+   "Eczacı, kapsülü suyla birlikte yutmamı söyledi.",
+   "Uzay kapsülü, mürettebatı dünyaya dönüş sırasında aşırı sıcaklıklardan korumak için tasarlanmıştı."
+  ],
+  "col": [
+   "kapsül yutmak",
+   "uzay kapsülü",
+   "zaman kapsülü"
+  ],
+  "tip": "capsule dış kabuğu olan ilacı anlatır; tablet ise bastırılmış ilaç tabletini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "comprehension",
+  "senses": [
+   "anlama; kavrama"
+  ],
+  "ex": [
+   "Basit bir şema, talimatları anlamama yardımcı oldu.",
+   "Çeşitli okuma materyallerine düzenli olarak maruz kalmak, öğrencilerin anlama becerisini geliştirebilir ve akademik kelime dağarcıklarını genişletebilir."
+  ],
+  "col": [
+   "okuma anlama",
+   "dinleme anlama",
+   "kavranamaz"
+  ],
+  "tip": "Genellikle sayılamaz. comprehensive kelimesiyle karıştırılmamalı; o 'kapsamlı' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "slogan",
+  "senses": [
+   "slogan; kampanya sözü"
+  ],
+  "ex": [
+   "Kulübümüz geri dönüşüm kampanyası için akılda kalıcı bir slogan seçti.",
+   "Etkili bir çevre sloganı dikkat çekebilir, ancak kalıcı davranış değişikliği genellikle pratik destek gerektirir."
+  ],
+  "col": [
+   "akılda kalıcı slogan",
+   "reklam sloganı",
+   "kampanya sloganı",
+   "slogan atmak"
+  ],
+  "tip": "slogan tanıtım ve reklam için kullanılır; motto ise daha çok ilke veya yaşam felsefesi anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "greedy",
+  "senses": [
+   "açgözlü; tamahkâr",
+   "obur; doymak bilmez"
+  ],
+  "ex": [
+   "Açgözlü olma; kız kardeşin için birkaç bisküvi bırak.",
+   "Açgözlü yatırımcılar, işlerinin uzun vadeli çevresel sonuçları yerine kısa vadeli kârlara öncelik verebilir."
+  ],
+  "col": [
+   "para konusunda açgözlü",
+   "güç konusunda açgözlü",
+   "açgözlü bir yatırımcı"
+  ],
+  "tip": "Genellikle olumsuz bir anlam taşır. greedy for ile neye hırslı olunduğu belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "residence",
+  "senses": [
+   "konut; ikametgâh",
+   "ikamet; oturma"
+  ],
+  "ex": [
+   "Yeni konutları, nehrin yakınındaki sessiz bir bahçeye bakıyor.",
+   "Başvuru sahipleri, bazı yerel hizmetlere erişebilmek için ikamet belgesi sunmak zorunda kalabilir."
+  ],
+  "col": [
+   "ikamet yeri",
+   "ikametgâh belgesi",
+   "daimi ikamet",
+   "yerleşmek"
+  ],
+  "tip": "residence resmi bir kelimedir. resident 'sakin, ikamet eden kişi'; residential ise 'konutla ilgili' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "ballroom",
+  "senses": [
+   "dans salonu; balo salonu"
+  ],
+  "ex": [
+   "Çiftler, parlayan bir avizenin altında balo salonunda süzülüyordu.",
+   "Tarihi balo salonunun restore edilmesi ziyaretçileri çekebilir ve yerel sakinlere kültürel etkinlikler için değerli bir alan sağlayabilir."
+  ],
+  "col": [
+   "salon dansı",
+   "otel balo salonu",
+   "büyük balo salonu"
+  ],
+  "tip": "ballroom dancing salon dansı, yani çiftler halinde yapılan standart danslardır; diskoda serbest dans değildir.",
+  "note": ""
+ }
+]

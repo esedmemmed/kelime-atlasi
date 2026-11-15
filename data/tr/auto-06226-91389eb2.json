@@ -1,0 +1,271 @@
+[
+ {
+  "id": "sinful",
+  "senses": [
+   "günahkâr; günah olan"
+  ],
+  "ex": [
+   "Büyükbabam, yalan söylemenin günahkârca bir davranış olduğuna inanırdı.",
+   "Günahkâr davranış hakkındaki düşünceler dini geleneklere göre değişir ve kişisel sorumluluğa bakışı etkileyebilir."
+  ],
+  "col": [
+   "günahkâr davranış",
+   "günah işi",
+   "günahkâr düşünceler"
+  ],
+  "tip": "Dini bağlamda kullanılır. Genel anlamda 'yasadışı' için illegal kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "granular",
+  "senses": [
+   "taneli; daneli",
+   "ayrıntılı; detaylı"
+  ],
+  "ex": [
+   "Toz şeker dişlerimin arasında hafifçe gıcırdadı.",
+   "Daha ayrıntılı veriler, araştırmacıların mahalleler arasındaki eğitim sonuçlarındaki farkları belirlemesine yardımcı olur."
+  ],
+  "col": [
+   "taneli madde",
+   "ayrıntılı veri",
+   "ayrıntılı bilgi"
+  ],
+  "tip": "Tane yapısındaki maddeler için de, verilerin ya da analizlerin ayrıntı düzeyi için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "distil",
+  "senses": [
+   "damıtmak",
+   "özünü çıkarmak; özetlemek"
+  ],
+  "ex": [
+   "Bu küçük cihaz deniz suyunu temiz içme suyuna dönüştürür.",
+   "Araştırmacılar karmaşık bulguları, politika yapıcıların kolayca anlayıp uygulayabileceği net önerilere dönüştürmek zorundadır."
+  ],
+  "col": [
+   "suyu damıtmak",
+   "bilgiyi özetlemek",
+   "bir şeyi ... haline getirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde distil, Amerikan İngilizcesinde distill yazılır. Geçmiş zaman her ikisinde distilled'dır.",
+  "note": ""
+ },
+ {
+  "id": "sturdy",
+  "senses": [
+   "sağlam; dayanıklı"
+  ],
+  "ex": [
+   "Bu sağlam botlar çamurlu yürüyüşlerde ayaklarımı kuru tutar.",
+   "Depreme yatkın bölgelerdeki okulların, şiddetli sarsıntılar sırasında öğrencileri koruyabilecek sağlam binalara ihtiyacı var."
+  ],
+  "col": [
+   "sağlam ayakkabı",
+   "sağlam yapı",
+   "sağlam çerçeve"
+  ],
+  "tip": "Eşya, bina için sık kullanılır. İnsanlar için de 'dinç, güçlü' anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "discretion",
+  "senses": [
+   "ihtiyat; temkinlilik",
+   "takdir yetkisi"
+  ],
+  "ex": [
+   "Onun özel hayatı hakkında konuşurken lütfen ihtiyatlı olun.",
+   "Öğretmenlerin, sınıf etkinliklerini bireysel öğrencilerin ihtiyaçlarına uyarlayabilmesi için bir miktar takdir yetkisine ihtiyacı vardır."
+  ],
+  "col": [
+   "ihtiyatlı davranmak",
+   "sizin takdirinizle",
+   "mesleki takdir"
+  ],
+  "tip": "at your discretion 'sizin takdirinize bağlı olarak' anlamına gelir. Sıfatı discreet ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "subsidy",
+  "senses": [
+   "sübvansiyon; teşvik"
+  ],
+  "ex": [
+   "Hükümet desteği, evimize güneş panelleri kurmamıza yardımcı oldu.",
+   "Toplu taşımaya yönelik hedefli sübvansiyonlar, insanların arabalarını daha az kullanmasını teşvik ederken ulaşımı daha uygun hale getirebilir."
+  ],
+  "col": [
+   "hükümet desteği",
+   "tarımsal sübvansiyonlar",
+   "sübvansiyon almak",
+   "destek programı"
+  ],
+  "tip": "Sayılabilir isimdir, çoğulu subsidies'tir. Genellikle for ile birlikte kullanılır: a subsidy for ...",
+  "note": ""
+ },
+ {
+  "id": "adjacent",
+  "senses": [
+   "bitişik; komşu"
+  ],
+  "ex": [
+   "Çocukların yakınlarda kalabilmesi için bitişik odalar ayırttık.",
+   "Havalimanına bitişik bölgelerde yaşayan sakinler sıklıkla yüksek düzeyde gürültü kirliliği yaşar."
+  ],
+  "col": [
+   "...ile bitişik",
+   "bitişik odalar",
+   "bitişik binalar"
+  ],
+  "tip": "'Bir şeyin yanında olmak' için adjacent to kalıbı kullanılır; to edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "wither",
+  "senses": [
+   "solmak; kurumak",
+   "zayıflamak; gerilemek"
+  ],
+  "ex": [
+   "Çiçekler bir hafta su almadan kurudu.",
+   "Sürekli yatırım yapılmazsa yerel sanayiler gerileyebilir ve genç insanlar için az sayıda iş fırsatı kalabilir."
+  ],
+  "col": [
+   "yavaş yavaş solup gitmek",
+   "sıcakta kurumak",
+   "solup ölmek"
+  ],
+  "tip": "Bitkiler için solmak, kurum ve fikirler için zayıflamak anlamında kullanılır. wither away kalıbı sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "dazzling",
+  "senses": [
+   "göz kamaştırıcı",
+   "hayranlık uyandıran"
+  ],
+  "ex": [
+   "Öğleden sonra güneşinin göz kamaştırıcı ışığından gözlerimizi koruduk.",
+   "Göz kamaştıran performanslar ziyaretçileri çeker; ancak yerel sanat eğitimine sürekli yatırım yapmak da aynı ölçüde önemlidir."
+  ],
+  "col": [
+   "göz kamaştırıcı ışık",
+   "etkileyici gösteri",
+   "çarpıcı performans"
+  ],
+  "tip": "Hem parlak ışığı hem de etkileyici başarıyı anlatır. Fiili dazzle, 'gözünü kamaştırmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "utterance",
+  "senses": [
+   "söz; ifade",
+   "söyleme; dile getirme"
+  ],
+  "ex": [
+   "Bebeğin ilk net sözcüğü herkesi gülümsetti.",
+   "Sınıf tartışmalarındaki her ifadeyi incelemek, öğretmenlerin öğrencileri fikirlerini dile getirmeye nasıl teşvik ettiğini ortaya çıkarabilir."
+  ],
+  "col": [
+   "tek bir söz",
+   "kendiliğinden söylenen söz",
+   "dile getirmek"
+  ],
+  "tip": "Dilbilimde bir seferde söylenen ifadeyi anlatır; tam cümle olması gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "occurrence",
+  "senses": [
+   "olay; hadise",
+   "meydana gelme; görülme"
+  ],
+  "ex": [
+   "Köyümüzde elektrik kesintisi nadir bir olaydır.",
+   "Gelişmiş drenaj sistemleri, yoğun nüfuslu kentsel alanlarda sel olaylarının görülme sıklığını azaltabilir."
+  ],
+  "col": [
+   "yaygın bir olay",
+   "nadir görülen olay",
+   "sık yaşanan olay",
+   "hastalığın görülmesi"
+  ],
+  "tip": "'Olay' anlamında sayılabilir, 'meydana gelme' anlamında sayılamaz. Yazımda rr ikilemesine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "oceanography",
+  "senses": [
+   "okyanusbilim; deniz bilimi"
+  ],
+  "ex": [
+   "Kuzenim okyanusbilim okuyor ve deniz suyu örnekleri topluyor.",
+   "Okyanusbilim araştırmaları, okyanus akıntılarının küresel sıcaklıklar ve bölgesel hava düzenleri üzerindeki etkisini anlamamıza yardımcı olur."
+  ],
+  "col": [
+   "fiziksel okyanusbilim",
+   "biyolojik okyanusbilim",
+   "okyanusbilim okumak"
+  ],
+  "tip": "Bir bilim dalının adıdır ve genellikle sayılamaz. Bu alanda çalışan kişi oceanographer olarak anılır.",
+  "note": ""
+ },
+ {
+  "id": "gauge",
+  "senses": [
+   "tahmin etmek; ölçmek",
+   "ölçüm aleti; gösterge",
+   "standart genişlik; ölçü"
+  ],
+  "ex": [
+   "Suyun sıcaklığını anlamak için ayağımın ucunu suya soktum.",
+   "Hükümetler, sağlık, eğitim ve diğer temel hizmetlerden duyulan kamu memnuniyetini ölçmek için sıklıkla hane anketlerini kullanır."
+  ],
+  "col": [
+   "kamuoyunu ölçmek",
+   "etkisini değerlendirmek",
+   "basınç göstergesi",
+   "yakıt göstergesi"
+  ],
+  "tip": "Hem ölçüm aletini hem de bir durumu tahmin etmeyi anlatır. Amerikan yazımında gage da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "signify",
+  "senses": [
+   "anlamına gelmek; belirtmek",
+   "belli etmek; işaret etmek"
+  ],
+  "ex": [
+   "Bu koyu bulutlar genellikle yağmur yağacağı anlamına gelir.",
+   "Okuryazarlık oranlarındaki artış, özellikle daha önce dezavantajlı olan topluluklarda eğitime erişimin iyileştiğine işaret edebilir."
+  ],
+  "col": [
+   "bir değişikliği belirtmek",
+   "onayı belli etmek",
+   "...olduğunu göstermek"
+  ],
+  "tip": "signify daha resmîdir; genellikle isim ya da that cümleciğiyle birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "permeate",
+  "senses": [
+   "yayılmak; kaplamak",
+   "sızmak; işlemek"
+  ],
+  "ex": [
+   "Taze ekmeğin kokusu bütün evi sardı.",
+   "Dijital teknoloji artık eğitimin hemen her alanına nüfuz etmiş durumda; öğrencilerin bilgiye erişimini ve başkalarıyla iş birliğini değiştiriyor."
+  ],
+  "col": [
+   "topluma yayılmak",
+   "hayatın her alanına nüfuz etmek",
+   "içinden sızmak"
+  ],
+  "tip": "Geçişli fiildir; doğrudan nesne alır, edat gerekmez: The smell permeated the house. 'Sızmak' anlamında through ile de kullanılabilir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "id": "bazaar",
+  "senses": [
+   "çarşı; pazar",
+   "hayır çarşısı"
+  ],
+  "ex": [
+   "Kalabalık çarşıda kokulu baharatlar aldık.",
+   "Geleneksel çarşılar turistleri çekerken yerel zanaatkârlara ürünlerini doğrudan satma fırsatı sunabilir."
+  ],
+  "col": [
+   "hareketli çarşı",
+   "hayır çarşısı",
+   "kapalı çarşı"
+  ],
+  "tip": "Açık hava pazarı ya da yardım amaçlı satış etkinliği anlamına gelebilir; bağlama göre çevirin. Kapalı çarşı için covered bazaar kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stiffen",
+  "senses": [
+   "sertleşmek; katılaşmak",
+   "kararlılaşmak; güçlenmek"
+  ],
+  "ex": [
+   "Otobüste saatlerce oturduktan sonra bacaklarım katılaşıyor.",
+   "Hükümet, çevresel riskler hakkında sakinlere danışmadan inşaata onay verirse halkın karşı çıkışı daha da sertleşebilir."
+  ],
+  "col": [
+   "kasların sertleşmesi",
+   "korkudan katılaşmak",
+   "direnci artırmak"
+  ],
+  "tip": "Geçişli ve geçişsiz kullanılabilir: stiffen muscles (kasları sertleştirmek) ya da muscles stiffen (kaslar sertleşmek).",
+  "note": ""
+ },
+ {
+  "id": "paralyse",
+  "senses": [
+   "felç etmek; felç bırakmak",
+   "işlevini durdurmak; aksatmak"
+  ],
+  "ex": [
+   "Yaralanma bacaklarını felç etti, ama kolları güçlü kaldı.",
+   "Şiddetli sel, temel çalışanların hastanelere ve diğer hizmetlere ulaşmasını engelleyerek kent ulaşım sistemlerini felce uğratabilir."
+  ],
+  "col": [
+   "korkudan donup kalmak",
+   "ulaşımı felç etmek",
+   "kısmen felç olmak"
+  ],
+  "tip": "İngiliz İngilizcesinde paralyse, Amerikan İngilizcesinde paralyze yazılır. be paralysed by fear kalıbı edilgen yapıdadır.",
+  "note": ""
+ },
+ {
+  "id": "linger",
+  "senses": [
+   "oyalanmak; geç ayrılmak",
+   "uzun süre kalmak; sürmek"
+  ],
+  "ex": [
+   "Sinemanın önünde filmi konuşarak uzun süre oyalandık.",
+   "İşsizliğin uzun süreli etkileri, bireyler istikrarlı işe döndükten sonra bile sürebilir."
+  ],
+  "col": [
+   "yemek masasında oyalanmak",
+   "havada asılı kalmak",
+   "üzerinde uzun uzun durmak"
+  ],
+  "tip": "Geçişsiz bir fiildir, doğrudan nesne almaz. linger over bir şeyi yavaşça yapmak ya da üzerinde uzun uzun durmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "stranding",
+  "senses": [
+   "karaya vurma",
+   "mahsur bırakmak; karaya oturmak"
+  ],
+  "ex": [
+   "Bir balinanın karaya vurmasının ardından gönüllüler yardıma koştu.",
+   "Araştırmacılar, deniz memelilerinin neden zaman zaman sığ kıyı sularında mahsur kaldığını anlamak için her toplu karaya vurma olayını inceliyor."
+  ],
+  "col": [
+   "balina karaya vurması",
+   "toplu karaya vurma",
+   "karaya vurma olayı"
+  ],
+  "tip": "İsim olarak da fiilin ing biçimi olarak da kullanılabilir. Mahsur kalmış anlamında sıfat olarak stranded kullanılır: be stranded.",
+  "note": ""
+ },
+ {
+  "id": "patriotism",
+  "senses": [
+   "vatanseverlik"
+  ],
+  "ex": [
+   "Ülkesinin başarılarından söz ederken vatanseverliği hemen belli oluyor.",
+   "Okullar, öğrencilere diğer ulusları saygıyla karşılamayı ve küresel sorumlulukları anlamayı öğretirken vatanseverliği de teşvik edebilir."
+  ],
+  "col": [
+   "vatanseverlik duygusu",
+   "vatanseverliğini dile getirmek",
+   "vatanseverliği körüklemek"
+  ],
+  "tip": "Ülkeye bağlılık ve sevgiyi anlatır. Üstünlük vurgusu içeren nationalism (milliyetçilik) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "refinement",
+  "senses": [
+   "küçük iyileştirme; ince ayar",
+   "arıtma; rafine etme",
+   "incelik; zarafet"
+  ],
+  "ex": [
+   "Sandalyeye yapılan tek bir küçük iyileştirme onu çok daha rahat hâle getirdi.",
+   "Su arıtma yöntemlerinin sürekli geliştirilmesi, temiz suyun maliyetini düşürürken halk sağlığını da iyileştirebilir."
+  ],
+  "col": [
+   "daha ileri iyileştirme",
+   "tasarıma yapılan ince ayar",
+   "ham maddelerin arıtılması"
+  ],
+  "tip": "Belirli bir iyileştirme sayılabilir (a refinement). Süreç, arıtma ya da incelik anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "preach",
+  "senses": [
+   "vaaz vermek",
+   "savunmak; yaymaya çalışmak",
+   "nasihat vermek; ahlak dersi vermek"
+  ],
+  "ex": [
+   "Papaz sabah ayininde nezaketin önemi üzerine vaaz verdi.",
+   "Okullar, iyi davranışın önemini sadece anlatmak yerine, günlük uygulamalarla saygıyı göstermelidir."
+  ],
+  "col": [
+   "vaaz vermek",
+   "hoşgörüyü savunmak",
+   "birine nasihat vermek",
+   "söylediğini yapmak"
+  ],
+  "tip": "preach to someone birine ahlak dersi vermek anlamına gelir ve genellikle olumsuz bir tonla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "meek",
+  "senses": [
+   "uysal; yumuşak başlı"
+  ],
+  "ex": [
+   "Hafifçe başını sallayıp kenara çekildi.",
+   "Sınıfta sessiz görünen öğrenciler, destekleyici bir tartışma ortamında güçlü görüşler dile getirebilir."
+  ],
+  "col": [
+   "uysal ses",
+   "boyun eğen kabulleniş",
+   "uysal ve yumuşak"
+  ],
+  "tip": "Genellikle karşı koymaya cesaret edememe anlamı taşır. humble (alçakgönüllü) ile aynı değildir ve olumsuz çağrışım yapabilir.",
+  "note": ""
+ },
+ {
+  "id": "accompaniment",
+  "senses": [
+   "müzik eşliği; akompani",
+   "garnitür; yan lezzet"
+  ],
+  "ex": [
+   "Kız kardeşim şarkı söylerken ben piyano eşliği yaptım.",
+   "Müzikal eşlik yapmayı öğrenmek, öğrencilerin dinleme becerilerini geliştirmeye ve başkalarıyla daha etkili iş birliği yapmaya yardımcı olabilir."
+  ],
+  "col": [
+   "piyano eşliği",
+   "müzik eşliği",
+   "bir şeye eşlik eden"
+  ],
+  "tip": "Eşlik eden müzik ya da yan şey anlamında kullanılır. 'Arkadaş' anlamında companion kullanılır, accompaniment değil.",
+  "note": ""
+ },
+ {
+  "id": "logistics",
+  "senses": [
+   "lojistik; ikmal"
+  ],
+  "ex": [
+   "Ağabeyim kamp gezilerimizin lojistik işlerini hallediyor.",
+   "Verimli lojistik, taze ürünlerin kent pazarlarına hızla ulaşmasını sağlayarak gıda israfını azaltabilir."
+  ],
+  "col": [
+   "lojistik yönetimi",
+   "lojistik işlerini üstlenmek",
+   "ulaştırma lojistiği"
+  ],
+  "tip": "-s ile bitmesine rağmen tekil kullanılır: logistics is complex. Etkinliklerde ikmal ve organizasyon anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "perceptible",
+  "senses": [
+   "algılanabilir; fark edilebilir"
+  ],
+  "ex": [
+   "Sesinde neredeyse fark edilmeyen bir titreme vardı.",
+   "Daha temiz ulaşım politikaları, birkaç yoğun nüfuslu ilçede hava kalitesinde fark edilir bir iyileşme sağladı."
+  ],
+  "col": [
+   "neredeyse algılanamayan",
+   "fark edilir değişim",
+   "fark edilir fark"
+  ],
+  "tip": "Algılanabilecek kadar belirgin anlamına gelir, mutlaka çok büyük olması gerekmez. Genellikle barely ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "adept",
+  "senses": [
+   "becerikli; usta",
+   "usta; uzman"
+  ],
+  "ex": [
+   "Kız kardeşim eski bisikletleri tamir etmekte çok becerikli.",
+   "Dijital araçları kullanmakta becerikli öğretmenler, dersleri daha geniş öğrenme ihtiyaçlarına uyarlayabilir."
+  ],
+  "col": [
+   "sorun çözmekte usta",
+   "idare etmekte becerikli",
+   "teknik olarak becerikli"
+  ],
+  "tip": "Genellikle be adept at doing something kalıbıyla kullanılır. Bir yetkinliği ifade eder; 'bilgili' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "pretentious",
+  "senses": [
+   "gösterişli; kendini beğenmiş"
+  ],
+  "ex": [
+   "Kafe, kadife koltukları ve küçük porsiyonlarıyla gösterişli bir havaya sahipti.",
+   "Kamusal sanat eserlerinin sunumu davetkâr ve erişilebilir olmak yerine gösterişli görünürse yerel sakinler uzaklaşabilir."
+  ],
+  "col": [
+   "gösterişli görünmek",
+   "gösterişli dil",
+   "gösterişçi bir tavır"
+  ],
+  "tip": "Olumsuz bir sözcüktür: gereğinden fazla önemli görünmeye çalışmak anlamına gelir. Sadece özgüven ifade etmez.",
+  "note": ""
+ },
+ {
+  "id": "peripheral",
+  "senses": [
+   "ikincil; önemsiz",
+   "çevresel; dış kenar",
+   "çevre birimi; yan donanım"
+  ],
+  "ex": [
+   "Boya rengi mutfak tamirlerimizle ilgili ikincil bir konu.",
+   "Finansman tartışmaları, eğitimi iyileştirme gibi ana hedeften dikkati dağıtacak ikincil konulara izin vermemelidir."
+  ],
+  "col": [
+   "ikincil sorun",
+   "çevre görüşü",
+   "çevresel sinirler",
+   "çevre aygıtı"
+  ],
+  "tip": "peripheral to something bir konuya göre ikincil ya da önemsiz olduğunu anlatır. Fiziksel olarak dış kenar anlamı da vardır.",
+  "note": ""
+ }
+]

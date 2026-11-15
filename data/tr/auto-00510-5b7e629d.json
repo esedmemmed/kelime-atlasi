@@ -1,0 +1,284 @@
+[
+ {
+  "id": "seat",
+  "senses": [
+   "oturak; koltuk",
+   "oturtmak; yer vermek",
+   "milletvekilliği; sandalye"
+  ],
+  "ex": [
+   "Bana öne yakın bir yer ayırdı.",
+   "Toplu taşımada daha fazla koltuk sağlanması, yaşlı yolcular ve aileler için günlük seyahati kolaylaştırırdı."
+  ],
+  "col": [
+   "oturmak",
+   "pencere kenarı koltuğu",
+   "yer ayırtmak",
+   "bir sandalye kazanmak"
+  ],
+  "tip": "sit fiil olarak 'oturmak' demektir; seat çoğunlukla 'koltuk' ismi ya da 'yer vermek' anlamında kullanılır. Resmi 'Oturun' için be seated kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cup",
+  "senses": [
+   "fincan; bardak",
+   "kupa; ödül",
+   "avuçlamak; kâse gibi tutmak"
+  ],
+  "ex": [
+   "Bir fincan çayın sıcaklığıyla ellerimi ısıttım.",
+   "Müşterileri yeniden kullanılabilir bardak getirmeye teşvik etmek, kafelerin tek kullanımlık ambalaj atığını azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bir fincan çay",
+   "yeniden kullanılabilir bardak",
+   "kupayı kazanmak",
+   "avuçlarını birleştirmek"
+  ],
+  "tip": "a cup of ardından miktarı belirten isim gelir: a cup of tea. Fiil olarak 'avuçlamak' anlamı daha az yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "film",
+  "senses": [
+   "film; sinema filmi",
+   "çekmek; kaydetmek",
+   "film; ince tabaka"
+  ],
+  "ex": [
+   "Dün akşam yemekten sonra çok komik bir film izledik.",
+   "Belgesel filmler, çevresel sorunların yerel topluluklar üzerindeki etkilerini göstererek halkın farkındalığını artırabilir."
+  ],
+  "col": [
+   "film izlemek",
+   "film endüstrisi",
+   "ince bir yağ tabakası"
+  ],
+  "tip": "Film, İngiliz İngilizcesinde daha yaygındır; Amerikan İngilizcesinde genellikle movie tercih edilir. İkisi de doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "america",
+  "senses": [
+   "Amerika Birleşik Devletleri",
+   "Amerika kıtası; Amerikalar"
+  ],
+  "ex": [
+   "Kuzenim mühendislik okumak için Amerika'ya taşındı.",
+   "Amerika'daki birçok üniversite, araştırma olanakları ve çeşitli akademik programları sayesinde uluslararası öğrencileri çeker."
+  ],
+  "col": [
+   "Kuzey Amerika",
+   "Güney Amerika",
+   "Amerika genelinde"
+  ],
+  "tip": "Günlük dilde America çoğunlukla ABD'yi kasteder. İki kıtayı birlikte anmak için the Americas kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "monday",
+  "senses": [
+   "pazartesi"
+  ],
+  "ex": [
+   "Genellikle pazartesi günleri pazarda taze meyve alırız.",
+   "Birçok çalışan, hafta sonundan kalan işlerle uğraşmak zorunda olduğu için pazartesi sabahlarını stresli bulur."
+  ],
+  "col": [
+   "pazartesi günü",
+   "pazartesi sabahı",
+   "her pazartesi",
+   "pazartesiden cumaya"
+  ],
+  "tip": "Gün adları büyük harfle yazılır. 'On Monday' kullanılır, ancak next Monday ve last Monday ifadelerinde on kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "sweden",
+  "senses": [
+   "İsveç"
+  ],
+  "ex": [
+   "Geçen yaz trenle İsveç'i gezdik.",
+   "İsveç; kamu refahı, çevre politikası ve eğitim finansmanı konularındaki uluslararası tartışmalarda sıkça ele alınır."
+  ],
+  "col": [
+   "güney İsveç",
+   "İsveç'e seyahat etmek",
+   "İsveç'in başkenti"
+  ],
+  "tip": "Sweden 'İsveç', Switzerland ise 'İsviçre'dir. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "else",
+  "senses": [
+   "başka; diğer",
+   "yoksa; aksi halde"
+  ],
+  "ex": [
+   "Çorbanızla başka bir şey ister misiniz?",
+   "Hükümetler toplu taşımayı iyileştirmek zorundadır; yoksa artan trafik sıkışıklığı kentsel gelişimin ekonomik faydalarını zayıflatabilir."
+  ],
+  "col": [
+   "başka biri",
+   "başka bir şey",
+   "başka ne",
+   "yoksa"
+  ],
+  "tip": "else genellikle belirsiz zamirlerden ve soru kelimelerinden sonra gelir: someone else, what else. Sahiplik için somebody else's kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "portugal",
+  "senses": [
+   "Portekiz"
+  ],
+  "ex": [
+   "Trenle Portekiz'in kıyısı boyunca seyahat ettik.",
+   "Turizm Portekiz ekonomisine katkı sağlar; ancak kıyı gelişimi doğal yaşam alanlarını korumak için dikkatli planlama gerektirir."
+  ],
+  "col": [
+   "anakara Portekiz",
+   "kuzey Portekiz",
+   "Portekiz'in kıyısı"
+  ],
+  "tip": "Ülke adlarının başına genellikle the getirilmez. Portuguese ise dil adı ya da 'Portekiz'e ait' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "in",
+  "senses": [
+   "içinde; içeride",
+   "sonra; -den sonra",
+   "içeride; eve"
+  ],
+  "ex": [
+   "Anahtarlarınız kapının yanındaki kasede.",
+   "Halk kütüphanelerine yapılan yatırımlar, eğitimsel eşitsizliği azaltmaya ve yerel topluluklardaki bağları güçlendirmeye yardımcı olabilir."
+  ],
+  "col": [
+   "önceden",
+   "sabahleyin",
+   "halka açık olarak",
+   "vaktinde"
+  ],
+  "tip": "Aylar, yıllar ve the morning gibi zaman dilimleri için in kullanılır: in June, in 2025, in the morning. Günler için on kullanılır: on Monday.",
+  "note": ""
+ },
+ {
+  "id": "top",
+  "senses": [
+   "üst; tepe",
+   "en üst; en iyi",
+   "birinci olmak; geçmek"
+  ],
+  "ex": [
+   "Yıldızı ağacın tepesine yerleştirdi.",
+   "Hızla büyüyen kentsel nüfusla karşı karşıya kalan hükümetler için uygun fiyatlı konuta erişimi iyileştirmek en öncelikli konu olmalıdır."
+  ],
+  "col": [
+   "-in en üstünde",
+   "en öncelikli konu",
+   "en yüksek not",
+   "listenin başında yer almak"
+  ],
+  "tip": "on top of bir şeyin üstünde ya da ek olarak anlamına gelir; at the top of ise bir şeyin en üst kısmını belirtir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "bottle",
+  "senses": [
+   "şişe",
+   "şişelemek"
+  ],
+  "ex": [
+   "Evden çıkmadan önce su şişesini doldurdu.",
+   "Şehirlerde plastik atığı azaltmak için tek kullanımlık kaplar yerine yeniden kullanılabilir bir şişe seçmek yardımcı olabilir."
+  ],
+  "col": [
+   "bir şişe su",
+   "yeniden kullanılabilir şişe",
+   "şişe kapağı",
+   "şişelenmiş su"
+  ],
+  "tip": "a bottle of water bir şişe suyu, water bottle ise su şişesini (kabı) anlatır. Bu fark sık karıştırılır.",
+  "note": ""
+ },
+ {
+  "id": "june",
+  "senses": [
+   "Haziran"
+  ],
+  "ex": [
+   "Kız kardeşim bu yıl haziran ayında evleniyor.",
+   "Toplum merkezi haziran ayında açılacak ve yerel sakinlere uygun fiyatlı egzersiz dersleri sunacak."
+  ],
+  "col": [
+   "haziran ayında",
+   "haziran başı",
+   "haziran sonuna kadar"
+  ],
+  "tip": "Ay adları büyük harfle yazılır ve in June biçiminde kullanılır. 'On June' söylenmez.",
+  "note": ""
+ },
+ {
+  "id": "turn",
+  "senses": [
+   "dönmek; çevirmek",
+   "olmak; dönüşmek",
+   "sıra; nöbet"
+  ],
+  "ex": [
+   "Kolu nazikçe çevirin ve kapıyı kendinize doğru çekin.",
+   "Nüfus yaşlandıkça hükümetler dikkatlerini erişilebilir konutlara ve topluluk sağlık hizmetlerine yöneltmek zorunda kalır."
+  ],
+  "col": [
+   "sola dönmek",
+   "kızarmak",
+   "sırayla yapmak",
+   "-e dönüşmek"
+  ],
+  "tip": "turn ardından sıfat gelirse 'olmak' anlamı verir: turn red. turn into ardından isim gelir: turn into a problem.",
+  "note": ""
+ },
+ {
+  "id": "piece",
+  "senses": [
+   "parça; adet",
+   "yazı; eser",
+   "birleştirmek; bir araya getirmek"
+  ],
+  "ex": [
+   "Kız kardeşine pastanın son parçasını sakladı.",
+   "Araştırmacılar çevresel değişim hakkında sonuç çıkarmadan önce her kanıt parçası dikkatle değerlendirilmelidir."
+  ],
+  "col": [
+   "bir tavsiye",
+   "bir ekipman parçası",
+   "bir müzik parçası",
+   "bir araya getirmek"
+  ],
+  "tip": "advice gibi sayılamayan isimleri a piece of ile sayılabilir hale getirirsiniz. 'An advice' demek yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "pink",
+  "senses": [
+   "pembe",
+   "pembe rengi"
+  ],
+  "ex": [
+   "Penceremizin dışındaki ağacın pembe çiçekleri var.",
+   "Tasarımcılar, çocuk sağlık tesislerinde davetkâr bir atmosfer yaratmak için genellikle pembe gibi yumuşak renkler kullanır."
+  ],
+  "col": [
+   "soluk pembe",
+   "parlak pembe",
+   "pembeye dönmek"
+  ],
+  "tip": "pink hem sıfat hem isim olarak kullanılır: a pink dress, pink is my favourite. Renk sıfatı isimden önce gelir.",
+  "note": ""
+ }
+]

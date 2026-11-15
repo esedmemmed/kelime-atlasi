@@ -1,0 +1,278 @@
+[
+ {
+  "id": "blunder",
+  "senses": [
+   "büyük hata; gaf",
+   "büyük hata yapmak",
+   "beceriksizce ilerlemek; sendelemek"
+  ],
+  "ex": [
+   "Büyük bir hata yaptım ve yanlış tarihe rezervasyon yaptırdım.",
+   "Büyük bir planlama hatası, toplulukların yıllarca yeterli ulaşım bağlantısından yoksun kalmasına yol açabilir."
+  ],
+  "col": [
+   "hata yapmak",
+   "büyük hata",
+   "farkında olmadan girmek",
+   "beceriksizce atlatmak"
+  ],
+  "tip": "Mistake'e göre daha ağır bir hatayı, çoğunlukla dikkatsizlik ya da yanlış yargıdan doğan hatayı anlatır. Küçük hatalar için fazla sert kaçabilir.",
+  "note": ""
+ },
+ {
+  "id": "devaluation",
+  "senses": [
+   "devalüasyon; değer kaybı",
+   "değersizleştirme; önemsizleştirme"
+  ],
+  "ex": [
+   "Devalüasyondan sonra ithal kahve çok daha pahalı hale geldi.",
+   "Para biriminin değer kaybı ihracatı daha rekabetçi hale getirebilir, ancak ithal mal maliyetlerini de artırır."
+  ],
+  "col": [
+   "para birimi devalüasyonu",
+   "keskin devalüasyon",
+   "bakım emeğinin değersizleştirilmesi"
+  ],
+  "tip": "Ekonomide genellikle hükümetin resmi olarak kuru düşürmesini anlatır. Piyasadaki değer kaybı için depreciation kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "oscillate",
+  "senses": [
+   "sallanmak; salınmak",
+   "dalgalanmak; gidip gelmek"
+  ],
+  "ex": [
+   "Vantilatör yavaşça salınıyor ve odanın iki tarafını da serinletiyor.",
+   "Çevre politikalarıyla ilgili yeni bilgiler ortaya çıktıkça kamuoyu destekle karşıtlık arasında gidip gelebilir."
+  ],
+  "col": [
+   "uçlar arasında gidip gelmek",
+   "hızla salınmak",
+   "salınan vantilatör"
+  ],
+  "tip": "A ile B arasında gidip gelmek için oscillate between A and B kalıbını kullanın. Fiziksel hareket için salınmak, değişim için dalgalanmak daha doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "integral",
+  "senses": [
+   "vazgeçilmez; ayrılmaz",
+   "yerleşik; bütünleşik",
+   "integral"
+  ],
+  "ex": [
+   "Müzik, aile kutlamalarımızın ayrılmaz bir parçasıdır.",
+   "Güvenilir toplu taşıma, özel araç bağımlılığını azalttığı için sürdürülebilir kentsel gelişimin vazgeçilmez bir parçasıdır."
+  ],
+  "col": [
+   "...nın ayrılmaz parçası",
+   "başarı için vazgeçilmez",
+   "ayrılmaz bir bileşen"
+  ],
+  "tip": "an integral part of ve be integral to kalıplarında 'of' ve 'to' edatlarını karıştırmayın; her ikisi de doğrudur ama farklı yapılardadır.",
+  "note": ""
+ },
+ {
+  "id": "contemplate",
+  "senses": [
+   "üzerinde düşünmek",
+   "tasarlamak; planlamak",
+   "süzmek; dikkatle bakmak"
+  ],
+  "ex": [
+   "Göl kenarında oturmuş, bir sonraki hamlesini düşünüyordu.",
+   "Toplu taşımayı genişletmeden önce planlamacılar, önerilen güzergâhların mevcut topluluklar üzerindeki etkisini düşünmelidir."
+  ],
+  "col": [
+   "yapmayı düşünmek",
+   "geleceği düşünmek",
+   "bir değişikliği düşünmek"
+  ],
+  "tip": "Fiilden sonra doğrudan isim ya da -ing biçimi gelir; contemplate to do kullanılmaz. Yapmayı düşünmek için contemplate doing kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "baffle",
+  "senses": [
+   "şaşırtmak; afallatmak",
+   "perde; engelleyici levha"
+  ],
+  "ex": [
+   "Bu bulmaca beni şaşırttı, bu yüzden yardım istedim.",
+   "Hayvan göçündeki beklenmedik değişimler, izleme teknolojisi ve veri toplamadaki gelişmelere rağmen bilim insanlarını şaşırtmaya devam ediyor."
+  ],
+  "col": [
+   "bilim insanlarını şaşırtmak",
+   "tamamen şaşkın",
+   "şaşırtıcı bir gizem",
+   "engelleyici levha"
+  ],
+  "tip": "Confuse'dan daha güçlüdür; tamamen anlayamama durumunu anlatır. Genellikle be baffled by kalıbıyla edilgen olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "longing",
+  "senses": [
+   "özlem; hasret",
+   "özlem dolu; hasret dolu"
+  ],
+  "ex": [
+   "Birden çocukluk evi için içini bir özlem kapladı.",
+   "Birçok göçmen için tanıdık çevreyi özlemek, yeni bir kültüre uyum sağlamayı daha zor hale getirebilir."
+  ],
+  "col": [
+   "ev özlemi",
+   "derin bir özlem",
+   "özlem dolu bakış"
+  ],
+  "tip": "İsim olarak genellikle for ile kullanılır (longing for home). Fiil olarak to do de alabilir: longing to travel.",
+  "note": ""
+ },
+ {
+  "id": "mobilize",
+  "senses": [
+   "harekete geçirmek; seferber etmek",
+   "askeri seferber etmek"
+  ],
+  "ex": [
+   "Komşularımız yerel plajı temizlemek için gönüllüleri seferber etti.",
+   "Doğal afetler savunmasız toplulukları tehdit ettiğinde hükümetler finansal kaynakları ve eğitimli personeli hızla harekete geçirmelidir."
+  ],
+  "col": [
+   "kaynakları harekete geçirmek",
+   "desteği seferber etmek",
+   "gönüllüleri seferber etmek",
+   "askeri seferber etmek"
+  ],
+  "tip": "İngiliz İngilizcesinde mobilise biçimi de kullanılır. Kaynak, destek, gönüllü ya da asker gibi nesnelerle birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "snag",
+  "senses": [
+   "aksilik; küçük engel",
+   "takılmak; yırtılmak"
+  ],
+  "ex": [
+   "Kazağım kapının yanındaki bir çiviye takıldı.",
+   "Konut projesi, mühendisler önerilen alanın altındaki zemin kaymasını fark edince bir engelle karşılaştı."
+  ],
+  "col": [
+   "bir engelle karşılaşmak",
+   "küçük bir aksilik",
+   "bir çivide takılmak"
+  ],
+  "tip": "Hit a snag bir engelle karşılaşmak anlamına gelir. Fiil olarak takılma nesnesinden önce on edatı gelir: snag on a nail.",
+  "note": ""
+ },
+ {
+  "id": "superiority",
+  "senses": [
+   "üstünlük; avantaj",
+   "üstünlük taslama; kibir"
+  ],
+  "ex": [
+   "Daha yeni fotoğraf makinesi, düşük ışıkta üstünlüğünü gösterdi.",
+   "Büyük firmaların teknolojik üstünlüğü, küçük işletmelerin etkili biçimde rekabet etmesini zorlaştırabilir."
+  ],
+  "col": [
+   "teknolojik üstünlük",
+   "...karşı üstünlük",
+   "üstünlük duygusu"
+  ],
+  "tip": "Karşılaştırmada than yerine superiority over kullanılır. Örneğin: superiority over its rivals.",
+  "note": ""
+ },
+ {
+  "id": "oath",
+  "senses": [
+   "yemin; ant"
+  ],
+  "ex": [
+   "Tanık, sorulara cevap vermeden önce yemin etti.",
+   "Topluma hizmet etmek için yemin eden kamu görevlileri, kararlarından ve davranışlarından sorumlu olmaya devam etmelidir."
+  ],
+  "col": [
+   "yemin etmek",
+   "yemin etmek",
+   "yemin altında",
+   "yemin bozmak"
+  ],
+  "tip": "Under oath, yemin ederek doğru söyleme taahhüdünü anlatır; çoğunlukla hukuki bağlamda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "drop-off",
+  "senses": [
+   "düşüş; azalma",
+   "bırakma; indirme",
+   "ani alçalma; uçurum"
+  ],
+  "ex": [
+   "Kafe, yaz sonrasında müşterilerde bir düşüş fark etti.",
+   "Otobüs kullanımında keskin bir düşüş, hizmetlerin artık sakinlerin ihtiyaçlarını karşılamadığını gösterebilir."
+  ],
+  "col": [
+   "keskin düşüş",
+   "talepte düşüş",
+   "bırakma noktası"
+  ],
+  "tip": "İsim olarak drop-off tireli yazılır; fiil olarak drop off iki kelimedir: drop off a friend (arkadaşını bırakmak).",
+  "note": ""
+ },
+ {
+  "id": "rosy",
+  "senses": [
+   "al yanaklı; kırmızımsı",
+   "umut verici; parlak"
+  ],
+  "ex": [
+   "Soğukta yürüdükten sonra yanakları al al olmuştu.",
+   "Resmî tahminler parlak bir tablo çizse de artan enerji maliyetleri ülkenin ekonomik toparlanmasını yavaşlatabilir."
+  ],
+  "col": [
+   "al yanaklar",
+   "parlak bir gelecek",
+   "iyimser bir tablo çizmek"
+  ],
+  "tip": "Paint a rosy picture gerçeği olduğundan iyi göstermek anlamına gelebilir; abartılı iyimserliği ima eder.",
+  "note": ""
+ },
+ {
+  "id": "ridicule",
+  "senses": [
+   "alay; küçümseme",
+   "alay etmek; güldürmek"
+  ],
+  "ex": [
+   "Alışılmadık şapkası birkaç sınıf arkadaşının alayına yol açtı.",
+   "Öğrenciler, öğretmenlerinin ya da sınıf arkadaşlarının alayından korkarlarsa önemli soruları sormaktan kaçınabilirler."
+  ],
+  "col": [
+   "herkesin önünde alay",
+   "alay görmek",
+   "alay konusu yapmak"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır; ridicule someone biçiminde at edatı kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "dimensional",
+  "senses": [
+   "boyutsal; ölçüsel"
+  ],
+  "ex": [
+   "Marangoz her rafın boyutsal doğruluğunu kontrol etti.",
+   "Birbirine güvenle oturması gereken parçalar üretilirken boyutsal doğruluk karmaşık makinelerde çok önemlidir."
+  ],
+  "col": [
+   "boyutsal doğruluk",
+   "boyutsal kararlılık",
+   "üç boyutlu model"
+  ],
+  "tip": "Çoğunlukla three-dimensional gibi bileşik sözcüklerde görülür; three-dimensional üç boyutlu anlamına gelir.",
+  "note": ""
+ }
+]

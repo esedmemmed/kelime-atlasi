@@ -1,0 +1,286 @@
+[
+ {
+  "id": "bird",
+  "senses": [
+   "kuş"
+  ],
+  "ex": [
+   "Küçük bir kuş penceremizin üstüne yuva yaptı.",
+   "Yerli kuş türlerini korumak, hem kırsal hem kentsel alanlarda yaşam alanlarının korunmasını ve kirliliğin azaltılmasını gerektirir."
+  ],
+  "col": [
+   "bir kuş sürüsü",
+   "göç eden kuş",
+   "kuş gözlemciliği",
+   "yırtıcı kuş"
+  ],
+  "tip": "Kuş sürüsü için 'a flock of birds' kullanılır. bird sayılabilir bir isimdir; tekil için a/an, çoğul için -s eki gerekir.",
+  "note": ""
+ },
+ {
+  "id": "game",
+  "senses": [
+   "oyun; maç",
+   "av hayvanı; av eti",
+   "istekli; cesur"
+  ],
+  "ex": [
+   "Dün akşam yemekten sonra masa oyunu oynadık.",
+   "İşbirlikçi oyunlar, çocukların iletişim becerilerini geliştirmesine ve birlikte sorun çözmeyi öğrenmesine yardımcı olabilir."
+  ],
+  "col": [
+   "masa oyunu",
+   "takım oyunu",
+   "video oyunu",
+   "bir şeyi denemeye hazır olmak"
+  ],
+  "tip": "Av hayvanı anlamında genellikle sayılamaz kullanılır. 'be game for' ise bir şeyi denemeye istekli olmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "single",
+  "senses": [
+   "tek; yalnız",
+   "bekâr; evli olmayan",
+   "tek yönlü"
+  ],
+  "ex": [
+   "Elektrik kesintisi sırasında tek bir mum odayı aydınlattı.",
+   "Kentsel tıkanıklığı, toplu taşıma ve yerel planlamadaki iyileştirmeler olmadan hiçbir tek politika çözemez."
+  ],
+  "col": [
+   "tek kişi",
+   "her gün",
+   "tek yön bileti",
+   "tek ebeveyn"
+  ],
+  "tip": "Gidiş biletine İngiliz İngilizcesinde 'single ticket', Amerikan İngilizcesinde 'one-way ticket' denir. 'every single' vurgu katar.",
+  "note": ""
+ },
+ {
+  "id": "park",
+  "senses": [
+   "park",
+   "park etmek",
+   "özel alan; bölge"
+  ],
+  "ex": [
+   "Ağaçların altında, parkta piknik yaptık.",
+   "Her mahallenin yürüme mesafesinde bir park bulunması egzersizi teşvik edebilir ve topluluk bağlarını güçlendirebilir."
+  ],
+  "col": [
+   "halka açık park",
+   "arabayı park etmek",
+   "iş parkı",
+   "milli park"
+  ],
+  "tip": "Türkçedeki 'park' hem yeşil alan hem de park etme anlamına gelir. İngilizcede park etme eylemi park, otopark ise car park'tır.",
+  "note": ""
+ },
+ {
+  "id": "boy",
+  "senses": [
+   "erkek çocuk; oğlan"
+  ],
+  "ex": [
+   "Erkek çocuk, küçük köpeğini dikkatle su birikintisinin üzerinden taşıdı.",
+   "Her erkek ve kız çocuğu, ailesinin gelirinden bağımsız olarak eğitime eşit erişime sahip olmalıdır."
+  ],
+  "col": [
+   "küçük bir erkek çocuk",
+   "ergen erkek çocuk",
+   "erkek bebek"
+  ],
+  "tip": "Genellikle reşit olmayan erkekler için kullanılır. Yetişkin bir erkeğe boy demek saygısız veya küçümseyici algılanabilir.",
+  "note": ""
+ },
+ {
+  "id": "chicken",
+  "senses": [
+   "tavuk",
+   "tavuk eti"
+  ],
+  "ex": [
+   "Tavuklar sebze bahçemizin yanındaki toprağı eşeledi.",
+   "Kırmızı etin bir kısmını tavukla değiştirmek, kişinin beslenmesinin çevresel etkisini azaltabilir."
+  ],
+  "col": [
+   "tavuk beslemek",
+   "fırında tavuk",
+   "tavuk göğsü",
+   "tavuk çorbası"
+  ],
+  "tip": "Canlı tavuk sayılabilir (a chicken, chickens); tavuk eti ise sayılamaz. Yavru tavuk için chick kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "milk",
+  "senses": [
+   "süt",
+   "sağmak"
+  ],
+  "ex": [
+   "Mısır gevreğimin üstüne biraz soğuk süt döktüm.",
+   "Süt kalsiyum ve protein sağlar; ancak bazı diyet ihtiyaçları olan kişiler uygun alternatifleri tercih edebilir."
+  ],
+  "col": [
+   "bir bardak süt",
+   "yağsız süt",
+   "inek sağmak"
+  ],
+  "tip": "milk genellikle sayılamaz. 'a milk' yerine 'a glass of milk' veya 'a carton of milk' denir.",
+  "note": ""
+ },
+ {
+  "id": "and",
+  "senses": [
+   "ve; ile",
+   "ve sonra; de"
+  ],
+  "ex": [
+   "Piknik için taze ekmek ve peynir aldım.",
+   "Hükümetler, büyüyen şehirlerde tıkanıklığı azaltmak için toplu taşımaya yatırım yapmalı ve bisiklet kullanımını teşvik etmelidir."
+  ],
+  "col": [
+   "hem ... hem de ...",
+   "vesaire",
+   "giderek daha fazla",
+   "tekrar tekrar"
+  ],
+  "tip": "and ile bağlanan öğeler aynı yapıda olmalıdır (isim-isim, fiil-fiil gibi). Konuşmada sık sık zayıf okunur.",
+  "note": ""
+ },
+ {
+  "id": "most",
+  "senses": [
+   "çoğu; en çok",
+   "çoğunluk; en büyük kısım",
+   "en; çok"
+  ],
+  "ex": [
+   "Buradaki dükkânların çoğu işimiz bitmeden kapanıyor.",
+   "Çoğu kentli, konut alanlarını büyük iş merkezleriyle bağlayan güvenilir toplu taşımadan yararlanabilir."
+  ],
+  "col": [
+   "çoğu insan",
+   "çoğu zaman",
+   "en fazla",
+   "en önemli"
+  ],
+  "tip": "Genel anlamda 'most people' denir. Belirli bir grup için 'most of the people' veya 'most of them' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "story",
+  "senses": [
+   "hikâye; öykü",
+   "haber",
+   "kat"
+  ],
+  "ex": [
+   "Büyükannem çocukluğuyla ilgili komik bir hikâye anlattı.",
+   "Kişisel bir hikâye paylaşmak, öğrencilerin tarihi olayları daha insani bir bakış açısıyla anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "hikâye anlatmak",
+   "kısa öykü",
+   "haber",
+   "gerçek hikâye"
+  ],
+  "tip": "Bina katı anlamında Amerikan İngilizcesinde story, İngiliz İngilizcesinde storey yazılır.",
+  "note": ""
+ },
+ {
+  "id": "other",
+  "senses": [
+   "diğer; başka",
+   "diğeri; başkası"
+  ],
+  "ex": [
+   "Bu ayakkabı ayağıma uyuyor, peki diğeri nerede?",
+   "Okullar, öğrencileri yetişkin hayatının zorluklarına hazırlamak için diğer derslerin yanında pratik beceriler de öğretmelidir."
+  ],
+  "col": [
+   "diğer insanlar",
+   "geçen gün",
+   "birbirimiz",
+   "öte yandan"
+  ],
+  "tip": "other isimden önce sıfat olarak gelir (other people). Tek başına kullanılınca others olur. İkisi arasında kalan öteki için the other denir.",
+  "note": ""
+ },
+ {
+  "id": "apple",
+  "senses": [
+   "elma"
+  ],
+  "ex": [
+   "Öğle yemeği için bir elma ve bir sandviç hazırladım.",
+   "Okullarda elma gibi taze meyveler sunmak, çocukların daha sağlıklı beslenme alışkanlıkları geliştirmesini teşvik edebilir."
+  ],
+  "col": [
+   "elma suyu",
+   "elmalı turta",
+   "elma çekirdeği",
+   "taze ve gevrek elma"
+  ],
+  "tip": "Sayılabilir bir isimdir. Tekil için 'an apple' denir; apple sesli harfle başladığı için önünde a değil an kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "air",
+  "senses": [
+   "hava",
+   "tavır; hava",
+   "havalandırmak; dile getirmek"
+  ],
+  "ex": [
+   "Taze hava girsin diye pencereyi açtım.",
+   "Şehirlerde hava kalitesini iyileştirmek, daha temiz ulaşım ve endüstriyel emisyonlara daha sıkı denetimler gerektirir."
+  ],
+  "col": [
+   "temiz hava",
+   "hava kirliliği",
+   "özgüven havası",
+   "kaygılarını dile getirmek"
+  ],
+  "tip": "Hava anlamında sayılamaz; 'an air' değil 'the air' veya 'fresh air' biçiminde kullanılır. 'an air of' bir tavır veya hava anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "because",
+  "senses": [
+   "çünkü; -diği için"
+  ],
+  "ex": [
+   "Oda soğuk hissettirdiği için pencereyi kapattım.",
+   "Birçok yolcu, toplu taşımanın daha ucuz olması ve tek başına araç kullanmaktan daha az emisyon üretmesi nedeniyle bu yolu seçiyor."
+  ],
+  "col": [
+   "hava durumu yüzünden",
+   "bu yüzden",
+   "kısmen bu nedenle"
+  ],
+  "tip": "because bir cümle alır. because of ise isim veya isim görevindeki bir sözcük alır. İkisi yan yana kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "team",
+  "senses": [
+   "takım; ekip",
+   "ekip olmak; birlikte çalışmak"
+  ],
+  "ex": [
+   "Takımımız maçı kazandıktan sonra pizzayla kutladı.",
+   "Takım halinde çalışmak, öğrencilerin gelecekteki iş hayatı için gerekli olan iletişim becerilerini geliştirmesine yardımcı olur."
+  ],
+  "col": [
+   "takım üyesi",
+   "takım ruhu",
+   "...ile birlikte çalışmak",
+   "araştırma ekibi"
+  ],
+  "tip": "İngiliz İngilizcesinde team, tekil ya da çoğul fiille kullanılabilir (team is / team are). Amerikan İngilizcesinde genellikle tekil kullanılır.",
+  "note": ""
+ }
+]

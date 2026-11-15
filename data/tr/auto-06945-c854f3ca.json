@@ -1,0 +1,270 @@
+[
+ {
+  "id": "innocuous",
+  "senses": [
+   "zararsız; masum"
+  ],
+  "ex": [
+   "Sorusu masum görünüyordu, bu yüzden tereddüt etmeden cevapladım.",
+   "Zararsız görünen ev temizlik ürünleri, atık suyla nehirlere büyük miktarda karıştığında su ekosistemlerine zarar verebilir."
+  ],
+  "col": [
+   "zararsız bir söz",
+   "görünüşte zararsız",
+   "zararsız madde"
+  ],
+  "tip": "Hem madde hem de söz için kullanılabilir: zararsız madde, incitici olmayan yorum. Harm ile yakın ama daha resmi bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "sphere",
+  "senses": [
+   "küre; yuvarlak cisim",
+   "alan; çevre; etki alanı"
+  ],
+  "ex": [
+   "Kili pürüzsüz bir küre haline getirdi.",
+   "Dijital teknoloji, eğitimin alanını sınıfların ötesine taşıyarak öğrencilerin neredeyse her yerde öğrenmesine olanak tanıdı."
+  ],
+  "col": [
+   "mükemmel bir küre",
+   "etki alanı",
+   "kamusal alan"
+  ],
+  "tip": "Üç boyutlu küre için sphere, düzlemdeki çember için circle kullanılır. Mecazi anlamda 'alan, çevre' demektir.",
+  "note": ""
+ },
+ {
+  "id": "alight",
+  "senses": [
+   "yanan; ışıl ışıl",
+   "inmek; konmak"
+  ],
+  "ex": [
+   "Biz vardığımızda mumlar hâlâ yanıyordu.",
+   "Yolcular, araçtan inmeden önce otobüs tamamen durana kadar beklemelidir."
+  ],
+  "col": [
+   "bir şeyi tutuşturmak",
+   "trenden inmek",
+   "bir dala konmak"
+  ],
+  "tip": "Sıfat olarak genellikle yüklemde kullanılır. Fiil olarak alight from kalıbıyla 'inmek' anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "trivial",
+  "senses": [
+   "önemsiz; ufak tefek"
+  ],
+  "ex": [
+   "Öğleden sonrayı önemsiz bir ayrıntı yüzünden tartışarak boşa harcadık.",
+   "Kamuoyu tartışmaları bazen gelecek nesilleri etkileyen acil çevre sorunları yerine önemsiz anlaşmazlıklara odaklanıyor."
+  ],
+  "col": [
+   "önemsiz bir konu",
+   "önemsiz bir ayrıntı",
+   "önemsiz bir şikayet"
+  ],
+  "tip": "Önemsiz anlamına gelir, kolay anlamına gelmez. Trivial matters ifadesi 'önemsiz konular' demektir.",
+  "note": ""
+ },
+ {
+  "id": "assurance",
+  "senses": [
+   "güvence; garanti",
+   "özgüven; kendine güven"
+  ],
+  "ex": [
+   "Yemeğin hazır olduğunu bana garanti etti.",
+   "Sakinler, belediyeden yeni projenin halk parklarına erişimi azaltmayacağına dair bir güvence istedi."
+  ],
+  "col": [
+   "güvence vermek",
+   "kalite güvencesi",
+   "emin bir şekilde konuşmak",
+   "hayat sigortası"
+  ],
+  "tip": "Somut bir güvence sözü için sayılabilir, özgüven anlamında genellikle sayılamaz. Life assurance ifadesi çoğunlukla İngiliz kullanımıdır.",
+  "note": ""
+ },
+ {
+  "id": "latent",
+  "senses": [
+   "gizli; potansiyel halde"
+  ],
+  "ex": [
+   "İlk seramik dersi gizli bir sanatsal yetenek ortaya çıkardı.",
+   "Destekleyici öğretim, geleneksel sınavların belirleyemeyebileceği gizli yetenekleri geliştirmeye yardımcı olabilir."
+  ],
+  "col": [
+   "gizli yetenek",
+   "gizli potansiyel",
+   "gizli enfeksiyon",
+   "gizli talep"
+  ],
+  "tip": "Var olan ama henüz görünmeyen ya da etkinleşmemiş şeyler için kullanılır. Latent mevcut ama gizli olanı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "spur",
+  "senses": [
+   "teşvik etmek; hız vermek",
+   "teşvik; itici güç",
+   "mahmuz"
+  ],
+  "ex": [
+   "Arkadaşının cesaret verici sözleri onu yarışı bitirmeye teşvik etti.",
+   "Güvenilir toplu taşımaya yapılan yatırım, işçileri daha geniş iş olanaklarına bağlayarak ekonomik büyümeyi hızlandırabilir."
+  ],
+  "col": [
+   "ekonomik büyümeyi hızlandırmak",
+   "birini harekete geçirmek",
+   "yeniliğe bir teşvik",
+   "ani bir kararla"
+  ],
+  "tip": "Spur sb to do kalıbı sık kullanılır. Geçmiş zamanda r harfi ikilenir: spurred.",
+  "note": ""
+ },
+ {
+  "id": "torment",
+  "senses": [
+   "ıstırap; işkence; eziyet",
+   "eziyet etmek; ıstırap vermek"
+  ],
+  "ex": [
+   "Gece boyunca süren kaşıntı adeta bir işkenceydi.",
+   "İstihdamla ilgili sürekli belirsizlik, işçileri zamanla üzebilir ve ruh sağlıklarını zedeleyebilir."
+  ],
+  "col": [
+   "zihinsel ıstırap",
+   "ıstırap içinde",
+   "vicdan azabıyla kıvranmak"
+  ],
+  "tip": "İsim ilk hecede, fiil ikinci hecede vurgulanır. Sıkça tormented by kalıbında edilgen olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ambiguous",
+  "senses": [
+   "belirsiz; çift anlamlı"
+  ],
+  "ex": [
+   "Muğlak cevabı, gelip gelmeyeceğimizi anlamamızı sağlamadı.",
+   "Halk sağlığı tavsiyelerindeki muğlak ifadeler okuyucuları şaşırtabilir ve resmi yönergelere güvenlerini azaltabilir."
+  ],
+  "col": [
+   "muğlak ifade",
+   "muğlak açıklama",
+   "belirsiz kalmak"
+  ],
+  "tip": "Birden fazla yoruma açık olmayı vurgular. Vague ise ayrıntıların belirsiz olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "quirk",
+  "senses": [
+   "huy; tuhaflık",
+   "tuhaf rastlantı; garip olay"
+  ],
+  "ex": [
+   "Onun tuhaflıklarından biri çorapları renklerine göre ayırmaktır.",
+   "Konut piyasasındaki garip bir durum, bazı kıyı köylerini yakındaki iç kesimlerdeki kasabalardan daha ucuz hale getirdi."
+  ],
+  "col": [
+   "kişilik tuhaflığı",
+   "kaderin garip bir cilvesi",
+   "bireysel tuhaflıklar"
+  ],
+  "tip": "Genellikle zararsız küçük tuhaflıklar için kullanılır; olumsuz anlam taşımak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "abide",
+  "senses": [
+   "uymak; riayet etmek",
+   "dayanmak; katlanmak"
+  ],
+  "ex": [
+   "Havuzu kullanan herkes kurallarına uymak zorundadır.",
+   "Şirketler, üretim maliyetlerini artırsa bile çevre düzenlemelerine uymalıdır."
+  ],
+  "col": [
+   "kurallara uymak",
+   "bir anlaşmaya uymak",
+   "tahammül edememek"
+  ],
+  "tip": "Uymak anlamında abide by, tahammül anlamında genellikle cannot abide kalıbı kullanılır. Abide tek başına nadirdir.",
+  "note": ""
+ },
+ {
+  "id": "telegraph",
+  "senses": [
+   "telgraf sistemi; telgraf makinesi",
+   "telgraf çekmek",
+   "istemeden ele vermek"
+  ],
+  "ex": [
+   "Müze rehberi eski telgrafın nasıl çalıştığını gösterdi.",
+   "Telgraf, bilginin fiziksel postadan çok daha hızlı iletilmesini sağlayarak uluslararası iletişimi dönüştürdü."
+  ],
+  "col": [
+   "telgraf operatörü",
+   "telgraf teli",
+   "niyetlerini ele vermek"
+  ],
+  "tip": "Telegraph iletişim sistemini ya da cihazı anlatır; telegram ise telgraf ile gönderilen mesajı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "quantify",
+  "senses": [
+   "nicelemek; miktarını belirlemek"
+  ],
+  "ex": [
+   "Bu uygulama, ne kadar su içtiğimi ölçmeme yardımcı oluyor.",
+   "Araştırmacılar, halk kütüphanelerine yapılan yatırımın uzun vadeli sosyal faydalarını ölçmekte zorlanıyor."
+  ],
+  "col": [
+   "etkiyi ölçmek",
+   "faydaları ölçmek",
+   "ölçülmesi zor"
+  ],
+  "tip": "Geçişli bir fiildir; nesneyi edat olmadan doğrudan alır: quantify the impact. Araya of gibi bir edat eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "reed",
+  "senses": [
+   "kamış; saz",
+   "ince kamış; kamış dil"
+  ],
+  "ex": [
+   "Göletin kenarındaki bir kamışın üzerinde küçük bir kuş duruyordu.",
+   "Kamış yatakları sulak alan yaban hayvanlarına barınak sağlar ve içinden geçen sudaki kirleticilerin azalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "kamış yatağı",
+   "kamış ötleğeni",
+   "klarnet kamışı"
+  ],
+  "tip": "Yazılışı read (okumak) ile benzer, ana telaffuzu da aynıdır. Çalgılarda ses çıkaran ince kamışa da reed denir.",
+  "note": ""
+ },
+ {
+  "id": "industrious",
+  "senses": [
+   "çalışkan; gayretli"
+  ],
+  "ex": [
+   "Komşum her hafta sonu sebze yetiştirir ve mobilya tamir eder; gerçekten çok çalışkan biridir.",
+   "Çalışkan çalışanlar verimliliğe büyük katkı sağlasa da işverenler yeterli eğitim ve makul çalışma koşulları da sağlamalıdır."
+  ],
+  "col": [
+   "çalışkan bir işçi",
+   "çalışkan bir öğrenci"
+  ],
+  "tip": "Industrial (endüstriyel) ile karıştırılmamalıdır. Industrious sürekli ve özenli çalışmayı anlatan bir sıfattır.",
+  "note": ""
+ }
+]

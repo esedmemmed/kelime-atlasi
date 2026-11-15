@@ -1,0 +1,271 @@
+[
+ {
+  "id": "greenhouse",
+  "senses": [
+   "sera"
+  ],
+  "ex": [
+   "Domatesleri kış boyunca serada yetiştiriyoruz.",
+   "Seracılık yetiştirme sezonunu uzatabilir; ancak bu yapıların ısıtılması önemli miktarda enerji gerektirebilir."
+  ],
+  "col": [
+   "serada bitki yetiştirmek",
+   "sera gazı emisyonları",
+   "sera etkisi"
+  ],
+  "tip": "Tek kelime olarak yazılır. Sıfat gibi kullanıldığında da değişmez: greenhouse gases (sera gazları).",
+  "note": ""
+ },
+ {
+  "id": "efficiency",
+  "senses": [
+   "verimlilik"
+  ],
+  "ex": [
+   "Araçlarımı düzenlemek işimin verimliliğini artırdı.",
+   "Kamu binalarında enerji verimliliğini artırmak, hükümet harcamalarını azaltabilir ve sera gazı emisyonlarını düşürebilir."
+  ],
+  "col": [
+   "enerji verimliliği",
+   "verimliliği artırmak",
+   "operasyonel verimlilik",
+   "yakıt verimliliği"
+  ],
+  "tip": "Efficiency kaynakları boşa harcamamayı vurgular; effectiveness ise istenen sonuca ulaşmayı. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cohesive",
+  "senses": [
+   "bütünleşik; uyumlu"
+  ],
+  "ex": [
+   "Düzenli pratik yapmamız bizi daha uyumlu bir takım haline getirdi.",
+   "Ortak kamusal alanlar, farklı geçmişlerden insanlar arasındaki etkileşimi teşvik ederek uyumlu topluluklar oluşturmaya yardımcı olabilir."
+  ],
+  "col": [
+   "uyumlu takım",
+   "uyumlu toplum",
+   "bütünlüklü argüman"
+  ],
+  "tip": "Cohesive, insanlar ya da grupların birbirine bağlılığını anlatır; coherent ise mantıksal tutarlılığı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "hull",
+  "senses": [
+   "gövde",
+   "kabuk; dış kabuk",
+   "kabuğunu soymak; sapını almak"
+  ],
+  "ex": [
+   "Tekneyi denize indirmeden önce gövdesini mavi boyadık.",
+   "Geliştirilmiş gövde tasarımları, gemilerin suda daha az dirençle ilerlemesini sağlayarak yakıt tüketimini azaltabilir."
+  ],
+  "col": [
+   "geminin gövdesi",
+   "çelik gövde",
+   "pirinç kabuğu",
+   "çilekleri sapından ayırmak"
+  ],
+  "tip": "Gemi bağlamında hull gövdedir; bütün gemi için ship ya da boat kullanılır. Yiyecekle ilgili kullanımda kabuk ya da sap anlamına geldiğine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "prospectus",
+  "senses": [
+   "tanıtım kılavuzu",
+   "izahname; proje tanıtımı"
+  ],
+  "ex": [
+   "Fotoğrafçılık kursları için üniversitenin tanıtım kılavuzuna baktım.",
+   "Bir üniversite tanıtım kılavuzu; öğrenim ücretleri, ders içerikleri ve öğrenci destekleri hakkında doğru bilgi vermelidir."
+  ],
+  "col": [
+   "üniversite tanıtım kılavuzu",
+   "kılavuz istemek",
+   "izahname yayımlamak"
+  ],
+  "tip": "Eğitim bağlamında tanıtım kılavuzu, finans bağlamında ise izahname anlamına gelir. Bağlama göre doğru karşılığı seçin.",
+  "note": ""
+ },
+ {
+  "id": "sonnet",
+  "senses": [
+   "sone"
+  ],
+  "ex": [
+   "Açık pencerenin yanında bir soneyi yüksek sesle okudu.",
+   "Bir soneyi incelemek, öğrencilerin biçimsel kısıtlamaların edebiyatta yaratıcı ifadeyi nasıl teşvik edebileceğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "sone yazmak",
+   "sone dizisi",
+   "sone biçimi"
+  ],
+  "tip": "Sone her zaman on dört dizeden oluşur, ancak kafiye ve ritim düzeni birden fazla olabilir.",
+  "note": ""
+ },
+ {
+  "id": "coeducation",
+  "senses": [
+   "karma eğitim"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam ilk kez köy okullarında karma eğitimle tanıştı.",
+   "Karma eğitimi savunanlar, birlikte öğrenmenin kız ve erkek öğrenciler arasında karşılıklı saygıyı geliştirdiğini düşünüyor."
+  ],
+  "col": [
+   "karma eğitimin faydaları",
+   "karma eğitimi desteklemek",
+   "karma eğitimi getirmek"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a coeducation' ya da 'coeducations' demeyin. Sıfat biçimi coeducational'dır.",
+  "note": ""
+ },
+ {
+  "id": "consul",
+  "senses": [
+   "konsolos"
+  ],
+  "ex": [
+   "Pasaportlarımızı kaybettikten sonra konsolos bize yardımcı oldu.",
+   "Bir konsolos, yurt dışında zorluk yaşayan vatandaşlara destek olabilir ve ülkeler arasındaki ticari bağları güçlendirmeye yardımcı olabilir."
+  ],
+  "col": [
+   "başkonsolos",
+   "fahri konsolos",
+   "konsolos yardımcısı"
+  ],
+  "tip": "Consul konsolosun kendisini, consulate ise konsolosluk binasını ya da ofisini anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "manipulation",
+  "senses": [
+   "manipülasyon; yönlendirme",
+   "ustaca kullanma; ayarlama"
+  ],
+  "ex": [
+   "Duygusal manipülasyonunu fark etti ve kendini suçlu hissetmeyi reddetti.",
+   "Anket sonuçlarının manipüle edilmesi, politika yapıcıları yanıltabilir ve bilimsel araştırmaya duyulan güveni azaltabilir."
+  ],
+  "col": [
+   "duygusal manipülasyon",
+   "veri manipülasyonu",
+   "piyasa manipülasyonu"
+  ],
+  "tip": "İnsanlar için kullanıldığında genellikle olumsuz bir anlam taşır; bir alet ya da nesneyi ayarlamak için kullanıldığında ise nötrdür.",
+  "note": ""
+ },
+ {
+  "id": "concurrent",
+  "senses": [
+   "eşzamanlı"
+  ],
+  "ex": [
+   "Aynı anda iki toplantı olduğu için birini seçmek zorunda kaldım.",
+   "Konut ve toplu taşımadaki eşzamanlı iyileştirmeler, kentsel gelişimi daha kapsayıcı ve sürdürülebilir hale getirebilir."
+  ],
+  "col": [
+   "eşzamanlı olaylar",
+   "paralel oturumlar",
+   "...ile eşzamanlı"
+  ],
+  "tip": "Zamanın üst üste binmesini vurgular. 'Concurrent with' kalıbı 'ile aynı anda' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "flatter",
+  "senses": [
+   "yaltaklanmak; yağ çekmek",
+   "memnun etmek; onurlandırmak",
+   "daha çekici göstermek"
+  ],
+  "ex": [
+   "Bu ışıkta mavi ceket sana gerçekten çok yakışıyor.",
+   "Reklamlar, belirli bir ürünü seçmenin zekâ ya da iyi zevk göstergesi olduğunu ima ederek tüketicileri sık sık gururlandırır."
+  ],
+  "col": [
+   "egosunu okşamak",
+   "onur duymak",
+   "kendini fazla övmek"
+  ],
+  "tip": "'Be flattered' genellikle 'hoşuna gitmek, onur duymak' anlamına gelir ve olumsuz değildir; yaltaklanma anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "meddle",
+  "senses": [
+   "karışmak; burnunu sokmak"
+  ],
+  "ex": [
+   "Odamı nasıl düzenlediğime lütfen karışma.",
+   "Çocuklarının her kararına sürekli karışan ebeveynler, onların özgüven ve bağımsızlık geliştirmesini engelleyebilir."
+  ],
+  "col": [
+   "birinin işlerine karışmak",
+   "bir şeyi kurcalamak"
+  ],
+  "tip": "'Meddle in' işlere karışmak, 'meddle with' ise bir nesneyi izinsiz kurcalamak anlamına gelir. Edatları karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "contemplation",
+  "senses": [
+   "derin düşünce; tefekkür",
+   "düşünüp taşınma; niyet"
+  ],
+  "ex": [
+   "Göl kenarında sessiz bir tefekkür içinde oturuyordu.",
+   "Kamusal bahçeler, kentliler için günlük hayatın baskısından uzak sessiz düşünme fırsatları sunar."
+  ],
+  "col": [
+   "sessiz tefekkür",
+   "derin düşünce",
+   "düşünceye dalmış"
+  ],
+  "tip": "Genellikle sayılamaz. Sakin ve derin düşünmeyi anlatır; sıkıntılı kaygıyı değil.",
+  "note": ""
+ },
+ {
+  "id": "threshold",
+  "senses": [
+   "eşik; sınır değer",
+   "kapı eşiği",
+   "eşik; başlangıç"
+  ],
+  "ex": [
+   "Kardeşimin ağrı eşiği benimkinden çok daha yüksek.",
+   "Mali yardım için gelir sınırını yükseltmek, daha fazla düşük ücretli çalışanın destek almasını sağlayabilir."
+  ],
+  "col": [
+   "ağrı eşiği",
+   "gelir sınırı",
+   "eşikten geçmek",
+   "...eşiğinde"
+  ],
+  "tip": "'On the threshold of' bir şeyin hemen başlamak üzere olduğunu, yeni bir döneme girmek üzere olunduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "constitute",
+  "senses": [
+   "oluşturmak; teşkil etmek",
+   "sayılmak; teşkil etmek",
+   "kurmak; oluşturmak"
+  ],
+  "ex": [
+   "Sebzeler buzdolabımızdaki yiyeceklerin çoğunu oluşturuyor.",
+   "Son yıllardaki konut maliyet artışları, büyük şehirlerdeki genç yetişkinler için mali bağımsızlığın önünde büyük bir engel teşkil ediyor."
+  ],
+  "col": [
+   "çoğunluğu oluşturmak",
+   "tehdit teşkil etmek",
+   "ihlal teşkil etmek",
+   "komite kurmak"
+  ],
+  "tip": "Parça-bütün ilişkisinde parçalar özne, bütün nesne olur: 'Sebzeler yemeklerin çoğunu oluşturur.' Bu yapıyı pasif kurmaya gerek yoktur.",
+  "note": ""
+ }
+]

@@ -1,0 +1,284 @@
+[
+ {
+  "id": "distress",
+  "senses": [
+   "sıkıntı; keder",
+   "tehlike; sıkıntılı durum",
+   "üzmek; sıkıntıya sokmak"
+  ],
+  "ex": [
+   "Komşusu onun sıkıntısını fark etti ve yardım etmeyi teklif etti.",
+   "Ani işsizlik, özellikle tasarrufları az ve konut giderleri yüksek hanelerde ciddi bir sıkıntıya yol açabilir."
+  ],
+  "col": [
+   "duygusal sıkıntı",
+   "sıkıntı içinde",
+   "sıkıntıya yol açmak",
+   "imdat sinyali"
+  ],
+  "tip": "distress genelde duygusal acıyı veya tehlikeli durumu anlatır; hafif üzüntü için tercih edilmez. 'cause distress' kalıbı çok yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "riot",
+  "senses": [
+   "ayaklanma; kargaşa",
+   "isyan çıkarmak; ayaklanmak"
+  ],
+  "ex": [
+   "Yakınlarda bir isyan çıktığı için dükkân erken kapandı.",
+   "Topluluklar ile yerel yönetimler arasında etkili iletişim, barışçıl gösterilerin şiddet olaylarına dönüşmesini önlemeye yardımcı olabilir."
+  ],
+  "col": [
+   "isyan patlak verir",
+   "çevik kuvvet",
+   "isyanı tetiklemek"
+  ],
+  "tip": "riot şiddet içeren kitlesel kargaşayı anlatır; barışçıl gösteri için protest veya demonstration kullanılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "propose",
+  "senses": [
+   "önermek; öne sürmek",
+   "evlilik teklif etmek",
+   "niyetlenmek; planlamak"
+  ],
+  "ex": [
+   "Paradan tasarruf etmek için bir taksiyi birlikte kullanmayı önerdim.",
+   "Araştırmacılar, hava kalitesini iyileştirmek ve sakinleri daha düzenli egzersiz yapmaya teşvik etmek için kentsel yeşil alanların genişletilmesini öneriyor."
+  ],
+  "col": [
+   "bir çözüm önermek",
+   "bir şey yapmayı önermek",
+   "birine evlilik teklif etmek",
+   "önerge sunmak"
+  ],
+  "tip": "propose doing something 'önermek' anlamına gelir; propose to do something ise 'niyetlenmek' anlamına gelir. İki kalıbı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "spit",
+  "senses": [
+   "tükürmek; dışarı atmak",
+   "tükürük"
+  ],
+  "ex": [
+   "Acı tohumu bir mendile tükürdü.",
+   "Halk sağlığı kampanyaları, bu davranışın hastalık bulaşmasına katkı sağlayabileceği için insanları ortak alanlarda tükürmekten vazgeçirmeye çalışır."
+  ],
+  "col": [
+   "tükürüp çıkarmak",
+   "mendile tükürmek",
+   "lafını söyle"
+  ],
+  "tip": "Geçmiş zamanı İngiliz İngilizcesinde 'spat', Amerikan İngilizcesinde genellikle 'spit' olabilir. 'spit it out' günlük dilde 'söyle artık' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "scale",
+  "senses": [
+   "boyut; ölçek",
+   "ölçek; derece",
+   "pul"
+  ],
+  "ex": [
+   "Sebze bahçenizin bu kadar büyük olduğunu fark etmemiştim.",
+   "Plastik kirliliğinin boyutu, dünya genelinde hükümetlerden, üreticilerden ve tüketicilerden koordineli bir eylem gerektiriyor."
+  ],
+  "col": [
+   "büyük ölçekte",
+   "sorunun boyutu",
+   "ölçekli maket",
+   "balık pulları"
+  ],
+  "tip": "'on a large scale' kalıbı 'büyük ölçekte' demektir. Tartı anlamında genellikle çoğul 'scales' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "plough",
+  "senses": [
+   "pulluk",
+   "sürmek; toprak sürmek"
+  ],
+  "ex": [
+   "Çiftçi, kulübenin içinden eski bir pulluk çıkardı.",
+   "Dik yamaçları çok sık süren çiftçiler, toprak erozyonunu artırabilir ve uzun vadeli tarımsal verimliliği azaltabilir."
+  ],
+  "col": [
+   "tarlayı sürmek",
+   "atla çekilen pulluk",
+   "zorlukla ilerlemek"
+  ],
+  "tip": "Amerikan İngilizcesinde 'plow' yazılır; iki yazım da aynı şekilde okunur. 'plough through' mecazi olarak 'zorlukla ilerlemek' demektir.",
+  "note": ""
+ },
+ {
+  "id": "snap",
+  "senses": [
+   "çıtırdayarak kırılmak",
+   "sert çıkışmak",
+   "çabucak fotoğraf çekmek"
+  ],
+  "ex": [
+   "Ayağımı bastığımda kuru dal çıtırdayarak kırıldı.",
+   "Sürekli iş yeri baskısı altında çalışanlar meslektaşlarına sert çıkışabilir; bu da iş birliğine zarar verir ve ekibin genel verimliliğini düşürür."
+  ],
+  "col": [
+   "ikiye kırılmak",
+   "birine sert çıkışmak",
+   "hızlıca fotoğraf çekmek"
+  ],
+  "tip": "'snap at someone' birine sert ve kısa biçimde karşılık vermek demektir; kelimenin tam karşılığını her cümlede aramayın.",
+  "note": ""
+ },
+ {
+  "id": "clumsy",
+  "senses": [
+   "sakar; beceriksiz",
+   "beceriksiz; hoyrat"
+  ],
+  "ex": [
+   "Sakar köpeğim raftan bir saksıyı devirdi.",
+   "Yeni düzenlemeleri açıklamaya yönelik beceriksiz bir girişim, yerel yönetime olan halk güvenini azaltabilir."
+  ],
+  "col": [
+   "sakar hareketler",
+   "beceriksiz bir girişim",
+   "beceriksiz bir özür"
+  ],
+  "tip": "Esas olarak hareket ya da bir işin yapılış biçimi için kullanılır; kişinin zekâsını anlatmak için değil.",
+  "note": ""
+ },
+ {
+  "id": "loosen",
+  "senses": [
+   "gevşetmek; çözmek",
+   "hafifletmek; yumuşatmak"
+  ],
+  "ex": [
+   "Odanın ısınmasıyla birlikte atkısını gevşetti.",
+   "Hükümetler, iş büyümesini teşvik etmek ve daha fazla istihdam fırsatı yaratmak için yabancı yatırımlara ilişkin kısıtlamaları hafifletebilir."
+  ],
+  "col": [
+   "düğümü gevşetmek",
+   "tutuşunu gevşetmek",
+   "kısıtlamaları hafifletmek"
+  ],
+  "tip": "loosen fiildir; loose sıfattır. 'lose' (kaybetmek) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "hardware",
+  "senses": [
+   "donanım",
+   "yapı malzemeleri; el aletleri"
+  ],
+  "ex": [
+   "Tekniker bilgisayarımın içindeki eski donanım parçalarını değiştirdi.",
+   "Okulların, dijital öğrenmeyi tüm öğrenciler için erişilebilir kılmak amacıyla güvenilir donanıma ve düzenli teknik desteğe ihtiyacı var."
+  ],
+  "col": [
+   "bilgisayar donanımı",
+   "hırdavat dükkânı",
+   "donanım yükseltmesi",
+   "donanım arızası"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a hardware' demeyin. Yazılım karşılığı 'software' kelimesidir.",
+  "note": ""
+ },
+ {
+  "id": "prohibited",
+  "senses": [
+   "yasaklanmış; yasak"
+  ],
+  "ex": [
+   "Bu vahşi yaşam parkında hayvanları beslemek yasaktır.",
+   "Hava kalitesini iyileştirmek ve yayaları korumak amacıyla bazı kentsel alanlarda özel araçların kullanımı yasaklanmıştır."
+  ],
+  "col": [
+   "kesinlikle yasak",
+   "yasa gereği yasaklanmış",
+   "yasaklı eşyalar"
+  ],
+  "tip": "prohibit fiilinin sıfat biçimidir. 'prohibit someone from doing' kalıbı da kullanılır; 'prohibit doing' yerine bunu tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "scrape",
+  "senses": [
+   "kazımak; kazıyarak almak",
+   "sıyırmak; çizmek",
+   "sıyrık; çizik"
+  ],
+  "ex": [
+   "Arabanın camındaki buzu kazıdım.",
+   "Restorasyon işçileri, tarihi binaların orijinal yüzeylerini ortaya çıkarmak için hasarlı boyayı dikkatle kazır."
+  ],
+  "col": [
+   "boyayı kazımak",
+   "dizini sıyırmak",
+   "zorlukla geçmek",
+   "zar zor para toplamak"
+  ],
+  "tip": "'scrape off' kazıyarak ayırmak, 'scrape through' zorlukla geçmek anlamına gelir; bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "anger",
+  "senses": [
+   "öfke; kızgınlık",
+   "öfkelendirmek"
+  ],
+  "ex": [
+   "Öfkesini kontrol altında tutmak için derin bir nefes aldı.",
+   "Artan ulaşım ücretlerine yönelik halkın öfkesi, yerel yönetimlerin fiyatlandırma politikalarını yeniden gözden geçirmesine yol açabilir."
+  ],
+  "col": [
+   "öfkesini kontrol etmek",
+   "öfkesini dile getirmek",
+   "kamuoyunun öfkesi",
+   "öfke yönetimi"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz. Sıfatı 'angry' (kızgın, öfkeli) kelimesidir.",
+  "note": ""
+ },
+ {
+  "id": "relief",
+  "senses": [
+   "rahatlama; ferahlama",
+   "ağrı hafifleme; rahatlama",
+   "yardım malzemesi"
+  ],
+  "ex": [
+   "Kayıp kedim geri döndüğünde içimi rahatlatan bir oh çektim.",
+   "Acil yardım malzemelerinin hızlı şekilde ulaştırılması, şiddetli sellerden etkilenen topluluklarda daha fazla acı çekilmesini önleyebilir."
+  ],
+  "col": [
+   "rahatlama nefesi",
+   "ağrı giderme",
+   "afet yardımı",
+   "birinin rahatlamasına"
+  ],
+  "tip": "relief isimdir, relieve ise fiildir. Bu iki kelimeyi karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "gradual",
+  "senses": [
+   "kademeli; yavaş yavaş olan",
+   "yumuşak eğimli"
+  ],
+  "ex": [
+   "Uykusunda yavaş yavaş bir iyileşme oldu.",
+   "Yenilenebilir enerjiye kademeli geçiş, topluluklara ani iş kayıpları yaşamadan uyum sağlama imkânı verebilir."
+  ],
+  "col": [
+   "kademeli iyileşme",
+   "kademeli değişim",
+   "yumuşak eğim"
+  ],
+  "tip": "Değişimin yavaş ve aşamalı olduğunu vurgular. Zarf biçimi 'gradually' (yavaş yavaş) şeklindedir.",
+  "note": ""
+ }
+]

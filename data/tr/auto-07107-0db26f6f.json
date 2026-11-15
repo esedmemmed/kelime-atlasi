@@ -1,0 +1,257 @@
+[
+ {
+  "id": "scrupulous",
+  "senses": [
+   "titiz; özenli",
+   "dürüst; vicdanlı"
+  ],
+  "ex": [
+   "Servis yapmadan önce her fincanı titizlikle yıkadı.",
+   "Halk sağlığı çalışmalarında güvenilir kanıt elde etmek için araştırma yöntemlerine titizlikle dikkat etmek şarttır."
+  ],
+  "col": [
+   "büyük titizlikle dikkat",
+   "titiz özen",
+   "titiz dürüstlük"
+  ],
+  "tip": "Hem işin ayrıntısına özenle dikkat etmeyi hem de ahlaki açıdan dürüst davranmayı anlatabilir; bağlama göre anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "bough",
+  "senses": [
+   "kalın dal; ana dal"
+  ],
+  "ex": [
+   "Ağır bir dal, göletin yanındaki banka gölge yapıyordu.",
+   "Olgun ağaçların geniş dalları, kentsel parklarda yaban hayvanlarına barınak, insanlara ise gölge sağlar."
+  ],
+  "col": [
+   "alçak bir dal",
+   "yayılan bir dal"
+  ],
+  "tip": "Genellikle kalın, büyük dalları anlatır; ince dal için twig kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sulphide",
+  "senses": [
+   "sülfür; kükürt bileşiği"
+  ],
+  "ex": [
+   "Öğretmenimiz bize demir sülfür örneği gösterdi.",
+   "Havaya ve suya maruz kaldığında bazı sülfürlü mineraller, yakın ekosistemlere zarar veren asidik sular oluşturabilir."
+  ],
+  "col": [
+   "demir sülfür",
+   "hidrojen sülfür",
+   "sülfürlü mineraller"
+  ],
+  "tip": "Amerikan ve uluslararası kimya yazımında sulfide biçimi de kullanılır. Sülfat (sulfate) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "strew",
+  "senses": [
+   "serpmek; saçmak; yaymak"
+  ],
+  "ex": [
+   "Çocuklar bahçe yolunun kenarına çiçek yaprakları serpti.",
+   "Plajlara çöp saçan ziyaretçiler deniz canlılarını tehdit eder ve kıyı bakım maliyetini artırır."
+  ],
+  "col": [
+   "çiçek serpmek",
+   "çöplerle kaplı olmak",
+   "yola dağılmış enkaz"
+  ],
+  "tip": "Düzensiz biçimde dağıtmayı anlatır. Geçmiş zaman strewed, ortaç strewn olur; edilgen yapı (be strewn with) sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pacific",
+  "senses": [
+   "barışçıl; barışsever"
+  ],
+  "ex": [
+   "Barışçıl tavrı akşam yemeğindeki tartışmanın yatışmasına yardımcı oldu.",
+   "Uluslararası anlaşmazlıklara barışçıl yaklaşım, tehdit ya da askeri eylem yerine müzakere ve işbirliğini önceliklendirir."
+  ],
+  "col": [
+   "barışçıl yaklaşım",
+   "barışçıl çözüm",
+   "barışçıl niyetler"
+  ],
+  "tip": "Küçük harfle pacific sıfattır (barışçıl). Büyük harfle the Pacific ise Pasifik Okyanusu anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "undulate",
+  "senses": [
+   "dalgalanmak; dalgalı olmak"
+  ],
+  "ex": [
+   "Uzun deniz yosunu şeritleri suyun altında hafifçe dalgalanıyor.",
+   "Otlaklar uzaktaki dağlara doğru dalgalanarak çok çeşitli türler için farklı yaşam alanları sunar."
+  ],
+  "col": [
+   "hafifçe dalgalanmak",
+   "dalgalı tepeler",
+   "dalgalı arazi"
+  ],
+  "tip": "Arazi için sıfat biçimi undulating kullanılır: undulating hills (dalgalı tepeler).",
+  "note": ""
+ },
+ {
+  "id": "delectable",
+  "senses": [
+   "lezzetli; nefis"
+  ],
+  "ex": [
+   "Fırın, taze meyveyle doldurulmuş nefis hamur işleri satıyor.",
+   "Yerel pazarlar, yöresel nefis yemeklerle ziyaretçileri çeker; bu da küçük yiyecek işletmelerine turizmden fayda sağlar."
+  ],
+  "col": [
+   "lezzetli yemekler",
+   "nefis bir tatlı",
+   "lezzetli ikramlar"
+  ],
+  "tip": "Delicious'tan daha resmî ve betimleyici bir sözcüktür; genellikle yiyecekler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "repute",
+  "senses": [
+   "ün; şöhret",
+   "olduğu söylenmek; sanılmak"
+  ],
+  "ex": [
+   "Atölye, büyük bir ünü olan bir keman yapımcısını işe aldı.",
+   "Uluslararası ünlü araştırma kurumları, genellikle yetenekli öğrencileri ve yurt dışından önemli yatırımları kendine çeker."
+  ],
+  "col": [
+   "uluslararası üne sahip",
+   "iyi bir üne sahip",
+   "olduğu söylenmek"
+  ],
+  "tip": "Fiil çoğunlukla edilgen kullanılır: be reputed to be (olduğu söylenir) kalıbı çok görülür.",
+  "note": ""
+ },
+ {
+  "id": "modish",
+  "senses": [
+   "modaya uygun; şık"
+  ],
+  "ex": [
+   "Modaya uygun bir ceket ve parlatılmış botlarla geldi.",
+   "Moda tarzdaki iç mekânlar başta müşteri çekebilir, ama kalıcı başarı güvenilir hizmet ve kaliteye bağlıdır."
+  ],
+  "col": [
+   "moda kıyafetler",
+   "moda tasarım",
+   "moda iç mekânlar"
+  ],
+  "tip": "Biraz resmî bir sözcüktür; bazen 'moda peşinde koşma' anlamını da taşıyabilir.",
+  "note": ""
+ },
+ {
+  "id": "bespectacled",
+  "senses": [
+   "gözlüklü"
+  ],
+  "ex": [
+   "Gözlüklü bir kütüphaneci kayıp kitabı bulmama yardım etti.",
+   "Filmler bilim insanlarını sıklıkla laboratuvarda gözlüklü figürler olarak gösterir; bu da bilim kariyerine dar bir bakış açısını pekiştirir."
+  ],
+  "col": [
+   "gözlüklü bir adam",
+   "gözlüklü bir profesör"
+  ],
+  "tip": "Daha çok yazılı ve betimleyici bir dildir; günlük konuşmada wearing glasses tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "tyrannical",
+  "senses": [
+   "zalim; baskıcı"
+  ],
+  "ex": [
+   "Kulüp üyeleri sonunda zalim liderlerine karşı çıktı.",
+   "Bağımsız mahkemeler, hükümet gücünü sınırlayıp temel hakları koruyarak zalimce yönetimi önlemeye yardımcı olabilir."
+  ],
+  "col": [
+   "zalim bir hükümdar",
+   "zalimce yönetim",
+   "zorba bir patron"
+  ],
+  "tip": "Yalnızca siyasi zulüm için değil, patron gibi kişilerin baskıcı ve zorba davranışları için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "herein",
+  "senses": [
+   "bu belgede; burada"
+  ],
+  "ex": [
+   "Burada yer alan kira kuralları tüm kiracılar için geçerlidir.",
+   "Burada sunulan kanıtlar, uygun fiyatlı toplu taşımanın istihdama erişimi artırabileceğini gösteriyor."
+  ],
+  "col": [
+   "bu belgede yer alan",
+   "bu belgede anlatılan",
+   "sorun burada yatıyor"
+  ],
+  "tip": "Resmî ve hukuki dilde kullanılır; 'bu belgede, bu metinde' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "disgustful",
+  "senses": [
+   "iğrenç; tiksindirici"
+  ],
+  "ex": [
+   "Unutulmuş yiyecekten iğrenç bir koku yükseldi.",
+   "İhmal edilmiş kamu tuvaletlerinin iğrenç durumu, sakinleri aksi halde çekici olan parkları kullanmaktan vazgeçirebilir."
+  ],
+  "col": [
+   "iğrenç koku",
+   "iğrenç manzara"
+  ],
+  "tip": "Nadir ve eski bir sözcüktür; günlük İngilizcede genellikle disgusting kullanılır.",
+  "note": "Gerçek ama nadir, eski bir sözcük; genellikle disgusting kullanılır"
+ },
+ {
+  "id": "mackintosh",
+  "senses": [
+   "yağmurluk"
+  ],
+  "ex": [
+   "Yağmura çıkmadan önce yağmurluğunu giydi.",
+   "Dayanıklı bir yağmurluk, insanları yağışlı havalarda araba yerine yürümeye teşvik edebilir."
+  ],
+  "col": [
+   "yağmurluk giymek",
+   "su geçirmez yağmurluk"
+  ],
+  "tip": "Daha çok İngiliz İngilizcesinde kullanılan, biraz eskimiş bir sözcüktür; Macintosh bilgisayarla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "goad",
+  "senses": [
+   "kışkırtmak; dürtmek",
+   "sivri uçlu hayvan çubuğu",
+   "dürtü; itici güç"
+  ],
+  "ex": [
+   "Dalga geçmeleri beni yarışa katılmaya kışkırttı.",
+   "Rekabetçi okul ortamları, öğrencileri gerçek anlayış pahasına yüksek notlar peşinde koşmaya itebilir."
+  ],
+  "col": [
+   "birini bir şey yapmaya itmek",
+   "birini kışkırtmak",
+   "harekete geçiren güç"
+  ],
+  "tip": "Genellikle goad sb into doing kalıbıyla kullanılır ve çoğunlukla olumsuz bir kışkırtmayı anlatır.",
+  "note": ""
+ }
+]

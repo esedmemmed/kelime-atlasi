@@ -1,0 +1,274 @@
+[
+ {
+  "id": "locate",
+  "senses": [
+   "bulmak; yerini belirlemek",
+   "kurmak; yerleştirmek"
+  ],
+  "ex": [
+   "Sonunda kanepenin arkasındaki kayıp anahtarları bulduk.",
+   "Yerel yönetimler, yaşlı sakinlerin erişimini iyileştirmek için yeni sağlık merkezlerini toplu taşıma hatlarının yakınına yerleştirmelidir."
+  ],
+  "col": [
+   "arızayı bulmak",
+   "kaynağı tespit etmek",
+   "…da bulunmak",
+   "merkezi bir yerde olmak"
+  ],
+  "tip": "“…da bulunmak” anlamında genellikle be located in/near kalıbı kullanılır; locate tek başına bu anlamda pek kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "carbohydrate",
+  "senses": [
+   "karbonhidrat"
+  ],
+  "ex": [
+   "Pirinç, günlük etkinlikleriniz için enerji sağlayan karbonhidrat içerir.",
+   "Karbonhidratlar önemli bir enerji kaynağı olsa da halk sağlığı kılavuzları tam tahıllı gıdaları katkı şekeri içeren ürünlerden ayırt etmelidir."
+  ],
+  "col": [
+   "kompleks karbonhidratlar",
+   "karbonhidrat alımı",
+   "düşük karbonhidratlı diyet"
+  ],
+  "tip": "Madde adı olarak genellikle sayılamaz; çeşitleri ya da genel sınıfları anlatılırken çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "skilled",
+  "senses": [
+   "yetenekli; becerikli",
+   "uzmanlık gerektiren"
+  ],
+  "ex": [
+   "Usta bir tamirci bisikletimi birkaç dakikada tamir etti.",
+   "Mesleki eğitime yapılan yatırımlar, ülkelerin nitelikli bir işgücü geliştirmesine ve işsizliği azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "nitelikli işçi",
+   "çok becerikli",
+   "…da becerikli",
+   "nitelikli işgücü"
+  ],
+  "tip": "skilled at/in kalıbından sonra isim ya da -ing almış fiil gelir: skilled at repairing machines.",
+  "note": ""
+ },
+ {
+  "id": "yarn",
+  "senses": [
+   "iplik",
+   "uydurma hikâye; masal"
+  ],
+  "ex": [
+   "Bebeğin battaniyesi için yumuşak mavi bir iplik seçti.",
+   "Geri dönüştürülmüş malzemelerden üretilen iplik kullanmak, tekstil sektöründeki atığı azaltabilir."
+  ],
+  "col": [
+   "bir top iplik",
+   "yünlü iplik",
+   "uydurma bir hikâye anlatmak"
+  ],
+  "tip": "“İplik” anlamında genellikle sayılamaz; “hikâye” anlamında sayılabilir: a yarn, two yarns.",
+  "note": ""
+ },
+ {
+  "id": "scarce",
+  "senses": [
+   "kıt; yetersiz"
+  ],
+  "ex": [
+   "Kar yolları kapatınca taze sebze kıtlaştı.",
+   "Temiz su giderek kıtlaşırken hükümetler verimli sulama ve daha iyi su yönetimi sistemlerine yatırım yapmak zorundadır."
+  ],
+  "col": [
+   "kıt kaynaklar",
+   "kıtlaşmak",
+   "giderek kıtlaşan"
+  ],
+  "tip": "scarce ihtiyacı karşılayacak kadar olmadığını vurgular; rare ise yalnızca azlığı, nadirliği anlatır.",
+  "note": ""
+ },
+ {
+  "id": "applaud",
+  "senses": [
+   "alkışlamak",
+   "övmek; takdir etmek"
+  ],
+  "ex": [
+   "Genç dansçı gösterisini bitirdiğinde herkes alkışladı.",
+   "Çevre grupları, meclisin kentsel sulak alanları daha fazla ticari gelişmeden koruma kararını memnuniyetle karşıladı."
+  ],
+  "col": [
+   "bir gösteriyi alkışlamak",
+   "bir kararı takdir etmek",
+   "birinin çabalarını takdir etmek"
+  ],
+  "tip": "applaud doğrudan nesne alır (applaud the decision). applause ise sayılamaz bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "hectic",
+  "senses": [
+   "yoğun; telaşlı"
+  ],
+  "ex": [
+   "Yoğun bir sabahın ardından nihayet öğle yemeği için oturdum.",
+   "Yoğun kentsel yaşam tarzı, sakinlerin egzersiz, dinlenme ya da anlamlı sosyal etkileşim için çok az zaman bulmasına yol açabilir."
+  ],
+  "col": [
+   "yoğun bir program",
+   "yoğun bir yaşam tarzı",
+   "yoğun bir gün"
+  ],
+  "tip": "Modern kullanımda “yoğun, telaşlı” anlamındadır; “heyecanlı” ya da “ateşli” anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "mist",
+  "senses": [
+   "sis; buğu",
+   "buğulanmak; bulanıklaşmak"
+  ],
+  "ex": [
+   "Bu sabah gölün üzerinde ince bir sis asılıydı.",
+   "Erken saatlerde kırsal yollarda sis görüşü azalttığında sürücüler hızlarını düşürmelidir."
+  ],
+  "col": [
+   "yoğun sis",
+   "sabah sisi",
+   "üzerini buğu kaplamak"
+  ],
+  "tip": "mist genellikle fog'dan daha hafif ve seyrek sisi anlatır. Camın buğulanması için mist over/up kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "longitude",
+  "senses": [
+   "boylam"
+  ],
+  "ex": [
+   "Rehberimiz tekneyi doğuya doğru yönlendirmeden önce boylamımızı kontrol etti.",
+   "Enlem ve boylamın doğru ölçümleri, navigasyon sistemlerinin bir aracın Dünya üzerindeki konumunu belirlemesine olanak tanır."
+  ],
+  "col": [
+   "enlem ve boylam",
+   "boylam dereceleri",
+   "doğu boylamı",
+   "batı boylamı"
+  ],
+  "tip": "Boylam doğu-batı yönündeki konumu verir; kuzey-güney konumu için latitude (enlem) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "objective",
+  "senses": [
+   "amaç; hedef",
+   "nesnel; tarafsız"
+  ],
+  "ex": [
+   "Temel amacım yarışı bitirmek.",
+   "Araştırmacılar, ödevin öğrenci başarısı üzerindeki etkileri hakkındaki kanıtları değerlendirirken tarafsız kalmalıdır."
+  ],
+  "col": [
+   "bir amaca ulaşmak",
+   "birincil amaç",
+   "nesnel değerlendirme",
+   "tarafsız kalmak"
+  ],
+  "tip": "İsim olarak “amaç”, sıfat olarak “nesnel” anlamına gelir. Zıt anlamlısı subjective (öznel)dir.",
+  "note": ""
+ },
+ {
+  "id": "shrug",
+  "senses": [
+   "omuz silkmek",
+   "omuz silkme"
+  ],
+  "ex": [
+   "Anahtarların nerede olduğunu sorduğumda omuz silkti.",
+   "Hükümetler, doğrudan sağlığı etkileyen hava kirliliğine ilişkin kamu kaygılarını hafife almamalıdır."
+  ],
+  "col": [
+   "omuzlarını silkmek",
+   "omuz silkmek",
+   "eleştiriyi önemsememek"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç shrugged'dır. shrug off ise “aldırmamak, önemsememek” anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "slap",
+  "senses": [
+   "tokat atmak; vurmak",
+   "tokat; şaplak"
+  ],
+  "ex": [
+   "Şakaya gülerek dizine vurdu.",
+   "Antrenör, kutlama amacıyla oyuncunun sırtına hafifçe vurdu ve bu, takım içindeki destekleyici atmosferi gösterdi."
+  ],
+  "col": [
+   "birinin sırtına vurmak",
+   "hafif ceza",
+   "sert bir şekilde reddetmek"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç slapped olur; son ünsüz p iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "showroom",
+  "senses": [
+   "teşhir salonu; sergi salonu"
+  ],
+  "ex": [
+   "Mobilya teşhir salonunda birkaç rahat kanepe denedik.",
+   "Fiziksel bir teşhir salonu, müşterilerin çevrimiçi platformlardan satın almadan önce ürün kalitesini değerlendirmesine olanak tanır."
+  ],
+  "col": [
+   "mobilya teşhir salonu",
+   "araba bayisi",
+   "vitrin sergisi"
+  ],
+  "tip": "Sayılabilir bir isimdir. showrooming ise müşterinin ürünü mağazada inceleyip internetten satın alması anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "landslide",
+  "senses": [
+   "heyelan",
+   "ezici zafer"
+  ],
+  "ex": [
+   "Dünkü yağmurdan sonra bir heyelan yolu kapattı.",
+   "Dik yamaçlardaki ağaçların kesilmesi, şiddetli yağış dönemlerinde heyelan riskini artırabilir."
+  ],
+  "col": [
+   "heyelan tetiklemek",
+   "heyelan riski",
+   "ezici zafer",
+   "ezici bir farkla kazanmak"
+  ],
+  "tip": "Siyasette seçimde çok büyük farkla kazanılan zaferi de anlatır: win by a landslide = ezici bir farkla kazanmak.",
+  "note": ""
+ },
+ {
+  "id": "firm",
+  "senses": [
+   "firma; şirket",
+   "sağlam; dayanıklı",
+   "kararlı; katı"
+  ],
+  "ex": [
+   "Kız kardeşim küçük bir mühendislik firmasında çalışıyor.",
+   "Her firma, çalışanlarının teknolojik değişime uyum sağlamasına yardımcı olmak için düzenli eğitim vermelidir."
+  ],
+  "col": [
+   "bir hukuk bürosu",
+   "sağlam bir inanç",
+   "sağlam zemin",
+   "kararlı bir tutum almak"
+  ],
+  "tip": "İsim olarak “firma, şirket”; sıfat olarak “sağlam” ya da “kararlı” anlamına gelir. Anlam bağlama göre seçilmelidir.",
+  "note": ""
+ }
+]

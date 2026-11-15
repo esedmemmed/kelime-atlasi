@@ -1,0 +1,277 @@
+[
+ {
+  "id": "fight",
+  "senses": [
+   "dövüşmek; kavga etmek",
+   "mücadele etmek; çabalamak",
+   "kavga; dövüş"
+  ],
+  "ex": [
+   "İki kedi güneşli pencere kenarındaki koltuk yüzünden kavga etti.",
+   "Hükümetler, eğitime, sağlık hizmetlerine ve istikrarlı istihdama erişimi iyileştirerek yoksullukla mücadele etmelidir."
+  ],
+  "col": [
+   "yoksulluğla mücadele etmek",
+   "eşitlik için mücadele etmek",
+   "ayrımcılığa karşı mücadele etmek",
+   "kavgaya tutuşmak"
+  ],
+  "tip": "Düzensiz fiil: fight–fought–fought. 'fight for' (bir şey için mücadele) ile 'fight against' (bir şeye karşı mücadele) kalıplarını ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "extremely",
+  "senses": [
+   "son derece; aşırı"
+  ],
+  "ex": [
+   "Çorba son derece sıcaktı, bu yüzden beklemek zorunda kaldım.",
+   "Güvenilir internete erişim, çevrim içi öğrenmeye bağlı öğrenciler için son derece önemlidir."
+  ],
+  "col": [
+   "son derece önemli",
+   "son derece zor",
+   "son derece yararlı"
+  ],
+  "tip": "Derecelenebilen sıfat ve zarflarla kullanılır. 'Extremely', 'very'den daha güçlü bir vurgu taşır.",
+  "note": ""
+ },
+ {
+  "id": "skateboarding",
+  "senses": [
+   "kaykay sporu"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra parkta kaykay yapmaya gittik.",
+   "Özel kaykay tesisleri, genç insanlara güvenli alanlarda egzersiz yapma ve denge ile koordinasyonlarını geliştirme imkânı sunar."
+  ],
+  "col": [
+   "kaykay yapmaya gitmek",
+   "kaykay becerileri",
+   "kaykay tesisleri"
+  ],
+  "tip": "Spor etkinliği için 'skateboarding', kaykay aracı için 'skateboard' kullanılır. 'go skateboarding' kalıbına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "lettuce",
+  "senses": [
+   "marul; kıvırcık"
+  ],
+  "ex": [
+   "Sandviçine koymadan önce marulu iyice yıka.",
+   "Kentsel bahçelerde marul yetiştirmek, sakinlere evlerinin yakınında taze gıdaya erişim imkânı verebilir."
+  ],
+  "col": [
+   "marul yaprakları",
+   "bir baş marul",
+   "gevrek marul"
+  ],
+  "tip": "Sebze olarak genellikle sayılamaz. Tek bir baş için 'a head of lettuce' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ugly",
+  "senses": [
+   "çirkin; hoş olmayan",
+   "tehditkâr; tatsız"
+  ],
+  "ex": [
+   "Çirkin boruları ahşap bir paravanın arkasına sakladık.",
+   "İyi planlanmamış yapılaşmalar, sakinlerin mahallelerinden duyduğu memnuniyeti azaltan çirkin kentsel manzaralar yaratabilir."
+  ],
+  "col": [
+   "çirkin bina",
+   "çirkin manzara",
+   "kötü bir hal almak",
+   "tatsız bir yüzleşme"
+  ],
+  "tip": "Karşılaştırma: uglier, en üstünlük: ugliest. İnsanların görünüşü için kullanmak kaba olabilir; dikkatli kullanın.",
+  "note": ""
+ },
+ {
+  "id": "success",
+  "senses": [
+   "başarı",
+   "başarılı olan kişi ya da şey"
+  ],
+  "ex": [
+   "Yağmura rağmen okul konseri bir başarı oldu.",
+   "Eğitimde uzun vadeli başarı yalnızca finansmana değil, aynı zamanda öğretimin kalitesine de bağlıdır."
+  ],
+  "col": [
+   "başarıya ulaşmak",
+   "büyük bir başarı",
+   "başarının anahtarı",
+   "başarı oranı"
+  ],
+  "tip": "Genel anlamda başarı sayılamaz. 'a success' ise başarılı olan kişiyi ya da başarılı olan işi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "jumper",
+  "senses": [
+   "kazak; süveter",
+   "atlayan kimse; atlet",
+   "askılı elbise"
+  ],
+  "ex": [
+   "Kamp gezisi için sıcak bir kazak koydum.",
+   "Soğuk aylarda evin içinde kazak giymek, ısıtma ihtiyacını azaltabilir."
+  ],
+  "col": [
+   "yünlü kazak",
+   "kazak giymek",
+   "yüksek atlama sporcusu"
+  ],
+  "tip": "İngiliz İngilizcesinde 'jumper' kazak demektir. Amerikan İngilizcesinde kazak için 'sweater' kullanılır, 'jumper' ise askılı elbiseyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "period",
+  "senses": [
+   "dönem; zaman",
+   "ders saati; ders",
+   "adet; regl"
+  ],
+  "ex": [
+   "Kısa süren şiddetli yağmur boyunca içeride kaldık.",
+   "Uzun süreli işsizlik, hem maddi güvenliği hem de ruh sağlığını etkileyebilir."
+  ],
+  "col": [
+   "bir zaman dilimi",
+   "geçiş dönemi",
+   "tarihi dönem",
+   "ağır adet dönemi"
+  ],
+  "tip": "Bir zaman aralığı için 'a period of' kalıbı kullanılır. Amerikan İngilizcesinde 'period' nokta işaretini de anlatır.",
+  "note": ""
+ },
+ {
+  "id": "sheet",
+  "senses": [
+   "çarşaf",
+   "yaprak; levha"
+  ],
+  "ex": [
+   "Yatağın üzerine temiz bir çarşaf serdim.",
+   "Okullar, öğrencileri her kâğıdın iki yüzünü de kullanmaya teşvik ederek kâğıt israfını azaltabilir."
+  ],
+  "col": [
+   "yatak çarşafı",
+   "bir kâğıt",
+   "bir cam levha",
+   "sac levha"
+  ],
+  "tip": "Sayılabilir isimdir. Bir kâğıt için 'a sheet of paper' kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "liter",
+  "senses": [
+   "litre"
+  ],
+  "ex": [
+   "Bu şişe tam bir litre taze süt alır.",
+   "Hanelerin su tüketimini litre bazında ölçmek, sakinlerin her gün ne kadar su kullandığını anlamalarına yardımcı olabilir."
+  ],
+  "col": [
+   "bir litre su",
+   "litre başına",
+   "yarım litre"
+  ],
+  "tip": "ABD yazımı 'liter', İngiliz yazımı 'litre'dir. Bir litre, bin mililitreye eşittir.",
+  "note": ""
+ },
+ {
+  "id": "lie",
+  "senses": [
+   "uzanmak; yatmak",
+   "yalan söylemek",
+   "yalan"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra çimenlerin üzerinde uzanmayı severim.",
+   "Çevresel faydalar konusunda yalan söyleyen reklamlar, halkın güvenini zedeleyebilir ve gerçekten sürdürülebilir satın alma kararlarını engelleyebilir."
+  ],
+  "col": [
+   "uzanmak",
+   "geceleri uyanık yatmak",
+   "birine yalan söylemek",
+   "yalan söylemek"
+  ],
+  "tip": "Uzanmak için lie–lay–lain, yalan söylemek için lie–lied–lied kullanılır. İki fiil çekimini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "stupid",
+  "senses": [
+   "aptalca; düşüncesiz"
+  ],
+  "ex": [
+   "Şemsiyemi evde unutmam aptalcaydı.",
+   "Öğrencilere aptal demek, özgüvenlerine zarar verebilir ve derste soru sormalarını engelleyebilir."
+  ],
+  "col": [
+   "aptalca bir hata",
+   "aptalca bir fikir",
+   "kendini aptal hissetmek"
+  ],
+  "tip": "Bir kişiye doğrudan 'stupid' demek kırıcıdır. Daha nazik olmak için davranışı ya da fikri nitelemek tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "ever",
+  "senses": [
+   "hiç; şimdiye kadar",
+   "hep; sürekli",
+   "acaba; sahi"
+  ],
+  "ex": [
+   "Hiç dağın üstünden gün doğumunu izledin mi?",
+   "Büyüyen şehirler trafik sıkışıklığı ve hava kirliliğiyle mücadele ederken toplu taşıma her zamankinden daha önemli hale geliyor."
+  ],
+  "col": [
+   "o zamandan beri",
+   "nadiren",
+   "her zamankinden fazla",
+   "sürekli artan talep"
+  ],
+  "tip": "Deneyim sorularında 'Have you ever...?' kalıbı kullanılır. Olumlu cümlelerde 'always' yerine 'ever' kullanmak doğal değildir.",
+  "note": ""
+ },
+ {
+  "id": "happiness",
+  "senses": [
+   "mutluluk"
+  ],
+  "ex": [
+   "Köpek yavrusu geldiğinde yüzü mutlulukla parladı.",
+   "Güçlü sosyal bağlar, kalıcı mutluluğa pahalı eşyalar satın almaktan çok daha fazla katkı sağlar."
+  ],
+  "col": [
+   "kalıcı mutluluk",
+   "kişisel mutluluk",
+   "mutluluk getirmek",
+   "mutluluk hissi"
+  ],
+  "tip": "Soyut bir isimdir ve genellikle sayılamaz. 'A happiness' yerine doğrudan 'happiness' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "granddaughter",
+  "senses": [
+   "kız torun"
+  ],
+  "ex": [
+   "Pazar günü ziyarete geldiğinde kız torunu taze çiçekler getirdi.",
+   "Kız torunuyla ya da erkek torunuyla düzenli iletişim, yaşlı yetişkinlerin aile hayatına daha bağlı hissetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "en küçük kız torun",
+   "kız torunun doğum günü"
+  ],
+  "tip": "Baba ya da anne tarafından olması fark etmez; 'granddaughter' her iki durumu da kapsar.",
+  "note": ""
+ }
+]

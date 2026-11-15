@@ -1,0 +1,274 @@
+[
+ {
+  "id": "mansion",
+  "senses": [
+   "konak; köşk; malikane"
+  ],
+  "ex": [
+   "Devasa bir konak, uzun demir kapıların arkasında duruyordu.",
+   "Tarihi konak, bölgenin kültürel mirasını korumak amacıyla müzeye dönüştürüldü."
+  ],
+  "col": [
+   "lüks bir konak",
+   "tarihi bir konak",
+   "geniş bir malikane"
+  ],
+  "tip": "Genellikle çok büyük ve gösterişli evleri anlatır; sıradan bir ofis binası için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "pastry",
+  "senses": [
+   "hamur; yufka",
+   "hamur işi; pasta"
+  ],
+  "ex": [
+   "Elmalı dolguyu kapatmadan önce hamuru ince ince açın.",
+   "Aşçılık kursları, öğrencilere bu alanda kariyer için pratik beceriler kazandırırken hamur hazırlamayı da öğretir."
+  ],
+  "col": [
+   "milföy hamuru",
+   "kısa hamur",
+   "hamuru açmak",
+   "pastacı şef"
+  ],
+  "tip": "Hamur maddesi anlamında sayılamaz; tek bir hamur işi anlamında sayılabilir (a pastry).",
+  "note": ""
+ },
+ {
+  "id": "short-term",
+  "senses": [
+   "kısa vadeli; geçici"
+  ],
+  "ex": [
+   "Bu kısa vadeli iş, yaz masraflarımı karşılayacak.",
+   "Kısa vadeli çözümler anlık baskıyı azaltabilir ancak işsizliğin altta yatan nedenlerini ele almaz."
+  ],
+  "col": [
+   "kısa vadeli çözüm",
+   "kısa süreli sözleşme",
+   "kısa süreli bellek"
+  ],
+  "tip": "İsim önünde sıfat olarak kullanıldığında kısa çizgi ile yazılır; in the short term ifadesinde kısa çizgi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "copper",
+  "senses": [
+   "bakır",
+   "bakır para; kuruş"
+  ],
+  "ex": [
+   "Eski mutfak lavabosunun çok güzel bakır musluğları var.",
+   "Bakır, elektriği verimli iletmesi ve geri dönüştürülebilmesi nedeniyle elektrik sistemlerinde yaygın olarak kullanılır."
+  ],
+  "col": [
+   "bakır tel",
+   "bakır boru",
+   "bakır madeni"
+  ],
+  "tip": "Metal bakır anlamında sayılamaz; bakır para anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "vein",
+  "senses": [
+   "damar",
+   "yaprak damarı",
+   "damar; cevher damarı"
+  ],
+  "ex": [
+   "Bileğinin altında mavi bir damar görünüyordu.",
+   "Düzenli hareket, kanın damarlarda akmasına yardımcı olur ve uzun süre oturmayla ilişkili sağlık risklerini azaltabilir."
+  ],
+  "col": [
+   "varisli damarlar",
+   "yaprak damarları",
+   "altın damarı"
+  ],
+  "tip": "vein damar (kanı kalbe taşıyan) demektir; artery (atardamar) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "coral",
+  "senses": [
+   "mercan; mercan hayvanı",
+   "mercan rengi"
+  ],
+  "ex": [
+   "Altımızdaki mercan dallarının arasında parlak renkli balıklar yüzüyordu.",
+   "Okyanus sıcaklıklarının artması, birçok deniz türü için temel yaşam alanı sağlayan mercan resiflerini tehdit ediyor."
+  ],
+  "col": [
+   "mercan resifi",
+   "mercan beyazlaşması",
+   "mercan kolonisi",
+   "mercan restorasyonu"
+  ],
+  "tip": "Mercan maddesi genellikle sayılamaz; tür veya koloni anlamında çoğul corals kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "detailed",
+  "senses": [
+   "ayrıntılı; detaylı"
+  ],
+  "ex": [
+   "Bana pastayı nasıl pişireceğimi ayrıntılı biçimde anlattı.",
+   "Işe gidiş-geliş kalıplarına dair ayrıntılı araştırmalar, şehirlerin daha verimli toplu taşıma sistemleri tasarlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "ayrıntılı açıklama",
+   "ayrıntılı analiz",
+   "ayrıntılı talimatlar"
+  ],
+  "tip": "“Ayrıntılı olarak” anlamında in detail kullanılır; in detailed yanlış bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "executive",
+  "senses": [
+   "yönetici; üst düzey yönetici",
+   "yönetsel; icraî",
+   "yürütme organı; yürütme"
+  ],
+  "ex": [
+   "Yönetici bugün öğle yemeğinde bizimle birlikte oldu.",
+   "Üst düzey yöneticiler, şirket yeniden yapılandırması kararlarında finansal performansın yanında çalışanların refahını da göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "üst düzey yönetici",
+   "genel müdür",
+   "yürütme yetkisi",
+   "yönetim kurulu"
+  ],
+  "tip": "İsim olarak yönetici; sıfat olarak genellikle power, board gibi isimlerin önünde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "domestic",
+  "senses": [
+   "iç; yurt içi",
+   "evle ilgili; ev işi",
+   "evcil"
+  ],
+  "ex": [
+   "Kuzey kıyısına bir iç hat uçuşuyla gittik.",
+   "Yerli gıda üretimine yapılan yatırım, bir ülkenin ithalata bağımlılığını azaltabilir ve ekonomisini güçlendirebilir."
+  ],
+  "col": [
+   "iç pazar",
+   "iç hat uçuşu",
+   "ev işleri",
+   "evcil hayvanlar"
+  ],
+  "tip": "International (uluslararası) ile karşıt anlamlıdır; wild (vahşi) ile karşıtlık “evcil” anlamını verir.",
+  "note": ""
+ },
+ {
+  "id": "comet",
+  "senses": [
+   "kuyruklu yıldız"
+  ],
+  "ex": [
+   "Amcamın teleskobundan parlak bir kuyruklu yıldız izledik.",
+   "Bir kuyruklu yıldızın incelenmesi, güneş sistemimizin oluştuğu koşullar hakkında değerli kanıtlar sağlayabilir."
+  ],
+  "col": [
+   "kuyruklu yıldızın kuyruğu",
+   "geçen kuyruklu yıldız",
+   "kuyruklu yıldızı gözlemlemek"
+  ],
+  "tip": "comet kuyruklu yıldızdır; atmosfere girerken parlayan meteor (şihab) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "sacred",
+  "senses": [
+   "kutsal; dini",
+   "dokunulmaz; çok değerli"
+  ],
+  "ex": [
+   "Ziyaretçiler kutsal tapınağa girmeden önce ayakkabılarını çıkarır.",
+   "Turizm yerel ekonomileri destekleyebilir, ancak ziyaretçiler kutsal yerlere ve dini geleneklere saygı göstermelidir."
+  ],
+  "col": [
+   "kutsal yer",
+   "dini müzik",
+   "bir şeyi kutsal saymak"
+  ],
+  "tip": "sacred hem dinî anlamda kutsal hem de değiştirilemez, çok değerli anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "darken",
+  "senses": [
+   "kararmak; karartmak",
+   "yüzü asılmak; kederlendirmek"
+  ],
+  "ex": [
+   "Eve varmadan önce yoğun bulutlar gökyüzünü karartmıştı.",
+   "Endüstriyel yangınlardan çıkan yoğun duman, gökyüzünü karartabilir ve yakındaki yerleşim bölgelerinde görüşü azaltabilir."
+  ],
+  "col": [
+   "gökyüzünü karartmak",
+   "odayı karartmak",
+   "yüzü asılmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: bulutlar gökyüzünü karartır; gökyüzü kendiliğinden de kararabilir.",
+  "note": ""
+ },
+ {
+  "id": "tease",
+  "senses": [
+   "takılmak; alay etmek",
+   "takılgan kimse; şakacı"
+  ],
+  "ex": [
+   "Kuzenlerim devasa sırt çantam yüzünden hep benimle dalga geçer.",
+   "Okullar, çocuklara sınıf arkadaşlarının görünüşüyle ilgili takılmanın özgüvenlerine ciddi zarar verebileceğini öğretmelidir."
+  ],
+  "col": [
+   "birini bir şey yüzünden takılmak",
+   "hafifçe takılmak",
+   "ayıklamak; ortaya çıkarmak"
+  ],
+  "tip": "Genellikle tease sb about sth yapısıyla kullanılır; hem sevecen hem de incitici olabilir.",
+  "note": ""
+ },
+ {
+  "id": "ambassador",
+  "senses": [
+   "büyükelçi",
+   "temsilci; tanıtımcı"
+  ],
+  "ex": [
+   "Büyükelçi, elçilik bahçesinde ziyaretçileri karşıladı.",
+   "Bir elçi, eğitim değişimlerini teşvik ederek ve gerginlik dönemlerinde diyaloğu sürdürerek uluslararası iş birliğini güçlendirebilir."
+  ],
+  "col": [
+   "...ye büyükelçi",
+   "büyükelçi atamak",
+   "iyi niyet elçisi"
+  ],
+  "tip": "Bir ülkeye büyükelçi için ambassador to kullanılır; for edatı yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "shorten",
+  "senses": [
+   "kısaltmak; kısalmak"
+  ],
+  "ex": [
+   "Düğünden önce bu pantolonu kısaltabilir misiniz?",
+   "Geliştirilmiş toplu taşıma, şehirlerde gidiş-geliş sürelerini kısaltabilir ve özel araba bağımlılığını azaltabilir."
+  ],
+  "col": [
+   "yolculuğu kısaltmak",
+   "cümleyi kısaltmak",
+   "eteği kısaltmak"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: shorten the days (günleri kısaltmak); days shorten (günler kısalır).",
+  "note": ""
+ }
+]

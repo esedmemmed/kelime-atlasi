@@ -1,0 +1,277 @@
+[
+ {
+  "id": "stimulate",
+  "senses": [
+   "teşvik etmek; canlandırmak",
+   "uyarmak; harekete geçirmek"
+  ],
+  "ex": [
+   "Bu renkli bulmacalar kızımın her sabah merakını uyandırıyor.",
+   "Düşük borçlanma maliyetleri, işletmeleri yeni ekipmana yatırım yapmaya teşvik ederek ekonomik büyümeyi destekleyebilir."
+  ],
+  "col": [
+   "büyümeyi teşvik etmek",
+   "ilgiyi uyandırmak",
+   "talebi artırmak",
+   "beyni uyarmak"
+  ],
+  "tip": "Nesne doğrudan gelir: stimulate interest (ilgiyi uyandırmak). Türkçedeki 'teşvik etmek' karşılığı çoğu zaman yeterlidir.",
+  "note": ""
+ },
+ {
+  "id": "corporate",
+  "senses": [
+   "kurumsal; şirkete ait",
+   "ortak; topluca yapılan"
+  ],
+  "ex": [
+   "Kız kardeşim küçük bir şirket için kurumsal seyahatleri organize ediyor.",
+   "Kurumsal şeffaflığın artması, tüketicilerin işletmelerin çevresel ve sosyal taahhütlerini gerçekten yerine getirip getirmediğini değerlendirmesine olanak tanıyor."
+  ],
+  "col": [
+   "kurumsal kültür",
+   "kurumsal sorumluluk",
+   "şirket kârları",
+   "kurumsal kimlik"
+  ],
+  "tip": "corporate 'kurumsal, şirkete ait' anlamına gelir; cooperative ('işbirlikçi, kooperatif') ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "supplier",
+  "senses": [
+   "tedarikçi; satıcı"
+  ],
+  "ex": [
+   "Fırınımız taze unu yerel bir tedarikçiden alıyor.",
+   "İşletmeler, malzemelerin adil çalışma koşullarında üretildiğinden emin olmak için her tedarikçiyi dikkatle değerlendirmelidir."
+  ],
+  "col": [
+   "yerel tedarikçi",
+   "güvenilir tedarikçi",
+   "enerji tedarikçisi",
+   "başlıca tedarikçi"
+  ],
+  "tip": "Sağladığı mal için supplier of ... kalıbı kullanılır; fiil karşılığı supply'dır.",
+  "note": ""
+ },
+ {
+  "id": "finding",
+  "senses": [
+   "bulgu; araştırma sonucu",
+   "karar; hüküm"
+  ],
+  "ex": [
+   "Doktorun bulguları neden bu kadar yorgun hissettiğimi açıkladı.",
+   "Bulgular, uygun fiyatlı toplu taşımanın dezavantajlı bölgelerde istihdama erişimi önemli ölçüde artırabileceğini gösteriyor."
+  ],
+  "col": [
+   "araştırma bulguları",
+   "temel bulgular",
+   "bulguları yayımlamak",
+   "olgusal bir karar"
+  ],
+  "tip": "Araştırma veya soruşturma sonucu anlamında genellikle çoğul findings kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "respective",
+  "senses": [
+   "her birinin kendi; ilgili"
+  ],
+  "ex": [
+   "Yemekten sonra çocuklar kendi odalarına döndüler.",
+   "Okullar ve aileler, çocukların duygusal gelişimini ve akademik ilerlemesini desteklemedeki kendi sorumluluklarını anlamalıdır."
+  ],
+  "col": [
+   "kendi görevleri",
+   "kendi sorumlulukları",
+   "kendi ülkeleri"
+  ],
+  "tip": "Genellikle çoğul isimlerin önünde kullanılır; respectful ('saygılı') ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "fund",
+  "senses": [
+   "fon; özel amaçlı birikim",
+   "kaynak; mali imkân; para",
+   "finanse etmek; fon sağlamak"
+  ],
+  "ex": [
+   "Oyun alanını onarmak için küçük bir fon oluşturduk.",
+   "Hükümetler, fosil yakıtlara bağımlılığı azaltmak ve enerji güvenliğini artırmak için yenilenebilir enerji araştırmalarını finanse etmelidir."
+  ],
+  "col": [
+   "fon toplamak",
+   "emeklilik fonu",
+   "kamu kaynakları",
+   "araştırmayı finanse etmek"
+  ],
+  "tip": "Belirli bir amaç için tek bir fon a fund denir; genel anlamda kullanılabilir para için çoğul funds kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "latin",
+  "senses": [
+   "Latince",
+   "Latince; eski Roma ile ilgili",
+   "Latin Amerika ile ilgili"
+  ],
+  "ex": [
+   "Kız kardeşim okulda haftada iki kez Latince dersi alıyor.",
+   "Latince öğrenmek, öğrencilerin bilimsel terimlerin kökenlerini ve Avrupa dillerinin gelişimini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "Latince öğrenmek",
+   "klasik Latince",
+   "Latin alfabesi",
+   "Latin müziği"
+  ],
+  "tip": "Dil ve ilgili sıfatlar her zaman büyük harfle yazılır; Latin America 'Latin Amerika' demektir.",
+  "note": ""
+ },
+ {
+  "id": "modify",
+  "senses": [
+   "değiştirmek; düzenlemek",
+   "niteleyerek belirtmek"
+  ],
+  "ex": [
+   "Tarifi daha az şeker kullanacak şekilde değiştirdik.",
+   "Okullar, farklı öğrenme ihtiyaçlarına sahip öğrencileri desteklemek için öğretim yöntemlerini düzenlemek zorunda kalabilir."
+  ],
+  "col": [
+   "tasarımı değiştirmek",
+   "davranışı değiştirmek",
+   "planı düzenlemek"
+  ],
+  "tip": "Genellikle kısmi, küçük bir ayarlama anlamında kullanılır; her zaman tamamen değiştirmek anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "speculation",
+  "senses": [
+   "tahmin; spekülasyon",
+   "spekülatif alım satım"
+  ],
+  "ex": [
+   "Boş dükkân komşularımız arasında söylentilere yol açtı.",
+   "Gayrimenkul spekülasyonu, konut fiyatlarını yerel gelirlerin çok üzerine çıkarabilir ve genç yetişkinlerin ev sahibi olmasını zorlaştırabilir."
+  ],
+  "col": [
+   "salt tahmin",
+   "yakıt spekülasyonu",
+   "...hakkında tahmin",
+   "gayrimenkul spekülasyonu"
+  ],
+  "tip": "Tahminin konusu genellikle about veya that ile belirtilir; finans bağlamında da 'spekülatif işlem' anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "asthma",
+  "senses": [
+   "astım; soluk darlığı"
+  ],
+  "ex": [
+   "Kardeşim astımını kontrol altında tutmak için yanında inhaler taşıyor.",
+   "Kentsel hava kirliliğini azaltmak, astım krizlerini önlemeye ve sakinlerin yaşam kalitesini artırmaya yardımcı olabilir."
+  ],
+  "col": [
+   "astım krizi",
+   "ağır astım",
+   "astımı kontrol altında tutmak",
+   "çocukluk çağı astımı"
+  ],
+  "tip": "Sayılamayan bir isimdir; th sesi okunmaz. Türkçede 'astım' şeklinde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "regarding",
+  "senses": [
+   "hakkında; ilgili olarak"
+  ],
+  "ex": [
+   "Kayıp bavulumuzla ilgili olarak otele telefon ettim.",
+   "Okullar, müfredat veya değerlendirme yöntemlerindeki önemli değişikliklere karar vermeden önce velilerle istişare etmelidir."
+  ],
+  "col": [
+   "...hakkında bilgi",
+   "...ile ilgili sorular",
+   "...ile ilgili endişeler"
+  ],
+  "tip": "regarding doğrudan isimle kullanılır, arkasına to gelmez; about'tan daha resmi bir tonu vardır.",
+  "note": ""
+ },
+ {
+  "id": "automobile",
+  "senses": [
+   "otomobil; araba"
+  ],
+  "ex": [
+   "Dedem garajında eski model bir otomobil saklıyor.",
+   "Otomobil sahipliğindeki artış, yol ağları üzerindeki baskıyı artırmış ve kentsel hava kirliliğine katkıda bulunmuştur."
+  ],
+  "col": [
+   "otomotiv sektörü",
+   "otomobil üreticisi",
+   "otomobil sahipliği"
+  ],
+  "tip": "Daha çok Amerikan İngilizcesinde ve resmi dilde kullanılır; günlük konuşmada genellikle car tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "weave",
+  "senses": [
+   "örmek; dokumak",
+   "kıvrılarak ilerlemek",
+   "hikâyeye eklemek; bir bütüne katmak"
+  ],
+  "ex": [
+   "Teyzem bana küçük bir sepet örmeyi öğretti.",
+   "Etkili belgeseller, kişisel hikâyeleri toplumsal değişim ve kamu politikalarına dair daha geniş tartışmalarla birleştirir."
+  ],
+  "col": [
+   "sepet örmek",
+   "trafikte kıvrılarak ilerlemek",
+   "hikâyeye eklemek"
+  ],
+  "tip": "'Örmek' anlamında düzensiz fiildir: geçmiş zaman wove, ortaç woven.",
+  "note": ""
+ },
+ {
+  "id": "measurement",
+  "senses": [
+   "ölçme; ölçüm",
+   "ölçüm değeri; ölçü"
+  ],
+  "ex": [
+   "Yeni perdeleri almadan önce dikkatli bir şekilde ölçüler aldık.",
+   "Hava kirliliğinin doğru ölçümü, hükümetlerin çevre politikalarının halk sağlığını koruyup korumadığını değerlendirmesine yardımcı olur."
+  ],
+  "col": [
+   "ölçü almak",
+   "doğru ölçüm",
+   "bir ölçü birimi"
+  ],
+  "tip": "Ölçme sürecini anlatırken genellikle sayılamaz; belirli bir ölçü değerinden söz edilirken sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "superb",
+  "senses": [
+   "mükemmel; harika"
+  ],
+  "ex": [
+   "Sakin limana bakan bir restoranda harika bir yemek yedik.",
+   "Müze, her yaştan ziyaretçinin uygulamalı etkinliklerle bilimsel fikirleri keşfetmesine olanak tanıyan mükemmel eğitim olanakları sunuyor."
+  ],
+  "col": [
+   "mükemmel performans",
+   "üstün kalite",
+   "harika manzara"
+  ],
+  "tip": "Zaten çok yüksek bir derecelendirme anlamı taşır; genellikle 'very superb' denmez.",
+  "note": ""
+ }
+]

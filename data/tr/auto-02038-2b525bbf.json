@@ -1,0 +1,283 @@
+[
+ {
+  "id": "chew",
+  "senses": [
+   "çiğnemek; kemirmek",
+   "çiğneme"
+  ],
+  "ex": [
+   "Lütfen yutmadan önce yemeğini yavaş yavaş çiğne.",
+   "Çocuklar küçük yaştan itibaren yiyecekleri iyice çiğnemeye ve sağlıklı beslenme alışkanlıkları edinmeye teşvik edilmelidir."
+  ],
+  "col": [
+   "yiyeceği çiğnemek",
+   "sakız çiğnemek",
+   "iyice çiğnemek",
+   "bir şeyi uzun uzun düşünmek"
+  ],
+  "tip": "chew 'çiğnemek', swallow 'yutmak' demektir. chew something over kalıbı 'bir konuyu uzun uzun düşünmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "hopefully",
+  "senses": [
+   "umarım; inşallah",
+   "umutla; umutlu bir şekilde"
+  ],
+  "ex": [
+   "Umarım yürüyüşümüz için hava kuru kalır.",
+   "Umarım bisiklet altyapısındaki iyileştirmeler, daha fazla sakinin arabalarını evde bırakmasını teşvik eder."
+  ],
+  "col": [
+   "umarım yakında",
+   "umutla bakmak",
+   "umutla beklemek"
+  ],
+  "tip": "Cümle başında 'umarım' anlamında kullanılır; bir şeyin kesinlikle olacağını göstermez.",
+  "note": ""
+ },
+ {
+  "id": "christian",
+  "senses": [
+   "Hristiyanlığa ait; Hristiyan",
+   "Hristiyan"
+  ],
+  "ex": [
+   "Komşumuz parkın yakınındaki bir Hristiyan kilisesine gidiyor.",
+   "Hristiyan hayır kurumları, diğer dini ve laik kuruluşlarla birlikte, birçok ülkede savunmasız topluluklara temel destek sağlıyor."
+  ],
+  "col": [
+   "Hristiyan kilisesi",
+   "Hristiyan inancı",
+   "Hristiyan topluluğu"
+  ],
+  "tip": "Hem isim hem sıfat olarak her zaman büyük harfle yazılır: Christian.",
+  "note": ""
+ },
+ {
+  "id": "purpose",
+  "senses": [
+   "amaç; maksat",
+   "amaç duygusu; hedef"
+  ],
+  "ex": [
+   "Bu küçük mutfak aracının amacı nedir?",
+   "Halk kütüphanelerinin temel amacı, bilgiye ve öğrenme fırsatlarına eşit erişim sağlamaktır."
+  ],
+  "col": [
+   "temel amaç",
+   "işe yaramak",
+   "kasıtlı olarak",
+   "amaç duygusu"
+  ],
+  "tip": "on purpose 'kasıtlı olarak' anlamına gelir, 'amaçlı olarak' değil. Örneğin: He did it on purpose.",
+  "note": ""
+ },
+ {
+  "id": "pollution",
+  "senses": [
+   "kirlilik; kirletme"
+  ],
+  "ex": [
+   "Hava kirliliği uzaktaki tepeleri zor görünür hale getiriyor.",
+   "Kirliliği azaltmak, hükümetlerin endüstriyel emisyonları düzenlemesini ve daha temiz ulaşımı ve sürdürülebilir üretimi teşvik etmesini gerektirir."
+  ],
+  "col": [
+   "hava kirliliği",
+   "su kirliliği",
+   "gürültü kirliliği",
+   "kirliliği azaltmak"
+  ],
+  "tip": "pollution sayılamayan bir isimdir. Belirli kirletici maddeler için pollutant kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "central",
+  "senses": [
+   "merkezi; orta",
+   "temel; esas"
+  ],
+  "ex": [
+   "Dairemiz merkezi bir yerde olduğu için çoğu yere yürüyerek gidiyoruz.",
+   "Güvenilir bilgiye erişim, vatandaşların halk sağlığı konusunda bilinçli kararlar almasında temel öneme sahiptir."
+  ],
+  "col": [
+   "merkezi konum",
+   "merkezi hükümet",
+   "önemli bir rol",
+   "...için çok önemli"
+  ],
+  "tip": "central to 'için çok önemli' anlamında kullanılır ve edatı to'dur: central to success.",
+  "note": ""
+ },
+ {
+  "id": "wheelchair",
+  "senses": [
+   "tekerlekli sandalye"
+  ],
+  "ex": [
+   "Tekerlekli sandalyesini rampadan kütüphaneye doğru sürdü.",
+   "Kamu binaları, tekerlekli sandalye kullanıcılarının bağımsız olarak hareket edebilmesi için basamaksız girişler ve geniş asansörler sağlamalıdır."
+  ],
+  "col": [
+   "tekerlekli sandalye kullanıcısı",
+   "elektrikli tekerlekli sandalye",
+   "tekerlekli sandalye erişimi"
+  ],
+  "tip": "'Wheelchair-bound' gibi kişiyi sınırlayan ifadeler yerine a wheelchair user tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "junction",
+  "senses": [
+   "kavşak; birleşim yeri"
+  ],
+  "ex": [
+   "Fırının yanındaki kavşakta sola dön.",
+   "Yoğun kavşaklara daha iyi aydınlatma yapılması, bisikletliler ve yayalarla ilgili kazaları azaltabilir."
+  ],
+  "col": [
+   "yol kavşağı",
+   "demiryolu kavşağı",
+   "yoğun kavşak"
+  ],
+  "tip": "İngiliz İngilizcesinde junction yaygındır; Amerikan İngilizcesinde genellikle intersection kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "campaign",
+  "senses": [
+   "kampanya; girişim",
+   "kampanya yürütmek",
+   "sefer; harekât"
+  ],
+  "ex": [
+   "Okulumuz gıda israfını azaltmak için bir kampanya başlattı.",
+   "Halk sağlığı kampanyaları, özellikle uygun fiyatlı besinlere erişimle desteklendiğinde, daha sağlıklı alışkanlıkları teşvik edebilir."
+  ],
+  "col": [
+   "kampanya başlatmak",
+   "reklam kampanyası",
+   "reform için kampanya yürütmek",
+   "kirliliğe karşı kampanya yürütmek"
+  ],
+  "tip": "Fiil olarak for 'için mücadele etmek', against ise 'karşı çıkmak' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "bitter",
+  "senses": [
+   "acı",
+   "küskün; kırgın",
+   "şiddetli; kin dolu"
+  ],
+  "ex": [
+   "Kahve, süt veya şekersiz olunca çok acı geldi.",
+   "Yerel kütüphanelerin kapatılması önerileri, sakinler ile yerel yönetimler arasında şiddetli tartışmalara yol açtı."
+  ],
+  "col": [
+   "acı bir tat",
+   "...den dolayı kırgın",
+   "sert bir anlaşmazlık",
+   "acı hayal kırıklığı"
+  ],
+  "tip": "Tat için bitter 'acı', ekşi tat için sour kullanılır; bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "overnight",
+  "senses": [
+   "gece boyunca; bir gecelik",
+   "bir gecede; ansızın",
+   "gecelik; bir gecelik"
+  ],
+  "ex": [
+   "İstasyonun yakınındaki küçük bir otelde bir gece kaldık.",
+   "Toplu taşımaya yapılan yatırımlar kentsel hareketliliği artırabilir, ancak anlamlı değişimler nadiren bir gecede gerçekleşir."
+  ],
+  "col": [
+   "bir gece kalmak",
+   "bir gecede başarı",
+   "gece uçuşu"
+  ],
+  "tip": "'Bir gecede' anlamında kullanıldığında hızlı değişimi vurgular; gerçekten tek bir gece sürmesi gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "universe",
+  "senses": [
+   "evren; kainat",
+   "dünya; evren"
+  ],
+  "ex": [
+   "Yıldızlar ve evren hakkında bir film izledik.",
+   "Evrenin kökenlerine yönelik araştırmalar, teleskop teknolojisindeki ve veri analizindeki gelişmeleri ilerletmiştir."
+  ],
+  "col": [
+   "genişleyen evren",
+   "evrenin kökenleri",
+   "paralel evren",
+   "gözlemlenebilir evren"
+  ],
+  "tip": "Evreni ifade ederken genellikle the universe kullanılır. Sözcük /j/ sesiyle başladığı için önüne a gelir: a universe.",
+  "note": ""
+ },
+ {
+  "id": "background",
+  "senses": [
+   "geçmiş; yetişme tarzı",
+   "arka plan bilgisi; bağlam",
+   "arka plan"
+  ],
+  "ex": [
+   "Hemşirelik geçmişi, Dedemize bakmasına yardımcı oldu.",
+   "Üniversiteler, aileleri ne kadar gelir düzeyinde olursa olsun, farklı sosyal geçmişlere sahip başvuru sahiplerine eşit fırsatlar sunmalıdır."
+  ],
+  "col": [
+   "mesleki geçmiş",
+   "arka plan bilgisi",
+   "arka planda",
+   "dezavantajlı bir çevre"
+  ],
+  "tip": "Bir alandaki deneyim için background in kalıbı kullanılır. Bir resimde arka plan için ise in the background denir.",
+  "note": ""
+ },
+ {
+  "id": "direct",
+  "senses": [
+   "doğrudan; aracısız",
+   "yönetmek; yönlendirmek",
+   "yol göstermek; yöneltmek"
+  ],
+  "ex": [
+   "Buradan havalimanına direkt bir tren var.",
+   "Daha iyi toplu taşıma, sakinleri daha fazla iş fırsatına bağlayarak istihdam üzerinde doğrudan bir etki yaratabilir."
+  ],
+  "col": [
+   "doğrudan temas",
+   "direkt uçuş",
+   "film yönetmek",
+   "dikkati ... yöneltmek"
+  ],
+  "tip": "Hem sıfat hem fiil olarak kullanılır. Fiil olarak 'yönetmek' ya da 'yöneltmek' anlamına gelir. Vurgu ikinci hecededir: /daɪˈrekt/.",
+  "note": ""
+ },
+ {
+  "id": "shore",
+  "senses": [
+   "kıyı; sahil",
+   "desteklemek; ayakta tutmak"
+  ],
+  "ex": [
+   "Ayakkabılarımızı kıyıda bırakıp yüzmeye gittik.",
+   "Kıyıdaki inşaat faaliyetleri, kıyı habitatlarını kalıcı hasardan korumak için dikkatle kontrol edilmelidir."
+  ],
+  "col": [
+   "kıyıda",
+   "kıyıya ulaşmak",
+   "güveni desteklemek"
+  ],
+  "tip": "shore genellikle deniz ve göl kıyısı için kullanılır; nehir kıyısı için genellikle bank tercih edilir.",
+  "note": ""
+ }
+]

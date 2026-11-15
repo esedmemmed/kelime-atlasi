@@ -1,0 +1,273 @@
+[
+ {
+  "id": "fermentation",
+  "senses": [
+   "mayalanma; fermantasyon"
+  ],
+  "ex": [
+   "Fermantasyon başladığında kavanozun içinde küçük kabarcıklar belirdi.",
+   "Fermantasyon, bazı gıdaların raf ömrünü uzatırken tat ve dokularını da değiştirebilir."
+  ],
+  "col": [
+   "fermantasyon süreci",
+   "laktik asit fermantasyonu",
+   "kontrollü fermantasyon"
+  ],
+  "tip": "Genellikle sayılamayan isim olarak kullanılır. Fiili 'ferment' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "elimination",
+  "senses": [
+   "ortadan kaldırma; yok etme",
+   "eleme; elenme"
+  ],
+  "ex": [
+   "Düzenli temizlik, mutfaktaki rahatsız edici kokuların giderilmesine yardımcı olur.",
+   "Gereksiz ambalajların ortadan kaldırılması, ev atıklarını önemli ölçüde azaltabilir ve alışverişin çevresel etkisini düşürebilir."
+  ],
+  "col": [
+   "atıkların ortadan kaldırılması",
+   "eleme yöntemi",
+   "elenme tehlikesiyle karşılaşmak",
+   "tamamen ortadan kaldırma"
+  ],
+  "tip": "Fiili 'eliminate'tir. 'By elimination' ifadesi 'eleme yoluyla' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "alienate",
+  "senses": [
+   "yabancılaştırmak; uzaklaştırmak"
+  ],
+  "ex": [
+   "Sürekli şikâyetleri en yakın arkadaşlarını bile ondan uzaklaştırdı.",
+   "Yerel yönetimler faydalarını açıkça anlatamazsa, toplu taşıma politikaları sakinleri kendilerinden uzaklaştırabilir."
+  ],
+  "col": [
+   "seçmenleri uzaklaştırmak",
+   "müşterileri kaçırmak",
+   "birini ... den uzaklaştırmak"
+  ],
+  "tip": "Genellikle birinin desteğini kaybetmesi ya da insanların uzaklaşması anlamında kullanılır. Bağlama göre çeviri yapın.",
+  "note": ""
+ },
+ {
+  "id": "hover",
+  "senses": [
+   "havada asılı kalmak; süzülmek",
+   "çevrede dolaşmak; beklemek",
+   "bir düzey civarında seyretmek"
+  ],
+  "ex": [
+   "Küçük bir helikopter boş tarlanın üzerinde süzüldü.",
+   "İşsizlik oranları mevcut seviyeler civarında seyretmeye devam ederse, hükümetlerin mesleki eğitime daha fazla yatırım yapması gerekebilir."
+  ],
+  "col": [
+   "başın üzerinde süzülmek",
+   "yakınlarda dolaşmak",
+   "bir seviye civarında seyretmek"
+  ],
+  "tip": "Temel anlamı yerinde kalmak ya da yakında durmaktır; yükselmek anlamına gelmez, 'soar' ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "proficiency",
+  "senses": [
+   "yetkinlik; ustalık"
+  ],
+  "ex": [
+   "Fransızcadaki yetkinliği sayesinde akşam yemeğini kolayca sipariş ettik.",
+   "Üniversiteler, öğrencilerin akademik tartışmalara tam olarak katılabildiğinden emin olmak için sıklıkla İngilizce yeterliliğine dair kanıt ister."
+  ],
+  "col": [
+   "İngilizce yetkinliği",
+   "dil yeterliliği",
+   "yeterlilik sınavı",
+   "yetkinliğini göstermek"
+  ],
+  "tip": "Genellikle 'proficiency in' kalıbıyla dil, bilgi alanı ya da beceri için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "resultant",
+  "senses": [
+   "ortaya çıkan; doğan",
+   "bileşke"
+  ],
+  "ex": [
+   "Bir boru patladı ve ortaya çıkan su baskını halıyı mahvetti.",
+   "Hızlı kentleşme ve bunun sonucunda doğan konut talebi, yerel altyapı üzerinde ciddi bir baskı oluşturdu."
+  ],
+  "col": [
+   "ortaya çıkan zarar",
+   "ortaya çıkan artış",
+   "bileşke kuvvet"
+  ],
+  "tip": "Resmi bir kelimedir ve genellikle isimden önce kullanılır. Günlük dilde 'resulting' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "structural",
+  "senses": [
+   "yapısal"
+  ],
+  "ex": [
+   "Müteahhit mutfak zemininin altında yapısal hasar buldu.",
+   "Uzun süreli işsizliğin azaltılması, yalnızca geçici mali destek yerine ekonomide yapısal değişiklikler gerektirir."
+  ],
+  "col": [
+   "yapısal hasar",
+   "yapısal değişiklik",
+   "yapı mühendisliği",
+   "yapısal reform"
+  ],
+  "tip": "Hem fiziksel yapılar hem de ekonomi ya da kurumların düzeni için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "segregate",
+  "senses": [
+   "ayrı tutmak; ayrıştırmak",
+   "ayırmak; ayrı yerlere koymak"
+  ],
+  "ex": [
+   "Kulüp, çocukları ailelerinin gelirine göre ayırmayı reddetti.",
+   "Öğrencileri sosyal geçmişlerine göre ayıran okullar, karşılıklı anlayışı teşvik etmek yerine eşitsizliği pekiştirebilir."
+  ],
+  "col": [
+   "ırka göre ayırmak",
+   "atıkları ayrıştırmak",
+   "ırka göre ayrılmış okullar"
+  ],
+  "tip": "'Segregate A from B' kalıbı 'A'yı B'den ayırmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "grim",
+  "senses": [
+   "vahim; umutsuz",
+   "ciddi; asık",
+   "kasvetli; içler acısı"
+  ],
+  "ex": [
+   "Sel, evimizin dışında içler acısı bir manzara bıraktı.",
+   "Su altyapısına acilen yatırım yapılmazsa, uzun süren kuraklıkla karşı karşıya olan topluluklar için görünüm hâlâ karamsar."
+  ],
+  "col": [
+   "karamsar görünüm",
+   "acı gerçeklik",
+   "asık bir ifade",
+   "acı bir hatırlatma"
+  ],
+  "tip": "Genellikle durum, görünüm ya da yüz ifadesi için kullanılır. Sıradan rahatsızlık değil, ağır ve umutsuz bir durumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "forerunner",
+  "senses": [
+   "öncü; selef",
+   "habercisi; öncüsü"
+  ],
+  "ex": [
+   "Bu hantal makine, bugünkü dizüstü bilgisayarların bir öncüsüydü.",
+   "Erken dönem halk kütüphaneleri, öğrenme ve tartışma için ortak alanlar sunarak modern toplum merkezlerinin öncüleri oldu."
+  ],
+  "col": [
+   "...nin öncüsü",
+   "...e öncülük eden",
+   "erken dönem öncüsü"
+  ],
+  "tip": "Genellikle 'a forerunner of' kalıbıyla kullanılır. Spor yarışmasında önde giden kişi anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "millennium",
+  "senses": [
+   "bin yıl; binyıl",
+   "milenyum; binyılın dönümü"
+  ],
+  "ex": [
+   "Bu eski ağaç bin yıldan fazla ayakta kaldı.",
+   "Son bin yıl boyunca tarımdaki gelişmeler, toplumların gıda üretme ve artan nüfusu besleme biçimini değiştirdi."
+  ],
+  "col": [
+   "son bin yıl",
+   "binyılın dönümü",
+   "milenyum kutlamaları"
+  ],
+  "tip": "Yazımda 'l' ve 'n' harflerinin ikişer kez yazıldığına dikkat edin. Çoğulu genellikle 'millennia' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "antiquated",
+  "senses": [
+   "eskimiş; modası geçmiş"
+  ],
+  "ex": [
+   "Ofis hâlâ eskimiş bir ısıtma sistemine güveniyor.",
+   "Eski demiryolu altyapısının yenilenmesi, yolcu güvenliğini artırabilir ve ulusal ulaşım ağındaki gecikmeleri azaltabilir."
+  ],
+  "col": [
+   "eskimiş ekipman",
+   "eskimiş sistem",
+   "modası geçmiş yasalar"
+  ],
+  "tip": "Olumsuz bir anlam taşır ve modern kullanım için uygun olmayacak kadar eski anlamına gelir. 'Antique' ise değerli eski eşyalar için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "corps",
+  "senses": [
+   "birlik; kolordu",
+   "ekip; heyet"
+  ],
+  "ex": [
+   "Kuzenim üniversiteyi bitirdikten sonra sağlık birliğine katıldı.",
+   "Diplomatik heyet, gerginlik dönemlerinde hükümetler arasındaki iletişimi sürdürerek uluslararası iş birliğini destekleyebilir."
+  ],
+  "col": [
+   "sağlık birliği",
+   "diplomatik heyet",
+   "basın mensupları"
+  ],
+  "tip": "Tekil ve çoğul yazımı aynıdır. Tekilde 'ps' okunmaz, çoğulda sonu /z/ ile okunur.",
+  "note": ""
+ },
+ {
+  "id": "wedge",
+  "senses": [
+   "kama; takoz",
+   "sıkıştırmak; tıkıştırmak"
+  ],
+  "ex": [
+   "Ağır kapının altına ahşap bir takoz soktu.",
+   "Kaynakların paylaşımına ilişkin anlaşmazlıklar, komşu topluluklar arasına nifak sokabilir ve bölgesel iş birliğini zayıflatabilir."
+  ],
+  "col": [
+   "ahşap takoz",
+   "bir dilim peynir",
+   "kapıyı takozla açık tutmak",
+   "arasını açmak"
+  ],
+  "tip": "'Drive a wedge between' kalıbı iki taraf arasına ayrılık sokmak anlamına gelir. 'Wedge' fiil olarak bir yere sıkıştırmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "brewery",
+  "senses": [
+   "bira fabrikası"
+  ],
+  "ex": [
+   "Eski bira fabrikası, yerel halkın gözde bir müzesi hâline geldi.",
+   "Tarihi bir bira fabrikasının kültür merkezine dönüştürülmesi, endüstri mirasını korurken yeni iş imkânları da yaratabilir."
+  ],
+  "col": [
+   "yerel bira fabrikası",
+   "zanaat bira fabrikası",
+   "bira fabrikası turu"
+  ],
+  "tip": "Bira üreten ticari tesisi anlatır. Şarap üreten yer için 'winery' kullanılır.",
+  "note": ""
+ }
+]

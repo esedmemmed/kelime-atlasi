@@ -1,0 +1,283 @@
+[
+ {
+  "id": "ferry",
+  "senses": [
+   "feribot; vapur",
+   "taşımak; nakletmek"
+  ],
+  "ex": [
+   "Bu sabah gölün karşısına feribotla geçtik.",
+   "Güvenilir feribot seferleri, adalardaki toplulukları yıl boyunca anakara üzerindeki hastaneler, okullar ve iş olanaklarına bağlar."
+  ],
+  "col": [
+   "feribota binmek",
+   "feribot iskelesi",
+   "feribot seferi"
+  ],
+  "tip": "Çoğul biçimi ferries'tir. Fiil olarak araç kullanarak insanları tekrar tekrar taşımak anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "state",
+  "senses": [
+   "durum; hal",
+   "devlet; eyalet",
+   "belirtmek; ifade etmek"
+  ],
+  "ex": [
+   "Yemekten sonra mutfak berbat bir haldeydi.",
+   "Raporda, bireylerin özel araçlara bağımlılığını azaltmak için güvenilir toplu taşımanın şart olduğu belirtiliyor."
+  ],
+  "col": [
+   "iyi durumda olmak",
+   "zihin durumu",
+   "devlet finansmanı",
+   "açıkça belirtmek"
+  ],
+  "tip": "Fiil olarak state resmi bir kullanımdır ve that ile kurulan yan cümleyi alabilir. İsim olarak hem durum hem de devlet anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "column",
+  "senses": [
+   "sütun",
+   "köşe yazısı",
+   "sütun; direk"
+  ],
+  "ex": [
+   "Fiyatları her ürünün yanındaki sütuna yazın.",
+   "Gazetenin haftalık bilim köşesi, okurların yeni keşiflerin günlük hayatı nasıl etkileyebileceğini anlamasına yardımcı oluyor."
+  ],
+  "col": [
+   "bir sütun rakam",
+   "gazete köşesi",
+   "taş sütun",
+   "bir duman sütunu"
+  ],
+  "tip": "Column dikey sıralamayı, row ise yatay satırı ifade eder. Sonundaki n harfi okunmaz.",
+  "note": ""
+ },
+ {
+  "id": "remind",
+  "senses": [
+   "hatırlatmak",
+   "anımsatmak"
+  ],
+  "ex": [
+   "Ayrılmadan önce şemsiyemi almamı hatırlatır mısın?",
+   "Okullar, çevrim içi öğrenme platformlarını kullanırken öğrencilere kişisel bilgilerini korumalarını düzenli olarak hatırlatmalı."
+  ],
+  "col": [
+   "birine bir şeyi yapmasını hatırlatmak",
+   "birine bir şeyi anımsatmak",
+   "nazikçe hatırlatmak"
+  ],
+  "tip": "Birine bir şeyi yapmasını hatırlatmak için remind someone to do kalıbını, bir şeyi anımsatmak için remind someone of kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "promote",
+  "senses": [
+   "teşvik etmek; desteklemek",
+   "terfi ettirmek",
+   "tanıtmak; reklamını yapmak"
+  ],
+  "ex": [
+   "Yerel kulübümüz, ücretsiz hafta sonu sürüşleriyle bisiklet sporunu teşvik ediyor.",
+   "Okullar, besleyici yemekler sunarak ve öğrencileri düzenli egzersize yönlendirerek daha sağlıklı yaşam tarzlarını teşvik edebilir."
+  ],
+  "col": [
+   "ekonomik büyümeyi teşvik etmek",
+   "farkındalığı artırmak",
+   "müdürlüğe terfi etmek",
+   "bir ürünü tanıtmak"
+  ],
+  "tip": "Bir pozisyona terfi etmek için be promoted to + pozisyon kalıbını kullanın. Örneğin: be promoted to manager.",
+  "note": ""
+ },
+ {
+  "id": "orchestra",
+  "senses": [
+   "senfoni orkestrası"
+  ],
+  "ex": [
+   "Işıklar kararırken orkestra çalmaya başladı.",
+   "Kamu finansmanı, yerel orkestranın uygun fiyatlı konserler vermesine ve klasik müziği genç dinleyicilerle buluşturmasına yardımcı oluyor."
+  ],
+  "col": [
+   "senfoni orkestrası",
+   "orkestrayı yönetmek",
+   "bir orkestrada çalmak"
+  ],
+  "tip": "Orchestra tüm topluluğu ifade eder. Yaylı, üflemeli ve vurmalı çalgıları içeren büyük bir müzisyen grubudur.",
+  "note": ""
+ },
+ {
+  "id": "physical",
+  "senses": [
+   "bedensel; fiziksel",
+   "maddi; somut",
+   "fiziksel"
+  ],
+  "ex": [
+   "Her hafta sonu bahçecilik bana bol miktarda bedensel egzersiz sağlıyor.",
+   "Düzenli fiziksel aktivite, halk sağlığını iyileştirebilir ve ulusal sağlık sistemleri üzerindeki mali baskıyı azaltabilir."
+  ],
+  "col": [
+   "bedensel aktivite",
+   "fiziksel sağlık",
+   "fiziksel özellikler",
+   "somut kanıt"
+  ],
+  "tip": "Physical genellikle bedensel veya maddi anlamda kullanılır. Zihinsel olanı belirtmek için mental, fizikselliği belirtmek için physiological ayrımını gözetin.",
+  "note": ""
+ },
+ {
+  "id": "pipe",
+  "senses": [
+   "boru; tüp",
+   "borularla taşımak",
+   "pipo"
+  ],
+  "ex": [
+   "Lavabonun altındaki kırık borudan su damlıyordu.",
+   "Hasarlı su borularını yenilemek, şehirlerin kaynaklarını korumasına ve temiz içme suyunun güvenilir biçimde sağlanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "su borusu",
+   "patlamış boru",
+   "suyu ... e borularla taşımak"
+  ],
+  "tip": "Pipe fiil olarak da kullanılır: pipe water to ile suyun bir yere borularla iletildiğini ifade edebilirsiniz.",
+  "note": ""
+ },
+ {
+  "id": "billion",
+  "senses": [
+   "milyar",
+   "sayısız; milyarlarca"
+  ],
+  "ex": [
+   "Bilim müzesinde milyar yıllık bir kaya sergileniyordu.",
+   "Hükümetler, ekonomik büyümeyi desteklemek ve izole topluluklara ulaşmak için ulaşım altyapısına milyarlarca dolar harcıyor."
+  ],
+  "col": [
+   "bir milyar dolar",
+   "milyarlarca insan",
+   "bir milyar yıl"
+  ],
+  "tip": "Belirli bir sayıdan sonra billion'a s eklenmez. Genel anlamda çok büyük miktarı belirtmek için billions of kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "medical",
+  "senses": [
+   "tıbbi; sağlıkla ilgili",
+   "sağlık muayenesi"
+  ],
+  "ex": [
+   "Bir misafir bayılınca otel tıbbi yardım çağırdı.",
+   "Hükümetler, hastanelerin genellikle uzak olduğu kırsal bölgelerde sağlık hizmetlerine erişimi iyileştirmeli."
+  ],
+  "col": [
+   "tıbbi tedavi",
+   "tıbbi araştırma",
+   "sağlık bakımı",
+   "sağlık muayenesinden geçmek"
+  ],
+  "tip": "Medical isim olarak özellikle İngiliz İngilizcesinde 'sağlık muayenesi' anlamında kullanılır; doktoru değil, muayeneyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "stripes",
+  "senses": [
+   "çizgi; şerit"
+  ],
+  "ex": [
+   "En sevdiğim gömleğin ön tarafında mavi çizgiler var.",
+   "Araştırmacılar, zebra çizgilerinin ısırgan böcekleri nasıl caydırabileceğini inceliyor; bu da hayvan yetiştiriciliğini korumak için faydalı yöntemlere ışık tutabilir."
+  ],
+  "col": [
+   "dikey çizgiler",
+   "yatay çizgiler",
+   "ince çizgiler",
+   "siyah beyaz çizgiler"
+  ],
+  "tip": "Stripes, stripe sözcüğünün çoğuludur. 'Çizgili' anlamındaki sıfat ise striped biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "editor",
+  "senses": [
+   "editör; yayın yönetmeni",
+   "kurgucu; montajcı",
+   "düzenleme programı"
+  ],
+  "ex": [
+   "Editör, öyküme daha net bir son önerdi.",
+   "Bir gazete editörü, kamuoyunun bilgi alma hakkı ile bireylerin gizliliğine saygı arasında denge kurmalıdır."
+  ],
+  "col": [
+   "baş editör",
+   "film kurgucusu",
+   "metin düzenleyici",
+   "bir derginin editörü"
+  ],
+  "tip": "Editor hem yazılı içerik hazırlayan kişiyi hem de dijital içeriği değiştirmek için kullanılan yazılımı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "mixture",
+  "senses": [
+   "karışım"
+  ],
+  "ex": [
+   "Mısır gevrek, pürüzsüz ve kremsi olana kadar karıştırın.",
+   "Başarılı şehirler; uygun fiyatlı konut, güvenilir ulaşım ve erişilebilir kamusal alanların karışımını sunar."
+  ],
+  "col": [
+   "bir karışım",
+   "karışımı karıştırmak",
+   "zengin bir karışım"
+  ],
+  "tip": "a mixture of kalıbından sonra hem madde hem de soyut kavramlar gelebilir. Örneğin: a mixture of joy and fear.",
+  "note": ""
+ },
+ {
+  "id": "delay",
+  "senses": [
+   "ertelemek; geciktirmek",
+   "gecikme; bekleme"
+  ],
+  "ex": [
+   "Yoğun kar uçuşumuzu ertesi sabaha kadar geciktirdi.",
+   "Toplu taşımadaki gecikmeler verimliliği düşürebilir ve insanları arabalarını evde bırakmaktan caydırabilir."
+  ],
+  "col": [
+   "bir kararı ertelemek",
+   "uzun bir gecikme",
+   "derhal; gecikmeden",
+   "bir şeyi yapmayı ertelemek"
+  ],
+  "tip": "Fiil olarak delay'den sonra doing biçiminde fiilin -ing hali gelir (delay doing). To infinitive kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "laughter",
+  "senses": [
+   "kahkaha; gülüşme"
+  ],
+  "ex": [
+   "Yavru köpek hapşırınca mutfak kahkahalarla doldu.",
+   "Birlikte gülmek toplumsal bağları güçlendirebilir ve insanların zorlu iş ortamlarındaki stresi yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kahkahaya boğulmak",
+   "kahkahalarla gülmek",
+   "bir kahkaha patlaması",
+   "bulaşıcı kahkaha"
+  ],
+  "tip": "Laughter isim olarak sayılamaz. 'Bir kahkaha' anlamında a burst of laughter ya da a fit of laughter gibi kalıplar kullanılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,283 @@
+[
+ {
+  "id": "alter",
+  "senses": [
+   "değiştirmek",
+   "tadil etmek"
+  ],
+  "ex": [
+   "Bu pantolonu daha iyi otursun diye tadil edebilir misiniz?",
+   "Yükselen sıcaklıklar yağış düzenlerini değiştirebilir ve kurak bölgelerdeki çiftçiler için ciddi sorunlar yaratabilir."
+  ],
+  "col": [
+   "planları değiştirmek",
+   "önemli ölçüde değiştirmek",
+   "görünüşü değiştirmek"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılabilir. Altar (sunak) ile karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "gambler",
+  "senses": [
+   "kumarbaz",
+   "risk alan kişi; cesur"
+  ],
+  "ex": [
+   "Kumarbaz parasını kaybettikten sonra masadan ayrıldı.",
+   "Destek hizmetleri, sorunlu bir kumarbazın mali istikrarını yeniden kazanmasına ve ailesiyle ilişkilerini onarmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sorunlu kumarbaz",
+   "kronik kumarbaz",
+   "profesyonel kumarbaz"
+  ],
+  "tip": "Gamble fiil ya da isimdir, gambler ise bu eylemi yapan kişiyi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "anticlockwise",
+  "senses": [
+   "saat yönünün tersine",
+   "saat yönünün tersine olan"
+  ],
+  "ex": [
+   "Kavanozu açmak için kapağı saat yönünün tersine çevirin.",
+   "Deneyde katılımcılar bir kolu saat yönünün tersine döndürürken araştırmacılar kas aktivitesindeki değişimleri ölçtü."
+  ],
+  "col": [
+   "saat yönünün tersine çevirmek",
+   "saat yönünün tersine döndürmek",
+   "saat yönünün tersi bir yön"
+  ],
+  "tip": "İngiliz İngilizcesinde anticlockwise, Amerikan İngilizcesinde ise counterclockwise daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "congested",
+  "senses": [
+   "tıkanık; kalabalık",
+   "tıkanık; dolu"
+  ],
+  "ex": [
+   "Yollar o kadar tıkanmıştı ki eve yürüyerek gitmek zorunda kaldık.",
+   "Güvenilir toplu taşımaya yatırım yapmak, tıkanık yollardaki trafiği azaltabilir ve şehirlerde hava kalitesini iyileştirebilir."
+  ],
+  "col": [
+   "tıkanık yollar",
+   "yoğun biçimde tıkanık",
+   "tıkanık şehir merkezi",
+   "tıkanmış burun"
+  ],
+  "tip": "Hem trafik hem de burun tıkanıklığı için kullanılır. Anlam bağlama göre belirlenir.",
+  "note": ""
+ },
+ {
+  "id": "ultimate",
+  "senses": [
+   "nihai; son",
+   "en üst düzeyde; en iyi"
+  ],
+  "ex": [
+   "Bizim nihai hedefimiz küçük bir ev satın almak.",
+   "Kamu taşımacılığı yatırımının asıl amacı, herkes için uygun fiyatlı ve güvenilir ulaşım sağlamak olmalıdır."
+  ],
+  "col": [
+   "nihai hedef",
+   "nihai sorumluluk",
+   "konforun en üst düzeyi"
+  ],
+  "tip": "Bir sürecin son aşamasını ya da en yüksek düzeyi ifade eder, son zamanlarda olanı değil.",
+  "note": ""
+ },
+ {
+  "id": "regulate",
+  "senses": [
+   "düzenlemek; denetlemek",
+   "ayarlamak; dengelemek"
+  ],
+  "ex": [
+   "Bu küçük cihaz, evin içindeki sıcaklığı dengelemeye yardımcı olur.",
+   "Hükümetler, küçük işletmelere gereksiz yük getirmeden halk sağlığını korumak için endüstriyel emisyonları düzenlemelidir."
+  ],
+  "col": [
+   "bir sektörü düzenlemek",
+   "emisyonları denetlemek",
+   "vücut ısısını düzenlemek",
+   "sıkı biçimde denetlenen"
+  ],
+  "tip": "Geçişli bir fiildir; nesnesi doğrudan gelir: regulate temperature (of değil).",
+  "note": ""
+ },
+ {
+  "id": "seldom",
+  "senses": [
+   "nadiren; seyrek"
+  ],
+  "ex": [
+   "Birlikte yemek pişirmekten keyif aldığımız için dışarıda nadiren yemek yeriz.",
+   "Kırsal topluluklar, büyük kentsel merkezlerle aynı düzeyde kamu taşımacılığı yatırımını nadiren alır."
+  ],
+  "col": [
+   "nadiren görülen",
+   "nadiren kullanılan",
+   "nadiren ortaya çıkmak"
+  ],
+  "tip": "Genellikle asıl fiilden önce, be fiilinden sonra gelir. Cümle başında kullanılırsa devrik yapı gerekir.",
+  "note": ""
+ },
+ {
+  "id": "default",
+  "senses": [
+   "varsayılan ayar; öntanımlı seçenek",
+   "borç ödememe; temerrüt",
+   "temerrüde düşmek; ödememek"
+  ],
+  "ex": [
+   "Bu uygulama varsayılan olarak koyu bir arka plan kullanır.",
+   "İşsizlik arttığında ve hane gelirleri düştüğünde borçluların kredilerini geri ödemede temerrüde düşme olasılığı daha yüksektir."
+  ],
+  "col": [
+   "varsayılan olarak",
+   "varsayılan ayar",
+   "kredi borcunu ödememek",
+   "borç temerrüdü"
+  ],
+  "tip": "By default 'varsayılan olarak' demektir. Default on a loan ise borcu ödememek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "sparkling",
+  "senses": [
+   "parlayan; ışıltılı",
+   "gazlı; köpüklü",
+   "canlı; zeki; eğlenceli"
+  ],
+  "ex": [
+   "Parlayan bileziği güneş ışığına doğru tuttu.",
+   "Restoranlar, ithal şişelenmiş alternatifler yerine yerel olarak filtrelenmiş gazlı su servis ederek ambalaj atığını azaltabilir."
+  ],
+  "col": [
+   "gazlı su",
+   "ışıl ışıl gözler",
+   "canlı bir sohbet"
+  ],
+  "tip": "İçeceklerde sparkling gazlı, still ise gazsız anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "reverse",
+  "senses": [
+   "geri gitmek; tersine çevirmek",
+   "ters; karşıt",
+   "tersi; arka yüz"
+  ],
+  "ex": [
+   "Arabayı yavaşça geri vites yaparak garaja soktu.",
+   "Yenilenebilir enerjiye yapılan yatırım, elektrik üretiminden kaynaklanan son dönemdeki emisyon artışını tersine çevirmeye yardımcı olabilir."
+  ],
+  "col": [
+   "kararı geri almak",
+   "eğilimi tersine çevirmek",
+   "ters sırada",
+   "arka yüz"
+  ],
+  "tip": "Araç için geri vites anlamında kullanılır. Bir kararı geri almak için de kullanılabilir: reverse a decision.",
+  "note": ""
+ },
+ {
+  "id": "grant",
+  "senses": [
+   "hibe; destek ödeneği",
+   "resmen izin vermek",
+   "kabul etmek; tanımak"
+  ],
+  "ex": [
+   "Küçük bir hibe sayesinde köy oyun alanını onarabildi.",
+   "Hükümetler, evsel enerji tüketimini azaltmaya yönelik uygun maliyetli teknolojiler geliştiren üniversitelere araştırma hibeleri sağlamalıdır."
+  ],
+  "col": [
+   "hibe için başvurmak",
+   "araştırma hibesi",
+   "izin vermek",
+   "bir şeyi hafife almak"
+  ],
+  "tip": "grant sb sth biçimi grant sth to sb biçimine çevrilebilir. Take for granted 'hafife almak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "deputy",
+  "senses": [
+   "yardımcı; vekil",
+   "milletvekili"
+  ],
+  "ex": [
+   "Müdür, bugünkü toplantıyı yönetmesi için yardımcısından istedi.",
+   "Yetkin bir yardımcı atamak, okul yöneticilerinin idari sorumlulukları paylaşmasına ve eğitimin iyileştirilmesine odaklanmasına olanak tanır."
+  ],
+  "col": [
+   "müdür yardımcısı",
+   "okul müdür yardımcısı",
+   "yardımcı atamak",
+   "vekil olarak görev yapmak"
+  ],
+  "tip": "Genellikle unvanın önünde kullanılır, örneğin deputy director. Tüm temsilcileri değil, yardımcıyı ya da vekili ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "rash",
+  "senses": [
+   "düşüncesiz; aceleci",
+   "döküntü; kızarıklık"
+  ],
+  "ex": [
+   "Hava durumuna bakmadan çıkmak düşüncesizceydi.",
+   "Kentsel gelişim konusunda aceleci kararlar, topluluklarda yetersiz ulaşıma ve sınırlı yeşil alan erişimine yol açabilir."
+  ],
+  "col": [
+   "aceleci bir karar",
+   "düşüncesiz bir söz",
+   "döküntü çıkmak",
+   "cilt döküntüsü"
+  ],
+  "tip": "Sıfat olarak 'düşüncesiz', isim olarak 'cilt döküntüsü' anlamına gelir. İsim olarak genellikle a rash biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "remains",
+  "senses": [
+   "artıklar; kalıntılar",
+   "eski eserler; kalıntılar",
+   "kalıntılar; ölünün kemikleri"
+  ],
+  "ex": [
+   "Piknikten kalan artıklar küçük bir torbayı doldurdu.",
+   "Antik yerleşimlerin kalıntıları, erken toplulukların çevresel değişime nasıl uyum sağladığına dair değerli kanıtlar sunar."
+  ],
+  "col": [
+   "yemeğin artıkları",
+   "arkeolojik kalıntılar",
+   "insan kalıntıları"
+  ],
+  "tip": "İsim olarak genellikle çoğul kullanılır. 'Remain' fiiliyle karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "stump",
+  "senses": [
+   "kütük; ağaç kökü",
+   "şaşırtmak; çaresiz bırakmak"
+  ],
+  "ex": [
+   "Öğle yemeği yemek için bir ağaç kütüğüne oturduk.",
+   "Ağaç kütüklerinin sökülmesi orman toprağını bozabilir ve böcekler ile diğer küçük canlıların yaşam alanlarını yok edebilir."
+  ],
+  "col": [
+   "ağaç kütüğü",
+   "kütüğü sökmek",
+   "bir soru karşısında şaşırmak"
+  ],
+  "tip": "Be stumped by bir soruya cevap verememek anlamındadır, 'tökezlemek' anlamına gelmez.",
+  "note": ""
+ }
+]

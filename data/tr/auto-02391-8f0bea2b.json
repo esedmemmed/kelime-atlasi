@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ashtray",
+  "senses": [
+   "küllük"
+  ],
+  "ex": [
+   "Boş bir cam küllük dış mekândaki masanın üzerinde duruyordu.",
+   "Sigara içilebilecek belirlenmiş alanlara küllük konulması izmarit kirliliğini azaltabilir; ancak halk sağlığını korumak için daha geniş önlemler gerekir."
+  ],
+  "col": [
+   "cam küllük",
+   "küllüğü boşaltmak",
+   "sigara küllüğü"
+  ],
+  "tip": "Sayılabilir isimdir; a/an ile ya da çoğul ashtrays biçiminde kullanılır. ash (kül) ve tray (tepsi) sözcüklerinden oluşur.",
+  "note": ""
+ },
+ {
+  "id": "ingredient",
+  "senses": [
+   "malzeme; içerik",
+   "unsur; etken"
+  ],
+  "ex": [
+   "Taze zencefil bu çorbanın başlıca malzemesidir.",
+   "Kamu güveni, çevre politikalarının başarıyla uygulanması için vazgeçilmez bir unsurdur."
+  ],
+  "col": [
+   "başlıca malzeme",
+   "taze malzemeler",
+   "vazgeçilmez unsur"
+  ],
+  "tip": "Sayılabilir isimdir. Hem yemek malzemesi hem de bir sonucu oluşturan etken anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "apology",
+  "senses": [
+   "özür; özür dileme"
+  ],
+  "ex": [
+   "Gürültü için komşuma bir özür yazdım.",
+   "Samimi bir kamu özrü, kuruluşların hatalarının ardından güveni yeniden kurmasına yardımcı olabilir; ancak pratik değişiklikler de gereklidir."
+  ],
+  "col": [
+   "özür dilemek",
+   "özrü kabul etmek",
+   "samimi bir özür",
+   "birine özür borçlu olmak"
+  ],
+  "tip": "Kalıp: apology to someone for something. Fiil karşılığı apologise (to someone for something) biçimindedir.",
+  "note": ""
+ },
+ {
+  "id": "harbour",
+  "senses": [
+   "liman; körfez",
+   "içinde tutmak; beslemek",
+   "saklamak; barındırmak"
+  ],
+  "ex": [
+   "Küçük balıkçı tekneleri gün batımından önce limana döndü.",
+   "Limanın genişletilmesi ticareti artırabilir; ancak inşaat yakındaki kıyı yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "doğal liman",
+   "şüpheler beslemek",
+   "kin beslemek"
+  ],
+  "tip": "İngiliz İngilizcesinde harbour, Amerikan İngilizcesinde harbor yazılır. Fiil olarak duygu ve düşünceler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "written",
+  "senses": [
+   "yazılı",
+   "yazılmış"
+  ],
+  "ex": [
+   "Takip edebilmem için lütfen yazılı talimatlar gönderin.",
+   "Yazılı geri bildirim, öğrencilerin hatalarını gözden geçirmesine ve zaman içinde performanslarını geliştirmesine olanak tanır."
+  ],
+  "col": [
+   "yazılı izin",
+   "yazılı anlaşma",
+   "yazılı sınav",
+   "yazılı geri bildirim"
+  ],
+  "tip": "write–wrote–written düzenini izler. Sıfat olarak sözlü karşıtı anlamında 'yazılı' demektir.",
+  "note": ""
+ },
+ {
+  "id": "blank",
+  "senses": [
+   "boş",
+   "bön; ifadesiz",
+   "boşluk"
+  ],
+  "ex": [
+   "Bana boş bir kâğıt ve birkaç kurşun kalem uzattı.",
+   "Boş bir sayfa, öğrencilerin fikirlerini sabit bir şablon olmadan düzenlemesine izin vererek yaratıcı düşünmeyi teşvik edebilir."
+  ],
+  "col": [
+   "boş sayfa",
+   "ifadesiz bir yüz",
+   "boşlukları doldurmak",
+   "aklı boşalmak"
+  ],
+  "tip": "go blank: zihnin bir anda boşalması, bir şeyi hatırlayamamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "leisure",
+  "senses": [
+   "boş zaman; boş vakit"
+  ],
+  "ex": [
+   "Boş zamanlarının çoğunu bahçede geçiriyor.",
+   "Kamu parkları, kentlilerin dinlenmesine ve sosyal bağlarını sürdürmesine yardımcı olan uygun fiyatlı alanlar sunar."
+  ],
+  "col": [
+   "boş zaman",
+   "boş zaman etkinlikleri",
+   "spor ve eğlence merkezi",
+   "müsait olduğunda"
+  ],
+  "tip": "Genellikle sayılamaz isimdir. 'at your leisure' kalıbı 'acele etmeden, müsait olduğunda' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "prepared",
+  "senses": [
+   "hazırlıklı",
+   "istekli; razı"
+  ],
+  "ex": [
+   "Yedek piller hazır olduğu için elektrik kesintisine karşı hazırlıklıydık.",
+   "Pratik deneyim kazanan mezunlar, rekabetçi iş piyasasının taleplerine genellikle daha iyi hazırlıklı olur."
+  ],
+  "col": [
+   "acil durumlara hazırlıklı",
+   "tamamen hazır",
+   "uzlaşmaya razı"
+  ],
+  "tip": "prepared for + isim (için hazırlıklı); prepared to + fiil (bir şeyi yapmaya istekli) yapısını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "entry",
+  "senses": [
+   "giriş; girme hakkı",
+   "kayıt; madde",
+   "yarışma eseri; katılımcı"
+  ],
+  "ex": [
+   "Yüzme havuzuna bugün giriş ücretsiz.",
+   "Katı giriş koşulları, dezavantajlı kesimden yetenekli öğrencilerin yükseköğretime erişimini engelleyebilir."
+  ],
+  "col": [
+   "giriş koşulları",
+   "ücretsiz giriş",
+   "günlük kaydı",
+   "yarışma başvurusu"
+  ],
+  "tip": "Bir yere girme anlamında entry to kullanılır; fiziksel kapı ve giriş yeri için entrance tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "review",
+  "senses": [
+   "eleştiri; değerlendirme",
+   "inceleme; gözden geçirme",
+   "gözden geçirmek; değerlendirmek"
+  ],
+  "ex": [
+   "Yorumu, romanın tamamını okumaya beni ikna etti.",
+   "Hükümetler, uygun fiyatlı konutların düşük gelirli ailelere ulaşılabilir kalmasını sağlamak için konut politikalarını düzenli olarak gözden geçirmelidir."
+  ],
+  "col": [
+   "değerlendirme yazmak",
+   "kapsamlı inceleme",
+   "bir politikayı gözden geçirmek",
+   "notlarını tekrar etmek"
+  ],
+  "tip": "Ders tekrarı anlamında Amerikan İngilizcesinde review, İngiliz İngilizcesinde revise kullanılır. Kitap ya da ürün eleştirisi için de review kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "highway",
+  "senses": [
+   "ana yol; karayolu"
+  ],
+  "ex": [
+   "Gün batımına kadar sahil boyunca ana yolu takip ettik.",
+   "Yeni bir karayolu inşa etmek seyahat sürelerini kısaltabilir, ancak yakındaki yaban hayatı yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "büyük anayol",
+   "karayolu inşaatı",
+   "karayolu bakımı"
+  ],
+  "tip": "Özellikle Amerikan İngilizcesinde yaygındır. Her zaman bariyerli otoyol anlamına gelmez; şehirleri birbirine bağlayan genel ana yolları da kapsar.",
+  "note": ""
+ },
+ {
+  "id": "survey",
+  "senses": [
+   "anket; araştırma",
+   "anket yapmak; veri toplamak",
+   "ölçmek; incelemek"
+  ],
+  "ex": [
+   "Yerel kütüphanemiz hakkında kısa bir ankete katıldım.",
+   "Yakın tarihli bir araştırma, daha güvenli güzergâhlar olsaydı birçok işe gidip gelenin daha sık bisiklete binebileceğini gösteriyor."
+  ],
+  "col": [
+   "anket yapmak",
+   "anket sonuçları",
+   "anket katılımcıları",
+   "araziyi ölçmek"
+  ],
+  "tip": "İsimde vurgu ilk hecededir (SUR-vey); fiilde son hecededir (sur-VEY).",
+  "note": ""
+ },
+ {
+  "id": "require",
+  "senses": [
+   "gerektirmek; ihtiyaç duymak",
+   "zorunlu kılmak; şart koşmak"
+  ],
+  "ex": [
+   "Bu bitkiler bol güneş ışığına ve düzenli sulamaya ihtiyaç duyar.",
+   "Hükümetler, üreticilerin ürünleri değiştirmek yerine onarmak için açık talimatlar sunmasını zorunlu kılmalıdır."
+  ],
+  "col": [
+   "yardım gerektirmek",
+   "dikkat gerektirmek",
+   "bir şeyi yapmakla yükümlü olmak",
+   "daha fazla araştırma gerektirmek"
+  ],
+  "tip": "require sb to do sth: birinin bir şeyi yapmasını zorunlu kılmak. Üçüncü tekil şahısta requires biçiminde -s alır.",
+  "note": ""
+ },
+ {
+  "id": "attitude",
+  "senses": [
+   "tutum; görüş"
+  ],
+  "ex": [
+   "Neşeli tavrı, yağmurlu sabahları bile daha aydınlık hissettiriyor.",
+   "Okullar, öğrencilere sürekli eleştiri yerine yapıcı geri bildirim vererek öğrenmeye karşı olumlu bir tutumu teşvik edebilir."
+  ],
+  "col": [
+   "olumlu tutum",
+   "...e karşı tutum",
+   "tutum değişikliği",
+   "toplumsal tutumlar"
+  ],
+  "tip": "Bir şeye karşı tutum için genellikle attitude to ya da attitude towards kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tend",
+  "senses": [
+   "eğilim göstermek; genellikle ... yapmak",
+   "bakmak; ilgilenmek"
+  ],
+  "ex": [
+   "Büyük bir öğle yemeğinden sonra genellikle uykulu hissederim.",
+   "İnsanlar, hizmetler güvenilir, uygun fiyatlı ve erişimi kolay olduğunda toplu taşımayı daha sık kullanma eğilimindedir."
+  ],
+  "col": [
+   "genellikle bir şey yapmak",
+   "...e doğru eğilim göstermek",
+   "bahçeyle ilgilenmek",
+   "yaralılara bakmak"
+  ],
+  "tip": "tend to do sth: genellikle bir şey yapma eğilimi. tend to sb: birine bakmak. İki kalıbın anlamları farklıdır.",
+  "note": ""
+ }
+]

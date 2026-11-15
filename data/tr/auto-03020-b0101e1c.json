@@ -1,0 +1,277 @@
+[
+ {
+  "id": "originally",
+  "senses": [
+   "başlangıçta; ilk önce",
+   "aslen; kökenen"
+  ],
+  "ex": [
+   "Bu kafe başlangıçta çiçek satan küçük bir dükkândı.",
+   "Başlangıçta fabrika olarak tasarlanan birçok bina, artan kentsel talebi karşılamak için konutlara dönüştürüldü."
+  ],
+  "col": [
+   "başlangıçta planlanan",
+   "başlangıçta ... için tasarlanan",
+   "aslen ... kökenli"
+  ],
+  "tip": "Başlangıçtaki durumu anlatır ve sonradan bir değişiklik olduğunu ima eder. 'currently' (şu anda) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "judge",
+  "senses": [
+   "değerlendirmek; yargılamak",
+   "hâkim",
+   "hakem; jüri üyesi"
+  ],
+  "ex": [
+   "Çorbayı tatmadan yargılama.",
+   "Okullar, öğrencileri yalnızca sınav sonuçlarına bağlı kalmak yerine çeşitli yeteneklerine göre değerlendirmelidir."
+  ],
+  "col": [
+   "görünüşe bakarak yargılamak",
+   "adil değerlendirmek",
+   "jüri heyeti",
+   "mahkeme hâkimi"
+  ],
+  "tip": "'judge A by B' kalıbı A'yı B'ye göre değerlendirmek anlamına gelir. Fiil olarak kullanıldığında nesnesi genellikle kişi ya da şeydir.",
+  "note": ""
+ },
+ {
+  "id": "duty",
+  "senses": [
+   "görev; sorumluluk",
+   "nöbet; görev",
+   "gümrük vergisi"
+  ],
+  "ex": [
+   "Bu hayvanları güvende tutmak benim görevim.",
+   "Hükümetlerin, kamu hizmetlerinin mali açıdan sürdürülebilir kalmasını sağlarken savunmasız vatandaşları koruma sorumluluğu vardır."
+  ],
+  "col": [
+   "görev bilinci",
+   "nöbette; görevde",
+   "ithalat vergisi",
+   "görevleri yerine getirmek"
+  ],
+  "tip": "'on duty' görevde ya da nöbette olmak demektir. Bir işin sorumlulukları anlatıldığında çoğunlukla çoğul 'duties' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "application",
+  "senses": [
+   "başvuru; müracaat",
+   "uygulama; kullanım",
+   "uygulama programı"
+  ],
+  "ex": [
+   "Sabah kahvaltısından önce iş başvurumu gönderdim.",
+   "Başvuru sürecini basitleştirmek, dezavantajlı geçmişe sahip daha fazla öğrencinin üniversite burslarına başvurmasını teşvik edebilir."
+  ],
+  "col": [
+   "başvuru yapmak",
+   "başvuru formu",
+   "pratik uygulama",
+   "yazılım uygulaması"
+  ],
+  "tip": "Bir şey için başvuru 'application for', bir kuruma başvuru ise 'application to' ile kurulur.",
+  "note": ""
+ },
+ {
+  "id": "sunscreen",
+  "senses": [
+   "güneş kremi; güneş koruyucu"
+  ],
+  "ex": [
+   "Plaja gitmeden önce lütfen güneş kremi sür.",
+   "Koruyucu giysilerle birlikte güneş kremi kullanmak, uzun süre güneşe maruz kalmanın neden olduğu cilt hasarını azaltabilir."
+  ],
+  "col": [
+   "güneş kremi sürmek",
+   "güneş kremini yeniden sürmek",
+   "suya dayanıklı güneş kremi"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Kremi sürmek için 'apply' ya da 'put on' fiilleri kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "carbon",
+  "senses": [
+   "karbon"
+  ],
+  "ex": [
+   "Elmaslar ve kalemlerdeki grafit, ikisi de karbon içerir.",
+   "Ormanları korumak karbon depolanmasına yardımcı olur ve atmosfere salınan karbondioksit miktarını azaltır."
+  ],
+  "col": [
+   "karbondioksit",
+   "karbon emisyonları",
+   "karbon ayak izi",
+   "karbon nötr"
+  ],
+  "tip": "'carbon' yalnızca karbon elementini ifade eder. Karbondioksit için 'carbon dioxide' denir.",
+  "note": ""
+ },
+ {
+  "id": "honestly",
+  "senses": [
+   "dürüstçe; açıkça",
+   "gerçekten; açıkçası"
+  ],
+  "ex": [
+   "Lütfen dürüstçe cevap ver: çorbayı beğendin mi?",
+   "Çevresel zorluklar konusunda dürüstçe iletişim kuran şirketler, kamunun kalıcı güvenini kazanma olasılığı daha yüksek olabilir."
+  ],
+  "col": [
+   "dürüstçe cevaplamak",
+   "içtenlikle inanmak",
+   "açık sözlü konuşmak"
+  ],
+  "tip": "'honestly' dürüstlüğü vurgular. Bir şeyin adil olduğunu anlatmak için ise 'fairly' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "childhood",
+  "senses": [
+   "çocukluk; çocukluk dönemi"
+  ],
+  "ex": [
+   "En mutlu çocukluk anılarım büyükannemle kek yapmakla ilgili.",
+   "Çocukluk döneminde güvenli açık alanlara erişim, fiziksel gelişimi ve duygusal iyi oluşu destekleyebilir."
+  ],
+  "col": [
+   "erken çocukluk",
+   "çocukluk anıları",
+   "mutlu bir çocukluk"
+  ],
+  "tip": "'during childhood' genel olarak çocukluk döneminde anlamına gelir. 'in my childhood' ise kişinin kendi çocukluğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "complicated",
+  "senses": [
+   "karmaşık; çetrefilli"
+  ],
+  "ex": [
+   "Bu tarif, hızlı bir öğle yemeği için çok karmaşık.",
+   "Karmaşık başvuru prosedürleri, uygun öğrencileri üniversite eğitimleri için mali destek aramaktan caydırabilir."
+  ],
+  "col": [
+   "karmaşık prosedür",
+   "karmaşık ilişki",
+   "son derece karmaşık"
+  ],
+  "tip": "Anlaşılmasının ya da yönetilmesinin zor olduğunu vurgular. 'complex' ise yapısının çok parçalı olduğunu da belirtebilir.",
+  "note": ""
+ },
+ {
+  "id": "thumb",
+  "senses": [
+   "başparmak",
+   "hızlıca karıştırmak"
+  ],
+  "ex": [
+   "Bir resim asarken yanlışlıkla başparmağıma vurdum.",
+   "Birçok okur, hangi makalelere tam dikkat etmeleri gerektiğine karar vermeden önce basılı dergileri hızla karıştırır."
+  ],
+  "col": [
+   "hızlıca karıştırmak",
+   "onay işareti; beğeni",
+   "genel kural; pratik kural"
+  ],
+  "tip": "'thumb through' hızlıca göz atmak anlamına gelir, ayrıntılı okumak anlamına gelmez. Kelimedeki b harfi sessizdir.",
+  "note": ""
+ },
+ {
+  "id": "client",
+  "senses": [
+   "müşteri; müvekkil",
+   "istemci"
+  ],
+  "ex": [
+   "Tasarımcı müşterisine üç olası mutfak düzeni gösterdi.",
+   "Her müşteriyle açık iletişimi sürdürmek, işletmelerin güven kazanmasına ve kalıcı mesleki ilişkiler kurmasına yardımcı olur."
+  ],
+  "col": [
+   "potansiyel müşteri",
+   "müşteri ihtiyaçları",
+   "müşteri kitlesi",
+   "müvekkil gizliliği"
+  ],
+  "tip": "'client' genellikle uzmanlık hizmeti alan kişi için kullanılır. Sıradan alıcılar için ise 'customer' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "lane",
+  "senses": [
+   "şerit",
+   "dar yol; ara yol",
+   "kulvar"
+  ],
+  "ex": [
+   "Otobüsümüz kaldırımın yanındaki şeride geçti.",
+   "Ayrılmış bisiklet yolları, yol güvenliğini artırabilir ve daha fazla sakinin bisikletle seyahat etmesini teşvik edebilir."
+  ],
+  "col": [
+   "bisiklet yolu",
+   "otobüs şeridi",
+   "şerit değiştirmek",
+   "kırsal yol"
+  ],
+  "tip": "'lane' tek bir şeridi ifade eder. Bütün yolu anlatmak için ise 'road' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "aloud",
+  "senses": [
+   "sesli olarak"
+  ],
+  "ex": [
+   "Ben karıştırırken lütfen tarifi sesli oku.",
+   "Hikâyeleri sesli okumak, küçük çocukların kelime dağarcığını geliştirmesine ve sözlü dili anlamalarını güçlendirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "sesli okumak",
+   "düşüncelerini yüksek sesle söylemek",
+   "sesli söylemek"
+  ],
+  "tip": "'aloud' sesin duyulabilir olduğunu vurgular. 'loudly' gibi yüksek sesle olmayı ifade etmez.",
+  "note": ""
+ },
+ {
+  "id": "thermometer",
+  "senses": [
+   "termometre; ateş ölçer"
+  ],
+  "ex": [
+   "Termometreyi oğlunun diline nazikçe yerleştirdi.",
+   "Hassas termometreler, araştırmacıların küresel ısınmadan etkilenen doğal yaşam alanlarındaki sıcaklık değişimlerini izlemesine yardımcı olur."
+  ],
+  "col": [
+   "dijital termometre",
+   "klinik termometre",
+   "termometreyi okumak"
+  ],
+  "tip": "Vurgu ikinci hecededir. Vücut sıcaklığını ölçmek için genellikle 'take someone's temperature' kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "laundry",
+  "senses": [
+   "çamaşır; yıkanacak giysiler",
+   "çamaşır yıkama; çamaşırhane"
+  ],
+  "ex": [
+   "Lütfen kirli çamaşırlarını sepete koy.",
+   "Ortak çamaşır yıkama tesisleri, su tüketimini azaltabilir ve modern apartman binalarında yer tasarrufu sağlayabilir."
+  ],
+  "col": [
+   "çamaşır yıkamak",
+   "kirli çamaşır",
+   "çamaşır sepeti",
+   "çamaşır yıkama tesisleri"
+  ],
+  "tip": "Çamaşır ya da yıkama işi anlamında genellikle sayılamaz. Yıkama tesisi anlamında 'a laundry' sayılabilir.",
+  "note": ""
+ }
+]

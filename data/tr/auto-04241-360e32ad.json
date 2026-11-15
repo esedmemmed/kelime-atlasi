@@ -1,0 +1,271 @@
+[
+ {
+  "id": "archaeologist",
+  "senses": [
+   "arkeolog"
+  ],
+  "ex": [
+   "Arkeolog, bir kil kasenin üzerindeki toprağı nazikçe fırçaladı.",
+   "Bir arkeolog, araç gereç ve yerleşim izlerini inceleyerek antik toplulukların çevresel değişimlere nasıl uyum sağladığını ortaya çıkarabilir."
+  ],
+  "col": [
+   "bir arkeolog ekibi",
+   "önde gelen bir arkeolog",
+   "saha arkeoloğu"
+  ],
+  "tip": "Arkeolog insan kalıntılarını inceler; dinozorları inceleyen kişi genellikle paleontologdur.",
+  "note": ""
+ },
+ {
+  "id": "republic",
+  "senses": [
+   "cumhuriyet"
+  ],
+  "ex": [
+   "Öğretmenimiz ülkenin nasıl cumhuriyet haline geldiğini anlattı.",
+   "Bir cumhuriyette anayasal kurallar genellikle devlet başkanının yetkilerini ve diğer kamu kurumlarının görevlerini belirler."
+  ],
+  "col": [
+   "cumhuriyet olmak",
+   "cumhuriyet kurmak",
+   "parlamenter cumhuriyet"
+  ],
+  "tip": "Cumhuriyet, devlet başkanının monark olmadığı anlamına gelir; ancak bu tek başına demokrasi olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "chairman",
+  "senses": [
+   "başkan; toplantı başkanı"
+  ],
+  "ex": [
+   "Başkan herkesi karşıladı ve toplantıyı açtı.",
+   "Komitenin başkanı üyelere, önerilen politikanın kırsal toplulukları nasıl etkileyeceğini düşünmeleri konusunda çağrıda bulundu."
+  ],
+  "col": [
+   "yönetim kurulu başkanı",
+   "komite başkanı",
+   "bir başkan atamak"
+  ],
+  "tip": "Cinsiyet gözetmeyen kullanım için chair veya chairperson tercih edilebilir.",
+  "note": ""
+ },
+ {
+  "id": "donation",
+  "senses": [
+   "bağış; bağışlanan şey"
+  ],
+  "ex": [
+   "Hayvan barınağına küçük bir bağışta bulunduk.",
+   "Yerel işletmelerin düzenli bağışları, hayır kurumunun savunmasız sakinlere ücretsiz yemek sunmasını sağlıyor."
+  ],
+  "col": [
+   "bağışta bulunmak",
+   "cömert bağış",
+   "kan bağışı"
+  ],
+  "tip": "Bir kuruma bağış yapmak için make a donation to kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "settlement",
+  "senses": [
+   "uzlaşma; anlaşma",
+   "yerleşim yeri; köy",
+   "ödeme; borç kapatma"
+  ],
+  "ex": [
+   "Komşular hasarlı çit konusunda sonunda bir uzlaşmaya vardı.",
+   "Antik yerleşimler, güvenilir su kaynakları tarımı, ticareti ve günlük yaşamı desteklediği için genellikle nehirlerin yakınında gelişti."
+  ],
+  "col": [
+   "uzlaşmaya varmak",
+   "barış anlaşması",
+   "kırsal yerleşim",
+   "borçların ödenmesi"
+  ],
+  "tip": "Bir anlaşmazlığın çözüm anlaşmasını da insanların yerleştiği yeri de ifade eder; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "bullying",
+  "senses": [
+   "zorbalık; kötü muamele",
+   "zorbalık yapmak; kötü davranmak"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra zorbalığı öğretmenine bildirdi.",
+   "Okullar, zorbalıkla net bildirim prosedürleri ve etkilenen öğrencilere tutarlı destek sağlayarak mücadele etmelidir."
+  ],
+  "col": [
+   "okul zorbalığı",
+   "internette zorbalık",
+   "zorbalığı önlemek"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz; bully fiilinin -ing biçimi olduğu için fiil olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "exaggerated",
+  "senses": [
+   "abartılı; gerçeğin üstünde",
+   "abartılı; dikkat çekici"
+  ],
+  "ex": [
+   "Abartılı hikâyesi, küçük örümceği korkunç derecede büyük gösteriyordu.",
+   "Reklamlardaki abartılı iddialar tüketicileri yanıltabilir ve zamanla işletmelere olan güveni azaltabilir."
+  ],
+  "col": [
+   "abartılı iddialar",
+   "büyük ölçüde abartılmış",
+   "abartılı jestler"
+  ],
+  "tip": "Bir söz ya da davranışın gerçeğinden fazla gösterildiğini anlatır; doğru ya da ölçülü anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "evenly",
+  "senses": [
+   "eşit olarak; düzgün biçimde",
+   "sakin ve dengeli biçimde"
+  ],
+  "ex": [
+   "Tereyağını her dilim ekmeğe eşit şekilde yay.",
+   "Kamu yatırımları, temel hizmetlere erişimdeki eşitsizlikleri azaltmak için bölgeler arasında daha dengeli dağıtılmalıdır."
+  ],
+  "col": [
+   "eşit dağıtılmış",
+   "eşit aralıklı",
+   "eşit bölüşmek",
+   "sakin konuşmak"
+  ],
+  "tip": "Miktarların ya da aralıkların eşit olduğunu vurgular; sürekli anlamına gelen consistently ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "invader",
+  "senses": [
+   "istilacı; işgalci",
+   "istilacı tür"
+  ],
+  "ex": [
+   "Kale surları bir zamanlar köylüleri istilacılardan korurdu.",
+   "Biyolojik istilacılar, besin, alan ve diğer kaynaklar için yerli türlerle rekabet ederek yerel ekosistemleri bozabilir."
+  ],
+  "col": [
+   "yabancı istilacılar",
+   "istilacıları püskürtmek",
+   "biyolojik istilacı"
+  ],
+  "tip": "invader istilacı kişiyi, invasion ise istila eylemini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "interest-free",
+  "senses": [
+   "faizsiz; faizsiz olan"
+  ],
+  "ex": [
+   "Kanepemizi faizsiz bir krediyle satın aldık.",
+   "Faizsiz krediler, öğrencilerin faiz ücretleri nedeniyle mali yüklerini artırmadan yaşam giderlerini karşılamasına yardımcı olabilir."
+  ],
+  "col": [
+   "faizsiz kredi",
+   "faizsiz kredi imkânı",
+   "faizsiz dönem"
+  ],
+  "tip": "Faizsiz, ücretsiz anlamına gelmez; ana para yine de geri ödenmelidir.",
+  "note": ""
+ },
+ {
+  "id": "invisible",
+  "senses": [
+   "görünmez",
+   "fark edilmeyen; yok sayılan"
+  ],
+  "ex": [
+   "İnce olta ip suyun altında neredeyse görünmezdi.",
+   "Birçok hava kirleticisi görünmez olsa da uzun süre maruz kalmak, özellikle çocuklarda solunum sağlığına ciddi zarar verebilir."
+  ],
+  "col": [
+   "çıplak gözle görünmez",
+   "neredeyse görünmez",
+   "görünmez kalmak"
+  ],
+  "tip": "invisible görülemeyen anlamına gelir; anlaşılmayan anlamındaki incomprehensible ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "specialty",
+  "senses": [
+   "uzmanlık alanı",
+   "özel yiyecek; özellik"
+  ],
+  "ex": [
+   "Meyveli turta yapmak her zaman büyükannemin uzmanlık alanı olmuştur.",
+   "Tıbbi bir uzmanlık dalı seçmek, öğrencilerin ilgi alanlarını daha geniş nüfusun sağlık ihtiyaçlarıyla birlikte düşünmesini gerektirir."
+  ],
+  "col": [
+   "tıbbi uzmanlık dalı",
+   "yöresel lezzet",
+   "şefin özel yemeği",
+   "uzmanlık alanı"
+  ],
+  "tip": "Amerikan İngilizcesinde specialty, İngiliz İngilizcesinde ise speciality daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "grand",
+  "senses": [
+   "görkemli; muhteşem",
+   "büyük ölçekli; önemli",
+   "harika; çok güzel"
+  ],
+  "ex": [
+   "Işıltılı bir avizenin altındaki görkemli merdivenlerden çıktık.",
+   "Büyük kamu binalarının korunması yerel kimliği güçlendirebilir, ancak bakım genellikle önemli devlet finansmanı gerektirir."
+  ],
+  "col": [
+   "görkemli merdiven",
+   "büyük bir plan",
+   "muhteşem açılış",
+   "genel toplam"
+  ],
+  "tip": "grand total tüm kalemlerin toplamı anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "pamphlet",
+  "senses": [
+   "broşür; küçük kitapçık"
+  ],
+  "ex": [
+   "Hemşire bana sağlıklı beslenme hakkında bir broşür verdi.",
+   "Halk sağlığı broşürleri, koruyucu önlemleri geniş kitlelere anlatmak için açık bir dil ve resimler kullanmalıdır."
+  ],
+  "col": [
+   "bilgilendirici broşür",
+   "broşür dağıtmak",
+   "sağlık hakkında broşür"
+  ],
+  "tip": "Belli bir konuyu anlatan, kitaptan kısa ince kitapçıkları ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "database",
+  "senses": [
+   "veri tabanı; veri kaynağı"
+  ],
+  "ex": [
+   "Kütüphanenin veri tabanı, bahçecilikle ilgili bir kitap bulmama yardımcı oldu.",
+   "Hastanelerin, doktorların temel bilgilere erişirken hasta kayıtlarını korumak için güvenli veri tabanlarına ihtiyacı vardır."
+  ],
+  "col": [
+   "veri tabanında aramak",
+   "veri tabanını güncellemek",
+   "müşteri veri tabanı"
+  ],
+  "tip": "Sayılabilir bir isimdir; veri tabanında anlamında genellikle in a database kalıbı kullanılır.",
+  "note": ""
+ }
+]

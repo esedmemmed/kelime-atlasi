@@ -1,0 +1,283 @@
+[
+ {
+  "id": "bury",
+  "senses": [
+   "gömmek; toprağa vermek",
+   "gizlemek; altına gömmek"
+  ],
+  "ex": [
+   "Köpeğimiz en sevdiği oyuncağını çitin yanına gömdü.",
+   "Yerel yönetimler, evsel atıkları gömmek yerine geri dönüşüm tesislerine ve halk eğitimine yatırım yapmalı."
+  ],
+  "col": [
+   "hazine gömmek",
+   "atık gömmek",
+   "altında kalmak",
+   "yüzünü -e gömmek"
+  ],
+  "tip": "Geçmiş zaman buried, ing biçimi burying. Sözcük 'berry' gibi okunur ama yazımı farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "register",
+  "senses": [
+   "kaydettirmek; kayıt olmak",
+   "kayıt defteri; liste",
+   "göstermek; kaydetmek"
+  ],
+  "ex": [
+   "Yüzme dersleri için havuza kayıt yaptırabilirsiniz.",
+   "Sakinlerin gereksiz seyahat ve idari gecikmeleri azaltmak için yerel sağlık hizmetlerine çevrimiçi kayıt olabilmesi gerekir."
+  ],
+  "col": [
+   "bir kursa kayıt olmak",
+   "oy vermek için kayıt olmak",
+   "yoklama defteri",
+   "şikâyet kaydetmek"
+  ],
+  "tip": "Kursa kayıt için register for, bir şeyi yapmak için kayıt için register to do kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "attach",
+  "senses": [
+   "iliştirmek; eklemek",
+   "önem atfetmek"
+  ],
+  "ex": [
+   "Küçük zili bisikletinizin gidonuna takın.",
+   "İşe alım yaparken birçok işveren akademik niteliklerden çok pratik deneyime önem vermektedir."
+  ],
+  "col": [
+   "dosya eklemek",
+   "bir şeyi bir şeye iliştirmek",
+   "önem atfetmek"
+  ],
+  "tip": "attach A to B kalıbı kullanılır. Eklenti anlamındaki isim attachment olur.",
+  "note": ""
+ },
+ {
+  "id": "respect",
+  "senses": [
+   "saygı; hürmet",
+   "saygı göstermek; uymak",
+   "bakımdan; yönden"
+  ],
+  "ex": [
+   "Öğretmeni sözünü kesmeden dinleyerek saygı gösterdi.",
+   "Okullar öğrencileri, her argümanın arkasındaki kanıtları değerlendirirken farklı görüşlere saygı duymaya teşvik etmelidir."
+  ],
+  "col": [
+   "-e saygı göstermek",
+   "karşılıklı saygı",
+   "gizliliğe saygı göstermek",
+   "bu bakımdan"
+  ],
+  "tip": "İsim hâlinde genelde for ile kullanılır (respect for). Fiil doğrudan nesne alır, arasına for konmaz.",
+  "note": ""
+ },
+ {
+  "id": "base",
+  "senses": [
+   "taban; temel",
+   "üs; merkez",
+   "dayandırmak; temel almak"
+  ],
+  "ex": [
+   "Ağır taban lambanın devrilmesini önler.",
+   "Hükümetler çevre politikalarını kısa vadeli siyasi çıkarlar yerine güvenilir bilimsel kanıtlara dayandırmalıdır."
+  ],
+  "col": [
+   "-in tabanı",
+   "bir şeyi bir şeye dayandırmak",
+   "araştırma merkezi",
+   "sağlam bir temel"
+  ],
+  "tip": "base A on B kalıbında A, B'ye dayandırılır. Edat olarak on kullanılır, unutulmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "depart",
+  "senses": [
+   "ayrılmak; hareket etmek",
+   "sapmak; uzaklaşmak"
+  ],
+  "ex": [
+   "Trenimiz şafakta kalkıyor, bu yüzden bu gece çantanı hazırla.",
+   "Yerleşim bölgelerinden düzenli olarak hareket eden otobüsler, işe gidip gelenlerin özel araçlara bağımlılığını azaltabilir."
+  ],
+  "col": [
+   "-den ayrılmak",
+   "-e doğru yola çıkmak",
+   "zamanında hareket etmek"
+  ],
+  "tip": "depart from çıkış yerini, depart for varış yerini belirtir. Resmi bir fiildir; günlük dilde genelde leave kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "subtraction",
+  "senses": [
+   "çıkarma işlemi"
+  ],
+  "ex": [
+   "Bir kasedeki düğmeleri çıkararak çıkarma işlemi yaptık.",
+   "Çıkarma işlemini sağlam kavramak, çocukların günlük finansal kararlar için gereken sayısal becerileri geliştirmesine yardımcı olur."
+  ],
+  "col": [
+   "toplama ve çıkarma",
+   "basit çıkarma",
+   "çıkarma problemi"
+  ],
+  "tip": "subtract A from B: B'den A'yı çıkarmak anlamına gelir. Sıra önemlidir; çıkarılan sayı from'dan sonra gelir.",
+  "note": ""
+ },
+ {
+  "id": "understanding",
+  "senses": [
+   "anlayış; kavrayış",
+   "anlayışlı; hoşgörülü",
+   "gayriresmi anlaşma; uzlaşma"
+  ],
+  "ex": [
+   "Dün geç kaldığımda gösterdiğin anlayış için teşekkürler.",
+   "Yeni bir dil öğrenmek, öğrencilerin farklı kültürleri daha iyi kavramasını ve başkalarına daha fazla saygı duymasını sağlayabilir."
+  ],
+  "col": [
+   "-in net anlayışı",
+   "karşılıklı anlayış",
+   "bir anlaşmaya varmak",
+   "anlayışlı bir arkadaş"
+  ],
+  "tip": "'-e dair anlayış' anlamında understanding of kullanılır; of edatı gereklidir. Sıfat olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "receipt",
+  "senses": [
+   "fiş; makbuz",
+   "alma; teslim alma",
+   "gelir; tahsilat"
+  ],
+  "ex": [
+   "Ayakkabılar uymazsa diye fişini sakla.",
+   "Tüketicileri korumak ve doğru mali kayıtları tutmak için işletmeler her satın almada fiş vermelidir."
+  ],
+  "col": [
+   "fişi saklamak",
+   "fiş düzenlemek",
+   "teslim alınca",
+   "vergi gelirleri"
+  ],
+  "tip": "Başındaki r'den sonra p harfi okunmaz. Gelir anlamında genelde çoğul receipts kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "option",
+  "senses": [
+   "seçenek; alternatif",
+   "seçme hakkı; seçim imkânı"
+  ],
+  "ex": [
+   "Bugün en ucuz seçeneğimiz otobüse binmek.",
+   "Uzaktan çalışma, çalışanların iş değiştirmeden pahalı şehir merkezlerinden uzakta yaşamasına olanak tanıyor."
+  ],
+  "col": [
+   "en iyi seçenek",
+   "başka seçeneği olmamak",
+   "seçeneklerini açık tutmak",
+   "satın alma seçeneği"
+  ],
+  "tip": "have no option but to kalıbında but to'dan sonra fiilin yalın hâli gelir. Anlamı 'başka çare olmamak'tır.",
+  "note": ""
+ },
+ {
+  "id": "pavement",
+  "senses": [
+   "kaldırım",
+   "yol kaplaması; asfalt"
+  ],
+  "ex": [
+   "Kalabalık yolun yanındaki kaldırımda yürüdük.",
+   "Daha geniş kaldırımlar yayaların güvenliğini artırabilir ve tekerlekli sandalye kullanıcıları için kent mahallelerini daha erişilebilir kılabilir."
+  ],
+  "col": [
+   "kaldırımda yürümek",
+   "düzensiz kaldırım",
+   "kaldırım kafesi"
+  ],
+  "tip": "İngiliz İngilizcesinde kaldırım, Amerikan İngilizcesinde yol yüzeyi anlamına gelir. Sınavda bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "dial",
+  "senses": [
+   "kadran; ayar düğmesi",
+   "numara çevirmek"
+  ],
+  "ex": [
+   "Odayı ısıtmak için kadranı saat yönünde çevir.",
+   "Dokunmatik ekranlarla zorlanan kişiler, ev aletlerini ayarlarken fiziksel bir düğmeyi daha kolay kullanabilir."
+  ],
+  "col": [
+   "kadranı çevirmek",
+   "saat kadranı",
+   "bir numara çevirmek",
+   "hat sesi"
+  ],
+  "tip": "Geçmiş zaman İngiliz İngilizcesinde dialled, Amerikan İngilizcesinde dialed olur. Telefon ederken call daha yaygın kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "marvelous",
+  "senses": [
+   "harika; muhteşem"
+  ],
+  "ex": [
+   "Karlı dağların harika bir manzarası vardı.",
+   "Halk kütüphaneleri, her yaştan insanın yeni ilgi alanlarını keşfetmesi için harika bir fırsat sunar."
+  ],
+  "col": [
+   "harika bir fırsat",
+   "harika bir başarı",
+   "harika bir manzara"
+  ],
+  "tip": "Bu Amerikan yazımıdır; İngiliz yazımı marvellous şeklindedir. Yazımda tutarlı olun.",
+  "note": ""
+ },
+ {
+  "id": "requirement",
+  "senses": [
+   "şart; gereklilik",
+   "ihtiyaç; gereksinim"
+  ],
+  "ex": [
+   "Bu kaykay parkında kask takmak zorunlu bir şarttır.",
+   "Açık giriş şartları, aday öğrencilerin üniversite programlarına yeterince hazırlanıp hazırlanmadıklarını değerlendirmelerine yardımcı olur."
+  ],
+  "col": [
+   "şartları karşılamak",
+   "giriş şartları",
+   "yasal bir zorunluluk",
+   "enerji ihtiyacı"
+  ],
+  "tip": "Şartları karşılamak için meet requirements kullanılır, reach kullanılmaz. Çoğul hâli sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "continent",
+  "senses": [
+   "kıta"
+  ],
+  "ex": [
+   "Öğretmenimiz küre üzerinde Afrika kıtasını gösterdi.",
+   "İklim değişikliği her kıtayı etkiler; ancak sonuçları bölgeler ve topluluklar arasında önemli ölçüde farklılık gösterir."
+  ],
+  "col": [
+   "Afrika kıtası",
+   "kıtalar arası",
+   "kıtasal iklim"
+  ],
+  "tip": "continent kıtayı, country ülkeyi anlatır. İkisi karıştırılmamalıdır.",
+  "note": ""
+ }
+]

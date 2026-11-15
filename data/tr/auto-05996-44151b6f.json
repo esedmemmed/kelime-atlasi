@@ -1,0 +1,270 @@
+[
+ {
+  "id": "vocal",
+  "senses": [
+   "açık sözlü; çekinmeyen",
+   "sesle ilgili; vokal"
+  ],
+  "ex": [
+   "Komşularımız havuzu kapatma planları hakkında açıkça konuşuyordu.",
+   "Sakinler, yerel yeşil alanları tehdit eden projelere karşı giderek daha fazla sesini yükseltiyor."
+  ],
+  "col": [
+   "güçlü muhalefet",
+   "sesini yükselten eleştirmen",
+   "ses telleri",
+   "vokal eğitimi"
+  ],
+  "tip": "be vocal about kalıbı, bir konuda açıkça ve güçlü biçimde görüş bildirmek anlamına gelir. Genellikle about ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "elapse",
+  "senses": [
+   "geçmek; akıp gitmek"
+  ],
+  "ex": [
+   "Otobüs nihayet gelmeden önce birkaç dakika geçti.",
+   "Çevre politikalarının kentsel hava kalitesinde ölçülebilir iyileşmeler sağlaması birkaç yıl alabilir."
+  ],
+  "col": [
+   "zaman geçer",
+   "yıllar geçer",
+   "geçen süre"
+  ],
+  "tip": "Yalnızca zamanın özne olduğu geçişsiz bir fiildir; nesne alamaz. Resmî bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "dishonour",
+  "senses": [
+   "utanç; onursuzluk",
+   "utandırmak; onur kırmak",
+   "sözünü tutmamak"
+  ],
+  "ex": [
+   "Hilesi bütün takımı utandırdı.",
+   "İşçilere verdikleri taahhütleri yerine getirmeyen şirketler, kamuoyunun güvenini kaybetme riskiyle karşı karşıya."
+  ],
+  "col": [
+   "...e utanç getirmek",
+   "sözünü tutmamak",
+   "anlaşmaya uymamak"
+  ],
+  "tip": "İngiliz yazımı dishonour, Amerikan yazımı dishonor şeklindedir. Zıt anlamlısı honour (onur) kelimesidir.",
+  "note": ""
+ },
+ {
+  "id": "ominous",
+  "senses": [
+   "uğursuz; kötü habercil"
+  ],
+  "ex": [
+   "Eve aceleyle dönerken uğursuz bulutlar toplanıyordu.",
+   "Böcek popülasyonlarındaki hızlı düşüş, tozlaşmaya bağlı ekosistemler için endişe verici bir işarettir."
+  ],
+  "col": [
+   "uğursuz bir işaret",
+   "uğursuz bulutlar",
+   "uğursuz bir sessizlik"
+  ],
+  "tip": "Kötü bir şeyin olabileceğine işaret eder, kötü bir şeyin gerçekleştiğini değil. Bu farka dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "overlap",
+  "senses": [
+   "örtüşmek; kesişmek",
+   "örtüşme; ortak alan"
+  ],
+  "ex": [
+   "Perdeler pencerenin ortasında hafifçe üst üste biniyor.",
+   "Üniversite dersleri içerik açısından sık sık örtüşür; bu da öğrencilerin farklı akademik alanlar arasındaki bağlantıları keşfetmesine olanak tanır."
+  ],
+  "col": [
+   "...ile örtüşmek",
+   "önemli bir örtüşme",
+   "çakışan sorumluluklar"
+  ],
+  "tip": "Fiil ikinci hecede, isim ilk hecede vurgulanır. Geçmiş zaman biçimi overlapped'dır.",
+  "note": ""
+ },
+ {
+  "id": "volatile",
+  "senses": [
+   "oynak; değişken",
+   "öfkeli; huysuz",
+   "uçucu"
+  ],
+  "ex": [
+   "Yakıt fiyatları bu ay alışılmadık ölçüde oynak seyretti.",
+   "Oynak gıda fiyatları, düşük gelirli hanelerin harcamalarını planlamasını ve dengeli beslenmesini sürdürmesini zorlaştırıyor."
+  ],
+  "col": [
+   "oynak piyasa",
+   "dalgalı fiyatlar",
+   "değişken mizaç",
+   "uçucu madde"
+  ],
+  "tip": "Piyasa için değişken, kişi için ani öfkeli, kimyada ise kolay buharlaşan anlamına gelir. Bağlama göre anlam seçin.",
+  "note": ""
+ },
+ {
+  "id": "pertain",
+  "senses": [
+   "ilgili olmak; ilişkin olmak"
+  ],
+  "ex": [
+   "Bu kurallar mutfağı kullanan herkesi ilgilendirir.",
+   "Komite, endüstriyel atıklar üzerinde daha sıkı denetimler önermeden önce su kalitesine ilişkin belgeleri inceledi."
+  ],
+  "col": [
+   "ile ilgili olmak",
+   "ilgili konular"
+  ],
+  "tip": "Resmî bir fiildir ve genellikle to ile kullanılır. Yazılı metinlerde pertaining to kalıbı sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "filament",
+  "senses": [
+   "ince tel; lif",
+   "akkor tel"
+  ],
+  "ex": [
+   "Örümcek ile dal arasında narin bir iplik gerilmişti.",
+   "Araştırmacılar, yakıt tüketimini azaltabilecek hafif malzemelerde kullanılmak üzere daha dayanıklı lifler geliştiriyor."
+  ],
+  "col": [
+   "ince lif",
+   "tungsten akkor tel",
+   "akkor telli ampul"
+  ],
+  "tip": "Genel olarak ince iplik, ampul bağlamında ise elektrikle ısınıp ışık veren tel anlamına gelir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "impart",
+  "senses": [
+   "aktarmak; öğretmek",
+   "katmak; kazandırmak"
+  ],
+  "ex": [
+   "Büyükannem bahçecilik bilgisini aktarmayı çok sever.",
+   "Okullar, gençlerin finanslarını bağımsız olarak yönetmelerini sağlayacak pratik beceriler kazandırmalıdır."
+  ],
+  "col": [
+   "bilgi aktarmak",
+   "bilgi vermek",
+   "beceri kazandırmak",
+   "tat katmak"
+  ],
+  "tip": "impart sth to sb kalıbında kullanılır ve bir şeyi birine aktarmak anlamına gelir. Nesne to ile bağlanır.",
+  "note": ""
+ },
+ {
+  "id": "depreciate",
+  "senses": [
+   "değer kaybetmek"
+  ],
+  "ex": [
+   "Yeni arabalar ilk yılında genellikle hızla değer kaybeder.",
+   "Bir ülkenin para birimi değer kaybettiğinde ithal mallar daha pahalı hale gelir ve yaşam maliyetini artırabilir."
+  ],
+  "col": [
+   "değerinde düşmek",
+   "hızla değer kaybetmek",
+   "varlıkların değerini düşürmek"
+  ],
+  "tip": "Genellikle para birimi ve varlıklar için kullanılır. Zıt anlamlısı appreciate (değer kazanmak) fiilidir.",
+  "note": ""
+ },
+ {
+  "id": "hereby",
+  "senses": [
+   "işbu ile; bu yolla"
+  ],
+  "ex": [
+   "Fotoğraflarımı kullanmanız için size izin veriyorum.",
+   "Belediye meclisi, kullanılmayan kamu binalarının uygun fiyatlı konutlara dönüştürülmesini işbu kararla onaylamaktadır."
+  ],
+  "col": [
+   "işbu ile beyan ederim",
+   "işbu ile yetki veririm",
+   "işbu ile kabul ederim"
+  ],
+  "tip": "Resmî belge ve beyanlarda kullanılır. Genellikle öznenin hemen ardından, asıl fiilden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "twinkle",
+  "senses": [
+   "parıldamak; ışıldamak",
+   "parıltı; ışıltı"
+  ],
+  "ex": [
+   "Yemek yerken pencerenin etrafındaki küçük ışıklar parıldıyordu.",
+   "Yıldızlar çok güzel parıldasa da bu etkiye neden olan atmosfer bozuklukları, gözlemlerin doğruluğunu sınırlayabilir."
+  ],
+  "col": [
+   "yıldızlar parıldar",
+   "parıldayan ışıklar",
+   "gözlerinde neşeli bir pırıltı"
+  ],
+  "tip": "Fiil genellikle geçişsizdir. a twinkle in someone's eye kalıbı, gözlerde neşe veya yaramazlık ifadesini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "scarlet",
+  "senses": [
+   "parlak kırmızı; al",
+   "al renk; kırmızı"
+  ],
+  "ex": [
+   "Gri paltosunun üzerine kırmızı bir atkı takmıştı.",
+   "Görsel reklamcılıkta al renkli arka planlar dikkat çekebilir; ancak renk çağrışımları kültürden kültüre değişir."
+  ],
+  "col": [
+   "kırmızı bir atkı",
+   "kıpkırmızı kesilmek",
+   "al yanaklar"
+  ],
+  "tip": "turn scarlet genellikle utanç veya öfkeyle yüzün kızarmasını anlatır. Yüz için kullanılan bir kalıptır.",
+  "note": ""
+ },
+ {
+  "id": "realm",
+  "senses": [
+   "alan; dünya",
+   "krallık; ülke"
+  ],
+  "ex": [
+   "Robotlar artık bilim kurgu alanının ötesine geçti.",
+   "Yapay zekâdaki gelişmeler, daha kişiselleştirilmiş öğrenme deneyimleri sunarak eğitim alanını dönüştürüyor."
+  ],
+  "col": [
+   "bilim alanı",
+   "olasılık alanı dahilinde",
+   "...nin ötesinde"
+  ],
+  "tip": "Genellikle the realm of kalıbıyla kullanılır ve area kelimesinden daha resmîdir. Krallık anlamı tarihî metinlerde görülür.",
+  "note": ""
+ },
+ {
+  "id": "gramophone",
+  "senses": [
+   "gramofon; pikap"
+  ],
+  "ex": [
+   "Dedem eski bir plağı gramofonunda çalardı.",
+   "Gramofon, ailelerin canlı performanslara katılmadan kayıtlı müzik dinlemesine olanak tanıyarak ev eğlencesini dönüştürdü."
+  ],
+  "col": [
+   "kurmalı gramofon",
+   "gramofon plağı",
+   "gramofon çalmak"
+  ],
+  "tip": "Plak çalan eski bir cihazdır. Amerikan İngilizcesinde genellikle phonograph denir.",
+  "note": ""
+ }
+]

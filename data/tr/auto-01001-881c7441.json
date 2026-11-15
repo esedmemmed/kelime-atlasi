@@ -1,0 +1,276 @@
+[
+ {
+  "id": "keyboard",
+  "senses": [
+   "klavye",
+   "org; tuşlu çalgı"
+  ],
+  "ex": [
+   "Işe başlamadan önce klavyemdeki kırıntıları sildim.",
+   "Hareket kısıtlılığı olan öğrenciler, dijital öğrenmeyi daha erişilebilir kılan uyarlanmış bir klavyeden yararlanabilir."
+  ],
+  "col": [
+   "kablosuz klavye",
+   "klavye kısayolu",
+   "klavye çalmak"
+  ],
+  "tip": "Bilgisayar klavyesi sayılabilir: a keyboard. Klavyeli çalgıyı çalmak için play the keyboard kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "drawer",
+  "senses": [
+   "çekmece"
+  ],
+  "ex": [
+   "Yedek anahtarlarımı mutfaktaki en üst çekmecede saklıyorum.",
+   "Kilitlenebilen çekmeceli ofis masaları, çalışanların paylaşılan ortamlarda kişisel eşyalarını güvenle saklamasına yardımcı olur."
+  ],
+  "col": [
+   "çekmeceyi açmak",
+   "en üst çekmece",
+   "masa çekmecesi",
+   "çekmeceli dolap"
+  ],
+  "tip": "drawer, mobilyadaki kayar çekmecedir; gardırop için wardrobe kullanılır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "rubber",
+  "senses": [
+   "kauçuk; lastik",
+   "silgi"
+  ],
+  "ex": [
+   "Bu kauçuk botlar, birikintilerde ayaklarımı kuru tutuyor.",
+   "Kullanılmış lastiklerin geri dönüştürülmesi atığı azaltabilir ve daha güvenli oyun alanı zeminleri için malzeme sağlayabilir."
+  ],
+  "col": [
+   "doğal kauçuk",
+   "lastik bant",
+   "kauçuk eldiven",
+   "kauçuk bot"
+  ],
+  "tip": "Kauçuk maddesi sayılamaz; silgi ise sayılabilir: a rubber. Amerikan İngilizcesinde silgi için genellikle eraser kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mix",
+  "senses": [
+   "karıştırmak",
+   "karışım",
+   "kaynaşmak; görüşmek"
+  ],
+  "ex": [
+   "Unu ve yumurtayı büyük bir kasede karıştırın.",
+   "Başarılı mahallelerde genellikle farklı gelir gruplarına hitap eden çeşitli konut türleri bulunur."
+  ],
+  "col": [
+   "malzemeleri karıştırmak",
+   "başkalarıyla kaynaşmak",
+   "çeşitli bir karışım",
+   "işleri değiştirmek"
+  ],
+  "tip": "mix A with B karıştırmak anlamına gelir; mix A up with B ise A ile B'yi karıştırmak, yanlış anlamak demektir.",
+  "note": ""
+ },
+ {
+  "id": "electricity",
+  "senses": [
+   "elektrik"
+  ],
+  "ex": [
+   "Fırtına tüm sokağımızın elektriğini kesti.",
+   "Yenilenebilir kaynaklardan elektrik üretmek, fosil yakıtlara bağımlılığı azaltabilir ve sera gazı emisyonlarını düşürebilir."
+  ],
+  "col": [
+   "elektrik üretmek",
+   "elektrik arzı",
+   "elektrik faturası",
+   "elektrik tasarrufu yapmak"
+  ],
+  "tip": "electricity sayılamaz. Sıfat olarak electric elektrikli, electrical ise elektrikle ilgili anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "product",
+  "senses": [
+   "ürün",
+   "sonuç; çıktı",
+   "çarpım"
+  ],
+  "ex": [
+   "Bu temizlik ürünü mutfak karolarımdaki lekeleri çıkarıyor.",
+   "Tüketiciler, daha az ambalaj kullanan ve yerine yenisi alınmak yerine tamir edilebilen ürünleri giderek daha çok tercih ediyor."
+  ],
+  "col": [
+   "bir ürünü piyasaya sürmek",
+   "süt ürünleri",
+   "ürün geliştirme",
+   "...'in çarpımı"
+  ],
+  "tip": "product ürün ya da sonuç anlamına gelir; üretim süreci için production kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "zebra",
+  "senses": [
+   "zebra"
+  ],
+  "ex": [
+   "Bir zebra su birikintisinin yanında sessizce duruyordu.",
+   "Otlakların korunması, zebra popülasyonlarının hayatta kalmasına ve diğer birçok vahşi hayvanın yaşam alanlarının korunmasına yardımcı olur."
+  ],
+  "col": [
+   "bir sürü zebra",
+   "zebra çizgileri",
+   "yaya geçidi"
+  ],
+  "tip": "Çoğul hali zebras'tır. zebra crossing, İngiliz İngilizcesinde yaya geçidi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "shampoo",
+  "senses": [
+   "şampuan",
+   "şampuanla yıkamak"
+  ],
+  "ex": [
+   "Seyahat için küçük bir şişe şampuan koydum.",
+   "Doldurulabilir şampuan kaplarını kullanmak, hanelerin ve turizm sektörünün ürettiği plastik atığı azaltabilir."
+  ],
+  "col": [
+   "bir şişe şampuan",
+   "hafif şampuan",
+   "saçını şampuanla yıkamak",
+   "kuru şampuan"
+  ],
+  "tip": "Genel anlamda şampuan sayılamaz; sayılabilir miktar için a bottle of shampoo gibi kalıplar kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lab",
+  "senses": [
+   "laboratuvar"
+  ],
+  "ex": [
+   "Sıvıları laboratuvarda karıştırırken koruyucu gözlük takıyorduk.",
+   "İyi donanımlı bir okul laboratuvarı, öğrencilerin bilimsel fikirleri ezberlemek yerine uygulamalı deneylerle test etmesine olanak tanır."
+  ],
+  "col": [
+   "araştırma laboratuvarı",
+   "fen laboratuvarı",
+   "laboratuvar ekipmanı",
+   "laboratuvar teknisyeni"
+  ],
+  "tip": "lab, laboratory kelimesinin kısaltmasıdır; resmi yazılarda laboratory tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "surprised",
+  "senses": [
+   "şaşırmış; şaşkın"
+  ],
+  "ex": [
+   "Kapımın önünde çiçekler görünce şaşırdım.",
+   "Araştırmacılar, yeşil alanlara erişimin sakinlerin bildirdiği refah düzeyini ne kadar güçlü etkilediğine şaşırdılar."
+  ],
+  "col": [
+   "sonuca şaşırmak",
+   "hoş bir şekilde şaşırmış",
+   "duymaya şaşırmak"
+  ],
+  "tip": "surprised insanın hissettiğini, surprising ise şeyin insanda yarattığı etkiyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "heater",
+  "senses": [
+   "ısıtıcı; radyatör"
+  ],
+  "ex": [
+   "Misafirler gelmeden önce ısıtıcıyı açtık.",
+   "Verimsiz bir su ısıtıcısını değiştirmek, hane enerji faturalarını düşürebilir ve elektrik tüketimini azaltabilir."
+  ],
+  "col": [
+   "elektrikli ısıtıcı",
+   "su ısıtıcısı",
+   "taşınabilir ısıtıcı"
+  ],
+  "tip": "heater bir cihazdır; heating ise ısıtma ya da ısıtma sistemi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "lawyer",
+  "senses": [
+   "avukat"
+  ],
+  "ex": [
+   "Avukatımız, sözleşmeyi imzalamadan önce bize açıkladı.",
+   "Uygun fiyatlı bir avukata erişim, herkesin yasal haklarını savunabilmesini sağlamaya yardımcı olur."
+  ],
+  "col": [
+   "avukat tutmak",
+   "ceza avukatı",
+   "avukata danışmak"
+  ],
+  "tip": "lawyer genel olarak avukat demektir; hâkim için judge kullanılır, bu iki kelime karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "wheel",
+  "senses": [
+   "tekerlek",
+   "direksiyon",
+   "itmek; tekerlekle götürmek"
+  ],
+  "ex": [
+   "Bisikletimin ön tekerleğinin değiştirilmesi gerekiyor.",
+   "Ulaşım planlamacıları, yolcuların bavullarını istasyonlarda ve trenlere kolayca taşıyabilmesini sağlamalıdır."
+  ],
+  "col": [
+   "ön tekerlek",
+   "direksiyon",
+   "direksiyon başında",
+   "tekerlekli sepeti itmek"
+  ],
+  "tip": "behind the wheel veya at the wheel, araç kullanmak anlamına gelir; bu kalıplarda the wheel kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "item",
+  "senses": [
+   "eşya; ürün",
+   "madde; kalem"
+  ],
+  "ex": [
+   "Lütfen her eşyayı dikkatle alışveriş çantasına yerleştirin.",
+   "Toplantı gündemindeki her madde, yerel toplu taşıma hizmetlerinin karşılaştığı farklı bir sorunu ele alıyor."
+  ],
+  "col": [
+   "ev eşyası",
+   "lüks ürün",
+   "gündem maddesi",
+   "haber maddesi"
+  ],
+  "tip": "item sayılabilir bir isimdir; bir giysi için an item of clothing kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "receptionist",
+  "senses": [
+   "resepsiyon görevlisi"
+  ],
+  "ex": [
+   "Resepsiyon görevlisi gülümsedi ve bize oda anahtarlarımızı verdi.",
+   "Yetkin bir resepsiyon görevlisi, randevuları verimli yöneterek ve sorulara sakin yanıt vererek hastaların deneyimini iyileştirebilir."
+  ],
+  "col": [
+   "otel resepsiyon görevlisi",
+   "resepsiyon görevlisi olarak çalışmak",
+   "resepsiyon görevlisine sormak"
+  ],
+  "tip": "reception resepsiyon ya da karşılama bölümüdür; receptionist ise bu görevi yapan kişidir.",
+  "note": ""
+ }
+]

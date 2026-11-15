@@ -1,0 +1,281 @@
+[
+ {
+  "id": "interesting",
+  "senses": [
+   "ilginç"
+  ],
+  "ex": [
+   "İstasyonun yakınında ilginç, küçük bir müze bulduk.",
+   "Anket, yeşil alanlara erişim ile sakinlerin kentsel yaşamdan genel memnuniyeti arasında ilginç bir bağlantı ortaya koydu."
+  ],
+  "col": [
+   "ilginç bir soru",
+   "ilginç bir bulgu",
+   "bir şeyi ilginç bulmak"
+  ],
+  "tip": "interesting, şeyler için 'ilginç' anlamındadır. Kişinin ilgili olduğunu söylemek için interested kullanılır: I am interested in art.",
+  "note": ""
+ },
+ {
+  "id": "rice",
+  "senses": [
+   "pirinç; pilav"
+  ],
+  "ex": [
+   "Akşam yemeğinde buharda pişmiş balıkla pilav yedik.",
+   "Sulama yöntemlerindeki iyileştirmeler, kuraklıktan etkilenen bölgelerde çiftçilerin daha az su kullanarak pirinç yetiştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "bir kase pilav",
+   "esmer pirinç",
+   "pirinç yetiştirmek",
+   "pirinç tarlası"
+  ],
+  "tip": "rice genellikle sayılamaz. Tek bir pirinç tanesi için a grain of rice kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "area",
+  "senses": [
+   "bölge; alan",
+   "yüzölçümü; alan",
+   "alan; konu"
+  ],
+  "ex": [
+   "Gölün kenarında sessiz bir piknik alanı var.",
+   "Toplu taşımaya yapılan yatırımlar, kırsal bölgelerde yaşayanların iş olanaklarına erişimini artırabilir."
+  ],
+  "col": [
+   "yerleşim bölgesi",
+   "yüzey alanı",
+   "bir araştırma alanı",
+   "kırsal bölgeler"
+  ],
+  "tip": "area hem fiziksel bölgeyi hem de bir konu alanını anlatır. Yüzölçümü için genellikle square metre gibi birimlerle birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "business",
+  "senses": [
+   "ticaret; iş",
+   "işletme; şirket",
+   "iş; sorumluluk"
+  ],
+  "ex": [
+   "Pazartesileri kafede genellikle iş durgun geçer.",
+   "Küçük işletmeler çoğu zaman yerel istihdam yaratır, ancak daha büyük şirketlerle rekabet etmekte zorlanabilirler."
+  ],
+  "col": [
+   "biriyle ticaret yapmak",
+   "bir işletme yönetmek",
+   "iş seyahatinde olmak",
+   "sana ne ilgisi var"
+  ],
+  "tip": "Ticaret anlamında business sayılamaz; 'işletme' anlamında sayılabilir: a business. Bu kullanımları ayırt etmeye dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "walking",
+  "senses": [
+   "yürüyüş; yürüme"
+  ],
+  "ex": [
+   "Markete yürüyerek yaklaşık on dakika sürer.",
+   "Şehirler, kaldırım kalitesini iyileştirerek ve okullar ile alışveriş alanlarının yakınında daha güvenli geçitler oluşturarak yürüyüşü teşvik edebilir."
+  ],
+  "col": [
+   "yürüyüşe çıkmak",
+   "yürüyüş botları",
+   "yürüme mesafesi",
+   "tempolu yürüyüş"
+  ],
+  "tip": "walking, 'yürüme' eylemini adlandırır. Fiil olarak walk kullanılır; yürüyerek gitmek için on foot da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "name",
+  "senses": [
+   "ad; isim",
+   "adını koymak; adlandırmak",
+   "ün; şöhret"
+  ],
+  "ex": [
+   "Yeni yavru kedin için hangi ismi seçtin?",
+   "Şirketler, giderek rekabetçileşen bir pazarda ürünlerini ayırt etmek için akılda kalıcı bir isim seçer."
+  ],
+  "col": [
+   "tam ad",
+   "marka adı",
+   "birinin adını almak",
+   "kendine ad yapmak"
+  ],
+  "tip": "name after kalıbı 'birinin adını taşımak' anlamındadır. Edilgen hali sık kullanılır: The city was named after its founder.",
+  "note": ""
+ },
+ {
+  "id": "airport",
+  "senses": [
+   "havalimanı"
+  ],
+  "ex": [
+   "Güneş doğmadan havalimanına vardık.",
+   "Bir havalimanını genişletmek turizmi artırabilir, ancak yakındaki sakinler için gürültü kirliliğini de yükseltebilir."
+  ],
+  "col": [
+   "uluslararası havalimanı",
+   "havalimanı terminali",
+   "havalimanı servisi",
+   "havalimanı güvenliği"
+  ],
+  "tip": "Havalimanında genellikle at the airport denir; in the airport yerine bu kalıp daha doğaldır. Terminal, havalimanı binasını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "often",
+  "senses": [
+   "sık sık; çoğu zaman"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra sık sık nehir kenarında yürürüz.",
+   "Düzenli egzersiz yapan insanlar, genellikle daha iyi uyku ve gün boyu daha yüksek enerji seviyesi bildirir."
+  ],
+  "col": [
+   "oldukça sık",
+   "daha sık",
+   "ne sıklıkta",
+   "mümkün olduğunca sık"
+  ],
+  "tip": "often genellikle öznenin hemen ardından, asıl fiilden önce gelir: She often visits us. 'be' fiilinden sonra gelir: He is often late.",
+  "note": ""
+ },
+ {
+  "id": "dollar",
+  "senses": [
+   "dolar"
+  ],
+  "ex": [
+   "Bu küçük defter için bir dolar ödedim.",
+   "Güçlü bir dolar, ithal ürünleri Amerikalı tüketiciler için ucuzlatırken yurt dışındaki alıcılar için maliyetleri artırabilir."
+  ],
+  "col": [
+   "ABD doları",
+   "Avustralya doları",
+   "güçlü dolar",
+   "dolar kuru"
+  ],
+  "tip": "Dolar yalnızca ABD doları değildir; Kanada doları ve Avustralya doları gibi birçok para birimi için de kullanılır. Gerekirse ülke adını belirt.",
+  "note": ""
+ },
+ {
+  "id": "it",
+  "senses": [
+   "o; bu; şu",
+   "—"
+  ],
+  "ex": [
+   "Kapının yanında senin atkını buldum ve onu oraya koydum.",
+   "Trafik sıkışıklığını azaltmak istiyorsa, şehirlerin güvenilir toplu taşıma sağlaması çok önemlidir."
+  ],
+  "col": [
+   "duruma bağlı",
+   "anlaşılan o ki",
+   "açık hale getirmek"
+  ],
+  "tip": "Küçük it zamirdir; büyük IT ise bilgi teknolojisi anlamına gelir. It zaman, hava ve durum bildirmek için de özne olur: It is cold.",
+  "note": ""
+ },
+ {
+  "id": "baby",
+  "senses": [
+   "bebek; yavru",
+   "bebek; küçük",
+   "şımartmak; bebek gibi bakmak"
+  ],
+  "ex": [
+   "Babası yumuşak sesle şarkı söylerken bebek uyuyakaldı.",
+   "Uygun fiyatlı çocuk bakımı, küçük bebekleri olan ebeveynlerin aile bütçesine aşırı yük bindirmeden işe dönmesine yardımcı olur."
+  ],
+  "col": [
+   "yeni doğmuş bebek",
+   "bebeği olmak",
+   "bebek maması",
+   "bebek giysileri"
+  ],
+  "tip": "Çoğulu babies'tir. Fiil olarak baby, birini aşırı ilgiyle şımartmak anlamında kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "rabbit",
+  "senses": [
+   "tavşan"
+  ],
+  "ex": [
+   "Beyaz bir tavşan çimenlerin üzerinden bize doğru zıpladı.",
+   "Tavşanları yeni ortamlara sokmak, yerli bitki örtüsüne zarar verebilir ve yerel ekosistemlerin dengesini bozabilir."
+  ],
+  "col": [
+   "evcil tavşan",
+   "yabani tavşan",
+   "tavşan deliği"
+  ],
+  "tip": "rabbit genel olarak tavşanı ifade eder; hare ise genellikle daha uzun kulaklı ve uzun bacaklı yabani tavşandır.",
+  "note": ""
+ },
+ {
+  "id": "water",
+  "senses": [
+   "su",
+   "sulamak"
+  ],
+  "ex": [
+   "Lütfen bugün çıkmadan önce bitkilere su ver.",
+   "Temiz içme suyuna erişim, hastalıkların önlenmesi ve halk sağlığının iyileştirilmesi için vazgeçilmezdir."
+  ],
+  "col": [
+   "içme suyu",
+   "akan su",
+   "su sıkıntısı",
+   "bahçeyi sulamak"
+  ],
+  "tip": "Su genellikle sayılamaz. Bir bardak su için a glass of water denir. Fiil olarak water 'sulamak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "half",
+  "senses": [
+   "yarı; yarım",
+   "yarım; yarısı",
+   "yarı yarıya; kısmen"
+  ],
+  "ex": [
+   "Sandviçimin yarısını sonra için sakladım.",
+   "Ankete katılanların neredeyse yarısı şehir merkezinde daha fazla yeşil alan oluşturulmasını destekledi."
+  ],
+  "col": [
+   "yarım saat",
+   "...nın yarısı",
+   "yarı fiyatına",
+   "yarı uyanık"
+  ],
+  "tip": "Çoğulu halves'tir. 'Yarım saat' için half an hour kullanılır; 'bir buçuk' için one and a half denir.",
+  "note": ""
+ },
+ {
+  "id": "knife",
+  "senses": [
+   "bıçak"
+  ],
+  "ex": [
+   "Ekmeği dilimlemek için keskin bir bıçak kullan.",
+   "Mutfak bıçağını güvenli kullanmayı öğrenmek, pratik beslenme eğitiminin önemli bir parçasıdır."
+  ],
+  "col": [
+   "mutfak bıçağı",
+   "keskin bıçak",
+   "ekmek bıçağı",
+   "bıçak ve çatal"
+  ],
+  "tip": "Başındaki k harfi okunmaz. Çoğulu knives'tır; -fe sonu -ves'e döner.",
+  "note": ""
+ }
+]

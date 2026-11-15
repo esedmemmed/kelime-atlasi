@@ -1,0 +1,280 @@
+[
+ {
+  "id": "across",
+  "senses": [
+   "karşıdan karşıya; boyunca",
+   "karşı tarafında; genelinde",
+   "karşıya; karşı tarafta"
+  ],
+  "ex": [
+   "Yağmur başlamadan önce köprüyü karşıdan karşıya geçtik.",
+   "Gelişen internet erişimi, kırsal bölgelerdeki öğrencilerin daha geniş bir eğitim kaynağı yelpazesinden yararlanmasını sağlıyor."
+  ],
+  "col": [
+   "yolun karşısı",
+   "ülke genelinde",
+   "köprüden karşıya geçmek"
+  ],
+  "tip": "across bir yüzeyi yatay olarak kat etmeyi vurgular; through ise bir şeyin içinden geçmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "behave",
+  "senses": [
+   "davranmak; hareket etmek",
+   "uslu durmak; terbiyeli olmak",
+   "işlemek; tepki vermek"
+  ],
+  "ex": [
+   "Evimize misafir geldiğinde köpeğimiz sakin davranıyor.",
+   "Çocuklar, etraflarındaki yetişkinleri gözlemleyerek sosyal ortamlarda nasıl davranacaklarını genellikle öğrenirler."
+  ],
+  "col": [
+   "sorumlu davranmak",
+   "iyi davranmak",
+   "uslu durmak",
+   "gibi davranmak"
+  ],
+  "tip": "behave yourself 'uslu dur' anlamında kullanılır; 'kendini davrandır' gibi birebir çevrilmemelidir.",
+  "note": ""
+ },
+ {
+  "id": "malaysia",
+  "senses": [
+   "Malezya"
+  ],
+  "ex": [
+   "Malezya tatilimiz sırasında bir yağmur ormanını keşfettik.",
+   "Malezya'daki turizm istihdam fırsatları yaratıyor, ancak kırılgan kıyı ekosistemlerini korumak önemli bir öncelik olmaya devam ediyor."
+  ],
+  "col": [
+   "Malezya'yı ziyaret etmek",
+   "Malezya'ya seyahat etmek",
+   "Malezya Yarımadası"
+  ],
+  "tip": "Ülke adları büyük harfle yazılır ve genellikle başına the getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "parking-lot",
+  "senses": [
+   "açık otopark"
+  ],
+  "ex": [
+   "Arabamız otoparkın girişinin yakınında.",
+   "Açık otoparkın çevresine ağaç dikmek, sıcak havalarda gölge sağlayabilir ve yüzey sıcaklığını düşürebilir."
+  ],
+  "col": [
+   "boş otopark",
+   "kalabalık otopark",
+   "otopark girişi"
+  ],
+  "tip": "Amerikan İngilizcesinde yaygındır; İngiliz İngilizcesinde car park denir. Çok katlı otopark için parking garage kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "post",
+  "senses": [
+   "posta",
+   "postalamak; paylaşmak",
+   "görev; kadro"
+  ],
+  "ex": [
+   "Bu sabah postayla bir koli geldi.",
+   "Yerel yönetimler, halkı kamu hizmetlerindeki değişikliklerden haberdar etmek için düzenli güncellemeleri çevrimiçi paylaşmalıdır."
+  ],
+  "col": [
+   "posta yoluyla",
+   "mektup postalamak",
+   "çevrimiçi paylaşmak",
+   "bir göreve başvurmak"
+  ],
+  "tip": "Mektup göndermek için İngiliz İngilizcesinde post, Amerikan İngilizcesinde ise çoğunlukla mail kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "create",
+  "senses": [
+   "yaratmak; oluşturmak",
+   "neden olmak; yol açmak"
+  ],
+  "ex": [
+   "Katlanmış kağıttan renkli bir kuş yarattık.",
+   "Yenilenebilir enerjiye yapılan yatırım, ithal fosil yakıtlara bağımlılığı azaltırken iş imkânı da yaratabilir."
+  ],
+  "col": [
+   "fırsat yaratmak",
+   "iş yaratmak",
+   "sorun yaratmak",
+   "bir sanat eseri yaratmak"
+  ],
+  "tip": "create genellikle yeni bir şey ortaya çıkarmak anlamındadır; problem gibi olumsuz durumlar için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "organisation",
+  "senses": [
+   "örgüt; kuruluş",
+   "düzenleme; örgütleme"
+  ],
+  "ex": [
+   "Yaralı kuşları kurtaran yerel bir kuruluşa katıldı.",
+   "Sağlık hizmetlerinin etkin biçimde organize edilmesi bekleme sürelerini kısaltabilir ve kırsal topluluklar için erişimi iyileştirebilir."
+  ],
+  "col": [
+   "hayır kurumu",
+   "uluslararası kuruluş",
+   "hükümet dışı örgüt",
+   "dikkatli bir organizasyon gerektirmek"
+  ],
+  "tip": "İngiliz İngilizcesinde organisation, Amerikan İngilizcesinde organization yazılır; ikisi de doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "fit",
+  "senses": [
+   "uymak; sığmak",
+   "sağlıklı; formda",
+   "uygun; yeterli"
+  ],
+  "ex": [
+   "Bu botlar, kalın çoraplarımla bile tam oturuyor.",
+   "Halka açık spor tesisleri, yaşlı yetişkinlerin formda kalmasına yardımcı olurken topluluk içindeki sosyal bağları da güçlendirebilir."
+  ],
+  "col": [
+   "formda kalmak",
+   "tam oturmak",
+   "bir amaca uygun",
+   "ile uyum sağlamak"
+  ],
+  "tip": "Giysi için fit, ölçünün uygun olduğunu anlatır; suit ise model veya renk açısından yakışmayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "normal",
+  "senses": [
+   "normal; olağan",
+   "normal durum; olağan düzey"
+  ],
+  "ex": [
+   "Bir mülakattan önce gerginlik hissetmek normaldir.",
+   "Esnek çalışma saatleri, ekonominin birçok sektöründe giderek yaygın bir istihdam özelliği haline geliyor."
+  ],
+  "col": [
+   "normal hayat",
+   "normale dönmek",
+   "tamamen normal",
+   "normal çalışma saatleri"
+  ],
+  "tip": "normal, olağan durumu ifade eder; ordinary ise sıradan, özel olmayan anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "volleyball",
+  "senses": [
+   "voleybol"
+  ],
+  "ex": [
+   "Güneş batana kadar sahilde voleybol oynadık.",
+   "Voleybol gibi takım sporları, öğrencilerin iletişim becerilerini geliştirirken düzenli fiziksel aktiviteyi de teşvik edebilir."
+  ],
+  "col": [
+   "voleybol oynamak",
+   "plaj voleybolu",
+   "voleybol sahası",
+   "voleybol takımı"
+  ],
+  "tip": "Spor dalı olarak sayılamaz; play volleyball ifadesinde önüne article getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "ancient",
+  "senses": [
+   "antik; eski",
+   "çok eski; köklü"
+  ],
+  "ex": [
+   "Tatilimiz sırasında antik bir tapınağı keşfettik.",
+   "Antik uygarlıkları incelemek, araştırmacıların erken toplumların suyu, ticareti ve halk sağlığını nasıl yönettiğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "antik tarih",
+   "antik uygarlık",
+   "antik kalıntılar",
+   "antik anıt"
+  ],
+  "tip": "ancient çok uzun geçmişe ait olanı vurgular; genel anlamda old yerine her durumda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "amount",
+  "senses": [
+   "miktar",
+   "toplam tutmak; denk gelmek"
+  ],
+  "ex": [
+   "Kaseye küçük bir miktar süt ekleyin.",
+   "Hanelerin israf ettiği yiyecek miktarını azaltmak, gıda üretiminin çevresel etkisini önemli ölçüde düşürebilir."
+  ],
+  "col": [
+   "çok miktarda",
+   "toplam miktar",
+   "tutarında olmak"
+  ],
+  "tip": "amount of ardından sayılamayan isim gelir; fiil olarak genellikle amount to kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "selfie",
+  "senses": [
+   "özçekim; selfie"
+  ],
+  "ex": [
+   "Yürüyüşümüzden sonra gölün kenarında bir selfie çektik.",
+   "Çevrimiçi selfie paylaşmak kişisel kimliği ifade edebilir, ancak kullanıcılar önce gizlilik ayarlarını göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "selfie çekmek",
+   "selfie paylaşmak",
+   "selfie çubuğu"
+  ],
+  "tip": "Selfie çekmek için take a selfie kullanılır; make a selfie doğal bir kullanım değildir.",
+  "note": ""
+ },
+ {
+  "id": "pass",
+  "senses": [
+   "geçmek",
+   "vermek; uzatmak",
+   "geçmek; başarılı olmak"
+  ],
+  "ex": [
+   "Eve dönerken küçük bir fırının önünden geçiyoruz.",
+   "Öğrenciler laboratuvarda bağımsız çalışmaya başlamadan önce uygulamalı bir değerlendirmeyi geçmek zorundadır."
+  ],
+  "col": [
+   "sınavı geçmek",
+   "topu paslamak",
+   "içinden geçmek"
+  ],
+  "tip": "pass fiildir; past ise edat ya da sıfat olarak kullanılır: walk past (yanından geçmek).",
+  "note": ""
+ },
+ {
+  "id": "honey",
+  "senses": [
+   "bal"
+  ],
+  "ex": [
+   "Çayına bir kaşık bal karıştırdı.",
+   "Yerel bal üretimi kırsal gelir sağlarken çiftçileri arılar için yaşam alanlarını korumaya teşvik edebilir."
+  ],
+  "col": [
+   "bir kaşık bal",
+   "bir kavanoz bal",
+   "bal üretimi"
+  ],
+  "tip": "Bal anlamında sayılamayan bir isimdir; bir kavanoz bal için a jar of honey denir.",
+  "note": ""
+ }
+]

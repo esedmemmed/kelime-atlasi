@@ -1,0 +1,277 @@
+[
+ {
+  "id": "undertake",
+  "senses": [
+   "üstlenmek; girişmek",
+   "söz vermek; taahhüt etmek"
+  ],
+  "ex": [
+   "Tasarruf etmek için tamirleri kendimiz yaptık.",
+   "Üniversiteler, ulusal eğitim politikasında büyük değişiklikler önermeden önce daha fazla araştırma yapmalıdır."
+  ],
+  "col": [
+   "araştırma yapmak",
+   "bir görevi üstlenmek",
+   "bir şeyi yapmayı üstlenmek"
+  ],
+  "tip": "Geçmiş zaman undertook, geçmiş ortaç undertaken biçimindedir. 'Söz vermek' anlamında undertake to do kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hatch",
+  "senses": [
+   "kuluçkadan çıkmak; çıkarmak",
+   "geçit; kapak",
+   "gizlice tasarlamak"
+  ],
+  "ex": [
+   "Dün çiftlikte üç civcivin çıktığını izledik.",
+   "Yükselen sıcaklıklar, kaplumbağa yumurtalarının ne zaman çıkacağını etkileyebilir ve genç kaplumbağaların hayatta kalma şansını azaltabilir."
+  ],
+  "col": [
+   "yumurtadan civciv çıkarmak",
+   "bir plan kurmak",
+   "acil çıkış kapağı"
+  ],
+  "tip": "Yumurtadan çıkma anlamında fiil, 'kapak' anlamında isimdir. Gizlice plan yapma anlamı genellikle fiil olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lime",
+  "senses": [
+   "misket limonu",
+   "kireç",
+   "açık yeşilimsi sarı"
+  ],
+  "ex": [
+   "Sıcak pilavın üzerine bir misket limonu sıktı.",
+   "Çiftçiler, verimliliği artırmak için asidik topraklara kireç uygulayabilir."
+  ],
+  "col": [
+   "misket limonu suyu",
+   "bir dilim misket limonu",
+   "tarımsal kireç",
+   "açık yeşilimsi sarı renk"
+  ],
+  "tip": "Meyve anlamında sayılabilir, kireç anlamında sayılamaz. Normal limon için lemon kelimesi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "overseas",
+  "senses": [
+   "yurt dışında; yurt dışına",
+   "yurt dışı; denizaşırı"
+  ],
+  "ex": [
+   "Kuzenim yurt dışına taşındı ve her hafta sonu bizi arıyor.",
+   "Yurt dışında okumak öğrencilerin bakış açısını genişletebilir; ancak farklı bir kültüre uyum sağlamak genellikle zaman alır."
+  ],
+  "col": [
+   "yurt dışında okumak",
+   "yurt dışında çalışmak",
+   "yurt dışı pazarları",
+   "yurt dışındaki öğrenciler"
+  ],
+  "tip": "Zarf olarak yer belirtirken önüne to gelmez: go overseas denir. Sıfat olarak isimden önce kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "immigrate",
+  "senses": [
+   "göç etmek; yerleşmek"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam Kanada'ya yerleşti ve bir fırın açtı.",
+   "Göç eden insanlar, yeni toplumsal geleneklere uyum sağlarken genellikle ev sahibi ülkelerine değerli beceriler katar."
+  ],
+  "col": [
+   "bir ülkeye göç etmek",
+   "yurt dışından göç etmek"
+  ],
+  "tip": "immigrate to, varılan ülkeye odaklanır; emigrate from ise çıkılan ülkeye odaklanır. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "bark",
+  "senses": [
+   "havlamak",
+   "havlama",
+   "ağaç kabuğu"
+  ],
+  "ex": [
+   "Kapıyı biri çaldığında köpeğimiz hep havlar.",
+   "Olgun ağaçların kabuğu böceklere barınak sağlar ve gövdeyi zarardan korumaya yardımcı olur."
+  ],
+  "col": [
+   "birine havlamak",
+   "yüksek sesli bir havlama",
+   "ağaç kabuğu"
+  ],
+  "tip": "Köpek havlaması sayılabilir, ağaç kabuğu genellikle sayılamaz. Fiil olarak bark at someone kalıbı 'birine havlamak' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "deforestation",
+  "senses": [
+   "ormansızlaşma; orman tahribi"
+  ],
+  "ex": [
+   "Ormansızlaşma tepeyi çıplak ve tozlu bırakmış.",
+   "Ormansızlaşmanın azaltılması, yaban hayatı yaşam alanlarını koruyabilir ve iklim değişikliğinin etkilerini sınırlamaya yardımcı olabilir."
+  ],
+  "col": [
+   "ormansızlaşmayı önlemek",
+   "yaygın ormansızlaşma",
+   "tropik ormansızlaşma"
+  ],
+  "tip": "Sayılamayan bir isimdir, çoğul hâli kullanılmaz. İklim değişikliği ve yaşam alanları konularında sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "attendant",
+  "senses": [
+   "görevli; personel",
+   "beraberinde gelen; eşlik eden"
+  ],
+  "ex": [
+   "Uçuş görevlisi kızım için fazladan bir battaniye getirdi.",
+   "Şehirler, yeni toplu taşıma ağlarını planlarken nüfus artışını ve beraberinde getirdiği baskıları dikkate almalıdır."
+  ],
+  "col": [
+   "uçuş görevlisi",
+   "otopark görevlisi",
+   "beraberindeki riskler"
+  ],
+  "tip": "attendant genellikle hizmet veren görevliyi anlatır. Konferansa katılan kişi için ise attendee kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "sorrow",
+  "senses": [
+   "keder; acı"
+  ],
+  "ex": [
+   "En yakın arkadaşı uzaklaşınca derin bir keder hissetti.",
+   "Toplum desteği, sevilen birini kaybettikten sonra insanların kederle başa çıkmasına yardımcı olabilir."
+  ],
+  "col": [
+   "derin keder",
+   "keder dile getirmek",
+   "üzüntü içinde"
+  ],
+  "tip": "Duygu olarak genellikle sayılamaz. Belirli acı verici olaylar için çoğul sorrows kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "excursion",
+  "senses": [
+   "gezi; kısa tur"
+  ],
+  "ex": [
+   "Göle yapacağımız gezi için sandviç hazırladık.",
+   "Okul gezileri, öğrencilerin yerel yaban hayatı ve korumaya ilişkin anlayışını derinleştirebilir."
+  ],
+  "col": [
+   "bir geziye çıkmak",
+   "günlük gezi",
+   "okul gezisi"
+  ],
+  "tip": "Genellikle grupla yapılan kısa ve eğlence amaçlı geziler için kullanılır. go on an excursion kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "disable",
+  "senses": [
+   "devre dışı bırakmak; kapatmak",
+   "sakatlamak; engellemek"
+  ],
+  "ex": [
+   "Akşam yemeğinde telefonum sessiz kalsın diye bildirimleri kapattım.",
+   "Kullanıcılar, temel dijital hizmetlere erişimlerini kaybetmeden konum takibini kapatabilmelidir."
+  ],
+  "col": [
+   "bildirimleri kapatmak",
+   "bir alarmı devre dışı bırakmak",
+   "konum takibini kapatmak"
+  ],
+  "tip": "Teknoloji bağlamında 'devre dışı bırakmak' anlamındadır. Silmek ya da bozmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "recall",
+  "senses": [
+   "hatırlamak; anımsamak",
+   "geri çağırmak; geri almak",
+   "hafıza; ürün geri çağırma"
+  ],
+  "ex": [
+   "Büyükannemin mutfağının kokusunu hâlâ hatırlıyorum.",
+   "Üreticiler, tüketicileri korumak ve güvenlik standartlarına olan güveni sürdürmek için kusurlu ürünleri derhal geri çağırmalıdır."
+  ],
+  "col": [
+   "bir ayrıntıyı hatırlamak",
+   "bir şeyi yaptığını hatırlamak",
+   "ürün geri çağırma",
+   "tam hafıza"
+  ],
+  "tip": "Bir şeyi yaptığını hatırlamak için recall doing kullanılır, recall to do değil.",
+  "note": ""
+ },
+ {
+  "id": "magnificent",
+  "senses": [
+   "muhteşem; görkemli",
+   "olağanüstü; harika"
+  ],
+  "ex": [
+   "Balkondan karlı dağların muhteşem bir manzarası görülüyor.",
+   "Muhteşem tarihi binaların korunması yerel kimliği güçlendirebilir ve diğer bölgelerden ziyaretçileri çekebilir."
+  ],
+  "col": [
+   "muhteşem manzara",
+   "görkemli bir bina",
+   "olağanüstü bir başarı"
+  ],
+  "tip": "Genellikle manzara, bina veya başarı için kullanılır. Bir kişinin ahlaki niteliklerini anlatmak için uygun değildir.",
+  "note": ""
+ },
+ {
+  "id": "appreciation",
+  "senses": [
+   "minnettarlık; şükran",
+   "takdir; değer bilme",
+   "değer artışı"
+  ],
+  "ex": [
+   "Komşumuza teşekkürümüzü göstermek için bir kek pişirdik.",
+   "Sanat eğitimi, öğrencilerin kendi geleneklerinden farklı kültürel geleneklere karşı takdirini geliştirebilir."
+  ],
+  "col": [
+   "takdir göstermek",
+   "bir şeyin karşılığı olarak",
+   "sanata duyulan takdir",
+   "para biriminin değer kazanması"
+  ],
+  "tip": "Genellikle sayılamaz. of ile birlikte bir şeyin değerini kavramayı ifade eder: an appreciation of art.",
+  "note": ""
+ },
+ {
+  "id": "burden",
+  "senses": [
+   "yük; sorumluluk",
+   "yük bindirmek; yüklemek"
+  ],
+  "ex": [
+   "Ev işlerini paylaşmak babamın yükünü hafifletti.",
+   "Uygun fiyatlı çocuk bakımı, ailelerin mali yükünü azaltabilir ve ebeveynlerin işe geri dönmesine yardımcı olabilir."
+  ],
+  "col": [
+   "mali yük",
+   "yükü hafifletmek",
+   "yükü taşımak",
+   "borç yükü altında olmak"
+  ],
+  "tip": "Bir yük birinin üzerine olduğunda a burden on someone kalıbı kullanılır. be burdened with bir şeyle yüklü olmak demektir.",
+  "note": ""
+ }
+]

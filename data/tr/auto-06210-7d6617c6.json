@@ -1,0 +1,270 @@
+[
+ {
+  "id": "malnutrition",
+  "senses": [
+   "yetersiz beslenme; beslenme bozukluğu"
+  ],
+  "ex": [
+   "Kurtarılan kedi yavrusunun yetersiz beslenmesini tedavi etmek için özel mama gerekiyordu.",
+   "Okul yemek programları, düşük gelirli hanelerdeki çocuklara dengeli beslenme sağlayarak çocukluk çağındaki yetersiz beslenmeyi azaltabilir."
+  ],
+  "col": [
+   "yetersiz beslenmeden muzdarip olmak",
+   "ağır yetersiz beslenme",
+   "yetersiz beslenmeyi önlemek"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a malnutrition' ya da çoğul kullanmayın. Yalnızca az yemek değil, dengesiz beslenmeyi de kapsar.",
+  "note": ""
+ },
+ {
+  "id": "infirmary",
+  "senses": [
+   "revir; hastane"
+  ],
+  "ex": [
+   "Okul hemşiresi ayak bileğimi revirde tedavi etti.",
+   "Donanımlı bir okul reviri, küçük yaralanmaların eğitimi aksatmadan hızla tedavi edilmesini sağlar."
+  ],
+  "col": [
+   "okul reviri",
+   "revir yatağı"
+  ],
+  "tip": "Genellikle kurum içindeki sağlık odasını anlatır; İngiliz kullanımında bazı hastaneler için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "kindle",
+  "senses": [
+   "tutuşturmak; ateşlemek",
+   "uyandırmak; körüklemek"
+  ],
+  "ex": [
+   "Küçük bir ateş yakmak için kuru dal parçalarını kullandık.",
+   "Bilim müzelerine yapılan ziyaretler, çocukların merakını uyandırabilir ve onları alışılmadık bilimsel fikirleri keşfetmeye teşvik edebilir."
+  ],
+  "col": [
+   "ateş yakmak",
+   "ilgi uyandırmak",
+   "umut aşılamak"
+  ],
+  "tip": "Resmi ya da edebi bir kelimedir; hem ateşi tutuşturmak hem de ilgi ya da duygu uyandırmak için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "regretfully",
+  "senses": [
+   "üzülerek; esefle"
+  ],
+  "ex": [
+   "Çalıştığım için davetiyeyi üzülerek geri çevirdim.",
+   "Meclis, bütçe kısıtlamalarının yeni bir toplum merkezinin inşaatını geciktireceğini üzülerek duyurdu."
+  ],
+  "col": [
+   "üzülerek reddetmek",
+   "üzülerek kabul etmek",
+   "üzülerek duyurmak"
+  ],
+  "tip": "Kişinin pişmanlığını ya da üzüntüsünü vurgular; regrettably ise bir durumun talihsizliğini belirtir. Bunları karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "tranquility",
+  "senses": [
+   "huzur; dinginlik"
+  ],
+  "ex": [
+   "Şafakta bahçenin dinginliğinin tadını çıkardık.",
+   "Kent parkları sakinlere huzur duygusu sunarak günlük stresi azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "huzur duygusu",
+   "barış ve huzur",
+   "dinginliğin tadını çıkarmak"
+  ],
+  "tip": "Amerikan İngilizcesinde tranquility, İngiliz İngilizcesinde tranquillity biçiminde yazılır; ikisi de kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "sterling",
+  "senses": [
+   "İngiliz lirası; sterlin",
+   "mükemmel; üstün",
+   "standart ayarda"
+  ],
+  "ex": [
+   "Dün kalan yabancı paralarımızı sterlin karşılığında bozdurduk.",
+   "Sterlinin değer kaybı, konaklama ve yerel hizmetleri daha uygun fiyatlı hale getirerek uluslararası turistleri çekebilir."
+  ],
+  "col": [
+   "İngiliz lirası",
+   "standart ayar gümüş",
+   "üstün iş",
+   "üstün nitelikler"
+  ],
+  "tip": "Sterling silver genellikle yüzde 92,5 saf gümüş içerir; tam saf gümüş anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "operational",
+  "senses": [
+   "çalışır durumda; kullanılabilir",
+   "işletmesel; operasyonel"
+  ],
+  "ex": [
+   "Dünkü onarımdan sonra asansör yeniden çalışır durumda.",
+   "Yenilenebilir enerji projeleri önemli yatırım gerektirse de işletme maliyetleri nispeten düşük kalabilir."
+  ],
+  "col": [
+   "tamamen çalışır durumda",
+   "çalışır hale gelmek",
+   "işletme maliyetleri",
+   "işletme verimliliği"
+  ],
+  "tip": "Hem cihazların kullanıma hazır olduğunu hem de kurumların günlük işleyişini anlatabilir. Bağlama göre anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "allocate",
+  "senses": [
+   "ayırmak; tahsis etmek"
+  ],
+  "ex": [
+   "Tüm pişirme malzemelerimiz için bir dolabı ayırdık.",
+   "Yerel yönetimler, temel hizmetlere erişimi kısıtlı bölgelerde toplu taşımaya daha fazla kaynak ayırmalıdır."
+  ],
+  "col": [
+   "kaynak ayırmak",
+   "fon ayırmak",
+   "zaman ayırmak"
+  ],
+  "tip": "'allocate sth to sb/sth' kalıbıyla kullanılır: bir şeyi birine ya da bir amaca ayırmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "rave",
+  "senses": [
+   "coşkuyla övmek",
+   "çılgınca bağırmak; saçmalamak",
+   "rave partisi"
+  ],
+  "ex": [
+   "Arkadaşlarım o küçük erişteci dükkânından sürekli övgüyle söz ediyor.",
+   "Eleştirmenler sergiyi övmelerine rağmen, bazı ziyaretçiler yüksek giriş ücretinin haklı olup olmadığını sorguladı."
+  ],
+  "col": [
+   "coşkuyla söz etmek",
+   "olumlu eleştiriler",
+   "öfkeyle bağırıp çağırmak"
+  ],
+  "tip": "'Rave about' genellikle bir şeyi çok beğenip övmek anlamındadır; kızgın bir şekilde bağırmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "victorious",
+  "senses": [
+   "galip; zafer kazanan"
+  ],
+  "ex": [
+   "Galip gelen takım kupayı başlarının üzerine kaldırdı.",
+   "Uluslararası yarışmalarda galip gelen sporcular, genç kuşakları spora katılmaya sık sık teşvik eder."
+  ],
+  "col": [
+   "galip takım",
+   "galip gelmek",
+   "zaferle sonuçlanan kampanya"
+  ],
+  "tip": "Sıfattır; zafer anlamındaki isim 'victory'dir. 'Victorious' ile 'victory' kelimelerini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "originate",
+  "senses": [
+   "kaynaklanmak; çıkmak",
+   "ortaya çıkarmak; öncülük etmek"
+  ],
+  "ex": [
+   "Bu tarif küçük bir sahil köyünde ortaya çıkmıştır.",
+   "Birçok çevre sorununun kaynağı, mevcut teknoloji eksikliğinden çok tüketim alışkanlıklarında yatar."
+  ],
+  "col": [
+   "...de kaynaklanmak",
+   "...dan kaynaklanmak",
+   "...ile başlamak"
+  ],
+  "tip": "Kökeni belirtirken genellikle 'in' ya da 'from' ile kullanılır. Gemiyle yola çıkmak anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "tract",
+  "senses": [
+   "geniş arazi; bölge",
+   "organ sistemi",
+   "kısa broşür; risale"
+  ],
+  "ex": [
+   "Geniş bir ormanlığın yanında küçük bir kulübe satın aldılar.",
+   "Biyoçeşitliliği korumak ve küresel iklimi düzenlemek için geniş orman alanları korunmalıdır."
+  ],
+  "col": [
+   "bir arazi parçası",
+   "geniş orman alanları",
+   "sindirim sistemi",
+   "solunum yolları"
+  ],
+  "tip": "Arazi anlamında 'a tract of' kalıbı kullanılır; 'track' (iz, parkur) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "noted",
+  "senses": [
+   "ünlü; tanınmış"
+  ],
+  "ex": [
+   "Dün yerel tiyatromuzda ünlü bir piyanist konser verdi.",
+   "Bölge, geleneksel el sanatlarıyla ünlüdür; bu sanatlar ziyaretçileri çekerek yerel ekonomiyi destekler."
+  ],
+  "col": [
+   "...ile ünlü olmak",
+   "ünlü bir akademisyen",
+   "tanınmış bir uzman"
+  ],
+  "tip": "'Be noted for' kalıbından sonra ünlü olunan özellik ya da başarı gelir.",
+  "note": ""
+ },
+ {
+  "id": "contradiction",
+  "senses": [
+   "çelişki; tutarsızlık",
+   "yalanlama; itiraz"
+  ],
+  "ex": [
+   "İki açıklaması arasında bir çelişki fark ettim.",
+   "Sürdürülebilir ulaşımı teşvik etmekle yerel otobüs hizmetlerine yatırımı azaltmak arasında açık bir çelişki var."
+  ],
+  "col": [
+   "...arasında çelişki",
+   "...ile çelişki içinde",
+   "kendi içinde çelişki"
+  ],
+  "tip": "Genellikle 'a contradiction between A and B' kalıbıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "prototype",
+  "senses": [
+   "prototip; ilk model",
+   "prototip oluşturmak"
+  ],
+  "ex": [
+   "Tasarımcı bize katlanabilir sandalyesinin bir prototipini gösterdi.",
+   "Prototip test etmek, mühendislerin ürün seri üretime geçmeden önce tasarım zayıflıklarını belirlemesine olanak tanır."
+  ],
+  "col": [
+   "prototip oluşturmak",
+   "prototip test etmek",
+   "çalışan bir prototip"
+  ],
+  "tip": "Test edilip geliştirilmek üzere yapılan erken bir modeldir; nihai ürün anlamına gelmez.",
+  "note": ""
+ }
+]

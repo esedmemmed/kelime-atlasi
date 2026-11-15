@@ -1,0 +1,279 @@
+[
+ {
+  "id": "drown",
+  "senses": [
+   "boğulmak; boğmak",
+   "bastırmak; örtmek"
+  ],
+  "ex": [
+   "Teknesi gölde alabora olduğunda az kalsın boğuluyordu.",
+   "Yüzme derslerini ve yetişkin gözetimini teşvik eden halk güvenliği kampanyaları, çocukların boğulma riskini azaltabilir."
+  ],
+  "col": [
+   "sesi bastırmak",
+   "neredeyse boğulmak",
+   "evrak yığını altında boğulmak"
+  ],
+  "tip": "drown sadece suda boğulmayı değil, bir sesi bastırmayı da anlatır; bu anlamda genellikle drown out kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "collection",
+  "senses": [
+   "koleksiyon; birikim",
+   "toplama; derleme",
+   "bağış toplama; yardım toplama"
+  ],
+  "ex": [
+   "Teyzem kabuk koleksiyonunu bir dolapta saklıyor.",
+   "Evsel atıkların düzenli toplanması, halk sağlığını korumak ve kentsel çevreyi temiz tutmak için şarttır."
+  ],
+  "col": [
+   "bir dizi, bir koleksiyon",
+   "veri toplama",
+   "atık toplama",
+   "bağış toplamak"
+  ],
+  "tip": "a collection of kalıbından sonra genellikle çoğul isim gelir; collection sayılabilir bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "booking",
+  "senses": [
+   "rezervasyon; randevu"
+  ],
+  "ex": [
+   "Rezervasyonumuzu doğrulamak için otelle konuşup aradım.",
+   "Çevrimiçi rezervasyon sistemleri, turistlerin konaklama fiyatlarını karşılaştırmasını ve seyahatlerini daha verimli planlamasını sağlar."
+  ],
+  "col": [
+   "rezervasyon yapmak",
+   "rezervasyonu onaylamak",
+   "rezervasyonu iptal etmek",
+   "önceden rezervasyon"
+  ],
+  "tip": "booking sayılabilir bir isimdir; bir hizmet için booking for kalıbı kullanılır, örneğin booking for two.",
+  "note": ""
+ },
+ {
+  "id": "medium",
+  "senses": [
+   "orta; ortalama",
+   "araç; iletişim aracı"
+  ],
+  "ex": [
+   "Sebzeler yumuşayana kadar orta ateşte pişirin.",
+   "Film, toplumsal sorunları incelemek ve gençler arasında tartışmayı teşvik etmek için etkili bir iletişim aracıdır."
+  ],
+  "col": [
+   "orta ateş",
+   "orta boy",
+   "iletişim aracı"
+  ],
+  "tip": "Sıfat olarak 'orta' anlamındadır; 'araç' anlamındaki isim için çoğul genellikle media olur.",
+  "note": ""
+ },
+ {
+  "id": "fisherman",
+  "senses": [
+   "balıkçı"
+  ],
+  "ex": [
+   "Balıkçı ağını ahşap teknenin üzerine çekti.",
+   "Kıyı köyündeki her balıkçı, istikrarlı bir gelir elde etmek için sağlıklı deniz ekosistemlerine bağlıdır."
+  ],
+  "col": [
+   "yerel balıkçılar",
+   "ticari balıkçılar",
+   "balıkçı teknesi"
+  ],
+  "tip": "Çoğulu fishermen'dır. Hem mesleki hem de hobi olarak balık tutan kişiler için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "unforgettable",
+  "senses": [
+   "unutulmaz"
+  ],
+  "ex": [
+   "Tekneden balinaları izlemek unutulmaz bir deneyimdi.",
+   "Okul gezileri, öğrencilerin tarih bilgisini sınıf dışında pekiştiren unutulmaz deneyimler sunabilir."
+  ],
+  "col": [
+   "unutulmaz bir deneyim",
+   "unutulmaz bir an",
+   "unutulmaz bir yolculuk"
+  ],
+  "tip": "Deneyim veya an gibi şeyleri anlatır; insanın unutkan olduğunu anlatan forgetful ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "advertise",
+  "senses": [
+   "reklamını yapmak; tanıtmak",
+   "ilan vermek; ilan etmek"
+  ],
+  "ex": [
+   "Fırın, taze ekmeklerini yerel radyoda tanıtıyor.",
+   "Hükümetler, şirketlerin şekerli atıştırmalıkları çocuklara nasıl reklam yaptığını sınırlamalı; çocuklar ikna edici pazarlama tekniklerini tanıyamayabilir."
+  ],
+  "col": [
+   "bir ürünün reklamını yapmak",
+   "personel için ilan vermek",
+   "internette reklam vermek"
+  ],
+  "tip": "Bir ürünü tanıtmak için doğrudan advertise kullanılır; bir kişi aramak için advertise for kalıbı kullanılır: advertise for staff.",
+  "note": ""
+ },
+ {
+  "id": "bandage",
+  "senses": [
+   "bandaj; sargı bezi",
+   "bandajlamak; sarmak"
+  ],
+  "ex": [
+   "Hemşire bileğime temiz bir bandaj sardı.",
+   "Temel ilk yardım kursları, profesyonel yardım gelmeden önce insanlara bandajı güvenli biçimde nasıl uygulayacaklarını öğretir."
+  ],
+  "col": [
+   "bandaj uygulamak",
+   "bandajı değiştirmek",
+   "yarayı bandajlamak"
+  ],
+  "tip": "Hem isim hem fiil olarak kullanılır. Fiil olarak bir yarayı veya vücut bölgesini sarmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "coconut",
+  "senses": [
+   "hindistancevizi",
+   "hindistancevizi içi"
+  ],
+  "ex": [
+   "Plajın yanında taze bir hindistancevizi paylaştık.",
+   "Kıyı çiftçileri, hindistancevizi kabuklarını yararlı ev ürünlerine dönüştürerek ek gelir elde edebilir."
+  ],
+  "col": [
+   "hindistancevizi sütü",
+   "hindistancevizi suyu",
+   "hindistancevizi yağı",
+   "hindistancevizi kabuğu"
+  ],
+  "tip": "Bütün meyve için sayılabilir; beyaz eti anlatırken genellikle sayılamaz bir isim gibi kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "benefit",
+  "senses": [
+   "fayda; yarar",
+   "yararlanmak; fayda sağlamak",
+   "sosyal yardım; ödenek"
+  ],
+  "ex": [
+   "Bisiklet sürmenin bir faydası, eve dinlenmiş dönmektir.",
+   "Kırsal topluluklar, gelişmiş internet erişiminden eğitim ve istihdam fırsatları açısından yararlanabilir."
+  ],
+  "col": [
+   "sağlık yararları",
+   "-den yararlanmak",
+   "işsizlik ödeneği",
+   "karşılıklı fayda"
+  ],
+  "tip": "benefit sb birine yarar sağlamak, benefit from ise bir şeyden yararlanmak anlamına gelir; bu iki kalıbı karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "fence",
+  "senses": [
+   "çit; parmaklık",
+   "çitle çevirmek",
+   "eskrim yapmak"
+  ],
+  "ex": [
+   "Köpeğimiz tahta çitin arkasından komşuları izledi.",
+   "Korunan yaşam alanlarının etrafına çit yapmak, yerel çiftçilerle nesli tehlikedeki yaban hayvanları arasındaki çatışmayı azaltabilir."
+  ],
+  "col": [
+   "tahta çit",
+   "çit kurmak",
+   "bir alanı çitle ayırmak"
+  ],
+  "tip": "sit on the fence deyimi tarafsız kalmak, taraf tutmamak anlamına gelir. Fiil olarak eskrim yapmak anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "court",
+  "senses": [
+   "mahkeme",
+   "kort; saha",
+   "davet etmek; çekmek"
+  ],
+  "ex": [
+   "Pazartesi sabahı mahkemede hazır bulunacak.",
+   "Yerel yönetimler, daha çok sakinin düzenli spor yapabilmesi için halka açık tenis kortları sağlamalı."
+  ],
+  "col": [
+   "mahkemeye gitmek",
+   "tenis kortu",
+   "felakete davetiye çıkarmak"
+  ],
+  "tip": "in court mahkemede, on court ise sahada anlamına gelir. Bu iki kalıp birbirine karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "impressive",
+  "senses": [
+   "etkileyici; takdire değer"
+  ],
+  "ex": [
+   "İlk denemende etkileyici bir pasta yaptın.",
+   "Bölge, son on yılda temiz suya erişimi genişletmede etkileyici bir ilerleme kaydetti."
+  ],
+  "col": [
+   "etkileyici başarı",
+   "etkileyici ilerleme",
+   "etkileyici performans"
+  ],
+  "tip": "Şeyler için impressive, kişinin duyduğu hissi anlatmak için impressed kullanılır: I was impressed.",
+  "note": ""
+ },
+ {
+  "id": "plenty",
+  "senses": [
+   "bol miktarda; yeterince",
+   "epey; oldukça",
+   "bolluk; bereket"
+  ],
+  "ex": [
+   "Herkes için bolca çorba kaldı.",
+   "Şehirler çok sayıda iş fırsatı sunsa da yüksek konut maliyetleri genç işçileri oraya taşınmaktan caydırabilir."
+  ],
+  "col": [
+   "bol zaman",
+   "bol fırsat",
+   "daha fazlası da var",
+   "bolluk dönemi"
+  ],
+  "tip": "plenty of'dan sonra sayılabilir çoğul isim ya da sayılamayan isim gelir; plenty of'dan önce a kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "variety",
+  "senses": [
+   "çeşitlilik; farklılık",
+   "çeşit; tür"
+  ],
+  "ex": [
+   "Öğle yemeğimize farklı renkli sebzelerle çeşitlilik katıyoruz.",
+   "Okullar, farklı ilgi alanlarına sahip öğrencileri desteklemek için geniş bir etkinlik yelpazesi sunmalı."
+  ],
+  "col": [
+   "geniş bir yelpaze",
+   "çeşitlilik katmak",
+   "çeşitli nedenler",
+   "yeni bir çeşit"
+  ],
+  "tip": "'Çeşitlilik' anlamında sayılamaz; 'bir çeşit, tür' anlamında sayılabilir ve çoğulu varieties olur.",
+  "note": ""
+ }
+]

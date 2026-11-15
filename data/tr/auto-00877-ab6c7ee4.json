@@ -1,0 +1,271 @@
+[
+ {
+  "id": "vacation",
+  "senses": [
+   "tatil; izin",
+   "tatil yapmak"
+  ],
+  "ex": [
+   "Yaz tatilimizi bir göl kenarında kamp kurarak geçirdik.",
+   "Düzenli tatil yapmak çalışanların ruh sağlığını iyileştirebilir ve işe daha yüksek motivasyonla dönmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "tatilde; izinde",
+   "tatile çıkmak",
+   "yaz tatili",
+   "ücretli izin"
+  ],
+  "tip": "Amerikan İngilizcesinde kullanılır; İngiliz İngilizcesinde genellikle holiday tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "traveler",
+  "senses": [
+   "gezgin; yolcu"
+  ],
+  "ex": [
+   "Yorgun bir yolcu bana istasyonun nerede olduğunu sordu.",
+   "Her gezgin, konaklama ve hizmet tercihlerinde yerel halkın sahip olduğu işletmeleri seçerek yerel topluluklara destek olabilir."
+  ],
+  "col": [
+   "yalnız gezgin",
+   "iş seyahati yapan kişi",
+   "sık seyahat eden kişi"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımında traveller olur. Kişi için traveler, yolculuk için travel kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tool",
+  "senses": [
+   "alet; araç",
+   "araç; yardımcı"
+  ],
+  "ex": [
+   "Bu küçük alet gevşek vidaları sıkmama yardımcı oluyor.",
+   "Dijital haritalar, daha erişilebilir toplu taşıma ağları tasarlamak isteyen şehir plancıları için değerli bir araçtır."
+  ],
+  "col": [
+   "el aletleri",
+   "elektrikli aletler",
+   "işe yarar bir alet",
+   "öğrenme aracı"
+  ],
+  "tip": "Sayılabilir isimdir: a tool, tools. Ekipman anlamında equipment kullanılır ve genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "ankle",
+  "senses": [
+   "ayak bileği"
+  ],
+  "ex": [
+   "Merdivenlerden inerken ayak bileğini burktu.",
+   "Uygun ayakkabılar, fiziksel egzersiz ve açık hava etkinlikleri sırasında ayak bileği yaralanma riskini azaltabilir."
+  ],
+  "col": [
+   "ayak bileğini burkmak",
+   "şişmiş ayak bileği",
+   "ayak bileği desteği"
+  ],
+  "tip": "Ankle, ayakla baldır arasındaki eklemdir; topuk anlamına gelen heel ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "cereal",
+  "senses": [
+   "kahvaltılık gevrek",
+   "tahıl; hububat"
+  ],
+  "ex": [
+   "Soğuk sütü kasedeki gevreğin üzerine döktü.",
+   "Değişen yağış düzenleri tarımsal üretimi etkilediğinden çiftçiler farklı tahıl ürünleri yetiştirmek zorunda kalabilir."
+  ],
+  "col": [
+   "kahvaltılık gevrek",
+   "bir kase gevrek",
+   "tahıl ürünleri",
+   "tam tahıllı gevrek"
+  ],
+  "tip": "Kahvaltılık gevrek anlamında genellikle sayılamaz; tahıl türlerinden söz ederken cereals kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "insect",
+  "senses": [
+   "böcek"
+  ],
+  "ex": [
+   "Kolumun üzerine minik yeşil bir böcek kondu.",
+   "Birçok böcek türü bitkileri tozlaştırır; bu yüzden onların korunması gıda üretimi ve sağlıklı ekosistemler için önemlidir."
+  ],
+  "col": [
+   "böcek ısırığı",
+   "böcek kovucu",
+   "böcek türü"
+  ],
+  "tip": "Sayılabilir isimdir: an insect, insects. Örümcekler sekiz bacaklıdır ve böcek sayılmaz.",
+  "note": ""
+ },
+ {
+  "id": "frenchman",
+  "senses": [
+   "Fransız erkek"
+  ],
+  "ex": [
+   "Trende yanımdaki Fransız bir adam bavulumu kaldırmama yardım etti.",
+   "Sergi, bir Fransız'ın yurt dışında yaşama nasıl uyum sağladığını ve memleketinin kültürüyle bağlarını nasıl sürdürdüğünü inceliyor."
+  ],
+  "col": [
+   "genç bir Fransız erkek",
+   "yerli Fransız"
+  ],
+  "tip": "Baş harfi büyük yazılır; çoğulu Frenchmen olur. Cinsiyet belirtilmeden French person kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "manager",
+  "senses": [
+   "yönetici; müdür"
+  ],
+  "ex": [
+   "Yönetici, yeni bir çalışanın rafları düzenlemesine yardım etti.",
+   "Etkili bir yönetici açık iletişimi teşvik eder ve çalışanların görevlerini tamamlamak için yeterli kaynağa sahip olmasını sağlar."
+  ],
+  "col": [
+   "proje yöneticisi",
+   "mağaza müdürü",
+   "üst düzey yönetici",
+   "birim amiri"
+  ],
+  "tip": "Manager bir yöneticiyi anlatır; yönetim faaliyeti veya yönetim kadrosu için management kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "alone",
+  "senses": [
+   "yalnız; tek başına",
+   "tek başına; kendi başına",
+   "yalnızca; sadece"
+  ],
+  "ex": [
+   "Çaydanlık kaynadığında mutfakta yalnızdım.",
+   "Hükümetler çevre sorunlarını tek başına çözemez; kalıcı ilerleme için işletmelerin ve bireysel vatandaşların da katkısı gerekir."
+  ],
+  "col": [
+   "tek başına yaşamak",
+   "tek başına seyahat etmek",
+   "birini rahat bırakmak",
+   "tek başına halletmek"
+  ],
+  "tip": "Alone, yalnız olmayı anlatır ve her zaman duygusal yalnızlık anlamına gelmez; duygusal yalnızlık için lonely kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "competition",
+  "senses": [
+   "rekabet",
+   "yarışma; müsabaka"
+  ],
+  "ex": [
+   "Okulumuz gelecek cuma günü bir resim yarışması düzenliyor.",
+   "İşletmeler arasındaki rekabet fiyatları düşürebilir; ancak tüketicileri haksız uygulamalara karşı korumak için etkili düzenlemeler gerekir."
+  ],
+  "col": [
+   "şiddetli rekabet",
+   "iş için rekabet",
+   "yarışmaya katılmak",
+   "bir yarışmayı kazanmak"
+  ],
+  "tip": "Rekabet anlamında genellikle sayılamaz; belirli bir yarışma etkinliği için a competition denir ve sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "beef",
+  "senses": [
+   "sığır eti"
+  ],
+  "ex": [
+   "Sığır etini havuç ve patatesle birlikte yavaş yavaş pişirdik.",
+   "Sığır eti tüketimini azaltmak sera gazı emisyonlarını düşürebilir; çünkü sığır yetiştiriciliği çok fazla arazi ve kaynak gerektirir."
+  ],
+  "col": [
+   "rosto sığır eti",
+   "kıyma",
+   "sığır eti güveç",
+   "yağsız sığır eti"
+  ],
+  "tip": "Yiyecek olarak genellikle sayılamaz: some beef denir, a beef denmez. Hayvanın kendisi için cow ya da cattle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "discuss",
+  "senses": [
+   "tartışmak; görüşmek",
+   "ele almak; incelemek"
+  ],
+  "ex": [
+   "Bu akşam yemekte tatil planlarımızı konuşalım.",
+   "Öğrenciler, kampüslerindeki atığı azaltmak için farklı çözümleri tartışmalı ve ardından karar vermelidir."
+  ],
+  "col": [
+   "bir sorunu tartışmak",
+   "birisiyle bir şeyi konuşmak",
+   "ayrıntılı olarak ele almak"
+  ],
+  "tip": "Discuss doğrudan nesne alır: discuss sth. Discuss about yanlıştır; about eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "snack",
+  "senses": [
+   "atıştırmalık; kuruyemiş",
+   "atıştırmak"
+  ],
+  "ex": [
+   "Atıştırmalık olarak bir elma ve biraz fındık koymuştum.",
+   "Okullar, şekerli yiyecekler yerine besleyici atıştırmalıklar sunarak daha sağlıklı beslenme alışkanlıklarını teşvik edebilir."
+  ],
+  "col": [
+   "sağlıklı atıştırmalık",
+   "hafif bir atıştırmalık",
+   "fındık atıştırmak"
+  ],
+  "tip": "Fiil olarak genellikle snack on sth kalıbıyla kullanılır: bir şeyi atıştırmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "ketchup",
+  "senses": [
+   "ketçap; domates sosu"
+  ],
+  "ex": [
+   "Tabağındaki patatesin üzerine biraz ketçap sıktı.",
+   "Ketçap gibi günlük ürünlerdeki eklenen şekeri azaltmak, tüketicilerin daha sağlıklı beslenme tercihleri yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "domates ketçabı",
+   "bir şişe ketçap",
+   "bir sıkım ketçap"
+  ],
+  "tip": "Genellikle sayılamaz; bir şişe ketçap gibi ölçü sözcükleriyle kullanılır. Yemek pişirmede kullanılan tomato paste (salça) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "photocopier",
+  "senses": [
+   "fotokopi makinesi"
+  ],
+  "ex": [
+   "Ofisteki fotokopi makinesinin kağıdı yine bitti.",
+   "Ortak bir fotokopi makinesi sağlamak, küçük işletmelerin günlük baskı ihtiyaçlarını karşılarken ekipman maliyetlerini azaltmasına olanak tanır."
+  ],
+  "col": [
+   "fotokopi makinesi kullanmak",
+   "ofis fotokopi makinesi",
+   "renkli fotokopi makinesi"
+  ],
+  "tip": "Photocopier makinenin kendisidir; fotokopinin kendisi ya da kopyası için photocopy kullanılır.",
+  "note": ""
+ }
+]

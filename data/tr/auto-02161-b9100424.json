@@ -1,0 +1,277 @@
+[
+ {
+  "id": "grade",
+  "senses": [
+   "not; puan",
+   "sınıf",
+   "notlandırmak; derecelendirmek"
+  ],
+  "ex": [
+   "Fen projemden iyi bir not aldım.",
+   "Öğretmenler, öğrencilerin farklı derslerdeki performansının nasıl değerlendirildiğini anlayabilmeleri için ödevleri tutarlı bir biçimde notlandırmalıdır."
+  ],
+  "col": [
+   "iyi not almak",
+   "ödevleri notlandırmak",
+   "altıncı sınıfta",
+   "yüksek kaliteli malzemeler"
+  ],
+  "tip": "Okul sınıfı anlamında grade daha çok Amerikan İngilizcesinde kullanılır; İngiliz İngilizcesinde genellikle year tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "episode",
+  "senses": [
+   "bölüm",
+   "olay; dönem",
+   "nöbet; atak"
+  ],
+  "ex": [
+   "Final bölümünü akşam yemeğinden sonra birlikte izledik.",
+   "Belgeselin her bölümü, kentsel gelişimin farklı bölgelerdeki yaban hayatını nasıl etkilediğini inceliyor."
+  ],
+  "col": [
+   "son bölüm",
+   "bir ... bölümü",
+   "pilot bölüm",
+   "kısa bir dönem"
+  ],
+  "tip": "episode bir dizinin tek bölümünü anlatır; series ise bütün diziyi ya da seriyi ifade eder. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "frame",
+  "senses": [
+   "çerçeve; iskelet",
+   "çerçevelemek",
+   "kurgulamak; ifade etmek"
+  ],
+  "ex": [
+   "Aile fotoğrafımız için ahşap bir çerçeve seçtik.",
+   "Gazetecilerin çevre sorunlarını sunuş biçimi, halkın koruma ve hükümet politikalarına bakışını etkileyebilir."
+  ],
+  "col": [
+   "resim çerçevesi",
+   "bisiklet iskeleti",
+   "bir soruyu kurgulamak",
+   "referans çerçevesi"
+  ],
+  "tip": "frame hem somut bir yapıyı hem de bir şeyi nasıl sunduğumuzu anlatabilir. Soyut kullanımda ifade biçimini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "scenery",
+  "senses": [
+   "manzara; doğal güzellik",
+   "sahne dekoru"
+  ],
+  "ex": [
+   "Gölün kenarında manzarayı seyretmek için durduk.",
+   "Doğal manzaranın korunması, yerel yaban hayatı için değerli yaşam alanlarını korurken sorumlu turizmi çekebilir."
+  ],
+  "col": [
+   "güzel manzara",
+   "dağ manzarası",
+   "muhteşem manzara",
+   "sahne dekoru"
+  ],
+  "tip": "scenery sayılamayan bir isimdir; 'a scenery' ya da çoğul 'sceneries' şeklinde kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "lover",
+  "senses": [
+   "sevgili; aşık",
+   "hayran; sever"
+  ],
+  "ex": [
+   "İki sevgili nehir kenarında el ele yürüdü.",
+   "Halk bahçeleri, doğa severlere şehirden ayrılmadan yaban hayatını gözlemleme fırsatı sunuyor."
+  ],
+  "col": [
+   "genç âşıklar",
+   "müzik severi",
+   "doğa severler"
+  ],
+  "tip": "Tek başına lover genellikle romantik ilişkideki kişiyi anlatır; 'music lover' gibi kalıplarda 'hayran, sever' anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "elbow",
+  "senses": [
+   "dirsek",
+   "dirsekle itmek"
+  ],
+  "ex": [
+   "Mutfak kapısına dirseğimi çarptım.",
+   "Yolcular bazen kalabalık trenlere dirsekleriyle iterek girer; bu da toplu taşımayı başkaları için rahatsız edici hale getirir."
+  ],
+  "col": [
+   "içki içmek",
+   "dirseklerini dayamak",
+   "dirsekleyerek yol açmak"
+  ],
+  "tip": "Fiil olarak elbow 'dirsekle itmek' anlamına gelir; 'elbow your way through' kalabalığı dirsekleyerek yarmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "stationery",
+  "senses": [
+   "kırtasiye; yazı gereçleri"
+  ],
+  "ex": [
+   "Yeni akşam kursum için biraz kırtasiye malzemesi aldım.",
+   "Temel kırtasiye malzemelerinin sağlanması, dezavantajlı öğrencilerin derslere daha tam katılmasına ve ödevlerini yapmasına yardımcı olabilir."
+  ],
+  "col": [
+   "ofis kırtasiyesi",
+   "kırtasiye malzemeleri",
+   "kırtasiye dükkânı"
+  ],
+  "tip": "stationery sayılamayan bir isimdir. 'Durağan, hareketsiz' anlamındaki stationary ile yazımı benzer olduğu için karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "though",
+  "senses": [
+   "her ne kadar; -e rağmen",
+   "ama; yine de"
+  ],
+  "ex": [
+   "Yağmur yağıyordu, yine de fırına kadar yürüyerek gittik.",
+   "Çevrimiçi dersler daha fazla esneklik sunsa da birçok öğrenci öğretmenlerle yüz yüze etkileşimden hâlâ fayda görüyor."
+  ],
+  "col": [
+   "olmasına rağmen",
+   "sanki"
+  ],
+  "tip": "Yan cümlede though ile but birlikte kullanılmaz ('Though..., but...' yanlıştır). Cümle sonunda 'ama, yine de' anlamı verir.",
+  "note": ""
+ },
+ {
+  "id": "pressure",
+  "senses": [
+   "baskı; stres",
+   "basınç",
+   "baskı yapmak; zorlamak"
+  ],
+  "ex": [
+   "İş mesajlarına hemen cevap vermem gerektiği yönünde bir baskı hissediyorum.",
+   "İşverenler personele aşırı baskı uygulamaktan kaçınmalı; bu hem sağlığa hem de verimliliğe zarar verebilir."
+  ],
+  "col": [
+   "baskı altında",
+   "baskı uygulamak",
+   "kan basıncı",
+   "birini bir şey yapmaya zorlamak"
+  ],
+  "tip": "'Pressure someone into doing' birini bir şey yapmaya zorlamak demektir; into kalıbından sonra -ing eki gelir.",
+  "note": ""
+ },
+ {
+  "id": "flour",
+  "senses": [
+   "un",
+   "un serpmek"
+  ],
+  "ex": [
+   "Unu yavaş yavaş ekleyip pürüzsüz olana kadar karıştırın.",
+   "Beyaz unun bir kısmının tam buğday unuyla değiştirilmesi, günlük gıdaların lif içeriğini artırabilir."
+  ],
+  "col": [
+   "beyaz un",
+   "tam buğday unu",
+   "pirinç unu",
+   "bir yüzeye un serpmek"
+  ],
+  "tip": "flour genellikle sayılamaz; 'a flour' demeyin. Yazımı flower (çiçek) ile benzediği için karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "keep-fit",
+  "senses": [
+   "kondisyon egzersizi; jimnastik"
+  ],
+  "ex": [
+   "Teyzem toplum merkezindeki kondisyon derslerine katılıyor.",
+   "Uygun fiyatlı kondisyon dersleri, yaşlı yetişkinleri düzenli egzersiz yapmaya ve topluluklarındaki sosyal bağlarını sürdürmeye teşvik edebilir."
+  ],
+  "col": [
+   "kondisyon dersleri",
+   "kondisyon egzersizleri"
+  ],
+  "tip": "Ağırlıklı olarak İngiliz İngilizcesinde kullanılır. Fiil olarak keep fit şeklinde, tire olmadan yazılır.",
+  "note": ""
+ },
+ {
+  "id": "sunburn",
+  "senses": [
+   "güneş yanığı"
+  ],
+  "ex": [
+   "Bütün öğleden sonrayı dışarıda geçirdikten sonra güneş yanığı oldum.",
+   "Halk sağlığı kampanyaları, güneş yanığını önlemek için güneş kremi kadar uygun giysi ve gölgenin de gerekli olduğunu açıklamalıdır."
+  ],
+  "col": [
+   "güneş yanığı olmak",
+   "ağır güneş yanığı",
+   "güneş yanığını önlemek"
+  ],
+  "tip": "sunburn genellikle 'get sunburn' kalıbında sayılamayan bir isim gibi kullanılır. Türkçedeki 'güneş yanığı' ile birebir karşılık verir.",
+  "note": ""
+ },
+ {
+  "id": "injection",
+  "senses": [
+   "iğne; enjeksiyon",
+   "sermaye desteği"
+  ],
+  "ex": [
+   "Hemşire kolumdan bir iğne yaptı.",
+   "Kamu fonlarından yapılacak bir destek, yerel kütüphanelerin tesislerini modernleştirmesine ve topluluk hizmetlerini genişletmesine yardımcı olabilir."
+  ],
+  "col": [
+   "iğne yapmak",
+   "iğne olmak",
+   "nakit desteği",
+   "finansman desteği"
+  ],
+  "tip": "Tıbbi 'iğne' anlamının yanında 'para ya da kaynak aktarımı' mecazi anlamı da vardır; 'a cash injection' gibi kalıplarda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "performer",
+  "senses": [
+   "sanatçı; icracı",
+   "başarılı kişi"
+  ],
+  "ex": [
+   "Bir sokak sanatçısı kalabalık pazarın yanında portakalla hokkabazlık yapıyordu.",
+   "Kamu finansmanı, genç sanatçıların becerilerini geliştirmelerine ve canlı eğlenceyi dezavantajlı topluluklara ulaştırmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "sokak sanatçısı",
+   "canlı performans sanatçısı",
+   "en başarılı çalışan"
+  ],
+  "tip": "performer yalnızca oyuncuyu değil, sahnede icra yapan herkesi kapsar. 'Top performer' iş yerinde en verimli kişiyi de anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "chimney",
+  "senses": [
+   "baca"
+  ],
+  "ex": [
+   "Soğuk akşam havasına bacadan duman yükseldi.",
+   "Fabrika bacalarına filtre takmak, atmosfere salınan zararlı parçacıkların miktarını azaltabilir."
+  ],
+  "col": [
+   "fabrika bacası",
+   "baca başlığı",
+   "bacacı"
+  ],
+  "tip": "Çoğulu chimneys şeklindedir; y harfinden önce sesli harf olduğu için y, i'ye dönüşmez.",
+  "note": ""
+ }
+]

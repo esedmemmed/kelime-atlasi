@@ -1,0 +1,286 @@
+[
+ {
+  "id": "switch",
+  "senses": [
+   "şalter; anahtar",
+   "değiştirmek; geçmek",
+   "değişiklik; geçiş"
+  ],
+  "ex": [
+   "Işık düğmesi mutfak kapısının hemen arkasında.",
+   "Hükümetler, hanehalklarına mali destek sağlayarak yenilenebilir enerjiye geçmelerini teşvik edebilir."
+  ],
+  "col": [
+   "ışık düğmesi",
+   "kapatmak",
+   "...e geçmek",
+   "geçiş yapmak"
+  ],
+  "tip": "switch on/off cihazları açıp kapatmak için; switch to ise bir şeyden başka bir şeye geçmek için kullanılır. Edatı doğru seçin.",
+  "note": ""
+ },
+ {
+  "id": "block",
+  "senses": [
+   "blok; parça",
+   "engellemek; tıkamak",
+   "bina; blok"
+  ],
+  "ex": [
+   "Heykeltıraş bir ağaç bloğundan bir kuş oydu.",
+   "Yanlış park edilmiş araçlar, tekerlekli sandalye kullanıcılarının kamu binalarına erişimini engelleyerek zorluklara yol açabiliyor."
+  ],
+  "col": [
+   "bir apartman",
+   "girişi tıkamak",
+   "bir buz bloğu",
+   "şehir bloğu; sokak arası"
+  ],
+  "tip": "block of flats apartman anlamına gelir ve İngiliz İngilizcesine özgüdür. Amerikan İngilizcesinde apartment building tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "mild",
+  "senses": [
+   "hafif; az şiddetli",
+   "ılıman; yumuşak",
+   "hafif; baharatsız"
+  ],
+  "ex": [
+   "Hafif bir baş ağrım var, o yüzden biraz dinleneceğim.",
+   "Hafif hava kirliliği bile hassas grupları etkileyebilir; bu nedenle yoğun nüfuslu şehirlerde düzenli izleme şarttır."
+  ],
+  "col": [
+   "hafif belirtiler",
+   "ılıman hava",
+   "hafif tat",
+   "hafif baş ağrısı"
+  ],
+  "tip": "mild hafif veya ılıman anlamına gelir; 'zararsız' anlamında kullanmak yanlış olur. Sıcaklık, şiddet ve tat için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "hostel",
+  "senses": [
+   "ucuz pansiyon; hostel",
+   "geçici barınak; yurt"
+  ],
+  "ex": [
+   "Hostelde diğer gezginlerle aynı odayı paylaştık.",
+   "Gençlik hostelleri, öğrencilerin uluslararası seyahatini daha uygun hale getirirken farklı geçmişlerden insanların etkileşimini de destekliyor."
+  ],
+  "col": [
+   "gençlik hosteli",
+   "hostelde kalmak",
+   "hostel konaklaması"
+  ],
+  "tip": "Hostel genelde ortak odalı ve ucuz konaklama yeridir; hotel ise çoğunlukla özel odalar sunar. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "inch",
+  "senses": [
+   "inç",
+   "ağır ağır ilerlemek"
+  ],
+  "ex": [
+   "Raf, dolaptan bir inç daha geniş.",
+   "Yoğun saatlerde otobüsler kalabalık caddelerde ağır ağır ilerliyor; bu da toplu taşımayı yolcular için daha az cazip hale getiriyor."
+  ],
+  "col": [
+   "bir inç kalınlığında",
+   "yavaşça ileri ilerlemek",
+   "yavaş yavaş"
+  ],
+  "tip": "Inch yaklaşık 2,54 cm'dir; günlük Türkçe kullanımda metrik birimler tercih edilir. Fiil olarak da 'yavaşça ilerlemek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "sister-in-law",
+  "senses": [
+   "görümce; baldız; elti"
+  ],
+  "ex": [
+   "Hastalandığımda görümcem ev yapımı çorba getirdi.",
+   "Çalışan ebeveynler için bakım sorumluluğunu bir görümce ya da elti ile paylaşmak, iş ve aile yaşamını dengelemelerine yardımcı olabilir."
+  ],
+  "col": [
+   "gelecekteki görümcem",
+   "görümcemin ailesi"
+  ],
+  "tip": "Eşinizin kız kardeşi ya da kardeşinizin eşi için kullanılır; üvey kız kardeş anlamına gelmez. Çoğulu sisters-in-law'dır.",
+  "note": ""
+ },
+ {
+  "id": "rope",
+  "senses": [
+   "halat; ip",
+   "ip ile bağlamak"
+  ],
+  "ex": [
+   "Tekneyi halatla bir direğe bağladık.",
+   "Dağcılar ipleri düzenli olarak kontrol etmeli; çünkü hasarlı ekipman tüm grubu tehlikeye atabilir."
+  ],
+  "col": [
+   "bir parça ip",
+   "tırmanma ipi",
+   "ip atlamak",
+   "bir alanı iple kapatmak"
+  ],
+  "tip": "Malzeme olarak rope sayılamaz; tek bir ip için a rope denir. Bir ipi ifade ederken a rope kullanmayı unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "pour",
+  "senses": [
+   "dökmek; boşaltmak",
+   "sağanak halinde yağmak",
+   "akmak; akın etmek"
+  ],
+  "ex": [
+   "Sıcak sütü büyük mavi bir kupaya döktü.",
+   "Fabrikalar arıtılmamış atıkları nehirlere boşalttığında, su ekosistemlerini ve yakın toplulukların içme suyunu tehdit eder."
+  ],
+  "col": [
+   "içine dökmek",
+   "dışarı dökmek",
+   "şiddetle yağmak",
+   "içine para dökmek"
+  ],
+  "tip": "Bir kaptan dışarı dökmek için pour out of, içine dökmek için pour into kullanılır. Yağmur için it's pouring şeklinde de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "comic",
+  "senses": [
+   "komik; mizahi",
+   "çizgi roman",
+   "komedyen"
+  ],
+  "ex": [
+   "Komik dansı partide herkesi güldürdü.",
+   "Komik karakterler eğitici programları daha ilgi çekici hale getirebilir ve çocukların önemli bilgileri hatırlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "komik zamanlama",
+   "çizgi roman şeridi",
+   "çizgi roman kitabı",
+   "komik etki"
+  ],
+  "tip": "Comic 'komik' ya da 'komedi ile ilgili' anlamına gelir; comical ise daha çok gülünç ve garip bulunan şeyler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "content",
+  "senses": [
+   "içerik; miktar",
+   "memnun; hoşnut",
+   "memnun etmek"
+  ],
+  "ex": [
+   "Bu podcast'in içeriği beni her zaman güldürüyor.",
+   "Okullar öğrencilere çevrimiçi içerikleri her iddiayı kabul etmek yerine eleştirel bir gözle değerlendirmeyi öğretmeli."
+  ],
+  "col": [
+   "çevrimiçi içerik",
+   "şeker oranı",
+   "ile yetinmek",
+   "ile yetinmek"
+  ],
+  "tip": "İsim olarak ilk hece (CON-tent) vurgulanır; sıfat ve fiil olarak ikinci hece vurgulanır. İçindekiler anlamında contents kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dozen",
+  "senses": [
+   "on iki; bir düzine",
+   "çok sayıda; onlarca"
+  ],
+  "ex": [
+   "Lütfen eve dönerken bir düzine yumurta al.",
+   "Şehir genelinde onlarca topluluk bahçesi açıldı; bu da sakinlere yiyecek yetiştirme imkânı sunuyor."
+  ],
+  "col": [
+   "bir düzine yumurta",
+   "yarım düzine",
+   "onlarca insan"
+  ],
+  "tip": "Sayıdan sonra dozen tekil kalır: two dozen. Dozens of ise belirsiz ama çok sayıyı anlatır ve genellikle sayı verilmeden kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "development",
+  "senses": [
+   "gelişme; büyüme",
+   "geliştirme; üretme",
+   "yeni gelişme"
+  ],
+  "ex": [
+   "Düzenli oyun, küçük bir çocuğun gelişimini birçok açıdan destekler.",
+   "Toplu taşımaya yapılan yatırımlar, büyüyen şehirlerde trafik sıkışıklığını azaltırken ekonomik kalkınmayı da destekleyebilir."
+  ],
+  "col": [
+   "ekonomik kalkınma",
+   "çocuk gelişimi",
+   "ürün geliştirme",
+   "sürdürülebilir kalkınma"
+  ],
+  "tip": "Genel anlamda gelişme sayılamaz; yeni bir olay anlamında a development ya da developments şeklinde sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "currently",
+  "senses": [
+   "şu anda; halen"
+  ],
+  "ex": [
+   "Mutfağımız taşınmadan kalan kutularla şu anda dolu.",
+   "Birçok şehir, trafik sıkışıklığını azaltmak ve hava kalitesini iyileştirmek için şu anda bisiklet altyapısına yatırım yapıyor."
+  ],
+  "col": [
+   "şu anda mevcut",
+   "şu anda çalışıyor",
+   "şu anda inşaat halinde"
+  ],
+  "tip": "Currently 'şu anda' anlamına gelir; actually (aslında) ile karıştırılmamalıdır. Genellikle be fiilinden sonra ya da genel fiilden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "freezing",
+  "senses": [
+   "dondurucu; çok soğuk",
+   "donma noktası"
+  ],
+  "ex": [
+   "Otobüs için dışarıda beklediğim için ellerim donuyordu.",
+   "Dondurucu sıcaklıklar, özellikle eski altyapıya sahip bölgelerde su borularına zarar verebilir ve temel hizmetleri aksatabilir."
+  ],
+  "col": [
+   "dondurucu soğuk",
+   "donma sıcaklıkları",
+   "sıfırın altında",
+   "donma noktası"
+  ],
+  "tip": "I'm freezing 'çok üşüdüm' anlamında günlük bir ifadedir; gerçekten buz tuttuğunuzu anlatmaz. Freezing sıfırın altındaki sıcaklıklar için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fitness",
+  "senses": [
+   "fiziksel sağlık; zindelik",
+   "uygunluk; yetkinlik"
+  ],
+  "ex": [
+   "Her sabah yüzmek fiziksel formumu gerçekten artırdı.",
+   "Okullar, haftanın her gününde eğlenceli fiziksel etkinlik için düzenli fırsatlar sunarak çocukların fiziksel uygunluğunu geliştirebilir."
+  ],
+  "col": [
+   "fiziksel zindelik",
+   "kondisyon düzeyi",
+   "işe uygunluk",
+   "fitness merkezi"
+  ],
+  "tip": "Fitness sayılamayan bir isimdir; a fitness demek yanlıştır. Bir işe ya da göreve uygunluk için fitness for kalıbını kullanın.",
+  "note": ""
+ }
+]

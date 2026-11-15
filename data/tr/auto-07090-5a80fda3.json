@@ -1,0 +1,263 @@
+[
+ {
+  "id": "raucous",
+  "senses": [
+   "gürültülü; kulak tırmalayan"
+  ],
+  "ex": [
+   "Mutfaktan gelen gürültülü kahkahalar uyuyan kediyi uyandırdı.",
+   "Sakinler, gürültülü gece hayatının uykuyu bölduğunu ve şehrin cazip mahallelerinin çekiciliğini azalttığını savunuyor."
+  ],
+  "col": [
+   "gürültülü kahkaha",
+   "gürültülü kalabalık",
+   "kulak tırmalayan ses"
+  ],
+  "tip": "Sadece boğuk ses değil, kulak tırmalayan veya gürültülü sesleri anlatır. Kişinin sesi için 'hoarse' (boğuk) kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "opal",
+  "senses": [
+   "opal; değerli taş"
+  ],
+  "ex": [
+   "Yüzüğündeki opal yeşil ve mavi renklerde parladı.",
+   "Opal madenciliği, dikkatli olunmazsa hassas çöl ekosistemlerini bozsa da uzak bölgelerde iş imkânı sağlayabilir."
+  ],
+  "col": [
+   "opal yüzük",
+   "opal madenciliği",
+   "değerli opal"
+  ],
+  "tip": "Mücevher bağlamında 'opal' genellikle 'opal taşı' olarak anılır. Her opalde renk oyunu (gökkuşağı yansıması) bulunmaz.",
+  "note": ""
+ },
+ {
+  "id": "multifarious",
+  "senses": [
+   "çeşitli; çok çeşitli"
+  ],
+  "ex": [
+   "Pazardaki çeşitli ürünler arasında baharat, çömlek ve el yapımı oyuncaklar vardı.",
+   "Şehir plancıları, erişilebilir ve kapsayıcı kamusal alanlar tasarlarken sakinlerin çok çeşitli ihtiyaçlarını göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "çeşitli faaliyetler",
+   "çok çeşitli ihtiyaçlar",
+   "çeşitli sorumluluklar"
+  ],
+  "tip": "Resmi bir kelimedir ve çok sayıda farklı türü vurgular. Günlük konuşmada 'various' ya da 'diverse' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "propellent",
+  "senses": [
+   "itici madde; püskürtücü gaz",
+   "itici; itme sağlayan"
+  ],
+  "ex": [
+   "Bu sprey kutusu, itici madde olarak sıkıştırılmış hava kullanıyor.",
+   "Daha temiz roket itici maddeleri geliştirmek, büyüyen ticari uzay endüstrisinin çevresel etkisini azaltabilir."
+  ],
+  "col": [
+   "roket itici maddesi",
+   "sıvı itici madde",
+   "itici gaz"
+  ],
+  "tip": "Yazımda genellikle 'propellant' tercih edilir. 'Propellent' daha az görülen bir yazımdır.",
+  "note": ""
+ },
+ {
+  "id": "panacea",
+  "senses": [
+   "panzehir; her derde deva"
+  ],
+  "ex": [
+   "Yeni bir telefon, sorunlarınızın hiçbirine çare değildir.",
+   "Teknoloji sınıf içi öğrenmeyi iyileştirebilse de eğitimdeki eşitsizliğe her derde deva bir çözüm olarak görülmemelidir."
+  ],
+  "col": [
+   "...için her derde deva",
+   "hiçbir çare değil",
+   "evrensel çare"
+  ],
+  "tip": "Genellikle 'a panacea for' kalıbıyla kullanılır ve çoğunlukla 'tek çare değildir' gibi olumsuz cümlelerde geçer.",
+  "note": ""
+ },
+ {
+  "id": "miscarry",
+  "senses": [
+   "düşük yapmak; düşük yapmak",
+   "başarısız olmak; sonuçsuz kalmak"
+  ],
+  "ex": [
+   "Düşük yaptıktan sonra ailesi ona teselli ve destek sundu.",
+   "Düşük yapan kadınlar, şefkatli tıbbi bakıma ve uygun psikolojik desteğe erişebilmelidir."
+  ],
+  "col": [
+   "hamileliğin erken döneminde düşük yapmak",
+   "plan suya düşmek"
+  ],
+  "tip": "Esas olarak hamilelikte düşük yapmayı anlatır. Bir planın başarısız olması için kullanımı resmi ve nadirdir.",
+  "note": ""
+ },
+ {
+  "id": "underwriter",
+  "senses": [
+   "sigortacı; sigorta şirketi",
+   "menkul kıymet garantörü; aracı kurum"
+  ],
+  "ex": [
+   "Sigortayı onaylamadan önce sigorta uzmanı çatımızı inceledi.",
+   "Sel riski olan bölgelerdeki binalar için sigorta teklif etmeden önce bir sigortacı olası kayıpları değerlendirir."
+  ],
+  "col": [
+   "sigorta uzmanı",
+   "baş sigorta uzmanı",
+   "ipotek değerlendiricisi"
+  ],
+  "tip": "Sigorta alanında 'sigortacı', finans alanında ise sermaye piyasasında ihraç edilen menkul kıymetleri üstlenen aracı kurumu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "transship",
+  "senses": [
+   "aktarmak; transfer etmek"
+  ],
+  "ex": [
+   "İşçiler sandıkları daha küçük bir tekneye aktardı.",
+   "Nakliye şirketleri maliyetleri düşürmek ve daha küçük pazarlara ulaşmak için yükü genellikle büyük limanlarda aktarır."
+  ],
+  "col": [
+   "yükü aktarmak",
+   "malı aktarmak",
+   "konteynerleri aktarmak"
+  ],
+  "tip": "Geçmiş zaman 'transshipped' olur; 'p' harfi çift yazılır. Fiil bir kez geçişte, yani yükü bir gemiden diğerine aktarma anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "eucalyptus",
+  "senses": [
+   "okaliptüs; öksüروت ağacı"
+  ],
+  "ex": [
+   "Bir koala, okaliptüs ağacının en tepesinde dinleniyordu.",
+   "Okaliptüsün doğal yayılım alanının dışına dikilmesi, yerel su kaynaklarını etkileyebilir ve biyolojik çeşitliliği azaltabilir."
+  ],
+  "col": [
+   "okaliptüs ağacı",
+   "okaliptüs yağı",
+   "okaliptüs yaprakları"
+  ],
+  "tip": "Ağaç türünü anlatır; 'eucalyptus oil' ise bu ağacın yapraklarından çıkarılan uçucu yağı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "bridle",
+  "senses": [
+   "dizgin; gem",
+   "dizginlemek; gem takmak",
+   "alınmak; küskünlük göstermek"
+  ],
+  "ex": [
+   "Ata binmeden önce atın dizginini kontrol etti.",
+   "Bazı çalışanlar, profesyonel yargılarının sorgulandığını hissettikleri için sıkı denetim politikalarına alınır."
+  ],
+  "col": [
+   "deri dizgin",
+   "ata gem takmak",
+   "eleştiriye alınmak"
+  ],
+  "tip": "At başına takılan dizgini anlatır, hayvanın bulunduğu kafesi değil. 'Bridal' (gelinle ilgili) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "ingenuous",
+  "senses": [
+   "saf; içten; kurnazlıktan uzak"
+  ],
+  "ex": [
+   "Onun masum sorusu akşam yemeğinde herkesi gülümsetti.",
+   "Teknolojinin her sorunu çözdüğüne dair saf bir inanç, politika yapıcıların sosyal maliyetlerini düşünmesini engelleyebilir."
+  ],
+  "col": [
+   "masum bir gülümseme",
+   "saf bir soru",
+   "saf iyimserlik"
+  ],
+  "tip": "'Ingenious' (zekice) ile karıştırılmamalıdır. Bu kelime saflığı ve dürüst, kurnazlıktan uzak tavrı vurgular.",
+  "note": ""
+ },
+ {
+  "id": "arboreal",
+  "senses": [
+   "ağaçta yaşayan; ağaç içinde yaşayan",
+   "ağaçlarla ilgili; ağaca ait"
+  ],
+  "ex": [
+   "Hayvanat bahçesindeki ağaç yılanları başlarımızın üzerindeki dallara dolanmıştı.",
+   "Ormansızlaşma, ağaç türlerinin hayatta kalmak için bağlı olduğu dalları ve tepe örtüsünü yok ederek bu türleri tehdit ediyor."
+  ],
+  "col": [
+   "ağaç türleri",
+   "ağaç yaşam alanı",
+   "ağaç memelileri"
+  ],
+  "tip": "Genellikle zooloji alanında kullanılır ve büyük ölçüde ağaçta yaşayan hayvanları tanımlar.",
+  "note": ""
+ },
+ {
+  "id": "indemnify",
+  "senses": [
+   "tazmin etmek; güvence altına almak"
+  ],
+  "ex": [
+   "Sigortacı, verdiğimiz zararı karşılamayı kabul etti.",
+   "İnşaat sözleşmeleri, genellikle şirketlerin ihmal nedeniyle oluşan mali kayıplara karşı müşterilerini tazmin etmesini şart koşar."
+  ],
+  "col": [
+   "birini kayba karşı tazmin etmek",
+   "birini zarar için tazmin etmek"
+  ],
+  "tip": "Hukuki bir terimdir: 'for' zaten oluşmuş zararı, 'against' ise ileride oluşabilecek riski ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "rubric",
+  "senses": [
+   "değerlendirme ölçütü; rubrik",
+   "yönerge; açıklama",
+   "başlık; kategori"
+  ],
+  "ex": [
+   "Öğretmenimiz yazmaya başlamadan önce puanlama ölçütlerini açıkladı.",
+   "Açık bir değerlendirme cetveli, öğrencilerin beklentileri anlamasına yardımcı olur ve öğretmenlerin ödevleri daha tutarlı notlandırmasını sağlar."
+  ],
+  "col": [
+   "değerlendirme cetveli",
+   "puanlama ölçütü",
+   "...başlığı altında"
+  ],
+  "tip": "Eğitimde genellikle değerlendirme ölçütlerini anlatır; sınav sorularının yönergelerini de ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "matrimony",
+  "senses": [
+   "evlilik; evlenme"
+  ],
+  "ex": [
+   "Çift geçen bahar evlilik bağıyla birleşti.",
+   "Evliliğe yaklaşım kültürler arasında değişse de evlilik, hâlâ yasal ve toplumsal sorumluluklar taşımaktadır."
+  ],
+  "col": [
+   "evlilik bağıyla birleşmek",
+   "kutsal evlilik",
+   "evliliğin bağları"
+  ],
+  "tip": "Resmi veya dini bir dildir; günlük konuşmada evlilikten söz ederken genellikle 'marriage' kullanılır.",
+  "note": ""
+ }
+]

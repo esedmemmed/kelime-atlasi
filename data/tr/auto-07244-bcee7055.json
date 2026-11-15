@@ -1,0 +1,263 @@
+[
+ {
+  "id": "metallurgy",
+  "senses": [
+   "metalurji; metal bilimi"
+  ],
+  "ex": [
+   "Kuzenim metalurji okuyor ve laboratuvarda metalleri test ediyor.",
+   "Metalurjideki gelişmeler, üreticilerin daha yakıt tasarruflu araçlar için daha hafif malzemeler geliştirmesini sağladı."
+  ],
+  "col": [
+   "fiziksel metalurji",
+   "toz metalurjisi",
+   "metalurjideki gelişmeler"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Bu alanda çalışan uzmana metalurjist denir.",
+  "note": ""
+ },
+ {
+  "id": "obliterate",
+  "senses": [
+   "yok etmek; silmek"
+  ],
+  "ex": [
+   "Ağır kar yağışı bahçe yolundaki her ayak izini silmişti.",
+   "Planlama sürecinin başında etkili koruma önlemleri alınmazsa, hızlı kentsel gelişme tarihi mahalleleri yok edebilir."
+  ],
+  "col": [
+   "tüm izleri silmek",
+   "tamamen yok etmek",
+   "kanıtları yok etmek"
+  ],
+  "tip": "Geçişli bir fiildir ve bir nesne alır. Remove'dan daha güçlüdür; geriye hiçbir iz bırakmayan tam bir yok etmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "vindicate",
+  "senses": [
+   "aklamak; haklı çıkarmak"
+  ],
+  "ex": [
+   "Güvenlik kamerası görüntüleri, hırsızlıkla suçlanan temizlikçiyi akladı.",
+   "Trafik kazalarındaki belirgin düşüş, belediyenin daha düşük hız sınırı uygulama kararını haklı çıkarıyor gibi görünüyor."
+  ],
+  "col": [
+   "bir kararı haklı çıkarmak",
+   "bir yaklaşımı doğrulamak",
+   "haklı çıkmış hissetmek"
+  ],
+  "tip": "Kanıt ya da sonuçla doğrulanarak haklı çıkmayı anlatır. Sadece sözlü savunma için justify daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "benzene",
+  "senses": [
+   "benzen"
+  ],
+  "ex": [
+   "Teknisyen, suda benzen izi olup olmadığını test etti.",
+   "Endüstriyel emisyonlara sıkı denetimler getirilmesi, işçilerin benzene ve diğer zararlı kimyasallara maruziyetini azaltabilir."
+  ],
+  "col": [
+   "benzen maruziyeti",
+   "benzen emisyonu",
+   "benzen halkası"
+  ],
+  "tip": "Toksik ve yanıcı bir hidrokarbondur. Benzen kimyasal bir maddedir; benzin (İngilizcede petrol) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "exalt",
+  "senses": [
+   "yüceltmek; övmek",
+   "yükseltmek"
+  ],
+  "ex": [
+   "Şarkıları, sıradan hayatın güzelliğini yüceltiyor.",
+   "Kamusal anıtlar çoğu zaman ulusal kahramanları yüceltirken sıradan vatandaşların katkılarını gözden kaçırır."
+  ],
+  "col": [
+   "erdemlerini yüceltmek",
+   "birini bir makama yükseltmek"
+  ],
+  "tip": "Resmi bir sözcüktür; sıradan bir övgüden çok aşırı derecede yüceltme anlamı taşır. İkinci anlamı makam ya da rütbe yükseltmedir.",
+  "note": ""
+ },
+ {
+  "id": "bosom",
+  "senses": [
+   "göğüs; kucak",
+   "candan; yakın"
+  ],
+  "ex": [
+   "Büyükanne uykulu çocuğu göğsüne bastırdı.",
+   "Geleneksel tablolarda, ebeveynin çocuğunu koruma ve sevgi simgesi olarak göğsüne bastırdığı sahneler sık görülür."
+  ],
+  "col": [
+   "birini göğsüne basmak",
+   "can dostu",
+   "ailenin koynunda"
+  ],
+  "tip": "Edebi ya da eskimiş bir sözcüktür, günlük konuşmada nadir kullanılır. Bosom friend, güvenilen yakın dost anlamında kalıp bir ifadedir.",
+  "note": ""
+ },
+ {
+  "id": "gaily",
+  "senses": [
+   "neşeyle; keyifle",
+   "renkli; canlı renklerle"
+  ],
+  "ex": [
+   "Çocuklar dışarıda balonların peşinden koşarken neşeyle güldüler.",
+   "Neşeli biçimde süslenmiş sokaklar, yerel festivallerde ziyaretçileri çekebilir ve yakındaki dükkânlarda harcamayı artırabilir."
+  ],
+  "col": [
+   "neşeyle gülmek",
+   "renkli süslenmiş",
+   "canlı renklerle boyanmış"
+  ],
+  "tip": "Edebi ve biraz eski bir zarftır. Günlük İngilizcede cheerfully ya da happily daha yaygın kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "turbot",
+  "senses": [
+   "kalkan balığı; kalkan eti"
+  ],
+  "ex": [
+   "Limanın yanında kalkan balığını patatesle birlikte ızgara yaparak yedik.",
+   "Kalkan balığı yetiştirmek deniz ürünleri pazarlarına ürün sağlayabilir, ancak üreticilerin su kalitesini ve atıkları dikkatle yönetmesi gerekir."
+  ],
+  "col": [
+   "ızgara kalkan",
+   "çiftlik kalkanı",
+   "kalkan filetosu"
+  ],
+  "tip": "Yemek olarak söz edilirken sayılamayan isim gibi kullanılır. Balık olarak sayıldığında çoğulu da genellikle turbot kalır.",
+  "note": ""
+ },
+ {
+  "id": "annuity",
+  "senses": [
+   "yıllık gelir; anüite"
+  ],
+  "ex": [
+   "Büyükbabam yaşam giderlerini karşılamak için düzenli bir anüite geliri alıyor.",
+   "Anüite, emeklilere öngörülebilir bir gelir sağlayabilir; ancak enflasyon satın alma gücünü azaltabilir."
+  ],
+  "col": [
+   "anüite satın almak",
+   "anüite ödemeleri",
+   "ömür boyu anüite"
+  ],
+  "tip": "Düzenli ödemelerden oluşan bir yatırım ürünüdür. Yalnızca yılda bir kez ödeme anlamına gelmez; aylık gibi aralıklarla da ödenebilir.",
+  "note": ""
+ },
+ {
+  "id": "conveyance",
+  "senses": [
+   "taşıma; nakliye",
+   "taşıt; nakil aracı",
+   "mülkiyet devri"
+  ],
+  "ex": [
+   "Otel, bagajlarımızın tekneyle taşınmasını ayarladı.",
+   "Tarımsal ürünlerin verimli biçimde taşınması; güvenilir yollara, uygun araçlara ve erişilebilir bölgesel pazarlara bağlıdır."
+  ],
+  "col": [
+   "malların taşınması",
+   "ulaşım aracı",
+   "mülkün devri"
+  ],
+  "tip": "Resmi bir sözcüktür. Günlük taşımacılıkta transport daha yaygındır; hukukta ise mülkiyetin devrini de ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "woodside",
+  "senses": [
+   "orman kenarı"
+  ],
+  "ex": [
+   "Çayırın hemen ötesinde, ormanın kenarında dinlendik.",
+   "Orman kenarındaki bitki örtüsünü korumak, ormanlar ile açık tarım arazileri arasında hareket eden yaban hayvanlarına barınak sağlayabilir."
+  ],
+  "col": [
+   "orman kenarında",
+   "orman kenarı boyunca"
+  ],
+  "tip": "Nadir bir sözcüktür. Günlük İngilizcede genellikle the edge of the woods tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "mildew",
+  "senses": [
+   "küf; mantar hastalığı",
+   "küflenmek"
+  ],
+  "ex": [
+   "Tatilden döndüğümüzde banyo tavanında küf bulduk.",
+   "Kötü bakımlı konutlarda iyileştirilmiş havalandırma küf oluşumunu sınırlayabilir ve sakinler için daha sağlıklı yaşam koşulları yaratabilir."
+  ],
+  "col": [
+   "külleme hastalığı",
+   "küf oluşumu",
+   "küflenmeyi önlemek"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz; nemli yüzeylerdeki küf ya da bitkilerdeki mantar hastalığı için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inexorable",
+  "senses": [
+   "durdurulamaz; kaçınılmaz"
+  ],
+  "ex": [
+   "Kumdan kalemize doğru ilerleyen durdurulamaz gelgiti izledik.",
+   "Elektrik talebindeki durdurulamaz artış, yenilenebilir enerjiye yatırım yapma ihtiyacını açıkça ortaya koyuyor."
+  ],
+  "col": [
+   "durdurulamaz artış",
+   "durdurulamaz düşüş",
+   "zamanın durdurulamaz ilerleyişi"
+  ],
+  "tip": "Bir sürecin ya da eğilimin engellenemeyeceğini vurgular; yalnızca 'acımasız' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "constitutive",
+  "senses": [
+   "oluşturucu; kurucu"
+  ],
+  "ex": [
+   "Kulübümüz için iş birliği, kimliğinin temel bir parçasını oluşturur.",
+   "Ortak gelenekler, kültürel kimliğin yalnızca isteğe bağlı özellikleri değil, onu oluşturan unsurlarıdır."
+  ],
+  "col": [
+   "...oluşturan",
+   "kurucu unsurlar",
+   "kurucu rol"
+  ],
+  "tip": "Bir şeyin özünü oluşturan unsurları anlatır. 'Anayasal' anlamı için constitutional kullanılmalıdır.",
+  "note": ""
+ },
+ {
+  "id": "furrow",
+  "senses": [
+   "saban izi; toprak oluğu",
+   "derin çizgi; kırışıklık",
+   "kaşlarını çatmak; oluk açmak"
+  ],
+  "ex": [
+   "Çiftçi, yeni sürülmüş bir saban izine tohumları bıraktı.",
+   "Tepelerin eğrilerini izleyen saban izleri boyunca ekim yapmak, çiftçilerin toprak erozyonunu azaltmasına yardımcı olabilir."
+  ],
+  "col": [
+   "saban izi açmak",
+   "derin oluk",
+   "kaşlarını çatmak"
+  ],
+  "tip": "furrow your brow kalıbı, kaşları çatıp düşünceli ya da endişeli görünmek anlamına gelir.",
+  "note": ""
+ }
+]

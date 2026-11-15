@@ -1,0 +1,283 @@
+[
+ {
+  "id": "brainstorm",
+  "senses": [
+   "beyin fırtınası yapmak",
+   "beyin fırtınası"
+  ],
+  "ex": [
+   "Aile pikniği için birkaç oyun bulmak üzere beyin fırtınası yapalım.",
+   "Çözümler üzerinde birlikte beyin fırtınası yapan öğrenciler, yaratıcı düşünme becerilerini geliştirebilir ve alternatif bakış açılarını değerlendirmeyi öğrenebilir."
+  ],
+  "col": [
+   "fikir üretmek",
+   "çözümler üretmek",
+   "beyin fırtınası oturumu"
+  ],
+  "tip": "Genellikle fiil olarak kullanılır ve ideas, solutions gibi bir nesneyle birlikte gelir.",
+  "note": ""
+ },
+ {
+  "id": "vocational",
+  "senses": [
+   "mesleki; uygulamalı"
+  ],
+  "ex": [
+   "Kuzenim tesisatçılık alanında mesleki bir kurs seçti.",
+   "Mesleki eğitimi genişletmek, gençlerin yerel işverenlerin ihtiyaçlarına uygun pratik beceriler kazanmasına yardımcı olabilir."
+  ],
+  "col": [
+   "mesleki eğitim",
+   "mesleki eğitim",
+   "mesleki yeterlilik",
+   "mesleki kurs"
+  ],
+  "tip": "Sıfattır; education, training gibi isimlerin önüne gelir ve tek başına isim gibi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "manner",
+  "senses": [
+   "yöntem; tarz",
+   "tavır; davranış",
+   "görgü; nezaket"
+  ],
+  "ex": [
+   "Sorularımı sakin bir tavırla yanıtladı.",
+   "Okullar, çocuklara bağımsız düşünmeyi teşvik ederken görüş ayrılığını saygılı bir biçimde ifade etmeyi öğretmelidir."
+  ],
+  "col": [
+   "profesyonel bir tavırla",
+   "dostça bir tavır",
+   "iyi görgü",
+   "masa adabı"
+  ],
+  "tip": "Görgü ve nezaket anlamında çoğul manners kullanılır; tekil manner bu anlamda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "disposal",
+  "senses": [
+   "atma; yok etme",
+   "emre amade; kullanıma açık"
+  ],
+  "ex": [
+   "Belediye, pillerin atılması için kutular sağlıyor.",
+   "Güvenli atık bertarafı, yeraltı sularını korumak ve yoğun nüfuslu bölgelerde sağlık risklerini azaltmak için şarttır."
+  ],
+  "col": [
+   "atık bertarafı",
+   "güvenli bertaraf",
+   "emrinizde"
+  ],
+  "tip": "at your disposal kalıbı emrinizde, kullanımınıza açık anlamına gelir; önüne the almaz.",
+  "note": ""
+ },
+ {
+  "id": "isolation",
+  "senses": [
+   "yalnızlık; tecrit",
+   "karantina; izolasyon"
+  ],
+  "ex": [
+   "Komşularının haftalık ziyaretleri, yalnızlık duygusunu azaltmaya yardımcı oldu.",
+   "Toplum merkezlerine yapılan yatırımlar, tek başına yaşayan yaşlı sakinler arasındaki sosyal yalnızlığı azaltabilir."
+  ],
+  "col": [
+   "sosyal yalnızlık",
+   "tek başına; bağlamından ayrı olarak",
+   "izolasyon koğuşu",
+   "yalnızlık hissi"
+  ],
+  "tip": "in isolation hem tek başına hem de bağlamından ayrı olarak anlamına gelebilir; cümleye göre çevirin.",
+  "note": ""
+ },
+ {
+  "id": "cheeky",
+  "senses": [
+   "küstah; yüzsüz"
+  ],
+  "ex": [
+   "Çocuk haylaz bir gülümsemeyle bir bisküvi daha aldı.",
+   "Reklamlar dikkat çekmek için bazen şakacı bir küstahlık kullanır; ancak izleyiciler neyi kabul edilebilir bulduğu konusunda farklılık gösterebilir."
+  ],
+  "col": [
+   "haylaz bir gülümseme",
+   "küstah bir yorum",
+   "pişkin bir istek"
+  ],
+  "tip": "Hafif küstahlığı ve haşarılığı anlatır, şişman anlamına gelmez; şişman için chubby kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "controversy",
+  "senses": [
+   "tartışma; polemik"
+  ],
+  "ex": [
+   "Havuzumuzu kapatma planı yerel bir tartışmayı başlattı.",
+   "Kamusal alanlarda yüz tanıma teknolojisinin kullanımı, mahremiyet ve kişisel özgürlük üzerine tartışmalara yol açtı."
+  ],
+  "col": [
+   "tartışma başlatmak",
+   "...konusunda tartışma",
+   "tartışmalı bir konu",
+   "tartışmalar arasında"
+  ],
+  "tip": "Genellikle halkın bir konudaki geniş çaplı tartışmasını anlatır; sıradan bir kavga anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "master",
+  "senses": [
+   "ustalaşmak; hakim olmak",
+   "usta; uzman",
+   "ana; genel"
+  ],
+  "ex": [
+   "Haftalarca pratik yaptıktan sonra Hana sonunda dansa hakim oldu.",
+   "Öğrencilerin, sınavlar için bilgiyi ezberlemek yerine pratik becerilerde ustalaşmaları için fırsatlara ihtiyacı var."
+  ],
+  "col": [
+   "bir beceride ustalaşmak",
+   "...konusunda uzman",
+   "ana plan",
+   "yüksek lisans derecesi"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır (master a skill); yüksek lisans derecesi için master's degree yazılır.",
+  "note": ""
+ },
+ {
+  "id": "obesity",
+  "senses": [
+   "obezite"
+  ],
+  "ex": [
+   "Klinik, obezitesi olan kişilere destekleyici bakım sunuyor.",
+   "Obeziteyi önlemek; besin ortamına, fiziksel aktiviteye ve sağlığı etkileyen daha geniş sosyal faktörlere dikkat etmeyi gerektirir."
+  ],
+  "col": [
+   "çocukluk çağı obezitesi",
+   "obeziteyi önleme",
+   "obezite oranları"
+  ],
+  "tip": "Sayılamayan bir isimdir; obezite ya da obezitesi olan kişiler biçiminde kullanılır, bir obezite demek doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "fleece",
+  "senses": [
+   "yün; koyun postu",
+   "polar; polar kumaş",
+   "dolandırmak; soymak"
+  ],
+  "ex": [
+   "Çiftçi, koyunun kalın yününü dikkatle kesti.",
+   "Sentetik polar uygun fiyatlı bir sıcaklık sağlasa da yıkandığında su yollarına mikroskobik plastik lifler salabilir."
+  ],
+  "col": [
+   "koyun yünü",
+   "polar ceket",
+   "sentetik polar"
+  ],
+  "tip": "Kumaş anlamında genellikle sayılamaz; a fleece ise bir polar ceketi ya da üstlüğü ifade edebilir.",
+  "note": ""
+ },
+ {
+  "id": "numb",
+  "senses": [
+   "uyuşmuş; hissiz",
+   "duygusuz; donuk",
+   "uyuşturmak"
+  ],
+  "ex": [
+   "Karda beklerken parmaklarım uyuştu.",
+   "Aşırı soğuğa maruz kalan işçilerin parmakları uyuşabilir ve bu da ekipmanı güvenli kullanma becerilerini azaltabilir."
+  ],
+  "col": [
+   "uyuşmak",
+   "hissiz kalmak",
+   "şoktan donakalmak",
+   "acıyı uyuşturmak"
+  ],
+  "tip": "Sondaki b harfi sessiz okunur. Hem bedensel hem de duygusal uyuşukluk için kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "observe",
+  "senses": [
+   "gözlemlemek; fark etmek",
+   "uymak; riayet etmek",
+   "yorum yapmak; söylemek"
+  ],
+  "ex": [
+   "Dışarıda küçük bir kuşun yuva yaptığını gözlemledik.",
+   "Yabani hayatı doğrudan gözlemleyen öğrenciler, ekosistemlerin nasıl işlediğini genellikle daha derinden kavrar."
+  ],
+  "col": [
+   "dikkatle gözlemlemek",
+   "kurallara uymak",
+   "bir geleneği sürdürmek"
+  ],
+  "tip": "observe sb doing sth kalıbı birinin bir şey yaptığını gözlemlemek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "outlet",
+  "senses": [
+   "satış noktası; mağaza",
+   "dışa vurum; kanal",
+   "çıkış; tahliye ağzı"
+  ],
+  "ex": [
+   "Yeni bir giyim mağazası dün istasyonun yakınında açıldı.",
+   "Topluluk sanat programları, gençlerin duygularını ifade etmesi ve özgüvenlerini geliştirmesi için değerli bir kanal sağlar."
+  ],
+  "col": [
+   "perakende satış noktası",
+   "yaratıcı dışa vurum kanalı",
+   "hayal kırıklığını dışa vurma",
+   "su tahliye çıkışı"
+  ],
+  "tip": "outlet for kalıbı bir duyguyu ya da enerjiyi dışa vurma kanalı anlamında sık kullanılır; ABD İngilizcesinde elektrik prizi anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "accessory",
+  "senses": [
+   "ek parça; aksesuar",
+   "moda aksesuarı",
+   "suç ortağı; yardımcı"
+  ],
+  "ex": [
+   "Bu küçük kamera aksesuarı fotoğraflarımın sarsılmamasını sağlıyor.",
+   "Tüketiciler elektronik aksesuarlarını gereksiz yere değiştirerek dünya genelinde atığı ve hammadde talebini artırıyor."
+  ],
+  "col": [
+   "kamera aksesuarları",
+   "moda aksesuarları",
+   "bir suçun suç ortağı"
+  ],
+  "tip": "Genellikle çoğul accessories biçiminde kullanılır; suç ortağı anlamında çoğunlukla to ile birlikte gelir.",
+  "note": ""
+ },
+ {
+  "id": "publicity",
+  "senses": [
+   "medya ilgisi",
+   "tanıtım; duyuru"
+  ],
+  "ex": [
+   "Yeni fırın açıldıktan sonra büyük ilgi gördü.",
+   "Olumlu tanıtım, daha az bilinen destinasyonlara ziyaretçi çekebilir ve yerel halk için istihdam fırsatları yaratabilir."
+  ],
+  "col": [
+   "olumlu ilgi",
+   "olumsuz ilgi",
+   "ilgi yaratmak",
+   "tanıtım kampanyası"
+  ],
+  "tip": "Sayılamayan bir isimdir; advertising'den farklı olarak ücretli reklam anlamı taşımak zorunda değildir.",
+  "note": ""
+ }
+]

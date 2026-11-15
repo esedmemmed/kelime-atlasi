@@ -1,0 +1,277 @@
+[
+ {
+  "id": "poem",
+  "senses": [
+   "şiir"
+  ],
+  "ex": [
+   "Leila akşam yemeğinden sonra kısa bir şiiri yüksek sesle okudu.",
+   "Başka bir kültürden bir şiir okumak, öğrencilerin tanıdık olmayan bakış açılarını keşfetmelerine ve dile duyarlılık geliştirmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "şiir yazmak",
+   "bir şiiri ezberden okumak",
+   "bir şiir derlemesi"
+  ],
+  "tip": "poem sayılabilir; 'bir şiir' için a poem denir. Şiirin genel olarak sanatı için poetry kullanılır ve sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "solid",
+  "senses": [
+   "katı; sert",
+   "sağlam; güvenilir",
+   "katı madde"
+  ],
+  "ex": [
+   "Göl, dondurucu soğuk gecede tamamen buz kesti.",
+   "Hükümetler, halk sağlığını ve hanehalkı harcamalarını önemli ölçüde etkileyebilecek politikaları uygulamadan önce sağlam kanıtlara ihtiyaç duyar."
+  ],
+  "col": [
+   "sağlam kanıt",
+   "sağlam temel",
+   "katı atık",
+   "masif ağaç"
+  ],
+  "tip": "Sıfat olarak 'katı' ya da 'sağlam' anlamına gelir. solid evidence 'sağlam kanıt' demektir, 'katı kanıt' değildir.",
+  "note": ""
+ },
+ {
+  "id": "apply",
+  "senses": [
+   "başvurmak",
+   "uygulamak; geçerli olmak",
+   "sürmek"
+  ],
+  "ex": [
+   "Güneşli günlerde dışarı çıkmadan önce güneş kremi sürün.",
+   "Üniversiteler, dezavantajlı geçmişe sahip öğrencileri harç ve barınma giderlerini karşılayan burslara başvurmaya teşvik etmelidir."
+  ],
+  "col": [
+   "iş için başvurmak",
+   "üniversiteye başvurmak",
+   "bilgiyi uygulamak",
+   "güneş kremi sürmek"
+  ],
+  "tip": "apply for başvurulan şeyi, apply to ise kurumu ya da geçerli olduğu kişi veya durumu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "bite",
+  "senses": [
+   "ısırmak; sokmak",
+   "ısırık; lokma"
+  ],
+  "ex": [
+   "Elmayı ısırdı ve tadına gülümsedi.",
+   "Halk sağlığı kampanyaları, tropikal hastalıkların görüldüğü bölgelere seyahat edenlerin sivrisinek ısırıklarını nasıl önleyebileceğini açıklamalıdır."
+  ],
+  "col": [
+   "bir lokma almak",
+   "elmayı ısırmak",
+   "sivrisinek ısırığı"
+  ],
+  "tip": "Düzensiz fiildir: bite, bit, bitten. 'Bir lokma' anlamında da a bite kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "instant",
+  "senses": [
+   "anlık; ani",
+   "hazır; pratik",
+   "an; kısa süre"
+  ],
+  "ex": [
+   "Sıcak çorba, yürüyüşten sonra hemen rahatlamamızı sağladı.",
+   "Dijital platformlar eğitim kaynaklarına anında erişim sağlıyor; ancak güvenilir bir internet bağlantısı hâlâ vazgeçilmezdir."
+  ],
+  "col": [
+   "anlık erişim",
+   "anında sonuçlar",
+   "hazır kahve",
+   "bir anda"
+  ],
+  "tip": "Sıfat olarak 'anlık, hemen' anlamına gelir. in an instant ise 'göz açıp kapayana kadar, bir anda' demektir.",
+  "note": ""
+ },
+ {
+  "id": "conclusion",
+  "senses": [
+   "sonuç; çıkarım",
+   "son; bitiş"
+  ],
+  "ex": [
+   "Fişleri kontrol ettikten sonra aynı sonuca vardık.",
+   "Araştırmacılar, nispeten küçük bir örneklemden sonuç çıkarmadan önce alternatif açıklamaları değerlendirmelidir."
+  ],
+  "col": [
+   "sonuca varmak",
+   "sonuç çıkarmak",
+   "acele sonuçlara varmak",
+   "sonuç olarak"
+  ],
+  "tip": "'Sonuca varmak' için reach ya da draw a conclusion kullanılır; make a conclusion doğru değildir.",
+  "note": ""
+ },
+ {
+  "id": "quantity",
+  "senses": [
+   "miktar; nicelik"
+  ],
+  "ex": [
+   "Dün büyük miktarda pirinç aldık.",
+   "Hanelerin israf ettiği yiyecek miktarını azaltmak, hem çevresel zararı hem de yaşam maliyetlerini düşürebilir."
+  ],
+  "col": [
+   "büyük miktarda",
+   "az miktarda",
+   "nitelik değil nicelik"
+  ],
+  "tip": "quantity 'miktar' demektir; quality (nitelik) ile karıştırılmamalıdır. a quantity of hem sayılabilir hem sayılamaz isimlerle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "injure",
+  "senses": [
+   "yaralamak; incitmek"
+  ],
+  "ex": [
+   "O ağır kutuyu kaldırırken sırtını incitebilirsin.",
+   "İşverenler, çalışanların makine kullanırken kendilerini yaralama riskini azaltmak için güvenlik eğitimi sağlamalıdır."
+  ],
+  "col": [
+   "dizini incitmek",
+   "ağır yaralanmış",
+   "kendini yaralamak"
+  ],
+  "tip": "injure genellikle insan ve hayvanlarda bedensel yaralanma için kullanılır; eşyanın zarar görmesi için damage tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "pianist",
+  "senses": [
+   "piyanist; piyano çalan"
+  ],
+  "ex": [
+   "Piyanist, en sevdiği şarkıyı çalmadan önce gülümsedi.",
+   "Profesyonel bir piyanistin genellikle yıllarca disiplinli çalışmaya ve halk önünde sahne alma fırsatlarına ihtiyacı olur."
+  ],
+  "col": [
+   "konser piyanisti",
+   "profesyonel piyanist",
+   "eşlikçi piyanist"
+  ],
+  "tip": "pianist piyano çalan kişiyi anlatır; enstrümanın adı piano'dur. Kişi için piano değil pianist kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "complain",
+  "senses": [
+   "şikâyet etmek; yakınmak"
+  ],
+  "ex": [
+   "Komşularımız genellikle trafikten gelen gürültüden şikâyet ediyor.",
+   "İnşaat çalışmaları uykularını ve günlük etkinliklerini tekrar tekrar bölerse sakinler yerel yetkililere şikâyet edebilir."
+  ],
+  "col": [
+   "gürültüden şikâyet etmek",
+   "müdüre şikâyet etmek",
+   "ağrıdan yakınmak"
+  ],
+  "tip": "Neden için complain about, kime şikâyet edildiği için complain to kullanılır: complain to sb about sth.",
+  "note": ""
+ },
+ {
+  "id": "profession",
+  "senses": [
+   "meslek; uzmanlık mesleği",
+   "meslek mensupları",
+   "açık beyan; ilan"
+  ],
+  "ex": [
+   "Hemşirelik zorlu bir meslek, ama kardeşim bunu seviyor.",
+   "Öğretmenlik mesleğinin, yetenekli mezunları çekmek ve deneyimli personeli elde tutmak için kamuoyunun daha fazla desteğine ihtiyacı var."
+  ],
+  "col": [
+   "bir mesleğe girmek",
+   "mesleği gereği",
+   "tıp mesleği",
+   "inanç beyanı"
+  ],
+  "tip": "profession genellikle eğitim gerektiren uzmanlık mesleklerini anlatır; daha genel anlamdaki 'iş' için job tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "yoga",
+  "senses": [
+   "yoga"
+  ],
+  "ex": [
+   "Pencerenin yanındaki minderde yoga yapıyor.",
+   "Toplum merkezlerinde yoga dersleri sunmak, sakinlerin stresle başa çıkmasına ve esnekliklerini korumasına yardımcı olabilir."
+  ],
+  "col": [
+   "yoga yapmak",
+   "yoga minderi",
+   "yoga eğitmeni"
+  ],
+  "tip": "'Yoga yapmak' için do ya da practise yoga kullanılır; play yoga denmez.",
+  "note": ""
+ },
+ {
+  "id": "roundabout",
+  "senses": [
+   "dönel kavşak; göbek",
+   "dolambaçlı; dolaylı",
+   "atlıkarınca"
+  ],
+  "ex": [
+   "Parkın yakınındaki kavşakta ikinci çıkıştan çıkın.",
+   "Kalabalık bir kavşağı dönel kavşakla değiştirmek trafik akışını iyileştirebilir ve ciddi kazaları azaltabilir."
+  ],
+  "col": [
+   "kavşakta",
+   "dolambaçlı bir yol izlemek",
+   "dolaylı bir yoldan"
+  ],
+  "tip": "Sıfat olarak doğrudan olmayan anlamında kullanılır: a roundabout answer 'dolaylı bir cevap' demektir.",
+  "note": ""
+ },
+ {
+  "id": "bay",
+  "senses": [
+   "körfez; koy",
+   "ayrılmış bölüm; park yeri"
+  ],
+  "ex": [
+   "Küçük balıkçı tekneleri korunaklı koyda suyun üzerinde sallanıyordu.",
+   "Koyun çevresindeki kıyı gelişimi, deniz yaşam alanlarını ve yerel geçim kaynaklarını korumak için dikkatle yönetilmelidir."
+  ],
+  "col": [
+   "korunaklı koy",
+   "kumsallı koy",
+   "park yeri",
+   "yükleme rampası"
+  ],
+  "tip": "bay esas olarak 'koy, körfez' anlamına gelir; park veya yükleme bağlamında ayrılmış bir alanı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "react",
+  "senses": [
+   "tepki vermek",
+   "tepkimeye girmek"
+  ],
+  "ex": [
+   "Kız kardeşin sürpriz partiye nasıl tepki verdi?",
+   "Hükümetler, halk sağlığı acil durumlarına hızla tepki vermeli ve vatandaşlara açık bilgi sağlamalıdır."
+  ],
+  "col": [
+   "habere tepki vermek",
+   "hızlı tepki vermek",
+   "oksijenle tepkimeye girmek"
+  ],
+  "tip": "Bir olaya tepki için react to, bir maddeyle tepkimeye girmek için react with kullanılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,265 @@
+[
+ {
+  "id": "facet",
+  "senses": [
+   "yön; boyut",
+   "kesim yüzü"
+  ],
+  "ex": [
+   "Birlikte yemek pişirmek, onun kişiliğinin yeni bir yönünü ortaya çıkardı.",
+   "Toplu taşıma, iş imkânlarından hava kalitesine kadar kentsel yaşamın hemen hemen her yönünü etkiler."
+  ],
+  "col": [
+   "yaşamın bir yönü",
+   "her yönü",
+   "farklı bir yön"
+  ],
+  "tip": "Genellikle \"a facet of\" kalıbıyla, karmaşık bir konunun bir yönünü anlatmak için kullanılır. \"Kesim yüzü\" anlamı teknik bağlamlarda görülür.",
+  "note": ""
+ },
+ {
+  "id": "ramble",
+  "senses": [
+   "gezinmek; dolaşmak",
+   "lafı dolandırmak",
+   "yürüyüş; doğa gezisi"
+  ],
+  "ex": [
+   "Yağmur başlayana kadar ormanda dolaştık.",
+   "Sunum yaparken konudan sapan konuşmacılar, ana fikirlerini dinleyicilere net biçimde aktarmakta zorlanabilir."
+  ],
+  "col": [
+   "kırsalda gezinmek",
+   "bir konuda uzun uzun konuşmak",
+   "yürüyüşe çıkmak"
+  ],
+  "tip": "\"ramble on\" genellikle uzun ve dağınık konuşmayı, çoğu zaman sabırsızlık belirten bir tonla anlatır.",
+  "note": ""
+ },
+ {
+  "id": "velocity",
+  "senses": [
+   "hız; sürat"
+  ],
+  "ex": [
+   "Top aşağı yuvarlandıkça hız kazandı.",
+   "Mühendisler, bir alanın elektrik üretimine uygun olup olmadığını belirlemek için akan suyun hızını ölçer."
+  ],
+  "col": [
+   "yüksek hız",
+   "sabit hız",
+   "sonlanma hızı"
+  ],
+  "tip": "Fizikte velocity yön bilgisi içerir; speed yalnızca hızın büyüklüğünü gösterir. Günlük dilde ikisi sık karıştırılır.",
+  "note": ""
+ },
+ {
+  "id": "intrinsic",
+  "senses": [
+   "doğal; içsel"
+  ],
+  "ex": [
+   "Ahşabın işlenmemiş hâlindeki doğal güzelliğine değer veriyor.",
+   "Okullar, öğrencileri yalnızca dış ödüllere odaklanmak yerine öğrenmekten keyif almaya teşvik ederek içsel motivasyonu desteklemelidir."
+  ],
+  "col": [
+   "içsel değer",
+   "içsel motivasyon",
+   "...e özgü"
+  ],
+  "tip": "\"intrinsic to\" bir şeyin doğasında bulunan özelliği anlatır. \"İçsel\" ve \"doğal\" arasındaki seçim bağlama göre yapılır.",
+  "note": ""
+ },
+ {
+  "id": "extinguish",
+  "senses": [
+   "söndürmek",
+   "yok etmek; söndürmek"
+  ],
+  "ex": [
+   "Çadırlara girmeden önce kamp ateşini söndürdük.",
+   "Uzun süren işsizlik, genç insanların finansal bağımsızlık ve istikrarlı bir konut sahibi olma umudunu yok edebilir."
+  ],
+  "col": [
+   "yangını söndürmek",
+   "alevi söndürmek",
+   "umudu yok etmek"
+  ],
+  "tip": "Geçişli bir fiildir, nesnesi doğrudan gelir. Günlük dilde yangın için \"put out\" da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "dwindle",
+  "senses": [
+   "azalmak; küçülmek"
+  ],
+  "ex": [
+   "Yeni iş ararken birikimlerimiz giderek eridi.",
+   "Tatlı su kaynakları azaldıkça hükümetler verimli sulama sistemlerine yatırım yapmalı ve hanehalklarını gereksiz tüketimi azaltmaya teşvik etmelidir."
+  ],
+  "col": [
+   "azalan kaynaklar",
+   "azalan sayılar",
+   "sıfıra kadar azalmak"
+  ],
+  "tip": "Özneyle kullanılan bir fiildir; \"dwindle the supplies\" gibi bir nesne almaz. \"Supplies dwindle\" biçimi doğrudur.",
+  "note": ""
+ },
+ {
+  "id": "invariably",
+  "senses": [
+   "her zaman; daima"
+  ],
+  "ex": [
+   "Kardeşim uzun tren yolculuklarında mutlaka uyuyakalır.",
+   "Bu çalışmada, işe gidip gelme süresi uzun olan katılımcıların neredeyse her zaman boş zamanlarına daha az vakit ayırabildiklerini bildirdiği görüldü."
+  ],
+  "col": [
+   "neredeyse her zaman",
+   "her zaman yol açar",
+   "her zaman bulmak"
+  ],
+  "tip": "\"usually\" kelimesinden daha güçlüdür: istisnasız bir durumu anlatır, \"genellikle\" anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "monopolize",
+  "senses": [
+   "tekel kurmak",
+   "kendine mal etmek"
+  ],
+  "ex": [
+   "Lütfen bu akşam yemek boyunca sohbeti tek başına ele geçirme.",
+   "Birkaç büyük şirket temel hizmetlerde tekel oluşturduğunda tüketiciler daha yüksek fiyatlar ve daha az seçenekle karşılaşabilir."
+  ],
+  "col": [
+   "piyasayı tekelinde tutmak",
+   "sohbeti tekeline almak",
+   "birinin dikkatini kendine çekmek"
+  ],
+  "tip": "Piyasa ya da arz için tekel kurmak, sohbet ve dikkat için kendine ayırmak anlamında kullanılır. İngiliz yazımı: monopolise.",
+  "note": ""
+ },
+ {
+  "id": "mortal",
+  "senses": [
+   "ölümlü; fani",
+   "öldürücü; ölümcül",
+   "ölümlü insan"
+  ],
+  "ex": [
+   "Bu hikâyedeki en güçlü kahramanlar bile ölümlüdür.",
+   "Ölümlü olduğumuzu fark etmek, daha sağlıklı alışkanlıklar edinmemizi ve günlük hayatın değerini daha çok takdir etmemizi sağlayabilir."
+  ],
+  "col": [
+   "ölümcül yara",
+   "ölümcül tehlike",
+   "sıradan insanlar"
+  ],
+  "tip": "Ölümlü olan insanı anlatır. Ölüm oranı için \"mortality\" kullanılır, \"mortal\" değil.",
+  "note": ""
+ },
+ {
+  "id": "resignation",
+  "senses": [
+   "istifa; istifa dilekçesi",
+   "boyun eğiş; teslimiyet"
+  ],
+  "ex": [
+   "Başka bir iş bulduktan sonra istifasını verdi.",
+   "Deneyimli hemşirelerin istifası, zaten personel sıkıntısı çeken hastaneler üzerindeki baskıyı daha da artırabilir."
+  ],
+  "col": [
+   "istifasını vermek",
+   "istifa dilekçesi",
+   "istifayı kabul etmek",
+   "boyun eğerek"
+  ],
+  "tip": "İşten ayrılmayı anlatırken \"resignation\" kullanılır. İkinci anlamı, değiştirilemeyen bir durumu çaresizce kabullenmektir, isyan değildir.",
+  "note": ""
+ },
+ {
+  "id": "tactful",
+  "senses": [
+   "anlayışlı; incitmeyen"
+  ],
+  "ex": [
+   "Onun nazik cevabı herkesi tatsız bir tartışmadan kurtardı.",
+   "İnsanlara anlayışla geri bildirim veren yöneticiler, performans sorunlarını çalışanların özgüvenini ve motivasyonunu koruyarak ele alabilir."
+  ],
+  "col": [
+   "anlayışlı yaklaşım",
+   "özenli yanıt",
+   "nazik eleştiri"
+  ],
+  "tip": "Karşıdakinin duygularını gözeterek konuşmayı anlatır. \"Zekice\" ya da \"kurnaz\" anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "ampere",
+  "senses": [
+   "amper"
+  ],
+  "ex": [
+   "Bu küçük lamba bir amperden az akım çeker.",
+   "Öğrenciler, farklı ev aletlerinin elektrik gereksinimlerini karşılaştırmak için akımı amper cinsinden ölçtü."
+  ],
+  "col": [
+   "amper cinsinden elektrik akımı",
+   "bir amper akım"
+  ],
+  "tip": "Sembolü A'dır ve sayının yanına \"2 A\" biçiminde yazılır. Konuşmada kısaca \"amp\" da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "amend",
+  "senses": [
+   "değiştirmek; düzeltmek"
+  ],
+  "ex": [
+   "Rezervasyona bir misafir daha eklemek için lütfen değişiklik yapın.",
+   "Parlamento, uzaktan çalışanların ofis çalışanlarıyla aynı güvenceye sahip olmasını sağlamak için mevcut yasaları değiştirebilir."
+  ],
+  "col": [
+   "yasayı değiştirmek",
+   "öneriyi düzeltmek",
+   "sözleşmeyi değiştirmek"
+  ],
+  "tip": "Belge, yasa veya plan gibi metinler için kullanılır. Fiziksel bir şeyi onarmak için \"mend\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "peasant",
+  "senses": [
+   "köylü; küçük çiftçi"
+  ],
+  "ex": [
+   "Tabloda sebze taşıyan bir köylü görülüyor.",
+   "Tarihsel olarak köylü aileleri çoğunlukla tek bir hasada bağlıydı; bu da onları kuraklığa karşı özellikle savunmasız kılıyordu."
+  ],
+  "col": [
+   "köylü çiftçi",
+   "köylü ailesi",
+   "köylü ayaklanması"
+  ],
+  "tip": "Genellikle tarihsel ya da geleneksel tarım bağlamında kullanılır. Birine bu sözcükle hitap etmek aşağılayıcı algılanabilir.",
+  "note": ""
+ },
+ {
+  "id": "mandatory",
+  "senses": [
+   "zorunlu; mecburi"
+  ],
+  "ex": [
+   "Bu tırmanış merkezinde kask takmak zorunludur.",
+   "Zorunlu güvenlik eğitimleri, tüm çalışanların olası riskleri anlamasını sağlayarak iş kazalarını azaltabilir."
+  ],
+  "col": [
+   "zorunlu eğitim",
+   "zorunlu şart",
+   "zorunlu katılım"
+  ],
+  "tip": "Yasa ya da kurallarla zorunlu kılınan durumlar için kullanılır. Karşıt anlamlısı \"optional\" (isteğe bağlı) sözcüğüdür.",
+  "note": ""
+ }
+]

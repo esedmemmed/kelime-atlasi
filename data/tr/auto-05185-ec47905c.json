@@ -1,0 +1,284 @@
+[
+ {
+  "id": "caption",
+  "senses": [
+   "açıklama; altyazı",
+   "açıklama eklemek; altyazı koymak"
+  ],
+  "ex": [
+   "Açıklama, dağ fotoğrafının nerede çekildiğini anlatıyor.",
+   "Doğru altyazılar, işitme engelli öğrenciler için çevrimiçi eğitim videolarını daha erişilebilir kılar."
+  ],
+  "col": [
+   "fotoğraf açıklaması",
+   "açıklama yazmak",
+   "kapalı altyazılar"
+  ],
+  "tip": "caption fotoğraf ve videolar için kullanılır; haber başlığı için genellikle headline tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "plunge",
+  "senses": [
+   "daldırmak; saplamak",
+   "sert düşmek; çakılmak",
+   "dalış; ani düşüş"
+  ],
+  "ex": [
+   "Çamurlu botlarını bir kovanın suyuna daldırdı.",
+   "Aşırı hava koşulları popüler kıyı tatil yerlerinin yoğun sezonda kapanmasına yol açarsa turizm geliri sert biçimde düşebilir."
+  ],
+  "col": [
+   "suya dalmak",
+   "sert biçimde düşmek",
+   "cesur adım atmak",
+   "borca batmak"
+  ],
+  "tip": "plunge into hem fiziksel dalışı hem de bir duruma ani girişi anlatabilir; take the plunge kararlı bir adım atmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "systematic",
+  "senses": [
+   "sistemli; düzenli"
+  ],
+  "ex": [
+   "Onun sistemli paketleme yöntemi, sonra her şeyi bulmayı kolaylaştırdı.",
+   "Mevcut araştırmaların sistematik bir incelemesi, hükümetlerin daha etkili halk sağlığı politikaları geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "sistematik bir yaklaşım",
+   "sistematik inceleme",
+   "sistematik analiz"
+  ],
+  "tip": "systematic düzenli ve planlı anlamına gelir; systemic ise bir sistemin bütününü ilgilendiren anlamda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "archery",
+  "senses": [
+   "okçuluk"
+  ],
+  "ex": [
+   "Gözetimli bir açık hava etkinlik merkezinde okçuluğu denedik.",
+   "Okullarda okçuluk sunulması, öğrencilere konsantrasyon ve fiziksel koordinasyon geliştiren bir sporla tanışma fırsatı verebilir."
+  ],
+  "col": [
+   "okçuluk yapmak",
+   "okçuluk kulübü",
+   "okçuluk alanı"
+  ],
+  "tip": "archery sayılamayan bir isimdir; sporcu için archer kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fortune",
+  "senses": [
+   "servet; büyük para",
+   "şans; kader"
+  ],
+  "ex": [
+   "Istasyonun yakınındaki o küçük daire bir servete mal oluyor.",
+   "Bazı girişimciler, daha önce gözden kaçmış ihtiyaçlara uygun fiyatlı ürünler geliştirerek servet kazanır."
+  ],
+  "col": [
+   "servet kazanmak",
+   "çok pahalıya mal olmak",
+   "iyi şans",
+   "birinin falına bakmak"
+  ],
+  "tip": "Büyük miktar anlamında a fortune kullanılır (cost a fortune); şans anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "explosion",
+  "senses": [
+   "patlama",
+   "patlama gibi artış; ani artış",
+   "ani patlama; taşma"
+  ],
+  "ex": [
+   "Uzaktan bir patlama sesi duyduk ve yükselen duman gördük.",
+   "Çevrimiçi alışverişteki patlama, teslimat hizmetlerine olan talebi artırdı ve kentsel ulaşımda yeni sorunlar yarattı."
+  ],
+  "col": [
+   "gaz patlaması",
+   "nüfus patlaması",
+   "öfke patlaması"
+  ],
+  "tip": "Sayıda ani artış için explosion in + isim kalıbı kullanılır: an explosion in demand.",
+  "note": ""
+ },
+ {
+  "id": "tension",
+  "senses": [
+   "gerginlik",
+   "gerginlik; kaygı",
+   "gerilim; çekme kuvveti"
+  ],
+  "ex": [
+   "Ortak araba yolu yüzünden komşular arasındaki gerginlik arttı.",
+   "Sınırlı su kaynakları için rekabet, tarımsal topluluklarla yakındaki şehirler arasında gerginliği artırabilir."
+  ],
+  "col": [
+   "gerginliği azaltmak",
+   "siyasi gerginlik",
+   "kas gerginliği",
+   "yüzey gerilimi"
+  ],
+  "tip": "İki taraf arasındaki gerginlik için tension between kullanılır; birden fazla çatışma için tensions biçimi görülebilir.",
+  "note": ""
+ },
+ {
+  "id": "manufacture",
+  "senses": [
+   "üretmek; imal etmek",
+   "üretim; imalat"
+  ],
+  "ex": [
+   "Fabrika, küçük çantalara katlanabilen bisikletler üretiyor.",
+   "Elektronik cihaz üreten şirketler, kullanım ömrü sonunda ürünlerinin geri dönüşümünde daha fazla sorumluluk almalıdır."
+  ],
+  "col": [
+   "mal üretmek",
+   "... üretimi",
+   "imalat sanayi",
+   "üretim maliyetleri"
+  ],
+  "tip": "Genellikle fabrikada seri üretim için kullanılır; üretici anlamındaki isim manufacturer'dır.",
+  "note": ""
+ },
+ {
+  "id": "tremendous",
+  "senses": [
+   "çok büyük; muazzam",
+   "harika; mükemmel"
+  ],
+  "ex": [
+   "O ağır kanepiyi yukarı taşımak çok büyük bir çaba gerektirdi.",
+   "Hızlı kentleşme, konut, ulaşım ağları ve temel kamu hizmetleri üzerinde çok büyük bir baskı yaratıyor."
+  ],
+  "col": [
+   "büyük baskı",
+   "büyük çaba",
+   "muazzam büyüme",
+   "harika bir başarı"
+  ],
+  "tip": "Boyuttan çok miktar ve derece için kullanılır; büyük bir nesneyi değil yoğunluğu vurgular.",
+  "note": ""
+ },
+ {
+  "id": "trap",
+  "senses": [
+   "tuzak",
+   "sıkıştırmak; hapsetmek",
+   "tuzak; çıkmaz"
+  ],
+  "ex": [
+   "Bu sabah insancıl tuzağın içinde bir fare bulduk.",
+   "Yüksek konut maliyetleri, ailelerin eğitim veya meslek kursu için az para bırakarak yoksulluğa hapsolmasına neden olabilir."
+  ],
+  "col": [
+   "tuzak kurmak",
+   "tuzağa düşmek",
+   "... içinde sıkışıp kalmak",
+   "yoksulluk tuzağı"
+  ],
+  "tip": "Geçmiş zaman trapped, ing hali trapping; son harf p ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "impose",
+  "senses": [
+   "uygulamak; koymak",
+   "dayatmak",
+   "yük olmak; zorlamak"
+  ],
+  "ex": [
+   "Kütüphane, geciken kitaplarım için küçük bir ceza uyguladı.",
+   "Hükümetler, daha sağlıklı tercihleri teşvik etmek ve kamu sağlık harcamalarını azaltmak için şekerli içeceklere daha yüksek vergi koyabilir."
+  ],
+  "col": [
+   "... kısıtlamalar getirmek",
+   "... vergi koymak",
+   "görüşlerini başkasına dayatmak",
+   "birinin zamanını almak"
+  ],
+  "tip": "impose A on B kalıbında A, B'ye yüklenir; impose on someone kişiye zahmet vermek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "destiny",
+  "senses": [
+   "kader; alın yazısı"
+  ],
+  "ex": [
+   "Müzisyen olmanın kaderinde olduğuna inanıyordu.",
+   "Aile koşulları fırsatları etkilese de eğitim, bireylerin mevcut sınırlamaları kabul etmek yerine kendi kaderlerini şekillendirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kendi kaderini çizmek",
+   "kaderini gerçekleştirmek",
+   "kader duygusu"
+  ],
+  "tip": "Genellikle önceden belirlenmiş gelecek anlamındadır; shape your destiny ise kişinin kendi kaderine yön vermesini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "stability",
+  "senses": [
+   "istikrar; denge"
+  ],
+  "ex": [
+   "Bu daha geniş ayaklar masaya çok daha iyi denge sağlıyor.",
+   "Ekonomik istikrar, işletmeleri yeni projelere yatırım yapmaya teşvik eder ve hanehalklarına finansal gelecekleri hakkında daha fazla güven verir."
+  ],
+  "col": [
+   "ekonomik istikrar",
+   "siyasi istikrar",
+   "mali istikrar",
+   "istikrarı korumak"
+  ],
+  "tip": "Genellikle sayılamaz; sıfatı stable, zıt anlamlısı instability.",
+  "note": ""
+ },
+ {
+  "id": "grip",
+  "senses": [
+   "sıkıca tutmak; kavramak",
+   "sıkı kavrayış; tutuş",
+   "hakimiyet; egemenlik"
+  ],
+  "ex": [
+   "Tekne hafifçe sallanırken parmaklığı sıkıca tuttu.",
+   "Büyük şirketler piyasa üzerinde güçlü bir hakimiyet sürdürüyor, bu da küçük işletmelerin rekabet etmesini zorlaştırıyor."
+  ],
+  "col": [
+   "sıkıca tutmak",
+   "sağlam bir kavrayış",
+   "kontrolü kaybetmek",
+   "iktidar üzerinde hakimiyet"
+  ],
+  "tip": "Geçmiş zaman gripped, ing hali gripping; son harf p ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "vacancy",
+  "senses": [
+   "boş iş yeri; açık pozisyon",
+   "boş oda; müsait oda"
+  ],
+  "ex": [
+   "Yerel kütüphanede bir asistan için açık pozisyon var.",
+   "İşsizlik artmasına rağmen birçok işveren, ileri teknik beceri gerektiren pozisyonları doldurmakta zorlandığını bildiriyor."
+  ],
+  "col": [
+   "boş iş pozisyonu",
+   "boş pozisyonu doldurmak",
+   "... için boş pozisyon",
+   "müsait oda yok"
+  ],
+  "tip": "Hem iş pozisyonu hem oda için sayılabilir; çoğulu vacancies. Yerel kullanımda 'boş kontenjan' yerine 'açık pozisyon' tercih edilir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "id": "discern",
+  "senses": [
+   "fark etmek; seçmek"
+  ],
+  "ex": [
+   "Sisin arasından uzaktaki köprüyü zar zor seçebiliyordum.",
+   "Güvenilir kanıt olmadan tüketicilerin çevresel iddiaların gerçekten inandırıcı olup olmadığını ayırt etmesi zor olabilir."
+  ],
+  "col": [
+   "bir örüntüyü fark etmek",
+   "bir farkı ayırt etmek",
+   "zar zor seçmek"
+  ],
+  "tip": "Resmî bir fiildir; zorlukla fark edilen ya da ayırt edilmesi güç şeyler için kullanılır. Günlük konuşmada notice daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "commemorate",
+  "senses": [
+   "anmak; anısını yaşatmak"
+  ],
+  "ex": [
+   "Büyükbabamızın hayatını anmak için bir ağaç dikdik.",
+   "Toplumsal törenler tarihî olayları anar ve gençlerin topluluklarını şekillendiren deneyimleri anlamasına yardımcı olur."
+  ],
+  "col": [
+   "bir olayı anmak",
+   "bir yıldönümünü anmak",
+   "kurbanları anmak"
+  ],
+  "tip": "Anma nesnesi doğrudan nesne olarak gelir; \"-i anmak\" kalıbıyla kullanılır. Kutlama anlamı taşımak zorunda değildir.",
+  "note": ""
+ },
+ {
+  "id": "devastate",
+  "senses": [
+   "yıkmak; harap etmek",
+   "yıkmak; derin acı vermek"
+  ],
+  "ex": [
+   "Fırtına köyü yerle bir etti, birçok ev hasar gördü.",
+   "Uzun süren kuraklıklar ekinleri yok ederek ve çiftçi hanelerinin gelirini azaltarak tarımla geçinen toplulukları ciddi biçimde vurabilir."
+  ],
+  "col": [
+   "bir bölgeyi harap etmek",
+   "ekonomiyi çökertmek",
+   "yıkılmış hissetmek",
+   "yıkıcı etki"
+  ],
+  "tip": "damage'dan çok daha güçlü bir anlam taşır. Duygusal bağlamda \"be devastated\" kalıbıyla kullanılır ve çok derin üzüntüyü anlatır.",
+  "note": ""
+ },
+ {
+  "id": "enclosure",
+  "senses": [
+   "çit; çevrili alan",
+   "zarfa konan ek; ilişik belge",
+   "çitle çevirme; kapatma"
+  ],
+  "ex": [
+   "Keçiler ahırın yanındaki çitli alanda dinleniyordu.",
+   "Hayvanat bahçeleri, her bir kafesin hayvanların doğal davranışlarını sergileyebilecekleri kadar geniş olmasını sağlamalıdır."
+  ],
+  "col": [
+   "bir hayvan çiti",
+   "güvenli bir çevrili alan",
+   "arazinin çitlenmesi"
+  ],
+  "tip": "Mektuba konan kâğıt ekler için enclosure; e-postadaki dosya için attachment kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "wane",
+  "senses": [
+   "azalmak; zayıflamak",
+   "küçülmek (ay)",
+   "azalma; gerileme"
+  ],
+  "ex": [
+   "Bir saat daha kuyrukta bekledikten sonra hevesim azaldı.",
+   "Maliyetler haksız dağıtılırsa çevre politikalarına halkın desteği azalabilir."
+  ],
+  "col": [
+   "azalan ilgi",
+   "gerilemekte olan",
+   "küçülen ay"
+  ],
+  "tip": "Fiil genellikle nesnesiz kullanılır. \"on the wane\" kalıbı, bir şeyin gerilemekte olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "inducement",
+  "senses": [
+   "teşvik; cazip unsur"
+  ],
+  "ex": [
+   "Ücretsiz teslimat, kanepeyi sipariş etmem için yeterli bir teşvikti.",
+   "Mali teşvikler hanehalklarını güneş panelleri kurmaya yöneltebilir ve fosil yakıtlara bağımlılıklarını azaltabilir."
+  ],
+  "col": [
+   "mali teşvik",
+   "teşvik sunmak",
+   "yatırım yapmaya teşvik"
+  ],
+  "tip": "Genellikle dışarıdan sunulan bir ödül ya da avantajı anlatır; ardından to + fiil gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "materialism",
+  "senses": [
+   "maddecilik; maddiyatçılık",
+   "materyalizm; maddecilik"
+  ],
+  "ex": [
+   "Maddiyatçılığa karşı çıkar ve pahalı eşyalar yerine deneyimleri tercih eder.",
+   "Eleştirmenler, reklamcılığın kişisel mutluluğu tüketim mallarının satın alınmasıyla ilişkilendirerek maddiyatçılığı teşvik ettiğini savunuyor."
+  ],
+  "col": [
+   "tüketim maddiyatçılığı",
+   "maddiyatçılığı teşvik etmek",
+   "felsefî materyalizm",
+   "tarihsel materyalizm"
+  ],
+  "tip": "Tüketim bağlamında \"maddiyatçılık\", felsefî bağlamda \"materyalizm\" anlamına gelir. Her iki anlamı da bağlama göre ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "standpoint",
+  "senses": [
+   "bakış açısı; görüş"
+  ],
+  "ex": [
+   "Bana göre daha küçük daire daha pratik.",
+   "Çevresel açıdan bakıldığında, toplu taşımaya yatırım yapmak özel araçlar için yeni yollar yapmaktan daha tercih edilir."
+  ],
+  "col": [
+   "pratik açıdan",
+   "ekonomik açıdan",
+   "birinin bakış açısından"
+  ],
+  "tip": "\"from a ... standpoint\" kalıbıyla \"... açısından\" anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "adverse",
+  "senses": [
+   "olumsuz; aleyhte; zararlı"
+  ],
+  "ex": [
+   "Feci hava koşulları yüzünden feribot seferleri iptal edildi.",
+   "Trafik gürültüsüne uzun süre maruz kalmak sakinlerin uykusu ve ruh sağlığı üzerinde olumsuz etkilere yol açabilir."
+  ],
+  "col": [
+   "olumsuz etkiler",
+   "olumsuz hava koşulları",
+   "olumsuz tepki",
+   "zor koşullar"
+  ],
+  "tip": "adverse \"olumsuz, zararlı\" anlamına gelir; averse ise \"karşı, isteksiz\" anlamındadır ve genellikle to ile kullanılır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "orderly",
+  "senses": [
+   "düzenli; intizamlı",
+   "hastane görevlisi; hizmetli"
+  ],
+  "ex": [
+   "Çocuklar sınıfın önünde düzenli bir sıra oluşturdular.",
+   "Açık tahliye prosedürleri, acil durumlarda kamu binalarından düzenli bir çıkış sağlayarak yaralanma riskini azaltır."
+  ],
+  "col": [
+   "düzenli sıra",
+   "düzenli bir biçimde",
+   "düzenli tahliye",
+   "hastane hizmetlisi"
+  ],
+  "tip": "-ly ile bitse de çoğunlukla sıfat olarak kullanılır. İsim olarak hastane hizmetlisi ya da asker hizmetlisi anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "brandy",
+  "senses": [
+   "brendi; konyak"
+  ],
+  "ex": [
+   "Tarifte meyveli kekin içine biraz brendi konuyor.",
+   "Geleneksel brendi üretimi, yerel üzüm yetiştiriciliğine ve uzman becerilere olan talebi artırarak kırsal istihdamı destekleyebilir."
+  ],
+  "col": [
+   "bir kadeh brendi",
+   "yaşlandırılmış brendi",
+   "brendi üretimi"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; \"a brandy\" ise bir kadeh brendi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "cordial",
+  "senses": [
+   "samimi; sıcakkanlı; içten",
+   "meyve şurubu; konsantre meyve içeceği"
+  ],
+  "ex": [
+   "Yeni komşularımız bizi çok sıcak bir şekilde karşıladı.",
+   "Komşu ülkeler arasında samimi ilişkilerin sürdürülmesi, ticaret ve çevre koruma konusunda iş birliğini teşvik edebilir."
+  ],
+  "col": [
+   "sıcak karşılama",
+   "samimi ilişkiler",
+   "misket limonu şurubu"
+  ],
+  "tip": "Sıfat olarak resmî ortamlarda kibar ve samimi tutumu anlatır. İngiliz kullanımında isim olarak konsantre meyve içeceğini de belirtir.",
+  "note": ""
+ },
+ {
+  "id": "rein",
+  "senses": [
+   "dizgin; gem",
+   "kontrol etmek; frenlemek"
+  ],
+  "ex": [
+   "Binici atı durdurmak için dizginleri yavaşça çekti.",
+   "Hükümetlerin, eğitim ve sağlık gibi temel hizmetleri korurken aşırı harcamaları kısması gerekebilir."
+  ],
+  "col": [
+   "dizginleri çekmek",
+   "harcamaları kısmak",
+   "birine tam serbestlik vermek",
+   "yönetimi ele almak"
+  ],
+  "tip": "Dizgin için genellikle çoğul reins kullanılır. rein in kalıbı harcama ya da davranışları frenlemek anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "carp",
+  "senses": [
+   "sazan; sazan balığı",
+   "sürekli eleştirmek; yakınmak"
+  ],
+  "ex": [
+   "Köprünün altında yüzen büyük bir sazanı izledik.",
+   "Yeni yaşam alanlarına sazan getirmek, sediman miktarını artırarak ve suyun berraklığını azaltarak su ekosistemlerini bozabilir."
+  ],
+  "col": [
+   "adi sazan",
+   "sazan göleti",
+   "küçük kusurlara takılmak"
+  ],
+  "tip": "Balık isminin çoğulu genellikle yine carp olarak kalır. Fiil olarak genellikle at ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "secretariat",
+  "senses": [
+   "sekreterlik; sekretarya"
+  ],
+  "ex": [
+   "Toplantı saatinizi onaylamak için lütfen sekreterliği arayın.",
+   "Sekreterlik uluslararası toplantıları koordine eder ve tüm üye ülkelerin ilgili bilgileri almasını sağlar."
+  ],
+  "col": [
+   "daimi sekreterlik",
+   "komite sekreterliği",
+   "sekreterlik kurmak"
+  ],
+  "tip": "Tek bir sekreter değil, idarî işleri yürüten bir kurum veya birimi ifade eder.",
+  "note": ""
+ }
+]

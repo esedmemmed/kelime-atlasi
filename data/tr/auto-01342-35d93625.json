@@ -1,0 +1,274 @@
+[
+ {
+  "id": "super",
+  "senses": [
+   "harika; süper",
+   "çok; son derece"
+  ],
+  "ex": [
+   "Bahçede oyun oynayarak harika bir öğleden sonra geçirdik.",
+   "Kullanıcılar bir uygulamayı çok yardımcı olarak tanımlayabilir, ancak araştırmacıların eğitimsel değerini değerlendirmek için nesnel kanıtlara ihtiyacı vardır."
+  ],
+  "col": [
+   "harika bir fikir",
+   "çok yardımcı",
+   "çok kolay"
+  ],
+  "tip": "Süper gayriresmî bir kelimedir; resmî yazıda excellent ya da very tercih edin.",
+  "note": ""
+ },
+ {
+  "id": "decision",
+  "senses": [
+   "karar"
+  ],
+  "ex": [
+   "İşe daha yakın taşınmak iyi bir karardı.",
+   "Hükümetler her büyük ulaşım kararını güvenilir kanıtlara ve etkilenen topluluklarla yapılan istişareye dayandırmalıdır."
+  ],
+  "col": [
+   "karar vermek",
+   "bir karara varmak",
+   "bilinçli karar",
+   "nihai karar"
+  ],
+  "tip": "Karar vermek için make a decision kullanılır; do ile kurulmaz.",
+  "note": ""
+ },
+ {
+  "id": "heat",
+  "senses": [
+   "sıcaklık; ısı",
+   "ısıtmak; ısınmak",
+   "eleme turu"
+  ],
+  "ex": [
+   "Sıcaktan kaçmak için bir ağacın altında dinlendik.",
+   "Şehirler ağaç dikerek ve koyu yüzeyleri güneş ışığını yansıtan malzemelerle değiştirerek aşırı sıcağı azaltabilir."
+  ],
+  "col": [
+   "aşırı sıcaklık",
+   "ısı kaybı",
+   "yemeği ısıtmak",
+   "eleme yarışı"
+  ],
+  "tip": "Heat isim olarak sıcaklığı, hot ise sıcak anlamındaki sıfatı verir.",
+  "note": ""
+ },
+ {
+  "id": "lunchtime",
+  "senses": [
+   "öğle yemeği saati"
+  ],
+  "ex": [
+   "Öğle yemeğinde dışarıda oturup birkaç sandviç yedik.",
+   "Öğle saatlerinde sessiz alanlar sağlamak çalışanların rahatlamasına ve işe daha fazla odaklanarak dönmesine yardımcı olabilir."
+  ],
+  "col": [
+   "öğle yemeğinde",
+   "öğle yemeği yürüyüşü",
+   "öğle arası"
+  ],
+  "tip": "“Öğle yemeğinde” anlamında genellikle at lunchtime kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "winner",
+  "senses": [
+   "kazanan; birinci",
+   "başarılı olan kişi ya da şey; yararlanan"
+  ],
+  "ex": [
+   "Kalabalık alkışlarken kazanan kadın kupasını havaya kaldırdı.",
+   "Daha fazla rekabet şirketleri fiyatları düşürmeye ve hizmetleri iyileştirmeye teşvik ettiğinde tüketiciler en büyük kazananlar olabilir."
+  ],
+  "col": [
+   "ödül kazananı",
+   "genel birinci",
+   "açık ara kazanan"
+  ],
+  "tip": "Winner kazananı belirtir; takımı nitelemek için winning sıfatı kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "mathematics",
+  "senses": [
+   "matematik"
+  ],
+  "ex": [
+   "Özellikle şekillerle ilgili bulmacaları çözmeyi severek matematik çalışıyor.",
+   "Matematikte sağlam bir temel, öğrencilerin verileri yorumlamasını ve günlük hayattaki iddiaları değerlendirmesini sağlar."
+  ],
+  "col": [
+   "uygulamalı matematik",
+   "saf matematik",
+   "matematik öğretmeni"
+  ],
+  "tip": "Sonu s ile bitse de bu bir bilim dalı adı olduğundan tekil fiille kullanılır; İngilizcede kısaltması maths'tır.",
+  "note": ""
+ },
+ {
+  "id": "egyptian",
+  "senses": [
+   "Mısır’a ait; Mısırlı",
+   "Mısırlı kişi"
+  ],
+  "ex": [
+   "Dün müzede Mısır çömlekçiliğine hayran kaldık.",
+   "Antik Mısır sulama sistemleri, toplulukların nehir seviyelerindeki mevsimsel değişimlere tarımsal uygulamalarını nasıl uyarladığını gösterir."
+  ],
+  "col": [
+   "antik Mısır uygarlığı",
+   "Mısır sanatı",
+   "Mısır pamuğu"
+  ],
+  "tip": "Kelime her zaman büyük harfle yazılır; birden fazla Mısırlıdan söz ederken Egyptians kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fear",
+  "senses": [
+   "korku; endişe",
+   "korkmak; endişelenmek"
+  ],
+  "ex": [
+   "Yükseklikten korktuğu için elimi tuttu.",
+   "Başarısızlık korkusu, özellikle rekabetin yüksek olduğu öğrenme ortamlarında öğrencilerin soru sormasını engelleyebilir."
+  ],
+  "col": [
+   "yükseklik korkusu",
+   "bir korkuyu yenmek",
+   "birinin güvenliği için endişelenmek",
+   "-den korktuğundan"
+  ],
+  "tip": "fear sth bir şeyden korkmak; fear for sb birinin iyiliği için endişelenmek anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "cucumber",
+  "senses": [
+   "salatalık"
+  ],
+  "ex": [
+   "Bir salatalık dilimleyip salataya ekledi.",
+   "Seralarda salatalık yetiştirmek güvenilir bir gıda kaynağı sağlayabilir, ancak bu yapıların ısıtılması enerji gerektirir."
+  ],
+  "col": [
+   "dilimlenmiş salatalık",
+   "salatalık salatası",
+   "son derece sakin ve soğukkanlı"
+  ],
+  "tip": "Genellikle sayılabilir kullanılır (a cucumber); malzeme olarak sayılamaz da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "wifi",
+  "senses": [
+   "kablosuz ağ; kablosuz internet"
+  ],
+  "ex": [
+   "Kafede pencere kenarındaki koltukların yakınında ücretsiz wifi var.",
+   "Güvenilir kamu wifi hizmeti sağlamak, sakinlerin temel hizmetlere erişmesine ve çevrimiçi eğitime katılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "ücretsiz wifi",
+   "wifi bağlantısı",
+   "wifi şifresi",
+   "wifi sinyali"
+  ],
+  "tip": "Resmî yazımı Wi-Fi’dır; genellikle sayılamaz ve başına a getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "beauty",
+  "senses": [
+   "güzellik",
+   "üstünlük; değerli yön"
+  ],
+  "ex": [
+   "Gölün güzelliğini izlemek için durduk.",
+   "Kıyı bölgelerinin doğal güzelliğini korumak, değerli yaşam alanlarını koruyarak turizmi destekleyebilir."
+  ],
+  "col": [
+   "doğal güzellik",
+   "olağanüstü güzellik",
+   "bir şeyin güzelliği"
+  ],
+  "tip": "“Güzellik” anlamında genellikle sayılamayan isimdir; the beauty of ifadesi bir şeyin özelliğini de anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "nearby",
+  "senses": [
+   "yakın; civarda",
+   "yakınında; yakında"
+  ],
+  "ex": [
+   "Yakındaki bir fırından taze ekmek aldık.",
+   "Yakındaki parklara erişim, şehir sakinlerini düzenli egzersiz yapmaya ve dışarıda daha fazla vakit geçirmeye teşvik eder."
+  ],
+  "col": [
+   "yakındaki park",
+   "yakın çevredeki sakinler",
+   "yakında yaşamak"
+  ],
+  "tip": "Nearby edat olarak kullanılmaz: near the school denir, nearby the school denmez.",
+  "note": ""
+ },
+ {
+  "id": "cost",
+  "senses": [
+   "maliyet; ücret",
+   "-e mal olmak; ödetmek",
+   "bedel; kayıp"
+  ],
+  "ex": [
+   "Haftalık market alışverişimizin maliyeti sürekli artıyor.",
+   "Toplu taşımanın iyileştirilmesi işe gidip gelme maliyetini düşürebilir ve şehirleri daha erişilebilir hâle getirebilir."
+  ],
+  "col": [
+   "yaşam maliyeti",
+   "maliyeti karşılamak",
+   "ne pahasına olursa olsun",
+   "çok pahalıya mal olmak"
+  ],
+  "tip": "Bir miktar paraya mal olmak anlamında cost’un geçmiş zamanı ve ortaç hâli de cost’tur.",
+  "note": ""
+ },
+ {
+  "id": "tent",
+  "senses": [
+   "çadır"
+  ],
+  "ex": [
+   "Sessiz bir gölün kenarına çadırımızı kurduk.",
+   "Çadırda uyuyan ziyaretçiler, yerel yaban hayatı üzerindeki etkilerini en aza indirmek için kamp alanı kurallarına uymalıdır."
+  ],
+  "col": [
+   "çadır kurmak",
+   "çadır kurmak",
+   "çadırı toplamak",
+   "kamp çadırı"
+  ],
+  "tip": "“Çadır kurmak” için pitch a tent ya da put up a tent kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "whose",
+  "senses": [
+   "kimin; onun",
+   "kimin şeyi"
+  ],
+  "ex": [
+   "Yere her yere su damlatan şemsiye kimin?",
+   "Ebeveynleri evde düzenli kitap okuyan çocuklar kitaplara karşı daha güçlü bir ilgi geliştirebilir."
+  ],
+  "col": [
+   "kimin sırası",
+   "kimin fikri",
+   "kimin sorumluluğu"
+  ],
+  "tip": "Whose sahipliği belirtir; who’s ise who is ya da who has kısaltmasıdır.",
+  "note": ""
+ }
+]

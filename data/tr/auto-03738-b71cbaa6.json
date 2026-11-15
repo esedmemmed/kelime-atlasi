@@ -1,0 +1,282 @@
+[
+ {
+  "id": "shove",
+  "senses": [
+   "itmek; tıkıştırmak",
+   "itiş; itme"
+  ],
+  "ex": [
+   "Eldivenlerimi çantama tıkıştırdım ve hızla dışarı çıktım.",
+   "Kalabalık istasyonlarda, yoğun saatlerde kuyrukları yönetecek etkili sistemler olmadığında yolcular birbirini itebilir."
+  ],
+  "col": [
+   "çantaya bir şey tıkıştırmak",
+   "birine itiş vermek",
+   "birinin yanından itip geçmek"
+  ],
+  "tip": "push'a göre daha sert ya da kaba bir itmeyi anlatır. Bir şeyi gelişigüzel tıkıştırmak için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ceramics",
+  "senses": [
+   "seramik sanatı; çömlekçilik",
+   "seramik ürünler; seramikler"
+  ],
+  "ex": [
+   "Yerel bir atölyede seramik dersi almaya başladım.",
+   "Geleneksel seramik ürünler, yerel zanaatkârlara güvenilir bir gelir kaynağı sağlarken turistleri de çekebilir."
+  ],
+  "col": [
+   "seramik dersi",
+   "geleneksel seramik",
+   "seramik atölyesi"
+  ],
+  "tip": "Sanat ya da uğraş anlamında genellikle tekil; birden çok seramik ürünü anlamında çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "conservation",
+  "senses": [
+   "doğa koruma; koruma",
+   "tasarruf; kaynak koruma",
+   "eser koruma; restorasyon"
+  ],
+  "ex": [
+   "Sınıfımız, yerel kurbağaları korumak için bir doğa koruma projesine katıldı.",
+   "Başarılı yaban hayatı koruma çalışmaları, yıllar boyunca yerel topluluklar, araştırmacılar ve hükümetler arasında iş birliği gerektirir."
+  ],
+  "col": [
+   "yaban hayatı koruma",
+   "enerji tasarrufu",
+   "su tasarrufu",
+   "koruma çabaları"
+  ],
+  "tip": "Genellikle sayılamaz. Doğayı koruma, kaynakları tasarruf etme ya da değerli eserleri onarma anlamlarından hangisinin kastedildiğini bağlamdan anlayın.",
+  "note": ""
+ },
+ {
+  "id": "emigrate",
+  "senses": [
+   "yurt dışına göç etmek"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam gençken Kanada'ya göç ettiler.",
+   "Yetenekli işçiler, ülkeleri mesleki gelişim için sınırlı fırsatlar sunduğunda yurt dışına göç edebilir."
+  ],
+  "col": [
+   "...den göç etmek",
+   "...e göç etmek",
+   "kalıcı olarak göç etmek"
+  ],
+  "tip": "Bir ülkeden çıkmayı anlatır; bir ülkeye gelmeyi anlatmak için immigrate kullanılır. Çıkış ülkesi from, varış ülkesi to ile belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "hearing",
+  "senses": [
+   "işitme; duyma",
+   "duruşma; dinleme oturumu"
+  ],
+  "ex": [
+   "Dedemin işitme duyusu, işitme cihazı taktıktan sonra düzeldi.",
+   "Halka açık bir dinleme oturumu, büyük inşaat projeleri resmi onay almadan önce sakinlerin endişelerini dile getirmesine olanak tanır."
+  ],
+  "col": [
+   "işitme kaybı",
+   "işitme cihazı",
+   "halka açık dinleme",
+   "mahkeme duruşması"
+  ],
+  "tip": "Duyma yetisi anlamında genellikle sayılamaz; resmi toplantı ya da duruşma anlamında sayılabilir (a hearing).",
+  "note": ""
+ },
+ {
+  "id": "integrate",
+  "senses": [
+   "birleştirmek; bütünleştirmek",
+   "uyum sağlamak; kaynaştırmak"
+  ],
+  "ex": [
+   "Bu uygulama takvimimi alışveriş listemle birleştiriyor.",
+   "Okullar, tüm öğrencilerin eşit erişime sahip olmasını sağlarken dijital araçları sınıf etkinliklerine entegre etmelidir."
+  ],
+  "col": [
+   "A'yı B'ye entegre etmek",
+   "...ile bütünleşmek",
+   "topluma uyum sağlamak"
+  ],
+  "tip": "integrate A into B ya da integrate A with B kalıpları kullanılır. Bir şeyi başka bir şeye katmak ya da bir gruba uyum sağlamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "curved",
+  "senses": [
+   "eğri; kavisli"
+  ],
+  "ex": [
+   "Kapımızdan göle giden kıvrımlı bir patika var.",
+   "Kavisli bina tasarımları ayırt edici kentsel simgeler yaratabilir, ancak daha karmaşık yapım teknikleri gerektirebilir."
+  ],
+  "col": [
+   "kavisli yüzey",
+   "eğri çizgi",
+   "kavisli çatı"
+  ],
+  "tip": "curved yumuşak, düzgün bir kavisi anlatır; bent ise bükülmüş ya da açı yapmış bir şekli de anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "shutter",
+  "senses": [
+   "panjur; kepenk",
+   "deklanşör",
+   "geçici kapatmak; kapamak"
+  ],
+  "ex": [
+   "Fırtına gelmeden önce ahşap panjurları kapattım.",
+   "Fotoğrafçılar, doğal davranışını bozmadan hareket halindeki yaban hayvanını net yakalamak için hızlı deklanşör süresi kullanır."
+  ],
+  "col": [
+   "panjurları kapatmak",
+   "ahşap panjurlar",
+   "deklanşör hızı",
+   "fabrikayı kapatmak"
+  ],
+  "tip": "Pencere panjuru anlamında genellikle çoğul (shutters) kullanılır. Fotoğraf makinesinde shutter speed deklanşör hızı demektir.",
+  "note": ""
+ },
+ {
+  "id": "marking",
+  "senses": [
+   "notlandırma; puanlama",
+   "işaret; çizgi; benek"
+  ],
+  "ex": [
+   "Öğretmen akşam yemeğini pişirmeden önce notlandırmasını bitirdi.",
+   "Açık puanlama kriterleri, öğrencilerin kim değerlendirirse değerlendirsin adil notlar almasına yardımcı olur."
+  ],
+  "col": [
+   "puanlama şeması",
+   "yol çizgileri",
+   "belirgin desenler"
+  ],
+  "tip": "Notlandırma anlamında genellikle sayılamaz; yol çizgileri ve hayvan üzerindeki desenler için çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "admission",
+  "senses": [
+   "kabul; giriş izni",
+   "giriş ücreti",
+   "itiraf; kabul"
+  ],
+  "ex": [
+   "Müzeye giriş pazar günleri ücretsizdir.",
+   "Üniversite kabulü, pahalı özel eğitime erişimi ödüllendirmek yerine akademik potansiyeli yansıtmalıdır."
+  ],
+  "col": [
+   "üniversiteye kabul",
+   "giriş ücreti",
+   "ücretsiz giriş",
+   "suçu kabul etme"
+  ],
+  "tip": "Bir yere girme izni için admission to, bir şeyi kabul etme ya da itiraf etme için admission of kalıpları kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "exclusive",
+  "senses": [
+   "özel; münhasır",
+   "lüks; seçkin",
+   "münhasır haber"
+  ],
+  "ex": [
+   "Misafirler bu öğleden sonra havuzu yalnızca kendileri kullanabilir.",
+   "Tek bir şirkete kamu verileri üzerinde münhasır haklar vermek, rekabeti kısıtlayabilir ve yeniliği engelleyebilir."
+  ],
+  "col": [
+   "özel erişim",
+   "münhasır haklar",
+   "özel röportaj",
+   "birbirini dışlayan"
+  ],
+  "tip": "exclusive to 'yalnızca ...e özgü' anlamına gelir; exclusive of ise 'hariç' anlamında kullanılır. İkisini karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "dignity",
+  "senses": [
+   "onur; saygınlık",
+   "vakar; ağırbaşlılık"
+  ],
+  "ex": [
+   "Hemşire perdeyi kapatarak hastasının onurunu korudu.",
+   "Bakım hizmetleri, yaşlı insanların mahremiyetine ve kişisel tercihlerine saygı göstererek onurlarını korumalıdır."
+  ],
+  "col": [
+   "insan onuru",
+   "birinin onurunu korumak",
+   "birine saygıyla davranmak",
+   "onur duygusu"
+  ],
+  "tip": "Genellikle sayılamaz. with dignity kalıbı 'onurla, vakarla' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "tactics",
+  "senses": [
+   "taktik; yöntem"
+  ],
+  "ex": [
+   "Koçumuz futbol maçının ortasında taktiğini değiştirdi.",
+   "Şirketler, kalabalık pazarlarda rekabet etmek ve genç tüketicileri çekmek için giderek daha fazla dijital pazarlama taktikleri kullanıyor."
+  ],
+  "col": [
+   "taktik değiştirmek",
+   "pazarlama taktikleri",
+   "pazarlık taktikleri",
+   "oyalama taktikleri"
+  ],
+  "tip": "strategy genel planı, tactics ise bu planı uygulamak için kullanılan somut yöntemleri anlatır.",
+  "note": ""
+ },
+ {
+  "id": "grumble",
+  "senses": [
+   "söylenmek; homurdanmak",
+   "şikâyet; homurtu",
+   "gümbürdemek; homurdamak"
+  ],
+  "ex": [
+   "Kardeşim bulaşıkları yıkamakla yine söylendi.",
+   "Yolcular gecikmelerden sık sık şikâyet etse de birçoğu ulaşım maliyetlerini azalttığı için toplu taşımayı tercih eder."
+  ],
+  "col": [
+   "gecikmelerden yakınmak",
+   "birine söylenmek",
+   "yaygın bir şikâyet"
+  ],
+  "tip": "grumble about sth kalıbıyla 'bir şeyden yakınmak' anlamında kullanılır. Hafif, bezgin bir şikâyeti anlatır.",
+  "note": ""
+ },
+ {
+  "id": "flesh",
+  "senses": [
+   "et; kas dokusu",
+   "meyve eti"
+  ],
+  "ex": [
+   "Olgun şeftalinin tatlı bir eti ve küçük bir çekirdeği vardı.",
+   "Canlı renkli etli meyveler, sağlıklı ve dengeli bir beslenmeye katkı sağlayan besinler içerir."
+  ],
+  "col": [
+   "yumuşak et",
+   "meyve eti",
+   "bizzat; gerçekte",
+   "kan bağı; can ciğer"
+  ],
+  "tip": "Genellikle sayılamaz. Yenen et için meat kullanılır; flesh daha çok canlı dokuyu ya da meyvenin yumuşak iç kısmını anlatır.",
+  "note": ""
+ }
+]

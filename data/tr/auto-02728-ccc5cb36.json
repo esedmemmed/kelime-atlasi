@@ -1,0 +1,270 @@
+[
+ {
+  "id": "edit",
+  "senses": [
+   "düzenlemek; düzeltmek"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce bu videoyu düzenlemem gerekiyor.",
+   "Öğrenciler, hem yapıyı hem de argümanlarının doğruluğunu kontrol ederek kompozisyonlarını dikkatle düzenlemeyi öğrenmelidir."
+  ],
+  "col": [
+   "bir kompozisyonu düzenlemek",
+   "bir videoyu düzenlemek",
+   "çıkarmak; ayıklamak"
+  ],
+  "tip": "edit, yazı, görüntü veya kayıtlarda değişiklik yapmak anlamına gelir; 'yayımlamak' anlamında değildir, o için publish kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fully",
+  "senses": [
+   "tamamen; tam olarak"
+  ],
+  "ex": [
+   "Ayrılmadan önce telefonunun tamamen şarj olduğundan emin ol.",
+   "Öğrenciler, mevcut dijital araçları nasıl kullanacaklarını tam olarak anladıklarında çevrim içi öğrenimden en çok yararı sağlarlar."
+  ],
+  "col": [
+   "tamamen farkında",
+   "tam donanımlı",
+   "tam olarak anlamak",
+   "tamamen dolu"
+  ],
+  "tip": "Genellikle sıfat ya da ortaçtan önce gelir: fully prepared (tamamen hazır). Anlamı 'tamamen' olduğu için aşırı kullanımdan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "policy",
+  "senses": [
+   "politika; ilke",
+   "sigorta poliçesi"
+  ],
+  "ex": [
+   "Okulumuzun her gün taze meyve sunma gibi bir politikası var.",
+   "Etkili bir konut politikası, hem artan kiraları hem de uygun fiyatlı konut eksikliğini ele almalıdır."
+  ],
+  "col": [
+   "hükümet politikası",
+   "bir politikayı uygulamak",
+   "sigorta poliçesi",
+   "dış politika"
+  ],
+  "tip": "policy 'politika' ya da 'sigorta poliçesi' anlamına gelir; 'siyaset' anlamındaki politics ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "spot",
+  "senses": [
+   "yer; nokta",
+   "leke; benek",
+   "fark etmek; görmek"
+  ],
+  "ex": [
+   "Nehrin kenarında gölgeli bir yer bulduk.",
+   "Uydu görüntüleri, araştırmacıların geniş çaplı hasar oluşmadan önce orman örtüsündeki değişiklikleri fark etmelerine yardımcı oluyor."
+  ],
+  "col": [
+   "sakin bir yer",
+   "hemen; yerinde",
+   "bir hatayı fark etmek",
+   "turistik bir yer"
+  ],
+  "tip": "on the spot 'hemen' ya da 'yerinde' anlamına gelebilir; bağlama göre çeviri yapın.",
+  "note": ""
+ },
+ {
+  "id": "ought",
+  "senses": [
+   "-meli; -malı",
+   "olmalı; -mesi beklenir"
+  ],
+  "ex": [
+   "Bulutlar kararmış görünüyor; şemsiye almalısın.",
+   "Hükümetler, ailelerin gelirinden bağımsız olarak tüm çocukların kaliteli eğitime erişimini sağlamalıdır."
+  ],
+  "col": [
+   "yapmalı",
+   "yapmamalı",
+   "yapmış olmalıydı"
+  ],
+  "tip": "ought bir kip fiilidir ve to ile birlikte kullanılır (ought to go). Olumsuzu ought not to şeklindedir; fiilin yalın hali ought'tan sonra gelmez.",
+  "note": ""
+ },
+ {
+  "id": "brave",
+  "senses": [
+   "cesur; yiğit",
+   "cesaretle karşılamak"
+  ],
+  "ex": [
+   "Herkesin önünde konuşarak cesaret gösterdin.",
+   "Güçlü gruplar bunlara şiddetle karşı çıkarken, gerekli çevresel reformları hayata geçirmek cesur bir liderlik gerektirir."
+  ],
+  "col": [
+   "cesur bir karar",
+   "-ecek kadar cesur",
+   "soğuğa göğüs germek"
+  ],
+  "tip": "brave korkmamak değil, korkuya rağmen cesurca davranmak demektir. 'Brave the cold' gibi kalıplarda fiil olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "obviously",
+  "senses": [
+   "açıkça; belli ki"
+  ],
+  "ex": [
+   "Yavru köpek uzun yürüyüşün ardından belli ki yorulmuştu.",
+   "Yenilenebilir enerjinin çevreye açıkça fayda sağladığı doğru olsa da, başlangıç maliyetleri daha yoksul bölgelerde yatırımı caydırabilir."
+  ],
+  "col": [
+   "belli ki memnun",
+   "açıkça yanlış",
+   "açıkça önemli"
+  ],
+  "tip": "Ortada açık bir durumu belirtir; tartışmalı görüşlerde kullanırken dikkatli olun, yoksa iddianız kesin ve yargılayıcı görünebilir.",
+  "note": ""
+ },
+ {
+  "id": "porridge",
+  "senses": [
+   "yulaf lapası"
+  ],
+  "ex": [
+   "Sıcak yulaf lapamın üzerine dilimlenmiş muz koydum.",
+   "Okullar, öğrencilere uygun fiyatlı ve besleyici bir öğün sunmak için kahvaltıda yulaf lapası ikram edebilir."
+  ],
+  "col": [
+   "bir kase yulaf lapası",
+   "lapalık yulaf",
+   "lapa yapmak"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; bir porsiyon için a bowl of porridge gibi kalıplar kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "surf",
+  "senses": [
+   "sörf yapmak",
+   "internette gezinmek",
+   "kıyı dalgaları"
+  ],
+  "ex": [
+   "Kuzenim tatilimizde sahilde sörf yapmayı öğrendi.",
+   "Araştırma için internette gezinen öğrencilerin, güvenilir kaynakları yanıltıcı bilgilerden ayırt etmek için becerilere ihtiyacı vardır."
+  ],
+  "col": [
+   "sörf yapmayı öğrenmek",
+   "internette gezinmek",
+   "dalgalarda sörf yapmak"
+  ],
+  "tip": "surf the internet belirli bir amaç olmadan internette gezinmek anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "roughly",
+  "senses": [
+   "yaklaşık olarak; kabaca",
+   "kabaca; sertçe"
+  ],
+  "ex": [
+   "Göle yürüyüş yaklaşık yirmi dakika sürüyor.",
+   "Anketlere katılanların yaklaşık yarısı, eski otoparkın kamuya açık bir bahçeyle değiştirilmesini destekledi."
+  ],
+  "col": [
+   "hemen hemen eşit",
+   "kabaca konuşursak",
+   "kaba davranmak"
+  ],
+  "tip": "Sayıların önünde 'yaklaşık' anlamında kullanılır; ayrıca bir davranışın sert ya da özensiz olduğunu da belirtebilir.",
+  "note": ""
+ },
+ {
+  "id": "get-together",
+  "senses": [
+   "buluşma; toplantı"
+  ],
+  "ex": [
+   "Bu gece dairemizde küçük bir buluşma yapıyoruz.",
+   "Düzenli mahalle buluşmaları, toplumsal bağları güçlendirebilir ve yeni sakinlerin kendilerini daha hoş karşılanmış hissetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "aile buluşması",
+   "gayriresmi buluşma",
+   "bir buluşma düzenlemek"
+  ],
+  "tip": "İsim olarak tireli yazılır (get-together); fiil öbeği get together ise tiresizdir.",
+  "note": ""
+ },
+ {
+  "id": "disk",
+  "senses": [
+   "disk; bilgisayar diski",
+   "yassı daire; disk"
+  ],
+  "ex": [
+   "Dizüstü bilgisayarımın diski tatil fotoğraflarıyla neredeyse doldu.",
+   "Düzenli yedeklemeler, üniversite bilgisayar sistemlerinde yanlışlıkla silinmeye ve beklenmedik disk arızalarına karşı önemli araştırma verilerini korur."
+  ],
+  "col": [
+   "sabit disk",
+   "disk alanı",
+   "disk sürücüsü",
+   "disk arızası"
+  ],
+  "tip": "Bilgisayar diski için disk kullanılır; İngiliz İngilizcesinde CD ya da yuvarlak nesneler için genellikle disc yazılır.",
+  "note": ""
+ },
+ {
+  "id": "tray",
+  "senses": [
+   "tepsi"
+  ],
+  "ex": [
+   "Kadın ahşap bir tepside iki fincan çay taşıyordu.",
+   "Tek kullanımlık yemek tepsilerinin yeniden kullanılabilir olanlarla değiştirilmesi, okul yemekhanelerindeki atığı önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "servis tepsisi",
+   "fırın tepsisi",
+   "buz kalıbı",
+   "bir tepsi içecek"
+  ],
+  "tip": "Kenarları yükseltilmiş yassı kapları ifade eder; yemek tepsisi ya da fırın tepsisi olabilir. Bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "mosquito",
+  "senses": [
+   "sivrisinek"
+  ],
+  "ex": [
+   "Akşam yemeği sırasında kolumun üzerine bir sivrisinek kondu.",
+   "Isınan iklim, sivrisineklerin daha önce yaygın olmadığı bölgelere yayılmasına neden olabilir."
+  ],
+  "col": [
+   "sivrisinek ısırığı",
+   "sivrisinek cibinliği",
+   "sivrisinek kovucu"
+  ],
+  "tip": "Çoğul hali mosquitoes (ya da mosquitos) olarak yazılır.",
+  "note": ""
+ },
+ {
+  "id": "secondly",
+  "senses": [
+   "ikinci olarak; ikincisi"
+  ],
+  "ex": [
+   "Birincisi, daire uygun fiyatlı; ikincisi, balkonu var.",
+   "İkinci olarak, toplu taşımanın genişletilmesi trafik sıkışıklığını azaltabilir ve istihdam fırsatlarına erişimi artırabilir."
+  ],
+  "col": [
+   "birincisi ve ikincisi",
+   "ikinci olarak, düşünün"
+  ],
+  "tip": "Bir listede ya da argümanda ikinci noktayı tanıtmak için kullanılır; cümle başında geldiğinde genellikle virgülle ayrılır.",
+  "note": ""
+ }
+]

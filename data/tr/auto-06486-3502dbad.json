@@ -1,0 +1,274 @@
+[
+ {
+  "id": "tumour",
+  "senses": [
+   "tümör; ur"
+  ],
+  "ex": [
+   "Doktor, tümörün kanserli olmadığını açıkladı.",
+   "Tümörün erken tespit edilmesi tedavi seçeneklerini geliştirebilir; ancak sonuç, tümörün türüne ve yerine bağlıdır."
+  ],
+  "col": [
+   "iyi huylu tümör",
+   "kötü huylu tümör",
+   "tümörü çıkarmak",
+   "tümör büyümesi"
+  ],
+  "tip": "İngiliz yazımı tumour, Amerikan yazımı tumor'dur. Tümör her zaman kanser demek değildir; benign ve malignant ile ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "fitting",
+  "senses": [
+   "yerinde; uygun",
+   "parça; aksesuar",
+   "prova; ölçü alma"
+  ],
+  "ex": [
+   "Çiçekler bahçecilik öğretmenimiz için uygun bir hediye gibi görünüyordu.",
+   "Hayatını eğitime adamış biri için halk kütüphanesi uygun bir anıt olurdu."
+  ],
+  "col": [
+   "yerinde bir övgü",
+   "yerinde bir sonuç",
+   "aydınlatma armatürleri",
+   "elbise provası"
+  ],
+  "tip": "Sıfat olarak 'uygun, yakışan' anlamındadır. Elbisenin vücuda oturmasını fit ile anlatın; fitting ise prova randevusu anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "prophet",
+  "senses": [
+   "peygamber",
+   "kehanetçi; gelecek bildiren"
+  ],
+  "ex": [
+   "Eski tabloda bir kalabalığa hitap eden bir peygamber görülüyor.",
+   "Tarih boyunca dini topluluklar, peygamberlerin öğretilerini sözlü gelenekler ve yazılı kayıtlarla korumuştur."
+  ],
+  "col": [
+   "dini bir peygamber",
+   "kıyamet kehanetçisi",
+   "bir peygamberin öğretileri"
+  ],
+  "tip": "Profit (kâr) ile benzer yazılsa da telaffuzu farklıdır. Fiili prophesy'dir; prophet ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "violate",
+  "senses": [
+   "ihlal etmek; çiğnemek",
+   "hakkını ihlal etmek"
+  ],
+  "ex": [
+   "Arabanızı burada bırakmak binanın otopark kurallarını ihlal ediyor.",
+   "Bilgilendirilmiş onay olmadan kişisel veri toplamak, vatandaşların mahremiyetini ihlal edebilir ve dijital hizmetlere duyulan güveni zedeleyebilir."
+  ],
+  "col": [
+   "yasayı ihlal etmek",
+   "anlaşmayı ihlal etmek",
+   "insan haklarını ihlal etmek",
+   "birinin mahremiyetini ihlal etmek"
+  ],
+  "tip": "Geçişli bir fiildir; ihlal edilen şey doğrudan nesne olur. 'Violate against' gibi edat eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "cultivate",
+  "senses": [
+   "ekip biçmek; yetiştirmek",
+   "geliştirmek; beslemek"
+  ],
+  "ex": [
+   "Büyükannem ve büyükbabam evlerinin arkasındaki küçük bahçede sebze yetiştiriyor.",
+   "Okullar, öğrencileri soru sormaya ve pratik sorunlara farklı çözümler aramaya teşvik ederek merakı beslemelidir."
+  ],
+  "col": [
+   "ürün yetiştirmek",
+   "toprağı işlemek",
+   "bir ilgi geliştirmek",
+   "ilişkileri geliştirmek"
+  ],
+  "tip": "Hem tarımda bitki yetiştirmek hem de bilinçli olarak bir beceri, ilgi ya da ilişki geliştirmek anlamına gelir. Cultivate an interest in şeklinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "elaboration",
+  "senses": [
+   "ayrıntılandırma; açıklama"
+  ],
+  "ex": [
+   "Planın umut verici görünüyor ama biraz daha ayrıntıya ihtiyacı var.",
+   "Önerilen ulaşım politikası hakkında daha fazla açıklama, sakinlerin günlük yolculuklarının nasıl değişebileceğini anlamalarına yardımcı olurdu."
+  ],
+  "col": [
+   "daha fazla ayrıntı",
+   "bir nokta hakkında açıklama",
+   "ayrıntıya girmeden"
+  ],
+  "tip": "Bir konuyu açıklarken elaboration on kalıbı kullanılır. Fiili elaborate'tir ve elaborate on 'ayrıntılandırmak' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "slender",
+  "senses": [
+   "narin; ince",
+   "az; kıt"
+  ],
+  "ex": [
+   "Bir kuşun ağırlığı altında ince bir dal eğildi.",
+   "Küçük işletmeler genellikle dar kâr marjlarıyla çalışır; bu da onları enerji maliyetlerindeki artışa karşı özellikle savunmasız kılar."
+  ],
+  "col": [
+   "narin bir vücut",
+   "ince parmaklar",
+   "zayıf bir ihtimal",
+   "dar bir çoğunluk"
+  ],
+  "tip": "İnsan vücudu için olumlu bir anlam taşır. Chance veya majority ile kullanıldığında ise az ve kıt olduğunu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "placard",
+  "senses": [
+   "afiş; pankart"
+  ],
+  "ex": [
+   "Kalabalık meydanda elle yapılmış bir pankart taşıdı.",
+   "Sakinler, mahallelerinde daha güvenli bisiklet yolları talep etmek için belediye binasının önünde pankartlar açtı."
+  ],
+  "col": [
+   "pankart taşımak",
+   "pankart kaldırmak",
+   "protesto pankartı"
+  ],
+  "tip": "Genellikle gösteri ve protestolarda taşınan büyük bir pankarttır. Küçük kağıt afişler için poster sözcüğü daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "nostalgia",
+  "senses": [
+   "nostalji; özlem"
+  ],
+  "ex": [
+   "O eski şarkı bana okul yıllarımın özlemini hissettiriyor.",
+   "Nostalji, topluluklara modern gelişmeler daha fazla kolaylık vaat etse bile tarihi binaları koruma konusunda ilham verebilir."
+  ],
+  "col": [
+   "geçmişe duyulan özlem",
+   "nostalji dalgası",
+   "nostalji uyandırmak"
+  ],
+  "tip": "Genellikle sayılmaz. Özlenen dönem veya şey nostalgia for ile belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "antagonist",
+  "senses": [
+   "rakip; düşman",
+   "karşıt karakter"
+  ],
+  "ex": [
+   "Dedektif sonunda boş tiyatroda rakibiyle yüzleşti.",
+   "Birçok romanda karşıt karakter, ana karakterin fiziksel güvenliğini tehdit etmekten çok değerlerine meydan okur."
+  ],
+  "col": [
+   "güçlü bir rakip",
+   "ana karşıt karakter",
+   "siyasi bir rakip"
+  ],
+  "tip": "Hikâyede ana karaktere karşı çıkan kişidir. Mutlaka kötü adam anlamına gelmez; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "nullify",
+  "senses": [
+   "geçersiz kılmak",
+   "etkisiz kılmak; yok etmek"
+  ],
+  "ex": [
+   "Bu eksik imza kiralama sözleşmesinin tamamını geçersiz kılabilir.",
+   "Artan enerji tüketimi, endüstriyel verimlilikteki iyileştirmelerle elde edilen çevresel kazançları yok edebilir."
+  ],
+  "col": [
+   "sözleşmeyi geçersiz kılmak",
+   "kararı iptal etmek",
+   "kazançları yok etmek"
+  ],
+  "tip": "Hukuki bağlamda belgeyi veya kararı geçersiz kılmak, genel bağlamda ise bir şeyin etkisini ortadan kaldırmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "anatomy",
+  "senses": [
+   "anatomi",
+   "vücut yapısı"
+  ],
+  "ex": [
+   "Kalbin plastik bir modelini kullanarak anatomi çalıştık.",
+   "İnsan anatomisini iyi bilmek, tıp öğrencilerinin yaralanmaların hareketi nasıl etkilediğini anlamasına yardımcı olur."
+  ],
+  "col": [
+   "insan anatomisi",
+   "anatomi çalışmak",
+   "karşılaştırmalı anatomi"
+  ],
+  "tip": "Anatomy yapıyı, physiology ise işleyişi inceler. Bu iki sözcüğü birbirinin yerine kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "outright",
+  "senses": [
+   "doğrudan; kesinlikle",
+   "peşin; tamamen",
+   "tam; açık"
+  ],
+  "ex": [
+   "Ev sahibim, hiç tartışmadan isteğimi doğrudan reddetti.",
+   "Şehirler özel araçları tamamen yasaklamak yerine, sakinleri güvenilir ve uygun fiyatlı toplu taşımayı kullanmaya teşvik edebilir."
+  ],
+  "col": [
+   "doğrudan reddetmek",
+   "peşin satın almak",
+   "açık bir yasak",
+   "apaçık bir yalan"
+  ],
+  "tip": "Buy outright, bir şeyi taksitsiz ve tamamen kendi mülkü olarak peşin almak demektir. Sıfat olarak genellikle isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "unthinkable",
+  "senses": [
+   "düşünülemez; akla gelmez"
+  ],
+  "ex": [
+   "Taşınma sırasında köpeğimizi geride bırakmak düşünülemezdi.",
+   "Birçok topluluk için tek yerel hastanenin kapatılması düşünülemez; çünkü sakinler bu hizmetlere bağımlıdır."
+  ],
+  "col": [
+   "akla gelmez bir fikir",
+   "daha önce düşünülemez",
+   "düşünülemez sonuçlar"
+  ],
+  "tip": "Unlikely'den daha güçlü bir ifadedir; kesinlikle kabul edilemez anlamı taşır. Genellikle olumsuz bağlamlarda kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "trespass",
+  "senses": [
+   "izinsiz girmek; ihlal etmek",
+   "izinsiz giriş"
+  ],
+  "ex": [
+   "Lütfen fotoğraf çekmek için çiftliğe izinsiz girmeyin.",
+   "Korunan yaşam alanlarının etrafındaki net sınırlar izinsiz girişleri azaltabilir ve yuvalayan kuşların rahatsız edilmesini önleyebilir."
+  ],
+  "col": [
+   "özel mülke izinsiz girmek",
+   "birinin arazisine izinsiz girmek"
+  ],
+  "tip": "Bir yere izinsiz girmek için trespass on kullanılır. Bu, sıradan bir hata değil, mülk sahibinin iznine dayanan hukuki bir durumdur.",
+  "note": ""
+ }
+]

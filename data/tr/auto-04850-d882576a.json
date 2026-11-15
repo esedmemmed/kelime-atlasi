@@ -1,0 +1,275 @@
+[
+ {
+  "id": "ambitious",
+  "senses": [
+   "hırslı; azimli",
+   "zorlu; iddialı"
+  ],
+  "ex": [
+   "Hırslı kız kardeşim kendi pastanesini açmayı umuyor.",
+   "Şehir, on yıl içinde tüm dizel otobüsleri elektrikli araçlarla değiştirmeyi hedefleyen iddialı bir plan açıkladı."
+  ],
+  "col": [
+   "hırslı hedefler",
+   "iddialı plan",
+   "son derece iddialı",
+   "hırslı genç insanlar"
+  ],
+  "tip": "Kişi için hırslı, plan için iddialı ya da büyük ölçekli anlamında kullanılır. Plan için iddialı karşılığı daha doğaldır.",
+  "note": ""
+ },
+ {
+  "id": "fulfil",
+  "senses": [
+   "yerine getirmek; tutmak",
+   "karşılamak; uygun olmak",
+   "gerçekleştirmek"
+  ],
+  "ex": [
+   "Sözünü tuttu ve bisikletimi tamir etti.",
+   "Halk kütüphaneleri, bilgiye ve öğrenme kaynaklarına ücretsiz erişim sağlayarak önemli bir toplumsal rol üstlenir."
+  ],
+  "col": [
+   "bir sözü tutmak",
+   "gereksinimleri karşılamak",
+   "potansiyelini gerçekleştirmek",
+   "bir hayali gerçekleştirmek"
+  ],
+  "tip": "İngiliz yazımı fulfil, Amerikan yazımı fulfill'dir. Geçmiş zaman her ikisinde de fulfilled olur. IELTS'te İngiliz yazımı tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "specialist",
+  "senses": [
+   "uzman; branş doktoru",
+   "uzmanlık gerektiren; özel"
+  ],
+  "ex": [
+   "Doktorum beni bir cilt uzmanına yönlendirdi.",
+   "Okullar, dil gelişiminde zorluk yaşayan çocukları desteklemek için bir uzman görevlendirmelidir."
+  ],
+  "col": [
+   "...alanında uzman",
+   "bir uzmana görünmek",
+   "uzmanlık bilgisi",
+   "uzmanlık eğitimi"
+  ],
+  "tip": "Alan belirtmek için in edatı kullanılır: a specialist in cardiology. Sıfat olarak da isimleri niteler: specialist knowledge.",
+  "note": ""
+ },
+ {
+  "id": "fatal",
+  "senses": [
+   "ölümcül; öldürücü",
+   "yıkıcı; felaket getiren"
+  ],
+  "ex": [
+   "Yabani mantarlar yenirse ölümcül olabilir.",
+   "Okul yakınlarındaki düşük hız sınırları, yayaların ve bisikletlilerin karıştığı ölümcül kazaların riskini azaltabilir."
+  ],
+  "col": [
+   "ölümcül kaza",
+   "ölümcül yaralanma",
+   "yıkıcı kusur",
+   "sonunda felakete yol açmak"
+  ],
+  "tip": "fatal ölüm ya da tam bir başarısızlık anlamında kullanılır. Önemli sonuçları olan anlamında fateful kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "novelist",
+  "senses": [
+   "romancı; roman yazarı"
+  ],
+  "ex": [
+   "Romancı her sabah mutfak masasında yazı yazarak vakit geçirir.",
+   "Yetenekli bir romancı, deneyimleri okurlarınkinden çok farklı olan karakterler aracılığıyla toplumsal eşitsizlikleri ortaya koyabilir."
+  ],
+  "col": [
+   "tarihî romancı",
+   "en çok satan romancı",
+   "romancı olmayı hedefleyen"
+  ],
+  "tip": "novelist uzun kurgu yazarını, novel ise romanın kendisini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "fossil",
+  "senses": [
+   "fosil"
+  ],
+  "ex": [
+   "Kayanın içinde küçük bir deniz kabuğu fosili bulduk.",
+   "Fosil kanıtları, bilim insanlarının hayvanların milyonlarca yıl boyunca çevresel değişimlere nasıl uyum sağladığını anlamasına yardımcı olur."
+  ],
+  "col": [
+   "fosil yakıtlar",
+   "fosil kayıtları",
+   "fosil kanıtı"
+  ],
+  "tip": "fossil fuels, kömür, petrol ve doğal gaz gibi fosil yakıtları ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "eyesight",
+  "senses": [
+   "görme gücü; görüş"
+  ],
+  "ex": [
+   "Büyükbabam hâlâ gözlük takmadan mükemmel görüyor.",
+   "Düzenli göz muayeneleri, tedavi edilmezse görme gücüne zarar verebilecek durumları belirleyebilir."
+  ],
+  "col": [
+   "zayıf görme",
+   "iyi görme",
+   "görme gücüne zarar vermek"
+  ],
+  "tip": "Sayılamayan bir isimdir; an eyesight demeyin. Cümlede my eyesight is poor gibi tekil ve sayılamaz biçimde kullanın.",
+  "note": ""
+ },
+ {
+  "id": "flaw",
+  "senses": [
+   "kusur; eksiklik",
+   "kusurlu kılmak; zarar vermek"
+  ],
+  "ex": [
+   "Cam kasede küçük bir kusur fark ettim.",
+   "Araştırma tasarımındaki büyük bir kusur, öğrenci performansına ilişkin sonuçları daha az güvenilir kılıyor."
+  ],
+  "col": [
+   "temel bir kusur",
+   "tasarım hatası",
+   "ölümcül kusur",
+   "argümandaki bir açık"
+  ],
+  "tip": "Sayılabilir isimdir: a flaw. Bir şeyin kusurunu belirtmek için a flaw in sth kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "overdue",
+  "senses": [
+   "vadesi geçmiş; gecikmiş",
+   "çoktan olması gereken"
+  ],
+  "ex": [
+   "Yatağımın altında süresi geçmiş bir kütüphane kitabı buldum.",
+   "Kırsal toplu taşımaya yapılacak yatırım çoktan yapılmalıydı; çünkü birçok sakin hâlâ güvenilir hizmetten yoksun."
+  ],
+  "col": [
+   "vadesi geçmiş ödeme",
+   "süresi geçmiş kütüphane kitabı",
+   "çoktan gecikmiş"
+  ],
+  "tip": "long overdue, yalnızca gecikmeyi değil, bir şeyin çok önceden olması gerektiğini vurgular.",
+  "note": ""
+ },
+ {
+  "id": "instruct",
+  "senses": [
+   "talimat vermek; emretmek",
+   "öğretmek; eğitmek"
+  ],
+  "ex": [
+   "Rehber bizden patikada kalmamızı istedi.",
+   "Okullar, acil durumlarda güvenle müdahale edebilmeleri için öğrencilere temel ilk yardım eğitimi vermelidir."
+  ],
+  "col": [
+   "birine bir şey yapmasını emretmek",
+   "birine bir konuda öğretmek",
+   "personele talimat vermek"
+  ],
+  "tip": "instruct sb to do talimat vermek anlamına gelir; instruct sb in sth ise öğretmek anlamına gelir. Edatlar farklı anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "urban",
+  "senses": [
+   "kentsel; şehirle ilgili"
+  ],
+  "ex": [
+   "Kentsel bahçemiz iki yüksek apartman binasının arasında yer alıyor.",
+   "Hızlı kentleşme, toplu taşıma, konut ve temel hizmetler üzerindeki baskıyı artırabilir."
+  ],
+  "col": [
+   "kentsel gelişim",
+   "kentsel alanlar",
+   "kentsel planlama",
+   "kentsel nüfus"
+  ],
+  "tip": "urban şehirle, rural ise kırsalla ilgilidir. Bu iki sözcük birbirinin zıttı olarak sıkça birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "announcer",
+  "senses": [
+   "spiker; anons yapan kişi"
+  ],
+  "ex": [
+   "Spiker yolculara çantalarını yanlarında tutmalarını hatırlattı.",
+   "Yetenekli bir spiker, acil durum yayınlarını daha net hâle getirerek halkın sakin ve uygun biçimde tepki vermesini sağlayabilir."
+  ],
+  "col": [
+   "radyo spikeri",
+   "televizyon spikeri",
+   "stadyum anonsçusu"
+  ],
+  "tip": "announcer yayın ya da anons yapan kişidir; journalist ise haber toplayıp yazan gazetecidir.",
+  "note": ""
+ },
+ {
+  "id": "flatten",
+  "senses": [
+   "düzleştirmek; düzleşmek",
+   "yerle bir etmek; yıkmak"
+  ],
+  "ex": [
+   "Hamuru avuç içinizle nazikçe yassılaştırın.",
+   "Geliştiriciler bazen mevcut binaları yenilemek yerine yerle bir eder; bu da inşaat atığını artırır ve yerel mirası yok eder."
+  ],
+  "col": [
+   "hamuru yassılaştırmak",
+   "bir binayı yerle bir etmek",
+   "düzleşip durulmak"
+  ],
+  "tip": "flatten out fiyat ya da grafik gibi şeylerin dengelenmesini, yatay seyre girmesini de anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "invoice",
+  "senses": [
+   "fatura; ödeme belgesi",
+   "fatura kesmek; fatura göndermek"
+  ],
+  "ex": [
+   "Tesisatçı lavaboyu tamir ettikten sonra e-posta ile fatura gönderdi.",
+   "Küçük işletmeler, her faturayı takip eden ve ödeme zamanı yaklaştığında müşterilere hatırlatma yapan dijital sistemlerden yararlanır."
+  ],
+  "col": [
+   "fatura düzenlemek",
+   "faturayı ödemek",
+   "ödenmemiş fatura",
+   "birinden bir şey için fatura kesmek"
+  ],
+  "tip": "invoice genellikle ödeme talebi içeren belgedir; receipt ise ödemenin yapıldığını gösteren makbuzdur.",
+  "note": ""
+ },
+ {
+  "id": "scholarship",
+  "senses": [
+   "burs; bursluluk",
+   "akademik çalışma; ilim"
+  ],
+  "ex": [
+   "Bir burs, Ravi'nin üniversite eğitimini ödemesine yardımcı oldu.",
+   "Üniversiteler, mali kaynakları sınırlı ailelerden gelen yetenekli başvuru sahiplerine daha fazla burs sunmalıdır."
+  ],
+  "col": [
+   "burs kazanmak",
+   "tam burs",
+   "akademik burs"
+  ],
+  "tip": "Burs anlamında sayılabilir (a scholarship, scholarships); akademik çalışma veya bilgi anlamında sayılamaz.",
+  "note": ""
+ }
+]

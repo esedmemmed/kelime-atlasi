@@ -1,0 +1,280 @@
+[
+ {
+  "id": "dimension",
+  "senses": [
+   "yön; boyut",
+   "ölçü; boyut",
+   "uzay boyutu"
+  ],
+  "ex": [
+   "Birlikte yemek pişirmek arkadaşlığımıza yeni bir boyut kattı.",
+   "Kentsel planlamanın toplumsal bir boyutu vardır; mahallelerin tasarımı sakinlerin ne sıklıkla etkileşimde bulunduğunu etkileyebilir."
+  ],
+  "col": [
+   "toplumsal boyut",
+   "yeni bir boyut katmak",
+   "fiziksel ölçüler",
+   "üç boyutlu olarak"
+  ],
+  "tip": "Uzunluk, genişlik ve yükseklik gibi fiziksel ölçülerden söz ederken genellikle çoğul dimensions kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "thus",
+  "senses": [
+   "bu yüzden; dolayısıyla",
+   "bu şekilde; böylece"
+  ],
+  "ex": [
+   "Yol sel nedeniyle kapalıydı; bu yüzden başka bir güzergâh seçtik.",
+   "Daha iyi toplu taşıma, özel araç bağımlılığını azaltabilir; böylece emisyonları düşürür ve kentsel trafik sıkışıklığını hafifletir."
+  ],
+  "col": [
+   "maliyetleri düşürerek",
+   "böylece mümkün kılmak",
+   "şimdiye kadar"
+  ],
+  "tip": "Thus bir zarftır, bağlaç değildir. İki bağımsız cümleyi yalnızca virgülle birleştirmek hatalıdır; noktalı virgül veya yeni cümle kullanın.",
+  "note": ""
+ },
+ {
+  "id": "textile",
+  "senses": [
+   "tekstil ürünü; kumaş",
+   "tekstil; dokuma"
+  ],
+  "ex": [
+   "Pazar tezgâhı perde yapmak için renkli kumaşlar satıyor.",
+   "Tekstil endüstrisi, daha temiz üretim yöntemleri benimseyip atık suyu etkili biçimde arıtarak su kirliliğini azaltabilir."
+  ],
+  "col": [
+   "tekstil endüstrisi",
+   "tekstil üretimi",
+   "tekstil atığı",
+   "tekstil fabrikası"
+  ],
+  "tip": "Farklı kumaş türlerinden söz ederken çoğul textiles kullanılır. Sıfat olarak da kullanılabilir (textile industry).",
+  "note": ""
+ },
+ {
+  "id": "craftsman",
+  "senses": [
+   "usta; zanaatkâr"
+  ],
+  "ex": [
+   "Usta, sergi için ahşaptan bir kuş oydu.",
+   "Yerel zanaatkârları desteklemek, geleneksel becerileri korurken topluluklara sürdürülebilir bir gelir kaynağı sağlayabilir."
+  ],
+  "col": [
+   "becerikli bir zanaatkâr",
+   "usta zanaatkâr",
+   "geleneksel bir zanaatkâr"
+  ],
+  "tip": "Çoğulu craftsmen'dir. Cinsiyet belirtmeyen karşılık için craftsperson da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "emit",
+  "senses": [
+   "yaymak; salmak"
+  ],
+  "ex": [
+   "Bu küçük lambalar yumuşak ve sıcak bir ışık yayıyor.",
+   "Zararlı gaz salan fabrikalar, halk sağlığı üzerindeki etkisini azaltmak için daha temiz teknoloji kurmalıdır."
+  ],
+  "col": [
+   "ışık yaymak",
+   "radyasyon yaymak",
+   "sera gazı salmak"
+  ],
+  "tip": "Geçmiş zaman emitted, -ing hali emitting'dir; t harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "impatience",
+  "senses": [
+   "sabırsızlık; tahammülsüzlük",
+   "istek; sabırsızlık"
+  ],
+  "ex": [
+   "Kuyruk ilerlemeyince sabırsızlıkla ayağını yere vurdu.",
+   "Güvenilmez toplu taşımaya karşı artan sabırsızlık, yolcuları özel araç kullanmaya yöneltebilir ve trafik sıkışıklığını artırabilir."
+  ],
+  "col": [
+   "gecikmelere karşı sabırsızlık",
+   "sabırsızlık göstermek",
+   "artan sabırsızlık",
+   "sabırsızlıkla"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Bir kişiye ya da duruma karşı sabırsızlık için with kullanılır (impatience with delays).",
+  "note": ""
+ },
+ {
+  "id": "organic",
+  "senses": [
+   "organik; doğal",
+   "organik; karbonlu",
+   "kendiliğinden; doğal"
+  ],
+  "ex": [
+   "Kadın yakındaki bir çiftlikten organik havuç alıyor.",
+   "Organik tarım biyoçeşitliliği destekleyebilir; ancak daha düşük verimi, gıda üretimi için daha fazla arazi gerektirebilir."
+  ],
+  "col": [
+   "organik gıda",
+   "organik tarım",
+   "organik madde",
+   "kademeli büyüme"
+  ],
+  "tip": "Gıda bağlamında organik genellikle yapay gübre ve pestisit kullanılmadan üretimi anlatır; kimyada ise karbon içeren maddeleri belirtir.",
+  "note": ""
+ },
+ {
+  "id": "dismiss",
+  "senses": [
+   "önemsememek; yok saymak",
+   "işten çıkarmak",
+   "göndermek; dağıtmak"
+  ],
+  "ex": [
+   "Ayrıntıları duymadan fikrini önemsiz görme.",
+   "Hükümetler, sanayi genişlemesinin uzun vadeli çevresel etkilerine ilişkin kamuoyu kaygılarını göz ardı etmemelidir."
+  ],
+  "col": [
+   "kaygıları önemsememek",
+   "bir fikri reddetmek",
+   "birini işten çıkarmak",
+   "bir şeyi alakasız sayarak bir kenara atmak"
+  ],
+  "tip": "'Dismiss A as B' kalıbı, A'yı B olarak görüp dikkate almamak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "immigration",
+  "senses": [
+   "göç; yerleşme",
+   "sınır kontrolü; göçmenlik"
+  ],
+  "ex": [
+   "Uçaktan indikten sonra pasaportlarımızı göçmenlik kontrolünde gösterdik.",
+   "Göç, özellikle yeni gelenler dil eğitimi ve iş desteği aldığında işgücü açığını gidermeye yardımcı olabilir."
+  ],
+  "col": [
+   "göç politikası",
+   "göç kontrolü",
+   "göçmenlik memuru",
+   "göçmenlik kontrolünden geçmek"
+  ],
+  "tip": "Immigration, bir ülkeye yerleşmek için gelişi; emigration ise bir ülkeden ayrılıp gidişi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "stake",
+  "senses": [
+   "pay; çıkar",
+   "kazık; sivri direk",
+   "bahse girmek; riske atmak"
+  ],
+  "ex": [
+   "Kız kardeşinin pastanesinde küçük bir pay satın aldı.",
+   "Kentsel planlama kararları yaşam kalitesini doğrudan etkilediğinden, sakinlerin planlamada çıkarları vardır."
+  ],
+  "col": [
+   "bir şeyde payı olmak",
+   "tehlikede",
+   "hak iddia etmek",
+   "itibarını ortaya koymak"
+  ],
+  "tip": "Have a stake in bir konuda çıkarı olmak; at stake ise bir şeyin riske girmesi anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "forth",
+  "senses": [
+   "ileri; dışarı"
+  ],
+  "ex": [
+   "Yavru kedi mutfakta ileri geri koşuşturdu.",
+   "Sakinler, maliyetleri önemli ölçüde artırmadan toplu taşımayı iyileştirmek için birkaç pratik öneri ortaya koydu."
+  ],
+  "col": [
+   "ileri geri",
+   "bir öneri ortaya koymak",
+   "ortaya koymak; belirtmek",
+   "vesaire"
+  ],
+  "tip": "Çoğunlukla sabit kalıplarda kullanılır. 'Dördüncü' anlamındaki fourth ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "volt",
+  "senses": [
+   "volt"
+  ],
+  "ex": [
+   "Bu küçük pil yalnızca bir buçuk volt veriyor.",
+   "Mühendisler, evler ve fabrikalar için güvenli ve verimli sistemler tasarlarken elektriksel potansiyel farkını voltla ölçer."
+  ],
+  "col": [
+   "voltla ölçmek",
+   "on iki voltluk pil",
+   "beş voltluk gerilim"
+  ],
+  "tip": "Volt, elektriksel potansiyel farkını (gerilimi) ölçer; güç birimi ise watt'tır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "fertilizer",
+  "senses": [
+   "gübre"
+  ],
+  "ex": [
+   "Domates bitkilerinin büyümesine yardımcı olması için gübre ekledik.",
+   "Aşırı kimyasal gübre kullanımı yakındaki nehirleri kirletebilir ve onlara bağlı ekosistemlere zarar verebilir."
+  ],
+  "col": [
+   "kimyasal gübre",
+   "organik gübre",
+   "gübre uygulamak"
+  ],
+  "tip": "Genel anlamda sayılamayan bir isimdir. İngiliz İngilizcesinde yazımı fertiliser şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "publication",
+  "senses": [
+   "yayımlama; yayın",
+   "yayın; yayımlanmış eser"
+  ],
+  "ex": [
+   "İlk yemek kitabı gelecek ay yayımlanmaya hazır.",
+   "Araştırma bulgularının yayımlanması, diğer bilim insanlarının kanıtları değerlendirmesine ve yeni kuramlar geliştirmesine olanak tanır."
+  ],
+  "col": [
+   "yayın tarihi",
+   "bulguların yayımlanması",
+   "akademik yayın"
+  ],
+  "tip": "Yayımlama eylemi anlamında sayılamaz; belirli bir yayını, eseri anlatırken sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "beam",
+  "senses": [
+   "ışın; huzme",
+   "kiriş; direk",
+   "yüzü gülmek"
+  ],
+  "ex": [
+   "Mutfak masasının üzerine güneş ışığı huzmesi düştü.",
+   "Mühendisler, eski köprüyü güçlendirmek ve yerel sakinler için güvenliği artırmak amacıyla çelik kirişler kullandı."
+  ],
+  "col": [
+   "bir ışık huzmesi",
+   "çelik kiriş",
+   "gururla gülümsemek"
+  ],
+  "tip": "Işın ve kiriş anlamlarında sayılabilir. Beam at sb ise birine gülümsemek, yüzü aydınlanmak demektir.",
+  "note": ""
+ }
+]

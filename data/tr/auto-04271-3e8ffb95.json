@@ -1,0 +1,280 @@
+[
+ {
+  "id": "advance",
+  "senses": [
+   "ilerleme; gelişme",
+   "ilerlemek; geliştirmek",
+   "önceden yapılan; peşin"
+  ],
+  "ex": [
+   "Bu yeni tedavi, tıptaki büyük bir ilerlemedir.",
+   "Yenilenebilir enerji teknolojisindeki gelişmeler, fosil yakıtlara bağımlılığı azaltabilir ve uzun vadeli enerji güvenliğini artırabilir."
+  ],
+  "col": [
+   "büyük bir ilerleme",
+   "önceden; peşin olarak",
+   "önceden bildirim",
+   "önceden edinilmiş bilgi"
+  ],
+  "tip": "in advance 'önceden' anlamına gelir; advanced ise 'ileri düzeyde' ya da 'gelişmiş' anlamına gelir, bu ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "independence",
+  "senses": [
+   "bağımsızlık; özerklik",
+   "ulusal bağımsızlık"
+  ],
+  "ex": [
+   "Yemek pişirmeyi öğrenmek ona bağımsızlık duygusu verdi.",
+   "Erişilebilir konutlar, yaşlı insanların yerel topluluklarla bağlantılarını sürdürürken bağımsızlıklarını korumalarına yardımcı olabilir."
+  ],
+  "col": [
+   "mali bağımsızlık",
+   "bağımsızlık kazanmak",
+   "bağımsızlığını korumak",
+   "-den bağımsızlık"
+  ],
+  "tip": "Genellikle sayılamaz. independence from, birinden ya da bir şeyden bağımlı olmama anlamında kullanılır; dependence ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "scorching",
+  "senses": [
+   "kavurucu; çok sıcak"
+  ],
+  "ex": [
+   "Kavurucu sıcakta bir ağacın altına sığındık.",
+   "Giderek sıklaşan kavurucu hava dönemleri ürün verimini tehdit ediyor ve su kaynakları üzerindeki baskıyı artırıyor."
+  ],
+  "col": [
+   "kavurucu sıcak",
+   "kavurucu derecede sıcak",
+   "kavurucu bir yaz"
+  ],
+  "tip": "Zaten 'çok sıcak' anlamı taşıdığı için genellikle very ile kullanılmaz; scorching hot biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "liquor",
+  "senses": [
+   "sert alkollü içki"
+  ],
+  "ex": [
+   "Restoran sert içkilerini kilitli bir dolapta saklıyor.",
+   "Hükümetler, aşırı tüketimi caydırmak ve halk sağlığını korumak için içkiye genellikle daha yüksek vergi uygular."
+  ],
+  "col": [
+   "sert içki",
+   "içki ruhsatı",
+   "içki satış dükkânı"
+  ],
+  "tip": "liquor sert alkollü içkiyi anlatır; liqueur ise aromalı, genellikle tatlı likörü ifade eder. Yazım ve anlamı farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "selection",
+  "senses": [
+   "seçme; seçim",
+   "seçilebilir çeşitler",
+   "seçki; derleme"
+  ],
+  "ex": [
+   "Bu küçük fırında taze ekmek çeşitliliği harika.",
+   "Şeffaf seçme prosedürleri, üniversitelerin çok farklı geçmişlerden gelen başvuru sahiplerine adil biçimde yer vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "seçme ölçütleri",
+   "geniş bir yelpaze",
+   "seçme süreci",
+   "doğal seçilim"
+  ],
+  "tip": "Süreç anlamında genellikle sayılamaz; bir grup seçenek ya da derleme anlamında sayılabilir (a selection).",
+  "note": ""
+ },
+ {
+  "id": "outwards",
+  "senses": [
+   "dışa doğru; dışarıya doğru"
+  ],
+  "ex": [
+   "Pencereler dışarıya doğru açılıyor, bu yüzden balkonu boş tutun.",
+   "Şehirler dışa doğru genişledikçe çevredeki tarım arazileri genellikle yok oluyor ve gıda güvenliği ile yaşam alanı kaybı konusunda kaygılar doğuyor."
+  ],
+  "col": [
+   "dışa doğru açılmak",
+   "dışa doğru yayılmak",
+   "dışarıya bakmak",
+   "dışa doğru genişlemek"
+  ],
+  "tip": "outwards bir zarftır. İsmin önünde sıfat olarak outward kullanılır (outward journey gibi).",
+  "note": ""
+ },
+ {
+  "id": "estimation",
+  "senses": [
+   "tahmin; kestirim",
+   "kanı; değerlendirme"
+  ],
+  "ex": [
+   "Benim tahminime göre üç sandalyeye daha ihtiyacımız var.",
+   "İnşaat maliyetlerinin doğru tahmin edilmesi, yerel yönetimlerin tamamlanmamış projelere kamu kaynağı harcamasını önlemeye yardımcı olur."
+  ],
+  "col": [
+   "maliyet tahmini",
+   "kaba tahmin",
+   "benim tahminime göre"
+  ],
+  "tip": "Tahmin sürecini ya da genel bir değerlendirmeyi anlatır; belirli bir fiyat teklifi için genellikle estimate kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "tobacco",
+  "senses": [
+   "tütün; tütün yaprağı"
+  ],
+  "ex": [
+   "Çiftçi tütün yapraklarını ahşap bir ahırın içinde astı.",
+   "Tütün ürünlerine konulan yüksek vergiler sigara içmeyi caydırabilir ve halk sağlığı programları için gelir sağlayabilir."
+  ],
+  "col": [
+   "tütün ürünleri",
+   "tütün sektörü",
+   "tütün tarımı",
+   "tütünle mücadele"
+  ],
+  "tip": "Genellikle sayılamaz. Tek bir yaprak için a tobacco leaf denir.",
+  "note": ""
+ },
+ {
+  "id": "panel",
+  "senses": [
+   "uzman heyeti; jüri",
+   "kaplama levha",
+   "kontrol paneli"
+  ],
+  "ex": [
+   "Heyet, her öğrenci bir fikir sunarken dikkatle dinledi.",
+   "Bağımsız bir uzman kurulu, büyük inşaat projeleri başlamadan önce çevresel etkilerini değerlendirmelidir."
+  ],
+  "col": [
+   "uzman heyeti",
+   "jüri heyeti",
+   "kontrol paneli",
+   "ahşap kaplama"
+  ],
+  "tip": "Uzman kurulu için a panel of experts denir. Üyelerine panellist adı verilir.",
+  "note": ""
+ },
+ {
+  "id": "ceramic",
+  "senses": [
+   "seramik",
+   "seramik; seramik ürün"
+  ],
+  "ex": [
+   "Taze çiçekleri mavi seramik bir vazoda tutuyor.",
+   "Seramik karolar dayanıklı ve temizlemesi nispeten kolay olduğu için kamu binalarında yaygın olarak kullanılır."
+  ],
+  "col": [
+   "seramik karolar",
+   "seramik kase",
+   "seramik kaplama",
+   "seramik malzemeler"
+  ],
+  "tip": "ceramics hem seramik ürünleri hem de seramik sanatını ifade edebilir; sıfat olarak ceramic kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "insignificant",
+  "senses": [
+   "önemsiz; küçük"
+  ],
+  "ex": [
+   "Çizik, kırık pencereyle karşılaştırıldığında önemsiz kalıyor.",
+   "Bireysel tasarruflar önemsiz görünse de enerji kullanımındaki yaygın azalmalar önemli çevresel faydalar sağlayabilir."
+  ],
+  "col": [
+   "önemsiz bir miktar",
+   "önemsiz görünmek",
+   "istatistiksel olarak anlamsız"
+  ],
+  "tip": "Etkisinin az ya da önemsiz olduğunu vurgular; meaningless (anlamsız) ile aynı değildir.",
+  "note": ""
+ },
+ {
+  "id": "bless",
+  "senses": [
+   "kutsamak; dua etmek",
+   "nasip etmek"
+  ],
+  "ex": [
+   "Rahip, aileyi yolculuklarından önce kutsamak için durdu.",
+   "Bol güneş ışığıyla nimetlenmiş bölgeler, artan elektrik ihtiyacının önemli bir kısmını karşılamak için güneş enerjisinden yararlanabilir."
+  ],
+  "col": [
+   "birini kutsamak",
+   "-e sahip olmak",
+   "çok yaşa"
+  ],
+  "tip": "be blessed with, bir şeye sahip olmanın şanslı olduğunu anlatır (be blessed with good health gibi).",
+  "note": ""
+ },
+ {
+  "id": "tragedy",
+  "senses": [
+   "facia; felaket",
+   "trajedi"
+  ],
+  "ex": [
+   "Facianın ardından bütün köy bir araya geldi.",
+   "İyileştirilmiş yol tasarımı ve daha sıkı güvenlik düzenlemeleri, önlenebilir trafik ölümlerinin bir facia olmasını engellemeye yardımcı olabilir."
+  ],
+  "col": [
+   "korkunç bir facia",
+   "bir faciayı önlemek",
+   "facia meydana gelir",
+   "klasik trajedi"
+  ],
+  "tip": "Hem gerçek hayattaki felaketi hem de edebi trajediyi anlatır; ikinci anlamda comedy (komedi) ile karşıt tutulur.",
+  "note": ""
+ },
+ {
+  "id": "assembly",
+  "senses": [
+   "toplantı; toplanma",
+   "montaj; birleştirme",
+   "yasama meclisi"
+  ],
+  "ex": [
+   "Bütün okul, toplantı için salonda bir araya geldi.",
+   "Otomasyon, araç montajı için gereken süreyi azalttı; ancak kalite kontrolü için becerikli işçiler hâlâ vazgeçilmez."
+  ],
+  "col": [
+   "okul toplantısı",
+   "montaj hattı",
+   "yasama meclisi",
+   "toplanma özgürlüğü"
+  ],
+  "tip": "Toplantı anlamında sayılabilir, montaj anlamında genellikle sayılamaz. Yasama organı için a legislative assembly denir.",
+  "note": ""
+ },
+ {
+  "id": "discourage",
+  "senses": [
+   "caydırmak; engellemek",
+   "cesaretini kırmak"
+  ],
+  "ex": [
+   "Şiddetli yağmur bizi dışarıda yürümekten vazgeçirmedi.",
+   "Daha yüksek park ücretleri, yoğun saatlerde işe gidip gelenlerin şehir merkezine araçla girmesini caydırabilir."
+  ],
+  "col": [
+   "birini bir şey yapmaktan caydırmak",
+   "araba kullanımını caydırmak",
+   "cesareti kırılmak"
+  ],
+  "tip": "discourage sb from doing kalıbı kullanılır. from ardından -ing gelir; from to do yapısı yanlıştır.",
+  "note": ""
+ }
+]

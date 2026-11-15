@@ -1,0 +1,281 @@
+[
+ {
+  "id": "highlight",
+  "senses": [
+   "vurgulamak; öne çıkarmak",
+   "en güzel an; doruk nokta",
+   "altını çizmek"
+  ],
+  "ex": [
+   "Tekne turu tatilimizin en güzel anıydı.",
+   "Son çalışmalar, kentsel yaşayanların fiziksel ve zihinsel sağlığı için erişilebilir yeşil alanların önemini vurguluyor."
+  ],
+  "col": [
+   "bir sorunu vurgulamak",
+   "...ın önemini vurgulamak",
+   "gezinin en güzel anı"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: highlight the problem. Araya 'on' ya da 'to' gibi edat eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "bold",
+  "senses": [
+   "cesur; atılgan",
+   "çarpıcı; göze çarpan",
+   "koyu; kalın"
+  ],
+  "ex": [
+   "Kendi fırınını açmak için cesur bir karar verdi.",
+   "Hükümetlerin, yeşil alanları korurken konut sıkıntısını çözmek için cesur politikalara ihtiyacı var."
+  ],
+  "col": [
+   "cesur karar",
+   "çarpıcı renkler",
+   "kalın yazı",
+   "cesur yaklaşım"
+  ],
+  "tip": "'in bold' kalın yazıyla anlamına gelir. Sıfat olarak isimden önce gelir: a bold decision.",
+  "note": ""
+ },
+ {
+  "id": "odds",
+  "senses": [
+   "ihtimal; olasılık",
+   "bahis oranı"
+  ],
+  "ex": [
+   "Anahtarlarımı burada bulma ihtimali düşük.",
+   "Uygun fiyatlı sağlık hizmetine erişim, kronik hastalığı olanların iyileşme şansını artırabilir."
+  ],
+  "col": [
+   "başarı ihtimali",
+   "bütün zorluklara rağmen",
+   "...ile çelişmek",
+   "şansı artırmak"
+  ],
+  "tip": "Genellikle çoğul kullanılır ve of ya da that ile gelir. 'Odd' sözcüğü ise tek ve sıfat anlamına gelir, karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cooperation",
+  "senses": [
+   "iş birliği",
+   "yardım; destek"
+  ],
+  "ex": [
+   "Ortak mutfağı temizlemek herkesin iş birliğini gerektirir.",
+   "Uluslararası iş birliği, tek tek ülkelerin sınırlarını aşan çevre sorunlarıyla başa çıkmak için şarttır."
+  ],
+  "col": [
+   "uluslararası iş birliği",
+   "yakın iş birliği",
+   "...ile iş birliği içinde",
+   "tam destek"
+  ],
+  "tip": "Genellikle sayılmaz, çoğul yapılmaz. 'İle iş birliği içinde' anlamında in cooperation with kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fraction",
+  "senses": [
+   "küçük parça; az miktar",
+   "kesir"
+  ],
+  "ex": [
+   "Bu ceket orijinal fiyatının çok küçük bir kısmına mal oldu.",
+   "Hızla büyüyen bazı şehirlerde evsel atıkların yalnızca küçük bir kısmı geri dönüştürülüyor."
+  ],
+  "col": [
+   "...ın bir kısmı",
+   "küçük bir kısmı",
+   "saniyenin bir kesri",
+   "basit kesir"
+  ],
+  "tip": "'A fraction of' genellikle çok küçük bir oranı belirtir. Matematikte fraction kesir demektir.",
+  "note": ""
+ },
+ {
+  "id": "flexibility",
+  "senses": [
+   "esneklik; uyum",
+   "vücut esnekliği"
+  ],
+  "ex": [
+   "Bu iş, kızımı almak için bana esneklik tanıyor.",
+   "Çalışma saatlerinde daha fazla esneklik, çalışanların mesleki sorumluluklarını aile yükümlülükleriyle dengelemesine yardımcı olabilir."
+  ],
+  "col": [
+   "esneklik sunmak",
+   "daha fazla esneklik",
+   "esnekliği artırmak",
+   "çalışma saatlerinde esneklik"
+  ],
+  "tip": "Hem kurumsal esneklik hem de fiziksel esneklik için kullanılır; anlam bağlama göre değişir. Genellikle sayılmaz.",
+  "note": ""
+ },
+ {
+  "id": "whip",
+  "senses": [
+   "kamçı; kırbaç",
+   "kamçılamak; fırlatmak",
+   "çırpmak"
+  ],
+  "ex": [
+   "Ahırın kapısının yanında eski deri bir kamçı asılıydı.",
+   "Uygulamalı derslerde aşçılık öğrencileri krema çırpmayı ve ticari tatlılara daha sağlıklı alternatifler hazırlamayı öğrenir."
+  ],
+  "col": [
+   "deri kamçı",
+   "krema çırpmak",
+   "aniden çekip çıkarmak",
+   "çabucak yemek hazırlamak"
+  ],
+  "tip": "'Whip cream' krema çırpmak demektir. Son ünsüz ikiye katlanır: whipped, whipping.",
+  "note": ""
+ },
+ {
+  "id": "criticize",
+  "senses": [
+   "eleştirmek"
+  ],
+  "ex": [
+   "Tatmadan önce yemeğimi eleştirme lütfen.",
+   "Birçok sakin, meclisin toplu taşımayı iyileştirmek yerine yol yapımına öncelik vermesini eleştiriyor."
+  ],
+  "col": [
+   "sert biçimde eleştirmek",
+   "birini bir şey yüzünden eleştirmek",
+   "geniş çapta eleştirilmek"
+  ],
+  "tip": "criticize sb for sth kalıbı kullanılır. İngiliz İngilizcesinde criticise biçimi de yazılır.",
+  "note": ""
+ },
+ {
+  "id": "completion",
+  "senses": [
+   "tamamlanma; bitiş"
+  ],
+  "ex": [
+   "Mutfak tadilatımız bu hafta sonunda nihayet tamamlanmak üzere.",
+   "Yeni demiryolunun tamamlanmasının kırsal topluluklarda istihdama erişimi artırması bekleniyor."
+  ],
+  "col": [
+   "tamamlandığında",
+   "tamamlanmak üzere",
+   "başarıyla tamamlama",
+   "bitiş tarihi"
+  ],
+  "tip": "'On completion of' kalıbı 'tamamlandığında, bitince' anlamı verir ve resmi metinlerde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "nonsense",
+  "senses": [
+   "saçmalık; boş laf",
+   "aptalca davranış"
+  ],
+  "ex": [
+   "Uçan bisiklet hakkındaki o hikâye tam bir saçmalık.",
+   "Okullar, öğrencilere güvenilir kanıtı sosyal medya platformlarında dolaşan saçmalıklardan ayırt etmeyi öğretmeli."
+  ],
+  "col": [
+   "saçma sapan konuşmak",
+   "tam bir saçmalık",
+   "bir sürü saçmalık",
+   "saçmalıklara katlanmak"
+  ],
+  "tip": "Genellikle sayılmaz; 'a nonsense' demeyin. 'Nonsense' ya da 'a load of nonsense' kullanın.",
+  "note": ""
+ },
+ {
+  "id": "academy",
+  "senses": [
+   "akademi; özel okul",
+   "akademi; kurum"
+  ],
+  "ex": [
+   "İstasyonun yakınındaki bir dans akademisine gidiyor.",
+   "İyi finanse edilen bir sanat akademisi, yetenekli gençlere başka türlü karşılayamayacakları eğitimi sağlayabilir."
+  ],
+  "col": [
+   "müzik akademisi",
+   "askeri akademi",
+   "bilimler akademisi"
+  ],
+  "tip": "Mesleki eğitim veren kurumlar için de kullanılır; mutlaka üniversite anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "estimate",
+  "senses": [
+   "tahmin etmek",
+   "tahmin; kestirim"
+  ],
+  "ex": [
+   "Onarımların yaklaşık üç gün süreceğini tahmin ediyoruz.",
+   "Araştırmacılar, daha iyi toplu taşımanın şehir merkezlerine giren araba sayısını önemli ölçüde azaltabileceğini tahmin ediyor."
+  ],
+  "col": [
+   "maliyeti tahmin etmek",
+   "kaba bir tahmin",
+   "temkinli bir tahmin",
+   "...olarak tahmin edilmek"
+  ],
+  "tip": "Fiilin sonu /eɪt/, isminki /ət/ okunur. Telaffuz farkı isim ile fiili ayırt etmeye yardımcı olur.",
+  "note": ""
+ },
+ {
+  "id": "critic",
+  "senses": [
+   "eleştirmen",
+   "eleştirici; muhalif"
+  ],
+  "ex": [
+   "Film eleştirmeni genç oyuncunun performansını övdü.",
+   "Kentsel genişlemeye karşı çıkanlar, yeni yapılaşmaların genellikle değerli yaşam alanlarını yok ettiğini savunuyor."
+  ],
+  "col": [
+   "film eleştirmeni",
+   "edebiyat eleştirmeni",
+   "açık sözlü bir eleştirmen"
+  ],
+  "tip": "Critic kişiyi, criticism ise eleştiriyi ya da eleştirme eylemini anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "notable",
+  "senses": [
+   "dikkate değer; önemli",
+   "ünlü; seçkin"
+  ],
+  "ex": [
+   "Balkonu parlak sarı çiçekleriyle dikkat çekiyor.",
+   "Kent, daha sıkı araç standartlarını uygulamaya başladığından beri hava kirliliğinde dikkate değer bir azalma sağladı."
+  ],
+  "col": [
+   "dikkate değer bir başarı",
+   "dikkat çekici bir istisna",
+   "...ile tanınmak"
+  ],
+  "tip": "'Notable for' bir özellikle tanınan anlamına gelir; 'for' edatını atlamayın.",
+  "note": ""
+ },
+ {
+  "id": "sulphur",
+  "senses": [
+   "kükürt"
+  ],
+  "ex": [
+   "Rehber bize yanardağın yakınındaki sarı kükürdü gösterdi.",
+   "Kükürt içeren yakıtların yakılması, asit yağmurlarına katkıda bulunan ve doğal ekosistemlere zarar veren gazlar açığa çıkarır."
+  ],
+  "col": [
+   "kükürt dioksit",
+   "kükürt içeriği",
+   "kükürt yatakları"
+  ],
+  "tip": "İngiliz yazımı sulphur, bilimsel ve Amerikan metinlerinde sulfur biçimi kullanılır. Türkçede karşılığı 'kükürt'tür.",
+  "note": ""
+ }
+]

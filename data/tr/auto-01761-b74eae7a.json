@@ -1,0 +1,271 @@
+[
+ {
+  "id": "flu",
+  "senses": [
+   "grip"
+  ],
+  "ex": [
+   "Grip olduğu için tüm hafta sonunu yatakta geçirdi.",
+   "Yıllık grip aşıları, kış aylarında savunmasız insanları korumaya ve hastanelerdeki yoğunluğu azaltmaya yardımcı olabilir."
+  ],
+  "col": [
+   "grip olmak",
+   "grip belirtileri",
+   "grip aşısı",
+   "grip salgını"
+  ],
+  "tip": "Flu genellikle sayılamaz. 'A flu' demeyin; 'the flu' ya da 'flu' kullanın. 'Have the flu' ve 'have flu' ikisi de geçerlidir.",
+  "note": ""
+ },
+ {
+  "id": "advertisement",
+  "senses": [
+   "reklam"
+  ],
+  "ex": [
+   "İstasyonda bisikletlerle ilgili bir reklam gördüm.",
+   "Genç tüketicilere yönelik reklamlar, gereksiz harcamayı teşvik etmek yerine doğru bilgi vermelidir."
+  ],
+  "col": [
+   "...için reklam",
+   "reklam vermek",
+   "çevrimiçi reklam"
+  ],
+  "tip": "Reklamın konusu 'for' ile bağlanır. 'Advertising' ise reklam faaliyetini anlatır ve sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "hockey",
+  "senses": [
+   "çim hokeyi; buz hokeyi"
+  ],
+  "ex": [
+   "Dün okul sahasında hokey çalıştık.",
+   "Hokey tesislerini daha erişilebilir hale getirmek, gençlerin takım sporlarına katılımını artırabilir."
+  ],
+  "col": [
+   "çim hokeyi",
+   "buz hokeyi",
+   "hokey sopası",
+   "hokey oynamak"
+  ],
+  "tip": "İngiliz İngilizcesinde genellikle çim hokeyi, Amerikan İngilizcesinde ise genellikle buz hokeyi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "accident",
+  "senses": [
+   "kaza",
+   "rastlantı; tesadüf"
+  ],
+  "ex": [
+   "Neyse ki evimizin önündeki kazada kimse yaralanmadı.",
+   "Daha iyi sokak aydınlatması, geceleri bisikletliler ve yayalarla ilgili kaza riskini azaltabilir."
+  ],
+  "col": [
+   "karayolu kazası",
+   "yanlışlıkla",
+   "kazaları önlemek"
+  ],
+  "tip": "'By accident' yanlışlıkla anlamına gelir; karşıtı 'on purpose' (kasten) ifadesidir.",
+  "note": ""
+ },
+ {
+  "id": "speech",
+  "senses": [
+   "konuşma; nutuk",
+   "konuşma yeteneği; dil"
+  ],
+  "ex": [
+   "Leila konuşmasını aynanın önünde prova etti.",
+   "Araştırmacı konuşmasında, yeşil alanlara erişimin çocukların ruh sağlığını nasıl iyileştirebileceğini anlattı."
+  ],
+  "col": [
+   "konuşma yapmak",
+   "ifade özgürlüğü",
+   "konuşma terapisi",
+   "açılış konuşması"
+  ],
+  "tip": "Bir konuşmayı anlatmak için 'a speech' kullanılır; konuşma yeteneği genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "lake",
+  "senses": [
+   "göl"
+  ],
+  "ex": [
+   "Küçük bir tekne kiraladık ve gölü geçtik.",
+   "Tarımsal kirlilik, göl ekosistemlerine zarar verebilir ve içme suyu için bu göllere bağlı olan toplulukları tehdit edebilir."
+  ],
+  "col": [
+   "tatlı su gölü",
+   "tuzlu su gölü",
+   "gölün kıyısı"
+  ],
+  "tip": "Gölün yüzeyinde 'on the lake', göl suyunun içinde 'in the lake' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "paragraph",
+  "senses": [
+   "paragraf"
+  ],
+  "ex": [
+   "Bu paragraf kısa bir e-posta için fazla uzun.",
+   "Akademik bir denemedeki her paragraf, ilgili kanıtlarla desteklenen net bir argüman geliştirmelidir."
+  ],
+  "col": [
+   "giriş paragrafı",
+   "sonuç paragrafı",
+   "kısa bir paragraf"
+  ],
+  "tip": "Sayılabilir isimdir. Yazıda her paragraf genellikle tek bir ana fikre odaklanır; 'a paragraph' kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "chance",
+  "senses": [
+   "fırsat",
+   "ihtimal; olasılık",
+   "tesadüf; şans"
+  ],
+  "ex": [
+   "Bana açıklama yapmak için bir şans daha verir misin?",
+   "Uygun fiyatlı eğitimler, işsiz yetişkinlere yeni beceriler kazanma ve işgücüne geri dönme fırsatı sunar."
+  ],
+  "col": [
+   "öğrenme fırsatı",
+   "iyi bir ihtimal",
+   "tesadüfen",
+   "risk almak"
+  ],
+  "tip": "'Chance to do' fırsat, 'chance of doing' olasılık anlamına gelir. 'By chance' tesadüfen demektir.",
+  "note": ""
+ },
+ {
+  "id": "sightseeing",
+  "senses": [
+   "gezi; turistik gezi"
+  ],
+  "ex": [
+   "Sabahı eski liman çevresinde gezerek geçirdik.",
+   "Turistik geziler, ziyaretçiler topluluktan rehber ve işletme seçtiğinde yerel ekonomileri destekleyebilir."
+  ],
+  "col": [
+   "gezmeye çıkmak",
+   "turistik tur",
+   "gezi otobüsü"
+  ],
+  "tip": "Sayılamaz isimdir. 'Go sightseeing' kalıbında başına 'a' ya da 'the' getirilmez.",
+  "note": ""
+ },
+ {
+  "id": "touch",
+  "senses": [
+   "dokunmak",
+   "dokunma duyusu; temas",
+   "duygulandırmak"
+  ],
+  "ex": [
+   "Lütfen tavaya dokunma; hâlâ sıcak.",
+   "Dijital iletişim, iş ya da okul yüzünden ülkeler arasında ayrı kalan ailelerin birbirleriyle iletişimde kalmasını sağlar."
+  ],
+  "col": [
+   "iletişimde kalmak",
+   "bağlantıyı koparmak",
+   "dokunma duyusu",
+   "derinden etkilenmek"
+  ],
+  "tip": "'Keep in touch with someone' kişiyle iletişimde kalmak demektir; 'with' ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "drawing",
+  "senses": [
+   "çizim; resim",
+   "çizim sanatı; resim yapma"
+  ],
+  "ex": [
+   "Bana kedisinin bir çizimini gösterdi.",
+   "Resim yapmak, çocukların sözlü dille anlatmakta zorlandıkları duyguları ifade etmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "kurşun kalem çizimi",
+   "çizim becerileri",
+   "resim dersi"
+  ],
+  "tip": "Tek bir çizimi anlatırken sayılabilir; çizim etkinliğini anlatırken genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "dessert",
+  "senses": [
+   "tatlı"
+  ],
+  "ex": [
+   "Tatlı olarak bir kase dondurma paylaştık.",
+   "Okul yemekhanelerinde tatlı olarak taze meyve sunmak, çocuklar arasında daha sağlıklı beslenme alışkanlıklarını teşvik edebilir."
+  ],
+  "col": [
+   "tatlı olarak",
+   "tatlı menüsü",
+   "meyveli tatlı"
+  ],
+  "tip": "Sonunda iki 's' vardır ve vurgu sonda gelir. 'Desert' (çöl) ise vurgusu önde olan ayrı bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "canteen",
+  "senses": [
+   "yemekhane; kantin",
+   "matara"
+  ],
+  "ex": [
+   "Genellikle öğle yemeğini okul yemekhanesinde birlikte yeriz.",
+   "İş yerindeki yemekhanede uygun fiyatlı ve sağlıklı yemekler sunmak, çalışanların refahını ve verimliliğini artırabilir."
+  ],
+  "col": [
+   "okul yemekhanesi",
+   "personel yemekhanesi",
+   "yemekhane yemeği",
+   "su matarası"
+  ],
+  "tip": "İngiliz İngilizcesinde yemekhane anlamında kullanılır; Amerikan İngilizcesinde genellikle 'cafeteria' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "builder",
+  "senses": [
+   "inşaat işçisi; müteahhit"
+  ],
+  "ex": [
+   "Usta, kapımızın etrafındaki kırık tuğlaları yenileriyle değiştirdi.",
+   "İnşaatçılar, dayanıklı malzemeler seçerek ve kaynak kullanımını daha dikkatli planlayarak inşaat atıklarını azaltabilir."
+  ],
+  "col": [
+   "yerel müteahhit",
+   "ev inşaatçısı",
+   "usta tutmak"
+  ],
+  "tip": "Hem inşaat işçisini hem de bina yapan şirketi ifade edebilir; cümlenin bağlamına göre çeviri seçin.",
+  "note": ""
+ },
+ {
+  "id": "solve",
+  "senses": [
+   "çözmek"
+  ],
+  "ex": [
+   "Dün akşam yemekten sonra bulmacayı birlikte çözdük.",
+   "Toplu taşımanın iyileştirilmesi, hızla büyüyen kentsel alanlardaki trafik sorunlarını çözmeye yardımcı olabilir."
+  ],
+  "col": [
+   "bir sorunu çözmek",
+   "bir bulmacayı çözmek",
+   "bir denklemi çözmek"
+  ],
+  "tip": "'Solve' doğrudan nesne alır: 'solve a problem' denir, arasına 'of' eklenmez. 'Eritmek' anlamında 'dissolve' kullanılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,274 @@
+[
+ {
+  "id": "herb",
+  "senses": [
+   "baharat otu; şifalı bitki"
+  ],
+  "ex": [
+   "Mutfak penceresinin yanındaki saksılarda taze baharat otları yetiştiriyor.",
+   " Evde bitki yetiştirmek, daha sağlıklı yemek yapmayı teşvik edebilir ve paketli baharatlara olan ihtiyacı azaltabilir."
+  ],
+  "col": [
+   "taze otlar",
+   "kurutulmuş otlar",
+   "şifalı bitkiler",
+   "ot bahçesi"
+  ],
+  "tip": "İngiliz İngilizcesinde h sesi okunur (a herb); Amerikan İngilizcesinde genelde okunmaz, bu yüzden an herb de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "qualify",
+  "senses": [
+   "hak kazanmak; uygun olmak",
+   "mesleki yeterlilik almak",
+   "nitelemek; sınırlamak"
+  ],
+  "ex": [
+   "Finale kalmak için takımımızın bir galibiyete daha ihtiyacı var.",
+   "Düşük gelirli hanelerden gelen öğrenciler, öğrenim ücretlerini ve temel yaşam giderlerini karşılayan mali destek almaya hak kazanabilir."
+  ],
+  "col": [
+   "yardıma hak kazanmak",
+   "öğretmen olarak yeterlilik kazanmak",
+   "bir ifadeyi nitelemek"
+  ],
+  "tip": "qualify for bir hak, fırsat ya da yardım için; qualify as ise bir meslek ya da unvan için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reptile",
+  "senses": [
+   "sürüngen"
+  ],
+  "ex": [
+   "Sürüngen, sıcak bir kayanın üzerinde hiç kıpırdamadan yatıyordu.",
+   "Birçok sürüngen türü, gün boyunca vücut ısısını düzenlemek için dış ısı kaynaklarına bağımlıdır."
+  ],
+  "col": [
+   "sürüngen türleri",
+   "sürüngen yumurtaları",
+   "sürüngen terraryumu"
+  ],
+  "tip": "Yılan, kertenkele ve kaplumbağalar sürüngendir; kurbağa ve semender sürüngen değil, amfibidir.",
+  "note": ""
+ },
+ {
+  "id": "congressman",
+  "senses": [
+   "kongre üyesi; ABD temsilcisi"
+  ],
+  "ex": [
+   "Kongre üyesi, yerel sakinlerin ulaşım sorunlarını anlatmasını dinledi.",
+   "Bir kongre üyesi, kamu hizmetlerini iyileştirmek için yasa teklif edebilir; ancak diğer temsilcilerin desteğini almak şarttır."
+  ],
+  "col": [
+   "kongre üyesi seçmek",
+   "yerel kongre üyesi",
+   "eski kongre üyesi"
+  ],
+  "tip": "Erkek üyeye işaret eder ve genellikle ABD bağlamında kullanılır; cinsiyet belirtmeden konuşmak için congress member tercih edilebilir.",
+  "note": ""
+ },
+ {
+  "id": "wicked",
+  "senses": [
+   "kötü; şeytani",
+   "yaramaz; haşarı"
+  ],
+  "ex": [
+   "Kötü kraliçe krallıktaki her bahçe kapısını kilitledi.",
+   "Geleneksel masallar, çocuklara ahlaki seçimlerin sonuçlarını öğretmek için kötü karakterleri iyi kahramanlarla sık sık karşılaştırır."
+  ],
+  "col": [
+   "kötü bir eylem",
+   "yaramaz bir sırıtış",
+   "kurnaz bir mizah anlayışı"
+  ],
+  "tip": "Bad'den daha güçlü bir tondadır ve ahlaki kötülük ima eder; gülümseme gibi bağlamlarda ise yaramaz, kurnaz anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "downpour",
+  "senses": [
+   "sağanak; şiddetli yağmur"
+  ],
+  "ex": [
+   "Sağanak tamamen dinene kadar bir kapı eşiğinde sığındık.",
+   "Ani bir sağanak, özellikle suyun toprağa sızmasını beton yüzeylerin engellediği yerlerde kentsel drenaj sistemlerini aşabilir."
+  ],
+  "col": [
+   "şiddetli sağanak",
+   "ani sağanak",
+   "sel gibi sağanak"
+  ],
+  "tip": "Sayılabilir isimdir: a downpour. Hafif yağmur için downpour değil, shower ya da drizzle daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "insult",
+  "senses": [
+   "hakaret etmek; aşağılamak",
+   "hakaret; aşağılayıcı söz"
+  ],
+  "ex": [
+   "Bu şakayla sana hakaret etmek hiç niyetim değildi.",
+   "Tartışmacılar konulara değinmek yerine rakiplerine hakaret ettiğinde kamusal tartışmalar daha verimsiz hale gelir."
+  ],
+  "col": [
+   "kişisel hakaret",
+   "alınmak; gücenmek",
+   "yara üstüne tuz basmak"
+  ],
+  "tip": "Fiilde vurgu sonda (inˈsult), isimde başta (ˈinsult) okunur. Feel insulted kalıbı 'hakarete uğramak, gücenmek' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "generate",
+  "senses": [
+   "doğurmak; yaratmak",
+   "elektrik üretmek"
+  ],
+  "ex": [
+   "Hafta sonu kek satışımız yeni kitaplar için yeterli para kazandırdı.",
+   "Yenilenebilir enerjiye yapılan yatırımlar, ithal fosil yakıtlara bağımlılığı azaltırken istihdam da yaratabilir."
+  ],
+  "col": [
+   "elektrik üretmek",
+   "gelir sağlamak",
+   "ilgi uyandırmak",
+   "fikir üretmek"
+  ],
+  "tip": "Geçişli bir fiildir; genellikle gelir, ilgi, fikir ya da elektrik gibi bir nesneyle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "adequately",
+  "senses": [
+   "yeterince; yeterli ölçüde"
+  ],
+  "ex": [
+   "Bu küçük ısıtıcı yatak odamızın tamamını yeterince ısıtıyor.",
+   "Okullara, tüm çocuklara eşit öğrenme fırsatı sunabilmeleri için yeterli ödenek ayrılmalıdır."
+  ],
+  "col": [
+   "yeterince finanse edilmiş",
+   "yeterince hazırlanmış",
+   "yeterince ele almak"
+  ],
+  "tip": "Bir şeyin asgari gereksinimi karşıladığını gösterir; 'çok iyi' anlamı taşımaz. Well ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "tame",
+  "senses": [
+   "evcilleşmiş; uysal",
+   "evcilleştirmek; kontrol altına almak",
+   "sıradan; heyecansız"
+  ],
+  "ex": [
+   "Evcil tavşan elimden doğrudan yemek yedi.",
+   "Evcil hayvanlar bile dikkatli kullanılmalıdır; özellikle küçük çocuklar onlarla etkileşim kurmayı öğrenirken."
+  ],
+  "col": [
+   "evcil hayvanlar",
+   "bir atı evcilleştirmek",
+   "enflasyonu kontrol altına almak"
+  ],
+  "tip": "Vahşi bir hayvanın evcilleştirildiğini anlatır; bu, onun tamamen zararsız olduğu anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "assistance",
+  "senses": [
+   "yardım; destek"
+  ],
+  "ex": [
+   "Bavulunuz çok ağırsa lütfen yardım isteyin.",
+   "Mali destek, dezavantajlı geçmişten gelen öğrencilerin üniversite eğitimlerini tamamlamasını sağlayabilir."
+  ],
+  "col": [
+   "yardım sağlamak",
+   "mali destek",
+   "yardım istemek",
+   "...nın yardımıyla"
+  ],
+  "tip": "Sayılamayan isimdir; help'ten daha resmi bir tondadır ve 'an assistance' biçiminde kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "grease",
+  "senses": [
+   "yağ; gres",
+   "yağlamak; yağ sürmek"
+  ],
+  "ex": [
+   "Bisikleti tamir ettikten sonra ellerimde yağ vardı.",
+   "Restoranlar pişirme yağlarının giderlere karışmasını önlemelidir; çünkü borulları tıkayabilir ve bakım maliyetlerini artırabilir."
+  ],
+  "col": [
+   "pişirme yağı",
+   "yağı temizlemek",
+   "fırın kalıbını yağlamak"
+  ],
+  "tip": "İsim genelde /ɡriːs/, fiil ise çoğunlukla /ɡriːz/ okunur; yazılışları aynı olsa da telaffuz farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "carousel",
+  "senses": [
+   "atlıkarınca",
+   "bagaj bandı"
+  ],
+  "ex": [
+   "Çocuklar atlıkarınca onları döndürürken el salladı.",
+   "Her bagaj bandının yakınındaki net bilgiler, gelen yolcuların tanıdık olmayan havalimanlarında daha verimli yön bulmasına yardımcı olabilir."
+  ],
+  "col": [
+   "atlıkarınca binmek",
+   "bagaj bandı",
+   "atlıkarınca atı"
+  ],
+  "tip": "Eğlence parklarındaki atlıkarınca ya da havalimanlarındaki bagaj bandı anlamına gelir; kalabalık parti anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "qualified",
+  "senses": [
+   "yetkin; nitelikli",
+   "sınırlı; koşullu"
+  ],
+  "ex": [
+   "Hasarlı prizi yalnızca yetkili bir elektrikçi onarmalıdır.",
+   "Hükümetler, her okulda yeterli sayıda nitelikli personel bulunmasını sağlamak için öğretmen eğitimine yatırım yapmalıdır."
+  ],
+  "col": [
+   "tam yetkili",
+   "öğretmenlik yapmaya yetkin",
+   "işe uygun; iş için nitelikli",
+   "sınırlı destek"
+  ],
+  "tip": "Qualified for + isim bir şeye hak kazanmış anlamına gelir; qualified to + fiil ise bir işi yapmaya yetkin olmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "rank",
+  "senses": [
+   "rütbe; mevki",
+   "sıralamak; derecelendirmek",
+   "sıra; dizi"
+  ],
+  "ex": [
+   "Yıllarca süren hizmetinin ardından kaptanlık rütbesine ulaştı.",
+   "Uluslararası anketler, şehirleri konut erişilebilirliğine, toplu taşımaya ve sağlık hizmetlerinin kalitesine göre sık sık sıralar."
+  ],
+  "col": [
+   "...rütbesini taşımak",
+   "en iyiler arasında yer almak",
+   "üst sıralarda yer almak",
+   "sıraya göre"
+  ],
+  "tip": "Hem isim hem fiil olarak kullanılır; ranking ise genellikle sıralama ya da liste anlamında kullanılır.",
+  "note": ""
+ }
+]

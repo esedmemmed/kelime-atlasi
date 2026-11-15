@@ -1,0 +1,278 @@
+[
+ {
+  "id": "wreck",
+  "senses": [
+   "enkaz; batık",
+   "mahvetmek; bozmak"
+  ],
+  "ex": [
+   "Dalgıçlar, bir denizaltının enkazının yanında bir gemi batığı buldu.",
+   "Özensiz planlanmış yapılaşma, tarihi mahalleleri yok edebilir ve gelecek nesiller için kültürel değerlerini kalıcı olarak azaltabilir."
+  ],
+  "col": [
+   "gemi enkazı",
+   "araba kazası; kaza enkazı",
+   "birinin planlarını bozmak"
+  ],
+  "tip": "Gemi ya da araç için kaza enkazı anlamında kullanılır; genel enkaz için wreckage daha uygundur.",
+  "note": ""
+ },
+ {
+  "id": "outcome",
+  "senses": [
+   "sonuç"
+  ],
+  "ex": [
+   "Toplantının sonucundan memnun kaldık.",
+   "Erken sağlık hizmeti, dezavantajlı topluluklardaki çocukların sağlık sonuçlarını iyileştirebilir."
+  ],
+  "col": [
+   "olumlu sonuç",
+   "öğrenme çıktıları",
+   "sağlık sonuçları",
+   "muhtemel sonuç"
+  ],
+  "tip": "Sayılabilir bir isimdir; genellikle 'the outcome of' kalıbıyla bir şeyin sonucunu belirtmek için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "herd",
+  "senses": [
+   "sürü",
+   "sürmek; toplamak"
+  ],
+  "ex": [
+   "Bir inek sürüsü dar kırsal yolu kapattı.",
+   "Göç yollarının korunması, vahşi hayvan sürülerinin hayati su ve besin kaynaklarına ulaşmasını sağlar."
+  ],
+  "col": [
+   "bir sığır sürüsü",
+   "sürü hayvanları",
+   "sığırları sürmek",
+   "sürü içgüdüsü"
+  ],
+  "tip": "Sığır, fil gibi büyük hayvanların toplulukları için herd kullanılır; koyun ya da kuş sürüsü için flock tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "gadget",
+  "senses": [
+   "aparat; küçük alet"
+  ],
+  "ex": [
+   "Bu pratik alet elma çekirdeklerini saniyeler içinde çıkarıyor.",
+   "Yeni bir elektronik cihaz kolaylık sağlasa da sık sık yenilenmesi, artan elektronik atık miktarına katkıda bulunur."
+  ],
+  "col": [
+   "elektronik cihaz",
+   "mutfak aleti",
+   "pratik alet"
+  ],
+  "tip": "Belirli bir işe yarayan küçük cihazlar için kullanılır; elektronik olması gerekmez. Gündelik, gayriresmi bir kelimedir.",
+  "note": ""
+ },
+ {
+  "id": "consciousness",
+  "senses": [
+   "bilinç; kendine gelme",
+   "farkındalık; idrak"
+  ],
+  "ex": [
+   "Ambulans geldikten kısa süre sonra kendine geldi.",
+   "Çevre eğitimi, günlük tüketim alışkanlıklarımızın doğal kaynaklar ve biyoçeşitlilik üzerindeki etkisine ilişkin toplumsal farkındalığı artırabilir."
+  ],
+  "col": [
+   "bilincini kaybetmek",
+   "bilincine dönmek",
+   "çevre bilinci"
+  ],
+  "tip": "consciousness bilinç ya da farkındalık demektir; conscience ise vicdan anlamına gelir, bu ikisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "etiquette",
+  "senses": [
+   "görgü kuralları; adap"
+  ],
+  "ex": [
+   "Anneannem akşam yemeğinden önce bana temel sofra adabını öğretti.",
+   "Yerel görgü kurallarını öğrenmek, uluslararası öğrencilerin yanlış anlaşılmalardan kaçınmasına ve ev sahipleriyle daha sağlam ilişkiler kurmasına yardımcı olabilir."
+  ],
+  "col": [
+   "sofra adabı",
+   "iş görgüsü",
+   "toplumsal görgü kuralları",
+   "görgü kuralları"
+  ],
+  "tip": "Genellikle sayılamaz; tek bir davranışı değil, kurallar bütününü ifade eder. Doğrudan etiquette biçiminde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "roar",
+  "senses": [
+   "kükremek; gürlemek",
+   "kükreme; gürleme"
+  ],
+  "ex": [
+   "Aslan kükredi ve yavruları birbirine daha çok sokuldu.",
+   "Uçak motorları yakındaki evlerin üzerinde gürler; bu da sakinleri uyku kalitesini etkileyebilecek gürültü kirliliğine maruz bırakır."
+  ],
+  "col": [
+   "kahkahalarla gülmek",
+   "alkış tufanı",
+   "motor gürültüsü"
+  ],
+  "tip": "Hayvan kükremesi, motor gürültüsü ya da kalabalığın coşkulu tezahüratı için kullanılabilir. 'roar with laughter' kalıbı 'kahkahalarla gülmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "fibre",
+  "senses": [
+   "lif; fiber",
+   "besin lifi; posa"
+  ],
+  "ex": [
+   "Atkımdan gevşek bir lif sarkıyordu.",
+   "Lif bakımından zengin bir beslenme, sindirim sağlığını destekleyebilir ve insanların daha uzun süre tok kalmasına yardımcı olabilir."
+  ],
+  "col": [
+   "doğal lifler",
+   "besin lifi",
+   "optik fiber"
+  ],
+  "tip": "İngiliz yazımı fibre, Amerikan yazımı fiber'dır. Besin lifi anlamında genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "comparative",
+  "senses": [
+   "karşılaştırmalı",
+   "göreceli; nispi",
+   "karşılaştırma derecesi"
+  ],
+  "ex": [
+   "Köyün göreceli sessizliğinin tadını çıkardık.",
+   "Ulaşım sistemlerinin karşılaştırmalı bir incelemesi, şehirlerin trafik sıkışıklığını azaltmak için etkili yolları belirlemesine yardımcı olabilir."
+  ],
+  "col": [
+   "karşılaştırmalı çalışma",
+   "karşılaştırmalı üstünlük",
+   "karşılaştırmalı analiz",
+   "karşılaştırma biçimi"
+  ],
+  "tip": "Dilbilgisinde comparative, better gibi karşılaştırma derecesini anlatır. Akademik yazıda comparative study sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "restore",
+  "senses": [
+   "yeniden sağlamak; geri getirmek",
+   "onarmak; eski haline getirmek",
+   "geri vermek; iade etmek"
+  ],
+  "ex": [
+   "Mühendisler yiyeceklerimiz bozulmadan önce elektriği yeniden sağladı.",
+   "Yerli ağaçlar dikmek, zarar görmüş ekosistemleri yeniden canlandırmaya ve yerel yaban hayatı için temel yaşam alanları sağlamaya yardımcı olabilir."
+  ],
+  "col": [
+   "güveni yeniden sağlamak",
+   "elektriği geri getirmek",
+   "tarihi binayı onarmak",
+   "bir şeyi sahibine iade etmek"
+  ],
+  "tip": "restore A to B kalıbıyla A'yı B durumuna getirmek ya da B'ye geri vermek anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "latter",
+  "senses": [
+   "ikincisi; sonuncusu",
+   "sonraki; sonlardaki"
+  ],
+  "ex": [
+   "Yüzmeyi ve bisiklet sürmeyi denedik, ama ikincisini tercih ettik.",
+   "Hem önleme hem de tedavi finansman hak etse de sağlık bütçeleri genellikle kaynakların daha büyük kısmını ikincisine ayırır."
+  ],
+  "col": [
+   "birincisi ve ikincisi",
+   "ikinci yarı",
+   "son aşamalar"
+  ],
+  "tip": "the latter iki şeyden 'ikincisi' anlamına gelir; later ile karıştırılmamalıdır. Üçten fazla şey için genellikle 'the last' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "cargo",
+  "senses": [
+   "yük; kargo"
+  ],
+  "ex": [
+   "Vinç yükü bekleyen gemiye kaldırdı.",
+   "Yükü karayolu yerine demiryoluyla taşımak, emisyonları azaltabilir ve ana otoyollardaki trafik sıkışıklığını hafifletebilir."
+  ],
+  "col": [
+   "yük gemisi",
+   "hava kargosu",
+   "yükü yüklemek",
+   "yük ambarı"
+  ],
+  "tip": "Taşınan malların yükü için kullanılır; yolcunun el bagajı için kullanılmaz. Genellikle sayılamaz, 'a cargo' denmez.",
+  "note": ""
+ },
+ {
+  "id": "intense",
+  "senses": [
+   "şiddetli; yoğun",
+   "yoğun; ciddi"
+  ],
+  "ex": [
+   "Şiddetli sıcak bizi gölge aramaya itti.",
+   "Üniversite yerleri için yaşanan yoğun rekabet, öğrencilere son okul yılları boyunca önemli psikolojik baskı yaratabilir."
+  ],
+  "col": [
+   "şiddetli sıcak",
+   "yoğun baskı",
+   "yoğun rekabet",
+   "yoğun konsantrasyon"
+  ],
+  "tip": "intense şiddetin ve derecenin güçlü olduğunu; intensive ise yoğun emek ya da kaynak harcamayı anlatır. İkisi karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "innocent",
+  "senses": [
+   "masum; suçsuz",
+   "saf; toy",
+   "zararsız; kasıtsız"
+  ],
+  "ex": [
+   "Kırılan vazonun suçu onda değildi; masumdu.",
+   "Adil bir hukuk sistemi, suçlardan sorumlu olanların adalet önüne çıkmasını sağlarken masum insanları korumalıdır."
+  ],
+  "col": [
+   "bir suçtan masum",
+   "masum kurbanlar",
+   "kasıtsız bir hata"
+  ],
+  "tip": "Bir suçtan masum olmayı belirtirken 'innocent of' kullanılır; 'innocent from' yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "rot",
+  "senses": [
+   "çürümek; bozulmak",
+   "çürüme; çürüklük"
+  ],
+  "ex": [
+   "Dışarıda bırakırsan şeftaliler çürür.",
+   "Havalandırmanın zayıf olması, eski binalarda nemin birikmesine yol açar ve ahşap yapılarda çürüme riskini artırır."
+  ],
+  "col": [
+   "odun çürümesi",
+   "yavaş yavaş çürümek",
+   "kuru çürüklük"
+  ],
+  "tip": "rot ve decay ikisi de çürümeyi anlatır. Ing biçimi rotting'dir; t harfi iki kez yazılır.",
+  "note": ""
+ }
+]

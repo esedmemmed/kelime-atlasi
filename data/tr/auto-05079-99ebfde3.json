@@ -1,0 +1,280 @@
+[
+ {
+  "id": "courtesy",
+  "senses": [
+   "nezaket; incelik",
+   "iyilik; nezaket gösterisi",
+   "ücretsiz"
+  ],
+  "ex": [
+   "Her misafirle, yorgun olsa bile, büyük bir nezaketle ilgilendi.",
+   "Toplu taşımada yolculara karşı nezaketli davranmak, yolculuğu herkes için daha keyifli ve erişilebilir kılabilir."
+  ],
+  "col": [
+   "genel nezaket",
+   "nezaket olarak",
+   "ücretsiz servis otobüsü",
+   "...izniyle; ...sayesinde"
+  ],
+  "tip": "courtesy of, bir kişi ya da kurumun sağladığı izni veya desteği belirtir: courtesy of the hotel (otelin izniyle).",
+  "note": ""
+ },
+ {
+  "id": "parachute",
+  "senses": [
+   "paraşüt",
+   "paraşütle atlamak; paraşütle indirmek"
+  ],
+  "ex": [
+   "Paraşütü yeşil tarlaların üzerinde sorunsuzca açıldı.",
+   "Kurtarma ekipleri, şiddetli sel yüzünden dış dünyayla bağlantısı kesilen köylere temel malzemeleri paraşütle ulaştırdı."
+  ],
+  "col": [
+   "paraşütü açmak",
+   "paraşütle atlayış",
+   "paraşütle malzeme indirmek"
+  ],
+  "tip": "Fiil olarak hem kişinin paraşütle atlamasını hem de yük için paraşütle indirme anlamını taşır. Hangi anlamda olduğunu bağlamdan anlayın.",
+  "note": ""
+ },
+ {
+  "id": "gross",
+  "senses": [
+   "brüt; toplam",
+   "ağır; çok ciddi",
+   "iğrenç; midesi bulandırıcı"
+  ],
+  "ex": [
+   "Brüt maaşım, eline geçen net maaştan çok daha iyi görünüyor.",
+   "Gayri safi yurt içi hasıla ekonomik üretimi ölçer, ancak vatandaşların yaşam kalitesini tam olarak yansıtmaz."
+  ],
+  "col": [
+   "brüt gelir",
+   "gayri safi yurt içi hasıla",
+   "ağır ihmal",
+   "brüt kâr"
+  ],
+  "tip": "Finans bağlamında gross, kesintiler yapılmadan önceki tutarı; net ise kesintiler sonrasındaki tutarı belirtir.",
+  "note": ""
+ },
+ {
+  "id": "contribute",
+  "senses": [
+   "katkıda bulunmak; bağış yapmak",
+   "yol açmak; etken olmak",
+   "yazı göndermek; yazmak"
+  ],
+  "ex": [
+   "Herkes akşam yemeğimiz için bir yemek getirdi.",
+   "Uygun fiyatlı konuta erişimin kısıtlı olması toplumsal eşitsizliğe yol açabilir ve işçileri daha uzun yolculuklara katlanmaya zorlayabilir."
+  ],
+  "col": [
+   "bir tartışmaya katkıda bulunmak",
+   "ekonomik büyümeye katkıda bulunmak",
+   "para bağışlamak",
+   "bir makale yazmak"
+  ],
+  "tip": "contribute to kalıbındaki to bir edattır; ardından isim veya -ing almalıdır: contribute to solving the problem.",
+  "note": ""
+ },
+ {
+  "id": "eyelid",
+  "senses": [
+   "göz kapağı"
+  ],
+  "ex": [
+   "Küçük bir kum tanesi göz kapağımı tahriş etti.",
+   "Göz kapakları gözleri tozdan korur ve göz kırpma sırasında yüzeyi nemlendirir."
+  ],
+  "col": [
+   "üst göz kapağı",
+   "alt göz kapağı",
+   "şişmiş göz kapağı"
+  ],
+  "tip": "eyelid göz kapağıdır; eyelash ise kirpiktir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "oak",
+  "senses": [
+   "meşe ağacı",
+   "meşe odunu"
+  ],
+  "ex": [
+   "Piknik örtümüzü koca bir meşe ağacının altına serdik.",
+   "Olgun meşe ağaçlarını korumak, ormanlık alanların yaşam ortamını korur ve birçok yerli yaban hayvanını destekler."
+  ],
+  "col": [
+   "meşe ağacı",
+   "masif meşe",
+   "meşe mobilya",
+   "meşelik orman"
+  ],
+  "tip": "Ağaç anlamında sayılabilir, odun anlamında sayılamaz. oak table gibi kullanımlarda oak sıfat gibi isimden önce gelir.",
+  "note": ""
+ },
+ {
+  "id": "fluffy",
+  "senses": [
+   "tüylü; kabarık",
+   "kabarık; hafif ve yumuşak"
+  ],
+  "ex": [
+   "Kedi yavrumuz beyaz, yumuşacık bir battaniyenin üzerinde kıvrılıp uyudu.",
+   "Oteller, misafir memnuniyetini artırmak ve tekrar ziyaretleri teşvik etmek için genellikle yumuşacık havlular ve rahat yatak takımları sunar."
+  ],
+  "col": [
+   "yumuşacık havlu",
+   "kabarık bulutlar",
+   "kabarık krep"
+  ],
+  "tip": "Hayvan tüyü için 'tüylü', yiyecek için 'kabarık, lapa lapa' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "conquer",
+  "senses": [
+   "fethetmek; ele geçirmek",
+   "üstesinden gelmek; yenmek"
+  ],
+  "ex": [
+   "Korkusunun üstesinden geldi ve dalış tahtasına tırmandı.",
+   "Tarih boyunca güçlü devletler, kaynak elde etmek ve etkisini genişletmek için komşu toprakları fethetmeye çalıştı."
+  ],
+  "col": [
+   "bir toprağı fethetmek",
+   "bir korkunun üstesinden gelmek",
+   "bir dağı fethetmek"
+  ],
+  "tip": "Geçişli bir fiildir; nesne doğrudan gelir: conquer a fear. Araya edat koymayın.",
+  "note": ""
+ },
+ {
+  "id": "electron",
+  "senses": [
+   "elektron"
+  ],
+  "ex": [
+   "Öğretmenimiz her elektronu temsil etmek için renkli boncuklar kullandı.",
+   "Elektronların malzemelerde nasıl hareket ettiğini anlamak, daha verimli piller ve elektronik cihazlar geliştirmek için çok önemlidir."
+  ],
+  "col": [
+   "elektron mikroskobu",
+   "elektron akışı",
+   "elektron demeti"
+  ],
+  "tip": "electron bir parçacığın adıdır; electronic ise 'elektronik' anlamında sıfattır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "refreshment",
+  "senses": [
+   "ikram; hafif yiyecek-içecek",
+   "canlanma; ferahlama"
+  ],
+  "ex": [
+   "Toplantıdan sonra bahçede ikram servis ettiler.",
+   "Toplum etkinlikleri sırasında ücretsiz ikram sunmak, misafirperver bir ortam yaratabilir ve sakinler arasında samimi sohbetleri teşvik edebilir."
+  ],
+  "col": [
+   "hafif ikramlar",
+   "ikram sunmak",
+   "ikram molası"
+  ],
+  "tip": "İkram anlamında genellikle çoğul (refreshments) kullanılır; 'ferahlama' anlamında ise sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "absolute",
+  "senses": [
+   "tam; mutlak",
+   "mutlak; sınırsız"
+  ],
+  "ex": [
+   "Kadın içeri girdiğinde oda tam bir sessizliğe gömüldü.",
+   "Tek bir kurumun mutlak güce sahip olması hesap verebilirliği zayıflatabilir ve hükümete duyulan güveni azaltabilir."
+  ],
+  "col": [
+   "tam sessizlik",
+   "mutlak kesinlik",
+   "mutlak güç",
+   "kesinlikle gerekli bir şey"
+  ],
+  "tip": "Zaten en üst düzeyi ifade ettiği için very absolute gibi kullanımlardan kaçının.",
+  "note": ""
+ },
+ {
+  "id": "tracking",
+  "senses": [
+   "izleme; takip"
+  ],
+  "ex": [
+   "Kargo takibi, paketimin yakınlarda olduğunu gösterdi.",
+   "Uydu takibi, araştırmacıların hayvan göçünü incelemesini ve daha güçlü koruma gerektiren yaşam alanlarını belirlemesini sağlar."
+  ],
+  "col": [
+   "uydu takibi",
+   "kargo takibi",
+   "takip cihazı",
+   "gerçek zamanlı takip"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz. Fiil track'in -ing hâlidir; 'track' fiiliyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "universal",
+  "senses": [
+   "evrensel; genel",
+   "evrensel; her yerde kullanılabilir"
+  ],
+  "ex": [
+   "Yeni oyun parkı yerel ailelerden genel beğeni topladı.",
+   "Uygun fiyatlı sağlık hizmetine evrensel erişim, eşitsizliği azaltabilir ve toplumun genel refahını artırabilir."
+  ],
+  "col": [
+   "evrensel erişim",
+   "evrensel sağlık hizmeti",
+   "geniş kitlelerin ilgisi",
+   "evrensel şarj aleti"
+  ],
+  "tip": "Her kişiye ya da her yere uygulanabilirliği vurgular; common'a göre daha güçlü bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "joint",
+  "senses": [
+   "ortak; birlikte yapılan",
+   "eklem; birleşim yeri"
+  ],
+  "ex": [
+   "Kanepe almak, ev arkadaşımla birlikte verdiğimiz ortak bir karardı.",
+   "Ortak araştırma projeleri, üniversitelerin kaynak paylaşmasını ve çevre sorunlarına daha etkili çözümler bulmasını sağlar."
+  ],
+  "col": [
+   "ortak çaba",
+   "ortak girişim",
+   "ortak karar",
+   "eklem ağrısı"
+  ],
+  "tip": "Sıfat olarak 'ortak', isim olarak 'eklem' anlamına gelir. Cümledeki konumdan hangi anlam olduğunu anlayın.",
+  "note": ""
+ },
+ {
+  "id": "hold-up",
+  "senses": [
+   "gecikme; aksama",
+   "silahlı soygun"
+  ],
+  "ex": [
+   "Köprüdeki bir tıkanıklık yüzünden öğle yemeğine yetişemedik.",
+   "Tedarik zincirindeki kısa bir aksama bile küçük üreticiler için maliyetleri önemli ölçüde artırabilir."
+  ],
+  "col": [
+   "trafik tıkanıklığı",
+   "uzun süren gecikme",
+   "silahlı soygun"
+  ],
+  "tip": "İsim olarak tireli yazılır (hold-up). Fiil olarak iki kelimedir: hold up, örneğin 'The train was held up'.",
+  "note": ""
+ }
+]

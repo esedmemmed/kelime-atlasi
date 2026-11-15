@@ -1,0 +1,277 @@
+[
+ {
+  "id": "reception",
+  "senses": [
+   "resepsiyon; danışma",
+   "resepsiyon; kabul töreni",
+   "tepki; karşılanma"
+  ],
+  "ex": [
+   "Lütfen kahvaltıdan önce oda anahtarınızı resepsiyona bırakın.",
+   "Teklif, yol güvenliğiyle ilgili kaygılarını giderdiği için yerel sakinlerden olumlu bir karşılık aldı."
+  ],
+  "col": [
+   "resepsiyon masası",
+   "düğün resepsiyonu",
+   "zayıf sinyal alımı",
+   "sıcak karşılama"
+  ],
+  "tip": "İngiliz İngilizcesinde 'at reception' resepsiyonda anlamına gelir. Sinyal alımı ve tepki anlamlarında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "foreign",
+  "senses": [
+   "yabancı; dış",
+   "yabancı; yabancı madde",
+   "yabancı; uyumsuz"
+  ],
+  "ex": [
+   "Kız kardeşim boş zamanlarında yabancı dil öğrenmekten keyif alıyor.",
+   "Yabancı yatırım iş imkânı yaratabilir, ancak hükümetler yerel toplulukların da ekonomik büyümeden yararlanmasını sağlamalıdır."
+  ],
+  "col": [
+   "yabancı dil",
+   "yabancı yatırım",
+   "dış politika",
+   "yabancı cisim"
+  ],
+  "tip": "'foreign to' kalıbı, bir kişiye yabancı gelen ya da bir şeyle bağdaşmayan anlamında kullanılır: 'foreign to me' gibi.",
+  "note": ""
+ },
+ {
+  "id": "earth",
+  "senses": [
+   "dünya",
+   "toprak"
+  ],
+  "ex": [
+   "Çocuklar küçük küreklerle nemli toprağı kazdılar.",
+   "Dünyadaki yaşam, temiz su, gıda ve solunabilir hava sağlayan sağlıklı ekosistemlere bağlıdır."
+  ],
+  "col": [
+   "dünyada; yeryüzünde",
+   "Dünya gezegeni",
+   "nemli toprak"
+  ],
+  "tip": "Gezegen anlamında Earth büyük harfle yazılır. 'on earth' ifadesinde the kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "packet",
+  "senses": [
+   "paket; küçük kutu",
+   "veri paketi"
+  ],
+  "ex": [
+   "Yolculuk için bir paket bisküvi açtı.",
+   "Tek kullanımlık çatal bıçak takımlarının her paketi için müşterilerden ücret alınması, gıda sektöründe daha sürdürülebilir alışkanlıkları teşvik edebilir."
+  ],
+  "col": [
+   "bir paket bisküvi",
+   "tohum paketi",
+   "veri paketi"
+  ],
+  "tip": "İngiliz İngilizcesinde 'a packet of' sıkça kullanılır; Amerikan İngilizcesinde ise ürüne göre pack ya da bag tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "skateboard",
+  "senses": [
+   "kaykay",
+   "kaykay kullanmak; kaymak"
+  ],
+  "ex": [
+   "Yağmur başlayınca kaykayını eve taşıdı.",
+   "Kaykay kullanıcıları için ayrılmış alanlar sağlamak, fiziksel aktiviteyi teşvik ederken yayalarla çatışmaları azaltabilir."
+  ],
+  "col": [
+   "kaykay kullanmak",
+   "kaykay hileleri",
+   "kaykay parkı"
+  ],
+  "tip": "Kaykayda tutamak yoktur; scooter ise genellikle gidonu olan bir araçtır. Fiil olarak 'skateboard' kaykay kullanmak anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "motorway",
+  "senses": [
+   "otoyol; otoban"
+  ],
+  "ex": [
+   "Otoyoldan ayrılıp öğle yemeği için durduk.",
+   "Yeni bir otoyol yapmak yolculuk sürelerini kısaltabilir, ama yakındaki doğal yaşam alanlarına zarar verebilir."
+  ],
+  "col": [
+   "otoyol kavşağı",
+   "otoyol tesisleri",
+   "otoyola girmek"
+  ],
+  "tip": "Esas olarak İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde aynı anlam için genellikle freeway tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "european",
+  "senses": [
+   "Avrupa ile ilgili; Avrupalı",
+   "Avrupalı"
+  ],
+  "ex": [
+   "Yaz tatilimizde birkaç Avrupa şehrini gezdik.",
+   "Birçok Avrupa ülkesi, kısa iç uçuşlara bağımlılığı azaltmak için demiryolu ağlarına yatırım yaptı."
+  ],
+  "col": [
+   "Avrupa ülkeleri",
+   "Avrupa kültürü",
+   "Avrupa Birliği"
+  ],
+  "tip": "Her zaman büyük harfle yazılır. Ünlüyle başlasa da 'a European' denir, 'an European' değil.",
+  "note": ""
+ },
+ {
+  "id": "pain",
+  "senses": [
+   "ağrı; acı",
+   "acı; keder",
+   "acı vermek; üzmek"
+  ],
+  "ex": [
+   "Sol ayak bileğimde keskin bir ağrı hissettim.",
+   "Uzun süre oturarak çalışan ofis çalışanlarında düzenli egzersiz bel ağrısını azaltabilir."
+  ],
+  "col": [
+   "keskin ağrı",
+   "kronik ağrı",
+   "ağrıyı dindirmek",
+   "duygusal acı"
+  ],
+  "tip": "Genel olarak ağrı sayılamaz (pain); tek bir ağrı için 'a pain' denir. 'a pain' ayrıca 'can sıkıcı kişi' anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "definitely",
+  "senses": [
+   "kesinlikle; elbette"
+  ],
+  "ex": [
+   "Dünkü yağmurdan sonra kesinlikle şemsiye alacağım.",
+   "Daha iyi yalıtım ısı kaybını kesinlikle azaltacaktır, ancak toplam enerji tasarrufu hanelerin davranışlarına bağlıdır."
+  ],
+  "col": [
+   "kesinlikle değer",
+   "kesinlikle katılıyorum",
+   "kesinlikle hayır"
+  ],
+  "tip": "Yazılışı 'definitely'dir; 'defiantly' (meydan okuyarak) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "mile",
+  "senses": [
+   "mil"
+  ],
+  "ex": [
+   "En yakın yüzme havuzu sadece bir mil uzakta.",
+   "Kısa araba yolculuklarını yürüyüşle değiştirmek, yalnızca bir mil bile olsa, halk sağlığını iyileştirebilir ve emisyonları azaltabilir."
+  ],
+  "col": [
+   "bir mil uzakta",
+   "kare mil",
+   "saatte mil"
+  ],
+  "tip": "Mesafe birimi olan mile sayılabilir; çoğulda s eklenir (miles). 'miles per hour' saatte mil anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "windy",
+  "senses": [
+   "rüzgarlı"
+  ],
+  "ex": [
+   "Bugün dışarıda öğle yemeği yiyemeyecek kadar rüzgarlıydı.",
+   "Rüzgârlı kıyı bölgeleri yenilenebilir elektrik üretebilir, ancak türbinler yaban hayatını korumak için dikkatle yerleştirilmelidir."
+  ],
+  "col": [
+   "rüzgarlı hava",
+   "rüzgarlı bir gün",
+   "rüzgarlı koşullar"
+  ],
+  "tip": "Hava için /ˈwɪndi/ diye okunur. Kıvrımlı yollar için 'winding' kullanılır, 'windy' değil.",
+  "note": ""
+ },
+ {
+  "id": "somewhere",
+  "senses": [
+   "bir yerde; bir yere",
+   "yaklaşık; takriben"
+  ],
+  "ex": [
+   "Anahtarlarımı koltuğun yakınında bir yere bıraktım.",
+   "Genç insanların yerel ekonomiye tam olarak katılabilmesi için önce uygun fiyatlı bir yerde yaşayabilmeleri gerekir."
+  ],
+  "col": [
+   "başka bir yerde",
+   "sessiz bir yer",
+   "bir yerlerde"
+  ],
+  "tip": "Sıfat genellikle somewhere'den sonra gelir: somewhere quiet. Türkçedeki 'bir yerde' karşılığı için ayrıca 'in' eklemeye gerek yoktur.",
+  "note": ""
+ },
+ {
+  "id": "moon",
+  "senses": [
+   "Ay",
+   "doğal uydu"
+  ],
+  "ex": [
+   "Ay, evimizin arkasındaki ağaçların üzerinde yavaşça yükseldi.",
+   "Ay üzerindeki araştırmalar, bilim insanlarının Dünya ve diğer kayalık gezegenlerin nasıl oluştuğunu anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "dolunay",
+   "hilal",
+   "Ay'ın yüzeyi"
+  ],
+  "tip": "Dünyanın uydusu için genellikle the moon denir; başka gezegenlerin doğal uyduları sayılabilir ve 'a moon' şeklinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "such",
+  "senses": [
+   "böyle; bu tür",
+   "öyle; böylesine"
+  ],
+  "ex": [
+   "O kadar güzel bir gündü ki dışarıda yemek yedik.",
+   "Birçok şehir ciddi trafik sıkışıklığıyla karşı karşıya ve bu tür sorunlar koordineli toplu taşıma yatırımı gerektirir."
+  ],
+  "col": [
+   "örneğin",
+   "çok yazık",
+   "bu tür sorunlar",
+   "öyle ... ki ..."
+  ],
+  "tip": "Tekil sayılabilir isimlerin önünde such a/an kullanılır: such a lovely day. 'so' ise doğrudan sıfatın önüne gelir: so lovely.",
+  "note": ""
+ },
+ {
+  "id": "beat",
+  "senses": [
+   "yenmek; geçmek",
+   "vurmak; çarpmak",
+   "ritim; vuruş"
+  ],
+  "ex": [
+   "Kız kardeşim dün satrançta yine beni yendi.",
+   "Sporcular, uluslararası yarışmalarda en güçlü rakiplerini yenebilmek için düzenli antrenman ve psikolojik destek almalıdır."
+  ],
+  "col": [
+   "rakibi yenmek",
+   "rekoru kırmak",
+   "düzenli ritim",
+   "yumurtayı çırpmak"
+  ],
+  "tip": "Geçmiş zaman beat, ortaç beaten'dır. Bir yarışmayı kazanmak için 'win' kullanılır; 'beat' ise birini yenmek anlamında kullanılır.",
+  "note": ""
+ }
+]

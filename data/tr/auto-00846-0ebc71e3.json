@@ -1,0 +1,280 @@
+[
+ {
+  "id": "flag",
+  "senses": [
+   "bayrak",
+   "işaretlemek; dikkat çekmek",
+   "zayıflamak; gücünü yitirmek"
+  ],
+  "ex": [
+   "Okul kapısının üzerinde parlak bir bayrak dalgalanıyordu.",
+   "Öğretmenler, öğrencilerin uygun destek alabilmesi için olası öğrenme güçlüklerini erken aşamada işaretlemelidir."
+  ],
+  "col": [
+   "bayrak kaldırmak",
+   "ulusal bayrak",
+   "bir sorunu işaretlemek",
+   "azalan enerji"
+  ],
+  "tip": "flag fiilinin geçmiş zamanı flagged, -ing hali flagging olur; son g harfi ikilenir.",
+  "note": ""
+ },
+ {
+  "id": "marry",
+  "senses": [
+   "evlenmek",
+   "nikâh kıymak"
+  ],
+  "ex": [
+   "Kuzenim önümüzdeki bahar partneriyle evlenmeyi planlıyor.",
+   "Pek çok genç, aile kurmadan önce maddi istikrar sağlamak istediği için daha geç evlenmeyi tercih ediyor."
+  ],
+  "col": [
+   "biriyle evlenmek",
+   "evlenmek",
+   "genç yaşta evlenmek"
+  ],
+  "tip": "marry someone ya da get married to kalıpları kullanılır; \"marry with\" yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "seventh",
+  "senses": [
+   "yedinci",
+   "yedide bir"
+  ],
+  "ex": [
+   "Yeni dairemiz yedinci kattadır.",
+   "Kursun yedinci haftasına gelindiğinde öğrenciler temel bilimsel verileri bağımsız olarak analiz edebiliyordu."
+  ],
+  "col": [
+   "yedinci kat",
+   "yedinci sırada",
+   "bir şeyin yedide biri"
+  ],
+  "tip": "Sıra sayılarından önce genellikle the kullanılır; ancak sahiplik belirleyicisi varsa the kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "natural",
+  "senses": [
+   "doğal",
+   "doğuştan gelen",
+   "normal; olağan"
+  ],
+  "ex": [
+   "Bu sabun tamamen doğal malzemelerden yapılmıştır.",
+   "Doğal yaşam alanlarının korunması, biyoçeşitliliğin sürdürülmesi ve yerel ekosistemlere bağlı toplulukların desteklenmesi için şarttır."
+  ],
+  "col": [
+   "doğal kaynaklar",
+   "doğal yaşam alanı",
+   "doğuştan yetenek",
+   "tamamen normal"
+  ],
+  "tip": "natural sıfattır ve doğal anlamına gelir; doğa anlamındaki isim nature'dır.",
+  "note": ""
+ },
+ {
+  "id": "gardening",
+  "senses": [
+   "bahçecilik; bahçe işleri"
+  ],
+  "ex": [
+   "Büyükannem serin bahar sabahlarında bahçe işleriyle uğraşmayı seviyor.",
+   "Topluluk bahçeciliği, kentsel çevreyi iyileştirirken sakinlerin daha güçlü sosyal bağlar kurmasına yardımcı olabilir."
+  ],
+  "col": [
+   "bahçe aletleri",
+   "biraz bahçe işi yapmak",
+   "topluluk bahçeciliği"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; \"a gardening\" denmez, some ya da do ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "surfing",
+  "senses": [
+   "sörf sporu",
+   "internette gezinme"
+  ],
+  "ex": [
+   "Bu sabah erkenden sahilde sörf yapmaya gittik.",
+   "Sörfün artan popülaritesi kıyı ekonomilerini desteklerken kırılgan deniz ortamları üzerindeki baskıyı da artırabilir."
+  ],
+  "col": [
+   "sörfe gitmek",
+   "sörf dersleri",
+   "internette gezinme"
+  ],
+  "tip": "Spor için go surfing denir; internette gezinmek için ise surf the internet de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "user",
+  "senses": [
+   "kullanıcı"
+  ],
+  "ex": [
+   "Her kullanıcı profili için farklı bir renk seçebilir.",
+   "Yazılım geliştiricileri, sınırlı teknik becerilere sahip kişiler de dahil olmak üzere her kullanıcının ihtiyaçlarını göz önünde bulundurmalıdır."
+  ],
+  "col": [
+   "kullanıcı hesabı",
+   "kullanıcı geri bildirimi",
+   "yol kullanıcısı",
+   "düzenli kullanıcı"
+  ],
+  "tip": "user kelimesindeki s harfi /z/ sesiyle okunur; /s/ gibi telaffuz etmemeye dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "metro",
+  "senses": [
+   "metro"
+  ],
+  "ex": [
+   "Bu sabah müzeye metroyla gittik.",
+   "Metro ağının genişletilmesi, sakinlere güvenilir bir alternatif sunarak trafik sıkışıklığını azaltabilir."
+  ],
+  "col": [
+   "metroya binmek",
+   "metro istasyonu",
+   "metro hattı",
+   "metro ağı"
+  ],
+  "tip": "Metroya binmek için take the metro denir; metro kelimesi tek başına yer adı değildir, genel bir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "save",
+  "senses": [
+   "kurtarmak",
+   "tasarruf etmek; biriktirmek",
+   "kaydetmek"
+  ],
+  "ex": [
+   "Cankurtaran, bir çocuğu derin sudan kurtardı.",
+   "Güvenilir toplu taşımaya yatırım yapmak, yolcuların zamandan tasarruf etmesini ve hanelerin ulaşım giderlerini azaltmasını sağlayabilir."
+  ],
+  "col": [
+   "hayat kurtarmak",
+   "para biriktirmek",
+   "zaman kazanmak",
+   "dosyayı kaydetmek"
+  ],
+  "tip": "save money hem tasarruf etmek hem de para biriktirmek anlamına gelebilir; bağlama dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "jewellery",
+  "senses": [
+   "mücevher; takı"
+  ],
+  "ex": [
+   "Mücevherlerini küçük bir ahşap kutuda saklıyor.",
+   "Geleneksel takılar kültürel kimliği yansıtırken kırsal kesimdeki yetenekli zanaatkârlara gelir de sağlayabilir."
+  ],
+  "col": [
+   "bir takı parçası",
+   "altın takı",
+   "el yapımı takı"
+  ],
+  "tip": "Sayılamayan bir isimdir; tek bir parça için a piece of jewellery denir. Amerikan İngilizcesinde jewelry yazılır.",
+  "note": ""
+ },
+ {
+  "id": "plastic",
+  "senses": [
+   "plastik",
+   "plastikten yapılmış",
+   "şekillendirilebilir"
+  ],
+  "ex": [
+   "Bu yemek kutusu dayanıklı, geri dönüştürülmüş plastikten yapılmıştır.",
+   "Tek kullanımlık plastik ambalajı azaltmak, deniz ekosistemlerini koruyabilir ve evsel atık yönetiminin maliyetini düşürebilir."
+  ],
+  "col": [
+   "tek kullanımlık plastik",
+   "plastik atık",
+   "plastik ambalaj",
+   "geri dönüştürülmüş plastik"
+  ],
+  "tip": "Malzeme anlamında genellikle sayılamaz; a plastic ise bir plastik türünü ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "towards",
+  "senses": [
+   "doğru; yönünde",
+   "karşı; yönelik",
+   "için; doğru yönde"
+  ],
+  "ex": [
+   "Köpek kuyruğunu sallayarak bana doğru koştu.",
+   "Toplu taşımaya yapılan yatırım, şehirlerdeki hava kirliliğini azaltma yolunda önemli bir adımdır."
+  ],
+  "col": [
+   "-e doğru yürümek",
+   "-e karşı tutum",
+   "bir hedefe doğru çalışmak",
+   "maliyeti karşılamaya yardımcı olmak"
+  ],
+  "tip": "towards ile toward aynı anlamdadır; İngiliz İngilizcesinde towards daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "broccoli",
+  "senses": [
+   "brokoli"
+  ],
+  "ex": [
+   "Brokoliyi parlak yeşil bir renk alana kadar buharda pişirdik.",
+   "Okullar, brokoli gibi sebzeleri tanıdık yemeklerin yanında sunarak daha sağlıklı beslenmeyi teşvik edebilir."
+  ],
+  "col": [
+   "brokoli çiçekleri",
+   "buharda pişmiş brokoli",
+   "bir baş brokoli"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; tek bir baş için a head of broccoli denir.",
+  "note": ""
+ },
+ {
+  "id": "protect",
+  "senses": [
+   "korumak"
+  ],
+  "ex": [
+   "Dikenlerden ellerinizi korumak için kalın eldiven giyin.",
+   "Hükümetler, nesli tükenmekte olan türleri doğal yaşam alanlarını koruyarak ve varlıklarını tehdit eden faaliyetleri kısıtlayarak korumalıdır."
+  ],
+  "col": [
+   "çevreyi korumak",
+   "hastalıklara karşı korumak",
+   "zarardan korumak",
+   "mahremiyeti korumak"
+  ],
+  "tip": "protect sb/sth from ya da against kalıplarıyla kullanılır; \"protect to\" gibi bir kullanım yoktur.",
+  "note": ""
+ },
+ {
+  "id": "strange",
+  "senses": [
+   "tuhaf; garip",
+   "yabancı; tanıdık olmayan"
+  ],
+  "ex": [
+   "Dolaptan garip bir ses geliyordu.",
+   "Ziyaretçilere tuhaf gelen gelenekler, yerel topluluğun önemli sosyal değerlerini yansıtıyor olabilir."
+  ],
+  "col": [
+   "garip davranış",
+   "kendini garip hissetmek",
+   "yabancı bir yer",
+   "garip bir ses"
+  ],
+  "tip": "strange hem tuhaf hem de yabancı anlamına gelir; yabancı kişi için stranger kullanılır.",
+  "note": ""
+ }
+]

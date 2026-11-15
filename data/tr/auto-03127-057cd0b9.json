@@ -1,0 +1,287 @@
+[
+ {
+  "id": "architect",
+  "senses": [
+   "mimar",
+   "mimar; fikir babası"
+  ],
+  "ex": [
+   "Mimar, bize gelecekteki evimizin maketini gösterdi.",
+   "Mimarlar, doğal ışıktan daha iyi yararlanan binalar tasarlayarak enerji tüketimini azaltabilir."
+  ],
+  "col": [
+   "yetkin mimar",
+   "baş mimar",
+   "reformun mimarı"
+  ],
+  "tip": "architect bir kişiyi (mimar), architecture ise mimarlığı ya da mimari tarzı anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "souvenir",
+  "senses": [
+   "hatıra; hediyelik eşya"
+  ],
+  "ex": [
+   "Hatıra olarak küçük bir ahşap tekne aldık.",
+   "Yerel olarak üretilmiş bir hediyelik eşya almak, geleneksel el sanatlarını destekleyebilir ve turizme bağlı topluluklara gelir sağlayabilir."
+  ],
+  "col": [
+   "hediyelik eşya dükkânı",
+   "hediyelik eşya almak",
+   "hatıra olarak"
+  ],
+  "tip": "a souvenir of ... yapısıyla bir yerin ya da olayın hatırası belirtilir: a souvenir of Istanbul.",
+  "note": ""
+ },
+ {
+  "id": "cheek",
+  "senses": [
+   "yanak",
+   "küstahlık; pişkinlik"
+  ],
+  "ex": [
+   "Dışarıda soğuk bir yağmur damlası yanağıma düştü.",
+   "Aşırı soğuk ortamlarda çalışırken, yanaklar dahil açıkta kalan bölgeler koruyucu giysilerle örtülmelidir."
+  ],
+  "col": [
+   "pembe yanaklar",
+   "yanağından öpmek",
+   "yapacak kadar pişkin olmak",
+   "yanak yanağa"
+  ],
+  "tip": "Yanak anlamında sayılabilir; pişkinlik anlamında genellikle sayılamaz ve çoğunlukla İngiliz İngilizcesinde kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ambition",
+  "senses": [
+   "hedef; arzu",
+   "hırs; girişkenlik"
+  ],
+  "ex": [
+   "Çocukluk hedefi, nehirlerin üzerine köprüler tasarlamaktı.",
+   "Okullar, öğrencilerin hırsını beslerken onlara gerçekçi hedefler koymayı ve pratik beceriler geliştirmeyi öğretmelidir."
+  ],
+  "col": [
+   "bir hedefe ulaşmak",
+   "ömür boyu süren hedef",
+   "siyasi hırs",
+   "başarma azmi"
+  ],
+  "tip": "Belirli bir hedef sayılabilir (an ambition), genel hırs ise sayılamaz. Genellikle ambition to do yapısıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "advanced",
+  "senses": [
+   "gelişmiş; ileri",
+   "ileri düzey; üst düzey",
+   "ilerlemiş; son aşamada"
+  ],
+  "ex": [
+   "Bu gelişmiş kamera gece bile net fotoğraflar çeker.",
+   "Gelişmiş tıbbi teknoloji hasta sonuçlarını iyileştirebilir, ancak yüksek maliyeti sağlık hizmetine erişimde eşitsizlikleri artırabilir."
+  ],
+  "col": [
+   "gelişmiş teknoloji",
+   "ileri düzey öğrenciler",
+   "ileri bir aşamada",
+   "ileri seviye"
+  ],
+  "tip": "advanced gelişmiş ya da ileri düzey anlamına gelir. Önceden haber vermek için advance notice kullanılır, advanced ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "earphone",
+  "senses": [
+   "kulaklık"
+  ],
+  "ex": [
+   "Koşarken kulaklıktan biri düştü.",
+   "Ortak çalışma alanlarında kulaklık kullanan öğrenciler, başkalarını rahatsız etmeden eğitsel kayıtları dinleyebilir."
+  ],
+  "col": [
+   "bir çift kulaklık",
+   "kablosuz kulaklık",
+   "kulaklık takmak"
+  ],
+  "tip": "Genellikle çoğul kullanılır: earphones. Bir çift için a pair of ifadesi eklenir.",
+  "note": ""
+ },
+ {
+  "id": "poison",
+  "senses": [
+   "zehir",
+   "zehirlemek; kirletmek",
+   "zehirlemek; bozmak"
+  ],
+  "ex": [
+   "Bazı bahçe bitkileri zehir içerir, bu yüzden evcil hayvanları uzak tutun.",
+   "Düzensiz denetlenen fabrikalardan çıkan toksik atıklar nehirleri kirletebilir, yaban hayatını ve yakın toplulukların sağlığını tehdit edebilir."
+  ],
+  "col": [
+   "zehir içermek",
+   "su kaynağını zehirlemek",
+   "zehirlenmeyi önleme",
+   "ilişkileri zehirlemek"
+  ],
+  "tip": "poison hem isim hem fiil olarak kullanılır. Zehirli anlamındaki sıfat poisonous'tur: poisonous plants.",
+  "note": ""
+ },
+ {
+  "id": "code",
+  "senses": [
+   "kod; şifre",
+   "kurallar; ilkeler",
+   "kodlamak; şifrelemek"
+  ],
+  "ex": [
+   "Bisiklet kilidimin şifresini yine unuttum.",
+   "Öğrencilere kod yazmayı öğretmek, problem çözme becerilerini güçlendirebilir ve onları değişen iş piyasasına hazırlayabilir."
+  ],
+  "col": [
+   "kod yazmak",
+   "erişim kodu",
+   "davranış kuralları",
+   "giyim kuralları"
+  ],
+  "tip": "Bilgisayar kodu genellikle sayılamaz (code). Tek bir şifre ya da kod için a code denir.",
+  "note": ""
+ },
+ {
+  "id": "slide",
+  "senses": [
+   "kaymak; kaydırmak",
+   "slayt",
+   "kaydırak"
+  ],
+  "ex": [
+   "Tabağı masanın üzerinden bana doğru kaydırdı.",
+   "Öğretmenler, karmaşık bilimsel süreçleri daha net açıklamak için özenle hazırlanmış bir slayt kullanabilir."
+  ],
+  "col": [
+   "üzerinden kaymak",
+   "içine kayarak girmek",
+   "sunum slaytı",
+   "kaydıraktan kaymak"
+  ],
+  "tip": "Fiilin geçmiş zamanı ve ortaç hali slid'dir. Düzensiz çekimlendiğine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "maximum",
+  "senses": [
+   "azami; en yüksek",
+   "üst sınır; azami"
+  ],
+  "ex": [
+   "Bu asansörün azami kapasitesi sekiz kişidir.",
+   "Hükümetler, halk sağlığını korumak ve hava kalitesini iyileştirmek için endüstriyel emisyonlara üst sınırlar koymalıdır."
+  ],
+  "col": [
+   "azami kapasite",
+   "azami hız",
+   "en fazla",
+   "azami seviyeye ulaşmak"
+  ],
+  "tip": "a maximum of 'en fazla' anlamına gelir. Zıt anlamlısı minimum'dur.",
+  "note": ""
+ },
+ {
+  "id": "saving",
+  "senses": [
+   "tasarruf; kazanç",
+   "birikim; mevduat"
+  ],
+  "ex": [
+   "Aylık bir kart almak bana faydalı bir tasarruf sağladı.",
+   "Verimli ısıtma sistemlerine yapılan yatırım, uzun vadede hanehalkları için önemli enerji tasarrufu sağlayabilir."
+  ],
+  "col": [
+   "tasarruf etmek",
+   "enerji tasarrufu",
+   "ömür boyu biriktirilen para",
+   "tasarruf hesabı"
+  ],
+  "tip": "Birikim anlamında çoğul savings kullanılır. Tek seferlik tasarruf için saving tekil olabilir.",
+  "note": ""
+ },
+ {
+  "id": "champion",
+  "senses": [
+   "şampiyon",
+   "savunucu; destekçi",
+   "savunmak; desteklemek"
+  ],
+  "ex": [
+   "Yeni şampiyon kupasını iki eliyle kaldırdı.",
+   "Yerel kuruluşlar, sakinlerle çalışarak ve belediyelere pratik öneriler sunarak uygun fiyatlı konut için savunuculuk yapabilir."
+  ],
+  "col": [
+   "dünya şampiyonu",
+   "savunan şampiyon",
+   "eşitliğin savunucusu",
+   "bir davayı savunmak"
+  ],
+  "tip": "Fiil olarak doğrudan nesne alır: champion a cause. Arasına for ya da of eklenmez.",
+  "note": ""
+ },
+ {
+  "id": "torch",
+  "senses": [
+   "el feneri",
+   "meşale"
+  ],
+  "ex": [
+   "Kayıp anahtarlarımı bulmak için bir el feneri kullandım.",
+   "Gün batımından sonra uzak bölgeleri keşfederken yürüyüşçüler yanlarında bir el feneri ve yedek pil bulundurmalıdır."
+  ],
+  "col": [
+   "feneri açmak",
+   "el feneri ışığı",
+   "birine gönül bağlamak",
+   "alevli meşale"
+  ],
+  "tip": "İngiliz İngilizcesinde el feneri torch, Amerikan İngilizcesinde ise flashlight denir.",
+  "note": ""
+ },
+ {
+  "id": "crack",
+  "senses": [
+   "çatlak; yarık",
+   "çatlamak; çatlatmak",
+   "çatırtı"
+  ],
+  "ex": [
+   "Favori mavi kupamda ince bir çatlak var.",
+   "Mühendisler rutin denetim sırasında köprüde bir çatlak tespit etti ve acil onarım önerdi."
+  ],
+  "col": [
+   "duvardaki bir çatlak",
+   "yumurta kırmak",
+   "yüksek bir çatırtı"
+  ],
+  "tip": "crack çoğunlukla parçalara ayrılmadan çatlamayı anlatır. Tamamen parçalanmayı ise shatter anlatır.",
+  "note": ""
+ },
+ {
+  "id": "payment",
+  "senses": [
+   "ödeme; ödeme işlemi",
+   "ödenen tutar"
+  ],
+  "ex": [
+   "Dükkân kartla veya nakitle ödemeyi kabul ediyor.",
+   "Dijital ödeme sistemleri günlük işlemleri daha kolay hale getirebilir, ancak internete erişimi olmayan insanları dışlayabilir."
+  ],
+  "col": [
+   "ödeme yapmak",
+   "peşin ödeme",
+   "aylık ödeme",
+   "ödeme yöntemi"
+  ],
+  "tip": "Ödeme eylemi genellikle sayılamaz. Bir ödeme ya da belirli bir tutar için a payment denir.",
+  "note": ""
+ }
+]

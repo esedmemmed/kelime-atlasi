@@ -1,0 +1,278 @@
+[
+ {
+  "id": "laborer",
+  "senses": [
+   "işçi; emekçi"
+  ],
+  "ex": [
+   "Bir işçi, inşaat sahasında ağır tuğlaları taşıyordu.",
+   "Her inşaat işçisi, sahada işe başlamadan önce güvenlik eğitimi ve uygun koruyucu ekipman almalıdır."
+  ],
+  "col": [
+   "el emeği işçisi",
+   "inşaat işçisi",
+   "tarım işçisi",
+   "vasıfsız işçi"
+  ],
+  "tip": "Amerikan yazımıdır; İngiliz yazımı labourer'dır. Fiziksel emeği vurgular. Vasıfsız işçi için unskilled laborer denir.",
+  "note": ""
+ },
+ {
+  "id": "objection",
+  "senses": [
+   "itiraz; karşı çıkma"
+  ],
+  "ex": [
+   "Tek itirazım biletlerin çok pahalı olması.",
+   "Sakinler, planlanan havalimanı genişletmesine gürültü düzeyi üzerindeki olası etkisi nedeniyle itiraz etti."
+  ],
+  "col": [
+   "itiraz etmek",
+   "itirazım yok",
+   "güçlü bir itiraz"
+  ],
+  "tip": "objection'dan sonra to edatı gelir: objection to paying. Bu kalıpta for kullanılmaz; to tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "distinctly",
+  "senses": [
+   "açıkça; net olarak",
+   "belirgin biçimde; kesinlikle"
+  ],
+  "ex": [
+   "Anahtarlarımı çaydanlığın yanına bıraktığımı açıkça hatırlıyorum.",
+   "Belediye sokak aydınlatmasını iyileştirip düzenli akşam otobüs seferleri başlattıktan sonra sakinler kendilerini belirgin biçimde daha güvende hissetti."
+  ],
+  "col": [
+   "açıkça hatırlamak",
+   "net duymak",
+   "belirgin biçimde farklı"
+  ],
+  "tip": "Algının açıklığını ya da belirgin bir derecesini anlatır. Sıfat biçimi distinct'tir; ikisini karıştırmamak gerekir.",
+  "note": ""
+ },
+ {
+  "id": "gem",
+  "senses": [
+   "değerli taş; mücevher",
+   "hazine; değerli şey"
+  ],
+  "ex": [
+   "Küçük mavi taş, gümüş yüzüğünde parlıyordu.",
+   "Küçük bölgesel müzeler, bir topluluğun kültürel tarihinin önemli yönlerini ortaya koyan gizli hazineler barındırır."
+  ],
+  "col": [
+   "değerli taş",
+   "gizli hazine",
+   "harika bir kitap"
+  ],
+  "tip": "hidden gem, az bilinen ama değerli bir yer ya da şey için kullanılır. a gem of a kalıbı ise övgü ifadesidir.",
+  "note": ""
+ },
+ {
+  "id": "unpaid",
+  "senses": [
+   "ücretsiz; karşılıksız",
+   "ödenmemiş"
+  ],
+  "ex": [
+   "Her cumartesi hayvan barınağında ücretsiz çalışıyor.",
+   "Ücretsiz stajlar, düzenli geliri olmadan çalışamayan öğrencileri dezavantajlı duruma düşürebilir."
+  ],
+  "col": [
+   "ücretsiz iş",
+   "ücretsiz izin",
+   "ödenmemiş faturalar",
+   "ücretsiz staj"
+  ],
+  "tip": "unpaid work ücretsiz çalışmayı, unpaid bills ise ödenmemiş faturaları anlatır. İsimlerin önünde sıfat olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "splendid",
+  "senses": [
+   "harika; mükemmel",
+   "muhteşem; görkemli"
+  ],
+  "ex": [
+   "Dün göl kenarında harika bir piknik yaptık.",
+   "Tarihi bahçelerin restorasyonu, şehir sakinlerine doğayı keyfetme ve yerel mirası öğrenme konusunda muhteşem bir fırsat sunuyor."
+  ],
+  "col": [
+   "harika bir fırsat",
+   "muhteşem bir manzara",
+   "harika bir iş"
+  ],
+  "tip": "Çok iyi bir şeyi ya da görkemli bir görünümü anlatır. good'dan daha güçlü ve olumlu bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "appropriate",
+  "senses": [
+   "uygun; yerinde",
+   "izinsiz kullanmak; el koymak",
+   "ayırmak; tahsis etmek"
+  ],
+  "ex": [
+   "Bu ayakkabılar uzun bir dağ yürüyüşü için uygun mu?",
+   "Hükümetler, işgücü piyasasındaki teknolojik değişimlere uyum sağlamaları için çalışanlara uygun eğitim sağlamalıdır."
+  ],
+  "col": [
+   "...için uygun",
+   "uygun önlemler",
+   "uygun davranış",
+   "...için ödenek ayırmak"
+  ],
+  "tip": "Sıfat sonundaki ses /ət/, fiilde /eɪt/ okunur. Fiil olarak 'uygun bulmak' değil, izinsiz alma ya da bütçe ayırma anlamı taşır.",
+  "note": ""
+ },
+ {
+  "id": "hardness",
+  "senses": [
+   "sertlik; katılık",
+   "suyun sertliği"
+  ],
+  "ex": [
+   "Bu ağacın sertliği oymayı zorlaştırıyor.",
+   "Mühendisler, köprüler ve diğer büyük yapılar için uygun bileşenleri seçmeden önce farklı malzemelerin sertliğini değerlendirir."
+  ],
+  "col": [
+   "yüzey sertliği",
+   "su sertliği",
+   "sertlik testi"
+  ],
+  "tip": "hardness sertlik anlamına gelir; hardship ise zorluk ya da sıkıntı demektir. İkisi birbirine benzediği için karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "expectancy",
+  "senses": [
+   "beklenti; umut",
+   "beklenen ömür; süre"
+  ],
+  "ex": [
+   "Çocuklar perdenin açılmasını hevesli bir beklentiyle izliyordu.",
+   "Gelişen sağlık hizmetleri ve sanitasyon, dünyanın birçok yerinde yaşam beklentisini artırdı."
+  ],
+  "col": [
+   "yaşam beklentisi",
+   "beklenti havası",
+   "hevesli beklenti"
+  ],
+  "tip": "life expectancy, ortalama beklenen yaşam süresidir; kişinin gerçekte ne kadar yaşayacağını garanti etmez.",
+  "note": ""
+ },
+ {
+  "id": "convenience",
+  "senses": [
+   "kolaylık; rahatlık",
+   "kolaylık sağlayan şey; imkan"
+  ],
+  "ex": [
+   "Misafirler geldiğinde kolaylık olsun diye yedek anahtarlarımı burada tutuyorum.",
+   "Çevrimiçi alışveriş kolaylık sağlasa da gereksiz harcamalara ve ambalaj atığının artmasına yol açabilir."
+  ],
+  "col": [
+   "kolaylık olsun diye",
+   "size uygun olduğunda",
+   "modern kolaylıklar",
+   "küçük market"
+  ],
+  "tip": "convenience genellikle sayılamayan bir isimdir; sıfat biçimi convenient'tir. for convenience kalıbı 'kolaylık olsun diye' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "editing",
+  "senses": [
+   "düzenleme; kurgu",
+   "düzenlemek; kurgulamak"
+  ],
+  "ex": [
+   "Bu tatil videolarını düzenlemek bütün öğleden sonramı aldı.",
+   "Dikkatli bir düzenleme, araştırmacıların karmaşık bulguları açık biçimde sunmasına yardımcı olur ve akademik makaleleri daha anlaşılır hale getirir."
+  ],
+  "col": [
+   "video kurgusu",
+   "metin redaksiyonu",
+   "düzenleme yazılımı"
+  ],
+  "tip": "Hem isim hem de edit fiilinin -ing biçimi olarak kullanılır. Fiil olarak edit, isim olarak editing tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "fleet",
+  "senses": [
+   "filo; donanma",
+   "araç filosu; uçak filosu"
+  ],
+  "ex": [
+   "Bir balıkçı tekneleri filosu, gün batmadan limana döndü.",
+   "Şehrin yaşlanan otobüs filosunun elektrikli araçlarla değiştirilmesi, yerleşim alanlarındaki hava kirliliğini önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "balıkçı filosu",
+   "deniz kuvvetleri filosu",
+   "otobüs filosu",
+   "bir araç filosu"
+  ],
+  "tip": "fleet toplu bir isimdir; a fleet of kalıbıyla tekne, araç ya da uçaklardan oluşan bir grubu belirtir.",
+  "note": ""
+ },
+ {
+  "id": "functional",
+  "senses": [
+   "işlevsel; pratik",
+   "çalışır durumda; işler",
+   "işleyişle ilgili"
+  ],
+  "ex": [
+   "Mutfak küçük ama pratik; bol dolap alanı var.",
+   "Sosyal konutlar, farklı hane halklarının günlük ihtiyaçlarını karşılayan işlevsel yaşam alanları sunmalıdır."
+  ],
+  "col": [
+   "işlevsel tasarım",
+   "tam çalışır durumda",
+   "işlevsel gereksinimler"
+  ],
+  "tip": "Süslemeden çok kullanışlılığı ya da bir cihazın düzgün çalışmasını anlatır. Bağlama göre hangi anlamın kastedildiğine dikkat edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "feast",
+  "senses": [
+   "ziyafet; şölen",
+   "zevk kaynağı; şölen",
+   "ziyafet çekmek; doyasıya yemek"
+  ],
+  "ex": [
+   "Bütün aile için bir ziyafet hazırladık.",
+   "Geleneksel festivaller genellikle ilişkileri güçlendiren ve yerel yemek kültürünü yaşatan ortak bir ziyafet içerir."
+  ],
+  "col": [
+   "ziyafet hazırlamak",
+   "gözler için şölen",
+   "doyasıya yemek"
+  ],
+  "tip": "Fiil olarak genellikle feast on kalıbıyla kullanılır: feast on fruit. Mecazi 'gözlere ziyafet' anlamı için feast for the eyes denir.",
+  "note": ""
+ },
+ {
+  "id": "plump",
+  "senses": [
+   "dolgun; tombul",
+   "kabartmak; şişirmek"
+  ],
+  "ex": [
+   "Meyve sepetinden dolgun bir şeftali seçti.",
+   "Tüketiciler genellikle dolgun meyveyi tercih eder; ancak görünüş tek başına besin değerinin güvenilir bir göstergesi değildir."
+  ],
+  "col": [
+   "tombul yanaklar",
+   "dolgun meyve",
+   "yastığı kabartmak"
+  ],
+  "tip": "fat'ten daha nazik bir ifadedir; ama birinin vücudunu tarif ederken dikkatli olunmalıdır. Meyve için dolgun, insan için tombul daha uygundur.",
+  "note": ""
+ }
+]

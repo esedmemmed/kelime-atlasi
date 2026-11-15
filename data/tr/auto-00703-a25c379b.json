@@ -1,0 +1,280 @@
+[
+ {
+  "id": "office",
+  "senses": [
+   "ofis; büro",
+   "şube; büro",
+   "makam; görev"
+  ],
+  "ex": [
+   "Şemsiyemi ofiste masanın altında unutmuşum.",
+   "Esnek çalışma düzenleri, çalışanların zamanını ofis ile ev arasında bölmesine olanak tanıyor."
+  ],
+  "col": [
+   "çalışma saatleri",
+   "merkez ofis",
+   "görevde olmak",
+   "göreve başlamak"
+  ],
+  "tip": "Ofiste anlamında in the office, görevde anlamında ise article almadan in office kullanılır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "pants",
+  "senses": [
+   "pantolon",
+   "külot; iç çamaşırı"
+  ],
+  "ex": [
+   "Bu pantolonun anahtarlarım için derin cepleri var.",
+   "Bazı okullar, geleneksel resmi üniforma yerine rahat pantolon giymeye izin veriyor."
+  ],
+  "col": [
+   "bir çift pantolon",
+   "bol pantolon",
+   "külot"
+  ],
+  "tip": "Amerikan İngilizcesinde pants pantolon demektir; İngiliz İngilizcesinde ise iç çamaşırı anlamına gelebilir. Sayarken a pair of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "friend",
+  "senses": [
+   "arkadaş"
+  ],
+  "ex": [
+   "Dün pazarda eski bir arkadaşıma rastladım.",
+   "Yakın arkadaşlıkları sürdürmek, zor dönemlerde arkadaşların genellikle duygusal destek sağlamasıyla ruh sağlığını iyileştirebilir."
+  ],
+  "col": [
+   "yakın arkadaş",
+   "çocukluk arkadaşı",
+   "biriyle arkadaş olmak",
+   "arkadaşlarla iletişimde kalmak"
+  ],
+  "tip": "Biriyle arkadaş olmak için make friends with kalıbı kullanılır. Genel anlamda 'arkadaşlar' için friends çoğul biçimi tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "very",
+  "senses": [
+   "çok",
+   "tam; tam da"
+  ],
+  "ex": [
+   "Çorba çok sıcak, biraz soğumasını bekle.",
+   "Otomobil sahibi olmaya gücü yetmeyen sakinler için güvenilir toplu taşıma çok önemlidir."
+  ],
+  "col": [
+   "çok önemli",
+   "çok dikkatli",
+   "en başta; başlangıçta",
+   "tam aynı"
+  ],
+  "tip": "very sıfat ve zarfları güçlendirir. Fiili güçlendirirken very değil, very much kullanılır: I like it very much.",
+  "note": ""
+ },
+ {
+  "id": "dancing",
+  "senses": [
+   "dans; dans etme"
+  ],
+  "ex": [
+   "Her cumartesi toplum merkezinde birlikte dans etmeye gideriz.",
+   "Düzenli dans etmek, farklı yaş gruplarında sosyal etkileşim fırsatları sunarken fiziksel uygunluğu artırabilir."
+  ],
+  "col": [
+   "dansa gitmek",
+   "salon dansı",
+   "halk dansları"
+  ],
+  "tip": "Etkinlik anlamındaki dancing genellikle sayılmaz. go dancing kalıbı 'dans etmeye gitmek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "more",
+  "senses": [
+   "daha fazla; ek",
+   "daha çok",
+   "daha fazla"
+  ],
+  "ex": [
+   "Lütfen kasemi biraz daha pilavla doldurur musunuz?",
+   "Hükümetler, uzun vadede hastanelerin üzerindeki baskıyı azaltmak için koruyucu sağlık hizmetlerine daha fazla kaynak ayırmalı."
+  ],
+  "col": [
+   "...den fazla",
+   "giderek daha fazla",
+   "daha olası",
+   "daha fazla bilgi"
+  ],
+  "tip": "more hem sayılabilir hem sayılamaz isimlerle kullanılır. Many ve much sözcüklerinin karşılaştırma biçimidir.",
+  "note": ""
+ },
+ {
+  "id": "book",
+  "senses": [
+   "kitap",
+   "ayırtmak; rezervasyon yapmak"
+  ],
+  "ex": [
+   "Kitabımı mutfak masasında unutmuşum.",
+   "Halk kütüphaneleri kitaplara ücretsiz erişim sağlayarak insanların gelirlerinden bağımsız olarak öğrenmeye devam etmelerine yardımcı olur."
+  ],
+  "col": [
+   "kitap okumak",
+   "kitap ödünç almak",
+   "uçak bileti ayırtmak",
+   "randevu almak"
+  ],
+  "tip": "Fiil olarak book, uçak bileti, oda ya da randevu gibi bir hizmeti önceden ayırtmak anlamında doğrudan nesne alır: book a flight.",
+  "note": ""
+ },
+ {
+  "id": "home",
+  "senses": [
+   "ev; yuva",
+   "eve; evde",
+   "ev; yurt içi"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra kafeden birlikte yürüyerek eve döndük.",
+   "Evden çalışmak işe gidip gelme masraflarını azaltabilir, ama meslektaşlar arasındaki sosyal etkileşimi de sınırlayabilir."
+  ],
+  "col": [
+   "kendini evinde hissetmek",
+   "eve dönmek",
+   "anavatan",
+   "evden ayrılmak"
+  ],
+  "tip": "home zarf olarak 'eve' anlamında kullanılırken önüne to getirilmez: go home denir, go to home denmez.",
+  "note": ""
+ },
+ {
+  "id": "date",
+  "senses": [
+   "tarih",
+   "randevu; buluşma",
+   "tarihlendirmek"
+  ],
+  "ex": [
+   "Piknik için bir tarih seçtin mi?",
+   "Araştırmacılar, bu antik köyün kalıntılarını tarihlendirmek için yakında bulunan ahşap aletleri kullandı."
+  ],
+  "col": [
+   "tarih belirlemek",
+   "randevuya çıkmak",
+   "...e dayanmak",
+   "son kullanma tarihi"
+  ],
+  "tip": "date back to 'bir zamana dayanmak, o döneme ait olmak' anlamında kullanılır ve genellikle etken yapıda yer alır.",
+  "note": ""
+ },
+ {
+  "id": "club",
+  "senses": [
+   "kulüp; dernek",
+   "gece kulübü",
+   "golf sopası; sopa"
+  ],
+  "ex": [
+   "Yeni insanlarla tanışmak için bir satranç kulübüne katıldım.",
+   "Okul spor kulüpleri, öğrencilerin takım çalışması becerilerini geliştirmesine ve düzenli fiziksel aktiviteyi teşvik etmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kulübe katılmak",
+   "spor kulübü",
+   "kulüp üyesi",
+   "golf sopası"
+  ],
+  "tip": "join a club 'bir kulübe katılmak' anlamındadır. Doğrudan a club ile kullanılır; join in a club denmez.",
+  "note": ""
+ },
+ {
+  "id": "hundred",
+  "senses": [
+   "yüz"
+  ],
+  "ex": [
+   "Salon yaklaşık yüz kişiyi alabilir.",
+   "Birkaç yüz sakin, önerilen park ve bisiklet yolu iyileştirmeleri hakkındaki ankete katıldı."
+  ],
+  "col": [
+   "yüz kişi",
+   "iki yüz",
+   "yüzlerce"
+  ],
+  "tip": "Belirli bir sayıdan sonra hundred tekil kalır: two hundred. 'Yüzlerce' anlamında ise hundreds of kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "toilet",
+  "senses": [
+   "klozet; tuvalet kasesi",
+   "tuvalet; banyo"
+  ],
+  "ex": [
+   "Üst kattaki klozet sürekli tuhaf bir damlama sesi çıkarıyor.",
+   "Temiz kamu tuvaletlerine erişim, sağlığı korumak ve kentsel alanları herkes için davetkar kılmak açısından şarttır."
+  ],
+  "col": [
+   "sifonu çekmek",
+   "kamu tuvaletleri",
+   "tuvalet kağıdı",
+   "klozet kapağı"
+  ],
+  "tip": "Amerikan İngilizcesinde toilet genellikle klozet anlamına gelir. Kamuya açık bir tuvalet sorarken restroom daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "grandmother",
+  "senses": [
+   "büyükanne; nine"
+  ],
+  "ex": [
+   "Büyükannem mutfak pencere pervazında taze otlar yetiştiriyor.",
+   "Birçok çalışan ebeveyn için büyükanne temel çocuk bakımı sağlar ve güçlü aile bağlarını sürdürmeye yardımcı olur."
+  ],
+  "col": [
+   "anne tarafından büyükanne",
+   "baba tarafından büyükanne",
+   "büyük büyükanne"
+  ],
+  "tip": "Türkçedeki anneanne ve babaanne ayrımı yerine İngilizcede genellikle maternal veya paternal eklenerek taraf belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "japan",
+  "senses": [
+   "Japonya"
+  ],
+  "ex": [
+   "Tatilimizde trenle Japonya'yı gezdik.",
+   "Japonya, sismik olarak aktif bir bölgede yaşamanın risklerini azaltmak için depreme dayanıklı binalara yatırım yaptı."
+  ],
+  "col": [
+   "Japonya'yı ziyaret etmek",
+   "Japonya'da",
+   "Japonya'ya seyahat etmek"
+  ],
+  "tip": "Ülke adları büyük harfle yazılır ve genellikle the almaz. Japon kişi ya da dil için Japanese kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "lion",
+  "senses": [
+   "aslan"
+  ],
+  "ex": [
+   "Aslan gölgede bir ağacın altında dinleniyordu.",
+   "Aslanları korumak, çiftçilerle çatışmadan doğal olarak avlanabilecekleri geniş yaşam alanları gerektirir."
+  ],
+  "col": [
+   "aslan sürüsü",
+   "aslanın yelesi",
+   "en büyük pay"
+  ],
+  "tip": "Dişi aslan için lioness kullanılır. Aslan grubu için a pride of lions denir.",
+  "note": ""
+ }
+]

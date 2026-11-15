@@ -1,0 +1,273 @@
+[
+ {
+  "id": "aerodynamics",
+  "senses": [
+   "aerodinamik",
+   "aerodinamik performans"
+  ],
+  "ex": [
+   "Kağıt uçakları bahçede test ederek aerodinamiği inceledik.",
+   "Aerodinamikteki gelişmeler, uçak üreticilerinin yolcu kapasitesinden ödün vermeden yakıt tüketimini azaltmasına olanak tanıyor."
+  ],
+  "col": [
+   "aerodinamiğin ilkeleri",
+   "aerodinamiği iyileştirmek",
+   "araç aerodinamiği"
+  ],
+  "tip": "Bilim dalı olarak -s ile bitse de genellikle tekil fiille kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "recurrence",
+  "senses": [
+   "yinelenme; nüks"
+  ],
+  "ex": [
+   "Düzenli esneme egzersizleri, sırt ağrısının tekrarlamasını önlemeye yardımcı olabilir.",
+   "Gelişmiş drenaj sistemleri, kentsel alanlarda ciddi sel baskınlarının yinelenme riskini azaltabilir."
+  ],
+  "col": [
+   "tekrarlanmasını önlemek",
+   "yinelenme riski",
+   "belirtilerin nüksetmesi"
+  ],
+  "tip": "Hastalık için 'nüks', olay ve sorunlar için 'yinelenme' karşılığı uygundur. Genellikle of ile kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "oasis",
+  "senses": [
+   "vaha",
+   "huzur dolu sığınak"
+  ],
+  "ex": [
+   "Saatlerce yürüdükten sonra küçük bir vahaya ulaştık.",
+   "Kamu bahçeleri, yoğun nüfuslu kentlerde yaşayan sakinler için huzurlu bir sığınak sağlıyor."
+  ],
+  "col": [
+   "çöl vahası",
+   "huzur dolu bir sığınak"
+  ],
+  "tip": "Çoğulu oases'dir. Mecaz anlamda gürültülü bir ortamdaki sakin yeri de anlatır.",
+  "note": ""
+ },
+ {
+  "id": "defraud",
+  "senses": [
+   "dolandırmak"
+  ],
+  "ex": [
+   "Arayan kişi, tasarruflarını elinden almak için onu dolandırmaya çalıştı.",
+   "Daha güçlü tüketici koruma yasaları, dürüst olmayan işletmelerin savunmasız müşterileri dolandırmasını engelleyebilir."
+  ],
+  "col": [
+   "birinden para dolandırmak",
+   "yatırımcıları dolandırmak",
+   "dolandırıcılık komplosu"
+  ],
+  "tip": "Kalıp defraud sb of sth şeklindedir; of ile kimden neyin alındığı belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "turnover",
+  "senses": [
+   "ciro; satış hacmi",
+   "personel devir oranı"
+  ],
+  "ex": [
+   "Sandviç satmaya başladıktan sonra pastanemizin cirosu arttı.",
+   "Yüksek personel devri, işe alım maliyetlerini artırabilir ve şirketlerin tutarlı hizmet sunmasını zorlaştırabilir."
+  ],
+  "col": [
+   "yıllık ciro",
+   "personel devri",
+   "yüksek devir oranı"
+  ],
+  "tip": "Ciro kâr anlamına gelmez. Kâr için ayrı bir kavram olduğunu ve bağlama göre doğru anlamı seçmeyi unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "embroidery",
+  "senses": [
+   "nakış; işleme",
+   "nakış işi; işlemeli desen"
+  ],
+  "ex": [
+   "Düz yastık kılıflarına çiçek işleyerek nakış çalışıyorum.",
+   "Toplumsal nakış atölyeleri, geleneksel becerileri korurken farklı kuşakların birlikte öğrenmesine fırsat yaratabilir."
+  ],
+  "col": [
+   "el nakışı",
+   "nakış ipliği",
+   "nakış çemberi",
+   "ince işçilikli nakış"
+  ],
+  "tip": "Genellikle sayılamaz. Fiili embroider olup 'nakış işlemek' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "attributable",
+  "senses": [
+   "-den kaynaklanan; atfedilebilir"
+  ],
+  "ex": [
+   "Nemli leke, sızdıran bir boruya bağlanabilir.",
+   "Halk sağlığındaki iyileşmenin büyük bölümü, daha temiz içme suyu ve daha iyi hijyen koşullarına bağlanabilir."
+  ],
+  "col": [
+   "...den kaynaklanan",
+   "doğrudan ...den kaynaklanan",
+   "büyük ölçüde ...e bağlanabilir"
+  ],
+  "tip": "Kalıp be attributable to şeklindedir. to'dan sonra nedeni gösteren isim veya isim tamlaması gelir.",
+  "note": ""
+ },
+ {
+  "id": "vain",
+  "senses": [
+   "boşuna; beyhude",
+   "kendini beğenmiş; kibirli"
+  ],
+  "ex": [
+   "Şemsiyeyi onarmak için boşuna bir girişimde bulunduk.",
+   "Uygun fiyatlı toplu taşıma olmadan özel araç kullanımını azaltma kampanyaları boşuna çabalar olabilir."
+  ],
+  "col": [
+   "boş bir girişim",
+   "boşuna",
+   "boş bir umut"
+  ],
+  "tip": "in vain 'boşuna' anlamında zarf görevi görür. vain sıfat olarak 'kibirli' anlamını da taşır.",
+  "note": ""
+ },
+ {
+  "id": "wrench",
+  "senses": [
+   "İngiliz anahtarı",
+   "sertçe çekmek; burkmak",
+   "ayrılık acısı; ani burkma"
+  ],
+  "ex": [
+   "Gevşek cıvatayı bir İngiliz anahtarıyla sıktı.",
+   "Yakın bir topluluktan ayrılmak, yurt dışında üniversiteye giden öğrenciler için gerçekten yürek yakan bir ayrılık olabilir."
+  ],
+  "col": [
+   "ayarlanabilir anahtar",
+   "bir şeyi sertçe açmak",
+   "omzunu burkmak",
+   "gerçek bir ayrılık acısı"
+  ],
+  "tip": "İngiliz İngilizcesinde bu alet spanner olarak adlandırılır. wrench fiil olarak da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "affirm",
+  "senses": [
+   "kesin olarak onaylamak"
+  ],
+  "ex": [
+   "Her iki ebeveyn de kızlarının kariyer seçimine desteklerini açıkça belirtti.",
+   "Okullar, öğretim materyallerinin farklı geçmişleri ve deneyimleri yansıtmasını sağlayarak kültürel çeşitliliğin değerini teyit etmelidir."
+  ],
+  "col": [
+   "bağlılığını teyit etmek",
+   "...e desteğini belirtmek",
+   "...olduğunu kesin olarak belirtmek",
+   "...nin değerini vurgulamak"
+  ],
+  "tip": "Resmi bir fiildir. That yan cümlesiyle de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "denote",
+  "senses": [
+   "belirtmek; göstermek"
+  ],
+  "ex": [
+   "Bu haritada mavi çizgiler nehir ve dereleri gösteriyor.",
+   "Bilimsel şemalarda farklı renkler genellikle ayrı malzemeleri gösterir ve okuyucunun karmaşık yapıları daha kolay yorumlamasını sağlar."
+  ],
+  "col": [
+   "bir kategoriyi belirtmek",
+   "bir değişikliği göstermek",
+   "...ile gösterilmek"
+  ],
+  "tip": "Sembol, renk veya sözcüklerin bir anlamı temsil etmesi için kullanılır. 'Göstermek'ten daha resmidir.",
+  "note": ""
+ },
+ {
+  "id": "lag",
+  "senses": [
+   "geri kalmak; gecikmek",
+   "gecikme; zaman aralığı"
+  ],
+  "ex": [
+   "Dik tepelerde her zaman kız kardeşimin gerisinde kalırım.",
+   "Kırsal ulaşım yatırımları genellikle kentsel gelişimin gerisinde kalır; bu da iş ve temel hizmetlere erişimi sınırlar."
+  ],
+  "col": [
+   "geride kalmak",
+   "zaman gecikmesi",
+   "gelişmedeki gecikme"
+  ],
+  "tip": "lag behind kalıbını öğrenin. Geçmiş zaman biçimi lagged'dır.",
+  "note": ""
+ },
+ {
+  "id": "formulate",
+  "senses": [
+   "geliştirmek; hazırlamak",
+   "net biçimde ifade etmek"
+  ],
+  "ex": [
+   "Taşınmadan önce bir plan yapmamız gerekiyor.",
+   "Hükümetler, herkes için uygun fiyatlı erişimi sağlarken trafik sıkışıklığını azaltan ulaşım politikaları geliştirmelidir."
+  ],
+  "col": [
+   "plan hazırlamak",
+   "politika geliştirmek",
+   "hipotez kurmak",
+   "yanıt formüle etmek"
+  ],
+  "tip": "make fiilinden daha resmidir. Plan, politika ve hipotez gibi sözcüklerle sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "captive",
+  "senses": [
+   "esir tutulan; kafeste",
+   "esir; tutsak",
+   "kaçamayan; çaresiz"
+  ],
+  "ex": [
+   "Esir kuş, kafesin içinde kanatlarını açtı.",
+   "Esir hayvanların üretimi koruma çalışmalarına destek olabilir; ancak doğal yaşam alanlarının korunması uzun vadeli yaşam için hâlâ şarttır."
+  ],
+  "col": [
+   "birini esir tutmak",
+   "esir hayvanlar",
+   "kaçamayan dinleyici kitlesi",
+   "esir üretimi"
+  ],
+  "tip": "captive audience, zevkle dinleyen değil, kaçamayan dinleyici kitlesi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "manipulate",
+  "senses": [
+   "yönlendirmek; manipüle etmek",
+   "becerikli biçimde kullanmak"
+  ],
+  "ex": [
+   "Kız kardeşini bulaşıkları yıkamaya ikna etmek için onu yönlendirmeye çalıştı.",
+   "Çevrimiçi platformlar, ürünleri seçerek göstererek ve bilgiye erişimi kontrol ederek tüketici tercihlerini yönlendirebilir."
+  ],
+  "col": [
+   "verileri manipüle etmek",
+   "kamuoyunu yönlendirmek",
+   "birini bir şey yapmaya yönlendirmek"
+  ],
+  "tip": "Birini bir şey yapmaya yönlendirmek için manipulate sb into doing kalıbı kullanılır.",
+  "note": ""
+ }
+]

@@ -1,0 +1,271 @@
+[
+ {
+  "id": "lax",
+  "senses": [
+   "gevşek; ihmalkar",
+   "gevşek; sarkık"
+  ],
+  "ex": [
+   "Kulüp üyelik kartlarını kontrol etmekte oldukça gevşek davranıyor.",
+   "Çevre yönetmeliklerinin gevşek uygulanması, bazı fabrikaların arıtılmamış atığı yakındaki nehirlere boşaltmasına izin veriyor."
+  ],
+  "col": [
+   "gevşek güvenlik",
+   "gevşek uygulama",
+   "gevşek standartlar",
+   "kurallar konusunda gevşek"
+  ],
+  "tip": "Genellikle kuralların veya sorumlulukların uygulanmasında gevşekliği anlatır. Günlük dilde ishal anlamında kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "prone",
+  "senses": [
+   "eğilimli; yatkın",
+   "yüzüstü yatan"
+  ],
+  "ex": [
+   "Soğuk havalarda cildim kuruma eğilimindedir.",
+   "Deniz seviyeleri yükselirken ve şiddetli fırtınalar sıklaşırken kıyı yerleşimleri giderek daha fazla sel riskiyle karşı karşıya kalıyor."
+  ],
+  "col": [
+   "yaralanmaya açık",
+   "sel baskınına açık",
+   "kazaya meyilli",
+   "yüzüstü yatmak"
+  ],
+  "tip": "prone to'dan sonra isim ya da -ing almak gerekir ve genellikle olumsuz durumlar için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "accustom",
+  "senses": [
+   "alıştırmak"
+  ],
+  "ex": [
+   "Yavaş yavaş pencereyi açık tutarak uyumaya alıştım.",
+   "Okullar, düzenli olarak ortak sorumluluk gerektiren görevler vererek öğrencilerini birlikte çalışmaya alıştırabilir."
+  ],
+  "col": [
+   "kendini alıştırmak",
+   "alışkın hale gelmek",
+   "alışkın olmak"
+  ],
+  "tip": "accustom oneself to kalıbında to edat olduğu için arkasına isim ya da -ing gelir. Sıfat hali be accustomed to şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "entity",
+  "senses": [
+   "varlık; kuruluş"
+  ],
+  "ex": [
+   "Küçük fırınımız artık ayrı bir kuruluş olarak faaliyet gösteriyor.",
+   "Her üniversite, önemli araştırma projelerinde diğer kurumlarla işbirliği yaparken bağımsız bir kuruluş olarak kalmalıdır."
+  ],
+  "col": [
+   "ayrı bir kuruluş",
+   "yasal varlık",
+   "ticari kuruluş"
+  ],
+  "tip": "Bağımsız olarak var olan birimi anlatır. Kurum, hukuk ve ticaret bağlamlarında sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "burdensome",
+  "senses": [
+   "yük olan; ağır"
+  ],
+  "ex": [
+   "Yoğun olduğumuz hafta, ekstra evrak işleri ciddi bir yük haline geldi.",
+   "Aşırı ağır düzenlemeler, ürünlerine talep güçlü olsa bile küçük işletmelerin büyümesini engelleyebilir."
+  ],
+  "col": [
+   "ağır düzenlemeler",
+   "yorucu görev",
+   "mali yük"
+  ],
+  "tip": "Genellikle görev, masraf veya düzenlemeler için kullanılır; fiziksel ağırlığı anlatmaz.",
+  "note": ""
+ },
+ {
+  "id": "chronology",
+  "senses": [
+   "kronoloji; zaman çizelgesi",
+   "kronoloji bilimi"
+  ],
+  "ex": [
+   "Bu aile fotoğrafları olayların sırasını belirlememize yardımcı oldu.",
+   "Doğru bir kronoloji kurmak, tarihçilerin çevresel değişimlerin erken yerleşimlerin gelişimini nasıl etkilediğini incelemesine olanak tanır."
+  ],
+  "col": [
+   "kronoloji oluşturmak",
+   "olayların kronolojisi",
+   "doğru bir kronoloji"
+  ],
+  "tip": "Chronology isimdir; zaman sırasına göre anlamında chronologically zarfı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "extravagance",
+  "senses": [
+   "israf; savurganlık",
+   "lüks; gösterişli harcama"
+  ],
+  "ex": [
+   "Her hafta taze çiçek almak, tek lüksüm.",
+   "Temel hizmetler ciddi bütçe kesintileriyle karşı karşıya kaldığında hükümetin israfına yönelik eleştiriler genellikle artıyor."
+  ],
+  "col": [
+   "kişisel israf",
+   "gereksiz lüks",
+   "lüks zevki"
+  ],
+  "tip": "Savurganlık davranışı genellikle sayılamaz; belirli bir lüks harcama anlamında sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "expulsion",
+  "senses": [
+   "ihraç; uzaklaştırma",
+   "dışarı atma; çıkarma"
+  ],
+  "ex": [
+   "Tekrarlayan kopya çekme olayı, kulüpten ihraç edilmesine yol açtı.",
+   "Okullar ihraçtan önce destekleyici önlemleri düşünmelidir, çünkü dışlanma genç bir insanın eğitim beklentilerine ciddi zarar verebilir."
+  ],
+  "col": [
+   "okuldan ihraç",
+   "ihraç edilme tehlikesiyle karşılaşmak",
+   "havanın dışarı atılması"
+  ],
+  "tip": "Genellikle expulsion from kalıbıyla kullanılır. Karşılık gelen fiil expel'dir.",
+  "note": ""
+ },
+ {
+  "id": "par",
+  "senses": [
+   "standart; normal düzey",
+   "nominal değer; itibari değer",
+   "par (golf standart vuruş sayısı)"
+  ],
+  "ex": [
+   "Kendimi iyi hissetmiyorum, bu yüzden bu akşam evde kalacağım.",
+   "Dezavantajlı bölgelerdeki eğitim sonuçlarını, öğretmen eğitimine yapılacak yatırımla daha zengin bölgelerle aynı seviyeye getirmek mümkün olabilir."
+  ],
+  "col": [
+   "normalin altında",
+   "ile eşit düzeyde",
+   "nominal değerde",
+   "itibari değer"
+  ],
+  "tip": "on a par with 'eşit düzeyde' anlamına gelir; below par ise kişinin durumunun iyi olmadığını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "irrespective",
+  "senses": [
+   "bakmaksızın; göz önünde bulundurmadan"
+  ],
+  "ex": [
+   "Yaşı ne olursa olsun herkes yürüyüşe katılabilir.",
+   "Kaliteli eğitim, ailenin gelir durumuna ya da sosyal geçmişine bakılmaksızın tüm çocuklara sunulmalıdır."
+  ],
+  "col": [
+   "yaşa bakmaksızın",
+   "gelire bakmaksızın",
+   "sonuca bakmaksızın"
+  ],
+  "tip": "Genellikle irrespective of + isim kalıbında kullanılır ve 'bakmaksızın, fark etmeksizin' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "incur",
+  "senses": [
+   "başına gelmek; üstlenmek"
+  ],
+  "ex": [
+   "Bu kütüphanede geç iade edilen kitaplar için ek ücret alınabilir.",
+   "Eski ekipmanı değiştirirken işletmeler önemli maliyetlere katlanabilir; ancak modern teknoloji zamanla verimliliği artırabilir."
+  ],
+  "col": [
+   "masraf çıkarmak",
+   "zarara uğramak",
+   "borç yüklenmek",
+   "ceza almak"
+  ],
+  "tip": "Geçmiş zamanı incurred, ing hali incurring; r harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "sift",
+  "senses": [
+   "elemek; elekten geçirmek",
+   "incelemek; ayıklamak"
+  ],
+  "ex": [
+   "Hamuru kaseye koymadan önce eleyin.",
+   "Araştırmacılar, işsizliğin nedenleri hakkında güvenilir sonuçlara varmadan önce büyük miktarda kanıtı dikkatle incelemek zorundadır."
+  ],
+  "col": [
+   "un elemek",
+   "kanıtları incelemek",
+   "ayıklayıp çıkarmak"
+  ],
+  "tip": "sift through, bilgi yığınını dikkatle inceleyip yararlı olanı bulmak anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "lumber",
+  "senses": [
+   "kereste; biçilmiş tahta",
+   "ağır ağır ve beceriksizce ilerlemek"
+  ],
+  "ex": [
+   "Bahçe bankı yapmak için biraz kereste aldık.",
+   "Sürdürülebilir kaynaklardan elde edilen kerestelere olan talep, orman sahiplerini daha sorumlu yönetim uygulamalarını benimsemeye teşvik edebilir."
+  ],
+  "col": [
+   "kereste deposu",
+   "bir yığın kereste",
+   "ağır ağır ilerlemek"
+  ],
+  "tip": "Bu anlam daha çok Amerikan İngilizcesinde kullanılır; İngiliz İngilizcesinde genellikle timber tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "mangrove",
+  "senses": [
+   "mangrov ağacı; mangrov ormanı"
+  ],
+  "ex": [
+   "Küçük balıklar bir mangrov ağacının köklerinin arasında saklanıyordu.",
+   "Mangrov ormanları, sayısız deniz türü için temel yaşam alanları sunarken kıyı topluluklarını fırtınalara karşı korur."
+  ],
+  "col": [
+   "mangrov ormanı",
+   "mangrov kökleri",
+   "mangrov koruma"
+  ],
+  "tip": "Tek bir ağaç için de, ormanlık alan için de kullanılabilir; ormanlık alan için genellikle mangrove forest denir.",
+  "note": ""
+ },
+ {
+  "id": "squirt",
+  "senses": [
+   "fışkırtmak; püskürtmek",
+   "fışkırma; sıçrama"
+  ],
+  "ex": [
+   "Izgara balığın üzerine biraz limon suyu sıktı.",
+   "Su tasarrufu sağlayan sulama sistemleri, kurak bölgelerde israfı azaltarak suyu küçük miktarlarda doğrudan köklere püskürtür."
+  ],
+  "col": [
+   "su fışkırtmak",
+   "üzerine meyve suyu sıkmak",
+   "bir fışkırma sos"
+  ],
+  "tip": "Sıvının dar bir akımla fışkırmasını anlatır; genellikle squirt sıvı onto/into bir yer kalıbıyla kullanılır.",
+  "note": ""
+ }
+]

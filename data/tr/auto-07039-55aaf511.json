@@ -1,0 +1,258 @@
+[
+ {
+  "id": "virile",
+  "senses": [
+   "erkeksi; güçli"
+  ],
+  "ex": [
+   "Heykel, disk atan güçlü bir sporcuyu betimliyor.",
+   "Reklamlar çoğu zaman erkeklerin görünüşü ve davranışları hakkında dar beklentileri pekiştirebilecek, erkeksi bir erkek idealini öne çıkarır."
+  ],
+  "col": [
+   "erkeksi imaj",
+   "güçlü genç adam",
+   "erkeksi erkeklik"
+  ],
+  "tip": "Sözcük “erkeksi” anlamına gelir, ama asıl vurgu geleneksel olarak erkeklere atfedilen güç ve canlılıktadır. Kalıp yargı bağlamında da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "treatise",
+  "senses": [
+   "inceleme; risale"
+  ],
+  "ex": [
+   "Üst katta tozlu bir bahçecilik incelemesi buldum.",
+   "Filozofun eğitim üzerine kaleme aldığı inceleme, öğrenmede uygulamalı deneyimin merkezi bir rol oynaması gerektiğini savunuyor."
+  ],
+  "col": [
+   "...hakkında inceleme",
+   "inceleme yazmak",
+   "felsefi inceleme"
+  ],
+  "tip": "Genellikle “a treatise on” kalıbıyla kullanılır. Kısa yazılar için değil, konuyu sistemli ve ayrıntılı işleyen kapsamlı eserler için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "surmise",
+  "senses": [
+   "tahmin etmek; sanmak",
+   "tahmin; varsayım"
+  ],
+  "ex": [
+   "Islak şemsiyeleri görünce yağmur yağdığını tahmin ettim.",
+   "Araştırmacılar esnek çalışma saatlerinin çalışanların refahını artırdığını varsayıyor; ancak bunu doğrulamak için daha güçlü kanıtlara ihtiyaç var."
+  ],
+  "col": [
+   "...olduğunu tahmin etmek",
+   "...e bakarak tahmin etmek",
+   "salt tahmin"
+  ],
+  "tip": "Resmi bir sözcüktür ve sınırlı kanıta dayalı tahmini vurgular. Fiil olarak genellikle “that” yan cümlesiyle kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "terminable",
+  "senses": [
+   "feshedilebilir; sona erdirilebilir"
+  ],
+  "ex": [
+   "Kira sözleşmem bir aylık önel verilerek feshedilebilir.",
+   "İş sözleşmeleri, makul bir ihbar süresi verilmesi koşuluyla taraflardan herhangi biri tarafından feshedilebilir olmalıdır."
+  ],
+  "col": [
+   "feshedilebilir sözleşme",
+   "ihbar üzerine feshedilebilir",
+   "her iki taraf tarafından feshedilebilir"
+  ],
+  "tip": "Hukuki ve resmi bir terimdir, genellikle sözleşmeler için kullanılır. “Terminal” (uç, terminal) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "prophesy",
+  "senses": [
+   "kehanet etmek; önceden bildirmek"
+  ],
+  "ex": [
+   "Yaşlı anlatıcı krallığın refaha kavuşacağını kehanet etti.",
+   "Bazı erken dönem yorumcular televizyonun kitapların yerini alacağını öngörmüştü; ancak okuma önemli bir kültürel etkinlik olmayı sürdürdü."
+  ],
+  "col": [
+   "...olacağını kehanet etmek",
+   "felaketi önceden bildirmek",
+   "geleceği önceden bildirmek"
+  ],
+  "tip": "Fiil biçimi prophesy /ˈprɒfəsaɪ/ (sonu “say” gibi okunur), isim biçimi prophecy /ˈprɒfəsi/ şeklindedir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "glutinous",
+  "senses": [
+   "yapışkan; yapışkan kıvamlı"
+  ],
+  "ex": [
+   "Yapışkan pirinç tahta kaşığıma sıkıca yapıştı.",
+   "Yapışkan pirinç birçok geleneksel yemekte kullanılır; bu durum bölgesel mutfaklarda dokunun ne kadar önemli olduğunu gösterir."
+  ],
+  "col": [
+   "yapışkan pirinç",
+   "yapışkan doku"
+  ],
+  "tip": "Yapışkan, kıvamlı anlamındadır. “Glutinous rice” (yapışkan pirinç) gluten içermez; gluten (glüten) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "ostentation",
+  "senses": [
+   "gösteriş; hava atma"
+  ],
+  "ex": [
+   "Düğünleri hiçbir gösterişe yer verilmeden sıcak ve neşeli geçti.",
+   "Lüks tüketimle ilişkili gösteriş, insanları sorumlu biçimde tasarruf etmek yerine servetlerini sergilemeye iten toplumsal baskıyı artırabilir."
+  ],
+  "col": [
+   "gösterişsiz",
+   "gösterişli bir hava",
+   "servet ve gösteriş"
+  ],
+  "tip": "Sayılamayan bir isimdir ve genellikle olumsuz anlam taşır. Başkalarını etkilemek için bilerek yapılan aşırı gösterişi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "cervix",
+  "senses": [
+   "rahim ağzı; serviks"
+  ],
+  "ex": [
+   "Hemşire, maketi üzerinde rahim ağzının nerede olduğunu anlattı.",
+   "Düzenli taramalar, ciddi bir sağlık sorununa dönüşmeden önce rahim ağzındaki anormal hücreleri tespit edebilir."
+  ],
+  "col": [
+   "rahmin rahim ağzı",
+   "rahim ağzı hücreleri",
+   "rahim ağzı kanseri"
+  ],
+  "tip": "Genellikle “rahim ağzı” anlamında kullanılır. “Cervical” sıfatı ise “rahim ağzıyla ilgili” demektir; “uterus” (rahim) ile aynı şey değildir.",
+  "note": ""
+ },
+ {
+  "id": "assassinator",
+  "senses": [
+   "suikastçı"
+  ],
+  "ex": [
+   "Filmdeki suikastçi ağır bir perdenin arkasına saklandı.",
+   "Tarihsel anlatı, suikastçinin saiklerini ve cinayetin ardından gelen siyasi istikrarsızlığı inceliyor."
+  ],
+  "col": [
+   "potansiyel suikastçi",
+   "suikastçinin saikleri"
+  ],
+  "tip": "Nadir kullanılan bir sözcüktür; günlük ve akademik İngilizcede çoğunlukla “assassin” tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "bushel",
+  "senses": [
+   "buşel"
+  ],
+  "ex": [
+   "Çiftçi bir buşel buğdayı ölçtü.",
+   "Tahıl fiyatlarını buşel başına bildirmek, çiftçilerin ürünlerini ne zaman satacaklarına karar vermeden önce piyasa koşullarını karşılaştırmasına yardımcı olur."
+  ],
+  "col": [
+   "bir buşel buğday",
+   "buşel başına",
+   "buşel sepeti"
+  ],
+  "tip": "Kuru hacim ölçüsüdür. ABD ve İngiltere'de değeri farklı olduğu için sabit bir ağırlık karşılığı gibi düşünülmemelidir.",
+  "note": ""
+ },
+ {
+  "id": "needful",
+  "senses": [
+   "gerekli; lazım olan"
+  ],
+  "ex": [
+   "Uzun kış yolculuğu için gerekli her şeyi paketlediler.",
+   "Ulaşımı zor kırsal topluluklarda halk sağlığını korumak için temiz suya güvenilir bir erişim gereklidir."
+  ],
+  "col": [
+   "gerekli malzemeler",
+   "gerekli olan her şey",
+   "gerekeni yapmak"
+  ],
+  "tip": "Eski ya da resmi bir sözcüktür. Yazılı İngilizcede genellikle “necessary” tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "prostrate",
+  "senses": [
+   "yüzüstü; secde halinde",
+   "bitkin; perişan",
+   "yere sermek; bitkin düşürmek"
+  ],
+  "ex": [
+   "Çitin altından sürünerek geçtikten sonra çimenlerin üzerinde yüzüstü uzandı.",
+   "Aşırı sıcak, açık havada çalışan işçileri bitkinlikten yere serebilir; bu da düzenli molaların önemini ortaya koyar."
+  ],
+  "col": [
+   "yüzüstü uzanmak",
+   "bitkinlikten perişan olmak",
+   "secdeye kapanmak"
+  ],
+  "tip": "“Prostate” (prostat bezi) ile karıştırılmamalıdır; prostrate kelimesinde “r” harfi vardır.",
+  "note": ""
+ },
+ {
+  "id": "penury",
+  "senses": [
+   "yoksulluk; sefalet"
+  ],
+  "ex": [
+   "Yıllarca süren yoksulluktan sonra sonunda ısınmaya parası yetti.",
+   "Yeterli sosyal koruma olmadığında uzun süreli işsizlik, savunmasız hanehalklarını sefalete sürükleyebilir ve sağlıklarına zarar verebilir."
+  ],
+  "col": [
+   "yoksulluk içinde yaşamak",
+   "sefalet içinde ölmek",
+   "birini sefalete düşürmek"
+  ],
+  "tip": "Resmi ya da edebi bir sözcüktür. “Poverty”den daha güçlü bir anlam taşır ve genellikle sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "burgeon",
+  "senses": [
+   "hızla büyümek; gelişmek"
+  ],
+  "ex": [
+   "Buraya taşındıktan sonra bahçecilik ilgisi hızla arttı.",
+   "Daha fazla yetişkin profesyonel becerilerini geliştirmek için esnek fırsatlar aradıkça çevrimiçi kurslara olan talep hızla arttı."
+  ],
+  "col": [
+   "hızla artan talep",
+   "gelişen bir sektör",
+   "hızla büyüyen nüfus"
+  ],
+  "tip": "Günümüzde çoğunlukla geçişsiz fiil olarak kullanılır. Sıfat biçimi “burgeoning” isim önünde gelir.",
+  "note": ""
+ },
+ {
+  "id": "mincer",
+  "senses": [
+   "kıyma makinesi"
+  ],
+  "ex": [
+   "Mantı için et hazırlamak üzere bir kıyma makinesi kullandık.",
+   "Küçük yiyecek işletmeleri, eti elle doğramak yerine elektrikli bir kıyma makinesi kullanarak verimliliklerini artırabilir."
+  ],
+  "col": [
+   "elektrikli kıyma makinesi",
+   "et kıyma makinesi",
+   "manuel kıyma makinesi"
+  ],
+  "tip": "İngiliz İngilizcesinde “mincer”, Amerikan İngilizcesinde “meat grinder” denir. Türkçede ikisi de “kıyma makinesi” olarak çevrilir.",
+  "note": ""
+ }
+]

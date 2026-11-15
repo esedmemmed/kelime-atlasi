@@ -1,0 +1,279 @@
+[
+ {
+  "id": "guidebook",
+  "senses": [
+   "rehber kitap; kılavuz"
+  ],
+  "ex": [
+   "Rehberimiz köyün yakınındaki sakin bir plajı önermişti.",
+   "Dijital haritalar kullanışlı olsa da ayrıntılı bir rehber kitap, bağımsız gezginler için değerli kültürel bağlam sunabilir."
+  ],
+  "col": [
+   "bir seyahat rehberi",
+   "...hakkında rehber kitap",
+   "rehber kitaba başvurmak"
+  ],
+  "tip": "Bir yer hakkında rehber kitap için a guidebook to + yer adı kalıbı kullanılır: a guidebook to Paris.",
+  "note": ""
+ },
+ {
+  "id": "spinach",
+  "senses": [
+   "ıspanak"
+  ],
+  "ex": [
+   "Akşam yemeğinden önce çorbaya taze ıspanak ekledim.",
+   "Ispanak gibi yapraklı sebzeler, dengeli ve sağlıklı bir beslenmeyi destekleyen besinler sağlar."
+  ],
+  "col": [
+   "taze ıspanak",
+   "ıspanak yaprakları",
+   "buharda pişmiş ıspanak"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; tek bir yaprak için a spinach leaf denir.",
+  "note": ""
+ },
+ {
+  "id": "comfort",
+  "senses": [
+   "rahatlık; konfor",
+   "teselli; avuntu",
+   "teselli etmek; rahatlatmak"
+  ],
+  "ex": [
+   "Kamp yaptıktan sonra sıcak yatağın rahatlığının tadını çıkardım.",
+   "Destek grupları, deneyimleri paylaşma ve kaygıları açıkça konuşma fırsatı sunarak hastaları rahatlatabilir."
+  ],
+  "col": [
+   "rahat bir şekilde",
+   "bundan teselli bulmak",
+   "birini teselli etmek",
+   "günlük konforlar"
+  ],
+  "tip": "Rahatlık ve teselli anlamında genellikle sayılamaz. Fiil olarak doğrudan nesne alır: comfort someone, edat eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "allergic",
+  "senses": [
+   "alerjisi olan",
+   "alerjiye bağlı; alerjik"
+  ],
+  "ex": [
+   "Kedilere alerjim var, bu yüzden onlardan uzak dururum.",
+   "Restoranlar, yaygın yiyeceklere alerjisi olan müşterileri korumak için doğru içerik bilgisi vermelidir."
+  ],
+  "col": [
+   "...e alerjik olmak",
+   "alerjik reaksiyon",
+   "polene alerjik"
+  ],
+  "tip": "Alerjen için be allergic to kullanılır; edat olarak 'to' gelir, 'with' değil.",
+  "note": ""
+ },
+ {
+  "id": "link",
+  "senses": [
+   "bağlantı; ilişki",
+   "bağlantı; link",
+   "bağlamak; ilişkilendirmek"
+  ],
+  "ex": [
+   "Yeni köprü köyler arasında bir bağlantı sağlıyor.",
+   "Araştırmacılar düzenli fiziksel aktivite ile gelişmiş zihinsel sağlık arasında güçlü bir bağlantı tespit etti."
+  ],
+  "col": [
+   "...arasındaki bağlantı",
+   "bağlantıya tıklamak",
+   "A'yı B'ye bağlamak",
+   "ulaşım bağlantıları"
+  ],
+  "tip": "Isim olarak a link between A and B yaygındır. Fiil olarak link A to B ya da link A with B kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "flavour",
+  "senses": [
+   "tat; lezzet",
+   "tat vermek; lezzetlendirmek",
+   "karakter; ruh"
+  ],
+  "ex": [
+   "Taze fesleğen bu çorbaya güzel bir tat katıyor.",
+   "Okulda verilen yemek dersleri, çocuklara aşırı tuz ve şeker kullanmadan tadı nasıl iyileştireceklerini öğretebilir."
+  ],
+  "col": [
+   "zengin tat",
+   "tat katmak",
+   "otlarla tatlandırmak"
+  ],
+  "tip": "İngiliz İngilizcesinde flavour, Amerikan İngilizcesinde flavor yazılır. Sınavda yazımda tutarlı olun.",
+  "note": ""
+ },
+ {
+  "id": "goose",
+  "senses": [
+   "kaz",
+   "kaz eti"
+  ],
+  "ex": [
+   "Beyaz bir kaz yolda bize doğru yürüdü.",
+   "Sulak alanları korumak, yabani kazlar ve diğer göçmen kuşlar için temel besleme alanları sağlar."
+  ],
+  "col": [
+   "yabani kazlar",
+   "bir sürü kaz",
+   "fırında kaz eti"
+  ],
+  "tip": "Çoğulu geese'dir, geeses değil. Kaz eti anlamında isim sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "informal",
+  "senses": [
+   "samimi; rahat",
+   "gündelik; konuşma dilinde",
+   "gayriresmi; resmi olmayan"
+  ],
+  "ex": [
+   "Bu sabah çay eşliğinde rahat bir sohbet ettik.",
+   "Sınıf dışındaki gayriresmi öğrenme, çocukların oyun ve günlük deneyimler yoluyla pratik beceriler geliştirmesini sağlar."
+  ],
+  "col": [
+   "rahat sohbet",
+   "gündelik dil",
+   "gayriresmi öğrenme"
+  ],
+  "tip": "Informal rahat ve samimi anlamına gelir; saygısız ya da özensiz anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "salmon",
+  "senses": [
+   "somon; som balığı",
+   "somon pembesi"
+  ],
+  "ex": [
+   "Kayalık bir dereden yukarı zıplayan bir somon izledik.",
+   "Barajlar somon göçünü bozabilir; bu yüzden nehir yönetimi hem enerji üretimini hem de yaban hayatını korumayı düşünmelidir."
+  ],
+  "col": [
+   "tütsülenmiş somon",
+   "yabani somon",
+   "somon fileto",
+   "somon göçü"
+  ],
+  "tip": "Sondaki l harfi okunmaz. Balık için tekil ve çoğul aynıdır; balık eti anlamında sayılamaz.",
+  "note": ""
+ },
+ {
+  "id": "turkey",
+  "senses": [
+   "hindi",
+   "hindi eti",
+   "fiyasko; başarısızlık"
+  ],
+  "ex": [
+   "Bir hindi, çiftlik kapısının yanında kuyruk tüylerini açtı.",
+   "Hindi üretimi uygun fiyatlı protein sağlar; ancak yoğun çiftçilik hayvan refahı ve çevre konusunda endişelere yol açabilir."
+  ],
+  "col": [
+   "fırında hindi",
+   "hindi göğsü",
+   "yabani hindi"
+  ],
+  "tip": "Kuş için sayılabilir, et için sayılamaz. 'Fiyasko' anlamı gayriresmi bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "tape-recording",
+  "senses": [
+   "kaset kaydı; teyp kaydı"
+  ],
+  "ex": [
+   "Büyükbabamızın şarkı söylediği bir kaset kaydını bulduk.",
+   "Geleneksel bir şarkının kaset kaydı, araştırmacıların yerel müzik tarzlarının nasıl değiştiğini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "kayıt yapmak",
+   "kaset kaydını dinlemek",
+   "bir röportajın kaset kaydı"
+  ],
+  "tip": "Tire ile tape-recording veya boşlukla tape recording yazılabilir. Dijital kayıtlar için genellikle recording kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "unknown",
+  "senses": [
+   "bilinmeyen; tanınmamış",
+   "bilinmeyen şey; meçhul kişi"
+  ],
+  "ex": [
+   "Yemek pişirirken bilinmeyen bir numara aradı.",
+   "Bazı yeni malzemelerin uzun vadeli etkileri hâlâ bilinmiyor; bu yüzden yaygın kullanımdan önce daha fazla araştırma şart."
+  ],
+  "col": [
+   "bilinmeyen kalmak",
+   "birine bilinmeyen",
+   "bilinmeyen bir neden",
+   "meçhul olan"
+  ],
+  "tip": "the unknown, bilinmeyen şeyleri ya da bilinmeyen alanı genel olarak anlatır ve tekil olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "accent",
+  "senses": [
+   "aksan; şive",
+   "vurgu; vurgu işareti",
+   "vurgulamak; öne çıkarmak"
+  ],
+  "ex": [
+   "Aksanı, memleketteki komşularımı hatırlatıyor.",
+   "Öğretmenler, uluslararası iletişimin etkili olması için açık telaffuzu öğretirken farklı aksanlara da değer vermelidir."
+  ],
+  "col": [
+   "bölgesel aksan",
+   "güçlü aksan",
+   "aksanla konuşmak",
+   "vurgu işareti"
+  ],
+  "tip": "Accent telaffuz özelliklerini anlatır; dialect ise kelime ve dilbilgisi farklılıklarını da kapsar.",
+  "note": ""
+ },
+ {
+  "id": "windmill",
+  "senses": [
+   "yel değirmeni"
+  ],
+  "ex": [
+   "Eski yel değirmeninin nehir kenarında dönüşünü izledik.",
+   "Geleneksel bir yel değirmenini restore etmek, kırsal teknoloji tarihine ilgi duyan ziyaretçileri çekerken yerel mirası koruyabilir."
+  ],
+  "col": [
+   "geleneksel bir yel değirmeni",
+   "yel değirmenini restore etmek",
+   "yel değirmeninin kanatları"
+  ],
+  "tip": "Elektrik üreten modern rüzgâr türbinleri için wind turbine kullanılır; windmill daha çok eski yapılar için tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "percentage",
+  "senses": [
+   "yüzde; yüzdelik oran"
+  ],
+  "ex": [
+   "Aylık gelirinizin yüzde kaçı kiraya gidiyor?",
+   "Yenilenebilir enerji kullanan hanelerin oranı, son yıllarda kurulum maliyetleri düştükçe artmıştır."
+  ],
+  "col": [
+   "yüksek bir oran",
+   "düşük bir oran",
+   "yüzde puanı",
+   "yüzde artış"
+  ],
+  "tip": "Sayıdan sonra percent kullanılır (20 percent). Bir oranın payını anlatırken percentage tercih edilir.",
+  "note": ""
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "id": "media",
+  "senses": [
+   "kitle iletişim araçları; medya"
+  ],
+  "ex": [
+   "Yerel medya, mahallemizdeki festivali haberleştirdi.",
+   "Medya, hangi çevre sorunlarının en çok ilgi göreceğine karar vererek kamuoyu tutumlarını etkileyebilir."
+  ],
+  "col": [
+   "kitle iletişimi",
+   "haber kapsamı",
+   "sosyal medya",
+   "basın-yayın"
+  ],
+  "tip": "Genel olarak haber medyasını anlatırken başına the getirilir; tek bir iletişim aracı için medium kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "commander",
+  "senses": [
+   "komutan"
+  ],
+  "ex": [
+   "Komutan, ekibe ekipmanlarını kontrol etmelerini söyledi.",
+   "Afet yardım operasyonlarında askeri komutan, temel malzemelerin izole topluluklara ulaştırılmasını koordine etti."
+  ],
+  "col": [
+   "askeri komutan",
+   "donanma komutanı",
+   "başkomutan"
+  ],
+  "tip": "Genel anlamda kullanılır; belirli bir rütbeyi göstermez. Rütbe adları ülkeden ülkeye değişir.",
+  "note": ""
+ },
+ {
+  "id": "portable",
+  "senses": [
+   "taşınabilir; taşıması kolay"
+  ],
+  "ex": [
+   "Piknike taşınabilir bir hoparlör götürdük.",
+   "Taşınabilir tıbbi cihazlar, sağlık çalışanlarının uzak kırsal topluluklarda temel hizmet sunmasını sağlar."
+  ],
+  "col": [
+   "taşınabilir cihaz",
+   "taşınabilir şarj cihazı",
+   "taşınabilir ekipman"
+  ],
+  "tip": "Kolayca taşınabilir ya da hareket ettirilebilir anlamındadır; cebe sığma anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "reign",
+  "senses": [
+   "hükümdarlık dönemi",
+   "hükmetmek",
+   "hüküm sürmek; egemen olmak"
+  ],
+  "ex": [
+   "Bu kale genç bir kraliçenin saltanatı sırasında inşa edildi.",
+   "Kralın hükümdarlığı döneminde halk kütüphanelerine yapılan yatırımlar eğitimi sıradan vatandaşlar için daha erişilebilir kıldı."
+  ],
+  "col": [
+   "... hükümdarlığı döneminde",
+   "uzun saltanat",
+   "mutlak egemen olmak",
+   "kaos hüküm sürmek"
+  ],
+  "tip": "rain ile aynı okunur; reign hükümdarlık anlamına gelir, rein ise dizgin anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "bruise",
+  "senses": [
+   "morluk; çürük",
+   "morartmak; ezmek"
+  ],
+  "ex": [
+   "Dizimde mor bir morluk var.",
+   "Yumuşak meyveler taşıma sırasında ezilebilir; bu yüzden üreticilerin yeterli koruma sağlayan ambalaja ihtiyacı vardır."
+  ],
+  "col": [
+   "kötü bir morluk",
+   "kolayca morarmak",
+   "morarmış diz"
+  ],
+  "tip": "bruise genellikle cilt kesilmeden oluşan yaralanmayı anlatır; cut ise cilde kesik açan yarayı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "complication",
+  "senses": [
+   "ek güçlük; sorun",
+   "komplikasyon"
+  ],
+  "ex": [
+   "Gecikmiş bir tren, yolculuğumuza bir sorun daha ekledi.",
+   "Düzenli sağlık kontrolleri, kronik hastalığı olan hastalarda komplikasyonların erken tespit edilmesine ve sonuçların iyileşmesine yardımcı olabilir."
+  ],
+  "col": [
+   "beklenmedik bir sorun",
+   "ciddi bir komplikasyon",
+   "sorunlardan kaçınmak",
+   "ameliyat sonrası komplikasyonlar"
+  ],
+  "tip": "Hem genel bir güçlük hem de tıbbi bir komplikasyon anlamına gelebilir; bağlama göre çevirin.",
+  "note": ""
+ },
+ {
+  "id": "paw",
+  "senses": [
+   "pati",
+   "pençelemek; tırmalamak"
+  ],
+  "ex": [
+   "Yavru köpek çamurlu patisini dizime koydu.",
+   "Kentsel yaban hayvanları, kamusal alanlarda bırakılan kırık cam ve diğer atıklar yüzünden pati yaralanmaları yaşayabilir."
+  ],
+  "col": [
+   "ön pati",
+   "pati izi",
+   "kapıyı tırmalamak"
+  ],
+  "tip": "paw tüm ayak patisini ifade eder; claw ise keskin pençeyi ya da tırnağı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "poke",
+  "senses": [
+   "dürtmek",
+   "dışarı çıkmak",
+   "dürtme"
+  ],
+  "ex": [
+   "Hamurun yumuşaklığını kontrol etmek için hamuru nazikçe dürttü.",
+   "Müze ziyaretçileri, interaktif ekranlardaki sanal nesnelere dokunarak bilimsel kavramları oyunla keşfedebilir."
+  ],
+  "col": [
+   "delik açmak",
+   "başını dışarı uzatmak",
+   "dalga geçmek"
+  ],
+  "tip": "poke fun at 'alay etmek, dalga geçmek' anlamına gelir; 'dürtmek' anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "detach",
+  "senses": [
+   "çıkarmak; ayırmak",
+   "duygusal olarak uzaklaşmak"
+  ],
+  "ex": [
+   "Yağmur durduğunda kapüşonu çıkarabilirsiniz.",
+   "Araştırmacılar, kanıtları değerlendirirken sonuçların güvenilir kalması için kişisel tercihlerinden uzaklaşmalıdır."
+  ],
+  "col": [
+   "...den ayrılmak",
+   "kabloyu çıkarmak",
+   "kendini ...den uzaklaştırmak"
+  ],
+  "tip": "Genellikle detach A from B kalıbıyla kullanılır; detachable ise 'çıkarılabilir' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "relay",
+  "senses": [
+   "bayrak yarışı",
+   "iletmek; aktarmak",
+   "röle"
+  ],
+  "ex": [
+   "Okul bayrak yarışında takımımız sopayı düşürdü.",
+   "Acil servisler, hava durumu uyarılarını yerel radyo istasyonları ve mobil ağlar aracılığıyla uzak topluluklara iletir."
+  ],
+  "col": [
+   "bayrak yarışı",
+   "mesaj iletmek",
+   "bilgi aktarmak",
+   "elektrik rölesi"
+  ],
+  "tip": "Fiil olarak /rɪˈleɪ/, isim olarak /ˈriːleɪ/ okunur; okunuşa dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "gene",
+  "senses": [
+   "gen"
+  ],
+  "ex": [
+   "Bu gen, bir kedinin tüy rengini etkileyebilir.",
+   "Kalıtsal bir hastalıkla bağlantılı genin belirlenmesi, araştırmacıların daha etkili tedaviler geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "gen ifadesi",
+   "gen tedavisi",
+   "bir geni miras almak"
+  ],
+  "tip": "gene sayılabilen bir isimdir; genetik bilimi için genetics kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stare",
+  "senses": [
+   "dik dik bakmak",
+   "dik bakış; bakış"
+  ],
+  "ex": [
+   "Kedi, pencerenin dışındaki bir kuşa dik dik baktı.",
+   "Uzun süre ekrana bakan çocukların fiziksel aktivite fırsatları daha az olabilir."
+  ],
+  "col": [
+   "...e dik dik bakmak",
+   "boşluğa bakmak",
+   "anlamsız bir bakış"
+  ],
+  "tip": "stare at uzun süre sabit bakmayı anlatır; glance at ise göz ucuyla kısa bir bakışı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "mankind",
+  "senses": [
+   "insanlık; insan türü"
+  ],
+  "ex": [
+   "Bu müze, insanlığın tarım yapmayı nasıl öğrendiğini anlatıyor.",
+   "İklim değişikliği, ulusal sınırları aşan sürekli iş birliği gerektiren bir insanlık sorunudur."
+  ],
+  "col": [
+   "insanlığın geleceği",
+   "insanlık tarihi",
+   "insanlığın yararına"
+  ],
+  "tip": "Tüm insanları kapsar ve cinsiyet ayrımı yapmaz; daha kapsayıcı bir alternatif olarak humankind kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "graceful",
+  "senses": [
+   "zarif; güzel"
+  ],
+  "ex": [
+   "Kuğu göl üzerinde zarif bir dönüş yaptı.",
+   "Köprü, zarif kıvrımları pratik mühendislikle birleştirerek şehir için çekici bir simge yaratıyor."
+  ],
+  "col": [
+   "zarif hareketler",
+   "zarif kıvrımlar",
+   "zarif bir dansçı"
+  ],
+  "tip": "graceful genellikle hareket ve biçimin güzelliğini anlatır; gracious ise kibar ve nazik davranışı anlatır.",
+  "note": ""
+ },
+ {
+  "id": "closely",
+  "senses": [
+   "dikkatle; yakından",
+   "yakından; sıkıca",
+   "yakın mesafeden"
+  ],
+  "ex": [
+   "Bu yaprağa dikkatle bakın ve küçük damarlarını fark edin.",
+   "Hükümetler, kirliliğin zararlı etkilerinden çocukları korumak için okulların yakınındaki hava kalitesini yakından izlemelidir."
+  ],
+  "col": [
+   "yakından izlemek",
+   "yakından ilişkili",
+   "...ile yakın çalışmak",
+   "dikkatle bakmak"
+  ],
+  "tip": "look closely dikkatle bakmak, stand close ise yakında durmak anlamına gelir; closely hem dikkat hem yakınlık anlamı taşır.",
+  "note": ""
+ }
+]

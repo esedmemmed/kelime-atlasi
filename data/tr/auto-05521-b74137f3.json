@@ -1,0 +1,279 @@
+[
+ {
+  "id": "custodian",
+  "senses": [
+   "koruyucu; emanetçi",
+   "temizlikçi; bina görevlisi"
+  ],
+  "ex": [
+   "Bekçi, eski madeni paraları içeren dolabı dikkatle kilitledi.",
+   "Müzeler, değerli eserleri araştırmalar ve gelecek kuşaklar için koruyarak kültürel mirasın koruyucusu görevi görür."
+  ],
+  "col": [
+   "kültürel mirasın koruyucusu",
+   "okul temizlikçisi",
+   "yasal vasi"
+  ],
+  "tip": "custodian of'dan sonra korunan ya da yönetilen nesne gelir. Amerikan İngilizcesinde ikinci anlam temizlik görevlisi demektir; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "subtle",
+  "senses": [
+   "ince; hafif",
+   "dolaylı; ustaca"
+  ],
+  "ex": [
+   "Çorbada hafif bir limon tadı var.",
+   "Reklamlar, ürünleri arzu edilen yaşam tarzlarıyla ilişkilendirerek tüketiciler üzerinde ince bir etki yaratabilir."
+  ],
+  "col": [
+   "ince bir fark",
+   "hafif bir ipucu",
+   "ince bir etki",
+   "hafif bir tat"
+  ],
+  "tip": "Telaffuzda b sessizdir. Genellikle fark ya da etkinin gözle görülmesinin ya da fark edilmesinin zor olduğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "plummet",
+  "senses": [
+   "çakılmak; sert düşmek",
+   "dik düşmek"
+  ],
+  "ex": [
+   "Gece boyunca sıcaklık hızla düştü ve bahçedeki göletin üstü buz tuttu.",
+   "Şehirler gün boyunca güvenilir ve uygun fiyatlı toplu taşıma sunarsa özel araç talebi keskin biçimde düşebilir."
+  ],
+  "col": [
+   "fiyatlar çakılmak",
+   "sıcaklıklar hızla düşmek",
+   "rekor düşük seviyeye inmek"
+  ],
+  "tip": "Genellikle yer değiştiren bir fiil gibi kullanılır; ulaşılan değer to ile, düşüş miktarı ise by ile belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "stereotype",
+  "senses": [
+   "klişe; kalıp yargı",
+   "kalıp yargılarla değerlendirmek"
+  ],
+  "ex": [
+   "Büyükannem, yaşlı insanların teknolojiden hoşlanmadığı yönündeki klişeye karşı çıkıyor.",
+   "Okullar, tüm öğrencilerin ilgi alanlarını özgürce takip edebilmesi için cinsiyet klişelerine meydan okumalı."
+  ],
+  "col": [
+   "cinsiyet klişeleri",
+   "klişeye karşı çıkmak",
+   "klişeleri pekiştirmek"
+  ],
+  "tip": "Bir grup insana yönelik basitleştirilmiş ve sabit bir görüşü anlatır; doğruluğu garanti değildir.",
+  "note": ""
+ },
+ {
+  "id": "persistent",
+  "senses": [
+   "uzun süren; tekrarlayan",
+   "azimli; kararlı"
+  ],
+  "ex": [
+   "Geçmek bilmeyen bir öksürük bütün gece uyumamı engelledi.",
+   "Uygun fiyatlı konut sıkıntısının sürmesi, genç yetişkinlerin aile evinden ayrılmayı ertelemesine yol açabiliyor."
+  ],
+  "col": [
+   "geçmek bilmeyen öksürük",
+   "süregelen sorun",
+   "azimli çabalar",
+   "süregelen sıkıntılar"
+  ],
+  "tip": "Sorun ya da durumlar için kullanıldığında olumsuz bir anlam taşır; kişiler için kullanıldığında kararlılık anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "groove",
+  "senses": [
+   "oyuk; yiv",
+   "ritim; tempo",
+   "oyuk açmak"
+  ],
+  "ex": [
+   "Ahşap kapının her oyuğunda toz birikmişti.",
+   "Araç lastiklerindeki oluklar suyu uzaklaştırarak tutuşu artırır ve ıslak yollarda kaza riskini azaltır."
+  ],
+  "col": [
+   "oyuk açmak",
+   "derin bir oyuk",
+   "lastik yivleri",
+   "bir ritme kapılmak"
+  ],
+  "tip": "Somut olarak yüzeydeki uzun ve dar oyuğu anlatır; müzikte ise güçlü ve düzenli bir ritmi ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "plank",
+  "senses": [
+   "kalın tahta; kalas",
+   "temel ilke; ana madde",
+   "plank egzersizi"
+  ],
+  "ex": [
+   "Çamurlu hendeğin üzerine bir kalas yerleştirdik.",
+   "Uygun fiyatlı konuta yatırım, kentsel eşitsizliği azaltmaya yönelik her stratejinin temel bir ilkesi olmalı."
+  ],
+  "col": [
+   "ahşap kalas",
+   "politikanın temel direği",
+   "bir politikayı savunmak"
+  ],
+  "tip": "central plank of ifadesi bir politikanın ana unsurunu anlatır. Somut 'kalas' anlamıyla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "commonwealth",
+  "senses": [
+   "siyasi topluluk; cumhuriyet",
+   "İngiliz Milletler Topluluğu"
+  ],
+  "ex": [
+   "Adalılar, seçilmiş bir meclisle birlikte bir yönetim topluluğu kurdu.",
+   "Commonwealth üyeleri, kendi bağımsız hükümetlerini sürdürürken eğitim ve kalkınma alanında iş birliği yapar."
+  ],
+  "col": [
+   "İngiliz Milletler Topluluğu",
+   "topluluk üyesi ülkeler",
+   "topluluk üyeliği"
+  ],
+  "tip": "Genel anlamda küçük harfle yazılır; İngiliz Milletler Topluluğu için büyük harf kullanılır ve genellikle the ile birlikte gelir.",
+  "note": ""
+ },
+ {
+  "id": "erect",
+  "senses": [
+   "dikmek; kurmak",
+   "dik; dimdik"
+  ],
+  "ex": [
+   "Günbatımından önce çadırımızı gölün kenarına kurduk.",
+   "Yerel yönetimler, şiddetli sel nedeniyle evleri hasar gören aileler için geçici barınaklar kurmayı planlıyor."
+  ],
+  "col": [
+   "çadır kurmak",
+   "anıt dikmek",
+   "dimdik durmak"
+  ],
+  "tip": "Fiil olarak build'den daha resmi bir kelimedir; sıfat olarak genellikle stand erect gibi kalıplarda görülür.",
+  "note": ""
+ },
+ {
+  "id": "relish",
+  "senses": [
+   "keyif almak; zevk almak",
+   "zevk; keyif",
+   "turşu sosu"
+  ],
+  "ex": [
+   "Sessiz sabahları çay ve bir kitapla geçirmekten büyük keyif alırım.",
+   "Birçok öğrenci yabancı bir ülkede okuma fırsatını dört gözle bekler, çünkü bu onları farklı kültür ve bakış açılarıyla tanıştırır."
+  ],
+  "col": [
+   "meydan okumadan keyif almak",
+   "fırsattan zevk almak",
+   "büyük bir zevkle",
+   "domatesli turşu sosu"
+  ],
+  "tip": "Fiilin ardından isim ya da -ing biçimi gelir; to do kalıbı kullanılmaz. Turkish speakers sometimes mistakenly add to.",
+  "note": ""
+ },
+ {
+  "id": "inhibit",
+  "senses": [
+   "engellemek; baskılamak",
+   "kısıtlamak; çekindirmek"
+  ],
+  "ex": [
+   "Soğuk hava bu bitkilerin büyümesini engelleyebilir.",
+   "Hata yapma korkusu, öğrencileri sınıf tartışmalarına ve ortak çalışmalara aktif biçimde katılmaktan alıkoyabilir."
+  ],
+  "col": [
+   "büyümeyi engellemek",
+   "gelişimi engellemek",
+   "enzim etkinliğini baskılamak"
+  ],
+  "tip": "inhibit bir süreci yavaşlatma ya da engelleme anlamındadır; prohibit ise yasaklamayı anlatır. İkisi karıştırılmamalı.",
+  "note": ""
+ },
+ {
+  "id": "pawn",
+  "senses": [
+   "piyon",
+   "kukla; alet",
+   "rehine vermek"
+  ],
+  "ex": [
+   "Satranç tahtasında bir piyonu ileri götürdü ve tahtayı dikkatle inceledi.",
+   "İşçiler, rekabet eden güçlü şirketler arasındaki anlaşmazlıklarda kukla olmamalı."
+  ],
+  "col": [
+   "piyon oynatmak",
+   "güç mücadelesinde kukla",
+   "mücevheri rehine vermek"
+  ],
+  "tip": "Rehine vermek, değerli bir eşyayı borç karşılığı bırakmak demektir ve geri alınabilir; doğrudan satış anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "imperialism",
+  "senses": [
+   "emperyalizm; yayılmacılık"
+  ],
+  "ex": [
+   "Dün tarih müzesini ziyaret ettikten sonra emperyalizmi tartıştık.",
+   "Emperyalizmin mirası, birçok toplumda ekonomik ilişkileri ve kültürel kimlik tartışmalarını hâlâ etkiliyor."
+  ],
+  "col": [
+   "kültürel emperyalizm",
+   "ekonomik emperyalizm",
+   "emperyalizmin mirası"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir; bir ülkenin başka ülkeler üzerindeki güç ve etkisini genişletme politikasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "essayist",
+  "senses": [
+   "denemeci; deneme yazarı"
+  ],
+  "ex": [
+   "Denemeci, çocukluğunu sıcaklık ve mizahla anlattı.",
+   "Etkili bir denemeci, kişisel düşünceler ve dikkatli bir argümanla okurların toplumsal varsayımları sorgulamasını sağlayabilir."
+  ],
+  "col": [
+   "edebi denemeci",
+   "ünlü bir denemeci",
+   "romancı ve denemeci"
+  ],
+  "tip": "Deneme ya da kısa yazı türünde eser veren kişiyi anlatır; okul ödevi yazan öğrenci için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "dwarf",
+  "senses": [
+   "gölgede bırakmak",
+   "cüce; minyatür tür",
+   "cüce; küçük"
+  ],
+  "ex": [
+   "Yeni kule, sokağımızdaki her evi gölgede bırakıyor.",
+   "Çevresel zararların uzun vadeli maliyetleri, endüstriyel genişlemenin yarattığı anlık kârları gölgede bırakabilir."
+  ],
+  "col": [
+   "gölgede kalmak",
+   "cüce ağaç",
+   "cüce gezegen"
+  ],
+  "tip": "Fiil olarak büyük farkı göstererek bir şeyi küçük gösterme anlamı taşır. İnsanlar için 'cüce' sözcüğü incitici olabilir.",
+  "note": ""
+ }
+]

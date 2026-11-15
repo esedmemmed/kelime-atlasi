@@ -1,0 +1,271 @@
+[
+ {
+  "id": "withstand",
+  "senses": [
+   "dayanmak; direnmek"
+  ],
+  "ex": [
+   "Bu botlar yağmura, çamura ve engebeli yollara dayanabilir.",
+   "İklim değişikliği aşırı hava olaylarının sıklığını artırdıkça, kıyı altyapısı daha güçlü fırtınalara dayanacak şekilde tasarlanmalıdır."
+  ],
+  "col": [
+   "baskıya dayanmak",
+   "aşırı sıcaklıklara dayanmak",
+   "şiddetli rüzgârlara dayanmak"
+  ],
+  "tip": "Geçmiş zaman ve geçmiş ortaç biçimi withstood'dur. Fiilden sonra doğrudan nesne alır, edat gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "plausible",
+  "senses": [
+   "makul; inandırıcı"
+  ],
+  "ex": [
+   "Açıklaması kulağa makul geldi, yine de kontrol ettim.",
+   "Uzaktan çalışma trafik sıkışıklığına makul bir çözüm sunsa da uzun vadeli etkilerinin daha fazla incelenmesi gerekir."
+  ],
+  "col": [
+   "inandırıcı açıklama",
+   "makul bahane",
+   "makul çözüm"
+  ],
+  "tip": "Doğru olduğunu garanti etmez, yalnızca kulağa mantıklı gelmesini anlatır. Türkçedeki 'mantıklı' ile birebir aynı değildir, 'inandırıcı' da uygun olabilir.",
+  "note": ""
+ },
+ {
+  "id": "ingenuity",
+  "senses": [
+   "yaratıcılık; becerikli zekâ"
+  ],
+  "ex": [
+   "Biraz beceriyle Lina eski sandıkları rafa dönüştürdü.",
+   "İnsan yaratıcılığı, topluluklara yerel malzemeleri kullanarak su kıtlığına uygun fiyatlı çözümler geliştirmede yardımcı olabilir."
+  ],
+  "col": [
+   "insan yaratıcılığı",
+   "yaratıcılık göstermek",
+   "yaratıcılığın bir ürünü"
+  ],
+  "tip": "Sıfat biçimi ingenious'tur. Masum anlamındaki ingenuous ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "solidarity",
+  "senses": [
+   "dayanışma; birlik"
+  ],
+  "ex": [
+   "Komşular hasarlı oyun alanını birlikte onararak dayanışma gösterdi.",
+   "Topluluk projeleri, farklı geçmişlerden gelen sakinleri ortak sorunları çözmek için bir araya getirerek sosyal dayanışmayı güçlendirebilir."
+  ],
+  "col": [
+   "dayanışma göstermek",
+   "...ile dayanışma içinde",
+   "sosyal dayanışma"
+  ],
+  "tip": "Genellikle with ile kullanılır: solidarity with sb/sth, bir kişi ya da gruba destek anlamında.",
+  "note": ""
+ },
+ {
+  "id": "sectional",
+  "senses": [
+   "parçalı; bölümlü",
+   "yerel; grup çıkarına dayalı"
+  ],
+  "ex": [
+   "Modüler kanepemizi pencereye bakacak şekilde yeniden düzenledik.",
+   "Hükümetler kamu politikaları hazırlarken grupların çıkarlarını toplumun daha geniş ihtiyaçlarıyla dengelemelidir."
+  ],
+  "col": [
+   "modüler kanepe",
+   "modüler mobilya",
+   "grup çıkarları",
+   "dar bakış açısı"
+  ],
+  "tip": "Mobilyada 'parçalar hâlinde birleştirilebilen' anlamına gelir. sectional interests ise bir grubun çıkarını ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "regeneration",
+  "senses": [
+   "yenilenme; kentsel dönüşüm",
+   "yeniden oluşum; rejenerasyon"
+  ],
+  "ex": [
+   "Mahallenin yenilenmesi caddemize yeni dükkânlar getirdi.",
+   "Kentsel dönüşüm istihdam yaratabilir, ancak artan kiralar mevcut sakinleri mahallelerinden ayrılmak zorunda bırakabilir."
+  ],
+  "col": [
+   "kentsel dönüşüm",
+   "ekonomik canlanma",
+   "doku yenilenmesi"
+  ],
+  "tip": "Şehir planlamasında yenileme/dönüşüm, biyolojide ise hasarlı dokunun yeniden oluşması anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "defiant",
+  "senses": [
+   "meydan okuyan; başkaldırıcı"
+  ],
+  "ex": [
+   "Başkaldırgan çocuk kollarını kavuşturdu ve gitmeyi reddetti.",
+   "Yetkililer toplum merkezini kapatmayı önerdiğinde sakinler direnmeye devam etti ve bu karara karşı barışçıl toplantılar düzenledi."
+  ],
+  "col": [
+   "meydan okuyan tavır",
+   "direnmeye devam etmek",
+   "meydan okuyan hareket"
+  ],
+  "tip": "Sadece kaba konuşmayı değil, otoriteye açıkça karşı gelmeyi anlatır. Yanlışlıkla 'kararsız' anlamında düşünülmemelidir.",
+  "note": ""
+ },
+ {
+  "id": "mane",
+  "senses": [
+   "yele",
+   "uzun ve kalın saç"
+  ],
+  "ex": [
+   "Binmeden önce midilliyi nazikçe taradı.",
+   "Erkek aslanın yelesi, araştırmacılara onun sağlığı ve fiziksel durumu hakkında ipuçları verebilir."
+  ],
+  "col": [
+   "aslan yelesi",
+   "at yelesi",
+   "kalın bir yele",
+   "bir yığın saç"
+  ],
+  "tip": "main (ana, başlıca) ile aynı şekilde telaffuz edilir ama anlamı farklıdır: mane yele veya uzun saçtır.",
+  "note": ""
+ },
+ {
+  "id": "tonic",
+  "senses": [
+   "güçlendirici ilaç; tonik",
+   "moral veren şey",
+   "tonik"
+  ],
+  "ex": [
+   "Eczacı, sürekli yorgunluğum için bir tonik önerdi.",
+   "Yeşil alanlara düzenli erişim, kentsel yaşamın baskısıyla başa çıkan sakinler için moral verici bir etki yaratabilir."
+  ],
+  "col": [
+   "bitkisel tonik",
+   "zihin için tonik",
+   "tonik su"
+  ],
+  "tip": "'a tonic for' kalıbı mecazi olarak 'iyi gelen şey' anlamında sıkça kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "majesty",
+  "senses": [
+   "görkem; heybet",
+   "majesteleri"
+  ],
+  "ex": [
+   "Dağların heybetine hayran kalarak sessizce durduk.",
+   "Antik tapınakların ihtişamı ziyaretçileri çekerek yerel koruma projeleri için gelir yaratabilir."
+  ],
+  "col": [
+   "doğanın görkemi",
+   "Majesteleri",
+   "Majesteleri (Kral)"
+  ],
+  "tip": "Hitap ve unvan olarak kullanıldığında Majesty biçiminde, baş harfi büyük yazılır.",
+  "note": ""
+ },
+ {
+  "id": "stirring",
+  "senses": [
+   "heyecan verici; etkileyici",
+   "ilk belirtiler; kıpırtı"
+  ],
+  "ex": [
+   "Orkestra konseri heyecan verici bir marşla bitirdi.",
+   "Etkileyici bir konuşma topluluk eylemine ilham verebilir, ama kalıcı değişim pratik destek ve yeterli finansman da gerektirir."
+  ],
+  "col": [
+   "etkileyici konuşma",
+   "çarpıcı performans",
+   "umudun ilk kıpırtıları"
+  ],
+  "tip": "İsim olarak 'ilk belirti' anlamında çoğul kullanılır: stirrings of hope.",
+  "note": ""
+ },
+ {
+  "id": "condemnation",
+  "senses": [
+   "sert kınama",
+   "mahkûmiyet; yasaklama"
+  ],
+  "ex": [
+   "Acımasız sözleri akşam yemeğinde herkesin kınamasına yol açtı.",
+   "Korunan ormanların yok edilmesi, çevre örgütleri ve yerel topluluklar tarafından geniş çapta kınandı."
+  ],
+  "col": [
+   "yaygın kınama",
+   "şiddetli kınama",
+   "kınama çekmek",
+   "şiddetin kınanması"
+  ],
+  "tip": "condemnation of sth kalıbıyla kullanılır; criticism'den daha sert bir tonu vardır.",
+  "note": ""
+ },
+ {
+  "id": "ensue",
+  "senses": [
+   "ardından gelmek; sonucunda doğmak"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra evimizde canlı bir tartışma başladı.",
+   "Kamu hizmetleri artan talebi karşılayamazsa, yerel sakinler arasında yaygın bir memnuniyetsizlik ortaya çıkabilir."
+  ],
+  "col": [
+   "kaos çıkmak",
+   "bir tartışma başlamak",
+   "...den kaynaklanmak"
+  ],
+  "tip": "Resmî bir fiildir ve genellikle yapılan bir şeyin sonucunda gelişen olayları anlatır. 'Peşinden gitmek' anlamında değildir.",
+  "note": ""
+ },
+ {
+  "id": "meteorology",
+  "senses": [
+   "meteoroloji; hava bilimi"
+  ],
+  "ex": [
+   "Kız kardeşim meteoroloji okuyor ve fırtına bulutlarını izlemeyi çok seviyor.",
+   "Meteorolojideki gelişmeler, kıyı topluluklarının şiddetli fırtına ve sellere daha etkili hazırlanmasını sağlıyor."
+  ],
+  "col": [
+   "meteoroloji okumak",
+   "meteoroloji lisansı",
+   "meteorolojideki gelişmeler"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Hava durumunu ve atmosferi inceleyen bilimi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "warrant",
+  "senses": [
+   "arama emri; tutuklama emri",
+   "gerektirmek; haklı çıkarmak",
+   "gerekçe; dayanak"
+  ],
+  "ex": [
+   "Memurlar daireyi aramadan önce bir arama emri aldılar.",
+   "Olası çevresel riskler, hükümet yeni sanayi tesisinin inşaatını onaylamadan önce daha fazla araştırma yapılmasını gerektiriyor."
+  ],
+  "col": [
+   "arama emri",
+   "tutuklama emri",
+   "daha fazla inceleme gerektirmek",
+   "izin olmadan"
+  ],
+  "tip": "Fiil olarak 'gerekli kılmak, haklı göstermek' anlamına gelir: warrant attention, dikkat gerektirmek.",
+  "note": ""
+ }
+]

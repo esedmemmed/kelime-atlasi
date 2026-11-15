@@ -1,0 +1,263 @@
+[
+ {
+  "id": "facsimile",
+  "senses": [
+   "birebir kopya; nüsha",
+   "faks"
+  ],
+  "ex": [
+   "Müze dükkânında bu antik haritanın bir kopyası satılıyor.",
+   "Yüksek kaliteli bir nüsha, araştırmacıların hassas orijinal belgeleri zarar görmeden incelemesine olanak tanır."
+  ],
+  "col": [
+   "faksimile baskı",
+   "birebir kopya",
+   "faksla göndermek"
+  ],
+  "tip": "Birebir kopya anlamında kullanılır. Günlük dilde 'faks' anlamında genellikle 'fax' kısaltması tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "radium",
+  "senses": [
+   "radyum"
+  ],
+  "ex": [
+   "Bugün fen dersinde radyum hakkında bilgi edindik.",
+   "Radyumun keşfi radyoaktiviteye dair bilimsel anlayışı ilerletti, ancak sağlık riskleri başlangıçta hafife alındı."
+  ],
+  "col": [
+   "radyum bozunması",
+   "radyuma maruz kalma",
+   "radyum izotopları"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a radium' demeyin. Kimyasal sembolü Ra'dır.",
+  "note": ""
+ },
+ {
+  "id": "ulcer",
+  "senses": [
+   "ülser; yara"
+  ],
+  "ex": [
+   "Bu ağız yarası taze portakal yemeyi rahatsız edici hale getiriyor.",
+   "Mide ülserinin erken teşhisi, hastaların uygun tedavi almasına ve komplikasyonlardan kaçınmasına yardımcı olabilir."
+  ],
+  "col": [
+   "mide ülseri",
+   "ağız yarası",
+   "peptik ülser"
+  ],
+  "tip": "Sayılabilir isimdir (an ulcer, ulcers). Genellikle vücut bölgesiyle birlikte kullanılır: a mouth ulcer.",
+  "note": ""
+ },
+ {
+  "id": "tenacious",
+  "senses": [
+   "azimli; kararlı",
+   "sıkı tutunan; çıkmayan"
+  ],
+  "ex": [
+   "Azimli koşucu dik yokuşa rağmen yoluna devam etti.",
+   "Azimli araştırmacılar, halk sağlığını önemli ölçüde iyileştiren keşiflere ulaşmadan önce defalarca karşılaştıkları engelleri aşar."
+  ],
+  "col": [
+   "azimli bir savunucu",
+   "sıkı bir kavrayış",
+   "inatçı direniş"
+  ],
+  "tip": "Asıl anlamı azimli ve kararlı olmaktır; 'gergin' anlamına gelmez. Fiziksel anlamda sıkı tutunmayı da ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "remission",
+  "senses": [
+   "remisyon; geçici iyileşme",
+   "borç veya ceza indirimi"
+  ],
+  "ex": [
+   "Hastalığı remisyonda ve kendini daha güçlü hissediyor.",
+   "Tıbbi tedavideki gelişmeler, daha fazla hastanın remisyona girmesini ve daha iyi bir yaşam kalitesi sürmesini sağladı."
+  ],
+  "col": [
+   "remisyonda",
+   "tam remisyon",
+   "borcun silinmesi"
+  ],
+  "tip": "'in remission' hastalığın gerilediğini anlatır; tamamen iyileştiği anlamına gelmeyebilir.",
+  "note": ""
+ },
+ {
+  "id": "leninism",
+  "senses": [
+   "Leninizm"
+  ],
+  "ex": [
+   "Tarih öğretmenimiz bugünkü öğleden sonra dersinde Leninizmi anlattı.",
+   "Leninizmi inceleyen öğrenciler, onun yirminci yüzyılda devrimci hareketler ve siyasi kurumlar üzerindeki etkisini sıklıkla araştırır."
+  ],
+  "col": [
+   "Leninizmin ilkeleri",
+   "Leninizmin etkisi",
+   "Marksizm-Leninizm"
+  ],
+  "tip": "Özel isimden türediği için büyük harfle yazılır. Genellikle sayılamayan isim olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "disposition",
+  "senses": [
+   "mizaç; huy",
+   "eğilim; yatkınlık",
+   "dizilim; yerleşim"
+  ],
+  "ex": [
+   "Neşeli mizacı yağmurlu sabahları bile daha aydınlık hissettiriyor.",
+   "Temkinli bir mizaca sahip çocuklar, tanıdık olmayan sınıf etkinliklerine kademeli olarak alışmaktan fayda görebilir."
+  ],
+  "col": [
+   "neşeli mizaç",
+   "yardım etme eğilimi",
+   "kaygıya yatkınlık"
+  ],
+  "tip": "Kişilik anlamında genellikle tekil kullanılır. 'a disposition to do' bir şeyi yapma eğilimi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "redound",
+  "senses": [
+   "katkıda bulunmak; yol açmak"
+  ],
+  "ex": [
+   "Cömertliğin tüm takımın itibarına katkı sağlayacak.",
+   "Kamu kütüphanelerine yapılan sürekli yatırım, bilgiye erişimi genişleterek toplulukların yararına olabilir."
+  ],
+  "col": [
+   "birinin itibarına katkıda bulunmak",
+   "yararına olmak",
+   "birinin onuruna katkıda bulunmak"
+  ],
+  "tip": "Resmi ve nadir kullanılan bir fiildir; genellikle 'to' ile birlikte kullanılır: redound to someone's credit.",
+  "note": ""
+ },
+ {
+  "id": "exoneration",
+  "senses": [
+   "aklanma; suçsuzluk kararı"
+  ],
+  "ex": [
+   "Aklanması, tüm aileye rahatlama getirdi.",
+   "Yanlışlıkla mahkûm edilen kişilerin aklanması, hukuk sistemlerinin yeni delilleri incelemeye açık tutması gerektiğini gösteriyor."
+  ],
+  "col": [
+   "tam aklanma",
+   "aklanma talep etmek",
+   "aklanmaya yol açmak"
+  ],
+  "tip": "Suçsuz ya da sorumsuz olduğunun resmen kanıtlanmasını vurgular. 'Pardon' (affetme) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "peruse",
+  "senses": [
+   "dikkatle okumak; incelemek"
+  ],
+  "ex": [
+   "Lütfen imzalamadan önce kira sözleşmesini dikkatle okuyun.",
+   "Öğrenciler, final araştırma projelerini teslim etmeden önce değerlendirme kriterlerini dikkatle incelemelidir."
+  ],
+  "col": [
+   "bir belgeyi incelemek",
+   "bir raporu dikkatle okumak",
+   "dikkatle okumak"
+  ],
+  "tip": "Resmi bir fiildir ve doğrudan nesne alır: peruse a document. İsim hali 'perusal' şeklindedir.",
+  "note": ""
+ },
+ {
+  "id": "malaise",
+  "senses": [
+   "genel halsizlik; rahatsızlık",
+   "bunalım; durgunluk"
+  ],
+  "ex": [
+   "Geçmek bilmeyen bir halsizlik öğleden sonra boyunca beni koltukta tuttu.",
+   "Uzun süren ekonomik durgunluk, kamuoyunun güvenini zayıflatabilir ve işletmeleri yeni projelere yatırım yapmaktan caydırabilir."
+  ],
+  "col": [
+   "genel halsizlik",
+   "ekonomik durgunluk",
+   "bir rahatsızlık hissi"
+  ],
+  "tip": "Resmi bir sözcüktür. Belirsiz bir bedensel rahatsızlığı da, toplumsal veya ekonomik durgunluğu da anlatabilir.",
+  "note": ""
+ },
+ {
+  "id": "intersperse",
+  "senses": [
+   "aralarına serpiştirmek"
+  ],
+  "ex": [
+   "Balkonundaki otların arasına parlak renkli çiçekler serpiştirdi.",
+   "Öğretmenler, dikkati canlı tutmak ve katılımı teşvik etmek için ders boyunca kısa tartışmalar serpiştirebilir."
+  ],
+  "col": [
+   "A'yı B ile serpiştirmek",
+   "ile serpiştirilmiş olmak",
+   "her yere serpiştirmek"
+  ],
+  "tip": "'intersperse A with B' kalıbında A'yı B ile araya katmak anlamına gelir. Nesne ve 'with' yapısına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "paraphernalia",
+  "senses": [
+   "gereçler; malzemeler"
+  ],
+  "ex": [
+   "Kamp malzemelerimiz garajın her köşesini doldurmuştu.",
+   "Okullar, ortak alanları güvenli tutmak ve ekipmanlara öğrencilerin ulaşabilmesini sağlamak için spor malzemeleri için yeterli depolama alanına ihtiyaç duyar."
+  ],
+  "col": [
+   "kamp malzemeleri",
+   "spor malzemeleri",
+   "bütün malzemeler"
+  ],
+  "tip": "Genellikle sayılamayan isimdir; 'a paraphernalia' ya da sonuna 's' eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "alga",
+  "senses": [
+   "alg; yosun"
+  ],
+  "ex": [
+   "Mikroskop altında küçük yeşil alg çok güzel görünüyordu.",
+   "Araştırmacılar, bu tatlı su alginin atık sudaki kirleticileri giderirken biyoyakıt için uygun malzeme üretip üretemeyeceğini inceliyor."
+  ],
+  "col": [
+   "tatlı su algi",
+   "yeşil algler",
+   "alg büyümesi"
+  ],
+  "tip": "Tekil hali 'alga', çoğul hali 'algae'dir. Bilimsel bağlamda genel olarak çoğul kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "melodious",
+  "senses": [
+   "ahenkli; ezgili"
+  ],
+  "ex": [
+   "Açık mutfak penceresinden ahenkli bir ıslık sesi geliyordu.",
+   "Geleneksel çalgılar, genç dinleyicileri kültürel miraslarıyla tanıştırabilecek ahenkli sesler üretir."
+  ],
+  "col": [
+   "ahenkli ses",
+   "ezgili şarkı",
+   "ahenkli bir ses"
+  ],
+  "tip": "Sesin hoş ve müzikal olduğunu vurgular. 'Melodic' ise daha çok melodiyle ilgili olduğunu anlatır.",
+  "note": ""
+ }
+]

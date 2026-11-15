@@ -1,0 +1,276 @@
+[
+ {
+  "id": "dam",
+  "senses": [
+   "baraj",
+   "baraj kurmak; tıkamak"
+  ],
+  "ex": [
+   "Barajın kapaklarından fışkırarak akan suyu izledik.",
+   "Baraj inşa etmek yenilenebilir elektrik sağlayabilir, ancak nehir ekosistemlerini bozabilir ve toplulukları yerinden edebilir."
+  ],
+  "col": [
+   "baraj inşa etmek",
+   "hidroelektrik baraj",
+   "bir nehre baraj kurmak"
+  ],
+  "tip": "Dam, suyu tutan yapıdır; reservoir ise tutulan suyun biriktiği rezervuarı anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "sake",
+  "senses": [
+   "uğruna; yararına"
+  ],
+  "ex": [
+   "Bebek uyusun diye sesimizi kısık tuttuk.",
+   "Hükümetler, gelecek nesiller uğruna, kısa vadeli kârlar yerine doğal yaşam alanlarını korumalıdır."
+  ],
+  "col": [
+   "birinin iyiliği için",
+   "uğruna",
+   "netlik adına"
+  ],
+  "tip": "Sake genellikle for the sake of ya da for someone's sake kalıplarında görülür; 'uğruna' ya da 'adına' olarak çevrilebilir.",
+  "note": ""
+ },
+ {
+  "id": "groom",
+  "senses": [
+   "bakmak; taramak",
+   "damat",
+   "yetiştirmek; hazırlamak"
+  ],
+  "ex": [
+   "Her sabah binmeden önce midillimizin tüylerini tararız.",
+   "Bazı kuruluşlar, umut vadeden çalışanları yapılandırılmış eğitim ve düzenli danışmanlıkla liderlik görevlerine hazırlar."
+  ],
+  "col": [
+   "at taramak",
+   "gelin ve damat",
+   "birini liderliğe yetiştirmek"
+  ],
+  "tip": "Groom 'damat' anlamına gelir ama fiil olarak 'birini bir göreve hazırlamak' anlamında da çok kullanılır: groom someone for a role.",
+  "note": ""
+ },
+ {
+  "id": "polar",
+  "senses": [
+   "kutupsal; kutup",
+   "tamamen karşıt"
+  ],
+  "ex": [
+   "Kutup bölgelerindeki hayvanlar hakkında bir film izledik.",
+   "Küresel sıcaklık artışı, birçok türün bağlı olduğu deniz buzunu azaltarak kutup ekosistemlerini tehdit ediyor."
+  ],
+  "col": [
+   "kutup bölgeleri",
+   "kutup buz başlıkları",
+   "kutup ayısı",
+   "tam zıt uçlar"
+  ],
+  "tip": "Polar sıfattır ve kutupla ilgili anlam taşır. 'Polar opposites' kalıbı, birbirinden tamamen zıt iki şeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "delight",
+  "senses": [
+   "büyük sevinç; neşe",
+   "sevindirmek; memnun etmek",
+   "sevinç veren şey"
+  ],
+  "ex": [
+   "Köpek yavrusu geldiğinde çocuklar sevinçten çığlık attı.",
+   "Kamusal bahçeler, dinlenme ve sosyal etkileşim için değerli alanlar sunarken şehir sakinlerine mutluluk verebilir."
+  ],
+  "col": [
+   "sevinçle",
+   "birinin memnuniyetine",
+   "bir şeyden zevk almak",
+   "bir şey yapmaktan zevk almak"
+  ],
+  "tip": "Delighted kişinin sevindiğini, delightful ise şeyin hoş ve keyifli olduğunu anlatır. Delight in kalıbı 'zevk almak' demektir.",
+  "note": ""
+ },
+ {
+  "id": "uncertainty",
+  "senses": [
+   "belirsizlik; kararsızlık",
+   "belirsiz unsur"
+  ],
+  "ex": [
+   "Ertelenen uçuş bize saatlerce süren bir belirsizlik yaşattı.",
+   "Ekonomik belirsizlik, işletmeleri yeni ekipman yatırımından ya da ek personel almaktan caydırabilir."
+  ],
+  "col": [
+   "ekonomik belirsizlik",
+   "belirsiz bir dönem",
+   "belirsizliği azaltmak",
+   "gelecek hakkındaki belirsizlik"
+  ],
+  "tip": "Genel durum anlamında çoğunlukla sayılamaz. Belirli belirsiz unsurlar söz konusuysa çoğul (uncertainties) kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "hurrah",
+  "senses": [
+   "yaşasın; hurra"
+  ],
+  "ex": [
+   "Yaşasın, yağmur dindi ve dışarıda oynayabiliriz!",
+   "Gönüllüler, kampanyalarının yerel parkı kurtardığını öğrendiklerinde 'hurra' diye bağırdı."
+  ],
+  "col": [
+   "hurra diye bağırmak",
+   "son bir gösteri"
+  ],
+  "tip": "Genellikle tek başına ünlem olarak kullanılır ve hooray ile aynı anlamdadır. Günlük konuşmada hooray daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "renewable",
+  "senses": [
+   "yenilenebilir",
+   "uzatılabilir"
+  ],
+  "ex": [
+   "Yeni güneş panellerimiz eve yenilenebilir enerji sağlıyor.",
+   "Yenilenebilir enerjiye yapılan yatırım, bir ülkenin ithal fosil yakıtlara bağımlılığını azaltırken iş yaratabilir."
+  ],
+  "col": [
+   "yenilenebilir enerji",
+   "yenilenebilir kaynaklar",
+   "yenilenebilir kaynak türleri",
+   "uzatılabilir sözleşme"
+  ],
+  "tip": "Renewables çoğul olarak 'yenilenebilir enerji kaynakları' anlamında kullanılır. Sıfat olarak isimden önce gelir: renewable energy.",
+  "note": ""
+ },
+ {
+  "id": "sunshade",
+  "senses": [
+   "güneşlik; gölgelik"
+  ],
+  "ex": [
+   "Bahçe masamızın üstüne bir güneşlik açtık.",
+   "Her açık hava oturma alanının üzerine bir gölgelik kurmak, yazın kamusal alanları daha konforlu hâle getirebilir."
+  ],
+  "col": [
+   "plaj şemsiyesi",
+   "araba güneşliği",
+   "bir gölgeliğin altında"
+  ],
+  "tip": "Sunshade güneşten gölgelenmek için kullanılır. Yağmurdan korunmak için ise umbrella (şemsiye) tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "removal",
+  "senses": [
+   "kaldırma; çıkarma",
+   "görevden alma",
+   "taşınma; nakliye"
+  ],
+  "ex": [
+   "Lekeleri hızlı hareket ederseniz çıkarmak daha kolaydır.",
+   "Gereksiz ambalajın kaldırılması, evlerden çöp depolama alanlarına giden atık miktarını önemli ölçüde azaltabilir."
+  ],
+  "col": [
+   "atık toplama",
+   "leke çıkarma",
+   "görevden alınma",
+   "nakliye şirketi"
+  ],
+  "tip": "Anlamı bağlama göre değişir: kaldırma, görevden alma ya da taşınma. Removal company, taşınma ya da nakliye şirketi demektir.",
+  "note": ""
+ },
+ {
+  "id": "rotate",
+  "senses": [
+   "dönmek; döndürmek",
+   "sırayla yapmak"
+  ],
+  "ex": [
+   "Her tarafı güneş alsın diye saksıyı çevirin.",
+   "Bazı hastaneler, deneyimi geliştirmek ve tıp ekipleri arasındaki iş birliğini artırmak için personeli bölümler arasında döndürür."
+  ],
+  "col": [
+   "saat yönünde dönmek",
+   "ekinleri nöbetleşe ekmek",
+   "görevleri sırayla yapmak"
+  ],
+  "tip": "Rotate hem geçişli hem geçişsiz kullanılır: rotate the wheel (tekerleği döndürmek); the wheel rotates (tekerlek döner).",
+  "note": ""
+ },
+ {
+  "id": "enthusiasm",
+  "senses": [
+   "heves; coşku"
+  ],
+  "ex": [
+   "Çocuklar kendi sebzelerini ekmek için gerçek bir heves gösterdi.",
+   "Konularına karşı coşku gösteren öğretmenler, öğrencileri sınıfın ötesindeki fikirleri keşfetmeye motive edebilir."
+  ],
+  "col": [
+   "bir şeye karşı heves",
+   "coşkuyla",
+   "heyecan yaratmak",
+   "hevesini kaybetmek"
+  ],
+  "tip": "Genellikle sayılamaz ve 'enthusiasm for' kalıbıyla kullanılır. Sıfat biçimi enthusiastic, 'enthusiastic about' ile gelir.",
+  "note": ""
+ },
+ {
+  "id": "sneak",
+  "senses": [
+   "sessizce sızmak",
+   "gizlice almak; yapmak"
+  ],
+  "ex": [
+   "Herkes uyurken su için gizlice aşağı indim.",
+   "Bazı öğrenciler sınavlara telefon sokuyor; bu da daha açık kurallara ve daha sıkı gözetime ihtiyaç olduğunu gösteriyor."
+  ],
+  "col": [
+   "gizlice çıkmak",
+   "gizlice girmek",
+   "gizlice bakmak",
+   "birine bir şeyi gizlice geçirmek"
+  ],
+  "tip": "Geçmiş zaman sneaked'tir. Amerikan İngilizcesinde snuck da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "throne",
+  "senses": [
+   "taht; kral koltuğu",
+   "hükümdarlık; saltanat"
+  ],
+  "ex": [
+   "Kraliçe pencerenin yanındaki bir tahtta oturuyordu.",
+   "Tahta çıkışı, ülkenin komşularıyla siyasi ilişkisinde önemli bir değişikliğin başlangıcı oldu."
+  ],
+  "col": [
+   "tahtta oturmak",
+   "tahta çıkmak",
+   "tahtın varisi"
+  ],
+  "tip": "The throne tek başına çoğunlukla 'hükümdarlık' anlamında kullanılır; fiziksel bir koltuğu her zaman ifade etmez.",
+  "note": ""
+ },
+ {
+  "id": "downside",
+  "senses": [
+   "olumsuz yön; dezavantaj"
+  ],
+  "ex": [
+   "Bu dairenin tek olumsuz yanı gürültü.",
+   "Uzaktan çalışmanın bir olumsuz yönü, çalışanların güçlü mesleki ilişkiler kurma fırsatlarının daha az olabilmesidir."
+  ],
+  "col": [
+   "-in olumsuz yanı",
+   "olası bir dezavantaj",
+   "olumsuz taraf"
+  ],
+  "tip": "The downside of/to kalıbıyla bir şeyin olumsuz yönü anlatılır. Karşıt anlamlısı upside (olumlu yön)dur.",
+  "note": ""
+ }
+]

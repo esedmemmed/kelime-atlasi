@@ -1,0 +1,260 @@
+[
+ {
+  "id": "tenable",
+  "senses": [
+   "savunulabilir; geçerli"
+  ],
+  "ex": [
+   "Kontrol ettikten sonra mazereti artık savunulabilir değildi.",
+   "Ekonomik büyümenin her bağlamda kamu refahını artırdığı varsayımı artık savunulabilir değil."
+  ],
+  "col": [
+   "savunulabilir bir konum",
+   "savunulabilir bir tartışma",
+   "artık savunulamaz"
+  ],
+  "tip": "Genellikle görüş, konum veya iddia için kullanılır; 'rahat' ya da 'elverişli' anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "clasp",
+  "senses": [
+   "sıkıca tutmak; kavramak",
+   "toka; kopça",
+   "sıkı kavrayış; kucaklama"
+  ],
+  "ex": [
+   "Köprüyü geçerken elimi sıkıca tuttu.",
+   "Küçük çocuklar, tanıdık bir oyuncağı yabancı bir ortamda rahatlık sağladığı için tıbbi randevularda sıkıca tutabilir."
+  ],
+  "col": [
+   "birinin elini sıkmak",
+   "ellerini birleştirip sıkmak",
+   "kolye tokası"
+  ],
+  "tip": "Fiil olarak 'sıkıca tutmak', isim olarak ise toka veya kopça anlamına gelir. Hem fiil hem isim kullanımına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "plaintive",
+  "senses": [
+   "hüzünlü; ağlamaklı"
+  ],
+  "ex": [
+   "Kapımızın dışından bir yavru kedinin hüzünlü miyavlaması geldi.",
+   "Müzisyen, insanların evlerinden uzakta yaşadıkları yalnızlığı aktarmak için hüzünlü bir melodi kullanıyor."
+  ],
+  "col": [
+   "hüzünlü bir ses",
+   "hüzünlü bir ses tonu",
+   "hüzünlü bir ezgi"
+  ],
+  "tip": "Çoğunlukla ses, ton veya müzikte duyulan hüznü anlatır; sadece 'üzgün' değil, yakınır gibi bir tını da taşır.",
+  "note": ""
+ },
+ {
+  "id": "conceptive",
+  "senses": [
+   "tasavvur edebilen; kavrayıcı"
+  ],
+  "ex": [
+   "Filozof, hayal gücünü tasavvur edici bir yetenek olarak tanımladı.",
+   "Eski felsefi metinlerde tasavvur yetisi, insanların doğrudan duyusal deneyimin ötesinde fikirler oluşturmasını sağlar."
+  ],
+  "col": [
+   "tasavvur yetisi",
+   "tasavvur gücü"
+  ],
+  "tip": "Çok nadir bir sözcüktür; 'kavramsal' anlamına gelen conceptual ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "apprise",
+  "senses": [
+   "bilgi vermek; haberdar etmek"
+  ],
+  "ex": [
+   "Cuma gününden önce bana yapılacak herhangi bir değişiklikten haberdar edin.",
+   "Okullar, çocukları etkileyen yeni kurallar uygulamadan önce ailelere önemli politika değişikliklerini resmen bildirmelidir."
+  ],
+  "col": [
+   "birini bir şeyden haberdar etmek",
+   "birini bilgilendirilmiş tutmak"
+  ],
+  "tip": "Resmi bir fiildir ve 'apprise sb of sth' kalıbıyla kullanılır. 'Değerlendirmek' anlamındaki appraise ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "eminently",
+  "senses": [
+   "son derece; oldukça"
+  ],
+  "ex": [
+   "Odanız çalışma odası için son derece uygun görünüyor.",
+   "Evin yalıtımını iyileştirmek, ısıtma maliyetlerini azaltmanın son derece mantıklı bir yoludur."
+  ],
+  "col": [
+   "son derece uygun",
+   "son derece mantıklı",
+   "son derece makul",
+   "son derece yetkin"
+  ],
+  "tip": "Genellikle olumlu sıfatlarla kullanılır; 'yakında' anlamındaki imminently ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "alchemy",
+  "senses": [
+   "simya",
+   "dönüştürücü sihir; sihirli dönüşüm"
+  ],
+  "ex": [
+   "Sergi, eski kavanozlar ve ocaklar aracılığıyla simyayı ele aldı.",
+   "Simya modern bilimsel bir çerçeveden yoksun olsa da deneysel teknikleri kimyanın gelişimine katkıda bulundu."
+  ],
+  "col": [
+   "ortaçağ simyası",
+   "simya ile uğraşmak",
+   "yaratıcılığın sihirli dönüşümü"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Mecazi anlamda, sıradan şeyleri olağanüstü bir şeye dönüştüren gizemli süreci anlatır.",
+  "note": ""
+ },
+ {
+  "id": "reverence",
+  "senses": [
+   "derin saygı; hürmet"
+  ],
+  "ex": [
+   "Büyükannesinin eski kemanını sessiz bir saygıyla tuttu.",
+   "Geleneksel el sanatlarına duyulan saygı, toplulukları yok olma tehlikesi taşıyan becerileri korumaya teşvik edebilir."
+  ],
+  "col": [
+   "...e duyulan saygı",
+   "derin saygı",
+   "saygıyla davranmak"
+  ],
+  "tip": "Sayılamayan bir isimdir. Saygı duyulan kişi ya da şey 'reverence for' kalıbıyla belirtilir.",
+  "note": ""
+ },
+ {
+  "id": "mumps",
+  "senses": [
+   "kabakulak"
+  ],
+  "ex": [
+   "Doktor, kabakulak belirtisi olup olmadığını görmek için şişmiş yanaklarını kontrol etti.",
+   "Düzenli aşılama kabakulağın önlenmesine yardımcı olur ve okullarda ile kalabalık ortamlardaki salgın riskini azaltır."
+  ],
+  "col": [
+   "kabakulağa yakalanmak",
+   "kabakulak aşısı",
+   "kabakulak salgını"
+  ],
+  "tip": "Sonu s ile bitse de hastalık adı olarak tekil kullanılır: mumps is. 'Mumps are' şeklinde kullanmayın.",
+  "note": ""
+ },
+ {
+  "id": "ostensible",
+  "senses": [
+   "görünürdeki; sözde"
+  ],
+  "ex": [
+   "Beni ziyaret etmesinin görünürdeki nedeni şemsiyemi geri vermekti.",
+   "Politikanın görünürdeki amacı çevreyi korumaktı, ancak yerli üreticilere de fayda sağladı."
+  ],
+  "col": [
+   "görünürdeki neden",
+   "görünürdeki amaç",
+   "görünürdeki hedef"
+  ],
+  "tip": "Görünenin gerçeği yansıtmayabileceğini ima eder; ama yanlış olduğunun kanıtlandığı anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "quagmire",
+  "senses": [
+   "çıkmaz; zor durum",
+   "bataklık; çamurlu zemin"
+  ],
+  "ex": [
+   "Basit mutfak tadilatımız beklenmedik masrafların çıkmazına dönüştü.",
+   "Açık düzenlemeler olmadan büyük altyapı projeleri hukuki anlaşmazlıklar ve mali belirsizlik çıkmazına saplanabilir."
+  ],
+  "col": [
+   "hukuki bir çıkmaz",
+   "siyasi bir çıkmaz",
+   "çıkmaza saplanmak"
+  ],
+  "tip": "Mecazi olarak karmaşık ve çıkılması güç durumları anlatır; sıradan güçlükler için kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "plenary",
+  "senses": [
+   "genel; tam heyet",
+   "genel oturum; genel toplantı",
+   "tam; sınırsız"
+  ],
+  "ex": [
+   "Öğle yemeğinden sonra tüm atölye grupları genel oturuma katıldı.",
+   "Genel görüşme sırasında delegeler, uluslararası işbirliğinin temiz içme suyuna erişimi nasıl iyileştirebileceğini tartıştı."
+  ],
+  "col": [
+   "genel oturum",
+   "genel görüşme",
+   "tam yetki"
+  ],
+  "tip": "Toplantı bağlamında tüm katılımcıların hazır bulunduğu anlamına gelir; plenary powers ise 'tam yetki' demektir.",
+  "note": ""
+ },
+ {
+  "id": "maim",
+  "senses": [
+   "sakat bırakmak"
+  ],
+  "ex": [
+   "Bu makine koruyucusu olmadan birini sakat bırakabilir.",
+   "Koruyucusuz makineler işçileri sakatlayabileceğinden ve ömür boyu engelli bırakabileceğinden sıkı iş yeri denetimleri şarttır."
+  ],
+  "col": [
+   "işçileri sakat bırakmak",
+   "bir kazada sakatlanmak"
+  ],
+  "tip": "Injure'dan daha ağır bir anlam taşır; kalıcı bedensel hasar verilmesini ima eder.",
+  "note": ""
+ },
+ {
+  "id": "coefficient",
+  "senses": [
+   "katsayı"
+  ],
+  "ex": [
+   "Öğretmenimiz, katsayının eğriyi nasıl değiştirdiğini anlattı.",
+   "Yüksek bir korelasyon katsayısı güçlü bir istatistiksel ilişkiyi gösterir, ancak mutlaka nedensellik kanıtlamaz."
+  ],
+  "col": [
+   "korelasyon katsayısı",
+   "sürtünme katsayısı",
+   "ısıl genleşme katsayısı"
+  ],
+  "tip": "Matematik ve fizikte 'katsayı' anlamındadır. Yüksek korelasyon her zaman neden-sonuç ilişkisi anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "baroness",
+  "senses": [
+   "baronluk unvanlı kadın; baronun eşi"
+  ],
+  "ex": [
+   "Baroness, ziyaretçileri ailesinin eski kalesine kabul etti.",
+   "Baronesin portresi, kıyafetlerin bir zamanlar toplumsal statüyü ve servetini nasıl gösterdiğini ortaya koyuyor."
+  ],
+  "col": [
+   "ömürlük baronluk unvanlı kadın",
+   "baroneslik unvanı"
+  ],
+  "tip": "Hem kendisi asalet unvanı taşıyan kadını hem de bir barona evli kadını ifade edebilir; bağlama dikkat edin.",
+  "note": ""
+ }
+]

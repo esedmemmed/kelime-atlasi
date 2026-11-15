@@ -1,0 +1,265 @@
+[
+ {
+  "id": "vouch",
+  "senses": [
+   "garanti etmek; kefil olmak"
+  ],
+  "ex": [
+   "Onun harika yemek pişirme becerisi konusunda kefil olabilirim.",
+   "Bağımsız uzmanlar, bulguların doğruluğunu garanti etmeden önce araştırma yöntemlerini incelemelidir."
+  ],
+  "col": [
+   "birine kefil olmak",
+   "bulguların doğruluğunu garanti etmek",
+   "kalitesini garanti etmek"
+  ],
+  "tip": "Genellikle \"vouch for\" kalıbıyla kullanılır. \"Vouch someone\" biçimi kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "jingle",
+  "senses": [
+   "şıngırdamak; çınlamak",
+   "çın çın ses; reklam şarkısı"
+  ],
+  "ex": [
+   "Kapıyı açarken anahtarları şıngırdadı.",
+   "Akılda kalan bir reklam şarkısı, kampanya bittikten sonra bile tüketicilerin tercihlerini etkileyebilir."
+  ],
+  "col": [
+   "anahtarlarını şıngırdatmak",
+   "reklam şarkısı",
+   "zillerin çınlaması"
+  ],
+  "tip": "Fiil olarak \"şıngırdamak\", isim olarak hem ses hem de kısa reklam melodisi anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "unify",
+  "senses": [
+   "birleştirmek; bütünleştirmek"
+  ],
+  "ex": [
+   "Mahalle festivali, bölünmüş topluluğumuzu birleştirmeye yardımcı oldu.",
+   "Ortak bir toplu taşıma ağı, istihdama erişimi iyileştirirken bölgeyi birleştirebilir."
+  ],
+  "col": [
+   "bir ülkeyi birleştirmek",
+   "farklı grupları birleştirmek",
+   "birleştirici bir güç"
+  ],
+  "tip": "Ayrı parçaları tek bir bütün hâline getirmeyi anlatır. İnsanların bir araya gelmesi için daha çok \"unite\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "periodic",
+  "senses": [
+   "periyodik; belirli aralıklarla"
+  ],
+  "ex": [
+   "Eski kazanın güvenli şekilde çalışmaya devam etmesi için periyodik kontroller gerekir.",
+   "Periyodik değerlendirmeler, öğretmenlerin öğrenme güçlüklerini öğrenciler sınıf arkadaşlarının çok gerisine düşmeden fark etmesini sağlar."
+  ],
+  "col": [
+   "periyodik kontroller",
+   "periyodik inceleme",
+   "periyodik cetvel"
+  ],
+  "tip": "Sıfattır, isim değildir. Zarf biçimi \"periodically\"dir.",
+  "note": ""
+ },
+ {
+  "id": "commonplace",
+  "senses": [
+   "yaygın; sıradan",
+   "sıradan şey; klişe söz"
+  ],
+  "ex": [
+   "Elektrikli bisikletler artık mahallemizde çok yaygın.",
+   "Uzaktan çalışma birçok sektörde yaygınlaştı ve şirketlerin ofislerini nasıl organize ettiklerini değiştirdi."
+  ],
+  "col": [
+   "yaygınlaşmak",
+   "giderek yaygınlaşan",
+   "sıradan bir olay"
+  ],
+  "tip": "Bir şeyin sık görüldüğü için sıradan sayıldığını anlatır. Her zaman olumsuz bir anlam taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "advantageous",
+  "senses": [
+   "avantajlı; yararlı"
+  ],
+  "ex": [
+   "Erken rezervasyon yapmak avantajlıydı, çünkü daha ucuz biletler aldık.",
+   "Esnek çalışma düzenleri, personel memnuniyetini artırarak ve işten ayrılmaları azaltarak işverenler için yararlı olabilir."
+  ],
+  "col": [
+   "birine yararlı olmak",
+   "karşılıklı yararlı",
+   "avantajlı konum"
+  ],
+  "tip": "\"Be advantageous to someone\" kalıbı, bir kişiye ya da duruma yarar sağladığını belirtir.",
+  "note": ""
+ },
+ {
+  "id": "merciful",
+  "senses": [
+   "merhametli; bağışlayıcı",
+   "rahatlatıcı; acıyı dindiren"
+  ],
+  "ex": [
+   "Merhametli antrenörüm, antrenman sırasında yaptığım hatayı affetti.",
+   "Merhametli bir adalet sistemi, genç suçlulara yalnızca ceza yerine ıslah fırsatları sunmalıdır."
+  ],
+  "col": [
+   "birine merhametli olmak",
+   "merhametli bir yargıç",
+   "acıyı dindiren bir son"
+  ],
+  "tip": "Birine karşı merhametli olmak için \"be merciful to someone\" kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "orthodox",
+  "senses": [
+   "Ortodoks",
+   "Ortodoks; geleneksel Yahudi"
+  ],
+  "ex": [
+   "Güzel boyalı ikonlarıyla ünlü bir Ortodoks kilisesini ziyaret ettik.",
+   "Ortodoks kiliselerin korunması, mimari mirası koruyabilir ve ziyaretçilerin yerel toplulukların dini geleneklerini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "Ortodoks Kilisesi",
+   "Ortodoks Hristiyanlık",
+   "Ortodoks Yahudilik"
+  ],
+  "tip": "Büyük harfle yazıldığında dini mezhebi gösterir. Küçük harfle \"geleneksel, klasik\" anlamında da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "preacher",
+  "senses": [
+   "vaiz; vaaz veren",
+   "savunucu; taraftar"
+  ],
+  "ex": [
+   "Vaiz, Pazar günkü konuşmasına başlamadan önce herkese hoş geldiniz dedi.",
+   "Yerel bir vaiz, işsizlikten etkilenen ailelere pratik toplum projeleriyle destek olunmasını teşvik etti."
+  ],
+  "col": [
+   "yerel bir vaiz",
+   "sokak vaizi",
+   "barışın savunucusu"
+  ],
+  "tip": "\"Preacher\" dinî konuşma yapan kişiyi anlatır. Dini yaymakla görevli kişi için \"missionary\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "stationary",
+  "senses": [
+   "hareketsiz; durağan"
+  ],
+  "ex": [
+   "Yolcular binerken otobüsümüz hareketsiz kaldı.",
+   "Motoru çalışan hareketsiz araçlar, hiçbir ulaşım yararı sağlamadan kentsel hava kirliliğine katkıda bulunur."
+  ],
+  "col": [
+   "hareketsiz kalmak",
+   "hareketsiz bir araç",
+   "sabit bisiklet"
+  ],
+  "tip": "\"Stationary\" (hareketsiz) ile \"stationery\" (kırtasiye) telaffuz olarak aynıdır ama anlamları ve yazılışları farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "inclined",
+  "senses": [
+   "eğilimli; istekli",
+   "eğik; meyilli"
+  ],
+  "ex": [
+   "Bu gece evde kalıp yemek yapmaya meyilliyim.",
+   "Uygun fiyatlı yerel tamir hizmetleri kolayca bulunabildiğinde tüketiciler cihazlarını tamir ettirmeye daha yatkın olabilir."
+  ],
+  "col": [
+   "katılmaya meyilli olmak",
+   "yapmak istemek",
+   "eğik düzlem"
+  ],
+  "tip": "\"Be inclined to\" kalıbından sonra fiil yalın hâlde gelir. Eğilim veya istek anlatır, zorunluluk anlatmaz.",
+  "note": ""
+ },
+ {
+  "id": "sovereignty",
+  "senses": [
+   "egemenlik; hâkimiyet"
+  ],
+  "ex": [
+   "Bugün tarih dersimizde ulusal egemenliği tartıştık.",
+   "Uluslararası anlaşmalar, ilgili her ülkenin egemenliğine saygı göstererek iş birliğini teşvik edebilir."
+  ],
+  "col": [
+   "ulusal egemenlik",
+   "toprak egemenliği",
+   "egemenliğe saygı göstermek",
+   "egemenlik kullanmak"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir. Bir toprak üzerindeki egemenlik \"over\" ile ifade edilir.",
+  "note": ""
+ },
+ {
+  "id": "simulate",
+  "senses": [
+   "simüle etmek; benzetimini yapmak",
+   "numara yapmak; taklit etmek"
+  ],
+  "ex": [
+   "Bu sürüş oyunu buzlu yolları şaşırtıcı derecede iyi simüle ediyor.",
+   "Araştırmacılar, yeni yapı malzemelerinin çevresel strese karşı nasıl performans gösterdiğini görmek için aşırı hava koşullarını simüle eder."
+  ],
+  "col": [
+   "koşulları simüle etmek",
+   "bir acil durumu canlandırmak",
+   "etkilerini simüle etmek"
+  ],
+  "tip": "Bir ortamı ya da süreci yeniden üretmek için \"simulate\", bir şeyi teşvik etmek için \"stimulate\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "indent",
+  "senses": [
+   "satır başını içeri almak",
+   "oyuk açmak; çentik açmak"
+  ],
+  "ex": [
+   "Lütfen her yeni paragrafın ilk satırını içeriden başlatın.",
+   "Öğrenciler, üniversite derslerindeki resmi raporları biçimlendirirken paragrafları tutarlı biçimde girintili yazmayı öğrenmelidir."
+  ],
+  "col": [
+   "bir paragrafı girintilemek",
+   "ilk satırı girintilemek"
+  ],
+  "tip": "Satır başının içeri doğru kaydırılması anlamına gelir. Satırın tamamının kısaltılması anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "ideology",
+  "senses": [
+   "ideoloji; düşünce sistemi"
+  ],
+  "ex": [
+   "Siyasi ideolojileri, günlük sorunları nasıl tartıştıklarını şekillendiriyor.",
+   "Eğitim politikaları çoğu zaman öğrencilerin ihtiyaçlarından çok iktidardakilerin ideolojisini yansıtır."
+  ],
+  "col": [
+   "siyasi ideoloji",
+   "egemen ideoloji",
+   "bir ideolojiyi paylaşmak"
+  ],
+  "tip": "Tek bir fikri değil, siyasi ya da toplumsal görüşleri kapsayan bütünlüklü bir düşünce sistemini anlatır.",
+  "note": ""
+ }
+]

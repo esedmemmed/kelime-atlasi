@@ -1,0 +1,272 @@
+[
+ {
+  "id": "spokesman",
+  "senses": [
+   "sözcü"
+  ],
+  "ex": [
+   "Bir sözcü, yüzme havuzunun neden kapatıldığını açıkladı.",
+   "Hükümet sözcüsü, kırsal topluluklarda toplu taşımayı iyileştirmek için ek fonun sağlanacağını duyurdu."
+  ],
+  "col": [
+   "hükümet sözcüsü",
+   "şirket sözcüsü",
+   "...için sözcü"
+  ],
+  "tip": "Spokesman erkek sözcüyü anlatır. Cinsiyeti belirtmek istemediğinizde spokesperson kullanabilirsiniz.",
+  "note": ""
+ },
+ {
+  "id": "orbit",
+  "senses": [
+   "yörünge",
+   "yörüngede dönmek; çevresinde dönmek"
+  ],
+  "ex": [
+   "Uydunun yörüngesini gösteren bir animasyon izledik.",
+   "Dünya'nın çevresinde dönen uydular, hava tahmini, afet izleme ve iklim araştırmaları için temel veriler sağlar."
+  ],
+  "col": [
+   "yörüngede",
+   "yörüngeye girmek",
+   "kararlı bir yörünge",
+   "Dünya'nın çevresinde dönmek"
+  ],
+  "tip": "Fiil orbit doğrudan nesne alır: orbit the Earth. Türkçedeki 'çevresinde' karşılığını around ile eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "bacterium",
+  "senses": [
+   "bakteri"
+  ],
+  "ex": [
+   "Mikroskop altında tek bir bakteri yavaşça hareket ediyordu.",
+   "Bilim insanları, kirli topraktaki zararlı kimyasalları yakındaki bitkilere zarar vermeden temizleyebilecek bir bakteri tespit etti."
+  ],
+  "col": [
+   "zararlı bakteri",
+   "hastalık yapan bakteriler",
+   "yararlı bakteriler"
+  ],
+  "tip": "Tekil bacterium, çoğulu bacteria'dır. Çoğul özne olduğunda fiil are olur: Bacteria are found in soil.",
+  "note": ""
+ },
+ {
+  "id": "outbreak",
+  "senses": [
+   "salgın; patlak verme"
+  ],
+  "ex": [
+   "Grip salgını birkaç çocuğun okula gitmemesine neden oldu.",
+   "Güvenilir sağlık bilgisine hızlı erişim, toplulukların bulaşıcı bir hastalık salgınına etkili biçimde karşılık vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "hastalık salgını",
+   "savaşın patlak vermesi",
+   "salgını kontrol altına almak"
+  ],
+  "tip": "İsim olarak tek kelime yazılır: outbreak. Fiil olarak break out kullanılır: The fire broke out last night.",
+  "note": ""
+ },
+ {
+  "id": "prosperous",
+  "senses": [
+   "müreffeh; refah içinde"
+  ],
+  "ex": [
+   "Bir zamanlar sessiz olan köy, artık müreffeh bir pazar kasabası.",
+   "Müreffeh bir ekonomi; eğitim, sağlık ve kamu altyapısını geliştirmek için gereken kaynakları üretebilir."
+  ],
+  "col": [
+   "müreffeh ekonomi",
+   "refah içindeki ülke",
+   "parlak bir gelecek"
+  ],
+  "tip": "Genellikle ülke, bölge veya ekonomi için kullanılır. Kişiler için rich ya da wealthy daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "shift",
+  "senses": [
+   "yer değiştirmek; kaydırmak",
+   "değişim; kayma",
+   "vardiya"
+  ],
+  "ex": [
+   "Kanepeyi pencereye biraz daha yaklaştırdık.",
+   "Hükümetler, trafik sıkışıklığını ve kentsel hava kirliliğini azaltmak için yatırımı toplu taşımaya kaydırmalıdır."
+  ],
+  "col": [
+   "odağı kaydırmak",
+   "tutumlardaki değişim",
+   "gece vardiyasında çalışmak",
+   "sorumluluğu başkasına atmak"
+  ],
+  "tip": "İsim olarak hem 'değişim' hem 'vardiya' anlamına gelir. Bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "slavery",
+  "senses": [
+   "kölelik"
+  ],
+  "ex": [
+   "Dün müze gezimizde köleliği öğrendik.",
+   "Kölelik dünya genelinde yasal olarak kaldırılmış olsa da zorla çalıştırma, hükümetler ve uluslararası kuruluşlar için ciddi bir sorun olmaya devam ediyor."
+  ],
+  "col": [
+   "köleliği kaldırmak",
+   "modern kölelik",
+   "köleliğin kaldırılması"
+  ],
+  "tip": "Slavery sayılamayan bir isimdir; a slavery demeyin. Köle anlamındaki slaves ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "explosive",
+  "senses": [
+   "patlayıcı; patlamaya yatkın",
+   "hızla artan; patlayıcı",
+   "patlayıcı madde"
+  ],
+  "ex": [
+   "Bu patlayıcı maddeler ısıdan uzak tutulmalıdır.",
+   "Çevrimiçi alışverişin patlayıcı büyümesi, teslimat hizmetlerine olan talebi artırdı ve kent plancıları için yeni zorluklar yarattı."
+  ],
+  "col": [
+   "patlayıcı maddeler",
+   "patlayıcı büyüme",
+   "patlayıcı güç"
+  ],
+  "tip": "Explosive growth mecazi olarak çok hızlı artışı anlatır; gerçek bir patlamayı değil, hızlı artışı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "root",
+  "senses": [
+   "kök",
+   "temel neden; kaynak",
+   "kök salmak; köklenmek"
+  ],
+  "ex": [
+   "Meşe ağacının kalın kökleri bahçe yolumuzu çatlattı.",
+   "Etkili politikalar, yalnızca geçici mali yardım sağlamak yerine yoksulluğun kökenine yönelmelidir."
+  ],
+  "col": [
+   "temel neden",
+   "kök salmak",
+   "...in kaynağında",
+   "kökleri dikmek"
+  ],
+  "tip": "Root tek başına 'kökünden sökmek' anlamına gelmez. Bu anlam için root out kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "subscription",
+  "senses": [
+   "abonelik; abone olma",
+   "abonelik ücreti; aidat"
+  ],
+  "ex": [
+   "Yurt dışına taşınmadan önce dergi aboneliğimi iptal ettim.",
+   "Abonelik hizmetleri eğitim kaynaklarına erişimi genişletebilir; ancak yinelenen ücretler düşük gelirli hanehalklarını dışarıda bırakabilir."
+  ],
+  "col": [
+   "yıllık abonelik",
+   "abonelik ücreti",
+   "aboneliği yenilemek",
+   "aboneliği iptal etmek"
+  ],
+  "tip": "Subscription hem abone olma işlemini hem de ödenen düzenli ücreti anlatır. Abone kişi subscriber'dır.",
+  "note": ""
+ },
+ {
+  "id": "rapid",
+  "senses": [
+   "hızlı; süratli",
+   "çağlayan; hızlı akıntı"
+  ],
+  "ex": [
+   "Kızının hızlı iyileşmesi ailedeki herkesi şaşırttı.",
+   "Hızlı kentleşme genellikle toplu taşıma, konut ve temel hizmetler üzerinde önemli bir baskı oluşturur."
+  ],
+  "col": [
+   "hızlı büyüme",
+   "hızlı değişim",
+   "hızlı iyileşme",
+   "beyaz su çağlayanları"
+  ],
+  "tip": "Rapid çoğunlukla değişim ve büyüme gibi kavramlarla kullanılır. Akarsudaki hızlı akıntı için genellikle çoğul rapids kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "goddess",
+  "senses": [
+   "tanrıça"
+  ],
+  "ex": [
+   "Müzede taştan yapılmış bir tanrıça heykeli sergileniyordu.",
+   "Bir hasat tanrıçasının antik heykelleri, dini inançların tarımla ne kadar yakından bağlantılı olduğunu gösteriyor."
+  ],
+  "col": [
+   "bilgelik tanrıçası",
+   "hasat tanrıçası",
+   "bir tanrıçaya tapmak"
+  ],
+  "tip": "Erkek karşılığı god'dur. Goddess kelimesini genellikle mitoloji veya dini bağlamlarda kullanın.",
+  "note": ""
+ },
+ {
+  "id": "siren",
+  "senses": [
+   "siren; alarm"
+  ],
+  "ex": [
+   "Bu sabah erken saatlerde bir ambulans sireni beni uyandırdı.",
+   "Acil durum sirenleri, şiddetli fırtınalar güvenliği tehdit ettiğinde kıyı topluluklarının hızlı tepki vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "siren çalmak",
+   "ambulans sireni",
+   "uyarı sireni"
+  ],
+  "tip": "Siren hem cihazı hem de çıkan sesi anlatır. Sesi için sound a siren kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "recite",
+  "senses": [
+   "ezberden okumak; okumak",
+   "sırayla sıralamak; anlatmak"
+  ],
+  "ex": [
+   "Kız kardeşim akşam yemeğinden sonra kısa bir şiiri ezberden okudu.",
+   "Yalnızca bilgileri sıralayan öğrenciler, bu bilgileri tanıdık olmayan problemlere uygulamakta zorlanabilir."
+  ],
+  "col": [
+   "şiir okumak",
+   "ezberden okumak",
+   "listeyi sıralamak"
+  ],
+  "tip": "Recite, yüksek sesle söylemeyi vurgular. Ezberlemeyi vurgulamak için memorise kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "pessimistic",
+  "senses": [
+   "kötümser"
+  ],
+  "ex": [
+   "Bulutlar toplanınca pikniğe dair kötümser hissetti.",
+   "Gençler, istikrarlı iş fırsatları sınırlı kaldığında kariyer beklentileri konusunda kötümser olabilir."
+  ],
+  "col": [
+   "gelecek hakkında kötümser",
+   "kötümser bir bakış açısı",
+   "kötümser bir tahmin"
+  ],
+  "tip": "Genellikle be pessimistic about kalıbıyla kullanılır. Zıt anlamlısı optimistic'tir.",
+  "note": ""
+ }
+]

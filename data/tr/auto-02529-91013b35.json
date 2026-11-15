@@ -1,0 +1,281 @@
+[
+ {
+  "id": "insurance",
+  "senses": [
+   "sigorta",
+   "güvence; önlem"
+  ],
+  "ex": [
+   "Seyahat sigortamız kaybolan bavulumun bedelini karşıladı.",
+   "Uygun fiyatlı sağlık sigortası, bir aile üyesi hastalandığında ailelerin ciddi mali sıkıntılarla karşılaşmasını önleyebilir."
+  ],
+  "col": [
+   "sigorta yaptırmak",
+   "sağlık sigortası",
+   "sigorta primi",
+   "sigorta talebi"
+  ],
+  "tip": "Genellikle sayılamayan isimdir, 'an insurance' denmez. Poliçe için policy, prim için premium kelimelerini kullanın.",
+  "note": ""
+ },
+ {
+  "id": "gradually",
+  "senses": [
+   "yavaş yavaş; kademeli olarak"
+  ],
+  "ex": [
+   "Eve yürürken gökyüzü yavaş yavaş kararmaya başladı.",
+   "Şehirler toplu taşımayı geliştirip bisikletliler için daha güvenli yollar açarak trafik sıkışıklığını kademeli olarak azaltabilir."
+  ],
+  "col": [
+   "yavaş yavaş artmak",
+   "kademeli olarak iyileşmek",
+   "yavaş yavaş kaybolmak"
+  ],
+  "tip": "Değişimin zamanla yavaşça gerçekleştiğini vurgular; sadece hareketin yavaş olduğunu anlatmaz. Cümlede fiilden önce ya da sonra gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "blind",
+  "senses": [
+   "kör",
+   "farkına varmayan; kör",
+   "perde; stor"
+  ],
+  "ex": [
+   "Görme engelli amcam hikayeleri parmak uçlarıyla okuyor.",
+   "Toplu taşıma sistemleri, görme engelli yolcuların güvenli ve bağımsız seyahat edebilmesi için net sesli anonslar yapmalıdır."
+  ],
+  "col": [
+   "görme engelli yolcular",
+   "körü körüne inanç",
+   "risklerin farkında olmamak",
+   "makaralı stor"
+  ],
+  "tip": "'Blind to' bir şeyin farkında olmamak anlamına gelir ve to ile kullanılır. Perde anlamında sayılabilir isimdir.",
+  "note": ""
+ },
+ {
+  "id": "fireplace",
+  "senses": [
+   "şömine"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra ayaklarımızı şöminenin yanında ısıttık.",
+   "Geleneksel evlerde genellikle şömine bulunur, ancak modern ısıtma sistemleri çoğu zaman daha pratiktir."
+  ],
+  "col": [
+   "şöminede ateş yakmak",
+   "açık şömine",
+   "taş şömine"
+  ],
+  "tip": "Şömine fireplace, şömine rafı ise mantelpiece olarak adlandırılır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "casual",
+  "senses": [
+   "rahat; gayriresmi",
+   "geçici; arada sırada",
+   "üstünkörü; umursamaz"
+  ],
+  "ex": [
+   "Bu akşam yemeğe rahat kıyafetlerle gelebilirsin.",
+   "Geçici işler esneklik sunar, ancak çalışanlar kalıcı işlerin sağladığı mali güvenceden yoksun kalabilir."
+  ],
+  "col": [
+   "rahat kıyafet",
+   "samimi sohbet",
+   "geçici iş",
+   "üstünkörü bir yorum"
+  ],
+  "tip": "Giyim için rahat, iş için geçici anlamına gelir. Bağlama göre olumsuz 'umursamaz' anlamı da taşıyabilir.",
+  "note": ""
+ },
+ {
+  "id": "cattle",
+  "senses": [
+   "sığır; büyükbaş hayvan"
+  ],
+  "ex": [
+   "Fırtına sırasında sığırlar bir ağacın altında toplandı.",
+   "Sığır yetiştirmek geniş arazi ve su gerektirir; bu da yerel ekosistemler üzerinde baskı oluşturabilir."
+  ],
+  "col": [
+   "sığır yetiştirmek",
+   "bir sürü sığır",
+   "süt sığırları",
+   "et sığırları"
+  ],
+  "tip": "Cattle çoğul anlamlı bir isimdir ve fiille are ile kullanılır. Tek bir hayvan için a cow veya a bull denir.",
+  "note": ""
+ },
+ {
+  "id": "fixed",
+  "senses": [
+   "sabit; değişmez",
+   "sabitlenmiş; sağlam"
+  ],
+  "ex": [
+   "Bu kafede öğle yemeği sabit fiyatla sunuluyor.",
+   "Sabit gelirli çalışanlar, enflasyon yaşam maliyetini önemli ölçüde artırdığında temel ihtiyaçlarını karşılamakta zorlanabilir."
+  ],
+  "col": [
+   "sabit fiyat",
+   "sabit gelir",
+   "sabit faiz oranı",
+   "sabit süre"
+  ],
+  "tip": "Fixed, fix fiilinin geçmiş zaman ve ortaç biçimi olarak da kullanılır; bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "spice",
+  "senses": [
+   "baharat; çeşni",
+   "baharat katmak",
+   "heyecan; tat"
+  ],
+  "ex": [
+   "Bu ısıtıcı baharat çorbaya hoş bir tat katıyor.",
+   "Tarihi baharat ticareti uzak toplumları birbirine bağladı ve tarımsal bilgi ile yemek tekniklerinin paylaşılmasını sağladı."
+  ],
+  "col": [
+   "öğütülmüş baharatlar",
+   "baharat ticareti",
+   "baharatlık",
+   "canlandırmak"
+  ],
+  "tip": "Spice acı olmak zorunda değildir, her türlü baharatı ifade eder. Spice up ise bir şeye heyecan ya da canlılık katmak demektir.",
+  "note": ""
+ },
+ {
+  "id": "divorce",
+  "senses": [
+   "boşanma",
+   "boşanmak",
+   "ayırmak; soyutlamak"
+  ],
+  "ex": [
+   "Boşandıktan sonra da iyi arkadaş kaldılar.",
+   "Hükümetler sürdürülebilir kentsel büyüme politikaları geliştirirken, ekonomik gelişme çevresel kaygılardan ayrı düşünülemez."
+  ],
+  "col": [
+   "boşanmak",
+   "boşanma davası açmak",
+   "bir şeyi başka bir şeyden ayırmak"
+  ],
+  "tip": "Divorce sb şeklinde nesne alır ve with kullanılmaz: divorce him, 'divorce with him' değil.",
+  "note": ""
+ },
+ {
+  "id": "pretend",
+  "senses": [
+   "-miş gibi yapmak",
+   "sahte; hayali"
+  ],
+  "ex": [
+   "Çocuklar kanepenin bir korsan gemisi olduğunu hayal ettiler.",
+   "Farklı karakterlere bürünen çocuklar, oyun yoluyla tanıdık olmayan bakış açılarını keşfederek empati geliştirebilir."
+  ],
+  "col": [
+   "-miş gibi yapmak",
+   "fark etmemiş gibi yapmak",
+   "rol yapma oyunu"
+  ],
+  "tip": "Pretend to do ya da pretend that kalıpları kullanılır. Pretend doing yanlıştır.",
+  "note": ""
+ },
+ {
+  "id": "dirt",
+  "senses": [
+   "kir; pislik",
+   "toprak"
+  ],
+  "ex": [
+   "Lütfen içeri girmeden ayakkabılarındaki kiri sil.",
+   "Düzenli el yıkama, okullarda ve diğer ortak alanlarda kiri ortadan kaldırarak enfeksiyonların yayılmasını azaltır."
+  ],
+  "col": [
+   "kiri temizlemek",
+   "kire bulanmış",
+   "toprak yol"
+  ],
+  "tip": "Genellikle sayılamayan isimdir, 'a dirt' denmez. Toprak anlamında da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "corn",
+  "senses": [
+   "mısır",
+   "tahıl; hububat"
+  ],
+  "ex": [
+   "Taze mısırı ızgarada pişirip tereyağıyla servis ettik.",
+   "Mısır yetiştiren çiftçiler, kuraklıklar giderek sıklaşırken daha verimli sulama sistemlerine ihtiyaç duyabilir."
+  ],
+  "col": [
+   "koçanda mısır",
+   "mısır taneleri",
+   "mısır tarlası",
+   "mısır yağı"
+  ],
+  "tip": "Amerikan İngilizcesinde corn çoğunlukla mısırı, İngiliz İngilizcesinde ise genel olarak tahılı ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "organization",
+  "senses": [
+   "örgüt; kuruluş",
+   "organizasyon; düzenleme"
+  ],
+  "ex": [
+   "Yaralı kuşları kurtaran bir kuruluşta gönüllü olarak çalışıyor.",
+   "Uluslararası kuruluşlar, ulusal sınırları aşan çevre sorunlarına karşı hükümetlerin koordineli tepki vermesine yardımcı olabilir."
+  ],
+  "col": [
+   "kâr amacı gütmeyen kuruluş",
+   "uluslararası kuruluş",
+   "bir etkinliğin organizasyonu",
+   "kötü organizasyon"
+  ],
+  "tip": "Kuruluş anlamında sayılabilir, düzenleme anlamında sayılamaz. İngiliz İngilizcesinde organisation yazılışı da kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "hammer",
+  "senses": [
+   "çekiç",
+   "çekiçle vurmak; dövmek"
+  ],
+  "ex": [
+   "Ahşap sandalyeyi tamir etmek için çekiç kullandı.",
+   "Pratik derslerde öğrenciler basit ahşap yapılar inşa ederken çekicin güvenli kullanımını öğrenir."
+  ],
+  "col": [
+   "çekiç ve çivi",
+   "çivi çakmak",
+   "uzlaşıya varmak"
+  ],
+  "tip": "Hammer out, uzun görüşmeler sonucunda bir anlaşmaya ya da çözüme ulaşmak anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "insist",
+  "senses": [
+   "ısrar etmek; diretmek",
+   "ısrarla iddia etmek"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabam her seferinde öğle yemeğinin parasını ödemekte ısrar ediyor.",
+   "Birçok ebeveyn, akademik dersler sınıf zamanı için yarışsa bile okulların düzenli beden eğitimi vermesinde ısrar ediyor."
+  ],
+  "col": [
+   "bir şeyi yapmakta ısrar etmek",
+   "ısrarla ... olduğunu söylemek",
+   "ödemede ısrar etmek"
+  ],
+  "tip": "Insist on doing kalıbı kullanılır, insist to do yanlıştır. Insist that ile bir cümle de gelebilir.",
+  "note": ""
+ }
+]

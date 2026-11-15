@@ -1,0 +1,274 @@
+[
+ {
+  "id": "deterioration",
+  "senses": [
+   "kötüleşme; bozulma"
+  ],
+  "ex": [
+   "Binadaki tavan çatlakları, yapının yavaş yavaş bozulduğunu gösteriyordu.",
+   "Kentsel hava kalitesindeki bozulma, solunum yolu hastalıklarını artırabilir ve sağlık hizmetleri üzerindeki baskıyı yükseltebilir."
+  ],
+  "col": [
+   "sağlıktaki kötüleşme",
+   "yavaş yavaş bozulma",
+   "daha fazla bozulmayı önlemek"
+  ],
+  "tip": "Sıkça “a deterioration in + alan” kalıbında kullanılır: a deterioration in health (sağlıkta kötüleşme).",
+  "note": ""
+ },
+ {
+  "id": "alienation",
+  "senses": [
+   "soyutlanmışlık; yabancılaşma",
+   "yabancılaşma"
+  ],
+  "ex": [
+   "Yerel bir koroya katılmak, onun yabancılık hissini azalttı.",
+   "Hızlı kentleşme, tanıdık mahallelerin isimsiz apartman bloklarıyla değiştirilmesi durumunda sakinlerin yabancılaşmasını derinleştirebilir."
+  ],
+  "col": [
+   "yabancılık duygusu",
+   "toplumsal yabancılaşma",
+   "toplumdan uzaklaşma"
+  ],
+  "tip": "Günlük dilde “yabancılık hissi”, sosyoloji ve felsefede ise “yabancılaşma” anlamına gelir; bağlama göre seçin.",
+  "note": ""
+ },
+ {
+  "id": "indispensable",
+  "senses": [
+   "vazgeçilmez; zorunlu"
+  ],
+  "ex": [
+   "Işe gidebilmek için bisikletim vazgeçilmez.",
+   "Dijital platformlarla ödevlerini tamamlamak zorunda olan öğrenciler için güvenilir internet erişimi vazgeçilmez hale geldi."
+  ],
+  "col": [
+   "…için vazgeçilmez",
+   "…için gerekli",
+   "vazgeçilmez bir araç",
+   "vazgeçilmez bir rol oynamak"
+  ],
+  "tip": "Genellikle to ya da for ile kullanılır. “useful”dan daha güçlü bir anlam taşır; “olmazsa olmaz” demektir.",
+  "note": ""
+ },
+ {
+  "id": "negligence",
+  "senses": [
+   "ihmal; dikkatsizlik; kusur"
+  ],
+  "ex": [
+   "Akan çatı, yıllarca süren ihmalin sonucuydu.",
+   "Daha sıkı iş yeri denetimleri, işveren ihmali ve yetersiz güvenlik eğitimi kaynaklı kazaların önlenmesine yardımcı olabilir."
+  ],
+  "col": [
+   "mesleki ihmal",
+   "tıbbi ihmal",
+   "ağır ihmal",
+   "ihmal davaları"
+  ],
+  "tip": "Sayılamayan bir isimdir; “a negligence” demeyin. Bir sorumluluğun gereğini yerine getirmeme anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "terrestrial",
+  "senses": [
+   "karada yaşayan; karasal",
+   "dünyaya ait; karasal",
+   "karasal; karadan yayın"
+  ],
+  "ex": [
+   "Balıkların aksine karasal hayvanlar yaşamlarını karada geçirir.",
+   "Birçok türün özgün ekosistemleri dışında yaşayamaması nedeniyle karasal yaşam alanlarının korunması çok önemlidir."
+  ],
+  "col": [
+   "karasal hayvanlar",
+   "karasal ekosistemler",
+   "karasal televizyon yayını"
+  ],
+  "tip": "Karşıt anlamlısı “aquatic” (sucul) sözcüğüdür. Bağlama göre “dünyaya ait” ya da “karasal yayın” anlamını taşıdığına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "starch",
+  "senses": [
+   "nişasta",
+   "kolalamak"
+  ],
+  "ex": [
+   "Mısır nişastasını eklemeden önce suyla karıştırın.",
+   "Nişasta bakımından zengin gıdalar enerji sağlar, ancak besin değerleri lif içeriğine ve işlem yöntemlerine de bağlıdır."
+  ],
+  "col": [
+   "nişasta bakımından zengin",
+   "patates nişastası",
+   "mısır nişastası",
+   "bir gömleği kolalamak"
+  ],
+  "tip": "İsim olarak genellikle sayılamaz. “starchy” ise nişastalı ya da nişasta içeriği yüksek anlamında bir sıfattır: a starchy meal.",
+  "note": ""
+ },
+ {
+  "id": "situational",
+  "senses": [
+   "duruma bağlı; durumsal"
+  ],
+  "ex": [
+   "Kaygım duruma bağlı; yalnızca kalabalık asansörlerde ortaya çıkıyor.",
+   "Öğretmenler, zayıf performansı yetenek eksikliğine bağlamadan önce sınıftaki gürültü gibi durumsal etkenleri de dikkate almalıdır."
+  ],
+  "col": [
+   "durumsal etkenler",
+   "durumsal farkındalık",
+   "duruma bağlı kaygı"
+  ],
+  "tip": "Belirli bir durumun etkisini vurgular; “geçici” anlamına gelmez. Psikoloji ve yönetim metinlerinde sık geçer.",
+  "note": ""
+ },
+ {
+  "id": "headlong",
+  "senses": [
+   "başı önde; hızla",
+   "gözü kapalı; düşünmeden",
+   "aceleci; plansız"
+  ],
+  "ex": [
+   "Minderin üzerine takılıp başı önde kanepeye düştü.",
+   "Hükümetler, önce çevresel etkilerini değerlendirmeden büyük altyapı projelerine gözü kapalı girişmekten kaçınmalıdır."
+  ],
+  "col": [
+   "başı önde düşmek",
+   "gözü kapalı atılmak",
+   "aceleci bir koşuşturma"
+  ],
+  "tip": "Hem fiziksel olarak başı önde hareketi hem de düşünmeden davranmayı anlatır. “rush headlong into” kalıbı mecazi kullanımda sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "monopoly",
+  "senses": [
+   "tekel; inhisar",
+   "tekelci şirket"
+  ],
+  "ex": [
+   "Adamızdaki feribot hizmetleri üzerinde tek bir şirketin tekeli var.",
+   "Etkili bir düzenleme olmadan tekel, fiyatları yükseltebilir ve tüketicilere az seçenek bırakabilir."
+  ],
+  "col": [
+   "…üzerinde tekeline sahip olmak",
+   "tekeli kırmak",
+   "devlet tekeli"
+  ],
+  "tip": "Genellikle “monopoly on + şey” kalıbı kullanılır: a monopoly on ferry services. Türkçedeki “tekel” ile aynı yerde kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "quarry",
+  "senses": [
+   "taş ocağı",
+   "taş çıkarmak",
+   "av; kovalanan kişi"
+  ],
+  "ex": [
+   "Kocaman kamyonlar soluk renkli taşı ocaktan taşıyordu.",
+   "Terk edilmiş bir taş ocağının yeniden düzenlenmesi, yakındaki topluluklar için riskleri azaltırken değerli yaban hayatı alanları yaratabilir."
+  ],
+  "col": [
+   "taş ocağı",
+   "kullanımdan kalmış taş ocağı",
+   "kireçtaşı çıkarmak"
+  ],
+  "tip": "Ocak anlamında sayılabilir; “av” anlamında genellikle tekil kullanılır. Fiil olarak “taş çıkarmak” anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "wallaby",
+  "senses": [
+   "küçük kanguru"
+  ],
+  "ex": [
+   "Önümüzden küçük bir kanguru zıplayarak patikayı geçti.",
+   "Tarım ve kentleşme doğal yaşam alanlarını azalttıkça yerel bitki örtüsünün korunması wallaby popülasyonlarının hayatta kalmasına yardımcı olur."
+  ],
+  "col": [
+   "bir wallaby popülasyonu",
+   "wallaby yaşam alanı",
+   "kayalık wallaby"
+  ],
+  "tip": "Wallaby, kanguruya benzer ama genellikle daha küçüktür. Kanguru yavrusu ise joey olarak adlandırılır; karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "hustle",
+  "senses": [
+   "acele ettirmek; sürüklemek",
+   "koşuşturma; telaş",
+   "ısrarla satmak; dolandırmak"
+  ],
+  "ex": [
+   "Son trene yetişmek için istasyonda acele ederek ilerledik.",
+   "Bazı sakinler, günlük koşuşturma nedeniyle dengeli bir yaşam sürdürmenin zor olması yüzünden büyük şehirleri terk ediyor."
+  ],
+  "col": [
+   "koşuşturma ve gürültü",
+   "birini zorla dışarı çıkarmak",
+   "kalabalığın arasından acele ederek geçmek"
+  ],
+  "tip": "“hustle and bustle” sabit bir kalıptır ve yoğun, hareketli bir ortamı anlatır. Fiil olarak “ısrarla satmak” anlamı da vardır.",
+  "note": ""
+ },
+ {
+  "id": "layman",
+  "senses": [
+   "uzman olmayan kişi; amatör",
+   "rahip olmayan erkek inanan"
+  ],
+  "ex": [
+   "Tamirci sorunu anlaşılır bir dille açıkladı.",
+   "Bilimsel raporlar, uzmanlık eğitimi almamış bir kişinin anlayabileceği özetler içermelidir."
+  ],
+  "col": [
+   "sade bir dille",
+   "uzman olmayana açıklamak"
+  ],
+  "tip": "Uzman olmayan kişi için kullanılır. Cinsiyet belirtmeyen “layperson” daha tarafsız bir seçenektir.",
+  "note": ""
+ },
+ {
+  "id": "dart",
+  "senses": [
+   "hızla fırlamak",
+   "dart oku; ok"
+  ],
+  "ex": [
+   "Bir sincap, önümüzden yolu hızla geçti.",
+   "Hayvanlar yoğun yollardan aniden fırladığında, yaban hayatı geçitleri daha güvenli rotalar sağlayabilir ve yerel popülasyonları koruyabilir."
+  ],
+  "col": [
+   "yolun karşısına fırlamak",
+   "göz ucuyla bakmak",
+   "dart atmak",
+   "dart oynamak"
+  ],
+  "tip": "Dart oyununda “darts” biçiminde kullanılır: play darts. Özne olarak kullanıldığında oyunun adı tekil olduğu için fiil tekil çekimlenir.",
+  "note": ""
+ },
+ {
+  "id": "refrain",
+  "senses": [
+   "kaçınmak; kendini tutmak",
+   "nakarat; tekrarlanan söz"
+  ],
+  "ex": [
+   "Lütfen köprünün yanındaki ördeklere yem vermekten kaçının.",
+   "Ziyaretçiler, müzelerin bu eserleri gelecek kuşaklar için koruyabilmesi adına narin sergilere dokunmaktan kaçınmalıdır."
+  ],
+  "col": [
+   "bir şey yapmaktan kaçınmak",
+   "yorum yapmaktan kaçınmak",
+   "tanıdık bir nakarat"
+  ],
+  "tip": "Fiil olarak “refrain from + -ing” kalıbında kullanılır ve resmi bir dildir. “from” edatını atlamayın: refrain from doing.",
+  "note": ""
+ }
+]

@@ -1,0 +1,283 @@
+[
+ {
+  "id": "progress",
+  "senses": [
+   "ilerleme; gelişme",
+   "ilerlemek; gelişmek"
+  ],
+  "ex": [
+   "Yüzme becerinde gerçek bir ilerleme kaydettin.",
+   "Düzenli geri bildirim, öğrencilerin ilerlemelerini takip etmelerine ve daha fazla çalışma gerektiren alanları belirlemelerine yardımcı olur."
+  ],
+  "col": [
+   "ilerleme kaydetmek",
+   "istikrarlı ilerleme",
+   "sürmekte olan"
+  ],
+  "tip": "Ad olarak sayılamaz; 'a progress' ya da 'progresses' demeyin. Fiilde vurgu ikinci heceye gelir: /prəˈɡres/ (İngiliz İngilizcesi).",
+  "note": ""
+ },
+ {
+  "id": "poverty",
+  "senses": [
+   "yoksulluk; fakirlik",
+   "yoksunluk; kıtlık"
+  ],
+  "ex": [
+   "Hayırsever kuruluş, yoksulluk içinde yaşayan yerel aileleri destekliyor.",
+   "Eğitime erişimin ve istikrarlı istihdamın iyileştirilmesi, hem kırsal hem kentsel topluluklarda yoksulluğun azaltılmasına yardımcı olabilir."
+  ],
+  "col": [
+   "yoksulluk içinde yaşamak",
+   "yoksulluğu azaltmak",
+   "aşırı yoksulluk",
+   "fikir fakirliği"
+  ],
+  "tip": "Sayılamayan bir isimdir; 'a poverty' ya da 'poverties' demeyin. 'The poor' ise yoksullar anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "official",
+  "senses": [
+   "resmi; yetkili",
+   "yetkili; görevli"
+  ],
+  "ex": [
+   "Biletlerimizi ayırtmadan önce resmi web sitesine baktık.",
+   "Resmi istatistikler, son on yılda toplu taşımaya yapılan yatırımın düzenli olarak arttığını gösteriyor."
+  ],
+  "col": [
+   "resmi açıklama",
+   "resmi istatistikler",
+   "devlet memuru",
+   "resmi dil"
+  ],
+  "tip": "official, resmi onayı ya da yetkiyi vurgular; formal ise biçim ya da ortam bakımından resmiliği anlatır.",
+  "note": ""
+ },
+ {
+  "id": "registration",
+  "senses": [
+   "kayıt; kaydolma; tescil",
+   "kayıt belgesi; tescil belgesi"
+  ],
+  "ex": [
+   "Yüzme kursu için kayıtlar pazartesi günü başlıyor.",
+   "Çevrimiçi kayıt, internet erişimi olmayan kişiler için destek sürdükçe kamu hizmetlerine erişimi artırabilir."
+  ],
+  "col": [
+   "çevrimiçi kayıt",
+   "kayıt ücreti",
+   "araç tescili",
+   "kayıt formu"
+  ],
+  "tip": "Bir etkinliğe kayıt için 'registration for the course' gibi for kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "guided",
+  "senses": [
+   "rehberli; yönlendirmeli"
+  ],
+  "ex": [
+   "Dün ormanda rehberli bir yürüyüşe katıldık.",
+   "Rehberli öğrenme, öğrencilerin karmaşık görevler üzerinde bağımsız çalışmaya başlamadan önce özgüven kazanmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "rehberli tur",
+   "rehberli yürüyüş",
+   "rehberli öğrenme"
+  ],
+  "tip": "guided, guide fiilinin ortaç biçimidir; sıfat olarak 'rehberli, yönlendirmeli' anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "disgusting",
+  "senses": [
+   "iğrenç; tiksindirici",
+   "rezil; kabul edilemez"
+  ],
+  "ex": [
+   "Unutulmuş çöp torbasından iğrenç bir koku geliyordu.",
+   "Sakinler, evlerinin yanına yasa dışı atılan atıkları iğrenç bulduklarını söyledi ve derhal önlem alınmasını istedi."
+  ],
+  "col": [
+   "iğrenç bir koku",
+   "iğrenç davranış",
+   "kesinlikle iğrenç"
+  ],
+  "tip": "disgusting şeyler için kullanılır; kişinin duygusunu anlatmak için 'I am disgusted' gibi disgusted kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "march",
+  "senses": [
+   "adımlamak; yürümek",
+   "yürüyüş; protesto yürüyüşü",
+   "marş"
+  ],
+  "ex": [
+   "Grup, parlak üniformalarıyla meydandan adımlayarak geçti.",
+   "Sakinler, mahallelerinde daha güvenli yollar ve daha iyi toplu taşıma talep etmek için barışçıl bir yürüyüş düzenledi."
+  ],
+  "col": [
+   "sokaklarda yürümek",
+   "protesto yürüyüşü",
+   "barışçıl yürüyüş",
+   "askerî marş"
+  ],
+  "tip": "Küçük harfle march yürüyüş anlamına gelir; büyük harfle March ise mart ayıdır.",
+  "note": ""
+ },
+ {
+  "id": "whenever",
+  "senses": [
+   "her ne zaman; her seferinde",
+   "istediğin zaman; her zaman",
+   "peki ne zaman"
+  ],
+  "ex": [
+   "Çorba pişirdiğimde kedim hemen ocağın yanında bekler.",
+   "Şehirler genişledikçe planlamacılar, yeni yapılaşmaların mevcut topluluklar ve yerel yaban hayatı üzerindeki etkisini düşünmelidir."
+  ],
+  "col": [
+   "mümkün olduğunda",
+   "gerektiğinde",
+   "istediğin zaman"
+  ],
+  "tip": "Gelecekteki bir zamanı belirten whenever yan cümlesinde will kullanılmaz; şimdiki zaman kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "reserve",
+  "senses": [
+   "ayırtmak; rezerve etmek",
+   "yedek; stok",
+   "koruma alanı"
+  ],
+  "ex": [
+   "Bu gece bize bir masa ayırtabilir misiniz?",
+   "Hükümetler, şiddetli kuraklık dönemlerinde savunmasız toplulukları korumak için yeterli gıda stokları bulundurmalıdır."
+  ],
+  "col": [
+   "masa ayırtmak",
+   "birine bir şey ayırmak",
+   "doğal koruma alanı",
+   "petrol rezervleri"
+  ],
+  "tip": "Fiil olarak genellikle reserve sth for sb kalıbıyla kullanılır; ekonomik kaynak anlamında çoğul reserves tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "impression",
+  "senses": [
+   "izlenim; intiba",
+   "taklit; taklit gösterisi",
+   "iz; baskı izi"
+  ],
+  "ex": [
+   "Sıcak karşılaması bana iyi bir ilk izlenim bıraktı.",
+   "Kamusal alanların görünümü, ziyaretçilerin bir şehre dair genel izlenimini güçlü biçimde etkileyebilir."
+  ],
+  "col": [
+   "ilk izlenim",
+   "birinde iz bırakmak",
+   "öyle sanmak",
+   "birini taklit etmek"
+  ],
+  "tip": "be under the impression that, bir inancın yanlış olabileceğini ima eder; 'yanlış anlamak' ile benzer bir kullanımdır.",
+  "note": ""
+ },
+ {
+  "id": "affect",
+  "senses": [
+   "etkilemek",
+   "duygulandırmak; üzmek"
+  ],
+  "ex": [
+   "Çok fazla kahve uykunuzun kalitesini etkileyebilir.",
+   "Gıda fiyatlarındaki artış, gelirlerinin daha büyük bölümünü temel ihtiyaçlara harcayan daha yoksul hanehalklarını orantısız biçimde etkiliyor."
+  ],
+  "col": [
+   "sağlığı etkilemek",
+   "olumsuz etkilemek",
+   "birini derinden etkilemek",
+   "performansı etkilemek"
+  ],
+  "tip": "'Etkilemek' anlamında affect fiildir; effect ise genellikle 'etki' anlamında isimdir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "cathedral",
+  "senses": [
+   "katedral; piskoposluk kilisesi"
+  ],
+  "ex": [
+   "Güneş ışınları katedralin güzel vitray pencerelerinden süzülüyordu.",
+   "Tarihi bir katedralin restore edilmesi, yerel ekonomiyi destekleyen ziyaretçileri çekerken geleneksel zanaatkârlığı koruyabilir."
+  ],
+  "col": [
+   "ortaçağ katedrali",
+   "katedral kulesi",
+   "katedral restorasyonu"
+  ],
+  "tip": "Katedral, bir piskoposun yönettiği bölgenin ana kilisesidir; her büyük kiliseye cathedral denmez.",
+  "note": ""
+ },
+ {
+  "id": "advantage",
+  "senses": [
+   "avantaj; üstünlük",
+   "yarar; artı"
+  ],
+  "ex": [
+   "Uzun kolların yüzmede sana avantaj sağlıyor.",
+   "Toplu taşımanın en önemli yararlarından biri, kentsel alanlarda trafik sıkışıklığını azaltma kapasitesidir."
+  ],
+  "col": [
+   "rekabet avantajı",
+   "birine karşı üstünlüğe sahip olmak",
+   "yararlanmak",
+   "önemli bir yarar"
+  ],
+  "tip": "take advantage of hem fırsattan yararlanmak hem de birinin iyiliğinden haksız yararlanmak anlamına gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "unpleasant",
+  "senses": [
+   "hoş olmayan; rahatsız edici",
+   "kaba; sevimsiz"
+  ],
+  "ex": [
+   "Mutfak çöp kovasından hoş olmayan bir koku geliyordu.",
+   "İşe gidip gelmek bazen rahatsız edici olsa da güvenilir toplu taşıma stresi azaltabilir ve çalışanların günlük deneyimini iyileştirebilir."
+  ],
+  "col": [
+   "hoş olmayan bir koku",
+   "hoş olmayan bir deneyim",
+   "istenmeyen yan etkiler",
+   "birine göre hoş olmayan"
+  ],
+  "tip": "Şeyler için 'rahatsız edici' anlamı verir; kişiler için ise 'kaba, sevimsiz' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "category",
+  "senses": [
+   "kategori; sınıf"
+  ],
+  "ex": [
+   "Her kitabı en uygun kategoriye koy.",
+   "Araştırmacılar, tüketici davranışındaki değişiklikleri belirlemek için hanehalkı harcamalarını birkaç kategoriye ayırdı."
+  ],
+  "col": [
+   "bir kategoriye girmek",
+   "geniş kategori",
+   "yaş kategorisi",
+   "kategorilere ayırmak"
+  ],
+  "tip": "fall into a category, 'bir kategoriye girmek' anlamında sabit bir kalıptır.",
+  "note": ""
+ }
+]
