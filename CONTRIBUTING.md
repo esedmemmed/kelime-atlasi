@@ -1,26 +1,26 @@
-# 参与贡献 / Contributing
+# Contributing
 
-谢谢你愿意让词光变得更好。
+Thank you for helping make Kelime Atlası better.
 
-## 修正词条
+## Correcting entries
 
-最有价值的贡献是纠错。请在 Issue 中写明词条 `id`、问题和建议的改法，或直接提交 PR：
+Corrections are the most useful contribution. Write the word ID, the problem, and your suggested fix in an Issue (the word-correction template helps), or open a PR directly:
 
-1. 修改 `.local` 之外的源数据前，请先看 [docs/pipeline.md](docs/pipeline.md)。小修正可以直接改 `data/word-atlas.json` 与 `public/atlas/entries/` 中对应的条目，保持两处一致。
-2. 运行 `npm run check:atlas` 和 `npm test`。
-3. 在 PR 里说明修改理由，必要时附权威词典链接。
+1. Before changing source data, read [docs/pipeline.md](docs/pipeline.md). For a small fix, you can edit the entry in `data/word-atlas-tr.json` and the matching entry in `public/atlas/entries/`, keeping both in sync. Update the matching row in `data/word-atlas-tr.csv` too.
+2. Run `python scripts/tr/qa_tr.py`, `npm run check:atlas`, and `npm test`.
+3. Explain the reason for the change in the PR. Add a link to an authoritative dictionary when possible.
 
-## 代码
+## Code
 
-- TypeScript 严格模式，React 函数组件，不引入状态管理或 UI 框架依赖。
-- 保持“无账号、本地优先、无追踪”的方向。
-- 视觉改动请同时检查浅色、深色和 375px 手机宽度。
-- 提交前运行 `npm test`、`npm run check:atlas`、`npm run build`。
+- TypeScript in strict mode, React function components, and no new state management or UI framework dependencies.
+- Keep the direction: no accounts, local-first, no tracking.
+- For visual changes, check light mode, dark mode, and a 375px phone width.
+- Before submitting, run `npm test`, `npm run check:atlas`, and `npm run build`.
 
-## 新素材
+## New material
 
-新增图片、录音或文本时，请写明来源与授权，只接受可以按 CC BY 4.0 再分发的内容。
+When you add images, audio, or text, state the source and license. Only content that can be redistributed under CC BY 4.0 is accepted.
 
-## 安全
+## Security
 
-不要在 Issue、PR、截图或日志中粘贴任何 API key。生成脚本只从环境变量或仓库外的文件读取凭据，见 [SECURITY.md](SECURITY.md)。
+Do not paste any API key into Issues, PRs, screenshots, or logs. Generation scripts read credentials only from environment variables or from a file outside the repository. See [SECURITY.md](SECURITY.md).

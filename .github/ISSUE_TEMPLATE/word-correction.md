@@ -1,20 +1,28 @@
 ---
-name: 词条纠错 / Vocabulary correction
-about: 反馈释义、例句、插画或录音问题 / Report a content error
+name: Vocabulary correction
+about: Report an error in a meaning, example, illustration or recording
 title: '[Content] '
 labels: ''
 assignees: ''
 ---
 
-## 词条 / Word ID
+## Word
+English headword and word ID (the `id` field, for example `principle`):
 
-## 问题位置 / Affected content
-释义 / 例句 / 插画 / 英音 / 美音 / 例句录音
+## Field
+Meaning / Example / Collocation / Tip / Other (illustration, British or American audio, example audio)
 
-## 当前内容与建议 / Current content and suggested correction
+## Current Turkish
+Paste the current Turkish text.
 
-## 参考依据 / Reference
-请附可靠词典或其他可核实来源。
+## Suggested Turkish
+Paste your suggested correction.
 
-## 版本 / Version
-GitHub 开源版（提交号）/ 在线网站
+## Why
+Explain why the current text is wrong or unclear.
+
+## Reference
+Please include a reliable dictionary or another verifiable source.
+
+## Version
+GitHub commit (open-source edition) or the hosted website (https://esedmemmed.github.io/kelime-atlasi/)

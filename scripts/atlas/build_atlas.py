@@ -19,12 +19,19 @@ import subprocess
 
 from common import FORGE, ROOT
 
+# Original pipeline: produced the Chinese fields; the Turkish layer is scripts/tr/
+# Second element of each pair is the Chinese topic label (placeholder here).
 TOPICS = [
-    ("education", "教育"), ("work", "职场"), ("technology", "科技"), ("science", "科学"),
-    ("environment", "环境"), ("health", "健康"), ("society", "社会"), ("government", "政法"),
-    ("economy", "经济"), ("media", "媒体"), ("arts", "艺术"), ("travel", "旅行"),
-    ("city", "城市"), ("nature", "自然"), ("daily", "生活"), ("emotion", "情感"),
-    ("thinking", "思维"), ("sport", "运动"), ("history", "历史"),
+    ("education", "Chinese label: education"), ("work", "Chinese label: work"),
+    ("technology", "Chinese label: technology"), ("science", "Chinese label: science"),
+    ("environment", "Chinese label: environment"), ("health", "Chinese label: health"),
+    ("society", "Chinese label: society"), ("government", "Chinese label: government"),
+    ("economy", "Chinese label: economy"), ("media", "Chinese label: media"),
+    ("arts", "Chinese label: arts"), ("travel", "Chinese label: travel"),
+    ("city", "Chinese label: city"), ("nature", "Chinese label: nature"),
+    ("daily", "Chinese label: daily life"), ("emotion", "Chinese label: emotion"),
+    ("thinking", "Chinese label: thinking"), ("sport", "Chinese label: sport"),
+    ("history", "Chinese label: history"),
 ]
 TOPIC_INDEX = {k: i for i, (k, _) in enumerate(TOPICS)}
 CEFR = ["A1", "A2", "B1", "B2", "C1", "C2"]

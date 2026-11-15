@@ -1,6 +1,6 @@
 {
-"files": 37725,
-"bytes": 712181554,
+"files": 37718,
+"bytes": 668914829,
 "items": [
 {
 "path": ".github/workflows/check.yml",
@@ -53,16 +53,6 @@
 "sha256": "c064e83cdf67b24d81ee79f61903d2e996e74f9ddcdbd27b14893041e6d4e236"
 },
 {
-"path": "data/word-atlas.csv",
-"bytes": 5319425,
-"sha256": "2e4d4c72d3610b6c67567dba00cb312da42218a1404172660e2837a5027a7599"
-},
-{
-"path": "data/word-atlas.json",
-"bytes": 8099728,
-"sha256": "e4e3410809047711cd2a25fccafcebb46124ce1eeb98829dc12de0335de71234"
-},
-{
 "path": "docs/assets/atlas-desktop.jpg",
 "bytes": 508650,
 "sha256": "80ed130864b1ad099501d9eb01c44073a464aa1d0aa3795f790c27afc872b808"
@@ -76,31 +66,6 @@
 "path": "docs/assets/banner.jpg",
 "bytes": 632057,
 "sha256": "213af1e756d0f562b146a99dc1cc1de1eb1494fee3111aa54bd464e4c6d49bcc"
-},
-{
-"path": "docs/assets/demo.mp4",
-"bytes": 19922963,
-"sha256": "7dd85a2223e636b63256c0b813f2dcaf55d88363c6035e82e92178726f2ef70c"
-},
-{
-"path": "docs/assets/galaxy.jpg",
-"bytes": 124871,
-"sha256": "0a000bf792cbdf5511463f99c7b476cbac4ec2a47d708060c7f31fb8d0efaaba"
-},
-{
-"path": "docs/assets/launch-poster.jpg",
-"bytes": 90117,
-"sha256": "515f63db82ac563bb0e86052b8a885fd08f6e8f2e491a43962a86faa71bbd8fe"
-},
-{
-"path": "docs/assets/launch-preview.webp",
-"bytes": 1946522,
-"sha256": "ed02ece1511082d1d602144313aa7733b7aaab187212ce6ca82a9058a1e51dfe"
-},
-{
-"path": "docs/assets/launch.mp4",
-"bytes": 7763099,
-"sha256": "4f0908300c67c17c73d5ad5f6338e8fd21c83ab6cc5139bfb1647ce0b6bba14d"
 },
 {
 "path": "docs/assets/mosaic.jpg",

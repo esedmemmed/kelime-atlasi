@@ -1,32 +1,32 @@
-# 学习模型 / Learning model
+# Learning model
 
-## 每日旅程
+## Daily session
 
-- **复习**：所有到期的词（FSRS 计算的 `due` 已过）。
-- **新词**：每天上限可设（默认 10），从学习路线中你的起点难度开始取未学过的词。
-- 顺序：先复习，再以 5 个为一组学新词：先「初见」认识 5 个词，再打乱顺序回忆这 5 个词。
+- **Reviews**: all words that are due (the FSRS `due` date has passed).
+- **New words**: a daily limit you can set (default 10), taken from unseen words starting at your chosen difficulty level on the learning route.
+- Order: reviews first, then new words in groups of 5. Each group is first introduced ("first sight": you see all 5 words), then the same 5 words are recalled in shuffled order.
 
-## 题型
+## Question types
 
-| 题型 | 适用 | 说明 |
+| Type | Used for | Description |
 | --- | --- | --- |
-| 选义 | 新词、记忆弱 | 看英文选中文，干扰项词性相同 |
-| 看图补句 | 新词、记忆弱 | 插画 + 挖空例句，选英文词，干扰项拼写相近 |
-| 听音辨词 | 各阶段 | 只听发音选词 |
-| 拼写 | 稳定度较高 | 看图和释义拼写，可以逐字母提示（提示后最多计 Hard） |
+| Choose meaning | New words, weak memory | See the English word, choose the Turkish meaning. Distractors have the same part of speech |
+| Picture cloze | New words, weak memory | Illustration plus a sentence with a blank. Choose the English word; distractors have similar spelling |
+| Listen to identify | All stages | Listen only, then choose the word |
+| Spelling | Words with stable memory | Spell the word from the picture and definition. Letter-by-letter hints are available (a hinted answer counts at most as Hard) |
 
-## 评分与 FSRS
+## Grading and FSRS
 
-每个词在一轮中只有**第一次作答**更新记忆（ts-fsrs，FSRS-6，默认目标记忆率 90%）：
+In each round, only the **first answer** to a word updates memory (ts-fsrs, FSRS-6, default target retention 90%):
 
-- 答错 → Again
-- 答对但慢、或用了提示 → Hard
-- 答对 → Good；拼写又快又对 → Easy
+- Wrong answer: Again
+- Correct but slow, or a hint was used: Hard
+- Correct: Good. Spelling that is both fast and correct: Easy
 
-答错的词会在几题之后换一种题型再练一次（最多两次），重试不再评分，也不计入正确率。
+A word answered wrongly is practiced again a few questions later in a different question type, up to two retries. Retries are not graded and do not count toward accuracy.
 
-「已掌握」= FSRS 复习状态且记忆稳定度 ≥ 21 天。
+"Mastered" means the word is in the FSRS review state and its memory stability is at least 21 days.
 
-## 打字练习
+## Typing practice
 
-打字只训练输出，不改变记忆状态。WPM 按每 5 个正确字符计 1 词。
+Typing only trains output and does not change memory state. WPM counts 1 word per 5 correct characters.

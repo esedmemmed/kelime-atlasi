@@ -1,37 +1,52 @@
-# 词库格式 / Dataset format
+# Dataset format
 
-## `data/word-atlas.json`
+## `data/word-atlas-tr.json`
 
-一个数组，按学习路线排序（CEFR 由易到难，同级内打散话题）。每个词条：
+An array sorted by learning route: CEFR level from easiest to hardest, with topics mixed within each level. Each entry:
 
-| 字段 | 类型 | 说明 |
+| Field | Type | Description |
 | --- | --- | --- |
-| `id` | string | URL 安全的唯一标识，同时是媒体文件名，例如 `principle`、`day-off` |
-| `w` | string | 词头 |
-| `uk` / `us` | string | 英式 / 美式 IPA，带斜杠 |
-| `senses` | `{pos, zh, en}[]` | 1–3 个义项：词性、中文释义、简明英文释义 |
-| `ex` | `{en, zh}[]` | 两条原创例句：`ex[0]` 日常短句，`ex[1]` 雅思语境长句 |
-| `col` | string[] | 常用搭配，格式 `english｜中文` |
-| `fam` | string[] | 词族，格式 `word (pos)` |
-| `syn` / `ant` | string[] | 近义 / 反义 |
-| `tip` | string | 一条中文用法或辨析提示 |
-| `cefr` | `A1`…`C2` | 估计难度 |
-| `topic` | string | 19 个话题之一：education, work, technology, science, environment, health, society, government, economy, media, arts, travel, city, nature, daily, emotion, thinking, sport, history |
-| `note` | string | 可选：用法提醒（冒犯性、过时用法、拼写说明等） |
+| `id` | string | URL-safe unique ID, also used as the media file name, e.g. `principle`, `day-off` |
+| `w` | string | Headword (English) |
+| `uk` / `us` | string | British / American IPA, with slashes |
+| `senses` | `{pos, tr, en}[]` | 1-3 senses: part of speech, Turkish meaning, short English definition |
+| `ex` | `{en, tr}[]` | Two original example sentences: `ex[0]` everyday short sentence, `ex[1]` longer IELTS-style sentence. `tr` is the Turkish translation |
+| `col` | string[] | Common collocations, format `english|Turkish` |
+| `fam` | string[] | Word family, format `word (pos)` |
+| `syn` / `ant` | string[] | Synonyms / antonyms |
+| `tip` | string | One usage or distinction tip, written in Turkish |
+| `cefr` | `A1`...`C2` | Estimated difficulty |
+| `topic` | string | One of 19 topics: education, work, technology, science, environment, health, society, government, economy, media, arts, travel, city, nature, daily, emotion, thinking, sport, history |
+| `note` | string | Optional usage note (offensive or outdated usage, spelling notes, etc.) |
 
-## `data/word-atlas.csv`
+The original English-Chinese source stays in `data/source/word-atlas.zh.json`. The Turkish edition is built from it and does not replace it.
 
-同样内容的表格版，多值字段用 ` | `、` ; ` 或 `, ` 连接，UTF-8 编码。
+## `data/word-atlas-tr.csv`
 
-## 网页数据 `public/atlas/`
+The same content as a table, UTF-8 encoded. Columns:
 
-- `index.json`：紧凑索引，`words` 中每行为 `[id, word, zh, ipa, cefrIndex, topicIndex, media]`。`media` 是位标记：`1` 插画、`2` 英音、`4` 美音、`8` 例句朗读。
-- `entries/<n>.json`：完整词条，每块 100 条，第 `n` 块对应索引中第 `n*100` 到 `n*100+99` 行。
-- `img/<id>.webp`（512px）、`thumb/<id>.webp`（256px）。
-- `audio/uk/<id>.mp3`、`audio/us/<id>.mp3`、`audio/ex/<id>.mp3`（`ex[0]` 的朗读）。
+`id, word, ipa_uk, ipa_us, cefr, topic, meanings_tr, definition_en, example1_en, example1_tr, example2_en, example2_tr, collocations, word_family, synonyms, antonyms, tip_tr`
 
-媒体覆盖情况以 `index.json` 的位标记为准，不要假设每个词都有全部文件。
+Multi-value cells use the separators defined in the build script.
 
-## 授权
+## Web data `public/atlas/`
 
-CC BY 4.0，署名 “Word Atlas contributors”。见 [CONTENT_LICENSE.md](../CONTENT_LICENSE.md)。
+- `index.json`: one compact row per word, with these fields in order: `id, word, tr, ipa, cefr, topic, media`. `media` is a bit flag: `1` illustration, `2` British audio, `4` American audio, `8` example sentence audio.
+- `entries/<n>.json`: full entries in blocks of 100. Block `n` covers rows `n*100` to `n*100+99` in the index.
+- `img/<id>.webp` (512px) and `thumb/<id>.webp` (256px).
+- `audio/uk/<id>.mp3`, `audio/us/<id>.mp3`, and `audio/ex/<id>.mp3` (reading of `ex[0]`).
+
+Media coverage is defined by the `media` bit flags in `index.json`. Do not assume every word has every file.
+
+The app data is generated from the dataset by `python scripts/tr/apply_tr.py`. See [docs/turkish-edition.md](turkish-edition.md) for how the Turkish layer was produced and checked.
+
+## Coverage
+
+- 7,298 words
+- 14,596 example sentences (two per word)
+- CEFR levels A1 to C2
+- 19 topics
+
+## License and attribution
+
+CC BY 4.0. Attribution: "Word Atlas contributors". See [CONTENT_LICENSE.md](../CONTENT_LICENSE.md) for the full attribution, including the original project and the Turkish translation.

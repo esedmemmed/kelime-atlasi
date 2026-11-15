@@ -1,145 +1,165 @@
 <div align="center">
 
-<a href="https://0xlei.tech/words/"><img src="docs/assets/cover-v2.jpg" alt="词光 · Word Atlas — an illustrated world of words" width="100%"></a>
+<img src="docs/assets/banner.jpg" alt="Kelime Atlası: an illustrated world of words" width="100%">
 
-# Word Atlas · 词光
+# Kelime Atlası
 
 **See the word. Hear it. Make it yours.**
 
-7,298 IELTS words · Original illustrations · UK & US audio · Spaced repetition
+*The Turkish–English edition of Word Atlas, an illustrated IELTS vocabulary app*
 
-[**Try Word Atlas ↗**](https://0xlei.tech/words/)　 /　 [48-second film](docs/assets/launch.mp4)　 /　 [Get the dataset](data/)　 /　 [简体中文](README.md)
+7,298 IELTS words · Original illustrations · UK and US audio · Spaced repetition
+
+[**Try it live ↗**](https://esedmemmed.github.io/kelime-atlasi/) · [Get the dataset](data/) · [Türkçe README](README.md)
 
 [![Code: MIT](https://img.shields.io/badge/Code-MIT-17283B?style=flat-square)](LICENSE)
-[![Dataset: CC BY 4.0](https://img.shields.io/badge/Dataset-CC_BY_4.0-AD5038?style=flat-square)](CONTENT_LICENSE.md)
-
-<br>
-
-**The Word Atlas iOS app (词光) is now on the App Store, free: [Download on the App Store](https://apps.apple.com/app/id6827459612)**
-
-[![Follow @yangleiocx3](https://img.shields.io/badge/Follow_me-@yangleiocx3-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yangleiocx3)
+[![Content: CC BY 4.0](https://img.shields.io/badge/Content-CC_BY_4.0-AD5038?style=flat-square)](CONTENT_LICENSE.md)
 
 </div>
 
 ---
 
-Word Atlas is an illustrated IELTS vocabulary app for Chinese-speaking learners. Connect words with scenes and pronunciation, practise active recall, and return to them with FSRS spaced repetition. No account required. Learning progress stays on your device.
+Kelime Atlası helps Turkish speakers learn English IELTS vocabulary. Every word comes with a picture, Turkish meanings, two examples, collocations and a pronunciation you can hear in UK or US English. You practise active recall and come back to words on an FSRS spaced-repetition schedule. It is free, needs no account, works on a phone, and keeps your progress on your device.
 
-> **Version scope:** This repository contains the open-source foundation of Word Atlas and its dataset. The hosted website evolves separately and may have different features. The code and dataset here remain available under their respective MIT and CC BY 4.0 licenses.
+This is the Turkish edition of [Word Atlas](https://github.com/designfuchen/word-atlas) by designfuchen. The whole interface and all learning text are in Turkish. The English content, illustrations and UK/US audio come from the original project.
 
-[Preview](#preview) · [Learning loop](#learning-loop) · [Quick start](#quick-start) · [Open dataset](#open-dataset) · [Contributing](#contributing)
+**Live site: https://esedmemmed.github.io/kelime-atlasi/**
 
-## Preview
+[What's inside](#whats-inside) · [Screenshots](#screenshots) · [How it was translated](#how-it-was-translated) · [Dataset](#dataset) · [Run locally](#run-locally) · [Contributing](#contributing) · [License and credits](#license-and-credits)
 
-### A vocabulary atlas you can listen to and practise with
+## What's inside
 
-<img src="docs/assets/atlas-desktop.jpg" alt="Open-source edition: desktop vocabulary atlas" width="100%">
+**Content**
+
+- **7,298 IELTS words**, CEFR A1 to C2, across 19 IELTS topics
+- **14,596 original example sentences**, two per word
+- **24,722 collocations**, each with its Turkish meaning
+
+**Media**
+
+- One **original illustration** for every word
+- **UK and US audio** for every word and every example
+
+**Learning**
+
+- **FSRS spaced repetition**, scheduled from your own history
+- A **galaxy** star map that fills with the words you have learned
+- Free, no sign-up, mobile friendly, offline media cache
+
+**The Turkish edition**
+
+- The whole UI is in Turkish.
+- Every word has Turkish meanings, Turkish translations of both examples, the Turkish meaning of each collocation, and a usage tip written for Turkish speakers.
+- Search works with an English word or a Turkish meaning, and ignores diacritics: typing `kutuphane` finds *library*.
+- The spoken voice lines are in Turkish (edge-tts).
+
+## Screenshots
+
+<img src="docs/assets/mosaic.jpg" alt="A mosaic of Kelime Atlası illustrations" width="100%">
+
+### Desktop
+
+<img src="docs/assets/today-desktop.jpg" alt="Today's study plan" width="100%">
 
 <table>
 <tr>
-<td width="50%"><img src="docs/assets/today-mobile.jpg" alt="Daily study plan on mobile" width="100%"></td>
-<td width="50%"><img src="docs/assets/word-mobile.jpg" alt="Illustrated word card with pronunciation and examples" width="100%"></td>
+<td width="50%"><img src="docs/assets/word-desktop.jpg" alt="An illustrated word card with pronunciation, examples and collocations" width="100%"></td>
+<td width="50%"><img src="docs/assets/atlas-desktop.jpg" alt="The word atlas, organised by topic" width="100%"></td>
 </tr>
-<tr><td align="center">A plan for today</td><td align="center">A scene for every word</td></tr>
+<tr><td align="center">A scene for every word</td><td align="center">The atlas</td></tr>
 </table>
 
-<sub>Actual screenshots of the repository edition. The header is a conceptual brand illustration.</sub>
+### Mobile
 
-### Watch your vocabulary take shape
+<table>
+<tr>
+<td width="33%"><img src="docs/assets/today-mobile.jpg" alt="Today's plan on mobile" width="100%"></td>
+<td width="33%"><img src="docs/assets/word-mobile.jpg" alt="A word card on mobile" width="100%"></td>
+<td width="33%"><img src="docs/assets/atlas-mobile.jpg" alt="The atlas on mobile" width="100%"></td>
+</tr>
+<tr><td align="center">Today</td><td align="center">Word card</td><td align="center">Atlas</td></tr>
+</table>
 
-<img src="docs/assets/galaxy.jpg" alt="Vocabulary galaxy showing learning progress across topics" width="100%">
-
-Explore 19 topic groups, rotate and zoom the galaxy, and select a star to open its word card. Brightness reflects learning status. Built with WebGL2, with a fallback for unsupported devices.
-
-<details>
-<summary><b>Watch the 48-second introduction</b></summary>
-
-<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-preview.webp" alt="Watch the Word Atlas introduction" width="100%"></a>
-
-[Play the full film with sound](docs/assets/launch.mp4)
-
-</details>
+<sub>Actual screenshots of the app. The banner is a conceptual brand illustration.</sub>
 
 ## Learning loop
 
 | Step | What you do |
 | :--- | :--- |
-| **See** | Explore an illustration, bilingual definitions, two original examples, collocations and usage notes. |
-| **Hear** | Switch between UK and US pronunciation and listen to example sentences. A subset includes audio for the second example. |
-| **Recall** | Practise meaning-to-word, illustrated cloze, listening recognition and spelling. |
-| **Review** | Let FSRS schedule reviews based on your history. Only the first answer counts toward accuracy. |
+| **See** | Look at the illustration, the Turkish meanings, two original examples, collocations and a usage tip. |
+| **Hear** | Switch between UK and US pronunciation and listen to the examples. |
+| **Recall** | Practise meaning to word, illustrated cloze, listening recognition and spelling. |
+| **Review** | FSRS schedules reviews from your history. Only the first answer counts toward accuracy. |
 | **Keep** | Track progress in the galaxy, practise typing separately, and export or restore your local progress. |
 
-**Local first.** Visited entries and media can be cached for offline use. Export a progress backup before moving to another device.
+## How it was translated
 
-Listen to a sample: **abandon** — [UK](public/atlas/audio/uk/abandon.mp3) · [US](public/atlas/audio/us/abandon.mp3) · [Example](public/atlas/audio/ex/abandon.mp3).
+The Turkish text is AI translation reviewed by AI, and we want to be upfront about that.
 
-## Quick start
+1. **Translation:** Claude Haiku 5.5 translated from the English definitions and examples. The original Chinese was given only as a hint for which sense is meant.
+2. **Review:** Claude Sonnet 5.5 then reviewed every entry and corrected 3,343 fields.
+3. **Automated QA:** scripts check counts, empty fields, untranslated examples, length limits and duplicate ids.
 
-Requires **Node.js 20+** and npm. This repository includes the full image and audio collection, so the initial download can take time.
+No human translator has read every entry, so mistakes are likely to remain. If you spot one, please [open an issue](https://github.com/esedmemmed/kelime-atlasi/issues/new/choose) or send a pull request with the fix. Details and tooling: [docs/turkish-edition.md](docs/turkish-edition.md).
 
-```bash
-git clone --depth 1 https://github.com/designfuchen/word-atlas.git
-cd word-atlas
-npm ci
-npm run dev
-```
+This is not an official IELTS word list, is not affiliated with the IELTS partners, and does not promise a higher score.
 
-Open **http://localhost:5188**.
+## Dataset
 
-```bash
-npm test             # Unit tests
-npm run check:atlas  # Dataset and media validation
-npm run build        # Production build in dist/
-```
+| File | Contents |
+| :--- | :--- |
+| [`data/word-atlas-tr.json`](data/word-atlas-tr.json) | The Turkish–English dataset, 7,298 entries |
+| [`data/word-atlas-tr.csv`](data/word-atlas-tr.csv) | The same data as CSV, handy for Anki and spreadsheets |
+| [`data/source/`](data/source/) | The original English–Chinese source data and media flags |
 
-For a subpath deployment: `ATLAS_BASE=/words/ npm run build`. See the [deployment guide](docs/deployment.md).
-
-**Stack:** React 19 · TypeScript · Vite · ts-fsrs · WebGL2
-
-## Open dataset
-
-Use the app as it is, or build your own learning tools, Anki decks and research projects.
-
-| Resource | Repository edition | Download / documentation |
-| :--- | :--- | :--- |
-| Entries | **7,298**, CEFR A1–C2, 19 topics | [JSON](data/word-atlas.json) · [CSV](data/word-atlas.csv) |
-| Examples | **14,596**, everyday and IELTS contexts, with Chinese translations | [Schema](docs/dataset.md) |
-| Illustrations | **7,298**, 512 px WebP plus thumbnails | [Images](public/atlas/img/) |
-| Recordings | **22,905**, UK/US words and example sentences | [Audio](public/atlas/audio/) |
+See the [data dictionary](docs/dataset.md) for the fields. The dataset is shared under CC BY 4.0.
 
 ```python
 import json
 from pathlib import Path
 
-words = json.loads(Path("data/word-atlas.json").read_text(encoding="utf-8"))
+words = json.loads(Path("data/word-atlas-tr.json").read_text(encoding="utf-8"))
 b2_environment = [w for w in words if w["cefr"] == "B2" and w["topic"] == "environment"]
 ```
 
-### Provenance and limitations
+## Run locally
 
-Text and illustrations were generated for this project using AI; speech was synthesized with ElevenLabs. Automated structure and consistency checks have been performed, but **the entire collection has not been manually reviewed**. Definitions, examples, illustrations or pronunciation may contain errors. This is not an official IELTS list and does not promise score improvements.
+You need **Node.js 20+** and npm. The repository includes all images and audio, so the first clone takes a while.
 
-[Generation pipeline](docs/pipeline.md) · [Learning model](docs/learning-model.md) · [Scripts](scripts/atlas/)
+```bash
+git clone https://github.com/esedmemmed/kelime-atlasi.git
+cd kelime-atlasi
+npm ci
+npm run dev
+```
+
+Then open **http://localhost:5188**.
+
+```bash
+npm test             # unit tests
+npm run check:atlas  # dataset and media validation
+npm run build        # production build in dist/
+```
+
+Deployment: `.github/workflows/pages.yml` publishes the site to GitHub Pages on every push to `main`. See the [deployment guide](docs/deployment.md).
+
+**Stack:** React 19 · TypeScript · Vite · ts-fsrs · WebGL2
 
 ## Contributing
 
-Please include the **word ID, reproduction steps and expected result** when reporting a problem. For vocabulary corrections, reliable dictionary references are welcome.
+When reporting a problem, include the **word ID, how to reproduce it and the expected result**. For translation fixes, a reliable dictionary reference helps a lot.
 
-- [Report an issue](https://github.com/designfuchen/word-atlas/issues/new/choose)
+- [Report an issue](https://github.com/esedmemmed/kelime-atlasi/issues/new/choose)
 - [Contribution guide](CONTRIBUTING.md)
 - [Security policy](SECURITY.md)
+- [Developer notes on the Turkish edition](docs/turkish-edition.md)
 
-## License
+## License and credits
 
 | Scope | License |
 | :--- | :--- |
 | Application code | [MIT](LICENSE) |
-| Vocabulary text, illustrations and word recordings | [CC BY 4.0](CONTENT_LICENSE.md); credit “Word Atlas contributors（词光）” |
-| Dependencies and fonts | Their respective licenses |
+| Word data, illustrations and audio | [CC BY 4.0](CONTENT_LICENSE.md) |
+| Dependencies and fonts | Their own licenses |
 
----
-
-Made by [@designfuchen](https://github.com/designfuchen). Follow the build on [X · @yangleiocx3](https://x.com/yangleiocx3).
-
-If Word Atlas helps you, consider starring the repository or sharing it with another learner.
+**Attribution:** Word Atlas contributors (词光), adapted by Kelime Atlası contributors (Turkish edition, 2026), CC BY 4.0. Thanks to [@designfuchen](https://github.com/designfuchen) and everyone who built the original Word Atlas. In this edition the English content, illustrations and UK/US audio come from the original project; the Turkish text and interface are new.

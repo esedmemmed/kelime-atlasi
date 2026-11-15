@@ -17,8 +17,10 @@ for k in 0 1 2; do
   sfx "ignite-$k" "A star igniting: a soft warm bell ping with a gentle shimmering bloom, magical and calm" 1.3
 done
 say() { curl -sf -o "$1.mp3" "$API/text-to-speech/DowyQ68vDpgFYdWVGjc3?output_format=mp3_44100_128" -H "xi-api-key: $K" -H "Content-Type: application/json" \
-  -d "{\"text\":\"[softly] $2\",\"model_id\":\"eleven_v3\",\"language_code\":\"zh\",\"voice_settings\":{\"stability\":0.5,\"similarity_boost\":0.8,\"style\":0.3}}"; }
+  -d "{\"text\":\"[softly] $2\",\"model_id\":\"eleven_v3\",\"language_code\":\"tr\",\"voice_settings\":{\"stability\":0.5,\"similarity_boost\":0.8,\"style\":0.3}}"; }
+# Turkish voice lines. The shipped Turkish clips were made with scripts/tr/gen_voice_tr.py (edge-tts),
+# so these lines are kept here for reference only and the language is set to tr.
 for k in 0 1; do
-  say "galaxy-hello-$k" "这是你的词汇星图。每学会一个词，就点亮一颗星。"
-  say "galaxy-lit-$k" "今天的星星，已经点亮。"
+  say "galaxy-hello-$k" "Bu senin kelime gökyüzün. Öğrendiğin her kelime, bir yıldız yakar."
+  say "galaxy-lit-$k" "Bugünün yıldızları yandı."
 done

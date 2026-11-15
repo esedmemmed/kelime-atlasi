@@ -18,6 +18,7 @@ Usage: python3 scripts/tr/apply_tr.py
 """
 import csv
 import json
+import re
 import pathlib
 import shutil
 import sys
@@ -59,6 +60,9 @@ def load_overlays():
     return out
 
 
+CJK = re.compile("[　-〿一-鿿＀-￯]")
+
+
 def merge(e, o, problems):
     """Return the entry with Turkish in the tr fields, or None if the overlay doesn't line up."""
     s_tr, x_tr, c_tr = o.get("senses") or [], o.get("ex") or [], o.get("col") or []
@@ -74,6 +78,8 @@ def merge(e, o, problems):
     m["col"] = [f'{c.split("｜")[0].strip()}|{t.strip()}' for c, t in zip(e["col"], c_tr)]
     m["tip"] = (o.get("tip") or "").strip()
     m["note"] = (o.get("note") or "").strip() if e.get("note") else ""
+    for k in ("fam", "syn", "ant"):  # English lists; drop stray Chinese items from the source
+        m[k] = [x for x in e.get(k) or [] if not CJK.search(x)]
     return m
 
 
