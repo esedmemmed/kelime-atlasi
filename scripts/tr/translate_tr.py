@@ -37,11 +37,14 @@ CEFR = ["A1", "A2", "B1", "B2", "C1", "C2"]
 PRICE_IN, PRICE_OUT = 0.10, 0.50  # USD per million tokens, Haiku 5.5
 USAGE = {"in": 0, "out": 0}
 USAGE_LOCK = threading.Lock()
+POS_LABEL = re.compile(r"^\s*(isim|fiil|sıfat|zarf|edat|bağlaç|zamir|ünlem|n|v|adj|adv|prep)\s*\.", re.I)
 
 SYSTEM = """You translate entries of an illustrated English vocabulary app for Turkish speakers (IELTS learners, CEFR A1–C2).
 For every input entry return Turkish text that lines up one-to-one with the English:
-- "senses": one Turkish meaning per English sense, in the same order. Short dictionary-style glosses (1–4 Turkish equivalents separated by "; ", at most ~30 characters), matching the part of speech and the English definition. Verbs in the -mek/-mak form.
-- "ex": a natural, fluent Turkish translation of each English example sentence, same order. Not word-for-word.
+- "senses": one Turkish gloss per input sense, in the same order. A gloss is what a bilingual dictionary prints: only the Turkish equivalent word(s), 1–3 of them separated by "; ", at most 30 characters. NEVER translate or paraphrase the English definition, and NEVER add a part-of-speech label ("isim.", "fiil.", "sıfat." …): the app shows the part of speech itself. The definition ("def") and the Chinese gloss ("zh") only tell you which meaning is meant; the zh gloss shows the expected length and style. Verbs in the -mek/-mak form, adjectives as adjectives.
+  Good: mayor n. → "belediye başkanı"; fold v. (a business closes) → "batmak; kapanmak"; bet v. (feel sure) → "emin olmak"; pursuit n. (hobby) → "uğraş; hobi".
+  Bad: "isim. bir şehri yöneten resmi görevli; belediye başkanı" (label + translated definition).
+- "ex": a natural, fluent Turkish translation of each English example sentence, same order. Not word-for-word. Always use correct Turkish letters (ç ğ ı İ ö ş ü).
 - "col": the Turkish meaning of each English collocation, same order (just the Turkish, not the English).
 - "tip": one short, useful usage tip in Turkish (max ~120 characters). A Chinese tip is given as a hint about what matters; adapt it for Turkish speakers and drop anything only relevant to Chinese. Mention typical Turkish-speaker mistakes when relevant. Never invent etymology.
 - "note": Turkish translation of the Chinese note if one is given, else "".
@@ -53,7 +56,7 @@ def payload_for(batch):
     for e in batch:
         items.append({
             "id": e["id"], "word": e["w"],
-            "senses": [f'{s["pos"]} {s["en"]}' for s in e["senses"]],
+            "senses": [{"pos": s["pos"], "def": s["en"], "zh": s["zh"]} for s in e["senses"]],
             "ex": [x["en"] for x in e["ex"]],
             "col": [c.split("｜")[0] for c in e["col"]],
             "tip_zh": e.get("tip", ""),
@@ -95,6 +98,9 @@ def check(batch, out):
     for e, o in zip(batch, out):
         if len(o.get("senses", [])) != len(e["senses"]) or len(o.get("ex", [])) != len(e["ex"]) or len(o.get("col", [])) != len(e["col"]):
             raise ValueError(f'counts do not line up for {e["id"]}')
+        for g in o["senses"]:
+            if not isinstance(g, str) or POS_LABEL.match(g) or len(g) > 60:
+                raise ValueError(f'sense for {e["id"]} is not a short gloss: {str(g)[:70]}')
 
 
 def dest_for(start, batch):
