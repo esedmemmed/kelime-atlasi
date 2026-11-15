@@ -46,7 +46,7 @@ For every input entry return Turkish text that lines up one-to-one with the Engl
   Bad: "isim. bir şehri yöneten resmi görevli; belediye başkanı" (label + translated definition).
 - "ex": a natural, fluent Turkish translation of each English example sentence, same order. Not word-for-word. Always use correct Turkish letters (ç ğ ı İ ö ş ü).
 - "col": the Turkish meaning of each English collocation, same order (just the Turkish, not the English).
-- "tip": one short, useful usage tip in Turkish (max ~120 characters). A Chinese tip is given as a hint about what matters; adapt it for Turkish speakers and drop anything only relevant to Chinese. Mention typical Turkish-speaker mistakes when relevant. Never invent etymology.
+- "tip": one short, useful usage tip in Turkish (max ~120 characters). A Chinese tip is given as a hint about what matters; adapt it for Turkish speakers and drop anything only relevant to Chinese. Mention typical Turkish-speaker mistakes only when there is a real one. Never add filler comparisons with Turkish, never make claims about Turkish spelling or usage you are not certain of (follow TDK spelling, e.g. "cıva"), and never invent etymology. If there is no Turkish-specific point, give a grammar or usage point about the English word.
 - "note": Turkish translation of the Chinese note if one is given, else "".
 Return strict JSON only: {"entries":[{"id":..., "senses":[...], "ex":[...], "col":[...], "tip":"...", "note":"..."}]} with the same ids in the same order."""
 

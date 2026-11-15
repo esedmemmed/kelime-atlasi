@@ -1,0 +1,279 @@
+[
+ {
+  "id": "personally",
+  "senses": [
+   "bana göre; kişisel olarak",
+   "bizzat; şahsen",
+   "kişisel olarak; şahsa karşı"
+  ],
+  "ex": [
+   "Bana göre, otobüse binmektense yürümeyi tercih ederim.",
+   "Şahsen, halk kütüphanelerinin güvenilir bilgiye ücretsiz erişim sağladığı için hâlâ vazgeçilmez olduğuna inanıyorum."
+  ],
+  "col": [
+   "kişisel görüşe göre",
+   "bir şeyi kişisel almak",
+   "kişisel olarak sorumlu",
+   "birini şahsen tanımak"
+  ],
+  "tip": "Türkçede \"kişisel olarak\" her yerde aynı anlama gelmez; \"take it personally\" gibi ifadelerde \"kendine alınmak\" demek olduğunu unutma.",
+  "note": ""
+ },
+ {
+  "id": "track",
+  "senses": [
+   "patika; pist; ray",
+   "izlemek; takip etmek",
+   "iz; ayak izi"
+  ],
+  "ex": [
+   "Çam ormanının içinden dar bir patikayı takip ettik.",
+   "Araştırmacılar, hayvanların hareketlerini izlemek ve daha fazla korunması gereken yaşam alanlarını belirlemek için uydu teknolojisinden yararlanıyor."
+  ],
+  "col": [
+   "demiryolu rayı",
+   "koşu pisti",
+   "ilerlemeyi takip etmek",
+   "takip etmek; kontrol altında tutmak"
+  ],
+  "tip": "\"keep track of\" kalıbı \"bir şeyin takibini yapmak\" anlamına gelir; \"track\" fiilini çoğu zaman \"izlemek\" olarak düşün.",
+  "note": ""
+ },
+ {
+  "id": "communicate",
+  "senses": [
+   "iletişim kurmak; anlaşmak",
+   "iletmek; anlatmak"
+  ],
+  "ex": [
+   "Komşularımızla ortak bir çevrimiçi grup aracılığıyla iletişim kuruyoruz.",
+   "Öğretmenlerin karmaşık fikirleri açık biçimde anlatması gerekir ki farklı yeteneklerdeki öğrenciler bunları anlayabilsin."
+  ],
+  "col": [
+   "biriyle iletişim kurmak",
+   "etkili iletişim kurmak",
+   "fikirleri aktarmak"
+  ],
+  "tip": "\"with\" ile kişiyle iletişim kurulur; bir şeyi birine iletmek için \"communicate something to someone\" kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mechanic",
+  "senses": [
+   "tamirci; mekanik usta"
+  ],
+  "ex": [
+   "Tamirci arabamızın altındaki sızıntıyı buldu.",
+   "Elektrikli araçlar yaygınlaştıkça, mekaniklerin karmaşık sistemleri güvenli biçimde bakımını yapabilmek için ek eğitime ihtiyacı var."
+  ],
+  "col": [
+   "oto tamircisi",
+   "yetkili bir tamirci",
+   "tamirci olarak çalışmak"
+  ],
+  "tip": "\"mechanic\" tamirci demektir; \"mechanics\" ise fizikte \"mekanik\" (mekanik bilimi) anlamına gelebilir, karıştırma.",
+  "note": ""
+ },
+ {
+  "id": "individual",
+  "senses": [
+   "bireysel; tek kişiye özgü",
+   "birey; fert",
+   "özgün; kendine özgü"
+  ],
+  "ex": [
+   "Öğretmen her çocuğa ayrı bir kutu boya kalemi verdi.",
+   "Eğitim sistemleri, her öğrencinin aynı hızda ilerlemesini beklemek yerine bireysel öğrenme ihtiyaçlarını tanımalıdır."
+  ],
+  "col": [
+   "bireysel ihtiyaçlar",
+   "bireysel sorumluluk",
+   "bireysel farklılıklar",
+   "yetenekli bir birey"
+  ],
+  "tip": "Sıfat olarak \"bireysel\", isim olarak \"birey\" anlamına gelir; Türkçede \"bireyler\" yerine gereksiz yere \"herkes\" demekten kaçın.",
+  "note": ""
+ },
+ {
+  "id": "cell",
+  "senses": [
+   "hücre",
+   "hücre; küçük oda",
+   "pil; batarya hücresi"
+  ],
+  "ex": [
+   "Mikroskop altında her soğan hücresi dikdörtgen gibi görünüyordu.",
+   "Bilim insanları, hastalıklara karşı daha etkili tedaviler geliştirmek için hasar görmüş hücrelerin kendilerini nasıl onardığını inceliyor."
+  ],
+  "col": [
+   "kan hücreleri",
+   "kök hücreler",
+   "hapishane hücresi",
+   "yakıt pili"
+  ],
+  "tip": "Biyolojide \"cell\" hücre, hapishane bağlamında ise hücre (küçük oda) anlamına gelir; bağlama dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "waterfall",
+  "senses": [
+   "şelale"
+  ],
+  "ex": [
+   "Onu görmeden çok önce şelalenin sesini duyabiliyorduk.",
+   "Bir şelalenin yakınındaki turizm yerel işletmeleri destekleyebilir, ancak ziyaretçi tesisleri çevredeki doğal yaşam alanını korumalıdır."
+  ],
+  "col": [
+   "muhteşem bir şelale",
+   "şelalenin dibi",
+   "şırıl şırıl akan şelale"
+  ],
+  "tip": "Sayılabilir bir isimdir: \"bir şelale\" için \"a waterfall\" kullanılır, \"waterfall\" çoğulu \"waterfalls\" olur.",
+  "note": ""
+ },
+ {
+  "id": "suffer",
+  "senses": [
+   "acı çekmek; hastalanmak",
+   "zarar görmek; uğramak"
+  ],
+  "ex": [
+   "Öğle yemeğimi atladığımda baş ağrısından şikâyetçi oluyorum.",
+   "Büyük yol çalışmaları müşterilerin işyerlerine ulaşmasını engellediğinde küçük işletmeler sık sık mali kayıplara uğrar."
+  ],
+  "col": [
+   "baş ağrısından çekmek",
+   "kayıp yaşamak",
+   "hasar görmek",
+   "ağır zarar görmek"
+  ],
+  "tip": "Hastalık için \"suffer from\" kullanılır; zarar veya kayıp için doğrudan \"suffer\" ardından isim gelir.",
+  "note": ""
+ },
+ {
+  "id": "pray",
+  "senses": [
+   "dua etmek; ibadet etmek",
+   "içtenlikle dilemek; ummak"
+  ],
+  "ex": [
+   "Her sabah sessizce bir araya gelip barış için dua ediyorlar.",
+   "Farklı inançlardaki insanların kampüste çalışırken ya da ders çalışırken ibadet edebilmesi için sessiz alanlar sağlamak faydalıdır."
+  ],
+  "col": [
+   "barış için dua etmek",
+   "Tanrı'ya dua etmek",
+   "...olması için dua etmek"
+  ],
+  "tip": "\"pray to\" tapılan varlığı, \"pray for\" ise dilenen şeyi gösterir; Türkçedeki \"dua etmek\" fiilinin kalıbına dikkat et.",
+  "note": ""
+ },
+ {
+  "id": "semester",
+  "senses": [
+   "yarıyıl; dönem"
+  ],
+  "ex": [
+   "Bu dönem kolejde fotoğrafçılık dersi alıyorum.",
+   "Son yarıyılda iş yerleştirme programları sunmak, üniversite öğrencilerinin başarılı biçimde işe geçişine yardımcı olabilir."
+  ],
+  "col": [
+   "birinci yarıyıl",
+   "güz yarıyılı",
+   "yarıyıl tatili",
+   "dönemin sonu"
+  ],
+  "tip": "Bir akademik yılın iki ana dönemlerinden biridir; \"altı ay\" ile birebir aynı değildir, Türkçede \"yarıyıl\" karşılığını kullan.",
+  "note": ""
+ },
+ {
+  "id": "perfectly",
+  "senses": [
+   "kusursuz olarak; hatasız",
+   "tamamen; oldukça"
+  ],
+  "ex": [
+   "Yeni perdeler kanepemizle mükemmel uyuyor.",
+   "Sakinlerin vergilerinin karşılığında güvenilir kamu hizmetleri beklemesi tamamen makul bir şeydir."
+  ],
+  "col": [
+   "tam uymak",
+   "kusursuz çalışmak",
+   "tamamen makul",
+   "apaçık açık"
+  ],
+  "tip": "\"perfectly clear\" \"kusursuz derecede açık\" değil, \"tamamen açık\" anlamına gelir; \"perfectly\" her zaman \"mükemmel\" demek değildir.",
+  "note": ""
+ },
+ {
+  "id": "lizard",
+  "senses": [
+   "kertenkele"
+  ],
+  "ex": [
+   "Küçük bir kertenkele sıcak bahçe duvarında dinleniyordu.",
+   "Kayalık yaşam alanlarını korumak, böceklerin kontrolünde önemli rol oynayan kertenkele popülasyonlarını korumaya yardımcı olur."
+  ],
+  "col": [
+   "küçük kertenkele",
+   "kertenkele türü",
+   "kertenkele yaşam alanı"
+  ],
+  "tip": "\"lizard\" sayılabilir bir isimdir; çoğulu \"lizards\" olur. Türkçede \"kertenkele\" ile \"yılan\" karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "luxury",
+  "senses": [
+   "lüks; konfor",
+   "lüks; gereksiz keyif",
+   "lüks; şatafatlı"
+  ],
+  "ex": [
+   "Otel bir gecelik lüksün tadını yaşattı.",
+   "Hane gelirleri arttıkça, bir zamanlar lüks sayılan ürünler günlük hayatın parçası haline geliyor."
+  ],
+  "col": [
+   "lüks içinde yaşamak",
+   "lüks mallar",
+   "lüks otel",
+   "...lüksünü karşılamak"
+  ],
+  "tip": "Lüks hali için sayılamaz, bir lüks nesne veya keyif için sayılabilir kullanılır; \"luxury\" sıfat olarak da kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "napkin",
+  "senses": [
+   "peçete"
+  ],
+  "ex": [
+   "Çorbayı çenesinden bir peçeteyle sildi.",
+   "Restoranlar, çamaşır yıkama işi verimli yönetildiği takdirde, tek kullanımlık kâğıt peçeteleri yeniden kullanılabilir kumaş peçetelerle değiştirerek atığı azaltabilir."
+  ],
+  "col": [
+   "kâğıt peçete",
+   "kumaş peçete",
+   "peçeteyi katlamak"
+  ],
+  "tip": "Günümüzde \"napkin\" çoğunlukla yemek peçetesi anlamındadır; İngiliz İngilizcesinde bebek bezi için \"nappy\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "listener",
+  "senses": [
+   "dinleyici"
+  ],
+  "ex": [
+   "Endişelendiğimde kız kardeşim çok sabırlı bir dinleyicidir.",
+   "İyi bir dinleyici, meslektaşların farklı bakış açılarını anlayarak tavsiye vermeden önce anlaşmazlıkları çözmesine yardımcı olabilir."
+  ],
+  "col": [
+   "iyi bir dinleyici",
+   "radyo dinleyicileri",
+   "dikkatli bir dinleyici"
+  ],
+  "tip": "\"listener\" dinleyen kişidir; \"listen\" fiilinden sonra nesne alırken mutlaka \"to\" edatı kullanılmalıdır (listen to music).",
+  "note": ""
+ }
+]

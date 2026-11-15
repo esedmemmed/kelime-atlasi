@@ -1,0 +1,277 @@
+[
+ {
+  "id": "caring",
+  "senses": [
+   "şefkatli; ilgili",
+   "bakım hizmeti"
+  ],
+  "ex": [
+   "Şefkatli komşumuz hastalandığımda bana çorba getirdi.",
+   "Destekleyici bir okul ortamı, çocukların özgüvenini artırabilir ve ihtiyaç duyduklarında yardım istemelerini teşvik edebilir."
+  ],
+  "col": [
+   "şefkatli tutum",
+   "bakım mesleği",
+   "destekleyici ortam"
+  ],
+  "tip": "caring 'şefkatli, ilgili' anlamına gelir; 'dikkatli' anlamındaki careful ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "celebration",
+  "senses": [
+   "kutlama; tören",
+   "kutlama"
+  ],
+  "ex": [
+   "Büyükanne ve büyükbabamızın yıldönümü kutlaması için bahçeyi süsledik.",
+   "Toplumsal kutlamalar, farklı kültürel geçmişlerden gelen sakinleri bir araya getirerek toplumsal bağları güçlendirebilir."
+  ],
+  "col": [
+   "kutlama yapmak",
+   "...şerefine",
+   "doğum günü kutlaması"
+  ],
+  "tip": "Belirli bir kutlama etkinliği için sayılabilir (a celebration); kutlama davranışı için sayılamaz (celebration).",
+  "note": ""
+ },
+ {
+  "id": "bet",
+  "senses": [
+   "bahse girmek; iddiaya girmek",
+   "emin olmak",
+   "bahis; iddia"
+  ],
+  "ex": [
+   "Eminim anahtarlarını mutfakta bıraktın.",
+   "Bazı yatırımcılar, ticari başarılarının belirsizliğine rağmen gelişmekte olan teknolojilere para yatırdı."
+  ],
+  "col": [
+   "...üzerine bahis oynamak",
+   "bahis oynamak",
+   "eminim",
+   "güvenli tercih"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi de bet'tir (bet, bet). 'I bet' ifadesi 'eminim' anlamında sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "fold",
+  "senses": [
+   "katlamak; kıvırmak",
+   "kıvrım; kırışıklık",
+   "batmak; kapanmak"
+  ],
+  "ex": [
+   "Lütfen bu havluları katlayıp rafa koyar mısın?",
+   "Kira maliyetleri arttığında makul bir kâr sağlamak imkânsız hale gelirse küçük işletmeler kapanabilir."
+  ],
+  "col": [
+   "ikiye katlamak",
+   "kollarını kavuşturmak",
+   "sandalyeyi katlayıp kapatmak",
+   "çamaşırı katlamak"
+  ],
+  "tip": "fold, kağıt veya kumaşı üst üste getirerek katlamayı anlatır; bend ise yalnızca bükmeyi anlatır.",
+  "note": ""
+ },
+ {
+  "id": "vet",
+  "senses": [
+   "veteriner",
+   "incelemek; denetlemek"
+  ],
+  "ex": [
+   "Veteriner, yavru köpeğimizin kulaklarını ve patilerini nazikçe kontrol etti.",
+   "Kuruluşlar, çocuklar veya savunmasız yetişkinlerle çalışacak kişileri işe alırken potansiyel çalışanları dikkatle incelemelidir."
+  ],
+  "col": [
+   "evcil hayvanı veterinere götürmek",
+   "başvuranları incelemek",
+   "inceleme süreci"
+  ],
+  "tip": "Fiil olarak 'vet' geçmiş zamanda 'vetted', ing biçiminde 'vetting' yazılır; t harfi iki kez yazılır.",
+  "note": ""
+ },
+ {
+  "id": "costume",
+  "senses": [
+   "kostüm; karnaval kıyafeti",
+   "geleneksel kıyafet; dönem kıyafeti"
+  ],
+  "ex": [
+   "Lena okul oyununda kelebek kostümü giydi.",
+   "Geleneksel kıyafetler kültürel kimliği yansıtabilir ve genç kuşakların toplumlarının tarihini anlamasına yardımcı olabilir."
+  ],
+  "col": [
+   "geleneksel kıyafet",
+   "kostüm tasarımcısı",
+   "kostümlü parti"
+  ],
+  "tip": "Costume belirli bir karakter, hayvan ya da kültüre ait kıyafeti anlatır; günlük giysileri kastetmez.",
+  "note": ""
+ },
+ {
+  "id": "creative",
+  "senses": [
+   "yaratıcı; yenilikçi"
+  ],
+  "ex": [
+   "Yaratıcı kız kardeşim eski kavanozları renkli lambalara dönüştürdü.",
+   "Okullar, öğrencilerin aynı sorun için birden fazla çözüm üretmelerine izin vererek yaratıcı düşünmeyi teşvik etmelidir."
+  ],
+  "col": [
+   "yaratıcı düşünme",
+   "yaratıcı yazarlık",
+   "yaratıcı bir çözüm"
+  ],
+  "tip": "Kişi veya fikir için 'yaratıcı' anlamında kullanılır; isim biçimi creativity'dir (yaratıcılık).",
+  "note": ""
+ },
+ {
+  "id": "mayor",
+  "senses": [
+   "belediye başkanı"
+  ],
+  "ex": [
+   "Belediye başkanı dün yeni yüzme havuzumuzu açtı.",
+   "Yeni seçilen belediye başkanı, halk için toplu taşımayı iyileştireceğine ve uygun fiyatlı konut yaratacağına söz verdi."
+  ],
+  "col": [
+   "belediye başkanı seçmek",
+   "bir şehrin belediye başkanı",
+   "belediye başkan yardımcısı",
+   "belediye başkanlığına aday olmak"
+  ],
+  "tip": "mayor (belediye başkanı) ile major (önemli, büyük) kelimeleri karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "atlas",
+  "senses": [
+   "atlas; harita kitabı"
+  ],
+  "ex": [
+   "Bir dağ silsilesi bulmak için atlası açtık.",
+   "Dijital haritalar kullanışlı olsa da basılı bir atlas, öğrencilerin kıtalar arasındaki coğrafi örüntüleri karşılaştırmasına yardımcı olur."
+  ],
+  "col": [
+   "dünya atlası",
+   "tarih atlası",
+   "yol atlası"
+  ],
+  "tip": "Atlas, ciltli harita kitabıdır; çoğulu atlases şeklinde yazılır.",
+  "note": ""
+ },
+ {
+  "id": "definition",
+  "senses": [
+   "tanım; anlam",
+   "netlik; çözünürlük"
+  ],
+  "ex": [
+   "Bana yerçekiminin basit bir tanımını verebilir misin?",
+   "Sağlığın daha geniş bir tanımı, yalnızca fiziksel hastalığın olmamasını değil, duygusal iyi oluşu ve sosyal ilişkileri de kapsar."
+  ],
+  "col": [
+   "açık bir tanım",
+   "tanımı gereği",
+   "yüksek çözünürlük",
+   "geniş bir tanım"
+  ],
+  "tip": "'definition of + kavram' yapısıyla bir şeyin tanımı verilir. Yüksek çözünürlük için HD kısaltması kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "romance",
+  "senses": [
+   "aşk; romantizm",
+   "aşk hikâyesi; aşk filmi"
+  ],
+  "ex": [
+   "Aşkları, dağlarda yapılan yürüyüş tatili sırasında başladı.",
+   "Popüler filmler aşkı genellikle idealleştirilmiş biçimde gösterir; bu da genç insanların ilişkilerden beklentilerini etkileyebilir."
+  ],
+  "col": [
+   "tatil aşkı",
+   "hızlı gelişen aşk",
+   "romantik his"
+  ],
+  "tip": "Genel anlamda aşk sayılamaz (romance); belirli bir ilişki ya da eser sayılabilir (a romance).",
+  "note": ""
+ },
+ {
+  "id": "psychology",
+  "senses": [
+   "psikoloji",
+   "psikolojik yapı; zihniyet"
+  ],
+  "ex": [
+   "Kız kardeşim psikoloji okuyor ve çocuklara yardım etmeyi umuyor.",
+   "Psikoloji alanındaki araştırmalar, düzenli sosyal etkileşimin yaşlı yetişkinlerin duygusal iyi oluşunu destekleyebileceğini gösteriyor."
+  ],
+  "col": [
+   "klinik psikoloji",
+   "eğitim psikolojisi",
+   "tüketici psikolojisi",
+   "psikoloji okumak"
+  ],
+  "tip": "Kelimenin başındaki p harfi okunmaz. Psikolog'a psychologist denir.",
+  "note": ""
+ },
+ {
+  "id": "negotiate",
+  "senses": [
+   "pazarlık etmek; müzakere etmek",
+   "geçmek; aşmak"
+  ],
+  "ex": [
+   "İkinci el kanepe için daha düşük bir fiyat üzerinde pazarlık yaptık.",
+   "Hükümetler, uluslararası yatırımı teşvik ederken işçileri koruyan adil ticaret anlaşmaları için müzakere etmelidir."
+  ],
+  "col": [
+   "anlaşma için müzakere etmek",
+   "işverenlerle pazarlık etmek",
+   "virajı güvenle geçmek"
+  ],
+  "tip": "Biriyle pazarlık yapılırken 'negotiate with' kullanılır; anlaşmanın kendisi doğrudan nesne olarak alınabilir.",
+  "note": ""
+ },
+ {
+  "id": "carrier",
+  "senses": [
+   "taşıma şirketi; taşıyıcı",
+   "hastalık taşıyıcısı",
+   "taşıma kabı"
+  ],
+  "ex": [
+   "Taşıma şirketi yeni kanepemizi bu sabah teslim etti.",
+   "İnsanlar bazı enfeksiyonları belirti göstermeden taşıyabilir; bu da hastalıkların etkili biçimde önlenmesini zorlaştırır."
+  ],
+  "col": [
+   "hava yolu şirketi",
+   "hastalık taşıyıcısı",
+   "bebek taşıma kanguru/sepeti",
+   "evcil hayvan taşıma kabı"
+  ],
+  "tip": "Tıpta carrier, hastalığı belirti olmadan taşıyabilen kişi veya hayvanı anlatır; 'taşıyıcı' karşılığı bağlama göre seçilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "urgently",
+  "senses": [
+   "acilen; ivedilikle"
+  ],
+  "ex": [
+   "Bu su kaçağını onarmak için acilen bir tesisatçıya ihtiyacımız var.",
+   "Hükümetler, su kıtlığını iyileştirilmiş altyapı ve sorumlu tüketimi teşvik eden politikalarla acilen ele almalıdır."
+  ],
+  "col": [
+   "acilen gerekli",
+   "acilen gerektirmek",
+   "acilen harekete geçmek"
+  ],
+  "tip": "urgently, işin hızlı yapılmasından çok, hemen ilgilenilmesi gerektiğini vurgular.",
+  "note": ""
+ }
+]

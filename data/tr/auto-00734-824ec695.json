@@ -1,0 +1,285 @@
+[
+ {
+  "id": "cinema",
+  "senses": [
+   "sinema salonu",
+   "sinema sanatı; film endüstrisi"
+  ],
+  "ex": [
+   "Sinemanın önünde buluştuk ve biraz patlamış mısır aldık.",
+   "Uluslararası sinema, izleyicilerin tanıdık olmayan kültürleri keşfetmesine ve toplumsal sorunlara farklı açılardan bakmasına olanak tanır."
+  ],
+  "col": [
+   "sinemaya gitmek",
+   "bir sinema bileti",
+   "dünya sinemasi",
+   "bağımsız sinema"
+  ],
+  "tip": "İngiliz İngilizcesinde go to the cinema, Amerikan İngilizcesinde go to the movies daha yaygındır. Sınavda ikisi de kabul edilir.",
+  "note": ""
+ },
+ {
+  "id": "away",
+  "senses": [
+   "uzağa; uzakta",
+   "dışarıda; evde değil"
+  ],
+  "ex": [
+   "Pencereyi açtığımda küçük kuş uçup gitti.",
+   "Kalabalık şehirlerden uzaklaşmak refahı artırabilir, ancak istihdama erişimi azaltabilir."
+  ],
+  "col": [
+   "gitmek; uzaklaşmak",
+   "uzakta",
+   "evden uzakta",
+   "toparlamak; kaldırmak"
+  ],
+  "tip": "Yer belirtirken away from kalıbını kullanın: away from home. Türkçedeki 'uzak' sıfatını far ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "university",
+  "senses": [
+   "üniversite"
+  ],
+  "ex": [
+   "Kız kardeşim evimize yakın bir üniversitede mühendislik okuyor.",
+   "Hükümetler, yetenekli öğrencilerin mali engeller yüzünden dışlanmaması için üniversiteye erişimi iyileştirmelidir."
+  ],
+  "col": [
+   "üniversiteye gitmek",
+   "üniversite diploması",
+   "üniversite kampüsü",
+   "üniversite harç ücretleri"
+  ],
+  "tip": "University /j/ sesiyle başladığı için a university denir, an denmez. Üniversitede olmak için at university kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "driver",
+  "senses": [
+   "şoför; sürücü",
+   "itici güç; etken",
+   "sürücü yazılımı"
+  ],
+  "ex": [
+   "Otobüs şoförü, biletimi bulana kadar bekledi.",
+   "Kentler genişledikçe toplu taşımaya yapılan yatırım ekonomik büyümenin önemli bir itici gücü olabilir."
+  ],
+  "col": [
+   "otobüs şoförü",
+   "büyümenin temel itici gücü",
+   "sürücü yüklemek"
+  ],
+  "tip": "a driver of change değişimi sağlayan etken demektir. Fiil drive ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "design",
+  "senses": [
+   "tasarlamak; planlamak",
+   "tasarım; tasarım planı",
+   "desen; motif"
+  ],
+  "ex": [
+   "Kuzenim yatak odası için ahşap bir masa tasarladı.",
+   "Şehirler, engelli insanlara da erişilebilir kalırken sosyal etkileşimi teşvik eden kamusal alanlar tasarlamalıdır."
+  ],
+  "col": [
+   "bir bina tasarlamak",
+   "bir amaca yönelik tasarlanmak",
+   "grafik tasarım",
+   "iç mimari"
+  ],
+  "tip": "be designed to do kalıbı '…amacıyla tasarlanmak' anlamına gelir. Türkçedeki edilgen yapıyı bu kalıpla birebir çevirmeyin.",
+  "note": ""
+ },
+ {
+  "id": "hole",
+  "senses": [
+   "delik; çukur",
+   "boşluk; kusur"
+  ],
+  "ex": [
+   "En sevdiğim çoraplardan birinde küçük bir delik var.",
+   "Güvenlik çitindeki bir açığın fark edilmesi, sakinleri acil onarım talep etmeye yöneltti."
+  ],
+  "col": [
+   "çukur kazmak",
+   "deliği doldurmak",
+   "yerde bir çukur",
+   "kusur bulmak"
+  ],
+  "tip": "hole (delik) ile whole (bütün) aynı şekilde okunur ama anlamları farklıdır. Yazarken karıştırmamaya dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "latest",
+  "senses": [
+   "en son; en yeni",
+   "son gelişme; en yeni"
+  ],
+  "ex": [
+   "Komşumuzla ilgili en son haberi duydun mu?",
+   "En son araştırmalar, düzenli fiziksel aktivitenin hem hafızayı hem de ruh sağlığını geliştirebileceğini gösteriyor."
+  ],
+  "col": [
+   "en son araştırma",
+   "en son sürüm",
+   "en geç"
+  ],
+  "tip": "latest 'en yeni' anlamına gelir; last ise çoğunlukla 'önceki' ya da 'sonuncu' demektir. at the latest ise 'en geç' anlamındadır.",
+  "note": ""
+ },
+ {
+  "id": "model",
+  "senses": [
+   "maket; model",
+   "rol model; örnek",
+   "manken"
+  ],
+  "ex": [
+   "Kartondan bir köprü maketi yaptı.",
+   "Araştırmacılar, yükselen sıcaklıkların bölgesel su kaynaklarını nasıl etkileyeceğini tahmin etmek için bilgisayar modeli kullanıyor."
+  ],
+  "col": [
+   "ölçekli maket",
+   "bilgisayar modeli",
+   "rol model",
+   "moda mankeni"
+  ],
+  "tip": "model hem isim hem fiil olarak kullanılır. Türkçedeki 'model' kelimesinin 'manken' anlamı da olduğunu unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "jump",
+  "senses": [
+   "atlamak; zıplamak",
+   "birden artmak; fırlamak",
+   "sıçrama; ani artış"
+  ],
+  "ex": [
+   "Köpek kapının yanındaki su birikintisinin üzerinden atladı.",
+   "Talebin hâlâ uygun fiyatlı konut arzını aştığı şehirlerde konut fiyatları keskin biçimde fırladı."
+  ],
+  "col": [
+   "bir çitin üzerinden atlamak",
+   "fırsatı hemen değerlendirmek",
+   "fiyatlarda keskin artış"
+  ],
+  "tip": "jump at the chance fırsatı hemen yakalamak, memnuniyetle kabul etmek demektir. Bu kalıp günlük ve yazılı İngilizcede sık kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "armchair",
+  "senses": [
+   "koltuk",
+   "deneyimsiz; kuramsal"
+  ],
+  "ex": [
+   "Büyükbabam pencere kenarındaki koltuğunda uyuyakaldı.",
+   "Masa başı eleştirmenler, sınırlı kaynaklarla çok kalabalık sınıfları yöneten öğretmenlerin karşılaştığı pratik zorlukları küçümseyebilir."
+  ],
+  "col": [
+   "rahat koltuk",
+   "koltukta oturmak",
+   "masa başı eleştirmen"
+  ],
+  "tip": "Koltukta oturmak için in an armchair veya sit in an armchair kullanın. Sıfat olarak genellikle olumsuz bir anlam taşır.",
+  "note": ""
+ },
+ {
+  "id": "guest",
+  "senses": [
+   "misafir; davetli",
+   "otel konuğu; müşteri"
+  ],
+  "ex": [
+   "Akşam yemeğinde her misafir paylaşmak için bir yemek getirdi.",
+   "Oteller, yalnızca talep edildiğinde havlu değiştirerek misafirleri su tasarrufuna teşvik edebilir."
+  ],
+  "col": [
+   "misafir davet etmek",
+   "otel konuğu",
+   "konuk konuşmacı",
+   "misafir odası"
+  ],
+  "tip": "guest hem davetli misafir hem de ücret ödeyen otel konuğu anlamına gelir. Bağlama göre doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "store",
+  "senses": [
+   "mağaza; dükkan",
+   "saklamak; depolamak",
+   "stok; birikim"
+  ],
+  "ex": [
+   "Evimize yakın mağaza taze ekmek satıyor.",
+   "Modern piller, güneş ışığı olmadığında kullanılmak üzere güneş panellerinden enerji depolayabilir."
+  ],
+  "col": [
+   "büyük mağaza",
+   "veri depolamak",
+   "yiyecek saklamak",
+   "bilgi birikimi"
+  ],
+  "tip": "Amerikan İngilizcesinde store, İngiliz İngilizcesinde günlük kullanımda shop daha yaygındır. Fiil olarak 'depolamak' anlamına da gelir.",
+  "note": ""
+ },
+ {
+  "id": "waste",
+  "senses": [
+   "israf etmek; boşa harcamak",
+   "atık; çöp",
+   "israf; boşa harcama"
+  ],
+  "ex": [
+   "Musluğu açık bırakarak su israf etme.",
+   "Evsel atıkları azaltmak için hem kolay geri dönüşüm tesisleri hem de sorumlu tüketim konusunda daha fazla farkındalık gerekir."
+  ],
+  "col": [
+   "zaman harcamak",
+   "para israfı",
+   "evsel atık",
+   "gıda israfı"
+  ],
+  "tip": "waste time doing sth kalıbında zamanı bir şey yaparak boşa harcamak anlatılır. Bu kalıpta to do değil -ing kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "calculator",
+  "senses": [
+   "hesap makinesi"
+  ],
+  "ex": [
+   "Alışveriş toplamını kontrol etmek için hesap makinesi kullandım.",
+   "Öğrencilerin hesap makinesi kullanmasına izin vermek, daha karmaşık matematik problemlerine odaklanmalarına yardımcı olabilir."
+  ],
+  "col": [
+   "hesap makinesi kullanmak",
+   "bilimsel hesap makinesi",
+   "cep hesap makinesi"
+  ],
+  "tip": "calculator alet anlamına gelir; hesaplama işlemi veya sonucu için calculation kullanılır. Türkçedeki 'hesaplama' ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "worse",
+  "senses": [
+   "daha kötü; daha ağır",
+   "daha kötü; daha fena"
+  ],
+  "ex": [
+   "Tepeye çıktıkça hava daha da kötüleşti.",
+   "Şehirler güvenilir ve uygun fiyatlı toplu taşımaya yatırım yapmazsa trafik sıkışıklığı daha da kötüleşebilir."
+  ],
+  "col": [
+   "kötüleşmek",
+   "daha da kötü",
+   "işleri daha da kötüleştirmek"
+  ],
+  "tip": "Bad ve badly'nin karşılaştırma biçimidir; üstünlük derecesi worst'tür. 'More bad' demeyin, bu hatalı bir kullanımdır.",
+  "note": ""
+ }
+]

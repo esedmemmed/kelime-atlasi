@@ -1,0 +1,273 @@
+[
+ {
+  "id": "replacement",
+  "senses": [
+   "yedek; yerine geçen",
+   "değiştirme; yenileme"
+  ],
+  "ex": [
+   "Mağaza, kırılan çaydanlığım için yenisini gönderdi.",
+   "Eskimiş otobüslerin elektrikli araçlarla değiştirilmesi, yoğun nüfuslu şehirlerde hava kalitesini iyileştirebilir."
+  ],
+  "col": [
+   "...için yedek",
+   "yedek parçalar",
+   "kalça protezi"
+  ],
+  "tip": "Yerine geçen kişi/nesne sayılabilir; değiştirme süreci genelde sayılamaz. \"Replacement\" ile \"substitute\" arasındaki farka dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "fluid",
+  "senses": [
+   "sıvı; akışkan",
+   "değişken; istikrarsız",
+   "akıcı; sürekli"
+  ],
+  "ex": [
+   "Hemşire bana bol sıvı içmemi hatırlattı.",
+   "İş yapısı giderek daha değişken hale geliyor; çalışanların mesleki hayatları boyunca becerilerini güncellemesi gerekiyor."
+  ],
+  "col": [
+   "vücut sıvıları",
+   "sıvı alımı",
+   "değişken bir durum",
+   "akıcı hareketler"
+  ],
+  "tip": "Günlük dilde genellikle sıvı anlamına gelir; bilimde gaz da dahildir. Sıfat olarak \"fluent\" (akıcı dil) ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "destruction",
+  "senses": [
+   "yıkım; tahribat"
+  ],
+  "ex": [
+   "Fırtına kıyı boyunca yıkım izleri bıraktı.",
+   "Doğal yaşam alanlarının yok edilmesi biyolojik çeşitliliği tehdit ediyor ve yerel topluluklar için kaynakları azaltıyor."
+  ],
+  "col": [
+   "yaşam alanlarının yok edilmesi",
+   "yaygın yıkım",
+   "yıkım izi"
+  ],
+  "tip": "Genellikle sayılamaz. Fiili \"destroy\"dur; \"destruct\" kelimesi bu anlamda kullanılmaz.",
+  "note": ""
+ },
+ {
+  "id": "blur",
+  "senses": [
+   "bulanıklaştırmak; bulanıklaşmak",
+   "bulanık görüntü; silik anı"
+  ],
+  "ex": [
+   "Tren uzaklaşırken gözyaşları görüşümü bulanıklaştırdı.",
+   "Evden çalışmak, mesleki sorumluluklarla kişisel hayat arasındaki sınırı bulanıklaştırabilir ve stresi artırabilir."
+  ],
+  "col": [
+   "ayrımı bulanıklaştırmak",
+   "sınırları bulanıklaştırmak",
+   "bir renk karması"
+  ],
+  "tip": "Çoğunlukla görüş veya sınırların belirsizleşmesi için kullanılır; \"leke\" anlamında yaygın bir karşılık değildir.",
+  "note": ""
+ },
+ {
+  "id": "chaos",
+  "senses": [
+   "kaos; düzensizlik"
+  ],
+  "ex": [
+   "Birlikte pasta yaptıktan sonra mutfak darmadağın olmuştu.",
+   "Beklenmedik yol kapanmaları şehir genelinde kaosa yol açtı ve daha iyi acil durum planlamasına duyulan ihtiyacı ortaya koydu."
+  ],
+  "col": [
+   "kaos içinde",
+   "kaosa neden olmak",
+   "tam bir kaos",
+   "trafik kaosu"
+  ],
+  "tip": "Sayılamayan bir isimdir; başına \"a\" getirilmez. \"Ch\" harfi /k/ okunur.",
+  "note": ""
+ },
+ {
+  "id": "fury",
+  "senses": [
+   "öfke; hiddet",
+   "şiddet; saldırganlık"
+  ],
+  "ex": [
+   "Hasarı fark ettiğinde öfkeden titredi.",
+   "Yerel hastanenin aniden kapatılması, hizmetlerine bağlı olan sakinler arasında büyük bir öfkeye yol açtı."
+  ],
+  "col": [
+   "öfkeden titremek",
+   "öfkeye neden olmak",
+   "fırtınanın şiddeti"
+  ],
+  "tip": "\"Anger\"dan daha güçlü bir öfkeyi anlatır. \"In a fury\" ifadesi \"öfkeden kudurmuş halde\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "analyse",
+  "senses": [
+   "analiz etmek; incelemek"
+  ],
+  "ex": [
+   "Harcamalarımızı analiz ettik ve kullanmadığımız iki aboneliği iptal ettik.",
+   "Araştırmacılar, yetişkinlerin eğitime geri dönmesini engelleyen başlıca engelleri belirlemek için anket yanıtlarını analiz ediyor."
+  ],
+  "col": [
+   "verileri analiz etmek",
+   "sonuçları incelemek",
+   "bir sorunu çözümlemek"
+  ],
+  "tip": "İngiliz yazımı \"analyse\", Amerikan yazımı \"analyze\"dır. Sınavlarda tutarlı bir yazım seçin.",
+  "note": ""
+ },
+ {
+  "id": "burial",
+  "senses": [
+   "defin; gömme töreni"
+  ],
+  "ex": [
+   "Aile dün sessizce defin için toplandı.",
+   "Antik mezar alanları, geçmiş toplumların inançları ve sosyal yapıları hakkında değerli kanıtlar sunar."
+  ],
+  "col": [
+   "mezar yeri",
+   "mezarlık",
+   "defin gelenekleri"
+  ],
+  "tip": "\"Burial\" toprağa gömme eylemine odaklanır; \"funeral\" ise cenaze törenini genel olarak anlatır.",
+  "note": ""
+ },
+ {
+  "id": "famine",
+  "senses": [
+   "kıtlık; açlık felaketi"
+  ],
+  "ex": [
+   "Topluluğumuz, kıtlıktan etkilenen ailelere yiyecek gönderdi.",
+   "Uzun süren kuraklık, çiftçi topluluklarında güvenilir sulama sistemleri ve acil gıda rezervleri olmadığında kıtlığa yol açabilir."
+  ],
+  "col": [
+   "yaygın kıtlık",
+   "kıtlık yardımı",
+   "kıtlığı önlemek"
+  ],
+  "tip": "\"Famine\" geniş çapta gıda yokluğunu anlatır; kişinin kendi açlığı için \"hunger\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "determine",
+  "senses": [
+   "saptamak; belirlemek",
+   "belirlemek; etkilemek",
+   "karar vermek"
+  ],
+  "ex": [
+   "Tamirci bisikletimin frenlerinin neden tutukluk yaptığını buldu.",
+   "Hükümetler ek öğretmen kadrosuna ciddi yatırım yapmadan önce, daha küçük sınıfların öğrenme sonuçlarını iyileştirip iyileştirmediğini araştırmacıların saptaması gerekir."
+  ],
+  "col": [
+   "nedenini belirlemek",
+   "olup olmadığını saptamak",
+   "sonucu belirlemek",
+   "kararlı olmak"
+  ],
+  "tip": "\"Determine whether\" ifadesi \"olup olmadığını belirlemek\" anlamına gelir ve ardından cümle gelir. \"Determined\" sıfat olarak \"kararlı\" demektir.",
+  "note": ""
+ },
+ {
+  "id": "archaeology",
+  "senses": [
+   "arkeoloji"
+  ],
+  "ex": [
+   "Arkeoloji okumak, antik çanak çömlek parçalarını tanımasını öğretti.",
+   "Arkeoloji, önceki toplumların çevresel değişimlere nasıl uyum sağladığına ve ticaret ağları geliştirdiğine dair değerli kanıtlar sunar."
+  ],
+  "col": [
+   "arkeoloji okumak",
+   "arkeoloji bölümü",
+   "arkeoloji müzesi"
+  ],
+  "tip": "Genellikle sayılamaz. Dinozor fosilleri üzerine çalışmak paleontolojiye girer, arkeolojiye değil.",
+  "note": ""
+ },
+ {
+  "id": "artistic",
+  "senses": [
+   "sanatsal; sanata ilişkin",
+   "sanat yeteneği olan",
+   "estetik; sanatsal güzellik taşıyan"
+  ],
+  "ex": [
+   "Festival, müzik ve dans aracılığıyla sanatsal gelenekleri kutluyor.",
+   "Okullar, yaratıcı etkinliklerin duygusal gelişimi ve kültürel anlayışı desteklediği için sanatsal ifade fırsatları sunmalıdır."
+  ],
+  "col": [
+   "sanatsal ifade",
+   "sanatsal yetenek",
+   "sanat özgürlüğü",
+   "sanatsal değer"
+  ],
+  "tip": "\"Artistic\" sanat ya da sanat yeteneğiyle ilgilidir; \"artificial\" ise yapay anlamına gelir. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "survivor",
+  "senses": [
+   "hayatta kalan kişi; sağ kurtulan"
+  ],
+  "ex": [
+   "Kurtarma ekibi, sel basan evden bir hayatta kalanı çıkardı.",
+   "Her felaket mağduru, güvenli konuta, tıbbi tedaviye ve uzun vadeli psikolojik desteğe erişebilmelidir."
+  ],
+  "col": [
+   "tek sağ kalan",
+   "deprem mağduru",
+   "kanser atlatan kişi"
+  ],
+  "tip": "\"Survivor\" kişiyi anlatır; \"survival\" ise hayatta kalma durumunu ya da eylemini ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "visual",
+  "senses": [
+   "görsel; görmeye ilişkin",
+   "görsel materyal; resim"
+  ],
+  "ex": [
+   "Sergi, müziği çarpıcı görsel efektlerle birleştiriyor.",
+   "Öğretmenler, karmaşık bilimsel kavramların küçük öğrenciler için anlaşılmasını kolaylaştırmak adına görsel araçlardan yararlanabilir."
+  ],
+  "col": [
+   "görsel araçlar",
+   "görsel efektler",
+   "görme engeli",
+   "görsel bilgi"
+  ],
+  "tip": "\"Visual\" görmeyle ilgili anlamına gelir; \"canlı, gerçeğe yakın\" anlamında çoğunlukla \"vivid\" kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "ventilate",
+  "senses": [
+   "havalandırmak",
+   "açıkça tartışmak; dile getirmek"
+  ],
+  "ex": [
+   "Yemekten sonra mutfağı havalandırmak için iki pencereyi de açın.",
+   "Okullar, kapalı alan hava kalitesini iyileştirmek ve daha sağlıklı öğrenme ortamları yaratmak için sınıfları düzenli olarak havalandırmalıdır."
+  ],
+  "col": [
+   "bir odayı havalandırmak",
+   "iyi havalandırılmış binalar",
+   "şikâyetleri dile getirmek"
+  ],
+  "tip": "Asıl anlamı havalandırmaktır; \"açıkça dile getirmek\" anlamı daha resmi bir kullanımdır.",
+  "note": ""
+ }
+]

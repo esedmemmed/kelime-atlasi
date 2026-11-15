@@ -1,0 +1,271 @@
+[
+ {
+  "id": "plagiarize",
+  "senses": [
+   "intihal yapmak; çalmak"
+  ],
+  "ex": [
+   "Öğretmenimiz, denemelerde asla intihal yapmamamız gerektiğini açıkladı.",
+   "İnternetteki materyalleri intihal eden öğrenciler disiplin cezasıyla karşılaşma riskini taşır ve bağımsız düşünmeyi geliştirme fırsatlarını kaçırır."
+  ],
+  "col": [
+   "bir denemeyi intihal etmek",
+   "birinin çalışmasını intihal etmek",
+   "bir kaynaktan intihal yapmak"
+  ],
+  "tip": "İngiliz İngilizcesinde plagiarise biçimi de kullanılır. Akademik bağlamda kaynak göstermeden fikir almak ciddi bir ihlaldir.",
+  "note": ""
+ },
+ {
+  "id": "proximity",
+  "senses": [
+   "yakınlık"
+  ],
+  "ex": [
+   "Bu daireyi parka yakın olduğu için seçtik.",
+   "Yoğun yolların yakınında yaşamak, sakinlerin gürültü ve hava kirliliğine maruz kalmasını artırabilir."
+  ],
+  "col": [
+   "...e yakınlık",
+   "...e çok yakın olarak",
+   "coğrafi yakınlık"
+  ],
+  "tip": "Genellikle proximity to biçiminde kullanılır; to'dan sonra isim veya isim tamlaması gelir.",
+  "note": ""
+ },
+ {
+  "id": "renaissance",
+  "senses": [
+   "yeniden canlanma; yükseliş",
+   "Rönesans"
+  ],
+  "ex": [
+   "Yerel tiyatromuz bu yaz yeniden canlanma dönemi yaşıyor.",
+   "Kamusal sanat galerilerine yapılacak yatırım, endüstriyel gerilemeden etkilenen şehirlerde kültürel bir canlanmayı teşvik edebilir."
+  ],
+  "col": [
+   "kültürel bir canlanma",
+   "yeniden canlanma yaşamak",
+   "Rönesans"
+  ],
+  "tip": "Tarihi dönem için Renaissance büyük harfle ve the ile yazılır. Türkçede 'Rönesans' olarak bilinir.",
+  "note": ""
+ },
+ {
+  "id": "idealism",
+  "senses": [
+   "idealizm",
+   "tinselcilik"
+  ],
+  "ex": [
+   "Onun idealizmi bizi nehir kıyısını temizlemeye ilham etti.",
+   "Gençlerdeki idealizm toplumsal değişimi teşvik edebilir; ancak etkili politikalar pratik planlama ve güvenilir finansman da gerektirir."
+  ],
+  "col": [
+   "gençlik idealizmi",
+   "siyasi idealizm",
+   "idealizm duygusu"
+  ],
+  "tip": "Genellikle sayılamaz isimdir. 'Ideal' sıfatıyla karıştırmayın; idealism isim, idealistic sıfattır.",
+  "note": ""
+ },
+ {
+  "id": "pellet",
+  "senses": [
+   "pelet; küçük granül"
+  ],
+  "ex": [
+   "Her tavşan, taze sebzelerle birlikte birkaç yem peleti aldı.",
+   "Odun peleti yakan ısıtma sistemleri, odun sürdürülebilir kaynaklardan geliyorsa fosil yakıt bağımlılığını azaltabilir."
+  ],
+  "col": [
+   "odun peleti",
+   "yem peleti",
+   "plastik granül"
+  ],
+  "tip": "Sıkıştırılarak şekillendirilmiş küçük parçalar için kullanılır; yem, yakıt ve plastik üretiminde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "cynical",
+  "senses": [
+   "kuşkucu; insanlara güvenmeyen",
+   "bencil; ahlaksız"
+  ],
+  "ex": [
+   "Leah, bedava hediye veren mağazalara karşı kuşkucu.",
+   "Defalarca tutulmayan sözler, vatandaşların siyasi liderlerin kamu hizmetlerini gerçekten iyileştirmek isteyip istemediğinden şüphe duymasına yol açabilir."
+  ],
+  "col": [
+   "...e karşı kuşkulu",
+   "kuşkucu bir tutum",
+   "çıkarcı bir girişim"
+  ],
+  "tip": "Genellikle about ile kullanılır. 'Kinik' (Diyojenes) anlamıyla karıştırılmamalı; burada iyi niyete duyulan güvensizlik vurgulanır.",
+  "note": ""
+ },
+ {
+  "id": "proportional",
+  "senses": [
+   "orantılı",
+   "uygun; orantılı"
+  ],
+  "ex": [
+   "Teslimat ücreti, paketin ağırlığıyla orantılıdır.",
+   "Çevre vergileri verilen zarara orantılı olmalı; böylece işletmeler daha temiz üretim yöntemlerini benimsemeye teşvik edilmeli."
+  ],
+  "col": [
+   "doğrudan orantılı",
+   "ters orantılı",
+   "orantılı temsil"
+  ],
+  "tip": "Genellikle to ile kullanılır: proportional to. Orantı anlamı için 'to' ile birlikte düşünülmelidir.",
+  "note": ""
+ },
+ {
+  "id": "dramatize",
+  "senses": [
+   "uyarlamak; sahneye koymak",
+   "abartmak; büyütmek"
+  ],
+  "ex": [
+   "Sınıfımız gelecek hafta kısa bir hikâyeyi sahneye uyarlayacak.",
+   "Televizyon yapımcıları izleyiciyi çekmek için tarihi olayları sıklıkla dramatize eder; ancak bu, gerçek ile kurgu arasındaki farkı bulanıklaştırabilir."
+  ],
+  "col": [
+   "bir romanı uyarlamak",
+   "tarihi olayları dramatize etmek",
+   "bir durumu abartmak"
+  ],
+  "tip": "Bağlama göre 'uyarlamak' ya da 'abartmak' anlamına gelebilir. İngiliz İngilizcesinde dramatise yazılır.",
+  "note": ""
+ },
+ {
+  "id": "deluge",
+  "senses": [
+   "sel; şiddetli yağmur",
+   "akın; yığın",
+   "sular altında bırakmak; boğmak"
+  ],
+  "ex": [
+   "Yağmur durana kadar bir kafede sığındık.",
+   "Yeni konut politikası duyurulduğunda, yerel yetkililer endişeli sakinlerin sorularına boğuldu."
+  ],
+  "col": [
+   "bir şikâyet seli",
+   "isteklerle boğulmak",
+   "ani bir sel"
+  ],
+  "tip": "Mecazi olarak 'a deluge of' büyük miktarı anlatır; edilgen olarak be deluged with kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "diaphragm",
+  "senses": [
+   "diyafram",
+   "membran; zar",
+   "diyafram; açıklık"
+  ],
+  "ex": [
+   "Şan öğretmeni, diyaframın nefes almayı nasıl desteklediğini anlattı.",
+   "Nefes alırken diyafram kasılır ve aşağı doğru hareket eder; böylece hava girdiğinde akciğerler genişleyebilir."
+  ],
+  "col": [
+   "diyafram kasılması",
+   "diyaframı gevşetmek",
+   "fotoğraf makinesi diyaframı"
+  ],
+  "tip": "ph /f/ okunur, g sessizdir. Anatomide solunum kası, fotoğrafçılıkta ise objektif açıklığı anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "piston",
+  "senses": [
+   "piston"
+  ],
+  "ex": [
+   "Tamirci, motordan hasarlı pistonu çıkardı.",
+   "Geleneksel motorlarda genleşen gazlar her pistonu iterek yakıttaki enerjiyi mekanik harekete dönüştürür."
+  ],
+  "col": [
+   "piston segmanı",
+   "pistonlu motor",
+   "piston kolu"
+  ],
+  "tip": "Silindir (cylinder) içinde ileri geri hareket eden parçadır. Türkçede de aynı yazılır.",
+  "note": ""
+ },
+ {
+  "id": "imperative",
+  "senses": [
+   "zorunlu; acil",
+   "zorunluluk; gereklilik",
+   "emir kipli"
+  ],
+  "ex": [
+   "Bu ilacın buzdolabında saklanması çok önemlidir.",
+   "Kentsel nüfus arttıkça, hükümetlerin güvenilir ve uygun fiyatlı toplu taşımaya yatırım yapması zorunludur."
+  ],
+  "col": [
+   "...mesi zorunludur",
+   "harekete geçme zorunluluğu",
+   "ahlaki bir zorunluluk",
+   "emir kipi"
+  ],
+  "tip": "It is imperative to do ya da that yapısıyla kullanılır. Sıfat olarak daha yaygındır; dilbilgisinde 'emir kipi' anlamı vardır.",
+  "note": ""
+ },
+ {
+  "id": "consolation",
+  "senses": [
+   "teselli; avunma",
+   "teselli eden şey"
+  ],
+  "ex": [
+   "Maçı kaybettikten sonra müzikte teselli buldu.",
+   "İşsizlikle karşı karşıya olan çalışanlar için duygusal destek bir miktar teselli sağlar; ancak uzun vadeli iyileşme için pratik yardım şarttır."
+  ],
+  "col": [
+   "...de teselli bulmak",
+   "teselli ödülü",
+   "pek az teselli",
+   "biraz teselli"
+  ],
+  "tip": "Genel anlamda sayılamaz isimdir. Somut bir teselli eden şey için a consolation denir.",
+  "note": ""
+ },
+ {
+  "id": "monotony",
+  "senses": [
+   "tekdüzelik; sıkıcılık"
+  ],
+  "ex": [
+   "Kısa bir yürüyüş, öğleden sonramın tekdüzeliğini kırdı.",
+   "İşleri döndürmek, fabrika işinin tekdüzeliğini azaltabilir ve çalışanların daha geniş beceriler geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "tekdüzeliği kırmak",
+   "günlük hayatın tekdüzeliği",
+   "tekdüzeliği gidermek"
+  ],
+  "tip": "Genellikle sayılamaz isimdir. 'Monotonous' sıfatıyla karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "lesser",
+  "senses": [
+   "daha küçük; ikincil"
+  ],
+  "ex": [
+   "Kanepemizi tamir ettirmeyi daha az masraflı seçenek olarak tercih ettik.",
+   "Finansman önemli olsa da sınıf mevcudu da eğitim sonuçlarını etkiler; ama genellikle daha az ölçüde."
+  ],
+  "col": [
+   "daha az ölçüde",
+   "daha az önemli",
+   "iki kötünün daha azı"
+  ],
+  "tip": "Genellikle isimden önce gelir. Fiziksel boyut için 'smaller' daha uygundur; lesser soyut ölçü ve önem için kullanılır.",
+  "note": ""
+ }
+]

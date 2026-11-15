@@ -1,0 +1,272 @@
+[
+ {
+  "id": "tower",
+  "senses": [
+   "kule",
+   "yükselmek; üstün olmak"
+  ],
+  "ex": [
+   "Kuleye tırmandık ve tekneleri körfezde geçerken izledik.",
+   "Tarihi kule, yıl boyunca ziyaretçi çekiyor ve yakındaki dükkânlara ile restoranlara değerli gelir sağlıyor."
+  ],
+  "col": [
+   "saat kulesi",
+   "gözetleme kulesi",
+   "üstünde yükselmek",
+   "tepesinde yükselmek"
+  ],
+  "tip": "Fiil olarak genellikle over veya above ile kullanılır: towered over the crowd. Edatı unutmak sık yapılan bir hatadır.",
+  "note": ""
+ },
+ {
+  "id": "password",
+  "senses": [
+   "şifre; parola"
+  ],
+  "ex": [
+   "Şifremi unuttum, bu yüzden hesabımı açamadım.",
+   "Her hesap için farklı bir şifre kullanmak, kişisel bilgilerin çalınma riskini azaltabilir."
+  ],
+  "col": [
+   "güçlü bir şifre",
+   "şifreyi sıfırlamak",
+   "şifre girmek",
+   "şifre koruması"
+  ],
+  "tip": "password genel olarak şifre demektir; sayısal geçiş kodu için passcode de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "boarding-card",
+  "senses": [
+   "biniş kartı; bindirme kartı"
+  ],
+  "ex": [
+   "Koltuğunuza ulaşana kadar biniş kartınızı elinizin altında tutun.",
+   "Yolcular artık biniş kartını indirebiliyor; bu da kağıt tüketimini ve havaalanı gişelerindeki bekleme sürelerini azaltıyor."
+  ],
+  "col": [
+   "biniş kartınızı gösterin",
+   "biniş kartı yazdırmak",
+   "elektronik biniş kartı"
+  ],
+  "tip": "Biniş kartı uçuş bileti değildir; boarding pass da aynı anlamda çok kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "improve",
+  "senses": [
+   "geliştirmek; iyileşmek"
+  ],
+  "ex": [
+   "Her gün pratik yapmaya başladığımdan beri yemek pişirme becerim gelişti.",
+   "Öğretmen eğitimine yatırım yapmak, özellikle dezavantajlı topluluklara hizmet veren okullarda eğitim sonuçlarını iyileştirebilir."
+  ],
+  "col": [
+   "performansı artırmak",
+   "erişimi iyileştirmek",
+   "önemli ölçüde gelişmek",
+   "yaşam standartlarını yükseltmek"
+  ],
+  "tip": "Hem geçişli hem geçişsiz kullanılır: improve skills ya da skills improve. Nesneden önce 'on' gibi bir edat gerekmez.",
+  "note": ""
+ },
+ {
+  "id": "anyway",
+  "senses": [
+   "yine de; her hâlde",
+   "neyse; zaten"
+  ],
+  "ex": [
+   "Yağmur yağmaya başladı, ama yine de yürüyüşe çıktık.",
+   "Bazı sakinler yeni demiryoluna karşı çıkıyor; ancak hükümet ekonomik faydaları nedeniyle yine de projeye devam etmeyi planlıyor."
+  ],
+  "col": [
+   "yine de yapmak",
+   "yine de gitmek",
+   "yine de teşekkürler"
+  ],
+  "tip": "Zarf olan anyway 'yine de, neyse' anlamındadır; any way ise 'herhangi bir yol' demektir ve ayrı yazılır.",
+  "note": ""
+ },
+ {
+  "id": "burger",
+  "senses": [
+   "hamburger; burger"
+  ],
+  "ex": [
+   "Öğle yemeği için salatalı bir nohut burger sipariş ettim.",
+   "Restoranlar, geleneksel et yemeklerinin yanında bitki bazlı burgerler sunarak çevresel etkilerini azaltabilir."
+  ],
+  "col": [
+   "dana burger",
+   "sebzeli burger",
+   "burger ekmeği"
+  ],
+  "tip": "Burger yalnızca sandviç değil, köftenin kendisini de ifade eder; her zaman et içermez.",
+  "note": ""
+ },
+ {
+  "id": "task",
+  "senses": [
+   "görev; iş",
+   "görevlendirmek"
+  ],
+  "ex": [
+   "Bugünkü ilk işim bitkileri sulamak.",
+   "Karmaşık bir görevi daha küçük aşamalara bölmek, öğrencilerin zamanlarını daha etkili yönetmelerine yardımcı olabilir."
+  ],
+  "col": [
+   "bir görevi tamamlamak",
+   "zorlu bir görev",
+   "birine görev vermek"
+  ],
+  "tip": "Fiil olarak 'task sb with doing sth' kalıbı kullanılır: I was tasked with writing the report.",
+  "note": ""
+ },
+ {
+  "id": "prefer",
+  "senses": [
+   "tercih etmek"
+  ],
+  "ex": [
+   "Akşam yemeğinden sonra pastaya taze meyveyi tercih ederim.",
+   "Bazı çalışanlar evden çalışmayı tercih ediyor, çünkü bu daha fazla esneklik sağlıyor ve günlük işe gidip gelmeyi ortadan kaldırıyor."
+  ],
+  "col": [
+   "A'yı B'ye tercih etmek",
+   "yapmayı tercih etmek",
+   "tercih ederim"
+  ],
+  "tip": "A to B kalıbıyla kullanılır: prefer tea to coffee. Geçmiş zaman preferred'da r harfi çift yazılır.",
+  "note": ""
+ },
+ {
+  "id": "appear",
+  "senses": [
+   "görünmek; belirmek",
+   "gibi görünmek",
+   "sahneye çıkmak; mahkemeye çıkmak"
+  ],
+  "ex": [
+   "Hava kararırken yıldızlar görünmeye başladı.",
+   "Çevrimiçi kurslar daha fazla esneklik sunuyor gibi görünse de bazı öğrenciler hâlâ geleneksel sınıf etkileşimini tercih ediyor."
+  ],
+  "col": [
+   "aniden belirmek",
+   "...gibi görünmek",
+   "mahkemeye çıkmak"
+  ],
+  "tip": "'Gibi görünmek' anlamında sıfat ya da to do ile kullanılır; doğrudan nesne alamaz.",
+  "note": ""
+ },
+ {
+  "id": "offer",
+  "senses": [
+   "teklif etmek; önermek",
+   "teklif; iş teklifi",
+   "teklif vermek"
+  ],
+  "ex": [
+   "Komşumuz ağır çantaları yukarı taşımayı teklif etti.",
+   "Üniversiteler, öğrencilerin iş yerine uygun beceriler geliştirmesini sağlayan uygulamalı eğitimler sunmalı."
+  ],
+  "col": [
+   "yardım teklif etmek",
+   "birine iş teklif etmek",
+   "teklifi kabul etmek",
+   "teklif yapmak"
+  ],
+  "tip": "Bir şeyi yapmayı teklif etmek için offer to do kullanılır, offer doing değil.",
+  "note": ""
+ },
+ {
+  "id": "sunglasses",
+  "senses": [
+   "güneş gözlüğü"
+  ],
+  "ex": [
+   "Evden çıkmadan önce güneş gözlüğümü taktım.",
+   "Yeterli ultraviyole korumaya sahip güneş gözlüğü takmak, açık havada etkinlikler sırasında göz hasarı riskini azaltabilir."
+  ],
+  "col": [
+   "bir çift güneş gözlüğü",
+   "güneş gözlüğü takmak",
+   "güneş gözlüğünü takmak"
+  ],
+  "tip": "Genellikle çoğul kullanılır ve 'a pair of' ile sayılır. Türkçede tekil olsa da İngilizcede çoğul düşünülür.",
+  "note": ""
+ },
+ {
+  "id": "ahead",
+  "senses": [
+   "ileride; önde",
+   "önde; erken",
+   "önceden; ilerisi için"
+  ],
+  "ex": [
+   "Küçük köprüye ulaşana kadar düz ilerleyin.",
+   "Şehirler, nüfus artışının talebini karşılayabilmek için ulaşım ağlarının yeterli olmasını sağlamak adına önceden planlama yapmalı."
+  ],
+  "col": [
+   "tam karşıda",
+   "planlanandan erken",
+   "önceden planlamak",
+   "rakiplerinin önünde"
+  ],
+  "tip": "Zarf olarak ahead tek başına kullanılır; bir nesne gelirse ahead of olur: ahead of schedule.",
+  "note": ""
+ },
+ {
+  "id": "fireman",
+  "senses": [
+   "itfaiyeci (erkek)"
+  ],
+  "ex": [
+   "İtfaiyeci dumanlı mutfaktan bir kedi yavrusunu kurtardı.",
+   "İtfaiyeci, düzenli güvenlik denetimlerinin konut binalarındaki birçok kazayı önleyebileceğini açıkladı."
+  ],
+  "col": [
+   "cesur bir itfaiyeci",
+   "itfaiyecinin kaskı",
+   "gönüllü itfaiyeci"
+  ],
+  "tip": "Cinsiyet belirtmeyen firefighter günümüzde daha yaygındır. Çoğulu firemen'dır ama firefighters daha tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "photocopy",
+  "senses": [
+   "fotokopi",
+   "fotokopisini çekmek"
+  ],
+  "ex": [
+   "Yarın pasaportunuzun fotokopisini getirin.",
+   "Öğrenciler, orijinaller kaybolursa diye önemli başvuru belgelerinin fotokopisini saklamalıdır."
+  ],
+  "col": [
+   "fotokopi çekmek",
+   "bir belgenin fotokopisi",
+   "bir formu fotokopi çekmek"
+  ],
+  "tip": "Hem isim hem fiil olarak kullanılır. Çoğul ve üçüncü tekil şekli photocopies'dir.",
+  "note": ""
+ },
+ {
+  "id": "carpet",
+  "senses": [
+   "halı"
+  ],
+  "ex": [
+   "Yerde oturduk ve iskambil oynadık.",
+   "Sınıflara halı döşemek gürültüyü azaltabilir, ancak iyi hijyeni korumak için düzenli temizlik gereklidir."
+  ],
+  "col": [
+   "halı döşemek",
+   "sabit halı",
+   "halı temizliği"
+  ],
+  "tip": "carpet genellikle yere döşenen geniş halıyı; rug ise taşınabilir küçük halıyı ifade eder.",
+  "note": ""
+ }
+]

@@ -1,0 +1,277 @@
+[
+ {
+  "id": "engine",
+  "senses": [
+   "motor; makine",
+   "itici güç",
+   "çekirdek yazılım; motor"
+  ],
+  "ex": [
+   "Araba garaj yoluna geldiğimiz anda motor durdu.",
+   "Daha temiz motor teknolojisi hava kirliliğini azaltabilir; ancak sürdürülebilir kentsel ulaşım için toplu taşımayı genişletmek hâlâ şart."
+  ],
+  "col": [
+   "motoru çalıştırmak",
+   "jet motoru",
+   "arama motoru",
+   "büyümenin itici gücü"
+  ],
+  "tip": "engine genellikle yakıtlı motorlar için kullanılır. Elektrik motorları için ise genellikle motor denir.",
+  "note": ""
+ },
+ {
+  "id": "lorry",
+  "senses": [
+   "kamyon"
+  ],
+  "ex": [
+   "Bir kamyon dükkâna taze sebze teslim etti.",
+   "Yoğun saatlerde kamyon teslimatlarını kısıtlamak, kent merkezlerinde trafik sıkışıklığını azaltıp yol güvenliğini artırabilir."
+  ],
+  "col": [
+   "kamyon şoförü",
+   "teslimat kamyonu",
+   "kamyonu yüklemek"
+  ],
+  "tip": "lorry İngiliz İngilizcesinde kullanılır; Amerikan İngilizcesinde truck denir. Türkçedeki 'kamyon' her iki kullanım için de uygundur.",
+  "note": ""
+ },
+ {
+  "id": "cartoon",
+  "senses": [
+   "çizgi film",
+   "karikatür"
+  ],
+  "ex": [
+   "Dans eden bir penguen hakkında komik bir çizgi film izledik.",
+   "Siyasi karikatürler, karmaşık toplumsal eleştirileri basit görsellerle geniş bir kitleye ulaştırabilir."
+  ],
+  "col": [
+   "çizgi film karakteri",
+   "animasyon çizgi film",
+   "siyasi karikatür"
+  ],
+  "tip": "cartoon hem çizgi filmi hem tek karelik karikatürü anlatır. Çizgi roman için ise comic kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "although",
+  "senses": [
+   "her ne kadar; -e rağmen"
+  ],
+  "ex": [
+   "Yağmur yağmasına rağmen yine de eve yürüdük.",
+   "Yenilenebilir enerji başlangıçta önemli bir yatırım gerektirse de uzun vadede elektrik maliyetlerini düşürebilir."
+  ],
+  "col": [
+   "doğru olsa da",
+   "her zaman olmasa da"
+  ],
+  "tip": "although ile but aynı cümlede birlikte kullanılmaz. 'Although ... but' yapısı Türkçeden kaynaklanan yaygın bir hatadır.",
+  "note": ""
+ },
+ {
+  "id": "suppose",
+  "senses": [
+   "sanmak; tahmin etmek",
+   "varsaymak; farz etmek"
+  ],
+  "ex": [
+   "Hava sıcak kalırsa sanırım dışarıda yemek yiyebiliriz.",
+   "Diyelim ki her hane daha az elektrik kullansın; toplam talepteki düşüş çevreye önemli fayda sağlayabilir."
+  ],
+  "col": [
+   "sanırım öyle",
+   "diyelim ki",
+   "yapması gerekmek"
+  ],
+  "tip": "be supposed to beklenen veya gereken bir durumu anlatır. 'I suppose' ise kesin olmayan bir tahmin bildirir.",
+  "note": ""
+ },
+ {
+  "id": "continue",
+  "senses": [
+   "devam etmek; sürdürmek",
+   "yeniden başlamak"
+  ],
+  "ex": [
+   "Yağmura rağmen sahil boyunca yürümeye devam ettik.",
+   "Konut maliyetleri artmaya devam ederse, büyük şehirlerde daha fazla genç bağımsız yaşamakta zorlanabilir."
+  ],
+  "col": [
+   "artmaya devam etmek",
+   "çalışmaya devam etmek",
+   "tartışmaya devam etmek",
+   "planlandığı gibi sürdürmek"
+  ],
+  "tip": "continue hem to do hem de -ing yapısıyla kullanılabilir. Her iki kalıp da Türkçedeki 'devam etmek' anlamını taşır.",
+  "note": ""
+ },
+ {
+  "id": "disagree",
+  "senses": [
+   "katılmamak; karşı çıkmak",
+   "uyuşmamak; çelişmek"
+  ],
+  "ex": [
+   "Mutfağı hangi renge boyayacağımız konusunda fikirlerimiz ayrı.",
+   "Uzmanlar, ücretsiz toplu taşımanın kentsel trafiği azaltmanın en etkili yolu olup olmadığı konusunda hemfikir değil."
+  ],
+  "col": [
+   "biriyle aynı fikirde olmamak",
+   "bir konuda görüş ayrılığı yaşamak",
+   "kesinlikle katılmamak"
+  ],
+  "tip": "Birine katılmadığınızı söylemek için disagree with kullanın. Konu belirtirken about veya on tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "celebrate",
+  "senses": [
+   "kutlamak",
+   "övmek; takdir etmek"
+  ],
+  "ex": [
+   "Kızımızın mezuniyetini kutlamak için özel bir akşam yemeği hazırladık.",
+   "Topluluk festivalleri yerel gelenekleri kutlarken sakinlere komşularıyla ilişkilerini güçlendirme fırsatı sunar."
+  ],
+  "col": [
+   "doğum gününü kutlamak",
+   "başarıyı kutlamak",
+   "çeşitliliği kutlamak"
+  ],
+  "tip": "Bir olayı kutlamak için celebrate, birini tebrik etmek için congratulate kullanılır. 'Celebrate you' demeyin.",
+  "note": ""
+ },
+ {
+  "id": "awesome",
+  "senses": [
+   "harika; müthiş",
+   "etkileyici; heybetli"
+  ],
+  "ex": [
+   "Çadırımızdan görünen dağ manzarası gerçekten harikaydı.",
+   "Volkanik patlamaların etkileyici gücü, yakın topluluklar için etkili izleme sistemlerinin önemini ortaya koyar."
+  ],
+  "col": [
+   "harika bir deneyim",
+   "harika bir manzara",
+   "etkileyici güç"
+  ],
+  "tip": "awesome gündelik konuşmada çok kullanılır. Akademik yazıda ise daha belirli sıfatlar tercih edilmelidir.",
+  "note": ""
+ },
+ {
+  "id": "environmental",
+  "senses": [
+   "ekolojik; doğal çevreyle ilgili",
+   "çevresel; ortama ait"
+  ],
+  "ex": [
+   "Okulumuz nehri temizlemek için çevre odaklı bir proje düzenledi.",
+   "Hükümetler büyük inşaat projelerini onaylamadan önce yeni yolların çevresel etkisini değerlendirmelidir."
+  ],
+  "col": [
+   "çevre koruma",
+   "çevresel etki",
+   "çevresel faktörler",
+   "çevresel zarar"
+  ],
+  "tip": "environmental bir sıfattır. Çevrenin kendisi için isim olan environment kullanılır; ikisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "schedule",
+  "senses": [
+   "takvim; program",
+   "planlamak; ayarlamak"
+  ],
+  "ex": [
+   "Yoğun programım hafta içi yemek yapmak için pek vakit bırakmıyor.",
+   "Üniversiteler, öğrencilere sınavlar arasında tekrar ve dinlenme için yeterli zaman bırakacak şekilde sınavları dikkatle planlamalıdır."
+  ],
+  "col": [
+   "yoğun program",
+   "zamanında",
+   "planlanandan önce",
+   "toplantı planlamak"
+  ],
+  "tip": "Telaffuz İngiliz İngilizcesinde 'şedyul', Amerikan İngilizcesinde 'skedjul' şeklindedir. on schedule 'zamanında' demektir.",
+  "note": ""
+ },
+ {
+  "id": "arithmetic",
+  "senses": [
+   "aritmetik; hesap"
+  ],
+  "ex": [
+   "Otobüs beklerken zihinden hesap yaparak pratik yaptık.",
+   "Güçlü aritmetik becerileri genç yetişkinlerin kişisel bütçelerini yönetmesine ve bilinçli finansal kararlar almasına yardımcı olur."
+  ],
+  "col": [
+   "zihinden hesap",
+   "temel aritmetik",
+   "aritmetik becerileri"
+  ],
+  "tip": "Genellikle sayılamayan bir isimdir, başına a getirilmez. Matematiğin dar bir dalını ifade eder; geniş anlamda mathematics kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "section",
+  "senses": [
+   "bölüm; kısım",
+   "kesit",
+   "bölmek; kesmek"
+  ],
+  "ex": [
+   "Fırın bölümünde taze ekmek bulacaksınız.",
+   "Raporun son bölümü, kentsel tasarımın daha sağlıklı yaşam tarzlarını nasıl teşvik edebileceğini inceliyor."
+  ],
+  "col": [
+   "...nın bir bölümü",
+   "son bölüm",
+   "enine kesit",
+   "ayrı bölüme ayırmak"
+  ],
+  "tip": "section bağlama göre kitap bölümü, mağaza reyonu veya kesit anlamına gelebilir. Cümlenin konusuna bakarak doğru anlamı seçin.",
+  "note": ""
+ },
+ {
+  "id": "pity",
+  "senses": [
+   "acıma; merhamet",
+   "yazık; üzücü durum",
+   "acımak"
+  ],
+  "ex": [
+   "Yağmurda titreyen küçük köpeğe acıdım.",
+   "Birçok tarihi binanın kültürel değeri doğru dürüst değerlendirilmeden yıkılması yazık."
+  ],
+  "col": [
+   "birine acımak",
+   "birine merhamet etmek",
+   "ne yazık",
+   "acıma duygusu"
+  ],
+  "tip": "Acıma anlamında genellikle sayılamaz. Yazık anlamında It's a pity that kalıbı yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "rely",
+  "senses": [
+   "dayanmak; bağımlı olmak",
+   "güvenmek; bel bağlamak"
+  ],
+  "ex": [
+   "İşe gitmek için bisikletime bağımlıyım.",
+   "Turizme ağırlıklı olarak bağımlı olan topluluklar, ziyaretçi sayısı aniden düştüğünde ekonomik zorluklarla karşılaşabilir."
+  ],
+  "col": [
+   "...e dayanmak",
+   "büyük ölçüde...e dayanmak",
+   "birinin bir şey yapacağına güvenmek"
+  ],
+  "tip": "rely tek başına kullanılmaz; rely on şeklinde yazılmalıdır. Türkçedeki 'güvenmek' kalıbını doğrudan birebir çevirmeyin.",
+  "note": ""
+ }
+]

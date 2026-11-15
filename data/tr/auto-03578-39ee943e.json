@@ -1,0 +1,276 @@
+[
+ {
+  "id": "mistaken",
+  "senses": [
+   "yanılmış; yanlış"
+  ],
+  "ex": [
+   "Randevumuzun saati konusunda yanılmışım.",
+   "Tüm bakterilerin zararlı olduğu yanlış inanış, insanların onların ekolojik önemini anlamasını engelleyebilir."
+  ],
+  "col": [
+   "yanılmak",
+   "yanlış inanç",
+   "yanlış kimlik",
+   "yanılmıyorsam"
+  ],
+  "tip": "Kişi öznesiyle genellikle \"be mistaken about\" kalıbı kullanılır. \"Yanlış\" anlamında \"wrong\" ile karıştırmayın; mistaken daha çok inanç ve yargı için geçerlidir.",
+  "note": ""
+ },
+ {
+  "id": "snore",
+  "senses": [
+   "horlamak",
+   "horlama sesi"
+  ],
+  "ex": [
+   "Kardeşim o kadar yüksek sesle horluyor ki köpek odadan çıkıyor.",
+   "Düzenli horlayan kişiler, özellikle uyku sırasında nefesleri kısa süreliğine duruyorsa, tıbbi tavsiye almaktan yarar görebilir."
+  ],
+  "col": [
+   "yüksek sesle horlamak",
+   "horlamaya başlamak",
+   "yüksek bir horultu"
+  ],
+  "tip": "Fiil olarak genellikle nesnesiz kullanılır. \"Snoring\" ise horlama olgusunu ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "await",
+  "senses": [
+   "beklemek; ummak",
+   "beklemek; hazır olmak"
+  ],
+  "ex": [
+   "Yeni köpek yavrumuzun gelişini heyecanla bekliyoruz.",
+   "Pek çok mezun, gönüllü çalışmalar ve çevrim içi kurslar yoluyla ek beceriler geliştirirken iş tekliflerini bekliyor."
+  ],
+  "col": [
+   "bir karar beklemek",
+   "hevesle beklemek",
+   "onay beklemek",
+   "zorluklar bekliyor"
+  ],
+  "tip": "Resmî bir fiildir ve doğrudan nesne alır; \"await for\" yazmayın, sadece \"await\" kullanın.",
+  "note": ""
+ },
+ {
+  "id": "preceding",
+  "senses": [
+   "önceki; bir önceki"
+  ],
+  "ex": [
+   "Mülakatımdan önceki gece kötü uyudum.",
+   "Anket, hanehalkı enerji tüketiminin bir önceki yıla kıyasla önemli ölçüde azaldığını ortaya koydu."
+  ],
+  "col": [
+   "bir önceki yıl",
+   "önceki paragraf",
+   "hemen önceki dönem"
+  ],
+  "tip": "\"Preceding\" konuşulan zamandan veya şeyden önceyi anlatır; şu andan önce anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "mutual",
+  "senses": [
+   "karşılıklı; birbirine olan",
+   "ortak; müşterek"
+  ],
+  "ex": [
+   "Arkadaşlığımız karşılıklı güven ve samimi sohbetlerle gelişti.",
+   "Başarılı uluslararası iş birliği, karşılıklı saygıya ve ortak çevre sorunlarını ele almaya duyulan isteğe bağlıdır."
+  ],
+  "col": [
+   "karşılıklı saygı",
+   "karşılıklı yarar",
+   "ortak arkadaş",
+   "karşılıklı anlaşmayla"
+  ],
+  "tip": "\"Mutual friend\" ortak arkadaş demektir, birbirinin arkadaşı değil. Türkçedeki \"karşılıklı\" ile \"ortak\" anlamlarını ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "intelligence",
+  "senses": [
+   "zekâ; kavrama gücü",
+   "istihbarat"
+  ],
+  "ex": [
+   "Zekâsı bulmacayı hızla çözmesine yardımcı oldu.",
+   "Geleneksel sınavlar, zekâ, yaratıcılık veya pratik problem çözme becerilerinden çok belleği ölçebilir."
+  ],
+  "col": [
+   "yapay zekâ",
+   "duygusal zekâ",
+   "istihbarat toplamak",
+   "istihbarat teşkilatı"
+  ],
+  "tip": "Genellikle sayılamaz. \"Intelligence agency\" istihbarat teşkilatı demektir.",
+  "note": ""
+ },
+ {
+  "id": "pursuit",
+  "senses": [
+   "peşinde koşma; arayış",
+   "takip; kovalama",
+   "uğraş; hobi"
+  ],
+  "ex": [
+   "Mutluluk arayışı onu bahçecilige yöneltti.",
+   "Ekonomik büyümenin peşinde koşmak, çevrenin korunması pahasına olmamalıdır."
+  ],
+  "col": [
+   "peşinde",
+   "bilginin peşinde koşmak",
+   "boş zaman uğraşları"
+  ],
+  "tip": "Bir şeyi elde etme çabası ya da takip anlamında genellikle sayılamaz; düzenli yapılan eğlence etkinlikleri için sayılabilir.",
+  "note": ""
+ },
+ {
+  "id": "harmful",
+  "senses": [
+   "zararlı"
+  ],
+  "ex": [
+   "Doğrudan güneş ışığına fazla maruz kalmak cildiniz için zararlı olabilir.",
+   "Endüstriyel atıklara yönelik daha sıkı denetimler, su kirliliğinin yerel ekosistemler üzerindeki zararlı etkilerini azaltabilir."
+  ],
+  "col": [
+   "sağlığa zararlı",
+   "zararlı etkiler",
+   "zararlı maddeler",
+   "potansiyel olarak zararlı"
+  ],
+  "tip": "\"Zararlı olmak\" için \"harmful to\" kullanılır, \"harmful for\" değil.",
+  "note": ""
+ },
+ {
+  "id": "suite",
+  "senses": [
+   "süit; daire; oda takımı",
+   "takım; set",
+   "süit (müzik)"
+  ],
+  "ex": [
+   "Otel süitimizin denize bakan bir balkonu var.",
+   "Üniversite, öğrencilerin verileri analiz edip araştırma sunumları hazırlamasını sağlayan bir yazılım paketi sunuyor."
+  ],
+  "col": [
+   "otel süiti",
+   "yazılım paketi",
+   "üçlü koltuk takımı"
+  ],
+  "tip": "\"Sweet\" gibi okunur; \"suit\" (takım elbise) ise farklı telaffuz edilir ve anlamı farklıdır.",
+  "note": ""
+ },
+ {
+  "id": "partially",
+  "senses": [
+   "kısmen; kısmi olarak"
+  ],
+  "ex": [
+   "Perdeler kısmen açıktı ve içeri güneş ışığı giriyordu.",
+   "Geri dönüşüm atıkları kısmen azaltabilse de üretim ve tüketimdeki değişiklikler de gereklidir."
+  ],
+  "col": [
+   "kısmen açık",
+   "kısmen tamamlanmış",
+   "kısmen sorumlu"
+  ],
+  "tip": "\"Partially\" kısmen, tam olmayarak anlamına gelir; \"taraflı\" anlamına gelmediğine dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "aroma",
+  "senses": [
+   "aroma; güzel koku; buket"
+  ],
+  "ex": [
+   "Taze ekmeğin kokusu bütün mutfağı doldurdu.",
+   "Taze hazırlanmış yemeklerin aroması, müşterilerin yeme deneyimini geliştirebilir ve kaliteye dair algılarını etkileyebilir."
+  ],
+  "col": [
+   "kahvenin aroması",
+   "yoğun aroma",
+   "aroma yaymak"
+  ],
+  "tip": "Genellikle hoş kokular için kullanılır, özellikle yiyecek ve içecekler için. Olumsuz kokular için \"smell\" tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "spark",
+  "senses": [
+   "kıvılcım; elektrik kıvılcımı",
+   "tetiklemek; alevlendirmek",
+   "kıvılcım; parıltı"
+  ],
+  "ex": [
+   "Şöminenin içinden küçücük bir kıvılcım uçtu.",
+   "Halk kütüphanelerine yapılan yatırım, okuma ilgisini tetikleyebilir ve dezavantajlı çocuklara değerli öğrenme fırsatları sunabilir."
+  ],
+  "col": [
+   "bir tartışmayı alevlendirmek",
+   "ilgi uyandırmak",
+   "bir umut kıvılcımı",
+   "elektrik kıvılcımı"
+  ],
+  "tip": "Fiil olarak doğrudan \"interest\", \"debate\" gibi nesnelerle kullanılabilir ve \"uyandırmak\" anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "oar",
+  "senses": [
+   "kürek"
+  ],
+  "ex": [
+   "Bir küreği kaldırdı ve teknesini nazikçe itti.",
+   "Ziyaretçiler, yaban hayatını rahatsız etmemek için motor yerine kürek kullanarak geleneksel teknelerle gölü keşfedebilir."
+  ],
+  "col": [
+   "bir çift kürek",
+   "kürek çekmek",
+   "kürek yaprağı"
+  ],
+  "tip": "\"Oar\" genellikle teknenin kenarına bağlı küreği ifade eder; \"paddle\" ise elde tutulan kürek için kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "inland",
+  "senses": [
+   "içerideki; iç kesimlerdeki",
+   "içerilere doğru; iç kesimde"
+  ],
+  "ex": [
+   "Tepelerle çevrili sessiz bir iç kesim köyünde kaldık.",
+   "Kıyı sellerinin sıklaşmasıyla, bazı topluluklar riske maruz kalmayı azaltmak için içlere doğru taşınabilir."
+  ],
+  "col": [
+   "iç bölgeler",
+   "iç suyollar",
+   "içlere doğru taşınmak"
+  ],
+  "tip": "\"Coastal\" (kıyısal) ile zıttır. Zarf olarak kullanıldığında da genellikle ikinci heceye vurgu verilir.",
+  "note": ""
+ },
+ {
+  "id": "bankrupt",
+  "senses": [
+   "iflas etmiş; batık",
+   "iflas ettirmek",
+   "iflas etmiş kişi"
+  ],
+  "ex": [
+   "Küçük mobilya dükkânı geçen kış iflas etti.",
+   "Artan enerji maliyetleri, uzun süren tüketici talebi düşüşüyle birleşirse küçük işletmeler iflas edebilir."
+  ],
+  "col": [
+   "iflas etmek",
+   "birini iflas ettirmek",
+   "iflas etmiş şirket"
+  ],
+  "tip": "Genellikle \"go bankrupt\" kalıbı kullanılır. İsim hali \"bankruptcy\" (iflas) olarak yazılır.",
+  "note": ""
+ }
+]

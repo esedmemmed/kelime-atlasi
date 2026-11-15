@@ -1,0 +1,286 @@
+[
+ {
+  "id": "purple",
+  "senses": [
+   "mor",
+   "mor renk"
+  ],
+  "ex": [
+   "Gri paltosunun yanına mor bir atkı takmıştı.",
+   "Bahçe tasarımcıları, çarpıcı bir görsel kontrast yaratmak için sık sık mor çiçekleri sarı çeşitlerle bir arada kullanır."
+  ],
+  "col": [
+   "koyu mor",
+   "soluk mor",
+   "mor çiçekler"
+  ],
+  "tip": "purple hem sıfat hem isim olarak kullanılır. 'Biraz mor' anlamında purplish kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nine",
+  "senses": [
+   "dokuz"
+  ],
+  "ex": [
+   "Piknik için bugün dokuz elma hazırladık.",
+   "Bir ankete göre dokuz yerel okul, daha sürdürülebilir ulaşımı teşvik etmek amacıyla bisiklet dersleri başlatmış."
+  ],
+  "col": [
+   "saat dokuz",
+   "on kereden dokuzunda",
+   "dokuz ay"
+  ],
+  "tip": "Sayıdan sonra isim tekil kalır: nine apples. Sıra sayısı 'dokuzuncu' ninth'tir, 'nineth' yazılmaz.",
+  "note": ""
+ },
+ {
+  "id": "flat",
+  "senses": [
+   "daire; apartman dairesi",
+   "düz; yassı",
+   "patlak; havası inik"
+  ],
+  "ex": [
+   "Fırının hemen üstündeki küçük bir daireyi kiralıyoruz.",
+   "Toplu taşımaya yakın, uygun fiyatlı daireler inşa etmek birçok kentli çalışanın ulaşım maliyetini düşürebilir."
+  ],
+  "col": [
+   "daire kiralamak",
+   "düz yüzey",
+   "patlak lastik"
+  ],
+  "tip": "'Daire' için İngiliz İngilizcesinde flat, Amerikan İngilizcesinde apartment kullanılır. Sıfat olarak 'düz' anlamına gelir.",
+  "note": ""
+ },
+ {
+  "id": "long",
+  "senses": [
+   "uzun; süren",
+   "uzun süre; çok",
+   "özlemek; can atmak"
+  ],
+  "ex": [
+   "Uzun eşarbı neredeyse ıslak kaldırıma değiyordu.",
+   "Uzun işe gidip gelme süreleri, çalışanların boş zaman fırsatlarını azaltabilir ve genel yaşam kalitelerini olumsuz etkileyebilir."
+  ],
+  "col": [
+   "uzun bir süre",
+   "uzun çalışma saatleri",
+   "özlemek",
+   "bir şeyi yapmayı çok istemek"
+  ],
+  "tip": "long for + isim, long to + fiil kalıbı kullanılır. 'Long to' sonrasında isim değil fiil gelir.",
+  "note": ""
+ },
+ {
+  "id": "week",
+  "senses": [
+   "hafta",
+   "çalışma haftası"
+  ],
+  "ex": [
+   "Bu kitabı geçen hafta kütüphaneden ödünç aldım.",
+   "Çalışma haftasının kısaltılması, iş yükü sıkıştırılmak yerine azaltıldığı sürece çalışan refahını artırabilir."
+  ],
+  "col": [
+   "geçen hafta",
+   "haftada bir",
+   "çalışma haftası",
+   "bir haftalık izin"
+  ],
+  "tip": "last, next, this week ifadelerinin başına edat getirilmez. 'On Monday' gibi günlerde ise edat gerekir.",
+  "note": ""
+ },
+ {
+  "id": "join",
+  "senses": [
+   "katılmak; üye olmak",
+   "birleştirmek; bağlamak",
+   "buluşmak; katılmak"
+  ],
+  "ex": [
+   "Bugün öğle yemeğinde bize katılmak ister misin?",
+   "Yerel gönüllü gruplarına katılan öğrenciler, topluluklarına katkıda bulunurken pratik beceriler geliştirebilir."
+  ],
+  "col": [
+   "kulübe üye olmak",
+   "etkinliğe katılmak",
+   "güçlerini birleştirmek",
+   "bir araya gelmek"
+  ],
+  "tip": "join a club üyelik anlamındadır; join in ise bir etkinliğe katılmak demektir. 'Join us' denir, 'join to us' denmez.",
+  "note": ""
+ },
+ {
+  "id": "box",
+  "senses": [
+   "kutu",
+   "kutuya koymak; kutulamak",
+   "boks yapmak"
+  ],
+  "ex": [
+   "Yavru kedi boş bir karton kutunun içinde uyuyakalmış.",
+   "Perakendeciler, her ürünün boyutuna çok yakın bir kutu seçerek ambalaj atığını azaltabilir."
+  ],
+  "col": [
+   "karton kutu",
+   "bir kutu çikolata",
+   "kutulamak; paketlemek"
+  ],
+  "tip": "Çoğulu boxes olur. 'A box of' kalıbından sonra çoğul isim gelir: a box of chocolates.",
+  "note": ""
+ },
+ {
+  "id": "toy",
+  "senses": [
+   "oyuncak",
+   "oyalanmak; hafifçe düşünmek"
+  ],
+  "ex": [
+   "Bebek oyuncağını koltuğun arkasına düşürdü.",
+   "İyi tasarlanmış oyuncaklar, küçük çocukları yaratıcı oyun ve keşif yoluyla pratik beceriler geliştirmeye teşvik edebilir."
+  ],
+  "col": [
+   "peluş oyuncak",
+   "oyuncak araba",
+   "bir fikri hafife almak"
+  ],
+  "tip": "Fiil olarak genellikle toy with kalıbında kullanılır. Toy with an idea, fikri ciddiye almadan düşünmek demektir.",
+  "note": ""
+ },
+ {
+  "id": "chinese",
+  "senses": [
+   "Çin'e ait; Çinli",
+   "Çince",
+   "Çinli"
+  ],
+  "ex": [
+   "Dün küçük bir restoranda Çin mantısı yedik.",
+   "Çince öğrenmek, uluslararası öğrencilerin Çin'deki kültürel geleneklere dair daha derin bir anlayış geliştirmesine yardımcı olabilir."
+  ],
+  "col": [
+   "Çin kültürü",
+   "Çince öğrenmek",
+   "Çince karakterler",
+   "Çin mutfağı"
+  ],
+  "tip": "Dil, halk ve sıfat olarak her zaman büyük harfle yazılır. Tek bir Çinli kişi için a Chinese person denir.",
+  "note": ""
+ },
+ {
+  "id": "evening",
+  "senses": [
+   "akşam"
+  ],
+  "ex": [
+   "Akşamı yemek pişirerek ve müzik dinleyerek geçirdik.",
+   "Akşam kursları, çalışan yetişkinlerin mevcut işlerinden ayrılmadan yeni yeterlilikler kazanmasına olanak tanır."
+  ],
+  "col": [
+   "akşamleyin",
+   "bu akşam",
+   "akşam kursları",
+   "akşamın erken saatleri"
+  ],
+  "tip": "Genel anlamda 'akşamleyin' için in the evening denir. this evening ('bu akşam') ise başına edat almaz.",
+  "note": ""
+ },
+ {
+  "id": "parent",
+  "senses": [
+   "ebeveyn; anne ya da baba",
+   "ana şirket",
+   "yetiştirmek; büyütmek"
+  ],
+  "ex": [
+   "Her veli okul pikniği için bir atıştırmalık getirdi.",
+   "Okullar, aile desteğinin çocukların öğrenmesinde önemli rol oynadığı için eğitim kararlarına velileri dahil etmelidir."
+  ],
+  "col": [
+   "tek ebeveyn",
+   "çalışan ebeveynler",
+   "ana şirket",
+   "veli katılımı"
+  ],
+  "tip": "parent tek bir ebeveyni, parents ise genellikle anne ve babayı birlikte ifade eder.",
+  "note": ""
+ },
+ {
+  "id": "cent",
+  "senses": [
+   "sent; kuruş",
+   "bir sentlik madeni para"
+  ],
+  "ex": [
+   "Koltuk minderinin altında bir sent buldum.",
+   "Düşük gelirli haneler için temel mallarda tasarruf edilen her kuruş, daha büyük mali güvenliğe katkı sağlayabilir."
+  ],
+  "col": [
+   "her kuruş",
+   "tek kuruş bile",
+   "elli sentlik madeni para"
+  ],
+  "tip": "cent sayılabilir bir isimdir. Birden fazla için cents kullanılır: five cents.",
+  "note": ""
+ },
+ {
+  "id": "light",
+  "senses": [
+   "ışık; lamba",
+   "hafif; açık renkli",
+   "yakmak; aydınlatmak"
+  ],
+  "ex": [
+   "Perdelerin arasından yatak odamıza sıcak bir ışık giriyordu.",
+   "Sınıflarda doğal ışığa erişim, öğrencilerin dikkatini artırabilir ve elektrik tüketimini azaltabilir."
+  ],
+  "col": [
+   "doğal ışık",
+   "lambayı açmak",
+   "mum yakmak",
+   "hafif bagaj"
+  ],
+  "tip": "Işık genelde sayılamaz; tek bir lamba için a light denir. Fiilin geçmiş zamanı çoğunlukla lit olur.",
+  "note": ""
+ },
+ {
+  "id": "sure",
+  "senses": [
+   "emin; kesin",
+   "kesin; mutlaka olacak",
+   "tabii; kesinlikle"
+  ],
+  "ex": [
+   "Anahtarlarını burada bıraktığından emin misin?",
+   "Hükümetler, kırsal toplulukların temel sağlık hizmetlerine güvenilir biçimde erişebilmesini sağlamalıdır."
+  ],
+  "col": [
+   "emin olmak; sağlamak",
+   "bir şeyden emin olmak",
+   "mutlaka yapmak",
+   "kesinlikle"
+  ],
+  "tip": "be sure of + isim 'bir şeyden emin olmak', be sure to + fiil 'mutlaka yapmak' demektir. Bu kalıpları karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "wall",
+  "senses": [
+   "duvar",
+   "duvarla çevirmek; ayırmak"
+  ],
+  "ex": [
+   "Mutfak duvarına renkli bir tablo astık.",
+   "Bitkilerle kaplı yeşil duvarlar, kalabalık kentsel alanlarda hava kalitesini artırabilir ve ısıyı azaltabilir."
+  ],
+  "col": [
+   "taş duvar",
+   "çevre duvarı",
+   "duvarla ayırmak"
+  ],
+  "tip": "Bir şey duvarın üzerinde asılıysa on the wall, duvarın içine gömülüyse in the wall kullanılır.",
+  "note": ""
+ }
+]

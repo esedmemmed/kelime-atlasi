@@ -1,0 +1,263 @@
+[
+ {
+  "id": "mercury",
+  "senses": [
+   "civa"
+  ],
+  "ex": [
+   "Bu eski termometrede civa bulunduğu için onu dikkatli tutun.",
+   "Endüstriyel civa kirliliği balıklarda birikebilir ve insan sağlığı için ciddi riskler oluşturabilir."
+  ],
+  "col": [
+   "civa zehirlenmesi",
+   "civa kirliliği",
+   "civalı termometre"
+  ],
+  "tip": "'Mercury' sayılamayan bir isimdir. Büyük harfle 'Mercury' ise gezegen Merkür'ü anlatır. Türkçede doğru yazım 'civa'dır.",
+  "note": ""
+ },
+ {
+  "id": "craze",
+  "senses": [
+   "çılgınlık; moda"
+  ],
+  "ex": [
+   "En son dans furyası, partilerde herkesi harekete geçiriyor.",
+   "Sosyal medya, yerel bir modayı çok kısa sürede küresel bir çılgınlığa dönüştürebilir."
+  ],
+  "col": [
+   "son çılgınlık",
+   "bir şeye karşı heves",
+   "fitness çılgınlığı"
+  ],
+  "tip": "Kısa süreli ama yoğun bir ilgiyi anlatır. 'A craze for' kalıbıyla bir şeye duyulan heves ifade edilir.",
+  "note": ""
+ },
+ {
+  "id": "infantry",
+  "senses": [
+   "piyade; piyade birliği"
+  ],
+  "ex": [
+   "Piyade birlikleri bu sabah erken saatlerde köyümüzün önünden geçti.",
+   "Askeri teknoloji önemli ölçüde değişmiş olsa da piyade birlikleri birçok ülkenin savunma güçlerinde hâlâ önemli bir rol oynuyor."
+  ],
+  "col": [
+   "piyade birliği",
+   "piyade tümeni",
+   "piyade eğitimi"
+  ],
+  "tip": "Askerlerin bütününü ifade eden toplu bir isimdir. Tek bir askeri anlatmak için 'infantryman' kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "nicety",
+  "senses": [
+   "ince ayrıntı; incelik",
+   "görgü kuralı; nezaket"
+  ],
+  "ex": [
+   "Resmi yemek adabının inceliklerini hâlâ öğreniyorum.",
+   "Uluslararası anlaşmaları çevirirken ticareti ve çevre korumasını etkileyen hukuki dilin inceliklerini anlamak çok önemlidir."
+  ],
+  "col": [
+   "...nin incelikleri",
+   "sosyal görgü kuralları",
+   "hukuki incelikler",
+   "tam olarak; hassasca"
+  ],
+  "tip": "Genellikle çoğul 'niceties' biçiminde kullanılır. 'Nice' (güzel) kelimesiyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "intimation",
+  "senses": [
+   "ima; işaret"
+  ],
+  "ex": [
+   "Ani sessizliği bize bir sorun olabileceğine dair bir ipucu verdi.",
+   "Bakanın açıklamaları, toplu taşımaya ayrılan fonun artabileceğine dair ilk işareti verdi."
+  ],
+  "col": [
+   "bir sorunun işareti",
+   "ilk işaret",
+   "ipucu vermek"
+  ],
+  "tip": "'Intimacy' (yakınlık) ile karıştırılmamalıdır. Genellikle 'of' ya da 'that' ile birlikte kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "characteristical",
+  "senses": [
+   "karakteristik; ayırt edici"
+  ],
+  "ex": [
+   "Eski rehber, köyün karakteristik taş evlerini anlatıyor.",
+   "Tarihi anlatı, yerel taş ve dik çatılar da dahil olmak üzere kırsal mimarinin ayırt edici özelliklerini vurguluyor."
+  ],
+  "col": [
+   "ayırt edici özellikler",
+   "ayırt edici nitelikler"
+  ],
+  "tip": "Nadir kullanılan eski bir biçimdir. Modern İngilizcede 'characteristic' tercih edilir.",
+  "note": "Nadir kullanılan eski bir sıfat biçimi; modern İngilizcede genellikle 'characteristic' tercih edilir."
+ },
+ {
+  "id": "adjudicate",
+  "senses": [
+   "karara bağlamak",
+   "hakemlik yapmak"
+  ],
+  "ex": [
+   "Bağımsız bir uzman, tamir işiyle ilgili anlaşmazlığımızı karara bağlayacak.",
+   "Tüketiciler ile işletmeler arasındaki şikayetlerin adil ve tutarlı biçimde ele alınması için bağımsız kurumlar uyuşmazlıkları karara bağlamalıdır."
+  ],
+  "col": [
+   "bir uyuşmazlığı karara bağlamak",
+   "bir talep hakkında karar vermek",
+   "bir yarışmada hakemlik yapmak"
+  ],
+  "tip": "Doğrudan uyuşmazlıkla kullanılabilir, 'adjudicate on' kalıbı da vardır. Ceza verme anlamı taşımaz.",
+  "note": ""
+ },
+ {
+  "id": "hotelling",
+  "senses": [
+   "masa rezervasyonu sistemi"
+  ],
+  "ex": [
+   "Hotelling sistemiyle işe gelmeden önce bir masa ayırtıyorum.",
+   "Hotelling ofis maliyetlerini düşürebilir, ancak çalışanlar eşyaları için kalıcı bir alana sahip olmanın avantajından yoksun kalabilir."
+  ],
+  "col": [
+   "ofis masası rezervasyonu",
+   "hotelling sistemi",
+   "masa paylaşımı"
+  ],
+  "tip": "Ofiste önceden rezervasyonla kullanılan paylaşımlı masayı anlatır. 'Hotel industry' (otel endüstrisi) ile karıştırılmamalıdır.",
+  "note": "Gerçek bir kelime; 'hoteling' yazımıyla da geçer. Modern anlamı ofis masası rezervasyon sistemidir, otel işletmeciliği değildir."
+ },
+ {
+  "id": "pervade",
+  "senses": [
+   "yayılmak; sinmek"
+  ],
+  "ex": [
+   "Taze ekmeğin kokusu mutfağın her köşesine yayıldı.",
+   "Dijital teknoloji artık günlük hayatın her alanına nüfuz ediyor; insanların iletişim kurma, öğrenme ve kamu hizmetlerine erişme biçimini değiştiriyor."
+  ],
+  "col": [
+   "topluma yayılmak",
+   "havaya sinmek",
+   "bir huzursuzluk hissi yayılmak"
+  ],
+  "tip": "Geçişli bir fiildir. Yer ya da alan adı doğrudan nesne olarak gelir, arasına edat konmaz.",
+  "note": ""
+ },
+ {
+  "id": "aforesaid",
+  "senses": [
+   "yukarıda belirtilen; adı geçen"
+  ],
+  "ex": [
+   "Sözleşme, belirtilen ücreti ödememiz gerektiğini söylüyor.",
+   "Konseyin korunan bölgede herhangi bir yapılaşmayı onaylayabilmesi için yukarıda belirtilen koşulların yerine getirilmesi gerekiyor."
+  ],
+  "col": [
+   "yukarıda belirtilen koşullar",
+   "adı geçen sözleşme",
+   "söz konusu mülk"
+  ],
+  "tip": "Hukuki ve resmi metinlerde kullanılır, genellikle isimden önce gelir. Günlük konuşmada 'mentioned above' yeterlidir.",
+  "note": ""
+ },
+ {
+  "id": "loath",
+  "senses": [
+   "isteksiz; gönülsüz"
+  ],
+  "ex": [
+   "Sıcak mutfaktan ayrılmak istemiyordum.",
+   "Birçok sakin, mahallelerinin karakterini yok edebilecek yeniden geliştirme projelerini desteklemeye isteksizdir."
+  ],
+  "col": [
+   "kabul etmekte isteksiz olmak",
+   "ayrılmaya gönülsüz olmak",
+   "kabullenmeye isteksiz olmak"
+  ],
+  "tip": "Genellikle 'be loath to do' kalıbında kullanılır. 'Loathe' (nefret etmek) fiiliyle karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "antecedent",
+  "senses": [
+   "öncül; öncü örnek",
+   "öncül sözcük",
+   "önceki; öncül"
+  ],
+  "ex": [
+   "Bu basit ahşap alet, modern makinelerin bir öncüsüdür.",
+   "Araştırmacılar, bazı toplulukların neden dezavantajlı kaldığını anlamak için kentsel eşitsizliğin tarihsel öncüllerini inceliyor."
+  ],
+  "col": [
+   "tarihsel öncüller",
+   "önceki koşullar",
+   "bir zamirin öncül sözcüğü"
+  ],
+  "tip": "Dilbilgisinde zamirin gönderme yaptığı önceki sözcüğü anlatır. Doğrudan 'ata' anlamıyla eşleştirilmemelidir.",
+  "note": ""
+ },
+ {
+  "id": "plumb",
+  "senses": [
+   "derinlemesine araştırmak",
+   "derinliğini ölçmek",
+   "şakül"
+  ],
+  "ex": [
+   "Belgesel, derin okyanusun gizemlerini araştırıyor.",
+   "Ayrıntılı görüşmeler yoluyla araştırmacılar, yerel kurumlara olan güvenin azalmasının nedenlerini derinlemesine araştırmaya çalıştı."
+  ],
+  "col": [
+   "bir şeyin derinliklerine inmek",
+   "şakül ipi",
+   "şakül ağırlığı"
+  ],
+  "tip": "Sondaki 'b' harfi okunmaz (/plʌm/). 'Plumb the depths' kalıbı genellikle mecazi bir anlatımla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "unaccommodating",
+  "senses": [
+   "esnemeyen; yardımcı olmayan"
+  ],
+  "ex": [
+   "Yardımsever olmayan ev sahibi fazladan bir sandalye vermeyi reddetti.",
+   "Esnek olmayan işverenler, aile sorumluluklarını yönetmek için esnek çalışma saatlerine ihtiyaç duyan nitelikli çalışanları elinde tutmakta zorlanabilir."
+  ],
+  "col": [
+   "uzlaşmaz bir tutum",
+   "uzlaşmaz bir işveren"
+  ],
+  "tip": "Başkalarına yardım etmek ya da onların ihtiyaçlarına uyum sağlamak istememeyi anlatır. 'Accommodation' (konaklama) ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "manifold",
+  "senses": [
+   "çok sayıda; çeşitli",
+   "manifold; kolektör"
+  ],
+  "ex": [
+   "Kendi sebzelerinizi yetiştirmenin faydaları çok çeşitlidir.",
+   "Kentsel büyümenin çok yönlü zorlukları, yerel yönetimler, işletmeler ve sakinler arasında iş birliği gerektiriyor."
+  ],
+  "col": [
+   "çok çeşitli faydalar",
+   "çok yönlü zorluklar",
+   "egzoz manifoldu"
+  ],
+  "tip": "Sıfat olarak resmi bir kullanımdır, genellikle 'benefits' ya da 'challenges' gibi çoğul isimlerle gelir. 'Manifest' (açık, belirgin) ile karıştırılmamalıdır.",
+  "note": ""
+ }
+]

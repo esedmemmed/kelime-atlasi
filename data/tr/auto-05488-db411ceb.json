@@ -1,0 +1,270 @@
+[
+ {
+  "id": "snout",
+  "senses": [
+   "hayvanın burnu; hortum"
+  ],
+  "ex": [
+   "Domuz, ahşap çitin arasından burnunu zorla geçirdi.",
+   "Domuzun hassas burnu, toprağın altındaki yiyeceği bulmasına yardımcı olur ve doğal yiyecek arama davranışını destekler."
+  ],
+  "col": [
+   "domuzun burnu",
+   "uzun burun",
+   "sivri burun"
+  ],
+  "tip": "Sadece domuzlar için değil, diğer hayvanların dışa doğru çıkıntılı burun-ağız kısmı için de kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "holocaust",
+  "senses": [
+   "büyük yıkım; kıyım",
+   "Holokost; toplu katliam"
+  ],
+  "ex": [
+   "Film, nükleer bir kıyımdan kaçmaya çalışan bir aileyi konu alıyor.",
+   "Öğrencilere Holokost'u öğretmek, önyargı, ayrımcılık ve insan hakları üzerine eleştirel düşünmeyi teşvik edebilir."
+  ],
+  "col": [
+   "nükleer kıyım",
+   "Holokost sağ kalanları",
+   "Holokost anması"
+  ],
+  "tip": "Nazi soykırımını ifade ederken the Holocaust biçiminde ve büyük harfle yazılır. Genel büyük yıkımlar için küçük harfli holocaust kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "transformation",
+  "senses": [
+   "tam değişim; dönüşüm"
+  ],
+  "ex": [
+   "Tozlu tavan arası, sıcak bir yatak odasına dönüştürüldü.",
+   "Yenilenebilir enerjiye yapılan yatırım, sanayi bölgelerinin sürdürülebilir üretim merkezlerine dönüşümünü hızlandırabilir."
+  ],
+  "col": [
+   "bir dönüşüm geçirmek",
+   "çarpıcı bir değişim",
+   "dijital dönüşüm",
+   "...e dönüşüm"
+  ],
+  "tip": "A'dan B'ye dönüşüm için transformation from A into B kalıbı kullanılır. 'into' edatını unutmayın.",
+  "note": ""
+ },
+ {
+  "id": "deficient",
+  "senses": [
+   "yetersiz; eksik",
+   "kusurlu; noksan"
+  ],
+  "ex": [
+   "Doktor, beslenmemde demir eksikliği olduğunu söyledi.",
+   "Sağlık hizmetleri yetersiz olan topluluklar, hastalıkların önlenmesi ve yaşlı sakinlere destek olunmasında daha büyük zorluklarla karşılaşır."
+  ],
+  "col": [
+   "demir bakımından yetersiz",
+   "besin açısından eksik",
+   "temel besinlerden yoksun"
+  ],
+  "tip": "Bir şeyin eksikliğini be deficient in kalıbıyla söyleyin. Türkçedeki 'eksik' sözcüğünü birebir çevirirken bu kalıba dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "envision",
+  "senses": [
+   "hayal etmek; öngörmek"
+  ],
+  "ex": [
+   "Yeni evimizin arkasında küçük bir bahçe hayal ediyorum.",
+   "Kentsel planlamacılar, çoğu sakinin temel hizmetlere yaya olarak ulaşabildiği bir gelecek öngörüyor."
+  ],
+  "col": [
+   "bir gelecek hayal etmek",
+   "bir şey yapmayı hayal etmek",
+   "bir dünya tasavvur etmek"
+  ],
+  "tip": "Arkasından isim veya -ing almalı; to ile kullanılmaz: envision doing, envision to do değil.",
+  "note": ""
+ },
+ {
+  "id": "prosecutor",
+  "senses": [
+   "savcı; kamu davacısı"
+  ],
+  "ex": [
+   "Savcı, tanığa kayıp bisiklet hakkında sorular sordu.",
+   "Bağımsız bir savcı, ceza davalarının uygunsuz siyasi müdahale olmadan adil biçimde yürütülmesine yardımcı olabilir."
+  ],
+  "col": [
+   "kamu savcısı",
+   "baş savcı",
+   "davayı yürüten savcı"
+  ],
+  "tip": "Savcı suçlamayı yönetir; karar veren hâkim değildir. Türkçede 'savcı' ile 'avukat' karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "preoccupy",
+  "senses": [
+   "aklını meşgul etmek"
+  ],
+  "ex": [
+   "Yarınki mülakatla ilgili düşünceler akşam yemeği boyunca onu meşgul etti.",
+   "Konut maliyetleri hakkındaki kaygılar, genç yetişkinlerin zihnini giderek daha çok meşgul ediyor ve kariyer ile aile planlarını etkiliyor."
+  ],
+  "col": [
+   "işle meşgul olmak",
+   "birinin aklını meşgul etmek"
+  ],
+  "tip": "Genellikle be preoccupied with kalıbında kullanılır. Burada 'meşgul' zihinsel bir meşguliyeti, yani aklın bir şeye takılmasını anlatır.",
+  "note": ""
+ },
+ {
+  "id": "temporal",
+  "senses": [
+   "zamansal; zamanla ilgili",
+   "dünyevi; dünyasal",
+   "şakağa ait"
+  ],
+  "ex": [
+   "Aile fotoğraflarını zaman sırasına göre düzenledik.",
+   "Elektrik talebindeki zamansal örüntüleri anlamak, şehirlerin enerji arzını daha verimli yönetmesine yardımcı olabilir."
+  ],
+  "col": [
+   "zaman sırası",
+   "zamansal değişim",
+   "dünyevi iktidar",
+   "şakak lobu"
+  ],
+  "tip": "temporal 'zamansal' demektir; 'geçici' anlamındaki temporary ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "vice",
+  "senses": [
+   "kötü alışkanlık; kusur",
+   "mengene"
+  ],
+  "ex": [
+   "Aşırı çikolata yemek benim tek kötü alışkanlığım.",
+   "Aşırı tüketim, bazen toplumsal baskıların sonucu değil, kişisel bir kusur olarak görülür."
+  ],
+  "col": [
+   "küçük bir kötü alışkanlık",
+   "kötülük ve erdem",
+   "tezgâh mengenesi"
+  ],
+  "tip": "Mengene anlamında ABD İngilizcesinde vise yazılır. 'Vice-' ön eki (vice-president gibi) ayrı bir sözcük değil, ünvanlarda kullanılan bir ön ektir.",
+  "note": ""
+ },
+ {
+  "id": "erection",
+  "senses": [
+   "inşa; dikme",
+   "ereksiyon; dikleşme"
+  ],
+  "ex": [
+   "Bahçe kulübemizin dikilmesi bütün öğleden sonrayı aldı.",
+   "Geçici sel bariyerlerinin kurulması, kalıcı savunmalar inşa edilirken savunmasız evleri koruyabilir."
+  ],
+  "col": [
+   "iskele kurma",
+   "anıt dikimi",
+   "çelik montajı"
+  ],
+  "tip": "İnşa anlamı resmi bir kullanımdır ve genellikle of ile gelir. Cinsel anlamı da olduğundan bağlama dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "erosion",
+  "senses": [
+   "erozyon; aşınma",
+   "yavaş aşınma; kayıp"
+  ],
+  "ex": [
+   "Şiddetli yağmur, çamurlu nehir kıyısında erozyona yol açtı.",
+   "Ağaç dikmek toprak erozyonunu azaltabilir; çünkü kökler şiddetli yağış sırasında toprağı bir arada tutar."
+  ],
+  "col": [
+   "toprak erozyonu",
+   "kıyı erozyonu",
+   "erozyonu önlemek",
+   "güvenin aşınması"
+  ],
+  "tip": "Genellikle sayılamaz isimdir. Güven ve hakların zamanla azalması için mecazi olarak da kullanılır: erosion of trust.",
+  "note": ""
+ },
+ {
+  "id": "tack",
+  "senses": [
+   "raptiye; başlıklı çivi",
+   "çivilemek; tutturmak",
+   "yaklaşım; strateji"
+  ],
+  "ex": [
+   "Gevşek kumaşı sabitlemek için bir raptiye kullandım.",
+   "Halka açık kampanyalar davranışı değiştiremediğinde, politika yapıcılar farklı bir yaklaşım benimsemek zorunda kalabilir."
+  ],
+  "col": [
+   "bir raptiye çakmak",
+   "bir şeyi çivilemek",
+   "farklı bir yaklaşım benimsemek",
+   "yaklaşım değiştirmek"
+  ],
+  "tip": "'Yaklaşım' anlamında tack; 'yola girmek' anlamındaki on track ile karıştırılmamalıdır.",
+  "note": ""
+ },
+ {
+  "id": "ultrasound",
+  "senses": [
+   "ultrason",
+   "ultrasonografi"
+  ],
+  "ex": [
+   "Doktor omzumu incelemek için ultrason kullandı.",
+   "Ultrason, hastaları geleneksel röntgenlerde kullanılan radyasyona maruz bırakmadan iç organların incelenmesine olanak tanır."
+  ],
+  "col": [
+   "ultrason taraması",
+   "ultrason görüntüleme",
+   "ultrason dalgaları"
+  ],
+  "tip": "Ses olarak sayılamaz; bir muayene için 'an ultrasound' denir. Türkçede 'ultrason' ve 'ultrasonografi' farkını bilmek yararlıdır.",
+  "note": ""
+ },
+ {
+  "id": "construe",
+  "senses": [
+   "yorumlamak; anlamak"
+  ],
+  "ex": [
+   "Sessizliğimi ilgisizlik olarak yorumlamayın, lütfen.",
+   "Yerel sakinlere danışılmaması, kentsel gelişimle ilgili kaygılarının önemsenmemesi olarak yorumlanabilir."
+  ],
+  "col": [
+   "bir şey olarak yorumlamak",
+   "eleştiri olarak yorumlanmak",
+   "dar anlamda yorumlamak"
+  ],
+  "tip": "construe A as B kalıbıyla 'A'yı B olarak anlamak' demektir. Resmi metinlerde sık görülür.",
+  "note": ""
+ },
+ {
+  "id": "remuneration",
+  "senses": [
+   "ücret; ödeme"
+  ],
+  "ex": [
+   "İş, esnek saatler sunuyor ama ücreti mütevazı.",
+   "Adil bir ücret, kamu hastanelerinin nitelikli hemşireleri çekmesine ve deneyimli personeli zamanla elde tutmasına yardımcı olabilir."
+  ],
+  "col": [
+   "adil ücret",
+   "ücret paketi",
+   "hizmet karşılığı ödeme"
+  ],
+  "tip": "Resmi bir sözcüktür ve genellikle sayılamaz. İş karşılığı yapılan ödemeyi ifade eder; tazminat anlamında değildir.",
+  "note": ""
+ }
+]

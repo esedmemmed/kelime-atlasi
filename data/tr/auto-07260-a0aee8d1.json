@@ -1,0 +1,89 @@
+[
+ {
+  "id": "harangue",
+  "senses": [
+   "uzun ve sert nutuk; azarlama",
+   "uzun uzun azarlamak; söylenmek"
+  ],
+  "ex": [
+   "Bulaşıklar hakkındaki uzun azarlaması sakin kahvaltımızı mahvetti.",
+   "Uzun bir nutuk, kamu harcamaları hakkında yapıcı tartışma bekleyen vatandaşları ikna etmekte pek başarılı olmaz."
+  ],
+  "col": [
+   "uzun bir nutuk",
+   "uzun bir nutka girişmek",
+   "birini bir konuda azarlamak"
+  ],
+  "tip": "Olumsuz anlam taşır; sıradan bir konuşma değil, uzun ve öfkeli bir azarlamayı ifade eder. Türkçedeki 'nutuk' kelimesi genelde olumsuz çağrışım yapmaz, dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "hoe",
+  "senses": [
+   "çapalamak; yabani otları temizlemek",
+   "çapa; kazma"
+  ],
+  "ex": [
+   "Fasulye ekmeden önce sebze bahçesini çapaladık.",
+   "Ekin sıraları arasında çapa yapan çiftçiler, yabani otları kontrol edebilir ve kimyasal herbisitlere bağımlılıklarını azaltabilir."
+  ],
+  "col": [
+   "toprağı çapalamak",
+   "yabani otları çapalamak",
+   "bahçe çapası"
+  ],
+  "tip": "Hem fiil hem isim olarak kullanılır. Ing-form 'hoeing' şeklindedir; Türkçedeki 'çapa' isminden ayırt edin.",
+  "note": ""
+ },
+ {
+  "id": "hereof",
+  "senses": [
+   "bunun; bu belgenin"
+  ],
+  "ex": [
+   "Kira sözleşmemizde şu yazıyor: \"Kayıtlarınız için bunun bir kopyasını saklayın.\"",
+   "Konut sözleşmesi, bunun hükümlerinin binadaki tüm kiracılar için eşit biçimde geçerli olduğunu belirtir."
+  ],
+  "col": [
+   "bunun hükümleri",
+   "bunun bir kopyası",
+   "bunun şartları"
+  ],
+  "tip": "Hukuki ve resmi metinlerde kullanılan bir kelimedir; 'of this' anlamına gelir, 'burada' (here) anlamına gelmez.",
+  "note": ""
+ },
+ {
+  "id": "deliverance",
+  "senses": [
+   "kurtuluş; kurtarılma"
+  ],
+  "ex": [
+   "Kurtarma botu, yükselen sudan kurtuluş getirdi.",
+   "Tecrit edilmiş topluluklar için acil yardım malzemelerinin gelişi, uzun süren açlık ve sıkıntıdan bir kurtuluş anlamına gelebilir."
+  ],
+  "col": [
+   "tehlikeden kurtuluş",
+   "kurtuluş için dua etmek",
+   "kurtuluş getirmek"
+  ],
+  "tip": "Daha resmi bir kelimedir; genellikle edebi veya dini bağlamda görülür ve çoğunlukla 'from' edatıyla kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "mariner",
+  "senses": [
+   "denizci; gemici"
+  ],
+  "ex": [
+   "Deneyimli denizci teknemizi güvenle limana yönlendirdi.",
+   "Modern seyrüsefer sistemleri var olmadan önce denizciler konumlarını belirlemek için yıldızlara ve kıyı işaretlerine güvenirdi."
+  ],
+  "col": [
+   "deneyimli bir denizci",
+   "tüccar denizci",
+   "kaptan denizci"
+  ],
+  "tip": "'Sailor'dan daha resmi bir kelimedir; denizcilik veya tarihsel bağlamlarda sıkça kullanılır.",
+  "note": ""
+ }
+]

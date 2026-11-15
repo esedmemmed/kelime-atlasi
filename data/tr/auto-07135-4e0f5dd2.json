@@ -1,0 +1,258 @@
+[
+ {
+  "id": "idiosyncrasy",
+  "senses": [
+   "kendine özgü huy; tuhaflık"
+  ],
+  "ex": [
+   "Onun tuhaf huylarından biri çorapları renklerine göre ayırmasıdır.",
+   "Etkili öğretmenler bireysel farklılıkları fark eder ve öğrencilerin kişiliklerini ifade etmesini engellemeden yöntemlerini uyarlar."
+  ],
+  "col": [
+   "kişisel tuhaflıklar",
+   "bireysel tuhaflıklar",
+   "dilsel özellikler"
+  ],
+  "tip": "Çoğulu idiosyncrasies. Türkçedeki 'tuhaflık'tan farklı olarak çoğunlukla nötr ya da hoş bir kişisel özelliği anlatır.",
+  "note": ""
+ },
+ {
+  "id": "strife",
+  "senses": [
+   "çatışma; anlaşmazlık"
+  ],
+  "ex": [
+   "Para yüzünden aile içinde sürekli çatışma yaşandı.",
+   "Topluluklar fırsatlardan dışlandığını hissettiğinde ekonomik eşitsizlik toplumsal çatışmaları körükleyebilir."
+  ],
+  "col": [
+   "toplumsal çatışma",
+   "iç çatışma",
+   "işçi-işveren çatışması"
+  ],
+  "tip": "Sayılamayan isimdir; 'a strife' ya da 'strifes' denmez. Resmi bir kelimedir; sıradan tartışmalar için 'argument' kullanın.",
+  "note": ""
+ },
+ {
+  "id": "averagely",
+  "senses": [
+   "orta derecede; ortalama"
+  ],
+  "ex": [
+   "Takım ortalama bir oyun oynadı ama yine de maçı kazandı.",
+   "Sınavlarda ortalama performans gösteren öğrenciler, uygulamalı sınıf projeleriyle yine de dikkate değer bir yaratıcılık sergileyebilir."
+  ],
+  "col": [
+   "ortalama performans göstermek",
+   "ortalama yetenekli"
+  ],
+  "tip": "Nadir kullanılan bir kelimedir. 'Ortalama olarak' anlamında genellikle 'on average' tercih edilir.",
+  "note": ""
+ },
+ {
+  "id": "throng",
+  "senses": [
+   "kalabalık; izdiham",
+   "üşüşmek; akın etmek"
+  ],
+  "ex": [
+   "Çıkışa ulaşmak için kalabalığın arasından itip kakarak ilerledik.",
+   "Yoğun turizm sezonunda ziyaretçi kalabalıkları tarihi alanlar üzerinde ciddi bir baskı oluşturabilir."
+  ],
+  "col": [
+   "bir insan kalabalığı",
+   "turist kalabalıkları",
+   "sokakları doldurmak"
+  ],
+  "tip": "'a throng of' ardından çoğul isim gelir. Biçimsel bir kelimedir; günlük konuşmada 'crowd' daha yaygındır.",
+  "note": ""
+ },
+ {
+  "id": "pyrite",
+  "senses": [
+   "pirit; demir pirit"
+  ],
+  "ex": [
+   "Küçük pirit parçası avucunda parıldıyordu.",
+   "Pirit altına benzese de kimyasal bileşimi ve ticari değeri altından oldukça farklıdır."
+  ],
+  "col": [
+   "pirit kristalleri",
+   "pirit yatakları",
+   "demir pirit"
+  ],
+  "tip": "Görünüşü altına benzediği için İngilizcede 'fool's gold' (aptal altını) diye de anılır.",
+  "note": ""
+ },
+ {
+  "id": "plunder",
+  "senses": [
+   "yağmalamak; talan etmek",
+   "yağma; ganimet"
+  ],
+  "ex": [
+   "Korsanlar gemiyi yağmaladı ve gümüşlerini aldı.",
+   "İşgalci orduler sık sık tarihi alanları yağmalayarak etkilenen toplulukların kültürel mirasına kalıcı zarar verir."
+  ],
+  "col": [
+   "bir kenti yağmalamak",
+   "kaynakları talan etmek",
+   "çalınmış ganimet"
+  ],
+  "tip": "Genellikle savaş sırasındaki yağmayı anlatır; kaynakların aşırı sömürülmesi için de kullanılabilir.",
+  "note": ""
+ },
+ {
+  "id": "sclerosis",
+  "senses": [
+   "skleroz; sertleşme"
+  ],
+  "ex": [
+   "Uzman, sklerozun vücut dokusunun sertleşmesini içerdiğini açıkladı.",
+   "Multipl skleroz merkezi sinir sistemini etkiler ve belirtileri kişiden kişiye önemli ölçüde değişebilir."
+  ],
+  "col": [
+   "multipl skleroz",
+   "doku sertleşmesi"
+  ],
+  "tip": "Tıbbi bir terimdir. 'multiple sclerosis' Türkçede 'multipl skleroz' olarak kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "idyll",
+  "senses": [
+   "huzurlu köşe; kır cenneti",
+   "pastoral şiir; kır şiiri"
+  ],
+  "ex": [
+   "Gürültülü inşaatçılar gelince yaz tatilimizdeki huzurlu dönem sona erdi.",
+   "Turizm kampanyalarında betimlenen kır cenneti, çiftçi topluluklarının yaşadığı ekonomik zorlukları sıklıkla gözden kaçırır."
+  ],
+  "col": [
+   "kırsal huzur",
+   "yaz tatili cenneti",
+   "pastoral huzur"
+  ],
+  "tip": "Hem huzurlu kırsal yaşam hem de kır yaşamını anlatan kısa şiir anlamında kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "urbane",
+  "senses": [
+   "kibar; incelikli"
+  ],
+  "ex": [
+   "Nazik ev sahibimiz herkesi sıcak bir gülümsemeyle karşıladı.",
+   "Kibar bir tavır diplomatların güven kazanmasına yardımcı olabilir, ancak başarılı müzakereler de ciddi uzmanlık gerektirir."
+  ],
+  "col": [
+   "kibar tavır",
+   "incelikli çekicilik",
+   "kibar ev sahibi"
+  ],
+  "tip": "'urbane' kişinin inceliğini ve sosyal becerisini anlatır; 'urban' ise şehirle ilgilidir. Karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "poliomyelitis",
+  "senses": [
+   "çocuk felci; polio"
+  ],
+  "ex": [
+   "Hemşire, aşılamanın çocukları çocuk felcinden nasıl koruduğunu açıkladı.",
+   "Uluslararası aşılama programları çocuk felcini büyük ölçüde azalttı, ancak yeni salgınları önlemek için izleme sürmelidir."
+  ],
+  "col": [
+   "çocuk felcine karşı aşılama",
+   "çocuk felcini yok etmek",
+   "çocuk felci salgını"
+  ],
+  "tip": "Günlük konuşmada 'polio' denir. Yaygın kanının aksine yetişkinler de bu hastalığa yakalanabilir.",
+  "note": ""
+ },
+ {
+  "id": "neurosis",
+  "senses": [
+   "nevroz; sinirsel bozukluk"
+  ],
+  "ex": [
+   "Eski psikoloji kitabı nevroza bir bölüm ayırmıştı.",
+   "Nevroz eski araştırmalarda sık görülse de modern klinisyenler genellikle daha spesifik tanı terimleri kullanır."
+  ],
+  "col": [
+   "anksiyete nevrozu",
+   "obsesif nevroz"
+  ],
+  "tip": "Eski bir psikoloji terimidir ve bugün nadiren kullanılır. Çoğulu neuroses.",
+  "note": ""
+ },
+ {
+  "id": "diction",
+  "senses": [
+   "üslup; söz seçimi",
+   "diksiyon; telaffuz"
+  ],
+  "ex": [
+   "Resmi üslubu piknikte biraz garip durdu.",
+   "Yazarlar karmaşık bilimsel fikirleri geniş kitlelere ulaştırmak için sık sık ifade biçimlerini uyarlar."
+  ],
+  "col": [
+   "resmi üslup",
+   "şiirsel anlatım",
+   "açık diksiyon"
+  ],
+  "tip": "Hem yazılı ya da sözlü ifade biçimini hem de sözcüklerin ne kadar net telaffuz edildiğini anlatır.",
+  "note": ""
+ },
+ {
+  "id": "subsequence",
+  "senses": [
+   "altdizi"
+  ],
+  "ex": [
+   "Dizideki boncuklardan birer aralıkla seçerek bir altdizi oluşturduk.",
+   "Araştırmacılar kalıtsal hastalıklarla ilişkili örüntüleri bulmak için genetik verilerin bir altdizisini analiz edebilir."
+  ],
+  "col": [
+   "ortak altdizi",
+   "yakınsak altdizi",
+   "artan altdizi"
+  ],
+  "tip": "Ağırlıklı olarak matematik ve bilgisayar bilimi terimidir. 'Sonuç' anlamındaki consequence ile karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "ungainly",
+  "senses": [
+   "beceriksiz; sakar"
+  ],
+  "ex": [
+   "Genç deve yavaşça beceriksiz bacakları üzerinde doğruldu.",
+   "Erken elektrikli araçlar beceriksiz görünse de tasarımdaki gelişmeler onları tüketiciler için daha cazip hale getirdi."
+  ],
+  "col": [
+   "beceriksiz hareket",
+   "hantal figür",
+   "beceriksiz biçim"
+  ],
+  "tip": "-ly ile bitse de bu kelime sıfattır, zarf değildir. Görünüş ve hareketin uygunsuzluğunu anlatır.",
+  "note": ""
+ },
+ {
+  "id": "learned",
+  "senses": [
+   "bilgili; bilimsel"
+  ],
+  "ex": [
+   "Bilgili komşumuz neredeyse her tarihi gizemi açıklayabilir.",
+   "Bilimsel dernekler araştırma bulgularını paylaşmada ve akademik disiplinler arasında tartışmayı teşvik etmede önemli rol oynar."
+  ],
+  "col": [
+   "bilgin akademisyen",
+   "bilimsel dernek",
+   "akademik dergi"
+  ],
+  "tip": "Sıfat olarak 'learned' iki heceli okunur ve 'bilgili' anlamına gelir; 'learn' fiilinin geçmiş zamanında tek heceli okunur.",
+  "note": ""
+ }
+]

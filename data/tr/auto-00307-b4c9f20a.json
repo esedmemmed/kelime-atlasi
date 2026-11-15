@@ -1,0 +1,278 @@
+[
+ {
+  "id": "ruler",
+  "senses": [
+   "cetvel",
+   "hükümdar; yönetici"
+  ],
+  "ex": [
+   "Düz bir çizgi çizmek için burada cetvel kullan.",
+   "Eski hükümdarların kararları ticareti, mimariyi ve sıradan insanların günlük yaşamını sık sık etkiliyordu."
+  ],
+  "col": [
+   "plastik cetvel",
+   "cetvelle ölçmek",
+   "mutlak hükümdar"
+  ],
+  "tip": "ruler hem cetvel hem hükümdar anlamına gelir; anlamı cümleye bakarak belirleyin. Türkçe konuşanlar genelde 'cetvel' anlamını akla getirir.",
+  "note": ""
+ },
+ {
+  "id": "fish",
+  "senses": [
+   "balık; balık eti",
+   "balık tutmak; olta atmak"
+  ],
+  "ex": [
+   "Ahşap köprünün altında yüzen küçük balıkları izledik.",
+   "Kıyı topluluklarını desteklemek için yerel olarak avlanmış balık yemek, balıkçılık uygulamaları deniz ekosistemlerini koruduğu sürece faydalı olabilir."
+  ],
+  "col": [
+   "taze balık",
+   "balık tutmaya gitmek",
+   "balık stokları"
+  ],
+  "tip": "Birden fazla balıktan söz ederken de genelde fish kullanılır; fishes daha çok türleri ifade eder. Türkçedeki çoğul ek alışkanlığına dikkat edin.",
+  "note": ""
+ },
+ {
+  "id": "clean",
+  "senses": [
+   "temiz; kirsiz",
+   "temizlemek; silmek",
+   "çevreyi kirletmeyen"
+  ],
+  "ex": [
+   "Yanınızdaki rafta temiz havlular var.",
+   "Temiz enerjiye yatırım yapmak hava kirliliğini azaltırken gelişen sektörlerde yeni iş fırsatları yaratabilir."
+  ],
+  "col": [
+   "temiz tutmak",
+   "temiz su",
+   "temiz enerji",
+   "mutfağı temizlemek"
+  ],
+  "tip": "clean kirden arınmış anlamındadır; 'berrak, açık' anlamı için clear kullanılır. İkisi birbirinin yerine geçmez.",
+  "note": ""
+ },
+ {
+  "id": "dangerous",
+  "senses": [
+   "tehlikeli"
+  ],
+  "ex": [
+   "O kırık basamak tehlikeli, lütfen ondan uzak dur.",
+   "Bakımsız yollar, özellikle şiddetli yağmur sırasında veya karanlıkta bisikletliler için tehlikeli koşullar yaratabilir."
+  ],
+  "col": [
+   "tehlikeli koşullar",
+   "son derece tehlikeli",
+   "tehlikeli sürüş"
+  ],
+  "tip": "dangerous sıfattır; bir eylemi nitelemek için dangerously kullanılır. 'Tehlikeli şekilde' demek için sıfat değil zarf kullanın.",
+  "note": ""
+ },
+ {
+  "id": "ready",
+  "senses": [
+   "hazır; kullanıma uygun",
+   "istekli; razı",
+   "üzere olan"
+  ],
+  "ex": [
+   "Yemek hazır, lütfen tabağını getir.",
+   "Okullar, öğrencilerin hızla değişen iş dünyasının taleplerini karşılamaya hazır olmasını sağlamalıdır."
+  ],
+  "col": [
+   "...için hazır",
+   "kullanıma hazır",
+   "hazırlanmak",
+   "istekli ve hazır"
+  ],
+  "tip": "ready for'dan sonra isim, ready to'dan sonra fiil gelir. Türkçe konuşanlar bazen bu ayrımı karıştırır.",
+  "note": ""
+ },
+ {
+  "id": "eye",
+  "senses": [
+   "göz",
+   "görüş; anlayış",
+   "dikkatle bakmak; süzmek"
+  ],
+  "ex": [
+   "Gözlerini kapattı ve yağmuru dinledi.",
+   "Tasarımcıların hem çekici hem de erişilebilir kamusal alanlar yaratabilmesi için ayrıntılara karşı keskin bir göz gerekir."
+  ],
+  "col": [
+   "göz teması",
+   "göz kulak olmak",
+   "ayrıntılara göz",
+   "dikkatini çekmek"
+  ],
+  "tip": "an eye for bir şeyi fark etme ya da değerlendirme yeteneğini; keep an eye on ise göz kulak olmayı anlatır. İkisini karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "south",
+  "senses": [
+   "güney; güney bölgesi",
+   "güney; güneye bakan",
+   "güneye; güneyde"
+  ],
+  "ex": [
+   "Balkonumuz güneye bakıyor ve bol güneş alıyor.",
+   "Birçok aile güneye taşınıyor çünkü daha sıcak iklim yıl boyunca daha fazla açık hava etkinliğine izin veriyor."
+  ],
+  "col": [
+   "güneyde",
+   "güneye doğru gitmek",
+   "güney kıyısı"
+  ],
+  "tip": "Yön için go south denir, araya to eklenmez. Bölge için in the south kullanılır. Türkçedeki 'güneye' ekiyle karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "information",
+  "senses": [
+   "bilgi; veri"
+  ],
+  "ex": [
+   "Resepsiyonist bize yerel otobüsler hakkında faydalı bilgiler verdi.",
+   "Güvenilir bilgiye erişim, hastaların tedavileri ve uzun vadeli sağlıkları hakkında daha iyi kararlar vermesini sağlar."
+  ],
+  "col": [
+   "güvenilir bilgi",
+   "bilgiye erişim",
+   "bilgi vermek",
+   "bir bilgi parçası"
+  ],
+  "tip": "information sayılamayan bir isimdir; an information demeyin, a piece of information ya da some information kullanın. Çoğul ek eklemeyin.",
+  "note": ""
+ },
+ {
+  "id": "forty",
+  "senses": [
+   "kırk"
+  ],
+  "ex": [
+   "Otobüs sonunda gelmeden önce kırk dakika bekledik.",
+   "Ankete göre yerel sakinlerin yüzde kırkı kısa yolculuklar için arabaya değil bisiklete öncelik veriyor."
+  ],
+  "col": [
+   "kırk dakika",
+   "yüzde kırk",
+   "kırklı yaşlarında"
+  ],
+  "tip": "Doğru yazım forty'dir, fourty yanlıştır. Kırklı yaşları için in one's forties kalıbını kullanın.",
+  "note": ""
+ },
+ {
+  "id": "understand",
+  "senses": [
+   "anlamak; kavramak",
+   "anlayış göstermek",
+   "öğrenmek; sanmak"
+  ],
+  "ex": [
+   "Bu çamaşır makinesini nasıl kullanacağımı sonunda anladım.",
+   "Okullar, öğrencilerin günlük seçimlerinin doğal çevreyi nasıl etkilediğini anlamalarına yardımcı olmalıdır."
+  ],
+  "col": [
+   "anlamını kavramak",
+   "tamamen anlamak",
+   "nasıl olduğunu anlamak"
+  ],
+  "tip": "Geçmiş zaman ve ortaç biçimi understood'dur; understanded yanlıştır. Bağlama göre 'anlayış göstermek' anlamını da kontrol edin.",
+  "note": ""
+ },
+ {
+  "id": "movie",
+  "senses": [
+   "film; sinema filmi"
+  ],
+  "ex": [
+   "Dün akşam yemekten sonra komik bir film izledik.",
+   "Filmler izleyicileri tanıdık olmayan kültürlerle tanıştırabilir, ancak bazen onlara meydan okumak yerine klişeleri pekiştirirler."
+  ],
+  "col": [
+   "film izlemek",
+   "sinema yıldızı",
+   "sinema salonu",
+   "sinemaya gitmek"
+  ],
+  "tip": "movie daha çok Amerikan İngilizcesinde kullanılır; İngiliz İngilizcesinde film tercih edilir. the movies sinema salonu anlamına da gelebilir.",
+  "note": ""
+ },
+ {
+  "id": "her",
+  "senses": [
+   "onu; ona",
+   "onun"
+  ],
+  "ex": [
+   "Yürüyüş planlamak için öğle yemeğinden sonra onu aradım.",
+   "Bir öğrenci ek destek istediğinde, öğretmenler onun uygun öğrenme kaynaklarına erişmesine yardımcı olmalıdır."
+  ],
+  "col": [
+   "onunla",
+   "onun için",
+   "kendi; kendisine ait"
+  ],
+  "tip": "her isimden önce 'onun' anlamı verir, nesne olarak da kullanılır. hers tek başına kullanılır; 'hers' yerine 'her' yazmayın.",
+  "note": ""
+ },
+ {
+  "id": "four",
+  "senses": [
+   "dört; dört tane"
+  ],
+  "ex": [
+   "Mutfak masasının etrafına dört sandalye koyduk.",
+   "Araştırma ekibi kış aylarında evlerde enerji tüketimini azaltmanın dört yöntemini karşılaştırdı."
+  ],
+  "col": [
+   "dört kez",
+   "dört saat",
+   "dördünün hepsi"
+  ],
+  "tip": "four sayı sıfatıdır; 'dördüncü' anlamında sıra için fourth kullanılır. Bu iki sözcüğü karıştırmayın.",
+  "note": ""
+ },
+ {
+  "id": "visit",
+  "senses": [
+   "ziyaret etmek; gezmek",
+   "ziyaret; kısa konaklama"
+  ],
+  "ex": [
+   "Komşularımızı ziyaret ettik ve evde yapılmış çorbadan ikram ettik.",
+   "Bilim müzelerini ziyaret eden öğrenciler sınıftaki teorileri günlük hayattan pratik örneklerle ilişkilendirebilir."
+  ],
+  "col": [
+   "akrabaları ziyaret etmek",
+   "ziyaret etmek",
+   "rehberli gezi"
+  ],
+  "tip": "visit geçişli bir fiildir, to almaz: visit the museum. İsim olarak a visit to the museum kalıbı kullanılır.",
+  "note": ""
+ },
+ {
+  "id": "people",
+  "senses": [
+   "insanlar; kişiler",
+   "halk; millet"
+  ],
+  "ex": [
+   "Bu sabah fırının önünde birkaç kişi bekliyordu.",
+   "Şehirler, her yaştan insanın bağımsız şekilde seyahat edebilmesi için erişilebilir toplu taşıma sağlamalıdır."
+  ],
+  "col": [
+   "yerel halk",
+   "gençler",
+   "yerli halklar",
+   "her kesimden insan"
+  ],
+  "tip": "people insanları genel olarak ifade eder; peoples ise farklı milletleri ya da halkları anlatır. Türkçedeki 'halk' ve 'millet' ayrımına dikkat edin.",
+  "note": ""
+ }
+]
