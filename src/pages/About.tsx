@@ -1,6 +1,6 @@
 import { ArrowUpRight, Database, Github, Heart } from "lucide-react";
 import { useAtlas } from "../atlas/context";
-import { REPO_URL } from "../config";
+import { ORIGINAL_REPO_URL, REPO_URL } from "../config";
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -14,9 +14,9 @@ export function About() {
           <p className="eyebrow">Kelime Atlası hakkında</p>
           <h1 className="display">Her kelimeye bir resim.</h1>
           <p className="lede">
-            Kelime Atlası, IELTS kelimelerini {atlas.count.toLocaleString()} karta dönüştürür. Her kelimenin özgün bir resmi, bir günlük ve bir IELTS örnek cümlesi, İngiliz ve Amerikan telaffuzu, sık kullanılan kalıpları ve Türkçe kullanım ipuçları var. Öğrendiğin her kelime gökyüzünde bir yıldız yakar.
+            Kelime Atlası, IELTS kelimelerini {atlas.count.toLocaleString("tr-TR")} karta dönüştürür. Her kelimenin özgün bir resmi, bir günlük ve bir IELTS örnek cümlesi, İngiliz ve Amerikan telaffuzu, sık kullanılan kalıpları ve Türkçe kullanım ipuçları var. Öğrendiğin her kelime gökyüzünde bir yıldız yakar.
           </p>
-          <p className="lede">Ücretsiz, açık kaynak ve kayıt gerektirmez. Kod MIT, kelime verisi CC BY 4.0 lisanslıdır. Bu Türkçe sürüm, Word Atlas (词光) projesinin uyarlamasıdır.</p>
+          <p className="lede">Ücretsiz, açık kaynak ve kayıt gerektirmez. Kod MIT, kelime verisi CC BY 4.0 lisanslıdır. Bu Türkçe sürüm, <a className="link" href={ORIGINAL_REPO_URL} target="_blank" rel="noreferrer">Word Atlas</a> projesinin (yazarları: designfuchen ve katkıda bulunanlar) uyarlamasıdır.</p>
           <div className="about-actions">
             <a className="btn btn-primary" href={REPO_URL} target="_blank" rel="noreferrer">
               <Github size={18} /> GitHub'da görüntüle
@@ -98,7 +98,7 @@ export function About() {
         <section className="panel">
           <h3 className="eyebrow">Geliştiriciler için</h3>
           <p className="muted">
-            <code>data/word-atlas.json</code> ve <code>.csv</code> tam kelime verisidir; <code>public/atlas</code> içinde web uygulamasının parça verileri, resimleri ve sesleri bulunur. Anki desteleri, kelime uygulamaları ya da başka projeler için kaynak göstererek kullanabilirsin.
+            <code>data/word-atlas-tr.json</code> ve <code>word-atlas-tr.csv</code> tam kelime verisidir; <code>public/atlas</code> içinde web uygulamasının parça verileri, resimleri ve sesleri bulunur. Anki desteleri, kelime uygulamaları ya da başka projeler için kaynak göstererek kullanabilirsin.
           </p>
           <a className="link" href={`${REPO_URL}#readme`} target="_blank" rel="noreferrer">
             Belgeleri oku <ArrowUpRight size={14} />

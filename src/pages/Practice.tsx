@@ -205,7 +205,7 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
           <div className="typing-cue">
             <Illustration src={atlas.img(e)} word={e.w} topic={0} eager />
             <p>
-              <span className="pos">{e.senses[0].pos}</span> {e.senses[0].zh}
+              <span className="pos">{e.senses[0].pos}</span> {e.senses[0].tr}
             </p>
           </div>
         )}
@@ -216,7 +216,7 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
                 Tekrar dinle
               </button>
             )}
-            {e.ex[0].zh}
+            {e.ex[0].tr}
           </p>
         )}
         <p className={`typing-text ${mode === "word" ? "is-word" : ""} ${mode === "dictation" ? "is-hidden" : ""}`} lang="en" aria-hidden="true">

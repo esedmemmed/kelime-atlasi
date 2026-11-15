@@ -3369,7 +3369,7 @@ code {
     padding: 28px 36px 32px;
   }
   .choice-grid {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 

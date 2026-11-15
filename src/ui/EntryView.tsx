@@ -105,7 +105,7 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
           {entry.senses.map((s, i) => (
             <li key={i}>
               <span className="pos">{s.pos}</span>
-              <span className="zh">{s.zh}</span>
+              <span className="zh">{s.tr}</span>
               {s.en && (
                 <span className="en" lang="en">
                   {s.en}
@@ -126,7 +126,7 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
                     <Highlight text={x.en} word={entry.w} />
                     <Speak url={exUrls[i] ?? null} text={x.en} accent={i === 1 && exUrls[1] ? "us" : accent} size="sm" className="ex-speak" />
                   </p>
-                  <p className="ex-zh">{x.zh}</p>
+                  <p className="ex-zh">{x.tr}</p>
                 </li>
               ))}
             </ul>
@@ -138,11 +138,11 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
             <h3 className="eyebrow">Sık kullanılan kalıplar</h3>
             <ul className="collocations">
               {entry.col.map((c) => {
-                const { en, zh } = splitPair(c);
+                const { en, tr } = splitPair(c);
                 return (
                   <li key={c}>
                     <span lang="en">{en}</span>
-                    {zh && <small>{zh}</small>}
+                    {tr && <small>{tr}</small>}
                   </li>
                 );
               })}

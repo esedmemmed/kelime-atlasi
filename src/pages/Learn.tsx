@@ -199,14 +199,14 @@ function Quiz({ step, session }: { step: Step & { kind: QuizKind }; session: Act
               {sentence ? (
                 <>
                   {sentence.before}
-                  <span className="blank">{pending ? sentence.hidden : "　　　"}</span>
+                  <span className="blank">{pending ? sentence.hidden : "   "}</span>
                   {sentence.after}
                 </>
               ) : (
-                entry.senses[0].zh
+                entry.senses[0].tr
               )}
             </p>
-            {sentence && pending && <p className="cloze-zh">{entry.ex[0].zh}</p>}
+            {sentence && pending && <p className="cloze-zh">{entry.ex[0].tr}</p>}
           </div>
         )}
         {step.kind === "listen" && (
@@ -235,7 +235,7 @@ function Quiz({ step, session }: { step: Step & { kind: QuizKind }; session: Act
               <li key={o.id}>
                 <button className={`option ${cls}`} data-option={o.id} onClick={() => submit(o.id, isAnswer)} disabled={!!pending}>
                   <kbd>{i + 1}</kbd>
-                  <span lang={step.kind === "meaning" ? "zh" : "en"}>{step.kind === "meaning" ? o.zh : o.word}</span>
+                  <span lang={step.kind === "meaning" ? "tr" : "en"}>{step.kind === "meaning" ? o.tr : o.word}</span>
                   {pending && isAnswer && <Check size={20} className="option-mark" />}
                   {pending && chosen && !isAnswer && <X size={20} className="option-mark" />}
                 </button>
@@ -260,12 +260,12 @@ function SpellPrompt({ entry, refw, hints }: { entry: Entry; refw: WordRef; hint
       <Illustration src={atlas.img(entry)} word={entry.w} topic={refw.topic} eager className="spell-art" />
       <div>
         <p className="spell-zh">
-          <span className="pos">{entry.senses[0].pos}</span> {entry.senses[0].zh}
+          <span className="pos">{entry.senses[0].pos}</span> {entry.senses[0].tr}
         </p>
         {sentence && (
           <p className="cloze cloze-sm" lang="en">
             {sentence.before}
-            <span className="blank">　　　</span>
+            <span className="blank">{"   "}</span>
             {sentence.after}
           </p>
         )}
@@ -349,8 +349,8 @@ function Feedback({ entry, refw, correct, onNext }: { entry: Entry; refw: WordRe
           <p className="feedback-zh">
             {entry.senses
               .slice(0, 2)
-              .map((s) => `${s.pos} ${s.zh}`)
-              .join("　")}
+              .map((s) => `${s.pos} ${s.tr}`)
+              .join(" ")}
           </p>
           {entry.ex[0] && (
             <p className="feedback-ex" lang="en">
@@ -420,7 +420,7 @@ function Summary({ session }: { session: ActiveSession }) {
             <li key={w.id} className={session.graded[w.id] === Rating.Again ? "is-wrong" : ""}>
               <Illustration src={atlas.img(w, "thumb")} word={w.word} topic={w.topic} />
               <span lang="en">{w.word}</span>
-              <small>{w.zh}</small>
+              <small>{w.tr}</small>
             </li>
           ))}
         </ul>

@@ -178,15 +178,15 @@ export function Today() {
           <dl className="mini-stats">
             <div>
               <dt>Yakılan</dt>
-              <dd>{learned.toLocaleString()}</dd>
+              <dd>{learned.toLocaleString("tr-TR")}</dd>
             </div>
             <div>
               <dt>Öğrenilen</dt>
-              <dd>{mastered.toLocaleString()}</dd>
+              <dd>{mastered.toLocaleString("tr-TR")}</dd>
             </div>
             <div>
               <dt>Toplam kelime</dt>
-              <dd>{atlas.count.toLocaleString()}</dd>
+              <dd>{atlas.count.toLocaleString("tr-TR")}</dd>
             </div>
           </dl>
         </section>
@@ -216,9 +216,9 @@ function GalaxyPanel({ learned, total }: { learned: number; total: number }) {
       <div className="galaxy-panel-copy">
         <p className="eyebrow eyebrow-light">Kelime gökyüzün</p>
         <h3>
-          <b>{learned.toLocaleString()}</b> yıldız yandı
+          <b>{learned.toLocaleString("tr-TR")}</b> yıldız yandı
         </h3>
-        <p>{learned ? `${(total - learned).toLocaleString()} yıldız daha seni bekliyor. Altın renkliler bugün yakılanlar.` : `${total.toLocaleString()} kelime, ${total.toLocaleString()} yıldız. Her öğrendiğin kelime bir yıldız yakar.`}</p>
+        <p>{learned ? `${(total - learned).toLocaleString("tr-TR")} yıldız daha seni bekliyor. Altın renkliler bugün yakılanlar.` : `${total.toLocaleString("tr-TR")} kelime, ${total.toLocaleString("tr-TR")} yıldız. Her öğrendiğin kelime bir yıldız yakar.`}</p>
         <span className="btn btn-glass">
           Gökyüzüne git <ArrowRight size={18} />
         </span>
@@ -249,7 +249,7 @@ function WordOfDay() {
             <Pronounce entry={entry} refw={pick} />
           </div>
         )}
-        <p className="wotd-zh">{pick.zh}</p>
+        <p className="wotd-zh">{pick.tr}</p>
         {entry?.ex[0] && (
           <p className="wotd-ex" lang="en">
             <Highlight text={entry.ex[0].en} word={entry.w} />

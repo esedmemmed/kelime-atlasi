@@ -236,7 +236,7 @@ function WordSheet({ id }: { id: string | null }) {
             <ChevronLeft size={20} />
           </button>
           <span>
-            {(ref.order + 1).toLocaleString()} / {atlas.count.toLocaleString()}
+            {(ref.order + 1).toLocaleString("tr-TR")} / {atlas.count.toLocaleString("tr-TR")}
           </span>
           <button className="icon-btn" onClick={() => neighbor(1)} disabled={ref.order >= atlas.count - 1} aria-label="Sonraki">
             <ChevronRight size={20} />

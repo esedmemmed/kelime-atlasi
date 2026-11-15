@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { gap, normalize, splitHighlight, splitPair } from "./text";
+import { foldTr, gap, lowerTr, normalize, splitHighlight, splitPair } from "./text";
 
 test("highlights the headword and common inflections", () => {
   assert.deepEqual(splitHighlight("Training with a friend motivates me.", "motivate")?.[1], "motivates");
@@ -21,5 +21,14 @@ test("gaps the sentence for cloze questions", () => {
 
 test("normalizes typography from mobile keyboards", () => {
   assert.equal(normalize("  Don’t  "), "don't");
-  assert.deepEqual(splitPair("in principle｜原则上"), { en: "in principle", zh: "原则上" });
+  assert.deepEqual(splitPair("in principle|ilke olarak"), { en: "in principle", tr: "ilke olarak" });
+  assert.deepEqual(splitPair("in principle\uFF5Cilke olarak"), { en: "in principle", tr: "ilke olarak" });
+});
+
+test("Turkish-aware lowercasing and diacritic folding", () => {
+  assert.equal(lowerTr("IŞIK İLE"), "ışık ile");
+  assert.equal(foldTr("Kütüphane"), "kutuphane");
+  assert.equal(foldTr("ÇAĞRI ŞÖYLE ÜÇ"), "cagri soyle uc");
+  assert.equal(foldTr("ığdır IĞDIR İzmir"), "igdir igdir izmir");
+  assert.equal(foldTr("LIBRARY"), "library");
 });

@@ -14,10 +14,10 @@ const fail = (msg) => errors.length < 50 && errors.push(msg);
 if (index.words.length !== index.count) fail(`count ${index.count} != rows ${index.words.length}`);
 const ids = new Set();
 index.words.forEach((r, i) => {
-  const [id, word, zh, , cefr, topic, media] = r;
+  const [id, word, tr, , cefr, topic, media] = r;
   if (!/^[a-z0-9-]{1,64}$/.test(id) || ids.has(id)) fail(`bad or duplicate id at ${i}: ${id}`);
   ids.add(id);
-  if (!word || !zh) fail(`empty word or meaning: ${id}`);
+  if (!word || !tr) fail(`empty word or meaning: ${id}`);
   if (!(cefr >= 0 && cefr < index.cefr.length)) fail(`bad level: ${id}`);
   if (!(topic >= 0 && topic < index.topics.length)) fail(`bad topic: ${id}`);
   const need = [
@@ -39,8 +39,8 @@ for (let n = 0; n * index.chunk < index.count; n++) {
     const row = index.words[n * index.chunk + k];
     if (!row || row[0] !== e.id) return fail(`chunk ${n} out of order at ${e.id}`);
     entries++;
-    if (!Array.isArray(e.senses) || !e.senses.length || e.senses.some((s) => !s.zh)) fail(`no senses: ${e.id}`);
-    if (!Array.isArray(e.ex) || !e.ex.length || e.ex.some((x) => !x.en || !x.zh)) fail(`bad examples: ${e.id}`);
+    if (!Array.isArray(e.senses) || !e.senses.length || e.senses.some((s) => !s.tr)) fail(`no senses: ${e.id}`);
+    if (!Array.isArray(e.ex) || !e.ex.length || e.ex.some((x) => !x.en || !x.tr)) fail(`bad examples: ${e.id}`);
     examples += e.ex.length;
     if (e.ex.length < 2) warn.oneExample++;
     if (!e.uk && !e.us) warn.missingIpa++;

@@ -3,21 +3,18 @@ import { useState } from "react";
 import { useAtlas } from "../atlas/context";
 import { store } from "../store/store";
 
-const ALL_LEVELS = [
+const LEVELS = [
   ["A1", "Başlangıç", "Sıfırdan ya da baştan başla"],
   ["A2", "Temel", "Günlük kelimeler henüz oturmadı"],
   ["B1", "Orta", "Hedef IELTS 5.5 – 6"],
   ["B2", "Orta üstü", "Hedef IELTS 6.5 – 7"],
   ["C1", "İleri", "Hedef 7.5 ve üzeri"],
+  ["C2", "Ustalık", "Hedef 8 ve üzeri"],
 ];
 
 export function Onboarding() {
   const atlas = useAtlas();
-  // Only offer levels that already have translated words.
-  const present = new Set(atlas.words.map((w) => atlas.cefr[w.cefr]));
-  const avail = ALL_LEVELS.filter(([code]) => present.has(code));
-  const LEVELS = avail.length > 4 ? avail.slice(1, 5) : avail;
-  const [level, setLevel] = useState(avail.length > 4 ? 1 : 0);
+  const [level, setLevel] = useState(2); // B1, as in the original
   const [goal, setGoal] = useState(10);
   const finish = () => store.settings({ onboarded: true, startLevel: atlas.cefr.indexOf(LEVELS[level][0]), dailyNew: goal });
   return (
@@ -27,7 +24,7 @@ export function Onboarding() {
         <div className="onboard-body">
           <p className="eyebrow">Kelime Atlası'na hoş geldin</p>
           <h1 className="display">
-            {atlas.count.toLocaleString()} yıldız
+            {atlas.count.toLocaleString("tr-TR")} yıldız
             <br />
             tek tek yakılmayı bekliyor.
           </h1>

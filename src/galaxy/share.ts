@@ -32,10 +32,10 @@ export async function shareGalaxy(source: HTMLCanvasElement, lit: number, total:
     g.fillText("Kelime gökyüzüm", pad, 1110);
     g.fillStyle = "#f3ecdf";
     g.font = `600 76px ${SERIF}`;
-    g.fillText(`${lit.toLocaleString()} yıldız yandı`, pad, 1196);
+    g.fillText(`${lit.toLocaleString("tr-TR")} yıldız yandı`, pad, 1196);
     g.font = `400 28px ${SANS}`;
     g.fillStyle = "rgba(243,236,223,.6)";
-    g.fillText(`Toplam ${total.toLocaleString()} IELTS kelimesi · her öğrenilen kelime bir yıldız`, pad, 1248);
+    g.fillText(`Toplam ${total.toLocaleString("tr-TR")} IELTS kelimesi · her öğrenilen kelime bir yıldız`, pad, 1248);
     g.fillStyle = "rgba(243,236,223,.16)";
     g.fillRect(pad, H - 66, W - pad * 2, 1);
     g.fillStyle = "#f3ecdf";

@@ -3,14 +3,21 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { Atlas, WordRef } from "../atlas/types";
 import { useAtlas } from "../atlas/context";
 import { openWord } from "../lib/router";
+import { foldTr } from "../lib/text";
 import { Illustration } from "./Illustration";
 
-const lowerTr = (s: string) => s.toLocaleLowerCase("tr-TR");
+// Folded (lowercase, diacritic-free) Turkish meanings, so "kutuphane" finds "kütüphane".
+const folded = new Map<string, string>();
+const foldedMeaning = (w: WordRef) => {
+  let f = folded.get(w.id);
+  if (f === undefined) folded.set(w.id, (f = foldTr(w.tr)));
+  return f;
+};
 
 export function searchAtlas(atlas: Atlas, raw: string, limit = 40): WordRef[] {
   const q = raw.trim().toLowerCase();
   if (!q) return [];
-  const qt = lowerTr(raw.trim());
+  const qt = foldTr(raw.trim());
   const hits: [number, WordRef][] = [];
   for (const w of atlas.words) {
     let score = 0;
@@ -20,7 +27,7 @@ export function searchAtlas(atlas: Atlas, raw: string, limit = 40): WordRef[] {
     else if (word.includes(q)) score = 200 - word.indexOf(q) - word.length;
     if (!score && qt.length >= 2) {
       // Turkish meaning, e.g. "kütüphane" -> library
-      const tr = lowerTr(w.zh);
+      const tr = foldedMeaning(w);
       const i = tr.indexOf(qt);
       if (i >= 0) score = 60 - Math.min(40, i) - tr.length * 0.2;
     }
@@ -93,14 +100,14 @@ export function Palette({ open, onClose }: { open: boolean; onClose: () => void 
               <span className="palette-word" lang="en">
                 {w.word}
               </span>
-              <span className="palette-zh">{w.zh}</span>
+              <span className="palette-zh">{w.tr}</span>
               {i === sel && <CornerDownLeft size={15} className="palette-enter" />}
             </li>
           ))}
           {q && !results.length && <li className="palette-empty">«{q}» bulunamadı</li>}
           {!q && (
             <li className="palette-hint">
-              {atlas.count.toLocaleString()} kelime · İngilizce kelime ve Türkçe anlamla arama · <kbd>↑</kbd>
+              {atlas.count.toLocaleString("tr-TR")} kelime · İngilizce kelime ve Türkçe anlamla arama · <kbd>↑</kbd>
               <kbd>↓</kbd> seç <kbd>↵</kbd> aç
             </li>
           )}

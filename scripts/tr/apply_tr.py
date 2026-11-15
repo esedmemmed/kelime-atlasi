@@ -11,8 +11,8 @@ Outputs
   public/atlas/index.json, public/atlas/entries/<n>.json   (only words that have Turkish)
   data/word-atlas-tr.json, data/word-atlas-tr.csv
 
-The fields keep their original names ("zh") so the app code stays unchanged;
-in this edition they hold Turkish text.
+The app data uses the field name "tr" in senses, examples and the index "fields";
+the Chinese source keeps "zh". Collocations are written as "english|turkish".
 
 Usage: python3 scripts/tr/apply_tr.py
 """
@@ -60,7 +60,7 @@ def load_overlays():
 
 
 def merge(e, o, problems):
-    """Return the entry with Turkish in the zh fields, or None if the overlay doesn't line up."""
+    """Return the entry with Turkish in the tr fields, or None if the overlay doesn't line up."""
     s_tr, x_tr, c_tr = o.get("senses") or [], o.get("ex") or [], o.get("col") or []
     if len(s_tr) != len(e["senses"]) or len(x_tr) != len(e["ex"]) or len(c_tr) != len(e["col"]):
         problems.append(f'{e["id"]}: counts senses {len(s_tr)}/{len(e["senses"])} ex {len(x_tr)}/{len(e["ex"])} col {len(c_tr)}/{len(e["col"])}')
@@ -69,9 +69,9 @@ def merge(e, o, problems):
         problems.append(f'{e["id"]}: empty translation')
         return None
     m = dict(e)
-    m["senses"] = [{"pos": s["pos"], "zh": t.strip(), "en": s["en"]} for s, t in zip(e["senses"], s_tr)]
-    m["ex"] = [{"en": x["en"], "zh": t.strip()} for x, t in zip(e["ex"], x_tr)]
-    m["col"] = [f'{c.split("｜")[0].strip()}｜{t.strip()}' for c, t in zip(e["col"], c_tr)]
+    m["senses"] = [{"pos": s["pos"], "tr": t.strip(), "en": s["en"]} for s, t in zip(e["senses"], s_tr)]
+    m["ex"] = [{"en": x["en"], "tr": t.strip()} for x, t in zip(e["ex"], x_tr)]
+    m["col"] = [f'{c.split("｜")[0].strip()}|{t.strip()}' for c, t in zip(e["col"], c_tr)]
     m["tip"] = (o.get("tip") or "").strip()
     m["note"] = (o.get("note") or "").strip() if e.get("note") else ""
     return m
@@ -101,7 +101,7 @@ def main():
     index = []
     for c in entries:
         s0 = c["senses"][0]
-        index.append([c["id"], c["w"], f'{s0["pos"]} {s0["zh"]}'.strip(), c["uk"] or c["us"],
+        index.append([c["id"], c["w"], f'{s0["pos"]} {s0["tr"]}'.strip(), c["uk"] or c["us"],
                       CEFR.index(c["cefr"]), TOPIC_INDEX[c["topic"]], media.get(c["id"], 0)])
     flags = [r[6] for r in index]
     meta = {
@@ -123,9 +123,6 @@ def main():
     (PUB / "index.json").write_text(json.dumps(meta, ensure_ascii=False, separators=(",", ":")), encoding="utf-8", newline="\n")
 
     public = [{k: v for k, v in c.items() if k != "m"} for c in entries]
-    for c in public:  # rename for the downloadable dataset
-        c["senses"] = [{"pos": s["pos"], "tr": s["zh"], "en": s["en"]} for s in c["senses"]]
-        c["ex"] = [{"en": x["en"], "tr": x["zh"]} for x in c["ex"]]
     (DATA / "word-atlas-tr.json").write_text(json.dumps(public, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
     with open(DATA / "word-atlas-tr.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)

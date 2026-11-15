@@ -23,7 +23,7 @@ export async function loadOpenAtlas(): Promise<Atlas> {
   const words: WordRef[] = idx.words.map((r, order) => ({
     id: r[0],
     word: r[1],
-    zh: r[2],
+    tr: r[2],
     ipa: r[3],
     cefr: r[4],
     topic: r[5],
@@ -116,14 +116,14 @@ export async function loadPrivateAtlas(open: Atlas | null): Promise<Atlas | null
   const words: WordRef[] = cat.words.map((w, order) => {
     const twin = twins.get(w.word.toLowerCase());
     const pos = (w.meaning.match(/·\s*([a-z]+\.)\s*$/) || [])[1] || "";
-    const zh = w.meaning.replace(/\s*·\s*[a-z]+\.\s*$/, "");
+    const tr = w.meaning.replace(/\s*·\s*[a-z]+\.\s*$/, "");
     entries.set(w.id, {
       id: w.id,
       w: w.word,
       uk: w.phonetic,
       us: "",
-      senses: [{ pos, zh, en: "" }],
-      ex: w.sentence ? [{ en: w.sentence, zh: w.translation }] : [],
+      senses: [{ pos, tr, en: "" }],
+      ex: w.sentence ? [{ en: w.sentence, tr: w.translation }] : [],
       col: [],
       fam: [],
       syn: [],
@@ -137,7 +137,7 @@ export async function loadPrivateAtlas(open: Atlas | null): Promise<Atlas | null
     return {
       id: w.id,
       word: w.word,
-      zh: `${pos} ${zh}`.trim(),
+      tr: `${pos} ${tr}`.trim(),
       ipa: w.phonetic,
       cefr: twin?.cefr ?? 2,
       topic: twin?.topic ?? 16,

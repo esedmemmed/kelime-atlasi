@@ -1,17 +1,17 @@
 export type Accent = "uk" | "us";
 
-/** Compact row from atlas/index.json: [id, word, zh, ipa, cefr, topic, media]. */
+/** Compact row from atlas/index.json: [id, word, tr, ipa, cefr, topic, media]. */
 export type IndexRow = [string, string, string, string, number, number, number];
 
 export interface Sense {
   pos: string;
-  zh: string;
+  tr: string;
   en: string;
 }
 
 export interface Example {
   en: string;
-  zh: string;
+  tr: string;
 }
 
 export interface Entry {
@@ -41,7 +41,7 @@ export const MEDIA = { img: 1, uk: 2, us: 4, ex: 8, ex2: 16 } as const;
 export interface WordRef {
   id: string;
   word: string;
-  zh: string;
+  tr: string;
   ipa: string;
   cefr: number;
   topic: number;

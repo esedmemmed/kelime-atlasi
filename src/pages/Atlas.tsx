@@ -97,14 +97,14 @@ export function AtlasPage({
     <div className={`page atlas ${view === "galaxy" ? "is-galaxy" : ""}`}>
       <header className="atlas-head">
         <div>
-          <p className="eyebrow">Atlas · {atlas.count.toLocaleString()} kelime</p>
+          <p className="eyebrow">Atlas · {atlas.count.toLocaleString("tr-TR")} kelime</p>
           <h1 className="display">
             Her kelimenin{" "}
             <br className="br-sm" />
             bir resmi var.
           </h1>
           <p className="lede">
-            {atlas.examples.toLocaleString()} özgün örnek cümle · İngiliz ve Amerikan telaffuzu · seviyeye ve {atlas.topics.length} IELTS konusuna göre düzenlenmiş
+            {atlas.examples.toLocaleString("tr-TR")} özgün örnek cümle · İngiliz ve Amerikan telaffuzu · seviyeye ve {atlas.topics.length} IELTS konusuna göre düzenlenmiş
           </p>
         </div>
         <label className="search">
@@ -189,7 +189,7 @@ export function AtlasPage({
           <span className="result-count">
             {view === "galaxy"
               ? "Bir kelime ara, gökyüzü seni oraya götürsün"
-              : `${list.length.toLocaleString()} sonuç`}
+              : `${list.length.toLocaleString("tr-TR")} sonuç`}
           </span>
           <div
             className="segmented segmented-icons"
@@ -346,7 +346,7 @@ function VirtualGrid({
               <span className={`tile-lv lv-${atlas.cefr[w.cefr]}`}>
                 {atlas.cefr[w.cefr]}
               </span>
-              <span className="tile-zh">{w.zh}</span>
+              <span className="tile-zh">{w.tr}</span>
             </span>
           </button>,
         );
@@ -394,7 +394,7 @@ function VirtualList({
               {w.word}
             </span>
             <span className="row-ipa ipa">{w.ipa}</span>
-            <span className="row-zh">{w.zh}</span>
+            <span className="row-zh">{w.tr}</span>
             <span
               className={`row-dot ${card ? (card.st === 2 && card.s >= 21 ? "is-mastered" : "is-learning") : ""}`}
             />

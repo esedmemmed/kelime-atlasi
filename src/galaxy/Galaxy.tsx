@@ -322,13 +322,13 @@ export function Galaxy({
           <Illustration src={atlas.img(hover.ref, "thumb")} word={hover.ref.word} topic={hover.ref.topic} />
           <span>
             <b lang="en">{hover.ref.word}</b>
-            <small>{hover.ref.zh}</small>
+            <small>{hover.ref.tr}</small>
           </span>
         </button>
       )}
       <div className="galaxy-hud">
         <p>
-          <b>{lit.toLocaleString()}</b> / {layout.n.toLocaleString()} yıldız yandı
+          <b>{lit.toLocaleString("tr-TR")}</b> / {layout.n.toLocaleString("tr-TR")} yıldız yandı
         </p>
         <ul className="galaxy-legend" aria-hidden="true">
           <li>

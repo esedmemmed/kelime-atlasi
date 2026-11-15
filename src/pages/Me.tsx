@@ -65,11 +65,11 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
         </div>
         <div>
           <dt>Yakılan</dt>
-          <dd>{stats.learned.toLocaleString()}</dd>
+          <dd>{stats.learned.toLocaleString("tr-TR")}</dd>
         </div>
         <div>
           <dt>Kalıcı</dt>
-          <dd>{stats.mastered.toLocaleString()}</dd>
+          <dd>{stats.mastered.toLocaleString("tr-TR")}</dd>
         </div>
         <div>
           <dt>İlk denemede doğru</dt>

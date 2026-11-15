@@ -1,8 +1,8 @@
 import type { Atlas, Entry } from "../atlas/types";
 import { toast } from "./Toast";
 
-const SERIF = '"Fraunces Variable", "Songti SC", "Noto Serif SC", Georgia, serif';
-const SANS = '-apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", sans-serif';
+const SERIF = '"Fraunces Variable", Georgia, serif';
+const SANS = '-apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
 
 function loadImage(src: string) {
   return new Promise<HTMLImageElement>((resolve, reject) => {
@@ -14,7 +14,7 @@ function loadImage(src: string) {
 }
 
 function wrap(ctx: CanvasRenderingContext2D, text: string, maxWidth: number) {
-  const tokens = /[一-鿿]/.test(text) ? Array.from(text) : text.split(/(\s+)/);
+  const tokens = text.split(/(\s+)/);
   const lines: string[] = [];
   let line = "";
   for (const t of tokens) {
@@ -86,7 +86,7 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   const posW = ctx.measureText(s0.pos + "  ").width;
   ctx.fillStyle = "#1E2640";
   ctx.font = `600 40px ${SANS}`;
-  ctx.fillText(e.senses.slice(0, 2).map((s) => s.zh).join("；"), pad + posW, y);
+  ctx.fillText(e.senses.slice(0, 2).map((s) => s.tr).join("; "), pad + posW, y);
   y += 76;
   if (e.ex[0]) {
     ctx.font = `italic 400 36px ${SERIF}`;
@@ -97,7 +97,7 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
     }
     ctx.font = `400 30px ${SANS}`;
     ctx.fillStyle = "#7A7C88";
-    for (const line of wrap(ctx, e.ex[0].zh, art).slice(0, 2)) {
+    for (const line of wrap(ctx, e.ex[0].tr, art).slice(0, 2)) {
       ctx.fillText(line, pad, y + 6);
       y += 44;
     }

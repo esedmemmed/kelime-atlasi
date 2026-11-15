@@ -57,10 +57,20 @@ export function hashSeed(s: string) {
   return h >>> 0;
 }
 
-/** Collocations are stored as "english｜中文". */
+/** Collocations are stored as "english|turkish" (a full-width bar is accepted too). */
 export const splitPair = (s: string) => {
-  const [en, zh] = s.split(/[｜|]/);
-  return { en: (en || "").trim(), zh: (zh || "").trim() };
+  const [en, tr] = s.split(/[\uFF5C|]/);
+  return { en: (en || "").trim(), tr: (tr || "").trim() };
 };
 
-export const plural = (n: number) => n.toLocaleString("en-US");
+/** Turkish-aware lowercase ("I" -> "ı", "İ" -> "i"). Use for Turkish text only, never for English headwords. */
+export const lowerTr = (s: string) => s.toLocaleLowerCase("tr-TR");
+
+/** Lowercase Turkish text and drop diacritics so "kütüphane", "Kütüphane" and "kutuphane" all compare equal. */
+export const foldTr = (s: string) =>
+  lowerTr(s)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\u0131/g, "i");
+
+export const plural = (n: number) => n.toLocaleString("tr-TR");

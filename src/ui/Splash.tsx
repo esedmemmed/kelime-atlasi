@@ -40,8 +40,10 @@ interface P {
 
 const ease = (t: number) => 1 - Math.pow(1 - Math.min(1, Math.max(0, t)), 3);
 
-/** Sample bright pixels of the logo, the Chinese name and the wordmark as particle targets. */
+/** Sample bright pixels of the logo, and the wordmark as particle targets. */
 function targets(w: number, h: number, count: number) {
+  // A hidden tab or a collapsed layout can report a 0x0 viewport; getImageData would throw IndexSizeError.
+  if (!(w >= 1) || !(h >= 1)) return { pts: [] as [number, number][], cy: 0, wordTop: 0 };
   const c = document.createElement("canvas");
   c.width = w;
   c.height = h;
@@ -109,6 +111,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
     const dpr = Math.min(2, window.devicePixelRatio || 1);
     const w = window.innerWidth;
     const h = window.innerHeight;
+    if (w < 1 || h < 1) return; // nothing to draw yet; the splash still becomes ready via the timer
     cv.width = w * dpr;
     cv.height = h * dpr;
     const g = cv.getContext("2d")!;
