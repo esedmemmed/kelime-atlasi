@@ -27,6 +27,14 @@ The goal is a full Turkish–English version of Word Atlas (词光) for Turkish 
 - **Translation:** `scripts/tr/translate_tr.py` with `--model claude-haiku-5-5`. You run it with your own `ANTHROPIC_API_KEY` in your terminal; the key never goes into chat or files.
 - **Voice clips:** Turkish versions made with edge-tts (a Microsoft tr-TR neural voice), free and with no key.
 
+## Status
+
+- **Phase 0 done (2026-11-15).** Repo: https://github.com/esedmemmed/kelime-atlasi (full original history, plus one Turkish commit). Live: https://esedmemmed.github.io/kelime-atlasi/ (300 words). Remotes: `origin` is kelime-atlasi; `upstream` is esedmemmed/word-atlas, the unchanged fork.
+- Phase 4 additions found in the live check:
+  - `Splash.tsx` `targets()` calls `getImageData` on a 0-width canvas when the page loads in a hidden or 0-size viewport. Guard it with `w,h > 0`.
+  - The app requests `sw.js`, which the Pages workflow deletes, so it gets a 404. Skip service-worker registration when the file is absent, or keep the file.
+  - `README-TR.md` still has the old "unzip over the original" instructions. Fix these in Phase 6.
+
 ## 2. Approach
 
 1. **Repository.** Start from a full clone of the original, with its history and attribution. Commit the local overlay on top, then push to the repo you choose (see the decisions below). Work happens on a branch and is merged to `main` at the end.
