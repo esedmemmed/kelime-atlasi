@@ -2432,6 +2432,7 @@ code {
   inset: -10px;
   border-radius: 50%;
   border: 1.5px solid var(--line-strong);
+  pointer-events: none;
   animation: orbit 2.4s var(--ease) infinite;
 }
 @keyframes orbit {
@@ -2979,6 +2980,11 @@ code {
   50% {
     box-shadow: -2px 0 0 transparent;
   }
+}
+.typing-zh .link {
+  /* sit above the invisible full-stage input so clicks reach the button */
+  position: relative;
+  z-index: 1;
 }
 .typing-input {
   position: absolute;

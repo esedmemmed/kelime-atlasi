@@ -212,7 +212,14 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
         {mode !== "word" && (
           <p className="typing-zh">
             {mode === "dictation" && (
-              <button className="link" onClick={() => play(atlas.audio(e, "ex"), e.ex[0].en, settings.accent)}>
+              <button
+                className="link"
+                onMouseDown={(ev) => ev.preventDefault()}
+                onClick={() => {
+                  void play(atlas.audio(e, "ex"), e.ex[0].en, settings.accent);
+                  input.current?.focus();
+                }}
+              >
                 Tekrar dinle
               </button>
             )}
