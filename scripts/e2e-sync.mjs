@@ -10,8 +10,10 @@ import { chromium } from "playwright";
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const worker = join(root, "sync-worker");
 const EDGE = process.env.EDGE_PATH || "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
-const API = "http://localhost:8787";
-const APP = "http://localhost:5199";
+// Set E2E_APP and E2E_API to test a deployed site and worker instead of starting local servers.
+const LIVE = !!process.env.E2E_APP;
+const API = process.env.E2E_API || "http://localhost:8787";
+const APP = (process.env.E2E_APP || "http://localhost:5199").replace(/\/$/, "");
 const SHOTS = join(process.env.TEMP || tmpdir(), "kelime-sync-e2e");
 mkdirSync(SHOTS, { recursive: true });
 
@@ -104,14 +106,18 @@ let browser;
 let failed = false;
 try {
   const env = { ...process.env, WRANGLER_SEND_METRICS: "false", CI: "1", NO_COLOR: "1" };
-  console.log("Starting worker and app...");
-  const schema = spawnSync("npm run db:local", { cwd: worker, env, shell: true, encoding: "utf8" });
-  if (schema.status !== 0) throw new Error(`db:local failed:\n${schema.stdout}\n${schema.stderr}`);
-  const w = spawn(process.execPath, [join(worker, "node_modules", "wrangler", "bin", "wrangler.js"), "dev", "--local", "--port", "8787"], { cwd: worker, env, stdio: "ignore" });
-  children.push(w);
-  const v = spawn(process.execPath, [join(root, "node_modules", "vite", "bin", "vite.js"), "--port", "5199", "--strictPort"], { cwd: root, env: { ...process.env, VITE_SYNC_URL: API }, stdio: "ignore" });
-  children.push(v);
-  await Promise.all([waitFor(`${API}/v1/health`, "worker", w), waitFor(APP, "vite", v)]);
+  if (LIVE) {
+    console.log(`Testing deployed site ${APP} against ${API}...`);
+  } else {
+    console.log("Starting worker and app...");
+    const schema = spawnSync("npm run db:local", { cwd: worker, env, shell: true, encoding: "utf8" });
+    if (schema.status !== 0) throw new Error(`db:local failed:\n${schema.stdout}\n${schema.stderr}`);
+    const w = spawn(process.execPath, [join(worker, "node_modules", "wrangler", "bin", "wrangler.js"), "dev", "--local", "--port", "8787"], { cwd: worker, env, stdio: "ignore" });
+    children.push(w);
+    const v = spawn(process.execPath, [join(root, "node_modules", "vite", "bin", "vite.js"), "--port", "5199", "--strictPort"], { cwd: root, env: { ...process.env, VITE_SYNC_URL: API }, stdio: "ignore" });
+    children.push(v);
+    await Promise.all([waitFor(`${API}/v1/health`, "worker", w), waitFor(APP, "vite", v)]);
+  }
 
   browser = await chromium.launch({ executablePath: EDGE, headless: true });
   const ctxA = await browser.newContext({ viewport: { width: 1100, height: 900 }, locale: "tr-TR", permissions: ["clipboard-read", "clipboard-write"] });
