@@ -19,7 +19,7 @@
 
 ---
 
-Kelime Atlası helps Turkish speakers learn English IELTS vocabulary. Every word comes with a picture, Turkish meanings, two examples, collocations and a pronunciation you can hear in UK or US English. You practise active recall and come back to words on an FSRS spaced-repetition schedule. It is free, needs no account, works on a phone, and keeps your progress on your device.
+Kelime Atlası helps Turkish speakers learn English IELTS vocabulary. Every word comes with a picture, Turkish meanings, two examples, collocations and a pronunciation you can hear in UK or US English. You practise active recall and come back to words on an FSRS spaced-repetition schedule. It is free, needs no account, works on a phone, and keeps your progress on your device. If you want, a QR code links your phone and computer with end-to-end encrypted sync.
 
 This is the Turkish edition of [Word Atlas](https://github.com/designfuchen/word-atlas) by designfuchen. The whole interface and all learning text are in Turkish. The English content, illustrations and UK/US audio come from the original project.
 

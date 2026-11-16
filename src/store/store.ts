@@ -39,7 +39,12 @@ export interface Progress {
   datasetId: string;
   cards: Record<string, CardState>;
   bookmarks: string[];
+  /** Word id -> last toggle time. Positive = bookmarked at that time, negative = removed at that time. Legacy bookmarks count as time 1. */
+  bookmarkTimes: Record<string, number>;
+  /** This device's own daily stats; all writes go here. */
   days: Record<string, DayStat>;
+  /** Daily stats of the other synced devices, by device id (read-only on this device). */
+  otherDays: Record<string, Record<string, DayStat>>;
   typing: TypingRound[];
   session: ActiveSession | null;
   /** Rolling list of recent mistakes, newest first. */
@@ -83,7 +88,9 @@ export const emptyProgress = (datasetId: string): Progress => ({
   datasetId,
   cards: {},
   bookmarks: [],
+  bookmarkTimes: {},
   days: {},
+  otherDays: {},
   typing: [],
   session: null,
   mistakes: [],
@@ -134,16 +141,28 @@ function validCard(v: unknown): v is CardState {
   );
 }
 
+export function sanitizeDays(v: unknown): Record<string, DayStat> {
+  const out: Record<string, DayStat> = {};
+  if (isObj(v))
+    for (const [k, d] of Object.entries(v))
+      if (/^\d{4}-\d{2}-\d{2}$/.test(k) && isObj(d) && num(d.n, 0) && num(d.r, 0) && num(d.c, 0) && num(d.t, 0))
+        out[k] = { n: d.n as number, r: d.r as number, c: d.c as number, t: d.t as number };
+  return out;
+}
+
 export function sanitizeProgress(v: unknown, datasetId: string): Progress {
   const out = emptyProgress(datasetId);
   if (!isObj(v) || v.version !== 2) return out;
   if (isObj(v.cards)) for (const [k, c] of Object.entries(v.cards)) if (validCard(c)) out.cards[k] = c;
   if (Array.isArray(v.bookmarks)) out.bookmarks = v.bookmarks.filter((x): x is string => typeof x === "string").slice(0, 20000);
   if (Array.isArray(v.mistakes)) out.mistakes = v.mistakes.filter((x): x is string => typeof x === "string").slice(0, 300);
-  if (isObj(v.days))
-    for (const [k, d] of Object.entries(v.days))
-      if (/^\d{4}-\d{2}-\d{2}$/.test(k) && isObj(d) && num(d.n, 0) && num(d.r, 0) && num(d.c, 0) && num(d.t, 0))
-        out.days[k] = { n: d.n as number, r: d.r as number, c: d.c as number, t: d.t as number };
+  if (isObj(v.bookmarkTimes))
+    for (const [k, t] of Object.entries(v.bookmarkTimes)) if (typeof t === "number" && Number.isFinite(t) && t !== 0) out.bookmarkTimes[k] = t;
+  // Legacy bookmarks (no recorded time) count as time 1.
+  for (const id of out.bookmarks) if (!(id in out.bookmarkTimes)) out.bookmarkTimes[id] = 1;
+  out.days = sanitizeDays(v.days);
+  if (isObj(v.otherDays))
+    for (const [dev, days] of Object.entries(v.otherDays)) if (isObj(days)) out.otherDays[dev] = sanitizeDays(days);
   if (Array.isArray(v.typing))
     out.typing = v.typing
       .filter(
@@ -190,6 +209,14 @@ let state: State = {
   saveError: false,
 };
 const listeners = new Set<() => void>();
+const localListeners = new Set<() => void>();
+const finishedListeners = new Set<() => void>();
+/** Counts local (non-remote) progress changes; the sync engine compares it to detect unsynced work. */
+let localVersion = 0;
+function localChanged() {
+  localVersion++;
+  localListeners.forEach((l) => l());
+}
 let saveTimer: number | undefined;
 /** Only write when this tab changed something, so idle tabs never clobber newer data. */
 let dirty = false;
@@ -203,11 +230,11 @@ function emit() {
 function scheduleSave() {
   dirty = true;
   window.clearTimeout(saveTimer);
-  saveTimer = window.setTimeout(flush, 250);
+  saveTimer = globalThis.setTimeout(flush, 250) as unknown as number;
 }
 
 export function flush() {
-  window.clearTimeout(saveTimer);
+  globalThis.clearTimeout(saveTimer);
   if (!dirty) return;
   dirty = false;
   const progressOk = loadedId !== state.progress.datasetId || write(progressKey(state.progress.datasetId), state.progress);
@@ -252,6 +279,30 @@ export const store = {
     state = { ...state, progress: fn(state.progress) };
     emit();
     scheduleSave();
+    localChanged();
+  },
+  /** Replace progress with data from another device: emits and saves, but is not a local change. */
+  applyRemote(fn: (p: Progress) => Progress) {
+    const next = fn(state.progress);
+    if (next === state.progress) return;
+    state = { ...state, progress: next };
+    emit();
+    scheduleSave();
+  },
+  /** Number of local changes so far (remote applies excluded). */
+  localVersion: () => localVersion,
+  /** Called after every local progress change (remote applies excluded). */
+  onLocalChange(l: () => void) {
+    localListeners.add(l);
+    return () => localListeners.delete(l);
+  },
+  /** Called once when a learning session reaches its last step. */
+  onSessionFinished(l: () => void) {
+    finishedListeners.add(l);
+    return () => finishedListeners.delete(l);
+  },
+  emitSessionFinished() {
+    finishedListeners.forEach((l) => l());
   },
   settings(patch: Partial<Settings>) {
     state = { ...state, settings: { ...state.settings, ...patch } };
@@ -262,6 +313,19 @@ export const store = {
 
 export function useStore<T>(select: (s: State) => T): T {
   return useSyncExternalStore(store.subscribe, () => select(state), () => select(state));
+}
+
+const sumDay = (a: DayStat | undefined, b: DayStat): DayStat => ({ n: (a?.n ?? 0) + b.n, r: (a?.r ?? 0) + b.r, c: (a?.c ?? 0) + b.c, t: (a?.t ?? 0) + b.t });
+
+let combinedCache: { days: Progress["days"]; other: Progress["otherDays"]; out: Record<string, DayStat> } | null = null;
+/** Own days plus every other device's days, summed field by field. Use this for anything shown as stats. Memoized. */
+export function combinedDays(p: Pick<Progress, "days" | "otherDays">): Record<string, DayStat> {
+  if (combinedCache && combinedCache.days === p.days && combinedCache.other === p.otherDays) return combinedCache.out;
+  const out: Record<string, DayStat> = {};
+  for (const [k, d] of Object.entries(p.days)) out[k] = sumDay(undefined, d);
+  for (const days of Object.values(p.otherDays ?? {})) for (const [k, d] of Object.entries(days)) out[k] = sumDay(out[k], d);
+  combinedCache = { days: p.days, other: p.otherDays, out };
+  return out;
 }
 
 export function bumpDay(p: Progress, patch: Partial<DayStat>): Progress {
@@ -277,10 +341,16 @@ export function bumpDay(p: Progress, patch: Partial<DayStat>): Progress {
 }
 
 export function toggleBookmark(id: string) {
-  store.progress((p) => ({
-    ...p,
-    bookmarks: p.bookmarks.includes(id) ? p.bookmarks.filter((x) => x !== id) : [id, ...p.bookmarks],
-  }));
+  store.progress((p) => {
+    const has = p.bookmarks.includes(id);
+    const prev = Math.abs(p.bookmarkTimes[id] ?? 0);
+    const at = Math.max(Date.now(), prev + 1);
+    return {
+      ...p,
+      bookmarks: has ? p.bookmarks.filter((x) => x !== id) : [id, ...p.bookmarks],
+      bookmarkTimes: { ...p.bookmarkTimes, [id]: has ? -at : at },
+    };
+  });
 }
 
 /* ---------- backup ---------- */
@@ -311,6 +381,7 @@ export function importBackup(text: string): { ok: true; cards: number } | { ok: 
   emit();
   markDirty();
   flush();
+  localChanged();
   return { ok: true, cards: Object.keys(progress.cards).length };
 }
 
@@ -319,4 +390,5 @@ export function resetProgress() {
   emit();
   markDirty();
   flush();
+  localChanged();
 }

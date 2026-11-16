@@ -9,3 +9,7 @@ output/
 .DS_Store
 .playwright-cli/
 *.tsbuildinfo
+
+# sync worker
+sync-worker/node_modules
+sync-worker/.wrangler

@@ -11,7 +11,9 @@ import { Learn } from "./pages/Learn";
 import { Me } from "./pages/Me";
 import { Onboarding } from "./pages/Onboarding";
 import { Practice } from "./pages/Practice";
+import { SyncJoin } from "./pages/SyncJoin";
 import { Today } from "./pages/Today";
+import { useSyncStatus } from "./sync/engine";
 import { cue } from "./lib/sound";
 import { store, useStore } from "./store/store";
 import { EntryView } from "./ui/EntryView";
@@ -95,6 +97,8 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
   const { route, word } = useLocation();
   const onboarded = useStore((s) => s.settings.onboarded);
   const theme = useStore((s) => s.settings.theme);
+  const sync = useSyncStatus();
+  const syncBad = sync.enabled && (sync.error === "server" || sync.error === "removed" || sync.error === "too-large");
   const [palette, setPalette] = useState(false);
   const [splash, setSplash] = useState(shouldShowSplash);
   const focus = route.page === "learn";
@@ -132,6 +136,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
             {NAV.map(({ page, label }) => (
               <a key={page} href={page === "today" ? "#/" : `#/${page}`} className={route.page === page ? "is-on" : ""} aria-current={route.page === page ? "page" : undefined}>
                 {label}
+                {page === "me" && syncBad && <i className="sync-dot is-bad" title="Eşitleme sorunu" />}
               </a>
             ))}
           </nav>
@@ -159,6 +164,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
         {route.page === "practice" && <Practice />}
         {route.page === "me" && <Me privateAvailable={privateAvailable} />}
         {route.page === "about" && <About />}
+        {route.page === "sync" && <SyncJoin key={route.code ?? ""} code={route.code} />}
       </main>
 
       {!focus && (
@@ -180,6 +186,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
             <a key={page} href={page === "today" ? "#/" : `#/${page}`} className={route.page === page ? "is-on" : ""} aria-current={route.page === page ? "page" : undefined}>
               <Icon size={22} strokeWidth={route.page === page ? 2.1 : 1.7} />
               <span>{label}</span>
+              {page === "me" && syncBad && <i className="sync-dot is-bad" title="Eşitleme sorunu" />}
             </a>
           ))}
         </nav>
@@ -187,7 +194,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
 
       <WordSheet id={word} />
       <Palette open={palette} onClose={() => setPalette(false)} />
-      {!onboarded && route.page !== "about" && !splash && <Onboarding />}
+      {!onboarded && route.page !== "about" && route.page !== "sync" && !splash && <Onboarding />}
       {splash && <Splash onDone={() => setSplash(false)} />}
       <Toasts />
       <AmbienceController />

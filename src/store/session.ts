@@ -2,7 +2,7 @@ import type { Atlas, WordRef } from "../atlas/types";
 import { MEDIA } from "../atlas/types";
 import { hashSeed, lowerTr, normalize, shuffle } from "../lib/text";
 import { isMastered, review, Rating, type Grade } from "./srs";
-import { bumpDay, dayKey, store, type ActiveSession, type Progress, type QuizKind, type Settings, type Step } from "./store";
+import { bumpDay, combinedDays, dayKey, store, type ActiveSession, type Progress, type QuizKind, type Settings, type Step } from "./store";
 
 export function dueIds(p: Progress, now = Date.now()) {
   return Object.entries(p.cards)
@@ -12,7 +12,7 @@ export function dueIds(p: Progress, now = Date.now()) {
 }
 
 export function newToday(p: Progress) {
-  return p.days[dayKey()]?.n ?? 0;
+  return combinedDays(p)[dayKey()]?.n ?? 0;
 }
 
 /** Next unseen words along the learning path, starting at the learner's level. */
@@ -150,6 +150,7 @@ export function answer(atlas: Atlas, step: Step & { kind: QuizKind }, correct: b
 
 /** Move to the next step; `seconds` is time spent on this step, capped so idle tabs don't inflate stats. */
 export function advance(seconds: number) {
+  const wasFinished = !!store.get().progress.session?.finished;
   store.progress((p) => {
     const s = p.session;
     if (!s) return p;
@@ -158,6 +159,7 @@ export function advance(seconds: number) {
     const next = bumpDay(p, { t: Math.max(0, Math.min(90, Math.round(seconds))) });
     return { ...next, session: { ...s, index, pending: undefined, finished } };
   });
+  if (!wasFinished && store.get().progress.session?.finished) store.emitSessionFinished();
 }
 
 export function sessionStats(s: ActiveSession) {

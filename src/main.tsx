@@ -3,7 +3,10 @@ import "@fontsource-variable/fraunces/opsz-italic.css";
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App";
+import { startSync } from "./sync/engine";
 import "./styles/app.css";
+
+startSync();
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>

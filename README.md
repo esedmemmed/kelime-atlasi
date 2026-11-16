@@ -17,7 +17,7 @@
 
 ---
 
-Kelime Atlası, İngilizce öğrenen Türkçe konuşanlar için resimli bir IELTS kelime uygulamasıdır. Kelimeleri sahnelerle ve telaffuzla bağlar, aktif hatırlamayla pekiştirir ve FSRS aralıklı tekrarıyla zamanında önünüze getirir. Ücretsizdir, kayıt gerektirmez, telefonda çalışır. İlerlemeniz cihazınızda kalır.
+Kelime Atlası, İngilizce öğrenen Türkçe konuşanlar için resimli bir IELTS kelime uygulamasıdır. Kelimeleri sahnelerle ve telaffuzla bağlar, aktif hatırlamayla pekiştirir ve FSRS aralıklı tekrarıyla zamanında önünüze getirir. Ücretsizdir, kayıt gerektirmez, telefonda çalışır. İlerlemeniz cihazınızda kalır. İsterseniz bir QR koduyla telefonunuz ve bilgisayarınız arasında uçtan uca şifreli olarak eşitlenir.
 
 Bu proje, designfuchen'in açık kaynaklı [Word Atlas](https://github.com/designfuchen/word-atlas) çalışmasının Türkçe baskısıdır. Arayüz ve tüm öğrenme metni Türkçeye çevrildi; İngilizce içerik, resimler ve sesler özgün projeden gelir.
 

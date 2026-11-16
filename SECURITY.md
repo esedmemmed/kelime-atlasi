@@ -2,7 +2,16 @@
 
 ## Where data goes
 
-Kelime Atlası has no accounts, server-side storage, analytics, or tracking. Progress is stored only in the browser's localStorage. It can be exported as a JSON backup from the profile page. When a backup is imported, every field is validated, and malformed data is discarded.
+Kelime Atlası has no accounts, analytics, or tracking. Progress is stored in the browser's localStorage. It can be exported as a JSON backup from the profile page. When a backup is imported, every field is validated, and malformed data is discarded.
+
+**Optional cross-device sync** (Profile → "Cihazlarımı eşitle") is off until the learner turns it on, and it is end-to-end encrypted:
+
+- The sync code never leaves the device. The app derives three things from it: a random-looking id, an access token, and an AES-GCM-256 key.
+- The server (a Cloudflare Worker with D1, in `sync-worker/`) stores only the id, a SHA-256 hash of the token, and an encrypted blob. It cannot read progress.
+- The QR code carries the sync code in the URL fragment (`#/sync?c=…`). Browsers never send that part to a server.
+- Data that hasn't been updated for 400 days is deleted automatically. A learner can delete their sync data at any time from the profile page.
+
+See [docs/sync.md](docs/sync.md) for the full design.
 
 ## Credentials
 

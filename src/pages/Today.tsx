@@ -1,12 +1,13 @@
 import { ArrowRight, Flame, Keyboard, Sparkles } from "lucide-react";
-import { useEffect, useMemo } from "react";
+import { useEffect, useMemo, useRef } from "react";
 import { prefetch, useAtlas, useEntry } from "../atlas/context";
 import { go, openWord } from "../lib/router";
 import { cue } from "../lib/sound";
 import { hashSeed } from "../lib/text";
 import { buildSession, masteredCount, todayPlan } from "../store/session";
 import { isMastered } from "../store/srs";
-import { dayKey, store, useStore } from "../store/store";
+import { combinedDays, dayKey, store, useStore } from "../store/store";
+import { pullBeforeSession } from "../sync/engine";
 import { Galaxy } from "../galaxy/Galaxy";
 import { Highlight, Pronounce } from "../ui/EntryView";
 import { Illustration } from "../ui/Illustration";
@@ -46,28 +47,40 @@ export function Today() {
     return () => window.clearTimeout(t);
   }, [atlas, firstIds]);
   const now = new Date();
-  const today = progress.days[dayKey()];
-  const streak = streakOf(progress.days);
+  const days = combinedDays(progress);
+  const today = days[dayKey()];
+  const streak = streakOf(days);
   const active = progress.session && !progress.session.finished ? progress.session : null;
   const total = plan.due.length + plan.fresh.length;
   const goal = settings.dailyNew + Math.min(plan.due.length, 60);
   const doneToday = today?.r ?? 0;
 
-  const start = (opts?: { reviewOnly?: boolean; extra?: number }) => {
-    if (!active) {
-      const s = buildSession(atlas, progress, opts?.extra ? { ...settings, dailyNew: (today?.n ?? 0) + opts.extra } : settings, { reviewOnly: opts?.reviewOnly });
-      if (!s.steps.length) return;
-      store.progress((p) => ({ ...p, session: s }));
+  const starting = useRef(false);
+  const start = async (opts?: { reviewOnly?: boolean; extra?: number }) => {
+    if (starting.current) return;
+    starting.current = true;
+    try {
+      // Pick up progress from other devices first, but never keep the learner waiting for long.
+      if (!active) await Promise.race([pullBeforeSession().catch(() => null), new Promise((r) => setTimeout(r, 1500))]);
+      const { progress: p0, settings: s0 } = store.get();
+      if (!p0.session || p0.session.finished) {
+        const t = combinedDays(p0)[dayKey()];
+        const s = buildSession(atlas, p0, opts?.extra ? { ...s0, dailyNew: (t?.n ?? 0) + opts.extra } : s0, { reviewOnly: opts?.reviewOnly });
+        if (!s.steps.length) return;
+        store.progress((p) => ({ ...p, session: s }));
+      }
+      if (s0.sfx) void cue("start");
+      go({ page: "learn" });
+    } finally {
+      starting.current = false;
     }
-    if (settings.sfx) void cue("start");
-    go({ page: "learn" });
   };
 
   const week = Array.from({ length: 7 }, (_, i) => {
     const d = new Date();
     d.setDate(d.getDate() - (6 - i));
     const k = dayKey(d);
-    return { k, label: ["Pz", "Pt", "Sa", "Ça", "Pe", "Cu", "Ct"][d.getDay()], v: progress.days[k]?.r ?? 0, today: i === 6 };
+    return { k, label: ["Pz", "Pt", "Sa", "Ça", "Pe", "Cu", "Ct"][d.getDay()], v: days[k]?.r ?? 0, today: i === 6 };
   });
 
   const learned = Object.keys(progress.cards).length;
@@ -200,7 +213,7 @@ export function Today() {
 }
 
 function GalaxyPanel({ learned, total }: { learned: number; total: number }) {
-  const today = useStore((s) => s.progress.days[dayKey()]);
+  const today = useStore((s) => combinedDays(s.progress)[dayKey()]);
   const ids = useStore((s) => s.progress.cards);
   const todayIds = useMemo(() => {
     const start = new Date();

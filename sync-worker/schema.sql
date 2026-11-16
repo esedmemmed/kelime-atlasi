@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS sync (
+  id TEXT PRIMARY KEY,
+  auth_hash TEXT NOT NULL,
+  rev INTEGER NOT NULL,
+  data TEXT NOT NULL,
+  created INTEGER NOT NULL,
+  updated INTEGER NOT NULL
+);
+CREATE INDEX IF NOT EXISTS sync_updated ON sync(updated);

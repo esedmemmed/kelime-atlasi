@@ -11,11 +11,14 @@
     "check:atlas": "node scripts/check-atlas.mjs",
     "build:atlas": "python3 scripts/atlas/build_atlas.py",
     "render:cards": "node scripts/render-cards.mjs",
-    "format": "prettier --write src vite.config.ts scripts/*.mjs package.json tsconfig.json"
+    "format": "prettier --write src vite.config.ts scripts/*.mjs package.json tsconfig.json",
+    "test:e2e-sync": "node scripts/e2e-sync.mjs"
   },
   "dependencies": {
     "@fontsource-variable/fraunces": "^5.3.0",
+    "@types/qrcode": "^1.5.6",
     "lucide-react": "^0.468.0",
+    "qrcode": "^1.5.4",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "ts-fsrs": "^5.4.2"

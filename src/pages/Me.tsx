@@ -2,7 +2,8 @@ import { Download, RotateCcw, Upload } from "lucide-react";
 import { useMemo, useRef } from "react";
 import { useAtlas } from "../atlas/context";
 import { isMastered } from "../store/srs";
-import { dayKey, exportBackup, importBackup, resetProgress, store, useStore, type Settings } from "../store/store";
+import { combinedDays, dayKey, exportBackup, importBackup, resetProgress, store, useStore, type Settings } from "../store/store";
+import { SyncPanel } from "../ui/SyncPanel";
 import { toast } from "../ui/Toast";
 import { streakOf } from "./Today";
 
@@ -13,9 +14,10 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
   const saveError = useStore((s) => s.saveError);
   const file = useRef<HTMLInputElement>(null);
 
+  const allDays = combinedDays(progress);
   const stats = useMemo(() => {
     const cards = Object.values(progress.cards);
-    const days = Object.values(progress.days);
+    const days = Object.values(allDays);
     const r = days.reduce((n, d) => n + d.r, 0);
     const c = days.reduce((n, d) => n + d.c, 0);
     const t = days.reduce((n, d) => n + d.t, 0);
@@ -30,7 +32,7 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
     });
     void now;
     return { learned: cards.length, mastered: cards.filter(isMastered).length, reviews: r, accuracy: r ? Math.round((c / r) * 100) : 0, minutes: Math.round(t / 60), forecast };
-  }, [progress]);
+  }, [progress, allDays]);
 
   const set = (patch: Partial<Settings>) => store.settings(patch);
   const download = () => {
@@ -59,7 +61,7 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
         <div>
           <dt>Seri</dt>
           <dd>
-            {streakOf(progress.days)}
+            {streakOf(allDays)}
             <small>gün</small>
           </dd>
         </div>
@@ -90,7 +92,7 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
       <div className="me-grid">
         <section className="panel">
           <h3 className="eyebrow">Son 20 hafta</h3>
-          <Heatmap days={progress.days} />
+          <Heatmap days={allDays} />
           <p className="muted">Her kare bir gün; renk koyulaştıkça o gün daha çok soru cevaplanmış. «Kalıcı», hafıza dayanıklılığı 21 günü aşan kelimeler demektir.</p>
         </section>
 
@@ -178,6 +180,8 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
             </Field>
           )}
         </section>
+
+        <SyncPanel />
 
         <section className="panel">
           <h3 className="eyebrow">Veriler</h3>
