@@ -1,8 +1,9 @@
-import { Check, Copy, QrCode, RefreshCw, Smartphone } from "lucide-react";
+import { Check, Copy, QrCode, RefreshCw } from "lucide-react";
 import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
 import { SYNC_URL } from "../config";
 import { go } from "../lib/router";
+import { joinLinkFor } from "../sync/link";
 import { createSync, deleteSyncFromServer, disableSync, joinSync, syncNow, useSyncStatus, type SyncError } from "../sync/engine";
 import { Sheet } from "./Sheet";
 import { toast } from "./Toast";
@@ -28,7 +29,7 @@ export function relTime(ts: number, now = Date.now()): string {
   return d === 1 ? "dün" : `${d} gün önce`;
 }
 
-export const joinLink = (code: string) => `${location.origin}${import.meta.env.BASE_URL}#/sync?c=${code}`;
+export const joinLink = (code: string) => joinLinkFor(location.href, import.meta.env.BASE_URL, code);
 
 function useTick(ms: number) {
   const [, set] = useState(0);
@@ -41,7 +42,6 @@ function useTick(ms: number) {
 export function SyncPanel() {
   const st = useSyncStatus();
   const [busy, setBusy] = useState(false);
-  const [joining, setJoining] = useState(false);
   const [code, setCode] = useState("");
   const [err, setErr] = useState<string | null>(null);
   const [qr, setQr] = useState(false);
@@ -64,7 +64,6 @@ export function SyncPanel() {
     const r = await joinSync(code);
     setBusy(false);
     if (!r.ok) return fail(r.error);
-    setJoining(false);
     setCode("");
     toast("Bu cihaz eşitlendi ✓", "ok");
   };
@@ -92,17 +91,19 @@ export function SyncPanel() {
         Cihazlarımı eşitle
       </h3>
       {!st.enabled ? (
-        <>
-          <p className="muted">İlerlemeni telefonun ve bilgisayarın arasında otomatik eşitle. Hesap gerekmez; veriler cihazında şifrelenir.</p>
-          <div className="data-actions">
-            <button className="btn btn-primary" onClick={enable} disabled={busy}>
-              <RefreshCw size={18} /> Eşitlemeyi aç
-            </button>
-            <button className="btn btn-ghost" onClick={() => setJoining((v) => !v)} aria-expanded={joining}>
-              <Smartphone size={18} /> Başka cihazdaki kodu gir
-            </button>
+        <div className="sync-off">
+          <div className="sync-part">
+            <h4 className="sync-part-title">Bu cihazda başlat</h4>
+            <p className="muted">İlk cihazın buysa eşitlemeyi aç; sana bir QR ve kod verilir.</p>
+            <div className="data-actions">
+              <button className="btn btn-primary" onClick={enable} disabled={busy}>
+                <RefreshCw size={18} /> Eşitlemeyi aç
+              </button>
+            </div>
           </div>
-          {joining && (
+          <div className="sync-part">
+            <h4 className="sync-part-title">Kodun var mı?</h4>
+            <p className="muted">Başka cihazda eşitlemeyi açtıysan oradaki kodu buraya yaz ya da QR'ı telefon kamerasıyla okut.</p>
             <form
               className="sync-join-form"
               onSubmit={(e) => {
@@ -110,13 +111,13 @@ export function SyncPanel() {
                 if (code.trim() && !busy) void connect();
               }}
             >
-              <input className="sync-input" value={code} onChange={(e) => setCode(e.target.value)} placeholder="river-lamp-green-cloud-4821" aria-label="Eşitleme kodu" autoCapitalize="none" autoCorrect="off" spellCheck={false} autoFocus />
+              <input className="sync-input" value={code} onChange={(e) => setCode(e.target.value)} placeholder="kelime-kelime-kelime-kelime-1234" aria-label="Eşitleme kodu" autoCapitalize="none" autoCorrect="off" spellCheck={false} />
               <button className="btn btn-primary" type="submit" disabled={busy || !code.trim()}>
                 Bağlan
               </button>
             </form>
-          )}
-        </>
+          </div>
+        </div>
       ) : (
         <>
           <p className={`sync-status ${st.error && st.error !== "offline" ? "is-bad" : ""}`} role="status">
@@ -154,6 +155,7 @@ export function SyncPanel() {
 function QrSheet({ open, code, onClose }: { open: boolean; code: string; onClose: () => void }) {
   const [svg, setSvg] = useState("");
   const [copied, setCopied] = useState(false);
+  const [linkCopied, setLinkCopied] = useState(false);
   useEffect(() => {
     if (!open || !code) return;
     let live = true;
@@ -162,15 +164,18 @@ function QrSheet({ open, code, onClose }: { open: boolean; code: string; onClose
       live = false;
     };
   }, [open, code]);
-  const copy = async () => {
+  const link = open && code ? joinLink(code) : "";
+  const copyText = async (text: string, what: "code" | "link") => {
     try {
-      await navigator.clipboard.writeText(code);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 1800);
+      await navigator.clipboard.writeText(text);
+      const set = what === "code" ? setCopied : setLinkCopied;
+      set(true);
+      setTimeout(() => set(false), 1800);
     } catch {
-      toast("Kopyalanamadı; kodu elle yazabilirsin", "warn");
+      toast(what === "code" ? "Kopyalanamadı; kodu elle yazabilirsin" : "Kopyalanamadı; bağlantıyı elle seçip kopyalayabilirsin", "warn");
     }
   };
+  const copy = () => copyText(code, "code");
   return (
     <Sheet open={open} onClose={onClose} label="Başka cihaz ekle" className="sync-sheet">
       <h2 className="sync-sheet-title">Başka cihaz ekle</h2>
@@ -183,7 +188,13 @@ function QrSheet({ open, code, onClose }: { open: boolean; code: string; onClose
           {copied ? <Check size={19} /> : <Copy size={19} />}
         </button>
       </div>
-      <p className="muted sync-hint">Diğer cihazın kamerasıyla QR'ı okut ya da kodu Profil → Cihazlarımı eşitle bölümüne yaz.</p>
+      <p className="muted sync-hint">Diğer cihazda telefon kamerasıyla QR'ı okut ya da Ben → Cihazlarımı eşitle → "Kodun var mı?" kısmına kodu yaz.</p>
+      <p className="sync-link" data-testid="sync-link">
+        {link}
+      </p>
+      <button className="btn btn-ghost sync-link-btn" onClick={() => void copyText(link, "link")}>
+        {linkCopied ? <Check size={18} /> : <Copy size={18} />} Bağlantıyı kopyala
+      </button>
     </Sheet>
   );
 }

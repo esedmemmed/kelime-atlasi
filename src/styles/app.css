@@ -4188,6 +4188,43 @@ a:hover .mark-needle,
   flex-wrap: wrap;
   margin-top: 14px;
 }
+.sync-off {
+  display: grid;
+  gap: 18px;
+}
+.sync-part {
+  display: grid;
+  gap: 4px;
+  justify-items: start;
+}
+.sync-part + .sync-part {
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+.sync-part .muted {
+  margin: 0;
+}
+.sync-part .data-actions {
+  margin-top: 8px;
+}
+.sync-part .sync-join-form {
+  width: 100%;
+  margin-top: 8px;
+}
+.sync-part-title {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+.sync-link {
+  margin: 14px auto 8px;
+  max-width: 100%;
+  font-family: var(--mono);
+  font-size: 11.5px;
+  color: var(--ink-2);
+  word-break: break-all;
+  user-select: all;
+}
 .sync-input {
   flex: 1 1 240px;
   min-width: 0;

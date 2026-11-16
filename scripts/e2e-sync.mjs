@@ -142,10 +142,18 @@ try {
   B.on("dialog", (d) => d.accept());
 
   let code = "";
+  let link = "";
 
   await step("1. A: enable sync from Profile and read the code", async () => {
     await A.goto(`${APP}/#/me`);
     await A.getByRole("heading", { name: "Cihazlarımı eşitle" }).waitFor({ timeout: 30000 });
+    await A.getByText("Kodun var mı?").waitFor();
+    ok((await A.locator(".sync-panel").boundingBox()).y < 500, "sync panel should be near the top of Me");
+    await A.screenshot({ path: join(SHOTS, "off-panel-desktop.png"), clip: await A.locator(".sync-panel").boundingBox() });
+    await A.setViewportSize({ width: 375, height: 812 });
+    await A.locator(".sync-panel").scrollIntoViewIfNeeded();
+    await A.screenshot({ path: join(SHOTS, "off-panel-375.png") });
+    await A.setViewportSize({ width: 1100, height: 900 });
     await A.getByRole("button", { name: "Eşitlemeyi aç" }).click();
     const el = A.getByTestId("sync-code");
     await el.waitFor({ timeout: 15000 });
@@ -154,6 +162,14 @@ try {
     await A.locator(".qr-tile svg").waitFor();
     await A.waitForTimeout(800);
     await A.screenshot({ path: join(SHOTS, "qr-sheet-dark.png") });
+    link = (await A.getByTestId("sync-link").innerText()).trim();
+    ok(link.endsWith(`#/sync?c=${code}`) && link.startsWith(APP), `unexpected link "${link}"`);
+    await A.getByRole("button", { name: "Bağlantıyı kopyala" }).click();
+    ok((await A.evaluate(() => navigator.clipboard.readText())) === link, "copied link should match");
+    await A.setViewportSize({ width: 375, height: 812 });
+    await A.waitForTimeout(500);
+    await A.screenshot({ path: join(SHOTS, "qr-sheet-375.png") });
+    await A.setViewportSize({ width: 1100, height: 900 });
     await A.keyboard.press("Escape");
     await A.getByText("Eşitleme açık").first().waitFor();
     await A.evaluate(() => document.documentElement.setAttribute("data-theme", "light"));
@@ -174,7 +190,7 @@ try {
   });
 
   await step("3. B: open join link, Bağla, sees A's progress and bookmark", async () => {
-    await B.goto(`${APP}/#/sync?c=${code}`);
+    await B.goto(link);
     await B.getByText("Bu cihazı eşitlemeye bağla?").waitFor({ timeout: 30000 });
     await B.screenshot({ path: join(SHOTS, "join-screen.png") });
     await B.getByRole("button", { name: "Bağla", exact: true }).click();
@@ -186,6 +202,24 @@ try {
     await bookmarks(B, [W[3].id], "B has A's bookmark in storage");
     await isBookmarkedInUI(B, W[3]);
     ok((await readLS(B, "word-atlas:settings")).onboarded === true, "settings adopted");
+  });
+
+  await step("3b. C: type the code into 'Kodun var mı?' on Me and press Bağlan", async () => {
+    const ctxC = await browser.newContext({ viewport: { width: 375, height: 812 }, locale: "tr-TR" });
+    await ctxC.addInitScript(() => {
+      if (!localStorage.getItem("word-atlas:settings")) localStorage.setItem("word-atlas:settings", JSON.stringify({ onboarded: true, splash: false, sfx: false, autoplay: false, ambience: "off" }));
+    });
+    const C = await ctxC.newPage();
+    C.on("pageerror", (e) => console.log(`  [C] pageerror: ${e.message}`));
+    await C.goto(`${APP}/#/me`);
+    await C.getByText("Kodun var mı?").waitFor({ timeout: 30000 });
+    await C.getByPlaceholder("kelime-kelime-kelime-kelime-1234").fill(code);
+    await C.getByRole("button", { name: "Bağlan", exact: true }).click();
+    await C.getByText("Bu cihaz eşitlendi ✓").first().waitFor({ timeout: 20000 });
+    await until(C, () => /Eşitleme açık/.test(document.querySelector(".sync-status")?.textContent || ""), null, "C sync on");
+    ok((await learned(C)) === "3", "C should show 3 learned words");
+    await bookmarks(C, [W[3].id], "C has A's bookmark");
+    await ctxC.close();
   });
 
   await step("4. B bookmarks another word, syncs; A syncs and receives it", async () => {

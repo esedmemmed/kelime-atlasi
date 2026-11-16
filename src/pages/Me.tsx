@@ -90,6 +90,8 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
       </section>
 
       <div className="me-grid">
+        <SyncPanel />
+
         <section className="panel">
           <h3 className="eyebrow">Son 20 hafta</h3>
           <Heatmap days={allDays} />
@@ -180,8 +182,6 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
             </Field>
           )}
         </section>
-
-        <SyncPanel />
 
         <section className="panel">
           <h3 className="eyebrow">Veriler</h3>
