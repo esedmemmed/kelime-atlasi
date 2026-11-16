@@ -1,5 +1,5 @@
 /* Kelime Atlası offline cache: app shell and data network-first, hashed assets and media cache-first. */
-const VERSION = "atlas-v2";
+const VERSION = "atlas-v3";
 const SHELL = `${VERSION}-shell`;
 const MEDIA = `${VERSION}-media`;
 
@@ -26,8 +26,10 @@ self.addEventListener("fetch", (event) => {
   if (url.origin !== location.origin) return;
   const isShell = req.mode === "navigate" || url.pathname.endsWith("/index.json") || /\/entries\/\d+\.json$/.test(url.pathname);
   if (isShell) {
+    // Revalidate with the server (cheap 304 when unchanged) so a new deploy is picked up
+    // immediately instead of after the HTTP cache's max-age.
     event.respondWith(
-      fetch(req)
+      fetch(url.href, { cache: "no-cache", credentials: "same-origin" })
         .then((res) => {
           if (res.ok) caches.open(SHELL).then((c) => c.put(req, res.clone()));
           return res;
